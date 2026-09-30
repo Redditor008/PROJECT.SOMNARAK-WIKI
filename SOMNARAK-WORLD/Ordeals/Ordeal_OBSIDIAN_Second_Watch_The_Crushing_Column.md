@@ -21,11 +21,11 @@
 
 ## Formation
 
-Forms when Weight Han reaches Second Watch density. The spheres merge into taller, more structured entities.
+Forms when Weight Han reaches Second Watch density. The spheres merge into taller, more structured entities. First Watch spheres that survive suppression do not disperse — they merge, stacking upward into taller, more structured entities with something like posture. Each merged column carries the weight of a dozen spheres and the patience of settled Han. The columns rise where the spheres rolled thickest, pushing up out of cracked flooring like dark growths. The Second Watch trumpet finds them already standing, already stepping, already cracking the floor with each footfall.
 
 ## Appearance
 
-3-meter-tall dark columns, roughly humanoid in proportion but featureless. They move with slow, deliberate steps that crack the floor with each footfall. Dense, heavy, unstoppable at walking pace.
+3-meter-tall dark columns, roughly humanoid in proportion but featureless. They move with slow, deliberate steps that crack the floor with each footfall. Dense, heavy, unstoppable at walking pace. Roughly humanoid in proportion but featureless — no face, no hands, only the suggestion of shoulders and the certainty of weight. They move with slow, deliberate steps that crack the floor with each footfall, leaving footprints that persist for days in solid Han-crystal, as if the floor remembers being stepped on. Five to eight per event, each 155 HP of patient tonnage. The Clockwork Press (250 HP) marches with them, regular where they are deliberate, pressing the cracked floors flat behind the advance.
 
 ## Behavior
 
@@ -33,18 +33,21 @@ Forms when Weight Han reaches Second Watch density. The spheres merge into talle
 |---|---|---|
 | **Crush Stomp** | Each step deals area physical damage. | All personnel within 2 meters of a footfall take 10–15 Resilience damage and are knocked prone. |
 | **Body Slam** | The column leans forward and falls on a target. | Deals 20–30 Resilience damage. Targets pinned beneath must be freed by teammates. |
+| **Topple** | When the base takes enough damage, the column falls. | Falling columns crush a three-meter line — clear the fall-line before the final blow, then finish it on the ground. |
+
+The fight is a geometry problem: each Crush Stomp deals 10–15 Resilience damage to everything within two meters of the footfall and knocks the survivors prone for the next step. The Body Slam is the finisher — the column leans forward and falls on a chosen target for 20–30 Resilience damage, and pinned targets must be freed by teammates while the column grinds. Work the base from the flanks, count the lean, and when it starts to go, be somewhere else: the Topple crushes a three-meter line, and the line includes anyone slow.
 
 ## Suppression Protocol
 
-Physical force. Moderate HP. Target the base — the column topples when its lower section is damaged enough. Speed-based teams can outmaneuver them easily. Do NOT engage in narrow corridors.
+Physical force. Moderate HP. Target the base — the column topples when its lower section is damaged enough. Speed-based teams can outmaneuver them easily. Do NOT engage in narrow corridors. At 155 HP per column, massed physical force ends each one — but only at the base: the column topples when its lower section is damaged enough, and nothing above the knee-line matters. Speed-based teams can outmaneuver them easily; the columns turn slower than rumor. The Grinding Maw (220 HP) screens the columns’ flanks — peel the screen first, then work the ankles. The Living Avalanche (280 HP) follows the cracked path eating the damage; intercept it before it reaches the engagement or fight on moving rubble. Clear the fall-line before the final blow.
 
 ## Facility Impact
 
-If unsuppressed: march for 90 seconds, cracking corridors. May trigger secondary breaches by damaging containment walls.
+If unsuppressed: march for 90 seconds, cracking corridors. May trigger secondary breaches by damaging containment walls. Ninety seconds of marching cracks corridors along the whole route and may trigger secondary breaches by damaging containment walls — one march cracked a cell partition and the cell’s occupant joined the event. Structural damage compounds fast: each footfall deepens the last one’s cracks. Repair crews bill triple rates for column routes, and the footprints’ persistence means the survey never quite closes. Walk the whole march path afterward with a density-meter; the tonnage settles into the cracks and seeds the next formation.
 
 ## R.D. Response Protocol
 
-Alert Level 2. Level 3+ team. Structural repair crew on standby. Wide corridors preferred for engagement.
+Alert Level 2. Level 3+ team. Structural repair crew on standby. Wide corridors preferred for engagement. Alert Level 2, Level 3+ team, structural repair crew on standby. Wide corridors preferred for engagement — the columns cannot turn in tight spaces, and a column wedged in a narrow passage is a column half-suppressed. Doctrine forbids engaging more than two columns in a corridor under four meters wide.
 
 
 
@@ -94,6 +97,8 @@ Alert Level 2. Level 3+ team. Structural repair crew on standby. Wide corridors 
 - The columns leave footprints that persist for days — deep impressions in solid Han-crystal, as if the floor remembers being stepped on.
 - Spawn count: 5–8 entities per event.
 - Same Color Ordeals do not attack each other; different Colors will fight.
+- Longest-persisting footprints in the archive: one set remained readable in Han-crystal for eleven days and is now preserved under glass.
+- Filed as `ORDEAL-OBSIDIAN-Second-Watch`; the preserved footprints are the only ordeal evidence displayed rather than stored.
 - Ordeal suppression permanently reduces facility Han-Density (unlike Sorrow Entity work, which adds to it).
 
 ## Document Information

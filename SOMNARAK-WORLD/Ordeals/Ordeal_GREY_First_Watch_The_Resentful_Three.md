@@ -21,11 +21,11 @@
 
 ## Formation
 
-Spawned when accumulated Grudge Han reaches the First Watch threshold. The Han forms into armed, hostile humanoids.
+Spawned when accumulated Grudge Han reaches the First Watch threshold. The Han forms into armed, hostile humanoids. Grudge Han pools wherever three people share one grievance — the shift that was cheated together, the squad that was blamed together. The Han forms into armed, hostile humanoids wearing the shape of the wronged: three per cell, grey-skinned, already furious. Cells bud fast at First Watch density, up to a dozen entities per event, each trio convinced it is the only one that matters. The First Watch trumpet does not create their resentment; it merely issues it weapons.
 
 ## Appearance
 
-3 grey-skinned humanoid figures wearing tattered R.D.-style coats, faces fixed in cold fury. Each carries a crude Han-crystal weapon (blade, hammer, chain). They move with military precision.
+3 grey-skinned humanoid figures wearing tattered R.D.-style coats, faces fixed in cold fury. Each carries a crude Han-crystal weapon (blade, hammer, chain). They move with military precision. They wear tattered R.D.-style coats, faces fixed in cold fury, each carrying a crude Han-crystal weapon — blade, hammer, chain — copied from standard M.A.W. gear as if the Grudge Han remembered what hurt it and made its own. The copies are rough but sincere: the blade holds an edge, the hammer swings true, the chain knows throats. Iron Sentinels (150 HP) sometimes march with a cell, regular where the Three are ragged. Count the coats before engaging; a fourth coat means two cells have merged.
 
 ## Behavior
 
@@ -33,18 +33,21 @@ Spawned when accumulated Grudge Han reaches the First Watch threshold. The Han f
 |---|---|---|
 | **Formation** | The three advance in a coordinated pattern — one flanks, one presses, one guards. | Coordinated attacks deal 4–8 Resilience damage per hit. Their formation covers each other's weaknesses. |
 | **Retreat and Press** | When one is wounded, it falls back while the other two press harder. | The formation adapts to losses — two remaining fight more aggressively, one remaining fights defensively. |
+| **Triangle Break** | If one falls, the other two abandon formation and charge. | Uncoordinated but vicious: 6–10 Resilience damage per hit, with no pattern left to read. |
+
+The formation is the whole fight: one flanks, one presses, one guards, and the coordinated attacks land 4–8 Resilience damage per exchange with metronome regularity. Wound one and the drill adapts — the hurt member falls back while the other two press harder, which is why teams that chase the wounded one die to the healthy two. Kill one outright and the Triangle Break begins: no pattern, no mercy, just two furious survivors swinging until they drop. Veterans prefer the Break to the Formation; at least the Break can be dodged.
 
 ## Suppression Protocol
 
-Physical force (combat). Low-moderate HP each. Separate the three — isolated members are significantly weaker. Flanking and speed-based tactics effective. M.A.W. weapons recommended.
+Physical force (combat). Low-moderate HP each. Separate the three — isolated members are significantly weaker. Flanking and speed-based tactics effective. M.A.W. weapons recommended. At 50 HP per entity, massed physical force ends each one fast — the danger is coordination, never durability. Separate the three: isolated members are significantly weaker, losing the flanking bonus and half their nerve. Flanking and speed-based tactics are effective; the formation cannot track what moves faster than its drill. The Fury Hound (120 HP) screens for wounded cells — kill the screen first, then pick the trio apart one by one. Never let two cells merge; six fight like twelve.
 
 ## Facility Impact
 
-If unsuppressed: patrol for 60 seconds, then dissolve. Any personnel they defeated are injured but alive.
+If unsuppressed: patrol for 60 seconds, then dissolve. Any personnel they defeated are injured but alive. Sixty seconds of patrolling costs bruises, broken furniture, and one thoroughly terrorized shift — any personnel they defeat are injured but alive, because the Three punish rather than kill. The Blade Storm (180 HP) follows the patrol route shredding what the trio leaves standing; clear the route’s Han before the Storm arrives or budget for both. Every patrol path must be walked afterward: Grudge Han settles into footprints and seeds the next cell.
 
 ## R.D. Response Protocol
 
-Alert Level 1. Standard combat team with M.A.W. weapons.
+Alert Level 1. Standard combat team with M.A.W. weapons. Alert Level 1, standard combat team with M.A.W. weapons, with orders to separate before engaging — doctrine forbids meeting a formed trio head-on at First Watch grade. A second team stages at the nearest junction in case the cell buds mid-fight, which it has done twice.
 
 
 
@@ -94,6 +97,8 @@ Alert Level 1. Standard combat team with M.A.W. weapons.
 - Their weapons are crude copies of standard R.D. M.A.W. gear — as if the Grudge Han remembered what hurt it and made its own.
 - Spawn count: 8–12 entities per event.
 - Same Color Ordeals do not attack each other; different Colors will fight.
+- Most imitative manifestation in the GREY set: the Three copy R.D. coats, R.D. weapons, and — once, alarmingly — an R.D. password.
+- Filed as `ORDEAL-GREY-First-Watch`; the password incident is redacted from this document and remembered by everyone.
 - Ordeal suppression permanently reduces facility Han-Density (unlike Sorrow Entity work, which adds to it).
 
 ## Document Information

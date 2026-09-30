@@ -13,27 +13,27 @@
 
 ## Formation
 
-Formed where the weight of unpaid labor soaked so deep into the ground that the ground itself grew heavy.
+Formed where the weight of unpaid labor soaked so deep into the ground that the ground itself grew heavy. The mines paid in company scrip and settled in excuses, and every unpaid hour soaked a little deeper into the ground the men stood on. Years of it — decades of it — until the ground itself grew heavy with the weight it was owed. The floor remembers every shift: the Sinking Floor is simply the ground deciding to collect. The Second Watch trumpet found the debt already compounded past paying, and the floor began to take its payment in passersby.
 
 ## Appearance
 
-A section of floor that visibly sags, darkening and growing denser, dragging down whatever stands on it.
+A section of floor that visibly sags, darkening and growing denser, dragging down whatever stands on it. Roughly ten meters across, sagging at the center like a hammock of stone, darkening and growing denser by the minute. Cracks radiate outward in a slow deliberate web; dust trickles upward, impossibly, as the density climbs. The Tar-Pit (220 HP) pools at the sag’s lowest point, thick and patient; Ledger-Men (240 HP, two per spawn) stand at the sag’s rim with their books open, recording each new depression. Do not trust the edges — the sag spreads a hand’s breadth with every crossing.
 
 ## Behavior
 
-It sinks under whatever crosses it, pulling them down by the accumulated weight of years.
+It sinks under whatever crosses it, pulling them down by the accumulated weight of years. Crossing is a negotiation the floor always wins: it sinks under whatever crosses, pulling victims down by the accumulated weight of years — boots first, then resolve, then the rest. The pull strengthens with struggle; the panicked sink three times faster than the calm. Stacked Spines (250 HP) rise from the sag’s depths to brace the sinking, holding victims down while the floor collects; Weight-Leeches (eight to twelve) swarm the rim, fattening on the spilled effort. Walk around, or do not walk at all.
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with moderate-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at Second Watch grade, with bridging crews running planks and Han-rated spans — the only safe crossing is one that never touches the sag. Suppress before it spreads: the sag extends toward vibration, so stampedes feed it and silence starves it. The Living Avalanche (280 HP) circles the sag eating the sloughed edges; engage it at range or it undermines the bridging teams’ anchors. The Grinding Maw (220 HP) hunts the rim — post a guard or lose a bridger.
 
 ## Facility Impact
 
-A moderate-severity OBSIDIAN encounter: localized damage. Contain before the weight pressure cascades.
+A moderate-severity OBSIDIAN encounter: localized damage. Contain before the weight pressure cascades. Localized damage while the sag holds its ten meters: one ruined floor section, one set of cracked support columns, drainage that will never run straight again. Weight pressure cascades if the sag reaches a load-bearing wall — one sag undermined a stairwell and the stairs telescoped three floors. Shore the columns first, bridge second, and re-survey the whole slab before the all-clear; the floor has sunk again under fresh concrete twice.
 
 ## R.D. Response Protocol
 
-Level 3+ with M.A.W.
+Level 3+ with M.A.W. Level 3+ with M.A.W., plus a structural engineer with a density-meter — the sag’s depth is read aloud every fifteen minutes, and the response withdraws in good order if the needle passes the red line. No heroics on sinking ground; the floor keeps what it catches.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 3+ with M.A.W.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary OBSIDIAN Second Watch Ordeal; same color and severity, different manifestation.
+- Deepest single sag on record: four meters at the center before the bridging teams spanned it, with the Tar-Pit still rising.
+- Filed as ORDEAL-OBSIDIAN-Second-II; the mines’ scrip ledgers were finally audited after the third manifestation, and the back-pay filled a vault.
 
 ## Document Information
 

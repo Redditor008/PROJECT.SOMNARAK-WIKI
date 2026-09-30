@@ -21,11 +21,11 @@
 
 ## Formation
 
-Forms when Lament Han reaches Second Watch density. The individual weeping figures of a First Watch Ordeal that were not suppressed harmonize into a coordinated choir.
+Forms when Lament Han reaches Second Watch density. The individual weeping figures of a First Watch Ordeal that were not suppressed harmonize into a coordinated choir. Every Weeping Cluster the First Watch failed to suppress leaves its survivors behind — and survivors remember the harmony. The individual weeping figures that were not suppressed gather at Second Watch density and harmonize into a coordinated choir, five to eight voices strong, each one a graduate of an unfinished fight. The Choir is what happens when the First Watch brief’s warning goes unheeded. The trumpet does not summon it; the backlog does.
 
 ## Appearance
 
-Taller than First Watch figures — adult-sized, translucent blue, mouths open in continuous wailing. They stand in formation, facing inward, as if performing.
+Taller than First Watch figures — adult-sized, translucent blue, mouths open in continuous wailing. They stand in formation, facing inward, as if performing. Adult-sized and translucent blue, mouths open in continuous wailing, standing in formation facing inward as if performing for an audience at the center that only they can see. The formation is precise — arcs and rows, taller voices behind — and it holds even while drifting down corridors. The Dirge Engine at Greater grade (250 HP) conducts from the formation’s edge, crank turning, keeping a tempo no living musician would survive. The choir’s song has been transcribed: no known melody, but it resembles a lullaby sung backward.
 
 ## Behavior
 
@@ -33,18 +33,21 @@ Taller than First Watch figures — adult-sized, translucent blue, mouths open i
 |---|---|---|
 | **Harmonized Wail** | The choir synchronizes its wailing into a single resonant frequency. | Area Composure drain — all personnel on the floor lose 5–10 Composure per turn. M.A.W. audio shielding partially mitigates. |
 | **Resonant Collapse** | Three or more choir members focus their wail on a single target. | Target loses 15–25 Composure in one turn and may freeze, unable to act, for 1 turn. |
+| **Coda** | As the last member falls, the dying harmony collapses inward. | Collapse backlash: everyone in earshot loses 5–8 Composure at once — finish the last member at range, ears covered, already walking away. |
+
+The Harmonized Wail is the floor-wide pressure: all voices synchronized to a single resonant frequency, draining every listener on the level whether they engage or not. Then comes the Resonant Collapse — three or more members focusing on one target for 15–25 Composure in a single turn, freezing the victim mid-step while the harmony pours in. Split the formation to split the frequency: isolated members cannot hold the resonance, and the area effect dies with the circle. But mind the Coda — the Choir’s last note is its cruelest, and it is always sung at the team that killed it.
 
 ## Suppression Protocol
 
-Physical force. Moderate HP per figure. Destroy the choir members one by one to break the harmony — each destroyed member reduces the area effect. Audio-shielded M.A.W. (δ-grade) recommended for the suppression team.
+Physical force. Moderate HP per figure. Destroy the choir members one by one to break the harmony — each destroyed member reduces the area effect. Audio-shielded M.A.W. (δ-grade) recommended for the suppression team. At 162 HP per figure, physical force ends each one — and each destroyed member audibly weakens the harmony, which is the whole doctrine: destroy the choir members one by one to break the area effect. Audio-shielded M.A.W. recommended, because unshielded teams lose 5+ Composure per turn just standing on the floor. The Weeping Leviathan (220 HP) breaches where the harmony resonates strongest; the Sorrow Fog (280 HP) thickens around unbroken formations. Break the circle before the third verse — nothing that heard the third verse has ever described it.
 
 ## Facility Impact
 
-If unsuppressed: the choir performs for 90 seconds, then dissolves. Personnel with drained Composure report vivid, unwanted grief-memories for days.
+If unsuppressed: the choir performs for 90 seconds, then dissolves. Personnel with drained Composure report vivid, unwanted grief-memories for days. Ninety seconds of performance and then it dissolves — but dissolution is not mercy. Personnel with drained Composure report vivid, unwanted grief-memories for days: funerals they never attended, weeping they never did, backward lullabies in their sleep. The performance deafens Han-vents along its route, and the Lament backlog that fed the Choir remains for the next one. Sweep the floor’s vents after every Choir, and log every listener for a week of follow-up. The song stays in the walls.
 
 ## R.D. Response Protocol
 
-Alert Level 2. Level 3+ team with audio-shielded M.A.W. recommended. Containment Lead notified.
+Alert Level 2. Level 3+ team with audio-shielded M.A.W. recommended. Containment Lead notified. Alert Level 2, Level 3+ team with audio-shielded M.A.W. recommended, Containment Lead notified — the Lead’s standing order commits a counter-choir of trained singers to every deployment, voices raised against the harmony. It works just often enough that nobody has cancelled it.
 
 
 
@@ -94,6 +97,8 @@ Alert Level 2. Level 3+ team with audio-shielded M.A.W. recommended. Containment
 - The choir's 'song' has been transcribed. It matches no known Somnarak melody but resembles a lullaby sung backward.
 - Spawn count: 5–8 entities per event.
 - Same Color Ordeals do not attack each other; different Colors will fight.
+- Only ordeal with a transcribed score: the backward lullaby is filed under seal, and humming it in the facility is a disciplinary offense.
+- Filed as `ORDEAL-BLUE-Second-Watch`; every Choir member was once a Cluster figure the First Watch let burrow — the archive keeps the count.
 - Ordeal suppression permanently reduces facility Han-Density (unlike Sorrow Entity work, which adds to it).
 
 ## Document Information

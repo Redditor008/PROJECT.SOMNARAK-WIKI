@@ -13,27 +13,27 @@
 
 ## Formation
 
-Born when a shelter became a tomb, the ceiling that was meant to protect learning instead to crush.
+Born when a shelter became a tomb, the ceiling that was meant to protect learning instead to crush. It was the deep shelter under the civic hall, rated for anything — and when the ceiling failed during the quake drill, the rating meant nothing. The ceiling that was meant to protect learned instead to crush, and the lesson survived the repairs, the inquiry, and the memorial plaque. Every shelter since has carried a little of that education in its concrete. The Third Watch trumpet lets the ceiling teach what it learned, one room at a time.
 
 ## Appearance
 
-A ceiling section that descends in a slow inexorable press, dense and darkening as it lowers.
+A ceiling section that descends in a slow inexorable press, dense and darkening as it lowers. It begins as an ordinary ceiling panel, perhaps twenty meters square — then the seams darken and it starts its slow inexorable press downward. Dense and darkening as it lowers, the surface sweats stone-dust in a continuous grey rain. Anvil-Bearers (300 HP, two per spawn) stand at the press-zone’s corners like pallbearers; the Gravid Mass (320 HP) swells in the room’s center, rising to meet the descent. Measure the gap every minute; the press never announces its rate.
 
 ## Behavior
 
-It lowers until whatever is beneath is pressed flat, then releases and resets elsewhere.
+It lowers until whatever is beneath is pressed flat, then releases and resets elsewhere. No hurry, no pause, no mercy of mechanics: the press lowers until whatever is beneath is pressed flat, then releases and resets elsewhere — usually the next room sheltering evacuees. Anything caught calibrates the scale: furniture first, then fixtures, then the floor’s opinion of itself. Ribcage Arches (380 HP, two to three per spawn) brace the press-zone’s edges so nothing escapes sideways; Maul-Grubs (ten to fourteen) pour from the fresh cracks to gnaw at rescue lines. The press has never once stopped for a voice.
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with major-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at Third Watch grade, with shoring crews running behind the line — jacks, timbers, and Han-rated pistons, because the only answer to a press is a counter-press. Shore the descent while evacuating beneath it; the press cannot crush what it cannot reach, and it reaches only downward. The Living Avalanche at Elite grade (410 HP) circles the press-zone eating the rubble — engage it at range or it buries the shoring teams in their own work. Never wedge the press; two wedged presses simply pressed the wedges into the floor and continued.
 
 ## Facility Impact
 
-A major-severity OBSIDIAN encounter: widespread structural and personnel threat. Contain before the weight pressure cascades.
+A major-severity OBSIDIAN encounter: widespread structural and personnel threat. Contain before the weight pressure cascades. Widespread structural and personnel threat: every press cycle re-maps the room it visits, and weight pressure cascades through the columns for floors above and below. The Grinding Maw (350 HP) hunts the evacuation routes, drawn by the vibration of running feet — route evacuees in silence and stagger the departures. One press visited eleven rooms in a single manifestation; the wing was condemned afterward, which the shelter’s dead would have called overdue.
 
 ## R.D. Response Protocol
 
-Level 4+, Containment Lead oversight.
+Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight mandatory; the Lead must pre-authorize shoring-timber requisitions from any source, because once the press is descending there is no time to file. Structural engineers outrank wardens inside the press-zone — the ceiling decides, not the roster.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 4+, Containment Lead oversight.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary OBSIDIAN Third Watch Ordeal; same color and severity, different manifestation.
+- Slowest kill in the OBSIDIAN set: one press took forty minutes to close a three-meter gap, with a full team shoring against it the whole way.
+- Filed as ORDEAL-OBSIDIAN-Third-II; every shelter ceiling in the facility is now inspected monthly, and the inspectors are never told why.
 
 ## Document Information
 

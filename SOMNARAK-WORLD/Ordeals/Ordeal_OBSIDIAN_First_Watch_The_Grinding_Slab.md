@@ -13,27 +13,27 @@
 
 ## Formation
 
-Accumulated from the crushed resolve of laborers ground down by quota, the Han compressed into a single flat weight.
+Accumulated from the crushed resolve of laborers ground down by quota, the Han compressed into a single flat weight. The quota rose every quarter and the laborers bent a little further each time, until resolve itself began to flake off like skin. That crushed resolve sank through the floor and compressed — layer upon layer of given-up, of not-today — into a single flat weight the size of a hall floor. The Han did not gather; it sedimented, patient as geology. The First Watch trumpet found the slab already formed and merely gave it permission to slide.
 
 ## Appearance
 
-A featureless dark slab the size of a hall floor, edgeless and impossibly dense, sliding silently across the ground.
+A featureless dark slab the size of a hall floor, edgeless and impossibly dense, sliding silently across the ground. Hall-floor sized, edgeless, impossibly dense — a single plane of dark compressed Han sliding silently across the ground at a slow walking pace. It has no front and no back; every edge is a leading edge. The Press (180 HP, one to two per spawn) walks ahead of it like a herald, and the Slump (160 HP) trails behind, settling into the polished path. Nothing grows, gathers, or lingers where the slab has passed; the floor it leaves is flatter than machined.
 
 ## Behavior
 
-It drifts in a straight line, flattening whatever it passes over; it cannot be lifted, only diverted.
+It drifts in a straight line, flattening whatever it passes over; it cannot be lifted, only diverted. No deviation, no hesitation, no regard: the slab drifts in a straight line, flattening whatever it passes over — furniture, fixtures, the occasional slow reader. It cannot be lifted, only diverted, and diversion means giving it a straighter line than the one it has. Flesh-Boulders (150 HP) roll in its wake eating the flattened leavings; Cinder-Beetles (eight to ten) skitter ahead of the leading edge, fleeing the polish. Do not stand in the line. The line does not stop.
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with minor-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at First Watch grade, Level 2+ personnel, with deflection crews running angled barriers — the slab follows the path of least resistance, so build it a better path. Suppress before it spreads: a slab that crosses a junction can split its line, and two slabs are twice the geometry. The Living Avalanche (180 HP) follows the polished path at a distance; intercept it before it reaches the slab’s wake or the rubble starts moving on its own. Guide, never block.
 
 ## Facility Impact
 
-A minor-severity OBSIDIAN encounter: localized damage. Contain before the weight pressure cascades.
+A minor-severity OBSIDIAN encounter: localized damage. Contain before the weight pressure cascades. Localized damage along one straight corridor: flattened furnishings, polished flooring, one wall with a slab-shaped hole if the deflection failed. Weight pressure cascades if the slab reaches a stairwell — it does not descend so much as erase the concept of steps. Re-furnish from salvage, re-lay the floor paint, and walk the line afterward: the polish hides stress fractures that seed the next event.
 
 ## R.D. Response Protocol
 
-Standard response team, Level 2+ personnel.
+Standard response team, Level 2+ personnel. Standard response team, Level 2+ personnel, with a surveyor carrying chalk and a straightedge — the slab’s line is plotted, extended, and evacuated ahead of the drift, which is the only warning anyone gets.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Standard response team, Level 2+ personnel.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary OBSIDIAN First Watch Ordeal; same color and severity, different manifestation.
+- Straightest manifestation on record: one slab held its line through four rooms and two walls with less than a degree of deviation.
+- Filed as ORDEAL-OBSIDIAN-First-II; the quota schedule that fed it was capped after the inquiry, and slab events from that shop ceased.
 
 ## Document Information
 

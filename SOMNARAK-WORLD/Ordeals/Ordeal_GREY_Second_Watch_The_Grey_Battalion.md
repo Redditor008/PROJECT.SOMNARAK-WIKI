@@ -21,11 +21,11 @@
 
 ## Formation
 
-Forms when Grudge Han reaches Second Watch density. The Resentful Three expand into a full coordinated battalion.
+Forms when Grudge Han reaches Second Watch density. The Resentful Three expand into a full coordinated battalion. The Resentful Three that survive First Watch do not disperse — they recruit. Cell joins cell at Second Watch density, trios interlocking into squads and squads into a full coordinated battalion, eight to twelve strong, drilling in the corridors they once merely haunted. Every member remembers being Three; the Battalion is what the Three always threatened to become. The trumpet finds them already formed, already marching, already past negotiation.
 
 ## Appearance
 
-8–12 grey-skinned humanoids in tight military formation, armed with Han-crystal weapons of varying types (blades, spears, shields). They march, they coordinate, they communicate in silent hand signals. They are the most tactically intelligent Ordeal at this tier.
+8–12 grey-skinned humanoids in tight military formation, armed with Han-crystal weapons of varying types (blades, spears, shields). They march, they coordinate, they communicate in silent hand signals. They are the most tactically intelligent Ordeal at this tier. They march in tight military formation, armed with Han-crystal weapons of varying types — blades, spears, shields — each one a crude copy of R.D. issue, each one sincere. Their hand signals match R.D. standard combat signals exactly; they learned from us, watching through the walls of every drill they ever haunted. The Sergeant stands a head taller at the formation’s heart, and the Iron Sentinels (250 HP) march the flanks like regulars. Count the shields before the spears: the shields tell you the doctrine.
 
 ## Behavior
 
@@ -34,18 +34,21 @@ Forms when Grudge Han reaches Second Watch density. The Resentful Three expand i
 | **Phalanx** | The battalion forms a shield wall and advances. | Personnel facing the shield wall take reduced damage but cannot penetrate. Flanking is required. |
 | **Flanking Maneuver** | Two members break off and circle behind the team. | Flanking members deal 12–18 Resilience damage from behind. The team must split attention. |
 | **The Sergeant** | The largest member (the Sergeant) commands the formation. | When the Sergeant falls, the battalion loses coordination and fights as individuals — significantly weaker. |
+| **Rout** | When the Sergeant falls, coordination shatters all at once. | Survivors fight as individuals — weaker without the drill, but unpredictable and twice as vicious. Finish them fast before they remember the signals. |
+
+The Phalanx is the anvil: shield wall formed, advance steady, personnel facing it taking reduced damage but unable to penetrate — flanking is required, frontal assault is tuition. The Flanking Maneuver is the hammer: two members break off and circle behind for 12–18 Resilience damage from the rear guard’s blind side. And the Sergeant is the mind: the largest member commanding the formation, calling the signals the Battalion stole from us. Kill him first and the Rout begins — but a routed Battalion still outnumbers you, still hates you, and no longer stands still for area weapons.
 
 ## Suppression Protocol
 
-Physical force. Moderate HP each. Kill the Sergeant first to break coordination, then pick off isolated members. Formation-breaking tactics (area weapons, flanking, speed) essential. δ-grade M.A.W. recommended.
+Physical force. Moderate HP each. Kill the Sergeant first to break coordination, then pick off isolated members. Formation-breaking tactics (area weapons, flanking, speed) essential. δ-grade M.A.W. recommended. At 150 HP per entity, physical force ends each one — but order matters more than damage. Kill the Sergeant first to break coordination; without him the Battalion loses its drill and fights as individuals, weaker but vicious. Formation-breaking tactics are mandatory: area weapons to split the shield wall, speed teams to punish the split. The Fury Hound (220 HP) screens the flanks — peel the screen, then flank the flankers. The Blade Storm (280 HP) orbits the formation’s center; never meet the shield wall and the Storm on the same axis.
 
 ## Facility Impact
 
-If unsuppressed: the battalion patrols and engages for 90 seconds, then dissolves. Defeated personnel are injured.
+If unsuppressed: the battalion patrols and engages for 90 seconds, then dissolves. Defeated personnel are injured. Ninety seconds of patrolling and engaging, then it dissolves — but a coordinated ninety seconds costs more than an uncoordinated hour. Defeated personnel are injured, formation-broken, and usually found in the positions the Battalion’s own doctrine says to leave them. The patrol route’s Han stays elevated for a full cycle; sweep the vents or the next Three will muster on the same ground. The hand signals persist longest — responders report seeing them flashed in empty corridors for days.
 
 ## R.D. Response Protocol
 
-Alert Level 2. Level 3+ combat team. δ-grade M.A.W. recommended. Tactical formation training required.
+Alert Level 2. Level 3+ combat team. δ-grade M.A.W. recommended. Tactical formation training required. Alert Level 2, Level 3+ combat team, delta-grade M.A.W. recommended, tactical formation training required — the only Second Watch response that requires drill certification, because an undrilled team facing the Battalion is a lesson, not a deployment. The Sergeant’s head is the objective; everything else is the approach march.
 
 
 
@@ -95,6 +98,8 @@ Alert Level 2. Level 3+ combat team. δ-grade M.A.W. recommended. Tactical forma
 - The battalion's hand signals match R.D. standard combat signals exactly. They learned from us.
 - Spawn count: 5–8 entities per event.
 - Same Color Ordeals do not attack each other; different Colors will fight.
+- Only ordeal that issues orders in R.D. hand signals: three engagements have been misdirected by Battalion signals before the code-words changed.
+- Filed as `ORDEAL-GREY-Second-Watch`; the R.D. signal manual now carries a battalion appendix, and the appendix is classified.
 - Ordeal suppression permanently reduces facility Han-Density (unlike Sorrow Entity work, which adds to it).
 
 ## Document Information

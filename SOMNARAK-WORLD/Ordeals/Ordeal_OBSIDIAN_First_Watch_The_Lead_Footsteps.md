@@ -13,27 +13,27 @@
 
 ## Formation
 
-Born of every foot that ever trudged home too weary to lift, the weight of those steps pooled and walked on.
+Born of every foot that ever trudged home too weary to lift, the weight of those steps pooled and walked on. Every shift ended the same way: a long walk home on legs too weary to lift, each step a small defeat the floor remembered. The weight of those steps — millions of them, over decades — pooled in the corridors like water in footprints, until the pooled weight stood up and walked on. It walks the homeward route still, though the homes are gone. The First Watch trumpet found the Footsteps already mid-journey and simply lit their way.
 
 ## Appearance
 
-A trail of heavy dark footprints that materialize one after another, each pressing a crater into the floor.
+A trail of heavy dark footprints that materialize one after another, each pressing a crater into the floor. Each print materializes one after another from empty air, pressing a crater into the floor with a sound like a distant door slamming. The prints are enormous — twice life-size — and darken as they age, from fresh bruise-purple to old dead black. The Press (180 HP) walks the trail as if it owned the road; the Slump (160 HP) settles into the freshest craters, deepening them. No legs, no body, no walker: only the steps, arriving in sequence, forever.
 
 ## Behavior
 
-The footsteps advance; whatever they step upon is driven down into the ground by pure tonnage.
+The footsteps advance; whatever they step upon is driven down into the ground by pure tonnage. One crater at a time, at marching pace, down the evacuated corridor: whatever the prints step upon is driven down into the ground by pure tonnage. Furniture becomes inlay; fixtures become fossils. Flesh-Boulders (150 HP) roll in the craters’ wake, and Cinder-Beetles (eight to ten) nest in the cooling depressions. The Footsteps never hurry and never rest, and they never step twice in the same place — the trail only ever goes forward, toward a home that no longer exists.
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with minor-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at First Watch grade, Level 2+ personnel — and soft ground, because the Footsteps spend their tonnage fastest on yielding surfaces. Divert the trail onto sand beds, rubble flats, or sacrificial flooring; hard floors transmit the craters deeper. The Grinding Maw (120 HP) follows the sound of the steps — silence the approach route or post a guard. Suppress before it spreads: a trail that reaches a junction forks, and forked Footsteps walk twice as far.
 
 ## Facility Impact
 
-A minor-severity OBSIDIAN encounter: localized damage. Contain before the weight pressure cascades.
+A minor-severity OBSIDIAN encounter: localized damage. Contain before the weight pressure cascades. Localized damage along the trail: cratered flooring, cracked underlayment, one corridor that will never be level again. Weight pressure cascades if the trail crosses a load-bearing seam — the craters compromise footings fast. Fill and re-lay after the all-clear, and walk the trail with a density-meter: the tonnage settles into the substrate and seeds the next walk.
 
 ## R.D. Response Protocol
 
-Standard response team, Level 2+ personnel.
+Standard response team, Level 2+ personnel. Standard response team, Level 2+ personnel, with orders to evacuate ahead of the trail rather than engage it — the Footsteps are out-walked, not out-fought, and the roster has no crater-shaped injuries on record since the rule was written.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Standard response team, Level 2+ personnel.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary OBSIDIAN First Watch Ordeal; same color and severity, different manifestation.
+- Longest single trail on record: two kilometers of craters through service tunnels before the Footsteps reached sand beds and spent themselves.
+- Filed as ORDEAL-OBSIDIAN-First-II; the homeward route the Footsteps walk is now a memorial walkway, and the craters are left unfilled by law.
 
 ## Document Information
 

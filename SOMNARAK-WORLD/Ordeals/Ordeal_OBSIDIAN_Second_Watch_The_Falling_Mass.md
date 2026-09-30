@@ -13,27 +13,27 @@
 
 ## Formation
 
-When a structure collapsed and the city rebuilt over the dead without clearing them, the compressed grief became a thing that falls.
+When a structure collapsed and the city rebuilt over the dead without clearing them, the compressed grief became a thing that falls. The tenement came down in the night and the city laid new foundations over the rubble by spring — over the dead still in it, because clearing them would have meant admitting the count. The compressed grief under the new floors had nowhere to go but up, and it went up angry. What falls now is the collapse itself, recurring: the same weight, the same dead, the same unadmitted count. The Second Watch trumpet gives the buried collapse permission to happen again, somewhere new each time.
 
 ## Appearance
 
-A huge irregular mass of fused matter suspended overhead, dropping without warning and reforming somewhere new.
+A huge irregular mass of fused matter suspended overhead, dropping without warning and reforming somewhere new. Ten meters across at its widest, a fused tangle of masonry, timber, bedding, and bone — a building’s corpse with the residents still in it. It hangs suspended overhead without support, dripping dust in a continuous grey veil, until it drops without warning. After each impact it gathers itself from the crater and climbs — responders swear they hear it counting — then reforms somewhere new. Ledger-Men (240 HP, two per spawn) walk beneath it with their books open, as if auditing the fall.
 
 ## Behavior
 
-It falls, and the impact is total; then it gathers itself and climbs to fall again elsewhere.
+It falls, and the impact is total; then it gathers itself and climbs to fall again elsewhere. No tremor, no creak, no shadow that arrives before the weight: the impact is total, a perfect circle of destruction with the mass sitting in it like an egg in a nest. Then it gathers itself — masonry crawling back up the walls, dust reversing its fall — and climbs to fall again elsewhere. Stacked Spines (250 HP) brace the impact craters, holding the shape of the fall; the Tar-Pit (220 HP) pools in the freshest crater, thick with the dust of the uncounted. Between falls the corridors are safe. Nothing announces the next one.
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with moderate-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at Second Watch grade, with spotters on every overhead — the mass can only be engaged while suspended, and suspension never lasts. Strike it in the air and it shatters early, scattering its weight across a wider, shallower footprint. The Living Avalanche (280 HP) follows the impact route eating the rubble; intercept it before it reaches a fresh crater or the rubble starts moving on its own. Weight-Leeches (eight to twelve) infest the craters within minutes — clear the crater before clearing the corridor. Never shelter under a suspended mass.
 
 ## Facility Impact
 
-A moderate-severity OBSIDIAN encounter: localized damage. Contain before the weight pressure cascades.
+A moderate-severity OBSIDIAN encounter: localized damage. Contain before the weight pressure cascades. Localized damage per fall, but the falls wander: each impact craters one room and cracks the structure for two rooms in every direction. Weight pressure cascades through the columns after the third fall — shoring crews must follow the mass’s route, not precede it. One manifestation fell seven times across four zones before the spotters learned to read the dust-veil’s lean. Re-survey every crater before rebuilding; the dead the city would not count are still down there, and the mass keeps their tally.
 
 ## R.D. Response Protocol
 
-Level 3+ with M.A.W.
+Level 3+ with M.A.W. Level 3+ with M.A.W., with a dedicated overhead watch — two spotters per team whose only duty is staring at ceilings. The watch rotates every twenty minutes; ceiling-staring fatigue has killed spotters’ focus before, and the mass falls on unfocused teams first.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 3+ with M.A.W.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary OBSIDIAN Second Watch Ordeal; same color and severity, different manifestation.
+- Most mobile impactor in the OBSIDIAN set: one mass fell in four different zones in a single manifestation, riding the dust-veil between.
+- Filed as ORDEAL-OBSIDIAN-Second-II; the tenement’s true death count was finally published after the fifth manifestation, and the falls grew gentler.
 
 ## Document Information
 
