@@ -19,7 +19,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 - **V4 tactics-honesty round (rank names, Speed bands, Veil fate)** —
   - Canonicalized rank names repo-wide: Residue (I), Echo (II), Fragment (III), Entity (IV), Sovereign (V); Whisper/Murmur/Wail rank usages retired to a deprecation note in the Entity Codex.
-  - Rewrote the tactical Speed table to attested bands 2–7 (Final Door 2 stationary, Marjuk 4, wardens 5, Frozen Veil 6, Xyan 7); mobile Sovereign Speeds marked unencountered.
+  - Rewrote the tactical Speed table (`SOMNARAK-WORLD/Tactical_Combat_Engine/ACTION_DICE_AND_CLASH_RULES.md`) to attested bands 2–7 (Final Door 2 stationary, Marjuk 4, wardens 5, Frozen Veil 6, Xyan 7); mobile Sovereign Speeds marked unencountered.
   - Separated dossier m/s pursuit ratings from tactical Speed; documented HP 1:1 conversion, part-split rupture, the HP-N/A objective rule, and a provisional Resolve difficulty table.
   - Recorded the Frozen Veil’s destruction in its dossier and marked entity cross-references historical (pre-Dawn logs such as Canto IV unaffected).
 
