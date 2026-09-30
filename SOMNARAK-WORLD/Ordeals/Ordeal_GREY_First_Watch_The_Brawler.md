@@ -21,7 +21,7 @@ A single heavy-set hostile humanoid with scar-calloused fists, always advancing.
 
 ## Behavior
 
-It wades in swinging, and its blows carry the weight of a long-held spite. No guard, no footwork, no retreat: it walks at the nearest target and swings until the target stops moving, then walks at the next. Each blow lands with the weight of a long-held spite — ribs crack in the shape of old pay-chits, witnesses insist. It cannot be taunted away from its chosen target, but it can be kited; it walks, it never runs, and it never swings at anything it hasn’t decided to hate.
+It wades in swinging, and its blows carry the weight of a long-held spite. No guard, no footwork, no retreat: it walks at the nearest target and swings until the target stops moving, then walks at the next. Each blow lands with the weight of a long-held spite — ribs crack in the shape of old pay-chits, witnesses insist. It cannot be taunted away from its chosen target, but it can be kited; it walks, it never runs, and it never swings at anything it hasn’t decided to hate. It always chooses the largest target first, as if size were seniority, and it never switches until the chosen one falls or flees the room entirely.
 
 ## Suppression Protocol
 

@@ -13,27 +13,27 @@
 
 ## Formation
 
-Footsteps that leave not prints but erasures, the ground forgetting it was walked on.
+Footsteps that leave not prints but erasures, the ground forgetting it was walked on. They were first noticed by a surveyor whose own footprints kept vanishing behind her — the ground forgetting it was walked on, one step at a time. The Tracks begin wherever passage goes long unwitnessed: service tunnels, night-shift corridors, the stairs nobody admits to using. Each unremembered footstep teaches the floor to forget a little more, until the forgetting walks on its own. The First Watch trumpet found a trail already three corridors long, going nowhere.
 
 ## Appearance
 
-A trail of blank pale footprints that spread, dissolving colour and edge.
+A trail of blank pale footprints that spread, dissolving colour and edge. Each print is a smooth blank oval, paler than the floor, with no tread, no toe, no weight-pattern — the shape of a footstep with the foot removed. The trail spreads as it goes, prints dissolving colour and edge for a hand’s breadth around each one. The Faded (160 HP, two per spawn) walk the trail’s length as if patrolling it; Dust-Drifts (150 HP) settle into the oldest prints and deepen them. Follow the pallor, not the direction — the trail doubles back on itself constantly.
 
 ## Behavior
 
-Whatever the tracks cross loses its detail, fading toward nothing.
+Whatever the tracks cross loses its detail, fading toward nothing. The Tracks do not hurry and do not stop: whatever they cross loses its detail, fading toward nothing at the pace of the walk. Paint goes first, then texture, then function — a crossed keypad forgets its numbers, a crossed sign forgets its words. Ash-Moths (eight to twelve per swarm) flutter ahead of the trailhead, dusting the path with forgetting; the Ash-Walkers (150 HP) follow behind, treading the fade deeper. Nothing crossed twice has ever recovered its detail.
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with minor-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Void-element M.A.W. at First Watch grade, Level 2+ personnel, with chalk and cameras — re-mark everything the trail touches before the fade sets, because documented detail resists erasure. Suppress before it spreads: the trail branches at junctions, and each branch walks independently. The Geometric Void at Fragment grade (180 HP) sometimes condenses at a trail junction; collapse it before it anchors, or the junction becomes a permanent forgetting-place.
 
 ## Facility Impact
 
-A minor-severity ASHEN encounter: localized damage. Contain before the void pressure cascades.
+A minor-severity ASHEN encounter: localized damage. Contain before the void pressure cascades. Localized damage while the trail stays single: one faded corridor, one set of blank signs, floor paint that will need full re-laying. Void pressure cascades at every branch — a four-branch trail once faded an entire service level’s labeling in a night, and the re-survey took a month. Chalk over every print, photograph every mark, and do not trust memory for anything the trail has crossed.
 
 ## R.D. Response Protocol
 
-Standard response team, Level 2+ personnel.
+Standard response team, Level 2+ personnel. Standard response team, Level 2+ personnel, with a surveyor attached — the Tracks are the only minor ordeal whose response requires cartography, and the surveyors have never forgiven anyone for it.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Standard response team, Level 2+ personnel.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary ASHEN First Watch Ordeal; same color and severity, different manifestation.
+- Slowest-spreading minor ordeal, and the most paperwork per meter: one trail generated four hundred pages of re-survey documentation.
+- Filed as ORDEAL-ASHEN-First-II; the original surveyor’s vanishing footprints are preserved under glass — the floor still refuses to remember them.
 
 ## Document Information
 

@@ -13,27 +13,27 @@
 
 ## Formation
 
-Formed where identity was worn away by routine, detail bleeding out of ordinary faces.
+Formed where identity was worn away by routine, detail bleeding out of ordinary faces. It began on the assembly lines and the endless identical shifts, where the same motions at the same hours wore the workers smooth from the outside in. Routine is a slow eraser: detail bleeding out of ordinary faces a little every day — first the expressions, then the distinctions, then the names the foremen stopped using. The Blanking condensed out of that long wearing-away like fog condensing on cold glass. The First Watch trumpet found it already drifting the night-shift corridors, looking for faces.
 
 ## Appearance
 
-A drifting blur in the shape of a person, its features smudging as you watch.
+A drifting blur in the shape of a person, its features smudging as you watch. Roughly person-sized, roughly person-shaped, and wrong in a way that takes a moment to place — its features smudge as you watch, eyes sliding into cheeks, mouth blurring into chin. It drifts rather than walks, heedless of obstacles, leaving a faint pale wake. The Faded (160 HP, two per spawn) trail it like mourners; Ash-Moths (eight to twelve) orbit the blur, shedding forgetting-dust. Cameras capture it only as a smear; sketches made from life disagree with each other within the hour.
 
 ## Behavior
 
-It passes through, and a little of who you are smudges away with it.
+It passes through, and a little of who you are smudges away with it. It does not attack or chase; it passes through, usually through people, and a little of who you are smudges away with it. Victims lose small things first — a nickname, a scar’s story, the way they take their tea — and only notice when someone asks. The Ash-Walkers (150 HP) follow the Blanking’s path treading the smudge deeper; the Dust-Drift (150 HP) settles where it lingers, preserving the blur like a photograph. One pass is forgettable. Three passes is a stranger.
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with minor-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Void-element M.A.W. at First Watch grade, Level 2+ personnel, with every responder carrying something sharply personal — a letter, a keepsake, an insult memorized verbatim — because strong identity resists smudging. Do not let it pass through the same responder twice; buddy-pairs check each other’s names every ten minutes. The Geometric Void at Fragment grade (180 HP) sometimes condenses where the Blanking lingers — collapse it before it anchors, or the spot becomes a permanent smudging-place.
 
 ## Facility Impact
 
-A minor-severity ASHEN encounter: localized damage. Contain before the void pressure cascades.
+A minor-severity ASHEN encounter: localized damage. Contain before the void pressure cascades. Localized damage while it drifts: one blurred corridor, a shift’s worth of smudged badges, timekeeping that must be reconstructed from pay-chits. Void pressure cascades if the Blanking reaches a muster point — a whole roll-call smudged at once takes weeks to untangle, and two responders were once issued each other’s names for a month. Clear its path, track it with chalk arrows, and re-badge everyone it has touched before they sleep.
 
 ## R.D. Response Protocol
 
-Standard response team, Level 2+ personnel.
+Standard response team, Level 2+ personnel. Standard response team, Level 2+ personnel, with a clerk carrying the shift roster in triplicate — paper remembers what the Blanking takes, and the roster is read aloud at every checkpoint.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Standard response team, Level 2+ personnel.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary ASHEN First Watch Ordeal; same color and severity, different manifestation.
+- Gentlest first contact in the ASHEN set: the Blanking has never injured a body, only biographies — though the archive notes biographies matter.
+- Filed as ORDEAL-ASHEN-First-II; the assembly-line rotation that fed it was broken up, and no Blanking has manifested from that line since.
 
 ## Document Information
 

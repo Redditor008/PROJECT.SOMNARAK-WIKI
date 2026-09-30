@@ -13,27 +13,27 @@
 
 ## Formation
 
-A wall that absorbed the confessions of the grieving for generations, until it learned to mourn aloud.
+A wall that absorbed the confessions of the grieving for generations, until it learned to mourn aloud. It was the wall beside the chapel bench, then the wall behind the counseling door, then the wall of the cell where the grieving waited their turn. Generations of confessions soaked into the plaster — whispered guilt, unsaid goodbyes, the things people tell walls because walls cannot judge. The wall kept all of it, layer upon layer, until it learned the shape of mourning from the inside. The Second Watch trumpet gave it a voice, and it has been sobbing aloud ever since.
 
 ## Appearance
 
-A damp wall surface that runs with tears and emits a low continuous sobbing.
+A damp wall surface that runs with tears and emits a low continuous sobbing. Tears run down it in continuous sheets, welling from the plaster itself rather than any visible source. The low sobbing never pauses — breath hitching in a rhythm too human for masonry — and the damp spreads a meter further along the wall every hour. Mourners (230 HP, two per spawn) stand facing it with their foreheads almost touching the wet plaster; Salt-Blooms (210 HP) crust white at the base where the tears pool and evaporate.
 
 ## Behavior
 
-It sobs, and the sound grinds down the composure of all who must work near it.
+It sobs, and the sound grinds down the composure of all who must work near it. There is no respite shift near the wall: the sobbing grinds down composure the way dripping water hollows stone. Crews assigned within earshot start confessing their own griefs to the plaster within the day — and the wall drinks those too, growing louder. Throat-Knots (250 HP) form in the throats of the longest-exposed, choking off speech until only the wall’s own sobbing can be heard. Rotate listeners every four hours or lose them to the liturgy.
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with moderate-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Do not demolish: three breached walls burst their corridors with stored grief and doubled the sobbing across two zones. Instead, hear it out — Lament-element M.A.W. at Second Watch grade to hold the perimeter while confessors take formal receipt of the wall’s confessions, one grief at a time. The Weeping Leviathan (220 HP) surfaces where the tears pool deepest; keep the floor pumped and it stays theoretical. Seal the room’s acoustics so the sobbing cannot recruit.
 
 ## Facility Impact
 
-A moderate-severity BLUE encounter: localized damage. Contain before the lament pressure cascades.
+A moderate-severity BLUE encounter: localized damage. Contain before the lament pressure cascades. Localized damage while the room holds: one weeping chamber, one sodden corridor, plaster sloughing in sheets. Lament pressure cascades through the ventilation if the sobbing reaches the ducts — crews three floors up have wept without knowing why. Cap the shaft, drain the floor, and re-plaster only after the confessor-corps signs the silence certificate; premature repairs have been wept straight off the wall.
 
 ## R.D. Response Protocol
 
-Level 3+ with M.A.W.
+Level 3+ with M.A.W. Level 3+ with M.A.W., plus a seconded confessor with a bound receipt-book — every grief heard is logged, signed, and filed, and the wall quiets measurably with each entry. Ear protection is mandatory but total blockage forbidden; the wall punishes the unhearing.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 3+ with M.A.W.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary BLUE Second Watch Ordeal; same color and severity, different manifestation.
+- Only BLUE ordeal suppressed by listening rather than force; the confessor-corps’ receipt-books from wall duty fill an entire archive bay.
+- Filed as ORDEAL-BLUE-Second-II; the original chapel-bench wall was decommissioned, dried, and enshrined — it still weeps on anniversaries.
 
 ## Document Information
 

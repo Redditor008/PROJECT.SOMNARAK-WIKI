@@ -21,7 +21,7 @@ A disciplined rank of corroded armed humanoids drilling with mechanical hatred. 
 
 ## Behavior
 
-They form a line and advance, weapons ready, cutting down whatever breaks. The line dresses, the line advances, and whatever breaks before it is cut down without pursuit — the battalion does not chase, it processes. Weapons stay ready through the whole evolution; the Sinew-Bruisers (250 HP) anchor the flanks and pound through shield-walls that try to refuse them. Anything that stands its ground is ground down; anything that routs is ignored, which survivors consistently describe as worse.
+They form a line and advance, weapons ready, cutting down whatever breaks. The line dresses, the line advances, and whatever breaks before it is cut down without pursuit — the battalion does not chase, it processes. Weapons stay ready through the whole evolution; the Sinew-Bruisers (250 HP) anchor the flanks and pound through shield-walls that try to refuse them. Anything that stands its ground is ground down; anything that routs is ignored, which survivors consistently describe as worse. The battalion’s cadence never varies — ninety paces a minute, exactly — and gauge-readers time their approaches to the drumbeat the drums no longer play.
 
 ## Suppression Protocol
 

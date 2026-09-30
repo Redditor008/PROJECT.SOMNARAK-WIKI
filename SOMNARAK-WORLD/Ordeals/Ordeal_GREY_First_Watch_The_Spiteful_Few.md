@@ -21,7 +21,7 @@ Three to five wiry hostile humanoids clutching improvised weapons, snarling. The
 
 ## Behavior
 
-They rush the nearest target, attacking with uncoordinated but genuine fury. No plan survives their first ten seconds: they rush the nearest target all at once, swinging whatever they hold, genuinely furious and genuinely uncoordinated. The fury is real enough to hurt through light kit — the Scar-Golem (150 HP) sometimes rises where their blows land thickest, as if the floor itself took offense. They scatter if the first rush fails, regroup behind cover, and rush again, angrier.
+They rush the nearest target, attacking with uncoordinated but genuine fury. No plan survives their first ten seconds: they rush the nearest target all at once, swinging whatever they hold, genuinely furious and genuinely uncoordinated. The fury is real enough to hurt through light kit — the Scar-Golem (150 HP) sometimes rises where their blows land thickest, as if the floor itself took offense. They scatter if the first rush fails, regroup behind cover, and rush again, angrier. The Few bicker constantly about who leads the next rush, and canny wardens have prolonged the argument with shouted suggestions until backup arrives.
 
 ## Suppression Protocol
 

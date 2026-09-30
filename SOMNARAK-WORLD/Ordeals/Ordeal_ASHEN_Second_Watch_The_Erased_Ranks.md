@@ -13,27 +13,27 @@
 
 ## Formation
 
-Soldiers whose names and faces were stricken from the record, marching still, blank and silent.
+Soldiers whose names and faces were stricken from the record, marching still, blank and silent. They were the redacted company — every name stricken from the rolls, every face razored from the photographs, every commendation pulped. Officially they never served; officially the battle never happened. But stricken soldiers do not stop marching just because the record stops, and the blank spaces in the archive began to muster on their own. They march still, blank and silent, the only formation in the district with perfect discipline and no roster at all.
 
 ## Appearance
 
-A rank of featureless human shapes with smooth skin where faces should be, advancing in unison.
+A rank of featureless human shapes with smooth skin where faces should be, advancing in unison. They advance in unison, spacing exact, step exact, smooth skin stretched where faces should be. No insignia, no buttons, no scars — the record took everything distinguishing, and left only the soldier-shape underneath. The Nameless Soldiers (220 HP, three per spawn) are the Ranks’ own vanguard, indistinguishable from the main body until they strike. The Bleach (200 HP) pools in their footprints, whitening the ground they have already claimed.
 
 ## Behavior
 
-Their blank gaze falls, and the touched feel their own features beginning to smooth.
+Their blank gaze falls, and the touched feel their own features beginning to smooth. They do not break step for anything: their blank gaze falls on whoever stands in the road, and the touched feel their own features beginning to smooth. Faces go first — noses flattening, mouths sealing — then names, then the will to stand aside. The Smoothed (250 HP) anchor the line’s center, fully blank and fully disciplined; Chalk-Worms (eight to twelve) seethe ahead of the advance, powdering the ground white. The Ranks accept no surrender because they no longer recognize persons.
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with moderate-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Do not meet the advance head-on: the Geometric Void (280 HP) marches at the column’s heart and unmakes whatever the Ranks merely smooth. Instead, read them back into the record — Void-element M.A.W. at Second Watch grade to hold the flanks while archivists recite the stricken names from the sealed roll. Every name restored takes a soldier out of the line; the muster-roll is the weapon here. Suppress before it spreads — a doubled column has twice overrun the recitation team.
 
 ## Facility Impact
 
-A moderate-severity ASHEN encounter: localized damage. Contain before the void pressure cascades.
+A moderate-severity ASHEN encounter: localized damage. Contain before the void pressure cascades. Localized damage while the column stays on its road: blanked floors, smoothed checkpoints, sentries who must be re-identified by dental records. Void pressure cascades if the Ranks reach a records office — one column filed itself into the active roster and three living soldiers were stricken by association before the error was caught. Bar the archive doors first, muster the archivists second, and count every face on the way out.
 
 ## R.D. Response Protocol
 
-Level 3+ with M.A.W.
+Level 3+ with M.A.W. Level 3+ with M.A.W., plus a senior archivist carrying the sealed roll under armed escort — the roll is read aloud at the column’s head, and the escort’s standing order is that the reading does not stop for anything.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 3+ with M.A.W.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary ASHEN Second Watch Ordeal; same color and severity, different manifestation.
+- Only ordeal in the archive suppressed by paperwork: the sealed roll’s recitation has ended all four recorded manifestations without a casualty.
+- Filed as ORDEAL-ASHEN-Second-II; the redacted company’s names were quietly restored to the memorial wall, and the archivists report the roll grows lighter.
 
 ## Document Information
 

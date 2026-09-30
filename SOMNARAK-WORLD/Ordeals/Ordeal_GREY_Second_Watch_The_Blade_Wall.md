@@ -21,7 +21,7 @@ A moving wall of welded-together blades and resentment, edges outward. From the 
 
 ## Behavior
 
-It advances as a single grinding surface, and anything it meets is cut. It never charges and never rests: walking pace, endless, grinding forward through whatever stands in its path. Responders note the wall prioritizes armed personnel — drawn weapons seem to call to it — and the Piked march in its wake, three per rank, to finish whatever the surface leaves standing. Anything it meets is cut, then cut again as the mass passes over.
+It advances as a single grinding surface, and anything it meets is cut. It never charges and never rests: walking pace, endless, grinding forward through whatever stands in its path. Responders note the wall prioritizes armed personnel — drawn weapons seem to call to it — and the Piked march in its wake, three per rank, to finish whatever the surface leaves standing. Anything it meets is cut, then cut again as the mass passes over. Flanking teams report the wall’s grinding cadence falters briefly whenever the Blade Storm leaves its orbit to hunt — the only warning the line ever gets.
 
 ## Suppression Protocol
 

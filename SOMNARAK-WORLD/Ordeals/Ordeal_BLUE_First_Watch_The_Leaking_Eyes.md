@@ -13,27 +13,27 @@
 
 ## Formation
 
-Formed from grief too long unwept, the tears gathering until they grew eyes of their own.
+Formed from grief too long unwept, the tears gathering until they grew eyes of their own. The district prided itself on dry eyes — stoicism as civic virtue, tears as administrative failure. But unwept grief does not vanish; it gathers behind the eyes year after year until the pressure needs its own anatomy. The tears gathered until they grew eyes of their own: first one, weeping in a locker room at shift-change, then a cluster, then the wall of them. The First Watch trumpet found the district’s entire unshed backlog staring back.
 
 ## Appearance
 
-A cluster of weeping eyes set in raw membrane, each leaking a steady trickle down the walls.
+A cluster of weeping eyes set in raw membrane, each leaking a steady trickle down the walls. Dozens of eyes set in raw red membrane, lidless, all leaking a steady trickle that runs down the walls in salt-streaks. Each eye tracks movement independently — responders swear the cluster watches them decide what to feel. The Sobbing (170 HP, two per spawn) press their faces to the membrane as if nursing it; Weeping Sacs (150 HP) hang below the cluster, distended with unshed backlog. The trickle never stops; the floor drain runs continuously.
 
 ## Behavior
 
-It weeps, and the salt-burn of its tears eats at the composure of all nearby.
+It weeps, and the salt-burn of its tears eats at the composure of all nearby. Proximity stings first and hollows after: the salt-burn of its tears eats at composure the way brine eats iron. Crews who hold position start weeping in sympathy within minutes — and their tears run uphill, joining the cluster’s supply. The Sorrow Fog (180 HP) condenses thickest around the eyes, hiding how many there really are; Tear-Mites (eight to twelve) dart across the membrane, drinking from the ducts. Look away to work; look back only to aim.
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with minor-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Goggles and grief leave together: Lament-element M.A.W. at First Watch grade, Level 2+ personnel, with sealed eyewear mandatory — unprotected eyes start leaking within the hour and do not stop for days. Suppress before it spreads; the cluster seeds daughter eyes down every wet streak, and each daughter weeps independently. Cauterize the membrane with dry Han after the eyes close, or the backlog re-gathers by next watch.
 
 ## Facility Impact
 
-A minor-severity BLUE encounter: localized damage. Contain before the lament pressure cascades.
+A minor-severity BLUE encounter: localized damage. Contain before the lament pressure cascades. Localized damage while contained to one wall: salt corrosion, ruined paint, a drain that will never run clear again. Lament pressure cascades if the trickle reaches a second room — daughter clusters establish fast and weep in chorus, which doubles the sympathy effect. Quarantine the wet streaks, dry the corridor, and post a watch on the drain for one full cycle; the eyes have returned through plumbing twice.
 
 ## R.D. Response Protocol
 
-Standard response team, Level 2+ personnel.
+Standard response team, Level 2+ personnel. Standard response team, Level 2+ personnel, with an optometrist on the roster — the only ordeal response that requires an eye-doctor, and the rule has saved forty-one responders’ sight to date.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Standard response team, Level 2+ personnel.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary BLUE First Watch Ordeal; same color and severity, different manifestation.
+- Fastest-seeding BLUE First Watch manifestation: daughter eyes establish within twenty minutes of first trickle on an unguarded streak.
+- Filed as ORDEAL-BLUE-First-II; the district’s stoicism ordinance was quietly repealed after the third manifestation, and municipal weeping-rooms were opened.
 
 ## Document Information
 

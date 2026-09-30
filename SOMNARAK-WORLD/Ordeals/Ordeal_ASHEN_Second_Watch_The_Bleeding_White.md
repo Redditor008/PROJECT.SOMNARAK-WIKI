@@ -13,27 +13,27 @@
 
 ## Formation
 
-Where the city whitewashed its crimes, the whiteness itself became hungry.
+Where the city whitewashed its crimes, the whiteness itself became hungry. Every cover-up in the district ended with a coat of whitewash — over the graffiti, over the memorials, over the blood nobody was supposed to mention. Layer upon layer of official white sealed the crimes underneath, and the whiteness itself learned what it was hiding. Whitewash kept over secrets develops a hunger for more surface, and this one found it. The Second Watch trumpet caught the stain already spreading past the last painted wall, looking for new crimes to cover.
 
 ## Appearance
 
-A creeping stain of absolute white that leaches colour and substance from the floor.
+A creeping stain of absolute white that leaches colour and substance from the floor. Not paint-white but absence-white: a creeping stain that leaches colour and substance from the floor as it advances, leaving a surface smooth as paper and blank as a redacted file. Its leading edge bleeds outward in tendrils that test the air like roots testing soil. The Bleach (200 HP) pools at the stain’s heart, thick and patient; Chalk-Worms (eight to twelve per swarm) riddle its margins, grinding pigment to powder. Nothing it covers has ever been repainted — paint slides off the blankness.
 
 ## Behavior
 
-It spreads over a target, and detail bleeds out one layer at a time.
+It spreads over a target, and detail bleeds out one layer at a time. Contact is gradual and irreversible: the whiteness spreads over a target and detail bleeds out one layer at a time — colour first, then texture, then shape, then the memory of what the thing was. Responders describe watching their own gloves go white and forgetting what the gloves were for. The Smoothed (250 HP) rise where the stain pools deepest, already fully blank; Nameless Soldiers (three per spawn, 220 HP) march its perimeter, daring anyone to read their nonexistent insignia.
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with moderate-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Void-element M.A.W. at Second Watch grade, with pigment crews running behind the line — fresh paint, chalk, dye, anything with colour, because documented colour resists the bleed. Do not let the stain reach the records office; one reached archive shelving and blanked forty years of commendations before it was burned out. The Geometric Void (280 HP) anchors the stain’s oldest patch; collapse it first or the stain re-grows from the anchor within the hour. Divert with colour-breaks, contain with fire.
 
 ## Facility Impact
 
-A moderate-severity ASHEN encounter: localized damage. Contain before the void pressure cascades.
+A moderate-severity ASHEN encounter: localized damage. Contain before the void pressure cascades. Localized damage while the stain stays in one zone: blank floors, bleached walls, signage that must be entirely re-cut. Void pressure cascades wherever the stain crosses a threshold — doorways seem to encourage it, as if each new room were a new crime to whitewash. Quarantine crossed rooms for a full day; the blankness has re-surfaced under fresh paint twice, which is why the pigment crews now mix ash into every coat.
 
 ## R.D. Response Protocol
 
-Level 3+ with M.A.W.
+Level 3+ with M.A.W. Level 3+ with M.A.W., plus a municipal painter with a colour-chart — the only moderate response that issues paint rollers as standard kit. The painters have standing orders to recolour everything, including responders, on the way out.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 3+ with M.A.W.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary ASHEN Second Watch Ordeal; same color and severity, different manifestation.
+- Most pigment-intensive suppression on record: one manifestation consumed eleven thousand litres of municipal white before the crews switched to red.
+- Filed as ORDEAL-ASHEN-Second-II; the whitewash ordinance that fed the stain was repealed, and the district now memorializes in full colour by law.
 
 ## Document Information
 

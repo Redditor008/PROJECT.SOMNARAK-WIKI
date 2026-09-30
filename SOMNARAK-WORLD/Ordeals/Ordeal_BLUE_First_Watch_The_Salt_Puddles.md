@@ -13,27 +13,27 @@
 
 ## Formation
 
-Where the city wept in secret and the tears had nowhere to go, they pooled and remembered.
+Where the city wept in secret and the tears had nowhere to go, they pooled and remembered. The district kept its grief behind closed doors — no funerals, no vigils, only pillows and bathroom mirrors — and secret tears have nowhere to drain. They pooled in the low corners: under bunks, behind lockers, along the drainage seams. Pooled tears remember what the weepers tried to forget, which is why the puddles know names. The First Watch trumpet found a dozen quiet pools and gave them all the same idea at once.
 
 ## Appearance
 
-Scattered puddles of still tears that reflect no one, rippling when approached.
+Scattered puddles of still tears that reflect no one, rippling when approached. They lie flat and mirror-still across the floor, but the reflection is wrong — the puddles reflect the room without reflecting anyone standing in it. Approach and the surface ripples from the center outward, though nothing has touched it. The Puddle variant (150 HP) is simply the largest of them grown bold; the Sobbing (170 HP, two per spawn) kneel at the puddles’ edges, refilling them. Do not mistake stillness for emptiness.
 
 ## Behavior
 
-They rise to cling, and the cold borrowed grief seeps up through whoever steps in.
+They rise to cling, and the cold borrowed grief seeps up through whoever steps in. Step in and the cold climbs: borrowed grief seeps up through boots, socks, skin, and settles behind the eyes like someone else’s unshed tears. The puddles rise to cling to ankles and calves, and the longer the contact the more of the sorrow transfers — responders weep for strangers halfway across the district. Tear-Mites (eight to twelve per swarm) skate the surface nipping at cuffs; the Weeping Sacs (150 HP) pulse at the pool margins, swelling with every transferred sob.
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with minor-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mop and pump before blades: Lament-element M.A.W. at First Watch grade, Level 2+ personnel, with a drainage crew running suction lines to blessed cisterns. Suppress before it spreads — linked puddles merge into a sheet, and a sheet can drown a corridor’s morale in minutes. Burn out the Sorrow Fog (180 HP) where it condenses over standing pools; fog plus puddle is how a minor encounter becomes a moderate one.
 
 ## Facility Impact
 
-A minor-severity BLUE encounter: localized damage. Contain before the lament pressure cascades.
+A minor-severity BLUE encounter: localized damage. Contain before the lament pressure cascades. Localized damage while the pools stay separate: slick floors, salt-corroded seams, one permanently tear-stained bunkroom per manifestation. Lament pressure cascades if the pools link — the merged sheet starts reflecting things that are not in the room, and crews who look too long stop answering. Squeegee teams clear the floor to dry concrete and hold it dry for one full hour before the all-clear.
 
 ## R.D. Response Protocol
 
-Standard response team, Level 2+ personnel.
+Standard response team, Level 2+ personnel. Standard response team, Level 2+ personnel, with waterproof boots mandatory and mirrors forbidden — two responders were lost to reflection-gazing before the rule was written. A chaplain on call; borrowed grief needs somewhere licensed to go.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Standard response team, Level 2+ personnel.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary BLUE First Watch Ordeal; same color and severity, different manifestation.
+- Lightest BLUE First Watch roster at the bottom (Tear-Mites, 30 HP) against the Sorrow Fog’s 180 HP at the top.
+- Filed as ORDEAL-BLUE-First-II; drained pool-water is bottled as evidence, and the archive’s shelf of other people’s tears now runs to three hundred vials.
 
 ## Document Information
 

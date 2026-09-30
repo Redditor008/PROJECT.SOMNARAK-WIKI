@@ -13,27 +13,27 @@
 
 ## Formation
 
-Raised from the foundations of a district demolished and built over, the buried anger thrusting back upward.
+Raised from the foundations of a district demolished and built over, the buried anger thrusting back upward. The district was condemned, demolished, and built over within a single year — ten thousand homes compacted into foundation fill, and the fill never forgiven. Buried anger thrusts back upward wherever the new construction sits heaviest: first hairline cracks, then heaving slabs, then the pillar itself. It is not one building’s anger but the whole district’s, compressed under the new floors and pushing back all at once. The Third Watch trumpet sounded from below that day, through six meters of new concrete.
 
 ## Appearance
 
-A massive pillar erupting from below, lifting and crushing everything above it as it rises.
+A massive pillar erupting from below, lifting and crushing everything above it as it rises. Twenty meters of foundation-stone and compacted rubble driving straight up through floors, ceilings, and anything in between. It does not erupt and stop — it keeps rising in grinding lurches, lifting slabs and crushing them against the ceiling in sequence. The Anvil-Bearers (300 HP, two per spawn) walk its perimeter like acolytes; the Gravid Mass (320 HP) bulges at its base, swollen with the pressure of everything buried. Dust hangs so thick around it that the work-lights fail.
 
 ## Behavior
 
-It thrusts up without warning, driving floors and ceilings together around it.
+It thrusts up without warning, driving floors and ceilings together around it. No tremor gives it away — the pillar thrusts up without warning, driving floors and ceilings together around it in a single grinding spasm. Then it waits, sometimes for hours, while crews convince themselves it has finished. Then it thrusts again. Ribcage Arches (380 HP, two to three per spawn) brace its flanks like flying buttresses, and Maul-Grubs (ten to fourteen per swarm) pour from the fresh cracks to gnaw rescue lines. The pillar has no face and no hurry; it is simply taking its district back.
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with major-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at Third Watch grade, with demolition crews forward — the only reliable suppression is counter-demolition, cutting the pillar’s buried foundations faster than it can thrust. Divert is impossible; contain means evacuating the column above and below it for three floors in each direction. The Living Avalanche at Elite grade (410 HP) circles the eruption zone eating the rubble; engage it at range or it will bury the demolition teams in their own work. Never brace the pillar — two braced pillars simply lifted the bracing into the ceiling.
 
 ## Facility Impact
 
-A major-severity OBSIDIAN encounter: widespread structural and personnel threat. Contain before the weight pressure cascades.
+A major-severity OBSIDIAN encounter: widespread structural and personnel threat. Contain before the weight pressure cascades. Widespread structural and personnel threat: every thrust re-maps the floors it crosses, and the weight pressure cascades through load-bearing walls for hundreds of meters. The Grinding Maw (350 HP) hunts the evacuation routes, drawn by the vibration of running feet — route evacuees in silence. One pillar crossed nine floors before Containment Lead oversight arrived; the building was condemned afterward, which the pillar’s district would have appreciated.
 
 ## R.D. Response Protocol
 
-Level 4+, Containment Lead oversight.
+Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight mandatory; the Lead must pre-authorize counter-demolition, because once the pillar is thrusting there is no time to convene. Structural engineers outrank wardens inside the evacuation column — the building decides, not the roster.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 4+, Containment Lead oversight.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary OBSIDIAN Third Watch Ordeal; same color and severity, different manifestation.
+- Tallest ordeal manifestation on record: the third pillar reached twenty-six meters before counter-demolition cut its foundations.
+- Filed as ORDEAL-OBSIDIAN-Third-II; demolished districts now receive a memorial hearing before construction, and pillar events have halved since.
 
 ## Document Information
 

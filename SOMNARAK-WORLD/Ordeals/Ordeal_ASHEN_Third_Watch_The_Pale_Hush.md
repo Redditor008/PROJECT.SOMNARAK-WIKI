@@ -13,27 +13,27 @@
 
 ## Formation
 
-A silence so complete it began to erase the things it silenced.
+A silence so complete it began to erase the things it silenced. It began in the sealed vaults where no sound had ever been permitted — perfect quiet, maintained for decades as a matter of doctrine. But silence kept long enough develops an appetite, and this one learned to erase the things it silenced: first echoes, then footsteps, then the concept of footsteps. By the time the vault seals were checked, the silence had outgrown the vault entirely. The Third Watch trumpet sounded inside it and was never heard.
 
 ## Appearance
 
-A moving zone of total soundless white fog in which nothing can be heard or held.
+A moving zone of total soundless white fog in which nothing can be heard or held. A bank of white fog roughly fifty meters across, drifting at walking pace through whatever lies in its path. Inside it there is no sound at all — not muffled, not distant, but absent, as if hearing itself had been repealed. The Whiteout (300 HP) is the Hush’s heart made visible; Void-Walkers (280 HP, two per spawn) pace its margins like ushers. Instruments lowered into the fog come back blank: dials smooth, needles gone, glass frosted white.
 
 ## Behavior
 
-It envelops, and everything inside loses its edges, its names, its form.
+It envelops, and everything inside loses its edges, its names, its form. It does not chase; it envelops, drifting over positions that fail to move. Everything inside loses its edges first, then its names, then its form — responders pulled out after two minutes could not say their own serial numbers. The Geometric Void (410 HP) rides at the fog’s center, unmaking what the Hush merely silences, while Erasure-Motes (ten to fourteen) drift ahead and thin the outlines of everything in the path. If you cannot hear your own boots, you are already inside.
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with major-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Void-element M.A.W. at Third Watch grade, with every responder on a tether and a buddy-count every five minutes — the Hush takes the uncounted first. Noise is the weapon: sirens, bells, and cadence-drums played at the fog’s edge have stalled its drift three times, because sound is the one thing it must stop to erase. Draw off the Eyeless Hounds (350 HP) before committing crews; burn the Skin-Blizzard (380 HP) out of the flanks. Never enter the fog to retrieve equipment.
 
 ## Facility Impact
 
-A major-severity ASHEN encounter: widespread structural and personnel threat. Contain before the void pressure cascades.
+A major-severity ASHEN encounter: widespread structural and personnel threat. Contain before the void pressure cascades. Widespread structural and personnel threat wherever the fog drifts: signage fades, alarms fall silent, bulkheads forget their numbers and then their purpose. Void pressure cascades through meaning before matter — one passage left a kilometer of corridor perfectly intact and perfectly unnavigable, every label blank, every landmark smoothed. Re-survey everything the fog has touched before crews re-enter; maps drawn from memory are not trusted.
 
 ## R.D. Response Protocol
 
-Level 4+, Containment Lead oversight.
+Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight; the Lead’s standing order commits a full noise-battery — sirens, drums, and one bagpiper — to every Hush deployment. The bagpiper has the highest survival rate on the roster, for reasons the archive declines to theorize about.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 4+, Containment Lead oversight.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary ASHEN Third Watch Ordeal; same color and severity, different manifestation.
+- Quietest major ordeal on record: peak suppression involved forty responders and produced zero audible after-action testimony for the first hour.
+- Filed as ORDEAL-ASHEN-Third-II; the sealed vaults now keep a single wind-chime each, by law, so that no silence may ever complete itself again.
 
 ## Document Information
 
