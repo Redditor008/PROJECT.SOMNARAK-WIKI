@@ -8,8 +8,8 @@
 +=====================================================================+
 | SOVEREIGN ENTITY    : SE-C-V-DELTA-010 THE CONVERGENCE              |
 | ENTITY CLASS        : Rank V Sovereign / Grade Delta Potency        |
-| DOMAIN / SECTOR     : Zone C Aviary Row / Triple-Breach Fusion     |
-| COMBAT ARCHETYPE    : Triune Fusion Sovereign / Gravity Well       |
+| DOMAIN / SECTOR     : Zone C Aviary Row / Triple-Breach Fusion      |
+| COMBAT ARCHETYPE    : Triune Fusion Sovereign / Gravity Well        |
 | SUPERVISING WING    : Reverie Directorate Subterranean Command      |
 | AUTHORIZATION SOP   : SOP-GB-BOSS-004 / SOVEREIGN SUPPRESSION       |
 +=====================================================================+
@@ -113,9 +113,9 @@ The encounter progresses through three distinct, escalating tactical phases tied
 +=====================================================================+
 | PHASE STANCE      | HEART HP     | AP & SPD   | TACTICAL BEHAVIOR   |
 +---------------------------------------------------------------------+
-| Phase 1: Assembly | 100-70% Heart| 3 AP (Spd3)| Debuff & Drag      |
-| Phase 2: Compress | 70-30% Heart | 4 AP (Spd4)| Gravity Surge      |
-| Phase 3: Collapse | 30-0% Heart  | 5 AP (Spd5)| Singularity Burst  |
+| Phase 1: Assembly | 100-70% Heart| 3 AP (Spd3)| Debuff & Drag       |
+| Phase 2: Compress | 70-30% Heart | 4 AP (Spd4)| Gravity Surge       |
+| Phase 3: Collapse | 30-0% Heart  | 5 AP (Spd5)| Singularity Burst   |
 +=====================================================================+
 ```
 
@@ -228,13 +228,13 @@ Upon achieving terminal Composure Meltdown against `SE-C-Vδ-010`, the Reverie D
 
 ```text
 +=====================================================================+
-|             REVERIE EXTRACTION MANIFEST: SE-C-V-DELTA-010            |
+|            REVERIE EXTRACTION MANIFEST: SE-C-V-DELTA-010            |
 +=====================================================================+
 | RECOVERED ARTIFACT  | TYPE   | GRADE | RESONANCE & SPECIAL EFFECT   |
 +---------------------------------------------------------------------+
 | The Singularity Orr.| Weapon | Gr 5  | Gravity Well Drag & Burst    |
 | The Absolute Mantle | Suit   | Gr 5  | High Weight / Void Exposed   |
-| The Absolute Verdict| Stigma   | Gr 5  | Karmic Debt Forced Reckoning |
+| The Absolute Verdict| Stigma   | Gr 5  | Karmic Debt Reckoning      |
 | The Triune Binding  | Relic  | Gr 5  | Triple-Aspect Separation     |
 +=====================================================================+
 ```
