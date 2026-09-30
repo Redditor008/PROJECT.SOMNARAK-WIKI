@@ -14,7 +14,7 @@
 | Ishall (relay)  | Signal Post     | --        | -- (on cradle)      |
 +---------------------------------------------------------------------+
 | DEPTH DRAIN     : None yet (begins below V-1)                       |
-| THREAT          : Remembrance, SE-C-IIIγ-115 (Void, Object/Place)  |
+| THREAT          : Remembrance, SE-C-IIIγ-115 (Void, Object/Place)   |
 +=====================================================================+
 ```
 
