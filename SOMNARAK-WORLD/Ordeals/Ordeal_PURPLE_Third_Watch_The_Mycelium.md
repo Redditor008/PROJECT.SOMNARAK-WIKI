@@ -13,27 +13,27 @@
 
 ## Formation
 
-A vast fungal network that connected every patch of corruption into one mind.
+A vast fungal network that connected every patch of corruption into one mind. Every patch of corruption in the wing was growing alone until the threads found each other under the flooring — root to root, patch to patch, a handshake in the dark. The network connected every patch into one mind: distributed, patient, and suddenly very interested in the warm things walking overhead. No single patch could think; the Mycelium thinks with all of them at once. The Third Watch trumpet did not wake it. It was already awake. It had been listening for weeks.
 
 ## Appearance
 
-A spreading web of fungal thread erupting in fruiting bodies across walls and floor.
+A spreading web of fungal thread erupting in fruiting bodies across walls and floor. Thread everywhere — across walls, under doors, through conduit — erupting in fruiting bodies wherever the sorrow runs thick. The fruiting bodies pulse faintly in unison, a heartbeat with a hundred hearts. The Mycelium variant (310 HP) is the network’s densest knot, sheeting whole rooms; Nest-Bodies (290 HP) root where the thread runs thickest, converting passersby into fertilizer. Cord-Parasites (380 HP) patrol the web’s margins. Cut a thread and two grow back; the web routes around damage the way water routes around stones.
 
 ## Behavior
 
-It fruits, and the spore-storm seeds everyone in the hall at once.
+It fruits, and the spore-storm seeds everyone in the hall at once. Fruiting is synchronized across the whole network: it fruits everywhere at once, and the spore-storm seeds everyone in the hall simultaneously — no dodging a weather event. The storm seeks breath first, then eyes, then any broken skin. The Root Network at Elite grade (410 HP) is the fruiting command; Burrowers (ten to fourteen) erupt from the floor mid-storm to drag down the blinded. Parasite Blooms (350 HP) fruit in the storm’s wake, rooting in the freshly seeded. One fruiting is an event. Two is a colony.
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with major-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mixed-element M.A.W. at Third Watch grade, sealed kit mandatory, with defoliant crews running behind the firing line — every fruiting body must be burned and every thread-line severed, or the network re-grows from the survivors. Target the Root Network nexus first; without coordination the fruiting desynchronizes into manageable patches. Suppress before it spreads: the web extends through conduit and ductwork faster than teams can walk. Map the thread with UV before burning — the network hides runners in the walls.
 
 ## Facility Impact
 
-A major-severity PURPLE encounter: widespread structural and personnel threat. Contain before the mixed pressure cascades.
+A major-severity PURPLE encounter: widespread structural and personnel threat. Contain before the mixed pressure cascades. Widespread structural and personnel threat: thread in the conduit shorts relays, thread in the ducts seeds every room downstream, thread in the walls compromises load paths as it digests the mortar. Mixed pressure cascades wing-wide within hours of first fruiting. Full remediation means opening every wall the web touched — one Mycelium cost the facility eleven kilometers of conduit and three months. Anything still threaded after burning gets burned again; the web learns from incomplete fires.
 
 ## R.D. Response Protocol
 
-Level 4+, Containment Lead oversight.
+Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight; the Lead’s standing order pre-authorizes wall-breaching anywhere the UV survey shows thread, because the web cannot be fought through plaster. Engineers outrank wardens inside a threaded wing — the building is the patient, and surgery cannot wait.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 4+, Containment Lead oversight.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary PURPLE Third Watch Ordeal; same color and severity, different manifestation.
+- Largest single organism in the ordeal archive: one network threaded four floors and was still, technically, one individual.
+- Filed as ORDEAL-PURPLE-Third-II; the UV thread-survey is now standard kit, and the surveyors’ maps hang in the archive like battle charts.
 
 ## Document Information
 

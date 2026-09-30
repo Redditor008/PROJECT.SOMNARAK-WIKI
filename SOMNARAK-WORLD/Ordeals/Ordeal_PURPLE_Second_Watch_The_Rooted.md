@@ -13,27 +13,27 @@
 
 ## Formation
 
-Parasitic growths that rooted in the dead and would not let them lie.
+Parasitic growths that rooted in the dead and would not let them lie. The morgue drawer that would not close. The pauper’s grave dug too shallow. The casualty nobody claimed. Parasitic growths found them all — rooting in the dead where no living hand would disturb them, drinking deep, and refusing, when the trumpet sounded, to let them lie. The dead stand now, or lean, or sprawl upright against walls, animated by the garden growing through them. The Rooted are not the deceased returned. They are the garden wearing the deceased like soil.
 
 ## Appearance
 
-Figures half-plant half-corpse, rooted in place but able to lash out with tendrils.
+Figures half-plant half-corpse, rooted in place but able to lash out with tendrils. Rooted in place where they rose — feet fused to the floor by root-mass — but able to lash out with tendrils ten meters in every direction. Half-plant, half-corpse, and wholly patient: blossoms nodding from eye sockets, fingers sprouting leaves. The Hosts (230 HP, two per spawn) are the fresher dead, still mobile, still almost able to speak; the Rot-Bloom (210 HP) pools beneath the oldest Rooted, digesting what the roots leave. Gut-Blossoms (250 HP) swell on the largest corpses. Do not approach the quiet ones; the quiet ones are listening for footsteps.
 
 ## Behavior
 
- They lash with root-tendrils, and the parasitic growth seeks to root in the living.
+They lash with root-tendrils, and the parasitic growth seeks to root in the living. Ten meters of reach in every direction, striking faster than the eye tracks: they lash with root-tendrils at anything warm that enters the radius. The parasitic growth seeks to root in the living — barbed tendrils punch through kit and skin alike, and every embedded barb sprouts within the hour. The Root Network (280 HP) coordinates the Rooted’s lashing so the radii overlap with no safe gaps; Cord-Larvae (eight to twelve) swarm the wounded, seeking the fresh punctures. The dead do not hurry. The tendrils do not need to.
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with moderate-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mixed-element M.A.W. at Second Watch grade, with pole-crews and flamethrowers — engage from outside the ten-meter radius or not at all. Burn each Rooted where it stands, then dig out the root-mass; unburned roots re-sprout within the day. The Parasite Bloom (220 HP) fruits where burning is delayed. Suppress before it spreads: every living casualty left in the radius rises Rooted by next watch. Tag the dead before the fight, so the garden cannot draft them mid-engagement.
 
 ## Facility Impact
 
-A moderate-severity PURPLE encounter: localized damage. Contain before the mixed pressure cascades.
+A moderate-severity PURPLE encounter: localized damage. Contain before the mixed pressure cascades. Localized damage while the Rooted stay in their ground: one garden of the standing dead, one radius no living patrol will walk. Mixed pressure cascades if the radius reaches a morgue, a chapel, or — once — a crowded muster. Quarantine the radius plus ten meters; the tendrils test the boundary constantly. Post-action, every corpse in the wing is inventoried twice — the garden drafts the uncounted first, and the paperwork is the defense.
 
 ## R.D. Response Protocol
 
-Level 3+ with M.A.W.
+Level 3+ with M.A.W. Level 3+ with M.A.W., plus a mortuary clerk with the casualty register — the register is read aloud at the radius edge, and every name accounted for is one corpse the garden cannot use. The clerk’s standing order is to keep reading until the last Rooted burns.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 3+ with M.A.W.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary PURPLE Second Watch Ordeal; same color and severity, different manifestation.
+- Most unsettling muster in the archive: one radius held fourteen Rooted, and the register showed thirteen missing — the fourteenth was never identified.
+- Filed as ORDEAL-PURPLE-Second-II; unclaimed dead are now interred within the day by law, and the morgue drawer that started it is sealed shut.
 
 ## Document Information
 

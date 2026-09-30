@@ -21,11 +21,11 @@
 
 ## Formation
 
-Spawned when accumulated Void Han reaches the First Watch threshold. The Han forms into silent, erasing presences.
+Spawned when accumulated Void Han reaches the First Watch threshold. The Han forms into silent, erasing presences. Void Han gathers wherever people are routinely overlooked — the night desks, the relay closets, the posts nobody inspects. At the First Watch threshold the Han forms into silent, erasing presences: five to eight figures per manifestation, pale and patient, standing where the overlooked used to stand. They do not arrive; they accumulate, the way dust accumulates, until someone finally looks directly at them. The trumpet finds them already in place.
 
 ## Appearance
 
-5–8 featureless, pale-white humanoid figures, approximately human-sized. Smooth, faceless, motionless until approached. They emit no sound and cast no shadow.
+5–8 featureless, pale-white humanoid figures, approximately human-sized. Smooth, faceless, motionless until approached. They emit no sound and cast no shadow. Approximately human-sized, smooth and faceless, motionless until approached — they emit no sound and cast no shadow, which is how experienced wardens spot them: a person-shaped absence of shadow in a lit corridor. Up to a dozen entities per event at 50 HP apiece, fragile as spun glass. The Erasure Projectors (150 HP) sometimes deploy among them, boxy Machines that extend the figures’ reach; Eyeless Hounds (120 HP) circle the group, herding the curious closer. Mark every figure with chalk before engaging.
 
 ## Behavior
 
@@ -33,18 +33,21 @@ Spawned when accumulated Void Han reaches the First Watch threshold. The Han for
 |---|---|---|
 | **The Touch** | When a personnel member comes within 3 meters, a figure reaches out and touches. | The touched person loses a memory — a name, a face, a skill, a reason to be there. No physical damage. |
 | **Fade** | After touching, the figure becomes slightly more transparent. | Each touch drains the figure as well — after 3–4 touches, it fades entirely on its own. |
+| **Stillness** | Motionless figures are nearly impossible to detect before three meters. | Mark every figure with chalk before engaging — the ones you cannot see are the ones that touch you. Sweep twice; the second sweep always finds one more. |
+
+The Touch is the whole encounter: within 3 meters a figure reaches out, and the touched person loses a memory — a name, a face, a reason — permanently and painlessly, like a tooth coming out clean. But every touch drains the figure as well, and after three to four touches it fades entirely; the Forgotten spend themselves the way candles spend wax. The doctrine writes itself: never pay retail for what range buys wholesale. Stand off, shoot straight, and let the Stillness work against them — chalk every absence-of-shadow in the corridor, then erase the erasers from farther away than they can reach.
 
 ## Suppression Protocol
 
-Physical force. Very low HP — they are fragile. The danger is proximity: destroying them requires getting close enough to be touched. Ranged M.A.W. weapons preferred. Viderehan observation can map their positions from a distance.
+Physical force. Very low HP — they are fragile. The danger is proximity: destroying them requires getting close enough to be touched. Ranged M.A.W. weapons preferred. Viderehan observation can map their positions from a distance. At 50 HP they shatter under any concentrated fire — but destroying them requires getting close enough to be touched, and the Touch takes a memory first. Ranged M.A.W. weapons are therefore mandatory; doctrine forbids approaching within 3 meters for any reason, including rescue. The Geometric Void at Fragment grade (180 HP) anchors the group’s center — collapse it at range or the figures reform from the anchor. Work in pairs with overlapping fields of fire, and count memories, not kills.
 
 ## Facility Impact
 
-If unsuppressed: stand motionless for 90 seconds, then fade. The memories they took do not return.
+If unsuppressed: stand motionless for 90 seconds, then fade. The memories they took do not return. Ninety seconds of standing, touching whoever comes close, and then they fade — but the memories they took do not return. Touched personnel describe the experience as not forgetting but being forgotten by the memory, as if the recollection itself walked away. Each figure fades after three to four touches, so an unsuppressed event costs the facility a dozen memories and gains it a dozen quieter staff. Log every touch; the archive pays a bounty for recovered recollections, and has never once paid it.
 
 ## R.D. Response Protocol
 
-Alert Level 1. Standard team with ranged M.A.W. Do NOT approach within 3 meters.
+Alert Level 1. Standard team with ranged M.A.W. Do NOT approach within 3 meters. Alert Level 1, standard team with ranged M.A.W., with strict instructions: do NOT approach within 3 meters, do NOT attempt contact, do NOT try to see the faces they do not have. The rule exists because three responders in one event all broke it for the same reason — they thought they recognized someone — and none of them remembers who.
 
 
 
@@ -94,6 +97,8 @@ Alert Level 1. Standard team with ranged M.A.W. Do NOT approach within 3 meters.
 - Personnel who lose a memory to The Forgotten describe the experience as 'not forgetting — being forgotten by the memory.' As if the memory chose to leave.
 - Spawn count: 8–12 entities per event.
 - Same Color Ordeals do not attack each other; different Colors will fight.
+- Cruelest arithmetic in the ASHEN set: the figures spend themselves to take memories, and the facility spends memories to save bodies.
+- Filed as `ORDEAL-ASHEN-First-Watch`; survivors of the Faceless Legion were once Forgotten figures the First Watch let fade — the archive keeps the count.
 - Ordeal suppression permanently reduces facility Han-Density (unlike Sorrow Entity work, which adds to it).
 
 ## Document Information

@@ -21,11 +21,11 @@
 
 ## Formation
 
-Forms when Weight Han reaches Third Watch density. The columns merge further into massive architectural entities.
+Forms when Weight Han reaches Third Watch density. The columns merge further into massive architectural entities. Crushing Columns that survive Second Watch do not topple for good — they merge further, columns leaning together and fusing into massive architectural entities. Three to five per event, each one shaped like fallen architecture: arches, lintels, collapsed doorways of dense Weight Han-crystal. The arches resemble specific doorways in Somnarak — the entrances of buildings that collapsed during the Cheongula — as if the Weight Han rebuilt the city’s failures out of spite. The trumpet finds them already looming.
 
 ## Appearance
 
-5-meter-wide entities shaped like fallen architecture — arches, lintels, collapsed doorways made of dense Weight Han-crystal. They do not walk; they topple forward, crash, reform, and topple again. Each impact is devastating.
+5-meter-wide entities shaped like fallen architecture — arches, lintels, collapsed doorways made of dense Weight Han-crystal. They do not walk; they topple forward, crash, reform, and topple again. Each impact is devastating. Five meters of Han-crystal arch and lintel, dense enough to bend light at the edges. They do not walk; they topple — falling forward across a corridor, reforming upright, falling again, each collapse a small controlled demolition. At 354 HP per entity they absorb enormous punishment everywhere except the keystone, the brightest point in the arch. Clockwork Presses at Elite grade (380 HP) roll with them, flattening the toppled zones; Grinding Maws (350 HP) hunt the dust of each fall. Read the keystone’s glare before engaging.
 
 ## Behavior
 
@@ -34,18 +34,21 @@ Forms when Weight Han reaches Third Watch density. The columns merge further int
 | **Topple** | The arch falls forward across a corridor. | Deals 25–40 Resilience damage to all in the fall zone. The corridor may partially collapse, blocking routes. |
 | **Reform** | After falling, the crystal reforms into a new arch shape over 3 seconds. | The reforming period is the only window for safe damage — the arch is immobile and its core is exposed. |
 | **Cascade** | If two arches are near each other, they may topple simultaneously. | Combined impact deals 50+ Resilience damage and can destroy containment walls. |
+| **Keystone Break** | Destroying the keystone during Reform shatters the whole arch. | The brightest point is the entire fight — delta-grade ordnance into the glare inside the three-second window, everything else is guarding the shot. One clean Break ends an arch permanently. |
+
+The Topple is the metronome: the arch falls forward across the corridor for 25–40 Resilience damage to everything in the fall zone, and the corridor may partially collapse with it. The Reform is the window: three seconds of soft crystal while the arch rebuilds, the only safe damage in the whole fight. And the Cascade is the nightmare — two arches near each other toppling simultaneously for 50+ Resilience damage, enough to destroy containment and everyone proving it. Keep the arches separated, count the three seconds aloud, and put the Keystone Break on the brightest point: one clean Break per arch, no encores, no survivors.
 
 ## Suppression Protocol
 
-Physical force during the Reform window (3-second exposure). High HP. Target the keystone (the brightest point in the arch). δ-grade M.A.W. weapons required. Structural teams must repair corridors between engagements.
+Physical force during the Reform window (3-second exposure). High HP. Target the keystone (the brightest point in the arch). δ-grade M.A.W. weapons required. Structural teams must repair corridors between engagements. Three seconds is the whole fight: physical force during the Reform window, when the crystal is soft and the keystone exposed. High HP everywhere else means nothing — target the keystone, the brightest point in the arch, and ignore the rest. Delta-grade M.A.W. weapons required; lesser ordnance cannot crack the keystone inside the window. The Living Avalanche at Elite grade (410 HP) circles the arches eating the toppled rubble — engage it at range or fight on moving ground. Never stand in the fall zone during Reform; the arch can abort the window and complete the Topple instead.
 
 ## Facility Impact
 
-If unsuppressed: topple and reform for 120 seconds, progressively destroying the corridor. Structural damage may require days of repair and can permanently reduce facility capacity.
+If unsuppressed: topple and reform for 120 seconds, progressively destroying the corridor. Structural damage may require days of repair and can permanently reduce facility capacity. Two minutes of toppling and reforming along the chosen corridor, progressively destroying it: floors cratered, walls leaned, ceilings dropped in sections. Structural damage may require days of repair and can permanently alter load paths — one corridor’s arches re-tuned the whole wing’s settling pattern. The Cascade is the catastrophe case: two arches toppling simultaneously for 50+ Resilience damage, enough to destroy containment outright. Separate the arches at any cost; a lone arch is a siege, but a pair is a demolition.
 
 ## R.D. Response Protocol
 
-Alert Level 3. Level 4+ team with δ-grade M.A.W. Structural repair teams deployed immediately. Containment Lead oversight.
+Alert Level 3. Level 4+ team with δ-grade M.A.W. Structural repair teams deployed immediately. Containment Lead oversight. Alert Level 3, Level 4+ team with delta-grade M.A.W., structural repair teams deployed immediately, Containment Lead oversight — the Lead’s standing order commits a surveyor to every deployment, because the only safe ground is ground the arches have already fallen on. The surveyor’s word outranks the sergeant’s inside the fall zone.
 
 
 
@@ -95,6 +98,8 @@ Alert Level 3. Level 4+ team with δ-grade M.A.W. Structural repair teams deploy
 - The arches resemble specific doorways in Somnarak — the entrances of buildings that collapsed during the Cheongula.
 - Spawn count: 3–5 entities per event.
 - Same Color Ordeals do not attack each other; different Colors will fight.
+- Most architectural ordeal on record: surveyors have matched eleven arches to eleven real collapsed doorways, down to the keystone moulding.
+- Filed as `ORDEAL-OBSIDIAN-Third-Watch`; the matched doorways’ buildings all receive memorial plaques now, and the arches never match a plaqued door.
 - Ordeal suppression permanently reduces facility Han-Density (unlike Sorrow Entity work, which adds to it).
 
 ## Document Information

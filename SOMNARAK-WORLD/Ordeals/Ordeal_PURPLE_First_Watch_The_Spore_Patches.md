@@ -13,27 +13,27 @@
 
 ## Formation
 
-Patches of corruption that seeded themselves and quietly bloomed.
+Patches of corruption that seeded themselves and quietly bloomed. Nobody planted them and nobody spilled them — the patches seeded themselves out of ambient sorrow the way mildew seeds itself out of damp. A speck in a floor seam, a mote in a vent filter, a smear on a boot sole: each one enough. They bloomed quietly for weeks before anyone looked down, by which time the patches had linked root to root under the flooring. The First Watch trumpet found a garden already growing and merely announced the harvest.
 
 ## Appearance
 
-Scattered patches of gilled fungal growth leaking rust-coloured spores.
+Scattered patches of gilled fungal growth leaking rust-coloured spores. Gills fanning pink-grey in overlapping shelves, leaking rust-coloured spores that drift on every footstep’s draught. The patches scatter across the floor in no pattern the surveyors can map — they follow the sorrow, not the geometry. Spore-Heaps (150 HP) mound where patches overlap, and the Slime (150 HP) trails between them, inoculating the gaps. Bloom-Bearers (170 HP, two per spawn) walk the patches’ margins, cradling fresh buds. Do not trust the gaps; the gaps are seeded too.
 
 ## Behavior
 
-They puff, and clouds of invasive spores seed whatever breathes them.
+They puff, and clouds of invasive spores seed whatever breathes them. Each patch breathes on its own rhythm — a visible inhalation, a shudder, and then the puff: clouds of invasive spores that seed whatever breathes them. Seeded personnel cough rust for days before the first gills show behind the ears. The Root Network at Fragment grade (180 HP) coordinates the puffing; patches linked by root puff in sequence, walking the cloud down the corridor. Spore-Gnats (eight to twelve) ride the puffs outward, carrying the seeding past every cordon the team sets. Hold breath or hold distance — preferably both.
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with minor-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mixed-element M.A.W. at First Watch grade, Level 2+ personnel, with respirators sealed and checked — the spores seed through cloth, paper, and optimism. Burn the patches in sequence from the corridor’s end inward, so the fleeing Gnats fly into the fire rather than past it. The Parasite Bloom (120 HP) fruits where burning is delayed; do not delay. Suppress before it spreads: every unburned patch doubles by next watch, and a doubled patch-network starts thinking in roots.
 
 ## Facility Impact
 
-A minor-severity PURPLE encounter: localized damage. Contain before the mixed pressure cascades.
+A minor-severity PURPLE encounter: localized damage. Contain before the mixed pressure cascades. Localized damage while the patches stay scattered: stained flooring, clogged vents, one quarantine laundry per manifestation. Mixed pressure cascades if the patches link — a linked network exhales in unison and the corridor becomes unbreathable without sealed kit. Scrape, burn, and seal every patch site; the rust-coloured staining marks spore-load, and anything still rusty after burning gets burned again. The vents take longest — spores love the ductwork.
 
 ## R.D. Response Protocol
 
-Standard response team, Level 2+ personnel.
+Standard response team, Level 2+ personnel. Standard response team, Level 2+ personnel, with a mycologist attached — the Spore Patches are the only minor ordeal whose response requires a fungus-doctor, and the mycologists have standing authority to overrule the sergeant on burn order.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Standard response team, Level 2+ personnel.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary PURPLE First Watch Ordeal; same color and severity, different manifestation.
+- Most patient minor ordeal: one patch-network grew undisturbed for six weeks in a disused stairwell before blooming all at once.
+- Filed as ORDEAL-PURPLE-First-II; the stairwell is now inspected weekly, and the inspector’s respirator fit-test is a ritual.
 
 ## Document Information
 

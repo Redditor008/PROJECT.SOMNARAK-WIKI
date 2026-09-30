@@ -13,27 +13,27 @@
 
 ## Formation
 
-The heavily colonized, more plant than person, walking gardens of corruption.
+The heavily colonized, more plant than person, walking gardens of corruption. Colonization is gradual until it is total: a spore behind the ear, a tendril along the spine, roots through the resolve. The heavily colonized pass the threshold one quiet shift at a time — more plant than person by the time anyone checks, walking gardens of corruption wearing familiar faces. They do not remember being crew; the garden remembers for them, imperfectly. The Third Watch trumpet finds the Hosts already walking their old patrol routes, watering themselves from the drinking fountains.
 
 ## Appearance
 
-Humanoids riddled with sprouting growths and crawling parasitic young, moving puppet-like.
+Humanoids riddled with sprouting growths and crawling parasitic young, moving puppet-like. Sprouting growths burst from joints and bellies, crawling parasitic young nesting in the body cavities, every step puppet-like on root-stiffened legs. The faces are the worst part — still recognizable, still trying to smile. Nest-Bodies (290 HP, two per spawn) are Hosts swollen past walking, rooted mid-corridor and fruiting; Burrowers (ten to fourteen per swarm) pour from their seams. The Mycelium (310 HP) sheets the floor beneath them, feeding the garden through the soles of dead boots.
 
 ## Behavior
 
-They burst, and waves of parasitic young pour toward the nearest warmth.
+They burst, and waves of parasitic young pour toward the nearest warmth. Each Host is a delivery system with legs: they burst — rupturing along the root-lines — and waves of parasitic young pour toward the nearest warmth. The young seek orifices with unerring instinct; sealed kit is the only reliable defense. Cord-Parasites (380 HP, two to three per spawn) lash the corridor while the Hosts advance, and the Parasite Blooms (350 HP) fruit where Hosts have fallen, converting casualties into gardens. Kill the Hosts at range or inherit their garden.
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with major-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mixed-element M.A.W. at Third Watch grade, with flamethrower crews forward — fire is the only argument the garden respects. Engage at maximum range; every fallen Host bursts where it drops, so the kill-zone must be burned, not merely won. The Root Network at Elite grade (410 HP) coordinates the Hosts’ advance — sever the root-lines first or the garden outflanks the firing line. Suppress before it spreads: a rooted Host becomes a Nest-Body within the hour, and Nest-Bodies do not walk away when burned. They must be dug out.
 
 ## Facility Impact
 
-A major-severity PURPLE encounter: widespread structural and personnel threat. Contain before the mixed pressure cascades.
+A major-severity PURPLE encounter: widespread structural and personnel threat. Contain before the mixed pressure cascades. Widespread structural and personnel threat: every burst Host seeds the corridor, and the garden grows back from fragments if the burning is incomplete. Mixed pressure cascades through the ventilation — spore-load in the ducts has colonized crews two zones from the front. Quarantine the whole wing, burn in passes, and re-burn every pass; the only clean corridor is one burned three times. Personnel exposures require immediate quarantine: colonization shows in hours, not days.
 
 ## R.D. Response Protocol
 
-Level 4+, Containment Lead oversight.
+Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight mandatory; the Lead carries burn authorization for the entire wing pre-signed, because a garden fire waits for no committee. A mycologist and a chaplain deploy with every team — the mycologist reads the garden, the chaplain reads the names of the faces it wears.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 4+, Containment Lead oversight.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary PURPLE Third Watch Ordeal; same color and severity, different manifestation.
+- Most personally costly major ordeal: post-action counseling is mandatory because the Hosts wear the faces of the missing.
+- Filed as ORDEAL-PURPLE-Third-II; the drinking fountains on the Hosts’ old route were sealed permanently, and the garden still tries them.
 
 ## Document Information
 
