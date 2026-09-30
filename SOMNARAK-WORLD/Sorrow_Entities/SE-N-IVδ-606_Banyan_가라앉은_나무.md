@@ -402,6 +402,30 @@ Some sorrows are about hiding. Banyan is about the hidden that grew — the buri
 **Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Apex Record
+
+Banyan's roster once stood a harsh cycle — shortages, storms, and pressure rising together. This record preserves the hardship, the endurance, and the thaw the Directorate still cites as proof that rosters hold.
+
+### The Harsh Cycle
+
+The harsh cycle combined every hardship the doctrine tables separately: supply shortages that halved the roster's comfort, facility strain that doubled its labor, and Banyan pressing at its hardest through all of it. The cycle log reads like a siege journal: watches stood short-handed, precautions maintained on failing systems, the roster holding its posts through conditions the doctrine calls degraded and the roster called Tuesday. What the log proves, entry by entry, is the roster's refusal to degrade with the conditions: every watch stood, every reading logged, every precaution armed. The hardship was real. The endurance was realer. And Banyan (SE-N-IVδ-606) was witnessed, through the whole harsh cycle, by personnel who held the doctrine the way the members hold the members: past comfort, past ease, and exactly to the standard.
+
+### The Endurance
+
+The endurance was organized — the roster's hardship protocol, improvised in the first watches and formalized by the cycle's end. Watches shortened, rotations tightened, the roster's strength concentrated where the pressure ran highest. The mess ran double portions on half supply. The bunks ran hot rotations. And the Wardens ran the containment the way crews run pumps in flooding: continuously, jointly, without rest past the minimum the protocol protects. The hardship protocol is preserved verbatim — the roster's own words, kept as written: short watches, tight rotations, double portions, full doctrine. The Directorate adopted it wholesale. The protocol's standing rule is its spine: hardship degrades comfort, never standards. The roster proved it for a full cycle. The protocol preserves the proof. And every roster since stands its hardships on the foundation the harsh cycle built: endure jointly, hold fully, and yield nothing the doctrine requires.
+
+### The Thaw
+
+The thaw came the way thaws come: gradually, then completely. Supplies restored. Systems repaired. Banyan's pressure easing as the cycle turned. The roster stood down from hardship protocol the way crews stand down from pumps: slowly, verifying, unwilling to trust the easing until the gauges confirmed it across a full rotation. The stand-down log reads like a held breath released: watches normalized, rotations eased, portions standard, doctrine — full, as always, as throughout. What the thaw proved was the protocol's deepest claim: the roster that endures jointly recovers jointly. No resignations followed the harsh cycle. No transfers were requested. The roster that had held together held together — strengthened, the counselors note, the way members strengthen under tested load. The thaw confirmed it. The roster holds. The doctrine holds harder for having been held hardest.
+
+### The Roster Stone
+
+The harsh cycle's roster is carved on the roster stone — every name, every posting, the full chain that stood the hardship. The stone stands in the facility's muster hall, and every roster since musters beneath it: reading the names, standing where they stood, holding what they held. New Wardens touch the stone on commissioning. Veterans touch it on renewal. The custom requires nothing more — no ceremony, no recitation, only the touch and the muster beneath the names. The Directorate maintains the stone permanently: cleaned, lit, and never moved. The harsh cycle is history. The roster stone is present. And Banyan is witnessed, cycle after cycle, by rosters that muster beneath the proof that rosters hold — through shortage, through strain, through pressure at its hardest. The harsh cycle ended. The endurance continues. The stone stands, the roster stands, and the doctrine stands hardest of all.
+
+### The Spring Muster
+
+Every cycle after hardship, Banyan's roster holds the spring muster — the full chain assembled beneath the roster stone, the hardship protocol formally stood down, the ordinary watches resumed with ceremony. The muster reads the harsh cycle's log aloud: short watches, tight rotations, double portions, full doctrine. Then the senior Warden dismisses the protocol and the roster disperses — to full watches, standard rotations, and the doctrine practiced at peacetime tempo. Veterans describe the muster as the roster's true new year: not the calendar's turn but the recovery's proof. The hardship ended. The endurance continues. The roster musters, the stone stands, and Banyan is witnessed by personnel who held the worst and welcomed the thaw — together, as always, jointly.
+
 ## Trivia
 
 - The Tree grows downward because it fears public visibility.

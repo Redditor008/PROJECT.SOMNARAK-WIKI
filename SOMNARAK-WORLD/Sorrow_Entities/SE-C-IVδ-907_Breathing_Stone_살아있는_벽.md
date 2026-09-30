@@ -297,6 +297,30 @@ The entity does not rage. It does not weep. It persists — body and weight, pat
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and body pressure readings after every breach or unusual interaction.
 
+## Apex Record
+
+A wing of the facility still carries the marks of Breathing Stone's worst season — scorched members, sealed chambers, deflection the engineers monitor to this day. This record preserves the damage, the repair, and the scar custom the wing's crews maintain.
+
+### The Damage
+
+The damage came in the containment's hardest season, when Breathing Stone pressed past every precaution the early doctrine maintained. The wing took the worst of it: chambers breached, members stressed past tolerance, systems failing in cascades the engineers still study. The damage survey — preserved verbatim — reads like a battle report: section by section, member by member, the wing documented its own wounding with the precision of personnel who understood that the record would teach what the pain could only show. What the survey proved, above all, was the containment's margin: the wing bent past every limit and did not break. The precautions held where they mattered. The roster held everywhere. And Breathing Stone (SE-C-IVδ-907), having spent its worst, subsided into the watchful quiet the Directorate maintains to this day.
+
+### The Repair
+
+The repair took a full cycle — the longest restoration Breathing Stone's facility has ever mounted. Engineers rebuilt what could be rebuilt, reinforced what could be reinforced, and sealed what could only be sealed: chambers too stressed to trust, members too bent to straighten, sections the survey marked as memorial rather than usable. The repair doctrine written from the work governs every restoration since: rebuild stronger, reinforce honestly, and seal what the survey condemns without sentiment. Sentiment kills, the engineers' manual reads. The members do not care what you feel. They care what they can bear. The wing was rebuilt to bear more than the worst season delivered, certified by three independent surveys, and returned to service with the repair log bound into the containment file. The wing stands. The log proves it. The doctrine holds.
+
+### The Scar
+
+The sealed sections remain — visible, monitored, and deliberately unrestored. The Directorate maintains them as the wing's scar: proof of the worst season, warning against complacency, and memorial to the roster that stood it. Trainee Wardens walk the sealed sections the way recruits walk battlefields: reading the damage survey at the site, feeling the residual wrongness in the sealed chambers, learning the lesson the scar teaches permanently. The containment bent here. The roster held here. The margin between bending and breaking is here, measured in members and logged in the survey. The scar sections are sounded on the watch, maintained against decay, and opened to no one. They are not usable space. They are usable memory — the wing's wound kept visible so that no Warden ever forgets what Breathing Stone cost and what the roster paid.
+
+### The Wing's Custom
+
+The wing's crews maintain the scar custom: at the start of every rotation, the incoming roster walks the sealed sections in silence, reading the damage survey's final page aloud at the worst point. The page reads, in full: the wing bent, the roster held, the margin sufficed. No one speaks after the reading. The roster disperses to its posts, and the rotation begins — grounded, warned, and bound by the shared knowledge of what the containment survived. Veterans describe the custom as the wing's true handover: not the briefing, not the logs, but the walk. You stand where it bent. You read what it cost. You take your post knowing. The Directorate requires the custom of every rotation without exception. The crews would maintain it without the requirement. The scar is the wing's memory. The walk is the wing's oath. And Breathing Stone is witnessed, rotation after rotation, by personnel who have stood where it pressed hardest and chosen to stand there still.
+
+### The Sounding Log
+
+The sealed sections are sounded on every watch — tap tests on the stressed members, deflection readings on the bowed floors, the damage survey's margins checked against the present. The sounding log runs continuously, entry after entry: scar stable, members holding, memory intact. The wing's engineers read the log the way physicians read charts: as the scar's vital signs, steady across every season. The wing bent once. It has never bent again. The sounding log proves it, watch after watch — and Breathing Stone is witnessed by personnel who measure the scar's stillness the way they measure everything: faithfully, precisely, and without ever assuming the stillness will hold without the measuring.
+
 ## Trivia
 
 - One of the first catalogued **Place-Body** entities in Somnarak.

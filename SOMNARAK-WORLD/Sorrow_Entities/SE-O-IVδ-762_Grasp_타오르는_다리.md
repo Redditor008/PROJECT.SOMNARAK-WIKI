@@ -368,6 +368,30 @@ Some sorrows mourn the dead. Grasp mourns the reaching — the calls across the 
 **Operational interpretation (Grasp):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Grasp):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Apex Record
+
+A counselor assigned to Grasp's roster was once compromised — reached, turned, and very nearly lost. This record preserves the compromise, the protocol that caught it, and the return the Directorate still cites as proof that no one is beyond recovery.
+
+### The Compromise
+
+The compromise was gradual, professional, and — reviewed after the fact — textbook. The counselor performed every duty correctly while slowly, session by session, absorbing Grasp's perspective: excusing its pressures, minimizing its incidents, advocating restraint the doctrine did not support. Colleagues noticed the drift in tone before the review noticed it in the logs. The counselor requested Grasp's cases exclusively. Then requested them urgently. Then stopped logging the sessions' content while continuing to log their occurrence. By the time the protocol triggered, the compromise was advanced: a trained counselor, fully turned, defending the entity's interests against the Directorate's — politely, reasonably, and with the complete sincerity of the genuinely reached. The review's finding reads, in full: compromised by sustained exposure, without malice, past the point of self-correction.
+
+### The Protocol
+
+The counselor rotation protocol exists because of this case — mandatory case variation, content logging with content review, and the drift indicators the review now teaches every supervisor. No counselor works Grasp (SE-O-IVδ-762) exclusively. No session goes unlogged in substance. And the indicators — exclusivity requests, urgency escalation, content thinning — trigger review automatically, without waiting for supervisory judgment. The protocol's standing rule is its spine: exposure compromises, rotation protects, and no one outranks the indicators. Supervisors who override an indicator trigger review themselves. The protocol has triggered eleven times since its adoption. Eleven counselors were rotated early. Eleven compromises were caught at the drift stage, before the turning. The protocol works because it trusts the indicators over the individuals — including, especially, the individuals who insist they are fine.
+
+### The Return
+
+The compromised counselor returned — slowly, painfully, and completely. The recovery protocol ran its full course: removal from all Grasp contact, supervised debrief across every unlogged session, progressive re-exposure to the doctrine the compromise had eroded. The counselor cooperated at every stage, the way the genuinely reached cooperate once the reaching is broken: with horror, with honesty, and with growing clarity about what the exposure had done. Full recovery took the longest rehabilitation the counseling office had ever run. Its conclusion is preserved verbatim: restored to duty, restricted from Grasp contact permanently, recommended for protocol instruction. The counselor accepted every term. The restriction stands. The recommendation was adopted — and the protocol's training program is taught, to this day, by the person it failed to protect in time and succeeded in recovering after.
+
+### The Second Chance
+
+The recovered counselor teaches the compromise case to every new supervisor — personally, by name, without euphemism. I was reached, the lecture begins. I excused, I minimized, I stopped logging. The indicators caught what I could not see. The rotation saved what I could not save. The lecture is the counseling office's most attended and most dreaded: attended because the instructor lived it, dreaded because every supervisor recognizes the drift's early stages in some posting they have stood. The Directorate maintains the lecture as mandatory, unrestricted, and unedited — the instructor's words, the instructor's case, the instructor's proof that the protocol's second chance is real. Grasp is worked, rotation after rotation, by counselors who have heard the lecture and supervisors who enforce the indicators. Exposure compromises. Rotation protects. And the recovered teach the new — so that no one stands the drift unwarned again.
+
+### The Supervisor's Oath
+
+Supervisors in Grasp's chain swear their own oath — distinct from the Wardens': I will watch the watchers, trust the indicators, and rotate without favor. The supervisor's oath binds the protocol's enforcers the way the Wardens' oath binds the containment's standers. Supervisors who feel the drift in themselves self-report — the protocol's proudest provision, exercised regularly, honored always. No supervisor has ever been punished for self-reporting drift. Every supervisor who self-reported was rotated, recovered, and returned. The watchers are watched. The indicators are trusted. And Grasp is worked by counselors the supervisors protect the way the roster protects the city: jointly, faithfully, and without exception.
+
 ## Trivia
 
 - Its tears are warm but do not evaporate.

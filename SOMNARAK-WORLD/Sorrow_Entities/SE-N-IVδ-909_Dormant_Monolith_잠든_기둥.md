@@ -364,6 +364,30 @@ Some sorrows are about duty. Dormant Monolith is about duty that consumed the du
 **Operational interpretation (Dormant Monolith):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Dormant Monolith):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Apex Record
+
+Dormant Monolith was once moved — the full containment, transferred between facilities in a single operation the Directorate still studies. This record preserves the order, the convoy, and the arrival that proved the containment could travel.
+
+### The Order
+
+The transfer order came down without precedent: Dormant Monolith (SE-N-IVδ-909) would move — the entity, the precautions, the roster, the doctrine — from its original facility to the current one, across the city, in one continuous operation. The planning took a full cycle. Every contingency was tabled: pressure en route, breach in transit, public exposure, convoy compromise. The plan that emerged filled a sealed volume: route surveyed chain by chain, escort rostered Warden by Warden, receiving facility prepared chamber by chamber. The order's standing line — read aloud at every transfer briefing since — governs the whole doctrine: the containment travels intact or not at all. No partial precautions. No interim measures. The entity moves inside its full doctrine, or the entity does not move. The planners built accordingly. The convoy mounted accordingly. The city never knew.
+
+### The Convoy
+
+The convoy ran at the city's quietest hour — sealed vehicles, cleared route, escort Wardens at every junction, the senior Warden riding with the entity's vessel. The run log, preserved verbatim, reads like a litany of uneventfulness: checkpoint passed, pressure nominal, route clear, escort holding. What the log does not record — what the escort Wardens report in their sealed debriefs — is the attention: every Warden on the route, for the whole of the convoy's passage, holding the entity in full observant focus. Witness without flinching, the oath reads. The convoy was the oath in motion. No incident occurred. No pressure spiked. Dormant Monolith traveled the way the doctrine required: contained, witnessed, and entirely unaware that the Directorate held its breath for the whole of the run. The convoy arrived on schedule. The log records one line extra: delivered intact. The doctrine holds in transit.
+
+### The Arrival
+
+The receiving facility took Dormant Monolith the way a relay takes a baton: at full readiness, without breaking stride. The receiving roster was sworn, briefed, and posted before the convoy departed. The chambers were certified, the gauges were live, the precautions were armed. The handover took one watch — vessel to chamber, escort to roster, transit doctrine to standing doctrine — and the transfer commander signed the receipt that closed the operation: received intact, precautions continuous, containment unbroken. The Directorate's review found zero gaps: no interval unmonitored, no precaution unarmed, no moment in the whole operation when Dormant Monolith stood outside its full doctrine. The arrival proved what the planners had promised: the containment is not the building. The containment is the roster, the doctrine, and the oath — and all three travel. The facility changed. The containment did not.
+
+### The Transfer Log
+
+The transfer log is bound into the containment file permanently — order, plan, run log, receipt, and the review's finding: the model for every entity transfer the Directorate has mounted since. Transfer commanders study the log the way surgeons study anatomy: route by route, checkpoint by checkpoint, contingency by contingency. The log's standing lesson is its first line, quoted at every transfer briefing: the containment travels intact or not at all. What the log proves, operation by operation, is that intact travel is achievable — with planning, with escort, with receiving readiness, and with the oath held in motion. Dormant Monolith has stood in its current facility ever since, witnessed by the roster that received it and the successors they trained. The convoy is history. The arrival is doctrine. And the transfer log stands as proof: the Directorate's containments hold everywhere — in chambers, in transit, and in every facility the city will ever build.
+
+### The Route Map
+
+The transfer route is preserved as the route map — every chain surveyed, every checkpoint marked, the whole passage bound into the containment file. Transfer commanders walk the route on foot before every operation: feeling the road the convoy rode, standing at the junctions the escort held, learning the passage bodily. The map's margins carry the escort Wardens' annotations — checkpoint clear, junction held, delivered intact — preserved in their own hands. Dormant Monolith traveled this route once, contained and witnessed, and arrived intact. The map proves the passage is passable. The commanders prove the doctrine travels. And the route stands ready — surveyed, marked, and honored — for every transfer the future requires.
+
 ## Trivia
 
 - It appears only to people with unresolved responsibilities.

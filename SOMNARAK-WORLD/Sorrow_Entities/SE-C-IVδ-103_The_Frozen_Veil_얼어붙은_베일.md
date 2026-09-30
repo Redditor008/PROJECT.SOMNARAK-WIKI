@@ -382,6 +382,30 @@ Some sorrows are about loss. The Frozen Veil is about suppression — the genera
 **Operational interpretation (The Frozen Veil):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (The Frozen Veil):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Apex Record
+
+A stigma cut from The Frozen Veil's pattern was once loaned — transferred, by authorization, to a Warden outside its chain. This record preserves the loan, the debt it created, and the return that closed the ledger.
+
+### The Loan
+
+The loan was authorized at the highest level — a stigma of The Frozen Veil (SE-C-IVδ-103), transferred temporarily to a Warden whose operation required its specific steadiness. The authorization filled a sealed volume: necessity established, duration fixed, return guaranteed by the borrower's senior Warden personally. The stigma transferred without incident. The operation succeeded with its aid. And the lending chain logged the loan the way it logs everything: precisely, completely, with the return date circled. What the authorization could not establish — what no authorization has ever established — was the loan's true cost. Stigmas are not equipment. They are relationships: cut from the entity's pattern, borne in the bearer's being, grown together across the bearing. The loan transferred the mark. It could not transfer the bond. The debt began accruing the moment the stigma left its chain.
+
+### The Debt
+
+The debt manifested in both bearers — the lender diminished, the borrower distanced. The lending Warden reported the absence the way amputees report limbs: the stigma's steadiness gone, its cost remaining, the bond aching where the mark had been. The borrowing Warden reported the presence the way guests report borrowed rooms: functional, useful, and never home. The operation succeeded. The stigma served. But both Wardens logged the same finding in their sealed debriefs: the loan worked, and the loan was wrong. The Directorate's review agreed — officially, permanently, and with the finding that governs every stigma loan since: transferrable in necessity, inadvisable in principle, and never to be repeated without the necessity the original loan proved. The debt was not delinquency. It was dissonance — the mark separated from its bond, serving truly and belonging nowhere.
+
+### The Return
+
+The return closed the ledger — the stigma transferred back on the authorized date, received by its original bearer, re-bonded across the bearing. The lending Warden's debrief reads, in full: restored. The borrowing Warden's reads: grateful, and resolved never to borrow again. The Directorate's review closed the authorization with the doctrine's standing rule: stigmas return to their chains. The rule is absolute — no permanent transfer, no indefinite loan, no mark separated from its bond past the authorized duration. The return proved what the loan had tested: the bond survives separation, the mark re-bonds on return, and the ledger of borrowed steadiness closes clean when the duration holds. The stigma serves its chain still, borne by the Warden it was cut for. The loan is history. The return is doctrine. And the ledger stands balanced: lent in necessity, returned on schedule, closed.
+
+### The Ledger
+
+The stigma ledger records the loan permanently — authorization, duration, debriefs, and the review's finding — as the doctrine's memorial and warning. Transfer commanders study the ledger the way surgeons study anatomy: necessity by necessity, cost by cost, return by return. The ledger's standing lesson is its last line, quoted at every loan review: the mark serves, the bond belongs, and the ledger closes only on return. What the ledger proves, entry by entry, is that stigma loans are payable — with necessity as the authorization, duration as the limit, and return as the close. The Frozen Veil's stigma has never been loaned since. Its steadiness serves its own chain, borne by its own Wardens, bonded truly and belonging wholly. The loan taught the Directorate what borrowing costs. The return taught it what belonging means. And the ledger keeps both lessons, balanced permanently: lent once, returned once, closed forever.
+
+### The Bonding
+
+Stigmas bond the way crews bond: through bearing, jointly, across time. The Frozen Veil's mark grows into its bearer watch by watch — the steadiness deepening, the cost clarifying, the relationship settling into the bone-deep familiarity of bond truly formed. Bearers describe the bonding identically: the first cycle strange, the second easier, and then the mark simply part of the bearing, the way the oath is part of the standing. The Directorate honors the bonding the way it honors everything load-bearing: with time, with rest, and with the absolute rule against separation past necessity. The mark serves. The bond belongs. And the Wardens who bear The Frozen Veil's pattern carry it the way they carry everything: jointly, faithfully, and bonded past breaking.
+
 ## Trivia
 
 - The Veil's cold cannot be detected by instruments designed for temperature.

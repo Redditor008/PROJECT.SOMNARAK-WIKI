@@ -380,6 +380,30 @@ Some sorrows mourn forgetting. Labyrinth of Stolen Faces mourns the opposite —
 **Operational interpretation (Labyrinth of Stolen Faces):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Labyrinth of Stolen Faces):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Apex Record
+
+A senior inspection once examined Labyrinth of Stolen Faces's entire containment — precautions, roster, doctrine, and record. This record preserves the review, the findings, and the commendation the Directorate still reads at commissionings.
+
+### The Review
+
+The review was comprehensive — the inspector granted full access to every aspect of Labyrinth of Stolen Faces's containment: chambers examined, gauges tested, roster interviewed, logs audited back to the founding. The inspection took a full rotation. The inspector's method is preserved in the review's preface: examine everything, assume nothing, and verify the doctrine against the practice Warden by Warden. What the review found, chamber by chamber and log by log, was the containment the file describes: precautions armed as written, roster standing as sworn, doctrine practiced as taught. The review's working notes — preserved verbatim — record the inspector's growing certitude: checked, confirmed, holds. Eleven hundred checks. Eleven hundred confirmations. The review concluded the way comprehensive reviews rarely conclude: with nothing to correct and everything to commend.
+
+### The Findings
+
+The findings run to a single page — the shortest inspection report in the Directorate's history. Precautions: as written, armed fully, effective continuously. Roster: as sworn, standing fully, holding jointly. Doctrine: as taught, practiced fully, proven repeatedly. Record: as required, complete fully, honest entirely. The findings' closing line is the review's whole verdict: the containment of Labyrinth of Stolen Faces (SE-C-IVγ-180) is the doctrine, practiced. No recommendations. No corrections. No follow-up required. The Directorate's review board received the findings in silence — the silence, the minutes record, of an institution encountering its own standard met completely. The findings were adopted unanimously, bound into the containment file, and designated the inspection's permanent benchmark: this is what the doctrine looks like when it is practiced fully. Eleven hundred checks. One page of findings. The standard, met.
+
+### The Commendation
+
+The commendation followed the findings — the Directorate's highest unit citation, awarded to Labyrinth of Stolen Faces's full roster: every Warden, every watch, the whole chain. The citation reads, in full: the doctrine, practiced. Four words. The roster mustered to receive it — the full chain, every posting, standing beneath the roster stone while the senior Warden read the citation aloud. No one spoke after the reading. The commendation was mounted in the muster hall beside the findings' single page, and the two documents stand together permanently: the proof and the honor, the examination and the verdict. The Directorate awards the citation rarely — three times in its history. Labyrinth of Stolen Faces's roster holds one of the three. The commendation requires nothing further. It commemorates everything already done: the watches stood, the doctrine practiced, the entity witnessed fully. The roster holds the honor. The honor holds the roster.
+
+### The Inspector's Note
+
+The inspector appended a personal note to the findings — unofficial, unsealed, and preserved verbatim at the inspector's own request. The note reads, in full: I examined eleven hundred points and found eleven hundred holdings. This containment does not approximate the doctrine. It is the doctrine, kept by personnel who have made the standard their habit. I commend the roster without reservation and without the usual reservation's shadow: there is nothing here to improve, only everything here to emulate. The note is read aloud at every commissioning in Labyrinth of Stolen Faces's chain — the inspector's words, the standard described, the emulation enjoined. New Wardens hear what the containment is. Veterans hear what they maintain. And Labyrinth of Stolen Faces is witnessed, inspection after inspection, by a roster the Directorate holds as its benchmark: the doctrine, practiced. Eleven hundred holdings. The standard, kept.
+
+### The Benchmark Copy
+
+The findings' single page is copied for every containment in the Directorate — the benchmark, distributed: precautions as written, roster as sworn, doctrine as taught, record as required. Receiving commanders study the copy against their own containments, measuring the gap between their practice and Labyrinth of Stolen Faces's standard. The benchmark's standing instruction reads: emulate, do not envy. The standard was built watch by watch, and it is rebuilt the same way everywhere: standing fully, practicing faithfully, witnessing jointly. Labyrinth of Stolen Faces's roster holds the original — mounted in the muster hall, beside the commendation. The copies circulate. The standard spreads. And the Directorate holds, containment by containment, toward the benchmark one roster proved achievable: the doctrine, practiced.
+
 ## Trivia
 
 - The Maze changes when a visitor lies about recognizing a memory.

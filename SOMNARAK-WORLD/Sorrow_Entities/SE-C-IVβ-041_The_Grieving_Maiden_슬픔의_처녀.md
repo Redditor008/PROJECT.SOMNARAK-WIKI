@@ -381,6 +381,30 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 **Operational interpretation (The Grieving Maiden):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (The Grieving Maiden):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Apex Record
+
+The containment of The Grieving Maiden rests on an oath — sworn once, renewed every cycle, binding every Warden who has ever stood its watch. This record preserves the oath's wording, its keeping, and the keepers.
+
+### The First Oath
+
+The first Warden assigned to The Grieving Maiden (SE-C-IVβ-041) swore the oath alone, on the first watch, before the precautions were proven and the doctrine was written. The archive keeps her words verbatim: I will witness without flinching, judge without cruelty, and stand without leaving. What the oath bound her to was not success but presence — the promise that whatever The Grieving Maiden did, the Directorate's eyes would be open and its feet would be planted. She kept the oath through the worst season of the early containment, logging every pressure and yielding no ground. Her commendation reads, in full: she swore, she stood, she held. Every Warden since has sworn the same words, in the same room, facing the same direction. The oath does not change. The standing does not end.
+
+### The Wording
+
+The oath's wording is fixed permanently — three clauses, examined once per cycle by the sealed review and never once amended. Witness without flinching: observe The Grieving Maiden fully, record honestly, and never look away from what the entity shows. Judge without cruelty: assess the entity's behavior fairly, respond proportionately, and never punish from fear. Stand without leaving: hold the posting through every pressure, complete every watch, and hand over only to sworn relief. New Wardens memorize the clauses before they learn the entity's file, and the commissioning examination tests the oath first: recite it, explain it, and swear it. Candidates who stumble on the wording are failed without appeal. The oath is the containment's foundation. Foundations do not flex.
+
+### The Renewal
+
+Every cycle, on the same date, every Warden in The Grieving Maiden's chain gathers — in person where possible, by sealed relay where not — and renews the oath together. The renewal is the containment's oldest ceremony: the senior Warden reads the original log of the first oath, the roster answers clause by clause, and the new Wardens swear for the first time while the veterans witness. Attendance is absolute. No posting, no emergency, no transfer exempts anyone sworn to The Grieving Maiden from the renewal. The Directorate enforces this the way it enforces everything load-bearing: without exception, without apology, and without a single recorded absence in the ceremony's history. The oath binds the chain. The renewal binds the oath. And The Grieving Maiden, whatever it does between renewals, is witnessed by personnel who have sworn — recently, jointly, aloud — to stand.
+
+### The Oath-Keepers
+
+The oath-keepers are the veteran Wardens who have renewed the oath more times than they can count — personnel who have stood The Grieving Maiden's watch through every season the archive records. They serve as the containment's memory and conscience: advising the senior Warden, examining new candidates, and witnessing every renewal from the front row. Their standing privilege is the last word — after the roster renews, the senior oath-keeper speaks one sentence, different every cycle, summarizing what the oath cost and what it kept. The sentences are preserved verbatim, and they form the archive's most honored holding: a history of The Grieving Maiden's containment told in single lines, each one paid for. The oath-keepers ask nothing for this service. They swore. They stand. They keep — the oath, the entity, and the city behind them.
+
+### The Empty Chair
+
+Every oath renewal keeps one empty chair — for the Wardens who swore and fell, retired, or rotated beyond recall. The senior oath-keeper names them, cycle by cycle, before the roster answers: the first Warden, the harsh seasons' holders, every name the chain refuses to forget. The roster answers the clauses. The chair stands empty. And The Grieving Maiden is witnessed by the living and the remembered both — the standing and the fallen, the oath sworn and the oath kept, the chain unbroken across every renewal.
+
 ## Trivia
 
 - Her tears form no Echoes; they dissolve before crystallizing.

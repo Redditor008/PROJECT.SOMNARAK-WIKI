@@ -297,6 +297,30 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and mind pressure readings after every breach or unusual interaction.
 
+## Apex Record
+
+A report on Ninety Seconds once went unfiled — a full watch's observations, logged nowhere, found years later in a sealed drawer. This record preserves the gap, the search, and the finding that changed the logging doctrine.
+
+### The Gap
+
+The gap was found by audit — a routine review of Ninety Seconds's observation continuity that found one watch missing: full roster, full precautions, and no log. The watch commander had retired. The roster had rotated. The chamber gauges showed the watch occurred — pressure nominal, readings continuous — but the observation record was blank. Not destroyed: absent. Never written, never filed, never explained. The audit flagged it as a continuity break and moved on. The archivist who read the flag did not move on. A watch occurred, she wrote in the margin. Nothing was observed. Either the roster failed completely — which the gauges contradict — or the observations went somewhere else. Find where. The search that followed is the reason the logging doctrine reads the way it does.
+
+### The Search
+
+The search took a season — retired personnel interviewed, old rosters traced, the retired commander's effects examined with permission and then, when permission was granted fully, without restriction. The commander cooperated completely and remembered nothing: the watch was routine, the log was filed, the details were decades gone. The searchers believed her. They also kept searching — through the archive's unfiled holdings, the facility's dead storage, and finally the commander's old desk, preserved in the facility's memorial storage. The drawer was sealed by age, not by lock. Inside, in the commander's hand, was the watch: fully observed, completely logged, never filed. The commander's note, clipped to the log, reads in full: filed in error — drawer, not registry. She had misfiled it forty years earlier and never known. The gap was human. The search was worth it anyway.
+
+### The Finding
+
+The unfiled log proved routine — pressure nominal, observations standard, nothing the gauges had not already shown. Its value was not content but caution: a full watch's observations had sat forty years from the registry, and no one had known. The review's finding reads, in full: the registry is only as complete as its last audit, and the last audit is never recent enough. The logging doctrine was rewritten from the finding: continuity audits on rotation, misfile amnesty for self-reported gaps, and the registry reconciliation — every watch cross-checked against the gauges, every roster against the roster log, every filing against the drawer. The doctrine's standing rule is its spine: the unfiled observation is the unwitnessed watch. File everything. Audit always. And check the drawers — because the commander's drawer held forty years of proof that the registry's completeness is a practice, not a property.
+
+### The Sealed Drawer
+
+The commander's drawer is preserved in the archive — the desk, the seal of age, the misfiled log in its original clip — as the logging doctrine's memorial and warning. Trainee archivists examine it the way recruits examine battlefields: the log that waited forty years, the note that explained everything, the gap that taught the doctrine. The drawer custom requires every trainee to file one practice log into the wrong place and then find it by audit — learning, hands-on, that misfiles hide from everyone including the filer, and that only the audit finds them. Ninety Seconds (SE-C-IVδ-918) is logged, watch after watch, into a registry the drawer taught the Directorate to doubt productively. File everything. Audit always. Check the drawers. The unfiled watch waited forty years. No watch waits now — and the drawer stands in the archive, open, empty, and honored: proof that the doctrine learns, the registry holds, and the Directorate files what it witnesses, always.
+
+### The Auditor's Lamp
+
+Continuity auditors carry the auditor's lamp — a plain hand-lamp, lit for every unfiled search, extinguished only when the registry reconciles. The lamp's custom descends from the commander's drawer: the searchers who found the misfiled log worked by hand-lamp in dead storage, and the lamp has symbolized the audit's patience ever since. Auditors checking Ninety Seconds's registry light the lamp, reconcile watch against gauge and roster against log, and extinguish it only on full reconciliation. The lamp has never been extinguished on an unreconciled registry. The drawers are checked. The watches are filed. And the registry holds — complete, audited, and honest — under the auditor's lamp.
+
 ## Trivia
 
 - One of the first catalogued **Time-Mind** entities in Somnarak.

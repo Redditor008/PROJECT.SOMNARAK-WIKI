@@ -322,6 +322,30 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and lament pressure readings after every breach or unusual interaction.
 
+## Apex Record
+
+Every senior Warden in Miasma's chain has kept a second chair — a deputy trained, briefed, and ready to command. This record preserves the deputy's burden, the succession it serves, and the handover the Directorate still cites as the model.
+
+### The Deputy
+
+The deputy is selected before the need — a Warden of proven steadiness, briefed on every aspect of Miasma's command: the precautions, the roster, the sealed contingencies, the senior Warden's own judgment. The deputy's standing is the command's paradox: full knowledge, zero authority — briefed to command, forbidden to command, ready in an instant the senior Warden prays never comes. Deputies describe the posting identically: the heaviest irrelevance in the institution. They attend every briefing, stand every crisis, and decide nothing — holding the command's full weight in readiness, the way the spare lamp holds light. The Directorate maintains the deputy's standing absolutely: briefed, ready, and waiting. The command continues if the commander falls. The deputy is how.
+
+### The Burden
+
+The deputy's burden is knowledge without power — watching decisions form, seeing the flaws the commander misses, and holding silence except through the deputy's single channel: the private word, offered once, before the order issues. Deputies who use the channel well save commands. Deputies who use it poorly break them. The training is the institution's most delicate: judgment without authority, candor without insubordination, readiness without ambition. The deputy's examination tests all three — scenarios, crises, and the standing question: the commander orders wrongly. What do you do? The passing answer is the doctrine's spine: the private word, once, then obedience — because the command must hold, even in error, and the deputy's remedy is succession, not mutiny. Miasma (SE-C-IVδ-922) has been commanded, through every crisis in its record, by commanders whose deputies held the burden faithfully. The record proves the doctrine. The burden holds the command.
+
+### The Succession
+
+Successions in Miasma's chain have always run through the second chair — no outside appointment, no leapfrog promotion, the deputy ascending in order when the senior Warden rotates, retires, or falls. The succession doctrine is absolute: the deputy commands next. This certainty shapes everything — the deputy's training, the roster's confidence, the command's continuity. Rotations are seamless: the deputy has stood every crisis, knows every contingency, and commands from the first hour with the roster's full trust. The archive records eleven successions in Miasma's chain. Eleven deputies ascended. Eleven commands continued without a watch's interruption. The succession doctrine works because it removes the only question that breaks commands in crisis: who decides? The deputy decides. The deputy was ready. The command continues — the way it always continues, the way the second chair guarantees.
+
+### The Handover
+
+The model handover — the one the Directorate teaches — ran mid-crisis: the senior Warden incapacitated, the precautions straining, Miasma pressing at its hardest. The deputy took command in one sentence: I have the command. The roster answered in one word: acknowledged. And the crisis ran its course under the deputy's orders — steady, doctrinal, and entirely continuous with the commander's intent, because the deputy had stood every briefing and knew every contingency. The after-action review found zero discontinuity: no order the commander would not have given, no precaution the commander would not have armed, no moment when the command faltered. The handover is taught verbatim — the sentence, the answer, the orders — as proof of the doctrine's deepest claim: the second chair is not a backup. It is the command, continued. The deputy commands. The roster holds. And Miasma is witnessed, crisis after crisis, by a chain that has never once been headless.
+
+### The Third Chair
+
+Behind the deputy's second chair stands the third — the deputy's own deputy, briefed one level down, ready one succession further. The third chair extends the doctrine's certainty past a single failure: the command continues if the commander falls, and continues again if the deputy falls after. Third chairs train the way deputies train — briefed fully, deciding nothing, holding readiness without ambition. Successions through the third chair are rare and total: the archive records two, both seamless, both proving the doctrine's depth. The command of Miasma has never been headless, never been deputy-less, and never — on any watch, in any crisis — lacked someone briefed, ready, and sworn. The second chair continues the command. The third chair continues the continuation.
+
 ## Trivia
 
 - One of the first catalogued **Hazard-Lament** entities in Somnarak.
