@@ -498,7 +498,7 @@ The kiln exploded into combat.
 | - Node 07: Auditor Yuna & Minho (Purging High-Pressure Steam        |
 |   Conduits)                                                         |
 | - Node 08: 24 Civilian Captives (Cognitive Shields Holding Intact)  |
-| - Node 10: SE-C-IIIγ-120 'Rage Cage' (BERSERK STATE / Grudge Fury  |
+| - Node 10: SE-C-IIIγ-120 'Rage Cage' (BERSERK STATE / Grudge Fury   |
 |   Surge)                                                            |
 +---------------------------------------------------------------------+
 | - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50   |

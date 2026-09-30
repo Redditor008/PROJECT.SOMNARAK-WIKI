@@ -1050,7 +1050,7 @@ Specialist Han performed *Viderehan* observation inside Chamber 031 (*The Observ
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE CHORAL HARMONY                                    |
-| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                            |
 | INTRUSION POINT : FLOOR 2 BIRD ROTUNDA                              |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1503,7 +1503,7 @@ Specialist Yoon entered Chamber 15, kneeling before the towering, glowing form o
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE DAWN CORONA                                       |
-| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                            |
 | INTRUSION POINT : FLOOR 4 RESEARCH HUB                              |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -1948,7 +1948,7 @@ Specialist Shin performed the final scheduled *Flerehan* harvest from the Maw. T
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE GATHERING DAWN                                    |
-| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                            |
 | INTRUSION POINT : FLOOR 1 RETROFIT VAULT                            |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |

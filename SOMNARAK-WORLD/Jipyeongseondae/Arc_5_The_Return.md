@@ -26,8 +26,8 @@
 | - Total Health (HP): 5,900 HP | Posture Pool: 380/380               |
 | - Stagger 1 Proc : 60% Posture Strain (228 Posture) / Cannon Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Marauder Route)           |
-| - Resistances : Weight 2.0x (Exposed), Grudge 1.5x, Lament 0.5x, Void |
-|   0.5x                                                              |
+| - Resistances : Weight 2.0x (Exposed), Grudge 1.5x, Lament 0.5x,    |
+|   Void 0.5x                                                         |
 +---------------------------------------------------------------------+
 | TARGETABLE COMBAT ANCHORS:                                          |
 | 1. Rotary Cannons  : 1,500 HP                                       |

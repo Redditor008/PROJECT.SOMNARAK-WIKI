@@ -39,7 +39,7 @@ The playable system is organized into five decoupled architectural modules:
                                  v
 +-------------------------------------------------------------------+
 |                     COMBAT ENGINE DISPATCHER                      |
-|  - Phase Controller (6-Turn Macro Cycle & Phase-End Ticks)           |
+|  - Phase Controller (6-Turn Macro Cycle & Phase-End Ticks)        |
 |  - Turn Dispatcher (AP Allocation, Initiative Sorting)            |
 |  - Action Queue & Clash Evaluator                                 |
 +-------------------------------------------------------------------+

@@ -783,13 +783,13 @@ Sorrow itself manifests across **four elemental aspects** — each attacking a d
 +==============+=======+=======+=======+=======+
 | Attack\Guard | Mind  | Body  | Soul  |  Han  |
 +==============+=======+=======+=======+=======+
-|Lament |Resist | Part  |Strong | Weak  |
+|Lament |Resist | Part  |Strong | Weak         |
 +--------------+-------+-------+-------+-------+
-|Grudge  | Part  |Resist | Weak  |Strong |
+|Grudge  | Part  |Resist | Weak  |Strong       |
 +--------------+-------+-------+-------+-------+
-|Void   |Strong | Weak  |Resist | Part  |
+|Void   |Strong | Weak  |Resist | Part         |
 +--------------+-------+-------+-------+-------+
-|Weight| Weak  |Strong | Part  |Resist |
+|Weight| Weak  |Strong | Part  |Resist         |
 +==============+=======+=======+=======+=======+
 ```
 
@@ -3404,7 +3404,7 @@ When an agent's Composure hits 0, they do not instantly undergo irreversible phy
 +----------------------+-----------------------+
 | Composure (♣)| Lament Weeping (Echo)         |
 +----------------------+-----------------------+
-| Resolve (♦ Weight)    | Weight Sabotage(Unlock|
+| Resolve (♦ Weight)   | Weight Sabotage(Unlock|
 +======================+=======================+
 ```
 

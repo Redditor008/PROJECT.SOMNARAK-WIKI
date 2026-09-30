@@ -260,8 +260,8 @@ A deafening acoustic wail shook the cavern walls.
 | - Total Health (HP): 3,600 HP | Posture Pool: 300/300               |
 | - Stagger 1 Proc : 60% Posture Strain (180 Posture) / Tendril Break |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Slumber)         |
-| - Resistances : Grudge 2.0x (Exposed), Void 1.5x, Weight 1.0x, Lament |
-|   0.5x                                                              |
+| - Resistances : Grudge 2.0x (Exposed), Void 1.5x, Weight 1.0x,      |
+|   Lament 0.5x                                                       |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
 | 1. Canopy Tendrils : 950 HP                                         |

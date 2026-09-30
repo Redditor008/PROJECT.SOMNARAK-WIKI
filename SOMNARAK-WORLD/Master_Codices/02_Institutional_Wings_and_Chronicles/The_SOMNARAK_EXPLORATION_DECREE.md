@@ -313,7 +313,7 @@ The vanguard of the SED consists of seven sworn specialists who spearhead the hi
 | - Adamantine Bastion: Harin's armor ignores light stagger pushback. |
 | ------------------------------------------------------------------- |
 | P2: PANIC / COMPOSURE (DEPTH CLAUSTROPHOBIA & SANITY ANCHORS)       |
-| - Composure Gauge (0-50 SP): Measures nerve against depth terror.  |
+| - Composure Gauge (0-50 SP): Measures nerve against depth terror.   |
 | - Depth Claustrophobia (< 15 SP): Operative suffers panic, -2       |
 |   Clash.                                                            |
 | - Harmonic Repose: Sora's Silver cowl restores +15 SP squad-wide.   |

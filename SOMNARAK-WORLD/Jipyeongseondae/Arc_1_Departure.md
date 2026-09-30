@@ -26,8 +26,8 @@
 | - Total Health (HP): 4,800 HP | Posture Pool: 340/340               |
 | - Stagger 1 Proc : 60% Posture Strain (204 Posture) / Battery Break |
 | - Stagger 2 Proc   : 0% Posture Collapse (Fortress Capitulation)    |
-| - Resistances : Weight 2.0x (Exposed), Grudge 1.5x, Void 0.5x, Lament |
-|   0.5x                                                              |
+| - Resistances : Weight 2.0x (Exposed), Grudge 1.5x, Void 0.5x,      |
+|   Lament 0.5x                                                       |
 +---------------------------------------------------------------------+
 | TARGETABLE COMBAT ANCHORS:                                          |
 | 1. Rail Battery    : 1,200 HP                                       |

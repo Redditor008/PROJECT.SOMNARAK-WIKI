@@ -241,7 +241,7 @@ All overland tactical combat encounters execute across the standardized 10-node 
 | - Slag Absorption: Cheonbulok gear absorbs 30% thermal/fire damage. |
 | ------------------------------------------------------------------- |
 | P2: PANIC / COMPOSURE (SANDSTORM DELIRIUM & ACOUSTIC GROUNDING)     |
-| - Composure Gauge (0-50 SP): Measures nerve against howling dust   |
+| - Composure Gauge (0-50 SP): Measures nerve against howling dust    |
 |   winds.                                                            |
 | - Sandstorm Delirium (< 15 SP): Operative suffers vertigo, -3       |
 |   Clash.                                                            |

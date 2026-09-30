@@ -328,7 +328,7 @@ Equipped M.A.W. weight classes dramatically alter an operative's survival profil
 | - Slag Absorption: Cheonbulok gear absorbs 30% thermal/fire damage. |
 | ------------------------------------------------------------------- |
 | P2: PANIC / COMPOSURE (SANDSTORM DELIRIUM & ACOUSTIC GROUNDING)     |
-| - Composure Gauge (0-50 SP): Measures nerve against howling dust   |
+| - Composure Gauge (0-50 SP): Measures nerve against howling dust    |
 |   winds.                                                            |
 | - Sandstorm Delirium (< 15 SP): Operative suffers vertigo, -3       |
 |   Clash.                                                            |
@@ -484,7 +484,7 @@ Below is the turn-by-turn operational battle log demonstrating the 10-node overl
 |   | Inflicts 1-turn immobilize.                                        |
 | -------------------------------------------------------------------    |
 | PAGE 05: ACOUSTIC QUENCH (Grade Gamma / 3 AP / Band 3-4 Mid-Long)      |
-| - Dice: Null-Pulse 15-20, Block 12-16 [Void] | Quenches sandstorms.  |
+| - Dice: Null-Pulse 15-20, Block 12-16 [Void] | Quenches sandstorms.    |
 | -------------------------------------------------------------------    |
 | PAGE 06: CRAWLER SIEGE CALL-IN (Grade Delta / 4 AP / Band 5            |
 | Extreme)                                                               |

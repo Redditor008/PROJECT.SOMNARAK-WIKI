@@ -277,8 +277,8 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 | - Total Health (HP): 4,800 HP | Posture Pool: 340/340               |
 | - Stagger 1 Proc : 60% Posture Strain (204 Posture) / Glaive Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Pacification)    |
-| - Resistances : Void 2.0x (Exposed), Lament 1.0x, Grudge 0.5x, Weight |
-|   0.5x                                                              |
+| - Resistances : Void 2.0x (Exposed), Lament 1.0x, Grudge 0.5x,      |
+|   Weight 0.5x                                                       |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
 | 1. Fury Glaive     : 1,150 HP                                       |

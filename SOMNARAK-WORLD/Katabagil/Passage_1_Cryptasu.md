@@ -346,7 +346,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 | - Total Health (HP): 2,400 HP | Posture Pool: 260/260               |
 | - Stagger 1 Proc : 60% Posture Strain (156 Posture) / Siphon Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Pacification)    |
-| - Resistances      : Grudge 2.0x (Exposed), Lament 0.5x, Void 1.0x    |
+| - Resistances      : Grudge 2.0x (Exposed), Lament 0.5x, Void 1.0x  |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
 | 1. Left Siphon Arm : 600 HP | Posture 180/180 (Siphons brine / AoE) |

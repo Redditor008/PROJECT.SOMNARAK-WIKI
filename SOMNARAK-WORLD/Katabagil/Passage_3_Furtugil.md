@@ -259,8 +259,8 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 | - Stagger 1 Proc : 60% Posture Strain (168 Posture) / Mandible      |
 |   Break                                                             |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Derailment)      |
-| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Weight 1.0x, Grudge |
-|   0.5x                                                              |
+| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Weight 1.0x,      |
+|   Grudge 0.5x                                                       |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
 | 1. Rail Mandibles  : 850 HP                                         |

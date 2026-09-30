@@ -26,8 +26,8 @@
 | - Stagger 1 Proc : 60% Posture Strain (216 Posture) / Mandible      |
 |   Break                                                             |
 | - Stagger 2 Proc   : 0% Posture Collapse (Leviathan Pacification)   |
-| - Resistances : Weight 2.0x (Exposed), Grudge 1.5x, Void 0.5x, Lament |
-|   0.5x                                                              |
+| - Resistances : Weight 2.0x (Exposed), Grudge 1.5x, Void 0.5x,      |
+|   Lament 0.5x                                                       |
 +---------------------------------------------------------------------+
 | TARGETABLE COMBAT ANCHORS:                                          |
 | 1. Burrow Mandibles: 1,400 HP                                       |

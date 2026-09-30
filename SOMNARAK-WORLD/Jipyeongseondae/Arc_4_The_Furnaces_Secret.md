@@ -26,7 +26,7 @@
 | - Total Health (HP): 6,200 HP | Posture Pool: 400/400               |
 | - Stagger 1 Proc   : 60% Posture Strain (240 Posture) / Vent Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Thermal Re-Harmonization) |
-| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Heat 0.5x, Weight   |
+| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Heat 0.5x, Weight |
 |   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMBAT ANCHORS:                                          |

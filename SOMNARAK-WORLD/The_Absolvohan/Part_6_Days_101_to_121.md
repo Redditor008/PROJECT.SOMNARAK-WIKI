@@ -1482,7 +1482,7 @@ At 16:30, a blinding cyan core manifests in the Floor 4 Sub-Central Hall:
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE DAWN SPARK                                        |
-| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                            |
 | INTRUSION POINT : FLOOR 4 SUB-CENTRAL HALL                          |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |

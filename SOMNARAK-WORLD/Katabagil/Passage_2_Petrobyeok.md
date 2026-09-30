@@ -347,7 +347,7 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 | - Total Health (HP): 2,800 HP | Posture Pool: 260/260               |
 | - Stagger 1 Proc : 60% Posture Strain (156 Posture) / Hammer Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Dismantling)     |
-| - Resistances : Lament 2.0x (Exposed), Grudge/Void 1.0x, Weight 0.5x  |
+| - Resistances : Lament 2.0x (Exposed), Grudge/Void 1.0x, Weight 0.5x|
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
 | 1. Left Siege Hammer: 700 HP                                        |

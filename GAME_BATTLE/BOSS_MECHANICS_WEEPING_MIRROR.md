@@ -228,7 +228,7 @@ Upon achieving terminal Composure Meltdown against `SE-C-IVδ-195`, the Reverie 
 +=====================================================================+
 | RECOVERED ARTIFACT  | TYPE   | GRADE | RESONANCE & SPECIAL EFFECT   |
 +---------------------------------------------------------------------+
-| The Sorrow Lens     | Weapon | Gr 5  | Exposed Void Optical Beam      |
+| The Sorrow Lens     | Weapon | Gr 5  | Exposed Void Optic Beam      |
 | The Sorrow Veil     | Suit   | Gr 5  | High Void / Mnemonic Ward    |
 | The Sorrow Monocle  | Stigma   | Gr 5  | +25 Clarity / Introspection|
 | The Mirror GlassMask| Relic  | Gr 5  | Reflects 20% Damage Taken    |

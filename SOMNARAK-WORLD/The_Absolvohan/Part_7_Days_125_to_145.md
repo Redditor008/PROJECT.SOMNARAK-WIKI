@@ -2325,7 +2325,7 @@ At 17:15, a radiant, shimmering gateway manifests in Floor 3's Archive Rotunda:
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE HORIZON OF HOPE                                   |
-| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                            |
 | INTRUSION POINT : FLOOR 3 ARCHIVE ROTUNDA                           |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |

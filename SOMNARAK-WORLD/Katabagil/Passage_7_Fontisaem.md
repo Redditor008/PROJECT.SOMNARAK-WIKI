@@ -273,7 +273,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 | - Total Health (HP): 6,000 HP | Posture Pool: 360/360               |
 | - Stagger 1 Proc   : 60% Posture Strain (216 Posture) / Halo Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Solace)          |
-| - Resistances : Void 2.0x (Exposed), Grudge 1.0x, Lament/Weight 0.5x  |
+| - Resistances : Void 2.0x (Exposed), Grudge 1.0x, Lament/Weight 0.5x|
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
 | 1. Aura of Grief   : 1,200 HP                                       |

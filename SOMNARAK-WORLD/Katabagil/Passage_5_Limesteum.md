@@ -274,8 +274,8 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 | - Total Health (HP): 4,000 HP | Posture Pool: 320/320               |
 | - Stagger 1 Proc : 60% Posture Strain (192 Posture) / Cleaver Break |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Solidification)  |
-| - Resistances : Lament 2.0x (Exposed), Void 1.5x, Grudge 0.5x, Weight |
-|   0.5x                                                              |
+| - Resistances : Lament 2.0x (Exposed), Void 1.5x, Grudge 0.5x,      |
+|   Weight 0.5x                                                       |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
 | 1. Magma Cleaver   : 1,050 HP                                       |

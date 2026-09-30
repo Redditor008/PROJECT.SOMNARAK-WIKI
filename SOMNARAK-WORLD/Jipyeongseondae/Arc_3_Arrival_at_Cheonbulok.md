@@ -25,8 +25,8 @@
 | - Total Health (HP): 5,800 HP | Posture Pool: 380/380               |
 | - Stagger 1 Proc : 60% Posture Strain (228 Posture) / Cleaver Break |
 | - Stagger 2 Proc   : 0% Posture Collapse (Gladiatorial Submission)  |
-| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Heat 0.5x, Weight   |
-|   0.5x                                                              |
+| - Resistances : Void 2.0x (Exposed), Lament 1.5x, Heat 0.5x,        |
+|   Weight 0.5x                                                       |
 +---------------------------------------------------------------------+
 | TARGETABLE COMBAT ANCHORS:                                          |
 | 1. Boiling Cleaver : 1,500 HP                                       |

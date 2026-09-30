@@ -1760,7 +1760,7 @@ At 16:30, the facility lights turn pitch black, replaced by an eerie, pulsing cy
 | TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
 +---------------------------------------------------------------------+
 | DESIGNATION : THE ECHO OF CHEONBULOK                                |
-| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                             |
+| CLASSIFICATION : ASHEN (CYAN) TIDE WATCH                            |
 | INTRUSION POINT : SUBTERRANEAN VENT CORE                            |
 +---------------------------------------------------------------------+
 | HOSTILE PARAMETERS:                                                 |
@@ -2558,7 +2558,7 @@ At 15:30, seismic sensors on Floor 2 detect violent drilling beneath the contain
 | CLASSIFICATION : AMBER (WEIGHT) SECOND WATCH CARAPACE HOSTIL        |
 | INTRUSION POINT : FLOOR 2 CONTAINMENT TRENCH (NODE 02 INGRESS)      |
 | HOSTILE PARAMETERS : HP 220/220 | Posture 110/110 | Speed 4 (2 AP)  |
-| ATTACK AFFINITY : Weight (Kinetic Tremor / Obsidian Rupture)           |
+| ATTACK AFFINITY : Weight (Kinetic Tremor / Obsidian Rupture)        |
 | AFFINITY VULNERABILITY: Void (Skewer / Energy Dissolution: 1.5x)    |
 | SPECIAL THREAT : Subterranean burrow cancels ranged targetin        |
 | TACTICAL ORDERS : PIN AT NODE 02; BREAK CARAPACE WITH HEAVY C       |

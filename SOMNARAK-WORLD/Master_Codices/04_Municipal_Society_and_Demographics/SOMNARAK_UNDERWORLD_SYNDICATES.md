@@ -187,7 +187,7 @@ The syndicate maintains an exhaustive private map of every drainage flue, abando
 | SIGNATURE MOVE : 'Acoustic Blindfold' (Disrupts target perception   |
 | on Node 1-10)                                                       |
 | AFFLICTION CAUSE: 'Resonance Mirage' (Target clash rolls suffer -3  |
-| lot power)                                                         |
+| lot power)                                                          |
 | VULNERABILITY : Extremely low health pool; folds instantly to heavy |
 | blunt hits                                                          |
 +=====================================================================+
