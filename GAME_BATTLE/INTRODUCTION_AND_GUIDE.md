@@ -200,7 +200,7 @@ Authors and specialists must strictly observe the four quality laws of the Somna
 4. **Native Somnarak Nomenclature Only:**
    - Use Sorrow Entities (never Abnormalities), SECC codes, Coherence Ranks I to V, Potency Grades α to ω.
    - Use M.A.W. equipment (never E.G.O).
-   - Use Composure and Meltdown (never Sanity and Distortion).
+   - Use Composure and Meltdown (never Sanity; Distortion only as a physics word, never the phenomenon).
    - Use Wardens, Enforcers, Custodians, Keepers, and Surveyors (never Fixers).
 
 ---

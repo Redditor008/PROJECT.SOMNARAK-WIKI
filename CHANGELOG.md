@@ -10,6 +10,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Rounds 13–14 vocabulary audits (common-word principle)** —
+  - Restored common words over rarer synonyms: `Block`/`Counter` dice, `Dulled` resistance tier, `Echo-Core Suppression` (16 files).
+  - Closed the SP question: `SP` stays as the Composure-gauge unit (1,643 uniform uses; `CP` already means Comprehension Points); `Clarity` remains the separate attribute.
+  - Verified zero PM-signature terms across 46 checks (19 letter-corps, 8 obscure inventions, E.G.O/Sephirah/Qliphoth/Enkephalin/Cogito/Golden Bough/Mirror Dungeon/Sinners/Dante/Lobotomy/Kromer, Argalia/Myo/TT2/Warp Train/Beholder/Bloodfiend/CENSORED); surviving `E.G.O`/`Sanity` hits are style-guide prohibitions only.
+  - Affirmed natural-word keeps: Smothering Mother, Apostle Maker, Breach Containment, Glamour, Cell Breach, Composure, Ticks, Distortion (physics-word only).
+
 - **Resolution of Review No. 4 Non-Canonical Links (`INTEGRITY_AND_LORE_REVIEW.md`)** —
   - Fully resolved all remaining non-canonical reference links in `SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md`, `SOMNARAK-WORLD/Tactical_Combat_Engine/WHAT_CAN_BE_DONE.md`, `SOMNARAK-WORLD/MAW_Codex_Sets/README.md`, `RULE-TO-FOLLOW.md`, `DEVELOPMENT.md`, `GOVERNANCE.md`, and `SESSION_BREAK_PRECAUTION.md`.
   - Re-verified 100% pass across all built-in audit suites and zero broken links across canonical files.
