@@ -1,110 +1,66 @@
-# Review No. 4 — Post FIX_BRIEF Remediation
-### Commit: 0a315ef | 2026-09-25 | 1,980 files | 3,430,789 words
+V1–V4 MISSED FIXED LIST
 
----
+Items marked PARTIAL are also listed here, because they aren't fully fixed.
 
-## 🟢 ALL 5 CRITICAL FIXES FROM FIX_BRIEF: CONFIRMED FIXED
+V1 - NOT FIXED
 
-| # | Fix | Status |
-|---|---|---|
-| 1a | Katabagil/README.md: `SED_PASSAGES` → `EXPLORATION_DECREE` | ✅ FIXED |
-| 1b | Katabagil/Passage_1_Cryptasu.md: same | ✅ FIXED |
-| 1c | Katabagil/Passage_2_Petrobyeok.md: same | ✅ FIXED |
-| 1d | Katharcheok/README.md: `UCD_PACIFICATION` → `UNDERWORLD_CLEANUP_DESCEND` | ✅ FIXED |
-| 1e | Katharcheok/Operation_1_Velumtal.md: `Memory_Washers` → `Lethepyo` | ✅ FIXED |
+V1-D (NOT FIXED). The First Tear and Forgotten God ages still conflict.
 
-**Zero broken links remain in any canonical narrative file.**
+Descent_4_The_Tear.md, line 100, still says "four billion years of oldest grief".
+Descent_5_The_Waking.md, line 119, still says the God sat "for the first time in four thousand years".
+The dossiers SE-C-Vδ-290 (Tear) and SE-C-Vδ-265 (God) say six thousand years and six millennia.
+Six thousand years is also longer than the timeline allows, since the world is only about 4,238 years old.
+Fix: pick one age that fits the timeline, at most 4,238 years. Then change Descent 4, Descent 5 and both dossiers to match. The added "record split" note explains Tear versus God. It doesn't settle the ages.
+Other "six thousand years" lines to check: Absolvohan/Part_8_Days_149_to_177.md line 955, Unknown_Entities/SE-C-IIIγ-248 and SE-N-IVδ-901.
+V1-E (NOT FIXED). The timeline now contradicts itself on Cycle versus Year.
 
----
+A new note in CANON_TIMELINE.md says no Cycle-to-Year conversion exists except Cycle 1,778 = Year 4,238.
+Line 53 still pairs "Year 3,972" with "Cycle 1,512". Line 60 says 1,778 cycles last about 6 external years.
+Fix: remove or reword the "Cycle 1,512" pairing on line 53. It appears in both copies of the timeline.
+V1-F (NOT FIXED). The SED dates still disagree between documents.
 
-## BUILT-IN AUDIT: ALL PASS ✅
+The_SOMNARAK_EXPLORATION_DECREE.md (chronology near lines 548–566) says Year 1,840 for the SED mandate, Year 4,232 for the Absolvohan activating, Year 4,233 for the Katabagil descent, and Year 4,247 for the Nadir.
+CANON_TIMELINE.md says SED descents ran Years 2,460–3,970, but the decree that created SED came around Year 4,200 (a 1,700-year gap).
+The Absolvohan README and Part 9 end at Year 4,233, but the timeline puts the Dawn at 4,238.
+The new note in GAME_BATTLE Scenario 04 ("Year Zero = MMSS 2460") doesn't reconcile any of these.
+Fix: choose one SED chronology and make the decree codex, the timeline, Scenario 04 and the Absolvohan end-year agree.
+V1-H (PARTIAL). The 999 placeholder HPs are all fixed, and the lint rule was retired. Two small things remain.
 
-```
-1. UTF-8 Integrity        : PASS (1,785 files, 22.00 MB)
-2. Macro-Canon Codices    : PASS (44 in-world, 3 editorial)
-3. Sorrow Entities        : PASS (292 unique codes, 0 paired)
-4. M.A.W. Equipment Sets  : PASS (198/198 complete)
-5. Auxiliary Collections  : PASS (all at expected counts)
-6. Text Box Symmetry      : PASS (0 crooked rows)
-OVERALL LORE HEALTH: PASS
-```
+The Walking Calendar dossier (SE-C-IVδ-220, line 17) still says "Movement: Stationary — a device", yet its own text says "each step adding another year" and "lead-heavy and slow". Change the movement field to match the description.
+tools/banned_strings.txt line 23 still bans "Year 4247", although the lint rule that used it was retired and several codices legitimately use 4247.
+V1-I (PARTIAL). Dossier boilerplate fell from 41% to about 37%. It is still high.
 
----
+V2 - NOT FIXED
 
-## REMAINING BROKEN LINKS: 143 (all non-canonical)
+V2-God age (NOT FIXED). This is the same problem as V1-D.
 
-| Category | Count | Files | Nature |
-|---|---|---|---|
-| CHANGELOG (historical) | 45 | 1 | Old file names — correct when written |
-| REFERENCE_SOMNARAK_WIKI (internal) | 43 | 9 | Audit/transfer docs — not reader-facing |
-| Governance docs | 15 | 3 | Template patterns + deleted tools |
-| Our review file (INTEGRITY_AND_LORE_REVIEW.md) | 15 | 1 | Contains FIX_BRIEF content committed to repo |
-| GAME_BATTLE (wildcards) | 11 | 2 | Glob conventions (`SCENARIO_*.md`) — not actual refs |
-| Master_Codices (PROJECT_SOMNARAK.md) | 6 | 1 | Old file names |
-| SESSION_BREAK_PRECAUTION | 4 | 1 | Template placeholders + deleted artifacts |
-| Other (TCE, MAW README) | 4 | 2 | Future tooling + missing registry map |
-| **Total** | **143** | **20** | **Zero in canonical files** |
+V2-Thin Ordeals (PARTIAL). 20 of the 60 Ordeals are now deep: the 10 Tide Watch files and the 10 in batch 1 of the new deepening work. The other 40 are still about 950 words. That work is in progress, so this is for your tracking only.
 
----
+V3 - NOT FIXED
 
-## ALL OTHER CHECKS: CLEAN ✅
+V3-N2 (PARTIAL). 19 serial numbers still repeat within a prefix letter. This is documented in the Entity Codex, but the SOMNARAK_DOCUMENT_RULES.md ID section is still wrong. It still uses the old SE-[Number] format.
 
-| Check | Result |
-|---|---|
-| Duplicate files | 0 groups |
-| Entities | C:159, O:61, N:72 = 292 |
-| Ordeals | 60 (5×4×3 perfect) |
-| Master Codices | 44 (README says 44 ✅) |
-| Spelling | Absolvohan:89, Absolovhan:5 ([sic] markers) |
-| PM crossover in canonical | 8 files (all acceptable context) |
-| Empty/stub files | 0 |
-| Hangul in boxes | 721 (comparison tables — not violations) |
+V3-N4 (PARTIAL). The entity counts are fixed in the catalog and the timeline, but "292" is still in these files:
 
----
+TEMPLATES/00, 01, 08, 19 and 23
+Unknown_Entities/README.md
+WHAT_CAN_BE_DONE.md
+README_FIRST.md
+SOMNARAK-WORLD/README.md, which also says "159 City" instead of 158
+The root README.md also still says "44 codices", "1,706 files" next to "1,897", and "12-volume" next to "16 volumes". The audit's "52 / 35" expected-count line looks out of date too.
 
-## GRADE: **A (96/100)**
+V3-N7 (PARTIAL). A "sampled days" note and a Quiet Season bridge were added, but story is still about 4.7% of the Absolvohan.
 
-| Dimension | Score |
-|---|---|
-| Canonical file integrity | **A+** (zero broken links) |
-| Built-in audit | **A+** (all PASS) |
-| Lore consistency | **A+** (enhanced across all rounds) |
-| Governance/historical docs | **B+** (45+15+4=64 broken — all non-impactful) |
-| Overall | **A (96/100)** |
+V3-N8 (PARTIAL). Six Sovereign dossiers were expanded, but the median length is still flat across ranks, about 4,700–5,100 words.
 
-**The repo is now clean across all canonical, narrative, entity, and operational files.** The remaining 143 broken links are entirely in historical records, internal audit docs, and governance files — none affect reader experience or canonical integrity.
+V3-N9 (PARTIAL). The ranks are correct in Master_Codices/README.md. THE_HAND_DR_LAYOUT.svg still shows Three Birds as RANK IV (should be III) and Smothering Mother as RANK III (should be IV).
 
----
+V3-N10 (NOT FIXED). This is a process item for you. main is still at 8f7138fb, and the work is only on the arena branch.
 
-*Review No. 4 complete. Fresh clone of commit 0a315ef. All FIX_BRIEF items verified. Full independent scan + built-in audit performed.*
+V4 - NOT FIXED
 
----
+V4-W1 (PARTIAL). The canonical rank names are in almost every file, but two "Wail" leftovers remain.
 
-## REMEDIATION REPORT — Review No. 4 Non-Canonical Links Resolved
-
-Following Review No. 4's findings, the remaining non-canonical reference links across Master Codices, Tactical Combat Engine, and Governance documents were comprehensively harmonized:
-
-1. **`SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md` (6/6 resolved):**
-   - Replaced all legacy flat-directory file links with their canonical categorized subdirectories (`01_Cosmology_and_World_Order/`, `02_Institutional_Wings_and_Chronicles/`, `03_Systems_Combat_Engine_and_Physics/`, `04_Municipal_Society_and_Demographics/`, `05_Entities_Tales_and_Fractures/`).
-   - Corrected lowercase layout reference to root `SOMNARAK_CITY_LAYOUT.svg`.
-   - Updated template schema references to canonical authoring schemas.
-2. **Tactical Combat Engine & `SOMNARAK-WORLD/MAW_Codex_Sets/README.md` (4/4 resolved):**
-   - Linked battle system files to their canonical Master Codex locations (`SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM.md` and `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM_STYLES.md`).
-   - Clarified JSON specification object headers for Operative and Entity schemas.
-   - Fixed `REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md` and `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md` cross-references in `SOMNARAK-WORLD/MAW_Codex_Sets/README.md`.
-3. **Governance Documents (15/15 resolved):**
-   - Resolved Dawn of Hope and Wound Walkers codices in `RULE-TO-FOLLOW.md` to point to `SOMNARAK-WORLD/Master_Codices/`.
-   - Linked canonical entity dossier `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md` in `DEVELOPMENT.md`.
-   - Corrected crossover policy reference to `tools/banned_strings.txt` in `GOVERNANCE.md`.
-   - Synchronized Absolvohan overview pointer to `SOMNARAK-WORLD/The_Absolvohan/ABSOLOVHAN_OVERVIEW.md` in `SESSION_BREAK_PRECAUTION.md`.
-4. **M.A.W. Registry & Changelog References (27/27 resolved):**
-   - Resolved formal ID collision map references in `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md` and `REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md` to point directly to the canonical status matrices.
-   - Updated living file references in `CHANGELOG.md` to their full canonical paths in `SOMNARAK-WORLD/` and `REFERENCE_SOMNARAK_WIKI/`.
-
----
-
-### Final Post-Remediation Status
-- **Canonical Narrative Files:** **0 Broken Links (100% Green)**
-- **Master Codices & Engine Guides:** **0 Broken Links (100% Green)**
-- **Governance & Precaution Frameworks:** **0 Broken Links (100% Green)**
-- **Target Grade:** **A+ (100/100)**
+Pages/38-Classification Code.md, line 60, says "IV — Wail". It should say Entity.
+Descent_4_The_Tear.md, line 48, says "Wail rank". It should say Entity.
+V4-W6 (PARTIAL). The Transform line is in the rules doc. The rules say "at 15, onset begins", but the Junior Warden sits at exactly 15 SP in Descent 5 with no onset effects. Decide whether the line means "15 or below" or "below 15", and make the rules doc or Descent 5 match.
