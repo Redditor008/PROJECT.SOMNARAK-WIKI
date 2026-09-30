@@ -21,11 +21,11 @@
 
 ## Formation
 
-Spawned when raw, unprocessed Han reaches the First Watch threshold. The Han leaks from the facility's Han-flow channels and forms surface masses.
+Spawned when raw, unprocessed Han reaches the First Watch threshold. The Han leaks from the facility's Han-flow channels and forms surface masses. The R.D. Han-flow channels are not perfectly sealed — nothing under that much pressure ever is. Raw, unprocessed Han weeps through the micro-fractures and beads on the channel walls, gathering into surface masses where the flow runs richest. Two to three masses per event at first, budding to a dozen: the Seeping is the sound of the Weeping leaking upward, grief escaping its plumbing. The trumpet finds the leaks already sheeting the walls.
 
 ## Appearance
 
-2–3 purple-tinged amorphous masses of raw Han, approximately 1 meter across, clinging to walls, floors, and ceilings. They pulse like breathing organisms and emit a faint, dissonant hum.
+2–3 purple-tinged amorphous masses of raw Han, approximately 1 meter across, clinging to walls, floors, and ceilings. They pulse like breathing organisms and emit a faint, dissonant hum. Approximately a meter across, clinging to walls, floors, and ceilings with equal indifference to gravity. They pulse like breathing organisms — a slow ten-second rhythm, swelling and subsiding — and each pulse pushes the raw-Han film a little further across the surface. At 50 HP per mass they are fragile; the film they spread is the real entity. The Spore Loom (150 HP) sometimes spins its threads through a Seeping site, stitching the film into permanence. Mark the film’s edge with chalk; the chalk line is the only honest map.
 
 ## Behavior
 
@@ -33,18 +33,21 @@ Spawned when raw, unprocessed Han reaches the First Watch threshold. The Han lea
 |---|---|---|
 | **Spread** | Each mass slowly expands, covering surfaces with a film of raw Han. | Personnel who touch the film experience temporary Fracture symptoms: grey skin, dark veins, altered eyes. The effect lasts the rest of the shift. |
 | **Pulse** | The mass pulses every 10 seconds, emitting a wave of raw Han. | All within 3 meters take 3–5 damage to ALL stats (Composure, Resilience, Clarity, Resolve simultaneously). |
+| **Backflow** | Destroying a mass reverses the local channel pressure for one turn. | Cleared channels vent clean Han briefly — the only safe moment to enter the film zone unprotected. Time the core kill, ride the Backflow in, burn the film, ride it out. |
+
+The Spread is the siege: each mass oozes outward, filming surfaces with raw Han that inflicts temporary Fracture symptoms on touch — glassy stares, derailed thoughts, fingers that stop obeying. The Pulse is the clock: every ten seconds the mass throbs and everyone within three meters takes 3–5 damage to ALL stats at once, Composure, Resilience, and Clarity, no exceptions. The answer is the Backflow — kill the mass cleanly and the channel pressure reverses for one blessed turn, venting clean Han. One turn is enough for a burn crew that has rehearsed. Rehearse the burn, time the kill, and never touch the film to find out what Fracture feels like.
 
 ## Suppression Protocol
 
-Physical force destroys the central mass. The film must be burned away (Ferrehan — sustained presence while another agent destroys the core). Moderate HP on the core. The film itself is a hazard, not an entity.
+Physical force destroys the central mass. The film must be burned away (Ferrehan — sustained presence while another agent destroys the core). Moderate HP on the core. The film itself is a hazard, not an entity. Physical force destroys the central mass at 50 HP — but the mass is the minority of the problem. The film must be burned away, meter by meter, with Ferrehan practitioners holding sustained presence while another agent destroys the core; the film fights burning the way oil fights water. Moderate HP only describes the masses; the film has no HP at all, only extent. The Parasite Bloom (120 HP) fruits where film persists past the hour. Clear the masses first for the morale of it, then settle in for the film — the film is the shift.
 
 ## Facility Impact
 
-If unsuppressed: expand for 60 seconds, covering up to 5 meters of surface area each. The film dissipates after 2 minutes, but Fracture symptoms persist.
+If unsuppressed: expand for 60 seconds, covering up to 5 meters of surface area each. The film dissipates after 2 minutes, but Fracture symptoms persist. Sixty seconds of expansion covers up to five meters of surface per mass — walls, floors, ceilings, conduit, everything the film can wet. The film itself dissipates after two minutes, but Fracture symptoms persist in everyone it touched: glassy eyes, wrong answers, hands that forget their tasks. Post-event, every touched surface is swabbed and every exposed worker screened; the Fracture creeps quietly and declares itself late. The channels that leaked are re-sealed under witness, and the witness checks twice.
 
 ## R.D. Response Protocol
 
-Alert Level 1. Standard team. Ferrehan support for film cleanup. Do NOT touch the film with bare skin.
+Alert Level 1. Standard team. Ferrehan support for film cleanup. Do NOT touch the film with bare skin. Alert Level 1, standard team, Ferrehan support for film cleanup — and the standing order every responder learns first: do NOT touch the film with bare skin. Gloves, seals, distance; the film seeks warmth and finds it through cloth. One team’s first deployment ended with eleven Fracture screenings because a single private leaned on a wall. The wall is now marked, the private recovered, and the order is carved, not printed.
 
 
 
@@ -94,6 +97,8 @@ Alert Level 1. Standard team. Ferrehan support for film cleanup. Do NOT touch th
 - The Seeping is the sound of the Weeping leaking upward. The R.D. Han-flow channels are not perfectly sealed.
 - Spawn count: 8–12 entities per event.
 - Same Color Ordeals do not attack each other; different Colors will fight.
+- Quietest First Watch event: the Seeping makes no sound at all, and three events were found only because the chalk lines moved.
+- Filed as `ORDEAL-PURPLE-First-Watch`; the channel-seal inspection cycle was halved after the inquiry, and the sealant budget tripled.
 - Ordeal suppression permanently reduces facility Han-Density (unlike Sorrow Entity work, which adds to it).
 
 ## Document Information

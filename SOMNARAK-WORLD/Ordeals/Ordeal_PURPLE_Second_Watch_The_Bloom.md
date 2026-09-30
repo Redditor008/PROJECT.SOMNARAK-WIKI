@@ -21,11 +21,11 @@
 
 ## Formation
 
-Forms when raw Han reaches Second Watch density. The Seeping masses crystallize into structured growths that spawn smaller fragments.
+Forms when raw Han reaches Second Watch density. The Seeping masses crystallize into structured growths that spawn smaller fragments. Seeping masses that survive First Watch do not wash away — they crystallize. The raw film hardens into structured growths: twisted, thorny flora of purple Han-crystal that root deep and spawn smaller fragments. Three to five growths per event, each one a Seeping that graduated. The crystal growths resemble the Echo Gardens’ grief-flowers, but inverted — beautiful, purple, and parasitic, feeding on the sorrow that feeds them. The trumpet finds the garden already planted.
 
 ## Appearance
 
-3–5 purple Han-crystal growths resembling twisted, thorny flora — each 1–2 meters tall, rooted to a surface. They pulse with internal light and periodically bud off smaller crystal fragments that detach and crawl.
+3–5 purple Han-crystal growths resembling twisted, thorny flora — each 1–2 meters tall, rooted to a surface. They pulse with internal light and periodically bud off smaller crystal fragments that detach and crawl. Twisted thorny flora, each one to two meters tall, rooted to whatever surface the Seeping filmed — walls, floors, ceilings, the occasional load-bearing column. They pulse with internal light on the old ten-second Seeping rhythm, and periodically the thorns shiver all at once, which is the only warning the Burst gives. At 158 HP per growth they are sturdy but not siege-grade; the fragments they spawn are the real population. The Spore Loom at Greater grade (250 HP) spins between the growths, netting the approach routes. Admire the beauty from maximum range.
 
 ## Behavior
 
@@ -33,18 +33,21 @@ Forms when raw Han reaches Second Watch density. The Seeping masses crystallize 
 |---|---|---|
 | **Bloom** | The growth periodically buds a smaller fragment (every 15 seconds). | Each fragment is a mobile Purple First Watch-level entity that crawls toward personnel. If not destroyed, fragments accumulate rapidly. |
 | **Thorn Burst** | When damaged, the growth fires crystal thorns in all directions. | Each thorn deals 8–12 damage to a random stat. Thorn-impacted personnel develop temporary Fracture symptoms at the impact site. |
+| **Deadhead** | Buds take three turns to open into fragments. | Shears and fire on a strict rotation — a dedicated deadheader circling the growths keeps them sterile while the team works the cores. No open buds, no new fragments, no arithmetic surprises. |
+
+The Bloom is the factory: every fifteen seconds each growth buds a smaller fragment, a mobile First Watch-level crawler that scuttles for the nearest sorrow-rich corner. The Thorn Burst is the defense: damage the growth and it fires crystal thorns in all directions, 8–12 damage to a random stat each, punishing exactly the focused fire the doctrine requires. The answer is the Deadhead — buds need three turns to open, and a dedicated gardener with shears and a torch can keep every growth sterile while the team kills the cores. Sterilize, then execute; the Bloom cannot defend what it cannot finish growing.
 
 ## Suppression Protocol
 
-Physical force. Destroy the growth (moderate HP) to stop fragment spawning. Clear existing fragments quickly before they overwhelm the team. The growth's core (the root) is the weak point. Area-effect M.A.W. recommended for fragment clearing.
+Physical force. Destroy the growth (moderate HP) to stop fragment spawning. Clear existing fragments quickly before they overwhelm the team. The growth's core (the root) is the weak point. Area-effect M.A.W. recommended for fragment clearing. Destroy the growth at 158 HP to stop fragment spawning — the core first, always the core first, because every fifteen seconds of delay is another fragment crawling toward the team. Clear existing fragments quickly before they overwhelm; area-effect M.A.W. for the fragments, focused fire for the growths. The growth’s crystal sheds thorns when damaged, so the firing line works in relays — one rank fires while the other shields. The Parasite Bloom (220 HP) fruits where fragments cluster. Fifteen fragments per growth is the budget; count the buds and do the arithmetic out loud.
 
 ## Facility Impact
 
-If unsuppressed: the growths bloom for 90 seconds, spawning up to 15 fragments each. The fragments persist after the growths dissolve, becoming independent hazards.
+If unsuppressed: the growths bloom for 90 seconds, spawning up to 15 fragments each. The fragments persist after the growths dissolve, becoming independent hazards. Ninety seconds of blooming spawns up to fifteen fragments per growth — and the fragments persist after the growths dissolve, becoming independent mobiles that crawl the corridors seeding new Seepings. An unsuppressed Bloom is therefore a down payment on the next three events. Post-event sweeps run for a full cycle: every fragment unaccounted for is a Seeping scheduled. The crystal shards left behind are quarantined as hazardous flora; the archive’s shard collection grows by the crate.
 
 ## R.D. Response Protocol
 
-Alert Level 2. Level 3+ team. Area-effect M.A.W. for fragments. Target the growth cores first.
+Alert Level 2. Level 3+ team. Area-effect M.A.W. for fragments. Target the growth cores first. Alert Level 2, Level 3+ team, area-effect M.A.W. for fragments, target the growth cores first — the brief fits on an index card and the execution fills a shift. Doctrine requires a dedicated fragment-counter with a clicker; the count is called aloud every thirty seconds, and the team does not withdraw until the count reconciles with the buds. Fifteen per growth. No exceptions, no estimates.
 
 
 
@@ -94,6 +97,8 @@ Alert Level 2. Level 3+ team. Area-effect M.A.W. for fragments. Target the growt
 - The crystal growths resemble the Echo Gardens' grief-flowers, but inverted — beautiful, purple, and parasitic.
 - Spawn count: 5–8 entities per event.
 - Same Color Ordeals do not attack each other; different Colors will fight.
+- Most fecund Second Watch event: the theoretical maximum is seventy-five fragments per manifestation, and the record stands at seventy-one.
+- Filed as `ORDEAL-PURPLE-Second-Watch`; the fragment-counter’s clicker is issued as standard kit, and the clickers are never returned clean.
 - Ordeal suppression permanently reduces facility Han-Density (unlike Sorrow Entity work, which adds to it).
 
 ## Document Information

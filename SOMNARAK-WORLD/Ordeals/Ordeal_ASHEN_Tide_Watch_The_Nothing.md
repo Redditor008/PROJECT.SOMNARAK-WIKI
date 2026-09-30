@@ -22,11 +22,11 @@
 
 ## Formation
 
-The Ashen Tide Watch Ordeal. Only spawns during the Sorrow Tide. The accumulated Void Han of the facility coalesces into a single point of pure erasure — an entity that is defined by what it is not.
+The Ashen Tide Watch Ordeal. Only spawns during the Sorrow Tide. The accumulated Void Han of the facility coalesces into a single point of pure erasure — an entity that is defined by what it is not. Only spawns during the Sorrow Tide, when the facility’s accumulated Void Han crests past containment and coalesces. Not into a figure, not into a zone — into a single point of pure erasure, walking. One to three entities per event, each 650 HP of absolute absence. The Nothing is not hostile. It does not attack. It simply continues to exist, and to exist is to erase. It is the most patient entity in the archive, because patience is all it has ever needed. The trumpet sounds, and the hole in reality begins its walk.
 
 ## Appearance
 
-A shape that is difficult to perceive — not invisible, but rather 'not-there.' Personnel looking at it see a hole in reality, a place where the facility simply stops existing. It is roughly humanoid, roughly 3 meters tall, and it moves by erasing the space ahead of it and filling in behind. Where it walks, the corridor is permanently, subtly less real.
+A shape that is difficult to perceive — not invisible, but rather 'not-there.' Personnel looking at it see a hole in reality, a place where the facility simply stops existing. It is roughly humanoid, roughly 3 meters tall, and it moves by erasing the space ahead of it and filling in behind. Where it walks, the corridor is permanently, subtly less real. Not invisible but not-there: personnel looking at it see a hole in reality, a place where the facility simply stops — no walls, no floor, no light, only the outline of an absence approximately person-shaped. Instruments fail before eyes do: rangefinders return null, cameras develop blank frames, Han-meters read a negative they were not built to display. Erasure Projectors at Tide-Spawn grade (530 HP) orbit the absence, widening its margin; Eyeless Hounds (500 HP) run ahead, clearing the path of witnesses. Mark its position by what is missing around it.
 
 ## Behavior
 
@@ -35,18 +35,21 @@ A shape that is difficult to perceive — not invisible, but rather 'not-there.'
 | **Erasure Aura** | All reality within 5 meters of The Nothing begins to fade. | Personnel in range lose 20–30 Clarity per turn. Equipment ceases to function. The corridor itself becomes less defined — walls soften, floors lose texture, sounds dampen. |
 | **The Touch of Nothing** | The Nothing reaches for a target and touches them. | The target does not die. They are erased. Their body remains, functional, breathing — but the person inside is gone. An empty shell. This is the Somnarak equivalent of Instant Death: Instant Erasure. |
 | **Propagation** | Every 3 turns, The Nothing spawns a Ashen First Watch fragment. | The fragments spread the erasure zone, forcing the suppression team to split between The Nothing and its spawn. |
+| **Still Point** | The Nothing pauses where the erasure runs densest. | It never hurries and never rests — the pause is the only safe window in the whole event. Reposition, resupply, and count who remains; the walk resumes on its own schedule, and the schedule is never announced. |
+
+The Erasure Aura is the siege: all reality within five meters begins to fade, 20–30 Clarity per turn for personnel, equipment ceasing to function by degrees — guns forget their triggers, radios forget their voices. The Touch of Nothing is the end of argument: the target does not die but is erased, body remaining functional and empty, a person-shaped absence that breathes. The Propagation is the flank: every three turns a new Ashen First Watch fragment, spreading the erasure zone wider than the team can cover. And the Still Point is the mercy — the pause where the erasure runs densest, the only window to breathe. Use it for the count, not the rest: the Nothing resumes walking whether the team is ready or not, and readiness is the only tribute it accepts.
 
 ## Suppression Protocol
 
-The Nothing has extremely high HP and is resistant to most damage types. Only Void-aligned M.A.W. (weapons forged from Void-element entities) deal full damage. Physical and emotional attacks are partially erased on contact. The suppression team must include Flerehan support to anchor personnel against erasure, and Viderehan to track The Nothing's position (it is hard to perceive). Instant Erasure victims cannot be recovered — their shells must be evacuated. Echo-Core command required.
+The Nothing has extremely high HP and is resistant to most damage types. Only Void-aligned M.A.W. (weapons forged from Void-element entities) deal full damage. Physical and emotional attacks are partially erased on contact. The suppression team must include Flerehan support to anchor personnel against erasure, and Viderehan to track The Nothing's position (it is hard to perceive). Instant Erasure victims cannot be recovered — their shells must be evacuated. Echo-Core command required. At 650 HP and resistant to most damage types, the Nothing ignores everything except Void-aligned M.A.W. — weapons forged from Void-element entities deal full damage, and nothing else deals enough. At 37–104 Void per hit, the engagement is measured in volleys, not exchanges. The Geometric Void at Tide-Spawn grade (560 HP) rides the absence like a pilot fish; kill it first or fight the erasure inside its shadow. Propagation spawns an Ashen First Watch fragment every three turns — assign a dedicated fragment-team or be flanked by erasure while sieging the hole. Patience against patience; the Nothing has more. Bring more.
 
 ## Facility Impact
 
-If unsuppressed: The Nothing walks through the facility for 180 seconds, erasing everything and everyone in its path. The corridor it walked through becomes permanently 'less real' — a faded, dreamlike space where identity is unstable. Any personnel touched by The Nothing are gone. Their shells breathe. No one is home.
+If unsuppressed: The Nothing walks through the facility for 180 seconds, erasing everything and everyone in its path. The corridor it walked through becomes permanently 'less real' — a faded, dreamlike space where identity is unstable. Any personnel touched by The Nothing are gone. Their shells breathe. No one is home. One hundred eighty seconds of walking erases everything and everyone in its path — and the corridor it walked through becomes a place the facility no longer contains. Maps show a gap. Records show a gap. Personnel who worked that corridor remember a gap where their colleagues stood. The fragments it propagated persist after the walk, seeding lesser erasures for cycles. Full remediation means rebuilding the corridor from survey scratch — new walls, new numbers, new names — because nothing that was erased can be restored, only replaced.
 
 ## R.D. Response Protocol
 
-Alert Level 5. All available combat personnel with Void-aligned M.A.W. Echo-Core direct command. Full facility evacuation of The Nothing's projected path. This is the most feared Tide Watch Ordeal — the only one that permanently erases rather than damages.
+Alert Level 5. All available combat personnel with Void-aligned M.A.W. Echo-Core direct command. Full facility evacuation of The Nothing's projected path. This is the most feared Tide Watch Ordeal — the only one that permanently erases rather than damages. Alert Level 5, all available combat personnel with Void-aligned M.A.W., Echo-Core direct command, full facility evacuation of the Nothing’s projected path — the only response that evacuates for absence rather than presence. The path is projected, never known; the Nothing has never once deviated, and the doctrine is built on that single mercy. Spotters track the hole by its margin of missing floor, calling the advance one meter at a time. The call is always quiet. There is never anything to shout about. There is simply less, progressively.
 
 
 
@@ -96,6 +99,8 @@ Alert Level 5. All available combat personnel with Void-aligned M.A.W. Echo-Core
 - The Nothing is not hostile. It does not attack. It simply continues to exist, and to exist is to erase. It is the most patient entity in the facility. It has nowhere to be. It is already there.
 - Spawn count: 1–3 entities per event.
 - Same Color Ordeals do not attack each other; different Colors will fight.
+- Patient zero of absence: the archive’s first Nothing-walk erased eleven meters of corridor in 180 seconds, and the gap is preserved as a memorial.
+- Filed as `ORDEAL-ASHEN-Tide-Watch`; the memorial gap has no plaque, no number, and no name — by unanimous vote, there was nothing to write.
 - Ordeal suppression permanently reduces facility Han-Density (unlike Sorrow Entity work, which adds to it).
 
 ## Document Information

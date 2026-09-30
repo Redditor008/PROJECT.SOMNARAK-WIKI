@@ -22,11 +22,11 @@
 
 ## Formation
 
-The Obsidian Tide Watch Ordeal. Only spawns during the Sorrow Tide. A single, immense manifestation of pure Weight Han — the accumulated crushing pressure of the entire facility given form.
+The Obsidian Tide Watch Ordeal. Only spawns during the Sorrow Tide. A single, immense manifestation of pure Weight Han — the accumulated crushing pressure of the entire facility given form. Only spawns during the Sorrow Tide, when the facility’s Weight Han crests past every gauge and keeps climbing. A single, immense manifestation of pure Weight Han — the accumulated crushing pressure of every unmourned death in Somnarak, given a body. It does not hate. It simply presses down, and down, and down. One to three entities per event, each 650 HP of walking geology. The trumpet does not summon the Mountain; the Tide delivers it, the way oceans deliver weather.
 
 ## Appearance
 
-A single entity, 8–10 meters tall, shaped like a rough, asymmetrical mountain of Weight Han-crystal. It fills an entire corridor cross-section and moves by slowly, inexorably advancing — crushing everything in its path. The floor cracks and buckles beneath it. The walls bow inward.
+A single entity, 8–10 meters tall, shaped like a rough, asymmetrical mountain of Weight Han-crystal. It fills an entire corridor cross-section and moves by slowly, inexorably advancing — crushing everything in its path. The floor cracks and buckles beneath it. The walls bow inward. Shaped like a rough, asymmetrical mountain of Weight Han-crystal, filling an entire corridor cross-section — walls crack outward to admit it, ceilings lift or fail. It moves at half a meter per second, which sounds merciful until the arithmetic lands: half a meter per second through everything, forever, unstoppable and unhurried. Cracks vent across its surface, glowing faintly with compressed tonnage. Clockwork Presses at Tide-Spawn grade (530 HP) roll in its wake, flattening the crushed path; Grinding Maws (500 HP) hunt the dust. Look up: the Summit is the whole fight.
 
 ## Behavior
 
@@ -35,18 +35,21 @@ A single entity, 8–10 meters tall, shaped like a rough, asymmetrical mountain 
 | **Advance** | The Mountain moves forward at 0.5 m/s, crushing everything in its path. | Anything in the path — personnel, infrastructure, containment walls — takes 40–60 Resilience damage per turn. Containment walls may breach. |
 | **Eruption** | Cracks in the Mountain's surface vent bursts of Weight Han. | Area damage — 20–30 Resilience to all within 5 meters. The vented Han may spawn minor Obsidian First Watch fragments. |
 | **The Summit** | The Mountain's peak (its highest point) is its core. | The core is only reachable by climbing the entity — a dangerous ascent across cracking crystal that deals 10 Resilience per turn to the climber. |
+| **Scree** | The climb dislodges crystal fragments that fall as shrapnel. | Falling scree deals 10–15 Resilience to climbers and ground teams alike — climb with shields overhead, clear the base before the ascent, and never cluster under a working pitch. The Mountain sheds; the team endures. |
+
+The Advance is the siege: half a meter per second of unstoppable crush through personnel, infrastructure, and containment walls alike — the path is death, the flanks are the fight. The Eruption is the artillery: surface cracks venting 20–30 Resilience to everything within five meters, and the vented Han seeds fragment spawns that harass the ground team. The Summit is the prize: the core at the peak, reachable only by climbing across cracking crystal while the whole mass keeps walking. And the Scree is the tax — every pitch rains shrapnel on friends below. Climb in relays, shield the base, core the Summit: the Mountain falls upward, cored from the top down, and the applause at the bottom is always quiet.
 
 ## Suppression Protocol
 
-Requires a coordinated assault: a team must climb the Mountain to reach and damage its core (very high HP), while another team clears the spawned fragments and rescues trapped personnel. The Mountain cannot be stopped by force at its base — only core destruction suppresses it. Echo-Core command required.
+Requires a coordinated assault: a team must climb the Mountain to reach and damage its core (very high HP), while another team clears the spawned fragments and rescues trapped personnel. The Mountain cannot be stopped by force at its base — only core destruction suppresses it. Echo-Core command required. Two teams or none: a climbing team must scale the Mountain to reach and damage its core — very high HP, seated at the Summit across cracking crystal — while another team clears the spawned fragments below. At 36–102 Weight per hit, nothing survives the path; the assault works the flanks and the vertical, never the front. The Living Avalanche at Tide-Spawn grade (560 HP) circles the base eating the crushed infrastructure; ignore it and fight uphill on moving rubble. Ropes, pitons, and Han-rated anchors are standard kit — the Mountain is the only ordeal suppressed by mountaineering.
 
 ## Facility Impact
 
-If unsuppressed: the Mountain advances until it reaches the facility's core structure, crushing through every wall, containment unit, and floor in its path. The structural damage is catastrophic and may require months of repair. Any personnel in the path are crushed.
+If unsuppressed: the Mountain advances until it reaches the facility's core structure, crushing through every wall, containment unit, and floor in its path. The structural damage is catastrophic and may require months of repair. Any personnel in the path are crushed. It advances until it reaches the facility’s core structure, crushing through every wall, containment unit, and floor in its path — a straight line of ruin drawn at half a meter per second. Structural teams cannot keep up; they do not try. They follow behind, shoring what can be shored and condemning the rest. One Mountain crossed six zones before the climbing team reached the Summit; the path is now a memorial corridor, left crushed by law, with the core-chamber as its chapel.
 
 ## R.D. Response Protocol
 
-Alert Level 5. All available combat personnel. Echo-Core direct command. Full facility evacuation of the Mountain's path. Structural teams cannot keep up — focus on core destruction.
+Alert Level 5. All available combat personnel. Echo-Core direct command. Full facility evacuation of the Mountain's path. Structural teams cannot keep up — focus on core destruction. Alert Level 5, all available combat personnel, Echo-Core direct command, full facility evacuation of the Mountain’s projected path — the highest response short of abandonment. The climbing team is volunteers only, briefed separately, and told the truth: the ascent has a survival rate, and the rate is published. They volunteer anyway. The Mountain has never once been turned aside; it has only ever been climbed, cored, and outlasted.
 
 
 
@@ -96,6 +99,8 @@ Alert Level 5. All available combat personnel. Echo-Core direct command. Full fa
 - The Mountain is the weight of every unmourned death in Somnarak, given a body. It does not hate. It simply presses down. And down. And down.
 - Spawn count: 1–3 entities per event.
 - Same Color Ordeals do not attack each other; different Colors will fight.
+- Heaviest single entity in the ordeal archive: surveyors estimate the manifested mass in the low thousands of tonnes, and the Mountain carries it uphill.
+- Filed as `ORDEAL-OBSIDIAN-Tide-Watch`; the memorial corridor’s chapel holds one piton for every climber, and the wall is filling.
 - Ordeal suppression permanently reduces facility Han-Density (unlike Sorrow Entity work, which adds to it).
 
 ## Document Information
