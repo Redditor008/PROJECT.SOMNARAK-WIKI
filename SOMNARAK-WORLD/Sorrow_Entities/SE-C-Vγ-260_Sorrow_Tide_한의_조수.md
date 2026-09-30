@@ -434,6 +434,10 @@ The day shift's ignorance is counted, in the night crews' litany, as a mercy rat
 
 Every night facility keeps one wall unpainted — bare concrete, marked by hand — where the flood crews record the highest water of every notable watch. The marks are simple: a date line, a level line, a name. The name is the commander's, taking responsibility for the reading. Over the cycles the walls have filled with strata of floods survived, and new crew are walked along the wall on their first night the way recruits are walked along memorials. Read the marks, the commander says. Every line is a night someone stood. Your line goes up there too, when your night comes. The crews describe the effect as grounding: whatever the flood shows them, the wall proves that others stood deeper water and held. The highest mark on any wall in the city is the Long Night's — three flood-watches deep, ringed in black, with the watch commander's name beneath it and no further comment. No crew has ever needed the comment explained. The mark says: it rose this high, and we are still here.
 
+### The Spare Lamp
+
+The lamp rule requires one more lamp than the crew needs, lit all watch — and the night crews have made the spare a sacrament. It is lit first, before the crew's own lights, and extinguished last, after the Dawn Bell. It is carried by the newest crew member, who is told only this: the spare is for the one who gets lost. No crew has ever needed it for that purpose. Every crew carries it anyway, trimmed and fueled and lit, through every flood. The flood dims lights without touching them. The spare burns through every watch it has ever been carried, and the crews have stopped calling this luck. They call it the litany's promise: no one walks the flood alone, no light goes out unwitnessed, and the spare stays lit until the bell. So far — every watch, every flood, every Long Night the walls record — it has.
+
 ## Trivia
 
 - The Tide's peak varies with city-wide events.

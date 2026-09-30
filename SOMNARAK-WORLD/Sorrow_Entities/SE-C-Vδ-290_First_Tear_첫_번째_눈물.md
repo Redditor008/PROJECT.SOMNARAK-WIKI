@@ -425,6 +425,14 @@ Begin there. This is the whole doctrine in two words, and it governs every hard 
 
 The Tear's Stigma — the First Salt — is borne only by the route wardens and the reliquary guards who request it, which is to say, by almost none of them. It grants the placement the pilgrims borrow: griefs witnessed by their original, losses set in the succession, sorrow rendered endurable by ancestry. Its cost is precedence — bearers feel their own losses as echoes of the first, diminished in uniqueness, preserved in lineage. Most wardens decline. They prefer their griefs unplaced, they say, personal rather than ancestral, theirs rather than the succession's. The Directorate honors every refusal. The Tear witnesses the refusals too, the wardens report — impartially, originally, the way the beginning witnesses everything. Placed or unplaced, the griefs descend. The first tear holds them all.
 
+### The Second Tear
+
+The archive's second-oldest sorrow fragment is a lament for the first — grief about grief, loss mourned properly, with rite and witness. The scholars call it the second tear, and they honor it above every sorrow in the succession except the first: because the second tear proves the first was survivable. Someone wept, and someone else witnessed the weeping, and the witnessing held — the first mourning, the first shared grief, the first evidence that sorrow borne together diminishes. Every rite the Directorate maintains descends from that second tear: every lament, every vigil, every testimony log and relief meal and dawn bell. The first tear is the beginning of sorrow. The second tear is the beginning of the answer. The reliquary guards keep a custom the Directorate has never officialized: at the end of every rotation, each guard stands once more before the crystal and sheds, deliberately, one tear — offered, witnessed, placed. The first tear holds them all. The second tear answers them all. The succession continues, mourned and witnessed, from the beginning until now.
+
+### The Veil
+
+Pilgrims never see the Tear directly. Between the viewing chamber and the reliquary hangs the veil — crystal, flawless, a handspan thick — and the Tear is glimpsed only through it: the first sorrow, refracted, softened, made survivable by the medium. The route wardens call the veil the kindest instrument in the Directorate. It does not diminish the Tear. It translates it — beginning into approachability, original into witnessable, the unbearable first into the endurable glimpse. Pilgrims weep before the veil all the same. The wardens let them. The tear they shed there, offered and witnessed and placed, joins the succession the crystal guards: the first tear holding them all, the veil rendering them bearable, the pilgrims carrying home what the beginning, mercifully refracted, allowed them to survive.
+
 ## Trivia
 
 - It is the smallest known entity and potentially the most powerful.

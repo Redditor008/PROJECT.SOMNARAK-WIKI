@@ -458,6 +458,10 @@ Want nothing from it. This is the whole doctrine in four words, and it is the ha
 
 The Door's Stigma — the Unturned Key — is carried only by the sealed review's standing members. It grants perfect recall of every threshold log ever written and perfect resistance to the urge to open, and it exacts its cost in sleep: bearers dream of doors, every night, all of them opening. They wake, they log the dream, they attend the review, and they vote — every cycle, without variation — to keep the Door shut. The vote has never been close. The dreams have never been mild. Both facts are recorded. Both facts hold. The Door waits, the review waits longer, and the city sleeps behind thresholds that open — every one of them, every night — only in dreams.
 
+### The Seventh Word
+
+The third expedition returned with seven words, delivered once, never repeated — and the Directorate's sealed review has spent every cycle since debating whether the seventh word was a warning or a mercy. The first six establish the facts: beyond is real, the Door is the way. The seventh forecloses them. Review members who have heard the debrief describe the seventh word as the heaviest syllable in the institution — the word that keeps the Door shut, the threshold held, the review convened. This chronicle will not record it. The threshold doctrine's fifth rule, unwritten and absolute, is that the seven words belong to the expedition, the way the first loss belongs to the first griever. The Door waits. The review waits longer. Six words say what lies beyond. The seventh says: do not follow.
+
 ## Trivia
 
 - The Door has no handle, lock, or hinges.

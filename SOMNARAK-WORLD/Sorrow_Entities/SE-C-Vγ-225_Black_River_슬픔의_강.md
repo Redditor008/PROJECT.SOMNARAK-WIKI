@@ -440,6 +440,10 @@ The sealed vaults are the line's open secret. Beneath the oldest districts lie c
 
 The readers say it before every descent of the line, and the Directorate — which authorizes no prayers — authorizes this one as procedure: River beneath, keep what you keep. We measure only the surface. We mourn only the named. What is sealed stays sealed, what flows flows past, and what we owe, we pay in grief honestly mourned. The line goes down. The bell stays silent. The city stands. So far, the River has accepted the terms. The readers log every sounding, the gauges hold their levels, and the black water keeps its own counsel beneath the foundations — which is, all parties agree, exactly where it belongs.
 
+### The Line's End
+
+The sounding lines wear out. Lowered and raised through stone and black water for years, they fray, they thin, they come up shorter than they went down — and the readers retire them with honors, coiling each worn line into the archive with its service record: shafts sounded, tributaries found, vigils weathered. The oldest retired line in the holding served forty cycles. Its final reading was normal depth, normal tone, nothing to report. The readers mounted it anyway, with an inscription the new candidates memorize: the line held. The River kept its counsel. The city stands. Every sounding ends. The vigil does not.
+
 ## Trivia
 
 - The River's current changes during the Sorrow Tide.
