@@ -7,60 +7,60 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-329 [VO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Entity Type (Folly)** | **Object/Place** — Can breach via Transform |
+| **Tool Type (Folly)** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Folly)** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A tower-shaped crystal structure that melts slowly upward — its mass dissolving toward the sky without ever leaving rubble, as though being un-built from the ground. Bloodless-cold, it smells of ash; the melt never finishes. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement (Folly)** | Stationary — a structure or location. |
 | **Location** | Zone E, Border region |
-| **R.D. Comprehension Level** | 1 — Initial |
+| **R.D. Comprehension Level (Folly)** | 1 — Initial |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Folly):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure (Folly)** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Han-Energy yield (Folly)** | 10–14 Han-Energy per successful work cycle |
+| **Work difficulty (Folly)** | Low · R.D. Comprehension Level 1 — Initial |
+| **Activation threshold (Folly)** | Activation / expansion trigger — no breach counter |
+| **Tool / M.A.W. grade (Folly)** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Folly)** | 1 g–10 kg (α) |
+| **Recommended response (Folly)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Folly.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-Iα-329]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-Iα-329]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-Iα-329]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Folly):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (Folly)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 15% against Void pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
+| **Activation threshold (Folly)** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 200/200 |
 | **Han Pressure [ATK]** | 3–10 per hit · Void |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Folly)** | I — affects behavior complexity and response speed |
+| **Potency modifier (Folly)** | α — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Folly):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,8 +69,8 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (Folly)** | Low · R.D. Comprehension Level 1 — Initial |
+| **Valid Work Types (Folly)** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | Preserve the unfinished form; do not reconstruct |
 
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A tower-shaped crystal structure that slowly melts upward, leaving no rubble behind.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (Folly):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Void
 - **Registered location:** Zone E, Border region
 
@@ -116,9 +116,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A tower-shaped crystal structure that slowly melts upward, leaving no rubble behind. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement (Folly)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (Folly)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Folly)** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -127,17 +127,17 @@
 - **Formation:** The Tower formed from potential that never became architecture.
 - **The Sorrow:** The grief of a future designed but never inhabited.
 - **The Event:** A border tower was planned, funded, and abandoned before construction finished. Its possibility crystallized.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Folly):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored. Expanded origin context: The entity's origin is not a mystery; it is a diagnosis. The sorrow concentrated at Zone E, Border region until the Void became structural — load-bearing, permanent, woven into the Object/Place the way the Weeping is woven into the city. You do not remove it. You contain it.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (Folly):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (Folly)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (Folly)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Shows the people who were meant to inhabit it. | Stable |
 | **Ferrehan** | Tests whether the worker can accept incompletion. | Decrease |
 
@@ -149,9 +149,9 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic can Benefit the Facility** (Folly record.)
+> **This Relic is Capable of Operative Alteration** (Folly record.)
+> **This Relic Extracts Personal Resilience upon Extended Use** (Folly record.)
 
 **Activation Trigger:** Attempts to complete the abandoned plan.
 
@@ -166,18 +166,18 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode (Folly)** | **Equippable / mounting use** |
 | **Activation** | Attempts to complete the abandoned plan. |
 | **Primary Effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration** | While equipped, until the removal condition is met. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule (Folly):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-Iα-329] |
 |---|---|---|
 | 10 Seconds | Folly rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Folly activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of a future designed but never inhabited; the bearer begins perceiving echoes of a border tower was planned, funded, and abandoned before construction finished. its possibility crystallized. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -199,12 +199,12 @@ The escalation pattern is specific to Folly: it is not a generic breach event. P
 | **Primary effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | While equipped, until the removal condition is met. |
 | **Risk** | Minor (α) Object-Grudge producing Void pressure; Misuse increases emotional strain and may destabilize the operator. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Folly)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Folly):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Folly):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Melting Lens
 
@@ -220,12 +220,12 @@ The escalation pattern is specific to Folly: it is not a generic breach event. P
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (Folly):** 100% damage to the selected target only.
+**Damage Application (Folly):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Folly's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost (Folly):** The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — The Melting Veil
 
@@ -243,7 +243,7 @@ The escalation pattern is specific to Folly: it is not a generic breach event. P
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Folly's kind of pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost (Folly):** The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — The Melting Brick
 
@@ -253,13 +253,13 @@ The escalation pattern is specific to Folly: it is not a generic breach event. P
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (Folly):** +1 stat bonus when working the source entity
 
 **Ability:** Reveals the intended purpose of an unfinished structure.
 
 **Cost:** The user feels every future that structure could have held.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Folly upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -270,14 +270,14 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use (Folly)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Folly)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Folly)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial
+**R.D. Comprehension Level (Folly):** 1 — Initial
 
 - It melts without heat.
 - No material accumulates beneath it.
@@ -292,22 +292,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Folly as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone E, Border region. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Folly)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Folly)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Folly's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Folly record.)
 
 **Entry 1 — Containment Description**
 Folly (C-Iα-329 [VO]) is logged as a Object-Grudge manifestation expressing Void. The Tower formed from potential that never became architecture. Held at Zone E, Border region. It melts without heat.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Folly) — <Excerpt from Field Log, Year 4238>**
 No material accumulates beneath it.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Folly) — <Excerpt from Counseling Log>**
 The grief of a future designed but never inhabited.
 
 **Entry 4 — <Containment Notice>**
@@ -318,12 +318,12 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Folly; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-329] |
 |---|---|
 | Tests whether the worker can accept incompletion. The sorrow is seen clearly; Folly is fully recorded. | Shows the people who were meant to inhabit it. The gauge climbs and Folly withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Folly)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -414,8 +414,8 @@ Some sorrows mourn what was built and destroyed. Folly mourns what was never bui
 
 - **Classification detail:** Folly is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone E, Border region.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail (Folly):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Folly):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

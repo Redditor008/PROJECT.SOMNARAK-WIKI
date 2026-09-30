@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-033 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (The Guarding Bird)** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) — Protective and fierce |
 | **Potency** | Major (γ) — High danger as group entity |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (The Guarding Bird)** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A pale, bone-white bird of true flesh and feather — almost translucent, its plumage colourless, its eyes hollow and absorbing. It dives from above and shields what it has chosen to guard, marking the protected. It is bloodless and cold to the touch; near it, the flat smell of ash, and a silence that thickens. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement (The Guarding Bird)** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (The Guarding Bird)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Guarding Bird):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure (The Guarding Bird)** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield (The Guarding Bird)** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (The Guarding Bird)** | ~100 kg–1 ton (γ) |
+| **Recommended response (The Guarding Bird)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Guarding Bird.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIγ-033]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIIγ-033]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIγ-033]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Guarding Bird):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
 | **Resistance** | 35% against Void pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold (The Guarding Bird)** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 693/693 |
 | **Han Pressure [ATK]** | 14–33 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (The Guarding Bird)** | III — affects behavior complexity and response speed |
+| **Potency modifier (The Guarding Bird)** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (The Guarding Bird):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types (The Guarding Bird)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-01, contained with the Three Birds |
 | **Resolution Condition** | Thank the Bird and acknowledge that protection has been received |
 
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension (The Guarding Bird):** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Guarding Bird's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Thank the Bird and acknowledge that protection has been received**.
 
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is the entity’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The entity executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time is The Guarding Bird’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
+- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh. [SE-C-IIIγ-033]
+- An unresolved encounter never simply ends; it transforms. The Guarding Bird executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Primary Form:** A large bird with hard, angular wings shaped like shields. It guards objects, places, and memories that are already lost.
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A large bird with hard, angular wings shaped like shields. It guards objects, places, and memories that are already lost.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (The Guarding Bird):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Void
 - **Registered location:** SECTOR-B-01, contained with the Three Birds
 
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A large bird with hard, angular wings shaped like shields. It guards objects, places, and memories that are already lost. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (The Guarding Bird)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (The Guarding Bird)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Spreads its wings to shelter personnel. Fights when its post is threatened. Treats protection as a duty that cannot end. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Identification (The Guarding Bird)** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol (The Guarding Bird):** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Bird formed from the sorrow of protecting what could not be saved.
 - **The Sorrow:** The grief of defenders who fought for something already gone.
 - **The Event:** Citizens and soldiers guarded homes, families, and causes after they had already been lost. Their protection became a permanent guardian.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (The Guarding Bird):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from an emptiness that swallowed everything else. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## Behavior
@@ -147,7 +147,7 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. The Guarding Bird is recorded as a Subject with Subject-Body manifestation and Void elemental expression. The current record places it at SECTOR-B-01, contained with the Three Birds; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response (The Guarding Bird):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Breach Behavior
 
 > *"The Guarding Bird has broken free. Patrols and attacks intruders."*
@@ -163,13 +163,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
+- **Breach type (The Guarding Bird):** Escape — the entity physically escapes and roams the facility.
+- **Containment priority (The Guarding Bird):** Physical suppression required.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (The Guarding Bird):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Guardian Lens
 
@@ -184,13 +184,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (The Guarding Bird):** Line; up to 3 targets total
+**Falloff Rule (The Guarding Bird):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (The Guarding Bird):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Guarding Bird's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost (The Guarding Bird):** The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — The Guardian Veil
 
@@ -208,7 +208,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Guarding Bird's kind of pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost (The Guarding Bird):** The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — The Guardian Wing
 
@@ -218,31 +218,31 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (The Guarding Bird):** +2 stat bonus when working the source entity
 
 **Ability:** Absorbs damage intended for other people.
 
 **Cost:** The wearer cannot flee while someone else remains in danger.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by The Guarding Bird upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to The Guarding Bird's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (The Guarding Bird)** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
+| **During use (The Guarding Bird)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (The Guarding Bird)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (The Guarding Bird)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (The Guarding Bird):** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (The Guarding Bird):** 3 — Advanced
 
 **Key Observations:**
 - It grows more active during the Sorrow Tide.
@@ -260,14 +260,14 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies The Guarding Bird as a Subject with Subject-Body manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-B-01, contained with the Three Birds. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (The Guarding Bird)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (The Guarding Bird)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In The Guarding Bird's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method (The Guarding Bird):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Guarding Bird record.)
 
 **Entry 1 — Containment Description**
 The Guarding Bird (C-IIIγ-033 [VS]) is logged as a Subject-Body manifestation expressing Void. The Bird formed from the sorrow of protecting what could not be saved. Held at SECTOR-B-01, contained with the Three Birds. It grows more active during the Sorrow Tide.
@@ -275,7 +275,7 @@ The Guarding Bird (C-IIIγ-033 [VS]) is logged as a Subject-Body manifestation e
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Flies through the facility protecting everything it identifies as vulnerable. Personnel feel protected but trapped by its guardianship. It has never abandoned a post, even when the protected object no longer exists.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (The Guarding Bird) — <Excerpt from Counseling Log>**
 The grief of defenders who fought for something already gone.
 
 **Entry 4 — <Containment Notice>**
@@ -286,12 +286,12 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Guarding Bird; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-033] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; The Guarding Bird is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Guarding Bird withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (The Guarding Bird)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -311,7 +311,7 @@ A wing passes over you like a roof. The air beneath it is still, quiet, and safe
 
 The Guarding Bird does not exist in isolation. Its recorded relationships with The Smothering Mother, The Orphaned Bell, The Hollow Choir, The Observing Bird, The Weighting Bird should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (The Guarding Bird):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -326,7 +326,7 @@ The Guarding Bird must be assessed as part of an entity network, not as an isola
 | **The Observing Bird** | Watches what it protects. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Weighting Bird** | Measures the cost of its protection. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (The Guarding Bird):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -374,9 +374,9 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (The Guarding Bird):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (The Guarding Bird):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The Bird may guard an absence rather than a physical object.
@@ -388,9 +388,9 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 
 - **Classification detail:** The Guarding Bird is a Subject with Fragment (III) — Protective and fierce coherence and Major (γ) — High danger as group entity potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-B-01, contained with the Three Birds.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (The Guarding Bird):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (The Guarding Bird):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (The Guarding Bird):** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-033

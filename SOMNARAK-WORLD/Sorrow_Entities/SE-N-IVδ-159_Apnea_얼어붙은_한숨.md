@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-159 [O]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Apnea)** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (Apnea)** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dream-figure shaped from a single frozen breath — translucent, still, crimson cracks webbing its face and chest where the cold broke it. Fever-cold, it smells of char; a sigh held so long it turned to ice. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone E, Border region |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Apnea)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Apnea):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure (Apnea)** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield (Apnea)** | 20–28 Han-Energy per successful work cycle |
+| **Work difficulty (Apnea)** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Apnea)** | ~1–10 tons (δ) |
+| **Recommended response (Apnea)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Apnea.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IVδ-159]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IVδ-159]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IVδ-159]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Apnea):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
 | **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
+| **Activation threshold (Apnea)** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 975/975 |
 | **Han Pressure [ATK]** | 21–46 per hit · Grudge |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Apnea)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (Apnea)** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Apnea):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty (Apnea)** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (Apnea)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | Ground the worker and allow a safe release of breath |
 
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension (Apnea):** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Apnea's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Ground the worker and allow a safe release of breath**.
 
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resilience**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is the entity’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The entity executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time is Apnea’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
+- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh. [SE-N-IVδ-159]
+- An unresolved encounter never simply ends; it transforms. Apnea executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Primary Form:** A dream figure shaped from a frozen breath, with crimson cracks across its face and chest.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Dream
 - **Primary marker:** A dream figure shaped from a frozen breath, with crimson cracks across its face and chest.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (Apnea):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Grudge
 - **Registered location:** Zone E, Border region
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dream figure shaped from a frozen breath, with crimson cracks across its face and chest. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Position / movement (Apnea)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (Apnea)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Apnea)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (Apnea)** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol (Apnea):** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Sigh formed from exhaustion that was never allowed to escape.
 - **The Sorrow:** The rage of being forced to continue after the body has accepted an ending.
 - **The Event:** A border worker died while holding back a final breath; the suppressed sigh became a dream entity.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Apnea):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — folded into M.A.W. inscriptions, read only by those who wear the sorrow. The story begins with a citizen who Fractured from an anger that never found its target. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Apnea is recorded as a Subject with Subject-Dream manifestation and Grudge elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response (Apnea):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Breach Behavior
 
 > *"Apnea has broken free. Hunts personnel indiscriminately."*
@@ -160,13 +160,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
+- **Breach type (Apnea):** Escape — the entity physically escapes and roams the facility.
+- **Containment priority (Apnea):** Physical suppression required.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Apnea):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Glacial Stiletto
 
@@ -183,13 +183,13 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (Apnea):** Line; up to 3 targets total
+**Falloff Rule (Apnea):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (Apnea):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Apnea's grudge signature in the strike.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost (Apnea):** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Frozen Breath
 
@@ -217,28 +217,28 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect (Apnea):** +3 stat bonus when working the source entity
 
 **Ability:** Grants a minor boon tied to Apnea's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer's temper shortens.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Apnea upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Apnea's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Apnea)** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
+| **During use (Apnea)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Apnea)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Apnea)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Apnea):** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -256,38 +256,38 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Apnea as a Subject with Subject-Dream manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone E, Border region. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Apnea)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Apnea)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Apnea's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method (Apnea):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Apnea record.)
 
 **Entry 1 — Containment Description**
 Apnea (N-IVδ-159 [O]) is logged as a Subject-Dream manifestation expressing Grudge. The Sigh formed from exhaustion that was never allowed to escape. Held at Zone E, Border region. It is strongest at the border during long watches.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Apnea) — <Excerpt from Field Log, Year 4238>**
 Appears in dreams of border personnel. Personnel feel frozen rage and cannot complete a breath. It manifests through dreams rather than physical cold.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Apnea) — <Excerpt from Counseling Log>**
 The rage of being forced to continue after the body has accepted an ending.
 
 **Entry 4 — <Containment Notice>**
 Management: Ground the worker and allow a safe release of breath. Work response — Flerehan: Frost cracks and the breath becomes audible. (Decrease); Pugnahan: It hardens and returns anger as cold pressure. (Increase); Viderehan: Reveals the death and exhaustion behind it. (Stable); Ferrehan: Tests whether the worker can remain without forcing movement. (Decrease). Personnel report sorrow after the rage fades.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 (Apnea) — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Per entity classification. See SECC Classification table for details.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Apnea; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IVδ-159] |
 |---|---|
 | Frost cracks and the breath becomes audible. The sorrow is named; Apnea is fully recorded. | It hardens and returns anger as cold pressure. The gauge climbs and Apnea withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Apnea)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -307,7 +307,7 @@ The dream freezes around your mouth. A figure stands before you, silent and furi
 
 Apnea does not exist in isolation. Its recorded relationships with The Sleeping Sigh, The Frozen Veil, The Border Lead should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Apnea):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -320,7 +320,7 @@ Apnea must be assessed as part of an entity network, not as an isolated profile.
 | **The Frozen Veil** | The Veil freezes emotion; the Sigh freezes expression. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Border Lead** | Resonates with the burden of border duty. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Apnea):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -354,20 +354,20 @@ Some sorrows are about death. Apnea is about the denial of death — the duty th
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Refer to entity’s Work Type responses in the Behavior section. [SE-N-IVδ-159]
 - Standard containment protocols apply.
 **Observation Notes:**
 - See Origin section for formation details.
 - See Combat Record for engagement parameters.
 **Cross-References:** See entity’s interaction record and cross-references in the full file.
 **Faction Involvement:** SED (E-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator (Apnea):** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Apnea):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Apnea):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - It has never spoken.
@@ -379,9 +379,9 @@ Some sorrows are about death. Apnea is about the denial of death — the duty th
 
 - **Classification detail:** Apnea is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone E, Border region.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Apnea):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Apnea):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Apnea):** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-159

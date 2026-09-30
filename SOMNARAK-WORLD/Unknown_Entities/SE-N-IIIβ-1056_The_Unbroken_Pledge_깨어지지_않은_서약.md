@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Binds to individuals carrying unfulfilled oaths to deceased comrades |
 | **Coherence** | Fragment (III) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (The Unbroken Pledge)** | Inner Sorrow (내한) |
 | **Element** | Lament / Void |
 | **Manifestation** | Subject-Bonded / Vow-Parasite |
 | **Physical Form** | Braided Cord Construct — A two-meter floating braid of frayed red silk and tarnished copper wires, terminating in a split copper coin with matching human bite-marks. It hovers over the right shoulder of its bonded bearer, tightening around their throat whenever they contemplate breaking an old promise. |

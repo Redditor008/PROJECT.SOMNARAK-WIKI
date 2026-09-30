@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-140 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type (Weeping Willow)** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Fragment (III) — Ancient and sorrowful |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Weeping Willow)** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A massive, ancient willow of true living wood — bark furrowed and damp, limbs heavy and sweeping the ground — yet its leaves are not leaves but long, slow-falling tears of pale crystal that shatter silently on contact. Dark sap runs warm and salt-bitter from cracks in the trunk. The tree is unmistakably alive: it breathes, and shudders in wind no one else feels. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | SECTOR-D-02, Echo Gardens |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Weeping Willow)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Weeping Willow):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure (Weeping Willow)** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Han-Energy yield (Weeping Willow)** | 16–22 Han-Energy per successful work cycle |
+| **Work difficulty (Weeping Willow)** | High · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold (Weeping Willow)** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
-| **Vessel-Destructible** | No — Place-manifestation |
-| **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Vessel-Destructible (Weeping Willow)** | No — Place-manifestation |
+| **Han Dust Drop (Vessel Destruction) (Weeping Willow)** | — |
+| **Recommended response (Weeping Willow)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Weeping Willow.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIγ-140]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIIγ-140]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIγ-140]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Weeping Willow):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (Weeping Willow)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 35% against Lament pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold (Weeping Willow)** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Weeping Willow)** | III — affects behavior complexity and response speed |
+| **Potency modifier (Weeping Willow)** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Weeping Willow):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Fragment (III) — Ancient and sorrowful |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (Weeping Willow)** | High · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (Weeping Willow)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Sit beneath it and allow endings to be acknowledged |
 
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension (Weeping Willow):** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Weeping Willow's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Sit beneath it and allow endings to be acknowledged**.
 
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is the entity’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The entity executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time is Weeping Willow’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
+- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh. [SE-C-IIIγ-140]
+- An unresolved encounter never simply ends; it transforms. Weeping Willow executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Physical Form:** A massive willow whose branches are made of crystallized tears. Its leaves fall like slow rain.
@@ -106,7 +106,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
 - **Primary marker:** A massive willow whose branches are made of crystallized tears. Its leaves fall like slow rain.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (Weeping Willow):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-D-02, Echo Gardens
 
@@ -115,28 +115,28 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive willow whose branches are made of crystallized tears. Its leaves fall like slow rain. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Position / movement (Weeping Willow)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (Weeping Willow)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Weeping Willow)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (Weeping Willow)** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol (Weeping Willow):** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Willow formed from the sorrow of endings.
 - **The Sorrow:** The grief of goodbyes, completed lives, and beautiful things that must close.
 - **The Event:** Generations of endings gathered in the Gardens until a tree began weeping for all of them.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Weeping Willow):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** Personnel who work with the entity consistently report changes in their personal lives. They become more contemplative. They call their families more often. They sit in silence longer. They weep at unexpected moments — not from sadness, but from a sudden awareness of life's fragility. The entity does not cause these changes directly. Its presence simply... opens a door. A door that most people keep shut. The door to their own sorrow. The entity does not push anyone through. It simply shows them the door is there.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (Weeping Willow):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (Weeping Willow)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (Weeping Willow)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals the endings carried by each branch. | Stable |
 | **Ferrehan** | Shelters the worker while they endure their grief. | Decrease |
 
@@ -145,7 +145,7 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Weeping Willow is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at SECTOR-D-02, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response (Weeping Willow):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -178,7 +178,7 @@ The escalation pattern is specific to Weeping Willow: it is not a generic breach
 **Activation reporting order (Weeping Willow):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Weeping Willow):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Weeping Willow War-Scythe
 
@@ -227,28 +227,28 @@ The escalation pattern is specific to Weeping Willow: it is not a generic breach
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (Weeping Willow):** +2 stat bonus when working the source entity
 
 **Ability:** Grants a minor boon tied to Weeping Willow's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer weeps in their sleep.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Weeping Willow upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Weeping Willow's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Weeping Willow)** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
+| **During use (Weeping Willow)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Weeping Willow)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Weeping Willow)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Weeping Willow):** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -267,22 +267,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Weeping Willow as an Object/Place with Place-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-D-02, Echo Gardens. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Weeping Willow)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Weeping Willow)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Weeping Willow's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method (Weeping Willow):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Weeping Willow record.)
 
 **Entry 1 — Containment Description**
 Weeping Willow (C-IIIγ-140 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Willow formed from the sorrow of endings. Held at SECTOR-D-02, Echo Gardens. Its leaves fall even without wind.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Weeping Willow) — <Excerpt from Field Log, Year 4238>**
 It is most active around funerals and departures.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Weeping Willow) — <Excerpt from Counseling Log>**
 The grief of goodbyes, completed lives, and beautiful things that must close.
 
 **Entry 4 — <Containment Notice>**
@@ -293,12 +293,12 @@ Personnel who work with the entity consistently report changes in their personal
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Weeping Willow; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-140] |
 |---|---|
 | Shelters the worker while they endure their grief. The sorrow is witnessed; Weeping Willow is fully recorded. | Reveals the endings carried by each branch. The gauge climbs and Weeping Willow withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Weeping Willow)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -318,7 +318,7 @@ The branches bend around you like a curtain of tears. Leaves fall against your s
 
 Weeping Willow does not exist in isolation. Its recorded relationships with The Sorrow Fountain, The Weeping Statue, The Returning Tree should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Weeping Willow):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -331,7 +331,7 @@ Weeping Willow must be assessed as part of an entity network, not as an isolated
 | **The Weeping Statue** | Both mourn without asking for explanation. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Returning Tree** | Shares memories of places that have ended. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Weeping Willow):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -374,14 +374,14 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 - Formed from generations of gentle endings mourned in the Gardens.
 - The tree weeps for goodbyes, not tragedies.
 **Cross-References:** Echo Gardens · The Consolihan · The Sorrow Fountain
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement (Weeping Willow):** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** Collective; citizens who mourned ordinary endings beneath the willow.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Weeping Willow):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Weeping Willow):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The tree weeps even when no one is present.
@@ -393,9 +393,9 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 
 - **Classification detail:** Weeping Willow is an Object/Place with Fragment (III) — Ancient and sorrowful coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-D-02, Echo Gardens.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Weeping Willow):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Weeping Willow):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Weeping Willow):** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-140

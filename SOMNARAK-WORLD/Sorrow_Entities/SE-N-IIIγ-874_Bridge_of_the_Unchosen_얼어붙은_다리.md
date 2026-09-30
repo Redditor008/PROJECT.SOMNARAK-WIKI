@@ -7,60 +7,60 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-874 [D]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Entity Type (Bridge of the Unchosen)** | **Object/Place** — Can breach via Transform |
+| **Tool Type (Bridge of the Unchosen)** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (Bridge of the Unchosen)** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A bridge of pale crystal frozen suspended above the ground with no river beneath it, its far end lost in frost. Bloodless-cold, it smells of ash; it leads somewhere, but the frost hides where. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement (Bridge of the Unchosen)** | Stationary — a structure or location. |
 | **Location** | Zone D, Echo Gardens |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Bridge of the Unchosen)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Bridge of the Unchosen):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure (Bridge of the Unchosen)** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Han-Energy yield (Bridge of the Unchosen)** | 16–22 Han-Energy per successful work cycle |
+| **Work difficulty (Bridge of the Unchosen)** | High · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold (Bridge of the Unchosen)** | Activation / expansion trigger — no breach counter |
+| **Tool / M.A.W. grade (Bridge of the Unchosen)** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Bridge of the Unchosen)** | ~100 kg–1 ton (γ) |
+| **Recommended response (Bridge of the Unchosen)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Bridge of the Unchosen.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIIγ-874]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IIIγ-874]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIIγ-874]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Bridge of the Unchosen):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (Bridge of the Unchosen)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 35% against Void pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold (Bridge of the Unchosen)** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 699/699 |
 | **Han Pressure [ATK]** | 17–39 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Bridge of the Unchosen)** | III — affects behavior complexity and response speed |
+| **Potency modifier (Bridge of the Unchosen)** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Bridge of the Unchosen):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,8 +69,8 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (Bridge of the Unchosen)** | High · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (Bridge of the Unchosen)** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens |
 | **Resolution Condition** | Acknowledge possibility without treating it as history |
 
@@ -93,9 +93,9 @@
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is the entity’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The entity executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time is Bridge of the Unchosen’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
+- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh. [SE-N-IIIγ-874]
+- An unresolved encounter never simply ends; it transforms. Bridge of the Unchosen executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Physical Form:** A bridge of pale crystal frozen above ground with no river beneath it. Its destination remains obscured by frost.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
 - **Primary marker:** A bridge of pale crystal frozen above ground with no river beneath it. Its destination remains obscured by frost.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (Bridge of the Unchosen):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Void
 - **Registered location:** Zone D, Echo Gardens
 
@@ -116,28 +116,28 @@
 | Field | Detail |
 |---|---|
 | **Form** | A bridge of pale crystal frozen above ground with no river beneath it. Its destination remains obscured by frost. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Position / movement (Bridge of the Unchosen)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (Bridge of the Unchosen)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Bridge of the Unchosen)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (Bridge of the Unchosen)** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol (Bridge of the Unchosen):** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Bridge formed from a crossing that was never taken.
 - **The Sorrow:** The grief of what could have been if someone had chosen differently.
 - **The Event:** A person abandoned a crossing at the last moment; the path froze around the decision.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Bridge of the Unchosen):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (Bridge of the Unchosen):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (Bridge of the Unchosen)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (Bridge of the Unchosen)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Shows the choice at the center of the crossing. | Stable |
 | **Ferrehan** | Tests whether the worker can cross without claiming the alternative life. | Decrease |
 
@@ -146,12 +146,12 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Bridge of the Unchosen is recorded as an Object/Place with Object-Weight manifestation and Void elemental expression. The current record places it at Zone D, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response (Bridge of the Unchosen):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic can Benefit the Facility** (Bridge of the Unchosen record.)
+> **This Relic is Capable of Operative Alteration** (Bridge of the Unchosen record.)
+> **This Relic Extracts Personal Resilience upon Extended Use** (Bridge of the Unchosen record.)
 
 **Activation Trigger:** Regret focused on an unchosen path.
 
@@ -166,18 +166,18 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode (Bridge of the Unchosen)** | **Equippable / mounting use** |
 | **Activation** | Regret focused on an unchosen path. |
 | **Primary Effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration** | While equipped, until the removal condition is met. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule (Bridge of the Unchosen):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-N-IIIγ-874] |
 |---|---|---|
 | 10 Seconds | Bridge of the Unchosen rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Bridge of the Unchosen activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of what could have been if someone had chosen differently; the bearer begins perceiving echoes of a person abandoned a crossing at the last moment; the path froze around the decision. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -199,12 +199,12 @@ The escalation pattern is specific to Bridge of the Unchosen: it is not a generi
 | **Primary effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | While equipped, until the removal condition is met. |
 | **Risk** | Major (γ) Object-Weight producing Void pressure; Misuse increases emotional strain and may destabilize the operator. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Bridge of the Unchosen)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Bridge of the Unchosen):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Bridge of the Unchosen):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Permafrost Star-Ring
 
@@ -222,12 +222,12 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (Bridge of the Unchosen):** 100% damage to the selected target only.
+**Damage Application (Bridge of the Unchosen):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Bridge of the Unchosen's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost (Bridge of the Unchosen):** The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — Bridge of the Unchosen Shield
 
@@ -255,28 +255,28 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (Bridge of the Unchosen):** +1 stat bonus when working the source entity
 
 **Ability:** Grants a minor boon tied to Bridge of the Unchosen's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer occasionally forgets a word.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Bridge of the Unchosen upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Bridge of the Unchosen's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Bridge of the Unchosen)** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
+| **During use (Bridge of the Unchosen)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Bridge of the Unchosen)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Bridge of the Unchosen)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Bridge of the Unchosen):** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -294,22 +294,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Bridge of the Unchosen as an Object/Place with Object-Weight manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone D, Echo Gardens. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Bridge of the Unchosen)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Bridge of the Unchosen)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Bridge of the Unchosen's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method (Bridge of the Unchosen):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Bridge of the Unchosen record.)
 
 **Entry 1 — Containment Description**
 Bridge of the Unchosen (N-IIIγ-874 [D]) is logged as a Object-Weight manifestation expressing Void. The Bridge formed from a crossing that was never taken. Held at Zone D, Echo Gardens. Frost never melts through temperature.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Bridge of the Unchosen) — <Excerpt from Field Log, Year 4238>**
 The destination changes according to the observer's regret.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Bridge of the Unchosen) — <Excerpt from Counseling Log>**
 The grief of what could have been if someone had chosen differently.
 
 **Entry 4 — <Containment Notice>**
@@ -320,12 +320,12 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Bridge of the Unchosen; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIγ-874] |
 |---|---|
 | Tests whether the worker can cross without claiming the alternative life. The sorrow is seen clearly; Bridge of the Unchosen is fully recorded. | Shows the choice at the center of the crossing. The gauge climbs and Bridge of the Unchosen withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Bridge of the Unchosen)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -345,7 +345,7 @@ The bridge extends across the Garden, frost covering every stone. Halfway across
 
 Bridge of the Unchosen does not exist in isolation. Its recorded relationships with The Rising Bridge, The Sunken Bridge, The Broken Compass should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Bridge of the Unchosen):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -358,7 +358,7 @@ Bridge of the Unchosen must be assessed as part of an entity network, not as an 
 | **The Sunken Bridge** | The Sunken Bridge carries the grief of failed passage. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Broken Compass** | Points toward the path not taken. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Bridge of the Unchosen):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -397,14 +397,14 @@ Some sorrows are about what was lost. Bridge of the Unchosen is about what was n
 **Observation Notes:**
 - A person reached a crossing and turned back; the bridge froze around the decision.
 **Cross-References:** Zone D · The Sunken Bridge · I Alone Crossed
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement (Bridge of the Unchosen):** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** A citizen who turned back from a crossing at the last moment.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Bridge of the Unchosen):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Bridge of the Unchosen):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - It has no permanent destination.
@@ -416,9 +416,9 @@ Some sorrows are about what was lost. Bridge of the Unchosen is about what was n
 
 - **Classification detail:** Bridge of the Unchosen is an Object/Place with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone D, Echo Gardens.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Bridge of the Unchosen):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Bridge of the Unchosen):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Bridge of the Unchosen):** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-N-IIIγ-874

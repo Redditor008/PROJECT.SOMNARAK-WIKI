@@ -7,60 +7,60 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-668 [O]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Entity Type (Frozen Fury)** | **Object/Place** — Can breach via Transform |
+| **Tool Type (Frozen Fury)** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Frozen Fury)** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — A fragment of frozen ruin — black crystal shaped like a slice of a broken building, its edges burning with a silent crimson rage that gives no heat. Bloodless-cold, it smells of ash; a piece of a place that no longer exists. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement (Frozen Fury)** | Stationary — a structure or location. |
 | **Location** | Zone C, Collector's Row |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Frozen Fury)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Frozen Fury):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure (Frozen Fury)** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Han-Energy yield (Frozen Fury)** | 20–28 Han-Energy per successful work cycle |
+| **Work difficulty (Frozen Fury)** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold (Frozen Fury)** | Activation / expansion trigger — no breach counter |
+| **Tool / M.A.W. grade (Frozen Fury)** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Frozen Fury)** | ~1–10 tons (δ) |
+| **Recommended response (Frozen Fury)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Frozen Fury.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVδ-668]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IVδ-668]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVδ-668]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Frozen Fury):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (Frozen Fury)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Void pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
+| **Activation threshold (Frozen Fury)** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 880/880 |
 | **Han Pressure [ATK]** | 29–62 per hit · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Frozen Fury)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (Frozen Fury)** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Frozen Fury):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,10 +69,10 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (Frozen Fury)** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (Frozen Fury)** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Collector's Row |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition (Frozen Fury)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -93,9 +93,9 @@
 ### Consequences
 
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Composure** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: the entity’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers the entity’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- The longer the exposure, the deeper the wound: Frozen Fury’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
+- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing. [SE-C-IVδ-668]
+- Failure to achieve resolution triggers Frozen Fury’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
 
 ## Appearance
 **Physical Form:** A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (Frozen Fury):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Void
 - **Registered location:** Zone C, Collector's Row
 
@@ -116,28 +116,28 @@
 | Field | Detail |
 |---|---|
 | **Form** | A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Position / movement (Frozen Fury)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (Frozen Fury)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Frozen Fury)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (Frozen Fury)** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol (Frozen Fury):** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Ruin formed from a place emptied by institutional violence.
 - **The Sorrow:** The rage of a home destroyed while its residents were still being blamed for its loss.
 - **The Event:** A Collector-controlled district was cleared and frozen in memory after its residents disappeared.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Frozen Fury):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (Frozen Fury):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (Frozen Fury)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (Frozen Fury)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Shows the history beneath the ruin. | Stable |
 | **Ferrehan** | Tests whether the worker can remain among absent lives. | Decrease |
 
@@ -146,12 +146,12 @@
 
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Frozen Fury is recorded as an Object/Place with Object-Grudge manifestation and Void elemental expression. The current record places it at Zone C, Collector's Row; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response (Frozen Fury):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic can Benefit the Facility** (Frozen Fury record.)
+> **This Relic is Capable of Operative Alteration** (Frozen Fury record.)
+> **This Relic Extracts Personal Resilience upon Extended Use** (Frozen Fury record.)
 
 **Activation Trigger:** Touch or attempts to move the ruin.
 
@@ -166,18 +166,18 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode (Frozen Fury)** | **Equippable / mounting use** |
 | **Activation** | Touch or attempts to move the ruin. |
 | **Primary Effect** | Displays the lives and injustice attached to the structure. |
 | **Duration** | Until contact ends. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
 | **Risk** | The worker may become emotionally fixed in the ruin's final moment. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule (Frozen Fury):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-IVδ-668] |
 |---|---|---|
 | 10 Seconds | Frozen Fury rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Frozen Fury activates its primary resonance: Displays the lives and injustice attached to the structure. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the rage of a home destroyed while its residents were still being blamed for its loss; the bearer begins perceiving echoes of a collector-controlled district was cleared and frozen in memory after its residents disappeared. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -199,12 +199,12 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 | **Primary effect** | Displays the lives and injustice attached to the structure. |
 | **Duration / rate** | Until contact ends. |
 | **Risk** | Critical (δ) Object-Grudge producing Void pressure; The worker may become emotionally fixed in the ruin's final moment. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Frozen Fury)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Frozen Fury):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Frozen Fury):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — Frozen Fury Lens
 
@@ -219,13 +219,13 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (Frozen Fury):** Line; up to 3 targets total
+**Falloff Rule (Frozen Fury):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (Frozen Fury):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Frozen Fury's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost (Frozen Fury):** The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — Frozen Fury Veil
 
@@ -243,7 +243,7 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Frozen Fury's kind of pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost (Frozen Fury):** The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — Frozen Fury Bracelet
 
@@ -253,28 +253,28 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect (Frozen Fury):** +3 stat bonus when working the source entity
 
 **Ability:** Makes the wearer nearly invisible to emotional attacks.
 
 **Cost:** The wearer absorbs sorrow whenever they calm another person.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Frozen Fury upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to the entity's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Frozen Fury's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Frozen Fury)** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
+| **During use (Frozen Fury)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Frozen Fury)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Frozen Fury)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Frozen Fury):** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -292,38 +292,38 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Frozen Fury as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone C, Collector's Row. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation (Frozen Fury)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or attempts to move the ruin. Effect: Displays the lives and injustice attached to the structure. Duration: Until contact ends. Risk: The worker may become emotionally fixed in the ruin's final moment. Tool Use Profile — I-Relic Operational Rule: At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Frozen Fury's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method (Frozen Fury):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Frozen Fury record.)
 
 **Entry 1 — Containment Description**
 Frozen Fury (C-IVδ-668 [O]) is logged as a Object-Grudge manifestation expressing Void. The Ruin formed from a place emptied by institutional violence. Held at Zone C, Collector's Row. It is not physically movable.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Frozen Fury) — <Excerpt from Field Log, Year 4238>**
 It responds strongly to Collector activity.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Frozen Fury) — <Excerpt from Counseling Log>**
 The rage of a home destroyed while its residents were still being blamed for its loss.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the history beneath the ruin. (Stable); Ferrehan: Tests whether the worker can remain among absent lives. (Decrease). Personnel feel rage before fear.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 (Frozen Fury) — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Moderate. The Ruin rages in cold stasis. Effect: proximity induces fury of the wrongly blamed.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Frozen Fury; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVδ-668] |
 |---|---|
 | Tests whether the worker can remain among absent lives. The sorrow is seen clearly; Frozen Fury is fully recorded. | Shows the history beneath the ruin. The gauge climbs and Frozen Fury withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Frozen Fury)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -343,7 +343,7 @@ The ruin sits in the Collector's Row like a piece of winter. Its walls are broke
 
 Frozen Fury does not exist in isolation. Its recorded relationships with The Vanished Ruin, The Debt Wall, The Broken Mirror should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Frozen Fury):** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -356,7 +356,7 @@ Frozen Fury must be assessed as part of an entity network, not as an isolated pr
 | **The Debt Wall** | The Wall's obligations helped create the ruin. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Broken Mirror** | Reflects former residents. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Frozen Fury):** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -397,14 +397,14 @@ Some sorrows mourn destruction. Frozen Fury mourns the injustice heaped on the d
 **Observation Notes:**
 - A Collector-cleared district, frozen in memory, residents blamed for the loss.
 **Cross-References:** Zone B · The Collectors · The debt system
-**Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
+**Faction Involvement (Frozen Fury):** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** Residents of a Collector-cleared district.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Frozen Fury):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Frozen Fury):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - It remains frozen even during Sorrow Storms.
@@ -416,9 +416,9 @@ Some sorrows mourn destruction. Frozen Fury mourns the injustice heaped on the d
 
 - **Classification detail:** Frozen Fury is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone C, Collector's Row.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Frozen Fury):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Frozen Fury):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Frozen Fury):** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-668

@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-220 [WS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Walking Calendar)** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) — Ancient and weary |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Walking Calendar)** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — An ancient figure draped in layer upon layer — stone slabs, old calendars, worn city records — all fused to its body, each step adding another year to its frame. Lead-heavy and slow, it smells of wet stone and dust; to stand near it is to feel your own years press down. |
 | **Movement** | Slow Walking — lead-heavy and slow; each step adds another year to its frame. |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (Walking Calendar)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Walking Calendar):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Han / burden pressure |
+| **Primary pressure (Walking Calendar)** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield (Walking Calendar)** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Walking Calendar)** | ~1–10 tons (δ) |
+| **Recommended response (Walking Calendar)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Walking Calendar.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVδ-220]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IVδ-220]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVδ-220]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Walking Calendar):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
 | **Resistance** | 45% against Weight pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
+| **Activation threshold (Walking Calendar)** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 600/600 |
 | **Han Pressure [ATK]** | 25–54 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Walking Calendar)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (Walking Calendar)** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Walking Calendar):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types (Walking Calendar)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep storage |
 | **Resolution Condition** | Archive the truth; do not erase or excuse it |
 
@@ -92,9 +92,9 @@
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resolve** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, the entity reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization. [SE-C-IVδ-220]
+- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak. [SE-C-IVδ-220]
+- If the resolution condition is not fulfilled, Walking Calendar reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
 **Primary Form:** An ancient figure draped in layers of stone, calendars, and worn city records. Each step adds another year to its body.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** An ancient figure draped in layers of stone, calendars, and worn city records. Each step adds another year to its body.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (Walking Calendar):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-A-01, Alpha Tree deep storage
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | An ancient figure draped in layers of stone, calendars, and worn city records. Each step adds another year to its body. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Position / movement (Walking Calendar)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (Walking Calendar)** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Walking Calendar)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (Walking Calendar)** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol (Walking Calendar):** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The entity formed from the accumulated years of unacknowledged history.
 - **The Sorrow:** The weight of every generation that inherited the city's crimes.
 - **The Event:** Centuries of erased records and repeated failures settled into a single ancient body.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Walking Calendar):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored. Expanded origin context: The Director's annotation: 'This sorrow is not anomalous. It is representative. The Weight at SECTOR-A-01, Alpha Tree deep storage is the same grief, the same refusal, the same wound. The Subject is what happens when the city stops pretending it doesn't hurt.'
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Walking Calendar is recorded as a Subject with Subject-Body manifestation and Weight elemental expression. The current record places it at SECTOR-A-01, Alpha Tree deep storage; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response (Walking Calendar):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Breach Behavior
 
 > *"Walking Calendar has broken free. Hunts personnel indiscriminately."*
@@ -155,18 +155,18 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Movement** | Walking Calendar pulses with concentrated force, cracking the walls around it. It hunts personnel indiscriminately. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
 | **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Walking Calendar)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Breach type (Walking Calendar):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach (Walking Calendar):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Walking Calendar):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Years Maul
 
@@ -181,13 +181,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (Walking Calendar):** Line; up to 3 targets total
+**Falloff Rule (Walking Calendar):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (Walking Calendar):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Walking Calendar's weight signature in the strike.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost (Walking Calendar):** The wielder feels progressively heavier; prolonged use ages them slightly.
 
 ### M.A.W. Suit — The Years Mantle
 
@@ -215,31 +215,31 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect (Walking Calendar):** +3 stat bonus when working the source entity
 
 **Ability:** Grants a minor boon tied to Walking Calendar's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer moves a little slower.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Walking Calendar upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and the entity's sorrow within the equipment may activate. and may produce an effect tied to the entity's element. The Stigma is the entity's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Walking Calendar's sorrow within the equipment may activate. and may produce an effect tied to Walking Calendar's element. The Stigma is Walking Calendar's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Walking Calendar)** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
+| **During use (Walking Calendar)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Walking Calendar)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Walking Calendar)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Walking Calendar):** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (Walking Calendar):** 3 — Advanced
 
 - The entity's weight increases during anniversaries of historical tragedies.
 - Its singing is composed of dates rather than melodies.
@@ -254,14 +254,14 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Walking Calendar as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-A-01, Alpha Tree deep storage. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Walking Calendar)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Walking Calendar)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Walking Calendar's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method (Walking Calendar):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Walking Calendar record.)
 
 **Entry 1 — Containment Description**
 Walking Calendar (C-IVδ-220 [WS]) is logged as a Subject-Body manifestation expressing Weight. The entity formed from the accumulated years of unacknowledged history. Held at SECTOR-A-01, Alpha Tree deep storage. The entity's weight increases during anniversaries of historical tragedies.
@@ -269,23 +269,23 @@ Walking Calendar (C-IVδ-220 [WS]) is logged as a Subject-Body manifestation exp
 **Entry 2 — <Excerpt from Field Log, Year 4218>**
 Walks through Alpha Tree storage and historical districts. Personnel feel centuries of shame and responsibility at once. Its singing is composed of dates rather than melodies.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Walking Calendar) — <Excerpt from Counseling Log>**
 The weight of every generation that inherited the city's crimes.
 
 **Entry 4 — <Containment Notice>**
 Management: Archive the truth; do not erase or excuse it. Work response — Flerehan: Sings a softer chronology and lowers its burden. (Decrease); Pugnahan: Adds the worker's anger to its weight. (Increase); Viderehan: Reveals hidden history by date and consequence. (Stable); Ferrehan: Tests whether the worker can remain beneath historical weight. (Decrease). Personnel exposed for long periods lose awareness of the present.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 (Walking Calendar) — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Low. An impossibly old figure carrying centuries of inherited guilt. Effect: proximity induces the burden of …
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Walking Calendar; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVδ-220] |
 |---|---|
 | Sings a softer chronology and lowers its burden. The sorrow is borne; Walking Calendar is fully recorded. | Adds the worker's anger to its weight. The gauge climbs and Walking Calendar withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Walking Calendar)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -305,7 +305,7 @@ An ancient figure crosses the vault, dragging years behind it like chains. Dates
 
 Walking Calendar does not exist in isolation. Its recorded relationships with The Broken Clock, The Burning Library, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Walking Calendar):** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -318,7 +318,7 @@ Walking Calendar must be assessed as part of an entity network, not as an isolat
 | **The Burning Library** | The Library contains records the Weight carries. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The First Tear** | The Weight's history reaches back toward the First Sorrow. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Walking Calendar):** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -360,14 +360,14 @@ Some sorrows are personal. Walking Calendar is historical — the accumulated gu
 - Formed from centuries of erased records and inherited complicity.
 - The figure is bowed with the weight of generations.
 **Cross-References:** Zone A · The Council · The Cheongula · The Maw
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
+**Faction Involvement (Walking Calendar):** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
 **Originator:** Every generation that inherited the city’s crimes.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Walking Calendar):** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Walking Calendar):** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - It becomes heavier when a truth is deliberately erased.
@@ -379,9 +379,9 @@ Some sorrows are personal. Walking Calendar is historical — the accumulated gu
 
 - **Classification detail:** Walking Calendar is a Subject with Entity (IV) — Ancient and weary coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-A-01, Alpha Tree deep storage.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Walking Calendar):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Walking Calendar):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Walking Calendar):** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-220

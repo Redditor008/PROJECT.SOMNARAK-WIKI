@@ -7,69 +7,69 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-033 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Forgotten Soldier)** | **Subject** — Can breach |
 | **Coherence** | Echo (II) — Repeats a single pattern: seeking acknowledgment |
 | **Potency** | Moderate (β) — Manageable |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (Forgotten Soldier)** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A translucent, flickering warrior in armor from an unidentified ancient era — half-solid flesh and half-phased light, never quite resolving, as though the Archive's erasure of his name left his body only half-remembered. He stands perfectly at attention, weaponless until provoked, his real face gone from record and from his own features alike. Cold radiates off him, with the smell of old smoke. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement (Forgotten Soldier)** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-B-02, Zone B — contained corridor 7-C |
 | **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Forgotten Soldier):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure (Forgotten Soldier)** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield (Forgotten Soldier)** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Forgotten Soldier)** | ~10 kg–100 kg (β) |
+| **Recommended response (Forgotten Soldier)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Forgotten Soldier.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIβ-033]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IIβ-033]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIβ-033]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Forgotten Soldier):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
 | **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Forgotten Soldier)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 441/441 |
 | **Han Pressure [ATK]** | 8–19 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Forgotten Soldier)** | II — affects behavior complexity and response speed |
+| **Potency modifier (Forgotten Soldier)** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Forgotten Soldier):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length (Forgotten Soldier)** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — Repeats a single pattern: seeking acknowledgment |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types (Forgotten Soldier)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-02, Zone B — contained corridor 7-C |
 | **Resolution Condition** | Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns |
 
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension (Forgotten Soldier):** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Forgotten Soldier's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns**.
 
 ### Consequences
 
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resilience** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: the entity’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers the entity’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- The longer the exposure, the deeper the wound: Forgotten Soldier’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
+- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing. [SE-N-IIβ-033]
+- Failure to achieve resolution triggers Forgotten Soldier’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
 
 ## Appearance
 **Primary Form:** A translucent, flickering warrior in armor from an unidentified ancient era. He stands perfectly at attention and carries no visible weapon unless provoked.
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A translucent, flickering warrior in armor from an unidentified ancient era. He stands perfectly at attention and carries no visible weapon unless provoked.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (Forgotten Soldier):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-02, Zone B — contained corridor 7-C
 
@@ -118,12 +118,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A translucent, flickering warrior in armor from an unidentified ancient era. He stands perfectly at attention and carries no visible weapon unless provoked. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Forgotten Soldier)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (Forgotten Soldier)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The armor dates to the Pre-Structuring era, more than 4,000 years old. His erased history appears as a clean gap in memory records. He salutes anyone who says, “I remember you.”. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Identification (Forgotten Soldier)** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol (Forgotten Soldier):** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Soldier formed from a border soldier — real name erased from the Archive — who served the Zone E perimeter for twenty years without incident.
@@ -152,7 +152,7 @@
 
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Forgotten Soldier is recorded as a Subject with Subject-Phantasmal manifestation and Grudge elemental expression. The current record places it at SECTOR-B-02, Zone B — contained corridor 7-C; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response (Forgotten Soldier):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
 ## Breach Behavior
 
 > *"Forgotten Soldier has broken free. Attacks anyone who violates its sense of duty."*
@@ -168,13 +168,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
+- **Breach type (Forgotten Soldier):** Escape — the entity physically escapes and roams the facility.
+- **Containment priority (Forgotten Soldier):** Physical suppression required.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Forgotten Soldier):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Duty Fang
 
@@ -190,7 +190,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Forgotten Soldier's grudge signature in the strike.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost (Forgotten Soldier):** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Duty Plate
 
@@ -208,7 +208,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Forgotten Soldier's kind of pressure.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost (Forgotten Soldier):** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — The Duty Blade
 
@@ -218,28 +218,28 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (Forgotten Soldier):** +1 stat bonus when working the source entity
 
 **Ability:** Deals increased damage to oath-breakers and those who abandoned their duties.
 
 **Cost:** The wielder experiences the Soldier's frustration—the anger of being forgotten.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Forgotten Soldier upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to the entity's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Forgotten Soldier's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Forgotten Soldier)** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
+| **During use (Forgotten Soldier)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Forgotten Soldier)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Forgotten Soldier)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Forgotten Soldier):** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -262,13 +262,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Forgotten Soldier as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B — contained corridor 7-C. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Stands at attention 18 hours each day and patrols the same route for the remaining six. - Never attacks without provocation or deliberate ignoring. - Acknowledgment produces a temporary. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation (Forgotten Soldier)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Forgotten Soldier's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method (Forgotten Soldier):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Forgotten Soldier record.)
 
 **Entry 1 — Containment Description**
 Forgotten Soldier (N-IIβ-033 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge. The Soldier formed from a border soldier — real name erased from the Archive — who served the Zone E perimeter for twenty years without incident. Held at SECTOR-B-02, Zone B — contained corridor 7-C. The Soldier patrols a fixed route and never abandons his post.
@@ -276,7 +276,7 @@ Forgotten Soldier (N-IIβ-033 [GS]) is logged as a Subject-Phantasmal manifestat
 **Entry 2 — <Excerpt from Field Log, Year 4221>**
 Walks through the facility, approaching personnel and standing before them. Those who acknowledge him feel duty and purpose; those who ignore him feel crushing guilt. He salutes only when the words “I remember you” are spoken.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Forgotten Soldier) — <Excerpt from Counseling Log>**
 A lifetime of sacrifice made invisible, and the weight of being forgotten by the very city he defended.
 
 **Entry 4 — <Containment Notice>**
@@ -287,12 +287,12 @@ Field analysis confirms the sorrow accumulated over cycles at this location unti
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Soldier; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-033] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; Forgotten Soldier is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Forgotten Soldier withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Forgotten Soldier)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -312,7 +312,7 @@ He stands in the corridor's shadow, translucent and ancient, with eyes fixed on 
 
 Forgotten Soldier does not exist in isolation. Its recorded relationships with The Orphaned Bell, The Hollow Choir, The Kind Healer, The Memory Weaver, The Maw should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Forgotten Soldier):** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -327,7 +327,7 @@ Forgotten Soldier must be assessed as part of an entity network, not as an isola
 | **The Memory Weaver** | Possesses his missing memories but refuses to return them. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Maw** | Guards The Maw's perimeter, protecting what is already lost. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Forgotten Soldier):** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -361,20 +361,20 @@ Some sorrows mourn the fallen. Forgotten Soldier mourns the edited — the sacri
 **Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Refer to entity’s Work Type responses in the Behavior section. [SE-N-IIβ-033]
 - Standard containment protocols apply.
 **Observation Notes:**
 - See Origin section for formation details.
 - See Combat Record for engagement parameters.
 **Cross-References:** See entity’s interaction record and cross-references in the full file.
-**Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Faction Involvement (Forgotten Soldier):** SED (Desolate-territory exploration)
+**Originator (Forgotten Soldier):** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Forgotten Soldier):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Forgotten Soldier):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - He salutes no one who does not speak the words.
@@ -386,9 +386,9 @@ Some sorrows mourn the fallen. Forgotten Soldier mourns the edited — the sacri
 
 - **Classification detail:** Forgotten Soldier is a Subject with Echo (II) — Repeats a single pattern: seeking acknowledgment coherence and Moderate (β) — Manageable potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-02, Zone B — contained corridor 7-C.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Forgotten Soldier):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Forgotten Soldier):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Forgotten Soldier):** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-033

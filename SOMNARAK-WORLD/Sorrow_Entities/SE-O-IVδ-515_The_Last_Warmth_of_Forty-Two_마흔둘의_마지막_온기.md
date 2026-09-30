@@ -11,17 +11,17 @@
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Entity (IV) — Collective frozen farewell |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category (The Last Warmth of Forty-Two)** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A slender cylindrical vial of hand-blown leaded quartz glass, sealed at the collar with melted lead solder and wrapped in fraying orange surveyor's emergency webbing. Inside, a swirling vapor of pale blue condensation moves in perpetual circular suspension without settling into frost or liquid. Despite ambient sub-zero temperatures, the quartz remains warm to human touch (36.5°C), vibrating with a quiet, multi-voiced whisper that sounds like dozens of people talking softly around a campfire. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement (The Last Warmth of Forty-Two)** | Stationary — a discrete object. |
 | **Location** | SECTOR-O-09, Frozen Depths Cache — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Last Warmth of Forty-Two):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / cold exposure pressure |
 | **Starting Sorrow Gauge** | 50–70% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield (The Last Warmth of Forty-Two)** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Single-use impact trigger — shattered upon thrown detonation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · δ (Critical) |
@@ -39,15 +39,15 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Last Warmth of Forty-Two.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IVδ-515]
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
 - M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Last Warmth of Forty-Two):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Mental / cold exposure pressure |
 | **Starting Sorrow Gauge** | 50–70% |
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (The Last Warmth of Forty-Two)** | Viderehan and Ferrehan only |
 | **Battlefield** | Sector 09 Deep Glacial Rift / Maw Perimeter |
 | **Resolution Condition** | The vial is shattered against target or ground, releasing the collective exhalation in an acoustic blizzard |
 
@@ -120,12 +120,12 @@ Premature rupture releases an uncontrolled flash-freeze wave that petrifies all 
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (The Last Warmth of Forty-Two):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (The Last Warmth of Forty-Two)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (The Last Warmth of Forty-Two)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Monitors the vortex circulation speed of the trapped blue vapor. | Stable |
 | **Ferrehan** | Demands the operative hold the warm bottle in sub-zero containment, enduring the emotional weight of forty-two farewells. | Decrease |
 
@@ -135,7 +135,7 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
+> **This Relic can Benefit the Facility** (The Last Warmth of Forty-Two record.)
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
 
@@ -163,7 +163,7 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-O-IVδ-515] |
 |---|---|---|
 | 1 Use | The Last Warmth of Forty-Two sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Throwing or shatter-striking the quartz vial against a solid surface or target core.) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the absolute terror of dying alone in freezing darkness, transformed into solidarity by refusing to die in silence. during the great freeze of year 4,188 in sector 09, where an avalanche sealed a crawler beneath forty meters of ice; the relic answers only to complete commitment. | The full discharge completes: Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed. All hostile entities in range suffer devastating disruption and elemental debuffs. |
@@ -185,12 +185,12 @@ The escalation pattern is specific to The Last Warmth of Forty-Two: it is not a 
 | **Primary effect** | Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed. |
 | **Duration / rate** | Cryogenic Stasis lasts 2 full Combat Turns (12 battle rounds). |
 | **Risk** | Critical (δ) Object-Lament producing Lament pressure; The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (The Last Warmth of Forty-Two)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (The Last Warmth of Forty-Two):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
+> **Materialized Agony Wear (M.A.W.) (The Last Warmth of Forty-Two):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Glacial Outrider Lance
@@ -277,7 +277,7 @@ Equipment derived from this relic embodies supreme collective solidarity. It bec
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Last Warmth of Forty-Two record.)
 
 **Entry 1 — Containment Description**
 Discovered in the wreckage of an Outrider Crawler in the Sector 09 Glacial Rift, held within the calcified gauntlets of Captain Yeon-Woo. Thermal cameras revealed the vial remained at a steady 36.5 degrees Celsius despite being surrounded by minus sixty-degree ice.
@@ -296,7 +296,7 @@ Directorate Synthesis: The cold took their flesh, but it could not extinguish th
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Last Warmth of Forty-Two; the other feeds it.
 
 | Melt the solder seal with a blowtorch to extract the gas for chemical analysis. | Wrap the orange webbing back around the glass and place it in the heated cradle. |
 |---|---|

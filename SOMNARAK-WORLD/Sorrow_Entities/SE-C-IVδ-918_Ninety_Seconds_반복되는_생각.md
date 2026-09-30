@@ -10,17 +10,17 @@
 | **Entity Type** | **Time** — Can breach via Transform |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Ninety Seconds)** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Time-Mind |
 | **Physical Form** | Organic — A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement (Ninety Seconds)** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-918, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference (Ninety Seconds):** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,51 +28,51 @@
 | **Entity role** | Time |
 | **Primary pressure** | Void / Mind pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield (Ninety Seconds)** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response (Ninety Seconds)** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Ninety Seconds.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVδ-918]
+- The Han-Energy yield is balanced against exposure risk. [SE-C-IVδ-918]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVδ-918]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Ninety Seconds):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Void pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Ninety Seconds)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 513/513 |
 | **Han Pressure [ATK]** | 14–20 per hit · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Ninety Seconds)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (Ninety Seconds)** | δ — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Ninety Seconds):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length (Ninety Seconds)** | Medium — 16 turns |
+| **Threat Role (Ninety Seconds)** | Sovereign encounter |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 918  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Ninety Seconds)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-918 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition (Ninety Seconds)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -91,9 +91,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-C-IVδ-918]
 - Prolonged exposure may produce the entity's documented void effect — mind pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- M.A.W. use carries the cost recorded in the equipment section. [SE-C-IVδ-918]
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Void pressure in a mind register.
 - The time form is unmistakable — this is a mind entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Personnel should identify it by these markers before Work or contact. [SE-C-IVδ-918]
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever ha |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Ninety Seconds)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature (Ninety Seconds)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Time-Mind manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Identification (Ninety Seconds)** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -134,8 +134,8 @@ And it has. The mind descriptor is not a label. It is the entity's native langua
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan (Ninety Seconds)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan (Ninety Seconds)** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the mind pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
 
@@ -152,17 +152,17 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 | **Breach Type** | Expansion |
 | **Movement** | The entity's mind influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Void pressure radiates — the mind register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Ninety Seconds)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority (Ninety Seconds):** Physical suppression required.
+- **Sorrow Gauge on breach (Ninety Seconds):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.) (Ninety Seconds):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Ninety Seconds's Edge
 
@@ -191,22 +191,22 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 **Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect (Ninety Seconds):** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Ninety Seconds upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each M.A.W. piece is a conditional extension of Ninety Seconds, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Ninety Seconds)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Ninety Seconds)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Ninety Seconds)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Ninety Seconds)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -214,7 +214,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Key Observations:**
 - Void signature confirmed at SECTOR-C-918.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-C-IVδ-918]
 - The mind register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Ninety Seconds record.)
 
 **Entry 1 — Containment Description** Ninety Seconds (C-IVδ-918 [VT]) is logged as a Time-Mind manifestation expressing Void. Held at SECTOR-C-918.
 
@@ -237,10 +237,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVδ-918] |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-IVδ-918] |
+| **OBSERVATION SUCCESS (Ninety Seconds)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -285,8 +285,8 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 **Threat Assessment:** Critical. A Time-Mind entity — the mind register is its defining characteristic. Risk: prolonged exposure to the mind pressure may produce effects not seen in standard void entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
+- Viderehan and Ferrehan are valid Work Types. [SE-C-IVδ-918]
+- Flerehan and Pugnahan are not effective against this entity type. [SE-C-IVδ-918]
 - Monitor the mind register specifically — it is the primary channel of contact.
 
 **Cross-References:** City Sorrow (도한) · Void · Time-Mind · Manifestation Classification

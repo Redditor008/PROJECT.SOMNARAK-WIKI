@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-189 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Ephemera)** | **Subject** — Can breach |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category (Ephemera)** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A faint humanoid made from dust, broken stone, and fading memories of a ruined Desolate settlement — barely holding its shape, always about to blow away. Salt-damp, it smells of cold rain; a place that died, walking. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement (Ephemera)** | Mobile — walks upright; can breach and pursue. |
 | **Location** | The Desolate — mobile |
-| **R.D. Comprehension Level** | 1 — Initial |
+| **R.D. Comprehension Level (Ephemera)** | 1 — Initial |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Ephemera):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Subject |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure (Ephemera)** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Han-Energy yield (Ephemera)** | 10–14 Han-Energy per successful work cycle |
+| **Work difficulty (Ephemera)** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Ephemera)** | 1 g–10 kg (α) |
+| **Recommended response (Ephemera)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Ephemera.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-Iα-189]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-O-Iα-189]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-Iα-189]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Ephemera):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 0.95 m/s |
 | **Resistance** | 15% against Lament pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
+| **Activation threshold (Ephemera)** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Lament |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Ephemera)** | I — affects behavior complexity and response speed |
+| **Potency modifier (Ephemera)** | α — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Ephemera):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty (Ephemera)** | Low · R.D. Comprehension Level 1 — Initial |
+| **Valid Work Types (Ephemera)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Map and name what remains; do not chase what is already gone |
 
@@ -85,15 +85,15 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension (Ephemera):** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Ephemera's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Map and name what remains; do not chase what is already gone**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- The entity’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
+- Ephemera’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
+- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record. [SE-O-Iα-189]
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Ephemera's dossier.
 
 ## Appearance
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
 - **Primary marker:** A faint humanoid figure made from dust, broken stone, and fading memories of a ruined settlement.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (Ephemera):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Lament
 - **Registered location:** The Desolate — mobile
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A faint humanoid figure made from dust, broken stone, and fading memories of a ruined settlement. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Position / movement (Ephemera)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (Ephemera)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Ephemera)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (Ephemera)** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol (Ephemera):** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Ruin formed from a settlement remembered by fewer people each year.
 - **The Sorrow:** The grief of a place disappearing after its destruction.
 - **The Event:** A Desolate ruin was abandoned; its last witnesses carried its sorrow until it became a figure.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Ephemera):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything and got nothing. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Ephemera is recorded as a Subject with Subject-Grudge manifestation and Lament elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response (Ephemera):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
 ## Breach Behavior
 
 > *"Ephemera has broken free. Collapses the facility structure around it."*
@@ -155,18 +155,18 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Movement** | Ephemera tears loose and pursues personnel with deliberate steps. It collapses the facility structure around it. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target (Ephemera)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation (Ephemera)** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type (Ephemera):** Escape — the entity physically escapes and roams the facility.
+- **Containment priority (Ephemera):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach (Ephemera):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Ephemera):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Dusk-Memory Censer
 
@@ -184,12 +184,12 @@ Heating the soil with internal charcoal embers releases a cool, earth-scented mi
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (Ephemera):** 100% damage to the selected target only.
+**Damage Application (Ephemera):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Ephemera's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost (Ephemera):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Fading Shroud
 
@@ -207,7 +207,7 @@ Heating the soil with internal charcoal embers releases a cool, earth-scented mi
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Ephemera's kind of pressure.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost (Ephemera):** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Fading Brick
 
@@ -217,31 +217,31 @@ Heating the soil with internal charcoal embers releases a cool, earth-scented mi
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (Ephemera):** +1 stat bonus when working the source entity
 
 **Ability:** Preserves one memory of a destroyed place.
 
 **Cost:** The wearer hears the ruin's final silence.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Ephemera upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Stigmas. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Ephemera's element. No protocol produces Stigmas. They emerge from Ephemera's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Ephemera)** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
+| **During use (Ephemera)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Ephemera)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Ephemera)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Ephemera):** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial
+**R.D. Comprehension Level (Ephemera):** 1 — Initial
 
 - It fades in strong daylight and reforms after dusk.
 - It is clearer to survivors than to outsiders.
@@ -256,22 +256,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Ephemera as a Subject with Subject-Grudge manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at The Desolate — mobile. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Ephemera)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Ephemera)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Ephemera's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method (Ephemera):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Ephemera record.)
 
 **Entry 1 — Containment Description**
 Ephemera (O-Iα-189 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The Ruin formed from a settlement remembered by fewer people each year. Held at The Desolate — mobile. It fades in strong daylight and reforms after dusk.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Ephemera) — <Excerpt from Field Log, Year 4238>**
 Wanders through the Desolate following old settlement routes. Personnel feel a place disappearing beneath memory. It is clearer to survivors than to outsiders.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Ephemera) — <Excerpt from Counseling Log>**
 The grief of a place disappearing after its destruction.
 
 **Entry 4 — <Containment Notice>**
@@ -282,12 +282,12 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Ephemera; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-Iα-189] |
 |---|---|
 | The figure becomes clearer and weeps quietly. The sorrow is witnessed; Ephemera is fully recorded. | It scatters and reforms farther away. The gauge climbs and Ephemera withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Ephemera)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -307,7 +307,7 @@ Dust gathers in the shape of a person. A road, a wall, and a window appear, then
 
 Ephemera does not exist in isolation. Its recorded relationships with The Broken Ruin, Pandora's Jar, The Drift Fog should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Ephemera):** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -320,7 +320,7 @@ Ephemera must be assessed as part of an entity network, not as an isolated profi
 | **Pandora's Jar** | Preserves objects from forgotten places. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Drift Fog** | Covers and obscures the fading route. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Ephemera):** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -354,22 +354,22 @@ Some sorrows mourn destruction. Ephemera mourns the forgetting — the place tha
 **Comprehension Level:** 1 — Initial
 **Threat Assessment (Ephemera):** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Refer to entity’s Work Type responses in the Behavior section. [SE-O-Iα-189]
+- Standard R.D. containment protocols apply. [SE-O-Iα-189]
+- See Breach Behavior or Activation Behavior for escalation response. [SE-O-Iα-189]
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+- See Origin section for formation and event details. [SE-O-Iα-189]
+- See Combat Record for engagement history. [SE-O-Iα-189]
+- See M.A.W. Equipment section for extraction risk. [SE-O-Iα-189]
+**Cross-References (Ephemera):** See entity’s Interaction Record and Trivia for connected entities.
+**Faction Involvement (Ephemera):** SED (Desolate-territory exploration)
+**Originator (Ephemera):** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Ephemera):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Ephemera):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - It fades faster when no one remembers the settlement.
@@ -381,9 +381,9 @@ Some sorrows mourn destruction. Ephemera mourns the forgetting — the place tha
 
 - **Classification detail:** Ephemera is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Ephemera):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Ephemera):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Ephemera):** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-O-Iα-189

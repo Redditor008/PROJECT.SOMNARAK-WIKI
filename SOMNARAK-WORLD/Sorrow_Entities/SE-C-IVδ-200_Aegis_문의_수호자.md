@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-200 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Aegis)** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) — Self-aware, ancient, watchful |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Aegis)** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A massive armored figure standing eternal guard before the Exile's Gate, its body all but hidden inside ancient Han-crystal plate scarred by centuries. Its weapon stays lowered — held, never swung. The armor is fever-hot and smells of char; nothing living is visible within it. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement (Aegis)** | Stationary — a structure or location. |
 | **Location** | SECTOR-E-01, Zone E — guards the Exile's Gate |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (Aegis)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Aegis):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure (Aegis)** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield (Aegis)** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Aegis)** | ~1–10 tons (δ) |
+| **Recommended response (Aegis)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Aegis.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVδ-200]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IVδ-200]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVδ-200]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Aegis):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
 | **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
+| **Activation threshold (Aegis)** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Grudge |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Aegis)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (Aegis)** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Aegis):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types (Aegis)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-E-01, Zone E — guards the Exile's Gate |
 | **Resolution Condition** | State the purpose of departure; do not attempt to return through the Gate |
 
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension (Aegis):** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Aegis's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **State the purpose of departure; do not attempt to return through the Gate**.
 
 ### Consequences
 
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resilience** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: the entity’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers the entity’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- The longer the exposure, the deeper the wound: Aegis’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
+- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing. [SE-C-IVδ-200]
+- Failure to achieve resolution triggers Aegis’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
 
 ## Appearance
 **Primary Form:** A massive armored figure standing before the Exile's Gate. Its armor is ancient Han-crystal and its weapon remains lowered.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A massive armored figure standing before the Exile's Gate. Its armor is ancient Han-crystal and its weapon remains lowered.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (Aegis):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-E-01, Zone E — guards the Exile's Gate
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive armored figure standing before the Exile's Gate. Its armor is ancient Han-crystal and its weapon remains lowered. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Position / movement (Aegis)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (Aegis)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Aegis)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (Aegis)** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol (Aegis):** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Guardian formed from a warrior's vow to protect the Gate until the city no longer needed it.
 - **The Sorrow:** The grief of watching thousands leave and knowing the Gate would never bring them back.
 - **The Event:** An ancient Warden died before the Gate, but the duty continued as a figure.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Aegis):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** Field records confirm: the sorrow that birthed this entity was not singular. It accumulated over years around SECTOR-E-01, Zone E, thickening like Han-crystal until the Grudge pressure reached critical mass and the Subject crystallized out of it. The wound is geological — it goes deeper than any single event.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Aegis is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at SECTOR-E-01, Zone E — guards the Exile's Gate; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response (Aegis):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
 ## Breach Behavior
 
 > *"Aegis has broken free. Patrols and attacks intruders."*
@@ -155,18 +155,18 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Movement** | Aegis intensifies in place, warping the containment zone outward. It patrols and attacks intruders. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **First Target (Aegis)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation (Aegis)** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Breach type (Aegis):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach (Aegis):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Aegis):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Gatekeeper's Blade
 
@@ -181,9 +181,9 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (Aegis):** Line; up to 3 targets total
+**Falloff Rule (Aegis):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (Aegis):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Prevents a marked target from fleeing through a boundary.
 
@@ -205,7 +205,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Aegis's kind of pressure.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost (Aegis):** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — The Gatekeeper's Charm
 
@@ -215,31 +215,31 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect (Aegis):** +3 stat bonus when working the source entity
 
 **Ability:** Grants a minor boon tied to Aegis's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer's temper shortens.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Aegis upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to the entity's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Aegis' element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Aegis)** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
+| **During use (Aegis)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Aegis)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Aegis)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Aegis):** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (Aegis):** 3 — Advanced
 
 - It has guarded the Gate for longer than current records.
 - It does not stop legitimate exiles.
@@ -254,38 +254,38 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Aegis as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-E-01, Zone E — guards the Exile's Gate. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Aegis)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Aegis)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Aegis's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method (Aegis):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Aegis record.)
 
 **Entry 1 — Containment Description**
 Aegis (C-IVδ-200 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Guardian formed from a warrior's vow to protect the Gate until the city no longer needed it. Held at SECTOR-E-01, Zone E — guards the Exile's Gate. It has guarded the Gate for longer than current records.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Aegis) — <Excerpt from Field Log, Year 4238>**
 Leaves the Gate to pursue those attempting to return. Personnel feel the finality of exile and the weight of every goodbye. It does not stop legitimate exiles.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Aegis) — <Excerpt from Counseling Log>**
 The grief of watching thousands leave and knowing the Gate would never bring them back.
 
 **Entry 4 — <Containment Notice>**
 Management: State the purpose of departure; do not attempt to return through the Gate. Work response — Flerehan: The Guardian's weapon lowers and its grief becomes visible. (Decrease); Pugnahan: Attacks anyone attempting unauthorized return. (Increase); Viderehan: Reveals the history of every exile who passed. (Stable); Ferrehan: Stands beside the worker in silence. (Decrease). It attacks only attempts to reverse the Gate's one-way function.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 (Aegis) — <Director's Memo, Eyes Only>**
 Field analysis confirms the sorrow accumulated over cycles at this location until the Han reached critical density and the entity crystallized.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Aegis; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVδ-200] |
 |---|---|
 | The Guardian's weapon lowers and its grief becomes visible. The sorrow is named; Aegis is fully recorded. | Attacks anyone attempting unauthorized return. The gauge climbs and Aegis withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Aegis)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -305,7 +305,7 @@ The Gate stands open behind the Guardian. The figure does not move, yet every ex
 
 Aegis does not exist in isolation. Its recorded relationships with The Forgotten Soldier, The Exile's Gate, The Rusted Wall should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Aegis):** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -318,7 +318,7 @@ Aegis must be assessed as part of an entity network, not as an isolated profile.
 | **The Exile's Gate** | The Guardian is the Gate's living obligation. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Rusted Wall** | Shares the grief of boundaries and separation. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Aegis):** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -360,14 +360,14 @@ Some sorrows mourn a single loss. The Guardian mourns an unending procession —
 - An ancient Warden who swore to guard the Gate until released.
 - The vow outlived the Warden; the duty persists.
 **Cross-References:** The Gate · The Exiles · Doorway to Nowhere
-**Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
+**Faction Involvement (Aegis):** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** An ancient Warden of the Gate.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Aegis):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Aegis):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The Guardian has never spoken aloud.
@@ -379,9 +379,9 @@ Some sorrows mourn a single loss. The Guardian mourns an unending procession —
 
 - **Classification detail:** Aegis is a Subject with Entity (IV) — Self-aware, ancient, watchful coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-E-01, Zone E — guards the Exile's Gate.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Aegis):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Aegis):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Aegis):** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-200

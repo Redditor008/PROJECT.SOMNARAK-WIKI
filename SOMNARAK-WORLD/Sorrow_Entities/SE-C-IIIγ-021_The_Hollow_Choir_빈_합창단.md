@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-021 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (The Hollow Choir)** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) — Personality and response shaped by music |
 | **Potency** | Major (γ) — High danger |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (The Hollow Choir)** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — It has no body of its own: it manifests as one hundred forty-four ethereal voices filling a built amphitheater, with no singers on the empty stage. The stage, walls, ceiling, and floor themselves seem to voice the sound, vibrating like a living throat. There is nothing to touch — only the song, and the cold-rain smell of grief it carries. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | SECTOR-C-01, amphitheater in Zone C; contained |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (The Hollow Choir)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Hollow Choir):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure (The Hollow Choir)** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield (The Hollow Choir)** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
-| **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (The Hollow Choir)** | — |
+| **Recommended response (The Hollow Choir)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Hollow Choir.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIγ-021]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIIγ-021]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIγ-021]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Hollow Choir):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
 | **Resistance** | 35% against Lament pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold (The Hollow Choir)** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 726/726 |
 | **Han Pressure [ATK]** | 15–33 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (The Hollow Choir)** | III — affects behavior complexity and response speed |
+| **Potency modifier (The Hollow Choir)** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (The Hollow Choir):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types (The Hollow Choir)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-C-01, amphitheater in Zone C; contained |
 | **Resolution Condition** | Sing to it. Acknowledge the voices and give them a voice in return. Attempts to impose silence fail |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension (The Hollow Choir):** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Hollow Choir's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Sing to it. Acknowledge the voices and give them a voice in return. Attempts to impose silence fail**.
 
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Spirit
 - **Primary marker:** The Choir has no physical body. It manifests as 144 ethereal voices filling a specially constructed amphitheater.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (The Hollow Choir):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-C-01, amphitheater in Zone C; contained
 
@@ -118,8 +118,8 @@
 | Field | Detail |
 |---|---|
 | **Form** | The Choir has no physical body. It manifests as 144 ethereal voices filling a specially constructed amphitheater. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (The Hollow Choir)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (The Hollow Choir)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Voices sing unfinished lullabies, work songs, love songs, and funeral songs. The voices harmonize in groups of twelve, each group tied to an era of city history. After prolonged listening, the Choir may sing the listener's name. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
@@ -163,18 +163,18 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Movement** | The Hollow Choir seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target (The Hollow Choir)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation (The Hollow Choir)** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type (The Hollow Choir):** Transform — the entity's form shifts, altering reality around it.
+- **Containment priority (The Hollow Choir):** Stabilize reality through combined Work Types before the transformation completes.
+- **Sorrow Gauge on breach (The Hollow Choir):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (The Hollow Choir):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Silenced Requiem
 
@@ -189,13 +189,13 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (The Hollow Choir):** Line; up to 3 targets total
+**Falloff Rule (The Hollow Choir):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (The Hollow Choir):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Hollow Choir's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost (The Hollow Choir):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Silenced Shroud
 
@@ -213,7 +213,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Hollow Choir's kind of pressure.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost (The Hollow Choir):** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Silenced Lyre
 
@@ -223,13 +223,13 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (The Hollow Choir):** +2 stat bonus when working the source entity
 
 **Ability:** Creates a field of emotional calm and suppresses hostile emotions within its radius.
 
 **Cost:** The player's own emotions are suppressed while the lyre is played. Feeling returns only when the performance ends.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by The Hollow Choir upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -240,14 +240,14 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use (The Hollow Choir)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (The Hollow Choir)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (The Hollow Choir)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (The Hollow Choir):** 3 — Advanced
 
 **Key Observations:**
 - The Choir contains exactly 144 voices.
@@ -267,13 +267,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies The Hollow Choir as a Subject with Subject-Spirit manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-C-01, amphitheater in Zone C; contained. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - The Choir cannot be silenced; suppression makes it louder. - Its songs contain fragments of pre-Consolihan history. - It sings lullabies when near The Smothering Mother and harmonizes with. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation (The Hollow Choir)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In The Hollow Choir's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Hollow Choir record.)
 
 **Entry 1 — Containment Description**
 The Hollow Choir (C-IIIγ-021 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Hollow Choir formed from citizens silenced by oppression in early Zone C. Held at SECTOR-C-01, amphitheater in Zone C; contained. The Choir contains exactly 144 voices.
@@ -281,7 +281,7 @@ The Hollow Choir (C-IIIγ-021 [LS]) is logged as a Subject-Spirit manifestation 
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 The voices spread beyond the amphitheater and fill the facility. All personnel hear the songs and experience the grief of the silenced. Mass distress and possible Fracture may follow. Groups of twelve correspond to distinct historical eras.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (The Hollow Choir) — <Excerpt from Counseling Log>**
 The grief of having one's words stolen, one's songs forbidden, and one's history erased.
 
 **Entry 4 — <Containment Notice>**
@@ -292,12 +292,12 @@ The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Hollow Choir; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-021] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; The Hollow Choir is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Hollow Choir withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (The Hollow Choir)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -396,8 +396,8 @@ Some sorrows mourn the dead. The Hollow Choir mourns the unsaid — the one hund
 
 - **Classification detail:** The Hollow Choir is a Subject with Fragment (III) — Personality and response shaped by music coherence and Major (γ) — High danger potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-C-01, amphitheater in Zone C; contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail (The Hollow Choir):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (The Hollow Choir):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

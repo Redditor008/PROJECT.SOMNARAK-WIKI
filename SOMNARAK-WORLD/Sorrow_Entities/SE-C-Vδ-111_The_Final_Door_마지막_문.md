@@ -11,56 +11,56 @@
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Sovereign (V) — Autonomous, mysterious |
 | **Potency** | Critical (δ) — Facility-threatening |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (The Final Door)** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A massive ancient door of Weight Han-crystal — no handle, no lock, no hinges, a sealed slab that has never been opened. Bloodless-cold, it smells of ash; it stands at the end of every corridor that leads nowhere, and no one knows what waits behind it. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement (The Final Door)** | Stationary — a structure or location. |
 | **Location** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
 | **R.D. Comprehension Level** | 1 — Minimal |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Final Door):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure (The Final Door)** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield (The Final Door)** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 1 — Minimal |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold (The Final Door)** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · Unknown |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (The Final Door)** | ~1–10 tons (δ) |
+| **Recommended response (The Final Door)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Final Door.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-Vδ-111]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-Vδ-111]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-Vδ-111]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Final Door):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (The Final Door)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 50% against Void pressure; 40% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
+| **Activation threshold (The Final Door)** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 25–55 per hit · Void |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+| **Potency modifier (The Final Door)** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (The Final Door):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -70,9 +70,9 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 1 — Minimal |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (The Final Door)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition (The Final Door)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -110,7 +110,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (The Final Door):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, deepest Alpha Tree vault — sealed
 
@@ -119,8 +119,8 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (The Final Door)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (The Final Door)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Predates the facility, city, and known history. Cold on the outside and warm when touched. Whispers in a language no one has identified. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
@@ -135,14 +135,14 @@
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (The Final Door):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 The Door does not respond to Work Types in the conventional sense.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (The Final Door)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (The Final Door)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** (Observation) | Produces faint ancient whispers. | Stable |
 | **Ferrehan** (Endurance) | Remains silent while testing the worker's willingness to wait. | Stable |
 ### Special Behaviors
@@ -159,7 +159,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
+> **This Relic can Benefit the Facility** (The Final Door record.)
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -187,7 +187,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-Vδ-111] |
 |---|---|---|
 | 10 Seconds | The Final Door begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates The Final Door: The Door may whisper a buried truth for exactly thirteen seconds. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the need to know what lies beyond, and the fear that knowledge may be worse than ignorance. forged during none recorded. it was found beneath the alpha tree already sealed. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -209,12 +209,12 @@ The escalation pattern is specific to The Final Door: it is not a generic breach
 | **Primary effect** | The Door may whisper a buried truth for exactly thirteen seconds. |
 | **Duration / rate** | Thirteen seconds per whisper; the Door reseals itself afterward. |
 | **Risk** | Critical (δ) — Facility-threatening Object-Void producing Void pressure; The truth may be too heavy to carry and may destabilize the listener. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (The Final Door)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (The Final Door):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (The Final Door):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Redacted Hand-Cannon
 
@@ -231,13 +231,13 @@ The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging t
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (The Final Door):** Line; up to 3 targets total
+**Falloff Rule (The Final Door):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (The Final Door):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Final Door's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost (The Final Door):** The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — The Unknown — No Extraction Veil
 
@@ -255,7 +255,7 @@ The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging t
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Final Door's kind of pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost (The Final Door):** The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — Unknown — No Extraction Authorized
 
@@ -265,13 +265,13 @@ The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging t
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect (The Final Door):** +3 stat bonus when working the source entity
 
 **Ability:** Unknown.
 
 **Cost:** Presumed catastrophic. No M.A.W. extraction is authorized.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by The Final Door upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -282,9 +282,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use (The Final Door)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (The Final Door)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (The Final Door)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -315,7 +315,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Final Door record.)
 
 **Entry 1 — Containment Description**
 The Final Door (C-Vδ-111 [VO]) is logged as a Object-Void manifestation expressing Void. Unknown. The Door represents the sorrow of the unknown and the fear of what cannot be understood. Held at SECTOR-A-01, deepest Alpha Tree vault — sealed. The Door predates the facility, city, and all known records.
@@ -323,23 +323,23 @@ The Final Door (C-Vδ-111 [VO]) is logged as a Object-Void manifestation express
 **Entry 2 — <Excerpt from Field Log, Year 4202>**
 May reveal a buried truth. Something warm and alive exists on the opposite side.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (The Final Door) — <Excerpt from Counseling Log>**
 The need to know what lies beyond, and the fear that knowledge may be worse than ignorance.
 
 **Entry 4 — <Containment Notice>**
 Whispers use a language unlike Korean or any known Before-Time language.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 (The Final Door) — <Director's Memo, Eyes Only>**
 The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this location, permanent as the Weeping, and the entity is its exoskeleton.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Final Door; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Vδ-111] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; The Final Door is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Final Door withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (The Final Door)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -435,8 +435,8 @@ Some sorrows are about what is known. The Final Door is about what cannot be kno
 
 - **Classification detail:** The Final Door is an Object/Place with Sovereign (V) — Autonomous, mysterious coherence and Critical (δ) — Facility-threatening potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-A-01, deepest Alpha Tree vault — sealed.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail (The Final Door):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (The Final Door):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

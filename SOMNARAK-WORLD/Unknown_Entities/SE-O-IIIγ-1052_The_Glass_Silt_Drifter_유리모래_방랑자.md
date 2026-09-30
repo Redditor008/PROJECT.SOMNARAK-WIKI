@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Drifts along the 2,400 km vitrified corridor of the Sea of Glass |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category (The Glass Silt Drifter)** | Outside Sorrow (외한) |
 | **Element** | Grudge / Weight |
 | **Manifestation** | Subject-Wanderer / Silica-Bound |
 | **Physical Form** | Vitrified Bipedal Construct — A towering, emaciated figure made of fused volcanic glass, obsidian flakes, and molten copper slag. Its chest cavity holds a spinning turbine of superheated red sand that emits high-pitched grinding shrieks whenever it faces oncoming storms. |

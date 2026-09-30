@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIβ-944 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Calling Bloom)** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) — Wanders the wood, calling a name that was used to lure her there |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한 — Oehan) |
@@ -16,11 +16,11 @@
 | **Physical Form** | Mixed — The small body of a child, no taller than a wheat-sheaf, with the too-still, stark look of a figure from an old woodcut: barefoot, in a tattered scavenger's dress faded to grey. From the crown of her head grows a single bloom the size of a fist, pale petals ringed around one wet, watching eye that blinks out of sync with her own. Pale roots trail behind her, faint and never quite touching the earth. |
 | **Movement** | Mobile — she wanders without rest, drawn toward any voice, always deeper into the wood or back toward its edge, never arriving. |
 | **Location** | The Muttering Wood, beyond SECTOR-E-02 (Uncontained / Managed) |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Calling Bloom)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Calling Bloom):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -28,25 +28,25 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield (Calling Bloom)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (Calling Bloom)** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Sorrow Gauge ≥ 70%, or when a target calls back to the mimicked voice |
 | **Tool / M.A.W. grade** | β |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Han Dust Drop (Vessel Destruction) (Calling Bloom)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Flerehan (comfort) is the primary Work Type; as a Subject she may use all four. Never answer the voice that calls you by name — the wood only opens its door for those who answer. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Calling Bloom.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IIIβ-944]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-O-IIIβ-944]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-IIIβ-944]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Calling Bloom):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -55,20 +55,20 @@
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
 | **Sorrow Gauge [HP]** | 480/480 |
 | **Han Pressure [ATK]** | 8–19 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Calling Bloom)** | III — affects behavior complexity and response speed |
+| **Potency modifier (Calling Bloom)** | β — affects pressure, durability, and escalation severity |
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Calling Bloom):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length (Calling Bloom)** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Fragment (III) — Wanders the wood, calling a name that was used to lure her there |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty (Calling Bloom)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (Calling Bloom)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Muttering Wood, beyond SECTOR-E-02 |
 | **Resolution Condition** | Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge |
 
@@ -179,7 +179,7 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Calling Bloom):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Murmur Vine
 
@@ -220,13 +220,13 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 **Appearance:** A single pale petal bearing one closed eye, the size of a child's thumbnail; it sleeps until a stolen voice is spoken nearby, and then the eye opens.
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (Calling Bloom):** +1 stat bonus when working the source entity
 
 **Ability:** A petal that twitches awake when a voice in the room is not the speaker's own — warning the bearer of lies, mimicry, and stolen words.
 
 **Cost:** The bearer sometimes feels watched from just above their own line of sight.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Calling Bloom upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -236,10 +236,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Calling Bloom)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Calling Bloom)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Calling Bloom)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Calling Bloom)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Murmur Vine performs reliably yet can leave the wielder answering voices that are not there for days afterward.
 
@@ -268,12 +268,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Calling Bloom record.)
 
 **Entry 1 — Containment Description**
 Calling Bloom (O-IIIβ-944 [LS]) is logged as a Subject-Tale manifestation expressing Lament. The entity formed when a wilderness child, Nari, touched a watching flower at the heart of the Muttering Wood while searching for her brother. Held/managed in the Muttering Wood, beyond SECTOR-E-02. She wanders, calls stolen names, and bears a single watching bloom upon her crown.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Calling Bloom) — <Excerpt from Field Log, Year 4238>**
 Subject responsive to Flerehan. On entry, the patrol reports total wood-silence followed by a perfect imitation of Specialist Hanul Grey's late mother. Specialist Hanul Grey was restrained before reaching the source. The child was located at the clearing's edge — wheat-sheaf height, grey dress, a blue bloom with one eye. When addressed as "Nari," the bloom's eye half-closed and the voice stopped. Note: the danger is not the child. The danger is that the voice is always exactly right.
 
 **Entry 3 — <Counseling Log>**
@@ -292,7 +292,7 @@ We sent a team to the clearing at the wood's centre. There was no flower. There 
 | Call her by her true name — "Nari" — and offer to walk her to the wood's edge. | Answer the bloom — go to the voice of the one you lost. |
 |---|---|
 | You speak the name the flower never knew. The child's own eyes focus — for the first time in three centuries — and the bloom's eye closes. She takes a step toward you, then another, back toward the edge, toward the light. You understand the whole of her. Calling Bloom is fully recorded. | You go to the voice. It is perfect. It is exactly right. The bloom opens as you reach it — and you understand, far too late, that the voice was never anyone's but the flower's. Calling Bloom gains a new eye. The encounter ends without a record. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Calling Bloom)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 

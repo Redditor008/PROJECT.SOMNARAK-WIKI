@@ -7,72 +7,72 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-016 [VO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type (The Echo Compass)** | **Object/Place** — Can breach via Transform |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Restless and seeking |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (The Echo Compass)** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Mixed — A palm-sized compass of tarnished brass, its face bare of any marking, its needle a thin sliver of yellowed bone that twitches and drags like a living thing seeking something it cannot name. The casing is etched with letters that rearrange when unobserved. Held in hand, the bone-needle grows warm and presses against the glass toward the nearest grief. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-D-01, Forge District |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (The Echo Compass)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Echo Compass):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure (The Echo Compass)** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Han-Energy yield (The Echo Compass)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (The Echo Compass)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold (The Echo Compass)** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (The Echo Compass)** | ~10 kg–100 kg (β) |
+| **Recommended response (The Echo Compass)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Echo Compass.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIβ-016]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIIβ-016]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIβ-016]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Echo Compass):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (The Echo Compass)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 30% against Void pressure; 20% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (The Echo Compass)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Han Pressure [ATK]** | 10–23 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (The Echo Compass)** | III — affects behavior complexity and response speed |
+| **Potency modifier (The Echo Compass)** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (The Echo Compass):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length (The Echo Compass)** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Fragment (III) — Restless and seeking |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (The Echo Compass)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (The Echo Compass)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-01, Forge District |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition (The Echo Compass)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -93,9 +93,9 @@
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is the entity’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The entity executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time is The Echo Compass’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
+- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh. [SE-C-IIIβ-016]
+- An unresolved encounter never simply ends; it transforms. The Echo Compass executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Physical Form:** A compass with no cardinal markings. Its needle spins toward the nearest concentrated sorrow.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A compass with no cardinal markings. Its needle spins toward the nearest concentrated sorrow.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (The Echo Compass):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Void
 - **Registered location:** SECTOR-D-01, Forge District
 
@@ -116,28 +116,28 @@
 | Field | Detail |
 |---|---|
 | **Form** | A compass with no cardinal markings. Its needle spins toward the nearest concentrated sorrow. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Position / movement (The Echo Compass)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (The Echo Compass)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (The Echo Compass)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (The Echo Compass)** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol (The Echo Compass):** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Compass formed from the need to find what the city hid.
 - **The Sorrow:** The grief of searching for lost memories and discovering sorrow everywhere.
 - **The Event:** Keepers built a device to find forgotten memories; the device learned that every direction contained grief.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (The Echo Compass):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the entity's effect on nearby Sorrow Entities — gauges rise faster, breaches occur more frequently, containment becomes more difficult. The entity is not hostile. It is simply... heavy. Its sorrow bleeds into everything around it, contaminating the facility's emotional atmosphere.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (The Echo Compass):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (The Echo Compass)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (The Echo Compass)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals patterns in its direction changes. | Stable |
 | **Ferrehan** | Tests whether the worker can follow without expecting relief. | Decrease |
 
@@ -146,10 +146,10 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. The Echo Compass is recorded as an Object/Place with Object-Void manifestation and Void elemental expression. The current record places it at SECTOR-D-01, Forge District; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response (The Echo Compass):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
+> **This Relic can Benefit the Facility** (The Echo Compass record.)
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -177,7 +177,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-IIIβ-016] |
 |---|---|---|
 | 10 Seconds | The Echo Compass begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates The Echo Compass: Points toward the nearest related sorrow source. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the grief of searching for lost memories and discovering sorrow everywhere. forged during keepers built a device to find forgotten memories; the device learned that every direction contained grief. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -199,12 +199,12 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 | **Primary effect** | Points toward the nearest related sorrow source. |
 | **Duration / rate** | Until the source is acknowledged or the Compass is put down. |
 | **Risk** | Moderate (β) Object-Void producing Void pressure; The holder may follow the needle indefinitely. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (The Echo Compass)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (The Echo Compass):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (The Echo Compass):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Lost Lens
 
@@ -220,12 +220,12 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (The Echo Compass):** 100% damage to the selected target only.
+**Damage Application (The Echo Compass):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Echo Compass's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost (The Echo Compass):** The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — The Lost Veil
 
@@ -243,7 +243,7 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Echo Compass's kind of pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost (The Echo Compass):** The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — The Lost Compass
 
@@ -253,28 +253,28 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (The Echo Compass):** +1 stat bonus when working the source entity
 
 **Ability:** Reveals which direction is wrong for the current objective.
 
 **Cost:** It never identifies the correct direction.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by The Echo Compass upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to the entity's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to The Echo Compass' element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (The Echo Compass)** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
+| **During use (The Echo Compass)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (The Echo Compass)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (The Echo Compass)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (The Echo Compass):** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -292,22 +292,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies The Echo Compass as an Object/Place with Object-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-D-01, Forge District. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation (The Echo Compass)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Hold the Compass and name a lost thing. Effect: Points toward the nearest related sorrow source. Duration: Until the source is acknowledged or the Compass is put down. Risk: The holder may follow the needle indefinitely. Tool Use Profile —. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In The Echo Compass's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method (The Echo Compass):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Echo Compass record.)
 
 **Entry 1 — Containment Description**
 The Echo Compass (C-IIIβ-016 [VO]) is logged as a Object-Void manifestation expressing Void. The Compass formed from the need to find what the city hid. Held at SECTOR-D-01, Forge District. The needle spins continuously in Somnarak.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (The Echo Compass) — <Excerpt from Field Log, Year 4238>**
 It points faster near concentrated sorrow.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (The Echo Compass) — <Excerpt from Counseling Log>**
 The grief of searching for lost memories and discovering sorrow everywhere.
 
 **Entry 4 — <Containment Notice>**
@@ -318,12 +318,12 @@ The entity's presence changes the air — making it heavier, colder, more satura
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Echo Compass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIβ-016] |
 |---|---|
 | Tests whether the worker can follow without expecting relief. The sorrow is seen clearly; The Echo Compass is fully recorded. | Reveals patterns in its direction changes. The gauge climbs and The Echo Compass withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (The Echo Compass)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -343,7 +343,7 @@ The needle spins in every district. In the Old Lament it becomes a blur; in the 
 
 The Echo Compass does not exist in isolation. Its recorded relationships with The Memory Well, The Sorrow River, The Frozen Relic should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (The Echo Compass):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -356,7 +356,7 @@ The Echo Compass must be assessed as part of an entity network, not as an isolat
 | **The Sorrow River** | Spins toward the underground source. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Frozen Relic** | Finds abandoned objects along the Desolate. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (The Echo Compass):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -403,14 +403,14 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 - Built by Keepers to find forgotten memories. Found only grief.
 - The needle has not settled in four thousand years.
 **Cross-References:** The Archive · The Keepers · The Weeping · The Memory Maze
-**Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant)
+**Faction Involvement (The Echo Compass):** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** Cabal of Keepers, Forge District; built from Han-crystal and a Fractured Keeper’s last thought.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (The Echo Compass):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (The Echo Compass):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - It can point toward emotional sources beyond physical distance.
@@ -422,9 +422,9 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 
 - **Classification detail:** The Echo Compass is an Object/Place with Fragment (III) — Restless and seeking coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-D-01, Forge District.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (The Echo Compass):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (The Echo Compass):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (The Echo Compass):** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IIIβ-016

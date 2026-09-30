@@ -7,72 +7,72 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-488 [O]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Entity Type (Friendless Bridge)** | **Object/Place** — Can breach via Transform |
+| **Tool Type (Friendless Bridge)** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (Friendless Bridge)** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A bridge-shaped object of empty crystal that spreads across ledgers and floors without ever connecting two physical points — a span to nowhere. Fever-cold, it smells of char; it crosses nothing, yet cannot be walked off. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement (Friendless Bridge)** | Stationary — a structure or location. |
 | **Location** | Zone C, Collector's Row |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Friendless Bridge)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Friendless Bridge):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure (Friendless Bridge)** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Han-Energy yield (Friendless Bridge)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (Friendless Bridge)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold (Friendless Bridge)** | Activation / expansion trigger — no breach counter |
+| **Tool / M.A.W. grade (Friendless Bridge)** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Friendless Bridge)** | ~10 kg–100 kg (β) |
+| **Recommended response (Friendless Bridge)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Friendless Bridge.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIβ-488]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IIβ-488]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIβ-488]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Friendless Bridge):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (Friendless Bridge)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Friendless Bridge)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 386/386 |
 | **Han Pressure [ATK]** | 7–17 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Friendless Bridge)** | II — affects behavior complexity and response speed |
+| **Potency modifier (Friendless Bridge)** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Friendless Bridge):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length (Friendless Bridge)** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (Friendless Bridge)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (Friendless Bridge)** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Collector's Row |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition (Friendless Bridge)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -86,15 +86,15 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension (Friendless Bridge):** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Friendless Bridge's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution (Friendless Bridge):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
-- The entity’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
+- Friendless Bridge’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
+- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record. [SE-N-IIβ-488]
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Friendless Bridge's dossier.
 
 ## Appearance
@@ -117,27 +117,27 @@
 |---|---|
 | **Form** | A bridge-shaped object of empty crystal that spreads across ledgers and floors without connecting two physical places. |
 | **Position / movement** | Physical Form: A bridge-shaped object of empty crystal that spreads across ledgers and floors without connecting two physical places. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Material / signature (Friendless Bridge)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Friendless Bridge)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (Friendless Bridge)** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol (Friendless Bridge):** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Bridge formed from a connection that was promised but never built.
 - **The Sorrow:** The grief of waiting for a relationship to become mutual.
 - **The Event:** A family promised to meet across Collector's Row but debt and duty kept separating them.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Friendless Bridge):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (Friendless Bridge):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (Friendless Bridge)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (Friendless Bridge)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals the connection it tried to build. | Stable |
 | **Ferrehan** | Tests whether the worker can wait without crossing alone. | Decrease |
 
@@ -146,12 +146,12 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Friendless Bridge is recorded as an Object/Place with Object-Void manifestation and Grudge elemental expression. The current record places it at Zone C, Collector's Row; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response (Friendless Bridge):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic can Benefit the Facility** (Friendless Bridge record.)
+> **This Relic is Capable of Operative Alteration** (Friendless Bridge record.)
+> **This Relic Extracts Personal Resilience upon Extended Use** (Friendless Bridge record.)
 
 **Activation Trigger:** Touching one end while naming the other person.
 
@@ -166,18 +166,18 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode (Friendless Bridge)** | **Equippable / mounting use** |
 | **Activation** | Touching one end while naming the other person. |
 | **Primary Effect** | Creates a temporary emotional connection. |
 | **Duration** | Until the connection is acknowledged or withdrawn. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | One person may carry the entire relationship. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule (Friendless Bridge):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-N-IIβ-488] |
 |---|---|---|
 | 10 Seconds | Friendless Bridge rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Friendless Bridge activates its primary resonance: Creates a temporary emotional connection. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of waiting for a relationship to become mutual; the bearer begins perceiving echoes of a family promised to meet across collector's row but debt and duty kept separating them. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -199,12 +199,12 @@ The escalation pattern is specific to Friendless Bridge: it is not a generic bre
 | **Primary effect** | Creates a temporary emotional connection. |
 | **Duration / rate** | Until the connection is acknowledged or withdrawn. |
 | **Risk** | Moderate (β) Object-Void producing Grudge pressure; One person may carry the entire relationship. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Friendless Bridge)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Friendless Bridge):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Friendless Bridge):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Bridge Fang
 
@@ -220,12 +220,12 @@ The escalation pattern is specific to Friendless Bridge: it is not a generic bre
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (Friendless Bridge):** 100% damage to the selected target only.
+**Damage Application (Friendless Bridge):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Friendless Bridge's grudge signature in the strike.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost (Friendless Bridge):** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Bridge Plate
 
@@ -243,7 +243,7 @@ The escalation pattern is specific to Friendless Bridge: it is not a generic bre
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Friendless Bridge's kind of pressure.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost (Friendless Bridge):** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — The Bridge Bracelet
 
@@ -253,28 +253,28 @@ The escalation pattern is specific to Friendless Bridge: it is not a generic bre
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (Friendless Bridge):** +1 stat bonus when working the source entity
 
 **Ability:** Strengthens an emotional connection over distance.
 
 **Cost:** The wearer feels every unreturned reach.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Friendless Bridge upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Stigmas. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Friendless Bridge's element. No protocol produces Stigmas. They emerge from Friendless Bridge's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Friendless Bridge)** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
+| **During use (Friendless Bridge)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Friendless Bridge)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Friendless Bridge)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Friendless Bridge):** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -292,22 +292,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Friendless Bridge as an Object/Place with Object-Void manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone C, Collector's Row. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation (Friendless Bridge)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching one end while naming the other person. Effect: Creates a temporary emotional connection. Duration: Until the connection is acknowledged or withdrawn. Risk: One person may carry the entire relationship. Tool Use Profile — I-Relic Operational Rule: The relic remains. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Friendless Bridge's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method (Friendless Bridge):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Friendless Bridge record.)
 
 **Entry 1 — Containment Description**
 Friendless Bridge (N-IIβ-488 [O]) is logged as a Object-Void manifestation expressing Grudge. The Bridge formed from a connection that was promised but never built. Held at Zone C, Collector's Row. It has no stable endpoints.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Friendless Bridge) — <Excerpt from Field Log, Year 4238>**
 It spreads through ledgers and family records.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Friendless Bridge) — <Excerpt from Counseling Log>**
 The grief of waiting for a relationship to become mutual.
 
 **Entry 4 — <Containment Notice>**
@@ -318,12 +318,12 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Friendless Bridge; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-488] |
 |---|---|
 | Tests whether the worker can wait without crossing alone. The sorrow is named; Friendless Bridge is fully recorded. | Reveals the connection it tried to build. The gauge climbs and Friendless Bridge withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Friendless Bridge)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -343,7 +343,7 @@ An empty bridge crosses the Collector's Row. You see no river below and no shore
 
 Friendless Bridge does not exist in isolation. Its recorded relationships with The Broken Promise, The Frozen Bridge, The Inherited Debt should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Friendless Bridge):** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -356,7 +356,7 @@ Friendless Bridge must be assessed as part of an entity network, not as an isola
 | **The Frozen Bridge** | Reflects roads not taken. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Inherited Debt** | Family obligations form its supports. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Friendless Bridge):** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -390,20 +390,20 @@ Some sorrows are about separation. Friendless Bridge is about the promised reuni
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Refer to entity’s Work Type responses in the Behavior section. [SE-N-IIβ-488]
 - Standard containment protocols apply.
 **Observation Notes:**
 - See Origin section for formation details.
 - See Combat Record for engagement parameters.
 **Cross-References:** See entity’s interaction record and cross-references in the full file.
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator (Friendless Bridge):** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Friendless Bridge):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Friendless Bridge):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - It never reaches a complete span.
@@ -415,9 +415,9 @@ Some sorrows are about separation. Friendless Bridge is about the promised reuni
 
 - **Classification detail:** Friendless Bridge is an Object/Place with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone C, Collector's Row.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Friendless Bridge):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Friendless Bridge):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Friendless Bridge):** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-488

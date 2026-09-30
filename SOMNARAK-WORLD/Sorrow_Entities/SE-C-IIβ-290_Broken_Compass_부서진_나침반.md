@@ -7,72 +7,72 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-290 [D]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type (Broken Compass)** | **Object/Place** — Can breach via Transform |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Echo (II) — Repeats spinning |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Broken Compass)** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A broken compass of tarnished brass, its needle spinning without ever settling, its casing cracked and — oddly — warm to the touch. The face bears no markings, the glass is clouded. Bloodless-cold metal, warm at the crack; it smells of ash. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-D-01, Forge District |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Broken Compass)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Broken Compass):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure (Broken Compass)** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Han-Energy yield (Broken Compass)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (Broken Compass)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold (Broken Compass)** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Broken Compass)** | ~10 kg–100 kg (β) |
+| **Recommended response (Broken Compass)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Broken Compass.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIβ-290]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIβ-290]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIβ-290]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Broken Compass):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (Broken Compass)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 25% against Void pressure; 15% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Broken Compass)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 369/369 |
 | **Han Pressure [ATK]** | 9–23 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Broken Compass)** | II — affects behavior complexity and response speed |
+| **Potency modifier (Broken Compass)** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Broken Compass):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length (Broken Compass)** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — Repeats spinning |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (Broken Compass)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (Broken Compass)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-01, Forge District |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition (Broken Compass)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -93,9 +93,9 @@
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Composure** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, the entity reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization. [SE-C-IIβ-290]
+- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak. [SE-C-IIβ-290]
+- If the resolution condition is not fulfilled, Broken Compass reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
 **Physical Form:** A broken compass whose needle spins without settling. Its casing is cracked and warm.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A broken compass whose needle spins without settling. Its casing is cracked and warm.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (Broken Compass):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Void
 - **Registered location:** SECTOR-D-01, Forge District
 
@@ -116,28 +116,28 @@
 | Field | Detail |
 |---|---|
 | **Form** | A broken compass whose needle spins without settling. Its casing is cracked and warm. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Position / movement (Broken Compass)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (Broken Compass)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Broken Compass)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (Broken Compass)** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol (Broken Compass):** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Compass formed from the sorrow of being lost.
 - **The Sorrow:** The fear of having no direction and no trusted path back.
 - **The Event:** A Survey Corps member lost a route in the Forge District and never found the correct direction again.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Broken Compass):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** Broken Compass sits in a vault in Zone D — ancient, cracked, its needle spinning endlessly. The Compass cannot find direction — it cannot find anything. Born from the sorrow of being lost — the disorientation of not knowing where you are or where you're going. The entity exists in a state of perpetual waiting — not for rescue, not for recognition, but for understanding. The city built itself on sorrow, and this entity is a testament to that foundation. It does not seek to.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (Broken Compass):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (Broken Compass)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (Broken Compass)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals the pattern behind being lost. | Stable |
 | **Ferrehan** | Tests whether the worker can watch without reacting. | Decrease |
 
@@ -146,10 +146,10 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Broken Compass is recorded as an Object/Place with Object-Void manifestation and Void elemental expression. The current record places it at SECTOR-D-01, Forge District; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response (Broken Compass):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
+> **This Relic can Benefit the Facility** (Broken Compass record.)
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
 
@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-IIβ-290] |
 |---|---|---|
 | 1 Use | Broken Compass sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Touch and naming a destination.) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the fear of having no direction and no trusted path back. during a survey corps member lost a route in the forge district and never found the correct direction again; the relic answers only to complete commitment. | The full discharge completes: Points toward the nearest concentrated sorrow. All hostile entities in range suffer devastating disruption and elemental debuffs. |
@@ -199,12 +199,12 @@ The escalation pattern is specific to Broken Compass: it is not a generic breach
 | **Primary effect** | Points toward the nearest concentrated sorrow. |
 | **Duration / rate** | Until the destination is acknowledged or the Compass is put down. |
 | **Risk** | Moderate (β) Object-Void producing Void pressure; The user may follow it indefinitely. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Broken Compass)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Broken Compass):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Broken Compass):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Primordial Greatsword
 
@@ -222,7 +222,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Broken Compass's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost (Broken Compass):** The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — The Lost Veil
 
@@ -240,7 +240,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Broken Compass's kind of pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost (Broken Compass):** The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — The Lost Compass
 
@@ -250,28 +250,28 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (Broken Compass):** +1 stat bonus when working the source entity
 
 **Ability:** Shows which direction is wrong.
 
 **Cost:** It never reveals which direction is right.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Broken Compass upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and the entity's sorrow within the equipment may activate. and may produce an effect tied to the entity's element. The Stigma is the entity's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Broken Compass' sorrow within the equipment may activate. and may produce an effect tied to Broken Compass' element. The Stigma is Broken Compass' prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Broken Compass)** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
+| **During use (Broken Compass)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Broken Compass)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Broken Compass)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Broken Compass):** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -290,22 +290,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Broken Compass as an Object/Place with Object-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-D-01, Forge District. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation (Broken Compass)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch and naming a destination. Effect: Points toward the nearest concentrated sorrow. Duration: Until the destination is acknowledged or the Compass is put down. Risk: The user may follow it indefinitely. Tool Use Profile — A-Relic Operational Rule: The relic. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Broken Compass's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method (Broken Compass):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Broken Compass record.)
 
 **Entry 1 — Containment Description**
 Broken Compass (C-IIβ-290 [D]) is logged as a Object-Void manifestation expressing Void. The Compass formed from the sorrow of being lost. Held at SECTOR-D-01, Forge District. The needle never stops in Somnarak.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Broken Compass) — <Excerpt from Field Log, Year 4238>**
 It is unreliable near dense Han flows.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Broken Compass) — <Excerpt from Counseling Log>**
 The fear of having no direction and no trusted path back.
 
 **Entry 4 — <Containment Notice>**
@@ -316,12 +316,12 @@ Broken Compass sits in a vault in Zone D — ancient, cracked, its needle spinni
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Broken Compass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-290] |
 |---|---|
 | Tests whether the worker can watch without reacting. The sorrow is seen clearly; Broken Compass is fully recorded. | Reveals the pattern behind being lost. The gauge climbs and Broken Compass withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Broken Compass)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -341,7 +341,7 @@ The needle spins beneath the glass. You turn the Compass toward the street, the 
 
 Broken Compass does not exist in isolation. Its recorded relationships with The Echo Compass, The Wandering Door, The Drift Fog should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Broken Compass):** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -354,7 +354,7 @@ Broken Compass must be assessed as part of an entity network, not as an isolated
 | **The Wandering Door** | The Compass points toward its remembered thresholds. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Drift Fog** | Spins wildly inside the Fog. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Broken Compass):** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -396,14 +396,14 @@ Some sorrows are about losing a place. Broken Compass is about losing direction 
 - Built by Keepers to find forgotten memories; found only grief.
 - The needle has not settled in centuries.
 **Cross-References:** The Archive · The Keepers · The Echo Compass
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement (Broken Compass):** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** Cabal of Keepers, Forge District.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Broken Compass):** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Broken Compass):** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The needle points toward emotional concentration.
@@ -415,9 +415,9 @@ Some sorrows are about losing a place. Broken Compass is about losing direction 
 
 - **Classification detail:** Broken Compass is an Object/Place with Echo (II) — Repeats spinning coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-D-01, Forge District.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Broken Compass):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Broken Compass):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Broken Compass):** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-290

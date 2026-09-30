@@ -11,43 +11,43 @@
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Fragment (III) — Jagged, furious resolve |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category (The Wedge That Held)** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A seventeen-inch four-sided railway wedge hand-beaten from porous volcanic black iron, reclaimed from the lower basalt drainage culvert of Old Cheonbulok. Wrapped tightly in fraying hemp work-rags soaked in machine grease and human sweat, the wedge radiates fever-dry heat. Along its beaten flats, eighteen distinct apprentice serial codes are carved into the iron with a cold chisel. Grudge Han-veins throb within the metal like boiling arteries. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement (The Wedge That Held)** | Stationary — a discrete object. |
 | **Location** | SECTOR-O-04, Outer Bastion Arsenal — contained |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (The Wedge That Held)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Wedge That Held):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure (The Wedge That Held)** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 40–60% |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Single-use impact trigger — consumed upon activation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · γ (Major) |
 | **Vessel-Destructible** | Yes — shatters into slag upon single use |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Han Dust Drop (Vessel Destruction) (The Wedge That Held)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Contain with Viderehan and Ferrehan; deploy as A-Relic against high-armor boss carapaces. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Wedge That Held.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IIIγ-412]
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
 - M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Wedge That Held):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -63,13 +63,13 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length (The Wedge That Held)** | Medium — 16 turns |
 | **Threat Role** | Offensive Consumable / Breaching Instrument |
 | **Coherence** | Fragment (III) — Jagged, furious resolve |
 | **Primary Pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 40–60% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (The Wedge That Held)** | Viderehan and Ferrehan only |
 | **Battlefield** | Cheonbulok Border Outpost / Zone C Forge |
 | **Resolution Condition** | The wedge is driven into bedrock or target carapace, releasing its tectonic fury |
 
@@ -120,12 +120,12 @@ Premature detonation vents an uncontained magma shockwave across the armory, des
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (The Wedge That Held):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (The Wedge That Held)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (The Wedge That Held)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Records thermal cycles and crack propagation along the iron shaft. | Stable |
 | **Ferrehan** | Demands the operative endure holding the hot hemp wrapping without dropping the weight. | Decrease |
 
@@ -135,7 +135,7 @@ Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the 
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
+> **This Relic can Benefit the Facility** (The Wedge That Held record.)
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
 
@@ -163,7 +163,7 @@ Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-O-IIIγ-412] |
 |---|---|---|
 | 1 Use | The Wedge That Held sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram).) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender. during the great basalt rupture of year 4,185 in old cheonbulok, where supervisors welded shut the blast flues; the relic answers only to complete commitment. | The full discharge completes: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. All hostile entities in range suffer devastating disruption and elemental debuffs. |
@@ -185,12 +185,12 @@ The escalation pattern is specific to The Wedge That Held: it is not a generic b
 | **Primary effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
 | **Duration / rate** | Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter. |
 | **Risk** | Major (γ) Object-Grudge producing Grudge pressure; The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (The Wedge That Held)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (The Wedge That Held):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
+> **Materialized Agony Wear (M.A.W.) (The Wedge That Held):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Retaining Maul
@@ -258,7 +258,7 @@ The M.A.W. extracted from this relic carries Kang Il-Joo's absolute refusal to y
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (The Wedge That Held):** 3 — Advanced
 
 - The iron wedge maintains an internal core temperature of 115°C without external heat source.
 - Seismic sensors record eighteen distinct micro-vibrations every minute from the plinth.
@@ -277,7 +277,7 @@ The M.A.W. extracted from this relic carries Kang Il-Joo's absolute refusal to y
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Wedge That Held record.)
 
 **Entry 1 — Containment Description**
 Reclaimed from the subterranean magma works of Old Cheonbulok. The artifact exhibits extreme metallurgical hardness that defies conventional smelting temperatures, remaining rigid even when exposed to direct oxy-acetylene torching.
@@ -296,7 +296,7 @@ Directorate Synthesis: The wedge does not break bedrock because it is sharp; it 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Wedge That Held; the other feeds it.
 
 | Drop the tongs when the iron burns through the leather. | Hold the iron firmly against the anvil until the reading settles. |
 |---|---|

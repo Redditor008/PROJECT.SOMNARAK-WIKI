@@ -22,7 +22,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Blessing Giver):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -49,7 +49,7 @@
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Blessing Giver):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -58,8 +58,8 @@
 | **Activation threshold** | Blessing count ≥ 6 |
 | **Sorrow Gauge [HP]** | 450/450 |
 | **Han Pressure [ATK]** | 8–18 per hit · Lament |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Blessing Giver)** | I — affects behavior complexity and response speed |
+| **Potency modifier (Blessing Giver)** | β — affects pressure, durability, and escalation severity |
 
 ### Combat Actions
 

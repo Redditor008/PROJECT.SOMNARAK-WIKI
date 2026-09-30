@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-009 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (The Memory Weaver)** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) — Self-aware and intelligent |
 | **Potency** | Major (γ) — High danger if containment fails |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (The Memory Weaver)** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A massive spider-like being whose body is woven from crystallized memories rather than flesh — translucent, flickering with the stolen faces and voices caught inside it. Eight legs of braided memory-thread; its many eyes are Han-crystal sockets in which thousands of tiny recollections turn endlessly. It is cold, dry, almost weightless, yet drips a thin numb damp wherever a memory dissolves. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement (The Memory Weaver)** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | SECTOR-B-02, Zone B — library of stolen pasts; contained |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (The Memory Weaver)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Memory Weaver):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure (The Memory Weaver)** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield (The Memory Weaver)** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (The Memory Weaver)** | ~100 kg–1 ton (γ) |
+| **Recommended response (The Memory Weaver)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Memory Weaver.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVγ-009]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IVγ-009]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVγ-009]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Memory Weaver):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 2.30 m/s |
 | **Resistance** | 40% against Void pressure; 30% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold (The Memory Weaver)** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 621/621 |
 | **Han Pressure [ATK]** | 18–41 per hit · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (The Memory Weaver)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (The Memory Weaver)** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (The Memory Weaver):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types (The Memory Weaver)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-02, Zone B — library of stolen pasts; contained |
 | **Resolution Condition** | Present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension (The Memory Weaver):** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Memory Weaver's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger**.
 
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Dream
 - **Primary marker:** A massive spider-like being whose body is made from crystallized memories. Its webs are spun from stolen pasts, and its eyes resemble thousands of memories turning in Han-crystal sockets.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (The Memory Weaver):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Void
 - **Registered location:** SECTOR-B-02, Zone B — library of stolen pasts; contained
 
@@ -118,8 +118,8 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive spider-like being whose body is made from crystallized memories. Its webs are spun from stolen pasts, and its eyes resemble thousands of memories turning in Han-crystal sockets. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (The Memory Weaver)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (The Memory Weaver)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Webs are visible only in the Dream layer. It offers memories as if conducting a trade. Its lair contains more than ten thousand catalogued stolen memories. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
@@ -168,13 +168,13 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
+- **Breach type (The Memory Weaver):** Escape — the entity physically escapes and roams the facility.
+- **Containment priority (The Memory Weaver):** Physical suppression required.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (The Memory Weaver):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Weaver's Shuttle-Awl
 
@@ -213,7 +213,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Memory Weaver's kind of pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost (The Memory Weaver):** The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — The Forgotten Mask
 
@@ -223,13 +223,13 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (The Memory Weaver):** +2 stat bonus when working the source entity
 
 **Ability:** Makes the wearer invisible to memory-based attacks.
 
 **Cost:** The mask feeds on the memories it protects; the wearer slowly loses their own memories.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by The Memory Weaver upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -240,14 +240,14 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use (The Memory Weaver)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (The Memory Weaver)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (The Memory Weaver)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (The Memory Weaver):** 3 — Advanced
 
 **Key Observations:**
 - Standard observation tools miss the Weaver's Dream-layer webs.
@@ -266,13 +266,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies The Memory Weaver as a Subject with Subject-Dream manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B — library of stolen pasts; contained. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Victims relive happy memories in loops while the Weaver feeds on identity. - It has never attacked without provocation or refusal of its offers. - It possesses memories of. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation (The Memory Weaver)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In The Memory Weaver's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Memory Weaver record.)
 
 **Entry 1 — Containment Description**
 The Memory Weaver (C-IVγ-009 [VS]) is logged as a Subject-Dream manifestation expressing Void. The Weaver was born from histories erased from the city's record—the sorrow of people removed from collective memory. Held at SECTOR-B-02, Zone B — library of stolen pasts; contained. Standard observation tools miss the Weaver's Dream-layer webs.
@@ -280,7 +280,7 @@ The Memory Weaver (C-IVγ-009 [VS]) is logged as a Subject-Dream manifestation e
 **Entry 2 — <Excerpt from Field Log, Year 4223>**
 Webs spread through the facility, converting rooms into memory zones. Reality is replaced by the past; personnel cannot distinguish memory from present. The same memory loop may persist for hours with no clear distinction between past and present.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (The Memory Weaver) — <Excerpt from Counseling Log>**
 The terror of being erased and the loneliness of memories no one claims.
 
 **Entry 4 — <Containment Notice>**
@@ -291,12 +291,12 @@ The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Memory Weaver; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVγ-009] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; The Memory Weaver is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Memory Weaver withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (The Memory Weaver)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -392,8 +392,8 @@ Some sorrows mourn the dead. The Memory Weaver mourns the unpersoned — the cit
 
 - **Classification detail:** The Memory Weaver is a Subject with Entity (IV) — Self-aware and intelligent coherence and Major (γ) — High danger if containment fails potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-B-02, Zone B — library of stolen pasts; contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail (The Memory Weaver):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (The Memory Weaver):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

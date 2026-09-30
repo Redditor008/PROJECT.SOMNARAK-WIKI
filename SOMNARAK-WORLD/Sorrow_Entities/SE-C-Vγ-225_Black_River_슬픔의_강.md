@@ -7,10 +7,10 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vγ-225 [WP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type (Black River)** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Sovereign (V) — Autonomous, flowing, eternal |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Black River)** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Mixed — A vast underground river of black liquid sorrow flowing beneath the city like blood through veins — slow, dense, cold, with no visible banks. The liquid is lead-cold and smells of wet stone; it is the city's grief gathered and moving always toward the Weeping. |
@@ -20,46 +20,46 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Black River):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Han / burden pressure |
+| **Primary pressure (Black River)** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield (Black River)** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 4 — Mastered |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold (Black River)** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
-| **Vessel-Destructible** | No — Place-manifestation |
-| **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Vessel-Destructible (Black River)** | No — Place-manifestation |
+| **Han Dust Drop (Vessel Destruction) (Black River)** | — |
+| **Recommended response (Black River)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Black River.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-Vγ-225]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-Vγ-225]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-Vγ-225]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Black River):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (Black River)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Weight pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold (Black River)** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 686/686 |
 | **Han Pressure [ATK]** | 17–39 per hit · Weight |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Potency modifier (Black River)** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Black River):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Black River)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, beneath the Alpha Tree — The Weeping |
 | **Resolution Condition** | Impossible. Access is sealed and the River is monitored |
 
@@ -92,8 +92,8 @@
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
-- The entity’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
+- Black River’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
+- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record. [SE-C-Vγ-225]
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Black River's dossier.
 
 ## Appearance
@@ -106,7 +106,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
 - **Primary marker:** A vast underground river of black liquid sorrow. It flows beneath the city like blood through veins.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (Black River):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-A-01, beneath the Alpha Tree — The Weeping
 
@@ -115,30 +115,30 @@
 | Field | Detail |
 |---|---|
 | **Form** | A vast underground river of black liquid sorrow. It flows beneath the city like blood through veins. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Position / movement (Black River)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (Black River)** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Black River)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (Black River)** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol (Black River):** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The River is considered the source of Han and the origin of all Sorrow Entities.
 - **The Sorrow:** The accumulated grief of every person who has lived and died in Somnarak.
 - **The Event:** Unknown. The River predates the city and may be older than Han's structural form.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Black River):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this effect as "Sorrow Resonance" — the entity's sorrow resonates with the viewer's own hidden grief. Containment procedures require personnel to rotate every 72 hours. Extended exposure causes vivid dreams — dreams of lives never lived, of losses never mourned.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (Black River):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 The River does not respond to Work Types in the conventional sense.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (Black River)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (Black River)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals the grief carried through its currents. | Stable |
 | **Ferrehan** | Tests whether the worker can remain near total sorrow. | Decrease |
 
@@ -147,7 +147,7 @@ The River does not respond to Work Types in the conventional sense.
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Black River is recorded as an Object/Place with Place-Weight manifestation and Weight elemental expression. The current record places it at SECTOR-A-01, beneath the Alpha Tree — The Weeping; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response (Black River):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -180,7 +180,7 @@ The escalation pattern is specific to Black River: it is not a generic breach ev
 **Activation reporting order (Black River):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Black River):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The River Maul
 
@@ -195,13 +195,13 @@ The escalation pattern is specific to Black River: it is not a generic breach ev
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (Black River):** Line; up to 3 targets total
+**Falloff Rule (Black River):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (Black River):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Black River's weight signature in the strike.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost (Black River):** The wielder feels progressively heavier; prolonged use ages them slightly.
 
 ### M.A.W. Suit — The River Mantle
 
@@ -229,28 +229,28 @@ The escalation pattern is specific to Black River: it is not a generic breach ev
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (Black River):** +2 stat bonus when working the source entity
 
 **Ability:** Absorbs sorrow from the surrounding environment.
 
 **Cost:** The stone becomes heavier with every sorrow absorbed.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Black River upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Stigmas. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Black River's element. No protocol produces Stigmas. They emerge from Black River's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Black River)** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
+| **During use (Black River)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Black River)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Black River)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Black River):** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered
@@ -269,21 +269,21 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Black River as an Object/Place with Place-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-A-01, beneath the Alpha Tree — The Weeping. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. The River does not respond to. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation (Black River)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Black River's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method (Black River):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Black River record.)
 
 **Entry 1 — Containment Description**
 Black River (C-Vγ-225 [WP]) is logged as a Place-Weight manifestation expressing Weight. The River is considered the source of Han and the origin of all Sorrow Entities. Held at SECTOR-A-01, beneath the Alpha Tree — The Weeping. The River is the suspected source of all Han.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Black River) — <Excerpt from Field Log, Year 4238>**
 Its sound is felt through bone rather than heard.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Black River) — <Excerpt from Counseling Log>**
 The accumulated grief of every person who has lived and died in Somnarak.
 
 **Entry 4 — <Containment Notice>**
@@ -294,12 +294,12 @@ The entity exists in a space between memory and forgetting — not quite present
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Black River; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Vγ-225] |
 |---|---|
 | Tests whether the worker can remain near total sorrow. The sorrow is borne; Black River is fully recorded. | Reveals the grief carried through its currents. The gauge climbs and Black River withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Black River)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -319,7 +319,7 @@ You descend beneath the Alpha Tree and hear the River with your bones. The liqui
 
 Black River does not exist in isolation. Its recorded relationships with The Maw, The Sorrow Fountain, The Grieving Colossus, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Black River):** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -333,7 +333,7 @@ Black River must be assessed as part of an entity network, not as an isolated pr
 | **The Grieving Colossus** | Its tears join the River's current. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The First Tear** | The First Tear is considered an upstream origin. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Black River):** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -381,9 +381,9 @@ Some sorrows are about human loss. Black River is about loss itself — the grie
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Black River):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Black River):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Sovereign Manifestation Log
 
 The Black River is not visited; it is sounded. No expedition has ever reached its banks and returned with anything but depth readings, and the readings agree on only one fact: the River is deeper than the instruments. Its manifestations arrive downstream — a darkening of the ward-flows, a sudden cold in the extraction manifolds, entities across the facility turning at once toward the sound of moving water only they can hear. The ledger's oldest entry, predating the Directorate's seal, is a single line in an unknown hand: *"Today the River rose, and eleven new sorrows were found in the wards by evening."*
@@ -405,9 +405,9 @@ The Directorate's posture toward the source of all Han is absolute non-interfere
 
 - **Classification detail:** Black River is an Object/Place with Sovereign (V) — Autonomous, flowing, eternal coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-A-01, beneath the Alpha Tree — The Weeping.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Black River):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Black River):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Black River):** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-Vγ-225

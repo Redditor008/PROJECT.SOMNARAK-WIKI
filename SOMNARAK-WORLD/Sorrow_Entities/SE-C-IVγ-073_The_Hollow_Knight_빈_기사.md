@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-073 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (The Hollow Knight)** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) — Self-aware, driven by duty |
 | **Potency** | Major (γ) — High danger |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (The Hollow Knight)** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Non-Organic — A suit of ancient plate armor standing upright with nothing inside it — no body, no bones; the armor itself is the entity. It patrols continuously, weapon and shield raised, joints clanking with no flesh to move them. The metal is fever-hot and smells of char. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | SECTOR-B-01, Zone B — contained |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (The Hollow Knight)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Hollow Knight):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure (The Hollow Knight)** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield (The Hollow Knight)** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (The Hollow Knight)** | ~100 kg–1 ton (γ) |
+| **Recommended response (The Hollow Knight)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Hollow Knight.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVγ-073]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IVγ-073]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVγ-073]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Hollow Knight):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 2.30 m/s |
 | **Resistance** | 40% against Grudge pressure; 30% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold (The Hollow Knight)** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 662/662 |
 | **Han Pressure [ATK]** | 16–37 per hit · Grudge |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (The Hollow Knight)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (The Hollow Knight)** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (The Hollow Knight):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types (The Hollow Knight)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-B-01, Zone B — contained |
 | **Resolution Condition** | Salute its duty, acknowledge its sacrifice, and assign a clear completed task |
 
@@ -85,15 +85,15 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension (The Hollow Knight):** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Hollow Knight's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Salute its duty, acknowledge its sacrifice, and assign a clear completed task**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks the entity’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
+- Extended contact risks The Hollow Knight’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
+- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field. [SE-C-IVγ-073]
 - Without timely resolution, The Hollow Knight defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** Ancient armor standing upright with no body inside. The armor itself is the entity.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (The Hollow Knight):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-01, Zone B — contained
 
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | Ancient armor standing upright with no body inside. The armor itself is the entity. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (The Hollow Knight)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (The Hollow Knight)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The visor contains only darkness. It patrols the same route for sixteen hours each day. It salutes acts of courage regardless of faction or allegiance. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification (The Hollow Knight)** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol (The Hollow Knight):** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Knight formed from duty without purpose.
 - **The Sorrow:** The grief of a soldier who fought for a cause that no longer exists and remained responsible after the reason for responsibility vanished.
 - **The Event:** An ancient war ended, but one guardian's order never did. The body decayed; the armor and duty remained.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (The Hollow Knight):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** The archive cross-references this entity's sorrow with SECTOR-B-01, Zone B — the same Han density, the same Grudge signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
 
 ## Behavior
@@ -152,7 +152,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Hollow Knight is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at SECTOR-B-01, Zone B — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response (The Hollow Knight):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
 ## Breach Behavior
 
 > *"The Hollow Knight has broken free. Hunts personnel indiscriminately."*
@@ -163,18 +163,18 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | The Hollow Knight seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **First Target (The Hollow Knight)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation (The Hollow Knight)** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type (The Hollow Knight):** Transform — the entity's form shifts, altering reality around it.
+- **Containment priority (The Hollow Knight):** Stabilize reality through combined Work Types before the transformation completes.
+- **Sorrow Gauge on breach (The Hollow Knight):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (The Hollow Knight):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Duty Fang
 
@@ -189,13 +189,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (The Hollow Knight):** Line; up to 3 targets total
+**Falloff Rule (The Hollow Knight):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (The Hollow Knight):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Hollow Knight's grudge signature in the strike.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost (The Hollow Knight):** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Duty Plate
 
@@ -213,7 +213,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Hollow Knight's kind of pressure.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost (The Hollow Knight):** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — The Duty Shield
 
@@ -223,31 +223,31 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (The Hollow Knight):** +2 stat bonus when working the source entity
 
 **Ability:** Absorbs damage intended for others; makes the wearer a powerful protector.
 
 **Cost:** The wearer cannot flee from danger. Duty compels them to stand and fight.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by The Hollow Knight upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Hollow Knight's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (The Hollow Knight)** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
+| **During use (The Hollow Knight)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (The Hollow Knight)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (The Hollow Knight)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (The Hollow Knight):** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (The Hollow Knight):** 3 — Advanced
 
 **Key Observations:**
 - The armor is empty; no organic body exists inside.
@@ -266,13 +266,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies The Hollow Knight as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-01, Zone B — contained. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Patrols the same corridors and corners without deviation. - Protects personnel even when no threat exists. - Cannot understand that its post has ended. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation (The Hollow Knight)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Hollow Knight's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method (The Hollow Knight):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Hollow Knight record.)
 
 **Entry 1 — Containment Description**
 The Hollow Knight (C-IVγ-073 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Knight formed from duty without purpose. Held at SECTOR-B-01, Zone B — contained. The armor is empty; no organic body exists inside.
@@ -280,7 +280,7 @@ The Hollow Knight (C-IVγ-073 [GS]) is logged as a Subject-Body manifestation ex
 **Entry 2 — <Excerpt from Field Log, Year 4222>**
 Patrols facility corridors, seeking threats that no longer exist. Personnel feel compelled to stand guard and abandon other duties. It patrols sixteen hours per day and never retreats.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (The Hollow Knight) — <Excerpt from Counseling Log>**
 The grief of a soldier who fought for a cause that no longer exists and remained responsible after the reason for responsibility vanished.
 
 **Entry 4 — <Containment Notice>**
@@ -291,12 +291,12 @@ The archive cross-references this entity with its registered location — the so
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Hollow Knight; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVγ-073] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; The Hollow Knight is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Hollow Knight withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (The Hollow Knight)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -316,7 +316,7 @@ The armor stands at attention, ancient and immaculate. The visor is empty, yet y
 
 The Hollow Knight does not exist in isolation. Its recorded relationships with The Forgotten Soldier, The Orphaned Bell, The Kind Healer, The Hollow Choir, The Maw should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (The Hollow Knight):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -331,7 +331,7 @@ The Hollow Knight must be assessed as part of an entity network, not as an isola
 | **The Hollow Choir** | The Choir sings the Knight's forgotten war. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Maw** | Guards The Maw's perimeter. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (The Hollow Knight):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -373,14 +373,14 @@ Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that 
 - An ancient order’s guardian, still watching after the order dissolved.
 - The body decayed; the armor and duty remained.
 **Cross-References:** Border District · The Scar · The Occlusihan · The Guarding Bird
-**Faction Involvement:** SED (Desolate-territory exploration)
+**Faction Involvement (The Hollow Knight):** SED (Desolate-territory exploration)
 **Originator:** An ancient knightly order; the guardian outlived the cause.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (The Hollow Knight):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (The Hollow Knight):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The armor has no body, but its footsteps have human weight.
@@ -392,9 +392,9 @@ Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that 
 
 - **Classification detail:** The Hollow Knight is a Subject with Entity (IV) — Self-aware, driven by duty coherence and Major (γ) — High danger potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-01, Zone B — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (The Hollow Knight):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (The Hollow Knight):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (The Hollow Knight):** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IVγ-073

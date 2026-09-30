@@ -8,10 +8,10 @@
 |---|---|
 | **Designation** | `C-IIIβ-036 [WO]` |
 | **Entity Type** | **Object/Place** — Can breach via Transform; activation possible |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Tool Type (The Cracked Hourglass)** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Anxious about time |
 | **Potency** | Moderate (β) — Manageable |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (The Cracked Hourglass)** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — An ancient hourglass of crystallized time, its frame dark and worn, one bulb cracked so that the sand — which is not sand but ground sorrow — leaks without end. The glass is cold and lead-heavy; the falling grains tick like a slowed heartbeat. It smells of wet stone and iron. |
@@ -21,58 +21,58 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Cracked Hourglass):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Han / burden pressure |
+| **Primary pressure (The Cracked Hourglass)** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield (The Cracked Hourglass)** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold (The Cracked Hourglass)** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (The Cracked Hourglass)** | ~10 kg–100 kg (β) |
+| **Recommended response (The Cracked Hourglass)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Cracked Hourglass.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIβ-036]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIIβ-036]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIβ-036]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Cracked Hourglass):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (The Cracked Hourglass)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 30% against Weight pressure; 20% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (The Cracked Hourglass)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 501/501 |
 | **Han Pressure [ATK]** | 10–24 per hit · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (The Cracked Hourglass)** | III — affects behavior complexity and response speed |
+| **Potency modifier (The Cracked Hourglass)** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (The Cracked Hourglass):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length (The Cracked Hourglass)** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Fragment (III) — Anxious about time |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (The Cracked Hourglass)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree vault — contained |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition (The Cracked Hourglass)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -110,7 +110,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
 - **Primary marker:** An ancient hourglass of crystallized time with a crack in one bulb. Sand leaks continuously.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (The Cracked Hourglass):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-A-01, Alpha Tree vault — contained
 
@@ -119,8 +119,8 @@
 | Field | Detail |
 |---|---|
 | **Form** | An ancient hourglass of crystallized time with a crack in one bulb. Sand leaks continuously. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (The Cracked Hourglass)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (The Cracked Hourglass)** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The sand regenerates, so it never truly empties. Every grain represents a moment of someone's life. The crack widens and contracts in response to emotional pressure. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
@@ -130,17 +130,17 @@
 - **Formation:** The Hourglass formed from anxiety about running out of time.
 - **The Sorrow:** Fear of mortality, deadlines, wasted moments, and unrecoverable choices.
 - **The Event:** The city's constant pressure to hurry and the knowledge that time cannot be reclaimed crystallized into leaking sand.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (The Cracked Hourglass):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the entity's effect on nearby Sorrow Entities — gauges rise faster, breaches occur more frequently, containment becomes more difficult. The entity is not hostile. It is simply... heavy. Its sorrow bleeds into everything around it, contaminating the facility's emotional atmosphere.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (The Cracked Hourglass):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (The Cracked Hourglass)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (The Cracked Hourglass)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** (Observation) | Reveals each grain as a moment of life. | Stable |
 | **Ferrehan** (Endurance) | Sand leaks faster while the worker withstands pressure. | Decrease |
 ### Special Behaviors
@@ -157,9 +157,9 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic can Benefit the Facility** (The Cracked Hourglass record.)
+> **This Relic is Capable of Operative Alteration** (The Cracked Hourglass record.)
+> **This Relic Extracts Personal Resilience upon Extended Use** (The Cracked Hourglass record.)
 
 **Activation Trigger:** Touch or prolonged observation.
 
@@ -174,18 +174,18 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode (The Cracked Hourglass)** | **Equippable / mounting use** |
 | **Activation** | Touch or prolonged observation. |
 | **Primary Effect** | Briefly slows time in the surrounding area. |
 | **Duration** | Until the sand flow stabilizes. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
 | **Risk** | The user's own lifespan is shortened by each use. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule (The Cracked Hourglass):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-IIIβ-036] |
 |---|---|---|
 | 10 Seconds | The Cracked Hourglass rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping The Cracked Hourglass activates its primary resonance: Briefly slows time in the surrounding area. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from fear of mortality, deadlines, wasted moments, and unrecoverable choices; the bearer begins perceiving echoes of the city's constant pressure to hurry and the knowledge that time cannot be reclaimed crystallized into leaking sand. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -207,12 +207,12 @@ The escalation pattern is specific to The Cracked Hourglass: it is not a generic
 | **Primary effect** | Briefly slows time in the surrounding area. |
 | **Duration / rate** | Until the sand flow stabilizes. |
 | **Risk** | Moderate (β) — Manageable Object-Weight producing Weight pressure; The user's own lifespan is shortened by each use. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (The Cracked Hourglass)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (The Cracked Hourglass):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (The Cracked Hourglass):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Gyroscopic Chrono-Orrery
 
@@ -269,13 +269,13 @@ The fine sand within the pendant flows upward against gravity whenever the beare
 
 **Slot:** Neck / Choker
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (The Cracked Hourglass):** +1 stat bonus when working the source entity
 
 **Ability:** *Adrenaline Inversion* — Upon taking a critical hit, wielder gains a 1.5-second burst of 100% Evasion and +30% movement speed (cooldown: 60 seconds).
 
 **Cost:** The glass vial grows ice-cold against the throat when temporal abilities trigger.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by The Cracked Hourglass upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -286,9 +286,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use (The Cracked Hourglass)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (The Cracked Hourglass)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (The Cracked Hourglass)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -318,7 +318,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Cracked Hourglass record.)
 
 **Entry 1 — Containment Description**
 The Cracked Hourglass (C-IIIβ-036 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Hourglass formed from anxiety about running out of time. Held at SECTOR-A-01, Alpha Tree vault — contained. Sand leaks constantly but regenerates.
@@ -326,7 +326,7 @@ The Cracked Hourglass (C-IIIβ-036 [WO]) is logged as a Object-Weight manifestat
 **Entry 2 — <Excerpt from Field Log, Year 4218>**
 The object resonates with the Weeping and pulses near strong emotion.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (The Cracked Hourglass) — <Excerpt from Counseling Log>**
 Fear of mortality, deadlines, wasted moments, and unrecoverable choices.
 
 **Entry 4 — <Containment Notice>**
@@ -337,12 +337,12 @@ The entity's presence changes the air — making it heavier, colder, more satura
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Cracked Hourglass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIβ-036] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; The Cracked Hourglass is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Cracked Hourglass withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (The Cracked Hourglass)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -438,8 +438,8 @@ Some sorrows mourn what was lost. The Cracked Hourglass mourns what was spent �
 
 - **Classification detail:** The Cracked Hourglass is an Object/Place with Fragment (III) — Anxious about time coherence and Moderate (β) — Manageable potency.
 - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-A-01, Alpha Tree vault — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail (The Cracked Hourglass):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (The Cracked Hourglass):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

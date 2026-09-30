@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-947 [WS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Soot Fry)** | **Subject** — Can breach |
 | **Coherence** | Echo (II) — Hunts the way it always has, remembering nothing of why |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
@@ -16,11 +16,11 @@
 | **Physical Form** | Non-Organic — A fish of featureless white Han-crystal fully 2.2 m in length, smooth and blank as poured wax, with one vast, deep-black eye that holds no reflection. Smaller than it looks: in the water it folds itself down to a 20 cm black silhouette, a dim shape slipping across the puddle's floor; only when prey reaches for it does the true body uncoil to its full size. |
 | **Movement** | Mobile within water — bound to its Han puddle (90 cm–1 m across); it cannot leave the water, but anything it pulls in cannot leave either. |
 | **Location** | The Pale Puddle, SECTOR-B-09, Zone B |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Soot Fry)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Soot Fry):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -28,25 +28,25 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Resolve |
 | **Starting Sorrow Gauge** | 40–60% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield (Soot Fry)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (Soot Fry)** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | A hand or line entering the puddle |
 | **Tool / M.A.W. grade** | β |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Han Dust Drop (Vessel Destruction) (Soot Fry)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Viderehan first (observe the silhouette before any contact); never reach into the puddle. If a worker is taken, Pugnahan to force release — do not pull against the current. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Soot Fry.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIβ-947]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIβ-947]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIβ-947]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Soot Fry):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -55,10 +55,10 @@
 | **Activation threshold** | A hand, line, or limb breaking the puddle's surface |
 | **Sorrow Gauge [HP]** | 460/460 |
 | **Han Pressure [ATK]** | 8–18 per hit · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Soot Fry)** | II — affects behavior complexity and response speed |
+| **Potency modifier (Soot Fry)** | β — affects pressure, durability, and escalation severity |
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Soot Fry):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -67,8 +67,8 @@
 | **Coherence** | Echo (II) — Hunts the way it always has, remembering nothing of why |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 40–60% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty (Soot Fry)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (Soot Fry)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Pale Puddle, SECTOR-B-09, Zone B |
 | **Resolution Condition** | Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills |
 
@@ -181,7 +181,7 @@ The gauge response is only meaningful in context. The Soot Fry is recorded as a 
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Soot Fry):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Still Current
 
@@ -222,13 +222,13 @@ The gauge response is only meaningful in context. The Soot Fry is recorded as a 
 **Appearance:** A single bead of solid black water the size of a tear, suspended on a fine chain; it trembles when still water is near, and goes cold when something hungers beneath it.
 **Slot:** Hand
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (Soot Fry):** +1 stat bonus when working the source entity
 
 **Ability:** A drop that grows heavy and warm in the presence of a hidden appetite — warning the bearer of predators that look smaller than they are.
 
 **Cost:** The bearer feels, now and then, an inexplicable thirst that drinking does not quench.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Soot Fry upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -238,10 +238,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Soot Fry)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Soot Fry)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Soot Fry)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Soot Fry)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Still Current strikes cleanly yet can leave the wielder gasping for air that, for a moment, feels like water.
 
@@ -270,12 +270,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Soot Fry record.)
 
 **Entry 1 — Containment Description**
 The Soot Fry (C-IIβ-947 [WS]) is logged as a Subject-Body manifestation expressing Weight. The entity is a 2.2 m featureless white Han-crystal fish that rests as a 20 cm black silhouette in a metre-wide Han puddle; it lunges to full size when prey enters the water and drags it under. Contained on-site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and feeding deepens the hunger.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Soot Fry) — <Excerpt from Field Log, Year 4238>**
 Worked via Viderehan and Ferrehan from the bank; no entry. The silhouette was logged at 20 cm; a probe-line triggered a full lunge — the body measured 2.2 m, the puddle's measured depth during the lunge returned null on sonar (no floor). When Sentinel Harin spoke the word "fly" near the bank, the fish went motionless for three seconds and the eye oriented upward. Note: the word appears to resonate with a sealed memory. Do not repeat it casually.
 
 **Entry 3 — <Counseling Log>**
@@ -294,7 +294,7 @@ Management: Do not reach in — name the hunger aloud (the thing it cannot remem
 | Name the hunger aloud — "you wanted something you cannot name" — and keep all hands from the water. | Cast a line, or reach in, to take the small silhouette. |
 |---|---|
 | You speak the want the fish sealed away and cannot reach. The great black eye breaks its watch on the water and lifts, for a moment, toward the sky. The silhouette stills, then softens, and the puddle goes gently calm. You understand what you are permitted to — that this fish is hungry for a thing it has forgotten, and that the forgetting is a mercy. The Soot Fry is fully recorded. | You reach for the small, easy shape. The puddle erupts — the 2.2 m body, the unhinging jaw, the black water with no floor. You are taken before your hand closes. The fish feeds, and is emptier than before, and drifts on. The encounter ends without a record, because you became the record. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Soot Fry)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 

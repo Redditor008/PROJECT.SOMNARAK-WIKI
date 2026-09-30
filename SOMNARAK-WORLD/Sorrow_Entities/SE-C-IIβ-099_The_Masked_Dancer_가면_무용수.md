@@ -7,69 +7,69 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-099 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (The Masked Dancer)** | **Subject** — Can breach |
 | **Coherence** | Echo (II) — Repeats dancing |
 | **Potency** | Moderate (β) — Manageable |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (The Masked Dancer)** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A graceful humanoid of true flesh and bone, dancing without pause in precise, tireless steps, face hidden behind a beautiful smiling mask fused to the skin. The body beneath is fever-hot and fluid; the real face is unknown. It smells of char and old smoke. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement (The Masked Dancer)** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-C-01, Mask Market — contained |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (The Masked Dancer)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Masked Dancer):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure (The Masked Dancer)** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield (The Masked Dancer)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (The Masked Dancer)** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (The Masked Dancer)** | ~10 kg–100 kg (β) |
+| **Recommended response (The Masked Dancer)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Masked Dancer.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIβ-099]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIβ-099]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIβ-099]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Masked Dancer):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
 | **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (The Masked Dancer)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 436/436 |
 | **Han Pressure [ATK]** | 8–19 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (The Masked Dancer)** | II — affects behavior complexity and response speed |
+| **Potency modifier (The Masked Dancer)** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (The Masked Dancer):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length (The Masked Dancer)** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — Repeats dancing |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty (The Masked Dancer)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (The Masked Dancer)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-C-01, Mask Market — contained |
 | **Resolution Condition** | Match its rhythm and share the performance; do not command it to stop |
 
@@ -85,15 +85,15 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension (The Masked Dancer):** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Masked Dancer's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Match its rhythm and share the performance; do not command it to stop**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks the entity’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
+- Extended contact risks The Masked Dancer’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
+- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field. [SE-C-IIβ-099]
 - Without timely resolution, The Masked Dancer defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A graceful humanoid wearing a beautiful smiling mask. It dances continuously, with precise and tireless movement.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (The Masked Dancer):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-01, Mask Market — contained
 
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A graceful humanoid wearing a beautiful smiling mask. It dances continuously, with precise and tireless movement. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (The Masked Dancer)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (The Masked Dancer)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | A single tear may emerge from beneath the mask. The mask smiles regardless of the Dancer's emotional state. Its dance becomes faster under confrontation. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification (The Masked Dancer)** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol (The Masked Dancer):** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Dancer formed from those who wanted to dance but could not.
 - **The Sorrow:** The grief of the paralyzed, imprisoned, sick, and sorrow-bound—people whose bodies or lives denied them movement.
 - **The Event:** Their unfulfilled wish to move crystallized into a dancer that performs for them forever.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (The Masked Dancer):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** Personnel who work with the entity consistently report changes in their personal lives. They become more contemplative. They call their families more often. They sit in silence longer. They weep at unexpected moments — not from sadness, but from a sudden awareness of life's fragility. The entity does not cause these changes directly. Its presence simply... opens a door. A door that most people keep shut. The door to their own sorrow. The entity does not push anyone through. It simply shows them.
 
 ## Behavior
@@ -152,7 +152,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Masked Dancer is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at SECTOR-C-01, Mask Market — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response (The Masked Dancer):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
 ## Breach Behavior
 
 > *"The Masked Dancer has broken free. Hunts personnel indiscriminately."*
@@ -163,18 +163,18 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | The Masked Dancer shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **First Target (The Masked Dancer)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation (The Masked Dancer)** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type (The Masked Dancer):** Escape — the entity physically escapes and roams the facility.
+- **Containment priority (The Masked Dancer):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach (The Masked Dancer):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (The Masked Dancer):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Phantom Dancer's Tri-Daggers
 
@@ -197,12 +197,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (The Masked Dancer):** 100% damage to the selected target only.
+**Damage Application (The Masked Dancer):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Masked Dancer's grudge signature in the strike.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost (The Masked Dancer):** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Performer's Silk Robe & Ghostly Stole
 
@@ -221,7 +221,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Masked Dancer's kind of pressure.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost (The Masked Dancer):** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — The Hollow Porcelain Shard
 
@@ -232,28 +232,28 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (The Masked Dancer):** +1 stat bonus when working the source entity
 
 **Ability:** Enhances agility, balance, and reflexes.
 
 **Cost:** Stillness becomes difficult; the wearer feels compelled to dance.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by The Masked Dancer upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Masked Dancer's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (The Masked Dancer)** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
+| **During use (The Masked Dancer)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (The Masked Dancer)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (The Masked Dancer)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (The Masked Dancer):** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -275,13 +275,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies The Masked Dancer as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-C-01, Mask Market — contained. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - The Dancer performs from duty, not joy. - It stops only when someone shares the dance or its burden. - Visitors often mistake its smile for happiness. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation (The Masked Dancer)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Masked Dancer's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method (The Masked Dancer):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Masked Dancer record.)
 
 **Entry 1 — Containment Description**
 The Masked Dancer (C-IIβ-099 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Dancer formed from those who wanted to dance but could not. Held at SECTOR-C-01, Mask Market — contained. The Dancer has never breached without invitation or an audience.
@@ -289,7 +289,7 @@ The Masked Dancer (C-IIβ-099 [GS]) is logged as a Subject-Body manifestation ex
 **Entry 2 — <Excerpt from Field Log, Year 4213>**
 Dances through corridors and public areas. Anyone who watches feels compelled to dance. Its movement is graceful, precise, and physically tireless.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (The Masked Dancer) — <Excerpt from Counseling Log>**
 The grief of the paralyzed, imprisoned, sick, and sorrow-bound—people whose bodies or lives denied them movement.
 
 **Entry 4 — <Containment Notice>**
@@ -300,12 +300,12 @@ Personnel who work with the entity consistently report changes in their personal
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Masked Dancer; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-099] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; The Masked Dancer is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Masked Dancer withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (The Masked Dancer)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -325,7 +325,7 @@ The mask smiles first. Then the body moves. Every step is beautiful enough to ma
 
 The Masked Dancer does not exist in isolation. Its recorded relationships with The Hollow Choir, The Kind Healer, The Smothering Mother, The Masked Market should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (The Masked Dancer):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -339,7 +339,7 @@ The Masked Dancer must be assessed as part of an entity network, not as an isola
 | **The Smothering Mother** | Reaches for it as a kindred sorrow. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Masked Market** | The Market's masks change when the Dancer performs. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (The Masked Dancer):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -386,9 +386,9 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (The Masked Dancer):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (The Masked Dancer):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The mask's smile never changes, but the crack beneath it grows after forced performances.
@@ -400,9 +400,9 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 
 - **Classification detail:** The Masked Dancer is a Subject with Echo (II) — Repeats dancing coherence and Moderate (β) — Manageable potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-C-01, Mask Market — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (The Masked Dancer):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (The Masked Dancer):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (The Masked Dancer):** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-099

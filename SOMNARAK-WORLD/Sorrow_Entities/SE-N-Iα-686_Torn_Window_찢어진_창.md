@@ -7,60 +7,60 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-686 [N]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Entity Type (Torn Window)** | **Object/Place** — Can breach via Transform |
+| **Tool Type (Torn Window)** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (Torn Window)** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A cracked window of red-black crystal in a tunnel wall, its broken pane reflecting hands rather than faces — reaching hands pressed from the other side. Fever-cold, it smells of char; something on the far side wants through. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone B, deep tunnels |
-| **R.D. Comprehension Level** | 1 — Initial |
+| **R.D. Comprehension Level (Torn Window)** | 1 — Initial |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Torn Window):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure (Torn Window)** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Han-Energy yield (Torn Window)** | 10–14 Han-Energy per successful work cycle |
+| **Work difficulty (Torn Window)** | Low · R.D. Comprehension Level 1 — Initial |
+| **Activation threshold (Torn Window)** | Activation / expansion trigger — no breach counter |
+| **Tool / M.A.W. grade (Torn Window)** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Torn Window)** | 1 g–10 kg (α) |
+| **Recommended response (Torn Window)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Torn Window.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-Iα-686]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-Iα-686]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-Iα-686]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Torn Window):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (Torn Window)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
+| **Activation threshold (Torn Window)** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 221/221 |
 | **Han Pressure [ATK]** | 2–8 per hit · Grudge |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Torn Window)** | I — affects behavior complexity and response speed |
+| **Potency modifier (Torn Window)** | α — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Torn Window):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,10 +69,10 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (Torn Window)** | Low · R.D. Comprehension Level 1 — Initial |
+| **Valid Work Types (Torn Window)** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, deep tunnels |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition (Torn Window)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension (Torn Window):** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Torn Window's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution (Torn Window):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
 - **Primary marker:** A cracked window of red-black crystal embedded in a tunnel wall. Its broken pane reflects hands rather than faces.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (Torn Window):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, deep tunnels
 
@@ -116,9 +116,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A cracked window of red-black crystal embedded in a tunnel wall. Its broken pane reflects hands rather than faces. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement (Torn Window)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (Torn Window)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Torn Window)** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -127,17 +127,17 @@
 - **Formation:** The Window formed from a view destroyed by repeated hands and memories.
 - **The Sorrow:** The grief of seeing the same place through too many losses.
 - **The Event:** A tunnel window was touched by generations of workers until each person's departure remained in the glass.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Torn Window):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (Torn Window):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (Torn Window)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (Torn Window)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals the history of the room beyond it. | Stable |
 | **Ferrehan** | Tests whether the worker can look without entering the memory. | Decrease |
 
@@ -149,9 +149,9 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic can Benefit the Facility** (Torn Window record.)
+> **This Relic is Capable of Operative Alteration** (Torn Window record.)
+> **This Relic Extracts Personal Resilience upon Extended Use** (Torn Window record.)
 
 **Activation Trigger:** Touch or direct gaze.
 
@@ -166,18 +166,18 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode (Torn Window)** | **Equippable / mounting use** |
 | **Activation** | Touch or direct gaze. |
 | **Primary Effect** | Shows one former occupant's memory of the window. |
 | **Duration** | Until the viewer looks away. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | The viewer may mistake a borrowed room for personal history. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule (Torn Window):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-N-Iα-686] |
 |---|---|---|
 | 10 Seconds | Torn Window rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Torn Window activates its primary resonance: Shows one former occupant's memory of the window. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of seeing the same place through too many losses; the bearer begins perceiving echoes of a tunnel window was touched by generations of workers until each person's departure remained in the glass. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -199,12 +199,12 @@ The escalation pattern is specific to Torn Window: it is not a generic breach ev
 | **Primary effect** | Shows one former occupant's memory of the window. |
 | **Duration / rate** | Until the viewer looks away. |
 | **Risk** | Minor (α) Object-Lament producing Grudge pressure; The viewer may mistake a borrowed room for personal history. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Torn Window)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Torn Window):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Torn Window):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Window-Shard Sabre
 
@@ -222,7 +222,7 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Torn Window's grudge signature in the strike.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost (Torn Window):** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — Torn Window Plate
 
@@ -240,7 +240,7 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Torn Window's kind of pressure.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost (Torn Window):** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — Torn Window Shard
 
@@ -250,13 +250,13 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (Torn Window):** +1 stat bonus when working the source entity
 
 **Ability:** Reveals the emotional history of an object.
 
 **Cost:** The wearer feels every hand that ever touched it.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Torn Window upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -267,15 +267,15 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use (Torn Window)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Torn Window)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Torn Window)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial
+**R.D. Comprehension Level (Torn Window):** 1 — Initial
 
 - It reflects hands rather than faces.
 - The cracks never close.
@@ -290,22 +290,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Torn Window as an Object/Place with Object-Lament manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, deep tunnels. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation (Torn Window)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or direct gaze. Effect: Shows one former occupant's memory of the window. Duration: Until the viewer looks away. Risk: The viewer may mistake a borrowed room for personal history. Tool Use Profile — I-Relic Operational Rule: The relic remains. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Torn Window's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Torn Window record.)
 
 **Entry 1 — Containment Description**
 Torn Window (N-Iα-686 [N]) is logged as a Object-Lament manifestation expressing Grudge. The Window formed from a view destroyed by repeated hands and memories. Held at Zone B, deep tunnels. It reflects hands rather than faces.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Torn Window) — <Excerpt from Field Log, Year 4238>**
 The cracks never close.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Torn Window) — <Excerpt from Counseling Log>**
 The grief of seeing the same place through too many losses.
 
 **Entry 4 — <Containment Notice>**
@@ -316,12 +316,12 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Torn Window; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-Iα-686] |
 |---|---|
 | Tests whether the worker can look without entering the memory. The sorrow is named; Torn Window is fully recorded. | Reveals the history of the room beyond it. The gauge climbs and Torn Window withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Torn Window)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -388,16 +388,16 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 **Comprehension Level:** 1 — Initial
 **Threat Assessment (Torn Window):** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Refer to entity’s Work Type responses in the Behavior section. [SE-N-Iα-686]
+- Standard R.D. containment protocols apply. [SE-N-Iα-686]
+- See Breach Behavior or Activation Behavior for escalation response. [SE-N-Iα-686]
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- See Origin section for formation and event details. [SE-N-Iα-686]
+- See Combat Record for engagement history. [SE-N-Iα-686]
+- See M.A.W. Equipment section for extraction risk. [SE-N-Iα-686]
+**Cross-References (Torn Window):** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator (Torn Window):** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
@@ -415,8 +415,8 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 
 - **Classification detail:** Torn Window is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone B, deep tunnels.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail (Torn Window):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Torn Window):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

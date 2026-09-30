@@ -8,20 +8,20 @@
 |---|---|
 | **Designation** | `N-Iα-905 [VO]` |
 | **Entity Type** | **Object** — Can breach via Transform |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Tool Type (Lacrima)** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (Lacrima)** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Object-Spirit |
 | **Physical Form** | Organic — A small clay jar, unremarkable except for the faint light that leaks from beneath its lid and the voice — barely audible, always pleading — that emanates from within. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement (Lacrima)** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-905, contained |
 | **R.D. Comprehension Level** | 1 — Trace |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference (Lacrima):** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -29,51 +29,51 @@
 | **Entity role** | Object |
 | **Primary pressure** | Void / Spirit pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield (Lacrima)** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response (Lacrima)** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Lacrima.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-Iα-905]
+- The Han-Energy yield is balanced against exposure risk. [SE-N-Iα-905]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-Iα-905]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Lacrima):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 25% against Void pressure; 18% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Lacrima)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 502/502 |
 | **Han Pressure [ATK]** | 11–20 per hit · Void |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Lacrima)** | I — affects behavior complexity and response speed |
+| **Potency modifier (Lacrima)** | α — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Lacrima):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length (Lacrima)** | Medium — 16 turns |
+| **Threat Role (Lacrima)** | Sovereign encounter |
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 905  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("I", "2 — Basic") |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Lacrima)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-905 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition (Lacrima)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -92,9 +92,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-N-Iα-905]
 - Prolonged exposure may produce the entity's documented void effect — spirit pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- M.A.W. use carries the cost recorded in the equipment section. [SE-N-Iα-905]
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Void pressure in a spirit register.
 - The object form is unmistakable — this is a spirit entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Personnel should identify it by these markers before Work or contact. [SE-N-Iα-905]
 
 **Identification Profile**
 - **Entity Type:** Object
@@ -118,10 +118,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A small clay jar, unremarkable except for the faint light that leaks from beneath its lid and the voice — barely audible, always pleading — that emana |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Lacrima)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature (Lacrima)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Object-Spirit manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Identification (Lacrima)** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -137,8 +137,8 @@ The clause is always added after an incident. The incidents are always minor. Bu
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan (Lacrima)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan (Lacrima)** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the spirit pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
 
@@ -155,19 +155,19 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 | **Breach Type** | Expansion |
 | **Movement** | The entity's spirit influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Void pressure radiates — the spirit register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Lacrima)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority (Lacrima):** Physical suppression required.
+- **Sorrow Gauge on breach (Lacrima):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic can Benefit the Facility** (Lacrima record.)
+> **This Relic is Capable of Operative Alteration** (Lacrima record.)
+> **This Relic Extracts Personal Resilience upon Extended Use** (Lacrima record.)
 
 **Activation Trigger:** Physical contact and intentional interaction.
 
@@ -182,18 +182,18 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode (Lacrima)** | **Equippable / mounting use** |
 | **Activation** | Physical contact and intentional interaction. |
 | **Primary Effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration** | Continuous while equipped |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
 | **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule (Lacrima):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-N-Iα-905] |
 |---|---|---|
 | 10 Seconds | Lacrima rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Lacrima activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the accumulated grief of unacknowledged void; the bearer begins perceiving echoes of a crisis in the city where void went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -215,12 +215,12 @@ The escalation pattern is specific to Lacrima: it is not a generic breach event.
 | **Primary effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | Continuous while equipped |
 | **Risk** | Minor (α) Object-Spirit producing Void pressure; Prolonged contact causes cognitive and emotional fatigue. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Lacrima)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Lacrima):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.) (Lacrima):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Lacrima's Edge
 
@@ -236,8 +236,8 @@ The escalation pattern is specific to Lacrima: it is not a generic breach event.
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (Lacrima):** 100% damage to the selected target only.
+**Damage Application (Lacrima):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Channels void spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.
 
@@ -269,33 +269,33 @@ The escalation pattern is specific to Lacrima: it is not a generic breach event.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect (Lacrima):** +1 stat bonus when working the source entity.
 
 **Ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.
 
 **Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Lacrima upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each M.A.W. piece is a conditional extension of Lacrima, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Lacrima)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Lacrima)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Lacrima)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Lacrima)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Trace
 
 **Key Observations:**
 - Void signature confirmed at SECTOR-N-905.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-N-Iα-905]
 - The spirit register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Lacrima record.)
 
 **Entry 1 — Containment Description** Lacrima (N-Iα-905 [VO]) is logged as a Object-Spirit manifestation expressing Void. Held at SECTOR-N-905.
 
@@ -318,10 +318,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-Iα-905] |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-N-Iα-905] |
+| **OBSERVATION SUCCESS (Lacrima)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -368,8 +368,8 @@ The entity does not rage. It does not weep. It persists — spirit and void, pat
 **Threat Assessment:** Minor. A Object-Spirit entity — the spirit register is its defining characteristic. Risk: prolonged exposure to the spirit pressure may produce effects not seen in standard void entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
+- Viderehan and Ferrehan are valid Work Types. [SE-N-Iα-905]
+- Flerehan and Pugnahan are not effective against this entity type. [SE-N-Iα-905]
 - Monitor the spirit register specifically — it is the primary channel of contact.
 
 **Cross-References:** Inner Sorrow (내한) · Void · Object-Spirit · Manifestation Classification

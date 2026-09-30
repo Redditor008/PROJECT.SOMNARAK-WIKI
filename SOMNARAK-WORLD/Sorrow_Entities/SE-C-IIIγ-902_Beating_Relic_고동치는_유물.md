@@ -8,20 +8,20 @@
 |---|---|
 | **Designation** | `C-IIIγ-902 [GO]` |
 | **Entity Type** | **Object** — Can breach via Transform |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Tool Type (Beating Relic)** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Beating Relic)** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Body |
 | **Physical Form** | Organic — A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster when held by someone who is angry. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement (Beating Relic)** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-902, contained |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (Beating Relic)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference (Beating Relic):** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -29,51 +29,51 @@
 | **Entity role** | Object |
 | **Primary pressure** | Grudge / Body pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield (Beating Relic)** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response (Beating Relic)** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Beating Relic.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIγ-902]
+- The Han-Energy yield is balanced against exposure risk. [SE-C-IIIγ-902]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIγ-902]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Beating Relic):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Grudge pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Beating Relic)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 427/427 |
 | **Han Pressure [ATK]** | 17–26 per hit · Grudge |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Beating Relic)** | III — affects behavior complexity and response speed |
+| **Potency modifier (Beating Relic)** | γ — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Beating Relic):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length (Beating Relic)** | Medium — 16 turns |
+| **Threat Role (Beating Relic)** | Sovereign encounter |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 902  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Beating Relic)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-902 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition (Beating Relic)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -92,9 +92,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-C-IIIγ-902]
 - Prolonged exposure may produce the entity's documented grudge effect — body pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- M.A.W. use carries the cost recorded in the equipment section. [SE-C-IIIγ-902]
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Grudge pressure in a body register.
 - The object form is unmistakable — this is a body entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Personnel should identify it by these markers before Work or contact. [SE-C-IIIγ-902]
 
 **Identification Profile**
 - **Entity Type:** Object
@@ -118,10 +118,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster  |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Beating Relic)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature (Beating Relic)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Object-Body manifestation is the primary identifying feature. Grudge pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Identification (Beating Relic)** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -131,8 +131,8 @@ Beating Relic was forged in the aftermath of the Battle Pits riots. A Warden nam
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan (Beating Relic)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan (Beating Relic)** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the body pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the grudge pressure settles gradually under sustained presence. | Decrease |
 
@@ -142,9 +142,9 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic can Benefit the Facility** (Beating Relic record.)
+> **This Relic is Capable of Operative Alteration** (Beating Relic record.)
+> **This Relic Extracts Personal Resilience upon Extended Use** (Beating Relic record.)
 
 **Activation Trigger:** The relic is gripped in an operator's bare hand.
 
@@ -159,18 +159,18 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode (Beating Relic)** | **Equippable / mounting use** |
 | **Activation** | The relic is gripped in an operator's bare hand. |
 | **Primary Effect** | Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. |
 | **Duration** | While held in hand, until released onto its containment plinth. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule (Beating Relic):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-902] |
 |---|---|---|
 | 10 Seconds | Beating Relic rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Beating Relic activates its primary resonance: Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the accumulated grief of unacknowledged grudge; the bearer begins perceiving echoes of a crisis in the city where grudge went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -192,12 +192,12 @@ The escalation pattern is specific to Beating Relic: it is not a generic breach 
 | **Primary effect** | Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. |
 | **Duration / rate** | While held in hand, until released onto its containment plinth. |
 | **Risk** | Major (γ) Object-Body producing Grudge pressure; Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Beating Relic)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Beating Relic):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.) (Beating Relic):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Beating Relic's Edge
 
@@ -226,30 +226,30 @@ The escalation pattern is specific to Beating Relic: it is not a generic breach 
 **Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect (Beating Relic):** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Beating Relic upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each M.A.W. piece is a conditional extension of Beating Relic, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Beating Relic)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Beating Relic)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Beating Relic)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Beating Relic)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (Beating Relic):** 3 — Advanced
 
 **Key Observations:**
 - Grudge signature confirmed at SECTOR-C-902.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-C-IIIγ-902]
 - The body register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Beating Relic record.)
 
 **Entry 1 — Containment Description** Beating Relic (C-IIIγ-902 [GO]) is logged as a Object-Body manifestation expressing Grudge. Held at SECTOR-C-902.
 
@@ -272,10 +272,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-902] |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-IIIγ-902] |
+| **OBSERVATION SUCCESS (Beating Relic)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -322,8 +322,8 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 **Threat Assessment:** Major. A Object-Body entity — the body register is its defining characteristic. Risk: prolonged exposure to the body pressure may produce effects not seen in standard grudge entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
+- Viderehan and Ferrehan are valid Work Types. [SE-C-IIIγ-902]
+- Flerehan and Pugnahan are not effective against this entity type. [SE-C-IIIγ-902]
 - Monitor the body register specifically — it is the primary channel of contact.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Object-Body · Manifestation Classification

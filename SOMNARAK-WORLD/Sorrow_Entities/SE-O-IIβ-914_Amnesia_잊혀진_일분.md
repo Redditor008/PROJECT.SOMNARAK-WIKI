@@ -10,17 +10,17 @@
 | **Entity Type** | **Time** — Can breach via Transform |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category (Amnesia)** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Time-Void |
 | **Physical Form** | Non-Organic — A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement (Amnesia)** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-O-914, contained |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Amnesia)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference (Amnesia):** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,51 +28,51 @@
 | **Entity role** | Time |
 | **Primary pressure** | Void / Void pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield (Amnesia)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (Amnesia)** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Han Dust Drop (Vessel Destruction) (Amnesia)** | ~10 kg–100 kg (β) |
+| **Recommended response (Amnesia)** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Amnesia.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IIβ-914]
+- The Han-Energy yield is balanced against exposure risk. [SE-O-IIβ-914]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-IIβ-914]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Amnesia):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Void pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Amnesia)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 496/496 |
 | **Han Pressure [ATK]** | 14–26 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Amnesia)** | II — affects behavior complexity and response speed |
+| **Potency modifier (Amnesia)** | β — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Amnesia):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length (Amnesia)** | Medium — 16 turns |
+| **Threat Role (Amnesia)** | Sovereign encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 914  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("II", "2 — Basic") |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Amnesia)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-914 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition (Amnesia)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -91,9 +91,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-O-IIβ-914]
 - Prolonged exposure may produce the entity's documented void effect — void pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- M.A.W. use carries the cost recorded in the equipment section. [SE-O-IIβ-914]
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Void pressure in a void register.
 - The time form is unmistakable — this is a void entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Personnel should identify it by these markers before Work or contact. [SE-O-IIβ-914]
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own nam |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Amnesia)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature (Amnesia)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Time-Void manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Identification (Amnesia)** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -134,8 +134,8 @@ The R.D. contained it in fourteen hours. Containment holds — barely. The void 
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan (Amnesia)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan (Amnesia)** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the void pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
 
@@ -152,17 +152,17 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 | **Breach Type** | Expansion |
 | **Movement** | The entity's void influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Void pressure radiates — the void register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Amnesia)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority (Amnesia):** Physical suppression required.
+- **Sorrow Gauge on breach (Amnesia):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.) (Amnesia):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — The Driftglass Harpoon-Pike
 
@@ -193,22 +193,22 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 **Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect (Amnesia):** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's void sorrow, crystallized into wearable form.
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Amnesia upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each M.A.W. piece is a conditional extension of Amnesia, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Amnesia)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Amnesia)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Amnesia)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Amnesia)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -216,7 +216,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Key Observations:**
 - Void signature confirmed at SECTOR-O-914.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-O-IIβ-914]
 - The void register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -225,7 +225,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Amnesia record.)
 
 **Entry 1 — Containment Description** Amnesia (O-IIβ-914 [VT]) is logged as a Time-Void manifestation expressing Void. Held at SECTOR-O-914.
 
@@ -239,10 +239,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIβ-914] |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-O-IIβ-914] |
+| **OBSERVATION SUCCESS (Amnesia)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -287,8 +287,8 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 **Threat Assessment:** Moderate. A Time-Void entity — the void register is its defining characteristic. Risk: prolonged exposure to the void pressure may produce effects not seen in standard void entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
+- Viderehan and Ferrehan are valid Work Types. [SE-O-IIβ-914]
+- Flerehan and Pugnahan are not effective against this entity type. [SE-O-IIβ-914]
 - Monitor the void register specifically — it is the primary channel of contact.
 
 **Cross-References:** Outside Sorrow (외한) · Void · Time-Void · Manifestation Classification

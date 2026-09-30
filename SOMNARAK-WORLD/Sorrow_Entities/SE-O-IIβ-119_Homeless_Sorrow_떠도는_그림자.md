@@ -7,69 +7,69 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-119 [VP]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Homeless Sorrow)** | **Subject** — Can breach |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category (Homeless Sorrow)** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A beast of cold dense shadow with no fixed shape — sometimes a stalking quadruped, sometimes many-limbed — moving with predatory intent. Bloodless-cold, it smells of ash; a hunter made of dark. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement (Homeless Sorrow)** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone B, Old Lament |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Homeless Sorrow)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Homeless Sorrow):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure (Homeless Sorrow)** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Han-Energy yield (Homeless Sorrow)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (Homeless Sorrow)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold (Homeless Sorrow)** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
-| **Vessel-Destructible** | No — Place-manifestation |
-| **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Vessel-Destructible (Homeless Sorrow)** | No — Place-manifestation |
+| **Han Dust Drop (Vessel Destruction) (Homeless Sorrow)** | — |
+| **Recommended response (Homeless Sorrow)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Homeless Sorrow.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IIβ-119]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-O-IIβ-119]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-IIβ-119]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Homeless Sorrow):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (Homeless Sorrow)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 25% against Void pressure; 15% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Homeless Sorrow)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Homeless Sorrow)** | II — affects behavior complexity and response speed |
+| **Potency modifier (Homeless Sorrow)** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Homeless Sorrow):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length (Homeless Sorrow)** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (Homeless Sorrow)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (Homeless Sorrow)** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Give the sorrow a witnessed location; do not flood the area with light |
 
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A moving patch of shadow that occupies rooms, alleys, and empty corners of the Old Lament. It has no fixed body.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (Homeless Sorrow):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Void
 - **Registered location:** Zone B, Old Lament
 
@@ -115,9 +115,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A moving patch of shadow that occupies rooms, alleys, and empty corners of the Old Lament. It has no fixed body. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement (Homeless Sorrow)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (Homeless Sorrow)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Homeless Sorrow)** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -126,7 +126,7 @@
 - **Formation:** The Shadow formed from sorrow that had nowhere to settle.
 - **The Sorrow:** The grief of people who wandered through loss until even their mourning became homeless.
 - **The Event:** Displaced citizens moved from room to room after their homes were erased. Their unplaced sorrow became a wandering place.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Homeless Sorrow):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased their own memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## Behavior
@@ -134,8 +134,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (Homeless Sorrow)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (Homeless Sorrow)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals traces of those who passed through. | Stable |
 | **Ferrehan** | Follows the worker until they can remain in darkness. | Decrease |
 
@@ -185,18 +185,18 @@ The escalation pattern is specific to Homeless Sorrow: it is not a generic breac
 | **Movement** | Homeless Sorrow breaks loose and charges, thrashing. It stalks personnel from their own shadows. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Homeless Sorrow)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type (Homeless Sorrow):** Escape — the entity physically escapes and roams the facility.
+- **Containment priority (Homeless Sorrow):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach (Homeless Sorrow):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Homeless Sorrow):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Shadow-Cast Kukri
 
@@ -214,12 +214,12 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (Homeless Sorrow):** 100% damage to the selected target only.
+**Damage Application (Homeless Sorrow):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Homeless Sorrow's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost (Homeless Sorrow):** The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — The Shadow Veil
 
@@ -237,7 +237,7 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Homeless Sorrow's kind of pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost (Homeless Sorrow):** The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — The Shadow Hearth
 
@@ -247,13 +247,13 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (Homeless Sorrow):** +1 stat bonus when working the source entity
 
 **Ability:** Creates a small area where displaced sorrow can settle safely.
 
 **Cost:** The wearer carries the settled grief after the light goes out.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Homeless Sorrow upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -264,9 +264,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use (Homeless Sorrow)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Homeless Sorrow)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Homeless Sorrow)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -286,22 +286,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Homeless Sorrow as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone B, Old Lament. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Homeless Sorrow)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Homeless Sorrow)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Homeless Sorrow's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Homeless Sorrow record.)
 
 **Entry 1 — Containment Description**
 Homeless Sorrow (O-IIβ-119 [VP]) is logged as a Place-Grudge manifestation expressing Void. The Shadow formed from sorrow that had nowhere to settle. Held at Zone B, Old Lament. The Shadow is strongest in abandoned rooms.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Homeless Sorrow) — <Excerpt from Field Log, Year 4238>**
 It is not extinguished by light; it retreats from acknowledgment.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Homeless Sorrow) — <Excerpt from Counseling Log>**
 The grief of people who wandered through loss until even their mourning became homeless.
 
 **Entry 4 — <Containment Notice>**
@@ -312,12 +312,12 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Homeless Sorrow; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIβ-119] |
 |---|---|
 | Follows the worker until they can remain in darkness. The sorrow is seen clearly; Homeless Sorrow is fully recorded. | Reveals traces of those who passed through. The gauge climbs and Homeless Sorrow withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Homeless Sorrow)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -384,16 +384,16 @@ Some sorrows mourn a place. Homeless Sorrow mourns the having-no-place — the d
 **Comprehension Level:** 2 — Basic
 **Threat Assessment (Homeless Sorrow):** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Refer to entity’s Work Type responses in the Behavior section. [SE-O-IIβ-119]
+- Standard R.D. containment protocols apply. [SE-O-IIβ-119]
+- See Breach Behavior or Activation Behavior for escalation response. [SE-O-IIβ-119]
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- See Origin section for formation and event details. [SE-O-IIβ-119]
+- See Combat Record for engagement history. [SE-O-IIβ-119]
+- See M.A.W. Equipment section for extraction risk. [SE-O-IIβ-119]
+**Cross-References (Homeless Sorrow):** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator (Homeless Sorrow):** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
@@ -411,8 +411,8 @@ Some sorrows mourn a place. Homeless Sorrow mourns the having-no-place — the d
 
 - **Classification detail:** Homeless Sorrow is an Object/Place with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone B, Old Lament.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail (Homeless Sorrow):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Homeless Sorrow):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

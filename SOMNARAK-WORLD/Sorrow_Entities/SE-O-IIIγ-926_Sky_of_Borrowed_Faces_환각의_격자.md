@@ -10,17 +10,17 @@
 | **Entity Type** | **Hazard** — Can breach via Transform |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category (Sky of Borrowed Faces)** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Hazard-Phantasmal |
 | **Physical Form** | Non-Organic — An area of the Desolate where the air itself projects images — memories, fears, faces of the Fractured — onto whatever surface is available. The images move, speak, and sometimes reach out. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement (Sky of Borrowed Faces)** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-O-926, contained |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (Sky of Borrowed Faces)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference (Sky of Borrowed Faces):** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,51 +28,51 @@
 | **Entity role** | Hazard |
 | **Primary pressure** | Lament / Phantasmal pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield (Sky of Borrowed Faces)** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response (Sky of Borrowed Faces)** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Sky of Borrowed Faces.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IIIγ-926]
+- The Han-Energy yield is balanced against exposure risk. [SE-O-IIIγ-926]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-IIIγ-926]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Sky of Borrowed Faces):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Lament pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Sky of Borrowed Faces)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 498/498 |
 | **Han Pressure [ATK]** | 17–28 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Sky of Borrowed Faces)** | III — affects behavior complexity and response speed |
+| **Potency modifier (Sky of Borrowed Faces)** | γ — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Sky of Borrowed Faces):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length (Sky of Borrowed Faces)** | Medium — 16 turns |
+| **Threat Role (Sky of Borrowed Faces)** | Sovereign encounter |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 926  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Sky of Borrowed Faces)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-926 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition (Sky of Borrowed Faces)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -91,9 +91,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-O-IIIγ-926]
 - Prolonged exposure may produce the entity's documented lament effect — phantasmal pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- M.A.W. use carries the cost recorded in the equipment section. [SE-O-IIIγ-926]
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Lament pressure in a phantasmal register.
 - The hazard form is unmistakable — this is a phantasmal entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Personnel should identify it by these markers before Work or contact. [SE-O-IIIγ-926]
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | An area of the Desolate where the air itself projects images — memories, fears, faces of the Fractured — onto whatever surface is available. The image |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Sky of Borrowed Faces)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature (Sky of Borrowed Faces)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Hazard-Phantasmal manifestation is the primary identifying feature. Lament pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Identification (Sky of Borrowed Faces)** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -134,8 +134,8 @@ The effects are cumulative. Each exposure layers lament pressure in the phantasm
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan (Sky of Borrowed Faces)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan (Sky of Borrowed Faces)** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the phantasmal pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
 
@@ -152,17 +152,17 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's phantasmal influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Lament pressure radiates — the phantasmal register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Sky of Borrowed Faces)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Lament drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority (Sky of Borrowed Faces):** Physical suppression required.
+- **Sorrow Gauge on breach (Sky of Borrowed Faces):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.) (Sky of Borrowed Faces):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Sky of Borrowed Faces's Edge
 
@@ -178,8 +178,8 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (Sky of Borrowed Faces):** 100% damage to the selected target only.
+**Damage Application (Sky of Borrowed Faces):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
 
@@ -211,33 +211,33 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect (Sky of Borrowed Faces):** +1 stat bonus when working the source entity.
 
 **Ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
 
 **Cost:** The bearer dreams in tears drawn from Sky of Borrowed Faces's sorrow and wakes with another person's grief still present.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Sky of Borrowed Faces upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each M.A.W. piece is a conditional extension of Sky of Borrowed Faces, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Sky of Borrowed Faces)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Sky of Borrowed Faces)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Sky of Borrowed Faces)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Sky of Borrowed Faces)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (Sky of Borrowed Faces):** 3 — Advanced
 
 **Key Observations:**
 - Lament signature confirmed at SECTOR-O-926.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-O-IIIγ-926]
 - The phantasmal register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -246,7 +246,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Sky of Borrowed Faces record.)
 
 **Entry 1 — Containment Description** Sky of Borrowed Faces (O-IIIγ-926 [LH]) is logged as a Hazard-Phantasmal manifestation expressing Lament. Held at SECTOR-O-926.
 
@@ -260,10 +260,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIIγ-926] |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-O-IIIγ-926] |
+| **OBSERVATION SUCCESS (Sky of Borrowed Faces)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -308,8 +308,8 @@ The entity does not rage. It does not weep. It persists — phantasmal and lamen
 **Threat Assessment:** Major. A Hazard-Phantasmal entity — the phantasmal register is its defining characteristic. Risk: prolonged exposure to the phantasmal pressure may produce effects not seen in standard lament entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
+- Viderehan and Ferrehan are valid Work Types. [SE-O-IIIγ-926]
+- Flerehan and Pugnahan are not effective against this entity type. [SE-O-IIIγ-926]
 - Monitor the phantasmal register specifically — it is the primary channel of contact.
 
 **Cross-References:** Outside Sorrow (외한) · Lament · Hazard-Phantasmal · Manifestation Classification

@@ -7,20 +7,20 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-265 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Forgotten God)** | **Subject** — Can breach |
 | **Coherence** | Sovereign (V) — Autonomous, ancient, sleeping |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Forgotten God)** | City Sorrow (도한) |
 | **Element** | All four — Lament, Grudge, Void, Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A massive humanoid sleeping in the sealed vault beneath the Alpha Tree, its body built from every sorrow at once — flesh threaded with crystal, fire, ash, and stone, shifting hue as each surfaces. Warm and cold by turns, it smells of rain, char, ash, and wet stone together. It has never woken; some say the city was built to keep it asleep. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement (Forgotten God)** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-A-01, beneath the Alpha Tree — sealed |
 | **R.D. Comprehension Level** | 4 — Mastered |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Forgotten God):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -28,38 +28,38 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mixed pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield (Forgotten God)** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Forgotten God)** | ~1–10 tons (δ) |
+| **Recommended response (Forgotten God)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Forgotten God.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-Vδ-265]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-Vδ-265]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-Vδ-265]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Forgotten God):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 2.80 m/s |
 | **Resistance** | 50% against All four — Lament, Grudge, Void, Weight pressure; 40% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
+| **Activation threshold (Forgotten God)** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 894/894 |
 | **Han Pressure [ATK]** | 20–44 per hit · Lament |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+| **Potency modifier (Forgotten God)** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Forgotten God):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types (Forgotten God)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-A-01, beneath the Alpha Tree — sealed |
 | **Resolution Condition** | Do not wake, address, or attempt extraction. Maintain the sealed vault |
 
@@ -92,8 +92,8 @@
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks the entity’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
+- Extended contact risks Forgotten God’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
+- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field. [SE-C-Vδ-265]
 - Without timely resolution, Forgotten God defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -122,15 +122,15 @@
 | **Position / movement** | The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago. |
 | **Material / signature** | All four — Lament, Grudge, Void, Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The face is human in outline but too still to read as living. The air around the God trembles without sound. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification (Forgotten God)** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol (Forgotten God):** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The God predates the current city and was once worshipped as a deity of sorrow.
 - **The Sorrow:** The grief of prayers answered by abandonment and faith forgotten after it was no longer needed.
 - **The Event:** The first settlers prayed to the God for relief. After the Consolihan, the city replaced worship and left the God sleeping beneath the Tree.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Forgotten God):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** The archive cross-references this entity's sorrow with SECTOR-A-01, beneath the Alpha Tree — the same Han density, the same All four signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
 
 ## Behavior
@@ -148,7 +148,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Forgotten God is recorded as a Subject with Subject-Body manifestation and All four — Lament, Grudge, Void, Weight elemental expression. The current record places it at SECTOR-A-01, beneath the Alpha Tree — sealed; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response (Forgotten God):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
 ## Breach Behavior
 
 > *"Forgotten God has broken free. Hunts personnel indiscriminately."*
@@ -159,18 +159,18 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | Forgotten God shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Forgotten God)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type (Forgotten God):** Escape — the entity physically escapes and roams the facility.
+- **Containment priority (Forgotten God):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach (Forgotten God):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Forgotten God):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Forgotten Choral-Sceptre
 
@@ -188,7 +188,7 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Forgotten God's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost (Forgotten God):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Forgotten Shroud
 
@@ -206,7 +206,7 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Forgotten God's kind of pressure.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost (Forgotten God):** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Forgotten Crown
 
@@ -216,28 +216,28 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect (Forgotten God):** +3 stat bonus when working the source entity
 
 **Ability:** Commands hesitation and respect from nearby entities.
 
 **Cost:** The wearer hears prayers directed at the God and cannot answer them.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Forgotten God upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Forgotten God's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Forgotten God)** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
+| **During use (Forgotten God)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Forgotten God)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Forgotten God)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Forgotten God):** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -256,38 +256,38 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Forgotten God as a Subject with Subject-Body manifestation. The first reliable markers are its All four — Lament, Grudge, Void, Weight signature, the primary visual marker, and its presence at SECTOR-A-01, beneath the Alpha Tree — sealed. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Forgotten God)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Forgotten God)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Forgotten God's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method (Forgotten God):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Forgotten God record.)
 
 **Entry 1 — Containment Description**
 Forgotten God (C-Vδ-265 [LS]) is logged as a Subject-Body manifestation expressing All four — Lament, Grudge, Void, Weight. The God predates the current city and was once worshipped as a deity of sorrow. Held at SECTOR-A-01, beneath the Alpha Tree — sealed. The God has never fully awakened.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Forgotten God) — <Excerpt from Field Log, Year 4238>**
 Dreams and prayers spread through the city. Personnel experience unanswered ancient prayers and divine sorrow. Its dreams leak into the city as prayer and nightmare.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Forgotten God) — <Excerpt from Counseling Log>**
 The grief of prayers answered by abandonment and faith forgotten after it was no longer needed.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not wake, address, or attempt extraction. Maintain the sealed vault. Work response — Flerehan: Dreams of ancient prayers become gentler. (Decrease); Pugnahan: The vault fills with divine pressure. (Increase); Viderehan: Reveals fragments of the first settlers' faith. (Stable); Ferrehan: Tests whether the worker can endure a god's dream without waking it. (Decrease). The Library contains scripture associated with it.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 (Forgotten God) — <Director's Memo, Eyes Only>**
 The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Forgotten God; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-Vδ-265] |
 |---|---|
 | Dreams of ancient prayers become gentler. The sorrow is witnessed; Forgotten God is fully recorded. | The vault fills with divine pressure. The gauge climbs and Forgotten God withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Forgotten God)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -307,7 +307,7 @@ The vault is full of prayer without words. A sleeping figure rests beneath the r
 
 Forgotten God does not exist in isolation. Its recorded relationships with The Burning Library, The Final Door, The Maw, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Forgotten God):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -321,7 +321,7 @@ Forgotten God must be assessed as part of an entity network, not as an isolated 
 | **The Maw** | Both predate the city and carry foundational sorrow. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The First Tear** | Its ancient sorrow resonates with the God. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Forgotten God):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -369,9 +369,9 @@ Some sorrows mourn the dead. Forgotten God mourns its own obsolescence — the p
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Forgotten God):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Forgotten God):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The God has never spoken while awake.
@@ -383,9 +383,9 @@ Some sorrows mourn the dead. Forgotten God mourns its own obsolescence — the p
 
 - **Classification detail:** Forgotten God is a Subject with Sovereign (V) — Autonomous, ancient, sleeping coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is All four — Lament, Grudge, Void, Weight, and its registered location is SECTOR-A-01, beneath the Alpha Tree — sealed.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Forgotten God):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Forgotten God):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Forgotten God):** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-Vδ-265

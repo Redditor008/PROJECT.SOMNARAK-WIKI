@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-255 [WS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Hollow Architect)** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) — Self-aware, building, never finishing |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Hollow Architect)** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A hollow humanoid architect — a body shaped around an empty interior, like a statue with nothing inside — carrying rolled plans of dark crystal. It builds without rest, but every structure it raises stays unfinished. Lead-cold and damp, it smells of wet stone and old dust. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement (Hollow Architect)** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone B, Old Lament |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (Hollow Architect)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Hollow Architect):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Han / burden pressure |
+| **Primary pressure (Hollow Architect)** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield (Hollow Architect)** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Hollow Architect)** | ~100 kg–1 ton (γ) |
+| **Recommended response (Hollow Architect)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Hollow Architect.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVγ-255]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IVγ-255]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVγ-255]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Hollow Architect):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 2.30 m/s |
 | **Resistance** | 40% against Weight pressure; 30% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold (Hollow Architect)** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 690/690 |
 | **Han Pressure [ATK]** | 14–32 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Hollow Architect)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (Hollow Architect)** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Hollow Architect):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types (Hollow Architect)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Do not complete or destroy the structures; document their purpose |
 
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (Hollow Architect):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Weight
 - **Registered location:** Zone B, Old Lament
 
@@ -115,9 +115,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement (Hollow Architect)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (Hollow Architect)** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Hollow Architect)** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -126,7 +126,7 @@
 - **Formation:** The Architect formed from the sorrow of building for a future that never came.
 - **The Sorrow:** The burden of creation without completion, occupancy, or recognition.
 - **The Event:** An architect designed districts for a population lost before construction finished. The unfinished work became a person.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Hollow Architect):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply... be near it. The R.D. has noted this behavior and classified it as "Sorrow Seeking" — the act of seeking out sorrow not to escape it, but to understand it. The entity does not encourage this behavior. It simply exists. And in its existence.
 
 ## Behavior
@@ -155,18 +155,18 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Movement** | Hollow Architect tears loose and pursues personnel with deliberate steps. It hunts personnel indiscriminately. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
 | **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Hollow Architect)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type (Hollow Architect):** Escape — the entity physically escapes and roams the facility.
+- **Containment priority (Hollow Architect):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach (Hollow Architect):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Hollow Architect):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Architect's Maul
 
@@ -182,7 +182,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Hollow Architect's weight signature in the strike.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost (Hollow Architect):** The wielder feels progressively heavier; prolonged use ages them slightly.
 
 ### M.A.W. Suit — The Architect's Mantle
 
@@ -210,13 +210,13 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (Hollow Architect):** +2 stat bonus when working the source entity
 
 **Ability:** Reveals the intended structure beneath damaged buildings.
 
 **Cost:** The user feels every future the building failed to hold.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Hollow Architect upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -227,15 +227,15 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use (Hollow Architect)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Hollow Architect)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Hollow Architect)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (Hollow Architect):** 3 — Advanced
 
 - Every structure lacks one essential element.
 - The Architect never enters a completed room.
@@ -250,22 +250,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Hollow Architect as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone B, Old Lament. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Hollow Architect)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Hollow Architect)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Hollow Architect's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Hollow Architect record.)
 
 **Entry 1 — Containment Description**
 Hollow Architect (C-IVγ-255 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Architect formed from the sorrow of building for a future that never came. Held at Zone B, Old Lament. Every structure lacks one essential element.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Hollow Architect) — <Excerpt from Field Log, Year 4238>**
 Walks through Old Lament, building as it moves. Unfinished rooms and structures appear around personnel. The Architect never enters a completed room.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Hollow Architect) — <Excerpt from Counseling Log>**
 The burden of creation without completion, occupancy, or recognition.
 
 **Entry 4 — <Containment Notice>**
@@ -276,12 +276,12 @@ The entity's containment zone has become a gathering place for certain personnel
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Hollow Architect; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVγ-255] |
 |---|---|
 | Pauses construction and accepts shared grief. The sorrow is borne; Hollow Architect is fully recorded. | Builds defensive walls around the worker. The gauge climbs and Hollow Architect withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Hollow Architect)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -375,8 +375,8 @@ Some sorrows mourn what was destroyed. Hollow Architect mourns what was never oc
 
 - **Classification detail:** Hollow Architect is a Subject with Entity (IV) — Self-aware, building, never finishing coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone B, Old Lament.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail (Hollow Architect):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Hollow Architect):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

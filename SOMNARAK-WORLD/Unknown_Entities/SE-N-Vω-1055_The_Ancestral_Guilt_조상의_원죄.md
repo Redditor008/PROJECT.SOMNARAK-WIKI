@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject / Trans-Generational Anomaly** — Manifests from centuries of inherited debt ledgers |
 | **Coherence** | Sovereign (V) |
 | **Potency** | Sovereign (ω) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (The Ancestral Guilt)** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Ancestral / Karmic Ledger Construct |
 | **Physical Form** | Colossal Scribe Entity — A towering twelve-meter phantom composed of thousands of overlapping, yellowed municipal tax ledgers, debt contracts, and blood-stamped fingerprints. It has thirty pairs of ink-stained hands that continuously transcribe unpaid obligations onto the floor, walls, and the skin of anyone within its presence. |

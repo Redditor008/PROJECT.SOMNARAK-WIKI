@@ -7,60 +7,60 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-373 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type (Spreading Well)** | **Object/Place** — Can breach via Transform |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Spreading Well)** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A stone well whose rim will not stay put: it spreads across the ground in thin branching channels of blue sorrow, its water seeping far from the opening to places it should not reach. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement (Spreading Well)** | Stationary — a structure or location. |
 | **Location** | The Desolate, near The Scar |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Spreading Well)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Spreading Well):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure (Spreading Well)** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Han-Energy yield (Spreading Well)** | 16–22 Han-Energy per successful work cycle |
+| **Work difficulty (Spreading Well)** | High · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold (Spreading Well)** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
-| **Vessel-Destructible** | No — Place-manifestation |
-| **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Vessel-Destructible (Spreading Well)** | No — Place-manifestation |
+| **Han Dust Drop (Vessel Destruction) (Spreading Well)** | — |
+| **Recommended response (Spreading Well)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Spreading Well.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIγ-373]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIIγ-373]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIγ-373]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Spreading Well):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (Spreading Well)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 35% against Lament pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold (Spreading Well)** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 561/561 |
 | **Han Pressure [ATK]** | 18–42 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Spreading Well)** | III — affects behavior complexity and response speed |
+| **Potency modifier (Spreading Well)** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Spreading Well):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,8 +69,8 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (Spreading Well)** | High · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (Spreading Well)** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate, near The Scar |
 | **Resolution Condition** | Acknowledge each linked site; do not dam the channels |
 
@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension (Spreading Well):** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Spreading Well's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge each linked site; do not dam the channels**.
 
@@ -117,8 +117,8 @@
 |---|---|
 | **Form** | A well whose rim spreads across the ground in thin channels of blue sorrow. Its water reaches places far from the opening. |
 | **Position / movement** | Physical Form: A well whose rim spreads across the ground in thin channels of blue sorrow. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature (Spreading Well)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Spreading Well)** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -127,17 +127,17 @@
 - **Formation:** The Well formed from sorrow that refused to remain in one place.
 - **The Sorrow:** The need for grief to travel until it finds another person able to understand it.
 - **The Event:** Desolate mourners poured their tears into the ground, creating channels that merged into a spreading well.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Spreading Well):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (Spreading Well):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (Spreading Well)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (Spreading Well)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals linked sorrow sites along its channels. | Stable |
 | **Ferrehan** | Tests whether the worker can follow grief without being consumed. | Decrease |
 
@@ -149,7 +149,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
+> **This Relic can Benefit the Facility** (Spreading Well record.)
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -177,7 +177,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-373] |
 |---|---|---|
 | 10 Seconds | Spreading Well begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Spreading Well: Redistributes localized Sorrow Gauge spikes across a wide bedrock buffer, preventing immediate containment meltdowns. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the need for grief to travel until it finds another person able to understand it. forged during desolate mourners poured their tears into the ground, creating channels that merged into a spreading well. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -199,12 +199,12 @@ The escalation pattern is specific to Spreading Well: it is not a generic breach
 | **Primary effect** | Redistributes localized Sorrow Gauge spikes across a wide bedrock buffer, preventing immediate containment meltdowns. |
 | **Duration / rate** | Continuous while the sluice gate remains unsealed. |
 | **Risk** | Major (γ) Place-Lament producing Lament pressure; Excessive drainage saturates the foundation; floor tiles begin leaking caustic blue Han-liquid. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Spreading Well)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Spreading Well):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Spreading Well):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Spreading Requiem
 
@@ -220,7 +220,7 @@ The escalation pattern is specific to Spreading Well: it is not a generic breach
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Spreading Well's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost (Spreading Well):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Spreading Shroud
 
@@ -238,7 +238,7 @@ The escalation pattern is specific to Spreading Well: it is not a generic breach
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Spreading Well's kind of pressure.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost (Spreading Well):** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Spreading Vial
 
@@ -248,13 +248,13 @@ The escalation pattern is specific to Spreading Well: it is not a generic breach
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (Spreading Well):** +2 stat bonus when working the source entity
 
 **Ability:** Carries a small amount of sorrow to a distant witness.
 
 **Cost:** The carrier feels the grief at both origin and destination.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Spreading Well upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -265,9 +265,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use (Spreading Well)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Spreading Well)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Spreading Well)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 
@@ -288,22 +288,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Spreading Well as an Object/Place with Place-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at The Desolate, near The Scar. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Spreading Well)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Spreading Well)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Spreading Well's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Spreading Well record.)
 
 **Entry 1 — Containment Description**
 Spreading Well (C-IIIγ-373 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Well formed from sorrow that refused to remain in one place. Held at The Desolate, near The Scar. Channels follow Han currents and old mourning paths.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Spreading Well) — <Excerpt from Field Log, Year 4238>**
 The Well sings beneath the ground.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Spreading Well) — <Excerpt from Counseling Log>**
 The need for grief to travel until it finds another person able to understand it.
 
 **Entry 4 — <Containment Notice>**
@@ -314,12 +314,12 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Spreading Well; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-373] |
 |---|---|
 | Tests whether the worker can follow grief without being consumed. The sorrow is witnessed; Spreading Well is fully recorded. | Reveals linked sorrow sites along its channels. The gauge climbs and Spreading Well withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Spreading Well)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -395,7 +395,7 @@ Some sorrows sink. Spreading Well is a sorrow that refused to — because it was
 - Formed from tears of scattered Desolate mourners.
 - The Well connects strangers’ sorrow.
 **Cross-References:** The Desolate · The Scar · The Weeping
-**Faction Involvement:** SED (Desolate-territory exploration)
+**Faction Involvement (Spreading Well):** SED (Desolate-territory exploration)
 **Originator:** Scattered Desolate mourners.
 
 ### Registry Addendum
@@ -414,8 +414,8 @@ Some sorrows sink. Spreading Well is a sorrow that refused to — because it was
 
 - **Classification detail:** Spreading Well is an Object/Place with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is The Desolate, near The Scar.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail (Spreading Well):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Spreading Well):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

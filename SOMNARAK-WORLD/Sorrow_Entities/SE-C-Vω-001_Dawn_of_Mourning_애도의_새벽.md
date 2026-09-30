@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Catastrophic transformation |
 | **Coherence** | Sovereign (V) — Absolute and divine |
 | **Potency** | Catastrophic (ω) — City-threatening |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Dawn of Mourning)** | City Sorrow (도한) |
 | **Element** | All four — Lament, Grudge, Void, Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A radiant, terrible figure, once the Kind Healer: vast wings woven from sorrow, a crown of branching Han-crystal, and a voice built of a thousand weeping tones made one. Its body is half-warm flesh, half-cold light — compassion calcified into judgment. To look on it is to feel grief and verdict at once; it is bloodless, and blindingly cold. |
@@ -20,7 +20,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Dawn of Mourning):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -33,20 +33,20 @@
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — ω-grade |
-| **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Dawn of Mourning)** | — |
+| **Recommended response (Dawn of Mourning)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Dawn of Mourning.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-Vω-001]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-Vω-001]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-Vω-001]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Dawn of Mourning):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -59,17 +59,17 @@
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Dawn of Mourning):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
 | **Battle Length** | Long — 30 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role (Dawn of Mourning)** | Sovereign encounter |
 | **Coherence** | Sovereign (V) — Absolute and divine |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 75–95% |
 | **Difficulty** | Extreme · R.D. Comprehension Level 2 — Limited historical record |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types (Dawn of Mourning)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Never contained; forms through the Kind Healer transformation chain |
 | **Resolution Condition** | Genuine confession before the twelfth blessing; no reliable post-formation method exists |
 
@@ -92,8 +92,8 @@
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
-- The entity’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
+- Dawn of Mourning’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
+- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record. [SE-C-Vω-001]
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Dawn of Mourning's dossier.
 
 ## Appearance
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (Dawn of Mourning):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** All four — Lament, Grudge, Void, Weight
 - **Registered location:** Never contained; forms through the Kind Healer transformation chain
 
@@ -118,12 +118,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement (Dawn of Mourning)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | All four — Lament, Grudge, Void, Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Judges all who enter its sight. Sentences the judged through sorrow-crucifixion. Each feather represents the grief of a blessed person. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification (Dawn of Mourning)** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol (Dawn of Mourning):** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Dawn is the catastrophic historical form of the Kind Healer. In the current cycle, the twelfth blessing produced The Hand of Hope instead.
@@ -154,7 +154,7 @@ The Dawn is a catastrophic event and cannot be safely worked with.
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Dawn of Mourning is recorded as a Subject with Subject-Body manifestation and All four — Lament, Grudge, Void, Weight elemental expression. The current record places it at Never contained; forms through the Kind Healer transformation chain; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response (Dawn of Mourning):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
 ## Breach Behavior
 
 > *"Dawn of Mourning has broken free. Hunts personnel indiscriminately."*
@@ -165,18 +165,18 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Movement** | Dawn of Mourning seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
 | **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Dawn of Mourning)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type (Dawn of Mourning):** Transform — the entity's form shifts, altering reality around it.
+- **Containment priority (Dawn of Mourning):** Stabilize reality through combined Work Types before the transformation completes.
+- **Sorrow Gauge on breach (Dawn of Mourning):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. This entity's set is theorized from its classification; verify before manufacture.
+> **Materialized Agony Wear (M.A.W.) (Dawn of Mourning):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. This entity's set is theorized from its classification; verify before manufacture.
 
 ### M.A.W. Weapon — The First Dawn Stiletto
 
@@ -194,7 +194,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Dawn of Mourning's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost (Dawn of Mourning):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Dawn of Shroud
 
@@ -212,7 +212,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Dawn of Mourning's kind of pressure.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost (Dawn of Mourning):** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Dawn of Charm
 
@@ -228,22 +228,22 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Cost:** The bearer weeps in their sleep.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Dawn of Mourning upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to the entity's element. No protocol produces Stigmas. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Dawn of Mourning's element. No protocol produces Stigmas. They emerge from Dawn of Mourning's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Dawn of Mourning)** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
+| **During use (Dawn of Mourning)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Dawn of Mourning)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Dawn of Mourning)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (Dawn of Mourning):** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -267,13 +267,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Dawn of Mourning as a Subject with Subject-Body manifestation. The first reliable markers are its All four — Lament, Grudge, Void, Weight signature, the primary visual marker, and its presence at Never contained; forms through the Kind Healer transformation chain. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: The Dawn is a catastrophic event and cannot be safely worked with. Special Behavior - The word “Guilty” is inflicted rather than spoken. - False or partial confession fails. - The only. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation (Dawn of Mourning)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Dawn of Mourning's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method (Dawn of Mourning):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Dawn of Mourning record.)
 
 **Entry 1 — Containment Description**
 Dawn of Mourning (C-Vω-001 [LS]) is logged as a Subject-Body manifestation expressing All four — Lament, Grudge, Void, Weight. The Dawn is the catastrophic historical form of the Kind Healer. In the current cycle, the twelfth blessing produced The Hand of Hope instead. Held at Never contained; forms through the Kind Healer transformation chain. Manifested three times in recorded history; it did not manifest in the current cycle.
@@ -281,23 +281,23 @@ Dawn of Mourning (C-Vω-001 [LS]) is logged as a Subject-Body manifestation expr
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Moves slowly through the facility, judging all it sees. Personnel are pinned by sorrow, unable to move or think. First manifestation, Year 4232+1778: 234 personnel lost before The Confession was discovered.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Dawn of Mourning) — <Excerpt from Counseling Log>**
 Compassion transformed into judgment after absorbing twelve complete burdens.
 
 **Entry 4 — <Containment Notice>**
 Management: Genuine confession before the twelfth blessing; no reliable post-formation method exists.  Second manifestation, Year 4232+1778: 891 personnel lost.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 (Dawn of Mourning) — <Director's Memo, Eyes Only>**
 The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Dawn of Mourning; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Vω-001] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; Dawn of Mourning is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Dawn of Mourning withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Dawn of Mourning)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -317,7 +317,7 @@ The Kind Healer rises into light that is not light. Twelve colors merge, and win
 
 Dawn of Mourning does not exist in isolation. Its recorded relationships with The Kind Healer, The Hand of Hope, The Maw, The Grieving Colossus, The Orphaned Bell, The Convergence should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (Dawn of Mourning):** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -333,7 +333,7 @@ Dawn of Mourning must be assessed as part of an entity network, not as an isolat
 | **The Orphaned Bell** | Tolls when the Dawn manifests. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Convergence** | Simultaneous formation threatens reality collapse. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (Dawn of Mourning):** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -383,9 +383,9 @@ Some sorrows are about loss. Dawn of Mourning is about compassion inverted — t
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (Dawn of Mourning):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (Dawn of Mourning):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The Dawn's wings contain twelve voices, one for each blessing.
@@ -397,9 +397,9 @@ Some sorrows are about loss. Dawn of Mourning is about compassion inverted — t
 
 - **Classification detail:** Dawn of Mourning is a Subject with Sovereign (V) — Absolute and divine coherence and Catastrophic (ω) — City-threatening potency.
 - **Field detail:** Its defining element is All four — Lament, Grudge, Void, Weight, and its registered location is Never contained; forms through the Kind Healer transformation chain.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (Dawn of Mourning):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Dawn of Mourning):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (Dawn of Mourning):** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-Vω-001

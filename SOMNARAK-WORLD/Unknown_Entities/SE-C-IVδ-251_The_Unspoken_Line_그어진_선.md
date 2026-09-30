@@ -10,7 +10,7 @@
 | **Entity Type** | **Object / Place** — A junction that became an entity; can breach via Transform, only widen |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (The Unspoken Line)** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — Not a creature but an ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts — that looks entirely normal yet is the entity: a social divide made a place. Bloodless-cold, it smells of ash; stand at its center and you feel the line no one will cross. |
@@ -20,7 +20,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Unspoken Line):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -28,25 +28,25 @@
 | **Entity role** | Place |
 | **Primary pressure** | Identity / relational pressure |
 | **Starting Sorrow Gauge** | 55–70% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield (The Unspoken Line)** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
-| **Vessel-Destructible** | No — Place-manifestation |
-| **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Vessel-Destructible (The Unspoken Line)** | No — Place-manifestation |
+| **Han Dust Drop (Vessel Destruction) (The Unspoken Line)** | — |
+| **Recommended response (The Unspoken Line)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Unspoken Line.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVδ-251]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IVδ-251]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVδ-251]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Unspoken Line):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -55,11 +55,11 @@
 | **Activation threshold** | Sorrow Gauge ≥ 65% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (The Unspoken Line)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (The Unspoken Line)** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (The Unspoken Line):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 55–70% |
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (The Unspoken Line)** | Viderehan and Ferrehan only |
 | **Battlefield** | A four-way junction in the Mantle Commons, Zone D |
 | **Resolution Condition** | A resident from one side speaks honestly to a resident on the other — about anything |
 
@@ -92,9 +92,9 @@
 ### Consequences
 
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: the entity’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers the entity’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- The longer the exposure, the deeper the wound: The Unspoken Line’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
+- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing. [SE-C-IVδ-251]
+- Failure to achieve resolution triggers The Unspoken Line’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
 
 ## Appearance
 **Primary Form:** An ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye.
@@ -109,7 +109,7 @@
 - **Entity Type:** Object / Place
 - **Manifestation:** Place-Void
 - **Primary marker:** An ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (The Unspoken Line):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Void
 - **Registered location:** A four-way junction in the Mantle Commons, Zone D
 
@@ -120,8 +120,8 @@
 | **Form** | An ordinary four-way junction; the anomaly is behavioral — no one crosses the center seam. |
 | **Position / movement** | Fixed; the entity is the junction itself. Its boundary is the invisible line residents no longer cross. |
 | **Material / signature** | Void elemental presentation; one side faintly gold (hope-touched), the other faintly grey (untouched); a white seam at dusk. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Distinctive markers (The Unspoken Line)** | Confirm the primary form and elemental signature before contact. |
+| **Identification (The Unspoken Line)** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
 
 **Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as "strange" or "anomalous."
 
@@ -178,7 +178,7 @@ The escalation pattern is specific to The Unspoken Line: it is not a generic bre
 **Expansion Behavior reporting order:** trigger → first visible change → first affected target → area of effect → escalation → suppression attempt → final condition. A expansion report is incomplete if it records only casualties and not the entity's behavior.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form. Extraction is permitted; the relic set is fragile.
+> **Materialized Agony Wear (M.A.W.) (The Unspoken Line):** the entity's archetype drawn into equipment form. Extraction is permitted; the relic set is fragile.
 
 ### M.A.W. Weapon — The Seam Edge
 **Type:** Weapon | **Grade:** β | **Element:** Void
@@ -201,7 +201,7 @@ The escalation pattern is specific to The Unspoken Line: it is not a generic bre
 **Ability:** Lets two people who have stopped speaking share one honest sentence without flinching.
 **Cost:** Both speakers feel the full weight of everything they left unsaid.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by The Unspoken Line upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -213,12 +213,12 @@ The extracted equipment reflects the same unresolved pressure as The Unspoken Li
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (The Unspoken Line)** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
+| **During use (The Unspoken Line)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (The Unspoken Line)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (The Unspoken Line)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (The Unspoken Line):** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -237,13 +237,13 @@ The extracted equipment reflects the same unresolved pressure as The Unspoken Li
 |---|---|
 | **Initial exposure** | The observer identifies The Unspoken Line as a Object / Place with Place-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at A four-way junction in the Mantle Commons, Zone D. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity's recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation (The Unspoken Line)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In The Unspoken Line's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method (The Unspoken Line):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Unspoken Line record.)
 
 **Entry 1 — Containment Description**
 The subject is a four-way junction in the Mantle Commons — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye. The anomaly is behavioral: residents do not cross the central seam. At dusk a line of pale Void-light becomes visible down the center, and the two nearest shop signs are blank where names once were.
@@ -262,12 +262,12 @@ We did not divide the city. Hope did not divide the city. The city divided itsel
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Unspoken Line; the other feeds it.
 
 | Cross the seam and speak. | Hold your side. |
 |---|---|
 | You step over the line and greet the neighbor you have not spoken to in years — about the fountain, about anything. The seam dims a hand's-width. The dry fountain weeps a single drop. | You stay where you are. The seam brightens to full white; the names on the nearest signs fade one letter further. The fountain stays dry. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (The Unspoken Line)** | **OBSERVATION FAIL** |
 ## 감각 묘사 (Flavor Text)
 
 Nothing looks wrong. The street is quiet the way a held breath is quiet. You only notice, after a minute, that no one has crossed to the other side.
@@ -285,7 +285,7 @@ Nothing looks wrong. The street is quiet the way a held breath is quiet. You onl
 
 The Unspoken Line does not exist in isolation. Its recorded relationships with The Shared Glass · The Unconsoled · The Hand of Hope · The Eternal Warmth should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (The Unspoken Line):** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 ### Entity Interaction Record
 
@@ -298,7 +298,7 @@ The Unspoken Line must be assessed as part of an entity network, not as an isola
 | **The Hand of Hope** | The Hand could not prevent this entity; it was caused by hope's unevenness, not its absence. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Eternal Warmth** | The Warmth makes both sides equally bearable — but does not make them speak. Speaking is the cure, not warmth. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (The Unspoken Line):** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -340,14 +340,14 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 - Two faded shop signs mark the original friendship (Uri / Park).
 - Contracted ~3 m since first logging; healing rate implies ~century to full closure.
 **Cross-References:** The Hand of Hope · The Shared Glass · The Unconsoled (kin — both untouched by hope) · The Eternal Warmth · the Mantle Commons · the Consolihan
-**Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
+**Faction Involvement (The Unspoken Line):** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
 **Originator:** The severed community of the junction — exemplified by Gaeul Uri (가을 우리) and Ongius Park (온기우스 박), friends for forty years before the line.
 
 ### Registry Addendum
 
 **Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity's behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (The Unspoken Line):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The only entity healed by small talk and a shared cup of tea.
@@ -360,9 +360,9 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 
 - **Classification detail:** The Unspoken Line is a Object / Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is A four-way junction in the Mantle Commons, Zone D.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Recognition detail (The Unspoken Line):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
 - **Record detail:** Unknown Sorrow Entity registry, Entry 03 — the first changed-world (social) sorrow catalogued.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail (The Unspoken Line):** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-251

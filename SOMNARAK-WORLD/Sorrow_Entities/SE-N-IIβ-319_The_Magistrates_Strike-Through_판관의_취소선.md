@@ -11,26 +11,26 @@
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Echo (II) — Silent erasing trace |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (The Magistrates Strike-Through)** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A four-inch octagonal stick of dense, chalky white mineral excavated from the sealed archive tribunal vaults beneath Floor 6. Powdery and bone-cold, it leaves an indelible lime-white streak that cannot be removed by solvents, flame, or scraping. Smelling faintly of dry lime, vinegar, and damp judicial calfskin, the mineral remains strangely heavy in the hand, as though each millimeter of chalk holds the gravity of eighty-two severed sentences. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement (The Magistrates Strike-Through)** | Stationary — a discrete object. |
 | **Location** | SECTOR-N-06, Deep Tribunal Archive — contained |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (The Magistrates Strike-Through)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Magistrates Strike-Through):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure (The Magistrates Strike-Through)** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 30–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield (The Magistrates Strike-Through)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (The Magistrates Strike-Through)** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Single-use drawing trigger — ground to dust upon circle completion |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
 | **Vessel-Destructible** | Yes — completely ground into dust upon use |
@@ -39,15 +39,15 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Magistrates Strike-Through.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIβ-319]
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
 - M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Magistrates Strike-Through):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Echo (II) — Silent erasing trace |
 | **Primary Pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 30–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (The Magistrates Strike-Through)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (The Magistrates Strike-Through)** | Viderehan and Ferrehan only |
 | **Battlefield** | Floor 6 Tribunal Antechamber / Deep Sector |
 | **Resolution Condition** | The chalk circle is drawn and consumed, erecting a 30-second sanctuary ward |
 
@@ -120,12 +120,12 @@ Premature pulverization leaves behind an uncontrollable silence anomaly that sup
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (The Magistrates Strike-Through):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (The Magistrates Strike-Through)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (The Magistrates Strike-Through)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Monitors surface powdering and acoustic absorption levels on the plinth. | Stable |
 | **Ferrehan** | Demands the operative hold the chalk without drawing a line, resisting the urge to strike through their own identity. | Decrease |
 
@@ -135,7 +135,7 @@ Operatives assigned to Ferrehan must wear silk-lined gloves. If bare skin contac
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
+> **This Relic can Benefit the Facility** (The Magistrates Strike-Through record.)
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
 
@@ -163,7 +163,7 @@ Operatives assigned to Ferrehan must wear silk-lined gloves. If bare skin contac
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-N-IIβ-319] |
 |---|---|---|
 | 1 Use | The Magistrate's Strike-Through sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Grinding the chalk along the floor to complete a closed unbroken circle around allies.) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the horror of holding the power to sentence the innocent and choosing self-annihilation over compliance. during the great directorate purge of year 4,119 on floor 6, where executioners demanded eighty-two signed death warrants before dawn; the relic answers only to complete commitment. | The full discharge completes: The chalk grinds completely into powder, creating a 30-second sanctuary. Allies inside are immune to Void damage, panic, and mind erosion. Hostiles crossing the line take 15 Void damage and are repelled 2 nodes. All hostile entities in range suffer devastating disruption and elemental debuffs. |
@@ -185,12 +185,12 @@ The escalation pattern is specific to The Magistrate's Strike-Through: it is not
 | **Primary effect** | The chalk grinds completely into powder, creating a 30-second sanctuary. Allies inside are immune to Void damage, panic, and mind erosion. Hostiles crossing the line take 15 Void damage and are repelled 2 nodes. |
 | **Duration / rate** | 30 Seconds (1 Combat Turn / 5 Sub-actions). |
 | **Risk** | Moderate (β) Object-Void producing Void pressure; The chalk is completely expended; all sheltered operatives forget their own family name for the shift. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (The Magistrates Strike-Through)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (The Magistrate's Strike-Through):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
+> **Materialized Agony Wear (M.A.W.) (The Magistrates Strike-Through):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Nullifying Stylus
@@ -277,7 +277,7 @@ M.A.W. drawn from this entity embodies bureaucratic erasure. It protects by maki
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Magistrates Strike-Through record.)
 
 **Entry 1 — Containment Description**
 Recovered from the High Magistrate's private chambers on Floor 6, sealed within a cedar box marked with the wax crest of the Cancelled Registry. The mineral exhibits zero radiometric decay and actively absorbs ambient acoustic waves.
@@ -296,7 +296,7 @@ Directorate Synthesis: The chalk is an instrument of legal nullification made fl
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Magistrates Strike-Through; the other feeds it.
 
 | Draw a line through your own ID number on the clipboard. | Set the chalk back on the cedar tray with dry hands. |
 |---|---|

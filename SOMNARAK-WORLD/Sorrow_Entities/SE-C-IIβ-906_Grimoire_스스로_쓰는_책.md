@@ -8,20 +8,20 @@
 |---|---|
 | **Designation** | `C-IIβ-906 [GO]` |
 | **Entity Type** | **Object** — Can breach via Transform |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Tool Type (Grimoire)** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Grimoire)** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Tale |
 | **Physical Form** | Non-Organic — A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement (Grimoire)** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-906, contained |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Grimoire)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference (Grimoire):** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -29,51 +29,51 @@
 | **Entity role** | Object |
 | **Primary pressure** | Grudge / Tale pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield (Grimoire)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (Grimoire)** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Han Dust Drop (Vessel Destruction) (Grimoire)** | ~10 kg–100 kg (β) |
+| **Recommended response (Grimoire)** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Grimoire.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIβ-906]
+- The Han-Energy yield is balanced against exposure risk. [SE-C-IIβ-906]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIβ-906]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Grimoire):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Grudge pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Grimoire)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 479/479 |
 | **Han Pressure [ATK]** | 14–20 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Grimoire)** | II — affects behavior complexity and response speed |
+| **Potency modifier (Grimoire)** | β — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Grimoire):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length (Grimoire)** | Medium — 16 turns |
+| **Threat Role (Grimoire)** | Sovereign encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 906  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("II", "2 — Basic") |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Grimoire)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-906 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition (Grimoire)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -92,9 +92,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-C-IIβ-906]
 - Prolonged exposure may produce the entity's documented grudge effect — tale pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- M.A.W. use carries the cost recorded in the equipment section. [SE-C-IIβ-906]
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Grudge pressure in a tale register.
 - The object form is unmistakable — this is a tale entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Personnel should identify it by these markers before Work or contact. [SE-C-IIβ-906]
 
 **Identification Profile**
 - **Entity Type:** Object
@@ -118,10 +118,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Grimoire)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature (Grimoire)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Object-Tale manifestation is the primary identifying feature. Grudge pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Identification (Grimoire)** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -135,8 +135,8 @@ The R.D. contained it in fourteen hours. Containment holds — barely. The tale 
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan (Grimoire)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan (Grimoire)** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the tale pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the grudge pressure settles gradually under sustained presence. | Decrease |
 
@@ -153,19 +153,19 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's tale influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Grudge pressure radiates — the tale register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Grimoire)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Grudge drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority (Grimoire):** Physical suppression required.
+- **Sorrow Gauge on breach (Grimoire):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic can Benefit the Facility** (Grimoire record.)
+> **This Relic is Capable of Operative Alteration** (Grimoire record.)
+> **This Relic Extracts Personal Resilience upon Extended Use** (Grimoire record.)
 
 **Activation Trigger:** Physical contact and intentional interaction.
 
@@ -180,18 +180,18 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode (Grimoire)** | **Equippable / mounting use** |
 | **Activation** | Physical contact and intentional interaction. |
 | **Primary Effect** | Projects concentrated Grudge sorrow resonance across the immediate perimeter. |
 | **Duration** | Continuous while equipped |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule (Grimoire):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-IIβ-906] |
 |---|---|---|
 | 10 Seconds | Grimoire rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Grimoire activates its primary resonance: Projects concentrated Grudge sorrow resonance across the immediate perimeter. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the accumulated grief of unacknowledged grudge; the bearer begins perceiving echoes of a crisis in the city where grudge went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -213,12 +213,12 @@ The escalation pattern is specific to Grimoire: it is not a generic breach event
 | **Primary effect** | Projects concentrated Grudge sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | Continuous while equipped |
 | **Risk** | Moderate (β) Object-Tale producing Grudge pressure; Prolonged contact causes cognitive and emotional fatigue. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Grimoire)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Grimoire):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.) (Grimoire):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Grimoire's Edge
 
@@ -234,8 +234,8 @@ The escalation pattern is specific to Grimoire: it is not a generic breach event
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (Grimoire):** 100% damage to the selected target only.
+**Damage Application (Grimoire):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Channels grudge tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.
 
@@ -267,33 +267,33 @@ The escalation pattern is specific to Grimoire: it is not a generic breach event
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect (Grimoire):** +1 stat bonus when working the source entity.
 
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
 
 **Cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Grimoire upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each M.A.W. piece is a conditional extension of Grimoire, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Grimoire)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Grimoire)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Grimoire)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Grimoire)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - Grudge signature confirmed at SECTOR-C-906.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-C-IIβ-906]
 - The tale register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Grimoire record.)
 
 **Entry 1 — Containment Description** Grimoire (C-IIβ-906 [GO]) is logged as a Object-Tale manifestation expressing Grudge. Held at SECTOR-C-906.
 
@@ -316,10 +316,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-906] |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-IIβ-906] |
+| **OBSERVATION SUCCESS (Grimoire)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -364,8 +364,8 @@ The entity does not rage. It does not weep. It persists — tale and grudge, pat
 **Threat Assessment:** Moderate. A Object-Tale entity — the tale register is its defining characteristic. Risk: prolonged exposure to the tale pressure may produce effects not seen in standard grudge entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
+- Viderehan and Ferrehan are valid Work Types. [SE-C-IIβ-906]
+- Flerehan and Pugnahan are not effective against this entity type. [SE-C-IIβ-906]
 - Monitor the tale register specifically — it is the primary channel of contact.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Object-Tale · Manifestation Classification

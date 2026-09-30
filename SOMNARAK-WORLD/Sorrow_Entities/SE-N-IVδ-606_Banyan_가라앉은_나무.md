@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-606 [LP]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Banyan)** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (Banyan)** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A drowned tree-beast dragging itself beneath the Mask Market floor, branch-arms and a weeping face pressing up through the crystal — a submerged creature of waterlogged wood. Salt-damp, it smells of cold rain and depth. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement (Banyan)** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone C, Mask Market |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Banyan)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Banyan):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure (Banyan)** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Han-Energy yield (Banyan)** | 20–28 Han-Energy per successful work cycle |
+| **Work difficulty (Banyan)** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold (Banyan)** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
-| **Vessel-Destructible** | No — Place-manifestation |
-| **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Vessel-Destructible (Banyan)** | No — Place-manifestation |
+| **Han Dust Drop (Vessel Destruction) (Banyan)** | — |
+| **Recommended response (Banyan)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Banyan.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IVδ-606]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IVδ-606]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IVδ-606]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Banyan):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (Banyan)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
+| **Activation threshold (Banyan)** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 781/781 |
 | **Han Pressure [ATK]** | 25–55 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Banyan)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (Banyan)** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Banyan):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (Banyan)** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (Banyan)** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Allow honest expression; do not seal the roots again |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension (Banyan):** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Banyan's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Allow honest expression; do not seal the roots again**.
 
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A tree submerged beneath the floor of the Mask Market, visible through translucent crystal and reflections. Its branches rise into rooms that do not contain it.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (Banyan):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Lament
 - **Registered location:** Zone C, Mask Market
 
@@ -115,9 +115,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A tree submerged beneath the floor of the Mask Market, visible through translucent crystal and reflections. Its branches rise into rooms that do not contain it. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement (Banyan)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (Banyan)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Banyan)** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -126,7 +126,7 @@
 - **Formation:** The Tree formed from sorrow deliberately buried beneath performance and masks.
 - **The Sorrow:** The grief of a community that hid its true pain until the ground became its only witness.
 - **The Event:** Citizens buried personal records beneath the Market; the buried grief rooted and grew below the masks.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Banyan):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -134,8 +134,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (Banyan)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (Banyan)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals the hidden lives beneath the district. | Stable |
 | **Ferrehan** | Keeps the worker above the submerged roots until they endure. | Decrease |
 
@@ -185,18 +185,18 @@ The escalation pattern is specific to Banyan: it is not a generic breach event. 
 | **Movement** | Banyan breaks loose and charges, thrashing. It extends roots through the floor, entangling personnel. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target (Banyan)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation (Banyan)** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type (Banyan):** Escape — the entity physically escapes and roams the facility.
+- **Containment priority (Banyan):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach (Banyan):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Banyan):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Sunken Harpoon-Gun
 
@@ -213,13 +213,13 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (Banyan):** Line; up to 3 targets total
+**Falloff Rule (Banyan):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (Banyan):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Banyan's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost (Banyan):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Sunken Shroud
 
@@ -237,7 +237,7 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Banyan's kind of pressure.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost (Banyan):** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Sunken Root
 
@@ -247,13 +247,13 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect (Banyan):** +3 stat bonus when working the source entity
 
 **Ability:** Reveals hidden emotional roots beneath a person's public identity.
 
 **Cost:** The wearer becomes unable to maintain a false expression.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Banyan upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -264,9 +264,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use (Banyan)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Banyan)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Banyan)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -286,38 +286,38 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Banyan as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone C, Mask Market. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Banyan)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Banyan)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Banyan's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Banyan record.)
 
 **Entry 1 — Containment Description**
 Banyan (N-IVδ-606 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Tree formed from sorrow deliberately buried beneath performance and masks. Held at Zone C, Mask Market. The Tree is visible only through reflections and transparent floors.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Banyan) — <Excerpt from Field Log, Year 4238>**
 It grows during the Sorrow Tide.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Banyan) — <Excerpt from Counseling Log>**
 The grief of a community that hid its true pain until the ground became its only witness.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the hidden lives beneath the district. (Stable); Ferrehan: Keeps the worker above the submerged roots until they endure. (Decrease). Mask Market masks crack when the Tree is disturbed.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 (Banyan) — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Banyan; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IVδ-606] |
 |---|---|
 | Keeps the worker above the submerged roots until they endure. The sorrow is witnessed; Banyan is fully recorded. | Reveals the hidden lives beneath the district. The gauge climbs and Banyan withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Banyan)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -386,16 +386,16 @@ Some sorrows are about hiding. Banyan is about the hidden that grew — the buri
 **Comprehension Level:** 2 — Basic
 **Threat Assessment (Banyan):** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Refer to entity’s Work Type responses in the Behavior section. [SE-N-IVδ-606]
+- Standard R.D. containment protocols apply. [SE-N-IVδ-606]
+- See Breach Behavior or Activation Behavior for escalation response. [SE-N-IVδ-606]
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- See Origin section for formation and event details. [SE-N-IVδ-606]
+- See Combat Record for engagement history. [SE-N-IVδ-606]
+- See M.A.W. Equipment section for extraction risk. [SE-N-IVδ-606]
+**Cross-References (Banyan):** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator (Banyan):** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
@@ -413,8 +413,8 @@ Some sorrows are about hiding. Banyan is about the hidden that grew — the buri
 
 - **Classification detail:** Banyan is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone C, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail (Banyan):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Banyan):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

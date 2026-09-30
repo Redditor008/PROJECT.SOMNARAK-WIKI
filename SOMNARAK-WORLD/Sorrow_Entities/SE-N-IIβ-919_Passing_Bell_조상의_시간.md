@@ -10,17 +10,17 @@
 | **Entity Type** | **Time** — Can breach via Transform |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (Passing Bell)** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Time-Spirit |
 | **Physical Form** | Organic — An hour, once per cycle, during which the voices of the dead become audible in Zone A. They do not speak to the living — they speak to each other, and what they say is always a warning that the living cannot decipher in time. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement (Passing Bell)** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-919, contained |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Passing Bell)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference (Passing Bell):** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,51 +28,51 @@
 | **Entity role** | Time |
 | **Primary pressure** | Weight / Spirit pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield (Passing Bell)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (Passing Bell)** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Han Dust Drop (Vessel Destruction) (Passing Bell)** | ~10 kg–100 kg (β) |
+| **Recommended response (Passing Bell)** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Passing Bell.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIβ-919]
+- The Han-Energy yield is balanced against exposure risk. [SE-N-IIβ-919]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIβ-919]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Passing Bell):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Weight pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Passing Bell)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 495/495 |
 | **Han Pressure [ATK]** | 14–20 per hit · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Passing Bell)** | II — affects behavior complexity and response speed |
+| **Potency modifier (Passing Bell)** | β — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Passing Bell):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length (Passing Bell)** | Medium — 16 turns |
+| **Threat Role (Passing Bell)** | Sovereign encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 919  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("II", "2 — Basic") |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Passing Bell)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-919 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition (Passing Bell)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -91,9 +91,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-N-IIβ-919]
 - Prolonged exposure may produce the entity's documented weight effect — spirit pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- M.A.W. use carries the cost recorded in the equipment section. [SE-N-IIβ-919]
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Weight pressure in a spirit register.
 - The time form is unmistakable — this is a spirit entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Personnel should identify it by these markers before Work or contact. [SE-N-IIβ-919]
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | An hour, once per cycle, during which the voices of the dead become audible in Zone A. They do not speak to the living — they speak to each other, and |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Passing Bell)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature (Passing Bell)** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Time-Spirit manifestation is the primary identifying feature. Weight pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Identification (Passing Bell)** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -134,8 +134,8 @@ Personnel who work Passing Bell do not simply feel weight pressure. They feel we
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan (Passing Bell)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan (Passing Bell)** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the spirit pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
 
@@ -152,17 +152,17 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's spirit influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Weight pressure radiates — the spirit register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Passing Bell)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority (Passing Bell):** Physical suppression required.
+- **Sorrow Gauge on breach (Passing Bell):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.) (Passing Bell):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Passing Bell's Edge
 
@@ -178,8 +178,8 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (Passing Bell):** 100% damage to the selected target only.
+**Damage Application (Passing Bell):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Channels weight spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.
 
@@ -211,33 +211,33 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect (Passing Bell):** +1 stat bonus when working the source entity.
 
 **Ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.
 
 **Cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Passing Bell upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each M.A.W. piece is a conditional extension of Passing Bell, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Passing Bell)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Passing Bell)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Passing Bell)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Passing Bell)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - Weight signature confirmed at SECTOR-N-919.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-N-IIβ-919]
 - The spirit register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -246,7 +246,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Passing Bell record.)
 
 **Entry 1 — Containment Description** Passing Bell (N-IIβ-919 [WT]) is logged as a Time-Spirit manifestation expressing Weight. Held at SECTOR-N-919.
 
@@ -260,10 +260,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-919] |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-N-IIβ-919] |
+| **OBSERVATION SUCCESS (Passing Bell)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -308,8 +308,8 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 **Threat Assessment:** Moderate. A Time-Spirit entity — the spirit register is its defining characteristic. Risk: prolonged exposure to the spirit pressure may produce effects not seen in standard weight entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
+- Viderehan and Ferrehan are valid Work Types. [SE-N-IIβ-919]
+- Flerehan and Pugnahan are not effective against this entity type. [SE-N-IIβ-919]
 - Monitor the spirit register specifically — it is the primary channel of contact.
 
 **Cross-References:** Inner Sorrow (내한) · Weight · Time-Spirit · Manifestation Classification

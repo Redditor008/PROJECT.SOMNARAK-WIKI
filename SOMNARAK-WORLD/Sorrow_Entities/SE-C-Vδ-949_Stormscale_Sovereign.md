@@ -20,7 +20,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Stormscale Sovereign):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -38,15 +38,15 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Stormscale Sovereign.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-Vδ-949]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-Vδ-949]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-Vδ-949]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Stormscale Sovereign):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -56,9 +56,9 @@
 | **Sorrow Gauge [HP]** | 900/900 |
 | **Han Pressure [ATK]** | 16–34 per cycle · Mixed |
 | **Coherence modifier** | V — reality-bending; weather- and water-commanding |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+| **Potency modifier (Stormscale Sovereign)** | δ — affects pressure, durability, and escalation severity |
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Stormscale Sovereign):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -169,7 +169,7 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. (Extracted only from the residual resonance of the historical transformation; the Sovereign has never been worked directly.)
+> **Materialized Agony Wear (M.A.W.) (Stormscale Sovereign):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. (Extracted only from the residual resonance of the historical transformation; the Sovereign has never been worked directly.)
 
 ### M.A.W. Weapon — The Fourfold Fang
 
@@ -210,13 +210,13 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 **Appearance:** A paired cabochon — one half black, one half soft-glowing white — set so that one eye seems dark and the other lit, regardless of the light.
 **Slot:** Head
 **Acquisition Probability:** 2%
-**Effect:** +3 stat bonus when working the source entity
+**Effect (Stormscale Sovereign):** +3 stat bonus when working the source entity
 
 **Ability:** An eye-pair that sees all four sorrows at once without confusion — granting the bearer, briefly, the Sovereign's own comprehensive sight, the ability to read any entity's full elemental nature at a glance.
 
 **Cost:** The bearer dreams, nightly, of being two things at once — and wakes uncertain, for a moment, which one they are.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Stormscale Sovereign upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -226,10 +226,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Stormscale Sovereign)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Stormscale Sovereign)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Stormscale Sovereign)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Stormscale Sovereign)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Fourfold Fang strikes with devastating evenness yet can leave the wielder cycling through every sorrow for a week, unable to settle on one.
 
@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Stormscale Sovereign record.)
 
 **Entry 1 — Containment Description**
 The Stormscale Sovereign (C-Vδ-949 [MS]) is logged as a Subject-Spirit manifestation expressing Mixed (all four sorrows). The entity is the transformation-apex of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948): a vast black-and-white flood dragon, manifest once in the historical record, currently Latent. It is held non-manifest solely by the enforced separation of its two halves. Reunion is forbidden.

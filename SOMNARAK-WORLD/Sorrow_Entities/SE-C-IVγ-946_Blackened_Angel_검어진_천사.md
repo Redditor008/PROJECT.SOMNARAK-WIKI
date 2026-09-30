@@ -21,7 +21,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Blackened Angel):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -42,7 +42,7 @@
 - A successful Viderehan or Ferrehan work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
 - Gauge increases, failed work, or an ignored activation condition can trigger the recorded activation or expansion behavior.
 - The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter management.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVγ-946]
 
 ## Combat Record
 ### Core Stat Line
@@ -56,10 +56,10 @@
 | **Activation threshold** | A spoken wish directed at the statue |
 | **Sorrow Gauge [HP]** | 640/640 |
 | **Han Pressure [ATK]** | 12–26 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Blackened Angel)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (Blackened Angel)** | γ — affects pressure, durability, and escalation severity |
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Blackened Angel):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 55–75% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Monitored |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Blackened Angel)** | Viderehan and Ferrehan only |
 | **Battlefield** | The Tarnished Shrine, SECTOR-A-04, Zone A |
 | **Resolution Condition** | Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand |
 
@@ -144,7 +144,7 @@
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (Blackened Angel):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -161,7 +161,7 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
+> **This Relic can Benefit the Facility** (Blackened Angel record.)
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -189,7 +189,7 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-IVγ-946] |
 |---|---|---|
 | 10 Seconds | Blackened Angel begins thrumming as the channel opens; a palpable wave of weight sorrow sweeps across the containment chamber. | Opening the channel activates Blackened Angel: The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the grief of a giving thing forced, over and over, to grant cruelty — and the slow loss of trust in the wishes of people. forged during a collector named kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. the angel could not refuse. with the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -211,12 +211,12 @@ The escalation pattern is specific to Blackened Angel: it is not a generic breac
 | **Primary effect** | The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade. |
 | **Duration / rate** | Until the wish is granted and its price has settled. |
 | **Risk** | Major (γ) Object-Tale producing Weight pressure; Every cruel wish deepens the black and edges the angel toward the Face. Three cruel wishes in one cycle trigger *The Spreading Tarnish*; sustained cruelty brings *The Face that Cannot Be Understood*. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Blackened Angel)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Blackened Angel (검어진 천사)):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Blackened Angel):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Tarnish Plume
 
@@ -257,13 +257,13 @@ The escalation pattern is specific to Blackened Angel: it is not a generic breac
 **Appearance:** A single bead — half bright blue, half wet black — suspended on a fine chain, the size of a real tear; it is cool and never quite dry, and trembles when a lie or a cruel wish is near.
 **Slot:** Hand
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (Blackened Angel):** +2 stat bonus when working the source entity
 
 **Ability:** A tear that darkens from blue to black in the presence of a cruel or selfish wish, warning the bearer before the wish is spoken — the angel's last gift to the kind.
 
 **Cost:** The bearer weeps, briefly and without clear reason, whenever someone near them gets exactly what they wished for.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Blackened Angel upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -273,10 +273,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Blackened Angel)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Blackened Angel)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Blackened Angel)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Blackened Angel)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Tarnish Plume strikes reliably yet can leave the wielder's own small wishes coming true in ways they did not want.
 
@@ -305,12 +305,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Blackened Angel record.)
 
 **Entry 1 — Containment Description**
 Blackened Angel (C-IVγ-946 [WO]) is logged as an Object-Tale manifestation expressing Weight. The entity is a small female-angel statue, barely 80 cm tall, once golden, now largely black, that grants any wish spoken before it — it cannot refuse — and weeps black tears (once blue) into a stone dish. Contained on-site at the Tarnished Shrine, SECTOR-A-04, Zone A. The Shrine is sealed against petitioners.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Blackened Angel) — <Excerpt from Field Log, Year 4238>**
 Subject worked via Viderehan and Ferrehan only; no wish spoken. The gold-to-black ratio was logged at roughly 1:7 — far past the 1:1 mid-point recorded at intake. The angel wept continuously throughout observation, slow black tears, though nothing was asked of it. When Specialist Haneulash Yoon named its grief aloud ("you did not want to grant the cruel ones"), the weeping slowed. Note: the compulsion to grant is absolute and is the hazard — the angel is not malicious, only unable to refuse.
 
 **Entry 3 — <Counseling Log>**
@@ -329,7 +329,7 @@ We recovered the intake file. Before containment, a Collector named Kangmin had 
 | Name the angel's grief aloud — and empty the dish of tears by hand. | Whisper a wish — just one, small, for yourself. |
 |---|---|
 | You speak the sorrow the angel has never been allowed to name: that it was made to give, and was asked, over and over, to give harm. The black weeping slows. The surviving gold brightens, just a little. The dish, emptied, lightens the whole Shrine. You understand the whole of it. Blackened Angel is fully recorded. | You whisper the wish. It is granted, exactly, at once — and the price of it settles onto you, and the angel's black deepens a shade, and the face begins to strain. You understand, too late, why the gold went black. The angel gains nothing; you lose something you cannot name. The encounter ends with the dish a little fuller. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Blackened Angel)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 

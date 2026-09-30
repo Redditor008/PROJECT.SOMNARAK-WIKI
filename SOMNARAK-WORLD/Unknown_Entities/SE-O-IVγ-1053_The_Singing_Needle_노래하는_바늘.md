@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject / Phenomenon** — High-altitude acoustic entity native to the Crystal Peaks |
 | **Coherence** | Entity (IV) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category (The Singing Needle)** | Outside Sorrow (외한) |
 | **Element** | Void / Lament |
 | **Manifestation** | Subject-Acoustic / Crystal Shear |
 | **Physical Form** | Slender Crystalline Spire — A twelve-meter column of faceted blue-white crystal that moves by shearing through bedrock. Around its apex hover dozens of floating acoustic needles that rotate at violent velocities, producing an ear-piercing whistle across piercing crystalline registers. |

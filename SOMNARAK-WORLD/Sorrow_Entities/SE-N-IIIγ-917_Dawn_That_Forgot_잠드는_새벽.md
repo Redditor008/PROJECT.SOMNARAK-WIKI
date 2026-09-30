@@ -10,17 +10,17 @@
 | **Entity Type** | **Time** — Can breach via Transform |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (Dawn That Forgot)** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Time-Dream |
 | **Physical Form** | Organic — A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement (Dawn That Forgot)** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-917, contained |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (Dawn That Forgot)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference (Dawn That Forgot):** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,51 +28,51 @@
 | **Entity role** | Time |
 | **Primary pressure** | Void / Dream pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield (Dawn That Forgot)** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response (Dawn That Forgot)** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Dawn That Forgot.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIIγ-917]
+- The Han-Energy yield is balanced against exposure risk. [SE-N-IIIγ-917]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIIγ-917]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Dawn That Forgot):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Void pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Dawn That Forgot)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 464/464 |
 | **Han Pressure [ATK]** | 17–29 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Dawn That Forgot)** | III — affects behavior complexity and response speed |
+| **Potency modifier (Dawn That Forgot)** | γ — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Dawn That Forgot):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length (Dawn That Forgot)** | Medium — 16 turns |
+| **Threat Role (Dawn That Forgot)** | Sovereign encounter |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 917  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Dawn That Forgot)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-917 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition (Dawn That Forgot)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -91,9 +91,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-N-IIIγ-917]
 - Prolonged exposure may produce the entity's documented void effect — dream pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- M.A.W. use carries the cost recorded in the equipment section. [SE-N-IIIγ-917]
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Void pressure in a dream register.
 - The time form is unmistakable — this is a dream entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Personnel should identify it by these markers before Work or contact. [SE-N-IIIγ-917]
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams  |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Dawn That Forgot)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature (Dawn That Forgot)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Time-Dream manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Identification (Dawn That Forgot)** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -134,8 +134,8 @@ The effects are cumulative. Each exposure layers void pressure in the dream regi
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan (Dawn That Forgot)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan (Dawn That Forgot)** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the dream pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
 
@@ -152,17 +152,17 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 | **Breach Type** | Expansion |
 | **Movement** | The entity's dream influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Void pressure radiates — the dream register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Dawn That Forgot)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority (Dawn That Forgot):** Physical suppression required.
+- **Sorrow Gauge on breach (Dawn That Forgot):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.) (Dawn That Forgot):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Dawn That Forgot's Edge
 
@@ -191,30 +191,30 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 **Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect (Dawn That Forgot):** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Dawn That Forgot upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each M.A.W. piece is a conditional extension of Dawn That Forgot, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Dawn That Forgot)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Dawn That Forgot)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Dawn That Forgot)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Dawn That Forgot)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (Dawn That Forgot):** 3 — Advanced
 
 **Key Observations:**
 - Void signature confirmed at SECTOR-N-917.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-N-IIIγ-917]
 - The dream register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Dawn That Forgot record.)
 
 **Entry 1 — Containment Description** Dawn That Forgot (N-IIIγ-917 [VT]) is logged as a Time-Dream manifestation expressing Void. Held at SECTOR-N-917.
 
@@ -237,10 +237,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIγ-917] |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-N-IIIγ-917] |
+| **OBSERVATION SUCCESS (Dawn That Forgot)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -285,8 +285,8 @@ The entity does not rage. It does not weep. It persists — dream and void, pati
 **Threat Assessment:** Major. A Time-Dream entity — the dream register is its defining characteristic. Risk: prolonged exposure to the dream pressure may produce effects not seen in standard void entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
+- Viderehan and Ferrehan are valid Work Types. [SE-N-IIIγ-917]
+- Flerehan and Pugnahan are not effective against this entity type. [SE-N-IIIγ-917]
 - Monitor the dream register specifically — it is the primary channel of contact.
 
 **Cross-References:** Inner Sorrow (내한) · Void · Time-Dream · Manifestation Classification

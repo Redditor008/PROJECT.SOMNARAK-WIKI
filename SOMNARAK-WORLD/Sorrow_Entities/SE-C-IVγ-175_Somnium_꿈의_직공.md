@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-175 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type (Somnium)** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) — Self-aware, creative, manipulative |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Somnium)** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A humanoid figure woven from thousands of luminous dream-threads rather than flesh — translucent, shifting, its face rearranging to match whoever dreams of it. Weightless and salt-warm, it smells of cold rain and sleep; the threads hum faintly. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement (Somnium)** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-A-01, near Dream Gates |
-| **R.D. Comprehension Level** | 3 — Advanced |
+| **R.D. Comprehension Level (Somnium)** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Somnium):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure (Somnium)** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield (Somnium)** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (Somnium)** | ~100 kg–1 ton (γ) |
+| **Recommended response (Somnium)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Somnium.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVγ-175]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IVγ-175]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVγ-175]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (Somnium):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 2.30 m/s |
 | **Resistance** | 40% against Lament pressure; 30% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold (Somnium)** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 779/779 |
 | **Han Pressure [ATK]** | 15–35 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Somnium)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (Somnium)** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Somnium):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types (Somnium)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-A-01, near Dream Gates |
 | **Resolution Condition** | Identify the dream's false promise and wake without violence |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension (Somnium):** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Somnium's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Identify the dream's false promise and wake without violence**.
 
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Dream
 - **Primary marker:** A humanoid figure made from thousands of luminous dream-threads. Its face changes according to the dreamer observing it.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement (Somnium):** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-A-01, near Dream Gates
 
@@ -115,9 +115,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid figure made from thousands of luminous dream-threads. Its face changes according to the dreamer observing it. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement (Somnium)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature (Somnium)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers (Somnium)** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -126,7 +126,7 @@
 - **Formation:** The Weaver formed from dreams abandoned before they could be lived.
 - **The Sorrow:** The grief of imagined lives that felt possible but never became real.
 - **The Event:** Dreamers died, woke, or gave up before completing their desired futures. Their dream-threads gathered near the Gates.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (Somnium):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased their own memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -155,18 +155,18 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Movement** | Somnium breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target (Somnium)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation (Somnium)** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type (Somnium):** Escape — the entity physically escapes and roams the facility.
+- **Containment priority (Somnium):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach (Somnium):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Somnium):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Dream Requiem
 
@@ -181,13 +181,13 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (Somnium):** Line; up to 3 targets total
+**Falloff Rule (Somnium):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (Somnium):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Somnium's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost (Somnium):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Dream Shroud
 
@@ -205,7 +205,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Somnium's kind of pressure.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost (Somnium):** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Dream Thread
 
@@ -215,13 +215,13 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (Somnium):** +2 stat bonus when working the source entity
 
 **Ability:** Allows controlled entry into another person's dream.
 
 **Cost:** The wearer carries an emotional fragment from every dream entered.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Somnium upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -232,14 +232,14 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use (Somnium)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Somnium)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Somnium)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level (Somnium):** 3 — Advanced
 
 - It is visible only partially outside the Dream layer.
 - Its dreams can be beautiful enough to overcome the will to wake.
@@ -254,22 +254,22 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Somnium as a Subject with Subject-Dream manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-A-01, near Dream Gates. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation (Somnium)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation (Somnium)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Somnium's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Somnium record.)
 
 **Entry 1 — Containment Description**
 Somnium (C-IVγ-175 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The Weaver formed from dreams abandoned before they could be lived. Held at SECTOR-A-01, near Dream Gates. It is visible only partially outside the Dream layer.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Somnium) — <Excerpt from Field Log, Year 4238>**
 Spreads through sleeping personnel and Dream-layer corridors. Personnel confuse desire, memory, and present reality. Its dreams can be beautiful enough to overcome the will to wake.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Somnium) — <Excerpt from Counseling Log>**
 The grief of imagined lives that felt possible but never became real.
 
 **Entry 4 — <Containment Notice>**
@@ -280,12 +280,12 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals Somnium; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVγ-175] |
 |---|---|
 | Weaves a comforting dream around the worker. The sorrow is witnessed; Somnium is fully recorded. | Turns the dream into a hostile maze. The gauge climbs and Somnium withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Somnium)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -360,7 +360,7 @@ Some sorrows mourn what was. Somnium mourns what might have been — the futures
 - Formed from abandoned dreams near the Dream Gates.
 - Gives futures shape, then watches them fade.
 **Cross-References:** Dream Gates · The Dream Fragment · The Dream Weaver’s Loom
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement (Somnium):** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** Citizens who died, woke, or gave up before completing their futures.
 
 ### Registry Addendum
@@ -379,8 +379,8 @@ Some sorrows mourn what was. Somnium mourns what might have been — the futures
 
 - **Classification detail:** Somnium is a Subject with Entity (IV) — Self-aware, creative, manipulative coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-A-01, near Dream Gates.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail (Somnium):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (Somnium):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

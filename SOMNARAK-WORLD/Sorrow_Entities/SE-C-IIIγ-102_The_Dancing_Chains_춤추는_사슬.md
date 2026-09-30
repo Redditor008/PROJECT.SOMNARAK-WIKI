@@ -8,59 +8,59 @@
 |---|---|
 | **Designation** | `C-IIIγ-102 [GO]` |
 | **Entity Type** | **Object/Place** — Can breach via Transform; activation possible |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Tool Type (The Dancing Chains)** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Personality compelled to dance |
 | **Potency** | Major (γ) — High danger |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (The Dancing Chains)** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A pair of dark chains of crystallized rage, their links fused and grown rather than forged, cold and ridged like clenched vertebrae. Bound to a person they move on their own, forcing the wearer to dance until collapse. They are fever-hot where they grip, and smell of char. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-B-01, Zone B — contained |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (The Dancing Chains)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (The Dancing Chains):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure (The Dancing Chains)** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Han-Energy yield (The Dancing Chains)** | 16–22 Han-Energy per successful work cycle |
+| **Work difficulty (The Dancing Chains)** | High · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold (The Dancing Chains)** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction) (The Dancing Chains)** | ~100 kg–1 ton (γ) |
+| **Recommended response (The Dancing Chains)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Dancing Chains.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIγ-102]
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIIγ-102]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIγ-102]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters (The Dancing Chains):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed (The Dancing Chains)** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 35% against Grudge pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold (The Dancing Chains)** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 686/686 |
 | **Han Pressure [ATK]** | 19–43 per hit · Grudge |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (The Dancing Chains)** | III — affects behavior complexity and response speed |
+| **Potency modifier (The Dancing Chains)** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (The Dancing Chains):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,10 +69,10 @@
 | **Coherence** | Fragment (III) — Personality compelled to dance |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Difficulty (The Dancing Chains)** | High · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types (The Dancing Chains)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-B-01, Zone B — contained |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition (The Dancing Chains)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -86,15 +86,15 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension (The Dancing Chains):** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Dancing Chains's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution (The Dancing Chains):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks the entity’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
+- Extended contact risks The Dancing Chains’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
+- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field. [SE-C-IIIγ-102]
 - Without timely resolution, The Dancing Chains defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -110,7 +110,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A pair of dark crystallized chains. When bound to a person, they force the wearer to dance until collapse.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement (The Dancing Chains):** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-01, Zone B — contained
 
@@ -119,28 +119,28 @@
 | Field | Detail |
 |---|---|
 | **Form** | A pair of dark crystallized chains. When bound to a person, they force the wearer to dance until collapse. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (The Dancing Chains)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature (The Dancing Chains)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The wearer cannot remove themself from the chains. The chains pulse near strong emotions. They brighten near sorrow and dim near joy. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification (The Dancing Chains)** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol (The Dancing Chains):** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Chains formed from a fairy tale about cursed shoes and the terror of being compelled to continue.
 - **The Sorrow:** Exhaustion, loss of agency, and the grief of being unable to stop moving.
 - **The Event:** The story's curse was forgotten, but its compulsion remained and crystallized into the chains.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People (The Dancing Chains):** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this effect as "Sorrow Resonance" — the entity's sorrow resonates with the viewer's own hidden grief. Containment procedures require personnel to rotate every 72 hours. Extended exposure causes vivid dreams — dreams of lives never lived, of.
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (The Dancing Chains):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan (The Dancing Chains)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan (The Dancing Chains)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** (Observation) | Become still, allowing safe study. | Stable |
 | **Ferrehan** (Endurance) | Bind the worker temporarily and test their ability to endure motion. | Decrease |
 ### Special Behaviors
@@ -154,12 +154,12 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Dancing Chains is recorded as an Object/Place with Object-Grudge manifestation and Grudge elemental expression. The current record places it at SECTOR-B-01, Zone B — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response (The Dancing Chains):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic can Benefit the Facility** (The Dancing Chains record.)
+> **This Relic is Capable of Operative Alteration** (The Dancing Chains record.)
+> **This Relic Extracts Personal Resilience upon Extended Use** (The Dancing Chains record.)
 
 **Activation Trigger:** Direct contact or deliberate binding to a worker.
 
@@ -174,18 +174,18 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode (The Dancing Chains)** | **Equippable / mounting use** |
 | **Activation** | Direct contact or deliberate binding to a worker. |
 | **Primary Effect** | The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory. |
 | **Duration** | Until an outside person removes the chains or the entity's gauge is reduced. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | The worker may lose the ability to remain still and dance until physical collapse. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule (The Dancing Chains):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-102] |
 |---|---|---|
 | 10 Seconds | The Dancing Chains rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping The Dancing Chains activates its primary resonance: The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from exhaustion, loss of agency, and the grief of being unable to stop moving; the bearer begins perceiving echoes of the story's curse was forgotten, but its compulsion remained and crystallized into the chains. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -207,12 +207,12 @@ The escalation pattern is specific to The Dancing Chains: it is not a generic br
 | **Primary effect** | The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory. |
 | **Duration / rate** | Until an outside person removes the chains or the entity's gauge is reduced. |
 | **Risk** | Major (γ) — High danger Object-Grudge producing Grudge pressure; The worker may lose the ability to remain still and dance until physical collapse. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (The Dancing Chains)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (The Dancing Chains):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (The Dancing Chains):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Dancing Fang
 
@@ -227,13 +227,13 @@ The escalation pattern is specific to The Dancing Chains: it is not a generic br
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage (The Dancing Chains):** Line; up to 3 targets total
+**Falloff Rule (The Dancing Chains):** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application (The Dancing Chains):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Dancing Chains's grudge signature in the strike.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost (The Dancing Chains):** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Dancing Plate
 
@@ -251,7 +251,7 @@ The escalation pattern is specific to The Dancing Chains: it is not a generic br
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Dancing Chains's kind of pressure.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost (The Dancing Chains):** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — The Dancing Shoes
 
@@ -261,28 +261,28 @@ The escalation pattern is specific to The Dancing Chains: it is not a generic br
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (The Dancing Chains):** +2 stat bonus when working the source entity
 
 **Ability:** Greatly increases movement speed and evasive reflexes.
 
 **Cost:** The shoes want to dance; resisting the urge to move requires constant effort.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by The Dancing Chains upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to the entity's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Dancing Chains' element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (The Dancing Chains)** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
+| **During use (The Dancing Chains)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (The Dancing Chains)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (The Dancing Chains)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation (The Dancing Chains):** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -307,10 +307,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Direct contact or deliberate binding to a worker. Effect: The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory. Duration: Until an outside person removes the chains or the entity's gauge is reduced. Risk: The. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Dancing Chains's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method (The Dancing Chains):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Dancing Chains record.)
 
 **Entry 1 — Containment Description**
 The Dancing Chains (C-IIIγ-102 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The Chains formed from a fairy tale about cursed shoes and the terror of being compelled to continue. Held at SECTOR-B-01, Zone B — contained. Han-signature resonates at a frequency matching the Weeping.
@@ -318,7 +318,7 @@ The Dancing Chains (C-IIIγ-102 [GO]) is logged as a Object-Grudge manifestation
 **Entry 2 — <Excerpt from Field Log, Year 4203>**
 The object has never moved from its containment zone without a bound wearer.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (The Dancing Chains) — <Excerpt from Counseling Log>**
 Exhaustion, loss of agency, and the grief of being unable to stop moving.
 
 **Entry 4 — <Containment Notice>**
@@ -329,12 +329,12 @@ The entity exists in a space between memory and forgetting — not quite present
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals the entity; the other feeds it.
+> A choice presented to the observing worker at the climax of contact. One path reveals The Dancing Chains; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-102] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; The Dancing Chains is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Dancing Chains withdraws without revelation. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (The Dancing Chains)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -354,7 +354,7 @@ The chains lie still until you touch them. Then the first link closes, and your 
 
 The Dancing Chains does not exist in isolation. Its recorded relationships with The Hollow Choir, The Maw, The Kind Healer should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method (The Dancing Chains):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -367,7 +367,7 @@ The Dancing Chains must be assessed as part of an entity network, not as an isol
 | **The Maw** | Pulses near the First Sorrow as if recognizing its origin. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Kind Healer** | Cannot heal the chains; they are waiting, not wounded. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure (The Dancing Chains):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -410,14 +410,14 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 - Formed from a forgotten fairy tale about cursed shoes.
 - The curse survived the story’s dissolution.
 **Cross-References:** Zone B · The debt system · The Veil
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement (The Dancing Chains):** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** Forgotten fairy tale; compulsion survived erasure.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation (The Dancing Chains):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement (The Dancing Chains):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The chains pulse brighter near sorrow and dim near joy.
@@ -429,9 +429,9 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 
 - **Classification detail:** The Dancing Chains is an Object/Place with Fragment (III) — Personality compelled to dance coherence and Major (γ) — High danger potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-01, Zone B — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail (The Dancing Chains):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail (The Dancing Chains):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail (The Dancing Chains):** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-102

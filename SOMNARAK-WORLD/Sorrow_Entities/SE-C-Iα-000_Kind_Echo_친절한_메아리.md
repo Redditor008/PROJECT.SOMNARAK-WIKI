@@ -10,17 +10,17 @@
 | **Entity Type** | **Subject** — Can breach; will not attack |
 | **Coherence** | I — Residue (barely formed; a faint, kind emotional imprint) |
 | **Potency** | α — Minor |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Kind Echo)** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A small, softly rounded figure the size of a curled child, warm to the touch like living skin rather than cold stone. Beneath a thin, pliant surface — faintly translucent, the color of pale dawn — a gentle blue luminescence pulses like a heartbeat. It is not carved or crystalline; it feels, unsettlingly, like holding something alive that has chosen to be still. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement (Kind Echo)** | Stationary — a structure or location. |
 | **Location** | SECTOR-D-01, The Forge District — Training Containment Unit |
 | **R.D. Comprehension Level** | 4 — Mastered (training entity; fully understood) |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Kind Echo):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -33,7 +33,7 @@
 | **Activation threshold** | Sorrow Gauge ≥ 80% (rarely reached; the entity is extremely stable) |
 | **Tool / M.A.W. grade** | α (Minor) — Standard Training M.A.W. |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
+| **Han Dust Drop (Vessel Destruction) (Kind Echo)** | 1 g–10 kg (α) |
 | **Recommended response** | Practice all four Work Types. The entity is docile and forgiving of errors. |
 
 ### Operational Notes
@@ -42,12 +42,12 @@
 - All four Work Types are equally effective — the entity responds gently to any approach.
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform the entity.
 - The entity cannot meaningfully breach; if its (rarely triggered) breach occurs, it simply sits outside its containment door and waits.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-Iα-000]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Kind Echo):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
@@ -164,18 +164,18 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 | **Movement** | Kind Echo intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target (Kind Echo)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation (Kind Echo)** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Breach type (Kind Echo):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach (Kind Echo):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. The Standard Training M.A.W. set is issued to all new R.D. personnel.  
+> **Materialized Agony Wear (M.A.W.) (Kind Echo):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. The Standard Training M.A.W. set is issued to all new R.D. personnel.  
 > *(Archival Note: The complete quadripartite codex suite for Kind Echo is cataloged under formal registry ID `SE-1001` in `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1001_The_Kind_Echo/` to resolve the zero-index registry collision).*
 
 ### M.A.W. Weapon — Pneumatic Training Carbine
@@ -216,13 +216,13 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect (Kind Echo):** +1 stat bonus when working the source entity
 **Appearance:** A small, smooth, warm stone of pale blue Han-crystal that fits in the palm. It hums faintly.
 
 **Ability:** Granted at near-100% probability during training work (the entity is generous). +2 Composure, +2 Resolve while carried. The stone is warm, always.
 **Cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Kind Echo upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -266,7 +266,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Kind Echo record.)
 
 **Entry 1 — Containment Description**
 Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject-Lament, Residue coherence, Minor potency. The gentlest entity in the R.D. registry. Designated 000; permanently assigned to the Training Containment Unit, SECTOR-D-01. Warm to the touch. Does not attack.
@@ -274,7 +274,7 @@ Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject
 **Entry 2 — <Excerpt from Training Manual, Year 4202>**
 "When the R.D. was founded, the first containment sweeps identified hundreds of Sorrow Entities across the city. One of them — found in the oldest corner of the Old Lament — was different. It was warm. It did not weep, wail, or attack. It glowed, softly, and hummed, gently, and when the first agent reached for it, it leaned in. We designated it 000 and gave it a permanent home in our training unit. It has trained every agent we have ever hired."
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 (Kind Echo) — <Excerpt from Counseling Log>**
 "They told me my first entity would be scary. It wasn't. It was warm, and it hummed, and I put my hand on it and it brightened. I practiced all four Work Types on it in one afternoon. It responded the same way to all of them — gently. I left the unit feeling like I could do this job. I think that is exactly what it wanted me to feel." — Trainee Specialist Hanul Grey (하늘 그레이), Zone B, first day
 
 **Entry 4 — <Containment Notice, Research Division>**

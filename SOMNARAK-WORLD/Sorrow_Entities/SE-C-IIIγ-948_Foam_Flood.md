@@ -21,7 +21,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference (Foam Flood):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -42,7 +42,7 @@
 - A successful Viderehan or Ferrehan work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
 - Gauge increases, failed work, or an ignored activation condition can trigger the recorded activation or expansion behavior.
 - The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter management.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIγ-948]
 
 ## Combat Record
 ### Core Stat Line
@@ -56,10 +56,10 @@
 | **Activation threshold** | A hand laid upon the carving (or bare skin within the field) |
 | **Sorrow Gauge [HP]** | 600/600 |
 | **Han Pressure [ATK]** | 12–24 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Foam Flood)** | III — affects behavior complexity and response speed |
+| **Potency modifier (Foam Flood)** | γ — affects pressure, durability, and escalation severity |
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Foam Flood):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 50–70% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Monitored |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Foam Flood)** | Viderehan and Ferrehan only |
 | **Battlefield** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |
 | **Resolution Condition** | Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim |
 
@@ -137,7 +137,7 @@
 
 ## Behavior
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule (Foam Flood):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -154,7 +154,7 @@ The gauge response is only meaningful in context. The Foam Flood is recorded as 
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
+> **This Relic can Benefit the Facility** (Foam Flood record.)
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -182,7 +182,7 @@ The gauge response is only meaningful in context. The Foam Flood is recorded as 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-948] |
 |---|---|---|
 | 10 Seconds | The Foam Flood begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates The Foam Flood: The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the grief of a shape carved for flight that has never flown. the dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise. forged during flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. the r.d. sealed the riverbed, moved the carving to the vault, and began the record. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -204,12 +204,12 @@ The escalation pattern is specific to The Foam Flood: it is not a generic breach
 | **Primary effect** | The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. |
 | **Duration / rate** | Until the hand is removed and the eyes dim. |
 | **Risk** | Major (γ) Object-Spirit producing Lament pressure; Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Foam Flood)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (The Foam Flood (양룡)):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.) (Foam Flood):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Skyward Spear
 
@@ -250,13 +250,13 @@ The escalation pattern is specific to The Foam Flood: it is not a generic breach
 **Appearance:** A small cabochon of white stone that glows a soft, steady white, the size of a dragon's eye; it brightens when the bearer looks upward, and dims when they are fully grounded.
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect (Foam Flood):** +2 stat bonus when working the source entity
 
 **Ability:** An eye-stone that flares warm in the presence of a deep, unspoken longing — warning the bearer of wishes too large to be granted safely.
 
 **Cost:** The bearer dreams, nightly, of flying — and wakes, each morning, on the ground, and grieves a thing they cannot name.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Foam Flood upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -266,10 +266,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Foam Flood)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Foam Flood)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Foam Flood)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Foam Flood)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Skyward Spear strikes cleanly yet can leave the wielder aching for the sky for days, glancing upward at nothing.
 
@@ -298,12 +298,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Foam Flood record.)
 
 **Entry 1 — Containment Description**
 The Foam Flood (C-IIIγ-948 [LO]) is logged as an Object-Spirit manifestation expressing Lament. The entity is a metre-tall carving of a black dragon in unknown white stone, with glowing white eyes, fixed in the Dry Riverbed Vault, SECTOR-C-07, Zone C. A hand laid upon it shares its long longing to fly; channeling past 90 seconds is forbidden. It grows sadder each time it is shared.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 (Foam Flood) — <Excerpt from Field Log, Year 4238>**
 Worked via Viderehan and Ferrehan only; one sanctioned 90-second gloved channel by Cartographer Yeonhwa for terrain mapping. The petitioner reported a complete, euphoric vision of flight, followed by acute sky-grief on return to the ground; composure readings dipped but stabilised within the hour. The carving's eyes brightened during the channel and have not fully dimmed since. Note: the relic cannot refuse the sharing of its longing — the core hazard — and the Vault remains sealed against unsanctioned contact.
 
 **Entry 3 — <Counseling Log>**
@@ -322,7 +322,7 @@ Management: Do not touch — name the sky it cannot reach aloud, and let the eye
 | Name the sky it cannot reach aloud — and let the glowing eyes dim. | Lay a bare hand on the stone, and let it share the whole of its longing. |
 |---|---|
 | You speak the one truth the carving has held for as long as it has stood: *you were made for the sky, and you will never reach it.* The eyes flare once, bright as an open sky — and then, gently, dim. The longing-field stills. The dust settles. You understand what you are permitted to — that this is a thing made for flight that will never fly, and that the wanting is the whole of it. The Foam Flood is fully recorded. | You lay your hand on the stone. The sky rushes in. You fly — you fly — and then you are on the floor, and you are weeping, and you will look up for the rest of your life. The carving's eyes brighten a shade further. The encounter ends with the field a little wider, and you a little less grounded. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS (Foam Flood)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 

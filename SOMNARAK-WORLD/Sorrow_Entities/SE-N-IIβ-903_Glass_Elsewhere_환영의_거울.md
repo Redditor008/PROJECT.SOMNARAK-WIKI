@@ -11,17 +11,17 @@
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category (Glass Elsewhere)** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Object-Phantasmal |
 | **Physical Form** | Non-Organic — A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demolished, faces of people who have been Fractured. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement (Glass Elsewhere)** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-903, contained |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Glass Elsewhere)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference (Glass Elsewhere):** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -29,51 +29,51 @@
 | **Entity role** | Object |
 | **Primary pressure** | Void / Phantasmal pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield (Glass Elsewhere)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (Glass Elsewhere)** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Han Dust Drop (Vessel Destruction) (Glass Elsewhere)** | ~10 kg–100 kg (β) |
+| **Recommended response (Glass Elsewhere)** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Glass Elsewhere.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIβ-903]
+- The Han-Energy yield is balanced against exposure risk. [SE-N-IIβ-903]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIβ-903]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Glass Elsewhere):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Void pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Glass Elsewhere)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 426/426 |
 | **Han Pressure [ATK]** | 14–23 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Glass Elsewhere)** | II — affects behavior complexity and response speed |
+| **Potency modifier (Glass Elsewhere)** | β — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Glass Elsewhere):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length (Glass Elsewhere)** | Medium — 16 turns |
+| **Threat Role (Glass Elsewhere)** | Sovereign encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 903  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("II", "2 — Basic") |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Glass Elsewhere)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-903 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition (Glass Elsewhere)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -92,9 +92,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-N-IIβ-903]
 - Prolonged exposure may produce the entity's documented void effect — phantasmal pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- M.A.W. use carries the cost recorded in the equipment section. [SE-N-IIβ-903]
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Void pressure in a phantasmal register.
 - The object form is unmistakable — this is a phantasmal entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Personnel should identify it by these markers before Work or contact. [SE-N-IIβ-903]
 
 **Identification Profile**
 - **Entity Type:** Object
@@ -118,10 +118,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demo |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Glass Elsewhere)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature (Glass Elsewhere)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Object-Phantasmal manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Identification (Glass Elsewhere)** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -135,8 +135,8 @@ Personnel who work Glass Elsewhere do not simply feel void pressure. They feel v
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan (Glass Elsewhere)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan (Glass Elsewhere)** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the phantasmal pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
 
@@ -153,17 +153,17 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 | **Breach Type** | Expansion |
 | **Movement** | The entity's phantasmal influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Void pressure radiates — the phantasmal register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Glass Elsewhere)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority (Glass Elsewhere):** Physical suppression required.
+- **Sorrow Gauge on breach (Glass Elsewhere):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
+> **This Relic can Benefit the Facility** (Glass Elsewhere record.)
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -191,7 +191,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-N-IIβ-903] |
 |---|---|---|
 | 10 Seconds | Glass Elsewhere begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Glass Elsewhere: Projects concentrated Void sorrow resonance across the immediate perimeter. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the accumulated grief of unacknowledged void. forged during a crisis in the city where void went unaddressed. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -213,12 +213,12 @@ The escalation pattern is specific to Glass Elsewhere: it is not a generic breac
 | **Primary effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | Continuous while channeled |
 | **Risk** | Moderate (β) Object-Phantasmal producing Void pressure; Prolonged contact causes cognitive and emotional fatigue. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Glass Elsewhere)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Glass Elsewhere):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.) (Glass Elsewhere):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Glass Elsewhere's Edge
 
@@ -247,22 +247,22 @@ The escalation pattern is specific to Glass Elsewhere: it is not a generic breac
 **Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect (Glass Elsewhere):** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Glass Elsewhere upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each M.A.W. piece is a conditional extension of Glass Elsewhere, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Glass Elsewhere)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Glass Elsewhere)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Glass Elsewhere)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Glass Elsewhere)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Key Observations:**
 - Void signature confirmed at SECTOR-N-903.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-N-IIβ-903]
 - The phantasmal register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Glass Elsewhere record.)
 
 **Entry 1 — Containment Description** Glass Elsewhere (N-IIβ-903 [VO]) is logged as a Object-Phantasmal manifestation expressing Void. Held at SECTOR-N-903.
 
@@ -293,10 +293,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-903] |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-N-IIβ-903] |
+| **OBSERVATION SUCCESS (Glass Elsewhere)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -341,8 +341,8 @@ The entity does not rage. It does not weep. It persists — phantasmal and void,
 **Threat Assessment:** Moderate. A Object-Phantasmal entity — the phantasmal register is its defining characteristic. Risk: prolonged exposure to the phantasmal pressure may produce effects not seen in standard void entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
+- Viderehan and Ferrehan are valid Work Types. [SE-N-IIβ-903]
+- Flerehan and Pugnahan are not effective against this entity type. [SE-N-IIβ-903]
 - Monitor the phantasmal register specifically — it is the primary channel of contact.
 
 **Cross-References:** Inner Sorrow (내한) · Void · Object-Phantasmal · Manifestation Classification

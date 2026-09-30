@@ -10,17 +10,17 @@
 | **Entity Type** | **Place** — Can breach via Transform |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Breathing Stone)** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Body |
 | **Physical Form** | Organic — A section of corridor wall in Zone C that has become flesh — warm, pale, and faintly breathing. Bricks show through the skin like bones through thin cloth. Veins of dark Han pulse beneath the surface. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement (Breathing Stone)** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-907, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference (Breathing Stone):** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,51 +28,51 @@
 | **Entity role** | Place |
 | **Primary pressure** | Weight / Body pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield (Breathing Stone)** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response (Breathing Stone)** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Breathing Stone.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVδ-907]
+- The Han-Energy yield is balanced against exposure risk. [SE-C-IVδ-907]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVδ-907]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Breathing Stone):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Weight pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Breathing Stone)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 429/429 |
 | **Han Pressure [ATK]** | 14–25 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Breathing Stone)** | IV — affects behavior complexity and response speed |
+| **Potency modifier (Breathing Stone)** | δ — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Breathing Stone):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length (Breathing Stone)** | Medium — 16 turns |
+| **Threat Role (Breathing Stone)** | Sovereign encounter |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 907  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Breathing Stone)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-907 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition (Breathing Stone)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -91,9 +91,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-C-IVδ-907]
 - Prolonged exposure may produce the entity's documented weight effect — body pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- M.A.W. use carries the cost recorded in the equipment section. [SE-C-IVδ-907]
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Weight pressure in a body register.
 - The place form is unmistakable — this is a body entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Personnel should identify it by these markers before Work or contact. [SE-C-IVδ-907]
 
 **Identification Profile**
 - **Entity Type:** Place
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A section of corridor wall in Zone C that has become flesh — warm, pale, and faintly breathing. Bricks show through the skin like bones through thin c |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Breathing Stone)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature (Breathing Stone)** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Place-Body manifestation is the primary identifying feature. Weight pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Identification (Breathing Stone)** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -134,8 +134,8 @@ Personnel who work Breathing Stone do not simply feel weight pressure. They feel
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan (Breathing Stone)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan (Breathing Stone)** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the body pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
 
@@ -152,17 +152,17 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's body influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Weight pressure radiates — the body register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Breathing Stone)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority (Breathing Stone):** Physical suppression required.
+- **Sorrow Gauge on breach (Breathing Stone):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.) (Breathing Stone):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Breathing Stone's Edge
 
@@ -191,22 +191,22 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 **Appearance:** a coin-token of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect (Breathing Stone):** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Breathing Stone upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each M.A.W. piece is a conditional extension of Breathing Stone, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Breathing Stone)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Breathing Stone)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Breathing Stone)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Breathing Stone)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -214,7 +214,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Key Observations:**
 - Weight signature confirmed at SECTOR-C-907.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-C-IVδ-907]
 - The body register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Breathing Stone record.)
 
 **Entry 1 — Containment Description** Breathing Stone (C-IVδ-907 [WP]) is logged as a Place-Body manifestation expressing Weight. Held at SECTOR-C-907.
 
@@ -237,10 +237,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVδ-907] |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-IVδ-907] |
+| **OBSERVATION SUCCESS (Breathing Stone)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -285,8 +285,8 @@ The entity does not rage. It does not weep. It persists — body and weight, pat
 **Threat Assessment:** Critical. A Place-Body entity — the body register is its defining characteristic. Risk: prolonged exposure to the body pressure may produce effects not seen in standard weight entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
+- Viderehan and Ferrehan are valid Work Types. [SE-C-IVδ-907]
+- Flerehan and Pugnahan are not effective against this entity type. [SE-C-IVδ-907]
 - Monitor the body register specifically — it is the primary channel of contact.
 
 **Cross-References:** City Sorrow (도한) · Weight · Place-Body · Manifestation Classification

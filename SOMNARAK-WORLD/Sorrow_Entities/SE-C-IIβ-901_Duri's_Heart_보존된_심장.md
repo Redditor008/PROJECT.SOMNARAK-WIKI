@@ -8,20 +8,20 @@
 |---|---|
 | **Designation** | `C-IIβ-901 [WO]` |
 | **Entity Type** | **Object** — Can breach via Transform |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Tool Type (Duri's Heart)** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category (Duri's Heart)** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Body |
 | **Physical Form** | Organic — A human heart suspended in crystallized Han, still beating — slow, wet, unmistakable. The crystal around it is dark amber, warm to the touch, and pulses in time with the organ within. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement (Duri's Heart)** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-901, contained |
-| **R.D. Comprehension Level** | 2 — Basic |
+| **R.D. Comprehension Level (Duri's Heart)** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference (Duri's Heart):** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -29,51 +29,51 @@
 | **Entity role** | Object |
 | **Primary pressure** | Weight / Body pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield (Duri's Heart)** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty (Duri's Heart)** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Han Dust Drop (Vessel Destruction) (Duri's Heart)** | ~10 kg–100 kg (β) |
+| **Recommended response (Duri's Heart)** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Duri's Heart.
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIβ-901]
+- The Han-Energy yield is balanced against exposure risk. [SE-C-IIβ-901]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIβ-901]
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters (Duri's Heart):** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Weight pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold (Duri's Heart)** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 448/448 |
 | **Han Pressure [ATK]** | 14–26 per hit · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier (Duri's Heart)** | II — affects behavior complexity and response speed |
+| **Potency modifier (Duri's Heart)** | β — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record (Duri's Heart):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length (Duri's Heart)** | Medium — 16 turns |
+| **Threat Role (Duri's Heart)** | Sovereign encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 901  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("II", "2 — Basic") |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types (Duri's Heart)** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-901 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition (Duri's Heart)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -92,9 +92,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-C-IIβ-901]
 - Prolonged exposure may produce the entity's documented weight effect — body pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- M.A.W. use carries the cost recorded in the equipment section. [SE-C-IIβ-901]
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Weight pressure in a body register.
 - The object form is unmistakable — this is a body entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Personnel should identify it by these markers before Work or contact. [SE-C-IIβ-901]
 
 **Identification Profile**
 - **Entity Type:** Object
@@ -118,10 +118,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A human heart suspended in crystallized Han, still beating — slow, wet, unmistakable. The crystal around it is dark amber, warm to the touch, and puls |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement (Duri's Heart)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature (Duri's Heart)** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Object-Body manifestation is the primary identifying feature. Weight pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Identification (Duri's Heart)** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -131,8 +131,8 @@ Duri's Heart belonged to a healer named Duri who could not save everyone. In the
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan (Duri's Heart)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan (Duri's Heart)** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the body pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
 
@@ -149,19 +149,19 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's body influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Weight pressure radiates — the body register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target (Duri's Heart)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority (Duri's Heart):** Physical suppression required.
+- **Sorrow Gauge on breach (Duri's Heart):** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic can Benefit the Facility** (Duri's Heart record.)
+> **This Relic is Capable of Operative Alteration** (Duri's Heart record.)
+> **This Relic Extracts Personal Resilience upon Extended Use** (Duri's Heart record.)
 
 **Activation Trigger:** Physical contact and intentional interaction.
 
@@ -176,18 +176,18 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode (Duri's Heart)** | **Equippable / mounting use** |
 | **Activation** | Physical contact and intentional interaction. |
 | **Primary Effect** | Projects concentrated Weight sorrow resonance across the immediate perimeter. |
 | **Duration** | Continuous while equipped |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
 | **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule (Duri's Heart):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** |
+| Interaction Amount | **Log** | **Method** [SE-C-IIβ-901] |
 |---|---|---|
 | 10 Seconds | Duri's Heart rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Duri's Heart activates its primary resonance: Projects concentrated Weight sorrow resonance across the immediate perimeter. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the accumulated grief of unacknowledged weight; the bearer begins perceiving echoes of a crisis in the city where weight went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -209,12 +209,12 @@ The escalation pattern is specific to Duri's Heart: it is not a generic breach e
 | **Primary effect** | Projects concentrated Weight sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | Continuous while equipped |
 | **Risk** | Moderate (β) Object-Body producing Weight pressure; Prolonged contact causes cognitive and emotional fatigue. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management (Duri's Heart)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Duri's Heart):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.) (Duri's Heart):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Duri's Heart's Edge
 
@@ -230,8 +230,8 @@ The escalation pattern is specific to Duri's Heart: it is not a generic breach e
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule (Duri's Heart):** 100% damage to the selected target only.
+**Damage Application (Duri's Heart):** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Channels weight body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
 
@@ -263,33 +263,33 @@ The escalation pattern is specific to Duri's Heart: it is not a generic breach e
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect (Duri's Heart):** +1 stat bonus when working the source entity.
 
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
 
 **Cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
 
-*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
+*Stigmas are granted at random by Duri's Heart upon a successful work, not manufactured.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each M.A.W. piece is a conditional extension of Duri's Heart, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use (Duri's Heart)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use (Duri's Heart)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit (Duri's Heart)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use (Duri's Heart)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
 - Weight signature confirmed at SECTOR-C-901.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-C-IIβ-901]
 - The body register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Duri's Heart record.)
 
 **Entry 1 — Containment Description** Duri's Heart (C-IIβ-901 [WO]) is logged as a Object-Body manifestation expressing Weight. Held at SECTOR-C-901.
 
@@ -312,10 +312,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-901] |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
-| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-IIβ-901] |
+| **OBSERVATION SUCCESS (Duri's Heart)** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -364,8 +364,8 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 **Threat Assessment:** Moderate. A Object-Body entity — the body register is its defining characteristic. Risk: prolonged exposure to the body pressure may produce effects not seen in standard weight entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
+- Viderehan and Ferrehan are valid Work Types. [SE-C-IIβ-901]
+- Flerehan and Pugnahan are not effective against this entity type. [SE-C-IIβ-901]
 - Monitor the body register specifically — it is the primary channel of contact.
 
 **Cross-References:** City Sorrow (도한) · Weight · Object-Body · Manifestation Classification
