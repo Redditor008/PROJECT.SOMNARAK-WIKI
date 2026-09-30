@@ -74,7 +74,7 @@ The trade arteries connecting the frontiers are maintained by **Jipyeongseondae*
 ## 6 The Outside Sovereign: Wilderness Tide
 
 Beyond municipal borders roams the sole registered Outside Sovereign:
-- **SECC Code:** `SE-O-Vγ-003` (*Wilderness Tide*  [야생의 파도] ).
+- **SECC Code:** `SE-O-Vγ-003` (*Wilderness Tide*  [야생의 조수] ).
 - Unlike facility-bound Sovereigns, Wilderness Tide cannot be caged inside a room; it manifests as a roaming, colossal storm of Grudge and Void that sweeps across the outskirts.
 
 ## 7 Resource Logistics and Frontier Transit

@@ -2,7 +2,7 @@
 
 > *“Carry the ledger upon your palm; it will balance what you owe against what the world took from you.”*
 
-**The Debt Scale**  [부채의 저울]  (_Buchae-ui Jeoul_), cataloged under the Somnarak Entity Classification Code as **`SE-T-IIIγ-003`**, is a **Rank III (Fragment)** Tool Relic of the **Equippable** functional sub-type.
+**The Debt Scale**  [빚의 저울]  (_Bit-ui Jeoul_), cataloged under the Somnarak Entity Classification Code as **`SE-T-IIIγ-003`**, is a **Rank III (Fragment)** Tool Relic of the **Equippable** functional sub-type.
 
 Recovered from the municipal vaults of the Old Commercial Syndicate, The Debt Scale is a handheld balance fashioned from blackened iron and pale bone, bearing miniature pans that sway perpetually without physical air currents. Governed strictly by the **Two-Work-Type Rule**, an operative interacts with the scale to carry it directly into facility corridors, gaining potent mobile support auras and metaphysical damage inversions while accepting severe vulnerability to physical trauma.
 
@@ -35,7 +35,7 @@ Recovered from the municipal vaults of the Old Commercial Syndicate, The Debt Sc
 
 ![The Debt Scale Relic Icon](images/the-debt-scale-relic.svg)
 
-- **Entity Designation:** The Debt Scale  [부채의 저울] 
+- **Entity Designation:** The Debt Scale  [빚의 저울] 
 - **SECC Code:** `SE-T-IIIγ-003`
 - **Risk Classification:** Rank III — Fragment
 - **Ontological Type:** Object / Tool Relic (Equippable)
