@@ -231,7 +231,7 @@ The twelve conversions happen in order. Each one is a person who was blessed —
 
 The eleventh conversion completes. Apostle Maker's wings are fully solid now — feathered, physical, real. Gold at the base. Purple at the tips. The balance is shifting. The twelfth marked individual is somewhere in the facility, and the Apostle Maker is coming for them, and when she finds them, the chain will complete, and the city will receive either the Hand of Hope or the Dawn of Mourning.
 
-The healer learned to command. And the command is almost finished. One more word. One more "rise." And then: transformation. Salvation or catastrophe. The difference is one person's sorrow, in one moment, in a city of six thousand years of accumulated grief.
+The healer learned to command. And the command is almost finished. One more word. One more "rise." And then: transformation. Salvation or catastrophe. The difference is one person's sorrow, in one moment, in a city of four thousand years of accumulated grief.
 
 ## 증언 (Testimonium) — The Testimony
 

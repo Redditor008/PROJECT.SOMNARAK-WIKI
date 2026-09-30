@@ -58,7 +58,7 @@ In Year 4,232, following severe seismic instability along the Maw's fault lines,
 
 While the device stabilized Facility 01, its high-density gravitational field produced an unforeseen temporal side-effect:
 - **The Han-Flow Trap:** The generator locked the city's ambient Han-currents into an unperceived **365-day repeating loop**.
-- **The Collective Amnesia:** At midnight on Day 365, the city's ambient memory resets. Citizens and Council bureaucrats awaken believing it is Year 4,232, unaware that they have lived the exact same year 1,778 times. Every calendar reads Year 4,232; every history textbook asserts the city is 6,000 years old.
+- **The Collective Amnesia:** At midnight on Day 365, the city's ambient memory resets. Citizens and Council bureaucrats awaken believing it is Year 4,232, unaware that they have lived the exact same year 1,778 times. Every calendar reads Year 4,232; every history textbook asserts the city is 4,000 years old.
 - **The Echo-Core Persistence:** Only the Nine Echo-Cores—anchored by their Cast Effigies, cybernetic neural cores, and M.A.W. fusions—retain memory across cycles.
 - **The Graded Knowledge Spectrum:**
   - *Full Knowledge:* Director Majin (architect of the Absolvohan), Secretary Seiyon (records every breath), Research Lead Ayshuk (analyzes cycle mechanics), Archive Lead Marjuk (preserves uncensored ledgers).

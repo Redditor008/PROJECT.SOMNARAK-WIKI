@@ -285,7 +285,7 @@
 - **Taboo Scanner** — detects violation Han-signatures (50 m open / 15 m through walls)
 - **Containment Bonds** — Han-crystal restraints that fuse to the wrist and suppress all Han use
 - **The Arbiter's Blade** — a pale single-edged blade that cuts *connections*, not flesh; only the Arbiter can wield it
-- **The Taboo Archive** — 12,000+ case records spanning 6,000 years, sealed beneath the Sigh Palace
+- **The Taboo Archive** — 12,000+ case records spanning 4,000 years, sealed beneath the Sigh Palace
 
 **Full details:** `SOMNARAK_FACTION_TECH.md` (§8b — Giltong technology)
 

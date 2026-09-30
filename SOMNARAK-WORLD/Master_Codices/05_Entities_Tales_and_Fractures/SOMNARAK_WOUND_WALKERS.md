@@ -134,7 +134,7 @@ The wound is not healed. The wound is *tended*.
 
 ### Station 3: The Old Lament (Zone B)
 
-**The Wound:** The city's oldest grief — the sorrow of the first settlers, the weight of 6,000 years.
+**The Wound:** The city's oldest grief — the sorrow of the first settlers, the weight of 4,000 years.
 
 **The Realization:** The Old Lament is not dead. The Old Lament is *mourning*. The walls whisper because they remember. The ground hums because it feels. The buildings weep because they grieve.
 

@@ -557,7 +557,7 @@ The Maw's arc is communicated through increasingly direct forms:
 2. **Question** — _“Do they remember us?”_
 3. **Statement** — _“We are tired. We want to go home.”_
 4. **Signature** — Grudge gives way to Lament.
-5. **Song** — a lullaby for children lost six thousand years earlier.
+5. **Song** — a lullaby for children lost four thousand years earlier.
 6. **Silence** — not suppression, but release.
 
 Dekan is the consistent listener across all six stages.
@@ -599,7 +599,7 @@ Dekan is the consistent listener across all six stages.
 | **157** | Zone B is chosen for the dispersed Absolvohan demonstration. | Dekan's home and jurisdiction become the first place asked to feel the shared release. |
 | **160** | During the release, Dekan reports that the Weeping is glowing as Han disperses through Zone B. | He witnesses a city-level intervention through the Raw rather than through command abstraction. |
 | **165** | Dekan reports that the thousand are gone and the Maw's signature has become nothing. | His lifelong chorus ends; the central population to whom he was bound is released. |
-| **165** | He describes the empty Maw as peaceful for the first time in six thousand years. | Reframes silence from containment success or impending danger into freedom. |
+| **165** | He describes the empty Maw as peaceful for the first time in four thousand years. | Reframes silence from containment success or impending danger into freedom. |
 | **170** | The Three Birds become a Hope Entity born partly from the Maw's song. | Confirms that the thousand's final expression contributes to change beyond their own release. |
 | **177** | The R.D. reveals the truth about the Cheongula, Maw, thousand, Cycle, and Absolvohan. | The secret Dekan carried becomes public history rather than private testimony. |
 
@@ -1031,7 +1031,7 @@ The Maw stops behaving like a pressure system and states a will:
 
 > _“We are tired. We want to go home.”_
 
-Dekan cannot solve the request through stronger containment. Nor can he define home for people whose bodies became a city district six thousand years earlier.
+Dekan cannot solve the request through stronger containment. Nor can he define home for people whose bodies became a city district four thousand years earlier.
 
 When the Maw shifts from Grudge to Lament and begins to sing, Dekan must read acceptance without mistaking it for permission to leave the thousand trapped.
 
@@ -1119,7 +1119,7 @@ He is **Dekan**, the person who listened—and then chose what keeping would mea
 
 > _“Director... the Maw is empty.”_
 
-> _“I don't know. But the Maw is... peaceful. For the first time in 6,000 years. The Maw is at peace.”_
+> _“I don't know. But the Maw is... peaceful. For the first time in 4,000 years. The Maw is at peace.”_
 
 ### Protective Hospitality
 
@@ -1277,7 +1277,7 @@ The approximate Years **4,194** and **4,201** are derived by reading the Year 4,
 
 _Project Somnarak_ also includes breach-statistics examples dated **Year 4,301** for an Orphaned Bell escape and **Year 4,892** for a catastrophic Maw Corrupt event. Because both dates are later than the controlling Year 4,232 final Cycle and the established Year 4,233 / Year 4,238 follow-ups, the record does not insert them into Dekan's pre-Cycle biography. They remain forward-dated operations, system examples, or continuity-uncertain records unless a later story places them explicitly.
 
-The framework describes the Maw and Cheongula as approximately six millennia old while also using a Year 4,232 civic calendar. The record preserves the six-millennia narrative duration without forcing an unsupported conversion between the two dating systems.
+The framework describes the Maw and Cheongula as approximately four millennia old while also using a Year 4,232 civic calendar. The record preserves the six-millennia narrative duration without forcing an unsupported conversion between the two dating systems.
 
 ### Cheongula Source Hierarchy and Founding Conflicts
 

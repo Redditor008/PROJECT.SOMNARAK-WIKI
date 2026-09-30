@@ -16,7 +16,7 @@
 ```
 
 
-> *"To translate an entity from the City of Project Moon into the living world of Somnarak is not a matter of changing names on a spreadsheet. It is an ontological transmutation. In Project Moon, terror is extracted from the human subconscious through Cogito—a sterile laboratory isolation of personal nightmares. In Project Somnarak, terror is the weeping of a living planet: six thousand years of tectonic friction, municipal debt slavery, mass mining drownings, and unaddressed historical grief condensing into acoustic, physical Han. Every parameter must be recalibrated from artificial containment into planetary ecology."*  
+> *"To translate an entity from the City of Project Moon into the living world of Somnarak is not a matter of changing names on a spreadsheet. It is an ontological transmutation. In Project Moon, terror is extracted from the human subconscious through Cogito—a sterile laboratory isolation of personal nightmares. In Project Somnarak, terror is the weeping of a living planet: four thousand years of tectonic friction, municipal debt slavery, mass mining drownings, and unaddressed historical grief condensing into acoustic, physical Han. Every parameter must be recalibrated from artificial containment into planetary ecology."*  
 > — Directorate Chief Architect & Master Archivist, SECC Foundation Codex
 
 ---

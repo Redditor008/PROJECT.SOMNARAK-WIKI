@@ -334,7 +334,7 @@ Memory Rain must be assessed as part of an entity network, not as an isolated pr
 
 The city remembers more than it can hold.
 
-Every citizen of Somnarak leaves a residue — not only sorrow, which the Weeping drinks, but memory. The face of a mother. The sound of a name. The weight of a hand held and then released. These, too, sink. They seep down through the streets and the foundations and the vaults, joining the slow cold river beneath the city, and the Weeping carries them as it carries everything — patiently, without complaint, for six thousand years.
+Every citizen of Somnarak leaves a residue — not only sorrow, which the Weeping drinks, but memory. The face of a mother. The sound of a name. The weight of a hand held and then released. These, too, sink. They seep down through the streets and the foundations and the vaults, joining the slow cold river beneath the city, and the Weeping carries them as it carries everything — patiently, without complaint, for four thousand years.
 
 But rivers rise.
 

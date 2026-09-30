@@ -19,7 +19,7 @@
 +=====================================================================+
 ```
 
-> *"Project Moon created a world where humanity is crushed inside an artificial, concrete-and-steel megalopolis, searching for personal light within their own twisted desires. Project Somnarak creates a living, Earth-sized planet of four continental corners—where structured cities, volcanic calderas, polar silences, and untamed wild forests co-exist, and where humanity struggles to heal the physical, geological grief of a six-thousand-year history. One is a tragedy of selfish human nature in a paved cage; the other is a tragedy of systemic institutional neglect across a living world."*
+> *"Project Moon created a world where humanity is crushed inside an artificial, concrete-and-steel megalopolis, searching for personal light within their own twisted desires. Project Somnarak creates a living, Earth-sized planet of four continental corners—where structured cities, volcanic calderas, polar silences, and untamed wild forests co-exist, and where humanity struggles to heal the physical, geological grief of a four-thousand-year history. One is a tragedy of selfish human nature in a paved cage; the other is a tragedy of systemic institutional neglect across a living world."*
 > — Comparative Philosophy Synthesis, Archive Directorate Codex
 
 ---
@@ -175,7 +175,7 @@ Somnarak extends downward into the planetary crust across five discrete structur
 
 ## Section III: The 6,000-Year Historical Trajectory of Somnarak vs. Project Moon
 
-Project Moon's historical narrative spans several decades of intense corporate intrigue centered on the Smoke War and the Seed of Light experiment. In contrast, **Project Somnarak possesses an unbroken six-thousand-year civilizational history**, documented across Three Great Ages and four epochal wars.
+Project Moon's historical narrative spans several decades of intense corporate intrigue centered on the Smoke War and the Seed of Light experiment. In contrast, **Project Somnarak possesses an unbroken four-thousand-year civilizational history**, documented across Three Great Ages and four epochal wars.
 
 ```text
 +=====================================================================+
@@ -194,7 +194,7 @@ Project Moon's historical narrative spans several decades of intense corporate i
 |                    | Solidification alchemy; Alpha Tree sprouts     |
 | Years 245 to 281   | AGE III: THE STRUCTURING (Zones B, C, D, E)    |
 | Years 281 to 4,200 | THE LONG WORKING CENTURIES (Isolation Era)     |
-| Year 4,200         | FOUNDING OF SED (Somnarak Exploration)         |
+| Year 4,200         | RE-CHARTER OF SED (Year 1,840 mandate)         |
 | Year 4,202         | REVERIE DIRECTORATE FACILITY 01 COMMISSIONED   |
 | Years 4,202 - 4,238| THE 1,778 ABSOLVOHAN CONTAINMENT CYCLES        |
 | Year 4,238         | THE DAWN ACCORD: Pentagonal Sovereign Union    |
@@ -203,7 +203,7 @@ Project Moon's historical narrative spans several decades of intense corporate i
 
 ### 3.1 Age I: The Before-Time (선시대 — Seonsidae, Years ~0 to 202)
 
-- **Natural Emotional Balance:** Six millennia ago, Han was not predatory, mineralized, or structural. It drifted through the atmosphere like moisture or weather—rising gently in mist over mountain valleys and naturally evaporating into the sky over time. Grief was strictly personal: when a mortal died, their loved ones grieved, their personal sorrow dissolved into the breeze, and the earth remained whole.
+- **Natural Emotional Balance:** Four millennia ago, Han was not predatory, mineralized, or structural. It drifted through the atmosphere like moisture or weather—rising gently in mist over mountain valleys and naturally evaporating into the sky over time. Grief was strictly personal: when a mortal died, their loved ones grieved, their personal sorrow dissolved into the breeze, and the earth remained whole.
 - **Agrarian Tribal Eden:** Humanity lived in independent agrarian settlements, nomad clans, and river valleys across Mugenhan. There were no 50-meter blast walls, no municipal debt ledgers, no Council of Sighs, and no underground containment complexes. Soil was rich, food was abundant, and the earth was green and free.
 
 ### 3.2 Age II: The Becoming & The Cheongula First Sorrow (Year 202)
@@ -240,7 +240,7 @@ Project Moon's historical narrative spans several decades of intense corporate i
 
 ### 3.6 The Modern Era & The Dawn Accord (Years 4,200 to 4,238)
 
-- **Institutional Renaissance:** In Year 4,200, the Council chartered the **Somnarak Exploration Decree (SED)** to map the abyssal mantle. In Year 4,202, the **Reverie Directorate** opened Facility 01 beneath Zone A to refine Han into Flerehan power.
+- **Institutional Renaissance:** In Year 4,200, the Council re-chartered the **Somnarak Exploration Decree (SED)** (Year 1,840 mandate) to map the abyssal mantle. In Year 4,202, the **Reverie Directorate** opened Facility 01 beneath Zone A to refine Han into Flerehan power.
 - **The 1,778 Absolvohan Cycles:** Between Years 4,202 and 4,238, Facility 01 underwent 1,778 temporal and psychological containment cycles, culminating in the complete containment and stabilization of Sorrow Entities across all nine facility floors.
 - **The Dawn Accord of Year 4,238:** Recognizing that static containment was slowly poisoning the planet, the five sovereign institutional branches (Reverie Directorate, SED, UCD, Memory Archive, and Horizon Caravan) signed the historic **Dawn Accord**, pledging to end Somnarak's four millennia of isolation, open trade corridors across the Four Corners, and initiate the active healing of Planet Mugenhan.
 

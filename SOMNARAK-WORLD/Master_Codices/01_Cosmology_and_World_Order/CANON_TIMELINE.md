@@ -52,7 +52,7 @@ Settler Landing   The Cheongula       R.D. Public Founding  Dawn of Hope
 | **Year 3,972** | The Raw / Underworld | **The Great Rust Severance:** Syndicate rebellion in The Raw; massive extraction disruption. *(Retrospective facility archive counts this as two hundred and sixty-six cycles before terminal mapping; no calendar-year conversion applies).* | `CANTO_02`, `SED_03` |
 | **Years 3,973–4,039** | UCD (Katharcheok) | **Ante-Dawn Phase 2 — Underworld Pacifications:** Six purges through The Raw dismantling the Five Syndicates. *(UCD operates in calendar years and tactical turns; no cycle tracking).* | `SOMNARAK-WORLD/Katharcheok/` |
 | **Year 4,040** | Municipal History | **The Great Collapse:** Severe acoustic cell breach in Zone C; death of Yoon's sister (~200 years ago). *(Known in retrospective facility archive as Cycle 1,580).* | `CANTO_02` |
-| **Year ~4,200** | Municipal History | **Somnarak Exploration Decreed (SED):** Council of Sighs formalizes organized planetary exploration after 4,200 years of municipal history. | `PROJECT_SOMNARAK` |
+| **Year ~4,200** | Municipal History | **Somnarak Exploration Re-charter (SED):** Council of Sighs re-charters and expands the Year 1,840 Exploration mandate into organized planetary exploration, after 4,200 years of municipal history. | `PROJECT_SOMNARAK` |
 | **Year 4,202** | R.D. Municipal History | **The Public Founding of the Reverie Directorate:** Council of Sighs charters Facility 01 beneath the Alpha Tree; 30 years of public linear containment begin (The Current Era). | `PROJECT_SOMNARAK`, `The_REVERIE_DIRECTORATE` |
 | **Years 4,202–4,232** | R.D. Linear Era | **The 30-Year Current Era:** Standard municipal containment, research, and M.A.W. extraction under Council oversight without temporal dilation. | `The_REVERIE_DIRECTORATE` |
 | **Year 4,232** | R.D. / The Absolvohan | **Deployment of the Mnemonic Generator:** Following catastrophic Maw fault instability, Director Majin secretly deploys the sub-Floor 1 Mnemonic Generator, locking Facility 01 into an internal 365-day repeating cycle. | `The_ABSOLVOHAN` |
@@ -97,7 +97,7 @@ The chronological architecture of the Reverie Directorate operates on two distin
 
 1. **Public Civic Register (Known to Citizens, Council, and Municipal Archives):**
    - Somnarak's civic history is measured strictly in linear Mugenhan Municipal Solar Standard (MMSS) calendar years.
-   - Following centuries of passive wall-building and the Council of Sighs' Year ~4,200 exploration decree (SED), the Reverie Directorate was publicly chartered in **Year 4202** beneath the Alpha Tree in Zone A.
+   - Following centuries of passive wall-building and the Council of Sighs' Year ~4,200 re-charter and expansion of the Year 1,840 exploration mandate (SED), the Reverie Directorate was publicly chartered in **Year 4202** beneath the Alpha Tree in Zone A.
    - For thirty linear calendar years (**Years 4202–4232 MMSS**, officially designated "The Current Era"), the R.D. operated as a conventional public municipal utility, supplying M.A.W. weaponry and suits to the Architects and Wardens in exchange for municipal resources and dream support.
    - The wider city, Council of Sighs, and civic archives operate exclusively on linear time and possess zero knowledge or perception of temporal cycles.
 

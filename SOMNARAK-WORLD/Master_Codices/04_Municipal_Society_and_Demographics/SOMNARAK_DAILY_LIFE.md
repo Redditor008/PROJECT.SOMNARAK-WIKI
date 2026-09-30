@@ -7,7 +7,7 @@
 
 ## Overview
 
-Somnarak has 1.29 billion citizens. Each one wakes up, eats, works, mourns, and sleeps — in a city built on sorrow, powered by grief, and haunted by entities that embody the collective pain of six thousand years.
+Somnarak has 1.29 billion citizens. Each one wakes up, eats, works, mourns, and sleeps — in a city built on sorrow, powered by grief, and haunted by entities that embody the collective pain of four thousand years.
 
 This is what that looks like.
 
@@ -205,7 +205,7 @@ Somnarak is not a silent city. It is a city of sounds — constant, overlapping,
 
 **Zone E** — The Border: Orders. The sound of commands — Warden shouts, checkpoint announcements, barrier warnings. Zone E sounds like a military base — sharp, efficient, controlled.
 
-**The Deep:** Whispers. The sound of the city's foundations — ancient, pre-Structuring, the voice of Somnarak itself. Citizens who listen carefully can hear it — a low hum, a distant murmur, a sorrow that has been building for six thousand years.
+**The Deep:** Whispers. The sound of the city's foundations — ancient, pre-Structuring, the voice of Somnarak itself. Citizens who listen carefully can hear it — a low hum, a distant murmur, a sorrow that has been building for four thousand years.
 
 ---
 
@@ -408,7 +408,7 @@ In Somnarak, food is not pleasure. Food is *fuel* — energy for the body, sorro
 | **Debt-free soup** | Soup made without any Han-crystal — pure, clean, rare | Debt Holiday | All zones |
 | **Mourner's tea** | Tea brewed from crystallized sorrow — calming, sad, addictive | Funerals | All zones |
 | **Fracture candy** | Candy made from Fractured citizens' last emotions — dangerous, sweet, forbidden | Black market | Zone B, D |
-| **The First Meal** | A meal served at the Consolihan — the same meal served 6,000 years ago | Consolihan | Zone A |
+| **The First Meal** | A meal served at the Consolihan — the same meal served 4,000 years ago | Consolihan | Zone A |
 
 ---
 

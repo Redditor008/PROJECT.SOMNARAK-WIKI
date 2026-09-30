@@ -351,7 +351,7 @@ For centuries this debt was invisible — a weight in the ledgers, a line in a b
 
 Owed is what they solidified into. It rose — slowly, over centuries, unnoticed at first, then undeniable — until it stood higher than the rooftops in the districts where the debt was deepest. It is a Place-Weight entity: not a building, not a monument, but the city's unpaid obligation made into a physical barrier. It cuts districts in half. It blocks streets. It stands between citizens and the places they need to go — a wall built not by architects but by accumulation, by the simple arithmetic of a city that takes more sorrow than it returns.
 
-The Collectors did not build the Wall. The Council did not authorize it. No one built it. It grew the way debt grows — invisibly, inexorably, from the compound interest of six thousand years of unpaid obligation. And now that it stands, no one knows how to take it down, because taking it down would require paying what is owed, and what is owed is more than the city has ever had.
+The Collectors did not build the Wall. The Council did not authorize it. No one built it. It grew the way debt grows — invisibly, inexorably, from the compound interest of four thousand years of unpaid obligation. And now that it stands, no one knows how to take it down, because taking it down would require paying what is owed, and what is owed is more than the city has ever had.
 
 Those who stand before the Owed feel the literal weight of what they owe — the particular hopelessness of a barrier made of accumulated default, of sorrow borrowed and never returned, of a debt so vast it has become geography.
 

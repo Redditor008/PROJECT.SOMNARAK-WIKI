@@ -32,10 +32,10 @@
 ### 1.1 The Antiquity of the Sub-Alpha Strata
 Buried far beneath the lowest sub-levels of Facility 01, deeper than the deepest research labs of the Reverie Directorate, lies the oldest architectural complex on the planet: **The Memory Archive (기억의 저장소 — Gieok-ui Jeojangso)**. Dating back to Year -1,762 before the Consolihan, the Archive was not constructed by municipal decree, nor was it engineered by corporate venture capital. It was born during the First Weeping, when human civilization first learned that sorrow does not dissipate into empty space—it sinks.
 
-In the cosmology of Somnarak, emotional trauma, regret, and sorrow possess metaphysical mass. Just as water flows to the lowest topographical basin, psychological grief seeps through soil, stone, and fractured concrete, settling at depths where tectonic pressure meets the roots of the world. At depths between -2,400m and -3,200m beneath the surface coordinates of Zone A, the primordial roots of the **Alpha Tree** intersect with the abyssal crust. Here, the sorrow of six millennia condensed, crystallized, and formed the vast, subterranean monolith known as the Archive.
+In the cosmology of Somnarak, emotional trauma, regret, and sorrow possess metaphysical mass. Just as water flows to the lowest topographical basin, psychological grief seeps through soil, stone, and fractured concrete, settling at depths where tectonic pressure meets the roots of the world. At depths between -2,400m and -3,200m beneath the surface coordinates of Zone A, the primordial roots of the **Alpha Tree** intersect with the abyssal crust. Here, the sorrow of four millennia condensed, crystallized, and formed the vast, subterranean monolith known as the Archive.
 
 ### 1.2 The Two Cosmic Mandates
-For six thousand years, the Memory Archive has fulfilled two existential mandates indispensable to the survival of Somnarak:
+For four thousand years, the Memory Archive has fulfilled two existential mandates indispensable to the survival of Somnarak:
 
 1. **Mnemonic Ingestion (기억의 흡수 및 여과):**  
    Every soul that perishes within the eighty-six square kilometers of Somnarak leaves behind a psychic resonance signature. In an unshielded municipal ecology, this concentrated sorrow would trigger catastrophic psychic contagion, driving entire districts into mass fracture and spontaneous sorrow mutations. The Archive acts as a planetary hydraulic sink. Through billions of microscopic capillary conduits running through the bedrock, it pulls emotional sediment downward, preventing the surface world from drowning in its own unmourned history.
@@ -285,7 +285,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
   * **Resistances:** Lament 1.0x, Weight 1.2x, Void 1.5x, Grudge 1.8x (Exposed).
   * **Modular Part Anchors:** Suture Needles (1,000 HP / 220 Posture), Linen Shroud (1,200 HP / 260 Posture), Wounded Heart (2,000 HP / 340 Posture).
 - **Thematic Conflict:** The Healer's body is mutilated by countless absorbed afflictions. Seiyon learns that true empathy requires enduring pain alongside others, not attempting to bear it all alone.
-- **Stratum Realization Climax:** Seiyon embraces the Healer, sharing the burden of 6,000 years of agony. The Healer's silver needles weave a luminous cloak around Seiyon's shoulders, forming **Memory Leaf: The Healer**.
+- **Stratum Realization Climax:** Seiyon embraces the Healer, sharing the burden of 4,000 years of agony. The Healer's silver needles weave a luminous cloak around Seiyon's shoulders, forming **Memory Leaf: The Healer**.
 
 ### 4.7 Floor 07: The Stratum of Origin & The Promise (원형의 성소 — 약속의 층)
 - **Depth:** -3,200 meters.
@@ -905,7 +905,7 @@ Working within the Memory Archive carries unique psychological hazards:
 ### 10.1 The Transmutation Horizon & Future Mandate
 With the fulfillment of The Promise and the integration of Seiyon and Yeon-seo, the Memory Archive no longer functions merely as a repository of past tears. It has become the spiritual and philosophical lighthouse of Somnarak's new era:
 - **From Cemetery to Crucible:** The millions of preserved memories are no longer static monuments to grief; they are the raw fuel for humanity's cultural and moral rebirth. As the Dawn Initiative steadily transmutes planetary sorrow into hope, the Archive begins releasing its preserved memories back into the collective unconscious of the city.
-- **The Open Reading Rooms:** In Year 4,247, for the first time in six thousand years, the heavy basalt gates of Floor 01 will swing open to the general public. Citizens will be invited to walk the Pavement of Sleeping Faces, open the codices of their ancestors, and discover that they were never alone in their grief.
+- **The Open Reading Rooms:** In Year 4,247, for the first time in four thousand years, the heavy basalt gates of Floor 01 will swing open to the general public. Citizens will be invited to walk the Pavement of Sleeping Faces, open the codices of their ancestors, and discover that they were never alone in their grief.
 - **The Eternal Promise:** As Secretary Seiyon watches over the endless shelves of light from the central lectern of Floor 07, her words remain inscribed across the archway of the Great Hall:
 
 > *"We were broken by sorrow, but we were not erased by it. We remember everything. And because we remember, we shall build a world that does not weep."*

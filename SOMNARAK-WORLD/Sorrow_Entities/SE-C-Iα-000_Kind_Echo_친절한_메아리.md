@@ -247,7 +247,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 - The entity is warm to the touch — the only Sorrow Entity with this property.
 - Its hum is pleasant; some personnel hum along during work cycles.
 - It brightens when approached and dims when left alone.
-- It has never caused a Fracture, injury, or meaningful distress in over 6,000 years of containment.
+- It has never caused a Fracture, injury, or meaningful distress in over 4,000 years of containment.
 - The Warm Stone Stigma is granted at near-100% probability — the entity is generous.
 
 **Personnel Note:**
@@ -281,7 +281,7 @@ Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject
 Kind Echo requires no special containment. Its Sorrow Gauge is so stable that breach is practically impossible. The entity is available for training during all shifts. New specialists should perform at least one cycle of each Work Type before advancing to live entities. The Warm Stone Stigma should be retained — it provides a minor but lasting comfort benefit.
 
 **Entry 5 — <Archive Note>**
-We do not know why the first settlers' kindness crystallized into an entity. Most sorrow in the Weeping is grief, rage, emptiness, or weight. This is none of those. This is the Lament of people who were kind in the dark. Perhaps that is also a kind of sorrow — the sorrow of caring, and knowing the caring cannot fix what is broken. Kind Echo cannot heal anyone. But it can make a frightened new agent feel, for one afternoon, that the sorrow is survivable. After 6,000 years, it is still doing exactly that. — Archive Lead Marjuk (마주크)
+We do not know why the first settlers' kindness crystallized into an entity. Most sorrow in the Weeping is grief, rage, emptiness, or weight. This is none of those. This is the Lament of people who were kind in the dark. Perhaps that is also a kind of sorrow — the sorrow of caring, and knowing the caring cannot fix what is broken. Kind Echo cannot heal anyone. But it can make a frightened new agent feel, for one afternoon, that the sorrow is survivable. After 4,000 years, it is still doing exactly that. — Archive Lead Marjuk (마주크)
 
 ## 최종 관찰 (Final Observation)
 
@@ -340,11 +340,11 @@ Not because it would save them. Not because the sorrow would lessen. They held h
 
 The sorrow of that holding — the gentle, futile, stubborn Lament of people who chose to be kind in a world that had given them every reason not to — sank into the Weeping. And the Weeping, which is made of all sorrow, held it. Not at the top, where the rage and the grief and the emptiness boil. At the bottom. In the quiet. Where the soft things settle.
 
-6,000 years later, the R.D. found it — a small, warm glow in the oldest corner of the Old Lament, humming gently, leaning toward the light of their lanterns. It was the first entity ever contained. It was designated 000.
+4,000 years later, the R.D. found it — a small, warm glow in the oldest corner of the Old Lament, humming gently, leaning toward the light of their lanterns. It was the first entity ever contained. It was designated 000.
 
 They put it in a training room. They send every new agent to it first. Not because it is worthless — because it is the only entity in the registry that will never hurt them, and they need to know, before they face the others, that sorrow is not always a weapon. Sometimes it is just a warm glow in the dark, leaning toward you, humming a song that says: *I know. I know. It is hard. But you are here, and I am here, and that is something.*
 
-Kind Echo has trained every agent the R.D. has ever hired. It has been worked on by more personnel than any other entity in existence. And in 6,000 years, it has never dimmed for long. It always brightens when someone enters. It is always warm.
+Kind Echo has trained every agent the R.D. has ever hired. It has been worked on by more personnel than any other entity in existence. And in 4,000 years, it has never dimmed for long. It always brightens when someone enters. It is always warm.
 
 It is the sorrow of the first kindness, and it is still here, and it is still kind, and if you ask any veteran agent what they remember about their first day, they will not remember the fear. They will remember the warmth.
 
@@ -352,7 +352,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 > *"I was terrified. My hands were shaking. I reached for it and it was warm and I cried. Not because it hurt me. Because it didn't."* — Specialist Hanul Grey (하늘 그레이), first day, Year 4210
 
-> *"It leans toward you when you enter. Every time. Even after six thousand years. Even after a hundred thousand trainees. It still leans toward you."* — Handler Soojin (수진), R.D.
+> *"It leans toward you when you enter. Every time. Even after four thousand years. Even after a hundred thousand trainees. It still leans toward you."* — Handler Soojin (수진), R.D.
 
 > *"The Warm Stone is standard issue. Every agent gets one. Most of us still carry it. I am a Containment Lead and I carry mine in my left pocket. It is warm. It has always been warm."* — Commander Taeho (태호), R.D.
 
@@ -368,7 +368,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 **Common Name:** Kind Echo (친절한 메아리)
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit (permanent assignment)
 **Comprehension Level:** 4 — Mastered
-**Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 6,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at near-100% probability.
+**Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 4,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at near-100% probability.
 **Containment & Handling Procedures:**
 - All four Work Types are equally effective — use for training.
 - No special containment required; the entity is self-stabilizing.
@@ -379,7 +379,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 - Warm to the touch — unique among Sorrow Entities.
 - Pleasant hum; personnel often hum along.
 - Brightens near people; dims when alone.
-- Has never caused harm in 6,000 years.
+- Has never caused harm in 4,000 years.
 - Designation 000 — the first entity ever contained by the R.D.
 **Cross-References:** The R.D. Training Program · The Orphaned Bell (shared Lament origin) · The Maw (no interaction) · the Old Lament · the first settlers · the Standard Training M.A.W.
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
@@ -389,7 +389,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 **Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. Kind Echo is the R.D.'s training standard and baseline entity. It is fully mastered (Comprehension Level 4) and has been for millennia. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record. — if the entity ever shows hostility, coldness, or escalation — personnel must preserve the contradiction as evidence and alert the Director immediately, because it would mean the sorrow of the first kindness has changed, and that would be the most alarming observation in the history of the R.D.
 
-**Review requirement:** Recheck the entity's warmth, hum frequency, and Work Type response annually. The review is a formality — the entity has not changed in 6,000 years — but the R.D. performs it anyway, because the day the Kind Echo stops being kind is the day the city has truly lost something it cannot replace.
+**Review requirement:** Recheck the entity's warmth, hum frequency, and Work Type response annually. The review is a formality — the entity has not changed in 4,000 years — but the R.D. performs it anyway, because the day the Kind Echo stops being kind is the day the city has truly lost something it cannot replace.
 
 ## Trivia
 
@@ -397,7 +397,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 - Designation 000 — the first entity ever contained by the R.D., before the numbering system existed.
 - The Warm Stone Stigma is the most commonly carried item in the R.D; many veteran specialists still have theirs.
 - The entity's hum has been recorded and is used as a sleep aid in the R.D. infirmary.
-- It has trained every agent the R.D. has ever hired — estimated at over 100,000 personnel across 6,000 years.
+- It has trained every agent the R.D. has ever hired — estimated at over 100,000 personnel across 4,000 years.
 - The entity is the baseline for all entity comparisons: "more aggressive than 000" is the standard R.D. phrase for any hostile entity.
 - Serves as the primary docile training entity with zero breach risk, issued to all newly inducted personnel during orientation.
 
@@ -406,13 +406,13 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 - **Classification detail:** Residue (I) coherence, Minor (α) potency — the lowest-rated entity in the registry (Threat Score 2).
 - **Field detail:** Lament; permanently contained in SECTOR-D-01 Training Unit.
 - **Recognition detail:** A 60 cm warm blue glow that hums and leans toward personnel.
-- **Record detail:** Designation 000 — the first entity ever contained; the training standard for 6,000 years.
+- **Record detail:** Designation 000 — the first entity ever contained; the training standard for 4,000 years.
 
 ## Document Information
 
 **Document ID:** `SE-C-Iα-000`
 
-**Author:** R.D. Training Office, compiled from 6,000 years of training records
+**Author:** R.D. Training Office, compiled from 4,000 years of training records
 
 **Date:** Year 4202 (R.D. founding; continuously updated)
 

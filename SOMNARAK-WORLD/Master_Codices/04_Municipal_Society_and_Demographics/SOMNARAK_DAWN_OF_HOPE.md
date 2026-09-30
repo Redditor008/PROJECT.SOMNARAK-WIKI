@@ -444,7 +444,7 @@ The Dawn's aggressive liberation campaigns inevitably pit their field operatives
 **Hope Bearer:** All 12 Hope Bearers
 **Target:** The source of all sorrow — the weight of the planet
 
-**The Mission:** The Dawn Initiative descends to the Weeping — the river of liquid Han that flows beneath the city. The Hope Bearers deploy to transform the Weeping's sorrow — the weight of the planet, the grief of 6,000 years, the pain of existence.
+**The Mission:** The Dawn Initiative descends to the Weeping — the river of liquid Han that flows beneath the city. The Hope Bearers deploy to transform the Weeping's sorrow — the weight of the planet, the grief of 4,000 years, the pain of existence.
 
 **The Discovery:** The Weeping is not just a river — it is the planet's *heart*. The Weeping carries the sorrow of every person who has ever lived — on Mugenhan, in Somnarak, in Cheonbulok, in Mugeukji. The Weeping is the source. The Weeping is the wound. The Weeping is the key.
 

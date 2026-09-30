@@ -8,7 +8,7 @@
 
 ## DEEP KNOWLEDGE — READ BEFORE WRITING
 
-- **Gieok Jeojangso (기억 저장소 / Memory Archive) has 7 Strata Readings** — floor-by-floor realizations post-Dawn, under the Alpha Tree root architecture (6,000 years old). It is a municipal sanctuary, NOT a company.
+- **Gieok Jeojangso (기억 저장소 / Memory Archive) has 7 Strata Readings** — floor-by-floor realizations post-Dawn, under the Alpha Tree root architecture (4,000 years old). It is a municipal sanctuary, NOT a company.
 - **All 7 Readings occur strictly AFTER Dawn of Hope** — never pre-Dawn, never during R.D. Cycles. Use calendar years post-Dawn.
 - **Reading = strata combat + mnemonic suture.** Each stratum has a Keeper, a Sorrow Entity anchor, a synthesis engram (Seiyon), and a Realization condition.
 

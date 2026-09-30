@@ -368,7 +368,7 @@ A traveler came through the Desolate carrying a single seed. It was not valuable
 
 What the seed was meant to become, no one can say now — not even the traveler. A tree, perhaps, that had grown in a courtyard now buried under Han. A flower whose name survived only in one person's memory. A crop that once fed a family scattered across the wilderness. The traveler knew, once. The seed was the last piece of that knowing.
 
-Near the Scar — that ancient wound where six factions bled the land six thousand years ago, in the Occlusihan — a Han-storm rose without warning. The ground hummed, then screamed. The traveler ran, or hid, or simply endured; the record does not agree. When the storm passed, the folded cloth was open and the seed was gone. Lost in the soft, warm, unstable earth, somewhere between the Scar and the city's edge.
+Near the Scar — that ancient wound where six factions bled the land four thousand years ago, in the Occlusihan — a Han-storm rose without warning. The ground hummed, then screamed. The traveler ran, or hid, or simply endured; the record does not agree. When the storm passed, the folded cloth was open and the seed was gone. Lost in the soft, warm, unstable earth, somewhere between the Scar and the city's edge.
 
 The traveler searched. Then the Han did what the Han does to those who linger too long near the Scar: it took the memory. Not all at once — gently, the way the Weeping takes everything. First the reason for the search faded. Then the shape of the tree. Then the name of the flower. Then, at last, the certainty that the seed had ever mattered at all.
 

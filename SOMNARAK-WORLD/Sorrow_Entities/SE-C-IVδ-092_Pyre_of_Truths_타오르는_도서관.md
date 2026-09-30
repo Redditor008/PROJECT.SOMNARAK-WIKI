@@ -359,7 +359,7 @@ Pyre of Truths is a Place-Grudge entity: a structure that exists to hold, and bu
 
 Those who approach the Pyre of Truths see, in the flames, the truths the city removed: the records of the Cheongula's full toll, the testimonies of the silenced, the stories of the people struck from history. The Library does not force these on the viewer. It offers them, in fire, to anyone willing to look — and the looking is the sorrow, because the truths are terrible, and they were suppressed for a reason, and the reason was not mercy.
 
-Some sorrows are about loss. Pyre of Truths is about suppression — the truths the city forbade, the stories denied the right to exist, gathered by their own gravity into a structure that burns forever with the light of everything Somnarak tried to make disappear, offering, in flame, the history the city spent six thousand years editing away.
+Some sorrows are about loss. Pyre of Truths is about suppression — the truths the city forbade, the stories denied the right to exist, gathered by their own gravity into a structure that burns forever with the light of everything Somnarak tried to make disappear, offering, in flame, the history the city spent four thousand years editing away.
 ## 증언 (Testimonium) — The Testimony
 
 > *“It burns with forbidden truth. The fire is revelation, not destruction.”* — Researcher, R.D.

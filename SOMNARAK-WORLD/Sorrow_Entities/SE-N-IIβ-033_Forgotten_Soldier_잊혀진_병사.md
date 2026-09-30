@@ -100,7 +100,7 @@
 **Primary Form:** A translucent, flickering warrior in armor from an unidentified ancient era. He stands perfectly at attention and carries no visible weapon unless provoked.
 
 **Notable Features:**
-- The armor dates to the Pre-Structuring era, more than 6,000 years old.
+- The armor dates to the Pre-Structuring era, more than 4,000 years old.
 - His erased history appears as a clean gap in memory records.
 - He salutes anyone who says, “I remember you.”
 
@@ -120,7 +120,7 @@
 | **Form** | A translucent, flickering warrior in armor from an unidentified ancient era. He stands perfectly at attention and carries no visible weapon unless provoked. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The armor dates to the Pre-Structuring era, more than 6,000 years old. His erased history appears as a clean gap in memory records. He salutes anyone who says, “I remember you.”. |
+| **Distinctive markers** | The armor dates to the Pre-Structuring era, more than 4,000 years old. His erased history appears as a clean gap in memory records. He salutes anyone who says, “I remember you.”. |
 | **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
 
 **Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”

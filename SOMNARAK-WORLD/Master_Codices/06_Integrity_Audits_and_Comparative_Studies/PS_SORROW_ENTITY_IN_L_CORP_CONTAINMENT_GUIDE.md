@@ -16,7 +16,7 @@
 ```
 
 
-> *"Manager, we have encountered an unprecedented phenomenological distortion. When the bucket descended into the lowest strata of The Well beneath District 12, it did not draw from the collective unconscious of human minds. It snagged upon an alien fault line—a trans-dimensional siphon dragging liquid sorrow from a world that has wept for six thousand years. These entities do not conform to our standard behavioral matrices. They do not feed on human guilt; they are physical, acoustic condensations of planetary grief. Read this manual carefully before assigning your agents. An error in work selection will not merely cause panic—it will turn your facility floor into living concrete."*  
+> *"Manager, we have encountered an unprecedented phenomenological distortion. When the bucket descended into the lowest strata of The Well beneath District 12, it did not draw from the collective unconscious of human minds. It snagged upon an alien fault line—a trans-dimensional siphon dragging liquid sorrow from a world that has wept for four thousand years. These entities do not conform to our standard behavioral matrices. They do not feed on human guilt; they are physical, acoustic condensations of planetary grief. Read this manual carefully before assigning your agents. An error in work selection will not merely cause panic—it will turn your facility floor into living concrete."*  
 > — Angela, Briefing to the Manager
 
 ---

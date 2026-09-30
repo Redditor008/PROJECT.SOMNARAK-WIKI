@@ -343,7 +343,7 @@ The Tide does not harm. It is the necessary cycle of a city that cannot hold its
 
 Those who feel the Sorrow Tide recognize it as the city's heartbeat: the grief that rises and falls, the sorrow held and released, the oldest cycle in Somnarak, the breath of a place built on sorrow.
 
-Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppressed and released, ebbing and flowing, the breath of a place still, after six thousand years, breathing.
+Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppressed and released, ebbing and flowing, the breath of a place still, after four thousand years, breathing.
 
 ## 증언 (Testimonium) — The Testimony
 

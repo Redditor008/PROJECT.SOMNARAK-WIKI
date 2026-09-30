@@ -348,7 +348,7 @@ The Rage Statue stands in that courtyard still. It does not move. It does not ne
 Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its life, to stay its hand — and has obeyed, and turned to granite in the obeying.
 ## 증언 (Testimonium) — The Testimony
 
-> *“The fist has been raised for six thousand years. It has not unclenched.”* — Keeper, Archive
+> *“The fist has been raised for four thousand years. It has not unclenched.”* — Keeper, Archive
 
 > *“They told us not to fight back. So the fight turned to stone.”* — Citizen, Zone B
 
@@ -369,7 +369,7 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
 - Do not approach within 5 meters; the Grudge pressure is strongest at close range.
-- The fist has not unclenched in six thousand years.
+- The fist has not unclenched in four thousand years.
 **Observation Notes:**
 - Formed from the rage of Zone B citizens denied the right to resist.
 - The face is every face in Zone B that wanted to hit back.

@@ -13,7 +13,7 @@
 
 Batch 5 records the ontological turning point of Cycle 1,778. Across Days 101 through 121, the operational paradigm of
 the Reverie Directorate undergoes radical metamorphosis. The subterranean Maw speaks coherent words for the first time
-in six millennia, demanding rest and release; Zyrak experiences a synthetic vision revealing that the Absolvohan can
+in four millennia, demanding rest and release; Zyrak experiences a synthetic vision revealing that the Absolvohan can
 function not as a weapon of mass extinction, but as a vehicle for planetary transmutation; and Majin breaks 1,778 cycles
 of isolationist protocol by opening the border gates to accept a caravan of starving Cheonbulok refugees.
 
@@ -41,7 +41,7 @@ surpass 49.74 tons, the final pieces of the grand convergence lock into alignmen
 
 > **Majin:** _"The thousand workers."_
 
-> **Dekan:** _"Yes. For 6,000 years, they wept. For 1,778 cycles, they screamed. But last night... they simply sounded like exhausted men and women who have finished a double shift."_
+> **Dekan:** _"Yes. For 4,000 years, they wept. For 1,778 cycles, they screamed. But last night... they simply sounded like exhausted men and women who have finished a double shift."_
 
 > **Majin:** _"They know the cycle is different, Dekan. They can feel the weight in the ballast tanks. Tell your wardens not to silence them. Listen to them with respect."_
 
@@ -459,7 +459,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIβ-061 (*The Debtor*)*
 At 02:30, Majin sits beside Dekan on the Maw's edge. The chasm is eerily quiet; only tiny, peaceful ripples disturb the
 black surface. Dekan looks down into the dark: *"They're waiting for us, Director."*
 
-Majin nods slowly, watching the amber status lights reflect on the black tar: *"Yes. They've waited 6,000 years. We will take them home soon."*
+Majin nods slowly, watching the amber status lights reflect on the black tar: *"Yes. They've waited 4,000 years. We will take them home soon."*
 
 ---
 

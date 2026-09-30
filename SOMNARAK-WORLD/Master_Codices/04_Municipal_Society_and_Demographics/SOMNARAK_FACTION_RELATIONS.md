@@ -216,7 +216,7 @@ This document maps every significant relationship between factions — the allia
 
 | Alliance | Nature | Duration | Risk |
 |----------|--------|----------|------|
-| **Council + Collectors** | Economic control | 6,000 years | If exposed, citizens would revolt |
+| **Council + Collectors** | Economic control | 4,000 years | If exposed, citizens would revolt |
 | **R.D. + Menders** | Field operations | 200 years | If exposed, the Architects would feel betrayed |
 | **Keepers + Weavers** | Memory exploration | 500 years | If exposed, the Council would panic |
 | **Wardens + Giltong** | Enforcement backup | 1,000 years | If exposed, the Frays would exploit the gap |

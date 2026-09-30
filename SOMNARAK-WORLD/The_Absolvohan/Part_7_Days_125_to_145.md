@@ -40,7 +40,7 @@ the sorrow of an entire world into universal Hope.
 
 > **Dekan:** _"Yes. For 1,777 cycles, the pit burned red with resentment. But today, the energy is tranquil. It feels like... acceptance. Like grief that has finally finished mourning."_
 
-> **Majin:** _"They have carried their anger for six thousand years, Dekan. They are ready to let it go. We will not fail them."_
+> **Majin:** _"They have carried their anger for four thousand years, Dekan. They are ready to let it go. We will not fail them."_
 
 > **Dekan:** _"...I know, Director. Floor 2 stands with you."_
 
@@ -462,7 +462,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IVδ-012 (*The Cobalt Wel
 At 02:30, Dekan stands at the edge of Floor 2's observation deck, watching the calm blue pool below. Beside him, Majin
 checks the telemetry feed: *"Ballast stands at 49.840 tons. The Maw is quiet."*
 
-Dekan places his hand over his mechanical chest: *"For six thousand years, Majin, I thought their rage was immortal. But
+Dekan places his hand over his mechanical chest: *"For four thousand years, Majin, I thought their rage was immortal. But
 they weren't evil. They were just cold. Today, they are warm."*
 
 ---

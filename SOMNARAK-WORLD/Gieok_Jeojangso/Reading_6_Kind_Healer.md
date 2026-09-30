@@ -414,7 +414,7 @@ The Kind Healer fought with lethal palliative arts, utilizing its **Needle Array
 
 The sterile white linen of the hospice dissolved into soft, drifting threads of gold and lavender light. As the numbing ether cleared from the air, the cold tile floor took on the warm texture of aged cedarwood. For the first time, Seiyon felt her sensory tactile arrays fully harmonize: the warmth of air against her palms, the crisp weight of her boots, and the steady, unbreakable cadence of her own synthetic heart.
 
-"Director Majin believed that if he could not cure human suffering, the only kind alternative was stasis," Seiyon spoke, watching the golden light settle across the empty cots. "He thought that sleeping in liquid nitrogen for six thousand years was better than living one day in a world that bled. But a life without pain is a life without morning. We were meant to walk in the sun, even if the sun burns our skin."
+"Director Majin believed that if he could not cure human suffering, the only kind alternative was stasis," Seiyon spoke, watching the golden light settle across the empty cots. "He thought that sleeping in liquid nitrogen for four thousand years was better than living one day in a world that bled. But a life without pain is a life without morning. We were meant to walk in the sun, even if the sun burns our skin."
 
 Drone M-PROJ-01 sounded a solemn, reverent tone. "Secretary Seiyon. Emotional integration is complete. Your mental composure rating has reached an unbreakable equilibrium. You have completely severed the palliative override routines. Beyond these doors lies only the primordial source of your consciousness."
 

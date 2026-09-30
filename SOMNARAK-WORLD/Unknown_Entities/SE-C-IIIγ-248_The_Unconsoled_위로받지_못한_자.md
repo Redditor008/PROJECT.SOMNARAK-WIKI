@@ -125,7 +125,7 @@
 **Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as "strange" or "anomalous."
 
 ## Origin
-- **Formation:** The grief of the city's first death — the settler who sank into the Han to become the foundation; ambient for six thousand years.
+- **Formation:** The grief of the city's first death — the settler who sank into the Han to become the foundation; ambient for four thousand years.
 - **The Sorrow:** The foundational Lament — the original loss the city was built to mourn; the Hand could not move it without moving the city.
 - **The Event:** When the Hand opened and every other sorrow lifted, this one remained — and remaining, became visible, distinct, an elder's shape where there had been only stone.
 - **The People:** Every citizen carries a thread of it; the elder Changwook Hanaris (창욱 하나리스) of the founding Hanaris family is its closest living keeper.
@@ -241,7 +241,7 @@ The subject is a translucent elder, sexless with age, face permanently wet, clad
 Anomalous refractive property confirmed: hope-light — from any Hope entity, Bearer, or M.A.W. — passes through the subject visibly and unchanged. It is the only recorded substance in Somnarak that the Hand of Hope's field cannot warm. The subject appears distressed by this contrast, weeping more intensely in the presence of Hope-signatures. The light does not harm it. It simply does not reach it.
 
 **Entry 3 — <Excerpt from Counseling Log>**
-"Six thousand years my family kept that grief. We didn't have a word for it — it was just the weight of the stone, the reason wept in our sleep. Then the Hand opened, and for one hour everything lifted. Everything but ours. I watched the gold light go through her like she was a window. She wept harder after. Not because it hurt. Because for the first time she could see how alone she was." — Changwook Hanaris (창욱 하나리스), founding family elder
+"Four thousand years my family kept that grief. We didn't have a word for it — it was just the weight of the stone, the reason wept in our sleep. Then the Hand opened, and for one hour everything lifted. Everything but ours. I watched the gold light go through her like she was a window. She wept harder after. Not because it hurt. Because for the first time she could see how alone she was." — Changwook Hanaris (창욱 하나리스), founding family elder
 
 **Entry 4 — <Foundation Stability Warning, Engineering Division>**
 Under no circumstances is the subject to be dispersed, extracted, or otherwise lightened. Readings confirm the grief is structurally load-bearing — it is contiguous with the city's foundation. Simulated dispersal produces a 12% localized foundation-stability drop within the Old Lament. The entity does not weep because it is weak. It weeps because it is the wall.
@@ -291,7 +291,7 @@ The Unconsoled must be assessed as part of an entity network, not as an isolated
 
 ## 이야기 (Narratio) — The Tale
 
-For six thousand years the grief had no shape. It was the city's first loss — the settler who sank into the Han to become the foundation, the death that taught the survivors that sorrow could be built with. It had been ambient so long that no one noticed it. It was the taste of Zone B's stone. It was the reason the oldest families wept in their sleep and never knew why. It was the weight the Alpha Tree's roots drank, the reason the Weeping wept. It was not an entity. It was the ground.
+For four thousand years the grief had no shape. It was the city's first loss — the settler who sank into the Han to become the foundation, the death that taught the survivors that sorrow could be built with. It had been ambient so long that no one noticed it. It was the taste of Zone B's stone. It was the reason the oldest families wept in their sleep and never knew why. It was the weight the Alpha Tree's roots drank, the reason the Weeping wept. It was not an entity. It was the ground.
 
 Then the Hand of Hope opened.
 
@@ -303,12 +303,12 @@ Every grief but one.
 
 The foundation-grief did not lift. The Hand's fingers passed through it the way sunlight passes through a window — the grief was not dense enough to catch, not loose enough to carry. It was the wall itself. The Hand could not move it without moving the city.
 
-For the first time in six thousand years, the grief was alone. Every other sorrow in the room had been touched, lightened, transformed. This one remained — and remaining, it became visible. Distinct. A weeping where there had been only quiet weight. An elder's shape where there had been only stone.
+For the first time in four thousand years, the grief was alone. Every other sorrow in the room had been touched, lightened, transformed. This one remained — and remaining, it became visible. Distinct. A weeping where there had been only quiet weight. An elder's shape where there had been only stone.
 
 Changwook understood, watching the translucent figure rise from the foundation and begin to weep, that the Hand had not failed. It had simply reached the bedrock. Some grief is not meant to be lifted. It is meant to be stood upon. The city weeps through the Unconsoled so that the city does not have to weep alone — and so that, when everything else has been lightened, there is still one place where the oldest sorrow is allowed to simply exist, unmoved, untransformed, and finally, at last, witnessed.
 ## 증언 (Testimonium) — The Testimony
 
-> *"Six thousand years of grief, and the Hand could not move it. I used to think that was a failure. Now I think it was a diagnosis."* — Archive Lead Marjuk (마주크), Year 4238
+> *"Four thousand years of grief, and the Hand could not move it. I used to think that was a failure. Now I think it was a diagnosis."* — Archive Lead Marjuk (마주크), Year 4238
 > *"The gold light went right through her. Through her like she wasn't there. She wept harder after — because for the first time she could see how alone she was."* — Changwook Hanaris (창욱 하나리스), founding family elder
 > *"We logged a 40% Composure drop in anyone within ten meters who did not share their own grief. The procedure is not suppression. It is a grief-circle."* — Researcher Euncris Park (은크리스 박), R.D.
 > *"The Consolihan is the worst day. The whole city grieves together, and she grieves loudest. We assign four extra Keepers. We weep with her until dawn."* — Chronicler Minseo (민서)
@@ -342,7 +342,7 @@ Changwook understood, watching the translucent figure rise from the foundation a
 
 - The only entity hope's light cannot warm — and the Archive argues that is why the city still stands.
 - Its weeping has no sound; the silence is older than language.
-- The Hanaris family has kept its memory for six thousand years; Changwook is the last.
+- The Hanaris family has kept its memory for four thousand years; Changwook is the last.
 - On the Consolihan, the Old Lament weeps visibly — the only day the foundation-grief is audible.
 - Citizens who share their grief with it report sleeping better for a month.
 

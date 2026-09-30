@@ -333,7 +333,7 @@ The city replaced the God. As Somnarak grew — as the Veil was drawn, as the Co
 
 The Consolihan sealed the forgetting. After the Cheongula, the God was no longer invoked. The citizens mourned through the Consolihan, not through prayer. The God was left beneath the Alpha Tree, sleeping, forgotten, the way a tool is forgotten when a newer tool replaces it — not discarded, simply no longer reached for, until the hand forgets the shape of the reaching.
 
-Forgotten God is Subject-Body, all four elements: the deity of sorrow the city outgrew, sleeping beneath the Tree, still holding the grief the settlers gave it, still waiting — not for worship, but for need. The God does not demand prayer. The God waits to be needed. And the city, which replaced the God with systems, has not needed it for six thousand years.
+Forgotten God is Subject-Body, all four elements: the deity of sorrow the city outgrew, sleeping beneath the Tree, still holding the grief the settlers gave it, still waiting — not for worship, but for need. The God does not demand prayer. The God waits to be needed. And the city, which replaced the God with systems, has not needed it for four thousand years.
 
 Those who come near the Forgotten God feel the weight of an abandoned faith — the loneliness of a deity that was needed and then replaced, that held the world's grief and was set down.
 
@@ -347,7 +347,7 @@ Some sorrows mourn the dead. Forgotten God mourns its own obsolescence — the p
 
 > *“The city replaced worship with systems. The God, unneeded, sleeps.”* — Containment Lead, R.D.
 
-> *“The God does not demand prayer. It waits to be needed. It has waited for six thousand years.”* — Archive Lead
+> *“The God does not demand prayer. It waits to be needed. It has waited for four thousand years.”* — Archive Lead
 
 > *“Prayers answered by abandonment. Faith forgotten after it was no longer needed.”* — Elder, Alpha Tree
 ## 기록 (Registrum) — The Record
@@ -359,7 +359,7 @@ Some sorrows mourn the dead. Forgotten God mourns its own obsolescence — the p
 **Threat Assessment:** Unknown (dormant). The God sleeps. It was once worshipped; the city outgrew it. Effect: proximity induces the weight of abandoned faith.
 **Containment & Handling Procedures:**
 - Do not wake the God.
-- The God sleeps beneath the Tree; it has slept for six thousand years.
+- The God sleeps beneath the Tree; it has slept for four thousand years.
 **Observation Notes:**
 - A deity of sorrow worshipped by the first settlers.
 - The city replaced worship with systems; the God was left sleeping.

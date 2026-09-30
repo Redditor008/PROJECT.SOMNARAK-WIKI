@@ -271,7 +271,7 @@ Dawn of Mourning does not offer a choice. It simply is. The choice belongs to th
 
 ## 감각 묘사 (Flavor Text)
 
-Dawn of Mourning smells of lilies and cold earth — the scent of a funeral that has been waiting six thousand years. The air around it is heavy, viscous, as if grief has physical density. The temperature drops to near-freezing within its radius. The light that emanates from its body is not warm — it is the light of a winter morning, pale and total, the kind of light that reveals everything and comforts nothing.
+Dawn of Mourning smells of lilies and cold earth — the scent of a funeral that has been waiting four thousand years. The air around it is heavy, viscous, as if grief has physical density. The temperature drops to near-freezing within its radius. The light that emanates from its body is not warm — it is the light of a winter morning, pale and total, the kind of light that reveals everything and comforts nothing.
 
 The sound of the Dawn is silence. True silence — the absence of all hope, all warmth, all possibility of things getting better. Within its radius, personnel report hearing their own unhealed wounds: the griefs they have carried, the losses they have not processed, the sorrows they have suppressed. The Dawn does not create these sounds. It simply makes them audible.
 
@@ -304,7 +304,7 @@ This is the healer who could not save herself. And this — all of this — is w
 
 ## 증언 (Testimonium) — The Testimony
 
-> *"I was there when the chain corrupted. I was the third person blessed. I felt the warmth — real warmth, real kindness — and I thought: this is what the city needs. This is what we all need. And then the twelfth blessing came, and the warmth turned cold, and I heard her voice change — not louder, not angrier, but *emptier*. The kindness was still there, but it was buried under six thousand years of grief that even she could not carry. And I became a Mourner. I spread sorrow because there was nothing else left to spread. The Confession saved me. It cost me everything — but it saved everyone else."* — Specialist [REDACTED], the twelfth Mourner
+> *"I was there when the chain corrupted. I was the third person blessed. I felt the warmth — real warmth, real kindness — and I thought: this is what the city needs. This is what we all need. And then the twelfth blessing came, and the warmth turned cold, and I heard her voice change — not louder, not angrier, but *emptier*. The kindness was still there, but it was buried under four thousand years of grief that even she could not carry. And I became a Mourner. I spread sorrow because there was nothing else left to spread. The Confession saved me. It cost me everything — but it saved everyone else."* — Specialist [REDACTED], the twelfth Mourner
 
 > *"The Dawn is the only entity that makes the Maw look merciful. The Maw consumes. The Dawn mourns. And mourning — mourning for everything, forever, without end or relief — is worse than consumption. At least the consumed are gone. The mourned are still here. Still feeling. Still suffering."* — Commander Taeho
 
@@ -312,7 +312,7 @@ This is the healer who could not save herself. And this — all of this — is w
 
 > *"The Confession Protocol worked. The light came. The Dawn fell. And in its place, for one moment — one impossible, beautiful moment — I saw the Hand of Hope. Not here. Not in our reality. But reaching. Reaching across everything that separated hope from sorrow, to end what should never have begun."* — Director Majin
 
-> *"She was the kindest thing in this city. The kindest thing in six thousand years. And we broke her."* — Elder, Zone B
+> *"She was the kindest thing in this city. The kindest thing in four thousand years. And we broke her."* — Elder, Zone B
 
 ## 기록 (Registrum) — The Record
 

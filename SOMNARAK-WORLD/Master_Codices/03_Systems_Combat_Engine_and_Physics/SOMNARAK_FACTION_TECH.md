@@ -371,7 +371,7 @@ Standard diagnostic consoles deployed at every containment cell and agent termin
 **Appearance:** A cold, dry chamber lined with Han-crystal shelves. Each case is recorded on a thin tablet of dark crystal — the text glowing faintly, readable only by Giltong Archivists.
 
 **Function:**
-- Contains over 12,000 case records spanning 6,000 years
+- Contains over 12,000 case records spanning 4,000 years
 - Each record includes: the violation, the violator (if known), the response, the sentence, and the outcome
 - The Archive is searchable — Giltong Investigators can cross-reference Han-signatures with past cases
 - The deepest shelves contain the most dangerous records — cases involving the Maw, the Cycle, or the Director's secret permissions

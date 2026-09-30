@@ -86,7 +86,7 @@ Cheonbulok is a city that has bet everything on anger — and anger is running o
 
 Cheonbulok despises Somnarak. The city of sorrow — of *grief* — is everything Cheonbulok rejected. Somnarak mourns. Cheonbulok fights. Somnarak contains Han. Cheonbulok burns it.
 
-But there is also **envy**. Somnarak has lasted 6,000 years. Cheonbulok is only 4,200 — and already failing. Somnarak's system works. Cheonbulok's does not.
+But there is also **envy**. Somnarak has lasted 4,000 years. Cheonbulok is only 4,200 — and already failing. Somnarak's system works. Cheonbulok's does not.
 
 The last contact between the cities was 1,200 years ago — a diplomatic envoy from Somnarak. They were met with hostility. The envoy's leader was killed in the Battle Pits. Somnarak has not tried again.
 
@@ -174,7 +174,7 @@ Mugeukji is a city that has bet everything on emptiness — and emptiness is fil
 
 Mugeukji does not despise Somnarak. It does not feel anything about Somnarak. The city of sorrow — of *grief* — is incomprehensible to Mugeukji. Why would anyone *choose* to feel?
 
-But there is **fear**. Somnarak has lasted 6,000 years. Mugeukji is only 5,800 — and already failing. Somnarak's system works. Mugeukji's does not.
+But there is **fear**. Somnarak has lasted 4,000 years. Mugeukji is only 5,800 — and already failing. Somnarak's system works. Mugeukji's does not.
 
 The last contact between the cities was 2,000 years ago — a research expedition from Somnarak. They found a city of hollow people. The researchers wept. The citizens of Mugeukji did not understand why. The researchers left. Somnarak has not tried again.
 
@@ -200,7 +200,7 @@ The Void is not a suppression system. It is a *containment* system. And it is fa
 
 | City | Emotion | Method | Status |
 |------|---------|--------|--------|
-| **Somnarak** | Sorrow | Structure — Han is contained and shaped | Stable (6,000 years) |
+| **Somnarak** | Sorrow | Structure — Han is contained and shaped | Stable (4,000 years) |
 | **Cheonbulok** | Rage | Destruction — Han is burned and converted | Failing (4,200 years) |
 | **Mugeukji** | Silence | Suppression — Han is severed and stored | Dying (5,800 years) |
 | **UnWiHan** | Wild | None — Han is raw and unstructured | Dangerous |

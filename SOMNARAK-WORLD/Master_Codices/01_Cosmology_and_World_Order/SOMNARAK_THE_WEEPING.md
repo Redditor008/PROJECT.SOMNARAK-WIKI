@@ -304,7 +304,7 @@ The Weeping has two faces — and the city has only ever looked at one.
 
 The **Abyssal Well** (Building 5) reaches *down*, into the Abyss — the realm of consequence, where debts are collected, where the weight of sorrow settles. The city knows this face. The Weeping flows *toward* the Abyss, carrying the city's grief into the deep.
 
-But the **Spire of Dreams** (Building 4) reaches *up*, into the Dream — the realm of the subconscious, where emotions are physical and memories are landscapes. And the Weeping has a face turned upward as well. The city has spent six thousand years studying the downward flow. It has barely acknowledged the upward one.
+But the **Spire of Dreams** (Building 4) reaches *up*, into the Dream — the realm of the subconscious, where emotions are physical and memories are landscapes. And the Weeping has a face turned upward as well. The city has spent four thousand years studying the downward flow. It has barely acknowledged the upward one.
 
 > *"The river has a mouth in the Abyss and eyes in the Dream. We built our well at the mouth. We forgot to look up."*
 

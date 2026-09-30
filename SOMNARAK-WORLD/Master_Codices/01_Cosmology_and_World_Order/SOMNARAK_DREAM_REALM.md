@@ -71,7 +71,7 @@ The Memory Dream is where memories are stored — not just the Dreamer's memorie
 - A library — vast, endless, filled with crystallized memories
 - Each memory is a crystal — glowing faintly, pulsing with emotion
 - The shelves extend infinitely — there is no end to the memories
-- The air tastes of old tears — the accumulated sorrow of 6,000 years
+- The air tastes of old tears — the accumulated sorrow of 4,000 years
 
 ### The Sorrow Dream (Layer 3)
 

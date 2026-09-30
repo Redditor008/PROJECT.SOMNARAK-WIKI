@@ -352,12 +352,12 @@ Emberling is what it pooled into. Subject-Body, Lament-element, the figure of th
 
 Emberling is the loneliest of the entities, because her sorrow is the simplest: a child who needed comfort, and did not receive it. There is no grand cruelty in it — only the ordinary, unbearable fact that the people who could have warmed her did not, and that the story of her cold was told and then forgotten, and that the forgetting did not undo the cold.
 
-Those who encounter the Emberling feel the ache of unmet need — the child's loneliness, the cold of reaching out and finding no hand. Many find they cannot leave her. Many stay, and sit, and offer what warmth they can, knowing it is six thousand years too late.
+Those who encounter the Emberling feel the ache of unmet need — the child's loneliness, the cold of reaching out and finding no hand. Many find they cannot leave her. Many stay, and sit, and offer what warmth they can, knowing it is four thousand years too late.
 
 Some sorrows are about cruelty. Emberling is about absence — the simple absence of comfort where comfort was needed, preserved in a child and an ember that will not go out, wandering still, looking for the door that was never opened.
 ## 증언 (Testimonium) — The Testimony
 
-> *“She wanders, holding the ember. She is looking for warmth. She has been looking for six thousand years.”* — Keeper, Archive
+> *“She wanders, holding the ember. She is looking for warmth. She has been looking for four thousand years.”* — Keeper, Archive
 
 > *“I could not leave her. I sat with her. It was too late, but I sat.”* — Researcher, R.D.
 

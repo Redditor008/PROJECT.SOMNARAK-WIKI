@@ -884,7 +884,7 @@ He smiles: *"Come. Let's go down and meet the people."*
 
 *To those who discover this codex in the ages to come:*
 
-*We did not build the Absolvohan to conquer this planet. We did not build it to destroy our enemies or avenge our dead. We built it because we were terrified of our own tears. For six thousand years, humanity fled from its sorrow, locking it in deep lead vaults, burning it in toxic furnaces, and freezing it in artificial silence.*
+*We did not build the Absolvohan to conquer this planet. We did not build it to destroy our enemies or avenge our dead. We built it because we were terrified of our own tears. For four thousand years, humanity fled from its sorrow, locking it in deep lead vaults, burning it in toxic furnaces, and freezing it in artificial silence.*
 
 *For 1,778 cycles, one man and eight reconstructed souls carried the compounding weight of that denial. We died a thousand deaths. We watched our companions fracture, burn, and dissolve across millions of hours of forgotten repetition. We believed our suffering was a punishment.*
 

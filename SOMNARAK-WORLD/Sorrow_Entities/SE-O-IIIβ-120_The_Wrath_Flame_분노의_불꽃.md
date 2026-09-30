@@ -332,7 +332,7 @@ The dead were not mourned because the factions could not mourn them. The war con
 
 The fury condensed. The un-mourned anger of the Occlusihan's dead, denied the release of grief, sank into the Scar — the rift, the wound, the place where the Han had erupted and the soldiers had died — and the sinking fury, pressurized by the Han's presence, ignited. The Wrath Flame: Subject-Body, Grudge-element, the fire that has burned at the Scar since the day the war ended, fueled by the unmourned rage of soldiers the factions could not grieve because the factions, like the soldiers, were destroyed.
 
-The Flame does not spread. It burns, contained, at the Scar — a pillar of crimson fire that has not diminished in six thousand years, because the fuel — the fury — is not consumed by the burning. The anger feeds the fire, and the fire does not reduce the anger, and the two sustain each other in a perpetual combustion that will not end until the dead are mourned, and the dead, unmournable, will never be mourned, and the fire, therefore, will never go out.
+The Flame does not spread. It burns, contained, at the Scar — a pillar of crimson fire that has not diminished in four thousand years, because the fuel — the fury — is not consumed by the burning. The anger feeds the fire, and the fire does not reduce the anger, and the two sustain each other in a perpetual combustion that will not end until the dead are mourned, and the dead, unmournable, will never be mourned, and the fire, therefore, will never go out.
 
 Those who come near the The Wrath Flame feel the specific fury of the un-grieved — the concentrated rage of soldiers who died unmourned, the anger that has burned since the war ended and that will burn, at the Scar, for as long as the dead remain unacknowledged.
 
@@ -347,7 +347,7 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 
 > *“The anger feeds the fire. The fire does not reduce the anger. The two sustain each other.”* — Citizen, The Scar
 
-> *“The flame has burned for six thousand years because the dead have never been mourned.”* — Elder, The Scar
+> *“The flame has burned for four thousand years because the dead have never been mourned.”* — Elder, The Scar
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `O-IIIβ-120 [GS]` · Grudge · Subject-Body manifestation

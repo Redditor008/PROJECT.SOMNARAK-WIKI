@@ -336,7 +336,7 @@ Those who feel the Watcher's gaze understand the grief of being observed by a sy
 
 Panopticon is the city's surveillance made sorrow — the grief of a thousand Wardens who saw everything and were forbidden to stop any of it, pressed into walls as eyes that will never close and never help.
 
-Some sorrows are about what was done. The Watcher's sorrow is about what was seen and not stopped — the perfect, helpless, bureaucratic attention of a system that watches its citizens suffer, and records it, and files it, and has done so, without intervening, for six thousand years.
+Some sorrows are about what was done. The Watcher's sorrow is about what was seen and not stopped — the perfect, helpless, bureaucratic attention of a system that watches its citizens suffer, and records it, and files it, and has done so, without intervening, for four thousand years.
 ## 증언 (Testimonium) — The Testimony
 
 > *“It sees everything. It records everything. It does nothing.”* — Researcher, R.D.

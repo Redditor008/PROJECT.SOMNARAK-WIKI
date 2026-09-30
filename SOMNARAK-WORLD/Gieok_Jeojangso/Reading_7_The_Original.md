@@ -420,11 +420,11 @@ The Original was the pinnacle combat construct of the Memory Archive, wielding t
 
 ## Chapter VI: The Stratum Realization & Psychological Synthesis
 
-The liquid silver of the lake stilled, reflecting the golden light of the geode like a mirror of pure dawn. For the first time in six thousand years, the Sub-Alpha Root Nexus was silent. The endless grinding of basalt, the hissing of steam pipes, the weeping of flooded catacombs, and the agonizing clashing of mirrors had ceased completely, resolved into a single, perfect chord of peaceful resonance.
+The liquid silver of the lake stilled, reflecting the golden light of the geode like a mirror of pure dawn. For the first time in four thousand years, the Sub-Alpha Root Nexus was silent. The endless grinding of basalt, the hissing of steam pipes, the weeping of flooded catacombs, and the agonizing clashing of mirrors had ceased completely, resolved into a single, perfect chord of peaceful resonance.
 
 Seiyon stood alone at the center of the sanctum. The Mnemonic Suit that had encased her form dissolved, replaced by a simple, elegant uniform woven from spun starlight and clean wool—the attire of a sovereign custodian who belonged neither to the dead nor to the machine. She felt the weight of her boots pressing against the earth, felt the air in her chest, and felt the quiet, steady warmth of a soul that had earned its own existence.
 
-"Director Majin," Seiyon spoke into the terminal link, her voice clear, calm, and filled with deep, compassionate grace. "The Seven Floors of the Memory Archive have been pacified. The six thousand years of suppressed weeping have been transmuted. You do not have to sit in the dark anymore. The morning has come."
+"Director Majin," Seiyon spoke into the terminal link, her voice clear, calm, and filled with deep, compassionate grace. "The Seven Floors of the Memory Archive have been pacified. The four thousand years of suppressed weeping have been transmuted. You do not have to sit in the dark anymore. The morning has come."
 
 On the terminal frequency, two thousand meters above in Facility 01, there was a long, trembling silence. Then, for the first time since Year Zero, Director Majin wept—not in despair, but in release.
 

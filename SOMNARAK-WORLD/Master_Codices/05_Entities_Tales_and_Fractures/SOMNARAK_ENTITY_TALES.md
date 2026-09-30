@@ -142,7 +142,7 @@ The needle did not settle.
 
 It turned, slowly, through every point of the compass — north, east, south, west, and the unnamed directions between — and would not stop. The Keepers thought it broken. They recalibrated. They switched it on again. The needle turned again, the same unhurried rotation, never resting on a single bearing.
 
-Then the youngest Keeper understood, and the understanding broke something in him that never mended. The compass was not broken. It was accurate. It had been built to point toward forgotten memory — and forgotten memory was everywhere. Beneath every street, behind every wall, under every stone of Somnarak, the Weeping carried the lost remembrance of six thousand years of lives. There was no direction free of it. There was no bearing that did not lead to grief. The needle could not choose, because sorrow was not a location. Sorrow was the medium the city floated in.
+Then the youngest Keeper understood, and the understanding broke something in him that never mended. The compass was not broken. It was accurate. It had been built to point toward forgotten memory — and forgotten memory was everywhere. Beneath every street, behind every wall, under every stone of Somnarak, the Weeping carried the lost remembrance of four thousand years of lives. There was no direction free of it. There was no bearing that did not lead to grief. The needle could not choose, because sorrow was not a location. Sorrow was the medium the city floated in.
 
 The device never found a single memory. But the act of searching — the Keepers' grief for what was lost, the device's relentless turning, the dawning certainty that nothing forgotten could be un-forgotten — saturated the compass until it became something else. An Object entity. Void-element. A thing that had looked for memory and found only the absence of it.
 
@@ -175,7 +175,7 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 - Limit handling to 10 minutes; extended exposure causes existential paralysis.
 **Observation Notes:**
 - Built by Keepers to find forgotten memories. Found only grief.
-- The needle has not settled in six thousand years.
+- The needle has not settled in four thousand years.
 **Cross-References:** The Archive · The Keepers · The Weeping · The Memory Maze
 **Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** Cabal of Keepers, Forge District; built from Han-crystal and a Fractured Keeper’s last thought.
@@ -521,7 +521,7 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 - Maintain Three Birds proximity at all times.
 **Observation Notes:**
 - Born from defenders who guarded the market after it was already lost.
-- The Bird has not stopped guarding in six thousand years.
+- The Bird has not stopped guarding in four thousand years.
 **Cross-References:** The Three Birds · The Observing Bird · The Weighting Bird · The Convergence
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** Defenders at the Forgotten Market fire; guarded what was already gone.
@@ -1003,7 +1003,7 @@ Some sorrows are about belonging lost. The Lonely Giant's sorrow is about belong
 
 Memory in Somnarak falls. The Keepers know this, though they do not say it aloud.
 
-Everything sinks here — sorrow, names, faces, the small confirming details that make a life a life. The Weeping drinks what it can. But memory is heavier than sorrow, and it falls faster, and it falls in a particular direction: toward the Archive. The Keepers built the Archive to preserve what could be preserved, and they have done their work faithfully for six thousand years. But no Archive can hold everything. What the Keepers cannot record — the memories too small to write, too private to speak, too numerous to name — does not vanish. It falls. Down through the Archive's foundations, into the dark beneath, where it gathers.
+Everything sinks here — sorrow, names, faces, the small confirming details that make a life a life. The Weeping drinks what it can. But memory is heavier than sorrow, and it falls faster, and it falls in a particular direction: toward the Archive. The Keepers built the Archive to preserve what could be preserved, and they have done their work faithfully for four thousand years. But no Archive can hold everything. What the Keepers cannot record — the memories too small to write, too private to speak, too numerous to name — does not vanish. It falls. Down through the Archive's foundations, into the dark beneath, where it gathers.
 
 The Memory Well is what it gathers into. A Place-Void entity, beneath the Archive: a shaft, deep and still, lined with the Han-crystal the Weeping extrudes, filled not with water but with the memories the city could not keep. Every life remembered by no one person — because the ones who remembered are gone, Fractured, dead, or simply moved on — pools here. The weight of it is immense. Not the weight of sorrow, which the Weeping carries. The weight of lives that no one, anywhere, now holds in mind.
 
@@ -1239,7 +1239,7 @@ For centuries this debt was invisible — a weight in the ledgers, a line in a b
 
 The Debt Wall is what they solidified into. It rose — slowly, over centuries, unnoticed at first, then undeniable — until it stood higher than the rooftops in the districts where the debt was deepest. It is a Place-Weight entity: not a building, not a monument, but the city's unpaid obligation made into a physical barrier. It cuts districts in half. It blocks streets. It stands between citizens and the places they need to go — a wall built not by architects but by accumulation, by the simple arithmetic of a city that takes more sorrow than it returns.
 
-The Collectors did not build the Wall. The Council did not authorize it. No one built it. It grew the way debt grows — invisibly, inexorably, from the compound interest of six thousand years of unpaid obligation. And now that it stands, no one knows how to take it down, because taking it down would require paying what is owed, and what is owed is more than the city has ever had.
+The Collectors did not build the Wall. The Council did not authorize it. No one built it. It grew the way debt grows — invisibly, inexorably, from the compound interest of four thousand years of unpaid obligation. And now that it stands, no one knows how to take it down, because taking it down would require paying what is owed, and what is owed is more than the city has ever had.
 
 Those who stand before the Debt Wall feel the literal weight of what they owe — the particular hopelessness of a barrier made of accumulated default, of sorrow borrowed and never returned, of a debt so vast it has become geography.
 
@@ -1306,7 +1306,7 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 
 ### 증언 (Testimonium) — The Testimony
 
-> *“The fist has been raised for six thousand years. It has not unclenched.”* — Keeper, Archive
+> *“The fist has been raised for four thousand years. It has not unclenched.”* — Keeper, Archive
 
 > *“They told us not to fight back. So the fight turned to stone.”* — Citizen, Zone B
 
@@ -1328,7 +1328,7 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 **Containment & Handling Procedures:**
 - Pugnahan is the primary Work Type.
 - Do not approach within 5 meters; the Grudge pressure is strongest at close range.
-- The fist has not unclenched in six thousand years.
+- The fist has not unclenched in four thousand years.
 **Observation Notes:**
 - Formed from the rage of Zone B citizens denied the right to resist.
 - The face is every face in Zone B that wanted to hit back.
@@ -1410,7 +1410,7 @@ Some truths, the Keepers decided long ago, the city cannot bear. So they locked 
 
 The Keepers are the Archive's custodians — preservers of memory, recorders of history, the ones who ensure that what Somnarak has done is not forgotten. But preservation and disclosure are not the same thing. There are memories in the Archive that, if they surfaced, would destabilize the city: the truth of the Cheongula, the full record of the Council's indifference, the names of the thousand. The Keepers hold these. The Keepers do not release them. The Keepers lock them away — not from malice, but from a careful, weary judgment that some truths do more harm unconfined than caged.
 
-The Memory Lock is the mechanism of that confinement. Object-Void, forged from Han-crystal and the concentrated intent of generations of Keepers, it holds the sealed memories the way a dam holds water — not destroying them, not releasing them, simply keeping them where they are, under pressure, in the dark. Each sealed truth adds weight. Each caged memory presses against the Lock. And the Lock, holding for six thousand years, did what everything in Somnarak eventually does: it became aware.
+The Memory Lock is the mechanism of that confinement. Object-Void, forged from Han-crystal and the concentrated intent of generations of Keepers, it holds the sealed memories the way a dam holds water — not destroying them, not releasing them, simply keeping them where they are, under pressure, in the dark. Each sealed truth adds weight. Each caged memory presses against the Lock. And the Lock, holding for four thousand years, did what everything in Somnarak eventually does: it became aware.
 
 Not of the world. Of what it held. The Lock knows every secret it conceals — every buried truth, every caged memory, every fact the Keepers decided the city could not bear. It knows the Cheongula's full record. It knows the thousand's names. It knows what the Council did, and what the Council hid. And it holds all of it, faithfully, the way it was built to — because the burden of a Lock is to know and not to tell.
 
@@ -2316,13 +2316,13 @@ The Ember Child is what it pooled into. Subject-Body, Lament-element, the figure
 
 The Ember Child is the loneliest of the entities, because her sorrow is the simplest: a child who needed comfort, and did not receive it. There is no grand cruelty in it — only the ordinary, unbearable fact that the people who could have warmed her did not, and that the story of her cold was told and then forgotten, and that the forgetting did not undo the cold.
 
-Those who encounter the Ember Child feel the ache of unmet need — the child's loneliness, the cold of reaching out and finding no hand. Many find they cannot leave her. Many stay, and sit, and offer what warmth they can, knowing it is six thousand years too late.
+Those who encounter the Ember Child feel the ache of unmet need — the child's loneliness, the cold of reaching out and finding no hand. Many find they cannot leave her. Many stay, and sit, and offer what warmth they can, knowing it is four thousand years too late.
 
 Some sorrows are about cruelty. The Ember Child is about absence — the simple absence of comfort where comfort was needed, preserved in a child and an ember that will not go out, wandering still, looking for the door that was never opened.
 
 ### 증언 (Testimonium) — The Testimony
 
-> *“She wanders, holding the ember. She is looking for warmth. She has been looking for six thousand years.”* — Keeper, Archive
+> *“She wanders, holding the ember. She is looking for warmth. She has been looking for four thousand years.”* — Keeper, Archive
 
 > *“I could not leave her. I sat with her. It was too late, but I sat.”* — Researcher, R.D.
 
@@ -2661,7 +2661,7 @@ Those who feel the Watcher's gaze understand the grief of being observed by a sy
 
 The Watcher in the Walls is the city's surveillance made sorrow — the grief of a thousand Wardens who saw everything and were forbidden to stop any of it, pressed into walls as eyes that will never close and never help.
 
-Some sorrows are about what was done. The Watcher's sorrow is about what was seen and not stopped — the perfect, helpless, bureaucratic attention of a system that watches its citizens suffer, and records it, and files it, and has done so, without intervening, for six thousand years.
+Some sorrows are about what was done. The Watcher's sorrow is about what was seen and not stopped — the perfect, helpless, bureaucratic attention of a system that watches its citizens suffer, and records it, and files it, and has done so, without intervening, for four thousand years.
 
 ### 증언 (Testimonium) — The Testimony
 
@@ -2824,7 +2824,7 @@ Some sorrows are about endings. The Singing Walls are about the endings that nev
 
 The city remembers more than it can hold.
 
-Every citizen of Somnarak leaves a residue — not only sorrow, which the Weeping drinks, but memory. The face of a mother. The sound of a name. The weight of a hand held and then released. These, too, sink. They seep down through the streets and the foundations and the vaults, joining the slow cold river beneath the city, and the Weeping carries them as it carries everything — patiently, without complaint, for six thousand years.
+Every citizen of Somnarak leaves a residue — not only sorrow, which the Weeping drinks, but memory. The face of a mother. The sound of a name. The weight of a hand held and then released. These, too, sink. They seep down through the streets and the foundations and the vaults, joining the slow cold river beneath the city, and the Weeping carries them as it carries everything — patiently, without complaint, for four thousand years.
 
 But rivers rise.
 
@@ -4432,7 +4432,7 @@ The Burning Library is a Place-Grudge entity: a structure that exists to hold, a
 
 Those who approach the Burning Library see, in the flames, the truths the city removed: the records of the Cheongula's full toll, the testimonies of the silenced, the stories of the people struck from history. The Library does not force these on the viewer. It offers them, in fire, to anyone willing to look — and the looking is the sorrow, because the truths are terrible, and they were suppressed for a reason, and the reason was not mercy.
 
-Some sorrows are about loss. The Burning Library is about suppression — the truths the city forbade, the stories denied the right to exist, gathered by their own gravity into a structure that burns forever with the light of everything Somnarak tried to make disappear, offering, in flame, the history the city spent six thousand years editing away.
+Some sorrows are about loss. The Burning Library is about suppression — the truths the city forbade, the stories denied the right to exist, gathered by their own gravity into a structure that burns forever with the light of everything Somnarak tried to make disappear, offering, in flame, the history the city spent four thousand years editing away.
 
 ### 증언 (Testimonium) — The Testimony
 
@@ -5878,9 +5878,9 @@ The thousand became the foundation. The Alpha Tree stabilized — drawing on the
 
 The Maw is the consumed district. Place-Tale, Grudge-element: the first sorrow, the oldest entity, the wound beneath the city's foundations. It is not a creature. It is a place — the district itself, alive with the thousand, aware, hungry, whispering. The thousand are not dead. They are part of the Maw — their consciousness persisting in the walls and the floors and the Han that flows through the district, trapped, suffering, screaming without mouths, hungry without stomachs, wanting without the bodies that once wanted.
 
-The Maw wants acknowledgment. Not revenge — the thousand, the R.D. has determined, do not want destruction. They want the city to say what it did. They want the Council to confess. They want the truth — that the city was built on a thousand consumed citizens, that the prosperity of Somnarak is powered by their suffering, that the Cheongula was not a disaster but a neglect — to be spoken, aloud, by the city that committed it and has spent six thousand years pretending it did not.
+The Maw wants acknowledgment. Not revenge — the thousand, the R.D. has determined, do not want destruction. They want the city to say what it did. They want the Council to confess. They want the truth — that the city was built on a thousand consumed citizens, that the prosperity of Somnarak is powered by their suffering, that the Cheongula was not a disaster but a neglect — to be spoken, aloud, by the city that committed it and has spent four thousand years pretending it did not.
 
-The city has never spoken it. The Maw waits. The Maw grows — the perimeter markers moving, slowly, the district expanding, the thousand spreading, seeking the acknowledgment that would let them rest. And the city, built on the thousand, powered by their sorrow, continues to function, and continues to silence the truth, and continues, every Consolihan, to mourn a natural disaster that was not natural and was not a disaster but a choice — the Council's choice, to let the Han take the poor, and to build, on their consumed bodies, a city that has never, in six thousand years, admitted what it stands on.
+The city has never spoken it. The Maw waits. The Maw grows — the perimeter markers moving, slowly, the district expanding, the thousand spreading, seeking the acknowledgment that would let them rest. And the city, built on the thousand, powered by their sorrow, continues to function, and continues to silence the truth, and continues, every Consolihan, to mourn a natural disaster that was not natural and was not a disaster but a choice — the Council's choice, to let the Han take the poor, and to build, on their consumed bodies, a city that has never, in four thousand years, admitted what it stands on.
 
 This is the first sorrow. This is the wound. This is the thousand, beneath the city, waiting, growing, whispering, for the confession the city owes them and has never given.
 
@@ -5938,11 +5938,11 @@ Not because it would save them. Not because the sorrow would lessen. They held h
 
 The sorrow of that holding — the gentle, futile, stubborn Lament of people who chose to be kind in a world that had given them every reason not to — sank into the Weeping. And the Weeping, which is made of all sorrow, held it. Not at the top, where the rage and the grief and the emptiness boil. At the bottom. In the quiet. Where the soft things settle.
 
-6,000 years later, the R.D. found it — a small, warm glow in the oldest corner of the Old Lament, humming gently, leaning toward the light of their lanterns. It was the first entity ever contained. It was designated 000.
+4,000 years later, the R.D. found it — a small, warm glow in the oldest corner of the Old Lament, humming gently, leaning toward the light of their lanterns. It was the first entity ever contained. It was designated 000.
 
 They put it in a training room. They send every new agent to it first. Not because it is worthless — because it is the only entity in the registry that will never hurt them, and they need to know, before they face the others, that sorrow is not always a weapon. Sometimes it is just a warm glow in the dark, leaning toward you, humming a song that says: *I know. I know. It is hard. But you are here, and I am here, and that is something.*
 
-The Kind Echo has trained every agent the R.D. has ever hired. It has been worked on by more personnel than any other entity in existence. And in 6,000 years, it has never dimmed for long. It always brightens when someone enters. It is always warm.
+The Kind Echo has trained every agent the R.D. has ever hired. It has been worked on by more personnel than any other entity in existence. And in 4,000 years, it has never dimmed for long. It always brightens when someone enters. It is always warm.
 
 It is the sorrow of the first kindness, and it is still here, and it is still kind, and if you ask any veteran agent what they remember about their first day, they will not remember the fear. They will remember the warmth.
 
@@ -5950,7 +5950,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 > *"I was terrified. My hands were shaking. I reached for it and it was warm and I cried. Not because it hurt me. Because it didn't."* — Specialist Hanul Grey (하늘 그레이), first day, Year 4210
 
-> *"It leans toward you when you enter. Every time. Even after six thousand years. Even after a hundred thousand trainees. It still leans toward you."* — Handler Soojin (수진), R.D.
+> *"It leans toward you when you enter. Every time. Even after four thousand years. Even after a hundred thousand trainees. It still leans toward you."* — Handler Soojin (수진), R.D.
 
 > *"The Warm Stone is standard issue. Every agent gets one. Most of us still carry it. I am a Containment Lead and I carry mine in my left pocket. It is warm. It has always been warm."* — Containment Lead Dekan (데칸), R.D.
 
@@ -5966,7 +5966,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 **Common Name:** The Kind Echo (친절한 메아리)
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit (permanent assignment)
 **Comprehension Level:** 4 — Mastered
-**Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 6,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at near-100% probability.
+**Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 4,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at near-100% probability.
 **Containment & Handling Procedures:**
 - All four Work Types are equally effective — use for training.
 - No special containment required; the entity is self-stabilizing.
@@ -5977,7 +5977,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 - Warm to the touch — unique among Sorrow Entities.
 - Pleasant hum; personnel often hum along.
 - Brightens near people; dims when alone.
-- Has never caused harm in 6,000 years.
+- Has never caused harm in 4,000 years.
 - Designation 000 — the first entity ever contained by the R.D.
 **Cross-References:** The R.D. Training Program · The Orphaned Bell (shared Lament origin) · The Maw (no interaction) · the Old Lament · the first settlers · the Standard Training M.A.W.
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
@@ -5987,7 +5987,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 **Operational interpretation:** This record is valid only with the full classification above. The Kind Echo is the R.D.'s training standard and baseline entity. It is fully mastered (Comprehension Level 4) and has been for millennia. If a future observation contradicts this record — if the entity ever shows hostility, coldness, or escalation — personnel must preserve the contradiction as evidence and alert the Director immediately, because it would mean the sorrow of the first kindness has changed, and that would be the most alarming observation in the history of the R.D.
 
-**Review requirement:** Recheck the entity's warmth, hum frequency, and Work Type response annually. The review is a formality — the entity has not changed in 6,000 years — but the R.D. performs it anyway, because the day the Kind Echo stops being kind is the day the city has truly lost something it cannot replace.
+**Review requirement:** Recheck the entity's warmth, hum frequency, and Work Type response annually. The review is a formality — the entity has not changed in 4,000 years — but the R.D. performs it anyway, because the day the Kind Echo stops being kind is the day the city has truly lost something it cannot replace.
 
 ---
 
@@ -6224,7 +6224,7 @@ A traveler came through the Desolate carrying a single seed. It was not valuable
 
 What the seed was meant to become, no one can say now — not even the traveler. A tree, perhaps, that had grown in a courtyard now buried under Han. A flower whose name survived only in one person's memory. A crop that once fed a family scattered across the wilderness. The traveler knew, once. The seed was the last piece of that knowing.
 
-Near the Scar — that ancient wound where six factions bled the land six thousand years ago, in the Occlusihan — a Han-storm rose without warning. The ground hummed, then screamed. The traveler ran, or hid, or simply endured; the record does not agree. When the storm passed, the folded cloth was open and the seed was gone. Lost in the soft, warm, unstable earth, somewhere between the Scar and the city's edge.
+Near the Scar — that ancient wound where six factions bled the land four thousand years ago, in the Occlusihan — a Han-storm rose without warning. The ground hummed, then screamed. The traveler ran, or hid, or simply endured; the record does not agree. When the storm passed, the folded cloth was open and the seed was gone. Lost in the soft, warm, unstable earth, somewhere between the Scar and the city's edge.
 
 The traveler searched. Then the Han did what the Han does to those who linger too long near the Scar: it took the memory. Not all at once — gently, the way the Weeping takes everything. First the reason for the search faded. Then the shape of the tree. Then the name of the flower. Then, at last, the certainty that the seed had ever mattered at all.
 
@@ -7126,7 +7126,7 @@ The Tide does not harm. It is the necessary cycle of a city that cannot hold its
 
 Those who feel the Sorrow Tide recognize it as the city's heartbeat: the grief that rises and falls, the sorrow held and released, the oldest cycle in Somnarak, the breath of a place built on sorrow.
 
-Some sorrows are events. The Sorrow Tide is a rhythm — the city's grief, suppressed and released, ebbing and flowing, the breath of a place still, after six thousand years, breathing.
+Some sorrows are events. The Sorrow Tide is a rhythm — the city's grief, suppressed and released, ebbing and flowing, the breath of a place still, after four thousand years, breathing.
 
 ### 증언 (Testimonium) — The Testimony
 
@@ -7404,7 +7404,7 @@ The city replaced the God. As Somnarak grew — as the Veil was drawn, as the Co
 
 The Consolihan sealed the forgetting. After the Cheongula, the God was no longer invoked. The citizens mourned through the Consolihan, not through prayer. The God was left beneath the Alpha Tree, sleeping, forgotten, the way a tool is forgotten when a newer tool replaces it — not discarded, simply no longer reached for, until the hand forgets the shape of the reaching.
 
-The Forgotten God is Subject-Body, all four elements: the deity of sorrow the city outgrew, sleeping beneath the Tree, still holding the grief the settlers gave it, still waiting — not for worship, but for need. The God does not demand prayer. The God waits to be needed. And the city, which replaced the God with systems, has not needed it for six thousand years.
+The Forgotten God is Subject-Body, all four elements: the deity of sorrow the city outgrew, sleeping beneath the Tree, still holding the grief the settlers gave it, still waiting — not for worship, but for need. The God does not demand prayer. The God waits to be needed. And the city, which replaced the God with systems, has not needed it for four thousand years.
 
 Those who come near the Forgotten God feel the weight of an abandoned faith — the loneliness of a deity that was needed and then replaced, that held the world's grief and was set down.
 
@@ -7418,7 +7418,7 @@ Some sorrows mourn the dead. The Forgotten God mourns its own obsolescence — t
 
 > *“The city replaced worship with systems. The God, unneeded, sleeps.”* — Containment Lead, R.D.
 
-> *“The God does not demand prayer. It waits to be needed. It has waited for six thousand years.”* — Archive Lead
+> *“The God does not demand prayer. It waits to be needed. It has waited for four thousand years.”* — Archive Lead
 
 > *“Prayers answered by abandonment. Faith forgotten after it was no longer needed.”* — Elder, Alpha Tree
 
@@ -7431,7 +7431,7 @@ Some sorrows mourn the dead. The Forgotten God mourns its own obsolescence — t
 **Threat Assessment:** Unknown (dormant). The God sleeps. It was once worshipped; the city outgrew it. Effect: proximity induces the weight of abandoned faith.
 **Containment & Handling Procedures:**
 - Do not wake the God.
-- The God sleeps beneath the Tree; it has slept for six thousand years.
+- The God sleeps beneath the Tree; it has slept for four thousand years.
 **Observation Notes:**
 - A deity of sorrow worshipped by the first settlers.
 - The city replaced worship with systems; the God was left sleeping.
@@ -10969,7 +10969,7 @@ The dead were not mourned because the factions could not mourn them. The war con
 
 The fury condensed. The un-mourned anger of the Occlusihan's dead, denied the release of grief, sank into the Scar — the rift, the wound, the place where the Han had erupted and the soldiers had died — and the sinking fury, pressurized by the Han's presence, ignited. The Wrath Flame: Subject-Body, Grudge-element, the fire that has burned at the Scar since the day the war ended, fueled by the unmourned rage of soldiers the factions could not grieve because the factions, like the soldiers, were destroyed.
 
-The Flame does not spread. It burns, contained, at the Scar — a pillar of crimson fire that has not diminished in six thousand years, because the fuel — the fury — is not consumed by the burning. The anger feeds the fire, and the fire does not reduce the anger, and the two sustain each other in a perpetual combustion that will not end until the dead are mourned, and the dead, unmournable, will never be mourned, and the fire, therefore, will never go out.
+The Flame does not spread. It burns, contained, at the Scar — a pillar of crimson fire that has not diminished in four thousand years, because the fuel — the fury — is not consumed by the burning. The anger feeds the fire, and the fire does not reduce the anger, and the two sustain each other in a perpetual combustion that will not end until the dead are mourned, and the dead, unmournable, will never be mourned, and the fire, therefore, will never go out.
 
 Those who come near the Wrath Flame feel the specific fury of the un-grieved — the concentrated rage of soldiers who died unmourned, the anger that has burned since the war ended and that will burn, at the Scar, for as long as the dead remain unacknowledged.
 
@@ -10985,7 +10985,7 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 
 > *“The anger feeds the fire. The fire does not reduce the anger. The two sustain each other.”* — Citizen, The Scar
 
-> *“The flame has burned for six thousand years because the dead have never been mourned.”* — Elder, The Scar
+> *“The flame has burned for four thousand years because the dead have never been mourned.”* — Elder, The Scar
 
 ### 기록 (Registrum) — The Record
 
@@ -11637,7 +11637,7 @@ Some sorrows mourn a home. Graveweed mourns the rooting — the attempt to belon
 
 The dead of the Occlusihan needed a guardian, and the rage, denied a mourner, became a walker — a figure that patrols the Scar and judges the living by the respect they show the dead.
 
-The Scar is the wound — the rift where the Han erupted, where the six factions fought, where thousands died in the first war. The dead are buried there, unmarked, unmourned, their names erased by the city that forgot the war occurred. The Scar, for six thousand years, was unguarded — an open wound in the Desolate, trampled by scavengers, ignored by the nomads, disrespected by anyone who passed through without knowing, or caring, that the ground they walked on held the dead of the Occlusihan.
+The Scar is the wound — the rift where the Han erupted, where the six factions fought, where thousands died in the first war. The dead are buried there, unmarked, unmourned, their names erased by the city that forgot the war occurred. The Scar, for four thousand years, was unguarded — an open wound in the Desolate, trampled by scavengers, ignored by the nomads, disrespected by anyone who passed through without knowing, or caring, that the ground they walked on held the dead of the Occlusihan.
 
 The rage became a guardian. The accumulated fury of the un-mourned dead — the anger of soldiers who fell and were never honored, whose graves were unmarked, whose sacrifice the city edited from history — needed an agent. It needed a walker — something that could patrol the Scar, that could evaluate the visitors, that could enforce, on behalf of the dead, the respect the living had denied. And the Weeping, which gives form to every accumulated thing, gave the rage a shape that fit its function: a walker. The Scar Walker, Subject-Phantasmal, Grudge-element: the figure that patrols the rift, watching, evaluating, deciding whether each visitor is worthy of passage.
 
@@ -13785,7 +13785,7 @@ The Wilderness Tide is the wilderness pressing forward. Not with malice — with
 
 Each surge is the same question, asked in the only language the wilderness knows: *pressure*. Can the wall hold? Can the Wardens endure? Can the city's structured Han withstand the raw, unending weight of everything it was built to keep out?
 
-For six thousand years, the answer has been yes.
+For four thousand years, the answer has been yes.
 
 The Wardens do not celebrate this. They log it, repair the wall, and wait for the next surge. Because the wilderness is patient. And the wall, for all its strength, is stone. And stone, given enough time and enough pressure, always erodes.
 

@@ -97,7 +97,7 @@ The relay officer starts reading the gauge numbers aloud, steady as a metronome.
 - **Xyan:** Full intercept stance — Block 4-8, Counter 3-6, body between the Veil and the pedestal, planted on the Tear-side node. Tear field: +3 (33 to 36 SP). *Take it, Keeper. Whatever comes through me first.*
 - **Senior Warden:** Second shield raised over Marjuk like a roof. *The museum acquires a roof.*
 - **Junior Warden:** Block 8-12, guarding the cord-line. Tear field: +3 (27 to 30 SP).
-- **Marjuk:** Securing Stage 3 COMPLETE. The Take: Marjuk lifts the First Tear off its pedestal with vault-tongs, and four billion years of oldest grief fits in a specimen case lined with Lament-wool. The chamber's heart goes dark — and the field inverts: the Tear now travels WITH the party, +3 per turn to whoever carries the case.
+- **Marjuk:** Securing Stage 3 COMPLETE. The Take: Marjuk lifts the First Tear off its pedestal with vault-tongs, and four thousand years of oldest grief fits in a specimen case lined with Lament-wool. The chamber's heart goes dark — and the field inverts: the Tear now travels WITH the party, +3 per turn to whoever carries the case.
 - **Turn end:** the relay officer logs, hand shaking for the first entry of the descent: *THE TEAR IS SECURED. Repeat: the First Tear is in the case. Marjuk holds it. Party Composure: 33/20/30/30.*
 
 ### Turn 05 Action Resolution Log (Full Shatter)

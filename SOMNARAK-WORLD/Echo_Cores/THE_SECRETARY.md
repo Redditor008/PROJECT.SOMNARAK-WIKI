@@ -515,7 +515,7 @@ The end of the Cycle frees Seiyon from repetition but leaves her with all the me
 
 #### Overview
 
-In Year 4,233, the **Memory Archive** awakens beneath the Alpha Tree. It is an ancient living structure, approximately six thousand years old, that consumes visitors and preserves their identities as stories.
+In Year 4,233, the **Memory Archive** awakens beneath the Alpha Tree. It is an ancient living structure, approximately four thousand years old, that consumes visitors and preserves their identities as stories.
 
 The Archive is not a conventional library and not a simple machine. It is a Sorrow Entity of unprecedented scale whose architecture makes memory physical:
 
@@ -585,7 +585,7 @@ This duality mirrors Seiyon and the Original:
 
 #### The Archive's Guardians
 
-Guardians arise from six thousand years of accumulated memory-sorrow. They protect the Archive because release appears identical to destruction from inside a system built to prevent forgetting.
+Guardians arise from four thousand years of accumulated memory-sorrow. They protect the Archive because release appears identical to destruction from inside a system built to prevent forgetting.
 
 Seiyon cannot defeat them merely by proving the Archive wrong. She must demonstrate another form of preservation: stories remembered by living people who are still allowed to change.
 

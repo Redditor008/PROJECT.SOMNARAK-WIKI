@@ -333,7 +333,7 @@ Each floor has a **daily energy quota** — a minimum amount of Positive Han-Ene
 The city requires Han-Energy for municipal life support. The more Director Majin diverts to the Absolvohan, the less reaches civic infrastructure. The Veil weakens, Han-Rails slow, and common tech flickers.
 
 **The Director's Justification:**
-> *"The city has survived for 6,000 years on sorrow. It can endure a little less power — for a little longer. The Absolvohan will end the repetition. The cost is worth it."*
+> *"The city has survived for 4,000 years on sorrow. It can endure a little less power — for a little longer. The Absolvohan will end the repetition. The cost is worth it."*
 
 **The Secretary's Classified Entry:**
 > *"Year 4232+1778. The Veil generators in Zone D fluctuated for three hours today. Twelve citizens were exposed to raw Han; two Fractured. The Director diverted the surplus to the Absolvohan Reserve Tap. The Director did not record the Fractures. I recorded them. I remember every one."*
@@ -2462,7 +2462,7 @@ The Alpha Tree chose the Director not because they were strong — but because t
 **The Method:**
 The R.D. collects Han-crystal daily — from Sorrow Entities, from extractions, from the city's ambient sorrow. This crystal is stored deep beneath the Alpha Tree. The Director's plan is to concentrate this crystal into a single, massive payload — and **shoot it into the city's central Han**.
 
-The concentrated sorrow would react with the Alpha Tree's structure. The Tree would absorb it — and then **release** it. All of it. Every sorrow, every grief, every Fracture, every debt. The accumulated weight of 6,000 years would be discharged in a single moment.
+The concentrated sorrow would react with the Alpha Tree's structure. The Tree would absorb it — and then **release** it. All of it. Every sorrow, every grief, every Fracture, every debt. The accumulated weight of 4,000 years would be discharged in a single moment.
 
 **The Promise:**
 The Director made this promise to their lover — the lover who died in the Consolihan, the lover whose face the Secretary wears. The lover's last words were: *"Don't let the sorrow win."*
@@ -2912,7 +2912,7 @@ The R.D. possesses a layered history spanning linear civic operation followed by
 
 **Duration:** 30 years (The Current Era)
 
-The Reverie Directorate is publicly established beneath the Alpha Tree in Zone A following the Council of Sighs' Year ~4,200 exploration decree (SED). The facility begins structured entity containment, the first Echo-Cores are cast into effigies, the Lament Well is constructed, and standard containment protocols are formalized.
+The Reverie Directorate is publicly established beneath the Alpha Tree in Zone A following the Council of Sighs' Year ~4,200 re-charter of the Year 1,840 exploration mandate (SED). The facility begins structured entity containment, the first Echo-Cores are cast into effigies, the Lament Well is constructed, and standard containment protocols are formalized.
 
 **Key events:**
 - Formal charter of Facility 01 beneath the Alpha Tree under Council oversight
@@ -3001,7 +3001,7 @@ At the completion of the 1,778th iteration in Year 4,238 MMSS, the Absolvohan ac
 - Citizens believe the current year is 6,000
 - They do not know the Cycle exists
 - They do not remember previous iterations
-- The Mnemonic Generator's field suppresses temporal awareness — citizens cannot perceive the reset. Every form and clock reads **Year 4232**; every history book says the city is **6,000 years old**. No one finds this strange. No one can.
+- The Mnemonic Generator's field suppresses temporal awareness — citizens cannot perceive the reset. Every form and clock reads **Year 4232**; every history book says the city is **4,000 years old**. No one finds this strange. No one can.
 - The Council of Sighs does not know — they are not Echo-Cores, they do not persist
 
 ### What the Echo-Cores Know

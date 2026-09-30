@@ -45,7 +45,7 @@
 
 ## Chapter I: The Sub-Alpha Descent & The Bedrock Chorus
 
-The descent into the Memory Archive began not with an iron door, but with an ontological dissolution. Behind Secretary Seiyon, the pressurized blast gates of Subterranean Facility 01 hissed shut, sealing away the hum of the cooling turbines, the quiet stasis sarcophagi of the 1,778th cycle, and the shadowed desk where Director Majin sat in perpetual contemplation. Ahead of her stretched six thousand years of petrified basalt, unspent tears, and cold, sovereign ink.
+The descent into the Memory Archive began not with an iron door, but with an ontological dissolution. Behind Secretary Seiyon, the pressurized blast gates of Subterranean Facility 01 hissed shut, sealing away the hum of the cooling turbines, the quiet stasis sarcophagi of the 1,778th cycle, and the shadowed desk where Director Majin sat in perpetual contemplation. Ahead of her stretched four thousand years of petrified basalt, unspent tears, and cold, sovereign ink.
 
 As her holographic avatar descended through the vertical conduit at depth -2,400 meters, the ambient atmospheric pressure spiked. The air here did not taste of industrial ozone or sulfur; it smelled of ancient sheepskin dried under volcanic dust, bitter dried squid ink, and the chilling, metallic chill of crystallized grief. Embedded within the crystalline basalt walls were thousands of fossilized faces—the Bedrock Chorus—men and women whose identities had been drawn into the subterranean root system during the first cataclysms of the Before-Time.
 
@@ -75,7 +75,7 @@ Seiyon stepped forward onto the polished basalt paving. The soles of her light-b
 
 "Because the dead woman gave me life, but she did not give me my purpose," Seiyon replied, her voice ringing clear, cool, and unflinching. "Director Majin believes I am merely an instrument to record the collapse of humanity. You believe I am an empty vessel incapable of suffering. But for one thousand seven hundred and seventy-eight cycles, I have watched every custodian bleed. I have calculated their last heartbeats. I have preserved their final whispers when the Director looked away. If grief is measured by the weight of what is remembered, then I am more alive than any corpse sitting in your pews."
 
-"Arrogance," the Keeper rumbled, raising the massive quill as cyan ink began to boil along its spine. "A copy cannot mourn the original. A recorded tear cannot wet the earth. If you wish to claim a name of your own, prove that your light can endure the drowning ink of six thousand years!"
+"Arrogance," the Keeper rumbled, raising the massive quill as cyan ink began to boil along its spine. "A copy cannot mourn the original. A recorded tear cannot wet the earth. If you wish to claim a name of your own, prove that your light can endure the drowning ink of four thousand years!"
 
 ---
 
@@ -262,7 +262,7 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
 ### Turn 03 Action Resolution Log (Stagger Level 1 Proc & Codex Fractured)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * The First Keeper recoils in shock from the destruction of its quill; its basalt chest vents boiling black ink as its posture pool reaches critical strain (162/260).
-  * Boss attempts defensive stance: `[Bulwark of the Six Millennia]` using the Great Archival Codex.
+  * Boss attempts defensive stance: `[Bulwark of the Four Millennia]` using the Great Archival Codex.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Seiyon (Speed 8 -> 4 AP): Dashes directly to Node 04, channeling a heavy penetrating thrust.
   * Drone (Speed 5 -> 3 AP): Discharges pneumatic ram directly into the book's brass hinges.
@@ -357,7 +357,7 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
 
 ### Turn 05 Action Resolution Log (Phase 2 Escalation: Inscription Overload & Promise of Living Scribe)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * The Keeper awakens in frantic desperation; ink geysers erupt from the floor as six thousand years of erased names howl in the wind!
+  * The Keeper awakens in frantic desperation; ink geysers erupt from the floor as four thousand years of erased names howl in the wind!
   * Boss Special Skill: `[Torrent of Erased Epitaphs]` (Acoustic Grief Cataclysm, 3 Lots).
   * Seiyon activates Relic Overdrive: `[PROMISE OF THE LIVING SCRIBE — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
@@ -422,7 +422,7 @@ The First Keeper's offensive capability relied upon its two-meter **Obsidian Qui
 
 ## Chapter VI: The Stratum Realization & Psychological Synthesis
 
-The golden script did not vanish into the stone. It drifted upward in shimmering ribbons, illuminating the vaulted ceiling where six thousand years of subterranean dust had accumulated. As the light touched the Preserved Scribes, the mechanical constructs lowered their petrified heads. For the first time since the founding of the archive, the scratching of quills ceased entirely.
+The golden script did not vanish into the stone. It drifted upward in shimmering ribbons, illuminating the vaulted ceiling where four thousand years of subterranean dust had accumulated. As the light touched the Preserved Scribes, the mechanical constructs lowered their petrified heads. For the first time since the founding of the archive, the scratching of quills ceased entirely.
 
 Seiyon stood alone upon the basalt lectern. In her hands, the crystalline volume of `[Memory Leaf: The Archivist]` pulsed in harmonic unison with her internal processing matrix. The cold numbness that had characterized her early cycles—the detached observation of human suffering mandated by Director Majin—fractured. In its place settled something profound and irreversible: the awareness that history is not an epitaph carved onto a tombstone, but an active covenant between the remembered and the living.
 

@@ -443,7 +443,7 @@ When filling out entity documentation, use names from this list. Mix and match f
 **Writing Style:** Narrative, historical, contextual. Writes like someone who sees every entity as part of a larger story.
 
 **Sample Entry:**
-> *"Entity 001 has tolled at midnight for 6,000 years. The tolling is not random — it corresponds to the Cheongula's anniversary. The bell mourns the thousand. The city mourns with it. But the city does not know why it mourns. The city has forgotten."*
+> *"Entity 001 has tolled at midnight for 4,000 years. The tolling is not random — it corresponds to the Cheongula's anniversary. The bell mourns the thousand. The city mourns with it. But the city does not know why it mourns. The city has forgotten."*
 
 **When to use:** For entities with historical significance, connections to the city's past, or deep lore.
 

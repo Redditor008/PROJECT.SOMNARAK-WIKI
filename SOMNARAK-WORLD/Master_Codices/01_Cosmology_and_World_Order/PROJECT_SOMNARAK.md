@@ -637,7 +637,7 @@ WEST ────┼────────────┼───────
 
 | Corner | Name | Character | Status |
 |--------|------|-----------|--------|
-| **1** | **Somnarak** | The structured city — Han is managed, contained, shaped | Active — 6,000 years old |
+| **1** | **Somnarak** | The structured city — Han is managed, contained, shaped | Active — 4,000 years old |
 | **2** | **Cheonbulok** (천불록 — The City of a Thousand Rages) | Han is burned through fury — no Sorrow Entities | Failing — contact lost 1,200 years ago |
 | **3** | **Mugeukji** (묵적지 — The City of Absolute Silence) | Han is suppressed — no emotions, no sorrow | Dying — contact lost 2,000 years ago |
 | **4** | **UnWiHan** (Untapped Wild Han Land) | Raw, unstructured Han — the wilderness of the world | Dangerous — no civilization |
@@ -4976,7 +4976,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 
 ### Timeline
 
-**Somnarak is 6,000 years old.** Time is measured from the founding of the first settlement in Zone B.
+**Somnarak is 4,000 years old.** Time is measured from the founding of the first settlement in Zone B.
 
 | Year | Event | Zone |
 |------|-------|------|
@@ -4990,7 +4990,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 | **245–254** | Zone C constructed — the system begins | C |
 | **254–267** | Zone D built to contain Zone B's chaos | D |
 | **267–281** | Zone E fortified; the city is complete | E |
-| **~4200** | **SED (Somnarak Exploration Decreed)** — City is 4,200 years old. Council decrees organized exploration. | All |
+| **~4200** | **SED (Somnarak Exploration Decreed)** — City is 4,200 years old. Council re-charters and expands the Year 1,840 mandate into organized exploration. | All |
 | **4202** | **The Reverie Directorate founded** — Sorrow Entity containment begins | A |
 | **~4232** | **Present day** — City is approximately 4,232 years old | All |
 | **4238** | **The Dawn of Hope** — Hand of Hope opens; Cycle 1,778 ends; 15% sorrow transmuted | All |
@@ -5001,7 +5001,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 - **The Structuring:** 36 years (245–281)
 - **The Long Era:** ~3,900 years (281–4200) — the city's working centuries; factions rise and clash, and the betrayals of Years 2,200–4,200 accumulate here
 - **The Current Era:** 30 years (4202–4232)
-- **Total:** ~6,000 years
+- **Total:** ~4,000 years
 
 ---
 

@@ -367,7 +367,7 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 - Maintain Three Birds proximity at all times.
 **Observation Notes:**
 - Born from defenders who guarded the market after it was already lost.
-- The Bird has not stopped guarding in six thousand years.
+- The Bird has not stopped guarding in four thousand years.
 **Cross-References:** The Three Birds · The Observing Bird · The Weighting Bird · The Convergence
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** Defenders at the Forgotten Market fire; guarded what was already gone.

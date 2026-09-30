@@ -38,7 +38,7 @@ The Desolate is a **liminal space** — where Han is semi-structured. The city's
 | **Outer Edge (10 km)** | The wilderness begins — raw, unstructured Han |
 | **Beyond (10+ km)** | The Fringe — the uncounted halo of the cast-out, ringed around the city and fading, with distance, into true wilderness — unknown, dangerous, unexplored |
 
-Beyond the Outer Edge, the map does not go blank — it goes *uncounted*. The Fringe begins there: a halo ringing the city for tens of kilometers in every direction, home to roughly 1.29 billion people whom no form has ever reached. They are not citizens of Somnarak; they are its shadow population — the descendants and the outflows of six millennia of Gates. They live four ways:
+Beyond the Outer Edge, the map does not go blank — it goes *uncounted*. The Fringe begins there: a halo ringing the city for tens of kilometers in every direction, home to roughly 1.29 billion people whom no form has ever reached. They are not citizens of Somnarak; they are its shadow population — the descendants and the outflows of four millennia of Gates. They live four ways:
 
 - **The Somnarak slums (~700,000,000)** — pressed against the outer wall itself and spilling down the halo's first kilometers: stacked shanties, gate-towns, lean-to districts built into the city's own outer skin. The densest of the four lives. The exiles who could not bear to walk away; the ones waiting to be let back in, or waiting for the walls to fall. Whatever happens inside the city is heard here first, as a rumor shouted over a fence.
 - **The Somnarak villages (~340,000,000)** — settled communities strung through the halo's middle band: farms working unstable ground, craft-towns parked on the Han-flows, market-villages the city's dealers officially pretend do not exist. Permanent in practice, unofficial on paper — second and third generations born uncounted, buried uncounted, and stubborn as either.
@@ -222,7 +222,7 @@ Han-storms are waves of concentrated Han that sweep through the Desolate — lik
 
 ### What It Is
 
-The Scar (흉터 — Pyukneo) is a rift in the Desolate — a wound in the planet's surface where Han erupted during the Occlusihan (the war between six factions, 6,000 years ago). The Scar is still smoking — Han seeps from the rift, the ground is warm, the air is thick with ancient rage.
+The Scar (흉터 — Pyukneo) is a rift in the Desolate — a wound in the planet's surface where Han erupted during the Occlusihan (the war between six factions, 4,000 years ago). The Scar is still smoking — Han seeps from the rift, the ground is warm, the air is thick with ancient rage.
 
 **Location:** 8 km from the city — deep in the Desolate
 
@@ -244,7 +244,7 @@ The Scar is guarded by **The Scar Walker** — a Sorrow Entity born from the rag
 
 ### The Occlusihan
 
-The Occlusihan was a war — fought 6,000 years ago, between six factions that no longer exist. The war was about Han — who controlled it, who used it, who profited from it. The war ended when the Han erupted — consuming the battlefield, creating the Scar, killing thousands.
+The Occlusihan was a war — fought 4,000 years ago, between six factions that no longer exist. The war was about Han — who controlled it, who used it, who profited from it. The war ended when the Han erupted — consuming the battlefield, creating the Scar, killing thousands.
 
 **The six factions:**
 - The names have been erased from the Archive

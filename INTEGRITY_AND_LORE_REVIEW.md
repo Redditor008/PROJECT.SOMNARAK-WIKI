@@ -93,3 +93,28 @@ examples in REFERENCE and TEMPLATES).
 - **Durability:** `tools/check_links.py` added as a CI gate step in
   `.github/workflows/ci.yml` ("Verify Internal Link Integrity"), failing
   the build on any future broken link.
+
+---
+
+## Fix Status — V1–V4 Missed List (2026-09-30/10-01, commits 09d517f8 + pending)
+
+FIXED & PUSHED (`09d517f8`, round 1):
+- V1-E: Cycle-1,512 pairing reworded in both timeline copies (no calendar conversion implied).
+- V1-H: Walking Calendar movement → Slow Walking; `Year 4247` removed from banned_strings (no live rule consumed it; tests green).
+- V3-N2: RULES ID section rewritten to canonical `SE-[Origin]-[Coherence][Potency]-[Number]` + serial-slot semantics (authority: Entity Codex).
+- V3-N4: 292→291 (TEMPLATES x5, WORLD README x2 + 159→158 City), 44→49 codices (WIKI_PARTS x2), root README 12→16-volume (x2) + 1,706→1,897 files.
+- V3-N9: SVG ranks swapped (Three Birds III, Smothering Mother IV).
+- V4-W1: both Wail→Entity. Other `Wail` hits are skill/attack names, not ranks — kept.
+- V4-W6: rule ("at or below 15") stands; Descent 5 now shows Junior Warden onset + Transform scar.
+
+FIXED THIS ROUND (round 2):
+- V1-D + V2-God age: GLOBAL six→four thousand years / six→four millennia (143 replacements, 55 files); D4 billion→thousand. Face/family counts in Ocean ordeal + review/CHANGELOG history untouched.
+- V1-F: 1,840 mandate stands; ~4,200 reworded as re-charter in both timelines + PROJECT_SOMNARAK + REVERIE_DIRECTORATE + AUDIT (prose + 71-col box, width preserved).
+
+VERIFIED STALE / NO ACTION:
+- V2-Thin Ordeals: all 60 ≥1224w (floor was 1197 at batch-5 push; review's "40 still ~950" predates completion).
+- V3-N4 sub-claims: Unknown_Entities/README, WHAT_CAN_BE_DONE, README_FIRST have no "292" (already clean); audit "52/35" string absent repo-wide.
+- V1-F sub-claim: Absolvohan end 4,233 vs Dawn 4,238 already bridged in Absolvohan README (loop ends 4,233; Dawn Initiative 4,238 carries remaining 85%).
+- V3-N10: user-side process item (merge to main).
+
+DEFERRED (per user 2026-10-01): V1-I, V3-N7, V3-N8 metric trio — no targets set.

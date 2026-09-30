@@ -342,7 +342,7 @@ No one remembered who made the body. Its pink outfit had been repaired too many 
 
 Then the wish found it.
 
-The wish had been gathering for six thousand years — every citizen who had ever whispered *someone save us* into the dark, every child who had wanted a perfect magical hero, every frightened inner voice that expected every promise of rescue to fail. When the Hand of Hope opened, the wish had nowhere to go but into the nearest vessel built to perform hope. It found the doll.
+The wish had been gathering for four thousand years — every citizen who had ever whispered *someone save us* into the dark, every child who had wanted a perfect magical hero, every frightened inner voice that expected every promise of rescue to fail. When the Hand of Hope opened, the wish had nowhere to go but into the nearest vessel built to perform hope. It found the doll.
 
 Mimi woke first. She believed she was the magical girl — all color, all warmth, all the cheerful rhythm the wish had asked for. She moved the hands, the feet, the face, the costume. She healed what she could. She sang.
 

@@ -952,7 +952,7 @@ At 02:45, Majin walks down the spiral staircase to the very edge of the Maw. The
 his own reflection framed against the resting figures of the thousand martyrs below.
 
 Majin sits on the cold stone steps, tears running down his weathered cheeks: *"Sleep well, my brothers. Sleep well, my
-sisters. You carried the city for six thousand years. In nine days, we lay your burden down."*
+sisters. You carried the city for four thousand years. In nine days, we lay your burden down."*
 
 ---
 
@@ -2608,7 +2608,7 @@ mortal heart is completely silent. It no longer burns. It no longer hungers. It 
 
 Five days following the monumental venting of Day 160, the facility operates in an atmosphere of serene, dreamlike
 peace. Dekan formally certifies that SE-C-Iα-008 (*The Maw*) is completely devoid of trapped souls. The one thousand
-martyrs of the Cheongula have peacefully dissolved into the golden dawn light, their six-thousand-year torment resolved
+martyrs of the Cheongula have peacefully dissolved into the golden dawn light, their four-thousand-year torment resolved
 forever.
 
 The clear, sweet mineral water that filled the pit is connected directly to Somnarak's municipal aqueducts. The citizens
@@ -2789,7 +2789,7 @@ across the stone ledges where the black tar once boiled. Dekan dips a tin cup in
 
 He smiles at Majin: *"It tastes like fresh rain on the northern hills, Director."*
 
-Majin drinks from his own cup: *"It tastes like peace, Dekan. After six thousand years, it tastes like peace."*
+Majin drinks from his own cup: *"It tastes like peace, Dekan. After four thousand years, it tastes like peace."*
 
 ---
 

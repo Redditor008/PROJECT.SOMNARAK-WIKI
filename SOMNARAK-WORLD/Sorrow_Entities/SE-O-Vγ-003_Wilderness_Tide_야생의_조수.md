@@ -170,7 +170,7 @@ Wilderness Tide does not breach in the traditional sense — it is always pressi
 
 ## 관찰 기록 (Observation Log)
 
-> **Observation Summary:** Wilderness Tide is monitored continuously from the Outer Watchtowers. Each surge is catalogued by date, duration, intensity (residue depth), and structural damage. The Wardens have 6,000 years of records — and the surges are getting worse.
+> **Observation Summary:** Wilderness Tide is monitored continuously from the Outer Watchtowers. Each surge is catalogued by date, duration, intensity (residue depth), and structural damage. The Wardens have 4,000 years of records — and the surges are getting worse.
 
 ### Observation Progression
 
@@ -183,7 +183,7 @@ Wilderness Tide does not breach in the traditional sense — it is always pressi
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-1. **Containment Description:** Wilderness Tide is not contained — it is repelled. The border wall of Zone E is the containment, and the Wardens are the mechanism. Each surge tests the wall; each recession proves it held. For 6,000 years, the wall has held. The Wardens intend to keep it that way.
+1. **Containment Description:** Wilderness Tide is not contained — it is repelled. The border wall of Zone E is the containment, and the Wardens are the mechanism. Each surge tests the wall; each recession proves it held. For 4,000 years, the wall has held. The Wardens intend to keep it that way.
 
 2. **Field Log:** *"Surge at Year 4232, Season 3, Day 17. Intensity: moderate. Residue depth: 3mm. Duration: 4 hours. Wall integrity: 98%. No casualties. The wilderness tested us today, and we held. It will test us again tomorrow. We will hold again."* — Watchtower Log, Outer Perimeter.
 
@@ -202,7 +202,7 @@ Wilderness Tide does not breach in the traditional sense — it is always pressi
 
 ## 감각 묘사 (Flavor Text)
 
-> **First contact:** The first sensation is the ground trembling — not shaking, but a deep, slow vibration, like something massive shifting beneath the earth. Then the air changes: it thickens, grows heavy, tastes of iron and wet stone. The horizon darkens. A wall of compressed, shimmering black air rises from beyond the Desolate — three meters, then five, then ten — and moves toward the city with the patience of a tide that has been coming for six thousand years and will come for six thousand more. The Wardens brace against the wall. The Watchtowers flash their warnings. And the Wilderness Tide arrives.
+> **First contact:** The first sensation is the ground trembling — not shaking, but a deep, slow vibration, like something massive shifting beneath the earth. Then the air changes: it thickens, grows heavy, tastes of iron and wet stone. The horizon darkens. A wall of compressed, shimmering black air rises from beyond the Desolate — three meters, then five, then ten — and moves toward the city with the patience of a tide that has been coming for four thousand years and will come for six thousand more. The Wardens brace against the wall. The Watchtowers flash their warnings. And the Wilderness Tide arrives.
 
 ## 상호작용 (Entity Interactions)
 
@@ -229,7 +229,7 @@ Wilderness Tide is the wilderness pressing forward. Not with malice — with *we
 
 Each surge is the same question, asked in the only language the wilderness knows: *pressure*. Can the wall hold? Can the Wardens endure? Can the city's structured Han withstand the raw, unending weight of everything it was built to keep out?
 
-For six thousand years, the answer has been yes.
+For four thousand years, the answer has been yes.
 
 The Wardens do not celebrate this. They log it, repair the wall, and wait for the next surge. Because the wilderness is patient. And the wall, for all its strength, is stone. And stone, given enough time and enough pressure, always erodes.
 

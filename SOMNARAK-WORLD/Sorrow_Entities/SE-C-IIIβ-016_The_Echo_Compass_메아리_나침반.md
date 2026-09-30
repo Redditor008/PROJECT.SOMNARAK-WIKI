@@ -370,7 +370,7 @@ The needle did not settle.
 
 It turned, slowly, through every point of the compass — north, east, south, west, and the unnamed directions between — and would not stop. The Keepers thought it broken. They recalibrated. They switched it on again. The needle turned again, the same unhurried rotation, never resting on a single bearing.
 
-Then the youngest Keeper understood, and the understanding broke something in him that never mended. The compass was not broken. It was accurate. It had been built to point toward forgotten memory — and forgotten memory was everywhere. Beneath every street, behind every wall, under every stone of Somnarak, the Weeping carried the lost remembrance of six thousand years of lives. There was no direction free of it. There was no bearing that did not lead to grief. The needle could not choose, because sorrow was not a location. Sorrow was the medium the city floated in.
+Then the youngest Keeper understood, and the understanding broke something in him that never mended. The compass was not broken. It was accurate. It had been built to point toward forgotten memory — and forgotten memory was everywhere. Beneath every street, behind every wall, under every stone of Somnarak, the Weeping carried the lost remembrance of four thousand years of lives. There was no direction free of it. There was no bearing that did not lead to grief. The needle could not choose, because sorrow was not a location. Sorrow was the medium the city floated in.
 
 The device never found a single memory. But the act of searching — the Keepers' grief for what was lost, the device's relentless turning, the dawning certainty that nothing forgotten could be un-forgotten — saturated the compass until it became something else. An Object entity. Void-element. A thing that had looked for memory and found only the absence of it.
 
@@ -401,7 +401,7 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 - Limit handling to 10 minutes; extended exposure causes existential paralysis.
 **Observation Notes:**
 - Built by Keepers to find forgotten memories. Found only grief.
-- The needle has not settled in six thousand years.
+- The needle has not settled in four thousand years.
 **Cross-References:** The Archive · The Keepers · The Weeping · The Memory Maze
 **Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** Cabal of Keepers, Forge District; built from Han-crystal and a Fractured Keeper’s last thought.
