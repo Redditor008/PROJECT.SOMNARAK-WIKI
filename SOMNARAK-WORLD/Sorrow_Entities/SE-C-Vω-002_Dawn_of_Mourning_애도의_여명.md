@@ -178,27 +178,63 @@ Dawn of Mourning operates by rules that no other entity follows. It does not hav
 ### M.A.W. Weapon — The Collar of Names
 
 **Type:** Weapon / Divine focus | **Grade:** ω | **Element:** Mixed (All Four)
+
 **Appearance:** A golden collar, smaller than the Dawn's original, inscribed with the names of every person the wielder has ever failed.
 
+**Damage:** Mixed 7–25
+**Speed:** 5 (Instant)
+**Range:** 5 (Room)
+**Max Amount:** 1
+**Cost:** 70 Sorrow Echoes
+
+**Attack Pattern:** AoE
+**Target Coverage:** Room-wide blast; center / inner / outer zones
+**Falloff Rule:** Center 100% → inner zone 70% → outer zone 50%.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+
+**Dual Element Normal + Tick:**
+- **Normal / Primary:** 7–25 Void direct.
+- **Tick / Secondary:** 3 Lament per second for 10 seconds.
+- **Interval:** 0.5 second(s) — 1.5 per tick, 30 total Lament.
+- **Assignment note:** Mourning Light is direct Void with lingering Lament grief.
+
 **Ability:** Channels all four sorrows simultaneously; the wearer can project Mourning Light, create temporary Fracture Zones, and sense the location of every sorrow-bearing entity within range.
+
 **Cost:** The collar is impossibly heavy. Extended use causes the wearer to hear the 3,000+ names whispered constantly. Prolonged wear may trigger a minor transformation chain.
 
 ### M.A.W. Suit — The Funeral Vestments
 
 **Type:** Armor (Suit) | **Grade:** ω | **Element:** Mixed
+
 **Appearance:** Flowing vestments that shift between white, violet, and grey — liquid grief given fabric form.
 
+**Resistances:**
+- Lament: 0.2 (Resistant)
+- Grudge: 0.2 (Resistant)
+- Void: 0.2 (Resistant)
+- Weight: 0.2 (Resistant)
+**Max Amount:** 1
+**Cost:** 65 Sorrow Echoes
+
 **Ability:** Grants 80% resistance to all four sorrow types. The vestments absorb incoming sorrow pressure and convert it into a protective aura. Once per encounter, the wearer can deploy the Crown of Sorrows as a defensive barrier.
+
 **Cost:** The wearer feels the weight of 3,000 names. Actions that involve hope or healing cause physical pain while wearing the vestments.
 
 ### M.A.W. Stigma — The Mourner's Tear
 
 **Type:** Accessory (Stigma) | **Grade:** ω | **Element:** Mixed
+
 **Appearance:** A single crystallized tear, violet-black, suspended on a thin chain. It is warm to the touch.
 
+**Slot:** Neck
+**Acquisition Probability:** 2%
+**Effect:** +4 stat bonus when working the source entity
+
 **Ability:** Once per day, the wearer can confess a sorrow — any sorrow — and have it temporarily transformed into protective pressure. The heavier the confessed sorrow, the stronger the protection.
+
 **Cost:** The sorrow returns after 24 hours, slightly heavier than before.
 
+*Stigmas are granted at random by the entity upon a successful work, not manufactured.*
 ## 관찰 기록 (Observation Log)
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.

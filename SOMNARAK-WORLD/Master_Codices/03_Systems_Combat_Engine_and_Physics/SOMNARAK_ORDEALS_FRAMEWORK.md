@@ -66,10 +66,10 @@ Each Ordeal Color represents a type of Han manifestation, paralleling Somnarak's
 **BLUE — "The Mourning Host"**
 Formed from accumulated Lament Han. They weep, wail, and assault the mind. Multiple translucent figures that drain Composure and force personnel to relive grief. They move in groups, moaning, and their attacks are emotional rather than physical — a room of BLUE Ordeals can reduce a team to weeping in seconds. Weak individually; overwhelming in swarms.
 
-**BLACK — "The Crushing Tide"**
+**OBSIDIAN (archival Black) — "The Crushing Tide"**
 Formed from accumulated Weight Han. They are slow, dense, and physically devastating. Dark, heavy figures that crush, flatten, and press down. Their attacks are purely physical — broken bones, collapsed corridors, pinned personnel. They move slowly but hit with the force of collapsing buildings. Resistant to emotional and identity attacks; vulnerable only to overwhelming physical force or speed.
 
-**PALE — "The Fading"**
+**ASHEN (archival Pale) — "The Fading"**
 Formed from accumulated Void Han. They erase — identity, memory, presence, existence. Featureless, pale-white figures that drain Clarity and cause personnel to forget who they are, where they are, and why they came. They are silent, cold, and the most psychologically terrifying: a PALE Ordeal does not kill the body; it erases the person inside it, leaving an empty shell that must be carried out.
 
 **GREY — "The Resentful March"**
@@ -186,7 +186,7 @@ The Hand of Change maintains a **Han-Density Gauge** that measures the concentra
 ### Ordeal Warning System
 
 When an Ordeal is about to spawn, the R.D. issues a **Color-and-Time Warning** through the facility's Whisper-Thread network. The warning identifies:
-- **Color** (BLUE / BLACK / PALE / GREY / PURPLE)
+- **Color** (BLUE / OBSIDIAN / ASHEN / GREY / PURPLE)
 - **Time** (First Watch / Second Watch / Third Watch / Tide Watch)
 - **Estimated spawn location** (floor, corridor, sector)
 - **Recommended response team**
@@ -288,8 +288,8 @@ SOMNARAK-WORLD/Ordeals/
 Named by Color + Time:
 ```text
 Ordeal_BLUE_First_Watch_The_Weeping_Cluster.md
-Ordeal_OBSIDIAN_Tide_Watch_The_Drowned_Choir.md
-Ordeal_PURPLE_Third_Watch_The_Violent_Surge.md
+Ordeal_OBSIDIAN_Tide_Watch_The_Sinking_Continent.md
+Ordeal_PURPLE_Third_Watch_The_Bloom_Hosts.md
 ```
 
 Each Ordeal file follows the **Ordeal File Template** (Section IV).

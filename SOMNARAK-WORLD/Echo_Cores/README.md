@@ -30,6 +30,8 @@ Each Echo-Core represents a fundamental aspect of human will, endurance, and sor
 
 *(Note: Floor 7 is administered as the Shadow Corps operational sector, co-monitored by Zyrak and Seiyon.)*
 
+> **Command-floor canon:** Echo-Core N commands Floor (N−1) for N = 2–9 (e.g. Marjuk, Echo-Core 7, keeps Floor 6). Echo-Core 1 (Director Majin) holds Floor 1 (Spires) alongside Echo-Core 2 (Secretary Seiyon, Central Admin). Any dossier pairing that breaks this rule is a defect.
+
 ---
 
 ## Canonical Armament Classifications

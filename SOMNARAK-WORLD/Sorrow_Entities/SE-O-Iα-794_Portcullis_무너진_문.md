@@ -11,7 +11,7 @@
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A collapsed door beneath layers of tunnel stone, its frame still upright while the door has fallen inward — a threshold broken from the inside. Salt-cold, it smells of cold rain; something fell through it long ago, and it never closed. |

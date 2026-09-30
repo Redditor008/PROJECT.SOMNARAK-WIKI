@@ -11,7 +11,7 @@
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — A rusted iron mass embedded in the border ground, shaped like a weight at the end of an invisible chain — corroded, bleeding orange rust, sunk halfway into the earth. Fever-cold and lead-heavy, it smells of char and wet iron; the unseen chain pulls toward something distant. |

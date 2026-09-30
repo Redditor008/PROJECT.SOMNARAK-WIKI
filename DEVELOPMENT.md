@@ -108,7 +108,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 └── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
     ├── README.md                           # Overview of the reference standards folder
     ├── ABSOLOVHAN_REPAIR_NOTES.md          # Canon harmonization and repair notes for Absolvohan texts
-    ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 285 unique Sorrow Entities
+    ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 284 unique Sorrow Entities
     ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
     ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the foundational codices
     ├── ALL_FILES_AUDIT_MANIFEST.md         # Comprehensive manifest of all reference files

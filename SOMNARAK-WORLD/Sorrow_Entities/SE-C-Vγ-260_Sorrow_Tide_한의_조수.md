@@ -378,6 +378,16 @@ Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppresse
 **Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Sovereign Manifestation Log
+
+The Tide's manifestation is the city's own breathing made visible. By day, grief is suppressed — worked, logged, carried quietly through the shifts — and the Tide withdraws to a low shimmer along the ward-lines. By night it returns: corridor acoustics deepen, the holding cells grow restless in waves, and the night-shift logs fill with the same phrase in different handwriting, *"the building is dreaming."* The Directorate's tidal charts, kept continuously for four hundred years, show the pattern never once breaking — not during sieges, not during blackouts, not during the three days the Maw went silent.
+
+Twice a cycle the Tide runs extreme — a spring tide of sorrow that floods the lower galleries — and twice a cycle the Directorate plans around it the way harbor cities plan around the moon.
+
+## City-Scale Impact & Directorate Posture
+
+No Sovereign shapes daily life more than the Tide, and none is fought less. Posture is rhythmic rather than martial: heavy works scheduled for low tide, sensitive extractions forbidden at high water, and the Tide vigils — quiet watches in which a single warden sits with the night-shift grief and simply keeps it company until ebb. New wardens are taught the Tide lesson in their first week: *the city does not sleep; it breathes. Work with the breath and the water carries you. Work against it and you drown standing up.*
+
 ## Trivia
 
 - The Tide's peak varies with city-wide events.

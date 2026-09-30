@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A tall figure whose body resembles a tower split cleanly down the middle, burning at the seam, its upper half leaning toward a skyline that is not there. Stone-flesh and live fire braided together; bloodless-cold and fever-hot. It smells of ash and char. |

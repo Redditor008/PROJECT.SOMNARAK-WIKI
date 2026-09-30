@@ -11,7 +11,7 @@
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Mixed — There is no body, only a seed-shaped hollow pressed into dark, lifeless soil, ringed by the black threads of dead roots reaching toward a center that is not there. The earth inside is ash-cold and grows nothing. Touch the absence and your fingertips come away damp, as though the ground itself weeps for what was never allowed to be. |

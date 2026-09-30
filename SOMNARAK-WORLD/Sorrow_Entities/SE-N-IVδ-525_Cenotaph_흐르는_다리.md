@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid figure whose body flows like a bridge over moving water — its torso a span, its arms reaching to shelter people who are already gone. Fever-cold, it smells of char; it carries the lost across a river that is not there. |

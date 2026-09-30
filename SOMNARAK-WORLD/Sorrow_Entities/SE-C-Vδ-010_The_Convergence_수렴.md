@@ -389,6 +389,16 @@ Some sorrows are partial. The Convergence is total — the Three Birds merged in
 **Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Sovereign Manifestation Log
+
+The Convergence has manifested completely only once in recorded history, and the record of that manifestation is a sealed folio no living warden has read. What the archive holds instead are the partial descents: the sky over the containment wing darkening at noon, three shadows merging into one across the courtyard stones, every held Bird entity in the facility falling silent at the same instant. Each partial descent ends before completion — the shadows separating, the silence lifting — leaving behind a single black feather that dissolves into ash when touched and a residual dread the clerks log as *"the shape of being watched by something that has finished watching."*
+
+The Birds do not merge by violence. They merge by agreement, and the Directorate's entire containment science is devoted to ensuring they never agree.
+
+## City-Scale Impact & Directorate Posture
+
+Posture toward the Convergence is the facility's most expensive standing operation: the three-cell separation protocol that keeps the witnessing, judging, and protecting aspects housed in different wings, worked by different shifts, and retired from service on staggered calendars so no two ever rest at once. Above the protocol sits the mourning rite — the Directorate formally grieves each Bird's sorrow as its own, on the theory, taught by Marjuk himself, that *witnessed grief has no need to converge.* The Convergence is the Sovereign the Directorate defeats daily by the simple act of paying attention.
+
 ## Trivia
 
 - The Convergence has formed seven times.

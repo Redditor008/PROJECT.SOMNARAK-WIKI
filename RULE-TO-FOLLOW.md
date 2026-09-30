@@ -307,7 +307,7 @@ Never collapse these states into the single word "done."
    - All operations, descent logs, and purge chronicles of the founding tripartite wings occur strictly **BEFORE** the Dawn of Hope in sequential progression:
      1. **SED (Subterranean Expedition Division / Katabagil):** The seven descent passages exploring the ancient subterranean bedrock. Operates on calendar years and depth meters (no cycle tracking).
      2. **UCD (Underworld Cleanup Descend / Katharcheok):** The six pacification purges in The Raw against the underworld syndicates. Operates on calendar years and tactical turns (no cycle tracking).
-     3. **R.D. (The Reverie Directorate / The Absolvohan):** Containment of the 292 standard Sorrow Entities, harvesting of Liquid Han, and the internal 1,778-Cycle loops within Facility 01. The SOLE division that uses and experiences the Cycle system.
+     3. **R.D. (The Reverie Directorate / The Absolvohan):** Containment of the 291 standard Sorrow Entities, harvesting of Liquid Han, and the internal 1,778-Cycle loops within Facility 01. The SOLE division that uses and experiences the Cycle system.
 3. **The Watershed Climax (The Dawn of Hope):**
    - The Hand of Hope opens at the culmination of Cycle 1,778 in Year 4,238, transmuting the first 15% of ambient sorrow into resonant Hope Entities. Primary mandates of SED, UCD, and R.D. conclude; R.D. Cycle 1,778 ends.
 4. **The Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):**

@@ -10,7 +10,7 @@
 | **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A thin crimson trace spreading slowly across floors, walls, and empty surfaces — the shape of a footprint with no walker making it. Fever-cold, it smells of char; follow it and it leads to no one. |

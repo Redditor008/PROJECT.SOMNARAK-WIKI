@@ -47,6 +47,8 @@
 | **Gieok Reading** | `Reading_{{N}}_{{Name}}.md` | `Reading_1_First_Keeper.md` |
 | **Story Canto** | `CANTO_{{XX}}_{{TITLE}}_{{NAME}}.md` | `CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md` |
 
+*Example filenames in the table above are illustrative; no such files are required to exist.*
+
 ---
 
 ## KOREAN BUFFER RULE (Outside Boxes Only)

@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Non-Organic — Less a body than a burning pressure, shaped like a relic carried just beneath the skin — visible only as a red outline flaring around objects fading from memory. Nothing solid to grasp; only heat and glow. Fever-hot, it smells of char and old smoke. |

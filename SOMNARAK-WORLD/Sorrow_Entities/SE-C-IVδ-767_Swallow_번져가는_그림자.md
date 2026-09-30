@@ -10,7 +10,7 @@
 | **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — Less a body than a place of dimming light — a large shadow that spreads across floors and walls with no visible source casting it, swallowing detail as it goes. Salt-cold and damp, it smells of cold rain; there is nothing to strike, only the spreading dark. |

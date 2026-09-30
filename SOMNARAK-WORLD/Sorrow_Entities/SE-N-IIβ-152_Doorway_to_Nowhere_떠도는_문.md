@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning door-shaped figure that walks on a threshold with no wall around it — a frame of charred wood and live fire, its handle opening onto a different memory each time. Fever-warm, it smells of cold rain and char; a door that comes to you. |

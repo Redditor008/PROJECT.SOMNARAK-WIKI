@@ -393,7 +393,7 @@ index_html = """<!DOCTYPE html>
     <div class="cycle-tag">CYCLE 1,778 // THE ABSOLVOHAN OPERATIONAL CONTROL</div>
     <div class="status-ticker">
       <div class="pulse-dot"></div>
-      <span>ATMOSPHERIC WATCH: LEVEL 1 — STABLE (292 ENTITIES SECURED)</span>
+      <span>ATMOSPHERIC WATCH: LEVEL 1 — STABLE (291 ENTITIES SECURED)</span>
     </div>
   </div>
 
@@ -417,13 +417,13 @@ index_html = """<!DOCTYPE html>
     <div class="hero-badge">THE ABSOLVOHAN MASTER PORTAL // GITHUB PAGES ROOT</div>
     <h2>Contain Sorrow. Refine Han. Endure the Cycles.</h2>
     <p>
-      Deep beneath Somnarak City lies The Absolvohan — a colossal subterranean containment monolith where human sorrow manifests as volatile entities. Navigate through encyclopedic archives, dramaturgical chronicles, tactical combat simulators, Project Moon style game wikis, and the complete 292 Sorrow Entity vault.
+      Deep beneath Somnarak City lies The Absolvohan — a colossal subterranean containment monolith where human sorrow manifests as volatile entities. Navigate through encyclopedic archives, dramaturgical chronicles, tactical combat simulators, Project Moon style game wikis, and the complete 291 Sorrow Entity vault.
     </p>
 
     <!-- Audited Status Strip -->
     <div class="metrics-strip">
       <div class="metric-card">
-        <div class="num" style="color: var(--accent-cyan);">292 / 292</div>
+        <div class="num" style="color: var(--accent-cyan);">291 / 291</div>
         <div class="label">Sorrow Entities Audited (100%)</div>
       </div>
       <div class="metric-card">
@@ -538,10 +538,10 @@ index_html = """<!DOCTYPE html>
           <h3>COLLECTION HUB</h3>
           <div class="korean-sub">아카이브 및 무기고 · Akaibeu mit Mugigo</div>
           <p>
-            The master specimen and equipment archive. Access all 292 individualized Sorrow Entity dossiers, 287+ SVG M.A.W. vector weapon schematics, the 131-relic Tool Abnormality catalog (Cogitopedia format), and full architectural blueprints of Somnarak City.
+            The master specimen and equipment archive. Access all 291 individualized Sorrow Entity dossiers, 287+ SVG M.A.W. vector weapon schematics, the 131-relic Tool Abnormality catalog (Cogitopedia format), and full architectural blueprints of Somnarak City.
           </p>
           <div class="quick-tags">
-            <span class="quick-tag">292 SE Vault</span>
+            <span class="quick-tag">291 SE Vault</span>
             <span class="quick-tag">287+ SVG Weapons</span>
             <span class="quick-tag">Tool Relics</span>
             <span class="quick-tag">City Blueprints</span>
@@ -558,7 +558,7 @@ index_html = """<!DOCTYPE html>
   <!-- Global Footer -->
   <footer>
     <p>PROJECT SOMNARAK // THE ABSOLVOHAN MONOLITHIC ARCHIVES</p>
-    <p>Branch: <span class="version-tag">arena/01a0b699-project-somnarak-wiki</span> · Canonical Cycle: 1,778 · Verified SE Total: 292</p>
+    <p>Branch: <span class="version-tag">arena/01a0b699-project-somnarak-wiki</span> · Canonical Cycle: 1,778 · Verified SE Total: 291</p>
     <p style="margin-top: 8px; font-size: 0.72rem; color: #484f58;">
       Compliant with SECC Standards, Two-Work-Type Containment Law & Unified Project Moon System Translation.
     </p>

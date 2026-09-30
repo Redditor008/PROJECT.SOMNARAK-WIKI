@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A small humanoid of melting crimson wax, speaking in a whisper that dissolves into nothing before it can be heard. Fever-warm, it smells of char and tallow; a confession that melts before it finishes. |

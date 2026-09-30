@@ -88,7 +88,7 @@ def run_all_file_check():
     ue_files = [f for f in sw_files if f.startswith("SOMNARAK-WORLD/Unknown_Entities/") and f.endswith(".md") and not f.endswith("README.md")]
     echo_files = [f for f in sw_files if f.startswith("SOMNARAK-WORLD/Echo_Cores/") and f.endswith(".md") and not f.endswith("README.md")]
     
-    print(f"Unique Sorrow Entity Dossiers          : {len(se_files)} (Target: 292 PASS)")
+    print(f"Unique Sorrow Entity Dossiers          : {len(se_files)} (Target: 291 PASS)")
     print(f"M.A.W. Equipment Profiles Dossiers     : {len(maw_files)} (Target: 1,165 PASS)")
     print(f"Ordeals Roster Files                   : {len(ordeal_files)} (Target: 60 PASS)")
     print(f"Hope Transformations Dossiers          : {len(ht_files)} (Target: 14 PASS)")

@@ -4,7 +4,7 @@
 
 The **Archival Codex**  [기록 보관소 편람]  (_Girok Bogwanso Pyeonram_) establishes the standardized 18-section architectural blueprint used to document every [Sorrow Entity](07-Sorrow%20Entities.md) in Facility 01.
 
-To ensure consistency across 292 dossiers, archival researchers follow a rigorous sequence of sections. This standardized framework guarantees that every contained sorrow is thoroughly mapped from its basic parameters to its deepest narrative origins.
+To ensure consistency across 291 dossiers, archival researchers follow a rigorous sequence of sections. This standardized framework guarantees that every contained sorrow is thoroughly mapped from its basic parameters to its deepest narrative origins.
 
 ```text
 +========================================================================+

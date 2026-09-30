@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A weeping bridge-shaped figure descending through the tunnels — its arches curved like ribs, its surface wet with crystallized tears that never dry. Salt-cold and damp, it smells of cold rain; it sinks as though drowning, slowly, forever. |

@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) — Resentful and angry |
 | **Potency** | Major (γ) — High danger as group entity |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A muscular, middle-aged man of true flesh and bone, fists clenched at his sides, his face locked between anger and exhaustion. His skin is flushed dark, heat radiating from him; tendons stand out in his neck and forearms. He is fever-hot, and the air carries the smell of char and old smoke. |

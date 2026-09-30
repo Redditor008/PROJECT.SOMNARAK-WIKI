@@ -11,7 +11,7 @@
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A fractured crystal object that emits broken fragments of whispers — half-words, cut-off names — drifting without purpose. Salt-cold, it smells of cold rain; a sentence that shattered before it finished. |

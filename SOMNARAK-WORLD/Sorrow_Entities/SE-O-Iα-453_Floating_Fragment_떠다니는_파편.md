@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A small burning fragment that floats at shoulder height, flickering between a coal and the outline of a crying figure. Fever-warm, it smells of cold rain and char; a piece of someone, still warm, drifting. |

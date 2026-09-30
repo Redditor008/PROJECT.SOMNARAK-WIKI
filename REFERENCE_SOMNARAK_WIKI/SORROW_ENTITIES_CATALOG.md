@@ -1,14 +1,16 @@
 # Master Sorrow Entities Catalog
 
 **Archive Authority:** Reverie Directorate & Facility 01 Containment Division  
-**Total Registered Entities:** 285 Unique Canonical Sorrow Entities  
+**Total Registered Entities:** 284 Unique Canonical Sorrow Entities  
 **Source Repository:** `SOMNARAK-WORLD/Sorrow_Entities/`
 
 ---
 
 ## Taxonomy & Classification Index
 
-This catalog indexes all 285 unique Sorrow Entities currently documented in Facility 01 containment. Threat ratings correspond to the classical SECC scale: `ZAYIN` (I), `TETH` (II), `HE` (III), `WAW` (IV), and `ALEPH` (V).
+This catalog indexes all 284 unique Sorrow Entities currently documented in Facility 01 containment. Threat ratings correspond to the classical SECC scale: `ZAYIN` (I), `TETH` (II), `HE` (III), `WAW` (IV), and `ALEPH` (V).
+
+> **Index scope:** 284 rows. The two Kind-Healer transformation-progression variants (`SE-C-Iα-071b`, `SE-C-Iα-071c`) file under base code `C-Iα-071`; five single-use Tool Relics (`C-IIIβ-072`, `C-Iα-114`, `N-IIβ-319`, `O-IIIγ-412`, `O-IVδ-515`) are pending indexation. The former duplicate dossier `SE-C-Vω-044` was merged into `SE-C-Vω-002` and its row removed.
 
 | SECC Code | English Codename | Korean Designation | Threat Tier | Elemental Affinity | Primary Dossier |
 |---|---|---|---|---|---|
@@ -40,7 +42,6 @@ This catalog indexes all 285 unique Sorrow Entities currently documented in Faci
 | `SE-C-IVβ-042` | **The Angry Maiden** | 분노의 처녀 | WAW (IV) | Grudge (Crimson) | [`SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) |
 | `SE-C-IVβ-043` | **The Silent Maiden** | 침묵의 처녀 | WAW (IV) | Void (Pale White) | [`SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md) |
 | `SE-C-IIIγ-044` | **The Broken Clock** | 부서진 시계 | HE (III) | Weight (Black) | [`SE-C-IIIγ-044_Broken_Clock_부서진_시계.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-044_Broken_Clock_부서진_시계.md) |
-| `SE-C-Vω-044` | **Dawn of Mourning** | 애도의 새벽 | Unclassified | All Four — Lament, Grudge, Void, Weight (no Hope remains) | [`SE-C-Vω-044_Dawn_of_Mourning_애도의_새벽.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-044_Dawn_of_Mourning_애도의_새벽.md) |
 | `SE-C-IIβ-048` | **Hums** | 노래하는 돌 | TETH (II) | Lament (Deep Blue) | [`SE-C-IIβ-048_Hums_노래하는_돌.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-048_Hums_노래하는_돌.md) |
 | `SE-C-IIβ-051` | **The Happy Mask** | 행복한 가면 | TETH (II) | Void (Pale White) | [`SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) |
 | `SE-C-IIβ-054` | **The Empty Mask** | 빈 가면 | TETH (II) | Weight (Black) | [`SE-C-IIβ-054_The_Empty_Mask_빈_가면.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) |

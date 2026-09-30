@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — An ethereal breath moving through the Old Lament as a voice with no body — visible only as a pale trail hanging in cold air. Bloodless-cold, it smells of ash; a sigh that left its speaker and never stopped wandering. |

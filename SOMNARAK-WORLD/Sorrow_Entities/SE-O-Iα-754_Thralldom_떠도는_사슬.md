@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A serpent-creature of interlocked chain-links that crawls and burns through corridors, no head and no tail, dragging itself with a predator's patience. Fever-hot, it smells of char; a steel worm hunting the dark. |

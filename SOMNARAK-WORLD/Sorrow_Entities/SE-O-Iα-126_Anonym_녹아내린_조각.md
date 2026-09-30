@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — A melting shard perceived inside consciousness rather than space — a figure assembled from pale fragments that watches without eyes. Bloodless-cold, it smells of ash; the fragments dissolve and reform as you try to focus on them. |

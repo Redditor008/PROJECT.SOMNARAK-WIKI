@@ -35,7 +35,7 @@ def make_box():
     out.append(pad_line("   - Library of Ruina: Memory Leaves, Deckbuilding, Clashes, Realize."))
     out.append(pad_line("   - Limbus Company: Sinner IDs, Plus/Minus Coins, SP math, Sin."))
     out.append(pad_line("   - Project Somnarak: 10-Node Grid, Han ATK/HP math, Two-Work Law."))
-    out.append(pad_line("5. COLLECTION HUB: 292 Sorrow Entities, 287+ SVG Armory, Relics."))
+    out.append(pad_line("5. COLLECTION HUB: 291 Sorrow Entities, 287+ SVG Armory, Relics."))
     out.append(div)
     
     # Sec 3
@@ -70,9 +70,9 @@ def make_progress_box():
     out.append(pad_line("P.M. Gaming Sectors Specified: 4 / 4 (L Corp, LoR, Limbus, Somnarak)"))
     out.append(pad_line("Master Front Home Page: docs/index.html Deployed"))
     out.append(pad_line("Dedicated Game Wiki Portal: docs/game-wiki/index.html Deployed"))
-    out.append(pad_line("Pan-Archive SE Compliance: 292 / 292 Files Verified (100.0%)"))
+    out.append(pad_line("Pan-Archive SE Compliance: 291 / 291 Files Verified (100.0%)"))
     out.append(pad_line("Two-Work-Type Rule Compliance: 131 / 131 Non-Subject Files (100.0%)"))
-    out.append(pad_line("Core Stat Line Audit: 292 / 292 Files Verified (100.0%)"))
+    out.append(pad_line("Core Stat Line Audit: 291 / 291 Files Verified (100.0%)"))
     out.append(top)
     
     for idx, r in enumerate(out):

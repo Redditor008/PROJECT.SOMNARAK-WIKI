@@ -24,7 +24,7 @@ Within Facility 01, sorrow is never filed by poetic name alone. Every entity is 
 - [2 Domain Prefixes: Geographical and Ontological Origin](#2-domain-prefixes-geographical-and-ontological-origin)
 - [3 Risk Numerals: Threat Ranks (I to V)](#3-risk-numerals-threat-ranks-i-to-v)
 - [4 Potency Suffixes: Volatility Sub-Tiers (Alpha to Omega)](#4-potency-suffixes-volatility-sub-tiers-alpha-to-omega)
-- [5 Archival Index Register (001 to 292)](#5-archival-index-register-001-to-292)
+- [5 Archival Index Register (001 to 291)](#5-archival-index-register-001-to-291)
 - [6 Ten Concrete Practical Decryption Examples](#6-ten-concrete-practical-decryption-examples)
 - [7 Archival Registration Protocol for Newly Extracted Sorrows](#7-archival-registration-protocol-for-newly-extracted-sorrows)
 - [8 Gallery](#8-gallery)
@@ -41,7 +41,7 @@ Each segment encodes vital tactical information:
 2. **Domain:** Single-letter indicator of ontological and geographical origin.
 3. **Risk Rank:** Roman numeral (I through V) defining threat level.
 4. **Potency Suffix:** Greek letter defining secondary behavioral lethality.
-5. **Archival Index:** Three-digit registered sequence number (001 to 292).
+5. **Archival Index:** Three-digit registered sequence number (001 to 291).
 
 ## 2 Domain Prefixes: Geographical and Ontological Origin
 
@@ -68,7 +68,7 @@ The Greek letter modifier attached to the risk numeral refines behavioral volati
 - **`γ` (Gamma - Severe):** Highly volatile; drops escape counter on secondary triggers.
 - **`ω` (Omega - Catastrophic):** Unstoppable breach velocity; existential lethality.
 
-## 5 Archival Index Register (001 to 292)
+## 5 Archival Index Register (001 to 291)
 
 The final three-digit segment denotes the chronological order of registration in the facility master ledger (e.g., `001` through `292`).
 

@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Non-Organic — A humanoid shadow with no face, drifting through the Desolate and singing softly — a low wandering song. It understands anyone who watches it, though it cannot be understood in turn. Salt-damp, it smells of cold rain; the shade of someone the world forgot. |

@@ -12,7 +12,7 @@ Before the **Hand** learned to refine liquid **Han** into **Lumen**, sorrows wer
 +========================================================================+
 | SOMNARAK - SORROW ENTITIES MASTER BESTIARY                             |
 +------------------------------------------------------------------------+
-| Total Tracked SE       | 292 entities (529 files, 285 unique SECC)     |
+| Total Tracked SE       | 291 entities (291 files, 284 unique SECC)     |
 | Risk Classifications   | Whisper - Murmur - Fragment - Entity - Starles|
 | Standard Work-Types    | Viderehan - Ferrehan - Flerehan - Pugnahan    |
 | Damage Pressures       | Grudge - Lament - Void - Weight               |
@@ -157,7 +157,7 @@ A strict foundational law of Somnarak containment physics is the **Two-Work-Type
 - **Subject Entities** (mobile organisms with distinct biological or cognitive forms) permit all four work types: 👁 **Viderehan**, 🤲 **Ferrehan**, 💧 **Flerehan**, and ⚔ **Pugnahan**.
 - **Relic Entities** (stationary objects, geographical spaces, temporal anomalies, and hazardous tools) permit **only** 👁 **Viderehan** (Observation) and 🤲 **Ferrehan** (Endurance). They reject emotional empathy (💧 **Flerehan**) and physical suppression (⚔ **Pugnahan**); attempting either results in immediate operational failure.
 
-Across the archive, 283 of 292 entities strictly conform to this physical partition.
+Across the archive, 283 of 291 entities strictly conform to this physical partition.
 
 ## 8 Tool Sorrow Entities
 

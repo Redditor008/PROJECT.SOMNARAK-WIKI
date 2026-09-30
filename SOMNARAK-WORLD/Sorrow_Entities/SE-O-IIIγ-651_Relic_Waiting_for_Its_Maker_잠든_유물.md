@@ -11,7 +11,7 @@
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — Not a body but a chamber in the Mask Market: an unnamed relic asleep beneath walls that bend inward toward it, as if listening. Bloodless-cold, it smells of ash; the relic has never been identified, and never wakes. |

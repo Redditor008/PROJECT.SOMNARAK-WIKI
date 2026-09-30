@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — A voice-shaped absence that moves through the Commons, making all sound vanish in a widening radius. Bloodless-cold, it smells of ash; no body — only the spreading quiet, and the pressure of unsaid things. |

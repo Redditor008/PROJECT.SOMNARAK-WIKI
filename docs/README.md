@@ -30,7 +30,7 @@ The `/docs` directory serves as the public **GitHub Pages publishing root** for 
 
 ### Strict Canonical Data Source Mandate
 All content, mechanics, lore, scenarios, and navigation links within the `/docs` ecosystem are derived strictly and exclusively from two primary repositories:
-1. **`SOMNARAK-WORLD`**: The master archive containing the 292 Sorrow Entity dossiers, MAW armory sets, cosmology, cantos, organizations, and municipal codices.
+1. **`SOMNARAK-WORLD`**: The master archive containing the 291 Sorrow Entity dossiers, MAW armory sets, cosmology, cantos, organizations, and municipal codices.
 2. **`GAME_BATTLE`**: The tactical combat and simulation archive containing 10-node grid battle scenarios, boss mechanics, cycle engrams, and realization systems.
 
 No external or temporary sandbox directories are referenced.
@@ -43,7 +43,7 @@ No external or temporary sandbox directories are referenced.
        |                    |                         |                         |                    |
        v                    v                         v                         v                    v
  [ 1. WIKI HUB ]     [ 2. STORY HUB ]          [ 3. GAME HUB ]        [ 4. GAME WIKI HUB ]   [ 5. COLLECTION HUB ]
-  - World Lore        - Story Cantos 01-06     - 10-Node Spatial Grid  - P.M. Wiki.gg/Fandom  - 292 Sorrow Entities
+  - World Lore        - Story Cantos 01-06     - 10-Node Spatial Grid  - P.M. Wiki.gg/Fandom  - 291 Sorrow Entities
   - SECC Codices      - 1,778 Cycle Logs       - Tactical Scenarios    - L Corp Management    - 287+ SVG Weapons
   - Factions/Cadres   - Echo-Core Realize      - Boss Mechanics        - LoR Combat Decks     - Tool Relic Dossiers
   - Comparative Text  - Operator Incident Logs - Squad Archetypes      - Limbus Sin Database  - Blueprint Schematics
@@ -164,7 +164,7 @@ No external or temporary sandbox directories are referenced.
 - **Source:** `SOMNARAK-WORLD/Sorrow_Entities/` & `SOMNARAK-WORLD/MAW_Codex_Sets/`
 - **Core Focus:** Curated specimen archives, visual art assets, hardware showcases, and audio vaults.
 - **Key Modules & Routes:**
-  1. **The 292 Sorrow Entity Master Vault:** Complete individual dossiers for all 292 Sorrow Entities, containing verified Core Stat Lines, Tales, Appearances, and Breach Behaviors (`SOMNARAK-WORLD/Sorrow_Entities/`).
+  1. **The 291 Sorrow Entity Master Vault:** Complete individual dossiers for all 291 Sorrow Entities, containing verified Core Stat Lines, Tales, Appearances, and Breach Behaviors (`SOMNARAK-WORLD/Sorrow_Entities/`).
   2. **The M.A.W. Armory (287+ SVG Weapons):** Hand-crafted vector silhouettes for every single weapon in the registry, showcasing custom blades, fangs, mauls, lenses, clocks, and relics in batch-1 chrome finish (`SOMNARAK-WORLD/MAW_Codex_Sets/`).
   3. **Relic-Entity / Tool Relic Catalog:** The 131 non-subject artifacts categorized by operational profile (Single Use, Channeled Use, Equippable) with tiered Log & Method unlock tables.
   4. **Architectural Blueprints:** `SOMNARAK_CITY_LAYOUT.svg` and `THE_HAND_DR_LAYOUT.svg`.
@@ -213,6 +213,6 @@ No external or temporary sandbox directories are referenced.
 - [x] Architectural specification compiled at `docs/README.md` and `docs/FRONT_HOME_PAGE_SPECIFICATION.md`.
 - [x] Canonical data sources strictly restricted to `SOMNARAK-WORLD` and `GAME_BATTLE`.
 - [x] Five Master Pillars defined with direct routes into canonical repositories.
-- [x] Integration with 292 Sorrow Entities, 287+ SVG M.A.W. weapons, and tactical scenarios verified.
+- [x] Integration with 291 Sorrow Entities, 287+ SVG M.A.W. weapons, and tactical scenarios verified.
 - [x] Full PM Wiki.gg & Fandom coverage specified for Lobotomy Corporation, Library of Ruina, and Limbus Company.
 - [x] Zero external/temporary sandbox references in public documentation.

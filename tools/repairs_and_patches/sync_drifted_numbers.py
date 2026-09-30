@@ -2,7 +2,7 @@
 f1 = "SOMNARAK-WORLD/Tactical_Combat_Engine/WHAT_CAN_BE_DONE.md"
 with open(f1, "r", encoding="utf-8") as fp:
     c1 = fp.read()
-c1_new = c1.replace("287 Sorrow Entities", "292 Sorrow Entities")
+c1_new = c1.replace("287 Sorrow Entities", "291 Sorrow Entities")
 with open(f1, "w", encoding="utf-8") as fp:
     fp.write(c1_new)
 

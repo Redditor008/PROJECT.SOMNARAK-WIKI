@@ -80,7 +80,7 @@ SOMNARAK-WORLD/
 │
 ├── Katharcheok/                        # Underworld Cleanup Descend (UCD) Six Pacification Sweeps
 │   ├── README.md                       # Underworld pacification doctrine in The Raw
-│   └── Operation_1_Velumtal.md through Operation_6_Thanatong.md
+│   └── Operation_1_Velumtal.md through Operation_6_Basileugung.md
 │
 ├── Gieok_Jeojangso/                    # The Memory Archive Seven Strata Readings
 │   ├── README.md                       # Post-Dawn strata realizations and combat encounters
@@ -88,7 +88,7 @@ SOMNARAK-WORLD/
 │
 ├── Jipyeongseondae/                    # The Horizon Caravan Six Trans-Desolate Expedition Arcs
 │   ├── README.md                       # Post-Dawn overland exploration across The Desolate
-│   └── Arc_1_Departure.md through Arc_6_Horizon_Edge.md
+│   └── Arc_1_Departure.md through Arc_6_The_Mugeukji_Attempt.md
 │
 ├── MAW_Codex_Sets/                     # 1,208 Equipment Files across 42 Range Registries
 │   ├── README.md                       # Extraction parameters, stat matrices, and suit traits

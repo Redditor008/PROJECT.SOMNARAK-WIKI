@@ -11,7 +11,7 @@
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A heavy fragment of black crystal, broken clean from some unknown monument, resting on the ground yet pressing through the surface as though still part of something larger. Lead-cold, it smells of wet stone; a piece of a thing no one can name. |

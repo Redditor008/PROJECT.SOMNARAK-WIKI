@@ -11,7 +11,7 @@
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A mirror of red-black ice that drifts with the Desolate's cold currents, its surface reflecting grief back as frozen anger. Fever-cold, it smells of char; look in and your sorrow comes out hard and still. |

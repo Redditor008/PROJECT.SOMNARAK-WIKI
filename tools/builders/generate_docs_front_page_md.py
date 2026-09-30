@@ -36,7 +36,7 @@ Instead, **`docs/index.html` is the brand-new FRONT HOME PAGE**—an immersive, 
        |                               |                               |
        v                               v                               v                               v
  [ 1. WIKI HUB ]               [ 2. STORY HUB ]                [ 3. GAME HUB ]               [ 4. COLLECTION HUB ]
-  - World Encyclopedia          - 1,778 Cycle Logs              - 10-Node Spatial Grid         - 292 Sorrow Entities
+  - World Encyclopedia          - 1,778 Cycle Logs              - 10-Node Spatial Grid         - 291 Sorrow Entities
   - SECC Classifications        - SED / UCD Story Arcs          - Action Slot Turn Battle      - 287+ SVG M.A.W. Armory
   - Factions & Cadres           - Animatic Storyboards          - Speed Dice Clashing          - Relic-Entity Catalog
   - Systems Comparison          - Secretary Meltdowns           - Workshop Forging Gacha       - Audio & Visual Assets
@@ -99,7 +99,7 @@ Instead, **`docs/index.html` is the brand-new FRONT HOME PAGE**—an immersive, 
 ### Pillar IV: The COLLECTION Hub (  수집 허브   / *Sujip Heobeu*)
 - **Core Focus:** Curated specimen archives, visual art assets, hardware showcases, and audio vaults.
 - **Key Modules & Routes:**
-  1. **The 292 Sorrow Entity Master Vault:** Complete individual dossiers for all 292 Sorrow Entities, containing verified Core Stat Lines, Tales, Appearances, and Breach Behaviors.
+  1. **The 291 Sorrow Entity Master Vault:** Complete individual dossiers for all 291 Sorrow Entities, containing verified Core Stat Lines, Tales, Appearances, and Breach Behaviors.
   2. **The M.A.W. Armory (287+ SVG Weapons):** Hand-crafted vector silhouettes for every single weapon in the registry, showcasing custom blades, fangs, mauls, lenses, clocks, and relics in batch-1 chrome finish.
   3. **Relic-Entity / Tool Abnormality Catalog:** The 131 non-subject artifacts categorized by operational profile (Single-Use, Equippable, Continuous) with tiered Log & Method unlock tables.
   4. **Multimedia & Schematics Vault:** Architectural blueprints (`SOMNARAK_CITY_LAYOUT.svg`, `THE_HAND_DR_LAYOUT.svg`), ambient soundscapes, and visual assets.
@@ -135,7 +135,7 @@ Instead, **`docs/index.html` is the brand-new FRONT HOME PAGE**—an immersive, 
    - **Card 1: WIKI** -> Direct jump to Encyclopedic Codices, System Comparison, and World Archives.
    - **Card 2: STORY** -> Direct jump to Cycle Chronicles, Animatic Storyboard, and Field Arcs.
    - **Card 3: GAME** -> Direct jump to the 10-Node Grid Tactical Simulator and Battle Rules.
-   - **Card 4: COLLECTION** -> Direct jump to 292 Sorrow Entities, M.A.W. SVG Armory, and Relics.
+   - **Card 4: COLLECTION** -> Direct jump to 291 Sorrow Entities, M.A.W. SVG Armory, and Relics.
 4. **Recent Transmissions & System Notices:**
    - Quick updates on recent archive discoveries, entity individualization audits, and workshop advancements.
 
@@ -145,7 +145,7 @@ Instead, **`docs/index.html` is the brand-new FRONT HOME PAGE**—an immersive, 
 
 - [x] Architectural specification compiled at `docs/README.md` and `docs/FRONT_HOME_PAGE_SPECIFICATION.md`.
 - [x] Four Master Pillars defined with distinct routing destinations: `/wiki/`, `/story/`, `/game/`, `/collection/`.
-- [x] Integration with 292 Sorrow Entities, 287+ SVG M.A.W. weapons, and 16 Project Moon research volumes verified.
+- [x] Integration with 291 Sorrow Entities, 287+ SVG M.A.W. weapons, and 16 Project Moon research volumes verified.
 - [x] Zero template leaks or code vocabulary violations in public documentation.
 """
 

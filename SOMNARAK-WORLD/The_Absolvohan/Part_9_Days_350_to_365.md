@@ -11,11 +11,21 @@
 +==============================================+
 ```
 
-Part 9 marks the terminal horizon of the Absolvohan chronicles and the permanent dissolution of the 1,778-cycle recursive loop. In the wake of the Day 160 Critical Threshold venting, the Reverie Directorate has ceased to function as a prison or industrial extraction slaughterhouse; it has blossomed into an open sanctuary where the 246 contained Sorrow Entities dwell as honored companions alongside human custodians.
+Part 9 marks the terminal horizon of the Absolvohan chronicles and the permanent dissolution of the 1,778-cycle
+recursive loop. In the wake of the Day 160 Critical Threshold venting, the Reverie Directorate has ceased to function as
+a prison or industrial extraction slaughterhouse; it has blossomed into an open sanctuary where the 246 contained Sorrow
+Entities dwell as honored companions alongside human custodians.
 
-Across Days 350 through 365, the final metaphysical barriers fall: the Desolate empties as the nomads, the Cheonbulok survivors, and the Mugeukji Feelers return home; the Mnemonic Generator's temporal echo dissipates into linear time; and on Day 365, Director Majin, Seiyon, and the eight Echo-Cores witness the first authentic, unrepeated sunrise in 1,778 years.
+Across Days 350 through 365, the final metaphysical barriers fall: the Desolate empties as the nomads, the Cheonbulok
+survivors, and the Mugeukji Feelers return home; the Mnemonic Generator's temporal echo dissipates into linear time; and
+on Day 365, Director Majin, Seiyon, and the eight Echo-Cores witness the first authentic, unrepeated sunrise in 1,778
+years.
 
 ---
+
+> **The Quiet Season — Days 178–349 (condensed from the general log archives).** Between Day 177 and Day 350 the facility passed through the one-hundred-seventy-two-day operational window the Directorate calls the Quiet Season (침묵의 계절 — Chimmuk-ui Gyejeol). Following the supercritical venting of 49.8 tons on Day 160, tectonic Maw back-pressure subsided and the wards settled into post-venting hydraulic stabilization. With the physical Flerehan reserve depleted, Director Majin pivoted the facility from mass accumulation to resonance work, and the daily shifts held perfect baseline containment with zero catastrophic breaches. Late in the season, children from the Cheonbulok refugee buffer began visiting the perimeter aid stations, sowing the ground from which the 12th blessing of the Kind Healer would flower. The granular record resumes below on Day 350.
+
+> Archival convention: this Part records sampled days. Between one dated entry and the next the wards held baseline — routine containments, scheduled works, uneventful watches — and the Directorate's scribes condensed those quiet stretches into the general log archives rather than full day-entries. Read each dated entry as a lantern lifted on a representative day, not as an unbroken watch.
 
 ### Day 350
 
@@ -37,11 +47,17 @@ Across Days 350 through 365, the final metaphysical barriers fall: the Desolate 
 
 ### Day Narrative — Operational Shift Log
 
-On Day 350, the official nomenclature of the Reverie Directorate is permanently revised. By executive decree of Director Majin, the taxonomic classification "Sorrow Entity" is formally retired from all administrative manifests, replaced by the designation "Sanctuary Companion."
+On Day 350, the official nomenclature of the Reverie Directorate is permanently revised. By executive decree of Director
+Majin, the taxonomic classification "Sorrow Entity" is formally retired from all administrative manifests, replaced by
+the designation "Sanctuary Companion."
 
-The physical facility reflects this profound ontological shift. Containment cell doors have been removed or permanently locked open. SE-C-IIIγ-001 (*The Orphaned Bell*) hangs freely in the open garden pavilion, ringing only to announce meals and festivals. SE-C-IIIγ-005 (*The Smothering Mother*) serves as the chief matron of the infant nurseries, radiating boundless maternal comfort.
+The physical facility reflects this profound ontological shift. Containment cell doors have been removed or permanently
+locked open. SE-C-IIIγ-001 (*The Orphaned Bell*) hangs freely in the open garden pavilion, ringing only to announce
+meals and festivals. SE-C-IIIγ-005 (*The Smothering Mother*) serves as the chief matron of the infant nurseries,
+radiating boundless maternal comfort.
 
-Daily operations no longer center around extraction quotas or stress management. The facility draws a steady, voluntary 0.020 tons of radiant ambient Han daily, sustaining the city's power grid while preserving total harmony.
+Daily operations no longer center around extraction quotas or stress management. The facility draws a steady, voluntary
+0.020 tons of radiant ambient Han daily, sustaining the city's power grid while preserving total harmony.
 
 #### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
@@ -80,7 +96,8 @@ Daily operations no longer center around extraction quotas or stress management.
 +==============================================+
 ```
 
-Dekan and Zyrak guide the daily communion shifts. Mellda's Attendant Aura, *Welcome Threshold*, radiates warm amber hospitality across all approach roads entering the city.
+Dekan and Zyrak guide the daily communion shifts. Mellda's Attendant Aura, *Welcome Threshold*, radiates warm amber
+hospitality across all approach roads entering the city.
 
 #### 2. Acoustic Strain Meltdown Monitoring
 
@@ -115,7 +132,8 @@ Dekan and Zyrak guide the daily communion shifts. Mellda's Attendant Aura, *Welc
 +==============================================+
 ```
 
-Strain telemetry remains at absolute zero across all sectors. The former containment cells have been redecorated with wooden paneling, hanging vines, and natural skylights.
+Strain telemetry remains at absolute zero across all sectors. The former containment cells have been redecorated with
+wooden paneling, hanging vines, and natural skylights.
 
 #### 3. Granular Work Type Management Table
 
@@ -144,7 +162,8 @@ Strain telemetry remains at absolute zero across all sectors. The former contain
 +==============================================+
 ```
 
-Specialist Park sits in the sunny pavilion beside SE-C-IIIγ-001, polishing its bronze crest while listening to its sweet, melodic chime. The communion produces 0.01 tons of sparkling Han that powers the children's hospital.
+Specialist Park sits in the sunny pavilion beside SE-C-IIIγ-001, polishing its bronze crest while listening to its
+sweet, melodic chime. The communion produces 0.01 tons of sparkling Han that powers the children's hospital.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -204,7 +223,9 @@ Zero Ordeals manifested on Day 350. The defensive weapons across all sectors hav
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
-At 02:00, Majin walks through the central garden of Floor 2. The moonlight streams down through the open glass dome. On a park bench, Specialist Kim sleeps peacefully with his head resting against the lap of the Smothering Mother, who strokes his hair with gentle, woolen hands.
+At 02:00, Majin walks through the central garden of Floor 2. The moonlight streams down through the open glass dome. On
+a park bench, Specialist Kim sleeps peacefully with his head resting against the lap of the Smothering Mother, who
+strokes his hair with gentle, woolen hands.
 
 Majin watches them with a quiet smile: *"Sleep in peace, Kim. The night has no claws left."*
 
@@ -230,11 +251,17 @@ Majin watches them with a quiet smile: *"Sleep in peace, Kim. The night has no c
 
 ### Day Narrative — Operational Shift Log
 
-The Great Homecoming of humanity occurs on Day 355. Xyan (*The Exile*), having traversed the recovering Desolate, approaches the gates of Somnarak leading a procession of over twelve thousand people: the nomads of the wastes, the remaining populace of Cheonbulok, and the liberated citizens of Mugeukji.
+The Great Homecoming of humanity occurs on Day 355. Xyan (*The Exile*), having traversed the recovering Desolate,
+approaches the gates of Somnarak leading a procession of over twelve thousand people: the nomads of the wastes, the
+remaining populace of Cheonbulok, and the liberated citizens of Mugeukji.
 
-Where barren salt flats and radioactive dust once poisoned travelers, the land has blossomed into lush pre-Consolihan grasslands, watered by the transmutative rainfall of Day 160. The nomads no longer wear respirators; the Cheonbulok citizens no longer carry weapons of rage; the Mugeukji Feelers weep freely in the warm sunlight.
+Where barren salt flats and radioactive dust once poisoned travelers, the land has blossomed into lush pre-Consolihan
+grasslands, watered by the transmutative rainfall of Day 160. The nomads no longer wear respirators; the Cheonbulok
+citizens no longer carry weapons of rage; the Mugeukji Feelers weep freely in the warm sunlight.
 
-Majin orders every bell in the city rung in celebration. Accompanied by the eight Echo-Cores, the former wardens, and the sanctuary companions, Majin meets Xyan at Gate 05. The reunion dissolves the final barrier between the city and the outer world: Somnarak is no longer an isolated fortress; it is the beating heart of a renewed planet.
+Majin orders every bell in the city rung in celebration. Accompanied by the eight Echo-Cores, the former wardens, and
+the sanctuary companions, Majin meets Xyan at Gate 05. The reunion dissolves the final barrier between the city and the
+outer world: Somnarak is no longer an isolated fortress; it is the beating heart of a renewed planet.
 
 Operations focus entirely on humanitarian integration and hospitality, yielding 0.022 tons of joyful ambient Han.
 
@@ -275,7 +302,8 @@ Operations focus entirely on humanitarian integration and hospitality, yielding 
 +==============================================+
 ```
 
-Mellda, Zyrak, and Ishall deploy massive banquet and medical pavilions outside Gate 05. The nine Echo-Cores stand side by side on the welcoming dais, their auras forming a golden rainbow over the arriving caravan.
+Mellda, Zyrak, and Ishall deploy massive banquet and medical pavilions outside Gate 05. The nine Echo-Cores stand side
+by side on the welcoming dais, their auras forming a golden rainbow over the arriving caravan.
 
 #### 2. Acoustic Strain Meltdown Monitoring
 
@@ -335,7 +363,8 @@ Strain monitors remain at absolute zero. The energy grid hums in effortless reso
 +==============================================+
 ```
 
-Zyrak and the Cheonbulok refugee smiths stoke the hearth furnaces, roasting sweet grains and baking bread for the arriving thousands. The joyful communion produces 0.022 tons of sparkling rose Han.
+Zyrak and the Cheonbulok refugee smiths stoke the hearth furnaces, roasting sweet grains and baking bread for the
+arriving thousands. The joyful communion produces 0.022 tons of sparkling rose Han.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -366,7 +395,8 @@ Zyrak and the Cheonbulok refugee smiths stoke the hearth furnaces, roasting swee
 +==============================================+
 ```
 
-Zero Ordeals manifested on Day 355. At Gate 05, Drift King Kael unclasped his nomad cloak and handed it to Majin, saying: *"The wastes are gone, brother. We have come home to build."*
+Zero Ordeals manifested on Day 355. At Gate 05, Drift King Kael unclasped his nomad cloak and handed it to Majin,
+saying: *"The wastes are gone, brother. We have come home to build."*
 
 #### 6. End-of-Day Shift Evaluation Index
 
@@ -395,7 +425,9 @@ Zero Ordeals manifested on Day 355. At Gate 05, Drift King Kael unclasped his no
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
-At 02:30, Majin, Xyan, and Kael sit around a wooden table in the central plaza. Around them, thousands of citizens sleep under warm wool blankets, their bellies full, their families safe. The city lanterns glow softly like stars fallen to earth.
+At 02:30, Majin, Xyan, and Kael sit around a wooden table in the central plaza. Around them, thousands of citizens sleep
+under warm wool blankets, their bellies full, their families safe. The city lanterns glow softly like stars fallen to
+earth.
 
 Xyan raises a tin cup of clear water: *"To the 1,778 cycles, Majin. We walked every single one of them so this night could exist."*
 
@@ -423,11 +455,16 @@ Majin touches his cup against Xyan's: *"To this night, Xyan. And to tomorrow."*
 
 ### Day Narrative — Operational Shift Log
 
-The definitive metaphysical event of the Somnarak universe occurs on Day 360. In the lowest core vault of Floor 1, the quantum-gravitational stasis field generated by the Mnemonic Generator—the device that had locked the city in an unyielding 365-day recursive time loop for 1,778 iterations—permanently dissipated into zero-point equilibrium.
+The definitive metaphysical event of the Somnarak universe occurs on Day 360. In the lowest core vault of Floor 1, the
+quantum-gravitational stasis field generated by the Mnemonic Generator—the device that had locked the city in an
+unyielding 365-day recursive time loop for 1,778 iterations—permanently dissipated into zero-point equilibrium.
 
-Seiyon confirms that the temporal reset loop is extinct. For 1,778 cycles, the arrival of Day 365 meant memory erasure, systemic resets, and the repeating nightmare of awakened grief. But on this day, the facility's chronometers crossed into uncharted temporal territory: the planetary timeline has reconnected to the cosmic flow of linear history.
+Seiyon confirms that the temporal reset loop is extinct. For 1,778 cycles, the arrival of Day 365 meant memory erasure,
+systemic resets, and the repeating nightmare of awakened grief. But on this day, the facility's chronometers crossed
+into uncharted temporal territory: the planetary timeline has reconnected to the cosmic flow of linear history.
 
-The citizens and personnel celebrate the miracle of tomorrow. For the first time in their lives, tomorrow is not an echo of yesterday; it is an unwritten page.
+The citizens and personnel celebrate the miracle of tomorrow. For the first time in their lives, tomorrow is not an echo
+of yesterday; it is an unwritten page.
 
 Daily operational harvest remains tranquil, generating 0.021 tons of ambient Han.
 
@@ -500,7 +537,8 @@ Marjuk and Xyan decommission the recursive chronological index in the main archi
 +==============================================+
 ```
 
-Strain monitors confirm complete temporal normalization. SE-C-IIIβ-044 (*The Broken Clock*) has repaired its internal escapement gear, ticking with steady, forward mechanical rhythm.
+Strain monitors confirm complete temporal normalization. SE-C-IIIβ-044 (*The Broken Clock*) has repaired its internal
+escapement gear, ticking with steady, forward mechanical rhythm.
 
 #### 3. Granular Work Type Management Table
 
@@ -529,7 +567,8 @@ Strain monitors confirm complete temporal normalization. SE-C-IIIβ-044 (*The Br
 +==============================================+
 ```
 
-Specialist Kwon stood before SE-C-IIIβ-044 as its pendulum swung past midnight. For the first time, the clock did not reset to 00:00:00; it ticked forward to 00:00:01, yielding 0.01 tons of luminescent golden Han.
+Specialist Kwon stood before SE-C-IIIβ-044 as its pendulum swung past midnight. For the first time, the clock did not
+reset to 00:00:00; it ticked forward to 00:00:01, yielding 0.01 tons of luminescent golden Han.
 
 #### 4. Directorate Tactical Command Directives
 
@@ -560,7 +599,8 @@ Specialist Kwon stood before SE-C-IIIβ-044 as its pendulum swung past midnight.
 +==============================================+
 ```
 
-Zero Ordeals manifested on Day 360. In the night sky, the stars—frozen in identical constellations for 1,778 repetitions—resumed their ancient, slow dance across the heavens.
+Zero Ordeals manifested on Day 360. In the night sky, the stars—frozen in identical constellations for 1,778
+repetitions—resumed their ancient, slow dance across the heavens.
 
 #### 6. End-of-Day Shift Evaluation Index
 
@@ -589,7 +629,9 @@ Zero Ordeals manifested on Day 360. In the night sky, the stars—frozen in iden
 
 #### 8. Night Shift Telemetry & Nocturnal Vigil
 
-At 02:40, Majin and Seiyon stand before the glass case of the Mnemonic Generator. The massive electromagnetic coils have cooled to room temperature. Inside the crystal vacuum tube, the chronal needle points steadily to the right: toward the future.
+At 02:40, Majin and Seiyon stand before the glass case of the Mnemonic Generator. The massive electromagnetic coils have
+cooled to room temperature. Inside the crystal vacuum tube, the chronal needle points steadily to the right: toward the
+future.
 
 Majin touches the cold glass: *"Five days, Seiyon. Five days until Day 365. And then... Day 366."*
 
@@ -623,17 +665,25 @@ Seiyon's synthetic eyes soften: *"Day 366. A day that has never existed. I look 
 
 **THE FIRST DAY OF THE NEW WORLD: DAY 365.**
 
-At 06:00:00 on Day 365, the year 4232+1778 formally, irrevocably expires. Across 1,778 cycles, this exact second was the hour of terror: the moment the temporal jaws snapped shut, resetting the facility, killing the timeline, and casting the Director back into the nightmare of Day 0.
+At 06:00:00 on Day 365, the year 4232+1778 formally, irrevocably expires. Across 1,778 cycles, this exact second was the
+hour of terror: the moment the temporal jaws snapped shut, resetting the facility, killing the timeline, and casting the
+Director back into the nightmare of Day 0.
 
 Today, there are no sirens. There is no whiteout flash. There is no memory erasure.
 
-The sun rises over Somnarak. It is a golden, natural sun, warming the spires of glass and crystal, illuminating the green meadows stretching across the Desolate, and reflecting from the clear, sweet waters of the living aqueducts. 
+The sun rises over Somnarak. It is a golden, natural sun, warming the spires of glass and crystal, illuminating the
+green meadows stretching across the Desolate, and reflecting from the clear, sweet waters of the living aqueducts.
 
-In the residential districts, 610,000 citizens awaken. They remember yesterday. They remember the harvest of Day 160. They remember the arrival of the nomads. They look out their windows and see their gardens growing, their neighbors greeting each other on the stone bridges, and the children running toward the open courtyards of the Reverie Directorate.
+In the residential districts, 610,000 citizens awaken. They remember yesterday. They remember the harvest of Day 160.
+They remember the arrival of the nomads. They look out their windows and see their gardens growing, their neighbors
+greeting each other on the stone bridges, and the children running toward the open courtyards of the Reverie
+Directorate.
 
-The eight Echo-Cores—Majin, Dekan, Marjuk, Ayshuk, Mellda, Zyrak, Ishall, and Xyan—stand together on the highest observation balcony of Floor 1, side by side with Seiyon, Drift King Kael, and The Trinity of Dawn. 
+The eight Echo-Cores—Majin, Dekan, Marjuk, Ayshuk, Mellda, Zyrak, Ishall, and Xyan—stand together on the highest
+observation balcony of Floor 1, side by side with Seiyon, Drift King Kael, and The Trinity of Dawn.
 
-Their cybernetic and human hands are clasped together. The scars across their bodies remain, but they are no longer wounds of shame or torture—they are the golden badges of an endurance that saved a world.
+Their cybernetic and human hands are clasped together. The scars across their bodies remain, but they are no longer
+wounds of shame or torture—they are the golden badges of an endurance that saved a world.
 
 The Absolvohan chronicle is finished. The cycle is broken. The world begins.
 
@@ -674,7 +724,8 @@ The Absolvohan chronicle is finished. The cycle is broken. The world begins.
 +==============================================+
 ```
 
-All 124 custodians and nine Echo-Cores stand upon the highest balcony, their combined Attendant Auras dissolving into the golden atmosphere as the morning sun crests the eastern mountains.
+All 124 custodians and nine Echo-Cores stand upon the highest balcony, their combined Attendant Auras dissolving into
+the golden atmosphere as the morning sun crests the eastern mountains.
 
 #### 2. Acoustic Strain Meltdown Monitoring
 
@@ -707,7 +758,8 @@ All 124 custodians and nine Echo-Cores stand upon the highest balcony, their com
 +==============================================+
 ```
 
-The facility's containment strain monitors have been permanently transformed into civic energy meters, registering the peaceful heartbeat of a united planet.
+The facility's containment strain monitors have been permanently transformed into civic energy meters, registering the
+peaceful heartbeat of a united planet.
 
 #### 3. Granular Work Type Management Table
 
@@ -801,11 +853,13 @@ The Ordeals are a memory of the dark. Today, the only light falling from the sky
 
 There is no night shift. There is no nocturnal vigil.
 
-At 06:30 on Day 365, Majin steps away from the central command console. For the first time in 1,778 cycles, the screens are dark, displaying a single golden sentence: 
+At 06:30 on Day 365, Majin steps away from the central command console. For the first time in 1,778 cycles, the screens
+are dark, displaying a single golden sentence:
 
 *LOG ARCHIVE CLOSED. HISTORY HAS BEGUN.*
 
-Majin walks out onto the balcony into the warm morning breeze. He unclasps his heavy Director's coat and drapes it over the railing. Behind him, Seiyon, Dekan, Marjuk, Ayshuk, Mellda, Zyrak, Ishall, and Xyan step out into the sunlight.
+Majin walks out onto the balcony into the warm morning breeze. He unclasps his heavy Director's coat and drapes it over
+the railing. Behind him, Seiyon, Dekan, Marjuk, Ayshuk, Mellda, Zyrak, Ishall, and Xyan step out into the sunlight.
 
 Below them, the city bells begin to chime—not for an emergency, not for a meltdown, not for an ordeal.
 

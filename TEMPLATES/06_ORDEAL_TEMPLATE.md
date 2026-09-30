@@ -22,7 +22,7 @@
 SOMNARAK-WORLD/Ordeals/Ordeal_{{COLOR}}_{{WATCH}}_{{Name_With_Underscores}}.md
 ```
 
-Example: `Ordeal_BLUE_First_Watch_The_Voice.md`
+Example: `Ordeal_BLUE_First_Watch_The_Voice.md` (illustrative example — no such file ships)
 
 ---
 

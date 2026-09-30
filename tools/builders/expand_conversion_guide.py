@@ -294,7 +294,7 @@ Every Relic dossier must include a 4-tier progressive unlock table:
 
 ### Case Study 3: ALEPH Sovereign Boss Conversion
 - **PM Source:** *Apocalypse Bird* (ALEPH)
-- **PS Entity:** `SE-C-Vω-044 [MS]` — *Dawn of Mourning* (  애도의 새벽   / *Aedo-ui Saebyeok*)
+- **PS Entity:** `SE-C-Vω-002 [MS]` — *Dawn of Mourning* (  애도의 여명   / *Aedo-ui Yeomyeong*)
 - **SECC Profile:** City Sorrow (`C-`), Rank V Sovereign, Grade ω Catastrophic, Mixed Element (Cycles Crimson / Blue / Black / Pale White).
 - **Durability:** Sorrow Gauge: 12,000/12,000 HP (Multi-Phase Sovereign Raid Encounter).
 - **Mechanics:** 3 Distinct Targetable Core Organs (The Beak of Hunger, The Scales of Debt, The Blind Lamp). Destructible limbs require synchronized 10-node interception.

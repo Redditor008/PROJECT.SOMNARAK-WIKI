@@ -10,7 +10,7 @@
 | **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Mixed — A stand of broken walls that should not be there: rough grey stone fused with the blackened grain of long-dead timber and, here and there, the calcium gleam of old bone set into the mortar. The walls resolve only when someone actively remembers the building that once stood; forgotten, they haze back into dust. The stone is cold, but the dead wood still seems to bleed a sap that is not sap. |

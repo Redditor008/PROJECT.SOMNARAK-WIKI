@@ -1,6 +1,13 @@
 # The Absolvohan — Part 3 — Batch 2: Days 29–49
 ## Batch 2 — Days 29–49: Escalation & Sovereign Convergence
-The second operational phase marks the dangerous transition from foundational containment to sovereign-tier extraction. With five facility floors fully operational and the covert hydraulic ballast approaching the 50-ton threshold, containment friction escalates exponentially. The Three Birds of the Deep Forest begin their ominous resonance, The Kind Healer initiates its quiet countdown toward the twelve blessings, and the geological tremors of Cheonbulok echo across the border walls.
+The second operational phase marks the dangerous transition from foundational containment to sovereign-tier extraction.
+With five facility floors fully operational and the covert hydraulic ballast approaching the 50-ton threshold,
+containment friction escalates exponentially. The Three Birds of the Deep Forest begin their ominous resonance, The Kind
+Healer initiates its quiet countdown toward the twelve blessings, and the geological tremors of Cheonbulok echo across
+the border walls.
+
+> Archival convention: this Part records sampled days. Between one dated entry and the next the wards held baseline — routine containments, scheduled works, uneventful watches — and the Directorate's scribes condensed those quiet stretches into the general log archives rather than full day-entries. Read each dated entry as a lantern lifted on a representative day, not as an unbroken watch.
+
 ### Day 29
 ### Story — Dialogue
 > **Dekan:** _"Containment report. Entity 006 — The Smothering Mother — escaped last night."_
@@ -28,10 +35,15 @@ The second operational phase marks the dangerous transition from foundational co
 | 031, 033                                                            |
 +=====================================================================+
 ```
-Shift parameters initialized for Day 29. Floor 5 (Border Control) is officially linked under Lead Warden Mellda. Target quota increases to **0.140 tons** of pure refined Han. Sub-vault ballast reserves confirm **48.650 tons** held in covert storage—1.35 tons from the mid-cycle milestone. Following last night's maternal breach of SE-C-IIIγ-005 (*The Smothering Mother*), operative rotation protocols are strictly enforced: Specialist Park is stationed under Mellda's *Iron Perimeter* aura to purge psychic residue, while acoustic strain across the avian chambers is monitored continuously.
+Shift parameters initialized for Day 29. Floor 5 (Border Control) is officially linked under Lead Warden Mellda. Target
+quota increases to **0.140 tons** of pure refined Han. Sub-vault ballast reserves confirm **48.650 tons** held in covert
+storage—1.35 tons from the mid-cycle milestone. Following last night's maternal breach of SE-C-IIIγ-005 (*The Smothering
+Mother*), operative rotation protocols are strictly enforced: Specialist Park is stationed under Mellda's *Iron
+Perimeter* aura to purge psychic residue, while acoustic strain across the avian chambers is monitored continuously.
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
-Here is the roster distribution across our five operational sectors. Notice that Specialist Park has been moved to Floor 5 under Mellda's *Iron Perimeter* aura to scrub off the maternal corrosion:
+Here is the roster distribution across our five operational sectors. Notice that Specialist Park has been moved to Floor
+5 under Mellda's *Iron Perimeter* aura to scrub off the maternal corrosion:
 
 ```text
 +---------------------------------------------------------------------+
@@ -59,7 +71,9 @@ Here is the roster distribution across our five operational sectors. Notice that
 | | Defense)                                                          |
 +---------------------------------------------------------------------+
 ```
-Specialist Park's SP is currently sitting at 40/58 due to last night's prolonged contact with the Mother's shawl. Floor 5's defensive aura provides a +15% physical damage reduction, which will cushion him against physical Grudge impacts while he recovers mental composure.
+Specialist Park's SP is currently sitting at 40/58 due to last night's prolonged contact with the Mother's shawl. Floor
+5's defensive aura provides a +15% physical damage reduction, which will cushion him against physical Grudge impacts
+while he recovers mental composure.
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 The klaxons sound as the cobalt floor lamps flare up. In the Floor 5 hallway, Mellda slams her greatshield into the flagstones with a deafening clang:
@@ -120,7 +134,8 @@ At work check 6, the acoustic sirens shriek across the facility spine:
 | TACTICAL DISPATCH: ALL SPECIALISTS MOBILIZED                        |
 +=====================================================================+
 ```
-A three-chamber simultaneous meltdown! If any timer expires, the entity escapes immediately and drains 20% of our harvested Han. We issue emergency commands:
+A three-chamber simultaneous meltdown! If any timer expires, the entity escapes immediately and drains 20% of our
+harvested Han. We issue emergency commands:
 - **Specialist Lee** is dispatched to Chamber 033 (*Guarding Bird*) for Viderehan work.
 - **Specialist Hwang** dashes to Chamber 025 (*Silent Child*) for Flerehan communion.
 - Chamber 014 (*The Debt Veil*) is on Floor 3, too far for foot transit within 45 seconds! Director Majin triggers the Directorate Command Console: **HAN SALVE JET** deployed directly into Chamber 014's hydraulic dampers! The viscous reagent cools the resonance coils, extending the bleed timer by 25.0 seconds and allowing **Specialist Kim** to arrive in time.
@@ -175,15 +190,18 @@ Director Majin establishes real-time GBS tactical coordinates:
 - **Step 2: Movement & Action Point (AP) Spending**:
   * Border Lead Mellda (Speed 5 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1 with the Monolith).
   * Mellda spends 2 AP to brace *Threshold Vow* in a heavy kinetic parry stance.
-  * Specialist Park (Speed 6 -> 3 AP) holds Node 4 behind Mellda's mantlet. Spends 2 AP to wind up `[Lament Requiem Resonant Smash]` (Range Band 2). Remaining 1 AP held in Guard (+10 Shield).
-  * Specialist Kim (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to prepare concentrated carbine fire targeting the slab's stress fissure.
+  * Specialist Park (Speed 6 -> 3 AP) holds Node 4 behind Mellda's mantlet. Spends 2 AP to wind up `[Lament Requiem
+Resonant Smash]` (Range Band 2). Remaining 1 AP held in Guard (+10 Shield).
+  * Specialist Kim (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to prepare concentrated carbine
+fire targeting the slab's stress fissure.
 - **Step 3: Clash Standoff (Node 2)**:
   * The Grieving Monolith declares `[Tectonic Ground Pound]` on Node 2:
     * Monolith Roll: Base 8 + (2 Lots Marked: +4) = 12 Power.
   * Mellda's `[Threshold Vow Kinetic Parry]`:
     * Mellda Roll: Base 10 + (2 Lots Marked: +4) = 14 Power.
   * **Resolution**: Mellda WINS THE CLASH (14 vs 12).
-    * Mellda's golden arm-blade turns the crashing stone slab aside. The impact shocks the monolith's crystalline base, dealing 26 Grudge damage and inflicting +18 Stagger.
+    * Mellda's golden arm-blade turns the crashing stone slab aside. The impact shocks the monolith's crystalline base,
+dealing 26 Grudge damage and inflicting +18 Stagger.
   * Specialist Park follows through with `[Lament Requiem Resonant Smash]` from Node 4:
     * Attack is unopposed! Deals 36 Lament damage directly through the acoustic crack, eroding the monolith's composure.
   * Specialist Kim delivers a 3-round burst from Node 6, adding 24 skewer damage.
@@ -214,10 +232,13 @@ Director Majin establishes real-time GBS tactical coordinates:
 
 ###### Turn 02 Action Resolution Log (Range Advantage & Stagger Build)
 - **Coordinated Tripartite Fire**:
-  * **Border Lead Mellda (Speed 5 -> 3 AP)**: Holds Node 02 in Point-Blank Band 1. Spends 2 AP to execute `[Threshold Vow Kinetic Parry]`, anchoring her shield mantlet against the stone slab.
-  * The Monolith channels `[Basalt Fissure Crash]` directed at Node 02 (Base 8 + 2 Lots = 12 Power). Mellda wins clash (14 vs 12), turning the blow aside!
+  * **Border Lead Mellda (Speed 5 -> 3 AP)**: Holds Node 02 in Point-Blank Band 1. Spends 2 AP to execute `[Threshold
+Vow Kinetic Parry]`, anchoring her shield mantlet against the stone slab.
+  * The Monolith channels `[Basalt Fissure Crash]` directed at Node 02 (Base 8 + 2 Lots = 12 Power). Mellda wins clash
+(14 vs 12), turning the blow aside!
   * **Specialist Park (Speed 6 -> 3 AP)**: Firing from Node 04 (Range Band 2):
-    * Spends 2 AP to channel `[Lament Requiem Resonant Smash]`. Range Band advantage (+15%) and Lament vulnerability trigger: deals **38 Pure Lament Damage**!
+    * Spends 2 AP to channel `[Lament Requiem Resonant Smash]`. Range Band advantage (+15%) and Lament vulnerability
+trigger: deals **38 Pure Lament Damage**!
   * **Specialist Kim (Speed 5 -> 3 AP)**: From Node 06 (Range Band 3), delivers a 3-round piercing burst for **24 Void damage**.
   * Monolith HP drops from 294 to **232/320**!
   * Combined Posture strain inflicts +38 points. Posture drops from 112 to **74/160**, breaching the **60% Posture Threshold (96 Points)**!
@@ -250,7 +271,8 @@ Director Majin establishes real-time GBS tactical coordinates:
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
   * With the monolith staggered, its action dice are canceled for Turn 03.
-  * **Specialist Park**: Passive `Momentum Surge` activates upon witnessing the stagger! Gains +2 Speed and +15% Critical Chance. Spends 1 AP to sprint to Node 03 and 2 AP to unleash `[Critical Lament Overload]`:
+  * **Specialist Park**: Passive `Momentum Surge` activates upon witnessing the stagger! Gains +2 Speed and +15%
+Critical Chance. Spends 1 AP to sprint to Node 03 and 2 AP to unleash `[Critical Lament Overload]`:
     * Deals **54 Direct Lament Damage**!
   * **Border Lead Mellda**: Spends 2 AP to drive *Threshold Vow* deep into the central fissure, dealing **30 Grudge damage**!
   * Monolith HP plummets from 232 to **148/320**!
@@ -281,9 +303,13 @@ Director Majin establishes real-time GBS tactical coordinates:
 
 ###### Turn 04 Action Resolution Log (Desperation Tectonic Toll)
 - **Hostile Recovery & Desperation Counter-Surge**:
-  * The Monolith recovers from Stagger Level 1, vibrating with a deep sub-bass roar: `[Tectonic Toll]` (a 3-node compressive seismic wave hitting Nodes 01, 02, and 03).
-  * **Border Lead Mellda**: Deploys `[Directional Guard Absorption]`, locking her golden arm-blade into the floorplates to form an impenetrable kinetic wall. She absorbs 28 points of physical shock, taking only 12 chip damage (HP: 168/180) and completely shielding Park behind her!
-  * **Specialist Kim (Speed 5 -> 3 AP)**: From Range Band 3, spends 2 AP to fire `[Stasis Disruption Harpoon]`, piercing the monolith's resonance core and disrupting the vibration!
+  * The Monolith recovers from Stagger Level 1, vibrating with a deep sub-bass roar: `[Tectonic Toll]` (a 3-node
+compressive seismic wave hitting Nodes 01, 02, and 03).
+  * **Border Lead Mellda**: Deploys `[Directional Guard Absorption]`, locking her golden arm-blade into the floorplates
+to form an impenetrable kinetic wall. She absorbs 28 points of physical shock, taking only 12 chip damage (HP: 168/180)
+and completely shielding Park behind her!
+  * **Specialist Kim (Speed 5 -> 3 AP)**: From Range Band 3, spends 2 AP to fire `[Stasis Disruption Harpoon]`, piercing
+the monolith's resonance core and disrupting the vibration!
   * Monolith HP falls to **102/320**! Posture drops to **14/160**!
 
 ---
@@ -312,7 +338,8 @@ Director Majin establishes real-time GBS tactical coordinates:
 ###### Turn 05 Action Resolution Log (Terminal Stagger Level 2 Induction)
 - **Pincer Lockdown**:
   * Border Lead Mellda executes `[Threshold Severance Strike]`, stripping the final 14 points of Posture!
-  * **TERMINAL STAGGER LEVEL 2 TRIGGERED!** Monolith Posture hits **0/160**. The massive basalt slab splits into two unaligned halves, collapsing helpless onto the deckplates (2.0x direct damage active)!
+  * **TERMINAL STAGGER LEVEL 2 TRIGGERED!** Monolith Posture hits **0/160**. The massive basalt slab splits into two
+unaligned halves, collapsing helpless onto the deckplates (2.0x direct damage active)!
   * Specialist Kim fires a suppressive void round into the cleft, dealing **32 Void damage** (HP: 38/320).
 
 ---
@@ -342,7 +369,8 @@ Director Majin establishes real-time GBS tactical coordinates:
 ###### Turn 06 Action Resolution Log (Climax Execution & Siphon)
 - **Synchronized Subdual Execution**:
   * Specialist Park steps onto the fractured pedestal, raising the Lament Requiem high: `[Requiem Climax: Choral Absolution]`.
-  * The acoustic hammer strikes the exposed core crystal with blinding resonance. The entire stone slab pulverizes into inert river silt and shimmering Han mist!
+  * The acoustic hammer strikes the exposed core crystal with blinding resonance. The entire stone slab pulverizes into
+inert river silt and shimmering Han mist!
   * Floor 2's drainage flues siphon the harvest: **+0.020 tons of refined Han secured**!
 
 
@@ -439,7 +467,8 @@ Observation Yield Allocation & Armament Forging: Directorate observation points 
 Specialist Kim equips the *Mother's Shawl* suit and *Mother's Locket* stigma, transforming him into our premier mental damage tank.
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
-At 23:45, the facility transitions to amber night lighting. Drainage pumps cycle 18,000 liters of acoustic dampening brine through Floor 5's perimeter trenches. Director Majin accesses his private console:
+At 23:45, the facility transitions to amber night lighting. Drainage pumps cycle 18,000 liters of acoustic dampening
+brine through Floor 5's perimeter trenches. Director Majin accesses his private console:
 
 > _"Day 29. The Mother called Specialist Park by his deceased sister's pet name. There are no records of that name anywhere in the Directorate's public files—only in the sealed pre-convergence census buried in Floor 8. The entities do not just remember their own sorrow; they remember ours. Hydraulic ballast stands at 48.79 tons. The halfway mark is within reach."_
 
@@ -473,7 +502,11 @@ At 23:45, the facility transitions to amber night lighting. Drainage pumps cycle
 | 033, 042                                                            |
 +=====================================================================+
 ```
-Shift parameters initialized for Day 31. Operational tension reaches sovereign-tier levels across Floors 2 and 3. With all Three Birds in custody (**SE-031 Observing**, **SE-032 Weighting**, **SE-033 Guarding**), **The Black Forest Resonance** protocol is actively tracked. If acoustic strain on any bird cell hits 100%, overload timers accelerate at double rate, and an uncontained breach in any single cell risks triggering a sympathetic triad rupture to manifest **SE-C-IIIγ-034** (*The Sovereign Convergence*). Daily quota is locked at **0.155 tons**.
+Shift parameters initialized for Day 31. Operational tension reaches sovereign-tier levels across Floors 2 and 3. With
+all Three Birds in custody (**SE-031 Observing**, **SE-032 Weighting**, **SE-033 Guarding**), **The Black Forest
+Resonance** protocol is actively tracked. If acoustic strain on any bird cell hits 100%, overload timers accelerate at
+double rate, and an uncontained breach in any single cell risks triggering a sympathetic triad rupture to manifest
+**SE-C-IIIγ-034** (*The Sovereign Convergence*). Daily quota is locked at **0.155 tons**.
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
 Tactical Deployment Directive: Senior containment specialists are deployed directly to the Three Birds' containment wing on Floors 2 and 3:
@@ -503,7 +536,8 @@ Tactical Deployment Directive: Senior containment specialists are deployed direc
 | | (+10 Max HP / Fort)                                               |
 +---------------------------------------------------------------------+
 ```
-Specialist Park has returned to Floor 2, fully refreshed and equipped with the *Weighting Scales* mantle to neutralize Grudge clashing from the Weighting Bird.
+Specialist Park has returned to Floor 2, fully refreshed and equipped with the *Weighting Scales* mantle to neutralize
+Grudge clashing from the Weighting Bird.
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 The facility lights thrum at high pitch. Down in Floor 2, the corridor between Chambers 031, 032, and 033 is unnervingly quiet:
@@ -545,15 +579,18 @@ At work check 8, the disaster siren sounds:
 | DIRECTORATE TACTICAL INTERVENTION REQUIRED                          |
 +=====================================================================+
 ```
-This is an existential emergency! If both bird chambers overload simultaneously, Zyrak's hydraulic dividers will fail, triggering the Convergence! Director Majin immediately executes tactical commands:
+This is an existential emergency! If both bird chambers overload simultaneously, Zyrak's hydraulic dividers will fail,
+triggering the Convergence! Director Majin immediately executes tactical commands:
 1. **VEIL MIST DAMPENER** deployed to Chamber 031: Acoustic reverberation dropped by 50%, halting the countdown for 20 seconds.
 2. **Specialist Park** rushes Chamber 032 for emergency Ferrehan maintenance.
 3. **Specialist Hwang** enters Chamber 031 for Viderehan observation.
 
-Both specialists clear the overloads with 9 seconds remaining! The resonance frequency collapses back into safe baseline ranges. The three birds cease their unison chirp.
+Both specialists clear the overloads with 9 seconds remaining! The resonance frequency collapses back into safe baseline
+ranges. The three birds cease their unison chirp.
 
 ##### Ordeal Manifestation: Grey Second Watch Ordeal — The Sanguine Larvae
-At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt across Floor 2 and Floor 3, spawning scuttling Sorrow Larvae that seek out containment doors to cause instant breaches!
+At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt across Floor 2 and Floor 3, spawning
+scuttling Sorrow Larvae that seek out containment doors to cause instant breaches!
 
 ```text
 +=====================================================================+
@@ -593,11 +630,13 @@ Director Majin establishes split-team GBS sector commands:
 
 ###### Turn 01 Action Resolution Log (Team A — Floor 2 Sector)
 - **Step 1: Floor 2 Echo-Core Resonance (Containment Lead Dekan)**:
-  * Dekan anchors *The Maw's Keep Bastion Ward*, raising physical barrier resistance across Nodes 1 to 4 and nullifying the larvae's acid bleed coating.
+  * Dekan anchors *The Maw's Keep Bastion Ward*, raising physical barrier resistance across Nodes 1 to 4 and nullifying
+the larvae's acid bleed coating.
 - **Step 2: Movement & Action Point Spending**:
   * Specialist Hwang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1 with Flesh Pod 1).
   * Hwang spends 2 AP to declare `[Observing Scepter Void Thrust]`.
-  * Specialist Song (Speed 5 -> 3 AP) advances to Node 4 (Range Band 2). Spends 2 AP to ready `[Kinetic Cleaver Pincer Sweep]`. Remaining 1 AP held in Guard.
+  * Specialist Song (Speed 5 -> 3 AP) advances to Node 4 (Range Band 2). Spends 2 AP to ready `[Kinetic Cleaver Pincer
+Sweep]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2)**:
   * Flesh Pod 1 declares `[Acid Bile Burst]` on Node 2 (Base 7 + 2 Lots = 11 Power).
   * Hwang's `[Observing Scepter Void Thrust]` (Base 9 + 2 Lots = 13 Power).
@@ -629,11 +668,13 @@ Director Majin establishes split-team GBS sector commands:
 
 ###### Turn 02 Action Resolution Log (Stagger Level 1 on Pod 1)
 - **Coordinated Pincer Strike**:
-  * **Specialist Hwang (Speed 6 -> 3 AP)**: Stands at Node 02. Spends 2 AP to execute `[Blessed Scalpel Void Dissection]` targeting Pod 1's ruptured valve.
+  * **Specialist Hwang (Speed 6 -> 3 AP)**: Stands at Node 02. Spends 2 AP to execute `[Blessed Scalpel Void
+Dissection]` targeting Pod 1's ruptured valve.
     * Base Damage 18 * Void Vulnerability (1.5x) = **27 Direct Void Damage**!
     * Inflicts +20 Posture Strain. Pod 1 Posture drops to **18/80**, breaching the **60% Posture Threshold (48 Points)**!
     * **STAGGER LEVEL 1 TRIGGERED!** Pod 1 ceases pulsing, its acid secretion lines freezing.
-  * **Specialist Song (Speed 5 -> 3 AP)**: Flanks at Node 04. Spends 2 AP to execute `[Kinetic Cleaver Pincer Sweep]`, cleaving through three emerging larvae broods at Node 03 and dealing **26 kinetic damage** to Pod 2!
+  * **Specialist Song (Speed 5 -> 3 AP)**: Flanks at Node 04. Spends 2 AP to execute `[Kinetic Cleaver Pincer Sweep]`,
+cleaving through three emerging larvae broods at Node 03 and dealing **26 kinetic damage** to Pod 2!
   * Pod 1 HP drops from 126 to **71/160**; Pod 2 HP drops to **134/160**.
 
 ---
@@ -661,7 +702,8 @@ Director Majin establishes split-team GBS sector commands:
 ###### Turn 03 Action Resolution Log (Pod 1 Destruction & Momentum Surge)
 - **Stagger Exploitation & Execution**:
   * With Pod 1 immobilized in Stagger Level 1, all allied attacks deal 1.5x direct damage!
-  * **Specialist Hwang**: Passive `Momentum Surge` activates upon triggering the stagger! Gains +2 Speed for next turn. Hwang spends 2 AP to deliver a surgical thrust into Pod 1's nucleus:
+  * **Specialist Hwang**: Passive `Momentum Surge` activates upon triggering the stagger! Gains +2 Speed for next turn.
+Hwang spends 2 AP to deliver a surgical thrust into Pod 1's nucleus:
     * Deals **48 Pure Void Damage**!
     * Pod 1 HP hits **0/160**! The biological sac ruptures with a muffled hiss, disintegrating into inert crimson bile!
   * **Specialist Song**: Steps forward to Node 03, swinging the heavy cleaver into Pod 2's flank for **24 Grudge damage**.
@@ -690,8 +732,10 @@ Director Majin establishes split-team GBS sector commands:
 - **Hostile Desperation Counter-Surge**:
   * Pod 2 shakes violently, initiating `[Brood Eruption]`—spraying an acidic bio-blast across Nodes 02, 03, and 04.
   * Containment Lead Dekan channels *The Maw's Keep Bastion Ward* from the observation balcony, absorbing 50% of the acoustic bile.
-  * **Specialist Song**: Deploys `[Directional Guard Absorption]`, taking only 4 chip damage (HP: 106/110) while shielding Hwang behind her broadsword!
-  * **Specialist Hwang (Speed 8 under Surge -> 4 AP)**: Strikes twice in rapid succession from Node 02 with the Blessed Scalpel, stripping 38 points of Posture!
+  * **Specialist Song**: Deploys `[Directional Guard Absorption]`, taking only 4 chip damage (HP: 106/110) while
+shielding Hwang behind her broadsword!
+  * **Specialist Hwang (Speed 8 under Surge -> 4 AP)**: Strikes twice in rapid succession from Node 02 with the Blessed
+Scalpel, stripping 38 points of Posture!
   * Pod 2 Posture drops to **42/80**, crossing the Stagger threshold!
 
 ---
@@ -839,7 +883,8 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 Specialist Park dons the *Judgment Scales Suit* and equips the *Guarding Feather*, giving him ironclad resistance against physical and mental damage.
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
-At midnight, the acoustic monitors capture the eerie tripartite harmony between Chambers 031, 032, and 033. Zyrak inspects the hydraulic separator lances, welding fresh molybdenum bracing onto the divider walls:
+At midnight, the acoustic monitors capture the eerie tripartite harmony between Chambers 031, 032, and 033. Zyrak
+inspects the hydraulic separator lances, welding fresh molybdenum bracing onto the divider walls:
 
 > _"Day 31. Zyrak held the line today with his own hands. If those three birds had touched, we would have been fighting the Sovereign Convergence before midday. Hydraulic ballast stands at 48.98 tons. Two more days of solid harvesting will take us past the 49-ton threshold. The Kind Healer arrives tomorrow. God help our auxiliaries."_
 
@@ -873,10 +918,14 @@ At midnight, the acoustic monitors capture the eerie tripartite harmony between 
 | 032, 033                                                            |
 +=====================================================================+
 ```
-Shift parameters initialized for Day 36. Sovereign hazard alert in effect. **SE-C-IIIβ-015** (*The Kind Healer*) stands at **9/12 baptisms**. Should the counter reach twelve, the final apostle triggers the apocalyptic White Sovereign realization, mutating all prior baptized personnel into winged executioners. Operational directive: extract **0.170 tons** of pure Han using strictly marked operatives to prevent any advancement of the baptismal counter.
+Shift parameters initialized for Day 36. Sovereign hazard alert in effect. **SE-C-IIIβ-015** (*The Kind Healer*) stands
+at **9/12 baptisms**. Should the counter reach twelve, the final apostle triggers the apocalyptic White Sovereign
+realization, mutating all prior baptized personnel into winged executioners. Operational directive: extract **0.170
+tons** of pure Han using strictly marked operatives to prevent any advancement of the baptismal counter.
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
-Only specialists who ALREADY carry the baptismal halo are permitted to enter Chamber 015 today! Sending an unblessed agent guarantees the 10th baptism:
+Only specialists who ALREADY carry the baptismal halo are permitted to enter Chamber 015 today! Sending an unblessed
+agent guarantees the 10th baptism:
 
 ```text
 +---------------------------------------------------------------------+
@@ -904,7 +953,8 @@ Only specialists who ALREADY carry the baptismal halo are permitted to enter Cha
 | | Rate)                                                             |
 +---------------------------------------------------------------------+
 ```
-Specialists Kim, Park, and Hwang are marked with `(B)` denoting active baptism halos. They receive +10% to all stats from the halo, and because they are already marked, working with the Healer will not advance the counter!
+Specialists Kim, Park, and Hwang are marked with `(B)` denoting active baptism halos. They receive +10% to all stats
+from the halo, and because they are already marked, working with the Healer will not advance the counter!
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 In Floor 4's research corridor, the air smells of myrrh and ozone. The halo floating above Specialist Hwang's brow emits a soft golden radiance:
@@ -945,7 +995,10 @@ At work check 10, sirens blare across three floors:
 | ACTIVE DISPATCH: SPECIALIST HWANG MOBILIZED                         |
 +=====================================================================+
 ```
-A meltdown on *The Kind Healer* is a nightmare. If its timer expires, it forcibly baptizes the nearest 3 employees regardless of location, triggering instant Apostle transformation! Director Majin immediately activates **FOUR-SIGN AEGIS** from Central Command: a barrier of crystalline resonance locks down Chamber 015, halting the bleed timer for 15 seconds while **Specialist Hwang** sprints through the Floor 4 airlock to execute emergency Viderehan stabilization.
+A meltdown on *The Kind Healer* is a nightmare. If its timer expires, it forcibly baptizes the nearest 3 employees
+regardless of location, triggering instant Apostle transformation! Director Majin immediately activates **FOUR-SIGN
+AEGIS** from Central Command: a barrier of crystalline resonance locks down Chamber 015, halting the bleed timer for 15
+seconds while **Specialist Hwang** sprints through the Floor 4 airlock to execute emergency Viderehan stabilization.
 
 Hwang enters with 22 seconds left, completes 6 rapid observation ticks, and clears the meltdown! Meltdown gauge clears.
 
@@ -997,9 +1050,12 @@ Director Majin establishes coordinated GBS tactical commands:
 - **Step 1: Floor 5 Echo-Core Resonance (Border Lead Mellda)**:
   * Mellda deploys *The Bulwark Perimeter*, erecting golden barriers over Nodes 2 through 4 that nullify Void laser penetration by 40%.
 - **Step 2: Movement & Action Point Spending**:
-  * Border Lead Mellda (Speed 5 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1). Spends 2 AP to brace *Threshold Vow* in reflective parry stance.
-  * Specialist Park (Speed 6 -> 3 AP) advances to Node 3 behind Mellda. Spends 2 AP to prepare `[Lament Requiem Resonant Crush]`. Remaining 1 AP held in Guard.
-  * Specialist Hwang (Speed 5 -> 3 AP) takes Node 6 (Range Band 3). Spends 2 AP to prepare concentrated Void disruption targeting the monument's optical crown.
+  * Border Lead Mellda (Speed 5 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1). Spends
+2 AP to brace *Threshold Vow* in reflective parry stance.
+  * Specialist Park (Speed 6 -> 3 AP) advances to Node 3 behind Mellda. Spends 2 AP to prepare `[Lament Requiem Resonant
+Crush]`. Remaining 1 AP held in Guard.
+  * Specialist Hwang (Speed 5 -> 3 AP) takes Node 6 (Range Band 3). Spends 2 AP to prepare concentrated Void disruption
+targeting the monument's optical crown.
 - **Step 3: Clash Resolution (Node 2)**:
   * Gilded Monument declares `[Oblivion Prismatic Lance]` on Node 2 (Base 8 + 2 Lots = 12 Power).
   * Mellda's `[Threshold Vow Reflective Parry]` (Base 10 + 2 Lots = 14 Power).
@@ -1031,7 +1087,8 @@ Director Majin establishes coordinated GBS tactical commands:
 
 ###### Turn 02 Action Resolution Log (Stagger Level 1 on Monument)
 - **Tripartite Pressure**:
-  * **Border Lead Mellda**: Holds Node 02 in Point-Blank Band 1. Braces *Threshold Vow* against the monument's base, executing `[Threshold Kinetic Anchor]`.
+  * **Border Lead Mellda**: Holds Node 02 in Point-Blank Band 1. Braces *Threshold Vow* against the monument's base,
+executing `[Threshold Kinetic Anchor]`.
   * **Specialist Park**: Firing from Node 03 (Range Band 2), channels `[Lament Requiem Resonant Crush]`:
     * Deals **44 Pure Lament Damage** directly through the structural crack opened in Turn 01!
   * **Specialist Hwang**: Targets the optical lens from Node 06 with a focused Void beam for **28 Void damage**.
@@ -1065,7 +1122,8 @@ Director Majin establishes coordinated GBS tactical commands:
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Allied Focus Fire (1.5x Direct Damage)**:
-  * Specialist Park's `Momentum Surge` triggers! Gains +2 Speed for next turn. Park drives the acoustic hammer deep into the monument's core: **58 Lament Damage**!
+  * Specialist Park's `Momentum Surge` triggers! Gains +2 Speed for next turn. Park drives the acoustic hammer deep into
+the monument's core: **58 Lament Damage**!
   * Border Lead Mellda delivers a sweeping two-handed cleave: **34 Grudge Damage**!
   * Monument HP collapses from 188 to **96/340**! Posture drops to **24/180**!
 
@@ -1094,8 +1152,10 @@ Director Majin establishes coordinated GBS tactical commands:
 ###### Turn 04 Action Resolution Log (Oblivion Torrent Desperation Blast)
 - **Hostile Recovery & Desperation Counter-Surge**:
   * The Gilded Monument recovers, unleashing its maximum-aperture area laser: `[Oblivion Torrent]` sweeping down the central corridor.
-  * Mellda deploys `[Directional Guard Absorption]`, taking 14 chip damage (HP: 176/190) and absorbing 75% of the laser energy to protect Park and Hwang behind her!
-  * Specialist Hwang targets the glowing lens from Range Band 3, firing `[Blessed Scalpel Void Incision]`: the beam pierces the crystal optic, shattering the lens and canceling the high-yield follow-up!
+  * Mellda deploys `[Directional Guard Absorption]`, taking 14 chip damage (HP: 176/190) and absorbing 75% of the laser
+energy to protect Park and Hwang behind her!
+  * Specialist Hwang targets the glowing lens from Range Band 3, firing `[Blessed Scalpel Void Incision]`: the beam
+pierces the crystal optic, shattering the lens and canceling the high-yield follow-up!
   * Monument HP drops to **42/340**! Posture falls to **10/180**!
 
 ---
@@ -1150,7 +1210,8 @@ Director Majin establishes coordinated GBS tactical commands:
 
 ###### Turn 06 Action Resolution Log (Climax Execution & Purification)
 - **Final Subdual**:
-  * Specialist Park executes `[Requiem Climax: Smite of Absolution]`. The acoustic hammer shatters the monument into a shower of shimmering golden dust and refined Han vapor!
+  * Specialist Park executes `[Requiem Climax: Smite of Absolution]`. The acoustic hammer shatters the monument into a
+shower of shimmering golden dust and refined Han vapor!
   * Floor 5 collection flues siphon the harvest: **+0.022 tons of refined Han secured**!
 
 
@@ -1248,7 +1309,8 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 Specialist Hwang equips the *Apostle's Linen Suit* and *Blessed Scalpel*, turning him into our most devastating combat operative.
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
-At 01:15, Ayshuk transmits the neural scan telemetry of Researcher Bae. The residual resonance from the Healer's touch has subsided, but her optic nerves still register faint golden micro-fractures:
+At 01:15, Ayshuk transmits the neural scan telemetry of Researcher Bae. The residual resonance from the Healer's touch
+has subsided, but her optic nerves still register faint golden micro-fractures:
 
 > _"Day 36. We survived the Healer's tenth call. If Ayshuk had hesitated for half a second with that shock grid, we would have had ten Apostles in our corridors and no way to shut them down. Hydraulic ballast stands at 49.34 tons. Only 0.66 tons remain until we hit the halfway mark of the Absolvohan project."_
 
@@ -1284,7 +1346,10 @@ At 01:15, Ayshuk transmits the neural scan telemetry of Researcher Bae. The resi
 | 032, 055                                                            |
 +=====================================================================+
 ```
-Shift parameters initialized for Day 41. Floor 6 (Extraction Lead) is officially synchronized under Master Smith Zyrak. Daily quota advances to **0.190 tons** of refined Han. Outside the perimeter, seismic pulses from the subterranean furnace Cheonbulok induce hydraulic micro-tremors along the ballast lines. Zyrak's *Forge Resonance* aura is online, boosting extraction yield by +10% per successful work check.
+Shift parameters initialized for Day 41. Floor 6 (Extraction Lead) is officially synchronized under Master Smith Zyrak.
+Daily quota advances to **0.190 tons** of refined Han. Outside the perimeter, seismic pulses from the subterranean
+furnace Cheonbulok induce hydraulic micro-tremors along the ballast lines. Zyrak's *Forge Resonance* aura is online,
+boosting extraction yield by +10% per successful work check.
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
 We now have six floors operational, with a veteran squad positioned across Floors 4, 5, and 6:
@@ -1318,7 +1383,8 @@ We now have six floors operational, with a veteran squad positioned across Floor
 | | (+10% Han Yield / Wk)                                             |
 +---------------------------------------------------------------------+
 ```
-Zyrak's *Forge Resonance* aura increases our Han extraction yield by +10% per successful work check, allowing us to hit our massive 0.190-ton quota much faster before high meltdown levels accumulate.
+Zyrak's *Forge Resonance* aura increases our Han extraction yield by +10% per successful work check, allowing us to hit
+our massive 0.190-ton quota much faster before high meltdown levels accumulate.
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 The facility shakes with a low, rumbling seismic vibration. In Floor 6's forge corridor, molten Han gleams in the crucible channels:
@@ -1407,16 +1473,20 @@ Director Majin establishes GBS tactical positioning:
 
 ###### Turn 01 Action Resolution Log (Floor 5 Gateway Sluice)
 - **Step 1: Floor 5 Echo-Core Resonance (Border Lead Mellda)**:
-  * Mellda engages *Blast Gate Lockdown*, dropping heavy steel portcullises at Node 4 to isolate Nodes 1–3 and trap the beast in the gateway vestibule.
+  * Mellda engages *Blast Gate Lockdown*, dropping heavy steel portcullises at Node 4 to isolate Nodes 1–3 and trap the
+beast in the gateway vestibule.
 - **Step 2: Movement & Action Point Spending**:
   * Border Lead Mellda (Speed 5 -> 3 AP) stands firm at Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Threshold Vow Bulwark Stance]`.
-  * Specialist Hwang (Speed 6 -> 3 AP) spends 1 AP to shift from Node 4 to Node 2 behind the beast's rear segment. Spends 2 AP to ready `[Blessed Scalpel Void Dissection]`.
-  * Specialist Bae (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to wind up `[Bulwark Maul Ground Breaker]`. Remaining 1 AP held in Guard.
+  * Specialist Hwang (Speed 6 -> 3 AP) spends 1 AP to shift from Node 4 to Node 2 behind the beast's rear segment.
+Spends 2 AP to ready `[Blessed Scalpel Void Dissection]`.
+  * Specialist Bae (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to wind up `[Bulwark Maul Ground
+Breaker]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * The Churning Hive declares `[Tectonic Mandible Crush]` on Node 3 (Base 9 + 2 Lots = 13 Power).
   * Mellda's `[Threshold Vow Bulwark Stance]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Mellda WINS THE CLASH (15 vs 13).
-    * Mellda's golden arm-blade locks the centipede's primary mandibles. The counter-force reverberates through the beast's chitinous segments, dealing 36 Grudge damage and inflicting +24 Stagger!
+    * Mellda's golden arm-blade locks the centipede's primary mandibles. The counter-force reverberates through the
+beast's chitinous segments, dealing 36 Grudge damage and inflicting +24 Stagger!
   * Specialist Hwang strikes from Node 2 unopposed, driving the *Blessed Scalpel* deep into the exposed ventral joint for **42 Void damage**!
 
 
@@ -1477,7 +1547,8 @@ Director Majin establishes GBS tactical positioning:
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Allied Focus Fire (1.5x Direct Damage)**:
-  * Specialist Hwang's `Momentum Surge` activates! (+2 Speed next turn). Hwang delivers three consecutive scalpel incisions into the central nerve cluster: **64 Void Damage**!
+  * Specialist Hwang's `Momentum Surge` activates! (+2 Speed next turn). Hwang delivers three consecutive scalpel
+incisions into the central nerve cluster: **64 Void Damage**!
   * Mellda cleaves through two armored dorsal segments: **38 Grudge Damage**!
   * Hive HP plummets from 232 to **130/380**! Posture drops to **24/200**!
 
@@ -1661,7 +1732,8 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 Specialist Bae equips the *Iron Aegis Plate* and *Meteoric Bracer*, turning her into a frontline juggernaut.
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
-At 02:00, the seismic sensors record a massive subterranean shockwave traveling along the fault line from Cheonbulok. Mellda stands on the southern parapet, gazing out over the mist-covered plains:
+At 02:00, the seismic sensors record a massive subterranean shockwave traveling along the fault line from Cheonbulok.
+Mellda stands on the southern parapet, gazing out over the mist-covered plains:
 
 > _"Day 41. The earth is vibrating with a low infrasonic pulse. It matches the heartbeat of the colossus entombed in the mountain. Hydraulic ballast stands at 49.62 tons. In eight days, we will cross 50.0 tons—halfway to the 100-ton threshold needed to fire the Absolvohan. For 1,777 cycles, we never broke 48 tons. We are writing new history with every tick."_
 
@@ -1698,7 +1770,9 @@ At 02:00, the seismic sensors record a massive subterranean shockwave traveling 
 +=====================================================================+
 ```
 
-Shift parameters engaged for Day 45. Target energy quota rises to **0.160 tons** of pure refined Han. Covert hydraulic reserves beneath Floor 6 confirm **49.100 tons**—passing the critical ninety-eight percent mark toward our mid-cycle operational threshold.
+Shift parameters engaged for Day 45. Target energy quota rises to **0.160 tons** of pure refined Han. Covert hydraulic
+reserves beneath Floor 6 confirm **49.100 tons**—passing the critical ninety-eight percent mark toward our mid-cycle
+operational threshold.
 
 Operational priorities for Day 45:
 1. Maintain tripartite stabilization across Chambers 031, 032, and 033.
@@ -1780,7 +1854,8 @@ At 14:40, the space outside Gate 05 shatters like crystalline glass:
 +=====================================================================+
 ```
 
-A colossal, five-fingered arm composed of iridescent violet crystal protrudes from an open spatial fissure at Node 02, sweeping through the air with piercing dimensional decay!
+A colossal, five-fingered arm composed of iridescent violet crystal protrudes from an open spatial fissure at Node 02,
+sweeping through the air with piercing dimensional decay!
 
 ```text
 +=====================================================================+
@@ -1807,14 +1882,16 @@ A colossal, five-fingered arm composed of iridescent violet crystal protrudes fr
 
 ##### Turn 01 Action Resolution Log (Spatial Ingress & Bulwark Anchor)
 - **Operative Movement & Clash Standoff**:
-  * **Border Lead Mellda (Speed 6 -> 3 AP)**: Spends 1 AP to advance to Node 03, planting *Threshold Vow* in front of the rift. Declares `[Threshold Vow Kinetic Parry]` (Costs 2 AP).
+  * **Border Lead Mellda (Speed 6 -> 3 AP)**: Spends 1 AP to advance to Node 03, planting *Threshold Vow* in front of
+the rift. Declares `[Threshold Vow Kinetic Parry]` (Costs 2 AP).
   * The Piercing Hand declares `[Prismatic Sweep]` on Node 03 (Base 9 + 2 Lots = 13 Power).
   * Mellda's Roll:
     * *Passive Trigger:* `Iron Perimeter` (+2 Base Clash Power).
     * Mellda Roll: Base 11 + 2 Lots = **15 Power**!
   * **Clash Result**: **Mellda WINS THE CLASH (15 vs 13)!**
     * The arm-blade deflects the crystalline fingers, dealing 32 Grudge damage (HP: 208/240) and inflicting +22 Posture Strain (Posture: 98/120).
-  * **Specialist Hwang (Speed 6 -> 3 AP)**: From Node 05 (Range Band 3), strikes with `[Blessed Scalpel Void Beam]`, exploiting the entity's Void vulnerability: **36 Direct Void Damage**!
+  * **Specialist Hwang (Speed 6 -> 3 AP)**: From Node 05 (Range Band 3), strikes with `[Blessed Scalpel Void Beam]`,
+exploiting the entity's Void vulnerability: **36 Direct Void Damage**!
   * **Specialist Park**: Firing from Node 04, adds 18 Lament damage. Hostile HP drops to **154/240**!
 
 ---
@@ -1961,7 +2038,8 @@ A colossal, five-fingered arm composed of iridescent violet crystal protrudes fr
 
 ##### Turn 06 Action Resolution Log (Climax Execution & Harvest)
 - **Rift Closure & Purification**:
-  * Specialist Hwang executes `[Void Suture]`, sealing the spatial fissure while Mellda and Park pulverize the remaining crystal fingers into harmless violet mist.
+  * Specialist Hwang executes `[Void Suture]`, sealing the spatial fissure while Mellda and Park pulverize the remaining
+crystal fingers into harmless violet mist.
   * Floor 5 collection manifolds harvest **+0.018 tons of pure refined Han**!
 
 Total daily harvest reaches **0.168 / 0.160 tons**! Quota surpassed!
@@ -2046,13 +2124,15 @@ Specialist Hwang equips the *Whispering Needle*, granting Floor 4 unmatched armo
 
 #### 7. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 02:45, Majin inspects Floor 5's reinforced observation gallery. The border rift is completely sealed. Outside, the Desolate winds howl against the outer Veil, but inside, the facility is tranquil.
+At 02:45, Majin inspects Floor 5's reinforced observation gallery. The border rift is completely sealed. Outside, the
+Desolate winds howl against the outer Veil, but inside, the facility is tranquil.
 
 Deep within Floor 6, the hydraulic ballast meters register **49.100 tons** of stored sorrow.
 
 Seiyon's holographic form materializes beside him: *"Forty-nine point one tons, Majin. We are less than one ton away from Day 160."*
 
-Majin gazes into the dark dunes beyond Gate 05: *"Four days until the Ashen Third Watch. Alert Marjuk on Floor 6. When the shadow falls, we hold the line."*
+Majin gazes into the dark dunes beyond Gate 05: *"Four days until the Ashen Third Watch. Alert Marjuk on Floor 6. When
+the shadow falls, we hold the line."*
 
 ### Day 49
 ### Story — Dialogue
@@ -2085,7 +2165,10 @@ Majin gazes into the dark dunes beyond Gate 05: *"Four days until the Ashen Thir
 | 055, 088                                                            |
 +=====================================================================+
 ```
-Shift parameters initialized for Day 49. The facility stands on the precipice of the 50-ton milestone. Daily quota is locked at **0.220 tons** of pure crystallized Han. Covert hydraulic ballast meters read **49.800 tons**. Harvesting the daily quota will propel ballast reserves past **50.02 tons**, achieving 50.0% completion of the Absolvohan project. Seven operational floors and seven attendant auras are active simultaneously.
+Shift parameters initialized for Day 49. The facility stands on the precipice of the 50-ton milestone. Daily quota is
+locked at **0.220 tons** of pure crystallized Han. Covert hydraulic ballast meters read **49.800 tons**. Harvesting the
+daily quota will propel ballast reserves past **50.02 tons**, achieving 50.0% completion of the Absolvohan project.
+Seven operational floors and seven attendant auras are active simultaneously.
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
 Here is our elite deployment roster across all primary containment hubs:
@@ -2120,7 +2203,8 @@ Here is our elite deployment roster across all primary containment hubs:
 | | Recovery)                                                         |
 +---------------------------------------------------------------------+
 ```
-Every agent deployed today is a battle-hardened veteran equipped with Class III or Sovereign M.A.W. gear. Zero rookie personnel are allowed on the active floors.
+Every agent deployed today is a battle-hardened veteran equipped with Class III or Sovereign M.A.W. gear. Zero rookie
+personnel are allowed on the active floors.
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 The command terminal hums with unprecedented computational power. On Floor 1, Seiyon's holographic interface glows deep cyan:
@@ -2168,12 +2252,14 @@ At work check 14, the acoustic monitoring matrix flashes crimson across all seve
 | SYNC                                                                |
 +=====================================================================+
 ```
-Six containment cells in simultaneous overload! If multiple cells breach, the 50-ton milestone will be ruined. Director Majin issues the master tactical command:
+Six containment cells in simultaneous overload! If multiple cells breach, the 50-ton milestone will be ruined. Director
+Majin issues the master tactical command:
 1. **QUARANTINE SEVERANCE**: Floor 3 and Floor 4 isolation bulkheads slam shut, sealing Chambers 031 and 032 while localized scrubbers bleed off acoustic charge.
 2. **FOUR-SIGN AEGIS**: Deployed around Chamber 015 (*The Kind Healer*), freezing its countdown.
 3. **All Specialists Surge**: Specialist Kim enters 005, Specialist Bae enters 055, Specialist Song enters 088, and Specialist Hwang rushes 015!
 
-In a breathless 30-second coordinated sweep, all six cells are cleared without a single cell breach! The facility breathes a collective sigh of relief.
+In a breathless 30-second coordinated sweep, all six cells are cleared without a single cell breach! The facility
+breathes a collective sigh of relief.
 
 ##### Ordeal Manifestation: The Tide Herald — First Glimpse of the Sovereign Watch
 At 0.205 tons harvested, the lights across the vertical spine cut to complete darkness. A deep, subterranean bell tolls from beneath Floor 8:
@@ -2231,7 +2317,8 @@ Director Majin establishes Deep Vault GBS tactical parameters:
   * Final Door Echo attempts `[Chime of the Before-Time]` (Base 10 + 2 Lots = 14 Power).
   * Marjuk's `[Chrono Stasis Seal]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Marjuk WINS THE CLASH (15 vs 14).
-    * Marjuk's stasis seal encapsulates the acoustic pulse before it can detonate, reflecting 38 Void damage back into the projection with +26 Stagger!
+    * Marjuk's stasis seal encapsulates the acoustic pulse before it can detonate, reflecting 38 Void damage back into
+the projection with +26 Stagger!
   * Hwang and Park deliver coordinated Void and Lament strikes from Nodes 4 and 5, destabilizing the shadow's harmonic cohesion.
 
 
@@ -2258,7 +2345,8 @@ Director Majin establishes Deep Vault GBS tactical parameters:
 
 ###### Turn 02 Action Resolution Log (Stasis Lock & Stagger Build)
 - **Tripartite Resonance Strike**:
-  * **Archive Lead Marjuk**: Holds Node 02 in Point-Blank Band 1. Spends 2 AP to maintain *The Temporal Stasis Array*, freezing the lower elevator shaft in chronological amber.
+  * **Archive Lead Marjuk**: Holds Node 02 in Point-Blank Band 1. Spends 2 AP to maintain *The Temporal Stasis Array*,
+freezing the lower elevator shaft in chronological amber.
   * The Weeping Shadow attempts `[Chrono-Lament Wail]`, but Marjuk's stasis array turns the pulse back into the projection!
   * **Specialist Hwang**: From Node 04 (Range Band 2), discharges `[Whispering Needle Skewer Void]`: **36 Void Damage**!
   * **Specialist Park**: From Node 05 (Range Band 3), unleashes a resonant Lament beam: **32 Damage**!
@@ -2393,7 +2481,8 @@ Director Majin establishes Deep Vault GBS tactical parameters:
 +=====================================================================+
 ```
 
-Marjuk anchors the Archive stasis field while Specialist Hwang and Specialist Park deploy to the lower elevator shaft, holding the boundary line until the harmonic pulse dissipates back into the bedrock. +30 RHR reagents collected!
+Marjuk anchors the Archive stasis field while Specialist Hwang and Specialist Park deploy to the lower elevator shaft,
+holding the boundary line until the harmonic pulse dissipates back into the bedrock. +30 RHR reagents collected!
 
 #### 3. End-of-Day Shift Evaluation Index
 ```text
@@ -2419,7 +2508,8 @@ Marjuk anchors the Archive stasis field while Specialist Hwang and Specialist Pa
 | | Breakthrough)                                                     |
 +---------------------------------------------------------------------+
 ```
-Milestone achieved: **Hydraulic Ballast Reserves have reached 50.038 tons!** Exactly 50.038% of the 100-ton Absolvohan project is now stored safely within the facility's secret sub-vaults!
+Milestone achieved: **Hydraulic Ballast Reserves have reached 50.038 tons!** Exactly 50.038% of the 100-ton Absolvohan
+project is now stored safely within the facility's secret sub-vaults!
 
 #### 4. Well Extraction Protocol (Containment Authorization)
 ```text
@@ -2465,10 +2555,13 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 | | (CHEST & MAIN)                                                    |
 +---------------------------------------------------------------------+
 ```
-Specialist Song equips the *Cherub's Sorrow Robe* and *Fountain Siphon Bow*, establishing her as our supreme mental restoration and ranged support sniper.
+Specialist Song equips the *Cherub's Sorrow Robe* and *Fountain Siphon Bow*, establishing her as our supreme mental
+restoration and ranged support sniper.
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
-At 02:45, Director Majin descends alone to Floor 8. In the subterranean silence, the frost on the Final Door's hinges glistens in the beam of his hand-lamp. Exactly one inch of black iron around the central keyhole has thawed into warm, dripping dew:
+At 02:45, Director Majin descends alone to Floor 8. In the subterranean silence, the frost on the Final Door's hinges
+glistens in the beam of his hand-lamp. Exactly one inch of black iron around the central keyhole has thawed into warm,
+dripping dew:
 
 > _"Day 49. Fifty tons. In 1,777 previous cycles, this facility never held more than 48.2 tons of Han before the loop collapsed and reset our minds. Today, the ballast holds 50.038 tons. Halfway there. The door whispered 'Racham'—mercy. But we will not ask for mercy from whatever lies beyond that threshold. When the day comes, we will take it."_
 

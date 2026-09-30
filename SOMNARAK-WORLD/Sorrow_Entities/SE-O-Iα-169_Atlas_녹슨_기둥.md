@@ -10,7 +10,7 @@
 | **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — A rusted iron pillar embedded in the Forge District, supporting nothing — corroded, bleeding orange, warm and rough to the touch. Lead-cold beneath the rust, it smells of wet iron; it stands where no building needs it. |

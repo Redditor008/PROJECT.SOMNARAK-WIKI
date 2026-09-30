@@ -38,7 +38,7 @@ This dispatch records recent operational updates within Facility 01, containment
 ## 2 Chronological Archive Revisions (Patches 1.0 to 1.4)
 
 ### Revision 1.4 (Cycle 1,778.34) — Comprehensive Encyclopedia Overhaul
-- Standardized all 292 sorrow entities across the five canonical risk tiers (Whisper to Sovereign).
+- Standardized all 291 sorrow entities across the five canonical risk tiers (Whisper to Sovereign).
 - Implemented the strict Two-Work-Type Rule for inanimate Tool Relics (Viderehan and Ferrehan only).
 - Verified mathematical balance of the four elemental pressures across all M.A.W. defensive suits.
 
@@ -90,4 +90,4 @@ This dispatch records recent operational updates within Facility 01, containment
 - [01-Main Page](01-Main%20Page.md) — Grand Portal and central directory
 - [05-Chronicle](05-Chronicle.md) — master historical chronicle and Cantos
 - [13-Operations](13-Operations.md) — active departmental mission directives
-- [08-Sorrow List](08-Sorrow%20List.md) — complete catalog of 292 sorrow entities
+- [08-Sorrow List](08-Sorrow%20List.md) — complete catalog of 291 sorrow entities

@@ -11,7 +11,7 @@
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A broken door standing alone in the Echo Gardens, its charred frame burning with a small fire that never goes out and never spreads. Fever-warm, it smells of cold rain and char; a way out that broke, and keeps trying to open. |

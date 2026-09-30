@@ -18,11 +18,13 @@ Ordeals are divided into **Five Color Spectrums** (matching metaphysical sorrow 
 
 | Spectrum | Elemental Affinity | Core Threat Dynamic | Primary Damage |
 |---|---|---|---|
-| **BLACK (검은 시련)** | Weight (비중 / 悲重) | Gravitational compaction, collapsing pillars, density surges | Heavy Weight DMG |
+| **OBSIDIAN (검은 시련)** | Weight (비중 / 悲重) | Gravitational compaction, collapsing pillars, density surges | Heavy Weight DMG |
 | **BLUE (푸른 시련)** | Lament (비탄 / 悲歎) | Brine floods, weeping processions, acoustic grief waves | Heavy Blue / Lament DMG |
 | **GREY (잿빛 시련)** | Grudge (원한 / 怨恨) | Armed battalions, mechanical blade walls, furious assaults | Heavy Red / Grudge DMG |
-| **PALE (창백한 시련)** | Void (공허 / 空虛) | Conceptual erasures, vacuum mouths, existential severance | Heavy Pale / Void DMG |
+| **ASHEN (창백한 시련)** | Void (공허 / 空虛) | Conceptual erasures, vacuum mouths, existential severance | Heavy Pale / Void DMG |
 | **PURPLE (자색 시련)** | Mixed (혼합 / 混合) | Reality distorters, multi-elemental convergences, altar hazards | Mixed Multi-Attribute DMG |
+*Archival note: older codices render OBSIDIAN and ASHEN as Black and Pale; on-disk ordeal dossiers use OBSIDIAN and ASHEN.*
+
 
 ---
 
@@ -51,7 +53,7 @@ Each color spectrum manifests across four chronological phases during an operati
 5 Colors × 4 Watches × 3 Entities per Watch = 60 Canonical Ordeal Records
 ```
 
-### 1. BLACK (Weight — 12 Files)
+### 1. OBSIDIAN (Weight — 12 Files)
 - **First Watch:** `The_Grinding_Slab`, `The_Lead_Footsteps`, `The_Rolling_Weight`
 - **Second Watch:** `The_Crushing_Column`, `The_Falling_Mass`, `The_Sinking_Floor`
 - **Third Watch:** `The_Buried_Pillar`, `The_Collapsing_Arch`, `The_Pressing_Vault`
@@ -69,7 +71,7 @@ Each color spectrum manifests across four chronological phases during an operati
 - **Third Watch:** `The_Armored_Host`, `The_Execution_Line`, `The_Siege_Engine`
 - **Tide Watch:** `The_Iron_Legion`, `The_Unforgiven_Army`, `The_War_That_Never_Ended`
 
-### 4. PALE (Void — 12 Files)
+### 4. ASHEN (Void — 12 Files)
 - **First Watch:** `The_Fading_Shadow`, `The_Silent_Step`, `The_White_Mote`
 - **Second Watch:** `The_Blank_Face`, `The_Erasing_Fog`, `The_Numb_Hand`
 - **Third Watch:** `The_Hollow_Man`, `The_Unmaking_Gate`, `The_Void_Spire`

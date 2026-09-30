@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A creature of braided black roots in the rough shape of a beast, threading into floors and walls as it drags onward — half root-system, half animal. Lead-cold, it smells of wet stone. |

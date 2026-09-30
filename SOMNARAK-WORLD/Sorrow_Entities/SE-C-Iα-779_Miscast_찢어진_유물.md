@@ -11,7 +11,7 @@
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A broken relic split into several floating metal fragments that drift around the space they once filled, pulling toward one another but never reconnecting. Corroded and fever-cold, it smells of char; the gap between the pieces is the wound. |

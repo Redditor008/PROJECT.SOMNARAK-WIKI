@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A faint ghostly figure shaped like a single tear that has begun to burn — translucent, flickering, trailing heat. It appears and disappears around the Forge District without warning. Fever-cold, it smells of char; to see it is to feel a grief you cannot place. |

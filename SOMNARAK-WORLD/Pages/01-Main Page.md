@@ -2,7 +2,7 @@
 
 ![Project Somnarak Master Archives Hero Banner](images/alpha-tree-spire.svg)
 
-> *We are currently maintaining **292** [Sorrow Entities](07-Sorrow%20Entities.md) (529 files, **285** unique SECC), **42** **M.A.W. sets** (**1,165** profiles), **60** [Ordeals](10-Ordeals.md), and 44 Codices. Please feel free to contribute by expanding existing records.*
+> *We are currently maintaining **291** [Sorrow Entities](07-Sorrow%20Entities.md) (291 files, **284** cataloged SECC), **198** **M.A.W. sets** (**1,165** profiles), **60** [Ordeals](10-Ordeals.md), and 44 Codices. Please feel free to contribute by expanding existing records.*
 
 **Somnarak Wiki** is the comprehensive encyclopedia for [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] — the vertical municipal civilization of **1.29 billion** souls built where the **Weeping**  [비탄의 강]  (_Bitan-ui Gang_ — River of 🔵 **Lament**) surfaces beneath the Alpha Tree  [알파 트리]  (_Alpa Teuri_).
 
@@ -13,7 +13,7 @@ Within this municipal order, the **Hand of Change** (Facility 01) descends eight
 | SOMNARAK WIKI - MAIN GRAND PORTAL                                      |
 +------------------------------------------------------------------------+
 | Lore Archive           | SOMNARAK-WORLD / Pages (Canonical Wiki)       |
-| Maintained Records     | 292 Entities - 42 M.A.W. Sets - 60 Ordeals    |
+| Maintained Records     | 291 Entities - 198 M.A.W. Sets - 60 Ordeals   |
 | Anchor Era             | Year 4,238 / Reverie Cycle 1,778              |
 | Primary Structure      | Facility 01 (Hand of Change - 9 Echo-Cores)   |
 | Corporate Framework    | 10 Primary Companies (5 Main - 5 Sub)         |
@@ -52,8 +52,8 @@ The Somnarak archive is organized across **Three Main Hubs** and **Two Sub Porta
 
 | Archive Metric | Canonical Count | Reference Hub |
 |---|---|---|
-| Sorrow Entities | 292 entities (285 unique SECC) | [07-Sorrow Entities](07-Sorrow%20Entities.md) |
-| M.A.W. Equipment Sets | 42 sets (1,165 profiles) | [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) |
+| Sorrow Entities | 291 entities (284 unique SECC) | [07-Sorrow Entities](07-Sorrow%20Entities.md) |
+| M.A.W. Equipment Sets | 198 sets (1,165 profiles) | [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) |
 | Ordeal Incursions | 60 across 5 Colors and 4 Watches | [10-Ordeals](10-Ordeals.md) |
 | Story Cantos | 6 sequential Cantos | [05-Chronicle](05-Chronicle.md) |
 | Facility Floors | 9 (Floors 1-8 plus Central) | [22-Departments](22-Departments.md) |
@@ -93,7 +93,7 @@ Somnarak fields nine operational departments across eight descending levels plus
 ## 4 Gameplay and Tactical Systems
 
 - **[08-Sorrow List](08-Sorrow%20List.md)** — complete catalog of all 285 unique SECC codes
-- **[09-M.A.W. Equipment](09-M.A.W.%20Equipment.md)** — weapon, suit, and stigma armory (42 sets, 1,165 profiles)
+- **[09-M.A.W. Equipment](09-M.A.W.%20Equipment.md)** — weapon, suit, and stigma armory (198 sets, 1,165 profiles)
 - **[10-Ordeals](10-Ordeals.md)** — sixty hostile incursions across 5 Colors and 4 Watches
 - **[11-Reverberations](11-Reverberations.md)** — departmental meltdown crises and floor realization trials
 - **[12-Specialists](12-Specialists.md)** — operative recruitment, stat progression, and loadout pairing
@@ -111,7 +111,7 @@ Somnarak fields nine operational departments across eight descending levels plus
 ## 5 Navigation Tools
 
 - [02-Recent Echoes](02-Recent%20Echoes.md) — recent changes, patchnotes, and field logs
-- [03-Random Dossier](03-Random%20Dossier.md) — random draw generator across all 292 containment records
+- [03-Random Dossier](03-Random%20Dossier.md) — random draw generator across all 291 containment records
 - [04-Help](04-Help.md) — reading guide for novices and containment safety standards
 - [42-Navigation](01-Main%20Page.md) — complete directory index
 

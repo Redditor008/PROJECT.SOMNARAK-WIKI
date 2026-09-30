@@ -5,7 +5,7 @@
 ---
 
 **Document ID:** `SE-044-C`  
-**Linked Entity:** `SE-044` — Dawn of Mourning  
+**Linked Entity:** `SE-C-Vω-002` — Dawn of Mourning  
 **Source SECC Designation:** `C-Vω-001 [LS]`  
 **Item Registry Code:** `MAW-S-044-01`  
 **Author:** Specialist Iseulfros Kim  
@@ -52,7 +52,7 @@ Within *Dawn of Mourning — Witnessed Form*, The Dawn of Shroud performs the su
 ---
 
 **Document ID:** `SE-044-C`  
-**Linked Entity:** `SE-044`  
+**Linked Entity:** `SE-C-Vω-002`  
 **Item Registry Code:** `MAW-S-044-01`  
 **Author:** Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  

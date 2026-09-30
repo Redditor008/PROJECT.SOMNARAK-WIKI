@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) — Repeats waiting for acknowledgment |
 | **Potency** | Moderate (β) — Manageable |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A motionless figure that appears rusted and worn, its body dark tear-crystal gone orange with corrosion, weeping as it waits. Salt-damp, it smells of cold rain and wet iron; a soul that rusted in place, still waiting for what never came. |

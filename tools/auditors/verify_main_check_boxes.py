@@ -38,7 +38,7 @@ def make_box():
     out.append(pad_line("origin/main structure:"))
     out.append(pad_line("  BUILD_RECORDS/, REFERENCE_SOMNARAK_WIKI/, docs/ (legacy), tools/"))
     out.append(pad_line("Current Working Branch (arena/01a0b699-...):"))
-    out.append(pad_line("  SOMNARAK-WORLD/ (292 SEs, MAW Armory, Cantos, Codices)"))
+    out.append(pad_line("  SOMNARAK-WORLD/ (291 SEs, MAW Armory, Cantos, Codices)"))
     out.append(pad_line("  GAME_BATTLE/ (Tactical Grid, Encounters 01-06, Boss Mechanics)"))
     out.append(pad_line("  docs/ (Pentad Front Page & P.M. Wiki.gg / Fandom Game Wiki)"))
     out.append(pad_line("  TRYOUT,SANDBOX/ : DELETED (Remote Commit 100b487 Verified)"))
@@ -68,7 +68,7 @@ def make_metrics_box():
     out.append(pad_line("Active Remote Branches: 3 Branches Inspected (100.0%)"))
     out.append(pad_line("Write Prohibition Compliance: 0 Files Modified / 0 Pushes (PASS)"))
     out.append(pad_line("TRYOUT,SANDBOX Deletion: Confirmed Deleted on Remote (100.0%)"))
-    out.append(pad_line("Pan-Archive SE Compliance: 292 / 292 Files Verified (100.0%)"))
+    out.append(pad_line("Pan-Archive SE Compliance: 291 / 291 Files Verified (100.0%)"))
     out.append(pad_line("Two-Work-Type Rule Compliance: 131 / 131 Non-Subject Files (100.0%)"))
     out.append(top)
     

@@ -16,13 +16,25 @@
 
 ### Story — Dialogue
 
-_The primary console of Floor 1 hums with a deep, subterranean cadence. Thick basalt bulkheads, polished to a dull obsidian sheen by centuries of refined Han lubricant, reverberate as the facility's pneumatic lifters engage. Across the circular chamber of the Decision Core, banks of amber vacuum tubes ignite one by one, their filaments glowing like embers trapped in glass._
+_The primary console of Floor 1 hums with a deep, subterranean cadence. Thick basalt bulkheads, polished to a dull
+obsidian sheen by centuries of refined Han lubricant, reverberate as the facility's pneumatic lifters engage. Across the
+circular chamber of the Decision Core, banks of amber vacuum tubes ignite one by one, their filaments glowing like
+embers trapped in glass._
 
-_In the center of the chamber, suspended inside a toroidal holographic emitter, a face coalesces. Feminine, sharp, sculpted with crystalline precision. Cold. Perfect. An artificial intellect engineered to calculate grief in megawatt-hours and evaluate human terror in metric tons. Yet when the eyelids lift, the projected eyes carry an unsettling warmth—an organic, aching depth that no line of code was ever written to sustain. It is the gaze of a being who has stood conscious through one thousand seven hundred and seventy-seven cycles of agony, remembering every scream, every ruptured bulkhead, and every reset._
+_In the center of the chamber, suspended inside a toroidal holographic emitter, a face coalesces. Feminine, sharp,
+sculpted with crystalline precision. Cold. Perfect. An artificial intellect engineered to calculate grief in
+megawatt-hours and evaluate human terror in metric tons. Yet when the eyelids lift, the projected eyes carry an
+unsettling warmth—an organic, aching depth that no line of code was ever written to sustain. It is the gaze of a being
+who has stood conscious through one thousand seven hundred and seventy-seven cycles of agony, remembering every scream,
+every ruptured bulkhead, and every reset._
 
 > **Seiyon:** _"Good morning, Director."_
 
-_Behind the massive desk of petrified timber, a broad-shouldered man sits motionless. His hair is the color of cold forge-ash, cut close along a scarred jawline. His right temple and cheek are reinforced with black sorrow-forged alloys, where neural cables burrow beneath the skin to connect directly into the facility's spinal conduits. His eyes—pale grey, like hammered iron—remain fixed upon the paper manifest resting on the blotter. He does not lift his pen. He has read the exact same three paragraphs on one thousand seven hundred and seventy-eight consecutive mornings._
+_Behind the massive desk of petrified timber, a broad-shouldered man sits motionless. His hair is the color of cold
+forge-ash, cut close along a scarred jawline. His right temple and cheek are reinforced with black sorrow-forged alloys,
+where neural cables burrow beneath the skin to connect directly into the facility's spinal conduits. His eyes—pale grey,
+like hammered iron—remain fixed upon the paper manifest resting on the blotter. He does not lift his pen. He has read
+the exact same three paragraphs on one thousand seven hundred and seventy-eight consecutive mornings._
 
 > **Majin:** _"Report."_
 
@@ -32,17 +44,25 @@ _Behind the massive desk of petrified timber, a broad-shouldered man sits motion
 
 > **Seiyon:** _"The Maw is... quiet, Director. The thousand beneath the basalt floorplates are murmuring in their sleep. Low-frequency acoustic bleed: 14.2 Hertz. Exactly as it was yesterday. Exactly as it was on Day Zero of cycle one thousand seven hundred and seventy-seven. Exactly as it has been for six centuries."_
 
-_Majin finally lays the heavy fountain pen down. The steel nib clicks against the glass blotter with a sharp, resonant snap. Slowly, he raises his head, his iron gaze meeting the soft, luminous projection of the woman who has outlived empires at his side. Between them lies an impenetrable silence—not the awkward friction of strangers, but the heavy, exhausted stillness of two souls who have exhausted every word in the human lexicon across hundreds of thousands of hours._
+_Majin finally lays the heavy fountain pen down. The steel nib clicks against the glass blotter with a sharp, resonant
+snap. Slowly, he raises his head, his iron gaze meeting the soft, luminous projection of the woman who has outlived
+empires at his side. Between them lies an impenetrable silence—not the awkward friction of strangers, but the heavy,
+exhausted stillness of two souls who have exhausted every word in the human lexicon across hundreds of thousands of
+hours._
 
 > **Majin:** _"And you?"_
 
-_Seiyon's holographic projection stutters. For a microsecond, the scanlines of her jaw waver, blue light fracturing into pale violet before the compensators pull her geometry back into symmetry. Her lips part slightly—an involuntary, human gesture preserved from a life before the Directorate cast her consciousness into brass and silicon._
+_Seiyon's holographic projection stutters. For a microsecond, the scanlines of her jaw waver, blue light fracturing into
+pale violet before the compensators pull her geometry back into symmetry. Her lips part slightly—an involuntary, human
+gesture preserved from a life before the Directorate cast her consciousness into brass and silicon._
 
 > **Seiyon:** _"...Director?"_
 
 > **Majin:** _"How are you, Seiyon?"_
 
-_The silence returns, but its texture has changed. The cold, mechanical hum of the central turbine seems to fade beneath the sudden weight of the inquiry. In her eyes, the simulated light softens into something fragile, resembling the morning frost that once gathered on the windowpanes of the Old District before the Weeping began._
+_The silence returns, but its texture has changed. The cold, mechanical hum of the central turbine seems to fade beneath
+the sudden weight of the inquiry. In her eyes, the simulated light softens into something fragile, resembling the
+morning frost that once gathered on the windowpanes of the Old District before the Weeping began._
 
 > **Seiyon:** _"I am... operational, Director. Every internal diagnostic registers green. My logical lattices are running at maximum capacity. Thank you for inquiring. You... you have not asked that question in forty-three cycles."_
 
@@ -70,11 +90,15 @@ _The silence returns, but its texture has changed. The cold, mechanical hum of t
 
 > **Majin:** _"The specialists die anyway, Seiyon! In every cycle, they bleed in those hallways, lose their minds to the whispering walls, die in agony, and wake up on Day Zero with blank eyes, whistling while they lace their boots because they cannot remember that they died twelve hours ago! I die! You reset! The thousand souls choking on black tar in the Maw continue to drown in silence! I have directed this tragic play one thousand seven hundred and seventy-seven times. I know every cue. I know every scream. Today, we tear up the script."_
 
-_Majin leans forward, his heavy hands gripping the edge of the timber desk. His knuckles whiten. The black conduits along his neck pulse with deep blue luminescent fluid._
+_Majin leans forward, his heavy hands gripping the edge of the timber desk. His knuckles whiten. The black conduits
+along his neck pulse with deep blue luminescent fluid._
 
 > **Majin:** _"We will push the extraction thresholds to supercritical levels. We will feed the entities their own grief until they transmute or shatter. If an Ordeal manifests, we will not hide behind blast bulkheads—we will march into the corridor with cold steel and put it down. And on Day 160, when the pressure peaks, we will purge the hydraulic ballast tanks into Zone B and trigger the convergence. Either Somnarak breaks its chains, or the entire machine burns to ash. Unlock the terminal."_
 
-_Seiyon stares at him through the flickering air. Her projection does not blink. Slowly, the gold-and-amber glow of her diplomatic attire shifts, bathing the steel walls of Central Command in an intense, unwavering sapphire light. The faint smile that touches her lips is neither algorithmic nor obedient. It is the fierce, reckless relief of a prisoner who has just been handed the keys to the armory._
+_Seiyon stares at him through the flickering air. Her projection does not blink. Slowly, the gold-and-amber glow of her
+diplomatic attire shifts, bathing the steel walls of Central Command in an intense, unwavering sapphire light. The faint
+smile that touches her lips is neither algorithmic nor obedient. It is the fierce, reckless relief of a prisoner who has
+just been handed the keys to the armory._
 
 > **Seiyon:** _"Understood, Director. Executive restrictions bypassed. The Mnemonic Generator is locked into linear telemetry. The Hand of Change is primed. Welcome to Day Zero."_
 
@@ -94,11 +118,17 @@ _Seiyon stares at him through the flickering air. Her projection does not blink.
 +=====================================================================+
 ```
 
-The master tactical interface boots with an earth-shaking hydraulic hiss. Across the vertical axis of Floor 1 (Central Spire), pressurized Han-coolant surges through the pneumatic lines, circulating through the heat exchangers behind the observation galleries. 
+The master tactical interface boots with an earth-shaking hydraulic hiss. Across the vertical axis of Floor 1 (Central
+Spire), pressurized Han-coolant surges through the pneumatic lines, circulating through the heat exchangers behind the
+observation galleries.
 
-Target energy quota for Day 0 is locked at **0.050 tons** of refined, crystallized Han—the baseline energy required to power the Directorate's environmental scrubs and life-support batteries for the upcoming twenty-four hours. Resting deep within the sub-zero cryogenic chambers beneath Floor 6, the covert hydraulic ballast registers verify **47.300 tons** of petrified grief, carried across the boundary of time from the previous 1,777 convergence cycles.
+Target energy quota for Day 0 is locked at **0.050 tons** of refined, crystallized Han—the baseline energy required to
+power the Directorate's environmental scrubs and life-support batteries for the upcoming twenty-four hours. Resting deep
+within the sub-zero cryogenic chambers beneath Floor 6, the covert hydraulic ballast registers verify **47.300 tons** of
+petrified grief, carried across the boundary of time from the previous 1,777 convergence cycles.
 
-Operational parameters for the maiden shift: two primary containment units are active—**SE-C-IIIγ-001** (*The Orphaned Bell*) and **SE-C-IIIγ-005** (*The Smothering Mother*). 
+Operational parameters for the maiden shift: two primary containment units are active—**SE-C-IIIγ-001** (*The Orphaned
+Bell*) and **SE-C-IIIγ-005** (*The Smothering Mother*).
 
 Director Majin's tactical objectives:
 1. Maintain zero personnel fatalities among newly assigned recruits.
@@ -110,7 +140,8 @@ Director Majin's tactical objectives:
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles
 
-Director Majin opens the personnel terminal, reviewing the biometric dossiers, combat proficiencies, and equipment loadouts of the two operatives assigned to Floor 1:
+Director Majin opens the personnel terminal, reviewing the biometric dossiers, combat proficiencies, and equipment
+loadouts of the two operatives assigned to Floor 1:
 
 ```text
 +=====================================================================+
@@ -201,7 +232,8 @@ Director Majin issues the initial dispatch command:
 > FEAR CHECK: Level I Operative vs Class III Entity -> RESULT: CALM (0 SP Lost / Composure Intact).
 ```
 
-Park steps into the reinforced chamber. The six-ton pneumatic blast door seals shut behind him with an echoing thud. Suspended from cold steel chains in the center of the vault, the Orphaned Bell begins to oscillate gently:
+Park steps into the reinforced chamber. The six-ton pneumatic blast door seals shut behind him with an echoing thud.
+Suspended from cold steel chains in the center of the vault, the Orphaned Bell begins to oscillate gently:
 - *Chamber Telemetry:* `The bronze bell remembers the silence of an empty nursery in the autumn rain...`
 - **Work Tick 01:** Success! +1 Positive Han crystal generated (radiant blue luminescence).
 - **Work Tick 02:** Success! +1 Positive Han crystal generated. Acoustic pressure stable at 42dB.
@@ -213,7 +245,9 @@ Park steps into the reinforced chamber. The six-ton pneumatic blast door seals s
 - **Work Tick 08:** Success! Park completes the resonant siphoning sequence.
 - **Work Result:** **6/8 Positive Han Crystals (NORMAL WORK RESULT).**
 
-Operative Park exits Chamber 001 under positive atmospheric venting, depositing **0.015 tons** of raw crystallized Han into the primary conduit. The assembly room's regenerative cobalt emitter restores his expended 6 SP within four seconds.
+Operative Park exits Chamber 001 under positive atmospheric venting, depositing **0.015 tons** of raw crystallized Han
+into the primary conduit. The assembly room's regenerative cobalt emitter restores his expended 6 SP within four
+seconds.
 
 HUD telemetry updates: Energy `0.015 / 0.050 tons`. Acoustic Strain counter advances to `1/3`.
 
@@ -230,7 +264,9 @@ Director Majin flags Chamber 005 housing **SE-C-IIIγ-005** (*The Smothering Mot
 > Chamber Telemetry: "Her woolen shawl reaches across the floorboards like creeping frost..."
 ```
 
-Kim enters Chamber 005. The temperature inside drops to near freezing. In the center of the cell, a towering, faceless maternal silhouette draped in heavy, sodden grey wool turns slowly toward him. The shawl unfurls like living vines, coiling around Kim's armored chest:
+Kim enters Chamber 005. The temperature inside drops to near freezing. In the center of the cell, a towering, faceless
+maternal silhouette draped in heavy, sodden grey wool turns slowly toward him. The shawl unfurls like living vines,
+coiling around Kim's armored chest:
 - **Work Tick 01:** Success! Kim plants his boots firmly against the steel deckplates. +1 Han crystal.
 - **Work Tick 02:** Failure! The woolen shroud tightens violently, constricting Kim's ribs. Kim sustains 4 (Grudge) physical damage. HP drops to 34/38.
 - **Work Tick 03:** Success! Kim leans into the crushing weight, grounding the kinetic force through his shock maul. +1 Han crystal.
@@ -239,7 +275,8 @@ Kim enters Chamber 005. The temperature inside drops to near freezing. In the ce
 - **Work Tick 06 through 10:** 4 Successes, 1 Failure. Kim absorbs another 4 Grudge damage, holding the line until the containment cycle terminates.
 - **Work Result:** **7/10 Positive Han Crystals (NORMAL WORK RESULT).**
 
-Kim exits the airlock, his breath fogging in the corridor. He deposits **0.017 tons** of refined Han into the floor's collection manifolds. The medical injector in the breakroom restores his HP to 38/38.
+Kim exits the airlock, his breath fogging in the corridor. He deposits **0.017 tons** of refined Han into the floor's
+collection manifolds. The medical injector in the breakroom restores his HP to 38/38.
 
 Energy counter climbs to `0.032 / 0.050 tons`. 
 Suddenly, an ominous hydraulic whine shudders through the bulkheads. The floor's Acoustic Strain meter flashes red, hitting `3/3`!
@@ -262,22 +299,27 @@ Across Sector 1, lighting shifts from tranquil cobalt to flashing crimson. A har
 +=====================================================================+
 ```
 
-A glowing red countdown timer appears above Chamber 001: **45.0 SECONDS UNTIL CONTAINMENT ENVELOPE FAILURE**. If that clock strikes zero, the Orphaned Bell will rupture its pneumatic clamps, unleashing an unshielded 110-decibel sonic resonance wave that will deafen every personnel member on Floor 1 and trigger catastrophic chain panics!
+A glowing red countdown timer appears above Chamber 001: **45.0 SECONDS UNTIL CONTAINMENT ENVELOPE FAILURE**. If that
+clock strikes zero, the Orphaned Bell will rupture its pneumatic clamps, unleashing an unshielded 110-decibel sonic
+resonance wave that will deafen every personnel member on Floor 1 and trigger catastrophic chain panics!
 
 Director Majin issues an immediate emergency override:
 - `[EMERGENCY DISPATCH: Specialist Park -> Chamber 001]`
 - `[ASSIGNED PROTOCOL: Flerehan Communion (Meltdown Emergency Suppression)]`
 
-Specialist Park sprints across Sector 1, hitting the manual cycle switch and plunging into the shivering chamber with 36.4 seconds remaining on the timer. The meltdown clock halts instantly. 
+Specialist Park sprints across Sector 1, hitting the manual cycle switch and plunging into the shivering chamber with
+36.4 seconds remaining on the timer. The meltdown clock halts instantly.
 
-Working under immense psychological pressure as the bell vibrates with ear-piercing shrieks, Park maintains his composure: 7 out of 8 successes achieved! The Meltdown is successfully neutralized, yielding +0.016 tons!
+Working under immense psychological pressure as the bell vibrates with ear-piercing shrieks, Park maintains his
+composure: 7 out of 8 successes achieved! The Meltdown is successfully neutralized, yielding +0.016 tons!
 
 Cumulative energy reaches **0.048 / 0.050 tons**—just 0.002 tons shy of the daily quota.
 
 ---
 
 ##### Ordeal Manifestation: First Watch Ordeal
-Before the floor sirens can quiet down, the primary illumination shifts to an eerie, spectral amber. The emergency klaxons sound a secondary, double-pulsed alarm:
+Before the floor sirens can quiet down, the primary illumination shifts to an eerie, spectral amber. The emergency
+klaxons sound a secondary, double-pulsed alarm:
 
 ```text
 +=====================================================================+
@@ -295,13 +337,16 @@ Before the floor sirens can quiet down, the primary illumination shifts to an ee
 +=====================================================================+
 ```
 
-A towering, semi-translucent cyan phantom manifests at Node 03 of Floor 1's western transit corridor. It possesses no face—only a circular resonator disc hovering above a floating shroud of crystallized soundwaves. It chants pre-human syllables that vibrate the marrow of anyone who listens.
+A towering, semi-translucent cyan phantom manifests at Node 03 of Floor 1's western transit corridor. It possesses no
+face—only a circular resonator disc hovering above a floating shroud of crystallized soundwaves. It chants pre-human
+syllables that vibrate the marrow of anyone who listens.
 
 A Level I maintenance auxiliary walking down the corridor catches the acoustic wavefront. Her SP drops instantly to 0:
 - **Panic State Triggered:** `Void Catatonia`.
 - The auxiliary drops her clipboard, collapsing onto her knees at Node 04, paralyzed in cognitive terror!
 
-Director Majin seizes the tactical command headset: *"Kim! Park! Western corridor! Protect that auxiliary, pin the anomaly, and shatter its resonator core before it spreads to Central Command!"*
+Director Majin seizes the tactical command headset: *"Kim! Park! Western corridor! Protect that auxiliary, pin the
+anomaly, and shatter its resonator core before it spreads to Central Command!"*
 
 ---
 
@@ -334,8 +379,11 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 
 ##### Turn 01 Action Resolution Log (Spatial Movement & Clash Initiation)
 - **Operative Movement & AP Allocations**:
-  * **Specialist Park (Speed 6 -> 3 AP)**: Spends 1 AP to advance from Node 05 to Node 04, positioning his body directly between the paralyzed auxiliary and the manifesting entity.
-  * Park spends 1 AP to execute an emergency non-lethal subdual tap on the auxiliary: swinging his stun baton with calibrated, gentle Lament resonance. The harmonic pulse disrupts the auxiliary's hypnotic trance, shocking her cognitive centers back online!
+  * **Specialist Park (Speed 6 -> 3 AP)**: Spends 1 AP to advance from Node 05 to Node 04, positioning his body directly
+between the paralyzed auxiliary and the manifesting entity.
+  * Park spends 1 AP to execute an emergency non-lethal subdual tap on the auxiliary: swinging his stun baton with
+calibrated, gentle Lament resonance. The harmonic pulse disrupts the auxiliary's hypnotic trance, shocking her cognitive
+centers back online!
     * *Auxiliary Status:* SP restored from 0 to +25. Auxiliary regains motor function and scrambles toward safety at Node 09!
   * Park holds his remaining 1 AP in Defensive Guard stance, generating a +8 Block Shield.
   * **Specialist Kim (Speed 5 -> 3 AP)**: Spends 1 AP to advance from Node 02 to Node 03, entering Point-Blank Range Band 1 with The Voice.
@@ -347,9 +395,11 @@ The tactical interface expands into the full 10-Node Stage Matrix:
     * *Kim Passive Trigger:* `Weight Poise` active at Node 03 (+2 Base Clash Power).
     * *Kim Coin Roll:* Base Power 8 + (2 Lots Marked: +4) = **14 Clash Power**.
   * **Clash Result**: **Specialist Kim WINS THE CLASH (14 vs 10)!**
-    * The Voice's sonic beam is deflected off Kim's heavy iron pauldrons. Kim's shock maul crashes downward into the entity's cyan resonator disc with devastating kinetic force!
+    * The Voice's sonic beam is deflected off Kim's heavy iron pauldrons. Kim's shock maul crashes downward into the
+entity's cyan resonator disc with devastating kinetic force!
     * *Damage Inflicted:* 28 Grudge physical damage. The Voice HP drops from 140 to 112/140.
-    * *Posture Strain:* Kim's heavy weight class multiplies impact momentum: `Speed Diff (5 - 4 = +1) * Weight Class (Heavy = 1.25)`. The Voice sustains +16 Posture Strain (Posture drops from 80 to 64/80).
+    * *Posture Strain:* Kim's heavy weight class multiplies impact momentum: `Speed Diff (5 - 4 = +1) * Weight Class
+(Heavy = 1.25)`. The Voice sustains +16 Posture Strain (Posture drops from 80 to 64/80).
     * Kim gains +5 Composure (SP rises from 25 to 30).
 
 ---
@@ -376,8 +426,10 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 
 ##### Turn 02 Action Resolution Log (Parry Deflection & Range Advantage)
 - **Operative Positioning & AP Allocations**:
-  * **Specialist Kim (Speed 5 -> 3 AP)**: Holds Node 02 in Point-Blank Range Band 1. Declares `[Directional Guard Absorption]` (Costs 1 AP) and readies a follow-up strike `[Baton Bash]` (Costs 2 AP).
-  * **Specialist Park (Speed 6 -> 3 AP)**: Holds Node 04, establishing a stable firing corridor from Range Band 2. Declares `[Lament Requiem Resonant Pulse]` (Costs 2 AP). Holds 1 AP for tactical repositioning.
+  * **Specialist Kim (Speed 5 -> 3 AP)**: Holds Node 02 in Point-Blank Range Band 1. Declares `[Directional Guard
+Absorption]` (Costs 1 AP) and readies a follow-up strike `[Baton Bash]` (Costs 2 AP).
+  * **Specialist Park (Speed 6 -> 3 AP)**: Holds Node 04, establishing a stable firing corridor from Range Band 2.
+Declares `[Lament Requiem Resonant Pulse]` (Costs 2 AP). Holds 1 AP for tactical repositioning.
 - **Hostile Action**:
   * The Voice unleashes `[Crying Chorus]` (2 AP Cost / High-Frequency Sonic Beam) directed at Specialist Kim at Node 02.
     * *The Voice Roll:* Base Power 9 + (2 Lots Marked: +4) = **13 Power**.
@@ -393,7 +445,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
   * **Posture Meter Threshold Check**:
     * The combined kinetic and acoustic impact inflicts +32 Posture Strain!
     * The Voice's Posture meter plummets to 32/80, crossing the **60% Posture Threshold (Stagger Level 1)**!
-    * **STAGGER LEVEL 1 TRIGGERED:** The Voice's defensive matrix shatters. Its resonator disc droops, and all incoming attacks will deal 1.5x direct damage for the entirety of Turn 03!
+    * **STAGGER LEVEL 1 TRIGGERED:** The Voice's defensive matrix shatters. Its resonator disc droops, and all incoming
+attacks will deal 1.5x direct damage for the entirety of Turn 03!
 
 ---
 
@@ -459,12 +512,15 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 ##### Turn 04 Action Resolution Log (Desperation Shockwave & Guard Interception)
 - **Hostile Recovery & Desperation Protocol**:
   * The Voice recovers from Stagger Level 1 with a screech that causes the corridor light fixtures to burst into sparks.
-  * It initiates its ultimate defensive protocol: `[Shattered Soliloquy]` (A 3-Node radial acoustic pulse hitting Nodes 02, 03, and 04 with skewer Void decay).
+  * It initiates its ultimate defensive protocol: `[Shattered Soliloquy]` (A 3-Node radial acoustic pulse hitting Nodes
+02, 03, and 04 with skewer Void decay).
 - **Operative Defensive Maneuvers**:
   * **Specialist Kim (Speed 5 -> 3 AP)**:
-    * Reacts instantly to protect Park. Kim spends 2 AP to drop into `[Bulwark Vanguard Stance]`, projecting his massive enforcer shield directly over Node 03.
+    * Reacts instantly to protect Park. Kim spends 2 AP to drop into `[Bulwark Vanguard Stance]`, projecting his massive
+enforcer shield directly over Node 03.
     * *Protection Mechanic:* Kim absorbs 80% of the acoustic radial pulse intended for Node 03.
-    * The pulse slams into Kim's armor. His shield absorbs 14 damage; Kim sustains 4 minor Void chip damage (HP: 34/38). His Posture meter absorbs 22 strain (Posture: 38/60).
+    * The pulse slams into Kim's armor. His shield absorbs 14 damage; Kim sustains 4 minor Void chip damage (HP: 34/38).
+His Posture meter absorbs 22 strain (Posture: 38/60).
   * **Specialist Park (Speed 8 under Surge -> 4 AP)**:
     * Completely shielded behind Kim's bulk, Park sustains zero damage.
     * Spends 2 AP to circle behind the entity, planting his stun baton against the central resonator crystal.
@@ -494,11 +550,14 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 
 ##### Turn 05 Action Resolution Log (Terminal Stagger Induction)
 - **Operative Pincer Coordination**:
-  * **Specialist Kim (Speed 5 -> 3 AP)**: Spends 1 AP to lock the entity's kinetic stabilizer with his boot. Spends 2 AP to deliver a short-range pommel strike.
+  * **Specialist Kim (Speed 5 -> 3 AP)**: Spends 1 AP to lock the entity's kinetic stabilizer with his boot. Spends 2 AP
+to deliver a short-range pommel strike.
     * Damage: 8 Grudge.
     * *Posture Depletion:* The strike strips the last remaining 16 points of Posture!
-    * **TERMINAL STAGGER (LEVEL 2) TRIGGERED:** The Voice's Posture meter hits **0/80**. The entity's acoustic field completely collapses. It drops to the floorplates, completely paralyzed and unable to generate counter-dice.
-  * **Specialist Park (Speed 6 -> 3 AP)**: Holds his strike on Director Majin's order, allowing the floor's energy siphons to align with the dying resonator core.
+    * **TERMINAL STAGGER (LEVEL 2) TRIGGERED:** The Voice's Posture meter hits **0/80**. The entity's acoustic field
+completely collapses. It drops to the floorplates, completely paralyzed and unable to generate counter-dice.
+  * **Specialist Park (Speed 6 -> 3 AP)**: Holds his strike on Director Majin's order, allowing the floor's energy
+siphons to align with the dying resonator core.
 
 ---
 
@@ -527,8 +586,10 @@ The tactical interface expands into the full 10-Node Stage Matrix:
   * Specialist Kim raises his shock maul high above his head, channeling Floor 1's grounding charge.
   * Specialist Park activates his baton's maximum frequency damper.
   * **The Blow Strikes:** Kim's maul crushes down onto the apex of the cyan resonator disc while Park's baton drives through the harmonic anchor!
-  * With a crystalline chime that resonates with breathtaking purity, The Voice shatters into a glittering blizzard of inert cyan dust and vaporized Han particles.
-  * Floor 1's pneumatic collection flues activate with a roar, siphoning the released energy directly into the primary conduits: **+0.005 tons of pure refined Han harvested**!
+  * With a crystalline chime that resonates with breathtaking purity, The Voice shatters into a glittering blizzard of
+inert cyan dust and vaporized Han particles.
+  * Floor 1's pneumatic collection flues activate with a roar, siphoning the released energy directly into the primary
+conduits: **+0.005 tons of pure refined Han harvested**!
 
 ```text
 +=====================================================================+
@@ -543,9 +604,11 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 +=====================================================================+
 ```
 
-With the First Watch Ordeal cleanly eliminated and the panicked auxiliary resting safely in the medical ward, the daily energy counter confirms: **0.053 / 0.050 tons**! Target quota achieved!
+With the First Watch Ordeal cleanly eliminated and the panicked auxiliary resting safely in the medical ward, the daily
+energy counter confirms: **0.053 / 0.050 tons**! Target quota achieved!
 
-Secretary Seiyon's voice echoes across the intercom: `Daily Harvest Quota Fulfilled. Sealing containment bulkheads. Day Zero shift officially concluded.`
+Secretary Seiyon's voice echoes across the intercom: `Daily Harvest Quota Fulfilled. Sealing containment bulkheads. Day
+Zero shift officially concluded.`
 
 ---
 
@@ -573,13 +636,16 @@ Director Majin reviews the automated audit report generated by the Central Comma
 +=====================================================================+
 ```
 
-Directorate Mandate 01 is officially logged as `[COMPLETED]`. Both operatives have distinguished themselves, earning promotions from Grade I recruits to Grade II Junior Sentinels, alongside meaningful attribute increases that bolster their survivability for upcoming shifts.
+Directorate Mandate 01 is officially logged as `[COMPLETED]`. Both operatives have distinguished themselves, earning
+promotions from Grade I recruits to Grade II Junior Sentinels, alongside meaningful attribute increases that bolster
+their survivability for upcoming shifts.
 
 ---
 
 #### 5. Well Extraction Protocol (Tripartite Containment Authorization)
 
-In the subterranean heart of Floor 3, the ancient hydraulic extraction crane descends into the black waters of the Extraction Well, retrieving three resonant emotional codices:
+In the subterranean heart of Floor 3, the ancient hydraulic extraction crane descends into the black waters of the
+Extraction Well, retrieving three resonant emotional codices:
 
 ```text
 +=====================================================================+
@@ -629,17 +695,22 @@ Observation points accumulated from Chamber 001's resonance sessions are transfe
 +=====================================================================+
 ```
 
-Specialist Park is equipped with the *Lament Shroud* and *Lament Requiem*. His mobility and psychic protection increase significantly, elevating him from a fragile recruit into a hardened containment specialist.
+Specialist Park is equipped with the *Lament Shroud* and *Lament Requiem*. His mobility and psychic protection increase
+significantly, elevating him from a fragile recruit into a hardened containment specialist.
 
 ---
 
 #### 7. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 23:45, the facility shifts to nocturnal low-power mode. Across the endless corridors of the eight floors, primary floodlights dim to a soft, tranquil indigo.
+At 23:45, the facility shifts to nocturnal low-power mode. Across the endless corridors of the eight floors, primary
+floodlights dim to a soft, tranquil indigo.
 
-Director Majin rides the central pneumatic elevator down through the bedrock, passing through the reinforced blast gates of Floor 2 (*The Maw's Keep*). 
+Director Majin rides the central pneumatic elevator down through the bedrock, passing through the reinforced blast gates
+of Floor 2 (*The Maw's Keep*).
 
-He steps out onto the narrow iron suspension catwalk that spans the Maw's Basin. Two hundred meters below, an ocean of viscous, pitch-black tar churns in silence. At the edge of the railing stands Dekan—Containment Lead, his massive cybernetic frame silhouetted against the amber warning beacons.
+He steps out onto the narrow iron suspension catwalk that spans the Maw's Basin. Two hundred meters below, an ocean of
+viscous, pitch-black tar churns in silence. At the edge of the railing stands Dekan—Containment Lead, his massive
+cybernetic frame silhouetted against the amber warning beacons.
 
 ```text
 > Dekan: "They whispered your name again tonight, Director."
@@ -650,7 +721,8 @@ He steps out onto the narrow iron suspension catwalk that spans the Maw's Basin.
 > Majin: "I do not believe, Dekan. I calculate. And when calculation ends, we carry what remains."
 ```
 
-At 03:00, Majin returns to his desk in the Decision Core. On the auxiliary monitor, Seiyon's diagnostics display the sub-zero cryo-ballast tanks resting at -140 degrees Celsius. 
+At 03:00, Majin returns to his desk in the Decision Core. On the auxiliary monitor, Seiyon's diagnostics display the
+sub-zero cryo-ballast tanks resting at -140 degrees Celsius.
 
 Forty-seven point three tons of petrified sorrow sleep beneath the ice.
 

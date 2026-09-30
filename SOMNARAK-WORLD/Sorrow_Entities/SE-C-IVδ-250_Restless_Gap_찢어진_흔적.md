@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Non-Organic — An emptiness shaped like a person, split clean by a jagged vertical tear — no visible material, only a bent-space silhouette that warps the air around it. Lead-cold, it smells of wet stone; you see it most in what it distorts behind it. |

@@ -30,7 +30,7 @@
 | Status effects | Rupture ×86, Burn ×5, Poise ×3, Bleed ×2, Tremor ×1, Charge ×0 in `GAME_BATTLE/` | Codified status-archetype codex (M3) |
 | Scenario↔arc bridges | Katabagil/Katharcheok/Gieok: 1 scenario each | Absolvohan ×0, Jipyeongseondae ×0 |
 | Ordeals | 60 files, 12 per color (ASHEN/BLUE/GREY/OBSIDIAN/PURPLE) | Balanced; no work needed |
-| SE classes | 292 entities; thinnest N-I (8), O-II (13) | Entity track deferred (not 3/4) |
+| SE classes | 291 entities; thinnest N-I (8), O-II (13) | Entity track deferred (not 3/4) |
 
 ---
 

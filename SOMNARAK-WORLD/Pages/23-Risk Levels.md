@@ -99,6 +99,6 @@ When a specialist enters a chamber or confronts a breaching entity, their rank i
 ## 10 See also
 
 - [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary framework
-- [08-Sorrow List](08-Sorrow%20List.md) — complete catalog of all 292 entities
+- [08-Sorrow List](08-Sorrow%20List.md) — complete catalog of all 291 entities
 - [12-Specialists](12-Specialists.md) — specialist ranks and panic mechanics
 - [27-The Debt Eater](27-The%20Debt%20Eater.md) — specimen dossier: Rank III Fragment

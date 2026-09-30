@@ -20,7 +20,7 @@
 SOMNARAK-WORLD/Tactical_Combat_Engine/{{TOPIC}}.md
 ```
 
-Example: `WHAT_CAN_BE_DONE.md` (roadmap + formulas + JSON schemas) or `GRID_BASTION_WARFARE.md`
+Example: `WHAT_CAN_BE_DONE.md` (roadmap + formulas + JSON schemas) or `GRID_BASTION_WARFARE.md` (illustrative example — no such file ships)
 
 ---
 

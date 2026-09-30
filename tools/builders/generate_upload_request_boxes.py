@@ -53,7 +53,7 @@ def make_box_roadmap():
     out.append(pad_line("Round 1 Seam Splices Repaired: 248 / 248 Affected Files (100.0%)"))
     out.append(pad_line("Round 1 Metrics SSOT Deployed: CANONICAL_METRICS Online (100.0%)"))
     out.append(pad_line("Round 2 Audit Ingestion: Awaiting Text Input in Chat (0 / 1)"))
-    out.append(pad_line("Pan-Archive SE Compliance: 292 / 292 Files Verified (100.0%)"))
+    out.append(pad_line("Pan-Archive SE Compliance: 291 / 291 Files Verified (100.0%)"))
     out.append(pad_line("Two-Work-Type Rule Compliance: 131 / 131 Non-Subject Files (100.0%)"))
     out.append(top)
     

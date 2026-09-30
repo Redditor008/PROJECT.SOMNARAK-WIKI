@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) — Accepting and weary |
 | **Potency** | Major (γ) — High danger as group entity |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — An old, bent man of true flesh and bone, stooped under a weight no one else can see — measured by Han-scales at roughly 7.3 tons, though his body shows only the shape of it. His skin is grey, his joints swollen, his breath laboured; he is lead-cold and damp with effort, and the air smells of wet stone and iron. |

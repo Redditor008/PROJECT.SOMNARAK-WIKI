@@ -35,18 +35,18 @@ def build_box_74(title, sections):
 
 sec1 = [
     "COMPREHENSIVE PAN-SE ARCHIVE AUDIT & INTEGRITY STATUS",
-    "Target Repository: SOMNARAK-WORLD/Sorrow_Entities/ (292 Entities)",
+    "Target Repository: SOMNARAK-WORLD/Sorrow_Entities/ (291 Entities)",
     "Status: 100% Verified Canonical Baseline across All Categories"
 ]
 
 sec2 = [
     "AUDIT CRITERIA & DELIVERABLE BENCHMARKS:",
-    "1. Total Sorrow Entities Audited: 292 / 292 (100.0%)",
-    "2. Relic / Tool Entities: 131 / 292 (44.86%) [Exceeds 25% Quota]",
+    "1. Total Sorrow Entities Audited: 291 / 291 (100.0%)",
+    "2. Relic / Tool Entities: 131 / 291 (44.86%) [Exceeds 25% Quota]",
     "3. Two-Work-Type Rule Compliance: 131 / 131 (100.0%)",
     "   (All Object, Place, and Time entities strictly use Viderehan",
     "    and Ferrehan only; Flerehan and Pugnahan set to N/A)",
-    "4. Core Stat Line Full Compliance: 292 / 292 (100.0%)",
+    "4. Core Stat Line Full Compliance: 291 / 291 (100.0%)",
     "   (Speed, Sorrow Gauge HP, Han Pressure ATK, Damage Resistances)",
     "5. Special Transform Designation Rule: Formally Enforced",
     "   (e.g., C-IVw-001 [GP] The Maw -> C-IVw-001-B [GS] Subject Breach)"
@@ -56,7 +56,7 @@ sec3 = [
     "ROADMAP MILESTONE EXECUTION TRAJECTORY:",
     "- Project Moon Research Compendium: 16 / 16 Volumes (100.0%)",
     "- R.D. MAD Animatic Script: 8 / 8 Scenes Synchronized (100.0%)",
-    "- Pan-Archive SE Verification: 292 / 292 Files Clean (100.0%)"
+    "- Pan-Archive SE Verification: 291 / 291 Files Clean (100.0%)"
 ]
 
 box1 = build_box_74("PAN-SE ARCHIVE AUDIT & WORK-RULE VERIFICATION", [sec1, sec2, sec3])
@@ -66,7 +66,7 @@ prog_sec = [
     "ROADMAP MILESTONE AUDIT & DELIVERABLE METRICS",
     "Phase: Pan-SE Archive Two-Work Rule & Stat Line Synchronization",
     "Overall Roadmap Completion: 100.0% / 100.0%",
-    "Pan-Archive SE Compliance: 292 / 292 Files Verified (100.0%)",
+    "Pan-Archive SE Compliance: 291 / 291 Files Verified (100.0%)",
     "Non-Subject Two-Work Rule: 131 / 131 Entities Aligned (100.0%)",
     "Project Moon Research Archive: 16 / 16 Volumes Published (100.0%)",
     "MAD Animatic Storyboard: 8 / 8 Scenes Formatted (100.0%)"

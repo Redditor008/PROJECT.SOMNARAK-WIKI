@@ -30,7 +30,9 @@ The **Sorrow Entity Classification Code (SECC)** is the unique identifier stampe
 
 **Format:** `SE-[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]`
 
-> Example: `SE-C-IIIβ-014 [VS]` → the 14th City-origin Sorrow Entity, Fragment coherence, Moderate potency, Void element, Subject-Body manifestation.
+> Example: `SE-C-IIIβ-014 [VS]` → City-origin Sorrow Entity number 014, Fragment coherence, Moderate potency, Void element, Subject-Body manifestation.
+
+> **Serial-number semantics:** The trailing three-digit serial is a registry slot, not a uniqueness key: it may recur across scopes, ranks, and grades by design. Serial `071` traces the Kind Healer transformation progression (`C-Iα-071` → `C-Iα-071b` → `C-Iα-071c`); serial `000` reserves the primordial Kind Echo (`C-Iα-000`); and high serials (`901` and above) mark late-registered fractures. A retired serial is never reassigned to a new entity.
 
 ### Origin (Sorrow Category)
 
@@ -54,7 +56,7 @@ How **self-aware and complete** the entity's personality is. Higher coherence me
 | **IV** | Entity | Self-aware, purposeful, can communicate |
 | **V** | Sovereign | Ancient, city-scale, near-mythic |
 
-> **Archival Distribution Note on Sovereigns (Rank V):** Rank V Sovereigns represent transcendent, city-scale forces. Scope C comprises 13 Sovereigns born from the crushing weight of municipal institutions and centuries of civic despair. Beyond the city walls, macro-scale planetary geography (`SOMNARAK_GEOLOGY.md`) absorbs environmental pressure, yielding exactly one documented Outside Sovereign (`SE-O-Vγ-003 Wilderness Tide`). Because Inner Sorrow (Scope N) originates from individual human psyche and intimate grief, personal trauma cannot reach Sovereign Rank V without metastasizing into collective City Sorrow (Scope C), resulting canonically in zero N-V entities.
+> **Archival Distribution Note on Sovereigns (Rank V):** Rank V Sovereigns represent transcendent, city-scale forces. Scope C comprises 12 Sovereigns born from the crushing weight of municipal institutions and centuries of civic despair. Beyond the city walls, macro-scale planetary geography (`SOMNARAK_GEOLOGY.md`) absorbs environmental pressure, yielding exactly one documented Outside Sovereign (`SE-O-Vγ-003 Wilderness Tide`). Because Inner Sorrow (Scope N) originates from individual human psyche and intimate grief, personal trauma cannot reach Sovereign Rank V without metastasizing into collective City Sorrow (Scope C), resulting canonically in zero N-V entities.
 
 ### Potency (α–ω)
 
@@ -351,7 +353,9 @@ This is why work *manages* rather than *destroys*: every cycle reduces immediate
 
 A complete roster of every catalogued entity — each with its SECC designation, element, and a brief field description. Click any name to open its full record.
 
-### Sorrow Entities (249)
+### Sorrow Entities (261)
+> **Tabulation note:** 261 rows (254 Sorrow-dossier rows plus 7 Unknown-Entities cross-references). 39 dossiers indexed in `Sorrow_Entities/` await codex rows: `C-IIIγ-902`, `C-IIIγ-904`, `C-IIIγ-912`, `C-IIIγ-913`, `C-IIIγ-921`, `C-IIIγ-928`, `C-IIIγ-948`, `C-IIβ-901`, `C-IIβ-906`, `C-IIβ-947`, `C-IVγ-946`, `C-IVδ-907`, `C-IVδ-909`, `C-IVδ-915`, `C-IVδ-918`, `C-IVδ-922`, `C-IVδ-923`, `C-Iα-071b`, `C-Iα-071c`, `C-Iα-900`, `C-Vδ-949`, `C-Vω-925`, `N-IIIβ-941`, `N-IIIγ-908`, `N-IIIγ-917`, `N-IIIγ-929`, `N-IIβ-903`, `N-IIβ-910`, `N-IIβ-919`, `N-IVδ-927`, `N-Iα-905`, `O-IIIβ-944`, `O-IIIγ-916`, `O-IIIγ-920`, `O-IIIγ-924`, `O-IIIγ-926`, `O-IIβ-911`, `O-IIβ-914`, `O-IVδ-930`.
+
 
 | Designation | Entity | Element | Description |
 |---|---|---|---|
@@ -418,7 +422,7 @@ A complete roster of every catalogued entity — each with its SECC designation,
 | `C-IIβ-777 [GS]` | [The Burning Fruit](../../Sorrow_Entities/SE-C-IIβ-777_Last_Fruit_타오르는_열매.md) (타오르는 열매) | Grudge | The entity burns with denied desire. Effect: proximity induces rage from shamed wanting. |
 | `C-IIβ-782 [GS]` | [The Fading Relic](../../Sorrow_Entities/SE-C-IIβ-782_Flotsam_번져가는_유물.md) (번져가는 유물) | Grudge | The Relic fades as its purpose is forgotten. Effect: holders feel the grief of inherited incomprehension. |
 | `C-IIβ-997 [D]` | [Drowned Roots](../../Sorrow_Entities/SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md) (솟구친 나무) | Lament | A tree grown from an unacknowledged sacrifice. Effect: personnel feel the fury of denied recognition. |
-| `C-IIγ-071c [LS]` | [The Apostle Maker](../../Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md) (사도 만드는 자) | Mixed | Major and escalating toward Stage 4. The entity cannot be contained during the conversion sequence. |
+| `C-Iα-071c [LS]` | [The Apostle Maker](../../Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md) (사도 만드는 자) | Mixed | Major and escalating toward Stage 4. The entity cannot be contained during the conversion sequence. |
 | `C-IVβ-041 [LS]` | [The Grieving Maiden](../../Sorrow_Entities/SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md) (슬픔의 처녀) | Lament | The Maiden weeps continuously. She does not attack. |
 | `C-IVβ-042 [GS]` | [The Angry Maiden](../../Sorrow_Entities/SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) (분노의 처녀) | Grudge | The Maiden burns with a steady blue fire. Effect: proximity induces the fury of justice denied. |
 | `C-IVβ-043 [VS]` | [The Silent Maiden](../../Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md) (침묵의 처녀) | Void | The Maiden is defined by absence. Effect: proximity induces the chill of being present and never seen. |
@@ -482,7 +486,7 @@ A complete roster of every catalogued entity — each with its SECC designation,
 | `C-Iα-869 [LP]` | [The Returning Tree](../../Sorrow_Entities/SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md) (돌아온 나무) | Lament | A tree grown from the grief of returning to an unrecognized home. Effect: proximity induces the loss of home through change. |
 | `C-Iα-884 [VO]` | [The Frozen Shard](../../Sorrow_Entities/SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md) (얼어붙은 조각) | Void | A tear preserved as a memorial, sealed with rage inside. Effect: proximity induces the cold of sealed anger. |
 | `C-Iα-965 [N]` | [Unheard](../../Sorrow_Entities/SE-C-Iα-965_Unheard_흐르는_침묵.md) (흐르는 침묵) | Grudge | The silence of absorbed protest, flowing through the system. Effect: proximity induces the pressure of unsaid words. |
-| `C-Iβ-071b [LS]` | [The Blessing Giver](../../Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md) (축복 주는 자) | Lament | Moderate and escalating. Each blessing brings the chain closer to completion. |
+| `C-Iα-071b [LS]` | [The Blessing Giver](../../Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md) (축복 주는 자) | Lament | Moderate and escalating. Each blessing brings the chain closer to completion. |
 | `C-Vγ-225 [WP]` | [The Sorrow River](../../Sorrow_Entities/SE-C-Vγ-225_Black_River_슬픔의_강.md) (슬픔의 강) | Weight | Catastrophic (potential). The source of all entities. |
 | `C-Vγ-260 [WP]` | [The Sorrow Tide](../../Sorrow_Entities/SE-C-Vγ-260_Sorrow_Tide_한의_조수.md) (한의 조수) | Weight | Low (individually). The Tide is the city’s natural rhythm: grief suppressed by day, released by night. |
 | `C-Vγ-320 [D]` | [The Sorrow Storm](../../Sorrow_Entities/SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md) (슬픔의 폭풍) | Weight | Catastrophic (when it occurs). The Storm is the city’s suppressed grief breaking as weather. |

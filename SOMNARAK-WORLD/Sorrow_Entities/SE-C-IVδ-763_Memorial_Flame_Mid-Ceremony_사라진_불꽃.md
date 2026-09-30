@@ -10,7 +10,7 @@
 | **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — An empty vault holding the absence of a flame — the room warm around a dark shape where fire should be, but no fire, only the heat and the negative space of it. Salt-warm, it smells of cold rain and old smoke; the missing flame is felt, not seen. |

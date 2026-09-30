@@ -11,7 +11,7 @@
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — A frozen patch of Desolate ground holding the outline of an unknown relic — frost forming around the empty space where the relic should be, not on anything solid. Bloodless-cold, it smells of ash; felt by the cold it leaves, not by its presence. |

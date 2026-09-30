@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A translucent figure, half-light and half-flesh, that weeps as it walks without pause — its face changing whenever someone tries to remember it. Salt-damp and faintly warm, it smells of cold rain; a soul no one can keep in mind. |

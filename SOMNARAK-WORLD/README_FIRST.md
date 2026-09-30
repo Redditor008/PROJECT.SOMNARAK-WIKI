@@ -69,10 +69,11 @@ To experience and understand this archive with maximum clarity, follow this reco
 |                          | -> The_Absolvohan/ (Day 0-365 loop chronicle|
 +------------------------------------------------------------------------+
 | Stage 3: Systems,        | Master_Codices/03_Systems_Combat_Engine/    |
-| Physics & Extraction     | SOMNARAK_MAW_CODEX.md -> BATTLE_SYSTEM.md   |
-|                          | -> SOMNARAK_WORKSHOPS.md                    |
+| Physics & Extraction     | SOMNARAK_MAW_CODEX.md ->                    |
+|                          | SOMNARAK_BATTLE_SYSTEM.md ->                |
+|                          | SOMNARAK_WORKSHOPS.md                       |
 +------------------------------------------------------------------------+
-| Stage 4: The 292 Sorrow  | Sorrow_Entities/ (SE-C-IVw-001 The Maw      |
+| Stage 4: The 291 Sorrow  | Sorrow_Entities/ (SE-C-IVw-001 The Maw      |
 | Entities (Dossiers)      | through SE-001 to 997; observe Two-Work Rule|
 |                          | for Object/Place: Viderehan & Ferrehan only)|
 +------------------------------------------------------------------------+

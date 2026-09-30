@@ -432,7 +432,6 @@ Plain reading: **roughly 8 out of every 100 written units of the reference wiki 
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vδ-949_Stormscale_Sovereign.md | 6406 | 2.0% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md | 4745 | 5.4% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vω-002_Dawn_of_Mourning_애도의_여명.md | 4430 | 3.8% |
-| LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vω-044_Dawn_of_Mourning_애도의_새벽.md | 4581 | 3.7% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-C-Vω-925_Sorrow_Mass_압살의_한.md | 2522 | 3.9% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-N-IIIβ-077_Memory_Thief_기록_도둑.md | 4470 | 4.8% |
 | LORE or REFERANCE/01_Sorrow_Entities/SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md | 4519 | 5.2% |

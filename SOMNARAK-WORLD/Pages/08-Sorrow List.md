@@ -10,7 +10,7 @@ Every entity cataloged in this archive is cataloged under the Somnarak Entity Cl
 +========================================================================+
 | SOMNARAK - MASTER SORROW ENTITIES CATALOG                              |
 +------------------------------------------------------------------------+
-| Registered Archive     | 292 Entities (285 SECC Master Codices)        |
+| Registered Archive     | 291 Entities (284 SECC Master Codices)        |
 | Risk Tier Scale        | Whisper (I) to Sovereign (V) + Relics         |
 | Containment Protocols  | Viderehan - Ferrehan - Flerehan - Pugnahan    |
 | Pressure Types         | Grudge - Lament - Void - Weight               |

@@ -11,7 +11,7 @@
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A dark tear-shaped object half-buried in the Desolate soil, that sinks deeper whenever someone reaches for it. Lead-cold and damp, it smells of wet stone; a grief that will not be picked up. |

@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dreamlike humanoid formed from rusted wall plates fused together — corroded, bleeding orange, standing beside the Exile's Gate though it blocks no passage. Lead-cold, it smells of wet iron and char; a wall that learned to walk. |

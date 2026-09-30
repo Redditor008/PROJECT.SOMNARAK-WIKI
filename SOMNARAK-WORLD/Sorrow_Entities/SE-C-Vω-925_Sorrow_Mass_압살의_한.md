@@ -297,6 +297,16 @@ The entity does not rage. It does not weep. It persists — weight and weight, p
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and weight pressure readings after every breach or unusual interaction.
 
+## Sovereign Manifestation Log
+
+Sorrow Mass does not appear; it accumulates. The Directorate's incident ledger records seventeen major pressure events in which corridors, cells, and open wards simply grew heavier over the course of a shift — tools dropping from hands, wardens kneeling without order, masonry groaning at loads no scale could find. Each event ended the same way: a single collective exhalation, recorded by the acoustic grilles as one pressure wave rolling the length of the floor, and then normal weight. The longest event lasted eleven hours; the shortest, a single held breath between siren pulses.
+
+Archivists note the Mass never manifests where grief is fresh. It gathers where sorrow has been carried longest without acknowledgment: the Deep Vault inventory aisles, the sealed wing behind the Insight Forge, the stairwells the night shift avoids without knowing why.
+
+## City-Scale Impact & Directorate Posture
+
+As a Hazard-grade Sovereign able to breach via Transform, Sorrow Mass is the only V-rank entity the Directorate manages without ever scheduling a work. Posture is entirely architectural: load-distribution wards under every floor plate, compression-zone evacuation drills each cycle, and standing orders that no warden remain alone in a flagged stairwell. The official doctrine, stamped by three Directors in succession, reads in full: *"Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down."*
+
 ## Trivia
 
 - One of the first catalogued **Hazard-Weight** entities in Somnarak.

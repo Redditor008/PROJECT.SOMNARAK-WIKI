@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A ghostly root-creature built of pale trailing roots, lower half fading, upper reaching with root-fingers — a grasping beast of root. Lead-cold, it smells of wet stone. |

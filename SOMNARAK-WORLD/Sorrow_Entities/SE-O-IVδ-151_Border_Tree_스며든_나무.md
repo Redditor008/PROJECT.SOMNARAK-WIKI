@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A colossal creeping tree-monster whose trunk is a slow multi-limbed body, a vast plant-creature with roots like legs and branches like grasping claws. Fever-cold, it smells of char; it grips as it grows. |

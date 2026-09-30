@@ -48,7 +48,7 @@ sec2 = [
     "   Echo-Core Realization Wars, and Reverie MAD Animatic Script.",
     "3. GAME HUB: Interactive 10-Node Spatial Grid Combat Engine,",
     "   Speed-Based Action Slots, Two-Work Rules, and Workshop Forging.",
-    "4. COLLECTION HUB: 292 Sorrow Entity Vault, 287+ SVG M.A.W. Armory,",
+    "4. COLLECTION HUB: 291 Sorrow Entity Vault, 287+ SVG M.A.W. Armory,",
     "   Tool Relic Dossiers, and Architectural Schematic Blueprints."
 ]
 
@@ -68,7 +68,7 @@ prog_sec = [
     "Overall Roadmap Completion: 100.0% / 100.0%",
     "Pillars Formally Specified: 4 / 4 Master Hubs (100.0%)",
     "Publishing Root Documentation: docs/README and Specifications Online",
-    "Pan-Archive SE Compliance: 292 / 292 Files Verified (100.0%)",
+    "Pan-Archive SE Compliance: 291 / 291 Files Verified (100.0%)",
     "Project Moon Research Archive: 16 / 16 Volumes Published (100.0%)"
 ]
 

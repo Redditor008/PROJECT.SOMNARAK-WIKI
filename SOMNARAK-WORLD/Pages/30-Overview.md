@@ -11,7 +11,7 @@ Within the somber halls of Facility 01, humanity does not wage war against monst
 | SOMNARAK - SORROW ENCYCLOPEDIA MASTER OVERVIEW                         |
 +------------------------------------------------------------------------+
 | Archival Foundation    | Comprehensive Taxonomy of Contained Sorrows   |
-| Scope of Depository    | 292 Entities across Nine Operational Floors   |
+| Scope of Depository    | 291 Entities across Nine Operational Floors   |
 | Chamber Engineering    | Pneumatic Bulkheads & Resonance Lead Glass    |
 | Containment Axiom      | Weep with the Sorrow, but never become it     |
 | Authority              | Reverie Directorate - Facility 01 Archival Bur|
@@ -94,6 +94,6 @@ Upon assuming command of Facility 01, every Warden recites the solemn oath:
 ## 9 See also
 
 - [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary hub incorporating the codex
-- [08-Sorrow List](08-Sorrow%20List.md) — master catalog of all 292 entities
+- [08-Sorrow List](08-Sorrow%20List.md) — master catalog of all 291 entities
 - [21-Game Mechanics](21-Game%20Mechanics.md) — core simulation and gameplay rules
 - [39-Archival Codex](39-Archival%20Codex.md) — the 18 standard dossier sections

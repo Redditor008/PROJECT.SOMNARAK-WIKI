@@ -9,7 +9,7 @@
 
 **Relic Entities** are Sorrow Entities whose manifestation is **stationary** — an Object (e.g., a clock, a scale, a tree), a Place (e.g., a wall, a well, a corridor), or a Time (e.g., an hour that will not pass). Unlike Subject entities that breach and roam, Relic Entities **do not move**. Their danger is not chase — it is **presence**.
 
-88 of the 292 canonical Sorrow Entities are Relic manifestations (30.14%), overseen by the Restricted Registry `Registry_UNK_247_to_903` and the standard registries. They are the Somnarak analogue of stationary sorrow — grief that has soaked into things and places until the thing itself remembers.
+88 of the 291 canonical Sorrow Entities are Relic manifestations (30.24%), overseen by the Restricted Registry `Registry_UNK_247_to_903` and the standard registries. They are the Somnarak analogue of stationary sorrow — grief that has soaked into things and places until the thing itself remembers.
 
 ---
 
@@ -92,7 +92,7 @@ See `SOMNARAK_MAW_CODEX.md` and `MAW_Codex_Sets/Registry_*` for per-entity Weapo
 
 ## V. Authorized Registry
 
-- `Sorrow_Entities/README.md` — SECC, Work grids, full 292 listing with Relic flag.
+- `Sorrow_Entities/` — 291 dossiers; SECC, Work grids, and per-file Relic flags; indexed by `REFERENCE_SOMNARAK_WIKI/SORROW_ENTITIES_CATALOG.md`.
 - `SOMNARAK_ENTITY_CODEX.md` — dossier structure and Relic-specific N/A handling.
 - `TEMPLATES/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` — Two-Work-Type enforcement checklist.
 

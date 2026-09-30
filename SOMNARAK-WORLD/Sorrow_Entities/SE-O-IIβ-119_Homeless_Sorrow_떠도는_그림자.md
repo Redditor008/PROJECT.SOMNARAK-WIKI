@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A beast of cold dense shadow with no fixed shape — sometimes a stalking quadruped, sometimes many-limbed — moving with predatory intent. Bloodless-cold, it smells of ash; a hunter made of dark. |

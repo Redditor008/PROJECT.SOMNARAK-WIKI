@@ -28,6 +28,8 @@ banned_exact = [
 # Regex patterns (excludes valid relative filesystem paths like '../' or '../../')
 p_double_dot = re.compile(r'(?<![\./])\.\.(?![\./])')
 p_word_dot_comma = re.compile(r'\b[a-z]{2,}\.,')
+# Echo-Core command-floor canon: EC-N commands Floor (N-1) for N>=2; EC1 holds Floor 1
+p_ec_command = re.compile(r'Echo-Core (\d)[^.\n]{0,80}?(?:command(?:s|er)?|holds?|keeps?|leads?|heads?|administers?|runs?|watches over)[^.\n]{0,40}?Floor 0?(\d)'.replace(chr(92)+'n', chr(92)+'n'))
 
 files = [f for f in glob.glob("SOMNARAK-WORLD/**/*.md", recursive=True) if should_audit(f)]
 
@@ -50,6 +52,57 @@ for f in files:
         # Check word.,
         if p_word_dot_comma.search(line):
             errors.append(f"{f}:{line_num} -> [PUNCT_SPLICE] Found lowercase word ending with '.,': '{line.strip()[:60]}'")
+
+        # Check Echo-Core command-floor canon
+        for m in p_ec_command.finditer(line):
+            n, fl = int(m.group(1)), int(m.group(2))
+            want = 1 if n < 2 else n - 1
+            if fl != want:
+                errors.append(f"{f}:{line_num} -> [EC_FLOOR] Echo-Core {n} paired with Floor {fl} (canon: EC-N commands Floor N-1; EC1 holds Floor 1)")
+
+# Scoped prose path check: backticked / barked *.md filenames outside known-good
+# scopes (research mirror, templates-as-examples, history logs) must exist on disk.
+_path_skip_dirs = ("REFERENCE_", "PROJECT_MOON_RESEARCH", "TEMPLATES", "tools", "docs")
+_path_skip_files = {"CHANGELOG.md", "DEVELOPMENT.md", "INTEGRITY_AND_LORE_REVIEW.md",
+                    "CANONICAL_METRICS.md", "EXPANSION_RESEARCH_STORY_AND_BATTLE.md",
+                    "UNIVERSAL_FOLLOW_RULE.md"}
+_path_skip_line = ("File plan", "Example", "illustrative", "Purged", "hypothetical",
+                   "Archived files", "Legacy", "(archival", " or `", "draft names",
+                   "Purged obsolete")
+p_md_token = re.compile(r'(?<![A-Za-z0-9_/-])([A-Z][A-Za-z0-9_/-]{2,}?\.md)\b')
+_disk_md = set(os.path.basename(p) for p in glob.glob("**/*.md", recursive=True))
+
+
+def _skip_token(tok):
+    base = tok.split("/")[-1]
+    if base.startswith(("SE-", "Ordeal_", "ORDEAL-", "HT-", "UNK_", "UNK-")):
+        return True
+    if re.match(r'SE-[A-Z]-[IVX]', base):
+        return True
+    if "-A__" in base or "-B__" in base or "-C__" in base or "-D__" in base:
+        return True
+    return False
+
+
+_path_files = [f for f in glob.glob("SOMNARAK-WORLD/**/*.md", recursive=True)
+               if should_audit(f)]
+_path_files += [f for f in glob.glob("GAME_BATTLE/*.md")]
+_path_files += [f for f in glob.glob("*.md")]
+for f in _path_files:
+    if any(d in f for d in _path_skip_dirs):
+        continue
+    if os.path.basename(f) in _path_skip_files or not should_audit(f):
+        continue
+    with open(f, 'r', encoding='utf-8') as fp:
+        for line_num, line in enumerate(fp, start=1):
+            if any(k in line for k in _path_skip_line):
+                continue
+            for m in p_md_token.finditer(line):
+                tok = m.group(1)
+                if _skip_token(tok):
+                    continue
+                if tok.split("/")[-1] not in _disk_md and "N_" not in tok:
+                    errors.append(f"{f}:{line_num} -> [STALE_PATH] '{tok}' has no on-disk file")
 
 print(f"Audited {len(files)} files in SOMNARAK-WORLD.")
 if errors:

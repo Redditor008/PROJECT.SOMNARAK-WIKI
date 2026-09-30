@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dreamlike figure formed from luminous silence — an outline that glows faintly, with no face that memory can hold. Salt-damp, it smells of cold rain; the quiet of a person the world forgot, made briefly visible. |

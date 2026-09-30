@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A seed sprouted into a creeping net of dark root-tendrils — a low spreading creature that flows across floors like a starfish of root. Bloodless-cold, it smells of ash. |

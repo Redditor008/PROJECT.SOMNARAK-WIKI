@@ -10,7 +10,7 @@
 | **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A rust-colored patch of the Old Lament where whispers cling to walls, pipes, and abandoned metal, the corrosion itself the residue of old words. Lead-cold, it smells of wet iron; no body — only the rusting sound. |

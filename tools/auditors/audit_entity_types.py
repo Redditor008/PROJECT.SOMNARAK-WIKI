@@ -22,6 +22,6 @@ for f in files:
     else:
         print(f"No type match for {f}")
 
-print("Entity Types across 292 Sorrow Entities:")
+print("Entity Types across 291 Sorrow Entities:")
 for k, v in sorted(type_counts.items(), key=lambda x: x[1], reverse=True):
     print(f"  {k}: {v}")

@@ -384,6 +384,16 @@ Some sorrows are gradual. Sorrow Storm is sudden — the accumulated suppressed 
 **Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Sovereign Manifestation Log
+
+Every Sorrow Storm in the ledger begins with the same three signs: the Mnemonic Generator hums a quarter-tone flat, the clerks stop talking at once, and the sky over the vents turns the color of old bruises. Then the accumulated grief of the district — everything the wards could not release in time — breaks as weather: black rain that stains stone, wind that carries voices, lightning that strikes upward from the flooded wards. The Storm of the 1,102nd cycle lasted nine days and filled three reservoirs with undiluted Flerehan; the Storm of the 1,701st lasted one night and left the northern galleries silent for a year.
+
+No two storms share a shape. Archivists classify them only by duration and tonnage, admitting in the margin that the Storm itself keeps no records.
+
+## City-Scale Impact & Directorate Posture
+
+The Storm is the Directorate's oldest scheduling problem. Posture centers on the venting calendar: controlled releases bled through the Flerehan stacks on a strict timetable, shelter protocol for every floor, and forecasting vigils in which senior wardens read pressure, morale, and generator pitch the way sailors read clouds. The standing rule is older than the Directorate's seal: *never let the wards fill past patience.* Every Storm in living memory arrived within a week of some administrator deciding the schedule could wait.
+
 ## Trivia
 
 - Storm intensity reflects unprocessed grief rather than physical pressure alone.

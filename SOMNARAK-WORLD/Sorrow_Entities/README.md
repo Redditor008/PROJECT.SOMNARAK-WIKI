@@ -2,7 +2,7 @@
 
 **Archive Authority:** Facility 01 Containment & Archive Divisions  
 **Temporal Setting:** Year 4,238 · Dawn Initiative  
-**Total Tracked Records:** 529 Markdown Dossiers (representing 285 unique canonical Sorrow Entities)
+**Total Tracked Records:** 291 Markdown Dossiers (291 unique canonical Sorrow Entity codes; the Facility-01 catalog indexes 284)
 
 ---
 
@@ -72,4 +72,4 @@ SE-<SECC Code>_<English Name>_<Korean Name>.md
 ```
 *(Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`)*
 
-> **Note on Paired Files:** This directory contains 529 files covering 285 distinct entity codes. Approximately 241 entities have paired file variants (e.g., one with a leading `The_` and one without, or slight naming variations). Both variants are preserved for archival integrity and cross-referencing. For an organized lookup table of all unique entities, consult `REFERENCE_SOMNARAK_WIKI/SORROW_ENTITIES_CATALOG.md`.
+> **Note on Catalog Scope:** This directory contains 291 dossier files, each carrying a unique SECC code. The Facility-01 catalog (`REFERENCE_SOMNARAK_WIKI/SORROW_ENTITIES_CATALOG.md`) indexes 284 of them: it excludes the two Kind-Healer transformation-progression variants (`SE-C-Iα-071b`, `SE-C-Iα-071c`, filed under base code `C-Iα-071`) and five single-use Tool Relics (`C-IIIβ-072`, `C-Iα-114`, `N-IIβ-319`, `O-IIIγ-412`, `O-IVδ-515`) pending indexation. No paired file variants exist; every dossier filename is unique.

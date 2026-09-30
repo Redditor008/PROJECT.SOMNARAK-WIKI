@@ -32,7 +32,7 @@ Within the Reverie Directorate's archival doctrine, sorrow is not homogeneous. A
 
 ## 1 The Tripartite Genesis of Sorrow
 
-All 292 cataloged sorrow entities originate from one of three distinct psychological strata:
+All 291 cataloged sorrow entities originate from one of three distinct psychological strata:
 - **Veiled Tale (159 entities):** Born from shared civic mythos, societal gossip, and urban legends circulating through the city's spires and slums.
 - **Scarred Memory (72 entities):** Crystallized from acute personal agony, betrayal, bereavement, or solitary death.
 - **Dream Born (61 entities):** Formed from raw subconscious reveries, surreal nightmares, and primeval fears drifting up from the subterranean [Maw](41-Frontiers.md).

@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) — Self-aware |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning humanoid carrying fragments of an object that no longer exists — its fire crimson-black, its hands cupped around something already gone. Fever-hot and lead-cold, it smells of char and wet stone; it guards what cannot be recovered. |

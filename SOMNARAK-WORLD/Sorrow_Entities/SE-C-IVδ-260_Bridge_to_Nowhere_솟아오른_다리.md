@@ -10,7 +10,7 @@
 | **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A bridge rising from the Echo Gardens, built of dark memory-crystal and worn old path-stones, leading across a gap that is not physically there. Salt-cold and damp, it smells of cold rain; walking it, you cross something other than distance. |

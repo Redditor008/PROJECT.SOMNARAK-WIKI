@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A humanoid figure of black ice veined with burning edges — frozen flesh laced with live heat, never still, circling the Commons without rest. Where it steps, frost and scorch mark the ground together. Lead-cold and fever-hot at once, it smells of wet stone and char. |

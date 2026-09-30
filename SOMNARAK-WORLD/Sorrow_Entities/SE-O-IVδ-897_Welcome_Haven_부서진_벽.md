@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning humanoid clad in fragments of a shattered wall — stone shards fused to a body of fire and flesh, dragging itself along border lines. Fever-hot, it smells of char; a wall that fell, got up, and now walks the edge. |

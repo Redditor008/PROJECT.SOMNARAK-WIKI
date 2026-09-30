@@ -11,7 +11,7 @@
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A stone well whose rim will not stay put: it spreads across the ground in thin branching channels of blue sorrow, its water seeping far from the opening to places it should not reach. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |

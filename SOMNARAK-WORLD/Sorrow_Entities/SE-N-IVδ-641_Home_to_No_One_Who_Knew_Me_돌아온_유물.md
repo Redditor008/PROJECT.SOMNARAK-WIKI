@@ -11,7 +11,7 @@
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A black relic that appears in the Old Lament after long absences, glowing with crimson inner fire and shifting shape when unobserved. Fever-hot, it smells of char; it always comes back — a thing that should be lost but will not stay gone. |

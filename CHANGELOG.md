@@ -9,6 +9,13 @@ This file records notable changes to the public Somnarak Wiki.
 ## Unreleased
 
 ### Added
+- **V3 canon-hygiene round (entity merge, scope fields, counts, prose)** —
+  - Merged duplicate Sovereign dossier `SE-C-Vω-044` into `SE-C-Vω-002` (combat record, stigma, expanded sections) and retired the 044 file; retargeted MAW-044 set links, conversion-guide row, and catalog rows to the surviving 002. Archive now 291 dossiers / 291 unique codes; catalog indexes 284.
+  - Corrected 58 scope-letter-vs-`Sorrow Category` mismatches (field side fixed; filenames load-bearing) and added a scope check to `audit_sorrow_entities` plus missing `ω`-grade rank counting.
+  - Documented serial-number reuse semantics in the Entity Codex (071 progression, 000 primordial, never-reassign rule); corrected codex tabulation header to 261 rows with a missing-rows footnote.
+  - Renamed `SCENARIO_02_CELL_*` to `SCENARIO_02_CONTAINMENT_*`; fixed Arc 6 / Operation 6 names; aligned ordeal colors to on-disk OBSIDIAN/ASHEN with archival aliases; replaced two invented framework example filenames with real dossiers; annotated template example filenames.
+  - Reflowed long Absolvohan prose lines, added sampled-days framing to Parts 2–9 and a Quiet Season (Days 178–349) bridge to Part 9; fixed a mis-serialed Work entry (SE-044 → SE-033).
+  - Expanded six thin Sovereign dossiers with manifestation logs and Directorate posture sections; swapped facility-tree ranks (Three Birds III, Smothering Mother IV); canonized the Echo-Core command-floor rule with a seam-lint check and a scoped stale-path check.
 
 - **Rounds 13–14 vocabulary audits (common-word principle)** —
   - Restored common words over rarer synonyms: `Block`/`Counter` dice, `Dulled` resistance tier, `Echo-Core Suppression` (16 files).

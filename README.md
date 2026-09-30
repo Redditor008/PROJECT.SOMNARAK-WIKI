@@ -25,7 +25,7 @@ The repository is structured into distinct, authoritative functional environment
 
 ## Archive Metrics at a Glance
 
-- **Over 1,898 curated canonical markdown files in SOMNARAK-WORLD (2,216+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
+- **Over 1,897 curated canonical markdown files in SOMNARAK-WORLD (2,215+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
 - **Over 3.42 million words (3,420,000+ words)** of structured, authentic canonical lore
 - **44 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) across 6 canonical subfolders establishing macro-cosmology, planetary geology, institutional doctrines, and combat physics
 - **5 Planetary Biosphere & Ecological Codices** (`SOMNARAK-WORLD/Mugenhan_Ecology/`), documenting 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 Mortal Sorrow Creatures across all planetary biomes
@@ -36,9 +36,9 @@ The repository is structured into distinct, authoritative functional environment
 - **6 Trans-Desolate Overland Arcs** (`SOMNARAK-WORLD/Jipyeongseondae/`), documenting the Horizon Caravan's planetary crossings
 - **10-Node Spatial Grid Combat Mechanics** (`SOMNARAK-WORLD/Tactical_Combat_Engine/`), defining turn-based spatial combat resolution
 - **Game Battle Operations & Tactical Simulation Suite** (`GAME_BATTLE/`), housing turn-by-turn combat encounters, boss battle mechanics, and standard authoring templates
-- **292 Unique Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), cataloging entities across Coherence Ranks I to V and Potency Grades α to ω
+- **291 Unique Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), cataloging entities across Coherence Ranks I to V and Potency Grades α to ω
 - **42 Complete M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, quadripartite Side-Codex, Weapon, Suit, Gift across 1,165 files)
-- **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting Blue, Black, Pale, Grey, and Purple Ordeals across 4 watches
+- **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting Blue, Obsidian, Ashen, Grey, and Purple Ordeals (archival codices render Obsidian/Ashen as Black/Pale) across 4 watches
 - **14 Hope Transformation Records** (`SOMNARAK-WORLD/Hope_Transformations/`), detailing resonant ascensions
 - **9 Echo-Core Dossiers** (`SOMNARAK-WORLD/Echo_Cores/`), covering Facility 01 departmental leadership
 - **12 Unknown Anomaly Records** (`SOMNARAK-WORLD/Unknown_Entities/`), containing deep-abyss occurrences and Regressor chronicles
@@ -119,7 +119,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── Mugenhan_Ecology/                   # 5 Planetary Biosphere & Ecological Codices (Mundane, Beasts, MSF)
 │   ├── Tactical_Combat_Engine/             # 10-Node Spatial Grid Combat Mechanics & Battle Integration Suite
 │   ├── Story_Cantos/                       # The Character Story Cantos (Dialogue-Driven Prose Novellas)
-│   ├── Sorrow_Entities/                    # 292 Unique Entity dossiers across Ranks I to V and Grades α to ω
+│   ├── Sorrow_Entities/                    # 291 Unique Entity dossiers across Ranks I to V and Grades α to ω
 │   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
 │   ├── MAW_Codex_Sets/                     # 1,165 files: 42 complete quadripartite sets across 42 folders
 │   ├── Ordeals/                            # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
@@ -171,7 +171,7 @@ The archive root houses the two official primary cartographic and architectural 
 - **Subterranean Depth:** -2,000 meters beneath the roots of the Alpha Tree • Containment Locked • Maw Active.
 - **Eight-Floor Architectural Cross-Section & The Nine Echo-Cores:**
   * **Floor 1 (Neutral / Central Spire & Common Hall):** Director Majin & Secretary Seiyon • Decision Core, Absolvohan Tap, 1,778-Cycle Comms, Central Infirmary (Han-Cryo Pods), M.A.W. Armory (Suits α–ω).
-  * **Floor 2 (The Maw's Keep / Entity Containment):** Containment Lead Dekan • Cells 01–03 (Silent Child [Rank I], Three Birds [Rank IV], Smothering Mother [Rank III]), Suppression Armory, Armored Maw Edge Feed, Whispering Gallery.
+  * **Floor 2 (The Maw's Keep / Entity Containment):** Containment Lead Dekan • Cells 01–03 (Silent Child [Rank I], Three Birds [Rank III], Smothering Mother [Rank IV]), Suppression Armory, Armored Maw Edge Feed, Whispering Gallery.
   * **Floor 3 (The Extraction Hall / M.A.W. Extraction Nexus):** Extraction Lead Zyrak • Extraction Chambers A & B (99.2% harvest, pure crystal vats), Equipment Attunement Range, ω-Grade Testing Sims.
   * **Floor 4 (Insight Forge / Research & Structural Grief):** Research Lead Ayshuk • Han Physics Lab (Quantum Grief Spectrometry), Resonance Tuning Array, Bio-Synthesis Looms, Real-Time City Flow Vault.
   * **Floor 5 (Border Watch / Perimeter Defense):** Border Lead Mellda • Oehan Long-Range Radar/Sonar, 500-Warden Garrison Barracks, Heavy Bulwark Gate Barrier, External Storm Sentries.

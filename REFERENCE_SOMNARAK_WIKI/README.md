@@ -17,7 +17,7 @@ REFERENCE_SOMNARAK_WIKI/
 ├── README.md                           # This directory index file
 ├── ABSOLOVHAN_REPAIR_NOTES.md          # Canon harmonization and repair notes for Absolvohan texts
 ├── INSTALL_PERCENTAGE_REPORT.md        # Shingle-weighted analysis of lore coverage in public wiki
-├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 285 unique Sorrow Entities
+├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 284 unique Sorrow Entities
 ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
 ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line transfer audit of the 34 foundational codices
 ├── ALL_FILES_AUDIT_MANIFEST.md         # Comprehensive manifest of all 1,863 reference files
@@ -42,7 +42,7 @@ REFERENCE_SOMNARAK_WIKI/
 ## Key Documents in This Directory
 
 1. **`SORROW_ENTITIES_CATALOG.md`**:
-   The definitive master catalog indexing all 285 unique Sorrow Entities cataloged in `SOMNARAK-WORLD/Sorrow_Entities/` by SECC Code, English Name, Korean Designation, Threat Tier, and Elemental Affinity.
+   The definitive master catalog indexing all 284 unique Sorrow Entities cataloged in `SOMNARAK-WORLD/Sorrow_Entities/` by SECC Code, English Name, Korean Designation, Threat Tier, and Elemental Affinity.
 2. **`SORROW_ENTITIES_PAIRS_AUDIT.md`**:
    Exhaustive audit analyzing the 241 entity codes with multiple dossiers (prefix variations and alternative English translations), establishing the canonical resolution guidelines.
 3. **`SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md`**:

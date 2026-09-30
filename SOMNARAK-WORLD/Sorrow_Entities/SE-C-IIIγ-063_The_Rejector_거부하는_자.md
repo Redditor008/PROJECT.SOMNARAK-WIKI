@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) — Defiant and stubborn |
 | **Potency** | Major (γ) — High danger as group entity |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A thin young man of true flesh and bone, defiant in posture but almost weightless — lighter than he should be, as though something has been taken from him. His eyes are empty, his skin bloodless and pale. He is cold to the touch, and near him, the flat smell of ash. |

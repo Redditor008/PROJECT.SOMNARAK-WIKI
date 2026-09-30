@@ -4,14 +4,14 @@
 
 **Random Dossier**  [무작위 개체 선별기]  (_Mujakwi Gaeche Seonbyeolgi_) functions as the tactical dispatch roulette within Facility 01's archival network.
 
-Used extensively by the Directorate for training wardens and running containment drills, this system selects random specimens across the 292 cataloged [Sorrow Entities](07-Sorrow%20Entities.md), testing a commander's adaptability against diverse behavioral quirks, elemental [Pressure Types](17-Pressure%20Types.md), and breach hazards.
+Used extensively by the Directorate for training wardens and running containment drills, this system selects random specimens across the 291 cataloged [Sorrow Entities](07-Sorrow%20Entities.md), testing a commander's adaptability against diverse behavioral quirks, elemental [Pressure Types](17-Pressure%20Types.md), and breach hazards.
 
 ```text
 +========================================================================+
 | SOMNARAK - RANDOM TACTICAL DOSSIER DISPATCH                            |
 +------------------------------------------------------------------------+
 | System Utility         | Archival Randomizer & Specimen Roulette       |
-| Specimen Pool          | 292 Registered Entities across 5 Risk Tiers   |
+| Specimen Pool          | 291 Registered Entities across 5 Risk Tiers   |
 | Training Focus         | Emergency Deployment & Unpredictable Containme|
 | Representative Pool    | Subjects - Single-Use - Channeled - Equippable|
 | Scenarios              | 10 Randomized Simulation Training Drills      |
@@ -113,6 +113,6 @@ Drill outcomes are graded on response latency, casualty rates, and containment e
 ## 7 See also
 
 - [07-Sorrow Entities](07-Sorrow%20Entities.md) — master bestiary framework
-- [08-Sorrow List](08-Sorrow%20List.md) — full 292 entities register
+- [08-Sorrow List](08-Sorrow%20List.md) — full 291 entities register
 - [23-Risk Levels](23-Risk%20Levels.md) — risk tier classifications
 - [21-Game Mechanics](21-Game%20Mechanics.md) — core containment mechanics

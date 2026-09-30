@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Mixed — A figure only half-present: a smear of cold smoke and grey ash vaguely shaped like a hooded torso, legless, its face two mouths pulling in opposite directions — one whispering, one burning. Where it passes, the air tastes of char and old apologies, and the smoke clings to the skin like a damp handprint. |

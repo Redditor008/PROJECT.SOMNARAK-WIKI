@@ -159,27 +159,48 @@ def audit_sorrow_entities():
         code = m.group(1) if m else f.split("_")[0]
         by_code.setdefault(code, []).append(f)
 
-        if "-Iα" in f or "-Iβ" in f or "-Iγ" in f or "-Iδ" in f or "-I-" in f:
+        if "-Iα" in f or "-Iβ" in f or "-Iγ" in f or "-Iδ" in f or "-Iω" in f or "-I-" in f:
             rank_counts["Rank I (Whisper)"] += 1
-        elif "-IIα" in f or "-IIβ" in f or "-IIγ" in f or "-IIδ" in f or "-II-" in f:
+        elif "-IIα" in f or "-IIβ" in f or "-IIγ" in f or "-IIδ" in f or "-IIω" in f or "-II-" in f:
             rank_counts["Rank II (Murmur)"] += 1
-        elif "-IIIα" in f or "-IIIβ" in f or "-IIIγ" in f or "-IIIδ" in f or "-III-" in f:
+        elif "-IIIα" in f or "-IIIβ" in f or "-IIIγ" in f or "-IIIδ" in f or "-IIIω" in f or "-III-" in f:
             rank_counts["Rank III (Fragment)"] += 1
-        elif "-IVα" in f or "-IVβ" in f or "-IVγ" in f or "-IVδ" in f or "-IV-" in f:
+        elif "-IVα" in f or "-IVβ" in f or "-IVγ" in f or "-IVδ" in f or "-IVω" in f or "-IV-" in f:
             rank_counts["Rank IV (Entity)"] += 1
-        elif "-Vα" in f or "-Vβ" in f or "-Vγ" in f or "-Vδ" in f or "-V-" in f:
+        elif "-Vα" in f or "-Vβ" in f or "-Vγ" in f or "-Vδ" in f or "-Vω" in f or "-V-" in f:
             rank_counts["Rank V (Sovereign)"] += 1
         else:
             rank_counts["Other"] += 1
 
     paired_codes = {k: v for k, v in by_code.items() if len(v) > 1}
 
+    # Scope-letter vs Sorrow Category check: filename prefix (C/N/O) must match
+    # the file's `Sorrow Category` field (City/Inner/Outside Sorrow).
+    scope_want = {"C": "City Sorrow", "N": "Inner Sorrow", "O": "Outside Sorrow"}
+    scope_mismatches = []
+    for f in files:
+        pm = re.match(r"SE-([CNO])-", f)
+        if not pm:
+            continue
+        want = scope_want[pm.group(1)]
+        found = None
+        with open(os.path.join(folder, f), "r", encoding="utf-8") as fp:
+            for line in fp:
+                cm = re.search(r"\*\*Sorrow Category\*\*\s*\|\s*([A-Za-z ]+?)(?:\s*\(|\s*\|)", line)
+                if cm:
+                    found = cm.group(1).strip()
+                    break
+        if found != want:
+            scope_mismatches.append(f"{f}: prefix {pm.group(1)} vs field {found!r}")
+
     return {
-        "status": "PASS",
+        "status": "PASS" if not scope_mismatches else "FAIL",
         "total_files": len(files),
         "unique_entity_codes": len(by_code),
         "paired_codes_count": len(paired_codes),
         "tier_distribution": rank_counts,
+        "scope_mismatch_count": len(scope_mismatches),
+        "scope_mismatches": scope_mismatches,
     }
 
 
@@ -295,7 +316,7 @@ def main():
             print(f"   [!] Bad file: {bf} ({err})")
 
     print(f"2. Macro-Canon Codices    : {macro_res['status']} ({macro_res['found_codices']} / {macro_res['expected_codices']} master codices: {macro_res['found_in_world']} in-world, {macro_res['found_editorial']} editorial standards)")
-    print(f"3. Sorrow Entities        : {se_res['status']} ({se_res['total_files']} files, {se_res['unique_entity_codes']} unique codes, {se_res['paired_codes_count']} paired)")
+    print(f"3. Sorrow Entities        : {se_res['status']} ({se_res['total_files']} files, {se_res['unique_entity_codes']} unique codes, {se_res['paired_codes_count']} paired, {se_res['scope_mismatch_count']} scope mismatches)")
     print(f"   Rank breakdown         : {se_res['tier_distribution']}")
     print(f"4. M.A.W. Equipment Sets   : {maw_res['status']} ({maw_res['complete_sets']} / {maw_res['total_sets']} complete quadripartite sets)")
     if args.verbose and maw_res["incomplete_sets"]:

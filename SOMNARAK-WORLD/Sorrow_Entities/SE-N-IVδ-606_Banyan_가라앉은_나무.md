@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Outside Sorrow (외한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A drowned tree-beast dragging itself beneath the Mask Market floor, branch-arms and a weeping face pressing up through the crystal — a submerged creature of waterlogged wood. Salt-damp, it smells of cold rain and depth. |

@@ -38,7 +38,7 @@ The archive root houses the two official primary cartographic and architectural 
 - **Subterranean Depth:** -2,000 meters beneath the roots of the Alpha Tree • Containment Locked • Maw Active.
 - **Eight-Floor Architectural Cross-Section & The Nine Echo-Cores:**
   * **Floor 1 (Neutral / Central Spire & Common Hall):** Director Majin & Secretary Seiyon • Decision Core, Absolvohan Tap, 1,778-Cycle Comms, Central Infirmary (Han-Cryo Pods), M.A.W. Armory (Suits α–ω).
-  * **Floor 2 (The Maw's Keep / Entity Containment):** Containment Lead Dekan • Cells 01–03 (Silent Child [Rank I], Three Birds [Rank IV], Smothering Mother [Rank III]), Suppression Armory, Armored Maw Edge Feed, Whispering Gallery.
+  * **Floor 2 (The Maw's Keep / Entity Containment):** Containment Lead Dekan • Cells 01–03 (Silent Child [Rank I], Three Birds [Rank III], Smothering Mother [Rank IV]), Suppression Armory, Armored Maw Edge Feed, Whispering Gallery.
   * **Floor 3 (The Extraction Hall / M.A.W. Extraction Nexus):** Extraction Lead Zyrak • Extraction Chambers A & B (99.2% harvest, pure crystal vats), Equipment Attunement Range, ω-Grade Testing Sims.
   * **Floor 4 (Insight Forge / Research & Structural Grief):** Research Lead Ayshuk • Han Physics Lab (Quantum Grief Spectrometry), Resonance Tuning Array, Bio-Synthesis Looms, Real-Time City Flow Vault.
   * **Floor 5 (Border Watch / Perimeter Defense):** Border Lead Mellda • Oehan Long-Range Radar/Sonar, 500-Warden Garrison Barracks, Heavy Bulwark Gate Barrier, External Storm Sentries.

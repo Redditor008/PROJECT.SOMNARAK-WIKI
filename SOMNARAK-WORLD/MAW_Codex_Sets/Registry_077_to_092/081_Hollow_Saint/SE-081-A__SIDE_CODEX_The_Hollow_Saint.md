@@ -167,7 +167,7 @@ These pieces are not instruments for removing difficult people from difficult fe
 ## PAGE 09 — CROSS-REFERENCE PAGE
 
 **Entity links:** The Kind Healer; The Debt Eater; The Frozen Veil; The Kind Healer’s Shadow.  
-**Historical link:** Dawn of Mourning (`SE-044`) is a historical transformation record, not the current state of this entity.  
+**Historical link:** Dawn of Mourning (`SE-C-Vω-002`) is a historical transformation record, not the current state of this entity.  
 **Item links:** `SE-081-B`, `SE-081-C`, and `SE-081-D` contain the individual histories and safety limits for Hollow Benediction.
 
 ---

@@ -10,7 +10,7 @@
 | **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Mixed — A tree-beast split crown-to-root, each half a lurching creature of pale wood dragging itself on half a root-system, the tear between them glowing. Bloodless-warm, it smells of ash; two halves of one creature, crawling. |

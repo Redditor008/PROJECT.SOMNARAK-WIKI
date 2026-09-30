@@ -11,7 +11,7 @@
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A large shard of blue crystal rising from the floor, jagged and bright, perpetually wet with liquid memory that beads and runs down its faces. Salt-cold and damp, it smells of cold rain; touch it and a memory that isn't yours surfaces. |

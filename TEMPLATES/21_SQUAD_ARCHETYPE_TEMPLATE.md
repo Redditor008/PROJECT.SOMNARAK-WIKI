@@ -21,7 +21,7 @@
 GAME_BATTLE/SQUAD_ARCHETYPE_{{NAME_IN_CAPS}}.md
 ```
 
-Example: `SQUAD_ARCHETYPE_HORIZON_BASTION.md`
+Example: `SQUAD_ARCHETYPE_HORIZON_BASTION.md` (illustrative example — no such file ships)
 
 ---
 

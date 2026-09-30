@@ -31,7 +31,7 @@ tools/
 
 | Tool | Purpose | Primary Flags / Command |
 | :--- | :--- | :--- |
-| **`audit_lore_archive.py`** | Master audit across UTF-8, codices, 292 SEs, 198 MAW sets, auxiliary collections, and box symmetry. Blocks merge if any sub-check fails. | `python3 tools/audit_lore_archive.py [--json] [--verbose]` |
+| **`audit_lore_archive.py`** | Master audit across UTF-8, codices, 291 SEs, 198 MAW sets, auxiliary collections, and box symmetry. Blocks merge if any sub-check fails. | `python3 tools/audit_lore_archive.py [--json] [--verbose]` |
 | **`check_box_symmetry.py`** | Audits ASCII text boxes across all markdown files for row-length and display-width symmetry. | `python3 tools/check_box_symmetry.py [--fix]` |
 | **`timeline_lint.py`** | Scans all files pan-repo for chronological contradictions against the Year 4,238 / Cycle 1,778 baseline. | `python3 tools/timeline_lint.py` |
 | **`seam_lint.py`** | Detects revision splices, punctuation collisions (`.,`), and un-whitelisted PM terminology. | `python3 tools/seam_lint.py` |

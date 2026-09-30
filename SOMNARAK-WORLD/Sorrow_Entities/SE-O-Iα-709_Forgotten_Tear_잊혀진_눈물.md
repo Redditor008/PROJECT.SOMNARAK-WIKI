@@ -11,7 +11,7 @@
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category** | Inner Sorrow (내한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A single dark tear crystallized around a small ember of anger — warm and heavy for its size, glowing faint crimson at the core. Fever-warm, it smells of char; grief forgotten by all except the anger at its heart. |

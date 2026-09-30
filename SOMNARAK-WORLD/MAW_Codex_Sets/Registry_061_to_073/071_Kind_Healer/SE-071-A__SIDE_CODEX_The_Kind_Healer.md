@@ -44,7 +44,7 @@ The twelfth blessing completed in the final Cycle as **The Hand of Hope**, not D
 | **Repeated Burden** | Same Healer absorbs three severe sorrows without a rest cycle. | **Cost of Care**. | Healer destabilizes; chain watch activates. |
 | **Blessing 1–11** | A person accepts a full blessing and retains the mark. | Giver progression. | Record recipient, attribute change, consent, and mark state. |
 | **Blessing 12 — Hope Path** | Twelfth recipient and chain participants openly share sorrow; burden is distributed. | Hand of Hope. | Current historical outcome. |
-| **Blessing 12 — Sorrow Path** | Twelfth blessing completes through unshared grief, coercion, or city-scale collapse. | Dawn of Mourning contingency. | Activate C-Vω-044 historical countermeasure archive. |
+| **Blessing 12 — Sorrow Path** | Twelfth blessing completes through unshared grief, coercion, or city-scale collapse. | Dawn of Mourning contingency. | Activate C-Vω-002 historical countermeasure archive. |
 
 ### Chain Safety Rule
 

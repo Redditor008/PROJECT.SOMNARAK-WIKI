@@ -266,6 +266,16 @@ It can wait.
 | **M.A.W. Extraction** | Impossible — no sorrow-core |
 | **Threat Score** | γ + V = 10 (Catastrophic tier — maximum Threat Score) |
 
+## Sovereign Manifestation Log
+
+The Wilderness Tide has no first appearance because it never arrives and never leaves; the border grilles measure only its surges. The Border Watch keeps four hundred years of tide charts, and every chart shows the same slow swell against the walls — raw, unstructured Han pressing the perimeter wards like a sea against glass. Major surges, marked in red on the charts, coincide without exception with catastrophes inside the walls: the Tide rises to meet the city's own grief, as if the Desolate leans closer to listen.
+
+Wardens posted to the outer galleries describe the sound before the instruments register anything: a low pressure behind the ears, then the taste of dust and old rain.
+
+## City-Scale Impact & Directorate Posture
+
+The Directorate treats the Wilderness Tide less as an entity and more as weather with intent. Posture belongs to the Border Watch under the Threshold doctrine: rotating gallery watches, surge-evacuation corridors kept permanently clear, and a standing prohibition on large-scale venting during red-marked swells, lest the city's released grief teach the Tide a new shape. The single Outside Sovereign is thus the only V-rank entity the Directorate has never attempted to name, bargain with, or work — only to endure, chart, and respect.
+
 ## Trivia
 
 - Wilderness Tide is one of only two Sovereign-grade Outside Sorrow entities (the other being unknown — possibly the source the Exile discovered).

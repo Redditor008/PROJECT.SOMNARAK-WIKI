@@ -10,7 +10,7 @@
 | **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category** | City Sorrow (도한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — An empty chamber that echoes with burning voices — no speakers, only sound — the room growing a little larger each time the echo repeats. Fever-hot, it smells of char; no body, only the widening burning room. |

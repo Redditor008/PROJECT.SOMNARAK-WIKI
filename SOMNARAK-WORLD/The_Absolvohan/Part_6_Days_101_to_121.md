@@ -11,11 +11,19 @@
 +=====================================================================+
 ```
 
-Batch 5 records the ontological turning point of Cycle 1,778. Across Days 101 through 121, the operational paradigm of the Reverie Directorate undergoes radical metamorphosis. The subterranean Maw speaks coherent words for the first time in six millennia, demanding rest and release; Zyrak experiences a synthetic vision revealing that the Absolvohan can function not as a weapon of mass extinction, but as a vehicle for planetary transmutation; and Majin breaks 1,778 cycles of isolationist protocol by opening the border gates to accept a caravan of starving Cheonbulok refugees.
+Batch 5 records the ontological turning point of Cycle 1,778. Across Days 101 through 121, the operational paradigm of
+the Reverie Directorate undergoes radical metamorphosis. The subterranean Maw speaks coherent words for the first time
+in six millennia, demanding rest and release; Zyrak experiences a synthetic vision revealing that the Absolvohan can
+function not as a weapon of mass extinction, but as a vehicle for planetary transmutation; and Majin breaks 1,778 cycles
+of isolationist protocol by opening the border gates to accept a caravan of starving Cheonbulok refugees.
 
-When the Kind Healer marks an eleventh apostle—a dying Cheonbulok refugee child—the result is not horrific death, but the miraculous transmutation of burning rage into pure, golden Hope. The countdown stands at 11/12. As facility reserves surpass 49.74 tons, the final pieces of the grand convergence lock into alignment.
+When the Kind Healer marks an eleventh apostle—a dying Cheonbulok refugee child—the result is not horrific death, but
+the miraculous transmutation of burning rage into pure, golden Hope. The countdown stands at 11/12. As facility reserves
+surpass 49.74 tons, the final pieces of the grand convergence lock into alignment.
 
 ---
+
+> Archival convention: this Part records sampled days. Between one dated entry and the next the wards held baseline — routine containments, scheduled works, uneventful watches — and the Directorate's scribes condensed those quiet stretches into the general log archives rather than full day-entries. Read each dated entry as a lantern lifted on a representative day, not as an unbroken watch.
 
 ### Day 101
 
@@ -54,7 +62,11 @@ When the Kind Healer marks an eleventh apostle—a dying Cheonbulok refugee chil
 +=====================================================================+
 ```
 
-Shift parameters initialized for Day 101. Daily extraction quota advances to **0.580 tons** of refined Han. The emergence of articulate speech from SE-C-Iα-008 (*The Maw*) alters baseline acoustic parameters across Floor 2 (Containment Lead) and Floor 8 (Deep Vaults). Ambient sorrow vibrations shift from chaotic turbulence to low-frequency rhythmic resonance. Operational priority: conduct high-sensitivity observation on **SE-C-Iα-008** (*The Maw*) while balancing vocal frequencies from **SE-C-IIIγ-001** (*The Bell*).
+Shift parameters initialized for Day 101. Daily extraction quota advances to **0.580 tons** of refined Han. The
+emergence of articulate speech from SE-C-Iα-008 (*The Maw*) alters baseline acoustic parameters across Floor 2
+(Containment Lead) and Floor 8 (Deep Vaults). Ambient sorrow vibrations shift from chaotic turbulence to low-frequency
+rhythmic resonance. Operational priority: conduct high-sensitivity observation on **SE-C-Iα-008** (*The Maw*) while
+balancing vocal frequencies from **SE-C-IIIγ-001** (*The Bell*).
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
 
@@ -87,7 +99,8 @@ Deployment roster for Floor 2 (Containment Lead) and Floor 8 (Deep Vaults):
 +---------------------------------------------------------------------+
 ```
 
-Containment Lead Dekan's *Ward of the Maw* aura dampens physical acoustic trauma across Floor 2 by +10% and suppresses sympathetic panic spikes among personnel stationed along the chasm's rim.
+Containment Lead Dekan's *Ward of the Maw* aura dampens physical acoustic trauma across Floor 2 by +10% and suppresses
+sympathetic panic spikes among personnel stationed along the chasm's rim.
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 
@@ -209,13 +222,15 @@ Director Majin establishes GBS tactical engagement in Floor 2's transitway:
 - **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
   * Dekan deploys *The Maw's Keep Bastion Ward*, raising kinetic armor across Nodes 1 to 4 and buffering against cognitive sleep effects.
 - **Step 2: Movement & Action Point Spending**:
-  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Sweeping Cleave]`.
+  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 4 to Node 3 (Point-Blank Range Band 1). Spends 2
+AP to prepare `[Heavy Maul Sweeping Cleave]`.
   * Specialist Park (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to charge `[Sonic Bow Piercing Pulse]`. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * Lead Silhouette unleashes `[Cognitive Sleep Haze]` (Base 8 + 2 Lots = 12 Power).
   * Specialist Kang's `[Heavy Maul Sweeping Cleave]` (Base 11 + 2 Lots = 15 Power).
   * **Resolution**: Kang WINS THE CLASH (15 vs 12).
-    * Kang's warhammer smashes through the sleep mist, exploiting the entity's Grudge vulnerability to deal **52 Grudge damage** and inflicting +28 Stagger!
+    * Kang's warhammer smashes through the sleep mist, exploiting the entity's Grudge vulnerability to deal **52 Grudge
+damage** and inflicting +28 Stagger!
   * Park's sonic bow drives an acoustic pulse through the remaining specters from Node 5 for 36 Lament damage.
 
 
@@ -441,7 +456,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIβ-061 (*The Debtor*)*
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 02:30, Majin sits beside Dekan on the Maw's edge. The chasm is eerily quiet; only tiny, peaceful ripples disturb the black surface. Dekan looks down into the dark: *"They're waiting for us, Director."*
+At 02:30, Majin sits beside Dekan on the Maw's edge. The chasm is eerily quiet; only tiny, peaceful ripples disturb the
+black surface. Dekan looks down into the dark: *"They're waiting for us, Director."*
 
 Majin nods slowly, watching the amber status lights reflect on the black tar: *"Yes. They've waited 6,000 years. We will take them home soon."*
 
@@ -486,7 +502,11 @@ Majin nods slowly, watching the amber status lights reflect on the black tar: *"
 +=====================================================================+
 ```
 
-Shift parameters initialized for Day 103. Daily quota escalates to **0.640 tons** of pure Han. Zyrak's synthetic cognitive breakthrough provides a new operational directive: configure Floor 6 (Extraction Lead) crucibles for transmutation catalysis rather than destructive compression. Active containment focuses on stabilizing temporal strain from **SE-C-IIIβ-036** (*The Cracked Hourglass*) while harvesting golden amber resin from **SE-O-Iα-973** (*The Yggdrasil Wound*).
+Shift parameters initialized for Day 103. Daily quota escalates to **0.640 tons** of pure Han. Zyrak's synthetic
+cognitive breakthrough provides a new operational directive: configure Floor 6 (Extraction Lead) crucibles for
+transmutation catalysis rather than destructive compression. Active containment focuses on stabilizing temporal strain
+from **SE-C-IIIβ-036** (*The Cracked Hourglass*) while harvesting golden amber resin from **SE-O-Iα-973** (*The
+Yggdrasil Wound*).
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
 
@@ -519,11 +539,13 @@ Deployment roster for Floor 3 (Archive Lead) and Floor 6 (Extraction Lead):
 +---------------------------------------------------------------------+
 ```
 
-Extraction Lead Zyrak's *Forge Resonance* aura accelerates physical strike intervals by +20% and provides an ambient thermal buffer across all extraction bays on Floor 6.
+Extraction Lead Zyrak's *Forge Resonance* aura accelerates physical strike intervals by +20% and provides an ambient
+thermal buffer across all extraction bays on Floor 6.
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 
-The smelting foundry glows with vivid blue luminescence. In Floor 6's botanical containment annex, Specialist Lim approaches the petrified boughs of Chamber 973:
+The smelting foundry glows with vivid blue luminescence. In Floor 6's botanical containment annex, Specialist Lim
+approaches the petrified boughs of Chamber 973:
 
 ```text
 > Specialist Lim: "The golden sap on Chamber 973 is warm to the touch. It smells like pine resin and ozone."
@@ -646,13 +668,15 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
   * Zyrak engages *M.A.W. Overcharge*, buffing allied weapon Clash Power by +3.
   * Marjuk readies *The Temporal Stasis Array* to stabilize the axle.
 - **Step 2: Movement & Action Point Spending**:
-  * Extraction Lead Zyrak (Speed 6 -> 3 AP) plants his boots at Node 2 (Point-Blank Range Band 1). Spends 2 AP to declare `[Furnace Lance Thermal Axle Thrust]`. Remaining 1 AP in Guard.
+  * Extraction Lead Zyrak (Speed 6 -> 3 AP) plants his boots at Node 2 (Point-Blank Range Band 1). Spends 2 AP to
+declare `[Furnace Lance Thermal Axle Thrust]`. Remaining 1 AP in Guard.
   * Specialist Yoo (Speed 6 -> 3 AP) stands at Node 3 (Close Range Band 2). Spends 2 AP to prepare `[Lock Maul Kinetic Overdrive]`.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
   * Molten Gearwheel rolls forward with `[Gravitational Rolling Shear]` (Base 10 + 2 Lots = 14 Power).
   * Extraction Lead Zyrak's `[Furnace Lance Thermal Axle Thrust]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Zyrak WINS THE CLASH (16 vs 14).
-    * Zyrak's furnace lance pierces the incandescent axle, halting the wheel's rolling momentum and dealing **54 Grudge/Thermal damage** with +28 Stagger!
+    * Zyrak's furnace lance pierces the incandescent axle, halting the wheel's rolling momentum and dealing **54
+Grudge/Thermal damage** with +28 Stagger!
   * Specialist Yoo follows up with `[Lock Maul Kinetic Overdrive]`, smashing the primary gear teeth for 48 blunt damage.
 
 
@@ -710,7 +734,8 @@ Director Majin establishes GBS tactical parameters in the hydraulic transit hall
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Specialist Yoo's `Momentum Surge` activates! (+2 Speed next turn). Yoo delivers an overhead smash directly onto the jammed gear teeth: **58 Damage**!
+  * Specialist Yoo's `Momentum Surge` activates! (+2 Speed next turn). Yoo delivers an overhead smash directly onto the
+jammed gear teeth: **58 Damage**!
   * Zyrak melts the internal bearings with thermal spray: **46 Damage**!
   * Cog HP drops to **48/280**! Posture drops to **14/130**!
 
@@ -883,9 +908,11 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-300 (*The Memory Lo
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 02:45, Majin and Zyrak stand before the transparent blast shield of Extraction Foundry Alpha. Inside, the massive hydraulic pistons of the Absolvohan delivery manifold gleam under blue indicator lights.
+At 02:45, Majin and Zyrak stand before the transparent blast shield of Extraction Foundry Alpha. Inside, the massive
+hydraulic pistons of the Absolvohan delivery manifold gleam under blue indicator lights.
 
-Zyrak taps the glass with his mechanical index finger: *"It was designed as a cannon, Majin. But cannons can fire life just as easily as death. It all depends on the charge."*
+Zyrak taps the glass with his mechanical index finger: *"It was designed as a cannon, Majin. But cannons can fire life
+just as easily as death. It all depends on the charge."*
 
 Majin gazes into the dark manifold: *"The charge is 100 tons of purified sorrow, Zyrak. When it fires, there will be nothing left to burn."*
 
@@ -930,7 +957,11 @@ Majin gazes into the dark manifold: *"The charge is 100 tons of purified sorrow,
 +=====================================================================+
 ```
 
-Shift parameters initialized for Day 108. Daily collection target jumps to **0.710 tons** of refined Han. The opening of Gate 05 and the admission of twelve dying Cheonbulok refugees sends an unprecedented humanitarian shockwave through the facility. Mellda's border garrison establishes a high-security quarantine corridor between Gate 05 and Floor 7's decontamination ward. Operational priority: suppress thermal flare-ups from **SE-C-IIIβ-275** (*The Rage Forge*) and stabilize ballast conduits on **SE-O-IVδ-762** (*The Burning Bridge*).
+Shift parameters initialized for Day 108. Daily collection target jumps to **0.710 tons** of refined Han. The opening of
+Gate 05 and the admission of twelve dying Cheonbulok refugees sends an unprecedented humanitarian shockwave through the
+facility. Mellda's border garrison establishes a high-security quarantine corridor between Gate 05 and Floor 7's
+decontamination ward. Operational priority: suppress thermal flare-ups from **SE-C-IIIβ-275** (*The Rage Forge*) and
+stabilize ballast conduits on **SE-O-IVδ-762** (*The Burning Bridge*).
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
 
@@ -963,7 +994,8 @@ Deployment roster for Floor 5 (Border Control) and Floor 7 (Outsider Relations):
 +---------------------------------------------------------------------+
 ```
 
-Border Lead Mellda's *Iron Perimeter* aura provides a facility-wide +15% damage reduction against physical Grudge impacts and reinforces the kinetic integrity of perimeter bulwark barriers.
+Border Lead Mellda's *Iron Perimeter* aura provides a facility-wide +15% damage reduction against physical Grudge
+impacts and reinforces the kinetic integrity of perimeter bulwark barriers.
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 
@@ -1088,13 +1120,15 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
 - **Step 1: Floor 5 Echo-Core Resonance (Border Lead Mellda)**:
   * Mellda activates *Blast Gate Lockdown*, sealing Node 5 to ensure zero hostile ingress toward the refugee crawler at Node 8.
 - **Step 2: Movement & Action Point Spending**:
-  * Border Lead Mellda (Speed 6 -> 3 AP) holds Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Threshold Vow Skull-Pinning Thrust]`. Remaining 1 AP in Guard.
+  * Border Lead Mellda (Speed 6 -> 3 AP) holds Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Threshold Vow
+Skull-Pinning Thrust]`. Remaining 1 AP in Guard.
   * Specialist Cha (Speed 5 -> 3 AP) positions at Node 4 (Range Band 2). Spends 2 AP to ready `[Forge Bracer High-Pressure Cryo-Spray]`.
 - **Step 3: Clash Resolution (Node 2 to 3)**:
   * Lead Ash Stalker lunges with `[Incandescent Flame Jaw]` (Base 9 + 2 Lots = 13 Power).
   * Border Lead Mellda's `[Threshold Vow Skull-Pinning Thrust]` (Base 12 + 2 Lots = 16 Power).
   * **Resolution**: Mellda WINS THE CLASH (16 vs 13).
-    * Mellda drives the golden spearhead straight through the stalker's incandescent skull, pinning it to the bulkhead for **52 Grudge/Weight damage** with +26 Stagger!
+    * Mellda drives the golden spearhead straight through the stalker's incandescent skull, pinning it to the bulkhead
+for **52 Grudge/Weight damage** with +26 Stagger!
   * Specialist Cha unleashes the cryo spray from Node 4, chilling the remaining stalkers with 38 Lament damage.
 
 
@@ -1182,7 +1216,8 @@ Director Majin establishes GBS tactical engagement at the Perimeter Airlock:
 - **Hostile Desperation Flank**:
   * Secondary stalkers attempt to scramble past Node 02 toward the Cheonbulok refugee shelter.
   * Mellda slams the portcullis shut, blocking the corridor!
-  * Specialist Cha deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 188/195) while freezing all remaining stalkers at Node 02 into brittle charcoal!
+  * Specialist Cha deploys `[Directional Guard Absorption]`, taking 7 chip damage (HP: 188/195) while freezing all
+remaining stalkers at Node 02 into brittle charcoal!
   * Stalker HP falls to **14/280**! Posture drops to **2/120**!
 
 ---
@@ -1321,9 +1356,11 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-O-IVδ-897 (*The Haven Wall
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 03:00, Majin visits the observation gallery above Floor 7's decontamination ward. Below, the twelve Cheonbulok refugees sleep in sterile thermal beds. A young mother holds her sleeping child; both breathe through oxygen masks.
+At 03:00, Majin visits the observation gallery above Floor 7's decontamination ward. Below, the twelve Cheonbulok
+refugees sleep in sterile thermal beds. A young mother holds her sleeping child; both breathe through oxygen masks.
 
-Ishall stands beside Majin, her android eyes scanning their vitals: *"Their lungs are healing, Director. In Cheonbulok, they were taught that rage is the only virtue. Here, they are sleeping without fire for the first time in their lives."*
+Ishall stands beside Majin, her android eyes scanning their vitals: *"Their lungs are healing, Director. In Cheonbulok,
+they were taught that rage is the only virtue. Here, they are sleeping without fire for the first time in their lives."*
 
 Majin places his hand against the observation glass: *"They are safe, Ishall. The wall is for them too."*
 
@@ -1368,7 +1405,11 @@ Majin places his hand against the observation glass: *"They are safe, Ishall. Th
 +=====================================================================+
 ```
 
-Shift parameters initialized for Day 113. Daily collection target jumps to **0.780 tons** of pure Han. The eleventh apostolic blessing marks a critical milestone: the facility stands one single blessing away from the apocalyptic/miraculous twelfth threshold! Active containment protocols enforce strict quarantine around **SE-C-IIIβ-015** (*The Kind Healer*) while harvesting transcendent diamond-grade Han crystals from **SE-C-IIIγ-081** (*The Hollow Saint*).
+Shift parameters initialized for Day 113. Daily collection target jumps to **0.780 tons** of pure Han. The eleventh
+apostolic blessing marks a critical milestone: the facility stands one single blessing away from the
+apocalyptic/miraculous twelfth threshold! Active containment protocols enforce strict quarantine around
+**SE-C-IIIβ-015** (*The Kind Healer*) while harvesting transcendent diamond-grade Han crystals from **SE-C-IIIγ-081**
+(*The Hollow Saint*).
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
 
@@ -1401,7 +1442,8 @@ Deployment roster for Floor 4 (Research Lead) and Floor 2 (Containment Lead):
 +---------------------------------------------------------------------+
 ```
 
-Research Lead Ayshuk's *Clarity Matrix* aura projects concentrated mental buffering throughout Floor 4, mitigating incoming Lament trauma by +15% and providing passive SP regeneration while outside combat.
+Research Lead Ayshuk's *Clarity Matrix* aura projects concentrated mental buffering throughout Floor 4, mitigating
+incoming Lament trauma by +15% and providing passive SP regeneration while outside combat.
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 
@@ -1526,8 +1568,10 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
   * Ayshuk deploys *The Predictive HUD*, analyzing the miniature cyan sun's radiation harmonics and granting +3 Clash Power against its Pale pulses.
 - **Step 2: Movement & Action Point Spending**:
   * Specialist Yoon (Speed 6 -> 3 AP) anchors Node 5 (Range Band 3). Spends 2 AP to channel `[Tear Veil Harmonic Lament Wave]`.
-  * Specialist Hong (Speed 5 -> 3 AP) deploys at Node 6 (Range Band 3). Spends 2 AP to activate `[Choral Staff Sorrow Pulse]`. Remaining 1 AP held in Guard.
-  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Heavy Maul Kinetic Sunder]`.
+  * Specialist Hong (Speed 5 -> 3 AP) deploys at Node 6 (Range Band 3). Spends 2 AP to activate `[Choral Staff Sorrow
+Pulse]`. Remaining 1 AP held in Guard.
+  * Specialist Kang (Speed 6 -> 3 AP) spends 1 AP to sprint to Node 2 (Point-Blank Range Band 1). Spends 2 AP to prepare
+`[Heavy Maul Kinetic Sunder]`.
 - **Step 3: Clash Resolution (Node 1 to 5)**:
   * Dawn Solar Core releases `[Omnidirectional Void Sunder]` (Base 10 + 2 Lots = 14 Power).
   * Specialist Yoon & Specialist Hong's `[Dual Harmonic Weeping]` (Base 12 + 2 Lots = 16 Power).
@@ -1590,7 +1634,8 @@ Director Majin establishes GBS tactical engagement in the Sub-Central Hall:
 
 ###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
 - **Vanguard Overload (1.5x Direct Damage)**:
-  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite into the containment ring: **56 Damage**!
+  * Specialist Kang's `Momentum Surge` activates! (+2 Speed next turn). Kang delivers a crushing downward smite into the
+containment ring: **56 Damage**!
   * Yoon and Hong discharge synchronized beams: **48 Damage**!
   * Core HP collapses from 166 to **62/320**! Posture drops to **14/140**!
 
@@ -1759,9 +1804,11 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-O-IVδ-895 (*The Breath of 
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 02:15, Majin stands before Chamber 15's massive lead bulkhead. Ayshuk stands beside him, her fingers adjusting the diagnostic cables. Through the heavy lead, a warm, rhythmic golden glow pulses every few seconds—like a sleeping heart.
+At 02:15, Majin stands before Chamber 15's massive lead bulkhead. Ayshuk stands beside him, her fingers adjusting the
+diagnostic cables. Through the heavy lead, a warm, rhythmic golden glow pulses every few seconds—like a sleeping heart.
 
-Ayshuk looks up at the Director: *"Eleven marks, Majin. The circuit is stable. The child is sleeping without pain for the first time in her life. We can hold the twelfth mark until the Day 160 Critical Threshold."*
+Ayshuk looks up at the Director: *"Eleven marks, Majin. The circuit is stable. The child is sleeping without pain for
+the first time in her life. We can hold the twelfth mark until the Day 160 Critical Threshold."*
 
 Majin places his hand against the lead: *"Day 160. When the weapon fires, the twelfth mark will not fall as death. It will rise as dawn."*
 
@@ -1798,7 +1845,9 @@ Majin places his hand against the lead: *"Day 160. When the weapon fires, the tw
 +=====================================================================+
 ```
 
-Shift parameters engaged for Day 117. Daily harvest quota climbs to **0.280 tons** of pure refined Han. Secret ballast reserves confirm **53.850 tons** stored safely within the cryogenic sub-vaults—advancing past the fifty-three ton threshold as the facility nears the mid-cycle crisis.
+Shift parameters engaged for Day 117. Daily harvest quota climbs to **0.280 tons** of pure refined Han. Secret ballast
+reserves confirm **53.850 tons** stored safely within the cryogenic sub-vaults—advancing past the fifty-three ton
+threshold as the facility nears the mid-cycle crisis.
 
 Operational priorities for Day 117:
 1. Maintain safe siphoning on **SE-C-Iα-008** (*The Maw*).
@@ -1883,7 +1932,8 @@ At 16:10, boiling river silt floods the Floor 2 siphon vault:
 +=====================================================================+
 ```
 
-A towering, quad-tusked behemoth plated in fossilized basalt silt crashes through the vault grates at Node 02, spraying boiling mud across the corridor!
+A towering, quad-tusked behemoth plated in fossilized basalt silt crashes through the vault grates at Node 02, spraying
+boiling mud across the corridor!
 
 ```text
 +=====================================================================+
@@ -1910,7 +1960,8 @@ A towering, quad-tusked behemoth plated in fossilized basalt silt crashes throug
 
 ##### Turn 01 Action Resolution Log (Spatial Ingress & Bulwark Clash)
 - **Operative Movement & Clash Standoff**:
-  * **Containment Lead Dekan (Speed 5 -> 3 AP)**: Steps up to Node 03, planting his basalt siphon into the floorplates. Declares `[Basalt Siphon Parry]` (Costs 2 AP).
+  * **Containment Lead Dekan (Speed 5 -> 3 AP)**: Steps up to Node 03, planting his basalt siphon into the floorplates.
+Declares `[Basalt Siphon Parry]` (Costs 2 AP).
   * The Sediment Behemoth unleashes `[Tectonic Mudslide Charge]` against Node 03 (Base 10 + 2 Lots = 14 Power).
   * Dekan's Roll:
     * *Passive Trigger:* `Maw Ward` (+2 Base Clash Power).
@@ -2122,7 +2173,8 @@ Specialist Kang equips the *Basalt Great-Maul*, establishing himself as Floor 2'
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 02:15, Majin walks along the observation catwalk overlooking the Maw's basin with Dekan. The black tar has calmed, its surface glossy like dark obsidian.
+At 02:15, Majin walks along the observation catwalk overlooking the Maw's basin with Dekan. The black tar has calmed,
+its surface glossy like dark obsidian.
 
 Beneath Floor 6, the hydraulic ballast meters verify **53.850 tons** of stored sorrow.
 
@@ -2165,7 +2217,11 @@ Majin places his hand upon the iron railing: *"Let them gather. In cycle 1,778, 
 +=====================================================================+
 ```
 
-Shift parameters initialized for Day 121. Daily energy target peaks at **0.850 tons** of pure crystalline Han. Cumulative hydraulic ballast crosses **49.740 tons**—a mere 260 kilograms away from the historic 50-ton supercritical threshold! The vertical energy conduits connecting Floor 1 to Floor 8 hum in total harmonic synchronization. Operational priority: suppress convergence resonance from **SE-C-IIIγ-010** (*The Convergence*) while securing the final Han reserves before Batch 6.
+Shift parameters initialized for Day 121. Daily energy target peaks at **0.850 tons** of pure crystalline Han.
+Cumulative hydraulic ballast crosses **49.740 tons**—a mere 260 kilograms away from the historic 50-ton supercritical
+threshold! The vertical energy conduits connecting Floor 1 to Floor 8 hum in total harmonic synchronization. Operational
+priority: suppress convergence resonance from **SE-C-IIIγ-010** (*The Convergence*) while securing the final Han
+reserves before Batch 6.
 
 #### 1. Pre-Shift Deployment & Specialist Dossiers
 
@@ -2198,7 +2254,8 @@ Deployment roster for Floor 1 (Central Command) and Floor 3 (Archive Lead):
 +---------------------------------------------------------------------+
 ```
 
-Secretary Seiyon's *Sync Directive* aura optimizes multi-floor coordination, increasing work speeds by +10 across all operative teams and maintaining global composure against cognitive vertigo.
+Secretary Seiyon's *Sync Directive* aura optimizes multi-floor coordination, increasing work speeds by +10 across all
+operative teams and maintaining global composure against cognitive vertigo.
 
 #### 2. Shift Management Execution (Live Operational Telemetry)
 
@@ -2324,7 +2381,8 @@ Director Majin establishes GBS tactical engagement in the Command Atrium:
   * Majin deploys *The Command Eye*, rerolling Specialist Kang's Speed Die to maximum, unlocking 3 Action Points under heavy gravity.
   * Seiyon engages emergency ballast compensators around the central consoles.
 - **Step 2: Movement & Action Point Spending**:
-  * Specialist Kang (Speed 6 -> 3 AP) activates *Threshold Suit* grav-locks, spending 1 AP to sprint directly to Node 2 (Point-Blank Range Band 1) beneath the apex.
+  * Specialist Kang (Speed 6 -> 3 AP) activates *Threshold Suit* grav-locks, spending 1 AP to sprint directly to Node 2
+(Point-Blank Range Band 1) beneath the apex.
   * Kang spends 2 AP to prepare `[Threshold Maul Titanic Downward Cleave]`.
   * Director Majin (Speed 5 -> 3 AP) operates from Node 9, spending 2 AP to maintain *Administrative Clarity* team-wide. Remaining 1 AP held in Guard.
 - **Step 3: Clash Resolution (Node 1 to 2)**:
@@ -2554,8 +2612,10 @@ At 23:59, as Day 121 transitions into Day 122, Seiyon projects the golden number
 - Target Threshold: **50.000 tons**.
 - Days to Critical Threshold: **39**.
 
-Majin stands in the center of the command room, surrounded by the holographic projections of all eight floor leads. For the first time in 1,778 cycles, the leads do not look weary or afraid. They look forward.
+Majin stands in the center of the command room, surrounded by the holographic projections of all eight floor leads. For
+the first time in 1,778 cycles, the leads do not look weary or afraid. They look forward.
 
-Majin raises his hand: *"Batch 5 is complete. We stand two hundred and sixty kilograms from fifty tons. Prepare for Batch 6. The Threshold is in sight."*
+Majin raises his hand: *"Batch 5 is complete. We stand two hundred and sixty kilograms from fifty tons. Prepare for
+Batch 6. The Threshold is in sight."*
 
 ---
