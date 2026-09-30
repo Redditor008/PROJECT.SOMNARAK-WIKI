@@ -13,27 +13,27 @@
 
 ## Formation
 
-An armed procession forged from the anger of the furnace district, marching out at last.
+An armed procession forged from the anger of the furnace district, marching out at last. The furnace district worked triple shifts through the cold season and was paid in promises that cooled faster than the slag. When the layoffs came, the anger of ten thousand quenchings walked out of the forge doors in step. It had been marching in place for years — every shift-change stomp, every hammer-fall in unison — and the Third Watch trumpet simply let it march out at last.
 
 ## Appearance
 
-A column of weapon-fused heavy humanoids in lockstep, bristling with forged arms.
+A column of weapon-fused heavy humanoids in lockstep, bristling with forged arms. They come in lockstep that shakes rivets loose three floors up, each humanoid bristling with half-forged arms still glowing at the tang. Breastplates are anvil-flat; pauldrons are quench-tanks; one Veteran (300 HP, two per spawn) carries a full rack of cooling blades across its back like a standard. The heat-haze around the column bends the corridor lights, and the War-Smog (320 HP) rolls ahead of it like weather.
 
 ## Behavior
 
-They march through, and every weapon strikes at once in a rolling assault.
+They march through, and every weapon strikes at once in a rolling assault. The column does not stop, does not turn, does not negotiate: it marches through, and every fused weapon strikes at once in a rolling assault that travels the length of the line. Bone-Legions (380 HP, two to three per spawn) keep the step on the flanks, femur-blades rising and falling like pistons. Anything in the corridor takes the whole procession; anything that dodges the first rank meets the second, then the third.
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with major-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Never meet the column head-on: the Blade Storm at Elite grade (410 HP, 35–55 per hit) rides above the march and mulches frontal assaults. Break the step instead — foul the floor, drop the lights, detune the rhythm — and engage the stragglers with Grudge-element M.A.W. as the column frays. Saw-Larvae (ten to fourteen per swarm) pour from the joints of stalled marchers; burn them before they bore into shield-lines.
 
 ## Facility Impact
 
-A major-severity GREY encounter: widespread structural and personnel threat. Contain before the grudge pressure cascades.
+A major-severity GREY encounter: widespread structural and personnel threat. Contain before the grudge pressure cascades. Widespread structural and personnel threat: the march buckles deck plating, shatters conduit, and recruits every ambient grievance along its route. Grudge pressure cascades behind the column like a wake; gauge teams must work the corridor the march has already left, bleeding Han before it re-ignites. One march crossed four zones before Containment Lead oversight arrived to break it.
 
 ## R.D. Response Protocol
 
-Level 4+, Containment Lead oversight.
+Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight mandatory; the Lead’s authority to order a corridor flood has ended two marches by quenching the column’s heat mid-step. Staging at junctions only — the march has overrun three linear deployments.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 4+, Containment Lead oversight.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary GREY Third Watch Ordeal; same color and severity, different manifestation.
+- Heaviest GREY Third Watch spawn is the Elite Blade Storm at 410 HP; the Saw-Larvae are lightest at 60 HP but spawn up to fourteen.
+- Filed as ORDEAL-GREY-Third-II; recovered forge-tally chits from the march’s path showed every marcher’s unpaid hours to the minute.
 
 ## Document Information
 

@@ -13,27 +13,27 @@
 
 ## Formation
 
-A unit left to corrode in a forgotten post, its duty long meaningless but its hatred bright.
+A unit left to corrode in a forgotten post, its duty long meaningless but its hatred bright. The post was decommissioned, the garrison transferred, and one punishment detail left behind with sealed orders that never came. Their duty died by inches; their hatred of the officers who forgot them stayed bright enough to rust the rifles in their hands. When the Second Watch trumpet found the forgotten post, the battalion drilled out of it in perfect order — corroded, disciplined, and owed.
 
 ## Appearance
 
-A disciplined rank of corroded armed humanoids drilling with mechanical hatred.
+A disciplined rank of corroded armed humanoids drilling with mechanical hatred. They keep dressing and interval like soldiers on parade, rifles pitted orange-black, breastplates flaking in sheets. Each face is a rust-mask with eyeholes worn bright from staring down the same empty road. The drilling never pauses — present arms, shoulder arms, advance — and the mechanical hatred in the rhythm is worse than any charge. Observers count the Piked among them, three per file, femur-pikes couched like lances.
 
 ## Behavior
 
-They form a line and advance, weapons ready, cutting down whatever breaks.
+They form a line and advance, weapons ready, cutting down whatever breaks. The line dresses, the line advances, and whatever breaks before it is cut down without pursuit — the battalion does not chase, it processes. Weapons stay ready through the whole evolution; the Sinew-Bruisers (250 HP) anchor the flanks and pound through shield-walls that try to refuse them. Anything that stands its ground is ground down; anything that routs is ignored, which survivors consistently describe as worse.
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with moderate-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Break the rhythm before engaging the bodies: cadence-drums answered out of time have scattered the line twice in recorded practice. Grudge-element M.A.W. at Second Watch grade; keep teams off the parade axis, because the Blade Storm (280 HP) orbits the battalion’s center and shreds anything that meets the line head-on. Channel the advance into a cul-de-sac, then collapse the flanks inward.
 
 ## Facility Impact
 
-A moderate-severity GREY encounter: localized damage. Contain before the grudge pressure cascades.
+A moderate-severity GREY encounter: localized damage. Contain before the grudge pressure cascades. Localized damage only if the battalion is met before it reaches a muster hall — open floors let the line extend to full width and double its killing front. Grudge pressure cascades wherever the drilling echoes; seal acoustic relays on adjacent levels. One uncontained instance drilled the length of a service concourse and left every door on it rusted shut.
 
 ## R.D. Response Protocol
 
-Level 3+ with M.A.W.
+Level 3+ with M.A.W. Doctrine requires a cadence officer with the first team and a second team in reserve at the nearest junction; the battalion has twice split around a single blocking force and re-formed behind it.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 3+ with M.A.W.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary GREY Second Watch Ordeal; same color and severity, different manifestation.
+- The Piked spawn at 240 HP in files of three, matching the battalion’s own drill intervals; the battalion seems to count them as its own.
+- Filed as ORDEAL-GREY-Second-II; the forgotten post’s sealed orders were finally opened and read aloud at the suppression site, which ended the drilling.
 
 ## Document Information
 

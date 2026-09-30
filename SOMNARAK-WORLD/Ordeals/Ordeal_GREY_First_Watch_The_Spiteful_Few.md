@@ -13,27 +13,27 @@
 
 ## Formation
 
-A small knot of the newly wronged, their grievance still hot, armed with whatever was at hand.
+A small knot of the newly wronged, their grievance still hot, armed with whatever was at hand. They were wronged together — a work-gang docked as a group for one member’s mistake — and the shared heat of it fused them before any of them cooled. New grievance burns hottest, and the Few armed themselves with whatever was at hand: chain, pipe, broken bottle, wrench. The First Watch trumpet caught them mid-argument about who was angriest, and the argument became the manifestation.
 
 ## Appearance
 
-Three to five wiry hostile humanoids clutching improvised weapons, snarling.
+Three to five wiry hostile humanoids clutching improvised weapons, snarling. They cluster and jostle, never quite in line, improvised weapons wagging as they snarl over each other. Each one wears the same fresh bruise of being cheated, still purple, still tender. Beside them the Knuckle-Boxers (180 HP, three per spawn) look almost professional — the Few are amateurs of spite, which makes them unpredictable. Count the heads on approach; the roster warns the knot can run to five.
 
 ## Behavior
 
-They rush the nearest target, attacking with uncoordinated but genuine fury.
+They rush the nearest target, attacking with uncoordinated but genuine fury. No plan survives their first ten seconds: they rush the nearest target all at once, swinging whatever they hold, genuinely furious and genuinely uncoordinated. The fury is real enough to hurt through light kit — the Scar-Golem (150 HP) sometimes rises where their blows land thickest, as if the floor itself took offense. They scatter if the first rush fails, regroup behind cover, and rush again, angrier.
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with minor-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Meet the first rush with shields and let it break; the Few have no second idea. Grudge-element M.A.W. at First Watch grade, Level 2+ personnel, and one spare shield — the Blood-Pool (160 HP) that condenses under a prolonged scrum lashes tendrils at ankles. Suppress before it spreads: every minute of fighting recruits Razor-Vermin (eight to twelve), and vermin turn a brawl into an infestation.
 
 ## Facility Impact
 
-A minor-severity GREY encounter: localized damage. Contain before the grudge pressure cascades.
+A minor-severity GREY encounter: localized damage. Contain before the grudge pressure cascades. Localized damage to one work area — benches overturned, tools bent, one wall dented in the shape of a wrench. The cascade vector is morale: crews who watch the Few fight start nursing their own grievances, and the gauge climbs on sympathy. Rotate witnesses out within the hour and log their names for follow-up.
 
 ## R.D. Response Protocol
 
-Standard response team, Level 2+ personnel.
+Standard response team, Level 2+ personnel. Standard response team, Level 2+ personnel; doctrine suggests bringing the gang’s actual foreman, since two suppressions ended in negotiated apportionment of blame rather than violence.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Standard response team, Level 2+ personnel.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary GREY First Watch Ordeal; same color and severity, different manifestation.
+- The Few are the only GREY First Watch manifestation documented arguing mid-combat; transcripts show disputes over seniority of grievance.
+- Filed as ORDEAL-GREY-First-II; the work-gang’s docked wages were restored and the foreman reassigned, cooling three repeat manifestations.
 
 ## Document Information
 

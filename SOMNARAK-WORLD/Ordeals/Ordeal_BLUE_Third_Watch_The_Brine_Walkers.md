@@ -13,27 +13,27 @@
 
 ## Formation
 
-The drowned dead of a flood that the city denied, walking still, sodden and unending.
+The drowned dead of a flood that the city denied, walking still, sodden and unending. The flood took the lower wards in a single night, and the city struck the death toll from the record by morning — denied water, denied dead, denied grief. But the drowned kept walking the streets they died on, sodden and unending, Morale officers logged the footsteps for years before anyone admitted the patrols were not ours. The Third Watch trumpet did not summon the Walkers; it finally gave the living permission to see them.
 
 ## Appearance
 
-A procession of waterlogged figures trailing black bilge, mouthing silent farewells.
+A procession of waterlogged figures trailing black bilge, mouthing silent farewells. They come two abreast in a column that never ends, clothes plastered black, trailing bilge that hisses faintly on dry stone. Each mouths a silent farewell — lip-readers have recovered fragments of names, addresses, last instructions — but no sound survives the water in their throats. Treaders (290 HP, two per spawn) walk the flanks with measured steps, and the Bilge itself (310 HP) pools ahead of the column like a herald.
 
 ## Behavior
 
-They reach, and the cold grip of drowned grief drags the mind beneath.
+They reach, and the cold grip of drowned grief drags the mind beneath. The Walkers do not hurry; they reach, and whoever they touch learns exactly how cold the denied water was. The cold grip of drowned grief drags the mind beneath long before the body follows — responders describe forgetting why they were holding their weapons, then forgetting the weapons. The Floaters (ten to fourteen per swarm) drift alongside snatching at sleeves and ankles; the column itself simply keeps walking, and the facility must get out of its road.
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with major-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Do not block the column: two blocked processions turned aside through walls and took the walls’ occupants with them. Bleed the route instead — Lament-element M.A.W. at Third Watch grade, drainage crews forward, and the Waterlogged (380 HP, 30–50 per hit) engaged at range before they can anchor the column’s flanks. The Weeping Leviathan (350 HP) breaches where the bilge pools deepest; keep the pools pumped and it stays theoretical.
 
 ## Facility Impact
 
-A major-severity BLUE encounter: widespread structural and personnel threat. Contain before the lament pressure cascades.
+A major-severity BLUE encounter: widespread structural and personnel threat. Contain before the lament pressure cascades. Widespread structural and personnel threat: bilge rots sealant, warps decking, and shorts every relay it touches. Lament pressure cascades wherever the column has passed; the Sorrow Fog (410 HP at Elite grade) settles into the walked corridors and must be burned out with dry Han before crews re-enter. Deny the Walkers nothing — the one zone that barred its doors lost the doors, the wall, and the crew behind it.
 
 ## R.D. Response Protocol
 
-Level 4+, Containment Lead oversight.
+Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight; the Lead carries the city’s sealed flood record and reads the true death toll aloud at the column’s head — acknowledgement has halted three processions where barricades failed.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 4+, Containment Lead oversight.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary BLUE Third Watch Ordeal; same color and severity, different manifestation.
+- Only BLUE ordeal whose suppression protocol centers on acknowledgement rather than force; the sealed flood record is a controlled document.
+- Filed as ORDEAL-BLUE-Third-II; lip-reader transcripts from the column are archived under seal, one volume per manifestation.
 
 ## Document Information
 

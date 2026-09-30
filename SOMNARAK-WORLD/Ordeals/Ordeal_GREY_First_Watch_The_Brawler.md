@@ -13,27 +13,27 @@
 
 ## Formation
 
-One person whose grudge finally outgrew their body, given form to swing forever.
+One person whose grudge finally outgrew their body, given form to swing forever. Clerks traced the grievance back nine years: a dockworker shorted on wages every single payday, who filed every complaint correctly and was answered never. The grudge outgrew the body joint by joint — first the fists, then the shoulders, then the temper — until the First Watch trumpet gave it permission to swing forever. There is only ever one Brawler per manifestation; the sorrow is too personal to share.
 
 ## Appearance
 
-A single heavy-set hostile humanoid with scar-calloused fists, always advancing.
+A single heavy-set hostile humanoid with scar-calloused fists, always advancing. It stands two meters of scar-calloused weight, knuckles like cobblestones, always leaning forward into the next step. The face is still almost human, which responders find more disturbing than any beast — it looks like someone’s tired neighbor, mid-swing. Sweat that is not sweat beads on the brow and never falls; the Knuckle-Boxers that sometimes accompany it (180 HP, three per spawn) sway in unconscious imitation.
 
 ## Behavior
 
-It wades in swinging, and its blows carry the weight of a long-held spite.
+It wades in swinging, and its blows carry the weight of a long-held spite. No guard, no footwork, no retreat: it walks at the nearest target and swings until the target stops moving, then walks at the next. Each blow lands with the weight of a long-held spite — ribs crack in the shape of old pay-chits, witnesses insist. It cannot be taunted away from its chosen target, but it can be kited; it walks, it never runs, and it never swings at anything it hasn’t decided to hate.
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with minor-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. A single Level 2+ pair with Grudge-element M.A.W. suffices if they refuse the first exchange and bleed it around the room. Do not trade blows: the Scar-Golem (150 HP) that sometimes manifests beside it exists to punish exactly that instinct. Suppress before it spreads — left an hour, the Brawler’s spite starts recruiting, and Razor-Vermin packs (eight to twelve) boil out of the walls to rake whoever is closest.
 
 ## Facility Impact
 
-A minor-severity GREY encounter: localized damage. Contain before the grudge pressure cascades.
+A minor-severity GREY encounter: localized damage. Contain before the grudge pressure cascades. Localized damage: one room, one corridor, one grudge. The cascade risk is recruitment, not destruction — the Brawler converts ambient grievance into Razor-Vermin and Blood-Pools (160 HP) if the gauge climbs. Clear the room’s Han below thirty percent and the manifestation loses interest in everything except lying down.
 
 ## R.D. Response Protocol
 
-Standard response team, Level 2+ personnel.
+Standard response team, Level 2+ personnel. Standard response team, Level 2+ personnel, with one warden carrying settlement script: three recorded suppressions ended when the Brawler’s original complaint was read back and formally upheld.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Standard response team, Level 2+ personnel.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary GREY First Watch Ordeal; same color and severity, different manifestation.
+- Lightest First Watch roster in the GREY set: Razor-Vermin at 35 HP apiece, against the Blade Storm’s 180 HP at this grade.
+- Filed as ORDEAL-GREY-First-II; the dockworker’s back wages were paid to surviving kin with interest, and no Brawler has manifested from that grievance since.
 
 ## Document Information
 

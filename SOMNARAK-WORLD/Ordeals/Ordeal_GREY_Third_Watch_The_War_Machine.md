@@ -13,27 +13,27 @@
 
 ## Formation
 
-A mass of fused soldiers and weapons that forgot it was ever many, moving as one weapon.
+A mass of fused soldiers and weapons that forgot it was ever many, moving as one weapon. It was a company that died in formation and was never stood down — a hundred soldiers whose last order was hold, holding still. The flesh gave up first, then the bones leaned together, then the weapons rusted into the mass until nobody could tell where one soldier ended and the next began. It forgot it was ever many; the Third Watch trumpet found one weapon the size of a platoon, dreaming of the order that never came.
 
 ## Appearance
 
-A huge rolling assemblage of armor, limbs, and blades, grinding forward.
+A huge rolling assemblage of armor, limbs, and blades, grinding forward. Armor, limbs, and blades turn over each other in a slow grinding roll, faces surfacing and sinking in the mass like drowning men. It grinds forward at the pace of a funeral march, shedding rust and gaining momentum, bristling with a hundred rifles nobody will ever fire. Veterans (300 HP) walk alongside it in the roster the way aides walk beside a general — the Machine seems to be the only officer they have left.
 
 ## Behavior
 
- It rolls over a formation, and the combined fury of a hundred soldiers lands at once.
+It rolls over a formation, and the combined fury of a hundred soldiers lands at once. Total, indifferent, and impossible to parry: the combined fury of a hundred soldiers lands at once, every rifle-butt and bayonet in the mass striking through a single shared hatred. Bone-Legions (380 HP) trail it picking through what it flattens, and the War-Smog (320 HP) settles over the aftermath so thick that rescue teams need guide ropes to cross. It never speeds, never slows, never aims; position is the only defense.
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with major-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Do not stand in its path at any grade: there is no clash roll against weather. Divert with demolition — collapsed ceilings have stalled it twice — and engage the trailing Bone-Legions with Grudge-element M.A.W. while the Machine grinds past the kill-pocket. The Elite Blade Storm (410 HP) circling the mass punishes anyone who closes; work at pike range or not at all.
 
 ## Facility Impact
 
-A major-severity GREY encounter: widespread structural and personnel threat. Contain before the grudge pressure cascades.
+A major-severity GREY encounter: widespread structural and personnel threat. Contain before the grudge pressure cascades. Widespread structural and personnel threat: floors crack under the roll, walls lean, and the grudge pressure in its wake cascades for hours. Gauge teams bleed the aftermath corridor while rescue works the edges; nothing enters the Machine’s furrow until the Han drops below half. One roll crossed a muster hall and left the floor plan legally unrecognizable.
 
 ## R.D. Response Protocol
 
-Level 4+, Containment Lead oversight.
+Level 4+, Containment Lead oversight. The Lead must authorize demolition in advance, because once the Machine is rolling there is no time to ask. Two full teams minimum — one to divert, one to work the wake.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 4+, Containment Lead oversight.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary GREY Third Watch Ordeal; same color and severity, different manifestation.
+- Slowest GREY Third Watch manifestation on record; also the only one documented as completely indifferent to casualties it causes.
+- Filed as ORDEAL-GREY-Third-II; archivists are still trying to identify the company — a hundred sets of dog-tags, all rusted blank.
 
 ## Document Information
 

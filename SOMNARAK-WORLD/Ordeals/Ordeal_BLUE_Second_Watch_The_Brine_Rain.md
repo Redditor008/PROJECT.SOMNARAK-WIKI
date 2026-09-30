@@ -13,27 +13,27 @@
 
 ## Formation
 
-When the sorrow in the air could no longer be held, it fell.
+When the sorrow in the air could no longer be held, it fell. The district’s grief-humidity had been climbing for weeks — laundry that never dried, salt blooming on every surface, throats closing in meeting rooms. Atmospheric Han condenses like any vapor once it passes saturation, and that evening it passed: the sorrow in the air could no longer be held, and it fell. No cloud was ever visible; the rain condenses out of grief itself, which is why no weather office has ever predicted it.
 
 ## Appearance
 
-A localized rain of grief-saturated brine that falls from no visible cloud.
+A localized rain of grief-saturated brine that falls from no visible cloud. It falls in a shaft roughly thirty meters across, brine beading on every surface and running in black rivulets. There is no cloud, no wind, no thunder — just water arriving from empty air with the steady patience of something that has waited years to fall. Salt-Blooms (210 HP) crystallize where the rain pools, white fractals spreading across the floor, and Grief-Leeches (eight to twelve per swarm) hatch in the puddles within minutes.
 
 ## Behavior
 
-It soaks through, and the weight of others mourning settles into the mind.
+It soaks through, and the weight of others mourning settles into the mind. Rain gear fails within the hour — the brine soaks through fabric, sealant, and eventually composure. The weight of others’ mourning settles into the mind drop by drop: responders start grieving strangers, then grieving the rain, then standing still in it. The Mourners (230 HP, two per spawn) walk the shaft’s edge keening, and the Throat-Knots (250 HP) knot in the throats of anyone who stays under the fall too long.
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with moderate-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Umbrellas of dry Han first, blades second: Lament-element M.A.W. at Second Watch grade, with evaporation crews running heaters along the shaft’s perimeter. Suppress before it spreads — if the shaft drifts over a muster point, the Sorrow Fog (280 HP) condenses inside it and the moderate encounter becomes a major one. Drain the pools before the Salt-Blooms seed; leeches before they hatch; mourners never directly, they only keen louder.
 
 ## Facility Impact
 
-A moderate-severity BLUE encounter: localized damage. Contain before the lament pressure cascades.
+A moderate-severity BLUE encounter: localized damage. Contain before the lament pressure cascades. Localized damage while the shaft holds position: brine corrosion, shorted relays, one permanently salt-stained floor per manifestation. Lament pressure cascades if the shaft drifts — the rain carries the district’s entire unshed grief, and wherever it walks, people stop working and start weeping. Cap the shaft’s drift with dry-Han curtains within the first hour or budget for a zone-wide washdown.
 
 ## R.D. Response Protocol
 
-Level 3+ with M.A.W.
+Level 3+ with M.A.W. Level 3+ with M.A.W., plus a weather-reader seconded from the municipal office — the only civilian role with standing authorization to enter an active ordeal shaft.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 3+ with M.A.W.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary BLUE Second Watch Ordeal; same color and severity, different manifestation.
+- Lightest BLUE Second Watch roster at the bottom (Grief-Leeches, 45 HP) against the Sorrow Fog’s 280 HP at the top.
+- Filed as ORDEAL-BLUE-Second-II; recovered brine samples from each manifestation are bottled, dated, and stored — the archive now holds forty-one bottles.
 
 ## Document Information
 

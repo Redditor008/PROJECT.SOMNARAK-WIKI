@@ -13,27 +13,27 @@
 
 ## Formation
 
-Bells cast for the unmourned dead, rung by no hand, hollowed by their own sorrow.
+Bells cast for the unmourned dead, rung by no hand, hollowed by their own sorrow. Every unmourned death in the district owed a bell-note, and the debt compounded for decades — foundries cast the bells, but no hand ever rang them, because no rite was ever held. The bells hollowed themselves out from the inside, sorrow displacing bronze, until each one was a lost funeral hanging in the dark. The Third Watch trumpet rang them all at once, and they have been tolling ever since, collecting the rites they were owed.
 
 ## Appearance
 
-Rows of hanging bells that toll a wet, muffled note, each one a lost funeral.
+Rows of hanging bells that toll a wet, muffled note, each one a lost funeral. They hang in rows from nothing visible, bronze gone green-black, each bell sweating brine from its lip. The toll is a wet, muffled note — felt in the sternum more than heard — and each bell’s note is distinct, a signature of one specific unmourned dead. Treaders (290 HP) pace the rows like vergers, and the Bilge (310 HP) pools beneath the lowest bells, catching the notes as they drip.
 
 ## Behavior
 
-They toll, and every note is a grief that was never given its rite.
+They toll, and every note is a grief that was never given its rite. The tolling never pauses and never hurries: one note per bell, in rotation, each one a grief that was never given its rite. Listeners find themselves supplying the missing funerals — naming the dead, saying the words — and each supplied rite feeds the peal. The Waterlogged (380 HP) sway to the rhythm and strike anyone who covers their ears; the Floaters drift between the bells in their dozens, tolling faintly themselves.
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with major-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Do not silence the bells by force — three muffled peals burst their towers and tripled the tolling. Instead, hold the rite: Lament-element M.A.W. at Third Watch grade to hold the perimeter while cantors speak one funeral per bell. The Sorrow Fog (410 HP) thickens around interrupted rites, so each rite must be finished once begun. Two cantors minimum, four bells per hour, no shortcuts.
 
 ## Facility Impact
 
-A major-severity BLUE encounter: widespread structural and personnel threat. Contain before the lament pressure cascades.
+A major-severity BLUE encounter: widespread structural and personnel threat. Contain before the lament pressure cascades. Widespread structural and personnel threat wherever the peal carries: glass crazes, welds weep, and crews within earshot abandon posts to attend funerals for strangers. Lament pressure cascades along acoustic relays — seal the speaking-tubes before engaging. One uncontained peal rang for nine days and left an entire shift-roster weeping in the chapel, unable to say for whom.
 
 ## R.D. Response Protocol
 
-Level 4+, Containment Lead oversight.
+Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight, plus a seconded cantor-corps — the only suppression in the archive that requires clergy on the roster. Earplugs are forbidden; the bells punish the covered ear and reward the witnessed rite.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 4+, Containment Lead oversight.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary BLUE Third Watch Ordeal; same color and severity, different manifestation.
+- Longest single-note duration on record: one bell held its toll for eleven hours during the third manifestation.
+- Filed as ORDEAL-BLUE-Third-II; the cantor-corps maintains a standing register of the unmourned, now four thousand names long.
 
 ## Document Information
 

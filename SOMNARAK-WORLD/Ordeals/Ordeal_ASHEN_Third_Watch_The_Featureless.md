@@ -13,27 +13,27 @@
 
 ## Formation
 
-Those smoothed down by the Veil until nothing distinguished one from another, walking together.
+Those smoothed down by the Veil until nothing distinguished one from another, walking together. The city’s Veil-system smooths citizens a little every day — a name here, a habit there — and the Featureless are what accumulates at the far end of that process. Nothing distinguished one from another by the time they started walking together: same gait, same blank face, same silence. They did not gather; gathering implies choice. They simply stopped being separate, and the Third Watch trumpet found a crowd where a neighborhood had been.
 
 ## Appearance
 
-A crowd of identical blank-faced figures, indistinguishable, drifting as one mass.
+A crowd of identical blank-faced figures, indistinguishable, drifting as one mass. Hundreds of figures, one face: smooth, unlined, without eyes or mouth or history. They drift as one mass that pours around obstacles like slow water, never hurrying, never parting. Void-Walkers (280 HP, two per spawn) move through the crowd like currents, and the Whiteout (300 HP) hangs over the mass as a weather of unbeing. Responders who stare into the crowd report losing count of their own fingers.
 
 ## Behavior
 
-They pass through, and individuality thins wherever their mass moves.
+They pass through, and individuality thins wherever their mass moves. The mass does not attack; it passes through, and everything it touches comes out smoother. Individuality thins wherever it moves — names go first, then faces, then the will to object. The Geometric Void (410 HP) rides at the crowd’s heart, unmaking what the crowd merely smooths, while Erasure-Motes (ten to fourteen per swarm) drift ahead and thin the edges of anyone in the path. Stand clear or be averaged.
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with major-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Void-element M.A.W. at Third Watch grade, and every responder badged, named, and counted aloud at fifteen-minute intervals — the mass erases the unobserved first. Do not engage the crowd’s center; draw off its edges with the Eyeless Hounds (350 HP) as the price of approach, and burn the Skin-Blizzard (380 HP) out of the flanks before it flays the line. Suppress before it spreads: a doubled mass quadruples its smoothing rate.
 
 ## Facility Impact
 
-A major-severity ASHEN encounter: widespread structural and personnel threat. Contain before the void pressure cascades.
+A major-severity ASHEN encounter: widespread structural and personnel threat. Contain before the void pressure cascades. Widespread structural and personnel threat of a peculiar kind: nothing breaks, everything blurs. Signage fades, records lose names, bulkheads forget their numbers — void pressure cascades through meaning before matter. Re-label everything the mass has touched before crews re-enter; three wards had to be re-surveyed from scratch after a single passage. The damage is administrative until it is existential.
 
 ## R.D. Response Protocol
 
-Level 4+, Containment Lead oversight.
+Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight; the Lead’s standing order is that no responder enters the smoothing zone without a buddy who knows their mother’s name. Identity drills are not optional.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 4+, Containment Lead oversight.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary ASHEN Third Watch Ordeal; same color and severity, different manifestation.
+- Only ordeal whose damage assessment is filed by the records office rather than engineering; the paperwork exceeds the repair bill every time.
+- Filed as ORDEAL-ASHEN-Third-II; one recovered warden’s badge reads only “HELLO” — the name side is perfectly, permanently blank.
 
 ## Document Information
 

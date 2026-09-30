@@ -13,27 +13,27 @@
 
 ## Formation
 
-Where every dropped weapon was never cleared, the spite fused them into a barricade.
+Where every dropped weapon was never cleared, the spite fused them into a barricade. Quartermasters logged the accretion over eleven cycles: dropped sidearms, shattered pikes, and forfeited tools gathered at the sally-port where no detail would carry them. The spite did the welding — resentment-steel fuses at grief-temperatures no forge can reach — and the barricade learned to crawl before any warden admitted it was alive. By the time the Second Watch trumpet sounded, the wall had already absorbed three full racks of confiscated arms.
 
 ## Appearance
 
-A moving wall of welded-together blades and resentment, edges outward.
+A moving wall of welded-together blades and resentment, edges outward. From the flank it reads as a single grinding surface nearly four meters tall, sword-fragments and twisted rebar turning slowly in its skin like a Blade Storm stood on edge. Its shadow falls wrong — too wide for its height — because the hatred extends past the metal. Wardens report the edges honing themselves between sightings; no two sketches of the silhouette agree.
 
 ## Behavior
 
-It advances as a single grinding surface, and anything it meets is cut.
+It advances as a single grinding surface, and anything it meets is cut. It never charges and never rests: walking pace, endless, grinding forward through whatever stands in its path. Responders note the wall prioritizes armed personnel — drawn weapons seem to call to it — and the Piked march in its wake, three per rank, to finish whatever the surface leaves standing. Anything it meets is cut, then cut again as the mass passes over.
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+Engage with moderate-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Divert rather than confront: the wall cannot climb, so stairwells and raised galleries break its advance. Grudge-element M.A.W. at Second Watch grade is mandatory — the accompanying Blade-Haze (220 HP) punishes clustered melee with a thousand simultaneous cuts. Kill the Iron-Rats first (eight to twelve per pack); they chew through barricade anchors, and without anchors no channel holds.
 
 ## Facility Impact
 
-A moderate-severity GREY encounter: localized damage. Contain before the grudge pressure cascades.
+A moderate-severity GREY encounter: localized damage. Contain before the grudge pressure cascades. Localized damage holds only while the wall stays clear of armories — every rack it touches donates blades to the mass. Grudge pressure cascades past the second hour if the surface keeps grinding; gauge teams must bleed corridor Han below forty percent. Two documented breaches reached the practice yards and doubled the wall’s span before containment.
 
 ## R.D. Response Protocol
 
-Level 3+ with M.A.W.
+Level 3+ with M.A.W. Doctrine requires a shield-wall pair forward and a gauge-reader aft; no lone nodes once the wall is moving. Second team stages at the nearest stairwell with rigging cable rated for siege weight.
 
 ## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
@@ -116,6 +116,8 @@ Level 3+ with M.A.W.
 ## Trivia
 
 - A lesser-documented sibling encounter to the primary GREY Second Watch Ordeal; same color and severity, different manifestation.
+- Heaviest roster spawn is the Blade Storm (280 HP, 25–40 Grudge per hit); lightest is the Iron-Rats pack at 45 HP per rat.
+- Filed as ORDEAL-GREY-Second-II; the wall’s recovered span after suppression is melted down under witness so the spite cannot re-fuse.
 
 ## Document Information
 
