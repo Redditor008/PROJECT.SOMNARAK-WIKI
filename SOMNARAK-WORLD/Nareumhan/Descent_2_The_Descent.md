@@ -49,7 +49,7 @@ The well overflows its first inch of black water onto the shelves' floor. The fo
 ## Chapter IV: Combat Parameters & Engagement Doctrine
 
 - **Entity:** Remembrance, SE-C-IIIγ-115 — Object/Place, Void element, stationary well-form.
-- **Breach Vector:** Transform — if the party's Composure breaks, the well transforms the stacks into drowned memory-space. Deny by holding Composure above 15 SP on every member.
+- **Breach Vector:** Transform — if the party's Composure breaks, the well transforms the stacks into drowned memory-space. Deny by holding every member above the Transform line (15 SP — see Overview §VII).
 - **Known Actions (archive record):** The Surface Ripple (debuff), The Long Ago (debuff), The Drowned Face (Void attack), The Bottom of the Well (heavy Void attack), Every Memory at Once (ultimate — must be interrupted by sealing before it completes).
 - **Doctrine:** Wardens shield-wall between the well and the cradle; Xyan calls surges and strikes Drowned Faces with Gash dice; Marjuk performs the three-stage seal (one stage per two turns); keeps the relay live and holds the party's nerve.
 - **Victory:** Complete the seal. The well cannot be destroyed — it can only be capped, calmed, and left behind.
@@ -106,7 +106,7 @@ The well overflows its first inch of black water onto the shelves' floor. The fo
 - **Remembrance:** The capped well makes one last effort — a weak Ripple across spent nodes. All resisted. The Drowned Face sinks without reforming. The footprints stop multiplying.
 - **Xyan:** Stands down. Composure 46/50 SP. *It will dream now. Let it.*
 - **Wardens:** Lower shields. Junior treated for Void burns (12 damage, stable). Senior's shield bears a face-shaped dent that will never hammer out.
-- **Marjuk:** Chalks the seal-date on the well's crown, logs the gauge (falling), and turns the second vault-key. V-1 secured.
+- **Marjuk:** Chalks the seal-date on the well's crown, logs the gauge (falling), and turns the second vault-key, opening the V-2 seal. V-1 secured behind them.
 - **Turn end:** the relay officer logs: *V-1 clear. Zero fatalities. Junior wounded, stable. Party Composure: 46/44/45/31. Proceeding to Upper seal-waystation.*
 
 ## Chapter VI: The Sealing

@@ -8,7 +8,7 @@
 | MEMBER          | ROLE            | HP        | COMPOSURE (SP)      |
 +---------------------------------------------------------------------+
 | Xyan            | Route-Guide     | 100%      | 24/50 SP (-10 drain)|
-| Marjuk          | Vault-Keeper    | 100%      | 20/50 SP (-10 drain)|
+| Marjuk          | Vault-Keeper    | 93%       | 20/50 SP (-10 drain)|
 | Senior Warden   | Shield-Wall     | 100%      | 30/50 SP (-10 drain)|
 | Junior Warden   | Shield-Wall     | 88%       | 18/50 SP (-10 drain)|
 | Relay Officer  | Signal Post     | --        | -- (on cradle)       |
@@ -84,7 +84,7 @@ The relay officer starts reading the gauge numbers aloud, steady as a metronome.
 
 ### Turn 03 Action Resolution Log (Ice Spears)
 
-- **Veil:** *The Ice Spear* ×2. Twin lances at the securing-crew node — Marjuk exposed mid-ritual. Xyan intercepts both (Block 4-8, clash 8 vs 7 and 7 vs 6): first shattered clean, second deflected into the frost (4 splash to Xyan). Marjuk never looks up from the cords.
+- **Veil:** *The Ice Spear* ×2. Twin lances at the securing-crew node — Marjuk exposed mid-ritual. Xyan intercepts both (Block 4-8, clash 8 vs 7 and 7 vs 6): first shattered clean, second deflected into the frost (4 Weight strain to Xyan; Composure holds at 30). Marjuk never looks up from the cords.
 - **Xyan:** Gash 6-10: 9 damage, severs a Veil-tendril reaching for the junior. Tear field: +3 (30 to 33 SP).
 - **Senior Warden:** Bludgeon 5-9: 7 damage, smashes the deflected spear's ice out of the line. *My shields have collected a face and a glass-cut. Now frostbite. I am starting a museum.*
 - **Junior Warden:** Gash 4-7: first real hit of the descent — 6 damage on the nearest frost-mass. Tear field: +3 (24 to 27 SP). *Did you see that? It flinched.*
@@ -93,8 +93,8 @@ The relay officer starts reading the gauge numbers aloud, steady as a metronome.
 
 ### Turn 04 Action Resolution Log (The Securing)
 
-- **Veil:** Senses the pedestal opening — redoubles: *Ice Spear* at Marjuk point-blank. The senior throws the spare shield across the node (Block 14-18, clash 15 vs 11): the spear explodes on the iron. Marjuk takes 2 splash and does not stop chanting.
-- **Xyan:** Full intercept stance — Block 4-8, Counter 3-6, body between the Veil and the pedestal. *Take it, Keeper. Whatever comes through me first.*
+- **Veil:** Senses the pedestal opening — redoubles: *Ice Spear* at Marjuk point-blank. The senior throws the spare shield across the node (Block 14-18, clash 15 vs 11): the spear explodes on the iron. Marjuk takes 2 Weight strain (Composure holds at 20) and does not stop chanting.
+- **Xyan:** Full intercept stance — Block 4-8, Counter 3-6, body between the Veil and the pedestal, planted on the Tear-side node. Tear field: +3 (33 to 36 SP). *Take it, Keeper. Whatever comes through me first.*
 - **Senior Warden:** Second shield raised over Marjuk like a roof. *The museum acquires a roof.*
 - **Junior Warden:** Block 8-12, guarding the cord-line. Tear field: +3 (27 to 30 SP).
 - **Marjuk:** Securing Stage 3 COMPLETE. The Take: Marjuk lifts the First Tear off its pedestal with vault-tongs, and four billion years of oldest grief fits in a specimen case lined with Lament-wool. The chamber's heart goes dark — and the field inverts: the Tear now travels WITH the party, +3 per turn to whoever carries the case.
@@ -102,27 +102,27 @@ The relay officer starts reading the gauge numbers aloud, steady as a metronome.
 
 ### Turn 05 Action Resolution Log (Full Shatter)
 
-- **Veil:** *The Full Shatter.* Its home desecrated, the Veil detonates its own barrier — the cold it held back floods the chamber: heavy Void freeze on every node. Xyan (Block) takes 6; Senior (bulwark) takes 4; Marjuk takes 8 (20 to 12 SP — BELOW THE JUNIOR, nearest the line now); Junior (covered) takes 3 (30 to 27 SP). The case in Marjuk's hands pulses warmth: +3 (12 to 15 SP). Exactly on the line. The whole party sees the number and goes cold for a different reason.
-- **Xyan:** *Case to me!* Takes the specimen case (free action, adjacent). Tear field now on Xyan.
+- **Veil:** *The Full Shatter.* Its home desecrated, the Veil detonates its own barrier — the cold it held back floods the chamber: heavy Void freeze on every node. Xyan (Block) takes 6 (36 to 30 SP); Senior (bulwark) takes 4 Weight strain (Composure holds at 30); Marjuk takes 8 (20 to 12 SP — BELOW THE JUNIOR, nearest the line now); Junior (covered) takes 3 (30 to 27 SP). The case in Marjuk's hands pulses warmth: +3 (12 to 15 SP). Exactly on the line. The whole party sees the number and goes cold for a different reason.
+- **Xyan:** *Case to me!* Takes the specimen case (free action, adjacent). Tear field now on Xyan: +3 (30 to 33 SP).
 - **Senior Warden:** Block 14-18 across Marjuk's node. *Nobody stands alone. Especially not the Keeper.*
 - **Junior Warden:** Gash 4-7: 5 damage, covering Marjuk's blind side. The student guarding the master.
-- **Marjuk:** At 15 SP, steadies on the vault-key like a cane. *The seal held. The Tear held. I am holding. Finish it.*
+- **Marjuk:** At 15 SP, steadies on the vault-key like a cane — and white veins of frost crawl from the bandaged key-hand up past the wrist. Transform onset, exactly as the doctrine warns: at the line, he counts as separated. The Veil TURNS toward him mid-lunge, head tilting, and goes still — recognizing its own cold in a living man. *Keeper!* the senior bellows. *Talk to me! What did you chalk on the frame?* *The turning-date,* Marjuk answers through clenched teeth, *and the gauge, and your glass-cut, Senior — I log everything.* The Veil recoils from the answering voice and wheels back to the wardens. *The seal held. The Tear held. I am holding. Finish it.*
 - **Turn end:** the relay officer logs: *Shatter weathered. Marjuk on the line at 15. Case with the Exile. One push left in the Veil — deny it.*
 
 ### Turn 06 Action Resolution Log (Permafrost — Denied)
 
 - **Veil:** Begins its ultimate: *The Permafrost.* Every surface starts to freeze, every opening to seal — the world becoming frozen void. Channeling: completes unless broken this turn.
-- **Xyan (case-bearer, 36 SP):** All-out — Gash 6-10, Gash 6-10: 10 + 9 into the channeling heart of the frost. The Permafrost stutters.
+- **Xyan (case-bearer; turn-start tick 33 to 36 SP):** All-out — Gash 6-10, Gash 6-10: 10 + 9 into the channeling heart of the frost. The Permafrost stutters.
 - **Senior Warden:** Bludgeon 5-9, shield-charge: 8 damage straight into the stutter. *Museum's closed!*
 - **Junior Warden:** Gash 4-7: 7 damage — the hit that breaks it. The channeling collapses; the frost recoils off every surface at once, screaming back into the walls. The Veil, unhoused, flees DOWNWARD — through the floor, toward V-4 — rather than face the party without its home.
-- **Marjuk:** Turns the fourth vault-key with hands that barely shake. V-3 secured.
+- **Marjuk:** Turns the fourth vault-key with his bandaged hand barely holding the grip — and the V-4 seal opens. V-3 secured behind them.
 - **Turn end:** the relay officer logs: *Permafrost denied Turn 06. Veil routed downward. TEAR SECURED. Party Composure: 36/15/30/27. Proceeding to Lower seal-waystation.*
 
 ## Chapter VI: The Securing
 
 They rest at the Lower seal-waystation with the specimen case on Marjuk's knees and nobody willing to look away from it for long. The First Tear ticks faintly inside its Lament-wool, warm as a held hand — the oldest sorrow on Mugenhan, riding up toward a surface it has never seen.
 
-Marjuk at 15 SP refuses the junior's ration and accepts the senior's shoulder instead. *Arithmetic,* the Keeper says, with the ghost of a smile. *I am holding.*
+Marjuk at 15 SP refuses the junior's ration and accepts the senior's shoulder instead. The frost-veins have faded to white scars branching under the bandage — the Transform scar, permanent; the key-hand will never fully close again. *Arithmetic,* the Keeper says, with the ghost of a smile. *I am holding.*
 
 Then the tremor comes. Not the shaft settling — deeper, older, *deliberate*. A slow turning-over in the rock below V-4, the way a sleeper turns toward a sound. Warmth bleeds up through the cold for three seconds — grief on a scale the gauges don't have numbers for — and is gone.
 
@@ -134,7 +134,7 @@ The relay officer's Lower station log, transmitted to the surface at dawn:
 
 - V-3 Tear Chamber secured. Frozen Veil (SE-C-IVδ-103) routed downward; ultimate denied Turn 06.
 - **Objective complete: the First Tear (SE-C-Vδ-290) is secured and traveling with the party.**
-- Casualties: none. Marjuk on the Transform line at 15 SP; case transferred to Xyan.
+- Casualties: none. Wounded: one (Marjuk — Transform scar; key-hand crippled, frostbitten). Marjuk on the Transform line at 15 SP; case transferred to Xyan.
 - **The Forgotten God stirs:** deliberate tremor from below V-4 following the securing. Dreaming Gallery ahead.
 - Depth drain deepens next chapter (V-4): all members open Descent 5 at -15 cumulative Composure.
 - Next threat: VTM-4, the Final Door (SE-111) — the last barrier before the God-Vault.

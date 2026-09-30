@@ -72,6 +72,7 @@ Before first lowering, Marjuk briefs the party on the standing engine that will 
 | Corridor | Standard 10-node grid, Node 10 surface-side, Node 1 depth-side |
 | Cradle | Occupies 2 nodes as heavy barricade while grounded |
 | Emergency Ascent | Counterweight release; ninety seconds to V-0; one charge |
+| Full Rules | Tactical_Combat_Engine/ACTION_DICE_AND_CLASH_RULES.md (dice, clash, AP, gauges) |
 
 Xyan adds one rule of his own, which is not written down but is obeyed: *when I say brace, brace. The flows turn faster than the gauges.*
 

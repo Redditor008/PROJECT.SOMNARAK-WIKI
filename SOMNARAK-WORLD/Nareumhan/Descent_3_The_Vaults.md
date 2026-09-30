@@ -85,7 +85,7 @@ Sand begins falling upward. The gauntlet begins.
 
 ### Turn 04 Action Resolution Log (The Last Grains)
 
-- **Hourglass:** *The Last Grains.* Almost empty now, and the last grains are the heaviest: heavy Weight pressure on the whole line. Senior (Block 14-18) takes 5; Marjuk takes 9 (Composure 34 to 25 SP); Xyan takes 7; Junior, behind the senior's wall, takes 3 (Composure 26 to 23 SP). Everyone still above the line — barely.
+- **Hourglass:** *The Last Grains.* Almost empty now, and the last grains are the heaviest: heavy Weight pressure on the whole line. Senior (Block 14-18) takes 5 Weight strain (Composure holds at 35); Marjuk takes 9 (Composure 34 to 25 SP) — and a glass splinter lays open the back of his key-hand, bandaged on the spot while he grips the bars white-knuckled through the rest of the turning; Xyan takes 7; Junior, behind the senior's wall, takes 3 (Composure 26 to 23 SP). Everyone still above the line — barely.
 - **Xyan:** *Brace!* — then Gash 6-10, Gash 6-10 (all-out): 9 + 8 damage. The new crack from Turn 03 spreads. Sand starts leaking sideways, uncounted, uncountable.
 - **Senior Warden:** Drops bulwark to drag Marjuk's spare bar into place (support action). *Turn it, Keeper. We are out of seconds to spare.*
 - **Junior Warden:** Block 8-12. 23/50 SP. Keeps counting with the relay officer. Does not miss a number.
@@ -106,7 +106,7 @@ Sand begins falling upward. The gauntlet begins.
 - **Hourglass:** The turned glass settles. A weak Ripple of slips across spent nodes — all resisted. The crack stops growing. Sand falls down, normally, boringly, the way sand is supposed to.
 - **Xyan:** Stands down. Composure 29/50 SP. *Forty more years. It will count them honestly now.*
 - **Wardens:** Lower shields. Junior treated (stable at 23 SP — closest call of the descent so far). Senior's other pauldron now bears a glass-cut to match the face-dent.
-- **Marjuk:** Chalks the turning-date on the frame, logs the gauge (falling), and turns the third vault-key. V-2 secured.
+- **Marjuk:** Chalks the turning-date on the frame, logs the gauge (falling), and turns the third vault-key, opening the V-3 seal. V-2 secured behind them.
 - **Turn end:** the relay officer logs: *V-2 clear. Zero fatalities. Junior stable at 23 SP. Party Composure: 29/25/35/23. Proceeding to Middle seal-waystation.*
 
 ## Chapter VI: The Turning
@@ -120,7 +120,7 @@ The junior warden sleeps first, out like a dropped stone, relay-counter still wh
 The relay officer's Middle station log, transmitted to the surface at dawn:
 
 - V-2 Restricted Vaults secured. Cracked Hourglass (SE-C-IIIβ-036) turned via three-stage vault-turning; ultimate denied Turn 05.
-- Casualties: none. Closest call: Junior Warden at 23 SP (Transform line: 15).
+- Casualties: none. Wounded: one (Marjuk, glass-cut key-hand, bandaged). Closest call: Junior Warden at 23 SP (Transform line: 15).
 - Depth drain deepens next chapter (V-3): all members open Descent 4 at -10 cumulative Composure.
 - Next threat: VTM-3, the Frozen Veil (SE-103) — cold-seal guardian before the Tear Chamber.
 - Signal strength: strong. Relay cable: 40% paid out. Party morale: steady, tired, unbroken.

@@ -38,7 +38,7 @@ The expedition does not walk down. It is lowered. The Lowering Cradle is a count
 - **Cradle Capacity:** 6 personnel + M.A.W. locker + signal relay (the relay officer's post).
 - **Descent Control:** Marjuk's vault-keys govern each seal; no level opens without Deep Vault authority.
 - **Route Reading:** Xyan calls the Han-flow from the cradle's edge, warning of pressure surges before instruments register them.
-- **Emergency Ascent:** Counterweight release returns the cradle to the Grand Archive floor in under ninety seconds; used once, in Descent 5.
+- **Emergency Ascent:** Counterweight release returns the cradle to the Grand Archive floor in under ninety seconds; used once, in Descent 5 — the Junior Warden's evacuation ride.
 
 ---
 
@@ -71,9 +71,9 @@ Each descent chapter corresponds to one level of the Alpha Tree vault system, fr
 | V-0 | The Grand Archive Floor | Descent 1: The Warning | Open (public) |
 | V-1 | The Shallow Stacks | Descent 2: The Descent | Marjuk, first key |
 | V-2 | The Restricted Vaults | Descent 3: The Vaults | Marjuk, second key |
-| V-3 | The Tear Chamber | Descent 4: The Tear | Marjuk + Xyan, joint |
-| V-4 | The Dreaming Gallery | Descent 5: The Waking | Broken (God stirs) |
-| V-5 | The God-Vault | Descent 6: The God | None (seal failed) |
+| V-3 | The Tear Chamber | Descent 4: The Tear | Marjuk, third key |
+| V-4 | The Dreaming Gallery | Descent 5: The Waking | Marjuk, fourth key |
+| V-5 | The God-Vault | Descent 6: The God | Marjuk, fifth key |
 
 ---
 
@@ -101,6 +101,8 @@ The deep vaults attack the mind before the body. Every descent chapter applies t
 - **Weight of Ages:** Alpha Tree vault attacks carry bonus Weight strain (+2 per chapter depth).
 - **Tear Proximity:** From Descent 4 onward, the First Tear's Lament field restores 3 Composure per turn to whoever holds the line nearest it — and draws every guardian in the level.
 - **God Dread:** In Descent 6, the Forgotten God's presence applies the standard Sovereign dread aura (Resolve checks each turn).
+- **Transform Line (15 SP):** Descent logs record Composure on the compressed 0-50 field gauge standard to SED, UCD, and HORIZON operations; Canto dossiers record full attribute baselines (105–120). Both scales break at thirty percent: gauge 15 here is the Crisis Threshold band (30–45) there. At or below 15 SP, Transform onset begins — the member counts as separated for isolation effects, cannot hold a lone node, and any breach vector in play may trigger through them. Recovery above 15 arrests onset but leaves a Transform scar (see Descents 4–5).
+- **Resolution Rules:** All dice, clash, AP, and gauge mechanics resolve per SOMNARAK-WORLD/Tactical_Combat_Engine/ACTION_DICE_AND_CLASH_RULES.md. Six turns constitute one Grid Battle System macro phase, which is why every descent gauntlet runs six turns.
 
 ---
 
@@ -112,7 +114,7 @@ Four recorded entities hold positions in or near the descent path. All locations
 |---|---|---|---|
 | VTM-1 | Remembrance (SE-115) | SECTOR-A-01, beneath the Grand Archive | Shallow Stacks haunt; memory-lure ambushes (Descent 2) |
 | VTM-2 | The Cracked Hourglass (SE-036) | SECTOR-A-01, Alpha Tree | Time-slip hazards in the Restricted Vaults (Descent 3) |
-| VTM-3 | The Frozen Veil (SE-103) | SECTOR-A-01, Alpha Tree deep | Cold-seal guardian before the Tear Chamber (Descent 4) |
+| VTM-3 | The Frozen Veil (SE-103) | SECTOR-A-01, Alpha Tree deep | Cold-seal guardian before the Tear Chamber (Descent 4; returns in Descent 5) |
 | VTM-4 | The Final Door (SE-111) | SECTOR-A-01, deepest Alpha Tree | The last barrier; must be opened to reach the God (Descent 5) |
 
 ---
@@ -123,7 +125,7 @@ Four recorded entities hold positions in or near the descent path. All locations
 2. **Descent 2: The Descent** — The cradle lowers through V-1; Remembrance tests the party in the Shallow Stacks.
 3. **Descent 3: The Vaults** — The Restricted Vaults; the Cracked Hourglass turns time against the party.
 4. **Descent 4: The Tear** — The Frozen Veil guards the Tear Chamber; the First Tear is secured — and the God stirs.
-5. **Descent 5: The Waking** — The Dreaming Gallery; the Final Door opens; the Forgotten God wakes.
+5. **Descent 5: The Waking** — The Dreaming Gallery; the Frozen Veil returns and is devoured; the Final Door opens; the Forgotten God wakes; the Junior Warden ascends.
 6. **Descent 6: The God** — The God-Vault; the party faces the Forgotten God with its back to the deep.
 
 ---

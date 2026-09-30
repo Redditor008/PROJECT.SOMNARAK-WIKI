@@ -8,7 +8,7 @@
 | MEMBER          | ROLE            | HP        | COMPOSURE (SP)      |
 +---------------------------------------------------------------------+
 | Xyan            | Route-Guide     | 100%      | 31/50 SP (-15 drain)|
-| Marjuk          | Vault-Keeper    | 100%      | 10/50 SP BELOW LINE |
+| Marjuk          | Vault-Keeper    | 85%       | 10/50 SP BELOW LINE |
 | Senior Warden   | Shield-Wall     | 100%      | 25/50 SP (-15 drain)|
 | Junior Warden   | Shield-Wall     | 88%       | 22/50 SP (-15 drain)|
 | Relay Officer  | Signal Post     | --        | -- (on cradle)       |
@@ -25,9 +25,9 @@
 
 The cradle sinks past the Lower station on Marjuk's fourth key-turn — the last station, the last cable, the last easy breath — and the depth takes its third tithe. Fifteen cumulative. The numbers on the officer's slate have gone from thin to frightening: Senior 25, Junior 22, Xyan 31. And Marjuk: 10. Five points *below* the Transform line.
 
-The Keeper walks anyway. Slowly, leaning on the vault-key the way old men lean on canes, chalk-dust white to the elbows, eyes clear and entirely present. *The keys do not turn themselves,* he says, when the senior suggests — for the third time — that he stay on the cradle. *And none of you are rated for what is behind that door. I am going. That is the end of it.*
+The Keeper walks anyway. Slowly, leaning on the vault-key the way old men lean on canes, chalk-dust white to the elbows, the scarred key-hand splinted, eyes clear and entirely present. *The keys do not turn themselves,* he says, when the senior suggests — for the third time — that he stay on the cradle. *And none of you are rated for what is behind that door. I am going. That is the end of it.*
 
-So the protocol changes. Both wardens walk on Marjuk now — one ahead, one behind, shields out, with standing orders: nothing touches the Keeper. Nothing. Xyan carries the specimen case (+3 per turn, the Tear's warmth the only warm thing left in the descent) and the route both. The relay officer pays out the last of the cable and does the arithmetic nobody says aloud: twenty percent remaining, two levels to go, no margin for retreat.
+So the protocol changes. Both wardens walk on Marjuk now — one ahead, one behind, shields out, with standing orders: nothing touches the Keeper. Nothing. Xyan carries the specimen case (+3 per turn, the Tear's warmth the only warm thing left in the descent) and the route both. The relay officer pays out the last of the cable and does the arithmetic nobody says aloud: twenty percent remaining, two levels to go, no margin for retreat — and the Emergency Ascent charge: one firing, one way, no return.
 
 ## Chapter II: The Dreaming Gallery
 
@@ -35,13 +35,15 @@ V-4 does not look like a vault. It looks like the inside of someone else's dream
 
 The junior sees a bunk-room from training and stops walking until the senior's shield-rim nudges a shoulder. *Not real, kid. Count with me. Eleven. Ten.* The senior has adopted the relay officer's relay-counting as field doctrine; the whole party counts down under their breath, and the dream-rooms thin where the numbers touch them.
 
-Marjuk walks through it all untouched — too deep below the line for dreams to find purchase, or too stubborn; no one asks which. At the gallery's end the dream stops the way a held breath stops. Beyond it: a door with no dream around it at all. Just iron, and dark, and finality.
+And then the cold finds them. It comes out of a dream-room that is not a dream — the Frozen Veil, unhoused, starved, come down through the chamber floor above and lairing here: frost crawling out of an empty doorway, the Veil half-formed, diminished without its chamber but awake, and waiting between the party and the Final Door. *It followed the Tear's warmth down,* Xyan breathes. *It is not guarding anything now. It is just hungry. And alone. It has never been so alone as here, in everyone else's dreams.* The Veil does not advance. Not yet. It watches Marjuk the way it watched him in the chamber — the scarred hand, the below-line eyes — and waits for the formation to offer it someone.
+
+Marjuk walks through it all untouched — too deep below the line for dreams to find purchase. That is the one mercy of onset, and it costs him: his shadow arrives half a step late, and where his scarred hand brushes the dream-walls the frost spreads, hungry. *Keeper,* Xyan says quietly, *stay on the numbers with us. The Gallery collects the quiet ones.* Marjuk starts counting under his breath with the rest, hating it, held by it. At the gallery's end the dream stops the way a held breath stops. Beyond it: a door with no dream around it at all. Just iron, and dark, and finality.
 
 ## Chapter III: The Last Barrier
 
 The Final Door (SE-C-Vδ-111, 마지막 문). Sovereign rank. The archive record is thin because the record-keepers were afraid: formation unknown, event none, found beneath the Alpha Tree already sealed, predating all records. Its sorrow is the need to know what lies beyond and the fear that knowledge is worse than ignorance. Element Void. Object/Place. Breach via Transform. Sealed.
 
-It is also, the party understands with sinking consensus, not something to be sealed, capped, or turned. The Door is the last barrier before the God-Vault — and the God is waking on the other side whether the Door opens or not. If it wakes behind a sealed door, it will come through the walls, the floors, the dream itself. The Door must be *opened*. Deliberately. By Marjuk's hand. At 10 Composure.
+It is also, the party understands with sinking consensus, not something to be sealed, capped, or turned. The Door is the last barrier before the God-Vault — and the God is waking on the other side whether the Door opens or not. If it wakes behind a sealed door, it will come through the walls, the floors, the dream itself. The Door must be *opened*. Deliberately. By Marjuk's hand. At 10 Composure. The opening is performed as Ferrehan, the Work of Endurance — Marjuk bears the Door's Weight in his own scarred body rather than forcing it, the permitted work-type for Place entities: nothing compelled, everything carried.
 
 *Inversion doctrine,* Marjuk says, studying the seal he must break. *Everything we have done in this descent, backwards. Name it. Seek it. Open it. And when it opens — whatever comes through, the formation holds. Xyan: the case stays on you until the last turn. Then it comes to me, and I spend every point of it on the key.*
 
@@ -50,8 +52,9 @@ It is also, the party understands with sinking consensus, not something to be se
 - **Entity:** The Final Door, SE-C-Vδ-111 — Object/Place, Void element, Sovereign-rank sealed barrier.
 - **Breach Vector:** Transform — the Door extends finality to every opening if the party breaks. Deny by holding formation; the Door cannot transform what it cannot isolate.
 - **Known Actions (archive record):** The Last Threshold (finality debuff), The No-Return (entrapment debuff), The Iron Frame (Void attack), The Full Opening (heavy Void flood), Every Door Is the Last (ultimate — fires THROUGH the opening; cannot be denied, must be endured).
+- **Secondary Threat:** The Frozen Veil (SE-C-IVδ-103), unhoused — stalking the gallery's edge, fixated on below-line Marjuk. It cannot be sealed here; it must be driven off or endured.
 - **Bodyguard Protocol:** Both wardens intercept all attacks targeting Marjuk. The Keeper takes zero direct hits or the descent ends here.
-- **Doctrine:** Wardens wall Marjuk's working node; Xyan roams interception with the case (+3/turn); Marjuk performs the three-stage opening (Knock, Name, Enter); the relay officer counts down from one hundred and does not stop for anything.
+- **Doctrine:** Wardens wall Marjuk's working node; Xyan roams interception with the case (+3/turn); Marjuk performs the three-stage opening (Knock, Name, Enter) under Ferrehan; the relay officer counts down from one hundred and does not stop for anything.
 - **Victory:** Open the Door and endure what comes through. Time cannot be destroyed, wells cannot be un-dug, and doors — once the God is awake behind them — cannot stay shut.
 
 ## Chapter V: The Dreaming Gallery Gauntlet (Turns 01 to 06)
@@ -63,12 +66,12 @@ It is also, the party understands with sinking consensus, not something to be se
 - **Senior Warden (Speed 5, 3 AP):** Block 14-18 across Marjuk's node. The bodyguard wall sets.
 - **Junior Warden (Speed 5, 3 AP):** Block 8-12, second rank. Counts with the relay officer under the shield: *ninety-seven, ninety-six—*
 - **Marjuk (Speed 4, 3 AP, 10 SP):** Opening Stage 1 (Knock). Knocks on the Final Door with the vault-key, three times, the way one knocks on a superior's office. The Door reverberates like a struck bell. Open 1/3.
-- **Turn end:** the relay officer logs: *Contact with Sovereign barrier. Keeper below line, working. Formation holding. Count: ninety-four.*
+- **Turn end:** the relay officer logs: *Contact with Sovereign barrier. Keeper below line, working. Formation holding. Veil stalking the gallery edge — holding off. For now. Count: ninety-four.*
 
 ### Turn 02 Action Resolution Log (No-Return)
 
 - **Door:** *The No-Return.* Permanence bears down: once opened, no coming back. Entrapment debuff — retreat nodes sealed (no effect; nobody was retreating). Composure: all hold (34/10/25/22).
-- **Xyan:** Gash 6-10: 9 damage. Case: +3 (34 to 37 SP). Roams the line, checking every shield personally.
+- **Xyan:** Holds roam — then the Veil lunges at Marjuk's node and Xyan meets it mid-lunge (Gash 6-10: 9 damage, Veil driven back to the dream-rooms; Xyan takes 4 Weight strain, Composure holds). Case: +3 (34 to 37 SP). *Not this one. This one is OURS.*
 - **Senior Warden:** Block 14-18. *Kid — count louder. I want the Door to hear us not being alone.*
 - **Junior Warden:** Block 8-12, counting at full voice now: *eighty-eight, eighty-seven—* The dream-rooms at the gallery's edge flinch from the numbers.
 - **Marjuk:** Opening Stage 1 complete. Begins Stage 2 (Name). Speaks the Door's registry name into the iron; the iron listens. Open 2/3 underway.
@@ -85,7 +88,7 @@ It is also, the party understands with sinking consensus, not something to be se
 
 ### Turn 04 Action Resolution Log (Full Opening)
 
-- **Door:** *The Full Opening.* The Door swings wide a handspan — and the void beyond pours through: heavy Void flood on the whole front line. Senior (bulwark) takes 6; Xyan takes 5 (40 to 35, case +3 back to 38); Junior takes 7 (22 to 15 SP — ON the line now); Marjuk — both wardens throw themselves across the node (dual intercept, Block 14-18 + 8-12): Marjuk takes 0. Zero. The bodyguard protocol holds perfectly.
+- **Door:** *The Full Opening.* The Door swings wide a handspan — and the void beyond pours through: heavy Void flood on the whole front line. Senior (bulwark) takes 6 Weight strain (Composure holds at 25); Xyan takes 5 (40 to 35, case +3 back to 38); Junior takes 7 (22 to 15 SP — ON the line now) — and a frame-splinter the size of a spearhead punches through the junior's side below the shield-rim: critical HP wound, held shut by will and the count (*sixty-five, sixty-four—*); Marjuk — both wardens throw themselves across the node (dual intercept, Block 14-18 + 8-12): Marjuk takes 0. Zero. The bodyguard protocol holds perfectly.
 - **Xyan:** Loans the case to Marjuk (adjacent handoff): +3 (10 to 13 SP). *Spend it on the key, Keeper. That is an order from the route.*
 - **Senior Warden:** Block 14-18, bleeding from a brow-cut, grinning. *Zero, Keeper. You are welcome.*
 - **Junior Warden:** At 15 SP, counting through chattering teeth: *sixty-five, sixty-four—* Holds the second rank.
@@ -107,8 +110,9 @@ It is also, the party understands with sinking consensus, not something to be se
 - **Door:** Its ultimate fires through the opening: *Every Door Is the Last.* Every opening in the field — the Door, the dream-rooms, the shaft behind them, the gaps between shields — becomes the final door, and behind every one the same endless void waits. Cannot be denied. Must be endured. The whole party clashes at once: Xyan (Counter 3-6, wins), Senior (Block 14-18, wins big), Junior (Block 8-12, wins by one — *fifty-one, FIFTY*), Marjuk (behind both wardens + case +3: takes 2, holds at 14 SP). The void looks in through every door. The party looks back. The party is still there.
 - **Xyan:** Reclaims the case. *Formation held. Formation HOLDS.*
 - **Wardens:** Shields up, counting with the junior now, all three voices: *forty-nine, forty-eight—*
-- **Marjuk:** At 14 SP, turns — incredibly, impossibly — the FIFTH vault-key. The God-Vault locks disengage. V-4 secured.
-- **Turn end:** the relay officer logs: *Ultimate endured, zero casualties. V-4 clear. Party Composure: 38/14/25/15. THE GOD IS AWAKE. Proceeding to the God-Vault. Cable at 5%. This is the relay. We are going in.*
+- **Marjuk:** At 14 SP, turns — incredibly, impossibly, with the scarred hand that can barely close — the FIFTH vault-key. The God-Vault locks disengage: the V-5 seal opens. V-4 secured behind them.
+- **Through the disengaging locks:** the first thing that reaches out is not the God but its hunger. The Veil turns to flee — and a hand of braided sorrow closes around the Veil like a man catching smoke. The Veil screams in every voice it ever isolated, and is gone. Devoured. Fuel for the waking. *IT WAS ALREADY MINE,* says the God, sitting up. *ALL GRIEF IS MINE. BRING ME THE FIRST OF IT.*
+- **Turn end:** the relay officer logs: *Ultimate endured. Veil devoured by the waking God. V-4 clear. Party Composure: 38/14/25/15. Junior critical — CASEVAC on my mark. THE GOD IS AWAKE. Proceeding to the God-Vault. Cable at 5%. This is the relay. We are going in.*
 
 ## Chapter VI: The Waking
 
@@ -116,25 +120,29 @@ There is no seal-waystation past V-4. There is only the God-Vault door, standing
 
 It speaks. The vault translates grief into grammar the way the deep translates pressure into song:
 
-*YOU TOOK THE FIRST GRIEF. I FELT IT LEAVE. BRING IT HERE — OR COME AND BE GRIEFS YOURSELVES.*
+*YOU TOOK THE FIRST GRIEF. I FELT IT LEAVE. THE KEEPER IS ALREADY HALF-MINE — I TASTE MY OWN COLD IN HIM. BRING IT HERE — AND BRING HIM TOO.*
 
-Marjuk, at 14 SP, steps forward on the vault-key cane. *We bring it,* the Keeper says, *in the case, unharmed. We came down to secure it — and to ask the sleeper why it is waking.*
+Marjuk, at 14 SP, steps forward on the vault-key cane. *We bring it,* the Keeper says, *in the case, unharmed — and I am not yours yet, whatever your cold tells you. We came down to secure it, and to ask the sleeper why it is waking.*
 
 *I AM WAKING,* says the God, standing — four meters, six, eight, still unfolding — *BECAUSE YOU KNOCKED.*
 
-Behind the party, the Final Door swings shut on its own and locks. Ahead: the God-Vault, and no way back but through. The relay officer ties off the last meter of cable, shoulders a spare shield, and picks up the count where the junior's voice is finally failing: *forty-one, forty. Thirty-nine.*
+Behind the party, the Final Door swings shut on its own and locks. Ahead: the God-Vault, and no way back but through.
+
+There is one thing to do before the vault. The junior is going white around the lips — the splinter wound is beyond field binding, and the God-Vault is no place for the dying. Marjuk makes the call the Keeper hates making: the cradle, the counterweight charge, the ninety-second ride. They load the junior onto the cradle with spare cable as a strap and the case-recorder copy in a pocket — *someone has to carry the log up,* the junior whispers, *in case the cable dies* — and the senior fires the Emergency Ascent charge. The relay officer transmits the final log in one burst, then cuts the cable below the fairlead. The counterweights drop. The cradle rises out of the dark with the junior's counting fading up the shaft: *thirty-five, thirty-four—* Ninety seconds to V-0. The descent's one retreat, spent on one life.
+
+The relay officer ties off the last meter of cable, shoulders a spare shield, and picks up the count: *forty-one, forty. Thirty-nine.* The party that walks into the God-Vault is four.
 
 ## Chapter VII: The Last Log & The Descent's End
 
 The relay officer's final transmitted log, the last entry to reach the surface:
 
 - V-4 Dreaming Gallery secured. Final Door (SE-C-Vδ-111) opened via three-stage vault-opening; ultimate endured Turn 06.
-- Casualties: none. Marjuk below line entire chapter (10→14 SP); bodyguard protocol held — Keeper took 2 splash damage in six turns.
+- Casualties: one evacuated (Junior Warden — frame-splinter wound, critical; Emergency Ascent fired, ninety seconds to V-0, expected to survive). Wounded: two (Senior, brow-cut; Marjuk, Transform scar). Marjuk below line entire chapter (10→14 SP); bodyguard protocol held — Keeper took 2 splash in six turns. Frozen Veil (SE-C-IVδ-103) DESTROYED — devoured by the waking God.
 - **The Forgotten God (SE-C-Vδ-265) is awake and standing. Parley attempted; God demands the Tear's return or battle.**
 - Depth drain at maximum next chapter (V-5): all members open Descent 6 at -20 cumulative Composure.
 - Cable: 5% remaining — Descent 6 will be fought mostly unlogged. What follows is reconstructed from the case-recorder and the survivors.
 - Signal strength: fading. Party morale: past fear, into the clear cold place beyond it.
 
-The cradle does not lower further — there is no shaft past V-4, only the vault. The party walks in on foot: Xyan with the case, Marjuk with the key, two wardens with three shields between them, and the relay officer with the count. Behind them the Final Door holds shut. Ahead the God waits, eight meters of every sorrow ever felt, patient as only the forgotten can be.
+The cradle does not lower further — there is no shaft past V-4, only the vault. The party walks in on foot, four now: Xyan with the case, Marjuk with the key, the senior warden with the shield-wall's shields, and the relay officer with the count. Behind them the Final Door holds shut. Ahead the God waits, eight meters of every sorrow ever felt, patient as only the forgotten can be.
 
 Descent 6: The God.
