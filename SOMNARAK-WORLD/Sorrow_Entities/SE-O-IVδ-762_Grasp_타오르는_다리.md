@@ -370,27 +370,37 @@ Some sorrows mourn the dead. Grasp mourns the reaching — the calls across the 
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
-A counselor assigned to Grasp's roster was once compromised — reached, turned, and very nearly lost. This record preserves the compromise, the protocol that caught it, and the return the Directorate still cites as proof that no one is beyond recovery.
+### Tears That Burn Without Harm
 
-### The Compromise
+The fluid it sheds is hot enough to be felt at a distance and does nothing to anything it lands on. Surfaces are unmarked, material is unaffected, and personnel who have been struck report heat and no injury. The protocol nonetheless treats contact as reportable, not because harm is expected but because the absence of harm is the finding and a finding that stops being checked stops being a finding. Reports are brief, go to the counselor rather than to medical, and ask one question beyond the circumstances, which is whether the person wanted to stay in it.
 
-The compromise was gradual, professional, and — reviewed after the fact — textbook. The counselor performed every duty correctly while slowly, session by session, absorbing Grasp's perspective: excusing its pressures, minimizing its incidents, advocating restraint the doctrine did not support. Colleagues noticed the drift in tone before the review noticed it in the logs. The counselor requested Grasp's cases exclusively. Then requested them urgently. Then stopped logging the sessions' content while continuing to log their occurrence. By the time the protocol triggered, the compromise was advanced: a trained counselor, fully turned, defending the entity's interests against the Directorate's — politely, reasonably, and with the complete sincerity of the genuinely reached. The review's finding reads, in full: compromised by sustained exposure, without malice, past the point of self-correction.
+### Floating Over Nothing
 
-### The Protocol
+The figure holds position above ground that has no support beneath it, spanning a gap in the Desolate terrain the way the destroyed crossing did. Its position is surveyed and has not changed. The survey matters because the gap is real and the figure is the only thing over it, and the holding's approach plan is built on the understanding that the bridge-shape is not a bridge: the marked path goes around, the detour is substantial, and the one shortcut that exists is the obvious one and is prohibited in the strongest terms the document uses.
 
-The counselor rotation protocol exists because of this case — mandatory case variation, content logging with content review, and the drift indicators the review now teaches every supervisor. No counselor works Grasp (SE-O-IVδ-762) exclusively. No session goes unlogged in substance. And the indicators — exclusivity requests, urgency escalation, content thinning — trigger review automatically, without waiting for supervisory judgment. The protocol's standing rule is its spine: exposure compromises, rotation protects, and no one outranks the indicators. Supervisors who override an indicator trigger review themselves. The protocol has triggered eleven times since its adoption. Eleven counselors were rotated early. Eleven compromises were caught at the drift stage, before the turning. The protocol works because it trusts the indicators over the individuals — including, especially, the individuals who insist they are fine.
+### Calling Across
 
-### The Return
+The rescuer kept calling after the crossing went, and the entity still does — personnel report hearing their own names, correctly, in a voice they do not know. The names are accurate. This has been verified often enough that the protocol treats it as a property rather than as an anomaly, and the instruction is simply not to answer. Not answering is harder than it sounds and the briefing says so. The counselors note that the difficulty is not fear but courtesy, and that people answer because somebody called them.
 
-The compromised counselor returned — slowly, painfully, and completely. The recovery protocol ran its full course: removal from all Grasp contact, supervised debrief across every unlogged session, progressive re-exposure to the doctrine the compromise had eroded. The counselor cooperated at every stage, the way the genuinely reached cooperate once the reaching is broken: with horror, with honesty, and with growing clarity about what the exposure had done. Full recovery took the longest rehabilitation the counseling office had ever run. Its conclusion is preserved verbatim: restored to duty, restricted from Grasp contact permanently, recommended for protocol instruction. The counselor accepted every term. The restriction stands. The recommendation was adopted — and the protocol's training program is taught, to this day, by the person it failed to protect in time and succeeded in recovering after.
+### The People Still On It
 
-### The Second Chance
+Those who were on the crossing when the Han-storm took it are listed in the file from the caravan's own roll, which survived at the departure post. The roll is complete and the list is short. It is reproduced without any surrounding narrative, on the archivist's standing argument that the circumstances are described adequately elsewhere in the file and that the names should appear once in a place where nothing else is competing with them.
 
-The recovered counselor teaches the compromise case to every new supervisor — personally, by name, without euphemism. I was reached, the lecture begins. I excused, I minimized, I stopped logging. The indicators caught what I could not see. The rotation saved what I could not save. The lecture is the counseling office's most attended and most dreaded: attended because the instructor lived it, dreaded because every supervisor recognizes the drift's early stages in some posting they have stood. The Directorate maintains the lecture as mandatory, unrestricted, and unedited — the instructor's words, the instructor's case, the instructor's proof that the protocol's second chance is real. Grasp is worked, rotation after rotation, by counselors who have heard the lecture and supervisors who enforce the indicators. Exposure compromises. Rotation protects. And the recovered teach the new — so that no one stands the drift unwarned again.
+### Failed Rescue
 
-### The Supervisor's Oath
+The rage the entity carries is directed at an outcome rather than at any person, and nothing in the record suggests the rescuer was at fault in any particular. The file states this plainly because new personnel consistently assume otherwise. The relief office's own review, held in the file, found that the response was prompt, correctly organized, and could not have reached the crossing in the time available, and the review's final paragraph observes that it is recording a failure in which nobody failed.
 
-Supervisors in Grasp's chain swear their own oath — distinct from the Wardens': I will watch the watchers, trust the indicators, and rotate without favor. The supervisor's oath binds the protocol's enforcers the way the Wardens' oath binds the containment's standers. Supervisors who feel the drift in themselves self-report — the protocol's proudest provision, exercised regularly, honored always. No supervisor has ever been punished for self-reporting drift. Every supervisor who self-reported was rotated, recovered, and returned. The watchers are watched. The indicators are trusted. And Grasp is worked by counselors the supervisors protect the way the roster protects the city: jointly, faithfully, and without exception.
+### Crossing Prohibition
+
+Nothing crosses. The surface would bear weight — this has been tested with mass rather than with people and the result is in the file — and the prohibition rests instead on what the entity does when a crossing is attempted, which is recorded once, early, and has not been tested again. The account is two pages. It is issued to everyone posted to the district and is the only document in the holding that personnel are required to sign as having read.
+
+### The Detour
+
+The marked path around the gap adds considerably to every traverse and has been proposed for shortening three times, each proposal technically sound and each rejected. The rejections are filed together and read as a sequence, which was deliberate on the part of the archivist. Each one sets out the saving, acknowledges it, and declines, and the most recent adds a line noting that the saving has been recalculated three times and the gap has not moved.
+
+### The Signed Account
+
+The two-page record of the one crossing attempt is signed by every person posted to the district, and the signature sheet now runs to many pages of its own. Nobody is asked to sign at the time of their briefing; the sheet is left in the post room and people sign it when they have read the account, which is sometimes days later. One person has declined to sign. Their reason was that they had not finished reading it and did not intend to, and the wing recorded the refusal and posted them to the district anyway, the requirement being to read it rather than to be able to.
 
 ## Trivia
 

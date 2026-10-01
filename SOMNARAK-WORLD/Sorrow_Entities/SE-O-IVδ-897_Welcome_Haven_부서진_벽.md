@@ -372,27 +372,37 @@ Some sorrows mourn a collapse. Welcome Haven mourns the broken promise — the w
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
-A stigma cut from Welcome Haven's pattern was once loaned — transferred, by authorization, to a Warden outside its chain. This record preserves the loan, the debt it created, and the return that closed the ledger.
+### Burning Near Authority
 
-### The Loan
+It flares in the presence of officials and is quiet around everyone else, and the effect keys on function rather than on rank — inspectors, assessors, and anyone arriving on a formal visit produce it, while the watch who work beside it daily do not. This has made the chamber a difficulty for the Directorate rather than for the wing. Formal visits are conducted from the outer gallery, are kept short, and are preceded by a written notice that the wing sends to the visitor in advance explaining what will happen and why. Several visitors have declined to proceed after reading it. The notice has not been softened.
 
-The loan was authorized at the highest level — a stigma of Welcome Haven (SE-O-IVδ-897), transferred temporarily to a Warden whose operation required its specific steadiness. The authorization filled a sealed volume: necessity established, duration fixed, return guaranteed by the borrower's senior Warden personally. The stigma transferred without incident. The operation succeeded with its aid. And the lending chain logged the loan the way it logs everything: precisely, completely, with the return date circled. What the authorization could not establish — what no authorization has ever established — was the loan's true cost. Stigmas are not equipment. They are relationships: cut from the entity's pattern, borne in the bearer's being, grown together across the bearing. The loan transferred the mark. It could not transfer the bond. The debt began accruing the moment the stigma left its chain.
+### Seeking Acknowledgment
 
-### The Debt
+What it wants is recognition that the protection failed, not retribution against anyone, and the distinction is drawn carefully in the briefing because it determines everything about how personnel conduct themselves. Workers are permitted — explicitly, in writing — to agree with it. Saying aloud that the wall should have held is not a breach of any rule and has been observed to settle the entity more reliably than any physical measure the holding has. The provision was contested on the ground that it commits the facility to a position. The commander who approved it noted that the position is correct.
 
-The debt manifested in both bearers — the lender diminished, the borrower distanced. The lending Warden reported the absence the way amputees report limbs: the stigma's steadiness gone, its cost remaining, the bond aching where the mark had been. The borrowing Warden reported the presence the way guests report borrowed rooms: functional, useful, and never home. The operation succeeded. The stigma served. But both Wardens logged the same finding in their sealed debriefs: the loan worked, and the loan was wrong. The Directorate's review agreed — officially, permanently, and with the finding that governs every stigma loan since: transferrable in necessity, inadvisable in principle, and never to be repeated without the necessity the original loan proved. The debt was not delinquency. It was dissonance — the mark separated from its bond, serving truly and belonging nowhere.
+### The Wall
 
-### The Return
+The collapsed border wall is documented from the construction record, the maintenance history, and the surge report, and the three together establish a specific and unflattering sequence: the structure was built to a standard that was adequate, was maintained below that standard for years, and failed at a load it should have carried. The maintenance shortfall is attributed in the file to the office responsible, by name. Two attempts have been made to remove the attribution. Both were refused, the second with a note observing that the entity in the chamber is made of exactly this and that the file would be a strange place to continue the omission.
 
-The return closed the ledger — the stigma transferred back on the authorized date, received by its original bearer, re-bonded across the bearing. The lending Warden's debrief reads, in full: restored. The borrowing Warden's reads: grateful, and resolved never to borrow again. The Directorate's review closed the authorization with the doctrine's standing rule: stigmas return to their chains. The rule is absolute — no permanent transfer, no indefinite loan, no mark separated from its bond past the authorized duration. The return proved what the loan had tested: the bond survives separation, the mark re-bonds on return, and the ledger of borrowed steadiness closes clean when the duration holds. The stigma serves its chain still, borne by the Warden it was cut for. The loan is history. The return is doctrine. And the ledger stands balanced: lent in necessity, returned on schedule, closed.
+### The Residents
 
-### The Ledger
+People behind the wall when it went are listed, along with what happened to them, and the list distinguishes those who were killed from those who were displaced because the district association asked that it do so. Their reasoning, recorded in the correspondence, was that the displaced are still alive, are still displaced, and are routinely left out of accounts that treat the event as a bereavement. The wing adopted the distinction without argument and uses it in every document.
 
-The stigma ledger records the loan permanently — authorization, duration, debriefs, and the review's finding — as the doctrine's memorial and warning. Transfer commanders study the ledger the way surgeons study anatomy: necessity by necessity, cost by cost, return by return. The ledger's standing lesson is its last line, quoted at every loan review: the mark serves, the bond belongs, and the ledger closes only on return. What the ledger proves, entry by entry, is that stigma loans are payable — with necessity as the authorization, duration as the limit, and return as the close. Welcome Haven's stigma has never been loaned since. Its steadiness serves its own chain, borne by its own Wardens, bonded truly and belonging wholly. The loan taught the Directorate what borrowing costs. The return taught it what belonging means. And the ledger keeps both lessons, balanced permanently: lent once, returned once, closed forever.
+### Moving Along the Line
 
-### The Bonding
+It travels the border rather than remaining in one place, following the line the wall followed, including through the sections where the wall no longer exists. Its position is tracked by the posts along the route and the tracking is straightforward. What the file notes is that the entity's path is more accurate to the original boundary than the current municipal survey is, a discrepancy identified when the two were overlaid, and that the municipal office was informed and has not amended its records.
 
-Stigmas bond the way crews bond: through bearing, jointly, across time. Welcome Haven's mark grows into its bearer watch by watch — the steadiness deepening, the cost clarifying, the relationship settling into the bone-deep familiarity of bond truly formed. Bearers describe the bonding identically: the first cycle strange, the second easier, and then the mark simply part of the bearing, the way the oath is part of the standing. The Directorate honors the bonding the way it honors everything load-bearing: with time, with rest, and with the absolute rule against separation past necessity. The mark serves. The bond belongs. And the Wardens who bear Welcome Haven's pattern carry it the way they carry everything: jointly, faithfully, and bonded past breaking.
+### Pursuit on Foot
+
+In a breach it follows at a walking pace and closes corridors behind it, and the response plan accordingly abandons sections in sequence rather than attempting to hold any of them. The plan's distinctive feature is that it routes personnel toward the border rather than away, into the open ground beyond the line, which inspectors invariably query. The answer is in the plan's margin: the entity does not cross out, has never crossed out, and the open ground is the one direction in which nothing has ever had to be tested twice.
+
+### The Gallery Notice
+
+The advance notice sent to formal visitors is reproduced in the file and is one page. It describes the flaring, attributes it to the visitor's function rather than to anything personal, and states that the wing will not ask the entity to behave otherwise. The final paragraph offers the outer gallery as an alternative and notes that the offer is not a suggestion that the visit be curtailed. It is signed by the commander and has gone out unchanged for a long time.
+
+### The Overlay
+
+The comparison between the entity's path and the current municipal boundary survey is held in the file as a single overlaid sheet and is updated whenever either changes. Only one of them ever has. The sheet is sent to the municipal office annually with a short covering note that does not request anything, the wing having concluded after the first exchange that a request would be refused and that a sheet arriving every year without one would be harder to file away.
 
 ## Trivia
 

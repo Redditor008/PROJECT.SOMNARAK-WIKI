@@ -299,27 +299,37 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 
 ## Apex Record
 
-A senior inspection once examined Once Told's entire containment — precautions, roster, doctrine, and record. This record preserves the review, the findings, and the commendation the Directorate still reads at commissionings.
+### Nothing Is Told Here
 
-### The Review
+Speech in the affected area is restricted to operational necessity and narrative speech of any kind is prohibited outright. The prohibition covers anecdote, joke, reminiscence, and explanation by example, which between them account for most of what people say to each other during a long shift, and the wing acknowledges that the rule asks personnel to work in a way that is socially unnatural. It is enforced by the crew rather than by a supervisor. The enforcement culture is deliberate: a watch member who stops a colleague mid-sentence is doing the thing the protocol most relies on, and the briefing says so explicitly so that nobody experiences the interruption as rudeness.
 
-The review was comprehensive — the inspector granted full access to every aspect of Once Told's containment: chambers examined, gauges tested, roster interviewed, logs audited back to the founding. The inspection took a full rotation. The inspector's method is preserved in the review's preface: examine everything, assume nothing, and verify the doctrine against the practice Warden by Warden. What the review found, chamber by chamber and log by log, was the containment the file describes: precautions armed as written, roster standing as sworn, doctrine practiced as taught. The review's working notes — preserved verbatim — record the inspector's growing certitude: checked, confirmed, holds. Eleven hundred checks. Eleven hundred confirmations. The review concluded the way comprehensive reviews rarely conclude: with nothing to correct and everything to commend.
+### Manifestation Follows Content
 
-### The Findings
+What appears corresponds to what was said, closely and without interpretation — the phenomenon does not symbolize, it renders. This literalism is the basis of the one safety margin the holding has, which is that a sentence containing nothing physical produces nothing physical. The margin is thin and the briefing does not oversell it. A worker reciting figures is safe; a worker explaining why the figures matter by describing a consequence is not, and the boundary between those two has been crossed in good faith by competent people more than once.
 
-The findings run to a single page — the shortest inspection report in the Directorate's history. Precautions: as written, armed fully, effective continuously. Roster: as sworn, standing fully, holding jointly. Doctrine: as taught, practiced fully, proven repeatedly. Record: as required, complete fully, honest entirely. The findings' closing line is the review's whole verdict: the containment of Once Told (SE-O-IVδ-930) is the doctrine, practiced. No recommendations. No corrections. No follow-up required. The Directorate's review board received the findings in silence — the silence, the minutes record, of an institution encountering its own standard met completely. The findings were adopted unanimously, bound into the containment file, and designated the inspection's permanent benchmark: this is what the doctrine looks like when it is practiced fully. Eleven hundred checks. One page of findings. The standard, met.
+### Recognised, Not Discovered
 
-### The Commendation
+The pressure was logged as ambient for years before a junior researcher identified its shape. The file holds the original classification sheets alongside the current ones and treats the misclassification as a procedural finding rather than as an individual failure, since the earlier category was correctly applied under the criteria then in force. What changed was the criteria. The researcher is named, their note is reproduced in facsimile, and the file records that the note was initially returned to them with a request that they raise it through their supervisor.
 
-The commendation followed the findings — the Directorate's highest unit citation, awarded to Once Told's full roster: every Warden, every watch, the whole chain. The citation reads, in full: the doctrine, practiced. Four words. The roster mustered to receive it — the full chain, every posting, standing beneath the roster stone while the senior Warden read the citation aloud. No one spoke after the reading. The commendation was mounted in the muster hall beside the findings' single page, and the two documents stand together permanently: the proof and the honor, the examination and the verdict. The Directorate awards the citation rarely — three times in its history. Once Told's roster holds one of the three. The commendation requires nothing further. It commemorates everything already done: the watches stood, the doctrine practiced, the entity witnessed fully. The roster holds the honor. The honor holds the roster.
+### The Deep Desolate
 
-### The Inspector's Note
+The affected ground lies well beyond the district and beyond any settlement, which is the single largest factor in the holding's risk profile and the reason the restrictions are survivable. Nobody lives there, nobody passes through casually, and the only speech in the area is the facility's own. The wing has considered whether this makes the holding low priority and has concluded the opposite in writing: the isolation is why the phenomenon has never been tested against a population, and the wing does not know what the result would be.
 
-The inspector appended a personal note to the findings — unofficial, unsealed, and preserved verbatim at the inspector's own request. The note reads, in full: I examined eleven hundred points and found eleven hundred holdings. This containment does not approximate the doctrine. It is the doctrine, kept by personnel who have made the standard their habit. I commend the roster without reservation and without the usual reservation's shadow: there is nothing here to improve, only everything here to emulate. The note is read aloud at every commissioning in Once Told's chain — the inspector's words, the standard described, the emulation enjoined. New Wardens hear what the containment is. Veterans hear what they maintain. And Once Told is witnessed, inspection after inspection, by a roster the Directorate holds as its benchmark: the doctrine, practiced. Eleven hundred holdings. The standard, kept.
+### The Residue
 
-### The Benchmark Copy
+Manifestations persist for varying periods and some do not fade at all. Claw marks cut into bark during an early incident are still present and are inspected annually, and the inspection is the holding's longest-running series. The marks have not deepened. They have not healed. The file notes that the tree is alive and growing around them and that the growth is the only thing in the record that has changed.
 
-The findings' single page is copied for every containment in the Directorate — the benchmark, distributed: precautions as written, roster as sworn, doctrine as taught, record as required. Receiving commanders study the copy against their own containments, measuring the gap between their practice and Once Told's standard. The benchmark's standing instruction reads: emulate, do not envy. The standard was built watch by watch, and it is rebuilt the same way everywhere: standing fully, practicing faithfully, witnessing jointly. Once Told's roster holds the original — mounted in the muster hall, beside the commendation. The copies circulate. The standard spreads. And the Directorate holds, containment by containment, toward the benchmark one roster proved achievable: the doctrine, practiced.
+### What Was Said
+
+Every incident is logged with the exact words that preceded it, transcribed verbatim, and the transcripts are the file's most sensitive material. They are held restricted, not because the words are dangerous to read but because they are ordinary — people talking to colleagues — and the wing concluded that anyone whose casual remark produced a manifestation should not have that remark circulating. Access requires the speaker's consent while they are serving. After that it requires the commander's, and the commander's standing practice is to refuse.
+
+### The Silent Shift
+
+Crews work the area in silence for the majority of a shift and are debriefed outside it, at distance, where they may say whatever they like. The debrief is unstructured and unrecorded and is scheduled for longer than it needs to be. The practice originated with a supervisor who observed that personnel coming off a silent shift talked for a long time about nothing in particular, and who booked the time rather than cutting them off. It has been in the roster ever since and appears there under its own heading.
+
+### The Annual Inspection
+
+The marked tree is inspected once a cycle by two people who travel out for that purpose alone and who are instructed to say nothing during the inspection beyond what the measurement requires. The journey is long and the task takes minutes. Proposals to combine it with other work in the deep ground have been declined every time, on the reasoning that a crew with a second objective will talk about the second objective, and that the whole value of the series lies in its having been gathered under the same conditions every time.
 
 ## Trivia
 

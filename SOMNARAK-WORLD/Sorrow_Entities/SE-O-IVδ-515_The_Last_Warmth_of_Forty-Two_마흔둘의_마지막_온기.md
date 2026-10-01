@@ -366,27 +366,33 @@ Operational Rule: Once shattered, the A-Relic is permanently expended. Collect t
 
 ## Apex Record
 
-The containment of The Last Warmth of Forty-Two rests on an oath — sworn once, renewed every cycle, binding every Warden who has ever stood its watch. This record preserves the oath's wording, its keeping, and the keepers.
+### The Seal
 
-### The First Oath
+The lead at the collar is original and is not to be disturbed. This is the holding's only absolute instruction and it covers inspection, sampling, and conservation work of every kind, including the sort of stabilizing intervention a conservator would ordinarily regard as routine for solder of that age. The prohibition has been reviewed by the Memory Archive's own conservation staff, who agreed with it, and whose assessment is bound into the file: the seal is failing slowly, it will continue to fail, and any attempt to arrest the failure requires heat or solvent at the collar. Their report ends by recommending that the vial be allowed to deteriorate on its own schedule, and the wing adopted the recommendation in full.
 
-The first Warden assigned to The Last Warmth of Forty-Two (SE-O-IVδ-515) swore the oath alone, on the first watch, before the precautions were proven and the doctrine was written. The archive keeps her words verbatim: I will witness without flinching, judge without cruelty, and stand without leaving. What the oath bound her to was not success but presence — the promise that whatever The Last Warmth of Forty-Two did, the Directorate's eyes would be open and its feet would be planted. She kept the oath through the worst season of the early containment, logging every pressure and yielding no ground. Her commendation reads, in full: she swore, she stood, she held. Every Warden since has sworn the same words, in the same room, facing the same direction. The oath does not change. The standing does not end.
+### The Webbing
 
-### The Wording
+Fraying orange emergency webbing is wound around the body of the vial and is not replaced. It is surveyor's issue, it came off the outriders' own equipment, and it is now the most fragile component of the object — significantly more so than the glass. Handling procedure therefore supports the vial beneath rather than gripping the wrap, and the cradle used for any movement was built to that constraint. Loose fibres shed during handling are collected and retained in a sealed envelope held with the object. The envelope is not opened. It is listed in the inventory in its own right.
 
-The oath's wording is fixed permanently — three clauses, examined once per cycle by the sealed review and never once amended. Witness without flinching: observe The Last Warmth of Forty-Two fully, record honestly, and never look away from what the entity shows. Judge without cruelty: assess the entity's behavior fairly, respond proportionately, and never punish from fear. Stand without leaving: hold the posting through every pressure, complete every watch, and hand over only to sworn relief. New Wardens memorize the clauses before they learn the entity's file, and the commissioning examination tests the oath first: recite it, explain it, and swear it. Candidates who stumble on the wording are failed without appeal. The oath is the containment's foundation. Foundations do not flex.
+### Forty-Two
 
-### The Renewal
+The outriders are named in full, in the order the relief register recorded them, and the list is the first page of the file ahead of any classification material. It is complete. This is unusual in the archive and is a consequence of the Great Freeze response having been administered by a survey office that kept proper rolls, which the archivist's note observes is the only respect in which these people were well served by any institution. The names are read at no ceremony and marked on no occasion. They are simply at the front, where a reader encounters them before anything else.
 
-Every cycle, on the same date, every Warden in The Last Warmth of Forty-Two's chain gathers — in person where possible, by sealed relay where not — and renews the oath together. The renewal is the containment's oldest ceremony: the senior Warden reads the original log of the first oath, the roster answers clause by clause, and the new Wardens swear for the first time while the veterans witness. Attendance is absolute. No posting, no emergency, no transfer exempts anyone sworn to The Last Warmth of Forty-Two from the renewal. The Directorate enforces this the way it enforces everything load-bearing: without exception, without apology, and without a single recorded absence in the ceremony's history. The oath binds the chain. The renewal binds the oath. And The Last Warmth of Forty-Two, whatever it does between renewals, is witnessed by personnel who have sworn — recently, jointly, aloud — to stand.
+### Perpetual Suspension
 
-### The Oath-Keepers
+The vapour inside circulates and does not settle. It has not settled at any point in the record, through every handling, every relocation, and every variation in ambient conditions the holding has been able to produce or observe. Nothing drives it. The physical assessment, repeated three times by different parties, concludes each time that the motion has no identifiable energy source and that the measurement is being reported rather than explained. The wing has stopped commissioning further assessments. The file's standing note says that the question has been asked competently and that asking it again would be the facility reassuring itself rather than learning anything.
 
-The oath-keepers are the veteran Wardens who have renewed the oath more times than they can count — personnel who have stood The Last Warmth of Forty-Two's watch through every season the archive records. They serve as the containment's memory and conscience: advising the senior Warden, examining new candidates, and witnessing every renewal from the front row. Their standing privilege is the last word — after the roster renews, the senior oath-keeper speaks one sentence, different every cycle, summarizing what the oath cost and what it kept. The sentences are preserved verbatim, and they form the archive's most honored holding: a history of The Last Warmth of Forty-Two's containment told in single lines, each one paid for. The oath-keepers ask nothing for this service. They swore. They stand. They keep — the oath, the entity, and the city behind them.
+### Warmth
 
-### The Empty Chair
+The object is warm to hold, slightly and consistently, in excess of ambient and regardless of ambient. Handlers remark on it every time and the remark is the reason handling is logged by name: the warmth is pleasant, the pleasure is reported, and the counselors watch the handling log for anyone whose requests to handle it become frequent. Nobody has yet. The watch has been in place since the object was received and has never generated a referral, which the protocol records as a fact about the staff rather than as evidence that the precaution is unnecessary.
 
-Every oath renewal keeps one empty chair — for the Wardens who swore and fell, retired, or rotated beyond recall. The senior oath-keeper names them, cycle by cycle, before the roster answers: the first Warden, the harsh seasons' holders, every name the chain refuses to forget. The roster answers the clauses. The chair stands empty. And The Last Warmth of Forty-Two is witnessed by the living and the remembered both — the standing and the fallen, the oath sworn and the oath kept, the chain unbroken across every renewal.
+### Refusing to Die in Silence
+
+What the file holds about the final hours comes from a single source — a signal log kept at the surface station, recording transmissions received from below until they stopped. The log is reproduced in facsimile. It shows the outriders talking, in turn, by name, for a long time, and the content is almost entirely practical until it is not. The archivist's note beneath it is two sentences. It states that the log is the reason the entity exists and that the wing has never been able to decide whether reproducing it is an act of respect or an intrusion, and that it is reproduced anyway because the alternative is a summary written by somebody who was not there.
+
+### Custody
+
+The vial is held at the facility rather than at the Memory Archive, which is the reverse of the usual arrangement for objects of this kind and was settled by correspondence that runs to some length. The Archive wanted it. The wing's position, which prevailed, was that the object is an active entity rather than a holding, that its seal is failing, and that whatever happens when the seal fails should happen somewhere equipped for it. The Archive accepted this and asked for one condition, which was that their conservation assessment be filed with the object and shown to anyone considering intervention. It is the second document in the file.
 
 ## Trivia
 

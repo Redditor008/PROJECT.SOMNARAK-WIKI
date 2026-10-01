@@ -368,27 +368,37 @@ Some sorrows are about grief. Spreading Root is about buried grief — the sorro
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
-A wing of the facility still carries the marks of Spreading Root's worst season — scorched members, sealed chambers, deflection the engineers monitor to this day. This record preserves the damage, the repair, and the scar custom the wing's crews maintain.
+### Rooting as It Goes
 
-### The Damage
+It threads into whatever it crosses and the threading is permanent — floor and wall sections it has passed through are compromised afterward and are logged as such. The holding therefore maintains a damage map rather than a containment perimeter, and the map is the document engineering works from when assessing anything structural in the district. It grows steadily. No section has ever been repaired, on the standing finding that repair material is itself rooted through within a short period and that the wing was spending money to produce a slightly newer version of the same problem.
 
-The damage came in the containment's hardest season, when Spreading Root pressed past every precaution the early doctrine maintained. The wing took the worst of it: chambers breached, members stressed past tolerance, systems failing in cascades the engineers still study. The damage survey — preserved verbatim — reads like a battle report: section by section, member by member, the wing documented its own wounding with the precision of personnel who understood that the record would teach what the pain could only show. What the survey proved, above all, was the containment's margin: the wing bent past every limit and did not break. The precautions held where they mattered. The roster held everywhere. And Spreading Root (SE-O-IVδ-693), having spent its worst, subsided into the watchful quiet the Directorate maintains to this day.
+### Remembered Places
 
-### The Repair
+Growth follows locations that people still hold in mind, which is the chamber's most difficult operational fact because it cannot be surveyed, only inferred. The pattern was established retrospectively: the route it has taken through the Old Lament corresponds to buildings that the district's older residents still speak about, including several that no longer physically exist. The correspondence was identified by a watch member who had grown up in the district and recognized the sequence. Their report is in the file under their name and is the basis of the current projection, which has been accurate so far and which the wing describes in writing as a prediction resting on one person's memory.
 
-The repair took a full cycle — the longest restoration Spreading Root's facility has ever mounted. Engineers rebuilt what could be rebuilt, reinforced what could be reinforced, and sealed what could only be sealed: chambers too stressed to trust, members too bent to straighten, sections the survey marked as memorial rather than usable. The repair doctrine written from the work governs every restoration since: rebuild stronger, reinforce honestly, and seal what the survey condemns without sentiment. Sentiment kills, the engineers' manual reads. The members do not care what you feel. They care what they can bear. The wing was rebuilt to bear more than the worst season delivered, certified by three independent surveys, and returned to service with the repair log bound into the containment file. The wing stands. The log proves it. The doctrine holds.
+### Seeking Understanding
 
-### The Scar
+It moves toward attention rather than toward light or warmth, and personnel who observe it closely report that it orients on them. The protocol does not prohibit observation — the holding would be impossible otherwise — but it limits how long any one person spends watching, on the counselors' finding that the orientation is reciprocal and that workers who observe at length begin to describe the entity as wanting something from them specifically. The limit is short and is enforced by rotation rather than by the worker's own clock.
 
-The sealed sections remain — visible, monitored, and deliberately unrestored. The Directorate maintains them as the wing's scar: proof of the worst season, warning against complacency, and memorial to the roster that stood it. Trainee Wardens walk the sealed sections the way recruits walk battlefields: reading the damage survey at the site, feeling the residual wrongness in the sealed chambers, learning the lesson the scar teaches permanently. The containment bent here. The roster held here. The margin between bending and breaking is here, measured in members and logged in the survey. The scar sections are sounded on the watch, maintained against decay, and opened to no one. They are not usable space. They are usable memory — the wing's wound kept visible so that no Warden ever forgets what Spreading Root cost and what the roster paid.
+### Buried Beneath Homes
 
-### The Wing's Custom
+The sorrow the Root grew from was interred under dwellings, streets, and family records, and the file's historical section is an account of that practice rather than of the entity. It documents a period in which the district's households dealt with grief by putting it physically out of sight, the forms this took, and the municipal arrangements that accommodated it. The section is long and was compiled with the cooperation of the district association, who supplied family material on condition that nothing be attributed. The condition has been kept. Every item in the section is cited to the association as a body.
 
-The wing's crews maintain the scar custom: at the start of every rotation, the incoming roster walks the sealed sections in silence, reading the damage survey's final page aloud at the worst point. The page reads, in full: the wing bent, the roster held, the margin sufficed. No one speaks after the reading. The roster disperses to its posts, and the rotation begins — grounded, warned, and bound by the shared knowledge of what the containment survived. Veterans describe the custom as the wing's true handover: not the briefing, not the logs, but the walk. You stand where it bent. You read what it cost. You take your post knowing. The Directorate requires the custom of every rotation without exception. The crews would maintain it without the requirement. The scar is the wing's memory. The walk is the wing's oath. And Spreading Root is witnessed, rotation after rotation, by personnel who have stood where it pressed hardest and chosen to stand there still.
+### Ankle Height
 
-### The Sounding Log
+In a breach it takes people at the ankle and pulls them down, and the response equipment reflects this exactly: cutting tools staged low, at knee height on the corridor walls, rather than at the standard mounting. The re-siting was done after a drill in which participants could not reach standard-height mounts while already on the floor. It looks wrong to every inspector who sees it and the explanation is painted on the mount itself, in small letters, so that nobody has to go looking for the reason.
 
-The sealed sections are sounded on every watch — tap tests on the stressed members, deflection readings on the bowed floors, the damage survey's margins checked against the present. The sounding log runs continuously, entry after entry: scar stable, members holding, memory intact. The wing's engineers read the log the way physicians read charts: as the scar's vital signs, steady across every season. The wing bent once. It has never bent again. The sounding log proves it, watch after watch — and Spreading Root is witnessed by personnel who measure the scar's stillness the way they measure everything: faithfully, precisely, and without ever assuming the stillness will hold without the measuring.
+### Slow Pursuit
+
+It drags rather than runs and can be outpaced by anyone walking, which the protocol states early and then qualifies at length. The qualification is that the corridors it has rooted through are degraded, that footing in them is poor, and that every incident in the record involved a fall rather than a failure to move fast enough. Personnel are therefore drilled on route selection rather than on speed, and the drill is run on the actual degraded surfaces rather than on clean floor.
+
+### The District's Knowledge
+
+Residents know the Root is there and know roughly where it is going. The wing briefs the association quarterly, in person, and the briefing includes the projection — including, when it has applied, the projection that it is moving toward a place somebody in the room remembers. Those briefings are recorded as having been difficult. They have not been discontinued, and the standing instruction is that the association hears the projection before the Directorate does.
+
+### The Damage Map
+
+The map is maintained in a single large sheet, amended rather than redrawn, and the amendments are made in a different colour for each cycle so that the rate of spread is legible at a glance without reference to any table. The convention was introduced by an engineer who disliked the tabular version and was adopted because the commander of the day found the sheet easier to understand than the figures it replaced. It now hangs in the district office rather than at the facility. The wing keeps a copy and the district keeps the original, which was the association's request.
 
 ## Trivia
 
