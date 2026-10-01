@@ -400,16 +400,21 @@ Some sorrows mourn a home. Brume mourns the destination — the nomads who wande
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Mended Chair
+### Fog That Is Not Weather
 
-The muster hall's chairs are mended, never replaced — joints glued, legs braced, the roster's oldest thrift custom. The mend log records every repair: chair three, leg braced, holding. Veterans describe the mended chairs as the roster's philosophy: maintain what serves, repair what breaks, replace only what cannot be mended. New Wardens perform their first mend before their first watch — glue, clamp, and the lesson. Brume (SE-O-IIγ-007) is witnessed by menders — who repair, watch after watch, the chairs that hold the roster that holds the entity.
-### The Steady Seat
+The grey-white bank is sorrow rather than water and does not behave as weather does, which has been established by comparison with the Desolate's meteorological returns over a long period. The returns are held with the containment record. The file states that the comparison was run to answer an obvious objection and that the objection is now answered in writing rather than by assertion.
 
-Mended chairs hold steady — tested after every repair, trusted at every muster. Steady-seat checks close every mend. Brume is witnessed by personnel well-seated. Mended, steady, holding.
+### It Follows the Han-Flow
 
-### The Glue Pot
+Its course keeps to the flow lines through the Desolate, and the track is plotted against the flow survey, which is maintained for other purposes and borrowed here. The agreement is close. Departures are circled and dated and are few, and the file notes that each one has coincided with a change in the survey rather than in the fog.
 
-Chair mending keeps a glue pot warm — ready for every repair, used weekly. The glue-pot custom wastes nothing: mend it today, sit it tomorrow. Brume's chairs hold. Glued, clamped, holding.
+### Walking Pace
+
+It moves at roughly the speed of a person on foot, consistently, and the rate is timed between surveyed markers. The constancy is the holding's most useful property, since it makes the fog's arrival predictable and the warning to outlying parties reliable. The warning procedure is set out in the folder and has not been amended.
+
+### Nomads Who Stopped Expecting Anyone
+
+Wanderers crossed the open land until isolation took away their sense of return, and no names survive, and the commissioning file says so directly rather than leaving the absence to be inferred. There is no roll to reproduce. The archivist's note observes that the entity is the only record those people have and that the file exists to say that much.
 
 ## Trivia
 

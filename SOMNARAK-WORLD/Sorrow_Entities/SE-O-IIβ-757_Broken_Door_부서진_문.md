@@ -406,16 +406,21 @@ Some sorrows mourn a home. Broken Door mourns the separation — the door betwee
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Quiet Lunch
+### Hinges Attached to Nothing
 
-The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. Broken Door is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
-### The Second Helping
+The broken door stands alone with its hinges fixed to no wall, and the Warden records the angle at which it hangs, which changes slowly. The changes are small and are measured against a plumb mark on the ground. The file remarks that the door has never fallen and that the measurement exists chiefly to establish that it has not begun to.
 
-Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. Broken Door is witnessed by well-fed personnel. Served, seconded, steady.
+### A Fire That Feeds on Leaving
 
-### The Recipe Card
+A small persistent flame burns at the frame and grows with remembered departures, and its size is graded at each watch. The grade rises in the Gardens' busiest seasons. The file supplies the Gardens' visitor figures alongside the grading and states that the relationship is apparent and unexplained.
 
-Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. Broken Door's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+### The Moment Before
+
+The doorway gives onto the instant preceding a break rather than onto a place, and nobody passes through it. The prohibition is absolute. The file explains that the opening does not lead anywhere a person could be afterward, which is phrased exactly that way and was chosen over a more clinical formulation.
+
+### A Home Divided
+
+A family dwelling was split during an Echo incident and the door outlasted the household, and the commissioning file holds the property division that followed. It is an ordinary legal instrument allocating rooms and access. The archivist's note observes that it was agreed between the parties without dispute, that it is fair on its face, and that the family did not remain together.
 
 ## Trivia
 

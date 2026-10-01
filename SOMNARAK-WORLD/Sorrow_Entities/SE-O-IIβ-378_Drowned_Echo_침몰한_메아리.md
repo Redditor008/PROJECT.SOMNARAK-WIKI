@@ -368,16 +368,21 @@ Some sorrows mourn the drowned. Drowned Echo mourns the calling — the voices t
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Clean Log
+### A Voice Under Water
 
-The perfect watch log — every reading on time, every notation legible, every margin clean — is the roster's quiet pride. Drowned Echo's archive holds hundreds: watches logged flawlessly, filed promptly, and preserved as the standard. The clean-log custom marks each one: the watch commander's checkmark, the archivist's nod, the log bound with the honored volumes. New Wardens study clean logs before writing their own. Veterans produce them without thinking. Drowned Echo (SE-O-IIβ-378) is witnessed on paper as faithfully as in person — reading by reading, log by log, clean forever.
-### The Archivist's Nod
+The presence is perceived within consciousness as something speaking from beneath a dark surface, and there is nothing in the room to observe. The Warden's record is a self-report taken immediately on leaving. The file states the evidential weakness of this at the front and notes that the holding has never had any other kind of evidence and does not claim to.
 
-Clean logs earn the archivist's nod — the small sharp gesture of approval, given at filing. Wardens prize the nod the way crews prize commendations. Drowned Echo's archive holds hundreds of nodded logs. The nod approves. The roster logs clean.
+### Words Feel Submerged
 
-### The Bound Volume
+Speech in its vicinity acquires the quality of being spoken underwater, which affects personnel talking to each other rather than the entity, and operational communication is therefore written. Slates are used. The file notes that the measure was adopted after two instructions were misheard in the same watch and that nothing worse than confusion resulted.
 
-Clean logs are bound annually — the year's flawless watches gathered, covered, and shelved with the honored volumes. The binding custom closes every year: the archivist's selection, the binder's craft, the volume shelved with ceremony. Drowned Echo's bound years line the archive shelf — proof, in leather and thread, that the roster logs clean. Bound, shelved, honored.
+### Pressure Instead of Language
+
+What it conveys arrives as pressure rather than as words, and the Warden records that communication occurred without asserting what was said. The distinction is held throughout the folder. The archivist's note observes that it is the same convention used at the other mind-register holdings and cross-refers to them so the practice is visibly consistent.
+
+### A Tunnel That Flooded
+
+An inundation drowned workers and their last calls stayed beneath the city, and the commissioning file holds the shift list for that tunnel with the names of those below at the time. The list is complete. The archivist's note observes that it was compiled for payroll rather than for rescue, that it happens to be accurate, and that it is the only full record of who was there.
 
 ## Trivia
 

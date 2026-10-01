@@ -406,16 +406,21 @@ Some sorrows are about being trapped. Door to Nowhere is about the trapping of h
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Watered Plant
+### It Rises From the Floor
 
-A plant grows in Door to Nowhere's muster hall — watered on rotation, tended jointly, the roster's living green. The plant custom assigns every Warden a watering week: tend it, log it, pass it on. The plant has survived every hardship the roster survived — shortages, storms, short staffing. Veterans describe it as the roster's mirror: thriving when the roster thrives, drooping when the roster strains. Counselors check the plant the way they check personnel. Door to Nowhere is witnessed by gardeners — who water, watch after watch, the green proof that life persists in the containment.
-### The New Leaf
+The heavy door comes up out of the Old Lament floors with no wall around it, and its position and the height it reaches are recorded at each appearance. Both vary. The file plots the appearances on a floor plan and notes that no room has had one twice.
 
-The muster plant grows new leaves — each one logged, each one celebrated. New-leaf days are the roster's small festivals. Door to Nowhere is witnessed where life persists. Watered, leafing, living.
+### Choices Never Made
 
-### The Watering Roster
+What lies beyond it are decisions that were not taken rather than places, and this is stated in the briefing because personnel assume a destination and prepare for one. There is nothing to prepare for. The file is blunt that the door is not an exit and that treating it as one is the only way it has ever caused harm.
 
-Plant watering runs on roster — names scheduled, weeks assigned, never missed. The roster custom treats the plant as a posting: tend it like a watch. Door to Nowhere's plant thrives on scheduled care. Rostered, watered, thriving.
+### It Goes After Opening
+
+Once opened, it vanishes and does not return to that room, which means every appearance is a single opportunity and the standing order addresses what to do with it: nothing. The door is recorded and left. The archivist's note observes that this instruction has been obeyed without exception and that the file considers the obedience worth recording.
+
+### Trapped During a Lockdown
+
+A resident was shut in during a district lockdown and watched a door rise beyond their reach, and the commissioning file holds the lockdown order with its boundaries and its duration. The order was lawful and was lifted on schedule. The archivist's note observes that the resident's dwelling falls inside the boundary by a short distance and reproduces the measurement.
 
 ## Trivia
 

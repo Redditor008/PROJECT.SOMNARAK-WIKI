@@ -299,16 +299,21 @@ The entity does not rage. It does not weep. It persists — body and weight, pat
 
 ## Watch Record
 
-### The Folded Blanket
+### The Loop
 
-Bunks are made with folded blankets — corners square, edges aligned, the roster's oldest order custom. Inspections check the blankets first: square corners mean disciplined Wardens. Veterans fold without thinking — the creases sharp from years of practice. New Wardens learn the fold before they learn the gauges: order in the bunk, order in the watch. Never Discharged is witnessed by personnel who fold blankets — who keep, in small squares of wool, the discipline that keeps the containment.
-### The Tight Corner
+A single moment in the medical bay repeats on a fixed interval — the scream, the overturned table, the shattered light — and the Warden logs each recurrence against a clock. The interval has not varied. The file notes that it is the most precise recurrence in the archive and that the precision is recorded without any claim as to why.
 
-Blanket corners are tucked tight — the inspection's first check, the roster's smallest discipline. Tight corners, tight watches. Never Discharged is witnessed by personnel squared away. Folded, tight, ready.
+### It Becomes Yours
 
-### The Bunk Inspection
+Anyone inside the bay when the moment loops experiences the scream as their own, which is why the watch is kept from the doorway and timed from outside. Entry during a loop is prohibited. The file states that the prohibition has been breached once, records what followed, and does not name the Warden.
 
-Bunks are inspected weekly — blankets folded, kits stowed, floors swept. The inspection custom scores fairly and praises publicly. Never Discharged's roster passes inspection standing. Folded, stowed, passing.
+### A Moment, Not a Place
+
+The bay itself is ordinary between recurrences and could be used, and the question of returning it to service has been raised. It was refused. The refusal is held with its reasoning, which is that a working ward cannot be evacuated on a timetable and that the interval, however exact, is not a guarantee.
+
+### The Weight That Does Not Lift
+
+The district's own name for it describes something that stays on a person, and the file carries that name beside the classification. Both appear at the head of the folder. The archivist's note gives the standard reason and adds that in this instance the local name is also the more accurate description of what personnel report afterward.
 
 ## Trivia
 

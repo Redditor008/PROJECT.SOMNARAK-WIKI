@@ -301,16 +301,21 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 
 ## Watch Record
 
-### The Timely Relief
+### One Minute
 
-Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Amnesia is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
-### The Early Arrival
+The event occupies a single minute late in the morning on a day that is not marked in advance, and within its radius everyone forgets their own name, their face, and why they are standing where they are. The Warden's post is outside the radius. The file notes that there has never been a watch kept from inside and that none is contemplated.
 
-The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Amnesia is relieved promptly. Early, briefed, holding.
+### Two Hundred Metres
 
-### The Relief Log
+The affected area has a definite edge and the edge is surveyed against fixed markers, all of them beyond it. The radius has not changed. The survey is conducted entirely from outside by sighting, which the file identifies as the reason the series is complete, no reading having ever had to be skipped.
 
-Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Amnesia is witnessed continuously. Arrived, briefed, transferred.
+### Recognised, Not Discovered
+
+It sat in the records as an ambient reading for years before anyone noticed it had a shape, and the original entries are held exactly as filed and unannotated. The archivist's note gives the reason used at the other holdings where this happened and lists them, so that a reader can see the pattern is not unique to this file.
+
+### What Comes Back
+
+Memory returns when the minute ends and the recovery has been described as complete, which the file states with a qualification: it is complete as far as anyone affected can tell, and the people best placed to notice an omission are the ones who were inside. The qualification is printed in the same paragraph as the finding.
 
 ## Trivia
 

@@ -384,16 +384,21 @@ Some sorrows mourn demolition. Tower Erased Overnight mourns the erasure — the
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Fresh Paint
+### An Absence With Height
 
-Maintenance repaints Tower Erased Overnight's chambers on rotation — walls fresh, markings crisp, the containment gleaming the way readiness gleams. The paint custom treats the work as honor, not chore: the roster paints its own chambers, brushes shared, pride joint. Veterans describe fresh-paint days as the containment's renewals — the same doctrine, brightened walls, the watches continuing across the wet paint. Tower Erased Overnight (SE-O-IIβ-677) is witnessed in chambers the roster keeps worthy — painted faithfully, maintained proudly, gleaming always.
-### The Dry Wall
+Where the tower stood there is a vertical emptiness, and the Warden surveys its dimensions from the street by sighting against the buildings on either side. The figures are consistent. The file notes that the absence measures as a volume and that this is stated carefully, since the thing being measured is defined entirely by what surrounds it.
 
-Fresh paint dries under watch — the roster guarding wet walls the way it guards everything: faithfully. Dry-wall checks close every paint day. Tower Erased Overnight's chambers gleam. Painted, dried, gleaming.
+### The Skyline Bends
 
-### The Color Standard
+Nearby architecture appears to curve around the gap, and the effect is photographed annually from three fixed points. The photographs are the record. The archivist's note observes that the bend does not appear in survey measurements of the adjacent buildings, which are straight, and that both facts are reported without an attempt to reconcile them.
 
-Chamber paint follows the color standard — walls regulation gray, markings safety yellow, pipes coded by system. The standard custom keeps every facility legible: any Warden, any chamber, readable at a glance. Tower Erased Overnight's chambers match the standard exactly. Painted standard, reading clearly.
+### Taller in Memory
+
+People who knew the tower recall it as higher than the records show, consistently and by a similar margin, and the file holds both the recollections and the original building plans. The plans are definite. The archivist's note states that the discrepancy is uniform enough to be a property of the entity rather than of the witnesses.
+
+### Removed Before Anyone Could Say Goodbye
+
+The tower went during an Old Lament restructuring, taking residents and unfinished conversations with it, and the commissioning file holds the demolition schedule with its notice period. The notice was short and was legally sufficient. The archivist's note observes that the schedule includes a line for resident consultation and that the line is filled in.
 
 ## Trivia
 

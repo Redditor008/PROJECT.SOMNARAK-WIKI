@@ -372,16 +372,21 @@ Some sorrows mourn separation. Memory Chain mourns the memory-bond — the conne
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Spare Key
+### A Voice Moving Link to Link
 
-Every chamber in Memory Chain's containment keeps a spare key — sealed, logged, and held by the watch commander. The spare-key custom governs its custody: sealed at watch start, verified at watch end, used only in the emergencies the doctrine tables. The keys have been used rarely and regretted never — each use logged, each emergency met, each seal replaced after. New commanders receive the keys the way they receive the watch: with briefing, with gravity, with the formula. Memory Chain is secured by keys the roster holds faithfully — spares sealed, customs kept, emergencies answered.
-### The Unbroken Seal
+The chain is heard rather than seen, the sound travelling along it from one point to the next, and the Warden records the direction of travel and the time taken end to end. The transit time is constant. The file notes that this has allowed the chain's length to be inferred and that the inference is marked as an inference wherever it appears.
 
-Spare-key seals are verified unbroken at every watch end — the commander's check, the log's confirmation. Unbroken seals mean unneeded emergencies. Memory Chain's seals hold watch after watch. Sealed, verified, holding.
+### Blue Light
 
-### The Key Ceremony
+When it becomes visible it shows as blue spirit-light, and visibility is rare enough that each occurrence is logged with the conditions. No condition has been found to predict it. The file keeps the log as a plain list and states that the list exists so that a future pattern, if there is one, has somewhere to be noticed.
 
-Watch commanders receive the spare keys with ceremony — the sealed packet, the custody formula, the log's countersignature. The ceremony binds the custody: keys received, responsibility taken, watch begun. Memory Chain's keys pass commander to commander, ceremony by ceremony. Received, held, transferred.
+### It Binds Memory
+
+What it holds together are recollections rather than bodies, and it waits beside people who have let a shared history go. Those people are not named in the record. The file is explicit that the entity's choice of whom to stand near is not evidence of anything about them and must not be written down as though it were.
+
+### A Group Scattered by Exile
+
+People separated by exile went on holding their memories in common until the memories gathered into one speaking thing, and the commissioning file holds their letters. They are addressed to several recipients at once. The archivist's note observes that each letter repeats what the others already knew, that the repetition was evidently deliberate, and that the chain is made of it.
 
 ## Trivia
 

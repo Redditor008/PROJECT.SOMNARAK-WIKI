@@ -374,16 +374,21 @@ Some sorrows mourn a community. Spire of Unanswered Prayer mourns the calling �
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Sharp Pencil
+### A Tower That Is a Voice
 
-Logs are written in pencil — sharpened before every watch, the roster's oldest instrument custom. The pencil doctrine is practical: pencil writes on damp paper, survives the chamber's cold, and never leaks. But the custom is honor: the sharpened pencil means the prepared Warden. Veterans sharpen deliberately, ritually, the way soldiers clean weapons. New Wardens receive their first pencil at commissioning — issued with the logbook, blessed with the formula. Spire of Unanswered Prayer is recorded in graphite — reading by reading, pencil by pencil, sharp forever.
-### The Full Box
+There is no structure — the tower exists as a voice rising through consciousness, heard as warm rain on crystal — and the holding has no physical extent at all. The Warden records duration and apparent elevation. Elevation is self-reported and the file flags it as such, noting that all personnel nonetheless describe the sound as coming from above.
 
-Commissioning issues a full box of pencils — twelve, sharpened, the rookie's first year. Veterans replenish from the quartermaster with pride. Spire of Unanswered Prayer is recorded in graphite that never runs out. Issued, sharpened, recording.
+### Tears Fall Upward
 
-### The Sharpener
+Those exposed report that weeping feels inverted, as though the tears were rising, and the sensation is logged as present or absent without elaboration. It is almost always present. The file notes that this is the detail new Wardens disbelieve and that the briefing therefore states it before anything else about the holding.
 
-The muster hall keeps a wall sharpener — bolted, trued, and used before every watch. The sharpener custom queues the roster: sharpen in turn, waste nothing, write sharp. The sharpener has served generations of pencils. Spire of Unanswered Prayer is recorded sharp. Queued, sharpened, writing.
+### It Sings
+
+The voice is closer to singing than to speech and nothing in it has been resolved into words, which has been attempted and documented. The attempts failed. They are retained with their methods so the ground is visibly covered, and the archivist's note adds that the last attempt was made some years ago and that nobody has proposed another.
+
+### A Settlement That Never Stopped Mourning
+
+A Desolate community went under a Han surge and the survivors carried its tower-song into the city, and the commissioning file holds what those survivors were able to give — the song's occasions, who led it, and when it was sung. The accounts agree closely. The archivist's note observes that this is unusual and that the survivors had been singing it together for a long time.
 
 ## Trivia
 

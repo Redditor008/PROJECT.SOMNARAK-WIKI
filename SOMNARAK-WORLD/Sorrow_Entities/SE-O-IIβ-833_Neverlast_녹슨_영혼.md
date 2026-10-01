@@ -379,16 +379,21 @@ Some sorrows mourn a departure. Neverlast mourns the silence after — the frien
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Polished Gauge
+### Rust That Never Finishes
 
-Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Neverlast (SE-O-IIβ-833) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
-### The Clear Face
+Corrosion spreads across the dark tear-crystal continuously and never destroys any part of it, and the extent is traced onto an overlay each cycle. The spread continues and nothing has yet been consumed. The file reports both halves together and notes that the second is the more surprising and the easier to forget.
 
-Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Neverlast is measured truly. Polished, clear, true.
+### It Reaches First
 
-### The Calibration Weight
+The figure extends toward people rather than striking, and this is recorded in the briefing as the entity's defining behaviour, placed ahead of the hazard. Personnel are told it reaches before they are told it can turn. The ordering was deliberate and the file explains that reversing it produced Wardens who treated a gesture of appeal as an opening move.
 
-Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Neverlast is measured on verified instruments. Polished, tested, true.
+### Ignored, It Turns
+
+Sorrow becomes rage when the reaching is not acknowledged, which makes acknowledgement the containment, and the standing order requires that the figure be addressed at each watch. The requirement is unusual. The file concedes as much and states that it is the only measure that has ever worked, and that it costs nothing.
+
+### A Friend Who Disappeared
+
+A friendship ended because one person was simply gone, without explanation, and the grief was never answered, and the commissioning file holds what the one who remained wrote during the waiting. The entries continue for a long time. The archivist's note observes that they never once express anger and that the entity does.
 
 ## Trivia
 
