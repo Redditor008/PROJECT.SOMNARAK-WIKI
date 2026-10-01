@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Weeping Willow.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Willow sheds constantly and the ground beneath it never dries, though the Gardens have no rainfall.
+- A completed cycle slows the shedding. The tree is unchanged, and the ground recovers nothing.
+- Only Viderehan and Ferrehan apply. Both are recorded as calming, and neither alters the canopy.
+- No breach counter exists because the Willow spreads at the root. Mark the saturated boundary at every session.
+- Residue from the root line is the extraction source, authorized separately.
 
 ## Combat Record
 ### Core Stat Line

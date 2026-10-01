@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Rejector.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Rejector refuses what it is owed, and personnel who press the point lose the memory of having asked.
+- Lowering the gauge produces compliance for a shift, not agreement. The refusal itself is unchanged by any logged cycle.
+- Two missed conditions are enough to breach. The Rejector leaves the cell rather than attacking, and is recovered from the corridor.
+- Void expression erodes recall of the transaction; debrief crews immediately while the detail survives.
+- The implement is recovered under separate authorization, and carries the same refusal.
 
 ## Combat Record
 ### Core Stat Line

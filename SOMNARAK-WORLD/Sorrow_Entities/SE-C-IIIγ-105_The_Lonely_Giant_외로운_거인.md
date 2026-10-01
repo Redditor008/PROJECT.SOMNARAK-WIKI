@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Lonely Giant.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Giant wanders its zone and is only semi-contained; personnel are routed around it rather than through.
+- Work reduces the pressure it carries without reducing its size or its habit of following.
+- Two ignored conditions escalate it. The Giant does not charge — it closes distance slowly, and the warning is the lack of noise.
+- Burden pressure accumulates in anyone it has walked beside. Crews rotate out after a single accompaniment.
+- Recovery of the implement is a separate event and requires its own authorization.
 
 ## Combat Record
 ### Core Stat Line

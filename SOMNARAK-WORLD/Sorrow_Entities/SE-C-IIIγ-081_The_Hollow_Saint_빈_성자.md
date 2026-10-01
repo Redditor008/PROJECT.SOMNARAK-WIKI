@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Hollow Saint.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Saint's robes hold a shape with nothing inside them, and the posture of blessing never varies.
+- A cycle settles the figure. It has never filled it, and the hollow is the stable state rather than a symptom.
+- The margin is two conditions, and the Void manifestation means a breach is noticed by absence — personnel forget the cell is occupied.
+- Identity pressure here works on the operative's sense of being witnessed. Crews who stop speaking to one another are withdrawn.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Dancing Chains.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Chains move in a figure that repeats, and the repetition is the containment problem rather than the motion.
+- A successful cycle slows the pattern. It does not stop it, and the links have never been recorded at rest.
+- Viderehan and Ferrehan are the valid approaches; the object does not respond to anything else on record.
+- Structural pressure is literal here. Anchor points in Zone B are inspected on a fixed schedule, not on suspicion.
+- Extraction is a distinct exposure with its own authorization.
 
 ## Combat Record
 ### Core Stat Line

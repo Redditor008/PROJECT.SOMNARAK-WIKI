@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Redcage.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Redcage holds something that has never been catalogued, and the bars are warm on the inner face.
+- Work cools the frame for a shift. The occupant is unaffected, and no logged cycle has opened the door.
+- Viderehan and Ferrehan are the valid approaches to the object; the cage does not respond to anything else.
+- Grudge expression reaches the operative through the metal; gloves are mandatory and are replaced after each session.
+- Extraction is separate from work and never issued as a reward for a clean shift.
 
 ## Combat Record
 ### Core Stat Line

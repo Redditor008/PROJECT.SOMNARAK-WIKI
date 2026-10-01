@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Remembrance.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The well beneath the Grand Archive returns what was put into it, in the voice of whoever put it there.
+- A cycle quiets the returns for a shift. Nothing recorded has emptied the well or changed what it holds.
+- Observation and endurance are the only valid approaches; Viderehan and Ferrehan are both effective at the rim.
+- There is no breach counter. Remembrance expands, and the limit of the expansion is measured from the archive floor each session.
+- Extraction draws on the residue at the rim and is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

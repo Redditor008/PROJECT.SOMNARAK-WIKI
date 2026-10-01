@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Owed.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The wall at Collector's Row carries names that were never carved, and the list lengthens between inspections.
+- A successful cycle settles the surface for a shift. No name has been removed by work.
+- Observation and endurance are the valid approaches; Viderehan and Ferrehan are both logged against the wall.
+- There is no breach counter — the wall expands along the Row. The end of the inscription is marked physically each session.
+- Extraction draws from the surface residue under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

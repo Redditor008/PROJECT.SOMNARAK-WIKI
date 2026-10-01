@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Debtor.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Debtor recites sums that no ledger in the district confirms, and the totals rise across consecutive shifts.
+- Work lowers the pressure without cancelling the debt. The entity resumes counting from where it stopped.
+- Two ignored conditions open the cell. The Debtor is housed with the other two of the Triplets, and a breach here agitates both neighbours within the hour.
+- Weight expression is felt as fatigue rather than grief; crews report heaviness in the hands first.
+- Recovery of the implement is its own exposure event and is logged separately from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

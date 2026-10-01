@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Broken Clock.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Clock keeps no hour. Its hands move, but deep storage logs show them settling to a different time after every session.
+- A completed cycle quiets the mechanism. It does not repair the movement, and no shift has yet produced two identical readings.
+- Viderehan and Ferrehan are the valid approaches to the object; nothing else has altered the hands.
+- There is no breach counter because the Clock expands rather than escapes. Burden pressure spreads outward from the storage bay along the Alpha Tree root lines.
+- Extraction is a separate authorization. The implement continues to keep its own wrong time.
 
 ## Combat Record
 ### Core Stat Line

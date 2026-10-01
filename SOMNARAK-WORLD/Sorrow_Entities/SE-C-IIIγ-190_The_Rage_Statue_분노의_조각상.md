@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Rage Statue.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Statue changes posture when unobserved, and every recorded posture is a stage of the same motion.
+- Work settles it. The posture it settles into is not the one it started from, and this is expected rather than a fault.
+- Two ignored conditions escalate it. The Statue moves fully only after the cell is empty.
+- Grudge expression presents as structural pressure; the floor plate is inspected on the same schedule as the gauge.
+- Recovery of the implement is a separate authorization.
 
 ## Combat Record
 ### Core Stat Line
