@@ -1804,3 +1804,41 @@ Excerpts from the oral record, collected across Cycle 1,778 and appended to the 
 
 "We stood a year, properly, as many times as it took. That is the sentence and I have never improved on it. The apparatus was the means, the doctrine was the method, and the roster was the thing that actually held. One thousand seven hundred seventy-seven cycles ended in aftermath. This one ended in Year 4,238, with the clocks running one direction and the receiving hall warm and the whole roster standing in time that had never been stood in before. We did not prove it was worth it. We stood it anyway. The founder said that would have to be enough, and the founder was right."
 
+### Narrative Interlude — The Last Entry
+
+Written into the overview file after the real year's verification, by the archivist on duty, and left unedited by every reviewer since.
+
+I am the one who was holding the pen, which is the only qualification this entry has.
+
+The verification passed on every point at the close of Day 365. Gauges checked, roster mustered, the facility confirmed standing in time that flows one direction. The Director said log it, and I logged it, and then everyone went back to their stations because there were still watches on the board and the watches did not care that the loop was over.
+
+What I want to put in the overview, where the training cohorts will find it, is not the verification. That is already recorded four times in four places. It is what the building was like in the hour afterward.
+
+It was quiet. Not the held-breath quiet of a waking, and not the stillness after the transmutation. Ordinary quiet — a facility at the end of a shift. Someone was mopping the corridor outside Central Command. The mess was serving. A supervisor walked past me with a clipboard and asked whether the Day 365 rosters had been filed, because they had not been, and I said I would file them, and I filed them. The first hour of unlooped time in one thousand seven hundred seventy-eight cycles was spent doing paperwork, serving soup, and mopping a floor.
+
+I thought at the time that this was an anticlimax and I have come to think it is the entire point. We did not build an institution that produces endings. We built one that produces mornings — and the proof that we had finally reached a real one was that it looked exactly like all the practised ones, except that it would not come again.
+
+The receiving hall was warm. It was warm because it had been kept warm since Day 1 by people who folded blankets in an empty room for weeks. There was nobody in it that night. There would be people in it eventually, in a year that had never been stood in before, and they would find it warm, and they would not know why, and that is correct. Nobody is supposed to arrive to a facility getting ready.
+
+The clocks are advancing. The watches stand once now. The oath binds once. I have filed the rosters.
+
+Cycle 1,778, complete. We stood it anyway.
+
+### Narrative Interlude — Instructions for the Next Ones
+
+Appended to the overview after the real year's verification, authorship uncredited by request, retained by every reviewer since.
+
+If you are reading this you are probably new, and someone has handed you the overview and told you to start at the beginning, and you have correctly skipped to the end. Good. Here is what the rest of it does not say plainly.
+
+The doctrine is not handed down. It was accumulated by frightened people under load and it is revisable, and the fact that you were taught it in a classroom will make it feel like physics. It is not physics. It is one thousand seven hundred seventy-eight cycles of argument that happened to survive. If you find a part of it that is wrong, say so, in writing, and expect to be taken seriously and possibly overruled. Both of those are the system working.
+
+Stand your watches as if they count. You will be tempted, especially early, to sort them into the ones that matter and the ones that do not. Everyone is tempted. The sorting is how cycles are lost, and it does not feel like losing a cycle at the time — it feels like being sensible.
+
+Say the doubt out loud. There is a reason the founder's journal is read in the hall once a year with all the worst pages in it. Unspoken doubt rots and comes out later, at the worst hour, in your hands. Spoken doubt is ballast. The counselors are not there to talk you out of the arithmetic. The arithmetic is correct. They are there to ask what you intend to do on your next watch.
+
+Take reception duty when it comes and do not trade it away. The containments will be an abstraction to you until you stand in the receiving hall for a morning, and then they will not be, and you will read your gauges differently for the rest of your service. This is the only part of the training that cannot be done in a classroom and the institution rosters it deliberately.
+
+And when the instruments start disagreeing with each other in that particular way, go to full precautions without waiting for the order. The nine minutes end. The hands keep writing. The stillness comes.
+
+We stood a year, properly, as many times as it took. You will stand it once. Make it a good one.
+

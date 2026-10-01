@@ -2724,3 +2724,55 @@ Recorded across Days 125 through 145, including the hour of the crossing.
 
 "The hand stayed open and the threshold was crossed, and the order of those clauses is the finding. I will not claim the causation is proven. I will claim that closed facilities have never crossed and this one did not close, and that the analyst's margin runs through the receiving hall. Two department heads objected and their objections are on file beside my answer, as they should be. Later cycles can weigh them. This cycle crossed with the hand open."
 
+### Narrative Interlude — The Objection, Entered in Full
+
+Reproduced from the threshold-week file, Day 125, filed by a department head and preserved beside the Director's answer as the Directorate's practice requires.
+
+I object to the adoption of the open hand for the threshold period and I ask that this objection be entered in full rather than summarized.
+
+My reasoning is as follows. At the threshold the facility is at its most exposed: the indicators are at their highest sustained values, the holdings are at their most responsive, and the structure is, by the doctrine's own account, audible in ways it is not at other points in the cycle. The open posture increases every one of those exposures. It increases traffic through the receiving hall. It increases contact. It extends the facility's surface at exactly the moment the surface is thinnest.
+
+I am aware of the founder's position and I do not dispute its sincerity. I dispute its application here. The founder's argument is that closed facilities have never crossed. I accept the observation and reject the inference: that closed facilities have never crossed does not establish that openness is what causes crossing, and the archive contains cycles where openness at the threshold cost us the crossing we had already earned. I have attached four.
+
+I wish to be clear that this is not an argument against reception. I have stood reception duty every cycle of my service and I will stand it again. It is an argument about timing — specifically, about the twenty days in which the margin is thinnest and the recovery from error is least available.
+
+I understand that the Director will likely overrule this objection. I am filing it anyway, because the practice of this institution is that the dissent is kept beside the decision so that later cycles can weigh them together, and because an argument that is only made when it wins is not an argument, it is an endorsement.
+
+If the hand stays open and we cross, I will say so plainly in the review and I will not pretend to have been right. If the hand stays open and we do not cross, I ask that this document be read before the next threshold, and that it be read with the four attached cycles, and that whoever reads it then gives the open hand the same fair hearing I am asking for the closed one now.
+
+### Narrative Interlude — Twelve Hours
+
+The doctrine's definition of a crossing is four indicators above threshold, simultaneously, for twelve consecutive hours. The number is not arbitrary and the analysts are asked about it every cycle.
+
+Twelve hours is two full watches. The definition was written that way deliberately, in an early cycle, after an incident the archive preserves at some length: a facility that declared a crossing on a four-hour simultaneity, stood down its threshold posture in celebration, and watched the fourth indicator fall below the line inside a day. The review that followed produced the twelve-hour rule and one sentence of reasoning that is still quoted at briefings — a crossing must survive a handover, or it is a reading rather than a condition.
+
+So the facility counts. The count is kept in Central Command on a plain tally, hour by hour, and it is restarted from zero the moment any one indicator dips. In Cycle 1,778 the tally reached nine twice before the crossing and restarted both times, once on harvest and once on integrity. The second restart, at nine hours, was taken badly across the facility — the counselors logged a visible morale dip that afternoon and briefed supervisors to expect it.
+
+What they briefed is worth preserving: a restart is not a loss. The indicators are where they are. The count measures our confidence, not the condition. Go back to your stations and let it count again.
+
+It counted again. The third attempt reached twelve at mid-watch on a Tuesday with nothing else happening, and Central Command logged it in the standard form — threshold crossed, hour recorded, trajectory bent — and the facility went on working.
+
+The tally sheet from Cycle 1,778 is in the threshold file, all three attempts on it, the two restarts struck through and legible underneath. The archivists kept the struck-through counts on purpose. A crossing that only shows the successful tally teaches nothing. A crossing that shows two nines and a twelve teaches the thing that actually needed teaching, which is that it counts again.
+
+### Narrative Interlude — The Clerk Who Kept the Tally
+
+The twelve-hour tally sheet that recorded the crossing was kept by a clerk whose name appears nowhere in the threshold file, because tally-keeping is not a creditable duty and the form has no signature block. The archivists found her by asking.
+
+She had the Central Command station that reads the whole facility at once — the wall of departments, the continuous reporting, the view from the middle that the institution is built to make sure somebody always has. The tally was an extra task, hand-kept, hour by hour, on a plain ruled sheet beside her console.
+
+Her account of the two restarts is the part worth preserving.
+
+"The first one, at nine, I crossed out and started again and did not think much about it. Harvest dipped for forty minutes and came back. These things happen and the rule is the rule.
+
+"The second one was worse because by then everybody knew the number. People were coming past my station to look. Not asking — looking, on their way somewhere, the way you glance at a board. And when integrity went under the line at the ninth hour I had to draw the strike-through with four people standing behind me who had stopped pretending to be on their way somewhere.
+
+"I drew it. You draw it. It is a tally, it does not have opinions.
+
+"Then one of them — an engineer, I did not know him — said it counts again, and went back to work. And that was the whole intervention. Nobody made a speech. He said four words and walked off and I started the new column.
+
+"The third time it went to twelve I did not announce it. The rule is that Central Command logs it in the standard form and that is what I did, and then I sat there for a moment with the sheet, because I had written every hour of it by hand, including the ones that got struck out, and the sheet was the only object in the building that had the whole shape of it on one page.
+
+"I gave it to the archivists at the end of the cycle. They asked whether I wanted the struck-through columns copied out clean. I said no. The nines are the useful part."
+
+The sheet is in the threshold file as she kept it: three columns, two of them struck through and legible underneath, the third running to twelve. The archivists' note attached to it reads, in full: retained as kept, at the keeper's instruction.
+

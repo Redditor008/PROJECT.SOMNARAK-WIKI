@@ -2335,3 +2335,31 @@ Recorded in the muster hall and the corridors outside it, across Days 77 through
 
 "Stand it anyway. Three words, underlined once, and the entire institution's working philosophy. I have never found a better formulation and I have stopped looking. Everything we do — the baselines, the vault, the blessing hour, the open hand — is an elaboration of a sentence a frightened person wrote on the last page of a journal because they could not prove the thing they were about to ask of everyone who came after. We cannot prove it either. We read it aloud once a cycle so that nobody can pretend otherwise. Then we stand it anyway."
 
+### Narrative Interlude — The Page Nobody Reads Aloud
+
+An archivists' note appended to the reading-week file.
+
+There is one page of the founder's journal that the ceremony skips. It is not sealed, not restricted, and not secret — any member of staff may request it and a handful do each cycle. It is simply never read in the hall, by a custom that predates everyone currently living and has never been written into the ceremony's order of service.
+
+The page is undated and sits between two entries three weeks apart. On it the founder has written, and then struck through, and then written again beneath the strike-through, a single question about whether the people being kept are being kept for their sake or for the keepers'. The second writing is the same question with one word changed. The word is not the kind of word that changes a meaning. It is the kind that changes an admission into a defence, and then the founder has struck the second version too, and left both legible, and moved on.
+
+The archivists' position, held since the earliest catalogue, is that the page is skipped not because it is dangerous but because it is unfinished. The founder did not resolve it. The ceremony reads the journal's conclusions aloud — including the ones that hurt, including the counting page, including the mercy-or-prolongation page — because those are positions the institution can inherit and argue with. The skipped page is not a position. It is a person failing to reach one, twice, in ink, and declining to tidy it afterward.
+
+Staff who request the page tend to be staff in their fourth or fifth cycle. The counselors have noticed the pattern and regard it as unremarkable: it is roughly when the abstraction fails and the question arrives on its own. Those who read it almost never discuss it afterward, which the archivists also regard as unremarkable. The page does not produce conversation. It produces a particular kind of quiet that the counselors say they can recognize across a mess hall.
+
+It is recorded here, in the overview material rather than the ceremony's order, because the Directorate's practice is to keep the dissent beside the decision and the unfinished beside the finished. The journal's last page says stand it anyway. The skipped page is the reason those words are load-bearing rather than decorative. A founder who had never written the skipped page would have had no need to write the last one.
+
+### Narrative Interlude — The Cart at Three in the Morning
+
+The night reading is not in the order of service. Two night staff take the journal around on a cart, station by station, and read whatever page that station has not yet heard. Nobody authorized it. Nobody has stopped it.
+
+It works like this. The cart has the journal in its case, a lamp, and a flask. The readers go to the lower rings first, because the lower rings are the furthest from the hall and the least likely to be relieved for the day ceremony. At each station they ask what has already been heard. Then they read, standing, for eight or ten minutes, and move on.
+
+What the night staff report, consistently, is that the journal sounds different at three in the morning in a corridor with one lamp. In the hall it is a ceremony: four hundred people, a reader at a lectern, an institution commemorating its origin. On the cart it is a person talking. The founder's doubts, read quietly to two Wardens standing at a gauge, stop being historical and become conversational — somebody who was awake late, worried about the same building, saying so.
+
+The counselors have asked, more than once, whether the night reading should be formalized and resourced. The night staff have declined, every time, in roughly the same terms: the moment it is scheduled it becomes the thing it is currently an alternative to.
+
+One page is read differently on the cart than in the hall. The counting page — where the founder lists the early losses by name and then stops listing — is read in the hall with a pause at the stopping, and the pause is part of the ceremony. On the cart, the readers have developed their own practice, which is to read to the stopping point and then simply close the case and stand there for a moment with the two Wardens before moving on. Nothing is said. Then the cart goes to the next station.
+
+The journal returns to its case at the end of the reading weeks. The cart goes back to the storeroom. Nobody writes it up, except here.
+

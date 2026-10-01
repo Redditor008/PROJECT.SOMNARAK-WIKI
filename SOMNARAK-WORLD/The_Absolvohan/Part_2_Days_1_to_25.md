@@ -2947,3 +2947,35 @@ The counselors keep an oral record alongside the written one — personnel speak
 
 "The foundations are the only part of the cycle I can control completely, and so I spend them being extremely boring. No speeches. No initiatives. Rotations honored, baselines logged, departments introduced. If I have done this correctly, no one will remember the first twenty-five days of this cycle at all. They will remember the threshold, or the transmutation, or the end. That is correct. Foundations are not supposed to be remembered. They are supposed to hold."
 
+### Narrative Interlude — The Letter Written on Day 12
+
+Among the foundation-week papers the archivists preserve is a letter never sent — found folded in a baseline logbook, unsigned, in a hand the archive has not identified and has stopped trying to.
+
+I am writing this at the quiet end of a watch where nothing happened, which is the twelfth such watch in a row, and I find that I want to tell someone and there is no one to tell who would not already know. So I am telling the page.
+
+We are twelve days into something that has been attempted one thousand seven hundred seventy-seven times. I do the arithmetic the way everyone does the arithmetic, in the slack hours, and the arithmetic says that the overwhelming likelihood is that this cycle ends the way the others ended. I know this. I have known it since my first waking. And yet the facility this cycle feels different in a way I cannot put into a report, because reports do not have a field for it.
+
+The settling went fast. The night crew and the day crew actually speak. Someone in the mess has started keeping a pot going for the people coming off the long watches, which nobody ordered and nobody will stop. The receiving hall is folded and warm and completely empty and will stay that way for weeks yet, and the officers staff it anyway, because the morning the doors open the warmth has to already be there.
+
+None of that is evidence. I am aware that none of that is evidence. The indicators will say what they say when they say it and my impressions at the end of a quiet watch are worth precisely nothing against them.
+
+But I have stood foundations before, and these foundations are good. Whatever gets built on them this cycle will be standing on something true. If it falls anyway, it will not be because of the first twenty-five days.
+
+I am going to put this in the logbook and go to sleep. If someone finds it later, in a cycle I do not reach, I would like them to know that on Day 12 the building was quiet and the people in it were kind to each other and the gauges did not move. That happened. It is in the baselines. It is in the record now twice.
+
+### Narrative Interlude — The Pot in the Mess
+
+Nobody ordered it and nobody has ever stopped it. Sometime in the first week of Cycle 1,778, one of the mess staff put a pot on the back of the stove and left it there, and it has not come off since. Whatever is in it changes. The fact of it does not.
+
+The rule, such as it is, got established without discussion: anyone coming off a long watch may take a bowl at any hour, without asking, without signing anything. The mess staff keep the pot going on their own time and will not discuss it as a favour. One of them, asked by a supervisor whether the practice needed authorizing, said that a pot is not a programme and that if the Directorate began authorizing pots it would shortly be scheduling them.
+
+The supervisor did not pursue it. The note in her report reads: unauthorized, continuing, recommend no action.
+
+What the pot does is measurable in the way the blessing hour is measurable — which is to say indirectly, through things nobody set out to change. Wardens coming off hard watches stop in the mess instead of going straight to their bunks. Stopping in the mess means sitting down. Sitting down means somebody else sits down next to you. The counselors, who track this sort of thing with more rigour than anyone expects, note that in the foundation weeks the average interval between a difficult watch and its first mention aloud fell by roughly a day and a half.
+
+A day and a half is not nothing. A thing carried for three days becomes a thing. A thing said over a bowl at four in the morning to whoever is also awake stays the size it actually is.
+
+The veterans are careful not to romanticize it. One of them, asked to explain the pot to a trainee, said: it is soup. It is not a philosophy. Eat it.
+
+But the same veteran has been seen to check, on passing, whether the pot is full — and to fill it, from the kitchen stores, without a word, when it is not.
+

@@ -942,3 +942,26 @@ Before the real year's operations began, the Director administered the testament
 | STATUS: PERMANENTLY ARCHIVED & TRANSMUTED    |
 +==============================================+
 ```
+
+### Narrative Interlude — The Morning After the Count
+
+The countdown board read zero, and nobody wiped it.
+
+That was the first irregularity of the real year, and it was committed by the night commander whose duty it was to wipe the board, who stood in front of it at the usual hour with the cloth in her hand and then put the cloth back on the shelf. Her log entry for the hour reads: board not wiped, no further count required, recommend board retained. Central Command countersigned it without comment, which is how the slate that had carried one day at a time for three hundred and sixty-five days became the only object in the facility permitted to carry a history.
+
+The rest of the morning was ordinary in a way that several people have since described as almost rude. The watches turned over on schedule. The mess served. The pot was full, because somebody had filled it at four, as somebody had filled it every night since the first week of the foundation.
+
+The receiving hall was warm and empty. Two officers checked the stove, counted the bowls, and folded the blankets that had been folded ninety times already, for nobody, in a year that had not yet produced anyone to arrive. They did it because the morning they do arrive the warmth has to already be there, and because that reasoning had not stopped being true simply because the loop had stopped.
+
+In Engineering, the deck was in the drawer where it had been banded and counted at the close of the blessing weeks. Fifty-two, as always. Somebody checked. Nobody dealt.
+
+The vault stairhead board was blank, wiped at the close of the vault weeks as the custom requires, the tin of chalk on the shelf beside it. It will stay blank. The custom was built so that nobody's name carries forward and everyone has to choose again — and there is no again now, which is a thing several of the old crew chiefs have said they are still working out how to feel about.
+
+What the senior staff noticed, and recorded, was how little the facility did differently. The temptation afterward is to describe the first unlooped morning as transformed. It was not transformed. It was staffed. The rosters were filed late, by an archivist who had been holding a pen at the verification and then went and did the filing because the filing was outstanding. The corridor outside Central Command was mopped. A supervisor asked about paperwork and received paperwork.
+
+The Director's entry for the morning is four lines, and the fourth is the one the training cohorts are given:
+
+Watches stood. Hall warm. Board at zero and retained. We are in the year now, and the work is the same work, and that is the proof.
+
+Below it, in the margin, in a different hand and never struck out by any reviewer, somebody has added: and the pot is still on.
+

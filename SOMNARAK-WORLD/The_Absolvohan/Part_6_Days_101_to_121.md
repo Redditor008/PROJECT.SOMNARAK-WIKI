@@ -2664,3 +2664,33 @@ Recorded during the hour, and in the receiving hall, across Days 101 through 121
 
 "The blessing is not explained and I have stopped pretending the institution can explain it. Here is what I will defend: a doctrine practiced by exhausted strangers fails eventually, and a doctrine practiced by rested people who know each other holds. The hour makes the second kind of roster. The refugee dawn makes sure that roster remembers who it is for. Put those two in the same three weeks and you get a facility that can cross a threshold. We kept the hour every day this cycle, in every department. I consider that one of the reasons we crossed."
 
+### Narrative Interlude — The Receiving Hall, First Light
+
+Recorded by a reception officer on the morning of the refugee dawn, Day 108, written up the same evening as the protocol encourages.
+
+They came out of the grey in ones and twos and then, for about forty minutes, in a continuous line. I have worked six receiving dawns and this was the largest. You stop counting around the second hour and simply work.
+
+The protocol is four lines and we did the four lines. Soup first — always first, before the register, before anything, because a person holding a warm bowl can stand in a queue and a person who has walked all night cannot. Blankets second. Register third, and you keep the register low on the table so nobody has to hand a child to someone to sign it. And then the fourth line, which is the one that takes the discipline: do not ask.
+
+A young Warden on his first reception nearly asked. I saw it happen — a woman came through with nothing but a coat and a document case and he opened his mouth with the question right there, where is everyone else, and he caught it and closed his mouth and said instead, there is more soup if you want it. She said yes. He got it. That is the whole of the training, in one exchange, learned in about a second and a half.
+
+What I want recorded about the dawn is not the volume. It is that the hall was already warm. We folded those blankets for ninety days in an empty room and people asked us why we staffed it and we said because the morning they arrive the warmth has to already be there. On Day 108 the doors opened and the stove was hot and there were two hundred and forty bowls stacked and every one of them got used. Nobody arrived to a facility getting ready. They arrived to a facility that had been ready since Day 1.
+
+By mid-morning the hall was full and quiet in the way rooms are quiet when everybody in them has finally sat down. Somebody from the Memory Archive started singing — badly, as they do, it was their blessing hour — and about a third of the hall joined in without knowing the song, humming the parts they could not follow.
+
+I went back on watch that night. I read my gauges the way I always read them. I did not read them more carefully. I read them more personally. That is the difference and it lasted the rest of the cycle.
+
+### Narrative Interlude — The Cards
+
+The blessing hour produces artifacts, and the oldest of them is a deck of cards in the Engineering mess with every face worn to grey.
+
+The deck predates the memory of everyone currently in the department. The numbers are legible; the suits require familiarity. New engineers are handed the deck on their first blessing hour and are not told anything about it, which is itself the tradition — you learn what the deck is by playing with it badly for three weeks and then watching somebody handle it on the last day of the blessing with noticeable care.
+
+The game is not important and changes by cycle. What the department protects is the hour's shape: thirty people in one room, a table of cards, a table of quiet, three in the corner sleeping, and nobody working. The last clause is enforced more strictly than any other. An engineer who brings a schematic into the blessing hour is removed from the room — politely, immediately, by colleagues rather than by supervisors, which is why it almost never happens twice.
+
+The engineer who objected to the hour in writing, twice, in two different cycles, plays cards. He has made a point of saying that this does not constitute a withdrawal of the objection, only its supersession by twenty cycles of cohesion data, and that he reserves the right to find the practice unexplained while participating in it fully. His colleagues regard this position as entirely characteristic and deal him in.
+
+On the last day of the blessing weeks the deck is counted, banded, and returned to the drawer, and the drawer is not opened again until the following cycle's Day 101. The counting is done aloud. Fifty-two, every cycle, for longer than the department's records go back — which is remarkable for a deck that has been handled by several thousand people and has never once been replaced.
+
+The Memory Archive, asked whether the deck should be catalogued as an artifact, declined. Their note reads: in use, not historical.
+

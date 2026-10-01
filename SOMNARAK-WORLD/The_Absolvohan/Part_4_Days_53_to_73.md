@@ -2590,3 +2590,45 @@ Vault-crew debriefs, recorded warm and rested on the day after ascent, as the pr
 
 "The vault is the part of this institution I would most like to be able to describe as solved. It is not solved. It is attended. We go down because not going down is how facilities lose vaults, and we come up because the vault is not a place that forgives staying. Everything else said about it in the overview documents is accurate and insufficient, and the crews who actually make the descent know that better than any document will."
 
+### Narrative Interlude — The Sentence the Seal Wrote
+
+From the vault-week file, Day 66, recorded in the warming room an hour after ascent.
+
+"Read it to me the way you read it down there."
+
+"Weeping at the lower margin, left of the main joint, about the width of a thumb. Slow — you could watch it for a minute before anything moved. Dried it, and it came back in the same place in under four minutes, which is faster than the margin should refill if the pressure behind it were static."
+
+"So."
+
+"So the pressure behind it is not static. It is rising, slowly, from below and to the left, and the cold is holding the top of it but not the bottom. That is the sentence. The seal was telling us the ballast is adequate in the wrong direction."
+
+"You sealed it after."
+
+"I sealed it after. Logged first, photographed, margin measured twice, then sealed. And I want it on the record that the seal is a stopgap. We have bought a cycle, maybe two. The thing the vault actually said needs answering upstairs with ballast, not down there with resin."
+
+"It is in the report in those words?"
+
+"In those words. The doctrine says the vault is never lied to and never lied about, and a report that says seal repaired without saying pressure rising from below would be a lie about it. I have seen the files from the cycles where that happened. Everyone has seen them. That is why they are still in circulation."
+
+"How are your hands?"
+
+"Cold. Staged up properly, ate, slept nine hours, and they are still cold. They will be cold until about Day 80. That is normal and I am not reporting it as anything else, before you ask."
+
+"I was going to ask."
+
+"I know. Ask the new one instead — he came up quiet and he has not eaten yet. First descent. He checked seals for six hours in a place that did not care whether he existed and he has not got words for it yet. He will have them tomorrow. Today he needs the bowl and somebody sitting next to him not saying anything."
+
+### Narrative Interlude — The Names at the Stairhead
+
+At the top of the vault stairs there is a board with names on it. It is not a memorial. Every name on it belongs to someone living, or to someone who was living when the name went up, and the distinction is maintained with some care: the vault file carries the full history, and the board carries only the roster of volunteers for the current cycle.
+
+The custom is that you write your own name. Nobody writes it for you and nobody may write it on your behalf, including a supervisor, including the Director. The chalk sits in a tin on a shelf beside the board and a volunteer takes it, writes, and puts it back.
+
+The reason is in the vault doctrine's second line: descent is volunteered, never assigned. The Directorate learned that rule early. It has never been revisited, and the board is the mechanism that makes the rule visible — you cannot be quietly rostered into the dark if the only way onto the roster is your own hand on the chalk.
+
+The Cycle 1,778 board held sixty-one names by the close of the vault weeks. Eleven of them were first descents. Four of the first descents were people who had been told by three separate veterans that there was no shame in not going, which is the standard discouragement and is offered to everyone, every cycle, so that nobody mistakes the absence of pressure for the presence of expectation.
+
+At the close of the vault weeks the names are not erased. They are photographed, filed with the cycle's record, and then wiped — the board goes blank for the rest of the year, and the tin of chalk stays on the shelf.
+
+A crew chief, asked why the board is wiped rather than kept, said: because next cycle they have to choose again. Nobody's name carries forward. You went down last time. That buys you nothing and obliges you to nothing. If you are going down again, pick up the chalk.
+

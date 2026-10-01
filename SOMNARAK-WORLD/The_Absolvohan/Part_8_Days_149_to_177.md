@@ -3247,3 +3247,33 @@ Recorded across Days 149 through 177, before and after the transmutation.
 
 "Cost accepted, facility holding, cycle continuing. That is the standing finding and it is deliberately flat, because the alternative is language that makes an unexplained event sound understood. We do not understand the transmutation. We prepare for it, we staff it fully, we arm every precaution, we stand the singing, and we account honestly for what it takes. Then we manage the long middle by the book, because the middle is what breaks rosters that have already won. This one came through tired and whole."
 
+### Narrative Interlude — Nine Minutes
+
+Composite account of the transmutation, assembled by the counselors from the debriefs of crews on duty, and read to each subsequent training cohort.
+
+It begins as a disagreement between instruments. For about half an hour before, the gauges stop agreeing with each other in a specific pattern — not noise, not drift, but a kind of argument, each reading internally consistent and collectively impossible. Crews who have stood it before recognize the pattern immediately and go to full precautions without waiting for the order. The order comes anyway, two or three minutes later, from Central Command, which has seen the same argument from above.
+
+Then the climb. Nine minutes, give or take forty seconds across every recorded instance. It is not heard. It is felt in the teeth, the long bones, and the floor plates, and the instruments register it in bands no ear reaches. Crews describe the first two minutes as uncomfortable, the middle four as very hard, and the last three as a condition rather than an experience — people report that they were still working, that their hands continued to do correct things, and that they cannot account for the interval from the inside.
+
+The logs confirm the hands. Readings taken during the last three minutes are, in every recorded transmutation, accurate. Whatever the interval does to the person standing it, it does not reach the writing.
+
+Then it stops. Not fades — stops, between one moment and the next, and what replaces it is the stillness. The weight is unchanged. The gauges still measure it. It is simply no longer pressing. Crews describe standing in a room that had been shouting for nine minutes and was now merely full.
+
+The debriefs are taken the next day, warm and rested, per protocol. The accounting is read aloud the day after that: equipment lost, personnel stood down, containments re-rated, every line spoken in the room before it is entered. Then the facility returns to ordinary duty, and the counselors begin watching for flatness, which is the real hazard and arrives about a week later wearing the face of someone performing perfectly.
+
+This account is read to every cohort before their first middle. It explains nothing. It is not intended to explain anything. It is intended so that when the instruments begin to disagree, the newest Warden on the floor will recognize the argument, go to precautions without waiting, and know — in advance, from someone else's words — that the nine minutes end, that the hands keep writing, and that the stillness comes.
+
+### Narrative Interlude — The Flat Week
+
+The counselors call it the flat week, though it rarely lasts seven days and sometimes lasts three. It arrives about a week after the transmutation and it looks like nothing at all, which is the entire difficulty.
+
+The symptom is not distress. A distressed Warden is visible from across a room and the institution is extremely good at catching them. The flat Warden is invisible by construction: on time, correct, complete, and absent. Gauges read accurately. Logs filed promptly. Handovers delivered in full. And behind all of it, nobody home.
+
+The counselors' detection method is deliberately crude, because subtle methods have failed. They ask a question with no operational answer — what did you eat, what is the weather doing, did you sleep — and they listen to the shape of the reply rather than its content. A reply with no floor under it is the finding. It is unscientific, it is recorded as unscientific, and it has outperformed every instrument the Directorate has tried to replace it with.
+
+The remedy is equally unsubtle: rotation, enforced rest, and the deliberate reintroduction of meaning. In practice that last clause usually means reception duty. Send a flat Warden to the receiving hall for a morning and nine times in ten they come back switched on. The counselors do not fully understand why this works and have stopped apologizing for the gap. A hall full of people who needed the containments to hold appears to restore something that a corridor full of gauges cannot.
+
+Cycle 1,778's flat week ran from roughly Day 168 to Day 173 across most departments. Eighty-one personnel were identified, of whom seventy-four were returned to full duty within a rotation. Seven required longer. All seven returned before the final days.
+
+The number that the counselors underline in their report is not eighty-one. It is zero — the count of personnel who were identified by someone other than themselves or their immediate crew. The flat week was caught, every instance, by people standing next to each other. That is what the blessing hour builds and it is why the hour is protected like a precaution.
+

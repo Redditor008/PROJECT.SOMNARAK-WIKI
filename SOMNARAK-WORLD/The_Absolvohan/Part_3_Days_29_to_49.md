@@ -2609,3 +2609,45 @@ Recorded across Days 29 through 49, during and immediately after the hard watche
 
 "We did not push the escalation back. I want that in the record plainly, because the temptation afterward is to describe a plateau as a victory of force. It was not. We drew a line and refused to move it and the pressure stopped where we stood. That is all. The doctrine never promised more than that, and every cycle that believed it could promise more spent itself trying. Hold the line. Let the line be enough. On Day 49 it was."
 
+### Narrative Interlude — The Line, Explained to a Trainee
+
+Transcribed from a corridor conversation on Day 50, recorded with both speakers' consent.
+
+"So we won."
+
+"No. We held."
+
+"Everyone is saying the escalation stopped."
+
+"It did. That is not the same as us stopping it. Sit down a second. You see the board? Day 29 the readings start climbing. Day 49 they stop climbing. What happened in between was not us pushing anything back — it was four hundred people standing exactly where they were standing while the pressure came up and discovering that where they were standing was far enough."
+
+"That sounds like the same thing."
+
+"It is not, and the difference is the only reason anyone survives their second escalation. If you think you pushed it back, next cycle you will expect to push it back, and when it does not go back you will push harder, and pushing harder is how rosters get used up in three weeks. The doctrine does not promise reversal. It promises a line. You draw the line somewhere you can actually hold, and then you do not move, and you let that be enough."
+
+"And if the line is in the wrong place?"
+
+"Then you find out, and you move it once, deliberately, with the whole chain informed. Not mid-watch. Not because it got uncomfortable. The archive has cycles where someone adjusted a line privately because they thought they were being prudent, and the chain did not know, and the next department over was holding a line that no longer connected to anything. Lines are only lines if everyone knows where they are."
+
+"Can I ask the stupid question?"
+
+"Those are the only ones worth the corridor."
+
+"Does it ever go back? Ever?"
+
+"Sometimes. Not usually. Mostly it plateaus and stays plateaued and you spend the rest of the cycle standing at the new level, which is harder than the old level and becomes ordinary faster than you would believe. You are twenty days into your first one and you are still standing. That is the whole answer. The pressure stopped where we stood. Next time it may stop somewhere worse. We will stand there."
+
+### Narrative Interlude — What the Board Looked Like
+
+The escalation board in Central Command is a plain slate wall with four columns and twenty-one rows, one for each day of the escalation window. Each morning the night commander chalks the previous day's closing values across the four columns and steps back. The whole facility's trajectory, in chalk, readable from the doorway.
+
+What Day 29 looked like: three columns green, one with a single upward arrow in the margin. What Day 33 looked like: all four with arrows. What Day 40 looked like: four columns of numbers higher than the foundation baselines by margins that no longer required interpretation, and a roster that read them on the way to their posts without slowing down.
+
+What Day 49 looked like is the entry veterans describe to trainees: four columns, four numbers unchanged from the previous day, and no arrows. Nothing dramatic. An absence of arrows.
+
+The night commander who chalked it has said she hesitated before leaving the margins empty, because an empty margin looks like a mistake, and because she did not want to be the person who declared a plateau that turned out to be a pause. She chalked the numbers, left the margins blank, and added a single word at the bottom of the board, which was not regulation and has not been repeated since: holding.
+
+The day shift arrived to that board. The word stayed up for the remaining hours of her shift, and then the next commander wiped the board for Day 50 as the procedure requires, and the word went with it.
+
+The board is wiped every morning. That is the point of it — it carries one day, never a history. But the Day 49 board is recorded in the escalation file, transcribed exactly, blank margins and all, because the analysts wanted the shape of it preserved and because somebody in the room understood that a facility remembers its own good hours badly unless somebody writes them down on purpose.
+

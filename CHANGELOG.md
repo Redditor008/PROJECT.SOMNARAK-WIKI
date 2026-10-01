@@ -15,6 +15,7 @@ This file records notable changes to the public Somnarak Wiki.
   - V5-1: Dawn of Mourning HP fixed at 12,000 (dossier canonical; side codex corrected from 1,200; corrects the V1 `Dawn 1,200` note above).
   - V5-2: loop end + Hand of Hope fixed at Year 4,238; UCD/SED dates reconciled to the timeline (re-charter reading; UCD box re-based, Katabagil moved to 3,970).
   - V5-12: dossier boilerplate cut from ~39% to ~2% shared lines (per-record name/code slots; doctrine unchanged).
+  - V5-13: Absolvohan story share raised from ~5% to ~15% (narrative interludes, oral-record voices, and in-world documents added across all nine Parts and the Overview; gameplay logs untouched).
   - V5-14: dossier length now climbs by rank (medians I 4,872 / II 5,022 / III 5,270 / IV 5,534 / V 7,042; grown additively, nothing deleted).
   - V5-15: all 60 ordeal leads + 40 engage lines rewritten unique; tactical tails preserved.
   - New lint rules: retired rank names (seam), docs/ + DEVELOPMENT.md path coverage (seam), loop-end/campaign chronology guards (timeline).
