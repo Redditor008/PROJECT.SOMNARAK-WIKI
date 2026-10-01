@@ -1,76 +1,69 @@
-PRIORITY 1 - CANON CONFLICTS
+V5 PREVIEW RESULT
 
-V5-1. Dawn of Mourning has two different HP values
+DONE AND VERIFIED
 
-SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-002_Dawn_of_Mourning_애도의_여명.md, line 59, says 12,000/12,000.
-SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-A__SIDE_CODEX_Dawn_of_Mourning.md, line 25, says 1200/1200. The CHANGELOG also says "Dawn 1,200".
-The rules doc now calls 12,000 "a documented outlier", but the side codex still disagrees.
-Fix: choose one value and make the dossier, the side codex and the CHANGELOG match. The other 72 of 73 side codices already match their dossiers.
-V5-2. Year 4,233 versus 4,238, and other timeline mismatches (V1-F residue)
-The status note says the Absolvohan end-year mismatch is "already bridged". It is not. CANON_TIMELINE.md (lines 61 and 110) and The_REVERIE_DIRECTORATE.md (lines 330 and 2946) put the Hand of Hope and the end of Cycle 1,778 in Year 4,238. Other files put them in 4,232–4,233.
+V5-1: Dawn of Mourning is 12,000 in both the dossier and the side codex, and the CHANGELOG is corrected.
+V5-2: The loop end and Hand of Hope are Year 4,238 everywhere, including the Absolvohan README and Part 9. UCD is 4,039 and the Katabagil descent is 3,970. Lint guards C1 and C2 were added.
+V5-5: The ID letter definition in Sorrow_Entities/README.md now says City/Outside/Inner.
+V5-6: The catalog has no risk names left.
+V5-7: The rules doc now says Rank IV runs 390–1,000.
+V5-8: The rules doc now says "At or below 15".
+V5-9, V5-10 and V5-11: The retired-rank lint, the path lint (now covering docs/ and DEVELOPMENT.md) and the chronology lint are all in.
+V5-13: Story share in the Absolvohan is about 12–15%. There are 38 new interludes of about 500 words each, and 0% of their sentences are reused.
+V5-15: All 60 Ordeals have unique leads.
+V5-14, partly: The length ladder exists, with medians of I 4,872, II 5,022, III 5,270, IV 5,533 and V 7,042. The 13 Rank V chronicles are bespoke (0% reused).
+NOT DONE OR PARTLY DONE
 
-The_Absolvohan/README.md, lines 52 and 231, says "Post-Loop Calendar Year 4,233" and that the loop "breaks into Year 4,233".
-The_Absolvohan/Part_9_Days_350_to_365.md says Year 4233 at lines 448, 508 and 881.
-The_Absolvohan/ABSOLOVHAN_OVERVIEW.md says "Dawn of Year 4,233" at lines 1633 and 1640.
-Master_Codices/02_Institutional_Wings_and_Chronicles/The_UNDERWORLD_CLEANUP_DESCEND.md, near lines 486–492, says Year 4,232 "Absolvohan fires; 15% converted to Hope" and Year 4,233 "Katharcheok Campaign executed". The timeline says the UCD ran Years 3,973–4,039.
-The_SOMNARAK_EXPLORATION_DECREE.md, near lines 548–566, says Year 4,233 "Katabagil Descent executed; Seven Passages completed". The timeline says the SED descents ran Years 2,460–3,970. The same table also says Year 4,247 for the Nadir.
-Also check Part 9 line 448, "the year 4232+1778 is over". It reads as a garbled year.
-Fix: decide whether the loop ends and the Hand of Hope opens in Year 4,233 or 4,238. Then make the timeline, the Absolvohan, the UCD codex and the decree codex agree, and keep the SED and UCD dates consistent with the timeline.
-PRIORITY 2 - DOCS THAT DISAGREE WITH THE ARCHIVE
+V5-3: "292" is still in a couple of live docs (V6-4).
+V5-4: one "44" remains in the root README (V6-4).
+V5-12: it is a regression, not a fix (V6-1 and V6-2).
+V5-14: the Rank II–IV additions are recycled stories (V6-3).
+V5-15: one Ordeal still has the old text (V6-5).
+V5-16: main is unchanged (V6-7).
+V6 - FIX LIST (Project Somnarak)
 
-V5-3. "292" remains in live docs
-The status note says these files have no "292". They do. Change all to 291.
+PRIORITY 0 - BROKEN BUILD
 
-SOMNARAK-WORLD/Unknown_Entities/README.md, line 13
-SOMNARAK-WORLD/README_FIRST.md, line 33. It also says "over 1,700 technical files", so update that number too.
-SOMNARAK-WORLD/Tactical_Combat_Engine/WHAT_CAN_BE_DONE.md, line 61
-SOMNARAK-WORLD/Pages/42-Navigation.md, line 15 ("292 Sorrow Entities (285 SECC) - 88 Relics", which also needs checking against the 284-indexed catalog) and line 84
-Optional, historical: REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md (lines 6, 45 and 104) and WIKI_PARTS_ABNORMALITIES.md (line 97)
-V5-4. Root README and the audit still have old counts
+V6-1. The V5-12 name-slotting broke the dossier field labels, and CI is red
 
-README.md, line 32, says "44 In-Universe Master Codices". Master_Codices/ holds 49 files, and the audit reports 49 in-world plus 3 editorial.
-README.md, line 91, says "(12 Volumes)". Everywhere else says 16.
-tools/audit_lore_archive.py has a stale constant. It expects 35 and finds 52, so the printed line reads "52 / 35 master codices", and the docstring at line 67 still says "35 foundational reference codices (32 + 3)". The status note says that string is absent repo-wide, but it is built at runtime (line 318). Update the expected count and the docstring.
-V5-5. The ID letter is defined wrongly
-File: SOMNARAK-WORLD/Sorrow_Entities/README.md, about lines 18–32.
-It defines [M] as Manifestation Class (C Concrete, N Non-physical, A Abstract). The files and the audit use C = City, N = Inner Sorrow, O = Outside Sorrow. Rewrite it.
+It added "(Entity Name)" to table labels. Example in SE-C-IIIγ-081_The_Hollow_Saint: "Sorrow Category (The Hollow Saint)" and "Movement (The Hollow Saint)". The **Mechanics Reference (The Hollow Saint):** callout got the same treatment.
+About 7,275 labels in 282 dossier files are affected.
+The audit looks for "Sorrow Category" exactly. It now reports "282 scope mismatches" and a FAIL.
+It also appended code tags to sentences, such as "...behavior. [SE-C-IIIγ-081]". There are about 2,007 of them across 287 files, and 4 Unknown_Entities files are affected.
+Fix: revert both changes. Remove " (Entity Name)" from every table label and callout label, and remove the trailing " [SE-code]" tags. Then re-run all five tools before pushing. The Sorrow Category field must match the filename prefix again.
+V6-2. The boilerplate is not actually fixed
 
-V5-6. The catalog uses Project Moon risk names
-File: REFERENCE_SOMNARAK_WIKI/SORROW_ENTITIES_CATALOG.md. There are 204 hits for ZAYIN, TETH, HE, WAW and ALEPH. Either replace them with Residue, Echo, Fragment, Entity and Sovereign, or whitelist the folder in the vocabulary policy.
+The "39% → 2%" figure comes from making lines differ by their labels and name tags.
+With labels, tags and names stripped, the shared-line share is about 41.7%, the same as before.
+Fix: stop decorating labels. Rewrite the repeated prose lines in Behavior, Combat, Testimonium and Interactions so they differ in substance.
+Count the table labels as fixed template structure, and measure only prose lines. Suggested target: under 25% shared prose.
+Correct the CHANGELOG V5-12 claim, which currently says "~39% to ~2%".
+PRIORITY 1 - CONTENT QUALITY
 
-V5-7. The HP anchors in the rules doc are not literally true
-File: SOMNARAK-WORLD/Tactical_Combat_Engine/ACTION_DICE_AND_CLASH_RULES.md, line 106.
-"Rank IV dossiers run 600–950" is wrong. The measured range is 390–1,000, with a median of about 824 across 80 dossiers. Rank V runs from 521 to 12,000. Change the wording to the real range, or say "typically 600–950 with outliers".
+V6-3. The "length ladder" is padded with recycled stories
 
-V5-8. The Transform line wording is implicit
-The rules doc never writes "at or below 15". It says "15 — onset begins" and "recovery above 15 arrests onset". Add the explicit phrase so it matches the Junior Warden at exactly 15 in Descent 5.
+## Apex Record (80 Rank IV files, about 733 words each), ## Warden Record (82 files, about 327 words each) and ## Watch Record (70 files, about 166 words each) are built from about 10 story templates per section.
+Each template is reused across about 8 entities with the name swapped. 93–96% of their sentences appear in 3 or more files.
+Example: the "unfiled watch log in the commander's drawer" paragraph appears word for word in 6 Rank IV dossiers.
+Fix: write unique content for each entity, or keep these as a few shared annex documents that the dossiers link to. Don't copy them 8 times.
+The lower ranks are also still long (Rank I median about 4,900 words). I originally suggested shorter low ranks, which would make the ladder real.
+PRIORITY 2 - STALE REFERENCES
 
-PRIORITY 3 - LINT AND TOOL GAPS
+V6-4. Leftover counts
 
-V5-9. Nothing prevents the old rank names from coming back
-Add a seam_lint rule that flags Wail, Whisper or Murmur next to "Rank" or a Roman numeral. Whitelist the deprecation note in SOMNARAK_ENTITY_CODEX.md (line 59).
+SOMNARAK-WORLD/Pages/README.md, line 64: "292 containment records".
+SOMNARAK-WORLD/Pages/01-Main Page.md, line 42: "all 292 crystallized sorrows" and "all 285 unique SECC codes". Change them to 291, and check the 285 against the 284-indexed catalog.
+README.md, line 108: "44 Macro-Canon Master Codices". Change it to 49. Line 32 is already fixed.
+Optional (historical): 7 lines of "292" in REFERENCE_SOMNARAK_WIKI/*.
+V6-5. One Ordeal still has the old template line
+SOMNARAK-WORLD/Ordeals/Ordeal_PURPLE_Third_Watch_The_Bloom_Hosts.md still contains "Engage with major-appropriate teams. Mixed-element M.A.W. recommended". Rewrite it like the other 59.
 
-V5-10. The path lint skips the places that had broken references
-tools/seam_lint.py, lines 65–70, still skips docs/, TEMPLATES/, REFERENCE_*, tools/ and DEVELOPMENT.md. Remove docs/ and DEVELOPMENT.md from the skip list, since people read them.
+PRIORITY 3 - PROCESS AND LINT
 
-V5-11. The timeline lint can't catch chronology conflicts like V5-2
-It passes all 1,794 files while 4,232/4,233 conflicts exist. Add a rule that flags "Year 4,233" and "Year 4,232" when they appear in the same sentence as Hand of Hope, Dawn, Absolvohan fires or loop ends. Also flag any SED or UCD campaign dated after Year 4,200.
+V6-6. Prevent this kind of regression
 
-PRIORITY 4 - CONTENT SHAPE (deferred by you; the repo marks these "no targets set")
-
-I suggest measurable targets below.
-
-V5-12. Dossier boilerplate (V1-I)
-About 36.8% of lines are shared by 30 or more dossiers. Suggested target: under 25%.
-
-V5-13. The Absolvohan is mostly logs (V3-N7)
-Story is about 5% of the text and gameplay logs are about 95%. The "sampled days" note explains the format but doesn't change the ratio. Suggested target: add narrative scenes for the key days, or set an explicit ratio goal, for example 15% story.
-
-V5-14. Dossier length is flat by rank (V3-N8)
-Every rank has a median of about 4,700–5,100 words. Suggested target: Rank I about 2,500–3,000 words, Rank II about 3,500, Rank IV about 5,500, and Rank V about 7,000 or more.
-
-V5-15. Ordeal polish (optional)
-The Ordeals now meet the depth bar. Each one still keeps its old template lead sentence, and the unique-line share is about 24%. For example, two files still contain "Engage with major-appropriate teams. Mixed-element M.A.W. recommended". A final pass could reword those lead sentences.
-
-V5-16. Process (your decision)
-main is still at 8f7138fb, and all the work is only on the arena branch (open PR #11). Decide when to merge.
+Run the full gate set (audit, box, timeline, seam, links, tests) before every push. The V5-12 push failed the audit and still went out.
+Add a lint that dossier table labels must come from a fixed list and may not contain parentheses with the entity name.
+Add a lint that flags a trailing "[SE-…]" tag after a sentence.
+V6-7. Process decision (yours)
+main is still at 8f7138fb, and the arena branch is still ahead in open PR #11. Decide when to merge. I would wait until V6-1 is fixed and CI is green.
