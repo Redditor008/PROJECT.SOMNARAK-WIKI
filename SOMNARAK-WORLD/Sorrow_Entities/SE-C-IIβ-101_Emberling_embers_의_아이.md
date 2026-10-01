@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Emberling embers.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The embers do not go out and do not spread, holding a constant extent in the Gardens enclosure.
+- A successful cycle dims them for a shift. The extent is unchanged, and the entity has never been recorded as cooling.
+- Three ignored conditions escalate it. Escalation presents as brightness rather than heat.
+- Emotional pressure is the hazard; personnel who describe the embers as comforting are rotated out.
+- Extraction is a separate risk event with its own authorization.
 
 ## Combat Record
 ### Core Stat Line

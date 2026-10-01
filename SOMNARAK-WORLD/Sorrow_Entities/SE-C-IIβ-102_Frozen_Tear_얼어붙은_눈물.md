@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Frozen Tear.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Tear does not melt and does not form condensation, whatever the enclosure temperature.
+- Work settles the object for a shift. It is not warmed or altered by a successful cycle.
+- Only Viderehan and Ferrehan apply to the object, and both are logged as effective at the case.
+- No breach counter applies. The cold field widens through the Gardens, and its edge is marked physically at every session rather than estimated from the previous reading.
+- Extraction draws from the field edge under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

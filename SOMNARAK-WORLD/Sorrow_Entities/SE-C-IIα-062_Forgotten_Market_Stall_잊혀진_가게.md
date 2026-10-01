@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Forgotten Market Stall.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Stall appears at a different place in the market each time it is logged, always already set up and never attended.
+- A cycle lowers the pressure around it for a shift. The Stall is unchanged and its goods are never the same twice.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- No breach counter applies because the manifestation is mobile. Position at contact is recorded as a bearing from the market gate at every session.
+- Residue from the stall surface is the extraction source, under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

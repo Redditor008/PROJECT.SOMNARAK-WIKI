@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Hums.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The sound is continuous and has no located source; on open display it is audible from the Gardens path.
+- A successful cycle lowers the volume for a shift. The pitch has never changed, and the entity is not diminished by work.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- No breach counter applies. The audible field widens, and because the display is open the boundary is walked before any public session.
+- Extraction is a separate authorization and carries the same auditory exposure.
 
 ## Combat Record
 ### Core Stat Line

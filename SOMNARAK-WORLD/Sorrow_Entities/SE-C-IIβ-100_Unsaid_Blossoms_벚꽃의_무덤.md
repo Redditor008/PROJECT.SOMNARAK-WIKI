@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Unsaid Blossoms.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The blossoms open out of season and close when spoken to directly, including when the speaker is addressing someone else nearby.
+- Work extends the open period. The Gardens site is otherwise unchanged, and no cycle has produced a seasonal response.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- There is no breach counter. The flowering spreads along the bed, and the furthest open blossom is marked at every session.
+- Residue from the bed is the extraction source, authorized separately.
 
 ## Combat Record
 ### Core Stat Line

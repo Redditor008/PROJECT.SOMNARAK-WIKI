@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Masked Dancer.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Dancer repeats a sequence that has never been recorded in full, because observers lose the order of the steps.
+- A cycle slows the sequence. It does not interrupt it, and the Dancer resumes at the step it had reached.
+- The margin is three conditions. Escalation is physical, and the Mask Market floor is cleared before any session.
+- Personnel who begin matching the rhythm are withdrawn, including those only watching.
+- Recovery of the implement is a separate authorization and is never a reward for a clean shift.
 
 ## Combat Record
 ### Core Stat Line

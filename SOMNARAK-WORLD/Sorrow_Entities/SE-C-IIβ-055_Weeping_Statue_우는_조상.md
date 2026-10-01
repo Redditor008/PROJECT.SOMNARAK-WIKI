@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Weeping Statue.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Statue weeps continuously in the Gardens, and the fluid is not drawn from any supply in the enclosure.
+- Work slows the weeping. It has never stopped, and the Statue is unchanged by a successful outcome.
+- Three ignored conditions escalate it. Escalation is a change in posture rather than in flow rate.
+- Emotional pressure builds in observers before it registers on the gauge; crews are rotated on time rather than on reading.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

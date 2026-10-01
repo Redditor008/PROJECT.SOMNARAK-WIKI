@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful Viderehan or Ferrehan work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded activation or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter management.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The shrine sits dry in the Riverbed Vault, and the carving is cool regardless of the vault temperature.
+- A hand laid upon the carving is the activation condition. There is no counter and no gradual approach to it — the condition is met or it is not.
+- Work steadies Composure in the vault. It does not alter the carving, and the shrine has never been recorded as spent.
+- Personnel are briefed that the longing is the hazard rather than the water, and that the impulse to touch the stone is the entity acting.
+- Relic recovery is authorized separately and is not treated as an outcome of a successful shift.
 
 ## Combat Record
 ### Core Stat Line

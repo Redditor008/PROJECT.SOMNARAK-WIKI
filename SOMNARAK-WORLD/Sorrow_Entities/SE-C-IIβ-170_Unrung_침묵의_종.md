@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Unrung.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Unrung has never sounded. It is held near the Orphaned Bell, and the silence is measured rather than assumed.
+- Work maintains the silence for a shift. Nothing on record has caused or prevented a sound.
+- Only Viderehan and Ferrehan apply to the object, and neither has produced a sound.
+- No breach counter exists. The quiet field expands, and personnel confirm its edge by instrument at every session, because the boundary cannot be heard and cannot be assumed from the last reading.
+- Residue recovery is a separate authorization.
 
 ## Combat Record
 ### Core Stat Line
