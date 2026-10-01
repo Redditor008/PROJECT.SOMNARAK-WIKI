@@ -322,16 +322,21 @@ The entity does not rage. It does not weep. It persists — grudge and grudge, p
 
 ## Warden Record
 
-### The Anniversary
+### Clocks Running Back
 
-Every cycle, on the containment's founding date, Backward Hour's roster holds the anniversary — the full chain mustered, the founding log read aloud, the year's watches honored. The anniversary reads the numbers: watches stood, readings logged, pressures weathered. Then the senior Warden reads the names: the roster present, the roster rotated, the roster remembered. New Wardens hear what the containment is. Veterans hear what they maintain. And the founding log — the first watch, the first readings, the oath sworn fresh — binds the anniversary to the origin: this is what was sworn, this is what was kept, this is what continues. Backward Hour (SE-C-IIIγ-913) has been held for every anniversary the archive records. The roster intends to hold every anniversary after.
+Every timepiece in the district reverses for the duration and the reversal is not uniform — some run faster backward than others, and citizens' anger rises in proportion to the local rate. The Warden's watch consists of recording rates at fixed points across the district, which requires a team rather than a person and is the only containment in the wing where the duty is distributed geographically.
 
-### The Founding Log
+### Proportional Fury
 
-The founding log is preserved under glass — the first watch's readings, the first commander's hand, the oath's first swearing. Trainees read it through the glass before they read anything else, and the lesson lands the way origins teach: everything the containment is began here, with these readings, this roster, this oath. The founding log's margins carry the first commander's annotations — steady, holds, continue — preserved in the original hand. Veterans touch the glass on anniversary. Newcomers press close to read. Backward Hour is witnessed by the latest link in a chain the founding log began. The glass protects the page. The roster protects everything else. The anniversary binds them: origin and present, sworn and kept, held then and held now.
-### The Toast
+Anger scales with the speed of the reversal, which means the fastest clocks mark the most dangerous streets, and the response is deployed accordingly: presence where the rate is highest, nothing where it is low. The allocation is decided from the readings rather than from the previous occurrence, each event having produced a different distribution. The file notes that assuming the last pattern would hold was tried once and was wrong.
 
-The anniversary closes with the toast — the roster raised glasses (water, on duty) to the containment held and the year coming. The senior Warden speaks the formula: to the watches stood, the pressures weathered, and the oath renewed. The roster answers: held, weathered, renewed. Veterans describe the toast as the anniversary's seal — the ceremony closed, the year blessed, the containment commended by its own. Backward Hour is toasted every anniversary. The glasses rise. The oath holds.
+### Irregular Recurrence
+
+It returns on no schedule. The intervals have been analyzed repeatedly and no period has been found, and the analyses are retained together so that the next person to attempt it can see the ground already covered. The standing position is that the event cannot be forecast and that the district is told so plainly, the facility having decided early that an unreliable warning would be worse than none.
+
+### Older Than the Record
+
+The first documented occurrence has a date and the phenomenon predates it, grudge of this kind having thickened in the district without announcing itself. The file states this at the front rather than in a historical annex. The archivist's note adds that the earliest records are municipal complaints about clocks rather than about anger, and that the complaints were treated as a maintenance matter for some years. Readings are taken at the same fixed points every time regardless of where the previous event concentrated, so that the series remains comparable across occurrences. Adding points nearer the worst streets has been proposed after several events and declined each time, on the ground that a network which follows the last event measures the last event rather than the next one. The fixed points have not moved since the holding was established.
 
 ## Trivia
 

@@ -353,16 +353,21 @@ Now it sits in a containment cell on Floor 4, covered in dials that turn on thei
 
 ## Warden Record
 
-### The Drill
+### Dials That Turn Alone
 
-Emergency drills run on rotation in Thinking Engine's containment — pressure scenarios, breach simulations, full-muster exercises the roster performs the way musicians practice scales. The drill doctrine is the Directorate's standing answer to complacency: practice the crisis before the crisis practices on you. Drills are unannounced, realistic, and graded — the senior Warden scoring response time, precaution arming, and roster discipline against the standard. Failing drills are repeated. Passing drills are logged. And the roster performs every drill as if Thinking Engine (SE-C-IIIγ-904) pressed in truth, because the doctrine's spine is realism: drill as you will stand. The roster drills hard. The roster stands harder. The drills prove it, rotation after rotation.
+The apparatus runs without power, its gears grinding and its dials moving continuously, and no input has ever been supplied to it. The Warden logs dial positions each watch against a diagram, which is tedious, produces a long series, and has yielded nothing interpretable in the whole of the containment's operation. The logging continues. Its justification in the standing order is a single sentence observing that the machine is plainly computing something and that the facility would rather hold an unreadable record than none.
 
-### The After-Action
+### The Lens
 
-Every drill ends with the after-action — the roster gathered, the senior Warden reading the score, each Warden speaking one improvement. The after-action's rule is candor without rank: the newest Warden speaks first, the senior Warden last, and every improvement is logged regardless of source. The after-action log runs continuously — hundreds of entries, each one a small sharpening: faster arming here, clearer signals there, better positioning everywhere. Veterans describe the after-action as the drill's true product: not the practice but the polish. Thinking Engine is witnessed by a roster that improves on rotation, drill by drill. Practice the crisis. Polish the response. The after-action proves the roster does — one improvement at a time, logged forever.
-### The Perfect Score
+A central lens focuses on whoever stands before it and tracks them as they move. Wardens work from the side. The position is not a prohibition on being seen — the lens finds people regardless — but a reduction in how directly, and the file is candid that the measure is partial and was adopted because it was the only thing that helped. Wardens report the attention as evaluative rather than hostile.
 
-Once in a generation of drills, a roster scores perfectly — every response on time, every precaution armed, every signal crisp. Perfect drills are logged in gold — the senior Warden's term for the commendation entry, preserved verbatim. The roster that scored it is honored at muster. The drill is studied by every roster after. Thinking Engine has witnessed perfect drills and held through all of them — practiced crises met with perfect responses. Drill as you will stand. The perfect score proves the roster stands perfectly.
+### Seol
+
+The Keeper who built it is named in the file and her own notes are held with the containment record, in her hand, across a considerable number of pages. They are difficult to read and not because of the handwriting. The archivist's note explains that the notes become faster and more compressed toward the end, that the final pages are largely unparsable, and that the machine was finished after they stop.
+
+### Faster Than the Filing
+
+Her mind outran the Mantle's categories and the containment file reproduces the system she was working within — the filing schedule, the density thresholds, the processing intervals the apparatus was meant to serve. The schedule is unremarkable administrative material. It is included because Seol built the Engine to do what the schedule could not, and the Warden's commissioning material presents the schedule first. Her notes are held in the order she left them, unnumbered and unbound, in a shallow box built to their dimensions. Pagination was proposed when the material was accessioned and declined, the archivist observing that imposing a sequence would require deciding what order the later pages belong in and that nobody is in a position to decide that.
 
 ## Trivia
 

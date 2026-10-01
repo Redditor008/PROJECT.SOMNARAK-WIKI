@@ -405,16 +405,21 @@ Some sorrows mourn what was lost. Memory Lock mourns what is known and kept — 
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Anniversary
+### Hardening Against Curiosity
 
-Every cycle, on the containment's founding date, Memory Lock's roster holds the anniversary — the full chain mustered, the founding log read aloud, the year's watches honored. The anniversary reads the numbers: watches stood, readings logged, pressures weathered. Then the senior Warden reads the names: the roster present, the roster rotated, the roster remembered. New Wardens hear what the containment is. Veterans hear what they maintain. And the founding log — the first watch, the first readings, the oath sworn fresh — binds the anniversary to the origin: this is what was sworn, this is what was kept, this is what continues. Memory Lock (SE-C-IIIγ-300) has been held for every anniversary the archive records. The roster intends to hold every anniversary after.
+The Lock strengthens when somebody wants to know what it holds, which inverts the usual relationship between an obstacle and the attention paid to it. The Warden's duty is therefore partly a discipline of incuriosity, and the standing order says so in those words. Wardens are not asked to pretend indifference. They are asked not to investigate, not to speculate in the chamber, and not to discuss the vault's contents anywhere in the wing, and the file notes that the third provision is the one that required a written rule.
 
-### The Founding Log
+### What It Whispers
 
-The founding log is preserved under glass — the first watch's readings, the first commander's hand, the oath's first swearing. Trainees read it through the glass before they read anything else, and the lesson lands the way origins teach: everything the containment is began here, with these readings, this roster, this oath. The founding log's margins carry the first commander's annotations — steady, holds, continue — preserved in the original hand. Veterans touch the glass on anniversary. Newcomers press close to read. Memory Lock is witnessed by the latest link in a chain the founding log began. The glass protects the page. The roster protects everything else. The anniversary binds them: origin and present, sworn and kept, held then and held now.
-### The Toast
+It speaks, continuously and quietly, and what it says are the secrets it is holding. Wardens hear fragments. They are instructed to log that whispering occurred and to log nothing of its content, and the instruction is enforced by the form, which provides a mark and no line to write on. Three Wardens have submitted supplementary notes against the rule. All three were destroyed unread by the senior Warden in the presence of the person who wrote them, which is the procedure, and all three Wardens asked for it.
 
-The anniversary closes with the toast — the roster raised glasses (water, on duty) to the containment held and the year coming. The senior Warden speaks the formula: to the watches stood, the pressures weathered, and the oath renewed. The roster answers: held, weathered, renewed. Veterans describe the toast as the anniversary's seal — the ceremony closed, the year blessed, the containment commended by its own. Memory Lock is toasted every anniversary. The glasses rise. The oath holds.
+### Protecting by Denying
+
+The Keepers sealed memories judged capable of destabilizing the city, and the containment file holds the sealing authority rather than the contents — the instrument, its signatories, and the criteria applied. The criteria are vague. This is noted plainly in the archivist's commentary, which observes that the document authorising the seal does not describe what was sealed and that the people who signed it are no longer available to be asked.
+
+### No Public Entrance
+
+The vault has no door onto any corridor and was built without one. Access, if it were ever authorized, would require cutting, and the engineering assessment of what that would involve is held with the file and is updated every cycle despite there being no proposal to use it. The updating was questioned once as pointless. The answer entered was that an assessment nobody maintains is an assessment that will be wrong on the day somebody finally wants it.
 
 ## Trivia
 

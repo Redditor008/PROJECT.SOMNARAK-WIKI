@@ -409,16 +409,21 @@ Some sorrows are about loss. Learned Your Face is about the loneliness of believ
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Visitor
+### No Neutral Reflection
 
-Civilians visit Learned Your Face's facility on escorted rotation — oversight committees, trainee cohorts, the occasional dignitary requiring proof the Directorate spends wisely. The visitor protocol governs every tour: see the precautions, meet the roster, witness the doctrine practiced. Escort Wardens perform the protocol the way docents perform museums — proudly, precisely, and with the veteran's pleasure in showing work well done. Visitors ask the questions visitors always ask: is it safe, is it wise, is it worth it. The escort answers with the containment itself: the gauges, the logs, the roster standing. Learned Your Face (SE-C-IIIγ-195) receives few visitors and impresses all of them. The protocol proves the Directorate's case the way only practice proves anything: by showing.
+The glass returns sorrow and nothing else. There is no setting, no angle, and no condition under which it shows a person as they are, and the Warden's standing order treats this as the containment's entire hazard: the mirror is not dangerous to stand before, it is dangerous to believe. Wardens work with their backs to it. The position is marked on the floor and the marking is checked at the start of every watch, which is a trivial procedure that exists because the alternative is relying on a person to remember where not to look while tired.
 
-### The Guest Book
+### Waiting Without Aging
 
-Visitors sign the guest book — name, office, and one line of impression. The book runs to volumes: oversight satisfied, trainees inspired, dignitaries reassured. The roster reads the guest book the way crews read commendations: with pride earned and perspective kept. The visitors see the containment for an hour. The roster stands it for careers. But the guest book's lines prove what the roster sometimes forgets mid-watch: the work shows. The doctrine reads. The containment impresses even the skeptical. Learned Your Face is witnessed by personnel the visitors praise and the Directorate trusts. The guest book holds the praise. The roster holds the entity. Both holdings grow, visit after visit, watch after watch.
-### The Return Visit
+It does not degrade. The frame, the surface, and the mounting are in the condition they were in when the containment opened, and the annual inspection confirms this in the same two lines every year. The inspection is retained despite having never found anything, on the reasoning entered by the engineer who wrote the schedule: an object that has not changed in all that time is interesting precisely because it has not, and the day it does, the facility should not have to guess when it started.
 
-Some visitors return — oversight satisfied so fully they bring colleagues, trainees inspired so deeply they request posting. Return visits are the escort Wardens' proudest moments: the containment impressed once, and the impressed came back. The guest book's return entries are marked with the escort's star — came, saw, returned. Learned Your Face collects return visitors the way the roster collects commendations: steadily, deservedly. Visit once, impressed. Return, convinced. The containment proves itself twice.
+### Hidden Grief
+
+What it shows is the grief a person has concealed, including from themselves, and this is the part of the briefing the counselors deliver rather than the roster. Wardens are told that a glance is survivable, that a long look is not advisable, and that nobody will be asked what they saw. The last provision is absolute. No Warden has ever been required to report the content of a reflection, and the debrief form has no field for it.
+
+### The Sealed Room
+
+Citizens carried their pain into a closed room beneath the Alpha Tree and left without speaking to anyone, and the containment file holds the room's access register from that period. It is a long list of names with times of entry and exit and nothing between them. The archivist's note records that the register was kept properly, that it proves each person came and went alone, and that the facility has no other document describing what the room was for.
 
 ## Trivia
 

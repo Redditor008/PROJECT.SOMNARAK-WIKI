@@ -299,16 +299,21 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 
 ## Warden Record
 
-### The Visitor
+### The Hour
 
-Civilians visit Eleven Fifty-Nine's facility on escorted rotation — oversight committees, trainee cohorts, the occasional dignitary requiring proof the Directorate spends wisely. The visitor protocol governs every tour: see the precautions, meet the roster, witness the doctrine practiced. Escort Wardens perform the protocol the way docents perform museums — proudly, precisely, and with the veteran's pleasure in showing work well done. Visitors ask the questions visitors always ask: is it safe, is it wise, is it worth it. The escort answers with the containment itself: the gauges, the logs, the roster standing. Eleven Fifty-Nine (SE-C-IIIγ-912) receives few visitors and impresses all of them. The protocol proves the Directorate's case the way only practice proves anything: by showing.
+It occurs once per cycle in the Commons, in the small hours, and every citizen in the district feels the same grief at the same moment. The facility cannot prevent it, cannot shorten it, and does not attempt to. What the holding does is know when it is coming, which it does accurately, and the entire containment function consists of notification: the district is told, the district prepares, and the Warden records what happened afterward.
 
-### The Guest Book
+### Notification
 
-Visitors sign the guest book — name, office, and one line of impression. The book runs to volumes: oversight satisfied, trainees inspired, dignitaries reassured. The roster reads the guest book the way crews read commendations: with pride earned and perspective kept. The visitors see the containment for an hour. The roster stands it for careers. But the guest book's lines prove what the roster sometimes forgets mid-watch: the work shows. The doctrine reads. The containment impresses even the skeptical. Eleven Fifty-Nine is witnessed by personnel the visitors praise and the Directorate trusts. The guest book holds the praise. The roster holds the entity. Both holdings grow, visit after visit, watch after watch.
-### The Return Visit
+The warning goes to the district council, the infirmaries, and the night services, in that order, on a standing list that the council itself drew up. The facility does not decide who is told. The list has been revised three times by the council and the facility has implemented each revision without comment, which was the arrangement agreed when the holding was established and which the council's own minutes describe as the only reason they agreed to it.
 
-Some visitors return — oversight satisfied so fully they bring colleagues, trainees inspired so deeply they request posting. Return visits are the escort Wardens' proudest moments: the containment impressed once, and the impressed came back. The guest book's return entries are marked with the escort's star — came, saw, returned. Eleven Fifty-Nine collects return visitors the way the roster collects commendations: steadily, deservedly. Visit once, impressed. Return, convinced. The containment proves itself twice.
+### Simultaneity
+
+The grief arrives for everyone at once rather than spreading, and this is the property that distinguishes it from everything else in the wing. It has been verified carefully, across the district, by observers who did not know each other's positions. The verification is held in the file with the observers' individual returns rather than as a summary, so that a reader can see the times for themselves.
+
+### What the City Forgot
+
+The hour behaves as though the city is remembering something it suppressed, and the facility has never identified what. The investigation was conducted, was thorough, and failed, and its report is retained in full including its methods. The standing note at the front states that the question is open, that the facility does not expect to answer it, and that the hour arrives on schedule regardless. The Warden's post-event record is filed with the council as well as with the facility, in identical form, and the council's copy is the one read at their next sitting. Neither party edits the other's.
 
 ## Trivia
 

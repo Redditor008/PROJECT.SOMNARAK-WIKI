@@ -367,16 +367,21 @@ Some sorrows find a home. Floating Well is a sorrow that could not — and so, h
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Letter
+### No Ground Beneath
 
-Wardens in Floating Well's chain write letters — to family, to friends, to the civilian lives they maintain alongside the watches. The letter custom is the roster's oldest morale practice: write honestly, write regularly, and write home. The Directorate censors nothing and reads nothing — the letters are sealed, private, and sacrosanct. Veterans describe the custom as the roster's ballast: the watches demand everything, and the letters return something. News from outside. Love from afar. The reminder that the city the roster protects contains people who write back. Floating Well (SE-C-IIIγ-448) is witnessed by personnel with lives beyond the chamber — lives the letters maintain, one sealed page at a time. The watches take. The letters give. The roster holds both.
+The well floats and has nothing under it, which makes the containment's safety case unusual: the hazard is not what the entity does but what is directly below it, and the Forge floor beneath the rim is kept clear at all times. The clearance is marked, is swept each watch, and is checked by the relief rather than by the outgoing Warden. The double check was introduced after an outgoing Warden signed a clear floor and a tool was found beneath the rim at the following handover.
 
-### The Post Box
+### Watching the Workers
 
-The facility's post box stands in the muster hall — plain, battered, and emptied daily. Wardens post their letters between watches, and the box fills the way morale fills: steadily, quietly, without ceremony. The post custom requires nothing but the box's presence — no quotas, no reminders, only the standing invitation of the empty slot. Counselors monitor the box's volume the way engineers monitor gauges: full box, healthy roster. The box has never stood empty a full rotation. Floating Well is witnessed by personnel who write home — who maintain, through sealed pages and daily postings, the civilian ballast that steadies the watches. The box stands. The letters flow. The roster writes, the city answers, and the containment holds on ballast of paper and love.
-### The Reply
+It observes the Forge's personnel, continuously and without any apparent purpose, and the observation extends to people who are not part of the containment at all. The Forge was informed of this when the holding was established and the notification is renewed annually in writing. Several workers have asked to be moved. Every request has been granted without question, which is recorded in the standing order as the policy rather than left to the discretion of whoever receives it.
 
-Letters from home arrive with the supply runs — answers to the roster's sealed pages, love returned for love sent. The reply custom gives Wardens an hour with their mail before the next watch: read privately, treasure fully, stand steadied. Veterans describe reply days as the roster's refueling — the civilian ballast renewed, the watches re-steadied. Counselors note the correlation openly: reply days precede the steadiest watches. Floating Well is witnessed by personnel who are written to — who stand, watch after watch, on ballast of paper and love, sent and answered.
+### Anger Without Drainage
+
+What it holds is rage that has nowhere to go, and the depth opens into consciousness rather than into any physical volume. Nothing can be removed from it. The Warden's log records the rim's position and the apparent depth, the second being an estimate by eye that different Wardens produce differently, and the file retains the disagreement rather than standardizing the method on the ground that the variation is itself informative.
+
+### Homes That Were Lost
+
+The Forge workers whose grief could not be grounded lost their housing in a clearance that is documented in the municipal record, and the containment file reproduces the clearance notice, the relocation schedule, and the list of households. The schedule was not completed. The archivist's note records which households were rehoused, which were not, and that the distinction is visible in the surviving documents to anybody who reads them in order. Requests to transfer away from the Forge floor are handled by the Forge's own supervisors rather than by the facility, which receives only a notification that a reassignment has occurred. The separation was requested by the Forge and agreed immediately, on the understanding that a worker should not have to explain themselves to the institution whose containment is watching them.
 
 ## Trivia
 

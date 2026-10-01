@@ -403,16 +403,21 @@ Some sorrows are owned. Frozen Echo is a sorrow that lost its owner — or rathe
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Overtime
+### Every Hand
 
-Some watches run long — relief delayed, pressure rising, the roster holding past the rotation. The overtime custom governs every extended watch: the holding roster stays willingly, the relief hurries honestly, and the extra hours are logged as overtime honored. No Warden has ever been ordered to overtime. Every Warden has stood it. Veterans describe the custom as the roster's handshake: we hold until relieved, relieved or not. The overtime log records every extension — hours held, reason delayed, relief arrived. The log's entries are uniformly proud: held two extra, relief delayed by storm, containment unbroken. Frozen Echo (SE-C-IIIγ-609) has never stood an unheld watch — relief or no relief, rotation or overtime. The roster holds until relieved. The custom guarantees it.
+The object holds an impression of each person who has touched it, and the impressions do not fade. Handling is therefore restricted to a named list, kept short, and every contact is logged with the handler's name because the log and the object are now recording the same thing in parallel. The Warden's list has not been extended in a long time. Additions require the senior Warden's authorization and the file notes that the authorization has been sought four times and granted twice.
 
-### The Relief
+### Cold
 
-Relief, when it arrives, is the roster's sweetest moment — the relieving Warden's hand on the door, the standing Warden's briefing delivered, the watch transferred with the formula: I relieve you. I stand relieved. The relief custom requires the full briefing regardless of delay — no shortcuts for lateness, no abbreviations for haste. The arriving Warden hears everything, confirms everything, and takes the watch fresh. Veterans describe reliefs as the containment's heartbeat: regular, complete, and unfailing. Frozen Echo is witnessed watch after watch without a gap — each watch handed to the next, each Warden relieved in full. Hold until relieved. Relieve in full. The heartbeat continues, watch after watch, forever.
-### The Extra Hour Honored
+It is colder than the room and stays colder regardless of how long it is held. The differential is measured each watch and has not varied. Wardens handling it work in gloves specified for the task, not because the cold is harmful over the permitted interval but because the interval is enforced by discomfort if the gloves are omitted, and the file is candid that this was the reason the specification was chosen.
 
-Overtime hours are honored at muster — the senior Warden reading the overtime log aloud, each extension praised by name. The honor custom treats held hours as the roster's gift: given willingly, received gratefully, praised publicly. Veterans describe the reading as the overtime's true pay — not the logged hours but the spoken thanks. The honored roster stands straighter after. Frozen Echo has never stood an unheld watch, and the muster proves the roster knows it. Held past rotation. Honored at muster. The custom continues.
+### Impressions Without Sound
+
+What it produces are feelings rather than voices — emotional residue attributable to no particular owner. Wardens report them as unmistakably somebody else's. The debrief asks only whether impressions occurred, not what they were, and the restriction follows the same reasoning applied across the wing: the content belongs to the people it came from, most of whom cannot be identified, and the facility has no claim on it.
+
+### Passed Between the Grieving
+
+The relic moved through refugees and scavengers across a long period and belonged properly to none of them. The containment file holds what can be reconstructed of the chain of possession, which is partial and uncertain, and presents it as a list of hands rather than as a provenance. The archivist's note explains the distinction: a provenance establishes ownership, the list establishes only that each of these people had it for a while, and the second is the honest document. Gloves are issued in pairs and discarded after a single handling rather than cleaned, which is wasteful and was adopted deliberately so that no glove carries an impression from one session into the next.
 
 ## Trivia
 

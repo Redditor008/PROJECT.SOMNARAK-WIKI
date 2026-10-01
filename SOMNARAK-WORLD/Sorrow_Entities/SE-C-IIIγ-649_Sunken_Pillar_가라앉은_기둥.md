@@ -379,16 +379,21 @@ Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, th
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Nightingale Shift
+### Absence Instead of Carving
 
-The nightingale shift is the roster's term for a watch so quiet it sings — readings nominal, entity quiescent, the whole of Sunken Pillar's containment humming at peacetime pitch. Nightingale watches are logged the way all watches are logged, with one addition: the watch commander's nightingale mark, a small notation in the margin recording that the quiet held the whole watch through. Commanders prize the mark the way sailors prize fair winds — not as achievement but as grace. The quiet is never earned. It is received, logged, and passed to the relief with gratitude. Sunken Pillar (SE-C-IIIγ-649) has granted the roster many nightingale shifts. Each one is marked. Each one is remembered. And each one steadies the roster for the watches that sing less sweetly.
+Its surface shows gaps where relief work should be, and the gaps are the inscription — what the pillar records is what is missing. Wardens photograph the visible face each cycle from fixed positions and the series is compared frame to frame. The pattern has altered twice. Both alterations are documented with the preceding and following images placed side by side, and the file declines to describe what changed in words, on the archivist's reasoning that a verbal account of an absence becomes a description of a presence.
 
-### The Quiet Ledger
+### Sinking
 
-The quiet ledger compiles every nightingale mark in the containment's history — dates, commanders, and the watch conditions that made the quiet possible. The ledger's purpose is morale made tangible: proof, in the commanders' own hands, that the containment holds far more often than it strains. New Wardens read the ledger on commissioning. Veterans consult it before hard watches. And the senior Warden cites it at every briefing where the roster's confidence wavers: the quiet outnumbers the pressure a hundred to one. The ledger proves it. Sunken Pillar is witnessed, watch after watch, by personnel who know the numbers — and the numbers say the containment holds, the quiet returns, and the nightingale sings more often than it silent.
-### The Dawn Chorus
+It moves downward through the ground, slowly and continuously, and the rate is derived from the exposed height measured against a reference set outside the affected area. The reference has itself been re-verified twice against a point beyond the district, because the obvious failure here is a benchmark descending alongside what it measures. Both verifications found the benchmark sound. The procedure is nonetheless repeated on schedule.
 
-The morning after a nightingale shift, the relief arrives to birdsong — the roster's term for a handover with nothing to report. Readings nominal, entity quiescent, the quiet passed intact. Veterans describe dawn-chorus handovers as the watch's benediction: the night held, the day inherits peace. Sunken Pillar grants them regularly. The roster receives them gratefully. And the quiet ledger grows — mark by mark, chorus by chorus.
+### For Generations Who Never Came
+
+The settlement raised the pillar for people who were expected and did not arrive, and the containment file holds the dedication record: the resolution to build, the subscription list, and the inscription as it was intended to read. The intended text survives. It is reproduced in the file beside a photograph of the blank face, on the same page, which was a deliberate layout choice and is the only place in the wing where a document and an image are set against each other that way.
+
+### Missing Possibilities
+
+What the pillar grieves is not a loss but an absence — things that never existed being mistaken for things that were taken. The distinction governs how Wardens are briefed, because personnel arriving with the ordinary expectation of a destroyed monument misread everything they then see. The briefing states the point first and the physical description second, reversing the usual order of the material, and the file records that the reversal was adopted after new Wardens were repeatedly observed looking for damage.
 
 ## Trivia
 

@@ -336,16 +336,21 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 
 ## Warden Record
 
-### The New Warden
+### The Beat
 
-Every Warden in Beating Relic's chain stood a first watch — briefed, nervous, and determined. The first-watch protocol pairs every newcomer with a veteran: shadow the watch, ask everything, touch nothing unasked. Veterans describe their first-watch duty as the roster's truest test — not of the newcomer but of themselves. Teaching the containment reveals what the teacher has forgotten. Newcomers ask why the gauge is read twice, why the chamber is eyeballed before the instruments, why the oath's clauses run in their fixed order. Veterans answer, and in answering remember. Beating Relic (SE-C-IIIγ-902) has been learned fresh by every Warden who ever stood it. The learning never ends. The teaching never ends. The chain continues, watch by watch, rookie by rookie.
+It pulses in the hand and quickens when the person holding it is angry, which makes it the only object in the wing that measures its handler. Handling is logged with the handler's name and the observed rate, and the pairing is the point: the figure describes the Warden, not the relic. Wardens are told this before their first handling rather than discovering it from the log, and the file notes that the briefing was amended to say so after a Warden read back their own series and asked what it meant.
 
-### The First Log
+### Goru
 
-The newcomer's first log is preserved — bound into the containment file, the rookie's own hand recording the first witnessed watch. First logs are earnest to the point of poetry: readings logged twice, observations tripled, the entity described the way newcomers describe everything — fully, carefully, as if the containment depended on this one log. Veterans read the first logs the way parents keep childhood drawings: with pride, with humor, and with recognition. Every veteran wrote one. Every veteran remembers. Beating Relic is witnessed, rookie after rookie, by personnel whose first logs prove the doctrine's deepest claim: the containment is learned fresh by everyone, and everyone learns it. The first log stands. The Warden stands with it.
-### The Shadow's End
+The Warden whose raised fist formed it is named throughout the containment file, and his service record is held with it in full — his postings, his commendations, and the disciplinary matters, which are not omitted. The record shows a man who was difficult and was right about most of what he was difficult about. The archivist's note says so in those terms and adds that the omission of the disciplinary entries was proposed once, on grounds of respect, and was refused by the Wardens of his own district.
 
-The newcomer's shadow period ends with the first solo watch — the veteran stepping back, the rookie standing alone, the containment held by new hands. Veterans describe the moment as the roster's true commissioning: not the oath sworn but the watch stood solo. The first solo log is preserved beside the first shadowed log — before and after, student and Warden. Beating Relic has been stood solo by every Warden in its chain. Each one held. Each one holds still.
+### What the City Owed
+
+His certainty that the district had been given less than it was due is borne out by the municipal allocation figures for the period, which are reproduced in the file alongside the comparable districts. The disparity is plain and requires no commentary. None is supplied. The figures occupy a single page and the page carries no heading beyond the years it covers.
+
+### After the Pits
+
+The riots in whose aftermath the relic formed are documented from several incompatible accounts, and all of them are held. The facility's own account is not treated as authoritative and sits in sequence with the others rather than at the front. The ordering was the archivist's decision and is explained in a line at the top of the section, which states that the Directorate was a party to the events and that its version is evidence rather than adjudication.
 
 ## Trivia
 

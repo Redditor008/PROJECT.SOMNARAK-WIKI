@@ -369,16 +369,21 @@ Some sorrows are about what was taken. Burning Root is about what was kept too l
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Replacement
+### Following Debt Lines
 
-Instruments wear out, and Burning Root's containment replaces them — gauges retired past calibration, seals retired past rating, lamps retired past brightness. The replacement protocol governs every swap: the new instrument certified, the old instrument honored, the exchange logged with both service records attached. Retiring instruments are not discarded. They join the quartermaster's shelf — or, for instruments of exceptional service, the muster hall's honored wall. Veterans describe replacements as the containment's renewals: the doctrine continues, the instruments refresh, the watches unbroken across the exchange. Burning Root (SE-C-IIIγ-558) has been witnessed through generations of instruments. Each generation served. Each generation retired honored. The watches never paused.
+It travels along obligation rather than along ground, and its path through the district corresponds to where debt is concentrated. The route is predictable to that extent and is projected each cycle from the Collector registers, which the facility receives for this purpose and for no other. The arrangement is narrowly drawn in writing. The registers are returned after the projection is made, no copy is retained, and the Warden's file holds only the resulting map.
 
-### The Honored Wall
+### Burden as Heat
 
-The honored wall holds the containment's most distinguished retirees — the gauge that caught the first pressure spike, the seal that held the worst season, the lamp that burned through the longest watch. Each bears its citation: served here, held this, retired honored. New Wardens study the wall before their first watch, learning the instruments' histories the way they learn the roster's. Veterans touch the wall's frame on passing — the way crews touch memorials, the way the night crews touch the spare lamp. Burning Root is witnessed with instruments that will one day hang honored. The wall proves the roster maintains what it uses and honors what has served. Serve well. Retire honored. The wall waits for every instrument standing.
-### The First Reading
+What it carries registers as warmth rather than weight, and personnel near it report the sensation as comfortable. This is the containment's inversion and the briefing opens with it. A worker who finds the heat pleasant is a worker who will stay near it, the entity's whole nature is obligation that stopped feeling like a burden, and the standing order's exposure limits are therefore enforced by the clock and never by how anyone feels.
 
-New instruments take their first readings under witness — the installing Warden, the watch commander, and the logbook open. The first-reading custom records the moment: instrument installed, reading taken, service begun. Veterans describe first readings as the containment's small commissionings — new eyes on the entity, sworn to accuracy. The first readings are preserved with the installation logs — baseline truth, witnessed jointly. Burning Root is measured by instruments whose first readings were honored. Installed, witnessed, trusted. The readings continue.
+### Familiar Rather Than Heavy
+
+The family lived under the debt long enough that it became part of who they were, and the containment file traces the obligation across the generations it covered. The documents are ordinary throughout. No single instrument in the sequence is unreasonable, no payment was missed, and the archivist's note observes that the record contains no villain and no turning point and that this is what the Warden should take from it.
+
+### Planted in Motion
+
+It roots as it moves and the rooting marks the floor permanently, so the chamber carries a visible record of everywhere it has been. The marks are not repaired. The Warden's plan of the chamber is updated from them rather than from observation, which is the only containment in the wing where the entity draws its own position record and the facility simply copies it down. Returned registers are confirmed back to the Collector office in writing, itemised, and the confirmations are kept. The office has never acknowledged one, and the file notes that the confirmations are sent for the facility's record rather than for theirs.
 
 ## Trivia
 

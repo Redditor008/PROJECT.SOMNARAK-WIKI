@@ -405,16 +405,21 @@ Some sorrows sink. Spreading Well is a sorrow that refused to — because it was
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Storm Duty
+### The Channels
 
-When crisis strikes elsewhere, Spreading Well's roster stands storm duty — full watches on short staffing, precautions maintained while reserves deploy outward. Storm duty is the containment's contribution to the Directorate's larger battles: holding firm at home while the institution fights abroad. The storm protocol runs the roster lean: essential watches only, tightened rotations, the senior Warden holding the center. Veterans describe storm duty as the roster's truest test — not of skill but of steadiness. The entity presses. The reserves are gone. The roster holds anyway. Spreading Well (SE-C-IIIγ-373) has weathered every storm duty the archive records without a watch unstood. The roster holds at home. The Directorate fights abroad. Both hold because both hold.
+Blue sorrow runs from the rim in thin lines across the ground and reaches further than any survey has yet followed. The channels are mapped as far as they are traceable and the map is reissued each cycle with the new extent marked in a fresh colour, so that the spread is visible without reference to figures. The Warden walks the nearest channels each watch. The far ones are reported by the districts they reach, under an arrangement that the facility did not propose and has never declined.
 
-### The Lean Log
+### Singing Beneath the Soil
 
-Storm duties are logged in the lean log — watches stood short-handed, readings taken under strain, the roster's performance at minimum strength. The lean log's entries are terse to the point of pride: short roster, full doctrine, held. Commanders cite the lean log whenever staffing debates arise: the roster holds lean, the log proves it, the standard survives shortage. But the lean log's standing lesson is caution, not comfort — the senior Warden's annotation reads: held, and never again if avoidable. Leanness proves the roster. Fullness protects it. Spreading Well is witnessed, storm after storm, by personnel who hold lean when they must and full when they can. The lean log proves the must. The roster prefers the can.
-### The Full Strength
+A sound travels along the channels below ground and is audible to anyone standing over one. It is not loud. Wardens describe it as a voice at the edge of recognition and report, consistently, that it is easier to hear when they are not trying to. Nothing is done with the observation. It is recorded because it is the only thing the containment knows about the channels that no instrument has been able to detect.
 
-Storm duty ends with the return to full strength — reserves recalled, roster restored, the lean log closed with the final entry: full strength resumed. Veterans describe the restoration as the roster's deep breath: the crisis passed, the strength returned, the containment held throughout. The senior Warden reads the lean log aloud at the restoration muster — every short watch honored, every strained reading praised. Spreading Well weathered lean. Spreading Well stands full. The roster held both, and holds still.
+### Connecting Distant Sorrow
+
+The channels link separated sites of grief and the links are not random — the map shows them reaching sorrow and stopping there. This is the containment's one established finding and it was arrived at slowly, over many cycles, by comparing the channel map against the district's own memorial register. The comparison is held with the file. Its author's note records that she expected the correlation to fail and checked it three times.
+
+### Mourners Who Poured
+
+Desolate mourners emptied their tears into the ground deliberately, and the practice is documented from the funerary customs of the period rather than from any single event. It was ordinary. The Warden's commissioning material includes the custom's description from the district's own account, and the note attached observes that nobody involved was doing anything unusual and that the Well is the result of a great many people doing a normal thing. The reissued map is posted in the watch room rather than filed, where the accumulating colours are visible to anyone passing it.
 
 ## Trivia
 

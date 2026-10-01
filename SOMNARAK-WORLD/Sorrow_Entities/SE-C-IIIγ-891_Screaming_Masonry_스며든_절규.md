@@ -409,16 +409,21 @@ Some sorrows are about what was done to you. Screaming Masonry is about what you
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Requisition
+### Spreading Without Sound
 
-Every instrument in Screaming Masonry's containment arrived by requisition — requested in writing, justified by need, approved against the quartermaster's unforgiving standard. The requisition files are the archive's driest holding and the roster's proudest: page after page of gauges, seals, lamps, and lines, each one argued for and won. The quartermaster's standing rule governs all of it: need it, prove it, maintain it. Requisitions that prove need are approved. Instruments that arrive are maintained — cleaned, calibrated, and logged — or the quartermaster reclaims them. No ornament has ever survived the quartermaster's review. No necessity has ever been denied it. Screaming Masonry (SE-C-IIIγ-891) is witnessed with instruments the roster earned by argument and keeps by maintenance.
+It is a scream that makes no noise and travels anyway, carried on the district's sorrow currents, and its passage is detected by the vibration it produces in nearby walls rather than by anything audible. The Warden's instruments are contact sensors on the masonry. There is no microphone in the containment and there never has been, four separate installations having each recorded an ordinary quiet street while the walls beside them moved.
 
-### The Quartermaster's Shelf
+### The Weight It Carries
 
-The quartermaster keeps one shelf of retired instruments — gauges that served past calibration, lamps that burned past brightness, seals that held past rating. Each bears its service record: installed this date, maintained this often, retired with honors. New Wardens are shown the shelf before they file their first requisition, and the lesson lands the way honest objects teach: request only what the containment needs, maintain everything the containment grants, and retire with honors what has served past serving. Screaming Masonry is witnessed with the quartermaster's instruments, standing on the quartermaster's shelf in honorable retirement when their service ends. Need it. Prove it. Maintain it. The shelf proves the roster does.
-### The Approved Stamp
+What it holds are obligations that were never discharged, and the mass registers on the structures it passes rather than on any scale. Buildings along its route are surveyed annually by the municipal engineers and the surveys are filed unedited. They have consistently found the fabric sound. They have also, consistently, included a paragraph noting that the measured vibration has no identified source, and the paragraph has appeared in every return without once prompting a question from the office that receives it.
 
-Approved requisitions return bearing the quartermaster's stamp — granted, with the date and the quartermaster's initials. Wardens keep their stamped approvals the way soldiers keep orders: filed, honored, and cited when the instruments arrive. The stamp means the quartermaster agreed — the need was real, the proof sufficed, the containment gains. Screaming Masonry is witnessed with stamped instruments, every one earned. The stamp approves. The roster maintains. The containment holds.
+### Failures Between Neighbours
+
+The residents of Old Lament failed one another across generations and the containment file documents the pattern rather than any single instance — the mutual aid arrangements that lapsed, the obligations recorded and not met, the small defaults that accumulated. No individual in the record did anything remarkable. The archivist's note observes that the entity is made of ordinary people letting each other down slowly, and that this is harder for Wardens to carry than a catastrophe would be.
+
+### Currents
+
+Its movement follows the district's sorrow currents and is therefore partly predictable, the currents being mapped and the map maintained. Prediction is good enough to post a watch ahead of it and not good enough to rely on. The standing order states both halves and instructs that the watch be posted anyway, on the reasoning that a prediction used to position people is useful even when it is wrong, provided nobody is told it is certain.
 
 ## Trivia
 
