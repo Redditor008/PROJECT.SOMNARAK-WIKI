@@ -1,16 +1,16 @@
 # Master Sorrow Entities Catalog
 
 **Archive Authority:** Reverie Directorate & Facility 01 Containment Division  
-**Total Registered Entities:** 284 Unique Canonical Sorrow Entities  
+**Total Registered Entities:** 291 Unique Canonical Sorrow Entities  
 **Source Repository:** `SOMNARAK-WORLD/Sorrow_Entities/`
 
 ---
 
 ## Taxonomy & Classification Index
 
-This catalog indexes all 284 unique Sorrow Entities currently documented in Facility 01 containment. Threat ratings correspond to the classical SECC scale: `Residue` (I), `Echo` (II), `Fragment` (III), `Entity` (IV), and `Sovereign` (V).
+This catalog indexes all 291 unique Sorrow Entities currently documented in Facility 01 containment. Threat ratings correspond to the classical SECC scale: `Residue` (I), `Echo` (II), `Fragment` (III), `Entity` (IV), and `Sovereign` (V).
 
-> **Index scope:** 284 rows. The two Kind-Healer transformation-progression variants (`SE-C-Iα-071b`, `SE-C-Iα-071c`) file under base code `C-Iα-071`; five single-use Tool Relics (`C-IIIβ-072`, `C-Iα-114`, `N-IIβ-319`, `O-IIIγ-412`, `O-IVδ-515`) are pending indexation. The former duplicate dossier `SE-C-Vω-044` was merged into `SE-C-Vω-002` and its row removed.
+> **Index scope:** 291 rows, one per dossier on disk. The two Kind-Healer transformation-progression variants (`SE-C-Iα-071b`, `SE-C-Iα-071c`) file under base code `C-Iα-071` and are indexed as their own rows; the five single-use Tool Relics (`C-IIIβ-072`, `C-Iα-114`, `N-IIβ-319`, `O-IIIγ-412`, `O-IVδ-515`) are now indexed. The former duplicate dossier `SE-C-Vω-044` was merged into `SE-C-Vω-002` and its row removed.
 
 | SECC Code | English Codename | Korean Designation | Threat Tier | Elemental Affinity | Primary Dossier |
 |---|---|---|---|---|---|

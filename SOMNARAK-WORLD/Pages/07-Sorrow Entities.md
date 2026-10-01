@@ -231,7 +231,7 @@ Facility 01 operates within a vast institutional network established by the Dawn
 ## 13 Navigation
 
 - [01-Main Page](01-Main%20Page.md) — grand portal home
-- [08-Sorrow List](08-Sorrow%20List.md) — complete catalog of all 285 SECC codes
+- [08-Sorrow List](08-Sorrow%20List.md) — complete catalog of all 291 SECC codes
 - [27-The Debt Eater](27-The%20Debt%20Eater.md) — specimen dossier: Non-Tool Subject
 - [28-The Echo Compass](28-The%20Echo%20Compass.md) — specimen dossier: Single Use Tool
 - [29-The Crucible](29-The%20Crucible.md) — specimen dossier: Channeled Use Tool

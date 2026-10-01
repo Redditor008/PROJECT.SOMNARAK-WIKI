@@ -70,31 +70,24 @@ EXTRA_LABELS = {
 CROSS_REF_EXTRAS = {
     'Archive Lead Marjuk', 'Area affected', 'Director Majin', 'Eleventh conversion',
     'Expansion Type', 'Faceless Glass', 'Fading Ruin', 'Failure condition',
-    'MEW LIGHT BEAAAAAM', 'MEWTASTICAL TRANSFORM', "Pandora's Jar",
-    'Persona color state', 'Reverberant', 'Sealed Rage', 'Silence We Forgot We Made',
-    'Sornos', "Survivor's Span", 'The Alpha Tree', 'The Architects', 'The Border Lead',
-    'The Burning Bridge', 'The Burning Fruit', 'The Burning Hope',
-    'The Burning Library', "The Cartographer's Ghost", 'The Collapsed Door',
-    'The Convergence (Three Birds)', 'The Crumbling Saint', 'The Crystal Peaks',
-    'The Debt Clock', "The Debt Collector's Shadow", 'The Debt Wall',
-    'The Defiant Ember', 'The Dream Fragment', 'The Dream Weaver',
-    "The Dream Weaver's Loom", 'The Drift Fog', 'The Echo Gardens',
-    'The Echo of Laughter', 'The Echo-Cores', 'The Echo-Cores (R.D.)',
-    'The Ember Child', 'The Eternal Warmth', 'The Exile', "The Exile's Gate",
-    'The Flowing Bridge', 'The Forgotten Tree', 'The Frozen Bridge', 'The Frozen Relic',
-    'The Frozen Ruin', 'The Frozen Shard', 'The Frozen Sigh',
-    'The Frozen Veil (destroyed)', 'The Garden of Thorns', 'The Gentle Flame',
-    'The Grieving Fountain', 'The Grieving The Lonely Giant',
-    'The Guardian of the Gate', 'The Guiding Light', 'The Hand of Hope',
-    'The Iron Judge', 'The Last Memory', 'The Masked Market', 'The Melting Saint',
-    'The Melting Tower', 'The Memory Archive', 'The Memory Archive / Seiyon',
-    'The Memory Well', 'The Mirror of Sorrows', 'The Outside Sorrow',
-    'The Preserved Heart', 'The Rage Cage', 'The Rage Flame', 'The Rage Forge',
-    'The Returning Fruit', 'The Returning Relic', 'The Returning Tree',
-    'The Rising Bridge', 'The Rising Mirror', 'The Rootless', 'The Rusted Seed',
-    'The Rusted Soul', 'The Rusted Wall', 'The Rusted Whisper',
-    'The Shadow at the Door', 'The Shared Glass', 'The Silent Bell',
-    'The Silent Scream', 'The Singing Stone', 'The Sleeping Relic', 'The Sleeping Sigh',
+    'MEW LIGHT BEAAAAAM', 'MEWTASTICAL TRANSFORM', 'Persona color state', 'Reverberant',
+    'Sealed Rage', 'Silence We Forgot We Made', 'Sornos', 'The Alpha Tree',
+    'The Architects', 'The Border Lead', 'The Burning Hope', "The Cartographer's Ghost",
+    'The Convergence (Three Birds)', 'The Crystal Peaks', 'The Debt Clock',
+    'The Defiant Ember', 'The Dream Weaver', 'The Drift Fog', 'The Echo Gardens',
+    'The Echo-Cores', 'The Echo-Cores (R.D.)', 'The Eternal Warmth', 'The Exile',
+    "The Exile's Gate", 'The Flowing Bridge', 'The Frozen Bridge', 'The Frozen Relic',
+    'The Frozen Ruin', 'The Frozen Sigh', 'The Frozen Veil (destroyed)',
+    'The Garden of Thorns', 'The Gentle Flame', 'The Grieving Fountain',
+    'The Grieving The Lonely Giant', 'The Guardian of the Gate', 'The Guiding Light',
+    'The Hand of Hope', 'The Iron Judge', 'The Last Memory', 'The Masked Market',
+    'The Melting Saint', 'The Melting Tower', 'The Memory Archive',
+    'The Memory Archive / Seiyon', 'The Mirror of Sorrows', 'The Outside Sorrow',
+    'The Preserved Heart', 'The Rage Flame', 'The Rage Forge', 'The Returning Fruit',
+    'The Returning Relic', 'The Returning Tree', 'The Rising Bridge',
+    'The Rising Mirror', 'The Rootless', 'The Rusted Seed', 'The Rusted Soul',
+    'The Rusted Wall', 'The Rusted Whisper', 'The Shadow at the Door',
+    'The Shared Glass', 'The Silent Scream', 'The Singing Stone', 'The Sleeping Relic',
     'The Sleeping Wall', 'The Sorrow Flower', 'The Sorrow Lake', 'The Sorrow River',
     'The Spreading Tree', 'The Storm arrives', 'The Storm passes', 'The Sunken Bridge',
     'The Sunken Tower', 'The Torn Soul', 'The Torn Tower', 'The Torn Trace',
@@ -135,7 +128,8 @@ def catalogued_names():
     cat = "REFERENCE_SOMNARAK_WIKI/SORROW_ENTITIES_CATALOG.md"
     if os.path.exists(cat):
         with open(cat, 'r', encoding='utf-8') as fp:
-            for m in re.finditer(r'\|\s*(SE-[^\s|]+)\s*\|\s*([^|]+?)\s*\|', fp.read()):
+            # Catalog rows are: | `SE-code` | **English Codename** | ... |
+            for m in re.finditer(r'\|\s*`(SE-[^`]+)`\s*\|\s*\*\*(.+?)\*\*\s*\|', fp.read()):
                 names.add(m.group(2).strip())
     for d in DOSSIER_DIRS:
         for f in glob.glob(os.path.join(d, "*.md")):

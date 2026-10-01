@@ -15,7 +15,7 @@ This compendium has been curated specifically as an authoritative, all-in-one re
 +==========================+=============================================+
 | DIRECTORY / FILE         | NARRATIVE UTILITY & CONTENTS                |
 +==========================+=============================================+
-| SOMNARAK-WORLD/          | Complete primary canon: 292 Sorrow Entity   |
+| SOMNARAK-WORLD/          | Complete primary canon: 291 Sorrow Entity   |
 |                          | dossiers, 198 quadripartite MAW armory      |
 |                          | sets, 47 Master Codices, Cantos 01-06, and  |
 |                          | 366-day Absolvohan operational chronicles.  |
@@ -53,7 +53,7 @@ This compendium has been curated specifically as an authoritative, all-in-one re
 When drafting a scene, dialogue, combat sequence, or narrative arc, consult these primary files:
 
 ### A. Sorrow Entities (Monsters, Anomalies & Manifestations)
-- **Archive Path:** `SOMNARAK-WORLD/Sorrow_Entities/` (292 bespoke files).
+- **Archive Path:** `SOMNARAK-WORLD/Sorrow_Entities/` (291 bespoke files).
 - **Format:** Every dossier provides the SECC classification code, Coherence (Ranks I–V), Potency (Grades α–ω), Sorrow Element (Grudge, Resentment, Sorrow, Mourning, Despair), Physical Form, Operational Parameters (valid work types, gauge yields), Combat Record (move names, flavor text, triggers, damage), Appearance, Interaction Records with other entities, and the **Tale (이야기 / Narratio)** and **Testimony (증언 / Testimonium)**.
 - **Rule:** Never invent new entities; draw exclusively from the 292 canonical files.
 
