@@ -413,16 +413,21 @@ The city built a Veil to keep feeling down. The citizens built a veil to let it 
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Watered Plant
+### Always Damp
 
-A plant grows in Pall's muster hall — watered on rotation, tended jointly, the roster's living green. The plant custom assigns every Warden a watering week: tend it, log it, pass it on. The plant has survived every hardship the roster survived — shortages, storms, short staffing. Veterans describe it as the roster's mirror: thriving when the roster thrives, drooping when the roster strains. Counselors check the plant the way they check personnel. Pall is witnessed by gardeners — who water, watch after watch, the green proof that life persists in the containment.
-### The New Leaf
+The tapestry of crystallized tears stays wet in dry air and the dampness is confirmed at each watch by touch through a glove. The glove is changed each time. This is a small holding with a short order and the file notes that the glove rule is its only strict provision, adopted because the veil weeps more when handled and the facility preferred not to find out what sustained handling would do.
 
-The muster plant grows new leaves — each one logged, each one celebrated. New-leaf days are the roster's small festivals. Pall is witnessed where life persists. Watered, leafing, living.
+### It Hides the Face
 
-### The Watering Roster
+Worn, it obscures the wearer, and it is not worn — the prohibition is absolute and the veil is kept on a frame built to hold it open for inspection without anyone being behind it. The frame was commissioned for the purpose. Its specification is in the file, which is unusual for a fitting and was done because the frame is the containment.
 
-Plant watering runs on roster — names scheduled, weeks assigned, never missed. The roster custom treats the plant as a posting: tend it like a watch. Pall's plant thrives on scheduled care. Rostered, watered, thriving.
+### The Grief of Many
+
+It carries the mourning of everyone who has worn it rather than of one person, and the file holds the names of the wearers where the Gardens recorded them. The list is long and ordinary. It is reproduced without annotation, the archivist's note observing that annotating it would require ranking the griefs and that the veil evidently does not.
+
+### Composed in Public
+
+People used it to mourn without being seen to mourn, and the commissioning material includes the Echo Gardens' etiquette guidance of the period, which advised exactly that. The guidance is reproduced at length. The archivist's note states that it was written helpfully, by people trying to make grief bearable in company, and that the veil is what their help became.
 
 ## Trivia
 

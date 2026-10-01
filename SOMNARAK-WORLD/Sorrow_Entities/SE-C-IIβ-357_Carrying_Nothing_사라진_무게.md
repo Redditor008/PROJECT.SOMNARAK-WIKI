@@ -372,16 +372,21 @@ Some sorrows are heavy. Carrying Nothing is the opposite — the sorrow of a lig
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Quiet Lunch
+### Carrying Something Invisible
 
-The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. Carrying Nothing is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
-### The Second Helping
+The burning figure holds nothing and the air behind its back bends as though under load, and the bending is the thing that gets measured, by sighting a straight edge past it. The distortion is consistent. It is recorded as a displacement and the file resists naming what causes it, having struck the word burden from an early draft as an assumption.
 
-Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. Carrying Nothing is witnessed by well-fed personnel. Served, seconded, steady.
+### Motionless Until Approached
 
-### The Recipe Card
+It stands still and responds only to someone coming toward it, which makes the holding entirely controllable and the standing order correspondingly short. Approach is not forbidden. It is scheduled, performed by one Warden at a time, and logged, the file noting that a prohibition was considered and rejected because the entity appears to be waiting for exactly that.
 
-Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. Carrying Nothing's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+### Fire Without Ash
+
+It burns continuously and leaves no residue, and the floor beneath it is swept and inspected at each watch to confirm as much. Nothing has ever been found. The task takes a minute and the file keeps it on the stated ground that the first time something is found there, the facility would like it to be found immediately.
+
+### A Burden Taken Without Being Resolved
+
+A vault sealed away something a community was carrying and the people it was taken from lost the memory of what it had been, and the commissioning material is the sealing authorisation with its schedule attached. The schedule is itemised and the items are described in administrative shorthand. The archivist's note observes that the shorthand was adequate for the clerks who wrote it and that nobody now can say what it refers to.
 
 ## Trivia
 

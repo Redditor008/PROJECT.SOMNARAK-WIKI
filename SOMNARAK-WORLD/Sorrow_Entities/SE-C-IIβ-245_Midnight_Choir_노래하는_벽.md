@@ -382,16 +382,21 @@ Some sorrows are about endings. Midnight Choir are about the endings that never 
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Folded Blanket
+### The Walls Sing at Midnight
 
-Bunks are made with folded blankets — corners square, edges aligned, the roster's oldest order custom. Inspections check the blankets first: square corners mean disciplined Wardens. Veterans fold without thinking — the creases sharp from years of practice. New Wardens learn the fold before they learn the gauges: order in the bunk, order in the watch. Midnight Choir is witnessed by personnel who fold blankets — who keep, in small squares of wool, the discipline that keeps the containment.
-### The Tight Corner
+The frescoes perform once a night and the performance begins without variation in its timing, which makes this the most predictable holding in the wing and the watch correspondingly easy to staff. Attendance is required for the whole of it. The file states that leaving partway has been prohibited since the beginning and gives no reason, and the archivist's note confirms that none was recorded.
 
-Blanket corners are tucked tight — the inspection's first check, the roster's smallest discipline. Tight corners, tight watches. Midnight Choir is witnessed by personnel squared away. Folded, tight, ready.
+### Unfinished
 
-### The Bunk Inspection
+The songs stop before their last verse, every one of them, and the Warden notes where each broke off. A list of break points has accumulated. It has been examined for a common feature and none was found, and the examination is retained so that the absence of a pattern is itself on record.
 
-Bunks are inspected weekly — blankets folded, kits stowed, floors swept. The inspection custom scores fairly and praises publicly. Midnight Choir's roster passes inspection standing. Folded, stowed, passing.
+### Older Than the District
+
+What is sung predates the Old Lament as it now stands, which has been established from the song forms themselves by people who know them, and those opinions are held with the names of the people who gave them. They are not unanimous. The disagreements are printed alongside the agreements and the file makes no attempt to settle them.
+
+### Silenced Three Ways
+
+The melodies were ended by death, by collapse, and by censorship, and the commissioning material separates the three rather than treating them as one misfortune. The censorship documents are the fullest part of the folder, having been kept carefully by the office that produced them. The archivist's note observes that the best-preserved records in the file are the ones made by the people doing the silencing.
 
 ## Trivia
 

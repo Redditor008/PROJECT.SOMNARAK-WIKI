@@ -404,16 +404,21 @@ Some sorrows are about lies told to others. Cracked Mirror is about lies told to
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Clean Log
+### It Shows What Is Underneath
 
-The perfect watch log — every reading on time, every notation legible, every margin clean — is the roster's quiet pride. Cracked Mirror's archive holds hundreds: watches logged flawlessly, filed promptly, and preserved as the standard. The clean-log custom marks each one: the watch commander's checkmark, the archivist's nod, the log bound with the honored volumes. New Wardens study clean logs before writing their own. Veterans produce them without thinking. Cracked Mirror (SE-C-IIβ-310) is witnessed on paper as faithfully as in person — reading by reading, log by log, clean forever.
-### The Archivist's Nod
+The glass returns the self beneath whatever is being presented, which is a different proposition from the memory mirrors in the wing and is stated as such in the briefing, with a cross-reference. Wardens who have worked those holdings are briefed again rather than assumed to know. The file records that the re-briefing requirement followed a case of a Warden applying the wrong protocol correctly.
 
-Clean logs earn the archivist's nod — the small sharp gesture of approval, given at filing. Wardens prize the nod the way crews prize commendations. Cracked Mirror's archive holds hundreds of nodded logs. The nod approves. The roster logs clean.
+### Cracks as Broken Truths
 
-### The Bound Volume
+Each fracture corresponds to something that failed to hold, and the pattern is traced annually onto an overlay. The pattern is stable. Its stability is reported as the holding's principal finding, the file observing that a mirror which cracked under a burden and has not cracked further is evidence that the burden was finite.
 
-Clean logs are bound annually — the year's flawless watches gathered, covered, and shelved with the honored volumes. The binding custom closes every year: the archivist's selection, the binder's craft, the volume shelved with ceremony. Cracked Mirror's bound years line the archive shelf — proof, in leather and thread, that the roster logs clean. Bound, shelved, honored.
+### It Refused
+
+The mirror declined to flatter and broke rather than comply, and the file treats this as the central fact rather than as a flourish, placing it first. The phrasing was debated. The archivist's note records that a more neutral formulation was drafted and rejected on the ground that it described a mirror failing when what happened was a mirror refusing.
+
+### Mask Market Custom
+
+Citizens there sought glass that would improve them, and the commissioning material is commercial — the trade in flattering mirrors, the prices, the workshops that supplied them. It was a substantial business. The archivist's note states that the documents show an ordinary market meeting an ordinary demand and that nothing in them is sinister, which is the point of including them.
 
 ## Trivia
 

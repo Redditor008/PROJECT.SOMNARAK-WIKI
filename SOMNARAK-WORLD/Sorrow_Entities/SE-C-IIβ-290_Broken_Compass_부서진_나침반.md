@@ -406,16 +406,21 @@ Some sorrows are about losing a place. Broken Compass is about losing direction 
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Mended Chair
+### A Needle That Will Not Settle
 
-The muster hall's chairs are mended, never replaced — joints glued, legs braced, the roster's oldest thrift custom. The mend log records every repair: chair three, leg braced, holding. Veterans describe the mended chairs as the roster's philosophy: maintain what serves, repair what breaks, replace only what cannot be mended. New Wardens perform their first mend before their first watch — glue, clamp, and the lesson. Broken Compass (SE-C-IIβ-290) is witnessed by menders — who repair, watch after watch, the chairs that hold the roster that holds the entity.
-### The Steady Seat
+The compass spins continuously and cannot indicate north, and the Warden records the rate rather than the bearing. Rates are taken with a timed count over a fixed interval. The method is crude and was chosen because the alternative required holding the instrument, which alters what is being measured for reasons the file sets out in its first paragraph.
 
-Mended chairs hold steady — tested after every repair, trusted at every muster. Steady-seat checks close every mend. Broken Compass is witnessed by personnel well-seated. Mended, steady, holding.
+### It Points at Sorrow
 
-### The Glue Pot
+What it responds to is grief rather than magnetism, and the needle slows briefly toward concentrations of it, which is the only directional behaviour anyone has recorded. The slowings are logged with their orientation. The file does not plot them on a map of the district and says why, which is that a map of where the city is saddest would be read as a finding about people.
 
-Chair mending keeps a glue pot warm — ready for every repair, used weekly. The glue-pot custom wastes nothing: mend it today, sit it tomorrow. Broken Compass's chairs hold. Glued, clamped, holding.
+### Faster for the Uncertain
+
+The spin quickens for a holder who is unsure, making the instrument a measure of its handler, and Wardens are told this before they first take it up. The pairing of rate and handler is recorded as a pair. The file notes that the figure describes the person and that no personnel decision has ever been taken on the basis of one.
+
+### A Route Lost in the Forge
+
+A Survey Corps member mislaid a way through the Forge District and never recovered their sense of it afterward, and the commissioning file holds their subsequent survey work. It continued for years. The archivist's note observes that the later maps are accurate and well made, that the Corps had no complaint of them, and that the person who drew them reported being lost the entire time.
 
 ## Trivia
 

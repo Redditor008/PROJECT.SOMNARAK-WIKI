@@ -389,16 +389,21 @@ Holdout is that memory. It lives in the vault — a building made of nothing but
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Polished Gauge
+### Walls That Need Remembering
 
-Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Holdout (SE-C-IIβ-240) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
-### The Clear Face
+The ruin exists as pressure in the vault and its broken walls become visible only when someone recalls them, which means the holding produces nothing at all when unattended. The Warden's presence is the instrument. The standing order acknowledges this and declines to draw a conclusion from it, noting only that an unobserved watch here is not a watch.
 
-Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Holdout is measured truly. Polished, clear, true.
+### Weight Without Rubble
 
-### The Calibration Weight
+There are no physical remains and the destruction registers as load instead, measurable on a plate at fixed points. The readings are steady. They are the only numbers the file contains and the archivist's note observes that a containment of a place that is not there has managed to produce a more consistent instrumental record than several holdings with objects in them.
 
-Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Holdout is measured on verified instruments. Polished, tested, true.
+### Everything Feels Recently Lost
+
+Near it, absent structures seem newly gone rather than long gone, and the effect extends to things unconnected with the original collapse. Wardens report it about their own lives. The file records this as a known effect with a stated duration and refers personnel to the infirmary at the end of a posting as a matter of routine rather than of concern.
+
+### Collapsed During Stabilisation
+
+A structure came down in the course of an Alpha Tree stabilisation and was treated as a necessary loss, and the commissioning file holds the works order and the engineering assessment that preceded it. The assessment is sound. The archivist's note states that the collapse was foreseen, that it was judged acceptable, and that the file includes the assessment precisely so the judgment can be read rather than imagined.
 
 ## Trivia
 

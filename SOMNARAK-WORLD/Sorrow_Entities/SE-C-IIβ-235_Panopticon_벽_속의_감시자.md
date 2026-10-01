@@ -372,16 +372,21 @@ Some sorrows are about what was done. The Watcher's sorrow is about what was see
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Sharp Pencil
+### Eyes That Do Not Blink
 
-Logs are written in pencil — sharpened before every watch, the roster's oldest instrument custom. The pencil doctrine is practical: pencil writes on damp paper, survives the chamber's cold, and never leaks. But the custom is honor: the sharpened pencil means the prepared Warden. Veterans sharpen deliberately, ritually, the way soldiers clean weapons. New Wardens receive their first pencil at commissioning — issued with the logbook, blessed with the formula. Panopticon is recorded in graphite — reading by reading, pencil by pencil, sharp forever.
-### The Full Box
+Eyes sit in the walls, the ceiling, and the doorframes, and they are counted at each watch, which is tedious and is done because the count changes. New eyes appear and old positions close. The log is a simple tally with a sketch plan and the file notes that the plan has been redrawn four times as the distribution shifted.
 
-Commissioning issues a full box of pencils — twelve, sharpened, the rookie's first year. Veterans replenish from the quartermaster with pride. Panopticon is recorded in graphite that never runs out. Issued, sharpened, recording.
+### It Does Not Judge
 
-### The Sharpener
+Nothing it observes produces a reaction of any kind, and the file is emphatic about this in the briefing because personnel assume otherwise and conduct themselves accordingly. The eyes record and do nothing. The archivist's note remarks that Wardens find the absence of judgment worse than judgment would be and that several have said so in writing.
 
-The muster hall keeps a wall sharpener — bolted, trued, and used before every watch. The sharpener custom queues the roster: sharpen in turn, waste nothing, write sharp. The sharpener has served generations of pencils. Panopticon is recorded sharp. Queued, sharpened, writing.
+### The Watcher Appears When Accepted
+
+A translucent figure becomes visible only to someone who has accepted being seen, and the holding neither encourages nor prevents this. Appearances are logged by the person they occurred to. There is no requirement to describe the figure and most entries do not, the form having been designed with a box that can be left empty.
+
+### Watching Without Helping
+
+Wardens observed citizens for generations and recorded danger without acting on it, and the commissioning file holds a sample of those observation books. They are competent and complete. The archivist's note states that the entries record harm accurately, in good handwriting, with the outcome noted afterward, and that the facility has kept them because the entity is made of exactly that competence.
 
 ## Trivia
 

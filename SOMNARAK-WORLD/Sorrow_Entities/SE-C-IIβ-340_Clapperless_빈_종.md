@@ -412,16 +412,21 @@ Some sorrows are about cruelty. Clapperless is about the gap between form and fu
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Fresh Paint
+### There Is No Clapper
 
-Maintenance repaints Clapperless's chambers on rotation — walls fresh, markings crisp, the containment gleaming the way readiness gleams. The paint custom treats the work as honor, not chore: the roster paints its own chambers, brushes shared, pride joint. Veterans describe fresh-paint days as the containment's renewals — the same doctrine, brightened walls, the watches continuing across the wet paint. Clapperless (SE-C-IIβ-340) is witnessed in chambers the roster keeps worthy — painted faithfully, maintained proudly, gleaming always.
-### The Dry Wall
+The bell is hollow and contains nothing to strike it, which distinguishes it from the other silent bell in the wing, and the briefing makes the distinction explicitly because the two are easily confused. The absence has been confirmed by inspection and by sounding the interior. The file records both methods and notes that the second was proposed by a Warden who had worked the other holding and did not trust the first.
 
-Fresh paint dries under watch — the roster guarding wet walls the way it guards everything: faithfully. Dry-wall checks close every paint day. Clapperless's chambers gleam. Painted, dried, gleaming.
+### It Vibrates for a Listener
 
-### The Color Standard
+Attention produces movement in the metal, detectable by hand on the rim, and the response is logged with the name of whoever was listening. Nothing else produces it. The file is careful to say that the behaviour has been observed and not explained, and that the holding has no theory and has not been asked for one.
 
-Chamber paint follows the color standard — walls regulation gray, markings safety yellow, pipes coded by system. The standard custom keeps every facility legible: any Warden, any chamber, readable at a glance. Clapperless's chambers match the standard exactly. Painted standard, reading clearly.
+### Pale and Hollow
+
+Its surface is light-coloured and sounds empty when tapped, and its condition is inspected annually against a drawing made at the opening of the holding. There has been no change. The inspection is brief, is recorded in a few lines, and is the sort of entry the archivist's note defends as the backbone of a file that would otherwise consist of nothing but its origin.
+
+### The District Was Not Warned
+
+A warning bell failed before a Han overflow and the affected district received no notice, and the commissioning file holds the overflow's casualty return alongside the maintenance record for the bell. The maintenance record is in order. The archivist's note states that nothing in it would have predicted the failure, that the two documents are filed together deliberately, and that the file offers no account of how the one led to the other because none exists.
 
 ## Trivia
 

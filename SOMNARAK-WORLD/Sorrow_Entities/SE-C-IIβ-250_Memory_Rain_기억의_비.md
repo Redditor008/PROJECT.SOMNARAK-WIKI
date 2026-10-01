@@ -385,16 +385,21 @@ Some sorrows are held inside. Memory Rain is what the city looks like when it ca
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Timely Relief
+### Rain From a Clear Sky
 
-Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Memory Rain is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
-### The Early Arrival
+It falls over the Gardens without cloud and the fall is logged by duration and intensity against a simple gauge. The gauge is the standard municipal pattern, obtained rather than built, so that the figures can be compared with ordinary rainfall records. They have been. The comparison established nothing and is reported in a single line.
 
-The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Memory Rain is relieved promptly. Early, briefed, holding.
+### Each Drop a Fragment
 
-### The Relief Log
+Every drop holds a face, a voice, a place, or a feeling, and contact dissolves it into vision, so the Warden's exposure is unavoidable and is limited by time rather than by shelter. The limit is called from outside. Wardens are not required to report what they saw and the form has no field for it, which was a deliberate omission.
 
-Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Memory Rain is witnessed continuously. Arrived, briefed, transferred.
+### It Covers the Ground
+
+After a fall, the Gardens are scattered with small memories that persist for some hours, and they are left where they lie. Collection was tried once and the material is still held, unexamined, in a sealed container that the file says has not been opened and is not to be. The container is listed in the inventory with that note attached.
+
+### Too Many to Hold
+
+The city accumulated more memory than it could carry and the excess condensed above Zone D, and the commissioning material is demographic rather than personal — the registers, the density figures, the sheer counts for the period. The archivist's note observes that the folder contains no individual story at all and that this is correct, the entity having been made by a quantity rather than by a person.
 
 ## Trivia
 

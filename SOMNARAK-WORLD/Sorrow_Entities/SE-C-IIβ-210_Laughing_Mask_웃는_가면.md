@@ -404,16 +404,21 @@ Some sorrows weep. Laughing Mask laughs — and the laughing is the sorrow, pres
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Quiet Lunch
+### It Laughs and Weeps Together
 
-The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. Laughing Mask is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
-### The Second Helping
+The mask produces continuous laughter while the eyeholes run wet, and both are logged, the laughter by duration and the wetness by whether it is present, which it always is. Wardens describe the combination as the difficult part of the watch. The briefing says so plainly rather than leaving them to discover it, which the file notes was a late amendment.
 
-Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. Laughing Mask is witnessed by well-fed personnel. Served, seconded, steady.
+### It Imitates
 
-### The Recipe Card
+Voices nearby are copied back, imperfectly, and the imitation is recorded with the name of whoever was speaking. Personnel are instructed to keep conversation in the holding to operational matters. The instruction is not about secrecy and the file says so: it is there because Wardens who heard their own casual talk returned to them found the posting much harder afterward.
 
-Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. Laughing Mask's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+### Genuine Laughter Silences It
+
+Real amusement stops the mask, which is the only reliable intervention the holding has and the one it cannot schedule. Occurrences are logged when they happen. There is no procedure requiring anyone to attempt it and the file explains that an instruction to laugh genuinely is a contradiction, and that the facility considered writing one and decided against it.
+
+### The Performer
+
+Someone went on entertaining the Mask Market after losing everyone, and the commissioning material is the Market's own billing — the dates performed, the fees paid, the venues. The run is unbroken through the relevant period. The archivist's note observes that the bills show no gap at all, not even for the funerals, and that this is the whole of what the record establishes.
 
 ## Trivia
 

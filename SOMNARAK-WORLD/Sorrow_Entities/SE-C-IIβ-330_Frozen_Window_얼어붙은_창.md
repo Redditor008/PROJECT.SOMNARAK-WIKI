@@ -375,16 +375,21 @@ Some sorrows accept. Frozen Window does not — it waits, and waits, and will no
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Spare Key
+### It Never Stays
 
-Every chamber in Frozen Window's containment keeps a spare key — sealed, logged, and held by the watch commander. The spare-key custom governs its custody: sealed at watch start, verified at watch end, used only in the emergencies the doctrine tables. The keys have been used rarely and regretted never — each use logged, each emergency met, each seal replaced after. New commanders receive the keys the way they receive the watch: with briefing, with gravity, with the formula. Frozen Window is secured by keys the roster holds faithfully — spares sealed, customs kept, emergencies answered.
-### The Unbroken Seal
+The figure of black ice and burning edges moves continuously through the Commons and has not been recorded at rest, so the watch is a patrol rather than a post. Two Wardens work it, moving opposite ways on a fixed circuit. The circuit was laid out so that the gap between them is never long, and the interval is stated in the order.
 
-Spare-key seals are verified unbroken at every watch end — the commander's check, the log's confirmation. Unbroken seals mean unneeded emergencies. Frozen Window's seals hold watch after watch. Sealed, verified, holding.
+### Scenes in Its Surface
 
-### The Key Ceremony
+Its face shows views of lives that were left behind, shifting as it moves, and the Warden records the type of scene rather than its content. Types are drawn from a short printed list. The list was compiled from the first year's free-text entries and the file notes that it has not needed a new category since.
 
-Watch commanders receive the spare keys with ceremony — the sealed packet, the custody formula, the log's countersignature. The ceremony binds the custody: keys received, responsibility taken, watch begun. Frozen Window's keys pass commander to commander, ceremony by ceremony. Received, held, transferred.
+### Ice That Burns at the Edges
+
+The figure is cold through its body and its outline burns, and both have been measured at distance. The readings are consistent and contradictory. The file presents them together without resolution and the archivist's note observes that this is the only holding in the wing where the two measurements taken at the same moment cannot both be about the same object.
+
+### Waiting at a Window
+
+Someone watched for a person who did not come back and the waiting became something that cannot keep still, and the commissioning file holds the household's correspondence from the period. The letters go out and are not answered. They are filed in order of sending, and the archivist's note states that the last several were written after the point at which the record shows the recipient could have received them.
 
 ## Trivia
 

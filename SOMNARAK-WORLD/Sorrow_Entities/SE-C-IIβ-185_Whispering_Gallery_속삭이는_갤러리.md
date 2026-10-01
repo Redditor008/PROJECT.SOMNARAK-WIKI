@@ -378,16 +378,21 @@ Some sorrows mourn the forgotten. Whispering Gallery mourns the half-remembered 
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Fresh Paint
+### Faceless Portraits
 
-Maintenance repaints Whispering Gallery's chambers on rotation — walls fresh, markings crisp, the containment gleaming the way readiness gleams. The paint custom treats the work as honor, not chore: the roster paints its own chambers, brushes shared, pride joint. Veterans describe fresh-paint days as the containment's renewals — the same doctrine, brightened walls, the watches continuing across the wet paint. Whispering Gallery (SE-C-IIβ-185) is witnessed in chambers the roster keeps worthy — painted faithfully, maintained proudly, gleaming always.
-### The Dry Wall
+The gallery is hung with oil paintings whose faces are gone, and the Warden's inventory counts frames and records their condition without attempting to identify sitters. Identification is not an authorised activity here. The file states the reason in one line: the subjects were forgotten before the paintings lost their faces, and a name attached now would be the facility's guess standing where a person used to be.
 
-Fresh paint dries under watch — the roster guarding wet walls the way it guards everything: faithfully. Dry-wall checks close every paint day. Whispering Gallery's chambers gleam. Painted, dried, gleaming.
+### No Voice Has a Source
 
-### The Color Standard
+Whispers overlap throughout the hall and none can be traced, which has been tested by moving listeners through the space on a grid and comparing what each heard. The results did not converge. The grid survey is retained with its map because it is thorough and because the file would rather hold a careful negative than let the question look unexamined.
 
-Chamber paint follows the color standard — walls regulation gray, markings safety yellow, pipes coded by system. The standard custom keeps every facility legible: any Warden, any chamber, readable at a glance. Whispering Gallery's chambers match the standard exactly. Painted standard, reading clearly.
+### The Floor
+
+The boards carry a vibration that rises and falls with the whispering, and it is the only part of the phenomenon that can be measured mechanically. A contact gauge is left in place and read at each watch. The series is the gallery's principal record and the archivist's note remarks that it is also the only evidence a sceptical reader would accept.
+
+### A Memorial That Lost Its Names
+
+The hall was built to remember people and the names and records went, leaving images and murmur, and the commissioning file holds the fragments of the original register that survive. They are few and they are partial. The file prints them with the gaps shown at their true length rather than closed up, so that the proportion of what is missing is visible on the page.
 
 ## Trivia
 
