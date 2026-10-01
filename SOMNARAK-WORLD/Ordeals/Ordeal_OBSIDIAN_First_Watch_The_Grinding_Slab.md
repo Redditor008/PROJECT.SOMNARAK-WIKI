@@ -25,7 +25,7 @@ It drifts in a straight line, flattening whatever it passes over; it cannot be l
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at First Watch grade, Level 2+ personnel, with deflection crews running angled barriers — the slab follows the path of least resistance, so build it a better path. Suppress before it spreads: a slab that crosses a junction can split its line, and two slabs are twice the geometry. The Living Avalanche (180 HP) follows the polished path at a distance; intercept it before it reaches the slab’s wake or the rubble starts moving on its own. Guide, never block.
+The Slab is suppressible by two people and a good angle. Weight-element M.A.W. at First Watch grade, deflection barriers set early, and the understanding that this manifestation never chooses the hard route — give it an easy one that leads somewhere harmless. Weight-element M.A.W. at First Watch grade, Level 2+ personnel, with deflection crews running angled barriers — the slab follows the path of least resistance, so build it a better path. Suppress before it spreads: a slab that crosses a junction can split its line, and two slabs are twice the geometry. The Living Avalanche (180 HP) follows the polished path at a distance; intercept it before it reaches the slab’s wake or the rubble starts moving on its own. Guide, never block.
 
 ## Facility Impact
 

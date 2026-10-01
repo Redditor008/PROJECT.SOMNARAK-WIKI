@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-720 [GS]` |
-| **Entity Type (Aphasia)** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category (Aphasia)** | Outside Sorrow (외한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A small humanoid of melting crimson wax, speaking in a whisper that dissolves into nothing before it can be heard. Fever-warm, it smells of char and tallow; a confession that melts before it finishes. |
-| **Movement (Aphasia)** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone B, Old Lament — ambient |
-| **R.D. Comprehension Level (Aphasia)** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Aphasia):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Subject |
-| **Primary pressure (Aphasia)** | Physical / structural pressure |
+| **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield (Aphasia)** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty (Aphasia)** | Low · R.D. Comprehension Level 1 — Initial |
+| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Aphasia)** | 1 g–10 kg (α) |
-| **Recommended response (Aphasia)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Aphasia.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-Iα-720]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-O-Iα-720]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-Iα-720]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Aphasia):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 0.95 m/s |
 | **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
-| **Activation threshold (Aphasia)** | Sorrow Gauge ≥ 45% |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Grudge |
-| **Coherence modifier (Aphasia)** | I — affects behavior complexity and response speed |
-| **Potency modifier (Aphasia)** | α — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | I — affects behavior complexity and response speed |
+| **Potency modifier** | α — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Aphasia):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty (Aphasia)** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types (Aphasia)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Record the whisper exactly; do not invent missing words |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension (Aphasia):** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Aphasia's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Record the whisper exactly; do not invent missing words**.
 
@@ -93,7 +93,7 @@
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
 - Extended contact risks Aphasia’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field. [SE-O-Iα-720]
+- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
 - Without timely resolution, Aphasia defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -110,7 +110,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A small humanoid figure made of melting crimson wax, speaking in a whisper that dissolves as it leaves the mouth.
-- **Position / movement (Aphasia):** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament — ambient
 
@@ -119,18 +119,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A small humanoid figure made of melting crimson wax, speaking in a whisper that dissolves as it leaves the mouth. |
-| **Position / movement (Aphasia)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature (Aphasia)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Aphasia)** | Confirm the primary form and elemental signature before contact. |
-| **Identification (Aphasia)** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol (Aphasia):** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Whisper formed from anger that could no longer hold a complete sentence.
 - **The Sorrow:** The grief of being unable to explain why something was wrong.
 - **The Event:** A witness tried to report an injustice but was interrupted until only a fragment of the accusation remained.
-- **The People (Aphasia):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — folded into M.A.W. inscriptions, read only by those who wear the sorrow. The story begins with a citizen who Fractured from an anger that never found its target. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -148,7 +148,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Aphasia is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response (Aphasia):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
 ## Breach Behavior
 
 > *"Aphasia has broken free. Drives personnel mad with half-heard secrets."*
@@ -159,18 +159,18 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | Aphasia breaks free and stalks the corridors on foot. It drives personnel mad with half-heard secrets. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target (Aphasia)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation (Aphasia)** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type (Aphasia):** Escape — the entity physically escapes and roams the facility.
-- **Containment priority (Aphasia):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach (Aphasia):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Aphasia):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Liquefying Spear
 
@@ -188,12 +188,12 @@ The spearhead maintains an extraordinary cutting edge despite its liquid boundar
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule (Aphasia):** 100% damage to the selected target only.
-**Damage Application (Aphasia):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% damage to the selected target only.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Aphasia's grudge signature in the strike.
 
-**Cost (Aphasia):** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Melted Plate
 
@@ -211,7 +211,7 @@ The spearhead maintains an extraordinary cutting edge despite its liquid boundar
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Aphasia's kind of pressure.
 
-**Cost (Aphasia):** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — The Melted Word
 
@@ -221,7 +221,7 @@ The spearhead maintains an extraordinary cutting edge despite its liquid boundar
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect (Aphasia):** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** Preserves one spoken sentence from decay or distortion.
 
@@ -237,15 +237,15 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (Aphasia)** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use (Aphasia)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Aphasia)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Aphasia)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation (Aphasia):** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level (Aphasia):** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - Its form changes according to the words being spoken.
 - It reforms when its final fragment is repeated.
@@ -260,11 +260,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Aphasia as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
-| **Sustained observation (Aphasia)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (Aphasia)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Aphasia's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method (Aphasia):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Aphasia record.)
@@ -291,7 +291,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-Iα-720] |
 |---|---|
 | The figure reforms slightly and speaks more clearly. The sorrow is named; Aphasia is fully recorded. | Melts rapidly and spreads angry whispers. The gauge climbs and Aphasia withdraws without revelation. |
-| **OBSERVATION SUCCESS (Aphasia)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -311,7 +311,7 @@ A whisper melts before it reaches the wall. The small figure beside you loses a 
 
 Aphasia does not exist in isolation. Its recorded relationships with The Broken Whisper, The Rusted Soul, The Whispering Walls should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method (Aphasia):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -324,7 +324,7 @@ Aphasia must be assessed as part of an entity network, not as an isolated profil
 | **The Rusted Soul** | Shares anger born from abandonment. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Whispering Walls** | The Walls preserve its fragments. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure (Aphasia):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -356,24 +356,24 @@ Some sorrows are about silence. Aphasia is about the interrupted — the report 
 **Common Name:** Aphasia
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 1 — Initial
-**Threat Assessment (Aphasia):** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section. [SE-O-Iα-720]
-- Standard R.D. containment protocols apply. [SE-O-Iα-720]
-- See Breach Behavior or Activation Behavior for escalation response. [SE-O-Iα-720]
+- Refer to entity’s Work Type responses in the Behavior section.
+- Standard R.D. containment protocols apply.
+- See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**
-- See Origin section for formation and event details. [SE-O-Iα-720]
-- See Combat Record for engagement history. [SE-O-Iα-720]
-- See M.A.W. Equipment section for extraction risk. [SE-O-Iα-720]
-**Cross-References (Aphasia):** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement (Aphasia):** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
-**Originator (Aphasia):** See Origin section — ‘The People’ field.
+- See Origin section for formation and event details.
+- See Combat Record for engagement history.
+- See M.A.W. Equipment section for extraction risk.
+**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
-**Operational interpretation (Aphasia):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement (Aphasia):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The entity's form melts when its whisper is ignored.
@@ -385,9 +385,9 @@ Some sorrows are about silence. Aphasia is about the interrupted — the report 
 
 - **Classification detail:** Aphasia is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament — ambient.
-- **Recognition detail (Aphasia):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Aphasia):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail (Aphasia):** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-O-Iα-720

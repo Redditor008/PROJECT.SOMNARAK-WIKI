@@ -7,60 +7,60 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-852 [N]` |
-| **Entity Type (Conservatory)** | **Object/Place** — Can breach via Transform |
-| **Tool Type (Conservatory)** | **I-Relic (Indumentum)** |
+| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category (Conservatory)** | Inner Sorrow (내한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — A ruin-shaped mass of red-black crystal preserving the exact outline of a place once loved and now gone — its walls true to memory, its rooms empty. Fever-cold, it smells of char; a beloved place, crystallized in its own ending. |
-| **Movement (Conservatory)** | Stationary — a structure or location. |
+| **Movement** | Stationary — a structure or location. |
 | **Location** | Zone C, Mask Market |
-| **R.D. Comprehension Level (Conservatory)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Conservatory):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
-| **Primary pressure (Conservatory)** | Physical / structural pressure |
+| **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield (Conservatory)** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty (Conservatory)** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold (Conservatory)** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade (Conservatory)** | I-Relic (Indumentum) · — |
+| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Conservatory)** | ~1–10 tons (δ) |
-| **Recommended response (Conservatory)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Conservatory.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IVδ-852]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IVδ-852]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IVδ-852]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Conservatory):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed (Conservatory)** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
-| **Activation threshold (Conservatory)** | Sorrow Gauge ≥ 90% |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 873/873 |
 | **Han Pressure [ATK]** | 30–65 per hit · Grudge |
-| **Coherence modifier (Conservatory)** | IV — affects behavior complexity and response speed |
-| **Potency modifier (Conservatory)** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | IV — affects behavior complexity and response speed |
+| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Conservatory):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,10 +69,10 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty (Conservatory)** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Conservatory)** | Viderehan and Ferrehan only |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Mask Market |
-| **Resolution Condition (Conservatory)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -86,15 +86,15 @@
 
 ### Battle Phases
 
-1. **Tension (Conservatory):** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Conservatory's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution (Conservatory):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization. [SE-N-IVδ-852]
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak. [SE-N-IVδ-852]
+- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
+- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
 - If the resolution condition is not fulfilled, Conservatory reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A ruin-shaped object of red-black crystal, preserving the outline of a beloved place.
-- **Position / movement (Conservatory):** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Grudge
 - **Registered location:** Zone C, Mask Market
 
@@ -116,23 +116,23 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ruin-shaped object of red-black crystal, preserving the outline of a beloved place. |
-| **Position / movement (Conservatory)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature (Conservatory)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Conservatory)** | Confirm the primary form and elemental signature before contact. |
-| **Identification (Conservatory)** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
 
-**Appearance protocol (Conservatory):** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Ruin formed from a place destroyed by someone trying to preserve it.
 - **The Sorrow:** The grief of loving a place so fiercely that preservation became destruction.
 - **The Event:** A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized.
-- **The People (Conservatory):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule (Conservatory):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -146,7 +146,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Conservatory is recorded as an Object/Place with Object-Grudge manifestation and Grudge elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response (Conservatory):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility** (Conservatory record.)
@@ -166,14 +166,14 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode (Conservatory)** | **Equippable / mounting use** |
+| **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Attempting to reconstruct the remembered structure. |
 | **Primary Effect** | Rebuilds one room for a short time. |
 | **Duration** | Until the memory can no longer support the form. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | The reconstructed room may consume the observer's present identity. |
 
-**Operational Rule (Conservatory):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
@@ -188,7 +188,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 The escalation pattern is specific to Conservatory: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence (Conservatory):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
@@ -199,12 +199,12 @@ The escalation pattern is specific to Conservatory: it is not a generic breach e
 | **Primary effect** | Rebuilds one room for a short time. |
 | **Duration / rate** | Until the memory can no longer support the form. |
 | **Risk** | Critical (δ) Object-Grudge producing Grudge pressure; The reconstructed room may consume the observer's present identity. |
-| **Management (Conservatory)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order (Conservatory):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Conservatory):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Forgotten Ruin-Glyph
 
@@ -221,13 +221,13 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage (Conservatory):** Line; up to 3 targets total
-**Falloff Rule (Conservatory):** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application (Conservatory):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** Line; up to 3 targets total
+**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Conservatory's grudge signature in the strike.
 
-**Cost (Conservatory):** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — Conservatory Plate
 
@@ -245,7 +245,7 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Conservatory's kind of pressure.
 
-**Cost (Conservatory):** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — Conservatory Bracelet
 
@@ -255,7 +255,7 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect (Conservatory):** +3 stat bonus when working the source entity
+**Effect:** +3 stat bonus when working the source entity
 
 **Ability:** Protects others from structural collapse.
 
@@ -271,12 +271,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (Conservatory)** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use (Conservatory)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Conservatory)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Conservatory)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation (Conservatory):** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -294,11 +294,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Conservatory as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone C, Mask Market. |
-| **Sustained observation (Conservatory)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Attempting to reconstruct the remembered structure. Effect: Rebuilds one room for a short time. Duration: Until the memory can no longer support the form. Risk: The reconstructed room may consume the observer's present identity. Tool Use Profile — I-Relic Operational. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Conservatory's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method (Conservatory):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Conservatory record.)
@@ -325,7 +325,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IVδ-852] |
 |---|---|
 | Tests whether the worker can remain without rebuilding. The sorrow is named; Conservatory is fully recorded. | Shows the love and failure behind the structure. The gauge climbs and Conservatory withdraws without revelation. |
-| **OBSERVATION SUCCESS (Conservatory)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -345,7 +345,7 @@ The ruin is beautiful because it remembers being loved. Red crystal holds a door
 
 Conservatory does not exist in isolation. Its recorded relationships with The Frozen Ruin, Folly, The Broken Mirror should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method (Conservatory):** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -358,7 +358,7 @@ Conservatory must be assessed as part of an entity network, not as an isolated p
 | **Folly** | Shares the grief of impossible restoration. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Broken Mirror** | Reflects the former inhabitants. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure (Conservatory):** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -392,24 +392,24 @@ Some sorrows are about neglect. Conservatory is about devotion — the love so f
 **Common Name:** Conservatory
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
-**Threat Assessment (Conservatory):** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section. [SE-N-IVδ-852]
-- Standard R.D. containment protocols apply. [SE-N-IVδ-852]
-- See Breach Behavior or Activation Behavior for escalation response. [SE-N-IVδ-852]
+- Refer to entity’s Work Type responses in the Behavior section.
+- Standard R.D. containment protocols apply.
+- See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**
-- See Origin section for formation and event details. [SE-N-IVδ-852]
-- See Combat Record for engagement history. [SE-N-IVδ-852]
-- See M.A.W. Equipment section for extraction risk. [SE-N-IVδ-852]
-**Cross-References (Conservatory):** See entity’s Interaction Record and Trivia for connected entities.
+- See Origin section for formation and event details.
+- See Combat Record for engagement history.
+- See M.A.W. Equipment section for extraction risk.
+**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator (Conservatory):** See Origin section — ‘The People’ field.
+**Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
-**Operational interpretation (Conservatory):** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement (Conservatory):** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
 A counselor assigned to Conservatory's roster was once compromised — reached, turned, and very nearly lost. This record preserves the compromise, the protocol that caught it, and the return the Directorate still cites as proof that no one is beyond recovery.
@@ -445,9 +445,9 @@ Supervisors in Conservatory's chain swear their own oath — distinct from the W
 
 - **Classification detail:** Conservatory is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone C, Mask Market.
-- **Recognition detail (Conservatory):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Conservatory):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail (Conservatory):** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-852

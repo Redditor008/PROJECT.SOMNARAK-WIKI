@@ -7,60 +7,60 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-120 [GO]` |
-| **Entity Type (Redcage)** | **Object/Place** — Can breach via Transform |
-| **Tool Type (Redcage)** | **I-Relic (Indumentum)** |
+| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Furious and trapped |
 | **Potency** | Major (γ) |
-| **Sorrow Category (Redcage)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — An empty cage of vertical bars that are not uniform metal: dark crimson, ridged, fused in places with what looks like calcified sinew and clenched-finger bone. The bars pulse together in a slow, angered rhythm. There is no door and no prisoner; the cage itself is what is furious. |
-| **Movement (Redcage)** | Stationary — a structure or location. |
+| **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-B-01, Zone B |
-| **R.D. Comprehension Level (Redcage)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Redcage):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure (Redcage)** | Physical / structural pressure |
+| **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield (Redcage)** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty (Redcage)** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold (Redcage)** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade (Redcage)** | I-Relic (Indumentum) · — |
+| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Redcage)** | ~100 kg–1 ton (γ) |
-| **Recommended response (Redcage)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Redcage.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIγ-120]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIIγ-120]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIγ-120]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Redcage):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed (Redcage)** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 35% against Grudge pressure; 25% against other pressure types |
-| **Activation threshold (Redcage)** | Sorrow Gauge ≥ 75% |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Grudge |
-| **Coherence modifier (Redcage)** | III — affects behavior complexity and response speed |
-| **Potency modifier (Redcage)** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Redcage):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,10 +69,10 @@
 | **Coherence** | Fragment (III) — Furious and trapped |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty (Redcage)** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Redcage)** | Viderehan and Ferrehan only |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-B-01, Zone B |
-| **Resolution Condition (Redcage)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -86,15 +86,15 @@
 
 ### Battle Phases
 
-1. **Tension (Redcage):** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Redcage's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution (Redcage):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
 - Redcage’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record. [SE-C-IIIγ-120]
+- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Redcage's dossier.
 
 ## Appearance
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A large cage made from dark red crystallized rage. It is empty, but the bars pulse like a heartbeat.
-- **Position / movement (Redcage):** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-01, Zone B
 
@@ -116,23 +116,23 @@
 | Field | Detail |
 |---|---|
 | **Form** | A large cage made from dark red crystallized rage. It is empty, but the bars pulse like a heartbeat. |
-| **Position / movement (Redcage)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature (Redcage)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Redcage)** | Confirm the primary form and elemental signature before contact. |
-| **Identification (Redcage)** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol (Redcage):** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Cage formed from people imprisoned without cause.
 - **The Sorrow:** The fury of being trapped by a system that refuses to admit error.
 - **The Event:** Citizens were jailed for debts and crimes they did not commit; their rage became the bars of an empty cage.
-- **The People (Redcage):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
 
 ## Behavior
 
-> **Object/Place Work Rule (Redcage):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -146,7 +146,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Redcage is recorded as an Object/Place with Object-Grudge manifestation and Grudge elemental expression. The current record places it at SECTOR-B-01, Zone B; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response (Redcage):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility** (Redcage record.)
@@ -166,14 +166,14 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode (Redcage)** | **Equippable / mounting use** |
+| **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Touching or attempting to open the Cage. |
 | **Primary Effect** | Releases a wave of anger and memories of unjust imprisonment. |
 | **Duration** | Until the Cage is closed and the injustice is acknowledged. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | The user may become convinced they are imprisoned even in open space. |
 
-**Operational Rule (Redcage):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
@@ -188,7 +188,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 The escalation pattern is specific to Redcage: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-B-01, Zone B, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence (Redcage):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
@@ -199,12 +199,12 @@ The escalation pattern is specific to Redcage: it is not a generic breach event.
 | **Primary effect** | Releases a wave of anger and memories of unjust imprisonment. |
 | **Duration / rate** | Until the Cage is closed and the injustice is acknowledged. |
 | **Risk** | Major (γ) Object-Grudge producing Grudge pressure; The user may become convinced they are imprisoned even in open space. |
-| **Management (Redcage)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order (Redcage):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Redcage):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Wrath-Ember Censer
 
@@ -221,13 +221,13 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage (Redcage):** Line; up to 3 targets total
-**Falloff Rule (Redcage):** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application (Redcage):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** Line; up to 3 targets total
+**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Redcage's grudge signature in the strike.
 
-**Cost (Redcage):** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Cage Shield
 
@@ -255,7 +255,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect (Redcage):** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus when working the source entity
 
 **Ability:** Grants a minor boon tied to Redcage's sorrow; the effect mirrors the entity's nature.
 
@@ -271,12 +271,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (Redcage)** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use (Redcage)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Redcage)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Redcage)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation (Redcage):** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -294,11 +294,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Redcage as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-01, Zone B. |
-| **Sustained observation (Redcage)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching or attempting to open the Cage. Effect: Releases a wave of anger and memories of unjust imprisonment. Duration: Until the Cage is closed and the injustice is acknowledged. Risk: The user may become convinced they are imprisoned even in. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Redcage's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method (Redcage):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Redcage record.)
@@ -325,7 +325,7 @@ The entity has become a symbol among certain personnel — a reminder that sorro
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-120] |
 |---|---|
 | Tests whether the worker can remain near rage without feeding it. The sorrow is named; Redcage is fully recorded. | Reveals the injustices that formed each bar. The gauge climbs and Redcage withdraws without revelation. |
-| **OBSERVATION SUCCESS (Redcage)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -345,7 +345,7 @@ The Cage stands empty, pulsing with the anger of people who were locked away for
 
 Redcage does not exist in isolation. Its recorded relationships with The Iron Judge, The Debt Wall, The Angry Maiden should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method (Redcage):** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -358,7 +358,7 @@ Redcage must be assessed as part of an entity network, not as an isolated profil
 | **The Debt Wall** | Both grow from institutional obligation. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Angry Maiden** | Her fire intensifies the Cage's rage. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure (Redcage):** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -406,9 +406,9 @@ Some sorrows mourn freedom lost. Redcage mourns the particular freedom of being 
 
 ### Registry Addendum
 
-**Operational interpretation (Redcage):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement (Redcage):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### The Overtime
@@ -433,9 +433,9 @@ Overtime hours are honored at muster — the senior Warden reading the overtime 
 
 - **Classification detail:** Redcage is an Object/Place with Fragment (III) — Furious and trapped coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-01, Zone B.
-- **Recognition detail (Redcage):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Redcage):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail (Redcage):** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-120

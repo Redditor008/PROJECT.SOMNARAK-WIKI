@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-959 [D]` |
-| **Entity Type (Uprooted)** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category (Uprooted)** | Outside Sorrow (외한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A serpent of living root hauled up out of the ground — a long burning root-beast with no head and many reaching tendrils, fire along its length. Fever-warm, it smells of cold rain and char. |
-| **Movement (Uprooted)** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | The Desolate — mobile |
-| **R.D. Comprehension Level (Uprooted)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Uprooted):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Subject |
-| **Primary pressure (Uprooted)** | Mental / emotional pressure |
+| **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield (Uprooted)** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty (Uprooted)** | High · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Uprooted)** | ~100 kg–1 ton (γ) |
-| **Recommended response (Uprooted)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Uprooted.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IIIγ-959]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-O-IIIγ-959]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-IIIγ-959]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Uprooted):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
 | **Resistance** | 35% against Lament pressure; 25% against other pressure types |
-| **Activation threshold (Uprooted)** | Sorrow Gauge ≥ 75% |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
-| **Coherence modifier (Uprooted)** | III — affects behavior complexity and response speed |
-| **Potency modifier (Uprooted)** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Uprooted):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty (Uprooted)** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Uprooted)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Do not burn the roots; map and witness their route |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension (Uprooted):** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Uprooted's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not burn the roots; map and witness their route**.
 
@@ -93,7 +93,7 @@
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Clarity** and identity cohesion, accelerating Sorrow Gauge escalation.
 - Extended contact risks Uprooted’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field. [SE-O-IIIγ-959]
+- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
 - Without timely resolution, Uprooted defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
 - **Primary marker:** A burning figure whose body is made from roots rising out of the Desolate ground.
-- **Position / movement (Uprooted):** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Lament
 - **Registered location:** The Desolate — mobile
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A burning figure whose body is made from roots rising out of the Desolate ground. |
-| **Position / movement (Uprooted)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature (Uprooted)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Uprooted)** | Confirm the primary form and elemental signature before contact. |
-| **Identification (Uprooted)** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol (Uprooted):** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Root formed from a life forced to grow in hostile ground.
 - **The Sorrow:** The grief of belonging nowhere and building without a place to remain.
 - **The Event:** A Desolate settlement moved repeatedly, leaving its roots and structures behind each time.
-- **The People (Uprooted):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Uprooted is recorded as a Subject with Subject-Grudge manifestation and Lament elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response (Uprooted):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
 ## Breach Behavior
 
 > *"Rising Root has broken free. Grasps at ankles, dragging personnel down."*
@@ -155,18 +155,18 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | Uprooted bursts free and crawls or slithers in search of prey. It grasps at ankles, dragging personnel down. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target (Uprooted)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation (Uprooted)** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type (Uprooted):** Escape — the entity physically escapes and roams the facility.
-- **Containment priority (Uprooted):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach (Uprooted):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Uprooted):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Graveweed Needle-Rifle
 
@@ -184,12 +184,12 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule (Uprooted):** 100% damage to the selected target only.
-**Damage Application (Uprooted):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% damage to the selected target only.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Uprooted's lament signature in the strike.
 
-**Cost (Uprooted):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — Uprooted Shield
 
@@ -217,7 +217,7 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect (Uprooted):** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** Grants a minor boon tied to Uprooted's sorrow; the effect mirrors the entity's nature.
 
@@ -233,12 +233,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (Uprooted)** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use (Uprooted)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Uprooted)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Uprooted)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation (Uprooted):** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -256,11 +256,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Uprooted as a Subject with Subject-Grudge manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at The Desolate — mobile. |
-| **Sustained observation (Uprooted)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (Uprooted)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Uprooted's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method (Uprooted):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Uprooted record.)
@@ -287,7 +287,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IIIγ-959] |
 |---|---|
 | Flames dim and roots loosen. The sorrow is witnessed; Uprooted is fully recorded. | Roots strike outward and structures rise violently. The gauge climbs and Uprooted withdraws without revelation. |
-| **OBSERVATION SUCCESS (Uprooted)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -307,7 +307,7 @@ Roots break through the dust and a burning person rises among them. Around its f
 
 Uprooted does not exist in isolation. Its recorded relationships with The Spreading Root, The Rootless, The Burning Root should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method (Uprooted):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -320,7 +320,7 @@ Uprooted must be assessed as part of an entity network, not as an isolated profi
 | **The Rootless** | Shares the grief of rootlessness. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Burning Root** | Carries familiar burden into Outside Sorrow. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure (Uprooted):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -352,24 +352,24 @@ Some sorrows mourn a home. Uprooted mourns the rooting — the attempt to belong
 **Common Name:** Uprooted
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic
-**Threat Assessment (Uprooted):** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section. [SE-O-IIIγ-959]
-- Standard R.D. containment protocols apply. [SE-O-IIIγ-959]
-- See Breach Behavior or Activation Behavior for escalation response. [SE-O-IIIγ-959]
+- Refer to entity’s Work Type responses in the Behavior section.
+- Standard R.D. containment protocols apply.
+- See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**
-- See Origin section for formation and event details. [SE-O-IIIγ-959]
-- See Combat Record for engagement history. [SE-O-IIIγ-959]
-- See M.A.W. Equipment section for extraction risk. [SE-O-IIIγ-959]
-**Cross-References (Uprooted):** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement (Uprooted):** SED (Desolate-territory exploration)
-**Originator (Uprooted):** See Origin section — ‘The People’ field.
+- See Origin section for formation and event details.
+- See Combat Record for engagement history.
+- See M.A.W. Equipment section for extraction risk.
+**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+**Faction Involvement:** SED (Desolate-territory exploration)
+**Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
-**Operational interpretation (Uprooted):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement (Uprooted):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### The Nightingale Shift
@@ -394,9 +394,9 @@ The morning after a nightingale shift, the relief arrives to birdsong — the ro
 
 - **Classification detail:** Uprooted is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is The Desolate — mobile.
-- **Recognition detail (Uprooted):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Uprooted):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail (Uprooted):** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-959

@@ -7,60 +7,60 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-340 [VP]` |
-| **Entity Type (Apocrypha)** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category (Apocrypha)** | Outside Sorrow (외한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — A frozen patch of Desolate ground holding the outline of an unknown relic — frost forming around the empty space where the relic should be, not on anything solid. Bloodless-cold, it smells of ash; felt by the cold it leaves, not by its presence. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | The Desolate — mobile |
-| **R.D. Comprehension Level (Apocrypha)** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Apocrypha):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
-| **Primary pressure (Apocrypha)** | Identity / memory pressure |
+| **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield (Apocrypha)** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty (Apocrypha)** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold (Apocrypha)** | Activation / expansion trigger — no breach counter |
+| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
-| **Vessel-Destructible (Apocrypha)** | No — Place-manifestation |
-| **Han Dust Drop (Vessel Destruction) (Apocrypha)** | — |
-| **Recommended response (Apocrypha)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Vessel-Destructible** | No — Place-manifestation |
+| **Han Dust Drop (Vessel Destruction)** | — |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Apocrypha.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-Iα-340]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-O-Iα-340]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-Iα-340]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Apocrypha):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed (Apocrypha)** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 15% against Void pressure; 5% against other pressure types |
-| **Activation threshold (Apocrypha)** | Sorrow Gauge ≥ 45% |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Void |
-| **Coherence modifier (Apocrypha)** | I — affects behavior complexity and response speed |
-| **Potency modifier (Apocrypha)** | α — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | I — affects behavior complexity and response speed |
+| **Potency modifier** | α — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Apocrypha):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,8 +69,8 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty (Apocrypha)** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types (Apocrypha)** | Viderehan and Ferrehan only |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Mark the site and speak the farewell that was missed |
 
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
 - **Primary marker:** A frozen patch of Desolate ground containing the outline of an unknown relic. Frost forms around empty space rather than an object.
-- **Position / movement (Apocrypha):** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Void
 - **Registered location:** The Desolate — mobile
 
@@ -116,9 +116,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A frozen patch of Desolate ground containing the outline of an unknown relic. Frost forms around empty space rather than an object. |
-| **Position / movement (Apocrypha)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature (Apocrypha)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Apocrypha)** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -127,12 +127,12 @@
 - **Formation:** The Relic formed from an object lost before its owner could say farewell.
 - **The Sorrow:** The emptiness of an object whose meaning was never explained.
 - **The Event:** A traveler froze in the Desolate while carrying a relic no one else could identify.
-- **The People (Apocrypha):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule (Apocrypha):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -188,7 +188,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 The escalation pattern is specific to Apocrypha: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at The Desolate — mobile, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence (Apocrypha):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
@@ -199,12 +199,12 @@ The escalation pattern is specific to Apocrypha: it is not a generic breach even
 | **Primary effect** | Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2. |
 | **Duration / rate** | Continuous while the vellum is held open. |
 | **Risk** | Minor (α) Place-Void producing Void pressure; Body temperature drops rapidly; continuing past 60 seconds causes immediate hypothermia. |
-| **Management (Apocrypha)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order (Apocrypha):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Apocrypha):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Cryo-Relic Lance
 
@@ -222,12 +222,12 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule (Apocrypha):** 100% damage to the selected target only.
-**Damage Application (Apocrypha):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% damage to the selected target only.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Apocrypha's void signature in the strike.
 
-**Cost (Apocrypha):** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — Apocrypha Veil
 
@@ -245,7 +245,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Apocrypha's kind of pressure.
 
-**Cost (Apocrypha):** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — Apocrypha Shard
 
@@ -255,7 +255,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect (Apocrypha):** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** Preserves one unfinished message.
 
@@ -272,14 +272,14 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use (Apocrypha)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Apocrypha)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Apocrypha)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level (Apocrypha):** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - The Relic has no confirmed physical core.
 - It moves along abandoned routes.
@@ -294,8 +294,8 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Apocrypha as an Object/Place with Place-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at The Desolate — mobile. |
-| **Sustained observation (Apocrypha)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (Apocrypha)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Apocrypha's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
@@ -325,7 +325,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-Iα-340] |
 |---|---|
 | Tests whether the worker can remain in the cold without answers. The sorrow is seen clearly; Apocrypha is fully recorded. | Shows fragments of the relic's unknown purpose. The gauge climbs and Apocrypha withdraws without revelation. |
-| **OBSERVATION SUCCESS (Apocrypha)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -390,18 +390,18 @@ Some sorrows mourn a carrier. Apocrypha mourns the unexplained — the object wh
 **Common Name:** Apocrypha
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial
-**Threat Assessment (Apocrypha):** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section. [SE-O-Iα-340]
-- Standard R.D. containment protocols apply. [SE-O-Iα-340]
-- See Breach Behavior or Activation Behavior for escalation response. [SE-O-Iα-340]
+- Refer to entity’s Work Type responses in the Behavior section.
+- Standard R.D. containment protocols apply.
+- See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**
-- See Origin section for formation and event details. [SE-O-Iα-340]
-- See Combat Record for engagement history. [SE-O-Iα-340]
-- See M.A.W. Equipment section for extraction risk. [SE-O-Iα-340]
-**Cross-References (Apocrypha):** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement (Apocrypha):** SED (Desolate-territory exploration)
-**Originator (Apocrypha):** See Origin section — ‘The People’ field.
+- See Origin section for formation and event details.
+- See Combat Record for engagement history.
+- See M.A.W. Equipment section for extraction risk.
+**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+**Faction Involvement:** SED (Desolate-territory exploration)
+**Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
@@ -419,8 +419,8 @@ Some sorrows mourn a carrier. Apocrypha mourns the unexplained — the object wh
 
 - **Classification detail:** Apocrypha is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Void, and its registered location is The Desolate — mobile.
-- **Recognition detail (Apocrypha):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Apocrypha):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

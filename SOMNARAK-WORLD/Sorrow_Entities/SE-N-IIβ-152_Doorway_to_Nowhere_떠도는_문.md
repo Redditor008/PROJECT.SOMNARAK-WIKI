@@ -7,69 +7,69 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-152 [LS]` |
-| **Entity Type (Doorway to Nowhere)** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category (Doorway to Nowhere)** | Inner Sorrow (내한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning door-shaped figure that walks on a threshold with no wall around it — a frame of charred wood and live fire, its handle opening onto a different memory each time. Fever-warm, it smells of cold rain and char; a door that comes to you. |
-| **Movement (Doorway to Nowhere)** | Stationary — a structure or location. |
+| **Movement** | Stationary — a structure or location. |
 | **Location** | Zone A, Alpha Tree |
-| **R.D. Comprehension Level (Doorway to Nowhere)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Doorway to Nowhere):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure (Doorway to Nowhere)** | Mental / emotional pressure |
+| **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (Doorway to Nowhere)** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty (Doorway to Nowhere)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Doorway to Nowhere)** | ~10 kg–100 kg (β) |
-| **Recommended response (Doorway to Nowhere)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Doorway to Nowhere.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIβ-152]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IIβ-152]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIβ-152]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Doorway to Nowhere):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
 | **Resistance** | 25% against Lament pressure; 15% against other pressure types |
-| **Activation threshold (Doorway to Nowhere)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 457/457 |
 | **Han Pressure [ATK]** | 7–17 per hit · Lament |
-| **Coherence modifier (Doorway to Nowhere)** | II — affects behavior complexity and response speed |
-| **Potency modifier (Doorway to Nowhere)** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | II — affects behavior complexity and response speed |
+| **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Doorway to Nowhere):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Doorway to Nowhere)** | Medium — 16 turns |
+| **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty (Doorway to Nowhere)** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Doorway to Nowhere)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Close the door consciously; do not force passage |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension (Doorway to Nowhere):** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Doorway to Nowhere's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Close the door consciously; do not force passage**.
 
@@ -93,7 +93,7 @@
 
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
 - The longer the exposure, the deeper the wound: Doorway to Nowhere’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing. [SE-N-IIβ-152]
+- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
 - Failure to achieve resolution triggers Doorway to Nowhere’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
 
 ## Appearance
@@ -116,17 +116,17 @@
 |---|---|
 | **Form** | A burning door-shaped figure that walks on a threshold with no wall around it. Its handle opens onto different memories. |
 | **Position / movement** | Primary Form: A burning door-shaped figure that walks on a threshold with no wall around it. |
-| **Material / signature (Doorway to Nowhere)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Doorway to Nowhere)** | Confirm the primary form and elemental signature before contact. |
-| **Identification (Doorway to Nowhere)** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
 
-**Appearance protocol (Doorway to Nowhere):** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Door formed from people who left home without knowing whether they could return.
 - **The Sorrow:** The grief of carrying a threshold after the place beyond it is gone.
 - **The Event:** A border evacuation scattered families; their doors became symbols of departure and uncertain return.
-- **The People (Doorway to Nowhere):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Doorway to Nowhere is recorded as a Subject with Subject-Grudge manifestation and Lament elemental expression. The current record places it at Zone A, Alpha Tree; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response (Doorway to Nowhere):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
 ## Breach Behavior
 
 > *"Doorway to Nowhere has broken free. Opens onto spaces that should not exist."*
@@ -155,18 +155,18 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Movement** | Doorway to Nowhere pulses with concentrated force, cracking the walls around it. It opens onto spaces that should not exist. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target (Doorway to Nowhere)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation (Doorway to Nowhere)** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type (Doorway to Nowhere):** Corrupt — the containment zone warps and spreads.
+- **Breach type:** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach (Doorway to Nowhere):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Doorway to Nowhere):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Wayfarer's Censer
 
@@ -184,12 +184,12 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule (Doorway to Nowhere):** 100% damage to the selected target only.
-**Damage Application (Doorway to Nowhere):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% damage to the selected target only.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Doorway to Nowhere's lament signature in the strike.
 
-**Cost (Doorway to Nowhere):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Wandering Shroud
 
@@ -207,7 +207,7 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Doorway to Nowhere's kind of pressure.
 
-**Cost (Doorway to Nowhere):** The wearer becomes numb to minor joys.
+**Cost:** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Wandering Key
 
@@ -217,7 +217,7 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect (Doorway to Nowhere):** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** Opens a temporary passage to a remembered place.
 
@@ -233,12 +233,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (Doorway to Nowhere)** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use (Doorway to Nowhere)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Doorway to Nowhere)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Doorway to Nowhere)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation (Doorway to Nowhere):** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -256,11 +256,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Doorway to Nowhere as a Subject with Subject-Grudge manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree. |
-| **Sustained observation (Doorway to Nowhere)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (Doorway to Nowhere)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Doorway to Nowhere's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method (Doorway to Nowhere):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Doorway to Nowhere record.)
@@ -287,7 +287,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIβ-152] |
 |---|---|
 | Opens onto a gentle memory of home. The sorrow is witnessed; Doorway to Nowhere is fully recorded. | Burns and refuses to open. The gauge climbs and Doorway to Nowhere withdraws without revelation. |
-| **OBSERVATION SUCCESS (Doorway to Nowhere)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -307,7 +307,7 @@ A door walks down the corridor without a wall to carry it. It stops before you, 
 
 Doorway to Nowhere does not exist in isolation. Its recorded relationships with The Final Door, The Returning Tree, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method (Doorway to Nowhere):** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -320,7 +320,7 @@ Doorway to Nowhere must be assessed as part of an entity network, not as an isol
 | **The Returning Tree** | Opens onto the Tree's remembered homes. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Lost Prince** | Offers doors that do not lead to the person he seeks. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure (Doorway to Nowhere):** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -354,20 +354,20 @@ Some sorrows mourn a home. Doorway to Nowhere mourns the leaving — the door to
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section. [SE-N-IIβ-152]
+- Refer to entity’s Work Type responses in the Behavior section.
 - Standard containment protocols apply.
 **Observation Notes:**
 - See Origin section for formation details.
 - See Combat Record for engagement parameters.
 **Cross-References:** See entity’s interaction record and cross-references in the full file.
 **Faction Involvement:** SED (C-territory exploration)
-**Originator (Doorway to Nowhere):** See Origin section — ‘The People’ field.
+**Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
-**Operational interpretation (Doorway to Nowhere):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement (Doorway to Nowhere):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### The Timely Relief
@@ -392,9 +392,9 @@ Every relief is logged — arrival time, briefing given, watch transferred. The 
 
 - **Classification detail:** Doorway to Nowhere is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree.
-- **Recognition detail (Doorway to Nowhere):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Doorway to Nowhere):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail (Doorway to Nowhere):** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-152

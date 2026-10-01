@@ -7,69 +7,69 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-997 [D]` |
-| **Entity Type (Drowned Roots)** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category (Drowned Roots)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A ghostly tree-beast whose trunk has split into a body and four moving root-limbs, a howling face in its bark, branches thrashing like arms — a burning, weeping creature. Warm and mobile, it smells of cold rain and char. |
-| **Movement (Drowned Roots)** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone C, Mask Market |
-| **R.D. Comprehension Level (Drowned Roots)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Drowned Roots):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure (Drowned Roots)** | Mental / emotional pressure |
+| **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (Drowned Roots)** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty (Drowned Roots)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Drowned Roots)** | ~10 kg–100 kg (β) |
-| **Recommended response (Drowned Roots)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Drowned Roots.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIβ-997]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIβ-997]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIβ-997]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Drowned Roots):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
 | **Resistance** | 25% against Lament pressure; 15% against other pressure types |
-| **Activation threshold (Drowned Roots)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 390/390 |
 | **Han Pressure [ATK]** | 7–16 per hit · Lament |
-| **Coherence modifier (Drowned Roots)** | II — affects behavior complexity and response speed |
-| **Potency modifier (Drowned Roots)** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | II — affects behavior complexity and response speed |
+| **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Drowned Roots):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Drowned Roots)** | Medium — 16 turns |
+| **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty (Drowned Roots)** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Drowned Roots)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Speak the soldier's duty without forcing a false name |
 
@@ -85,15 +85,15 @@
 
 ### Battle Phases
 
-1. **Tension (Drowned Roots):** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Drowned Roots's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak the soldier's duty without forcing a false name**.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization. [SE-C-IIβ-997]
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak. [SE-C-IIβ-997]
+- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
+- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
 - If the resolution condition is not fulfilled, Drowned Roots reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A ghostly tree-shaped presence with a human face in its trunk. It burns with a fury that has no clear target.
-- **Position / movement (Drowned Roots):** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Lament
 - **Registered location:** Zone C, Mask Market
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ghostly tree-shaped presence with a human face in its trunk. It burns with a fury that has no clear target. |
-| **Position / movement (Drowned Roots)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature (Drowned Roots)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Drowned Roots)** | Confirm the primary form and elemental signature before contact. |
-| **Identification (Drowned Roots)** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
 
-**Appearance protocol (Drowned Roots):** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Tree formed from the rage of a soldier never honored.
 - **The Sorrow:** The grief of sacrifice denied recognition and turned into resentment.
 - **The Event:** A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter.
-- **The People (Drowned Roots):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — scratched onto the walls of the Old Lament by hands no one admits were theirs. The story begins with a citizen who Fractured from a grief too long unwept. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Drowned Roots is recorded as a Subject with Subject-Phantasmal manifestation and Lament elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response (Drowned Roots):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Breach Behavior
 
 > *"Soaking Tree has broken free. Extends roots through the floor, entangling personnel."*
@@ -155,18 +155,18 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Movement** | Drowned Roots breaks loose and charges, thrashing. It extends roots through the floor, entangling personnel. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target (Drowned Roots)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation (Drowned Roots)** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type (Drowned Roots):** Escape — the entity physically escapes and roams the facility.
-- **Containment priority (Drowned Roots):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach (Drowned Roots):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Drowned Roots):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — Drowned Roots Requiem
 
@@ -182,7 +182,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Drowned Roots's lament signature in the strike.
 
-**Cost (Drowned Roots):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — Drowned Roots Shroud
 
@@ -200,7 +200,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Drowned Roots's kind of pressure.
 
-**Cost (Drowned Roots):** The wearer becomes numb to minor joys.
+**Cost:** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — Drowned Roots Lantern
 
@@ -210,7 +210,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect (Drowned Roots):** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus when working the source entity
 
 **Ability:** Heals minor wounds through warm, sorrowful light.
 
@@ -226,12 +226,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (Drowned Roots)** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use (Drowned Roots)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Drowned Roots)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Drowned Roots)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation (Drowned Roots):** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -250,11 +250,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Drowned Roots as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone C, Mask Market. |
-| **Sustained observation (Drowned Roots)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (Drowned Roots)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Drowned Roots's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method (Drowned Roots):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Drowned Roots record.)
@@ -281,7 +281,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IIβ-997] |
 |---|---|
 | Reaches gently toward the worker. The sorrow is witnessed; Drowned Roots is fully recorded. | Resists and burns with anger. The gauge climbs and Drowned Roots withdraws without revelation. |
-| **OBSERVATION SUCCESS (Drowned Roots)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -301,7 +301,7 @@ A tree-shaped shadow rises behind the masks. Its branches burn without heat, and
 
 Drowned Roots does not exist in isolation. Its recorded relationships with The Forgotten Soldier, The Masked Dancer, The Rage Statue should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method (Drowned Roots):** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -314,7 +314,7 @@ Drowned Roots must be assessed as part of an entity network, not as an isolated 
 | **The Masked Dancer** | The Dancer performs beneath its branches. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Rage Statue** | Both preserve frozen anger. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure (Drowned Roots):** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -356,14 +356,14 @@ Some sorrows are about dying. Drowned Roots is about being denied the dignity of
 - A soldier’s name was struck from the record; his sacrifice grew roots.
 - The tree soaks in resentment.
 **Cross-References:** Zone B · The Forgotten Soldier · The Council
-**Faction Involvement (Drowned Roots):** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** A soldier whose sacrifice was erased from the war record.
 
 ### Registry Addendum
 
-**Operational interpretation (Drowned Roots):** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement (Drowned Roots):** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### The Fresh Paint
@@ -388,9 +388,9 @@ Chamber paint follows the color standard — walls regulation gray, markings saf
 
 - **Classification detail:** Drowned Roots is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone C, Mask Market.
-- **Recognition detail (Drowned Roots):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Drowned Roots):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail (Drowned Roots):** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-997

@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIδ-011 [GS]` |
-| **Entity Type (Scar Walker)** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) — Territorial and responsive |
 | **Potency** | Critical (δ) — Dangerous |
-| **Sorrow Category (Scar Walker)** | Outside Sorrow (외한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A tall phantom warrior clad in armor grown from crystallized rage — dark-crimson plates fused to a body that is half-flesh, half-cooled fury, never fully solid. It carries a weapon of solidified anger and patrols the rift called the Scar without rest. Heat and the smell of old char roll off it; where it passes, the ground scorches faintly. |
-| **Movement (Scar Walker)** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | The Desolate — patrols The Scar |
-| **R.D. Comprehension Level (Scar Walker)** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Scar Walker):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
-| **Primary pressure (Scar Walker)** | Physical / structural pressure |
+| **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield (Scar Walker)** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Scar Walker)** | ~1–10 tons (δ) |
-| **Recommended response (Scar Walker)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Scar Walker.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IIIδ-011]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-O-IIIδ-011]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-IIIδ-011]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Scar Walker):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 2.10 m/s |
 | **Resistance** | 40% against Grudge pressure; 30% against other pressure types |
-| **Activation threshold (Scar Walker)** | Sorrow Gauge ≥ 90% |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 871/871 |
 | **Han Pressure [ATK]** | 29–64 per hit · Grudge |
-| **Coherence modifier (Scar Walker)** | III — affects behavior complexity and response speed |
-| **Potency modifier (Scar Walker)** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Scar Walker):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types (Scar Walker)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate — patrols The Scar |
 | **Resolution Condition** | Show respect, salute its duty, and acknowledge its sacrifice |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension (Scar Walker):** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Scar Walker's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Show respect, salute its duty, and acknowledge its sacrifice**.
 
@@ -93,7 +93,7 @@
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
 - Extended contact risks Scar Walker’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field. [SE-O-IIIδ-011]
+- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
 - Without timely resolution, Scar Walker defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A tall phantom warrior in armor made of crystallized rage. It carries a weapon of solidified fury and patrols the rift known as The Scar.
-- **Position / movement (Scar Walker):** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Grudge
 - **Registered location:** The Desolate — patrols The Scar
 
@@ -118,12 +118,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A tall phantom warrior in armor made of crystallized rage. It carries a weapon of solidified fury and patrols the rift known as The Scar. |
-| **Position / movement (Scar Walker)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature (Scar Walker)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Appears when visitors approach The Scar. Salutes respectful visitors. Its presence evokes the rage of the six factions that fought in the Occlusihan. |
-| **Identification (Scar Walker)** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol (Scar Walker):** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Walker formed from the collective rage of the six factions that fought in the Occlusihan.
@@ -154,7 +154,7 @@ The Walker is territorial and responds primarily to conduct near The Scar.
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Scar Walker is recorded as a Subject with Subject-Phantasmal manifestation and Grudge elemental expression. The current record places it at The Desolate — patrols The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response (Scar Walker):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
 ## Breach Behavior
 
 > *"Scar Walker has broken free. Patrols the perimeter and attacks intruders."*
@@ -162,7 +162,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement (Scar Walker)** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | The nearest personnel. |
@@ -176,7 +176,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Scar Walker):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Occlusion Star-Chalice
 
@@ -194,7 +194,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Scar Walker's grudge signature in the strike.
 
-**Cost (Scar Walker):** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Occlusihan Plate
 
@@ -212,7 +212,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Scar Walker's kind of pressure.
 
-**Cost (Scar Walker):** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — The Occlusihan Blade
 
@@ -222,7 +222,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect (Scar Walker):** +3 stat bonus when working the source entity
+**Effect:** +3 stat bonus when working the source entity
 
 **Ability:** Delivers devastating damage to those who have wronged others.
 
@@ -238,16 +238,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (Scar Walker)** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use (Scar Walker)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Scar Walker)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Scar Walker)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation (Scar Walker):** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level (Scar Walker):** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
 - The Walker has never breached containment because The Scar is its territory, not a cell.
@@ -266,10 +266,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Scar Walker as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at The Desolate — patrols The Scar. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: The Walker is territorial and responds primarily to conduct near The Scar. Special Behaviors - A bow or salute is sufficient acknowledgment for passage. - It follows anyone entering The Scar to. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (Scar Walker)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Scar Walker's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method (Scar Walker):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Scar Walker record.)
@@ -296,7 +296,7 @@ The archive cross-references this entity with its registered location — the so
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIIδ-011] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; Scar Walker is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Scar Walker withdraws without revelation. |
-| **OBSERVATION SUCCESS (Scar Walker)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -316,7 +316,7 @@ The Desolate is quiet until the phantom appears. Armor forms from red-black crys
 
 Scar Walker does not exist in isolation. Its recorded relationships with The Grieving Colossus, The Orphaned Bell, The Smothering Mother should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method (Scar Walker):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -329,7 +329,7 @@ Scar Walker must be assessed as part of an entity network, not as an isolated pr
 | **The Orphaned Bell** | The Walker pauses when the Bell tolls, acknowledging shared sorrow. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Smothering Mother** | The Mother reaches for it, recognizing kindred grief. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure (Scar Walker):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -361,24 +361,24 @@ Some sorrows mourn the war dead. Scar Walker is their guardian — the rage give
 **Common Name:** Scar Walker
 **Containment Status:** Contained — The Desolate — patrols The Scar
 **Comprehension Level:** 1 — Initial
-**Threat Assessment (Scar Walker):** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section. [SE-O-IIIδ-011]
-- Standard R.D. containment protocols apply. [SE-O-IIIδ-011]
-- See Breach Behavior or Activation Behavior for escalation response. [SE-O-IIIδ-011]
+- Refer to entity’s Work Type responses in the Behavior section.
+- Standard R.D. containment protocols apply.
+- See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**
-- See Origin section for formation and event details. [SE-O-IIIδ-011]
-- See Combat Record for engagement history. [SE-O-IIIδ-011]
-- See M.A.W. Equipment section for extraction risk. [SE-O-IIIδ-011]
-**Cross-References (Scar Walker):** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement (Scar Walker):** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator (Scar Walker):** See Origin section — ‘The People’ field.
+- See Origin section for formation and event details.
+- See Combat Record for engagement history.
+- See M.A.W. Equipment section for extraction risk.
+**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+**Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
+**Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
-**Operational interpretation (Scar Walker):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement (Scar Walker):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### The Requisition
@@ -403,9 +403,9 @@ Approved requisitions return bearing the quartermaster's stamp — granted, with
 
 - **Classification detail:** Scar Walker is a Subject with Fragment (III) — Territorial and responsive coherence and Critical (δ) — Dangerous potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate — patrols The Scar.
-- **Recognition detail (Scar Walker):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Scar Walker):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail (Scar Walker):** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-O-IIIδ-011

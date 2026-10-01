@@ -8,71 +8,71 @@
 |---|---|
 | **Designation** | `C-IIβ-054 [WO]` |
 | **Entity Type** | **Object/Place** — Can breach via Transform; identity-replacement hazard |
-| **Tool Type (The Empty Mask)** | **I-Relic (Indumentum)** |
+| **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats emptiness |
 | **Potency** | Moderate (β) — Manageable but dangerous |
-| **Sorrow Category (The Empty Mask)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A blank, featureless mask of dense black material — no eyes, mouth, or expression, a smooth face-shaped void. Its interior is impossibly deep. Lead-cold and heavy, it smells of wet stone. |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |
-| **R.D. Comprehension Level (The Empty Mask)** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference (The Empty Mask):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure (The Empty Mask)** | Han / burden pressure |
+| **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (The Empty Mask)** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold (The Empty Mask)** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (The Empty Mask)** | ~10 kg–100 kg (β) |
-| **Recommended response (The Empty Mask)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Empty Mask.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIβ-054]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIβ-054]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIβ-054]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (The Empty Mask):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed (The Empty Mask)** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 25% against Weight pressure; 15% against other pressure types |
-| **Activation threshold (The Empty Mask)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 411/411 |
 | **Han Pressure [ATK]** | 9–22 per hit · Weight |
-| **Coherence modifier (The Empty Mask)** | II — affects behavior complexity and response speed |
-| **Potency modifier (The Empty Mask)** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | II — affects behavior complexity and response speed |
+| **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (The Empty Mask):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (The Empty Mask)** | Medium — 16 turns |
+| **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — Repeats emptiness |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types (The Empty Mask)** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-01, contained with the Masked Troupe |
-| **Resolution Condition (The Empty Mask)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -88,13 +88,13 @@
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Empty Mask's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution (The Empty Mask):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
 - Extended contact risks The Empty Mask’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field. [SE-C-IIβ-054]
+- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
 - Without timely resolution, The Empty Mask defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -110,7 +110,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
 - **Primary marker:** A blank, featureless mask with no eyes, mouth, or human expression. Its interior appears deeper than its material allows.
-- **Position / movement (The Empty Mask):** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-01, contained with the Masked Troupe
 
@@ -119,23 +119,23 @@
 | Field | Detail |
 |---|---|
 | **Form** | A blank, featureless mask with no eyes, mouth, or human expression. Its interior appears deeper than its material allows. |
-| **Position / movement (The Empty Mask)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature (The Empty Mask)** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Can replace a person's face with emptiness if left unattended. Glows near sorrow and dims near joy. It carries identity loss as a physical weight. |
-| **Identification (The Empty Mask)** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol (The Empty Mask):** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Mask formed from the sorrow of having no identity.
 - **The Sorrow:** The grief of becoming nothing to oneself and to everyone else.
 - **The Event:** Citizens erased names, faces, and histories to survive. The accumulated absence crystallized into a mask with no face.
-- **The People (The Empty Mask):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything and got nothing. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule (The Empty Mask):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -154,7 +154,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Empty Mask is recorded as an Object/Place with Object-Weight manifestation and Weight elemental expression. The current record places it at SECTOR-C-01, contained with the Masked Troupe; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response (The Empty Mask):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility** (The Empty Mask record.)
@@ -174,14 +174,14 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode (The Empty Mask)** | **Equippable / mounting use** |
+| **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Direct contact or placement over the face. |
 | **Primary Effect** | Makes the wearer unrecognizable to others. |
 | **Duration** | Until the wearer remembers and speaks their own name. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
 | **Risk** | Progressive identity loss and inability to recognize oneself. |
 
-**Operational Rule (The Empty Mask):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
@@ -196,7 +196,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 The escalation pattern is specific to The Empty Mask: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-01, contained with the Masked Troupe, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence (The Empty Mask):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
@@ -207,12 +207,12 @@ The escalation pattern is specific to The Empty Mask: it is not a generic breach
 | **Primary effect** | Makes the wearer unrecognizable to others. |
 | **Duration / rate** | Until the wearer remembers and speaks their own name. |
 | **Risk** | Moderate (β) — Manageable but dangerous Object-Weight producing Weight pressure; Progressive identity loss and inability to recognize oneself. |
-| **Management (The Empty Mask)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order (The Empty Mask):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (The Empty Mask):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Void Maul
 
@@ -228,12 +228,12 @@ The escalation pattern is specific to The Empty Mask: it is not a generic breach
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule (The Empty Mask):** 100% damage to the selected target only.
-**Damage Application (The Empty Mask):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% damage to the selected target only.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Empty Mask's weight signature in the strike.
 
-**Cost (The Empty Mask):** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
 
 ### M.A.W. Suit — The Void Mantle
 
@@ -261,7 +261,7 @@ The escalation pattern is specific to The Empty Mask: it is not a generic breach
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect (The Empty Mask):** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** Makes the wearer unrecognizable.
 
@@ -277,15 +277,15 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (The Empty Mask)** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use (The Empty Mask)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (The Empty Mask)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (The Empty Mask)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation (The Empty Mask):** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level (The Empty Mask):** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - The Mask pulses near strong emotion but never develops a face.
@@ -307,7 +307,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Direct contact or placement over the face. Effect: Makes the wearer unrecognizable to others. Duration: Until the wearer remembers and speaks their own name. Risk: Progressive identity loss and inability to recognize oneself. I-Relic (Indumentum) Tool Use Profile — I-Relic. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Empty Mask's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method (The Empty Mask):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Empty Mask record.)
@@ -334,7 +334,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-054] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; The Empty Mask is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Empty Mask withdraws without revelation. |
-| **OBSERVATION SUCCESS (The Empty Mask)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -354,7 +354,7 @@ The Mask is warm and patient. It offers relief from being known, from carrying a
 
 The Empty Mask does not exist in isolation. Its recorded relationships with The Maw, The Forgotten Soldier, The Hollow Choir, The Happy Mask should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method (The Empty Mask):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -368,7 +368,7 @@ The Empty Mask must be assessed as part of an entity network, not as an isolated
 | **The Hollow Choir** | Sings when the Mask is near, naming the absent. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Happy Mask** | The two masks form a false smile and a true absence. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure (The Empty Mask):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -413,9 +413,9 @@ Some sorrows mourn what was taken. The Empty Mask is what is left when the takin
 
 ### Registry Addendum
 
-**Operational interpretation (The Empty Mask):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement (The Empty Mask):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### The Sharp Pencil
@@ -440,9 +440,9 @@ The muster hall keeps a wall sharpener — bolted, trued, and used before every 
 
 - **Classification detail:** The Empty Mask is an Object/Place with Echo (II) — Repeats emptiness coherence and Moderate (β) — Manageable but dangerous potency.
 - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-C-01, contained with the Masked Troupe.
-- **Recognition detail (The Empty Mask):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (The Empty Mask):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail (The Empty Mask):** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-054

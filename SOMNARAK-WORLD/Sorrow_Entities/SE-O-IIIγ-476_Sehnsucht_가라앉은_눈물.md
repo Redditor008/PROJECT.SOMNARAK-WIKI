@@ -7,60 +7,60 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-476 [WO]` |
-| **Entity Type (Sehnsucht)** | **Object/Place** — Can breach via Transform |
-| **Tool Type (Sehnsucht)** | **I-Relic (Indumentum)** |
+| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category (Sehnsucht)** | Outside Sorrow (외한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A dark tear-shaped object half-buried in the Desolate soil, that sinks deeper whenever someone reaches for it. Lead-cold and damp, it smells of wet stone; a grief that will not be picked up. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | The Desolate, near The Scar |
-| **R.D. Comprehension Level (Sehnsucht)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Sehnsucht):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure (Sehnsucht)** | Han / burden pressure |
+| **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield (Sehnsucht)** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty (Sehnsucht)** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold (Sehnsucht)** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade (Sehnsucht)** | I-Relic (Indumentum) · — |
+| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Sehnsucht)** | ~100 kg–1 ton (γ) |
-| **Recommended response (Sehnsucht)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Sehnsucht.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IIIγ-476]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-O-IIIγ-476]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-IIIγ-476]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Sehnsucht):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed (Sehnsucht)** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 35% against Weight pressure; 25% against other pressure types |
-| **Activation threshold (Sehnsucht)** | Sorrow Gauge ≥ 75% |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Weight |
-| **Coherence modifier (Sehnsucht)** | III — affects behavior complexity and response speed |
-| **Potency modifier (Sehnsucht)** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Sehnsucht):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,10 +69,10 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty (Sehnsucht)** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Sehnsucht)** | Viderehan and Ferrehan only |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate, near The Scar |
-| **Resolution Condition (Sehnsucht)** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Sehnsucht's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution (Sehnsucht):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A dark tear-shaped object half-buried in the Desolate soil. It seems to sink whenever someone reaches for it.
-- **Position / movement (Sehnsucht):** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Weight
 - **Registered location:** The Desolate, near The Scar
 
@@ -116,9 +116,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dark tear-shaped object half-buried in the Desolate soil. It seems to sink whenever someone reaches for it. |
-| **Position / movement (Sehnsucht)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature (Sehnsucht)** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Sehnsucht)** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -127,12 +127,12 @@
 - **Formation:** The Tear formed from sorrow deliberately buried.
 - **The Sorrow:** The weight of grief hidden so deeply that even the person who felt it forgot its source.
 - **The Event:** A traveler buried a final tear near The Scar rather than allow anyone to see it.
-- **The People (Sehnsucht):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule (Sehnsucht):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -166,14 +166,14 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode (Sehnsucht)** | **Equippable / mounting use** |
+| **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Touch or excavation attempt. |
 | **Primary Effect** | Releases a memory of the sorrow into the worker. |
 | **Duration** | Until the memory is acknowledged. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
 | **Risk** | The worker may become unable to leave the site. |
 
-**Operational Rule (Sehnsucht):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
@@ -188,7 +188,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 The escalation pattern is specific to Sehnsucht: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence (Sehnsucht):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
@@ -199,12 +199,12 @@ The escalation pattern is specific to Sehnsucht: it is not a generic breach even
 | **Primary effect** | Releases a memory of the sorrow into the worker. |
 | **Duration / rate** | Until the memory is acknowledged. |
 | **Risk** | Major (γ) Object-Void producing Weight pressure; The worker may become unable to leave the site. |
-| **Management (Sehnsucht)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order (Sehnsucht):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Sehnsucht):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Sunken Tear Mortar
 
@@ -221,13 +221,13 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage (Sehnsucht):** Line; up to 3 targets total
-**Falloff Rule (Sehnsucht):** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application (Sehnsucht):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** Line; up to 3 targets total
+**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Sehnsucht's weight signature in the strike.
 
-**Cost (Sehnsucht):** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
 
 ### M.A.W. Suit — Sehnsucht Mantle
 
@@ -255,7 +255,7 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect (Sehnsucht):** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus when working the source entity
 
 **Ability:** Anchors the wearer against emotional pressure.
 
@@ -272,9 +272,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use (Sehnsucht)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Sehnsucht)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Sehnsucht)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Sehnsucht as an Object/Place with Object-Void manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at The Desolate, near The Scar. |
-| **Sustained observation (Sehnsucht)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or excavation attempt. Effect: Releases a memory of the sorrow into the worker. Duration: Until the memory is acknowledged. Risk: The worker may become unable to leave the site. Tool Use Profile — I-Relic Operational Rule: The relic remains. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Sehnsucht's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
@@ -325,7 +325,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIIγ-476] |
 |---|---|
 | Tests whether the worker can remain beside buried sorrow. The sorrow is borne; Sehnsucht is fully recorded. | Reveals the event beneath the forgotten grief. The gauge climbs and Sehnsucht withdraws without revelation. |
-| **OBSERVATION SUCCESS (Sehnsucht)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -390,18 +390,18 @@ Some sorrows are about hiding grief. Sehnsucht is about hiding it too well — t
 **Common Name:** Sehnsucht
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic
-**Threat Assessment (Sehnsucht):** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section. [SE-O-IIIγ-476]
-- Standard R.D. containment protocols apply. [SE-O-IIIγ-476]
-- See Breach Behavior or Activation Behavior for escalation response. [SE-O-IIIγ-476]
+- Refer to entity’s Work Type responses in the Behavior section.
+- Standard R.D. containment protocols apply.
+- See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**
-- See Origin section for formation and event details. [SE-O-IIIγ-476]
-- See Combat Record for engagement history. [SE-O-IIIγ-476]
-- See M.A.W. Equipment section for extraction risk. [SE-O-IIIγ-476]
-**Cross-References (Sehnsucht):** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement (Sehnsucht):** SED (Desolate-territory exploration)
-**Originator (Sehnsucht):** See Origin section — ‘The People’ field.
+- See Origin section for formation and event details.
+- See Combat Record for engagement history.
+- See M.A.W. Equipment section for extraction risk.
+**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+**Faction Involvement:** SED (Desolate-territory exploration)
+**Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
@@ -432,8 +432,8 @@ The morning after a nightingale shift, the relief arrives to birdsong — the ro
 
 - **Classification detail:** Sehnsucht is an Object/Place with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is The Desolate, near The Scar.
-- **Recognition detail (Sehnsucht):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Sehnsucht):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

@@ -25,7 +25,7 @@ They lash with root-tendrils, and the parasitic growth seeks to root in the livi
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mixed-element M.A.W. at Second Watch grade, with pole-crews and flamethrowers — engage from outside the ten-meter radius or not at all. Burn each Rooted where it stands, then dig out the root-mass; unburned roots re-sprout within the day. The Parasite Bloom (220 HP) fruits where burning is delayed. Suppress before it spreads: every living casualty left in the radius rises Rooted by next watch. Tag the dead before the fight, so the garden cannot draft them mid-engagement.
+The Rooted is an engagement defined by its radius. Mixed-element M.A.W. at Second Watch grade, pole-crews and flame outside ten meters, and absolute discipline about that line — everything this manifestation can do to a responder, it does to responders who stepped inside it. Mixed-element M.A.W. at Second Watch grade, with pole-crews and flamethrowers — engage from outside the ten-meter radius or not at all. Burn each Rooted where it stands, then dig out the root-mass; unburned roots re-sprout within the day. The Parasite Bloom (220 HP) fruits where burning is delayed. Suppress before it spreads: every living casualty left in the radius rises Rooted by next watch. Tag the dead before the fight, so the garden cannot draft them mid-engagement.
 
 ## Facility Impact
 

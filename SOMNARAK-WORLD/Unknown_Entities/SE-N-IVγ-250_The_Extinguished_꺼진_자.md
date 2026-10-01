@@ -10,17 +10,17 @@
 | **Entity Type** | **Subject** — Can manifest and move; hostile only to abandoned Hope-signatures |
 | **Coherence** | Entity (IV) |
 | **Potency** | Major (γ) |
-| **Sorrow Category (The Extinguished)** | Inner Sorrow (내한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, its edges still faintly gold, its core gone cold and crimson where the hope burned out. Fever-cold, it smells of char; a light that failed, walking. |
-| **Movement (The Extinguished)** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit |
 | **R.D. Comprehension Level** | 3 — Elevated |
 
 ## Operational Parameters
 
-> **Mechanics Reference (The Extinguished):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -33,20 +33,20 @@
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | β · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (The Extinguished)** | ~100 kg–1 ton (γ) |
-| **Recommended response (The Extinguished)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Extinguished.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IVγ-250]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IVγ-250]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IVγ-250]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (The Extinguished):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -55,21 +55,21 @@
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
 | **Sorrow Gauge [HP]** | 683/683 |
 | **Han Pressure [ATK]** | 18–41 per hit · Grudge |
-| **Coherence modifier (The Extinguished)** | IV — affects behavior complexity and response speed |
-| **Potency modifier (The Extinguished)** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | IV — affects behavior complexity and response speed |
+| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (The Extinguished):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (The Extinguished)** | Medium — 16 turns |
+| **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Major encounter |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 65–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
-| **Valid Work Types (The Extinguished)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit |
 | **Resolution Condition** | Sustained Ferrehan — a light that does not flinch and does not promise forever |
 
@@ -93,7 +93,7 @@
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
 - Extended contact risks The Extinguished’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field. [SE-N-IVγ-250]
+- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
 - Without timely resolution, the entity defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges still faintly gold, core gone cold and crimson.
-- **Position / movement (The Extinguished):** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Grudge
 - **Registered location:** A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit
 
@@ -120,8 +120,8 @@
 | **Form** | A humanoid figure, gold at the extremities (what it was), crimson-black at the heart (what losing it made it). |
 | **Position / movement** | Drifts its old district; accelerates toward any Hope light within range. |
 | **Material / signature** | Grudge elemental presentation; Han-crystal shifting gold-to-crimson; frost follows where it walks. |
-| **Distinctive markers (The Extinguished)** | Confirm the primary form and elemental signature before contact. |
-| **Identification (The Extinguished)** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
 **Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as "strange" or "anomalous."
 
@@ -157,18 +157,18 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | The Extinguished shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target (The Extinguished)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation (The Extinguished)** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type (The Extinguished):** Escape — the entity physically escapes and roams the facility.
-- **Containment priority (The Extinguished):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach (The Extinguished):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (The Extinguished):** the entity's archetype drawn into equipment form. Extraction is permitted; the set is unstable and restricted.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form. Extraction is permitted; the set is unstable and restricted.
 
 ### M.A.W. Weapon — The Spent Wick
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
@@ -203,12 +203,12 @@ The extracted equipment reflects the same unresolved pressure as The Extinguishe
 
 | Stage | Required record |
 |---|---|
-| **Before use (The Extinguished)** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use (The Extinguished)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (The Extinguished)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (The Extinguished)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation (The Extinguished):** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -227,10 +227,10 @@ The extracted equipment reflects the same unresolved pressure as The Extinguishe
 |---|---|
 | **Initial exposure** | The observer identifies The Extinguished as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity's recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (The Extinguished)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Extinguished's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method (The Extinguished):** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Extinguished record.)
@@ -262,7 +262,7 @@ The stationed Bearer's name has been sealed. Not to protect her. To protect the 
 | Hold steady — promise nothing forever. | Promise it will be alright. |
 |---|---|
 | You stand in the cold-burn and do not flinch. You offer no promise of permanence — only presence. After an hour the figure bows, small and bitter, and withdraws into the frost. You have passed the test. | You tell it 'it will be alright.' It has heard that before, from a Bearer who then went dark. The cold-burn intensifies; it remembers being light, and turns on you to learn whether you, too, will leave. |
-| **OBSERVATION SUCCESS (The Extinguished)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 ## 감각 묘사 (Flavor Text)
 
 A smell like a just-extinguished candle — warm wax and cold smoke at once. The temperature drops, but it is the cold of something that used to be hot.
@@ -280,7 +280,7 @@ A smell like a just-extinguished candle — warm wax and cold smoke at once. The
 
 The Extinguished does not exist in isolation. Its recorded relationships with The Gentle Flame · The Burning Hope · The Hand of Hope · The Unconsoled should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method (The Extinguished):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 ### Entity Interaction Record
 
@@ -293,7 +293,7 @@ The Extinguished must be assessed as part of an entity network, not as an isolat
 | **The Hand of Hope** | The Hand's field calms it temporarily but cannot restore what it lost — the Hand cannot re-light a hope spent by dependency. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Unconsoled** | The two do not interact — the Unconsoled never had hope; the Extinguished had it and lost it. They are the two faces of hope's limits. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure (The Extinguished):** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -343,7 +343,7 @@ The Dawn Initiative learned, from the Extinguished, the rule it now carries ever
 
 **Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity's behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement (The Extinguished):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The only sorrow that attacks hope and ignores the hopeless.
@@ -356,9 +356,9 @@ The Dawn Initiative learned, from the Extinguished, the rule it now carries ever
 
 - **Classification detail:** The Extinguished is a Subject with Entity (IV) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit.
-- **Recognition detail (The Extinguished):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
 - **Record detail:** Unknown Sorrow Entity registry, Entry 04 — the first lost-hope sorrow catalogued.
-- **Containment detail (The Extinguished):** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-N-IVγ-250

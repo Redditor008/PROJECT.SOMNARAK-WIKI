@@ -10,17 +10,17 @@
 | **Entity Type** | **Hazard** — Can breach via Transform |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category (Cracked Flesh)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Hazard-Body |
 | **Physical Form** | Organic — A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, as if the body were porcelain under pressure. |
-| **Movement (Cracked Flesh)** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-921, contained |
-| **R.D. Comprehension Level (Cracked Flesh)** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Cracked Flesh):** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,51 +28,51 @@
 | **Entity role** | Hazard |
 | **Primary pressure** | Grudge / Body pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (Cracked Flesh)** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response (Cracked Flesh)** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Cracked Flesh.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIγ-921]
-- The Han-Energy yield is balanced against exposure risk. [SE-C-IIIγ-921]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIγ-921]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Cracked Flesh):** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Grudge pressure; 24% against other pressure types |
-| **Activation threshold (Cracked Flesh)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 423/423 |
 | **Han Pressure [ATK]** | 17–23 per hit · Grudge |
-| **Coherence modifier (Cracked Flesh)** | III — affects behavior complexity and response speed |
-| **Potency modifier (Cracked Flesh)** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record (Cracked Flesh):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Cracked Flesh)** | Medium — 16 turns |
-| **Threat Role (Cracked Flesh)** | Sovereign encounter |
+| **Battle Length** | Medium — 16 turns |
+| **Threat Role** | Sovereign encounter |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 921  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
-| **Valid Work Types (Cracked Flesh)** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-921 |
-| **Resolution Condition (Cracked Flesh)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -87,13 +87,13 @@
 
 1. **Tension:** Personnel identify the hazard manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Cracked Flesh's recorded combat actions.
-3. **Resolution (Cracked Flesh):** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-C-IIIγ-921]
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
 - Prolonged exposure may produce the entity's documented grudge effect — body pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section. [SE-C-IIIγ-921]
+- M.A.W. use carries the cost recorded in the equipment section.
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Grudge pressure in a body register.
 - The hazard form is unmistakable — this is a body entity, not a general one.
-- Personnel should identify it by these markers before Work or contact. [SE-C-IIIγ-921]
+- Personnel should identify it by these markers before Work or contact.
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then de |
-| **Position / movement (Cracked Flesh)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature (Cracked Flesh)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Hazard-Body manifestation is the primary identifying feature. Grudge pressure is present and measurable. |
-| **Identification (Cracked Flesh)** | Verify these markers against the SECC code before Work or contact. |
+| **Identification** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -152,17 +152,17 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's body influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Grudge pressure radiates — the body register makes it personal, targeted, unavoidable. |
-| **First Target (Cracked Flesh)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Grudge drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority (Cracked Flesh):** Physical suppression required.
-- **Sorrow Gauge on breach (Cracked Flesh):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Physical suppression required.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Cracked Flesh):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — The Awakened Marrow-Spike & Tendril
 
@@ -200,7 +200,7 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 **Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect (Cracked Flesh):** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
 *Stigmas are granted at random by Cracked Flesh upon a successful work, not manufactured.*
 
@@ -212,18 +212,18 @@ Each M.A.W. piece is a conditional extension of Cracked Flesh, not ordinary equi
 
 | Stage | Required record |
 |---|---|
-| **Before use (Cracked Flesh)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use (Cracked Flesh)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Cracked Flesh)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Cracked Flesh)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level (Cracked Flesh):** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - Grudge signature confirmed at SECTOR-C-921.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-C-IIIγ-921]
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
 - The body register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of Cracked Flesh, not ordinary equi
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-921] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-IIIγ-921] |
-| **OBSERVATION SUCCESS (Cracked Flesh)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -294,8 +294,8 @@ The entity does not rage. It does not weep. It persists — body and grudge, pat
 **Threat Assessment:** Major. A Hazard-Body entity — the body register is its defining characteristic. Risk: prolonged exposure to the body pressure may produce effects not seen in standard grudge entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types. [SE-C-IIIγ-921]
-- Flerehan and Pugnahan are not effective against this entity type. [SE-C-IIIγ-921]
+- Viderehan and Ferrehan are valid Work Types.
+- Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the body register specifically — it is the primary channel of contact.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Hazard-Body · Manifestation Classification

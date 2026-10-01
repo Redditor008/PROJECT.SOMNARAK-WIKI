@@ -25,7 +25,7 @@ It washes over, and the digestive slime begins to break down what it touches. It
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mixed-element M.A.W. at First Watch grade, Level 2+ personnel, with caustic crews running lime and lye — the Ooze fears alkalinity the way the living fear it. Burn the mat in sections from the drain outward, so the retreating slime flees into the fire rather than down the pipes. Suppress before it spreads: mat that reaches a sump becomes a reservoir, and reservoirs creep back out within the cycle. Seal every drain in the wing before burning; the Ooze remembers plumbing.
+Chemistry outperforms force against the Ooze. Mixed-element M.A.W. at First Watch grade with lime and lye forward will close the incident; sustained physical suppression will merely divide it, and a divided Ooze is two incidents with one report number. Mixed-element M.A.W. at First Watch grade, Level 2+ personnel, with caustic crews running lime and lye — the Ooze fears alkalinity the way the living fear it. Burn the mat in sections from the drain outward, so the retreating slime flees into the fire rather than down the pipes. Suppress before it spreads: mat that reaches a sump becomes a reservoir, and reservoirs creep back out within the cycle. Seal every drain in the wing before burning; the Ooze remembers plumbing.
 
 ## Facility Impact
 

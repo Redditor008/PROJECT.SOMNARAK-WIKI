@@ -22,7 +22,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference (Apostle Maker):** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -49,7 +49,7 @@
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Apostle Maker):** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
@@ -58,8 +58,8 @@
 | **Activation threshold** | Twelfth conversion sequence initiated |
 | **Sorrow Gauge [HP]** | 680/680 |
 | **Han Pressure [ATK]** | 18–35 per hit · Mixed |
-| **Coherence modifier (Apostle Maker)** | II — affects behavior complexity and response speed |
-| **Potency modifier (Apostle Maker)** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | II — affects behavior complexity and response speed |
+| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
 ### Combat Actions
 

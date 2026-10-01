@@ -25,7 +25,7 @@ It passes through, and a little of who you are smudges away with it. It does not
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Void-element M.A.W. at First Watch grade, Level 2+ personnel, with every responder carrying something sharply personal — a letter, a keepsake, an insult memorized verbatim — because strong identity resists smudging. Do not let it pass through the same responder twice; buddy-pairs check each other’s names every ten minutes. The Geometric Void at Fragment grade (180 HP) sometimes condenses where the Blanking lingers — collapse it before it anchors, or the spot becomes a permanent smudging-place.
+A Blanking is answered early or not at all. Two Level 2+ responders on Void-element M.A.W. will hold it while it is still one room wide; four will not hold it once it is two. Containment beats confrontation here — seal the doorways, work the perimeter inward, and never let the erasure find a second room to practise on. Void-element M.A.W. at First Watch grade, Level 2+ personnel, with every responder carrying something sharply personal — a letter, a keepsake, an insult memorized verbatim — because strong identity resists smudging. Do not let it pass through the same responder twice; buddy-pairs check each other’s names every ten minutes. The Geometric Void at Fragment grade (180 HP) sometimes condenses where the Blanking lingers — collapse it before it anchors, or the spot becomes a permanent smudging-place.
 
 ## Facility Impact
 

@@ -10,17 +10,17 @@
 | **Entity Type** | **Subject** — Can breach via Transform |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category (Vellum Man)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Tale |
 | **Physical Form** | Non-Organic — A figure made of paper and ink that shimmers when spoken to — its body is a manuscript of forgotten tales, pages turning beneath skin that is not skin but vellum. |
-| **Movement (Vellum Man)** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-C-900, contained |
 | **R.D. Comprehension Level** | 1 — Trace |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Vellum Man):** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,51 +28,51 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Lament / Tale pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (Vellum Man)** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (α) |
-| **Recommended response (Vellum Man)** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Vellum Man.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-Iα-900]
-- The Han-Energy yield is balanced against exposure risk. [SE-C-Iα-900]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-Iα-900]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Vellum Man):** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 2.0 m/s |
 | **Resistance** | 25% against Lament pressure; 18% against other pressure types |
-| **Activation threshold (Vellum Man)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 406/406 |
 | **Han Pressure [ATK]** | 11–23 per hit · Lament |
-| **Coherence modifier (Vellum Man)** | I — affects behavior complexity and response speed |
-| **Potency modifier (Vellum Man)** | α — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | I — affects behavior complexity and response speed |
+| **Potency modifier** | α — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record (Vellum Man):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Vellum Man)** | Medium — 16 turns |
-| **Threat Role (Vellum Man)** | Sovereign encounter |
+| **Battle Length** | Medium — 16 turns |
+| **Threat Role** | Sovereign encounter |
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 900  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("I", "2 — Basic") |
-| **Valid Work Types (Vellum Man)** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-900 |
-| **Resolution Condition (Vellum Man)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -85,15 +85,15 @@
 
 ### Battle Phases
 
-1. **Tension (Vellum Man):** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Vellum Man's recorded combat actions.
-3. **Resolution (Vellum Man):** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-C-Iα-900]
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
 - Prolonged exposure may produce the entity's documented lament effect — tale pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section. [SE-C-Iα-900]
+- M.A.W. use carries the cost recorded in the equipment section.
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Lament pressure in a tale register.
 - The subject form is unmistakable — this is a tale entity, not a general one.
-- Personnel should identify it by these markers before Work or contact. [SE-C-Iα-900]
+- Personnel should identify it by these markers before Work or contact.
 
 **Identification Profile**
 - **Entity Type:** Subject
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A figure made of paper and ink that shimmers when spoken to — its body is a manuscript of forgotten tales, pages turning beneath skin that is not skin |
-| **Position / movement (Vellum Man)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature (Vellum Man)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Subject-Tale manifestation is the primary identifying feature. Lament pressure is present and measurable. |
-| **Identification (Vellum Man)** | Verify these markers against the SECC code before Work or contact. |
+| **Identification** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -152,17 +152,17 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Escape |
 | **Movement** | The entity's tale influence spreads beyond containment and hunts through the facility. |
 | **Effect** | Lament pressure radiates — the tale register makes it personal, targeted, unavoidable. |
-| **First Target (Vellum Man)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Lament drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority (Vellum Man):** Physical suppression required.
-- **Sorrow Gauge on breach (Vellum Man):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Physical suppression required.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Vellum Man):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Vellum Man's Edge
 
@@ -178,8 +178,8 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule (Vellum Man):** 100% damage to the selected target only.
-**Damage Application (Vellum Man):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% damage to the selected target only.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.
 
@@ -211,7 +211,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect (Vellum Man):** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity.
 
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
 
@@ -227,10 +227,10 @@ Each M.A.W. piece is a conditional extension of Vellum Man, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (Vellum Man)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use (Vellum Man)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Vellum Man)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Vellum Man)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Trace
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of Vellum Man, not ordinary equipme
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-900] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-Iα-900] |
-| **OBSERVATION SUCCESS (Vellum Man)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -308,7 +308,7 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 **Threat Assessment:** Minor. A Subject-Tale entity — the tale register is its defining characteristic. Risk: prolonged exposure to the tale pressure may produce effects not seen in standard lament entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types. [SE-C-Iα-900]
+- Viderehan and Ferrehan are valid Work Types.
 - Flerehan and Pugnahan are also available.
 - Monitor the tale register specifically — it is the primary channel of contact.
 

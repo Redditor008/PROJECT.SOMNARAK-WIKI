@@ -105,7 +105,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │
 ├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,897 files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
-│   ├── Master_Codices/                     # 44 Macro-Canon Master Codices across 6 canonical subfolders
+│   ├── Master_Codices/                     # 49 Macro-Canon Master Codices across 6 canonical subfolders
 │   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
 │   │   ├── 02_Institutional_Wings_and_Chronicles/ # 5 Codices: Reverie Directorate, SED, UCD, Archive, Caravan
 │   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 8 Codices: Battle engines, M.A.W., relics, Ordeals, workshops
@@ -131,7 +131,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 └── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
     ├── README.md                           # Overview of the reference standards folder
     ├── ABSOLOVHAN_REPAIR_NOTES.md          # Canon harmonization and repair notes for Absolvohan texts
-    ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 285 unique Sorrow Entities
+    ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 291 unique Sorrow Entities
     ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
     ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the foundational codices
     ├── ALL_FILES_AUDIT_MANIFEST.md         # Comprehensive manifest of all reference files

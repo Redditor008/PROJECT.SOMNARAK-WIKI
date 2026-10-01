@@ -25,7 +25,7 @@ It falls, and the impact is total; then it gathers itself and climbs to fall aga
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at Second Watch grade, with spotters on every overhead — the mass can only be engaged while suspended, and suspension never lasts. Strike it in the air and it shatters early, scattering its weight across a wider, shallower footprint. The Living Avalanche (280 HP) follows the impact route eating the rubble; intercept it before it reaches a fresh crater or the rubble starts moving on its own. Weight-Leeches (eight to twelve) infest the craters within minutes — clear the crater before clearing the corridor. Never shelter under a suspended mass.
+The Falling Mass can only be hurt in the air. Weight-element M.A.W. at Second Watch grade with spotters on every overhead, because the window between suspension and impact is the entire engagement — miss it and the team is not fighting a manifestation, it is excavating one. Weight-element M.A.W. at Second Watch grade, with spotters on every overhead — the mass can only be engaged while suspended, and suspension never lasts. Strike it in the air and it shatters early, scattering its weight across a wider, shallower footprint. The Living Avalanche (280 HP) follows the impact route eating the rubble; intercept it before it reaches a fresh crater or the rubble starts moving on its own. Weight-Leeches (eight to twelve) infest the craters within minutes — clear the crater before clearing the corridor. Never shelter under a suspended mass.
 
 ## Facility Impact
 

@@ -7,69 +7,69 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-270 [WP]` |
-| **Entity Type (Neglect Learned to Listen)** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
-| **Sorrow Category (Neglect Learned to Listen)** | Inner Sorrow (내한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A rust-colored patch of the Old Lament where whispers cling to walls, pipes, and abandoned metal, the corrosion itself the residue of old words. Lead-cold, it smells of wet iron; no body — only the rusting sound. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone B, Old Lament |
-| **R.D. Comprehension Level (Neglect Learned to Listen)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Neglect Learned to Listen):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure (Neglect Learned to Listen)** | Han / burden pressure |
+| **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (Neglect Learned to Listen)** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty (Neglect Learned to Listen)** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold (Neglect Learned to Listen)** | Activation / expansion trigger — no breach counter |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
-| **Vessel-Destructible (Neglect Learned to Listen)** | No — Place-manifestation |
-| **Han Dust Drop (Vessel Destruction) (Neglect Learned to Listen)** | — |
-| **Recommended response (Neglect Learned to Listen)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Vessel-Destructible** | No — Place-manifestation |
+| **Han Dust Drop (Vessel Destruction)** | — |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Neglect Learned to Listen.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIβ-270]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IIβ-270]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIβ-270]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Neglect Learned to Listen):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed (Neglect Learned to Listen)** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 25% against Weight pressure; 15% against other pressure types |
-| **Activation threshold (Neglect Learned to Listen)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 357/357 |
 | **Han Pressure [ATK]** | 10–23 per hit · Weight |
-| **Coherence modifier (Neglect Learned to Listen)** | II — affects behavior complexity and response speed |
-| **Potency modifier (Neglect Learned to Listen)** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | II — affects behavior complexity and response speed |
+| **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Neglect Learned to Listen):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Neglect Learned to Listen)** | Medium — 16 turns |
+| **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty (Neglect Learned to Listen)** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Neglect Learned to Listen)** | Viderehan and Ferrehan only |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Preserve and acknowledge what was discarded; do not simply remove the rust |
 
@@ -106,7 +106,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A rust-colored place in the Old Lament where whispers cling to walls, pipes, and abandoned metal. The corrosion resembles letters that cannot be read.
-- **Position / movement (Neglect Learned to Listen):** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Weight
 - **Registered location:** Zone B, Old Lament
 
@@ -115,9 +115,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A rust-colored place in the Old Lament where whispers cling to walls, pipes, and abandoned metal. The corrosion resembles letters that cannot be read. |
-| **Position / movement (Neglect Learned to Listen)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature (Neglect Learned to Listen)** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Neglect Learned to Listen)** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -126,12 +126,12 @@
 - **Formation:** The Whisper formed from burdens discarded by the city.
 - **The Sorrow:** The grief of people and responsibilities treated as refuse.
 - **The Event:** Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening.
-- **The People (Neglect Learned to Listen):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule (Neglect Learned to Listen):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -175,10 +175,10 @@ The escalation pattern is specific to Neglect Learned to Listen: it is not a gen
 | **Risk** | Moderate (β) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Preserve and acknowledge what was discarded; do not simply remove the rust. |
 
-**Activation reporting order (Neglect Learned to Listen):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Neglect Learned to Listen):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Rusted Boundary-Rod
 
@@ -196,12 +196,12 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule (Neglect Learned to Listen):** 100% damage to the selected target only.
-**Damage Application (Neglect Learned to Listen):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% damage to the selected target only.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Neglect Learned to Listen's weight signature in the strike.
 
-**Cost (Neglect Learned to Listen):** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
 
 ### M.A.W. Suit — Neglect Learned to Listen's Mantle
 
@@ -229,7 +229,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect (Neglect Learned to Listen):** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** Carries a quiet message through walls.
 
@@ -246,9 +246,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use (Neglect Learned to Listen)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Neglect Learned to Listen)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Neglect Learned to Listen)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -268,8 +268,8 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Neglect Learned to Listen as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone B, Old Lament. |
-| **Sustained observation (Neglect Learned to Listen)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (Neglect Learned to Listen)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Neglect Learned to Listen's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
@@ -299,7 +299,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-270] |
 |---|---|
 | Forces the worker to carry the whispers without answering them. The sorrow is borne; Neglect Learned to Listen is fully recorded. | Reveals what the city discarded. The gauge climbs and Neglect Learned to Listen withdraws without revelation. |
-| **OBSERVATION SUCCESS (Neglect Learned to Listen)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -366,14 +366,14 @@ Some sorrows are about loss. Neglect Learned to Listen is about discard — the 
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section. [SE-N-IIβ-270]
+- Refer to entity’s Work Type responses in the Behavior section.
 - Standard containment protocols apply.
 **Observation Notes:**
 - See Origin section for formation details.
 - See Combat Record for engagement parameters.
 **Cross-References:** See entity’s interaction record and cross-references in the full file.
 **Faction Involvement:** SED (E-territory exploration)
-**Originator (Neglect Learned to Listen):** See Origin section — ‘The People’ field.
+**Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
@@ -404,8 +404,8 @@ Clean logs are bound annually — the year's flawless watches gathered, covered,
 
 - **Classification detail:** Neglect Learned to Listen is an Object/Place with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone B, Old Lament.
-- **Recognition detail (Neglect Learned to Listen):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Neglect Learned to Listen):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

@@ -10,17 +10,17 @@
 | **Entity Type** | **Hazard** — Can breach via Transform |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category (Miasma)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Hazard-Lament |
 | **Physical Form** | Non-Organic — A bank of fog that rolls through the lower corridors of Zone D without warning. Those caught in it begin to weep — not from sadness but from the sheer weight of grief that the fog carries, grief that is not theirs. |
-| **Movement (Miasma)** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-922, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Miasma):** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,51 +28,51 @@
 | **Entity role** | Hazard |
 | **Primary pressure** | Lament / Lament pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (Miasma)** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
-| **Recommended response (Miasma)** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Miasma.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVδ-922]
-- The Han-Energy yield is balanced against exposure risk. [SE-C-IVδ-922]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVδ-922]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Miasma):** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Lament pressure; 21% against other pressure types |
-| **Activation threshold (Miasma)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 474/474 |
 | **Han Pressure [ATK]** | 14–24 per hit · Lament |
-| **Coherence modifier (Miasma)** | IV — affects behavior complexity and response speed |
-| **Potency modifier (Miasma)** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | IV — affects behavior complexity and response speed |
+| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record (Miasma):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Miasma)** | Medium — 16 turns |
-| **Threat Role (Miasma)** | Sovereign encounter |
+| **Battle Length** | Medium — 16 turns |
+| **Threat Role** | Sovereign encounter |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 922  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
-| **Valid Work Types (Miasma)** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-922 |
-| **Resolution Condition (Miasma)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -87,13 +87,13 @@
 
 1. **Tension:** Personnel identify the hazard manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Miasma's recorded combat actions.
-3. **Resolution (Miasma):** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-C-IVδ-922]
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
 - Prolonged exposure may produce the entity's documented lament effect — lament pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section. [SE-C-IVδ-922]
+- M.A.W. use carries the cost recorded in the equipment section.
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Lament pressure in a lament register.
 - The hazard form is unmistakable — this is a lament entity, not a general one.
-- Personnel should identify it by these markers before Work or contact. [SE-C-IVδ-922]
+- Personnel should identify it by these markers before Work or contact.
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A bank of fog that rolls through the lower corridors of Zone D without warning. Those caught in it begin to weep — not from sadness but from the sheer |
-| **Position / movement (Miasma)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature (Miasma)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Hazard-Lament manifestation is the primary identifying feature. Lament pressure is present and measurable. |
-| **Identification (Miasma)** | Verify these markers against the SECC code before Work or contact. |
+| **Identification** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -152,17 +152,17 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's lament influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Lament pressure radiates — the lament register makes it personal, targeted, unavoidable. |
-| **First Target (Miasma)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Lament drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority (Miasma):** Physical suppression required.
-- **Sorrow Gauge on breach (Miasma):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Physical suppression required.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Miasma):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — The Threshold Ward-Staff
 
@@ -180,8 +180,8 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule (Miasma):** 100% damage to the selected target only.
-**Damage Application (Miasma):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% damage to the selected target only.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Channels lament lament sorrow in each strike — the weapon does not cut flesh so much as cut at the lament register of the target's grief.
 
@@ -213,7 +213,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect (Miasma):** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity.
 
 **Ability:** A fragment of the entity's lament sorrow, crystallized into wearable form.
 
@@ -229,17 +229,17 @@ Each M.A.W. piece is a conditional extension of Miasma, not ordinary equipment. 
 
 | Stage | Required record |
 |---|---|
-| **Before use (Miasma)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use (Miasma)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Miasma)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Miasma)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Deep
 
 **Key Observations:**
 - Lament signature confirmed at SECTOR-C-922.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-C-IVδ-922]
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
 - The lament register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -265,7 +265,7 @@ Each M.A.W. piece is a conditional extension of Miasma, not ordinary equipment. 
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVδ-922] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-IVδ-922] |
-| **OBSERVATION SUCCESS (Miasma)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -310,8 +310,8 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 **Threat Assessment:** Critical. A Hazard-Lament entity — the lament register is its defining characteristic. Risk: prolonged exposure to the lament pressure may produce effects not seen in standard lament entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types. [SE-C-IVδ-922]
-- Flerehan and Pugnahan are not effective against this entity type. [SE-C-IVδ-922]
+- Viderehan and Ferrehan are valid Work Types.
+- Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the lament register specifically — it is the primary channel of contact.
 
 **Cross-References:** City Sorrow (도한) · Lament · Hazard-Lament · Manifestation Classification

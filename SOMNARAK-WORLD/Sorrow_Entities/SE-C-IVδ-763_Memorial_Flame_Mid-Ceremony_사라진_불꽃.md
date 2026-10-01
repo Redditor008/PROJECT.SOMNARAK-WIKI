@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-763 [LP]` |
-| **Entity Type (Memorial Flame Mid-Ceremony)** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category (Memorial Flame Mid-Ceremony)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — An empty vault holding the absence of a flame — the room warm around a dark shape where fire should be, but no fire, only the heat and the negative space of it. Salt-warm, it smells of cold rain and old smoke; the missing flame is felt, not seen. |
-| **Movement (Memorial Flame Mid-Ceremony)** | Stationary — a structure or location. |
+| **Movement** | Stationary — a structure or location. |
 | **Location** | Zone A, Alpha Tree vault |
-| **R.D. Comprehension Level (Memorial Flame Mid-Ceremony)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Memorial Flame Mid-Ceremony):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
-| **Primary pressure (Memorial Flame Mid-Ceremony)** | Mental / emotional pressure |
+| **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield (Memorial Flame Mid-Ceremony)** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty (Memorial Flame Mid-Ceremony)** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold (Memorial Flame Mid-Ceremony)** | Activation / expansion trigger — no breach counter |
+| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
-| **Vessel-Destructible (Memorial Flame Mid-Ceremony)** | No — Place-manifestation |
-| **Han Dust Drop (Vessel Destruction) (Memorial Flame Mid-Ceremony)** | — |
-| **Recommended response (Memorial Flame Mid-Ceremony)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Vessel-Destructible** | No — Place-manifestation |
+| **Han Dust Drop (Vessel Destruction)** | — |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Memorial Flame Mid-Ceremony.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IVδ-763]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IVδ-763]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IVδ-763]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Memorial Flame Mid-Ceremony):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed (Memorial Flame Mid-Ceremony)** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types |
-| **Activation threshold (Memorial Flame Mid-Ceremony)** | Sorrow Gauge ≥ 90% |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 993/993 |
 | **Han Pressure [ATK]** | 27–60 per hit · Lament |
-| **Coherence modifier (Memorial Flame Mid-Ceremony)** | IV — affects behavior complexity and response speed |
-| **Potency modifier (Memorial Flame Mid-Ceremony)** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | IV — affects behavior complexity and response speed |
+| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Memorial Flame Mid-Ceremony):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty (Memorial Flame Mid-Ceremony)** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Memorial Flame Mid-Ceremony)** | Viderehan and Ferrehan only |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Complete the memorial without attempting to recreate the original flame |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension (Memorial Flame Mid-Ceremony):** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Memorial Flame Mid-Ceremony's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Complete the memorial without attempting to recreate the original flame**.
 
@@ -106,7 +106,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
 - **Primary marker:** An empty vault containing the absence of a flame. The room is warm around a dark shape where fire should be.
-- **Position / movement (Memorial Flame Mid-Ceremony):** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree vault
 
@@ -115,9 +115,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | An empty vault containing the absence of a flame. The room is warm around a dark shape where fire should be. |
-| **Position / movement (Memorial Flame Mid-Ceremony)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature (Memorial Flame Mid-Ceremony)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Memorial Flame Mid-Ceremony)** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -126,12 +126,12 @@
 - **Formation:** The Flame formed from a fire extinguished before its owner could grieve.
 - **The Sorrow:** The pain of losing warmth and having someone else's grief enter your body.
 - **The Event:** A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony.
-- **The People (Memorial Flame Mid-Ceremony):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule (Memorial Flame Mid-Ceremony):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -175,10 +175,10 @@ The escalation pattern is specific to Memorial Flame Mid-Ceremony: it is not a g
 | **Risk** | Critical (δ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Complete the memorial without attempting to recreate the original flame. |
 
-**Activation reporting order (Memorial Flame Mid-Ceremony):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Memorial Flame Mid-Ceremony):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Candelabrum Bodkin
 
@@ -197,7 +197,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 **Ability:** *Soul-Seeker Conflagration* — Unleashes tracking purple flame wisps across Range 4 (Long). The wisps home onto target weak points, bypassing cover to inflict heavy Lament damage that erodes Composure and triggers panic buildup.
 
-**Cost (Memorial Flame Mid-Ceremony):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Extinguished Mourner's Shroud
 
@@ -216,7 +216,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Memorial Flame Mid-Ceremony's kind of pressure.
 
-**Cost (Memorial Flame Mid-Ceremony):** The wearer becomes numb to minor joys.
+**Cost:** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Purple Wick Stigma
 
@@ -227,7 +227,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 **Slot:** Torso / Neck
 **Acquisition Probability:** 4%
-**Effect (Memorial Flame Mid-Ceremony):** +3 stat bonus when working the source entity and grants vision in sorrow fog.
+**Effect:** +3 stat bonus when working the source entity and grants vision in sorrow fog.
 
 **Ability:** Reveals hidden grief in a darkened space.
 
@@ -244,9 +244,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use (Memorial Flame Mid-Ceremony)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Memorial Flame Mid-Ceremony)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Memorial Flame Mid-Ceremony)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -266,8 +266,8 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Memorial Flame Mid-Ceremony as an Object/Place with Place-Void manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. |
-| **Sustained observation (Memorial Flame Mid-Ceremony)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (Memorial Flame Mid-Ceremony)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Memorial Flame Mid-Ceremony's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
@@ -297,7 +297,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVδ-763] |
 |---|---|
 | Tests whether the worker can mourn without a visible object. The sorrow is witnessed; Memorial Flame Mid-Ceremony is fully recorded. | Reveals the memorial and those who tended it. The gauge climbs and Memorial Flame Mid-Ceremony withdraws without revelation. |
-| **OBSERVATION SUCCESS (Memorial Flame Mid-Ceremony)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -415,8 +415,8 @@ Stigmas bond the way crews bond: through bearing, jointly, across time. Memorial
 
 - **Classification detail:** Memorial Flame Mid-Ceremony is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree vault.
-- **Recognition detail (Memorial Flame Mid-Ceremony):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Memorial Flame Mid-Ceremony):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

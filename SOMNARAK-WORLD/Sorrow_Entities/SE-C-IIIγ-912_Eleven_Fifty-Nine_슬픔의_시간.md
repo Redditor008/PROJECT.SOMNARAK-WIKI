@@ -10,17 +10,17 @@
 | **Entity Type** | **Time** — Can breach via Transform |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category (Eleven Fifty-Nine)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Time-Lament |
 | **Physical Form** | Non-Organic — An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget. |
-| **Movement (Eleven Fifty-Nine)** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-912, contained |
-| **R.D. Comprehension Level (Eleven Fifty-Nine)** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Eleven Fifty-Nine):** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,51 +28,51 @@
 | **Entity role** | Time |
 | **Primary pressure** | Lament / Lament pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (Eleven Fifty-Nine)** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response (Eleven Fifty-Nine)** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Eleven Fifty-Nine.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIγ-912]
-- The Han-Energy yield is balanced against exposure risk. [SE-C-IIIγ-912]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIγ-912]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Eleven Fifty-Nine):** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Lament pressure; 24% against other pressure types |
-| **Activation threshold (Eleven Fifty-Nine)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 465/465 |
 | **Han Pressure [ATK]** | 17–29 per hit · Lament |
-| **Coherence modifier (Eleven Fifty-Nine)** | III — affects behavior complexity and response speed |
-| **Potency modifier (Eleven Fifty-Nine)** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record (Eleven Fifty-Nine):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Eleven Fifty-Nine)** | Medium — 16 turns |
-| **Threat Role (Eleven Fifty-Nine)** | Sovereign encounter |
+| **Battle Length** | Medium — 16 turns |
+| **Threat Role** | Sovereign encounter |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 912  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
-| **Valid Work Types (Eleven Fifty-Nine)** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-912 |
-| **Resolution Condition (Eleven Fifty-Nine)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -87,13 +87,13 @@
 
 1. **Tension:** Personnel identify the time manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Eleven Fifty-Nine's recorded combat actions.
-3. **Resolution (Eleven Fifty-Nine):** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-C-IIIγ-912]
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
 - Prolonged exposure may produce the entity's documented lament effect — lament pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section. [SE-C-IIIγ-912]
+- M.A.W. use carries the cost recorded in the equipment section.
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Lament pressure in a lament register.
 - The time form is unmistakable — this is a lament entity, not a general one.
-- Personnel should identify it by these markers before Work or contact. [SE-C-IIIγ-912]
+- Personnel should identify it by these markers before Work or contact.
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief sim |
-| **Position / movement (Eleven Fifty-Nine)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature (Eleven Fifty-Nine)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Time-Lament manifestation is the primary identifying feature. Lament pressure is present and measurable. |
-| **Identification (Eleven Fifty-Nine)** | Verify these markers against the SECC code before Work or contact. |
+| **Identification** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -152,17 +152,17 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's lament influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Lament pressure radiates — the lament register makes it personal, targeted, unavoidable. |
-| **First Target (Eleven Fifty-Nine)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Lament drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority (Eleven Fifty-Nine):** Physical suppression required.
-- **Sorrow Gauge on breach (Eleven Fifty-Nine):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Physical suppression required.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Eleven Fifty-Nine):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Eleven Fifty-Nine's Edge
 
@@ -191,7 +191,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 **Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect (Eleven Fifty-Nine):** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's lament sorrow, crystallized into wearable form.
 *Stigmas are granted at random by Eleven Fifty-Nine upon a successful work, not manufactured.*
 
@@ -203,18 +203,18 @@ Each M.A.W. piece is a conditional extension of Eleven Fifty-Nine, not ordinary 
 
 | Stage | Required record |
 |---|---|
-| **Before use (Eleven Fifty-Nine)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use (Eleven Fifty-Nine)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Eleven Fifty-Nine)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Eleven Fifty-Nine)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level (Eleven Fifty-Nine):** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - Lament signature confirmed at SECTOR-C-912.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-C-IIIγ-912]
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
 - The lament register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -240,7 +240,7 @@ Each M.A.W. piece is a conditional extension of Eleven Fifty-Nine, not ordinary 
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-912] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-IIIγ-912] |
-| **OBSERVATION SUCCESS (Eleven Fifty-Nine)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -285,8 +285,8 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 **Threat Assessment:** Major. A Time-Lament entity — the lament register is its defining characteristic. Risk: prolonged exposure to the lament pressure may produce effects not seen in standard lament entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types. [SE-C-IIIγ-912]
-- Flerehan and Pugnahan are not effective against this entity type. [SE-C-IIIγ-912]
+- Viderehan and Ferrehan are valid Work Types.
+- Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the lament register specifically — it is the primary channel of contact.
 
 **Cross-References:** City Sorrow (도한) · Lament · Time-Lament · Manifestation Classification

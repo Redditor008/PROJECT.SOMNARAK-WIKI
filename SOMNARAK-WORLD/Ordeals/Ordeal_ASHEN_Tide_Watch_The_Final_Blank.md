@@ -35,7 +35,7 @@ A wall of total nothing, floor to ceiling, edge to edge, advancing at walking pa
 | **The Neatness** | Erased zones seal smooth behind the wall; records of the erased degrade within hours. | All observations must be relayed live. Written logs kept in the affected zone fade by dawn. |
 ## Suppression Protocol
 
-Engage with catastrophic-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+A Final Blank is not suppressed by a team. It is suppressed by a floor. Void-element M.A.W. at catastrophic grade, every available responder badged and named and counted at ten-minute intervals, and the Hand of Change's internal bulkheads closed behind the line as it advances — the Blank cannot be diverted and cannot be outrun, so the only remaining tactic is to give it progressively less to erase. Responders work in threes, never pairs: the third exists to notice when one of the other two has stopped being noticed. Expect the identity attrition the First Watch file describes, at a rate that makes the First Watch numbers look generous. The engagement ends when the white stops advancing against a sealed bulkhead, and not before — a Blank that appears to have halted in open floor has only found something quieter to work on.
 
 ## Facility Impact
 

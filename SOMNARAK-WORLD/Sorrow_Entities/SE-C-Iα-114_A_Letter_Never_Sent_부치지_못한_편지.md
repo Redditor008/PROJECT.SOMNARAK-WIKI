@@ -11,26 +11,26 @@
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Residue (I) — Unread, preserved plea |
 | **Potency** | Minor (α) |
-| **Sorrow Category (A Letter Never Sent)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A standard municipal transit dispatch envelope folded from coarse grey pulp paper, blackened along the fold lines by flash-fire soot and sealed with dark indigo wax bearing the seal of the Sector-A-04 Line Archive Bureau. A faint rime of Lament Han-frost coats the surface, dropping local temperature by three degrees. The envelope trembles faintly whenever an operative carrying an unvoiced apology enters the chamber. |
-| **Movement (A Letter Never Sent)** | Stationary — a discrete object. |
+| **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-04, Archive Vault 12 — contained |
-| **R.D. Comprehension Level (A Letter Never Sent)** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
-> **Mechanics Reference (A Letter Never Sent):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
-| **Primary pressure (A Letter Never Sent)** | Mental / emotional pressure |
+| **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 20–35% |
 | **Han-Energy yield** | 8–12 Han-Energy per successful work cycle |
-| **Work difficulty (A Letter Never Sent)** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Single-use discharge trigger — consumed upon activation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · α (Minor) |
 | **Vessel-Destructible** | Yes — consumed upon single use |
@@ -40,14 +40,14 @@
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy A Letter Never Sent.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-Iα-114]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
 - M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (A Letter Never Sent):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Residue (I) — Unread, preserved plea |
 | **Primary Pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 20–35% |
-| **Difficulty (A Letter Never Sent)** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types (A Letter Never Sent)** | Viderehan and Ferrehan only |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-04, Archive Storage Vault |
 | **Resolution Condition** | The letter is safely archived or unsealed for its single-use emergency benediction |
 
@@ -120,7 +120,7 @@ Failure to maintain stasis allows the wax to fracture prematurely, venting local
 
 ## Behavior
 
-> **Object/Place Work Rule (A Letter Never Sent):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -174,7 +174,7 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 
 The escalation pattern is specific to A Letter Never Sent: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-A-04, Archive Vault 12 — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence (A Letter Never Sent):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
@@ -185,12 +185,12 @@ The escalation pattern is specific to A Letter Never Sent: it is not a generic b
 | **Primary effect** | The letter burns in a heatless deep blue flash, discharging a restorative acoustic chime that instantly cures Panic, clears mental terror, and grants +15 Composure to all allies within Range Band 3. |
 | **Duration / rate** | Instantaneous discharge; effect lasts for 1 full combat phase (6 turns). |
 | **Risk** | Minor (α) Object-Lament producing Lament pressure; The letter is permanently consumed into grey ash; the user experiences a poignant ache of bereavement. |
-| **Management (A Letter Never Sent)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order (A Letter Never Sent):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (A Letter Never Sent):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Archive Stiletto
@@ -258,7 +258,7 @@ M.A.W. extracted from single-use relics represents the lingering memory of the h
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level (A Letter Never Sent):** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - The envelope remains at -3.2°C at all times.
 - Attempts to unfold the paper without breaking the seal cause immediate micro-fractures in the observer's skin.

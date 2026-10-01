@@ -25,7 +25,7 @@ It wades in swinging, and its blows carry the weight of a long-held spite. No gu
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. A single Level 2+ pair with Grudge-element M.A.W. suffices if they refuse the first exchange and bleed it around the room. Do not trade blows: the Scar-Golem (150 HP) that sometimes manifests beside it exists to punish exactly that instinct. Suppress before it spreads — left an hour, the Brawler’s spite starts recruiting, and Razor-Vermin packs (eight to twelve) boil out of the walls to rake whoever is closest.
+The Brawler wants an exchange. Deny it one. A Level 2+ pair on Grudge-element M.A.W. can close this incident without a single traded blow, and every traded blow lengthens it — the manifestation feeds on reciprocity and starves on patience. A single Level 2+ pair with Grudge-element M.A.W. suffices if they refuse the first exchange and bleed it around the room. Do not trade blows: the Scar-Golem (150 HP) that sometimes manifests beside it exists to punish exactly that instinct. Suppress before it spreads — left an hour, the Brawler’s spite starts recruiting, and Razor-Vermin packs (eight to twelve) boil out of the walls to rake whoever is closest.
 
 ## Facility Impact
 

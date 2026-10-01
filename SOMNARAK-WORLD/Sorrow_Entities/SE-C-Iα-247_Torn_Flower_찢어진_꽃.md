@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-247 [O]` |
-| **Entity Type (Torn Flower)** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
-| **Sorrow Category (Torn Flower)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A figure shaped like a torn flower — true soft petals split down the center, weeping from the tear, growing in the cracks between old buildings. Its petals are warm and give like flesh; fever-cold at the split, it smells of char and crushed bloom. |
-| **Movement (Torn Flower)** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone B, Old Lament — ambient |
-| **R.D. Comprehension Level (Torn Flower)** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Torn Flower):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Subject |
-| **Primary pressure (Torn Flower)** | Physical / structural pressure |
+| **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield (Torn Flower)** | 10–14 Han-Energy per successful work cycle |
-| **Work difficulty (Torn Flower)** | Low · R.D. Comprehension Level 1 — Initial |
+| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Torn Flower)** | 1 g–10 kg (α) |
-| **Recommended response (Torn Flower)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Torn Flower.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-Iα-247]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-Iα-247]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-Iα-247]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Torn Flower):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 0.95 m/s |
 | **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
-| **Activation threshold (Torn Flower)** | Sorrow Gauge ≥ 45% |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 178/178 |
 | **Han Pressure [ATK]** | 2–7 per hit · Grudge |
-| **Coherence modifier (Torn Flower)** | I — affects behavior complexity and response speed |
-| **Potency modifier (Torn Flower)** | α — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | I — affects behavior complexity and response speed |
+| **Potency modifier** | α — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Torn Flower):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty (Torn Flower)** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types (Torn Flower)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Do not repair or pick it; witness the torn form |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension (Torn Flower):** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Torn Flower's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not repair or pick it; witness the torn form**.
 
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A figure shaped like a torn flower, weeping from its split petals. It appears in cracks between old buildings.
-- **Position / movement (Torn Flower):** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament — ambient
 
@@ -115,9 +115,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A figure shaped like a torn flower, weeping from its split petals. It appears in cracks between old buildings. |
-| **Position / movement (Torn Flower)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature (Torn Flower)** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Torn Flower)** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -126,7 +126,7 @@
 - **Formation:** The Flower formed from a promise broken while someone was still waiting.
 - **The Sorrow:** The grief of beauty damaged before it could bloom fully.
 - **The Event:** A flower was torn from a memorial garden before its mourner returned; the grief became a figure.
-- **The People (Torn Flower):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -155,18 +155,18 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Movement** | Torn Flower shatters containment and hunts through the facility. It releases spores that infest personnel. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target (Torn Flower)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation (Torn Flower)** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type (Torn Flower):** Escape — the entity physically escapes and roams the facility.
-- **Containment priority (Torn Flower):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach (Torn Flower):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Torn Flower):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — Torn Flower Sword
 
@@ -200,7 +200,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Torn Flower's kind of pressure.
 
-**Cost (Torn Flower):** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — Torn Flower Charm
 
@@ -210,7 +210,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect (Torn Flower):** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** Grants a minor boon tied to Torn Flower's sorrow; the effect mirrors the entity's nature.
 
@@ -227,15 +227,15 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use (Torn Flower)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Torn Flower)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Torn Flower)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level (Torn Flower):** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 - It appears in damaged memorials.
 - It becomes calmer when someone remains nearby.
@@ -250,8 +250,8 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Torn Flower as a Subject with Subject-Lament manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
-| **Sustained observation (Torn Flower)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (Torn Flower)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Torn Flower's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
@@ -281,7 +281,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-Iα-247] |
 |---|---|
 | Petals close around shared grief. The sorrow is named; Torn Flower is fully recorded. | Torn edges burn and spread. The gauge climbs and Torn Flower withdraws without revelation. |
-| **OBSERVATION SUCCESS (Torn Flower)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -357,7 +357,7 @@ Some sorrows mourn a loss. Torn Flower mourns a near-miss — the bloom that ope
 **Observation Notes:**
 - A memorial bloom taken before the mourner could see it bloom.
 **Cross-References:** Echo Gardens · The Garden of Thorns
-**Faction Involvement (Torn Flower):** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** A mourner who arrived too late.
 
 ### Registry Addendum
@@ -376,8 +376,8 @@ Some sorrows mourn a loss. Torn Flower mourns a near-miss — the bloom that ope
 
 - **Classification detail:** Torn Flower is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament — ambient.
-- **Recognition detail (Torn Flower):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Torn Flower):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

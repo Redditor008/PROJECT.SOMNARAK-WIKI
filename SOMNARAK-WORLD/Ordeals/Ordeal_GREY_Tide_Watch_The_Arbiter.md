@@ -35,7 +35,7 @@ A towering hooded figure, near five meters, robed in scarred hide the color of o
 | **The Docket** | Each Arbiter-adjacent spawn suppressed in view of the primary is entered into its docket. | Every docketed kill adds +10% primary pressure. Clear the adds first — or do not clear them at all. |
 ## Suppression Protocol
 
-Engage with catastrophic-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+The Arbiter does not march and cannot be routed. Grudge-element M.A.W. at catastrophic grade, full wing commitment, and the one doctrinal rule that governs every Grey engagement elevated here to an absolute: refuse the exchange. The Arbiter opens by offering a contest on terms that appear favourable, and every recorded catastrophic escalation in the Grey file began with a responder accepting one. Fight it as terrain rather than as an opponent — foul the floor beneath it, collapse the galleries it uses to gain height, and engage only with ranged Grudge work from positions it must cross open ground to reach. Rotate responders out of its line of attention every ten minutes without exception; sustained attention is its actual weapon and the blades are only how the attention concludes. It ends when it has nothing left to arbitrate against.
 
 ## Facility Impact
 

@@ -7,59 +7,59 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-792 [O]` |
-| **Entity Type (Relic of a Thousand Owners)** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
-| **Sorrow Category (Relic of a Thousand Owners)** | Outside Sorrow (외한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A ghostly figure carrying a relic that flows like liquid crystal in its hands, its own body shifting between person and object, never settling. Salt-damp, it smells of cold rain; a treasure and its keeper blended into one. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | Zone E, Exile's Gate vicinity |
-| **R.D. Comprehension Level (Relic of a Thousand Owners)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Relic of a Thousand Owners):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
-| **Primary pressure (Relic of a Thousand Owners)** | Mental / emotional pressure |
+| **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield (Relic of a Thousand Owners)** | 20–28 Han-Energy per successful work cycle |
-| **Work difficulty (Relic of a Thousand Owners)** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Relic of a Thousand Owners)** | ~1–10 tons (δ) |
-| **Recommended response (Relic of a Thousand Owners)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Relic of a Thousand Owners.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IVδ-792]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-O-IVδ-792]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-IVδ-792]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Relic of a Thousand Owners):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types |
-| **Activation threshold (Relic of a Thousand Owners)** | Sorrow Gauge ≥ 90% |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Lament |
-| **Coherence modifier (Relic of a Thousand Owners)** | IV — affects behavior complexity and response speed |
-| **Potency modifier (Relic of a Thousand Owners)** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | IV — affects behavior complexity and response speed |
+| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Relic of a Thousand Owners):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty (Relic of a Thousand Owners)** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Relic of a Thousand Owners)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Do not claim ownership; document its owners |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension (Relic of a Thousand Owners):** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Relic of a Thousand Owners's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not claim ownership; document its owners**.
 
@@ -93,7 +93,7 @@
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
 - Time is Relic of a Thousand Owners’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh. [SE-O-IVδ-792]
+- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
 - An unresolved encounter never simply ends; it transforms. Relic of a Thousand Owners executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A ghostly figure carrying a relic that flows like liquid crystal. Its body shifts between object and person.
-- **Position / movement (Relic of a Thousand Owners):** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Lament
 - **Registered location:** Zone E, Exile's Gate vicinity
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ghostly figure carrying a relic that flows like liquid crystal. Its body shifts between object and person. |
-| **Position / movement (Relic of a Thousand Owners)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature (Relic of a Thousand Owners)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Relic of a Thousand Owners)** | Confirm the primary form and elemental signature before contact. |
-| **Identification (Relic of a Thousand Owners)** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
 
-**Appearance protocol (Relic of a Thousand Owners):** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Relic formed from an object carried through many exiles.
 - **The Sorrow:** The grief of surviving every owner and belonging to none.
 - **The Event:** A relic passed from one exile to another until its history became a wandering figure.
-- **The People (Relic of a Thousand Owners):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mourner who couldn't stop crying. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Relic of a Thousand Owners is recorded as a Subject with Subject-Phantasmal manifestation and Lament elemental expression. The current record places it at Zone E, Exile's Gate vicinity; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response (Relic of a Thousand Owners):** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Breach Behavior
 
 > *"Relic of a Thousand Owners has broken free. Hunts personnel indiscriminately."*
@@ -155,18 +155,18 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Movement** | Relic of a Thousand Owners pulses with concentrated force, cracking the walls around it. It hunts personnel indiscriminately. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target (Relic of a Thousand Owners)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation (Relic of a Thousand Owners)** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type (Relic of a Thousand Owners):** Corrupt — the containment zone warps and spreads.
+- **Breach type:** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach (Relic of a Thousand Owners):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Relic of a Thousand Owners):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Cascading Falchion
 
@@ -183,9 +183,9 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage (Relic of a Thousand Owners):** Line; up to 3 targets total
-**Falloff Rule (Relic of a Thousand Owners):** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application (Relic of a Thousand Owners):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** Line; up to 3 targets total
+**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Slows hostile emotional momentum.
 
@@ -207,7 +207,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Relic of a Thousand Owners's kind of pressure.
 
-**Cost (Relic of a Thousand Owners):** The wearer becomes numb to minor joys.
+**Cost:** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Flowing Charm
 
@@ -217,7 +217,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect (Relic of a Thousand Owners):** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus when working the source entity
 
 **Ability:** Grants a minor boon tied to Relic of a Thousand Owners's sorrow; the effect mirrors the entity's nature.
 
@@ -233,12 +233,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (Relic of a Thousand Owners)** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use (Relic of a Thousand Owners)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Relic of a Thousand Owners)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Relic of a Thousand Owners)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation (Relic of a Thousand Owners):** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -286,7 +286,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IVδ-792] |
 |---|---|
 | The figure softens and reveals one owner's grief. The sorrow is witnessed; Relic of a Thousand Owners is fully recorded. | It flows around aggression and returns it as force. The gauge climbs and Relic of a Thousand Owners withdraws without revelation. |
-| **OBSERVATION SUCCESS (Relic of a Thousand Owners)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -315,7 +315,7 @@ A figure flows across the Gate's shadow carrying a weapon that has no fixed shap
 
 Relic of a Thousand Owners does not exist in isolation. Its recorded relationships with The Exile's Gate, The Guardian of the Gate, The Returning Relic should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method (Relic of a Thousand Owners):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -328,7 +328,7 @@ Relic of a Thousand Owners must be assessed as part of an entity network, not as
 | **The Guardian of the Gate** | The Guardian remembers its owners. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Returning Relic** | Both preserve objects that outlived their owners. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure (Relic of a Thousand Owners):** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -360,24 +360,24 @@ Some sorrows mourn an owner. Relic of a Thousand Owners mourns the having-none �
 **Common Name:** Relic of a Thousand Owners
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic
-**Threat Assessment (Relic of a Thousand Owners):** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section. [SE-O-IVδ-792]
-- Standard R.D. containment protocols apply. [SE-O-IVδ-792]
-- See Breach Behavior or Activation Behavior for escalation response. [SE-O-IVδ-792]
+- Refer to entity’s Work Type responses in the Behavior section.
+- Standard R.D. containment protocols apply.
+- See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**
-- See Origin section for formation and event details. [SE-O-IVδ-792]
-- See Combat Record for engagement history. [SE-O-IVδ-792]
-- See M.A.W. Equipment section for extraction risk. [SE-O-IVδ-792]
-**Cross-References (Relic of a Thousand Owners):** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement (Relic of a Thousand Owners):** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
-**Originator (Relic of a Thousand Owners):** See Origin section — ‘The People’ field.
+- See Origin section for formation and event details.
+- See Combat Record for engagement history.
+- See M.A.W. Equipment section for extraction risk.
+**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+**Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
+**Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
-**Operational interpretation (Relic of a Thousand Owners):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement (Relic of a Thousand Owners):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
 Relic of a Thousand Owners was once moved — the full containment, transferred between facilities in a single operation the Directorate still studies. This record preserves the order, the convoy, and the arrival that proved the containment could travel.
@@ -413,9 +413,9 @@ The transfer route is preserved as the route map — every chain surveyed, every
 
 - **Classification detail:** Relic of a Thousand Owners is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone E, Exile's Gate vicinity.
-- **Recognition detail (Relic of a Thousand Owners):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Relic of a Thousand Owners):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail (Relic of a Thousand Owners):** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-O-IVδ-792

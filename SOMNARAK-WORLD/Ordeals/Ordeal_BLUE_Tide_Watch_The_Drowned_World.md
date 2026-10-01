@@ -35,7 +35,7 @@ A living flood rising through gratings, vents, and cable runs, covering floors w
 | **The Submersion** | Fully submerged personnel stop struggling and start joining: after three turns they dissolve into new faces. | Ferrehan extraction only, in pairs, with lifelines. Solo rescuers are recovered as faces, if at all. |
 ## Suppression Protocol
 
-Engage with catastrophic-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+At Tide Watch the Blue manifestation stops being a procession and becomes a water table. Lament-element M.A.W. at catastrophic grade, with every pump in the wing committed and drainage crews given precedence over combat crews in all corridor disputes — the engagement is won in the sumps and merely concluded on the floor. Do not block, do not dam, and do not permit a responder to work alone below the waterline; the Drowned World takes the isolated first and the surrounding architecture second. Route the column downward through the service levels where the drainage already runs, bleed it at every junction with ranged Lament work, and accept the loss of the lower galleries as the price of keeping the inhabited floors dry. The manifestation disperses when the water it has gathered has somewhere to go. Give it somewhere to go.
 
 ## Facility Impact
 

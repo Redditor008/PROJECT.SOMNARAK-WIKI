@@ -35,7 +35,7 @@ A chest-high rolling wave of corrupted flesh and fungal mass, glistening, steami
 | **The Blooming** | Ripe bloom-hosts burst into new wave-mass, and the wave grows on schedule. | Each ripened host adds +10% wave pressure. Burn hosts before they ripen. Burn early. |
 ## Suppression Protocol
 
-Engage with catastrophic-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+A Bloom-Wave is the garden deciding to move. Mixed-element M.A.W. at catastrophic grade, every flamethrower crew in the wing committed, and firing lines established at the longest ranges the corridors permit — contact range is a loss condition in this file, not a tactic. The Wave advances on a front rather than a column, so there is no flank to work and no route to bleed; it is fought by burning ground ahead of it until it has nowhere left to root. Each fallen Host must be burned where it drops before the line advances past it, which makes this the slowest catastrophic engagement in the Ordeal manual and the one most often lost to impatience. Nest-Bodies formed during the engagement are not combat targets; mark them, bypass them, and hand them to the excavation crews afterward. The Wave ends when the burned ground behind it exceeds the living ground before it.
 
 ## Facility Impact
 

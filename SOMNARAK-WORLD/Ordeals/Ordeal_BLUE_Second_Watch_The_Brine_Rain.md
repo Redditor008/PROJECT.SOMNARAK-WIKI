@@ -25,7 +25,7 @@ It soaks through, and the weight of others mourning settles into the mind. Rain 
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Umbrellas of dry Han first, blades second: Lament-element M.A.W. at Second Watch grade, with evaporation crews running heaters along the shaft’s perimeter. Suppress before it spreads — if the shaft drifts over a muster point, the Sorrow Fog (280 HP) condenses inside it and the moderate encounter becomes a major one. Drain the pools before the Salt-Blooms seed; leeches before they hatch; mourners never directly, they only keen louder.
+Brine Rain is a weather problem before it is a combat problem. Dry the shaft and the Lament-element M.A.W. work becomes routine; fight it in standing water and nothing becomes routine. Heaters and drainage first, blades second, and never let the line stand in a pool it did not choose. Umbrellas of dry Han first, blades second: Lament-element M.A.W. at Second Watch grade, with evaporation crews running heaters along the shaft’s perimeter. Suppress before it spreads — if the shaft drifts over a muster point, the Sorrow Fog (280 HP) condenses inside it and the moderate encounter becomes a major one. Drain the pools before the Salt-Blooms seed; leeches before they hatch; mourners never directly, they only keen louder.
 
 ## Facility Impact
 

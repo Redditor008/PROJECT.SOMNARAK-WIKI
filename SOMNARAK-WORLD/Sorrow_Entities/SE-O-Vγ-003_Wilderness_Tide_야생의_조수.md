@@ -10,7 +10,7 @@
 | **Entity Type** | **Object/Place** — Can breach via Transform independently; surges against the border |
 | **Coherence** | V — Sovereign (a force rather than a being) |
 | **Potency** | γ — Major |
-| **Sorrow Category (Wilderness Tide)** | Outside Sorrow (외한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — Not a creature but a moving wall of raw, unstructured wilderness Han — a tidal surge of Weight Han-pressure that rises from beyond the Desolate and crashes against Zone E. It has no body to strike; only the wave, the pressure, and the grinding erosion of the border. Lead-cold and immense, it smells of wet stone and iron on a scale that fills the lungs. |
@@ -20,7 +20,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference (Wilderness Tide):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -114,12 +114,12 @@ Wilderness Tide is not born from a single sorrow or a specific event. It is the 
 
 - **Formation:** Not formed — ever-present. The wilderness Han has always pressed against the city's border.
 - **The Event:** Each surge is triggered by wilderness Han accumulation beyond the Desolate — seasonal, unpredictable, and growing in intensity over the centuries.
-- **Faction Involvement (Wilderness Tide):** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant)
+- **Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** The wilderness itself — UnWiHan, the raw Han of the unstructured world.
 
 ## Behavior
 
-> **Object/Place Work Rule (Wilderness Tide):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|

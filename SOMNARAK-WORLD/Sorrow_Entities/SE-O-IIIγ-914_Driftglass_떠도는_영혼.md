@@ -7,60 +7,60 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-914 [N]` |
-| **Entity Type (Driftglass)** | **Object/Place** — Can breach via Transform |
-| **Tool Type (Driftglass)** | **I-Relic (Indumentum)** |
+| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category (Driftglass)** | Outside Sorrow (외한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Mixed — A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults — half-light, half-shard, weeping softly as it goes. Salt-damp, it smells of cold rain; a grief that took a body and forgot how to stop moving. |
-| **Movement (Driftglass)** | Stationary — a structure or location. |
+| **Movement** | Stationary — a structure or location. |
 | **Location** | Zone A, Alpha Tree |
-| **R.D. Comprehension Level (Driftglass)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Driftglass):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure (Driftglass)** | Mental / emotional pressure |
+| **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield (Driftglass)** | 16–22 Han-Energy per successful work cycle |
-| **Work difficulty (Driftglass)** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold (Driftglass)** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade (Driftglass)** | I-Relic (Indumentum) · — |
+| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Driftglass)** | ~100 kg–1 ton (γ) |
-| **Recommended response (Driftglass)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Driftglass.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IIIγ-914]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-O-IIIγ-914]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-O-IIIγ-914]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Driftglass):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed (Driftglass)** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 35% against Lament pressure; 25% against other pressure types |
-| **Activation threshold (Driftglass)** | Sorrow Gauge ≥ 75% |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
-| **Coherence modifier (Driftglass)** | III — affects behavior complexity and response speed |
-| **Potency modifier (Driftglass)** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Driftglass):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,8 +69,8 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty (Driftglass)** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Driftglass)** | Viderehan and Ferrehan only |
+| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Provide a memory anchor; do not force a destination |
 
@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension (Driftglass):** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Driftglass's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Provide a memory anchor; do not force a destination**.
 
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
 - **Primary marker:** A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults.
-- **Position / movement (Driftglass):** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree
 
@@ -116,9 +116,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults. |
-| **Position / movement (Driftglass)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature (Driftglass)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Driftglass)** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -127,12 +127,12 @@
 - **Formation:** The Soul formed from an Outside Sorrow traveler who never found a place to rest.
 - **The Sorrow:** The grief of wandering after every destination has become unfamiliar.
 - **The Event:** A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.
-- **The People (Driftglass):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
 
-> **Object/Place Work Rule (Driftglass):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -162,7 +162,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode (Driftglass)** | **Equippable / mounting use** |
+| **Use Mode** | **Equippable / mounting use** |
 | **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
 | **Primary Effect** | Personnel feel loss of direction and belonging. |
 | **Duration** | Until a resting place is acknowledged. |
@@ -199,7 +199,7 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 | **Management** | Provide a memory anchor; do not force a destination. |
 
-**Activation reporting order (Driftglass):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility** (Driftglass record.)
@@ -219,14 +219,14 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode (Driftglass)** | **Equippable / mounting use** |
+| **Use Mode** | **Equippable / mounting use** |
 | **Activation** | This Major (γ) |
 | **Primary Effect** | Personnel feel loss of direction and belonging. |
 | **Duration** | Until a resting place is acknowledged. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 
-**Operational Rule (Driftglass):** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
@@ -241,7 +241,7 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 
 The escalation pattern is specific to Driftglass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone A, Alpha Tree, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence (Driftglass):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
@@ -252,12 +252,12 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 | **Primary effect** | Personnel feel loss of direction and belonging. |
 | **Duration / rate** | Until a resting place is acknowledged. |
 | **Risk** | Major (γ) Object-Lament producing Lament pressure; Misuse increases emotional strain and may destabilize the operator. |
-| **Management (Driftglass)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order (Driftglass):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Driftglass):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Driftglass Harpoon-Pike
 
@@ -275,7 +275,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Driftglass's lament signature in the strike.
 
-**Cost (Driftglass):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — Driftglass Shroud
 
@@ -293,7 +293,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Driftglass's kind of pressure.
 
-**Cost (Driftglass):** The wearer becomes numb to minor joys.
+**Cost:** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — Driftglass Lantern
 
@@ -303,7 +303,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect (Driftglass):** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus when working the source entity
 
 **Ability:** Reveals safe routes through unfamiliar sorrow.
 
@@ -320,9 +320,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use (Driftglass)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Driftglass)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Driftglass)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 
@@ -343,7 +343,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Driftglass as an Object/Place with Object-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree. |
-| **Sustained observation (Driftglass)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Tool Use Profile — I-Relic Operational Rule: The relic remains active while attached to the operator. The tool is not a general-purpose replacement for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan. Log and Method. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Driftglass's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
@@ -374,7 +374,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIIγ-914] |
 |---|---|
 | Tests whether the worker can remain with a wanderer. The sorrow is witnessed; Driftglass is fully recorded. | Reveals routes beyond the city. The gauge climbs and Driftglass withdraws without revelation. |
-| **OBSERVATION SUCCESS (Driftglass)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -439,18 +439,18 @@ Some sorrows mourn a home. Driftglass mourns the having-none — the traveler's 
 **Common Name:** Driftglass
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic
-**Threat Assessment (Driftglass):** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section. [SE-O-IIIγ-914]
-- Standard R.D. containment protocols apply. [SE-O-IIIγ-914]
-- See Breach Behavior or Activation Behavior for escalation response. [SE-O-IIIγ-914]
+- Refer to entity’s Work Type responses in the Behavior section.
+- Standard R.D. containment protocols apply.
+- See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**
-- See Origin section for formation and event details. [SE-O-IIIγ-914]
-- See Combat Record for engagement history. [SE-O-IIIγ-914]
-- See M.A.W. Equipment section for extraction risk. [SE-O-IIIγ-914]
-**Cross-References (Driftglass):** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement (Driftglass):** SED (Desolate-territory exploration)
-**Originator (Driftglass):** See Origin section — ‘The People’ field.
+- See Origin section for formation and event details.
+- See Combat Record for engagement history.
+- See M.A.W. Equipment section for extraction risk.
+**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+**Faction Involvement:** SED (Desolate-territory exploration)
+**Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
 
@@ -481,8 +481,8 @@ Some visitors return — oversight satisfied so fully they bring colleagues, tra
 
 - **Classification detail:** Driftglass is an Object/Place with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree.
-- **Recognition detail (Driftglass):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Driftglass):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

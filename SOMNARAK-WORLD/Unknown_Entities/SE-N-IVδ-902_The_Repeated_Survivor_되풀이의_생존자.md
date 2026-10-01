@@ -16,7 +16,7 @@
 | **Element** | Void — the emptying of a self that remembered too much; Weight and Grudge undertones |
 | **Manifestation** | Subject-Body — a body that performs; nobody left inside it |
 | **Physical Form** | Mixed — An R.D. field agent in every visible detail — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing wrong with the body; it is a person-shaped loop, remembering every cycle. Bloodless-cold, it smells of ash; it looks exactly like someone you know. |
-| **Movement (The Repeated Survivor)** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | The Hand of Change (R.D. facility), mobile across the cycle; appears wherever the "plot" is thinnest |
 | **R.D. Comprehension Level** | 5 — Sovereign-grade monitoring (loop-anomaly) |
 
@@ -24,7 +24,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference (The Repeated Survivor):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -37,7 +37,7 @@
 | **Activation threshold** | Sorrow Gauge ≥ 80% or a personnel member recognizing the loop |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (The Repeated Survivor)** | ~1–10 tons (δ) |
+| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Do not engage as a scene. Do not take a mark it assigns. Endure the performance without becoming part of it. |
 
 ### Operational Notes
@@ -50,7 +50,7 @@
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (The Repeated Survivor):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -60,7 +60,7 @@
 | **Sorrow Gauge [HP]** | 993/993 |
 | **Han Pressure [ATK]** | 24–52 per hit · Grudge |
 | **Coherence modifier** | IV — retention across iterations (paradoxical) |
-| **Potency modifier (The Repeated Survivor)** | δ — affects pressure, durability, and escalation severity |
+| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
 > **R.D. Operational Record:** The following parameters prepare personnel for contact. The SECC classification and recorded history remain authoritative.
 
@@ -170,13 +170,13 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 
 ### Escalation Notes
 
-- **Breach type (The Repeated Survivor):** Escape — the entity physically escapes and roams the facility.
+- **Breach type:** Escape — the entity physically escapes and roams the facility.
 - **Containment priority:** Physical suppression required — block corridors, deploy Wardens.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (The Repeated Survivor):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. Extraction is permitted under Director supervision; each piece carries the loop's hollowness.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. Extraction is permitted under Director supervision; each piece carries the loop's hollowness.
 
 ### M.A.W. Weapon — The Final Act
 
@@ -270,7 +270,7 @@ This is the cost the Cycle extracts from anyone who remembers it. The loop rewri
 | Refuse the stage — do not take the mark; address the one who was there before the loops. | Take the role — perform the scene it assigns. |
 |---|---|
 | You do not take your mark. You speak past the performer to the buried agent — and for one iteration the original surfaces, weeping, remembering, before sealing the grief again. The entity is recorded; the scene does not conclude. | You perform the assigned role. The entity smiles without eyes, the plot twists, and you are written out of the scene. The observation ends with you as a prop, and a death you do not remember. |
-| **OBSERVATION SUCCESS (The Repeated Survivor)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 

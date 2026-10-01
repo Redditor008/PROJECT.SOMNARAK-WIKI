@@ -25,7 +25,7 @@ They pass through, and individuality thins wherever their mass moves. The mass d
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Void-element M.A.W. at Third Watch grade, and every responder badged, named, and counted aloud at fifteen-minute intervals — the mass erases the unobserved first. Do not engage the crowd’s center; draw off its edges with the Eyeless Hounds (350 HP) as the price of approach, and burn the Skin-Blizzard (380 HP) out of the flanks before it flays the line. Suppress before it spreads: a doubled mass quadruples its smoothing rate.
+By Third Watch the Ashen manifestation has stopped being a hazard in a room and become a population. Void-element M.A.W. remains the answer, but no single team suppresses a Featureless mass — responders work in counted pairs, inward from the edges, and the suppression finishes when the mass stops recruiting rather than when it stops moving. Void-element M.A.W. at Third Watch grade, and every responder badged, named, and counted aloud at fifteen-minute intervals — the mass erases the unobserved first. Do not engage the crowd’s center; draw off its edges with the Eyeless Hounds (350 HP) as the price of approach, and burn the Skin-Blizzard (380 HP) out of the flanks before it flays the line. Suppress before it spreads: a doubled mass quadruples its smoothing rate.
 
 ## Facility Impact
 

@@ -7,69 +7,69 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-250 [LP]` |
-| **Entity Type (Memory Rain)** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Can breach via Transform |
 | **Coherence** | Echo (II) — Repeats falling |
 | **Potency** | Moderate (β) |
-| **Sorrow Category (Memory Rain)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A slow fall of droplets that are not water: each a glassy bead the size of a tear, suspending inside it a fragment of a face, a lock of hair, a strip of skin, a voice made visible. They drift rather than drop, and on contact dissolve, releasing the memory into whoever they touch. The beads are cool and faintly sweet-smelling, like rain on old flowers. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone D, Echo Gardens — periodic |
-| **R.D. Comprehension Level (Memory Rain)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Memory Rain):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure (Memory Rain)** | Mental / emotional pressure |
+| **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (Memory Rain)** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty (Memory Rain)** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold (Memory Rain)** | Activation / expansion trigger — no breach counter |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
-| **Vessel-Destructible (Memory Rain)** | No — Place-manifestation |
-| **Han Dust Drop (Vessel Destruction) (Memory Rain)** | — |
-| **Recommended response (Memory Rain)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Vessel-Destructible** | No — Place-manifestation |
+| **Han Dust Drop (Vessel Destruction)** | — |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Memory Rain.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIβ-250]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-C-IIβ-250]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIβ-250]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Memory Rain):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed (Memory Rain)** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 25% against Lament pressure; 15% against other pressure types |
-| **Activation threshold (Memory Rain)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Lament |
-| **Coherence modifier (Memory Rain)** | II — affects behavior complexity and response speed |
-| **Potency modifier (Memory Rain)** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | II — affects behavior complexity and response speed |
+| **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Memory Rain):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Memory Rain)** | Medium — 16 turns |
+| **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — Repeats falling |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty (Memory Rain)** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Memory Rain)** | Viderehan and Ferrehan only |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens — periodic |
 | **Resolution Condition** | Collect drops carefully and provide identity anchors |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension (Memory Rain):** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Memory Rain's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Collect drops carefully and provide identity anchors**.
 
@@ -106,7 +106,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
 - **Primary marker:** Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling.
-- **Position / movement (Memory Rain):** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Echo Gardens — periodic
 
@@ -115,9 +115,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling. |
-| **Position / movement (Memory Rain)** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature (Memory Rain)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Memory Rain)** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -126,12 +126,12 @@
 - **Formation:** The Rain formed from memories too numerous for the city to hold.
 - **The Sorrow:** The weight of too many lives pressing upward until the sky had to release them.
 - **The Event:** The city's accumulated memories condensed above Zone D and began falling as crystalline rain.
-- **The People (Memory Rain):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a containment subject. It has become a teacher. A mirror. A reminder that behind every Sorrow Entity is a story — a story of loss, of grief, of the weight of being human in a city built on sorrow.
 
 ## Behavior
 
-> **Object/Place Work Rule (Memory Rain):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -175,10 +175,10 @@ The escalation pattern is specific to Memory Rain: it is not a generic breach ev
 | **Risk** | Moderate (β) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Collect drops carefully and provide identity anchors. |
 
-**Activation reporting order (Memory Rain):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Memory Rain):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Vigil Hand-Cannon
 
@@ -196,7 +196,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Memory Rain's lament signature in the strike.
 
-**Cost (Memory Rain):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Memory Umbrella
 
@@ -224,7 +224,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect (Memory Rain):** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** Grants a minor boon tied to Memory Rain's sorrow; the effect mirrors the entity's nature.
 
@@ -241,9 +241,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use (Memory Rain)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Memory Rain)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Memory Rain)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 
@@ -264,8 +264,8 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Memory Rain as an Object/Place with Place-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Echo Gardens — periodic. |
-| **Sustained observation (Memory Rain)** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (Memory Rain)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Memory Rain's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
@@ -295,7 +295,7 @@ The entity's story has spread through the facility — not as official documenta
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-250] |
 |---|---|
 | The worker remains beneath the rain without losing identity. The sorrow is witnessed; Memory Rain is fully recorded. | Each drop can be catalogued as a memory record. The gauge climbs and Memory Rain withdraws without revelation. |
-| **OBSERVATION SUCCESS (Memory Rain)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -375,7 +375,7 @@ Some sorrows are held inside. Memory Rain is what the city looks like when it ca
 - Condensed above the Echo Gardens from the city’s accumulated memories.
 - Falls periodically when the city’s memory reservoir overflows.
 **Cross-References:** Echo Gardens · The Weeping · The Memory Well · The Memory Lake
-**Faction Involvement (Memory Rain):** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** Collective; formed from the accumulated memories of every citizen who has lived in Somnarak.
 
 ### Registry Addendum
@@ -407,8 +407,8 @@ Every relief is logged — arrival time, briefing given, watch transferred. The 
 
 - **Classification detail:** Memory Rain is an Object/Place with Echo (II) — Repeats falling coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone D, Echo Gardens — periodic.
-- **Recognition detail (Memory Rain):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Memory Rain):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

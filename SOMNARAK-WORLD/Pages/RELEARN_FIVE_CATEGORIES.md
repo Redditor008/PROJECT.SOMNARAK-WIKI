@@ -21,7 +21,7 @@
 
 ### 1 — **Main** — `01-Main Page`
 
-- **Writes like:** wiki.gg `Main_Page` — visual cards, not lore dump. Four cards (Abnormalities / Equipment / Ordeals / Meltdowns → Sorrow Entities / M.A.W. / Ordeals / Reverberations) + armband/team strip (9 Echo-Cores) + promo strip. Lead is 1-paragraph city + 1-paragraph counts (**292** SE, **42** M.A.W. sets) + contribution call. No 120w wall dump, no `Master_Codices/` prose.
+- **Writes like:** wiki.gg `Main_Page` — visual cards, not lore dump. Four cards (Abnormalities / Equipment / Ordeals / Meltdowns → Sorrow Entities / M.A.W. / Ordeals / Reverberations) + armband/team strip (9 Echo-Cores) + promo strip. Lead is 1-paragraph city + 1-paragraph counts (**291** SE, **42** M.A.W. sets) + contribution call. No 120w wall dump, no `Master_Codices/` prose.
 
 ### 2 — **Abnormalities** — `07-Sorrow Entities` as hub + all Abnormalities-content as **sections within the hub, not separate Pages**
 
@@ -48,7 +48,7 @@
 
 ### 4 — **Character** — `06-Personnel` / `12-Specialists` / `14-Echo-Cores` / `26-Personnel Dossiers` as Character hub
 
-- **Writes like:** wiki.gg `Characters` / `Malkuth` / fandom `Sephirah` — infobox with portrait + armband, `| Personnel | Echo-Core | Cadre |` table, not 292-row Sorrow table. Focus is person, not entity.
+- **Writes like:** wiki.gg `Characters` / `Malkuth` / fandom `Sephirah` — infobox with portrait + armband, `| Personnel | Echo-Core | Cadre |` table, not 291-row Sorrow table. Focus is person, not entity.
 
 ### 5 — **Department** — `22-Departments` as Department hub
 

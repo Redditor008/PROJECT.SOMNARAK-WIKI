@@ -25,7 +25,7 @@ They march through, and every weapon strikes at once in a rolling assault. The c
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Never meet the column head-on: the Blade Storm at Elite grade (410 HP, 35–55 per hit) rides above the march and mulches frontal assaults. Break the step instead — foul the floor, drop the lights, detune the rhythm — and engage the stragglers with Grudge-element M.A.W. as the column frays. Saw-Larvae (ten to fourteen per swarm) pour from the joints of stalled marchers; burn them before they bore into shield-lines.
+A Forge March is broken rhythmically before it is broken physically. Grudge-element M.A.W. at Third Watch grade handles what the column sheds; the column itself is defeated by fouling its step, and responders who forget this and meet it frontally will be the reason the file requires a Tide Watch entry. Never meet the column head-on: the Blade Storm at Elite grade (410 HP, 35–55 per hit) rides above the march and mulches frontal assaults. Break the step instead — foul the floor, drop the lights, detune the rhythm — and engage the stragglers with Grudge-element M.A.W. as the column frays. Saw-Larvae (ten to fourteen per swarm) pour from the joints of stalled marchers; burn them before they bore into shield-lines.
 
 ## Facility Impact
 

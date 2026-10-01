@@ -35,7 +35,7 @@ Nothing to see — that is the doctrine, and the doctrine is a warning. The Fina
 | **The Settling** | After three turns, the zone's floor gives way under the summed obligation. | Everything descends one deck — or into the dark where no deck remains. The R.D. authorizes no recovery descents. |
 ## Suppression Protocol
 
-Engage with catastrophic-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible.
+The Final Ton is a structural emergency that happens to be hostile. Weight-element M.A.W. at catastrophic grade exists here to buy the demolition crews their working time and nothing else; the suppression is performed with charges, not with weapons. Evacuate five floors above and three below before the first cut — the Third Watch figure of three in each direction has failed twice at this grade and the revised margin is not negotiable. Never brace, never shore, never attempt to hold the mass in place: every recorded bracing attempt has been lifted intact into the ceiling it was meant to protect. Cut the foundations in sequence from the outside inward, keep every responder out from under the overhang at all times, and allow the Ton to come down where the engineers have chosen rather than where it intends. The manifestation is finished when it is resting on something it cannot press through, and the Hand of Change is built so that such a floor always exists below.
 
 ## Facility Impact
 

@@ -25,7 +25,7 @@ They burst, and waves of parasitic young pour toward the nearest warmth. Each Ho
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Mixed-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Mixed-element M.A.W. at Third Watch grade, with flamethrower crews forward — fire is the only argument the garden respects. Engage at maximum range; every fallen Host bursts where it drops, so the kill-zone must be burned, not merely won. The Root Network at Elite grade (410 HP) coordinates the Hosts’ advance — sever the root-lines first or the garden outflanks the firing line. Suppress before it spreads: a rooted Host becomes a Nest-Body within the hour, and Nest-Bodies do not walk away when burned. They must be dug out.
+Bloom Hosts are a propagation problem wearing the shape of a combat one. Mixed-element M.A.W. at Third Watch grade with flame forward, maximum range held throughout, and the kill-zone burned rather than merely cleared — a Host put down and left where it fell has not been suppressed, it has been planted. Mixed-element M.A.W. at Third Watch grade, with flamethrower crews forward — fire is the only argument the garden respects. Engage at maximum range; every fallen Host bursts where it drops, so the kill-zone must be burned, not merely won. The Root Network at Elite grade (410 HP) coordinates the Hosts’ advance — sever the root-lines first or the garden outflanks the firing line. Suppress before it spreads: a rooted Host becomes a Nest-Body within the hour, and Nest-Bodies do not walk away when burned. They must be dug out.
 
 ## Facility Impact
 

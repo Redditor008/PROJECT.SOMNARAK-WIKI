@@ -10,17 +10,17 @@
 | **Entity Type** | **Hazard** — Can breach via Transform |
 | **Coherence** | Sovereign (V) |
 | **Potency** | Catastrophic (ω) |
-| **Sorrow Category (Sorrow Mass)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Hazard-Weight |
 | **Physical Form** | Non-Organic — A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned. |
-| **Movement (Sorrow Mass)** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-925, UNCONTAINED |
 | **R.D. Comprehension Level** | 5 — Sovereign |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Sorrow Mass):** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,31 +28,31 @@
 | **Entity role** | Hazard |
 | **Primary pressure** | Weight / Weight pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (Sorrow Mass)** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Catastrophic · R.D. Comprehension Level 5 — Sovereign |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · ω |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (ω) |
-| **Recommended response (Sorrow Mass)** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Sorrow Mass.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-Vω-925]
-- The Han-Energy yield is balanced against exposure risk. [SE-C-Vω-925]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-Vω-925]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Sorrow Mass):** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 25% against Weight pressure; 18% against other pressure types |
-| **Activation threshold (Sorrow Mass)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 521/521 |
 | **Han Pressure [ATK]** | 11–20 per hit · Weight |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
@@ -60,19 +60,19 @@
 
 
 
-> **R.D. Operational Record (Sorrow Mass):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Sorrow Mass)** | Medium — 16 turns |
-| **Threat Role (Sorrow Mass)** | Sovereign encounter |
+| **Battle Length** | Medium — 16 turns |
+| **Threat Role** | Sovereign encounter |
 | **Coherence** | Sovereign (V) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 925  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("V", "2 — Basic") |
-| **Valid Work Types (Sorrow Mass)** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-925 |
-| **Resolution Condition (Sorrow Mass)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -87,13 +87,13 @@
 
 1. **Tension:** Personnel identify the hazard manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Sorrow Mass's recorded combat actions.
-3. **Resolution (Sorrow Mass):** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-C-Vω-925]
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
 - Prolonged exposure may produce the entity's documented weight effect — weight pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section. [SE-C-Vω-925]
+- M.A.W. use carries the cost recorded in the equipment section.
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Weight pressure in a weight register.
 - The hazard form is unmistakable — this is a weight entity, not a general one.
-- Personnel should identify it by these markers before Work or contact. [SE-C-Vω-925]
+- Personnel should identify it by these markers before Work or contact.
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — dou |
-| **Position / movement (Sorrow Mass)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature (Sorrow Mass)** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Hazard-Weight manifestation is the primary identifying feature. Weight pressure is present and measurable. |
-| **Identification (Sorrow Mass)** | Verify these markers against the SECC code before Work or contact. |
+| **Identification** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -152,17 +152,17 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's weight influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Weight pressure radiates — the weight register makes it personal, targeted, unavoidable. |
-| **First Target (Sorrow Mass)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority (Sorrow Mass):** Physical suppression required.
-- **Sorrow Gauge on breach (Sorrow Mass):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Physical suppression required.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Sorrow Mass):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Sorrow Mass's Edge
 
@@ -191,7 +191,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 **Appearance:** a coin-token of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect (Sorrow Mass):** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.
 *Stigmas are granted at random by Sorrow Mass upon a successful work, not manufactured.*
 
@@ -203,10 +203,10 @@ Each M.A.W. piece is a conditional extension of Sorrow Mass, not ordinary equipm
 
 | Stage | Required record |
 |---|---|
-| **Before use (Sorrow Mass)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use (Sorrow Mass)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Sorrow Mass)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Sorrow Mass)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -214,7 +214,7 @@ Each M.A.W. piece is a conditional extension of Sorrow Mass, not ordinary equipm
 
 **Key Observations:**
 - Weight signature confirmed at SECTOR-C-925.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-C-Vω-925]
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
 - The weight register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -240,7 +240,7 @@ Each M.A.W. piece is a conditional extension of Sorrow Mass, not ordinary equipm
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Vω-925] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-Vω-925] |
-| **OBSERVATION SUCCESS (Sorrow Mass)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -285,8 +285,8 @@ The entity does not rage. It does not weep. It persists — weight and weight, p
 **Threat Assessment:** Catastrophic. A Hazard-Weight entity — the weight register is its defining characteristic. Risk: prolonged exposure to the weight pressure may produce effects not seen in standard weight entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types. [SE-C-Vω-925]
-- Flerehan and Pugnahan are not effective against this entity type. [SE-C-Vω-925]
+- Viderehan and Ferrehan are valid Work Types.
+- Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the weight register specifically — it is the primary channel of contact.
 
 **Cross-References:** City Sorrow (도한) · Weight · Hazard-Weight · Manifestation Classification

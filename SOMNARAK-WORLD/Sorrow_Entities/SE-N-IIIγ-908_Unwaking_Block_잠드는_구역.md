@@ -10,17 +10,17 @@
 | **Entity Type** | **Place** — Can breach via Transform |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
-| **Sorrow Category (Unwaking Block)** | Inner Sorrow (내한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Dream |
 | **Physical Form** | Organic — A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep. |
-| **Movement (Unwaking Block)** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-908, contained |
-| **R.D. Comprehension Level (Unwaking Block)** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Unwaking Block):** Suggested operational values for field simulation and balancing.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing.
 
 | Statistic | Value |
 |---|---|
@@ -28,51 +28,51 @@
 | **Entity role** | Place |
 | **Primary pressure** | Lament / Dream pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (Unwaking Block)** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response (Unwaking Block)** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Unwaking Block.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIIγ-908]
-- The Han-Energy yield is balanced against exposure risk. [SE-N-IIIγ-908]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIIγ-908]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Unwaking Block):** Normalized combat values for quick encounter reference.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
 
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Lament pressure; 24% against other pressure types |
-| **Activation threshold (Unwaking Block)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 468/468 |
 | **Han Pressure [ATK]** | 17–23 per hit · Lament |
-| **Coherence modifier (Unwaking Block)** | III — affects behavior complexity and response speed |
-| **Potency modifier (Unwaking Block)** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
 
 
-> **R.D. Operational Record (Unwaking Block):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Unwaking Block)** | Medium — 16 turns |
-| **Threat Role (Unwaking Block)** | Sovereign encounter |
+| **Battle Length** | Medium — 16 turns |
+| **Threat Role** | Sovereign encounter |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | 908  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
-| **Valid Work Types (Unwaking Block)** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-908 |
-| **Resolution Condition (Unwaking Block)** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
 
 ### Combat Actions
 
@@ -87,13 +87,13 @@
 
 1. **Tension:** Personnel identify the place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Unwaking Block's recorded combat actions.
-3. **Resolution (Unwaking Block):** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge. [SE-N-IIIγ-908]
+- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
 - Prolonged exposure may produce the entity's documented lament effect — dream pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section. [SE-N-IIIγ-908]
+- M.A.W. use carries the cost recorded in the equipment section.
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Lament pressure in a dream register.
 - The place form is unmistakable — this is a dream entity, not a general one.
-- Personnel should identify it by these markers before Work or contact. [SE-N-IIIγ-908]
+- Personnel should identify it by these markers before Work or contact.
 
 **Identification Profile**
 - **Entity Type:** Place
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls sh |
-| **Position / movement (Unwaking Block)** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature (Unwaking Block)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Place-Dream manifestation is the primary identifying feature. Lament pressure is present and measurable. |
-| **Identification (Unwaking Block)** | Verify these markers against the SECC code before Work or contact. |
+| **Identification** | Verify these markers against the SECC code before Work or contact. |
 
 ## Origin
 
@@ -152,17 +152,17 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's dream influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Lament pressure radiates — the dream register makes it personal, targeted, unavoidable. |
-| **First Target (Unwaking Block)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Lament drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority (Unwaking Block):** Physical suppression required.
-- **Sorrow Gauge on breach (Unwaking Block):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Physical suppression required.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Unwaking Block):** the entity's archetype drawn into equipment form.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
 
 ### M.A.W. Weapon — Unwaking Block's Edge
 
@@ -178,8 +178,8 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule (Unwaking Block):** 100% damage to the selected target only.
-**Damage Application (Unwaking Block):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% damage to the selected target only.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Channels lament dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.
 
@@ -211,7 +211,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect (Unwaking Block):** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity.
 
 **Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
 
@@ -227,17 +227,17 @@ Each M.A.W. piece is a conditional extension of Unwaking Block, not ordinary equ
 
 | Stage | Required record |
 |---|---|
-| **Before use (Unwaking Block)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use (Unwaking Block)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Unwaking Block)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Unwaking Block)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level (Unwaking Block):** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
 - Lament signature confirmed at SECTOR-N-908.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type. [SE-N-IIIγ-908]
+- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
 - The dream register is the dominant channel of contact.
 
 **Personnel Note:**
@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of Unwaking Block, not ordinary equ
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIγ-908] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-N-IIIγ-908] |
-| **OBSERVATION SUCCESS (Unwaking Block)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -308,8 +308,8 @@ The entity does not rage. It does not weep. It persists — dream and lament, pa
 **Threat Assessment:** Major. A Place-Dream entity — the dream register is its defining characteristic. Risk: prolonged exposure to the dream pressure may produce effects not seen in standard lament entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types. [SE-N-IIIγ-908]
-- Flerehan and Pugnahan are not effective against this entity type. [SE-N-IIIγ-908]
+- Viderehan and Ferrehan are valid Work Types.
+- Flerehan and Pugnahan are not effective against this entity type.
 - Monitor the dream register specifically — it is the primary channel of contact.
 
 **Cross-References:** Inner Sorrow (내한) · Lament · Place-Dream · Manifestation Classification

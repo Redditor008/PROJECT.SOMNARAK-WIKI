@@ -11,26 +11,26 @@
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Fragment (III) — Snapped indenture |
 | **Potency** | Moderate (β) |
-| **Sorrow Category (Fathers Broken Bond)** | City Sorrow (도한) |
+| **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A scored octagonal tally-tablet cast from tarnished yellow brass, bearing the stamped indenture seal of the Debt Concourse and severely discolored by industrial sulfuric acid burns. Deeply notched across its center seam, the tablet possesses an unnatural gravitational density—measuring barely nine centimeters across yet weighing over twenty-one kilograms. It smells of tarnished copper, corrosive vitriol, and stagnant sump water. |
-| **Movement (Fathers Broken Bond)** | Stationary — a discrete object. |
+| **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-C-03, Collector's Vault — contained |
-| **R.D. Comprehension Level (Fathers Broken Bond)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Fathers Broken Bond):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure (Fathers Broken Bond)** | Han / burden pressure |
+| **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–55% |
-| **Han-Energy yield (Fathers Broken Bond)** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty (Fathers Broken Bond)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Single-use fracture trigger — snapped in two by hand |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
 | **Vessel-Destructible** | Yes — fractures irrevocably into brass shards |
@@ -40,14 +40,14 @@
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Fathers Broken Bond.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-C-IIIβ-072]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
 - M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Fathers Broken Bond):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -68,8 +68,8 @@
 | **Coherence** | Fragment (III) — Snapped indenture |
 | **Primary Pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–55% |
-| **Difficulty (Fathers Broken Bond)** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Fathers Broken Bond)** | Viderehan and Ferrehan only |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Sector C Indenture Office / Concourse Sump |
 | **Resolution Condition** | The tablet is snapped along its pre-scored fracture seam, obliterating all active debt burdens |
 
@@ -120,7 +120,7 @@ Failure to vent burden pressure causes the tablet to sink into the containment p
 
 ## Behavior
 
-> **Object/Place Work Rule (Fathers Broken Bond):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -185,12 +185,12 @@ The escalation pattern is specific to Father's Broken Bond: it is not a generic 
 | **Primary effect** | Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. |
 | **Duration / rate** | Instantaneous purge; debuff clearance is permanent for current battle. |
 | **Risk** | Moderate (β) Object-Weight producing Weight pressure; The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn). |
-| **Management (Fathers Broken Bond)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Father's Broken Bond):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Fathers Broken Bond):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Sump Diver's Flail

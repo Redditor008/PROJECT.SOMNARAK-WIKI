@@ -36,7 +36,7 @@
 
 ## Gameplay and Core Reference Articles
 
-- [08-Sorrow List](08-Sorrow%20List.md) — complete catalog of all 285 unique SECC codes
+- [08-Sorrow List](08-Sorrow%20List.md) — complete catalog of all 291 unique SECC codes
 - [09-M.A.W. Equipment](09-M.A.W.%20Equipment.md) — weapon, suit, and stigma armory (198 sets, 1,165 profiles)
 - [10-Ordeals](10-Ordeals.md) — sixty hostile incursions across 5 Colors and 4 Watches
 - [11-Reverberations](11-Reverberations.md) — department meltdown crises and stratum realizations
@@ -61,7 +61,7 @@
 ## Navigation Utilities
 
 - [02-Recent Echoes](02-Recent%20Echoes.md) — recent changes, patchnotes, and field logs
-- [03-Random Dossier](03-Random%20Dossier.md) — random draw generator across all 292 containment records
+- [03-Random Dossier](03-Random%20Dossier.md) — random draw generator across all 291 containment records
 - [04-Help](04-Help.md) — reading guide for novices and containment safety standards
 - [42-Navigation](42-Navigation.md) — master directory index
 

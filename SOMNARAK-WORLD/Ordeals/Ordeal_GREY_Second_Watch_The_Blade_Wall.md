@@ -25,7 +25,7 @@ It advances as a single grinding surface, and anything it meets is cut. It never
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Grudge-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Divert rather than confront: the wall cannot climb, so stairwells and raised galleries break its advance. Grudge-element M.A.W. at Second Watch grade is mandatory — the accompanying Blade-Haze (220 HP) punishes clustered melee with a thousand simultaneous cuts. Kill the Iron-Rats first (eight to twelve per pack); they chew through barricade anchors, and without anchors no channel holds.
+The Blade Wall's weakness is geometry, not grade. It advances on the level and fails on the vertical, so the Grudge-element M.A.W. work should be positioned above it wherever the architecture offers a stair or a gallery. Confrontation on open floor is a choice, and an avoidable one. Divert rather than confront: the wall cannot climb, so stairwells and raised galleries break its advance. Grudge-element M.A.W. at Second Watch grade is mandatory — the accompanying Blade-Haze (220 HP) punishes clustered melee with a thousand simultaneous cuts. Kill the Iron-Rats first (eight to twelve per pack); they chew through barricade anchors, and without anchors no channel holds.
 
 ## Facility Impact
 

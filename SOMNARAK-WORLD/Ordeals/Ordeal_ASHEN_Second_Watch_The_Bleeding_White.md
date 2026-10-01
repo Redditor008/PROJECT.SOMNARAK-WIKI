@@ -25,7 +25,7 @@ It spreads over a target, and detail bleeds out one layer at a time. Contact is 
 
 ## Suppression Protocol
 
-Engage with moderate-appropriate teams. Void-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Void-element M.A.W. at Second Watch grade, with pigment crews running behind the line — fresh paint, chalk, dye, anything with colour, because documented colour resists the bleed. Do not let the stain reach the records office; one reached archive shelving and blanked forty years of commendations before it was burned out. The Geometric Void (280 HP) anchors the stain’s oldest patch; collapse it first or the stain re-grows from the anchor within the hour. Divert with colour-breaks, contain with fire.
+The Bleeding White is fought at its margin, never at its middle. Void-element M.A.W. does the suppression; the real work is holding the edge where the white meets the still-coloured world and refusing to let that edge move. Divert where the architecture allows it. Confront only where diversion would cost a corridor. Void-element M.A.W. at Second Watch grade, with pigment crews running behind the line — fresh paint, chalk, dye, anything with colour, because documented colour resists the bleed. Do not let the stain reach the records office; one reached archive shelving and blanked forty years of commendations before it was burned out. The Geometric Void (280 HP) anchors the stain’s oldest patch; collapse it first or the stain re-grows from the anchor within the hour. Divert with colour-breaks, contain with fire.
 
 ## Facility Impact
 

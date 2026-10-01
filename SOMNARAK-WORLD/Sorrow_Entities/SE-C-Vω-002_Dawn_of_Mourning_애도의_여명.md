@@ -22,7 +22,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference (Dawn of Mourning):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -35,7 +35,7 @@
 | **Activation threshold** | Corrupted chain completion (twelfth blessing in sorrow) |
 | **Tool / M.A.W. grade** | — · ω (Catastrophic) |
 | **Vessel-Destructible** | No — ω-grade divine entity |
-| **Han Dust Drop (Vessel Destruction) (Dawn of Mourning)** | — |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Confession Protocol only. The twelfth Mourner must confess. No force-based method works. |
 
 ### Operational Notes
@@ -49,7 +49,7 @@
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Dawn of Mourning):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -190,7 +190,7 @@ Dawn of Mourning operates by rules that no other entity follows. It does not hav
 **Attack Pattern:** AoE
 **Target Coverage:** Room-wide blast; center / inner / outer zones
 **Falloff Rule:** Center 100% → inner zone 70% → outer zone 50%.
-**Damage Application (Dawn of Mourning):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Dual Element Normal + Tick:**
 - **Normal / Primary:** 7–25 Void direct.

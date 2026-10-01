@@ -70,7 +70,7 @@ The Greek letter modifier attached to the risk numeral refines behavioral volati
 
 ## 5 Archival Index Register (001 to 291)
 
-The final three-digit segment denotes the chronological order of registration in the facility master ledger (e.g., `001` through `292`).
+The final three-digit segment denotes the chronological order of registration in the facility master ledger (e.g., `001` through `291`).
 
 ## 6 Ten Concrete Practical Decryption Examples
 

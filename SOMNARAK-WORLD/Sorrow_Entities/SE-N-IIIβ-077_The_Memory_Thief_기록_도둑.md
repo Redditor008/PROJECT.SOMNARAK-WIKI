@@ -7,69 +7,69 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-077 [VS]` |
-| **Entity Type (The Memory Thief)** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) — Curious and sneaky |
 | **Potency** | Moderate (β) — Manageable |
-| **Sorrow Category (The Memory Thief)** | Inner Sorrow (내한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A small, shadowy figure that moves too fast to see directly, with no stable face — only a blur where features should be. Bloodless-cold, it smells of ash; it takes memories as it passes, leaving small gaps the victim never notices. |
-| **Movement (The Memory Thief)** | Stationary — a discrete object. |
+| **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-C-01, Collector's Row — contained |
-| **R.D. Comprehension Level (The Memory Thief)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (The Memory Thief):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure (The Memory Thief)** | Identity / memory pressure |
+| **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (The Memory Thief)** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty (The Memory Thief)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (The Memory Thief)** | ~10 kg–100 kg (β) |
-| **Recommended response (The Memory Thief)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Memory Thief.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIIβ-077]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IIIβ-077]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIIβ-077]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (The Memory Thief):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 1.80 m/s |
 | **Resistance** | 30% against Void pressure; 20% against other pressure types |
-| **Activation threshold (The Memory Thief)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 422/422 |
 | **Han Pressure [ATK]** | 8–20 per hit · Void |
-| **Coherence modifier (The Memory Thief)** | III — affects behavior complexity and response speed |
-| **Potency modifier (The Memory Thief)** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (The Memory Thief):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (The Memory Thief)** | Medium — 16 turns |
+| **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Fragment (III) — Curious and sneaky |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty (The Memory Thief)** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (The Memory Thief)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-C-01, Collector's Row — contained |
 | **Resolution Condition** | Corner and contain it; negotiate the return of memories when possible |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension (The Memory Thief):** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Memory Thief's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Corner and contain it; negotiate the return of memories when possible**.
 
@@ -119,7 +119,7 @@
 |---|---|
 | **Form** | A small, shadowy figure that moves quickly and is difficult to see directly. It has no stable face. |
 | **Position / movement** | Primary Form: A small, shadowy figure that moves quickly and is difficult to see directly. |
-| **Material / signature (The Memory Thief)** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Reaches into a person's mind and removes small memories. Keeps stolen memories in a hidden stash. Flees rather than fights when discovered. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
@@ -129,7 +129,7 @@
 - **Formation:** The Thief formed from the fear of forgetting in a city where memory is currency.
 - **The Sorrow:** Anxiety that a face, name, or cherished moment may disappear without warning.
 - **The Event:** Citizens watched memories become debt, evidence, and trade. Their fear of losing them crystallized into a creature that steals what they fear losing.
-- **The People (The Memory Thief):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** The entity's origin is not a mystery; it is a diagnosis. The sorrow concentrated at SECTOR-C-01, Collector's Row until the Void became structural — load-bearing, permanent, woven into the Subject the way the Weeping is woven into the city. You do not remove it. You contain it.
 
 ## Behavior
@@ -163,18 +163,18 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Movement** | The Memory Thief expands beyond containment like a spreading tide. It steals memories from everyone it passes. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target (The Memory Thief)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type (The Memory Thief):** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority (The Memory Thief):** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach (The Memory Thief):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (The Memory Thief):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Umbral Pepperbox
 
@@ -192,12 +192,12 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule (The Memory Thief):** 100% damage to the selected target only.
-**Damage Application (The Memory Thief):** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% damage to the selected target only.
+**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Memory Thief's void signature in the strike.
 
-**Cost (The Memory Thief):** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — The Shadow Veil
 
@@ -215,7 +215,7 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Memory Thief's kind of pressure.
 
-**Cost (The Memory Thief):** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — The Shadow Cloak
 
@@ -225,7 +225,7 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect (The Memory Thief):** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** Makes the wearer nearly invisible and difficult to remember.
 
@@ -242,9 +242,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use (The Memory Thief)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (The Memory Thief)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (The Memory Thief)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies The Memory Thief as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-C-01, Collector's Row — contained. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Prefers small memories: faces, names, routes, and ordinary moments. - It is curious about memories of people who have already been forgotten. - It may return memories if offered. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (The Memory Thief)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In The Memory Thief's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
@@ -298,7 +298,7 @@ The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIβ-077] |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; The Memory Thief is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Memory Thief withdraws without revelation. |
-| **OBSERVATION SUCCESS (The Memory Thief)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -404,8 +404,8 @@ The morning after a nightingale shift, the relief arrives to birdsong — the ro
 
 - **Classification detail:** The Memory Thief is a Subject with Fragment (III) — Curious and sneaky coherence and Moderate (β) — Manageable potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-C-01, Collector's Row — contained.
-- **Recognition detail (The Memory Thief):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (The Memory Thief):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

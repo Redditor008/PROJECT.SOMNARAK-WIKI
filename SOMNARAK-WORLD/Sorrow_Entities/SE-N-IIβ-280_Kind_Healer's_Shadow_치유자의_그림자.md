@@ -7,69 +7,69 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-280 [LS]` |
-| **Entity Type (Kind Healer's Shadow)** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) — Repeats healing |
 | **Potency** | Moderate (β) |
-| **Sorrow Category (Kind Healer's Shadow)** | Inner Sorrow (내한) |
+| **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A gentle human-shaped shadow with no face, cast by nothing, that follows the wounded and rests beside them. It radiates warmth though it is only dark; salt-damp, it smells of cold rain. It cannot heal — only stay, so the hurt are not alone. |
-| **Movement (Kind Healer's Shadow)** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone D, Mantle Commons — ambient |
-| **R.D. Comprehension Level (Kind Healer's Shadow)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Kind Healer's Shadow):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure (Kind Healer's Shadow)** | Mental / emotional pressure |
+| **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield (Kind Healer's Shadow)** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty (Kind Healer's Shadow)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Kind Healer's Shadow)** | ~10 kg–100 kg (β) |
-| **Recommended response (Kind Healer's Shadow)** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Kind Healer's Shadow.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIβ-280]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IIβ-280]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIβ-280]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Kind Healer's Shadow):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
 | **Resistance** | 25% against Lament pressure; 15% against other pressure types |
-| **Activation threshold (Kind Healer's Shadow)** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Lament |
-| **Coherence modifier (Kind Healer's Shadow)** | II — affects behavior complexity and response speed |
-| **Potency modifier (Kind Healer's Shadow)** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | II — affects behavior complexity and response speed |
+| **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record (Kind Healer's Shadow):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Kind Healer's Shadow)** | Medium — 16 turns |
+| **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — Repeats healing |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty (Kind Healer's Shadow)** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Kind Healer's Shadow)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Mantle Commons — ambient |
 | **Resolution Condition** | Accept its help and acknowledge the healer it carries |
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension (Kind Healer's Shadow):** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Kind Healer’s Shadow's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Accept its help and acknowledge the healer it carries**.
 
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A gentle human-shaped shadow that follows wounded people. It has no face but radiates warmth.
-- **Position / movement (Kind Healer's Shadow):** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Mantle Commons — ambient
 
@@ -115,9 +115,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A gentle human-shaped shadow that follows wounded people. It has no face but radiates warmth. |
-| **Position / movement (Kind Healer's Shadow)** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature (Kind Healer's Shadow)** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers (Kind Healer's Shadow)** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
 **Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
@@ -126,7 +126,7 @@
 - **Formation:** The Shadow formed from compassion left behind by healers who died.
 - **The Sorrow:** The grief of healing others while leaving no one to continue the work.
 - **The Event:** A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded.
-- **The People (Kind Healer's Shadow):** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
 - **Expanded origin context:** The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the entity's effect on nearby Sorrow Entities — gauges rise faster, breaches occur more frequently, containment becomes more difficult. The entity is not hostile. It is simply... heavy. Its sorrow bleeds into everything around it, contaminating the facility's emotional atmosphere.
 
 ## Behavior
@@ -155,18 +155,18 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Movement** | Kind Healer's Shadow expands beyond containment like a spreading tide. It stalks personnel from their own shadows. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target (Kind Healer's Shadow)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation (Kind Healer's Shadow)** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type (Kind Healer's Shadow):** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority (Kind Healer's Shadow):** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach (Kind Healer's Shadow):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Kind Healer's Shadow):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Surgeon's Cleaver
 
@@ -184,7 +184,7 @@ The three-edged blade is etched with micro-capillary fullers that siphon condens
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Kind Healer's Shadow's lament signature in the strike.
 
-**Cost (Kind Healer's Shadow):** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Healer's Shroud
 
@@ -198,7 +198,7 @@ The mirror-polished blade reflects no ambient distortion, remaining clinically s
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Kind Healer's Shadow's kind of pressure.
 
-**Cost (Kind Healer's Shadow):** The wearer becomes numb to minor joys.
+**Cost:** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Healer's Echo
 
@@ -208,7 +208,7 @@ The mirror-polished blade reflects no ambient distortion, remaining clinically s
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect (Kind Healer's Shadow):** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** Causes minor wounds to close over time.
 
@@ -225,9 +225,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Stage | Required record |
 |---|---|
 | **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use (Kind Healer's Shadow)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Kind Healer's Shadow)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Kind Healer's Shadow)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 
@@ -248,8 +248,8 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Kind Healer's Shadow as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Mantle Commons — ambient. |
-| **Sustained observation (Kind Healer's Shadow)** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation (Kind Healer's Shadow)** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Kind Healer's Shadow's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
@@ -279,7 +279,7 @@ The entity's presence changes the air — making it heavier, colder, more satura
 | Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIβ-280] |
 |---|---|
 | Moves closer and shares the burden. The sorrow is witnessed; Kind Healer's Shadow is fully recorded. | Retreats from aggression. The gauge climbs and Kind Healer's Shadow withdraws without revelation. |
-| **OBSERVATION SUCCESS (Kind Healer's Shadow)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -353,7 +353,7 @@ Some sorrows mourn the healer. Kind Healer's Shadow mourns the continuation — 
 **Observation Notes:**
 - A healer died in a Han overflow; her compassion remained as a shadow.
 **Cross-References:** Zone B · The Kind Healer · The Frozen Shadow
-**Faction Involvement (Kind Healer's Shadow):** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** An unnamed healer of Zone B.
 
 ### Registry Addendum
@@ -385,8 +385,8 @@ Watch commanders receive the spare keys with ceremony — the sealed packet, the
 
 - **Classification detail:** Kind Healer's Shadow is a Subject with Echo (II) — Repeats healing coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone D, Mantle Commons — ambient.
-- **Recognition detail (Kind Healer's Shadow):** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail (Kind Healer's Shadow):** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

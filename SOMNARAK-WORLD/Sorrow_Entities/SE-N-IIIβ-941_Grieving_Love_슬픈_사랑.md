@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-941 [LS]` |
-| **Entity Type (Grieving Love)** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) — Reaches for the comfort she could never give |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한 — Naehan) |
@@ -16,11 +16,11 @@
 | **Physical Form** | Mixed — A 1.3 m figure whose upper body is a smooth, translucent blue humanoid torso with the soft, unfinished features of a grieving woman, resolving at the waist into a gelatinous, trembling mass of concentrated Han slime. Her surface is cool to the touch and faintly luminous, as though sorrow were lit from inside her. She has no legs; the slime below is her. |
 | **Movement** | Mobile — she drifts and glides on her slime lower body, slow and wobbling, like a mourner wading through her own grief. |
 | **Location** | SECTOR-D-03, Zone D — the Drowned Apothecary |
-| **R.D. Comprehension Level (Grieving Love)** | 2 — Basic |
+| **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
 
-> **Mechanics Reference (Grieving Love):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -28,25 +28,25 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Composure |
 | **Starting Sorrow Gauge** | 50–70% |
-| **Han-Energy yield (Grieving Love)** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty (Grieving Love)** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Sorrow Gauge ≥ 70%, or when offered comfort and then refused |
 | **Tool / M.A.W. grade** | β |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (Grieving Love)** | ~10 kg–100 kg (β) |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Flerehan (comfort/empathy) is the primary Work Type; as a Subject she may use all four. Never reject an offered embrace abruptly — refusal spikes the Gauge and triggers envelopment. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Grieving Love.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-N-IIIβ-941]
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment. [SE-N-IIIβ-941]
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-N-IIIβ-941]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (Grieving Love):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -55,20 +55,20 @@
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
 | **Sorrow Gauge [HP]** | 540/540 |
 | **Han Pressure [ATK]** | 9–20 per hit · Lament |
-| **Coherence modifier (Grieving Love)** | III — affects behavior complexity and response speed |
-| **Potency modifier (Grieving Love)** | β — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
-> **R.D. Operational Record (Grieving Love):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length (Grieving Love)** | Medium — 16 turns |
+| **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Fragment (III) — Reaches for the comfort she could never give |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 50–70% |
-| **Difficulty (Grieving Love)** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types (Grieving Love)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-03, Zone D — the Drowned Apothecary |
 | **Resolution Condition** | Do not flee her embrace — sit with her grief until she lets go of her own accord |
 
@@ -179,7 +179,7 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Grieving Love):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Comforting Coil
 
@@ -223,7 +223,7 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 **Slot:** Neck
 **Acquisition Probability:** 5%
-**Effect (Grieving Love):** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** A single suspended tear of grief-slime that grows warm in the presence of unspoken sorrow, warning the bearer when someone near them is grieving in silence.
 
@@ -239,10 +239,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (Grieving Love)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use (Grieving Love)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Grieving Love)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Grieving Love)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Comforting Coil performs reliably yet can leave the wielder hollowed by old, unsourced grief for days.
 
@@ -295,7 +295,7 @@ We found it in the floor of the apothecary, beneath where the vat stood. A small
 | Stay — let her lean on you, and do not pull away. | Step back — keep your distance and end the work. |
 |---|---|
 | You hold still through the cold and the longing. She weeps against you, and for the first time since the fall, someone does not leave. The bright pulse in her chest slows to rest. The name she murmurs becomes audible — *Haneul* — and you understand the whole of her. Grieving Love is fully recorded. | You withdraw. Her open hand closes slowly into the pull of *The Keeping*. The Gauge surges; the room floods with the unfinished cure. She has been left again, and the leaving is the wound that made her. Grieving Love withdraws into herself, unrevealed. |
-| **OBSERVATION SUCCESS (Grieving Love)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 

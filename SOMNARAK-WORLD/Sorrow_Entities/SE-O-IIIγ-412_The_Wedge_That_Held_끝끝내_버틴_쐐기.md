@@ -11,43 +11,43 @@
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Fragment (III) — Jagged, furious resolve |
 | **Potency** | Major (γ) |
-| **Sorrow Category (The Wedge That Held)** | Outside Sorrow (외한) |
+| **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A seventeen-inch four-sided railway wedge hand-beaten from porous volcanic black iron, reclaimed from the lower basalt drainage culvert of Old Cheonbulok. Wrapped tightly in fraying hemp work-rags soaked in machine grease and human sweat, the wedge radiates fever-dry heat. Along its beaten flats, eighteen distinct apprentice serial codes are carved into the iron with a cold chisel. Grudge Han-veins throb within the metal like boiling arteries. |
-| **Movement (The Wedge That Held)** | Stationary — a discrete object. |
+| **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-O-04, Outer Bastion Arsenal — contained |
-| **R.D. Comprehension Level (The Wedge That Held)** | 3 — Advanced |
+| **R.D. Comprehension Level** | 3 — Advanced |
 
 ## Operational Parameters
 
-> **Mechanics Reference (The Wedge That Held):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure (The Wedge That Held)** | Physical / structural pressure |
+| **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 40–60% |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Single-use impact trigger — consumed upon activation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · γ (Major) |
 | **Vessel-Destructible** | Yes — shatters into slag upon single use |
-| **Han Dust Drop (Vessel Destruction) (The Wedge That Held)** | ~100 kg–1 ton (γ) |
+| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Contain with Viderehan and Ferrehan; deploy as A-Relic against high-armor boss carapaces. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Wedge That Held.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior. [SE-O-IIIγ-412]
+- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
 - M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (The Wedge That Held):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -63,13 +63,13 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length (The Wedge That Held)** | Medium — 16 turns |
+| **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Offensive Consumable / Breaching Instrument |
 | **Coherence** | Fragment (III) — Jagged, furious resolve |
 | **Primary Pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 40–60% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types (The Wedge That Held)** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Cheonbulok Border Outpost / Zone C Forge |
 | **Resolution Condition** | The wedge is driven into bedrock or target carapace, releasing its tectonic fury |
 
@@ -120,7 +120,7 @@ Premature detonation vents an uncontained magma shockwave across the armory, des
 
 ## Behavior
 
-> **Object/Place Work Rule (The Wedge That Held):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -174,7 +174,7 @@ Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the 
 
 The escalation pattern is specific to The Wedge That Held: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-O-04, Outer Bastion Arsenal — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence (The Wedge That Held):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
@@ -185,12 +185,12 @@ The escalation pattern is specific to The Wedge That Held: it is not a generic b
 | **Primary effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
 | **Duration / rate** | Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter. |
 | **Risk** | Major (γ) Object-Grudge producing Grudge pressure; The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
-| **Management (The Wedge That Held)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order (The Wedge That Held):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (The Wedge That Held):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Retaining Maul
@@ -258,7 +258,7 @@ The M.A.W. extracted from this relic carries Kang Il-Joo's absolute refusal to y
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level (The Wedge That Held):** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced
 
 - The iron wedge maintains an internal core temperature of 115°C without external heat source.
 - Seismic sensors record eighteen distinct micro-vibrations every minute from the plinth.

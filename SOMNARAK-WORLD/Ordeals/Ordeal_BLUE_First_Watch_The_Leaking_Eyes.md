@@ -25,7 +25,7 @@ It weeps, and the salt-burn of its tears eats at the composure of all nearby. Pr
 
 ## Suppression Protocol
 
-Engage with minor-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Goggles and grief leave together: Lament-element M.A.W. at First Watch grade, Level 2+ personnel, with sealed eyewear mandatory — unprotected eyes start leaking within the hour and do not stop for days. Suppress before it spreads; the cluster seeds daughter eyes down every wet streak, and each daughter weeps independently. Cauterize the membrane with dry Han after the eyes close, or the backlog re-gathers by next watch.
+Grief is the vector and the eyes are the door. Lament-element M.A.W. at First Watch grade will close a Leaking Eyes incident quickly, provided the responders' own eyes stay sealed — the manifestation does not fight, it recruits, and it recruits through the unprotected look. Goggles and grief leave together: Lament-element M.A.W. at First Watch grade, Level 2+ personnel, with sealed eyewear mandatory — unprotected eyes start leaking within the hour and do not stop for days. Suppress before it spreads; the cluster seeds daughter eyes down every wet streak, and each daughter weeps independently. Cauterize the membrane with dry Han after the eyes close, or the backlog re-gathers by next watch.
 
 ## Facility Impact
 

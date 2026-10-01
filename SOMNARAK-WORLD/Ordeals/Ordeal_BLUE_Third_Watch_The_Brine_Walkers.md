@@ -25,7 +25,7 @@ They reach, and the cold grip of drowned grief drags the mind beneath. The Walke
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Lament-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Do not block the column: two blocked processions turned aside through walls and took the walls’ occupants with them. Bleed the route instead — Lament-element M.A.W. at Third Watch grade, drainage crews forward, and the Waterlogged (380 HP, 30–50 per hit) engaged at range before they can anchor the column’s flanks. The Weeping Leviathan (350 HP) breaches where the bilge pools deepest; keep the pools pumped and it stays theoretical.
+A procession cannot be stopped, only routed. Lament-element M.A.W. at Third Watch grade is the suppression tool; the route is the real weapon, and every responder must understand before contact that blocking the column is the one prohibited action in this file. Do not block the column: two blocked processions turned aside through walls and took the walls’ occupants with them. Bleed the route instead — Lament-element M.A.W. at Third Watch grade, drainage crews forward, and the Waterlogged (380 HP, 30–50 per hit) engaged at range before they can anchor the column’s flanks. The Weeping Leviathan (350 HP) breaches where the bilge pools deepest; keep the pools pumped and it stays theoretical.
 
 ## Facility Impact
 

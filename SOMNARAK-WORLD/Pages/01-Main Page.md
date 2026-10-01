@@ -39,7 +39,7 @@ The Somnarak archive is organized across **Three Main Hubs** and **Two Sub Porta
 
 ### 1.1 The 3 Main Ways
 
-- **[07-Sorrow Entities](07-Sorrow%20Entities.md)**: The Master Bestiary hub. Contains all thirteen canonical sections documenting the nature, behavior, origins, Lumen extraction, M.A.W. gear, and classification of all 292 crystallized sorrows.
+- **[07-Sorrow Entities](07-Sorrow%20Entities.md)**: The Master Bestiary hub. Contains all thirteen canonical sections documenting the nature, behavior, origins, Lumen extraction, M.A.W. gear, and classification of all 291 crystallized sorrows.
 - **[05-Chronicle](05-Chronicle.md)**: The Story and Lore hub. Documents the master historical timeline spanning Ante-Dawn expeditions, the 1,778 cycles of the Reverie Directorate, the Dawn of Hope (Year 4,238), and the six Story Cantos.
 - **[01-Main Page](01-Main%20Page.md)**: The Central Grand Portal and directory navigation index.
 
@@ -92,7 +92,7 @@ Somnarak fields nine operational departments across eight descending levels plus
 
 ## 4 Gameplay and Tactical Systems
 
-- **[08-Sorrow List](08-Sorrow%20List.md)** — complete catalog of all 285 unique SECC codes
+- **[08-Sorrow List](08-Sorrow%20List.md)** — complete catalog of all 291 unique SECC codes
 - **[09-M.A.W. Equipment](09-M.A.W.%20Equipment.md)** — weapon, suit, and stigma armory (198 sets, 1,165 profiles)
 - **[10-Ordeals](10-Ordeals.md)** — sixty hostile incursions across 5 Colors and 4 Watches
 - **[11-Reverberations](11-Reverberations.md)** — departmental meltdown crises and floor realization trials

@@ -21,7 +21,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference (Foam Flood):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -42,7 +42,7 @@
 - A successful Viderehan or Ferrehan work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
 - Gauge increases, failed work, or an ignored activation condition can trigger the recorded activation or expansion behavior.
 - The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter management.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work. [SE-C-IIIγ-948]
+- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
@@ -56,10 +56,10 @@
 | **Activation threshold** | A hand laid upon the carving (or bare skin within the field) |
 | **Sorrow Gauge [HP]** | 600/600 |
 | **Han Pressure [ATK]** | 12–24 per hit · Lament |
-| **Coherence modifier (Foam Flood)** | III — affects behavior complexity and response speed |
-| **Potency modifier (Foam Flood)** | γ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
-> **R.D. Operational Record (Foam Flood):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 50–70% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Monitored |
-| **Valid Work Types (Foam Flood)** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |
 | **Resolution Condition** | Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim |
 
@@ -137,7 +137,7 @@
 
 ## Behavior
 
-> **Object/Place Work Rule (Foam Flood):** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
@@ -204,12 +204,12 @@ The escalation pattern is specific to The Foam Flood: it is not a generic breach
 | **Primary effect** | The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. |
 | **Duration / rate** | Until the hand is removed and the eyes dim. |
 | **Risk** | Major (γ) Object-Spirit producing Lament pressure; Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. |
-| **Management (Foam Flood)** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (The Foam Flood (양룡)):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (Foam Flood):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Skyward Spear
 
@@ -250,7 +250,7 @@ The escalation pattern is specific to The Foam Flood: it is not a generic breach
 **Appearance:** A small cabochon of white stone that glows a soft, steady white, the size of a dragon's eye; it brightens when the bearer looks upward, and dims when they are fully grounded.
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect (Foam Flood):** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus when working the source entity
 
 **Ability:** An eye-stone that flares warm in the presence of a deep, unspoken longing — warning the bearer of wishes too large to be granted safely.
 
@@ -266,10 +266,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use (Foam Flood)** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use (Foam Flood)** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit (Foam Flood)** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use (Foam Flood)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Skyward Spear strikes cleanly yet can leave the wielder aching for the sky for days, glancing upward at nothing.
 
@@ -322,7 +322,7 @@ Management: Do not touch — name the sky it cannot reach aloud, and let the eye
 | Name the sky it cannot reach aloud — and let the glowing eyes dim. | Lay a bare hand on the stone, and let it share the whole of its longing. |
 |---|---|
 | You speak the one truth the carving has held for as long as it has stood: *you were made for the sky, and you will never reach it.* The eyes flare once, bright as an open sky — and then, gently, dim. The longing-field stills. The dust settles. You understand what you are permitted to — that this is a thing made for flight that will never fly, and that the wanting is the whole of it. The Foam Flood is fully recorded. | You lay your hand on the stone. The sky rushes in. You fly — you fly — and then you are on the floor, and you are weeping, and you will look up for the rest of your life. The carving's eyes brighten a shade further. The encounter ends with the field a little wider, and you a little less grounded. |
-| **OBSERVATION SUCCESS (Foam Flood)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 

@@ -14,15 +14,15 @@
 | **Element** | Mixed — Light, Warmth, Spark, Flame, and Grudge expressions |
 | **Manifestation** | Hybrid `[H]` — Subject-Body / Subject-Spirit composite |
 | **Physical Form** | Mixed — A two-meter magical-girl doll with a humanoid body, cat ears on both sides of the head, and a long cat tail — the body visibly artificial, jointed, painted in pinks and golds over a core of two souls (the body MIMI, the soul MadMew). Warm and bright against the grey, it smells of nothing sorrowful at all. |
-| **Movement (The Mewgical Girl)** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | Zone B — mobile; last observed near the Maw perimeter |
-| **R.D. Comprehension Level (The Mewgical Girl)** | 1 — Initial |
+| **R.D. Comprehension Level** | 1 — Initial |
 
 > **Registry note:** Unknown Sorrow Entity registry, Entry 05. Post-Absolvohan. A wish-born entity: the collective cry *"someone save us"* given a body (Mimi) and bonded to a protective spirit (Shu Shu) that did not agree to share it.
 
 ## Operational Parameters
 
-> **Mechanics Reference (The Mewgical Girl):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -30,12 +30,12 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Clarity, Resilience, and Composure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield (The Mewgical Girl)** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Sorrow Gauge ≥ 75% or forced persona conflict |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (The Mewgical Girl)** | ~1–10 tons (δ) |
+| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Address Mimi and Shu Shu separately, then use the Work Type that matches the active persona without forcing separation. |
 
 ### Operational Notes
@@ -48,7 +48,7 @@
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters (The Mewgical Girl):** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
@@ -57,10 +57,10 @@
 | **Activation threshold** | Sorrow Gauge ≥ 75% or three control conflicts |
 | **Sorrow Gauge [HP]** | 837/837 |
 | **Han Pressure [ATK]** | 27–59 per hit · Grudge |
-| **Coherence modifier (The Mewgical Girl)** | IV — affects behavior complexity and response speed |
-| **Potency modifier (The Mewgical Girl)** | δ — affects pressure, durability, and escalation severity |
+| **Coherence modifier** | IV — affects behavior complexity and response speed |
+| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
-> **R.D. Operational Record (The Mewgical Girl):** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types (The Mewgical Girl)** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B — mobile; last observed near the Maw perimeter |
 | **Resolution Condition** | Acknowledge both identities without forcing separation |
 
@@ -190,18 +190,18 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 | **Movement** | The Mewgical Girl shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target (The Mewgical Girl)** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type (The Mewgical Girl):** Escape — the entity physically escapes and roams the facility.
-- **Containment priority (The Mewgical Girl):** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach (The Mewgical Girl):** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (The Mewgical Girl):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
 ### M.A.W. Weapon — The Star-Staff of Mewgical Affection
 
@@ -240,13 +240,13 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 | **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; Mimi/Shu Shu control state, equipment color. |
 | **During use** | Activation time, voice overlap, charge time, beam color, bomb count, healing output. |
 | **At limit** | Duration, persona conflict, self-hit, Cartoon Soot, staff instability. |
-| **After use (The Mewgical Girl)** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. The Star-Staff's support rating is high, but its instability makes it the most psychologically demanding δ-grade focus on record.
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level (The Mewgical Girl):** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
 - Mimi is the body-primary persona; Shu Shu is the soul/spirit persona.
@@ -294,7 +294,7 @@ This entity is the city's wish — "someone save us" — given a body and bonded
 | Address both voices — speak to Mimi and Shu Shu together. | Force a single identity — demand Mimi or Shu Shu alone. |
 |---|---|
 | The two voices answer in turn, then together. The staff steadies between pink and blue; the body-soul bond is witnessed, and the entity is recorded as two who chose to remain one. | The suppressed voice screams through the staff; bombs and beam discharge at once. The body collapses in Cartoon Soot, and the observation ends without revelation. |
-| **OBSERVATION SUCCESS (The Mewgical Girl)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 

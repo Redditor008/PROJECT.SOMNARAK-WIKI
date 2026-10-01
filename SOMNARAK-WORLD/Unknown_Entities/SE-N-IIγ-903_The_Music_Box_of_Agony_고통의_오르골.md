@@ -23,7 +23,7 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference (The Music Box of Agony):** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
 
 | Statistic | Value |
 |---|---|
@@ -35,7 +35,7 @@
 | **Activation threshold** | The lid is opened, or the lullaby is listened to beyond one full recitation |
 | **Tool / M.A.W. grade** | O-Relic · γ |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction) (The Music Box of Agony)** | ~100 kg–1 ton (γ) |
+| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 
 ## Combat Record
 
@@ -129,7 +129,7 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.) (The Music Box of Agony):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. Extraction is permitted under Archive Lead supervision; each piece carries the lullaby's vanishing.
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. Extraction is permitted under Archive Lead supervision; each piece carries the lullaby's vanishing.
 
 ### M.A.W. Weapon — The Agony Chord
 
@@ -223,7 +223,7 @@ The lullaby is the entity. The box is only the instrument. The song describes it
 | Endure the full lullaby under Ferrehan — then speak your own name at the close. | Let the song carry you — listen past the third recitation. |
 |---|---|
 | You sit through every verse, the carousel turning around you, and at the last line you say your name aloud. The cycle breaks; the lid falls shut of its own accord; the figurine rests. The lullaby is recorded, unchanged. | You stop trying to remember. The song becomes your only thought. By the third recitation you are translucent, silent, seated — and the figurine turns a little faster, as if making room. |
-| **OBSERVATION SUCCESS (The Music Box of Agony)** | **OBSERVATION FAIL** |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
@@ -365,7 +365,7 @@ If I opened up my eyes there'd be no more going back
 - Figurine turns only while the lid is open; weeps audibly if closed mid-song.
 - The faded occupant found with the box remains in the vault — translucent, silent, seated.
 **Cross-References:** The Frozen Tear · The Repeated Survivor (the carousel) · the Echo Gardens · The Hollow Choir (harmonic hazard) · the Void element · the lullaby
-**Faction Involvement (The Music Box of Agony):** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** Uncertain — a maker unknown, for a sufferer who faded; the lullaby is the sorrow that remains.
 
 ### Registry Addendum

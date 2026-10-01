@@ -56,7 +56,7 @@ Authentic dossier articles demonstrating the primary operational archetypes cata
 
 ## 4 Gameplay Systems and Technical Registers
 
-- **[08-Sorrow List](08-Sorrow%20List.md)** — complete index of all 285 unique SECC classification codes
+- **[08-Sorrow List](08-Sorrow%20List.md)** — complete index of all 291 unique SECC classification codes
 - **[09-M.A.W. Equipment](09-M.A.W.%20Equipment.md)** — crystallized weapon, suit, and stigma armory (198 sets, 1,165 profiles)
 - **[10-Ordeals](10-Ordeals.md)** — sixty hostile incursions across 5 Colors and 4 Watches
 - **[11-Reverberations](11-Reverberations.md)** — department meltdown crises and stratum realizations

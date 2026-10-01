@@ -25,7 +25,7 @@ It thrusts up without warning, driving floors and ceilings together around it. N
 
 ## Suppression Protocol
 
-Engage with major-appropriate teams. Weight-element M.A.W. recommended. Suppress the manifestation before it spreads; divert or contain rather than confront directly where possible. Weight-element M.A.W. at Third Watch grade, with demolition crews forward — the only reliable suppression is counter-demolition, cutting the pillar’s buried foundations faster than it can thrust. Divert is impossible; contain means evacuating the column above and below it for three floors in each direction. The Living Avalanche at Elite grade (410 HP) circles the eruption zone eating the rubble; engage it at range or it will bury the demolition teams in their own work. Never brace the pillar — two braced pillars simply lifted the bracing into the ceiling.
+There is no diverting a Buried Pillar and no containing one. Weight-element M.A.W. at Third Watch grade supports what is fundamentally an engineering operation: the pillar is beaten underneath, by demolition, faster than it can thrust — or it is not beaten. Weight-element M.A.W. at Third Watch grade, with demolition crews forward — the only reliable suppression is counter-demolition, cutting the pillar’s buried foundations faster than it can thrust. Divert is impossible; contain means evacuating the column above and below it for three floors in each direction. The Living Avalanche at Elite grade (410 HP) circles the eruption zone eating the rubble; engage it at range or it will bury the demolition teams in their own work. Never brace the pillar — two braced pillars simply lifted the bracing into the ceiling.
 
 ## Facility Impact
 
