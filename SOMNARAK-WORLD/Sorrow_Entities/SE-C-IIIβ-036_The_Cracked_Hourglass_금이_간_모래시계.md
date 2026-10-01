@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Cracked Hourglass.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Sand runs in the Hourglass whether or not it is turned, and the crack has never widened.
+- A completed cycle slows the fall. It has never stopped it, and the glass does not reset between shifts.
+- Observation and endurance are the only valid approaches to the object; Viderehan and Ferrehan are both logged as effective.
+- Weight pressure accumulates in personnel faster than the gauge reflects. Watch posture and gait rather than the needle.
+- Husk residue is the extraction source, and recovery is authorized separately from routine work.
 
 ## Combat Record
 ### Core Stat Line

@@ -39,10 +39,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Fathers Broken Bond.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- Operatives assigned to Ferrehan must hold clean financial records. Outstanding municipal debt triples the tablet's mass within ten seconds, threatening spinal trauma.
+- Work with the tablet settles the squad's accumulated burden for a time. It does not mend the bond, and the relic is not altered by a successful cycle.
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
-- M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.
+- M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallisation.
 
 ## Combat Record
 ### Core Stat Line

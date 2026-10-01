@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Echo Compass.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Compass does not indicate direction. It indicates the direction a person most wants to go, which is why it is kept sealed between sessions.
+- A successful cycle quiets the needle for a shift. The entity is unchanged by this, and the next operative will see their own heading.
+- Only Viderehan and Ferrehan apply. Attempts to work the object by other means have produced no recorded effect on the reading.
+- Record the distance at which the needle first responds. That distance has drifted outward across sessions and is the primary escalation signal.
+- The implement continues to point after it leaves the chamber; treat extraction as its own exposure.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Observing Bird.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Observing Bird watches the door rather than the operative. Its attention is the quantity being measured.
+- A good cycle settles it onto the perch. It does not change what the bird is waiting for.
+- The margin is two conditions, and this one gives no vocal warning, unlike the others of its kind.
+- Lament pressure rises when the bird looks away, not while it stares. Log the moment attention breaks.
+- Recovery of the implement is separate from work and requires its own authorization.
 
 ## Combat Record
 ### Core Stat Line

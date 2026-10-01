@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Debt Scale.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Scale carries no breach counter because it does not breach. It expands, weighing an ever-wider circle of the district against itself.
+- Work settles the pans. It does not empty them, and nothing on record has changed what the Scale believes it is measuring.
+- Viderehan and Ferrehan are the only valid approaches. Observation and endurance both leave the pans level, which is the intended outcome.
+- Mark the boundary where resonance stabilises physically at every session; the expansion radius is the only reliable warning this entity gives.
+- Han-Energy drawn from the Scale carries the same identity pressure as direct contact. Rotate extraction crews.
 
 ## Combat Record
 ### Core Stat Line

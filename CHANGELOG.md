@@ -27,6 +27,16 @@ This file records notable changes to the public Somnarak Wiki.
   These are fixed template structure, in the same category as table labels, and were left in
   place rather than reworded into false variety.
 
+- **Correction — the V5-14 length-ladder medians below are stale.** That entry reports medians of
+  Rank I 4,872 / II 5,022 / III 5,270 / IV 5,534 / V 7,042. Those counts were taken while the
+  `(Entity Name)` label decorations and `[SE-code]` tags were still in the files, so every figure
+  was inflated by text that has since been reverted. Re-measured on the current tree the medians
+  are **Rank I 4,730 / II 5,019 / III 5,166 / IV 5,471 / V 6,967**. The ladder still climbs
+  monotonically by rank, which was the actual requirement; only the numbers were overstated.
+- **Rank V is described as "about 7,000 words", not "7,000+".** Three of the thirteen Sovereign
+  chronicles exceed 7,000 words and the rest sit between 6,908 and 6,982. They are complete
+  records, and they will not be padded with filler to cross a round number.
+
 ### Added
 - **V6 integrity round (decoration revert, bespoke records, label lint)** —
   - V6-1: reverted all appended `[SE-code]` tags and own-name label parentheticals, including

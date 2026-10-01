@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Debt Eater.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Debt Eater consumes the record of what is owed; personnel leave the chamber certain they have settled something and unable to name it.
+- Gauge recovery is deceptive here. Because the entity feeds on obligation rather than grief, a cycle that lowers the needle can still have taken a memory of debt from the operative who ran it.
+- Three ignored activation conditions have been enough to open the chamber. The counter is not advisory; log every missed condition in the shift it occurs.
+- The yield sits in the middle band and the Void expression makes it tempting. Specialists who extract repeatedly report gaps in their own financial memory.
+- Recovery of the implement is a second exposure, not a bonus attached to a clean shift.
 
 ## Combat Record
 ### Core Stat Line

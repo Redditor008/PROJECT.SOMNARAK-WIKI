@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Guarding Bird.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Guarding Bird stands between personnel and the other two of its kind, and work does not move it.
+- Cycles reduce pressure without changing the posture. It has held the same position in every logged session.
+- The Void expression erodes an operative's sense of who is being guarded; rotate crews before a third consecutive cycle.
+- The margin is two conditions, and when it breaks the bird steps aside rather than attacking.
+- Extraction is authorized separately and is never a reward for a clean shift.
 
 ## Combat Record
 ### Core Stat Line

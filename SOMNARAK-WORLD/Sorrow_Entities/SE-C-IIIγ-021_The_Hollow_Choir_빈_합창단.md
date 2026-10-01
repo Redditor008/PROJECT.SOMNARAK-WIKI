@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Hollow Choir.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Choir sings with the voices of personnel who have worked it, and it adds a voice after each failure.
+- Lowering the gauge quiets the chamber for a shift. No recorded cycle has reduced the number of voices.
+- Two missed conditions open the chamber. The margin is thin, and the warning is auditory rather than instrumental.
+- Emotional pressure is the hazard, not the volume. An operative who recognises a voice must be withdrawn from the rotation immediately.
+- Extraction carries the same recognition hazard as contact and is run as a separate event.
 
 ## Combat Record
 ### Core Stat Line
