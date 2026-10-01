@@ -45,6 +45,22 @@ years.
 
 > **Dekan:** _"...Understood, Director. It is an honor."_
 
+### Narrative Interlude — Day Three-Fifty
+
+Day 350 dawned on a facility counting down — fifteen days left in the loop, fifteen mornings between the Absolvohan and the real year. The countdown board in Central Command showed the number the way countdown boards show everything: plainly, without ceremony, 15 in chalk that the night shift refreshed before dawn. The staff arriving for the final-days briefings passed the board the way crews pass memorials — glancing, counting silently, doing the arithmetic of endings. Fifteen days. They had stood 1,777 loops to reach these fifteen days. The briefings that morning ran longer than scheduled, because no briefing officer wanted to be the one who dismissed the roster into the beginning of the end. The Director dismissed them personally, with the final-days formula: stand the fifteen. Two words of order. The roster answered: standing. And the last fifteen days began.
+
+#### The Last Briefing
+
+The Day 350 morning briefing covered the dissolution forecast — the doctrine's prediction of how the loop would unwind, day by day, across the final fifteen. Outer windings first: the redundant mornings, the rehearsed crises, peeling away through Day 360. Then the suspension: the loop's grip and the real year's pull balanced, the facility hung between rehearsal and reality. Then the final unwinding: integrity falling to zero, reality arriving all at once. The briefing officer delivered the forecast the way officers deliver weather: factually, without comfort, with the implied suffix every roster understands — prepare accordingly. The roster prepared the way rosters prepare for forecasted storms: checking precautions, steadying rotations, holding the center. The forecast had stood across 1,777 cycles untested. It would be tested once. The briefing closed with the countdown: fifteen days. The roster dispersed. The unwinding began on schedule, exactly as forecast — the outer windings loosening before the briefing room emptied.
+
+#### The Countdown Board
+
+The countdown board had stood in Central Command since Day 1 — chalk on slate, wiped and rewritten every dawn, counting down across the cycle's length. The night shift owned the board: the darkest hour's duty, the chalk's stroke, the number refreshed before the day shift arrived. Veterans of previous cycles remembered every board they had ever kept — 1,777 countdowns, each one ending in aftermath. This board was different. The night shift chalked the difference into the margins: not just the number but the annotation, final loop in the corner, renewed every dawn. The day shift arriving that morning stood before the board longer than usual — reading the number, reading the margin, reading the end they had counted toward 1,777 times. Fifteen days. Final loop. The chalk held. The roster held harder. And the board counted down toward the morning it would read zero — the morning after the loop, the first dawn of the real year.
+
+#### The Veterans' Silence
+
+The oldest hands said the least on Day 350 — the veterans of all 1,777 cycles, standing the final fifteen with the particular silence of personnel who have counted down before. They did not speak of hope. They did not speak of endings. They stood their posts, logged their readings, and held the center the way they had held it 1,777 times — with the professionalism of the oft-rehearsed and the attention of the never-before. Newer personnel watched the veterans the way civilians watch the steady in storms: for cues, for comfort, for proof the ending is survivable. The veterans gave them nothing but example — steady hands, clear logs, the full doctrine practiced at the edge of the end. What the veterans knew, and did not say, was the arithmetic: 1,777 loops survived, fifteen days remaining, the real year arriving. They had stood everything the loop contained. They would stand the fifteen. The silence held. The roster held. And Day 350 turned toward the days after — the unwinding underway, the veterans silent and the facility standing — the way endings turn toward arrivals: inevitably, and witnessed.
+
 ### Day Narrative — Operational Shift Log
 
 On Day 350, the official nomenclature of the Reverie Directorate is permanently revised. By executive decree of Director
