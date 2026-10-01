@@ -2546,3 +2546,18 @@ silence, staring at the Director's uniform:
 
 > _"Day 73. The envoy spoke four words through the intercom: 'The furnace is dying.' They did not come to conquer us. They came because their fire is going cold, and they felt our heat from fifty kilometers away. For 1,777 cycles, we hid inside our walls. But now the walls are leaking hope. Hydraulic ballast stands at 51.505 tons. Tomorrow, we open the door."_
 
+### Narrative Interlude — The Vault Weeks
+
+The deep vault is the facility's oldest grief, and the vault weeks are when the facility goes down to visit it. Days 53 through 73 of every cycle open the lower levels for the scheduled inspections — the seals checked, the ballast sounded, the cold holdings confirmed in their cold. Vault duty is volunteered, never assigned. The Directorate learned that rule early, and has never revisited it. Personnel who go down come back changed in small ways the counselors catalog and the rosters accommodate: quieter for a week, heavier in the shoulders, more careful with the living.
+
+#### What the Leaks Mean
+
+Leaks in the deep vault are not failures of engineering. They are the vault telling the facility something, and the vault weeks exist to listen. A seal weeping at the margin means pressure the ballast cannot hold; a reading drifting in the cold means a holding growing restless. The leak doctrine is accordingly diagnostic before it is corrective: find what the leak says, then stop the leak. Crews who reverse the order have stopped leaks and lost vaults, and the archive preserves those cases as the doctrine's hardest lessons. The leaks of Cycle 1,778 said what leaks have said in every cycle approaching the middle: the pressure is rising and the cold is not enough. The crews listened, logged, and sealed. The vault held. But the message was carried up to Central Command intact, because the doctrine's first rule about the deep vault is that it is never lied to and never lied about.
+
+#### The External Contact
+
+Contact from outside arrives during the vault weeks because that is when the facility is most audible — the lower levels open, the seals worked, the whole structure resonating at frequencies the outside can hear. The contact protocol governs every exchange: receive, log, verify, and never answer alone. Contact officers work in threes, a practice descended from incidents the archive records and the training cohorts study. What the outside says during contact weeks varies by cycle. What it wants does not: in, or out, or acknowledgment. The Directorate's standing answer across 1,777 cycles has been the same three words, logged every time: witnessed, not admitted. Cycle 1,778's contacts were received, logged, verified, and answered with the standing formula. The outside withdrew on schedule. The facility closed the lower levels on Day 73, sealed, sounded, and intact.
+
+#### Coming Up
+
+Vault crews come up in the prescribed sequence — slowly, in stages, with rest periods the medical staff enforce absolutely. The ascent is as governed as the descent, for reasons the counselors explain plainly: the vault is cold and the facility is warm, and personnel who cross too fast carry the cold up with them. Staged ascent lets the cold off in layers. Crews arriving at the surface are met by counselors, fed, and rested before they speak to anyone about what they saw. The debriefs come the next day, warm and fed and steady. Cycle 1,778's vault crews came up on schedule, all of them, in good order. The debriefs were full and clear. The vault weeks closed. And the facility — warmed, informed, and sobered — turned toward the founder's journal and the breaking silence waiting in the days beyond.

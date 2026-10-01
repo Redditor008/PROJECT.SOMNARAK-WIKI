@@ -2619,3 +2619,19 @@ Majin raises his hand: *"Batch 5 is complete. We stand two hundred and sixty kil
 Batch 6. The Threshold is in sight."*
 
 ---
+
+### Narrative Interlude — The Blessing Weeks
+
+The eleventh blessing is not a ceremony the Directorate invented. It arrived — in an early cycle the archive dates but does not explain — and the facility has observed it since, in Days 101 through 121, because the cycles in which it was observed went better than the cycles in which it was not. The engineers dislike this reasoning and participate anyway. The blessing asks nothing complicated: the facility stands down its non-essential operations for one hour per day across the blessing weeks, and the staff spend that hour however they choose, provided they spend it together.
+
+#### The Hour
+
+What the hour produces, measurably, is cohesion. The counselors have tracked it across cycles with the rigor the Directorate applies to everything: rosters that keep the hour report fewer frictions, faster reliefs, and better communication under pressure for the remainder of the cycle. The effect is large enough that the Directorate protects the hour the way it protects precautions. Departments spend it variously — some eat, some play cards, some simply sit in the same room and say little. The Memory Archive's crews sing, badly, a tradition no one has explained and no one has stopped. The hour of Cycle 1,778 was kept fully in every department, every day of the blessing weeks, which the reports note as the first unbroken observance in several cycles.
+
+#### The Refugee Dawn
+
+The refugees arrive during the blessing weeks — people from the outer districts, displaced by pressures the facility's containments did not reach in time, walking in at dawn with what they carry. The reception protocol is the Directorate's plainest document: feed them, warm them, register them, and do not ask what they lost until they offer it. Reception duty is rotated widely so the burden spreads and the facility's whole roster meets the people it protects. Veterans describe reception as the cycle's most clarifying duty: the containments are abstract until someone stands in the receiving hall holding a child and a bag. Cycle 1,778's refugee dawn brought the largest intake in recent cycles. The facility received them all — fed, warmed, registered, and housed — and the roster stood its remaining watches with the receiving hall very clearly in mind.
+
+#### What the Blessing Is For
+
+The staff debate what the blessing means and agree on what it does. It puts the roster in one room. It puts the refugees in front of the roster. It interrupts, for one hour daily across three weeks, the facility's tendency to become a machine that contains rather than a community that stands. The senior staff's standing explanation, offered to every cohort that asks, is unsentimental: the doctrine can be practiced by exhausted strangers, and it will fail eventually. It can be practiced by rested people who know each other, and it holds. The blessing makes the second kind. The blessing weeks of Cycle 1,778 closed on Day 121 with the hour kept, the refugees housed, and the roster — rested, cohered, and clear about what it stood for — turning toward the threshold of hope and the open hand waiting beyond.

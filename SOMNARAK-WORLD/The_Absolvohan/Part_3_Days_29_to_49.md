@@ -2565,3 +2565,18 @@ dripping dew:
 
 > _"Day 49. Fifty tons. In 1,777 previous cycles, this facility never held more than 48.2 tons of Han before the loop collapsed and reset our minds. Today, the ballast holds 50.038 tons. Halfway there. The door whispered 'Racham'—mercy. But we will not ask for mercy from whatever lies beyond that threshold. When the day comes, we will take it."_
 
+### Narrative Interlude — The Escalation Weeks
+
+The escalation came the way the doctrine warned it would: not as a breach but as a trend. Readings that had held nominal through the foundation weeks began, around Day 29, to drift — small excursions, within tolerance, but consistently upward. The engineers caught the drift because the baselines made it visible, which is what the baselines are for. The facility moved from foundation posture to escalation posture across a single morning briefing, and the roster felt the change in its bones: shorter watches, tighter rotations, the doctrine practiced at pressure tempo instead of peacetime pitch.
+
+#### The Sovereign Convergence
+
+What escalated was the Sovereign presence — the facility's highest-rank holdings pressing in concert, the way they press in every cycle when the loop's middle approaches. The convergence doctrine governs the response: no containment is treated as isolated once the Sovereigns converge. The facility stands as one chain, department to department, gauge to gauge, the whole structure reading as a single instrument. Watch commanders report to Central Command continuously during convergence posture. Central Command reads the facility the way a physician reads a patient: whole, systemically, watching for the pattern no single reading reveals. The convergence of Cycle 1,778 came earlier and harder than the forecasts predicted. The facility met it with the doctrine written across 1,777 previous convergences, and the doctrine held — not easily, not without strain, but completely.
+
+#### The Hard Watches
+
+Escalation weeks are measured in hard watches, and the archive counts them precisely: watches stood under elevated readings, with full precautions armed and the relief standing ready at the door. Hard watches exhaust personnel faster than ordinary duty by a factor the counselors quantify and the Directorate respects: three hard watches equal a full rotation's fatigue. The escalation protocol therefore shortens watches and lengthens rests, trading coverage depth for roster endurance. Veterans describe hard watches as the job's true shape — the ordinary watches are what you stand so you can stand these. The roster stood them through Day 49 without a relief missed, without a precaution unarmed, and without a single Warden carried out. The counselors' escalation report closes with the sentence the Directorate quotes at every training cohort: the roster was tired, and the roster was fine, and the distinction is the whole profession.
+
+#### The Holding Line
+
+By Day 49 the escalation had plateaued — readings elevated but stable, the Sovereigns converged but contained, the facility holding a line it had drawn and would not yield. The plateau is the escalation's real victory: not reversal but refusal. The doctrine does not promise to push the pressure back. It promises to stand where it stands. The holding line of Cycle 1,778 was drawn on Day 49 and held every day after — a fact the archive records plainly and the roster remembers proudly. Central Command's Day 49 entry reads: escalation plateaued, line held, roster standing. Three clauses, one meaning. The facility had met the convergence and had not moved. And the cycle turned toward its middle — toward the deep vault, the external contact, and everything the Absolvohan would face — with the line drawn behind it, proven, and holding.

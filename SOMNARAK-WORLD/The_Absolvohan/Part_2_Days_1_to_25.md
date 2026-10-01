@@ -2902,3 +2902,19 @@ Majin turns toward the dark expanse of Floor 5, where Border Lead Mellda's warde
 Majin places his hand upon the central terminal, locking the master ledgers of Batch 1.
 
 The convergence accelerates. Reserves stand at 48.55 tons. The dawn draws closer.
+
+### Narrative Interlude — The Foundations Laid
+
+The first twenty-five days of Cycle 1,778 were the quiet ones — the foundation days, the doctrine calls them, when the Absolvohan builds the structures the rest of the cycle will lean on. Nothing dramatic happens in the foundation days. That is their purpose. The rosters settle into rotation, the gauges establish their baselines, the departments learn each other's rhythms again after the waking. Veterans describe the foundation days as the cycle's deep breath: the inhale before the long holding. They had taken this breath 1,777 times. They took it again, carefully, knowing what the exhale would cost.
+
+#### The Baseline Weeks
+
+Baselines are the foundation days' real product. Every gauge in the facility ran continuously through the first weeks, logging the ordinary so the extraordinary would be visible when it came. The engineers call the practice knowing the quiet: you cannot hear the wrong note until you have memorized the right one. Baseline crews worked double rotations through Day 25, filling volumes with readings that recorded nothing happening — pressure nominal, flow steady, integrity holding — and those volumes became the cycle's reference standard. Every alarm the rest of the year would raise was measured against the foundation weeks' silence. Veterans treat baseline duty as the most important tedium in the Directorate: dull work, perfectly done, protecting everything after. The volumes filled. The quiet was memorized. And the facility entered the cycle's body knowing, precisely, what normal sounded like.
+
+#### The Settling
+
+Rosters settle the way buildings settle — audibly, with small adjustments, into the shape they will hold. The foundation days resolved the thousand small frictions of a facility restarted: shift preferences, equipment assignments, the unspoken negotiations of personnel relearning how to stand beside each other. Supervisors watched the settling the way engineers watch foundations: for cracks, for unevenness, for the small misalignments that become large failures under load. The settling of Cycle 1,778 went smoothly — smoother, the supervisors noted in their reports, than any cycle in recent memory. Whether that reflected the roster's quality or the cycle's difference, no one would say aloud. But the reports are preserved, and they agree: the facility settled fast, settled well, and settled ready.
+
+#### The First Doubts
+
+Doubt arrives in the foundation days, always, and always in the same form: a veteran mid-watch doing the arithmetic. One thousand seven hundred seventy-seven cycles. One thousand seven hundred seventy-seven foundations laid. One thousand seven hundred seventy-seven endings that were not endings. The counselors expect the foundation doubts the way physicians expect fevers, and they treat them the same way — openly, without alarm, with the standing guidance the counselors have issued since the loop's earliest records: the arithmetic is correct and incomplete. The previous cycles failed. This cycle is not the previous cycles. Stand it as if it were the first, because for the purpose of standing it, it is. The doubts surfaced, were spoken, and were held. The roster stood. And the foundation days closed on Day 25 with the structures laid, the baselines memorized, and the doubts filed where doubts belong — logged, acknowledged, and outweighed by the standing.

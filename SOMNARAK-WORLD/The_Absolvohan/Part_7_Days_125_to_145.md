@@ -2679,3 +2679,19 @@ Majin raises his hands, palms open toward the display: *"Seventeen hundred and s
 sorrow alone. In fifteen days, we open our hands. Dismissed."*
 
 ---
+
+### Narrative Interlude — The Threshold Weeks
+
+Hope is a technical term in the Absolvohan, and the threshold is where it becomes measurable. Across Days 125 through 145 the facility's indicators cross — or fail to cross — the values the doctrine calls the threshold of hope: the point past which the cycle's trajectory bends toward arrival rather than aftermath. The archive records 1,777 cycles that approached the threshold. It records a much smaller number that crossed it. The staff know both numbers and do not discuss them during the threshold weeks, by a custom nobody wrote down and everybody keeps.
+
+#### Reading the Indicators
+
+The threshold indicators are deliberately unglamorous: harvest rates, roster stability, containment integrity, and the fourth measure the doctrine calls simply reception — how the facility treats what arrives at its door. The fourth measure is the contested one, and its inclusion is the founder's doing. The founder's position, preserved in the journal and never overturned, is that a facility which contains perfectly and receives badly has already failed at the thing containment was for. The indicators are read daily during the threshold weeks, posted publicly, and discussed at every briefing. Cycle 1,778's indicators ran high across all four from Day 125 forward — the first three on the roster's competence, the fourth on the refugee dawn's reception, which the Directorate's analysts credit directly for the margin.
+
+#### The Open Hand
+
+The open hand is the threshold's governing image and the facility's most-argued doctrine. It holds that the facility's posture at the threshold must be open — receiving, not sealing; extending, not withdrawing — at precisely the moment every instinct says to close. The argument against is obvious and the archive preserves it fairly: openness at the threshold has cost cycles. The argument for is the founder's, and it is shorter: closed facilities have never crossed. Cycle 1,778 adopted the open hand on Day 125 by the Director's order, over logged objections from two department heads whose objections the Director recorded, answered, and overruled in open briefing. The hand stayed open through Day 145. The objections stayed on file. Both are preserved, because the Directorate's practice is to keep the dissent beside the decision so later cycles can weigh them together.
+
+#### Crossing
+
+The crossing, when it came, was undramatic — a Tuesday, mid-watch, the indicators reading above threshold on all four measures simultaneously for the twelfth consecutive hour, which is the doctrine's definition of a crossing achieved. Central Command logged it in the standard form: threshold crossed, hour recorded, trajectory bent. No alarm sounded. No announcement interrupted the watches. The news moved through the facility the way good news moves through working buildings — quietly, person to person, the standing roster hearing it without leaving their posts. Veterans wept at their stations and kept reading their gauges. The Director's entry for the hour is one line: the hand stayed open and the threshold was crossed, and the order of those clauses is the finding. The facility stood its remaining watches past the threshold — hopeful, measurably, and still standing.

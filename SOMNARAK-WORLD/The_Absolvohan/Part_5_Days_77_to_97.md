@@ -2290,3 +2290,19 @@ Seiyon smiles softly, her synthetic fingers glowing with faint golden light: *"T
 have spent seventeen hundred cycles learning how to stand."*
 
 ---
+
+### Narrative Interlude — The Reading Weeks
+
+The founder's journal is read aloud once per cycle, across Days 77 through 97, in the muster hall, by the senior staff in rotation. The reading is the Absolvohan's oldest ceremony and its most uncomfortable: the founder's own hand, the founder's own doubts, the founding decisions set down before anyone knew whether they would hold. The journal does not flatter its author. That is precisely why the Directorate reads it. The staff who stand the reading hear the institution's origin without varnish, and they stand their watches afterward knowing exactly what they inherited and from whom.
+
+#### The Pages That Hurt
+
+Certain pages of the journal are known by their effect. The page where the founder admits the first containment was guessed at rather than designed. The page where the founder counts the early losses by name and stops counting. The page where the founder writes, in a hand visibly unsteady, that the facility may be a mercy or may be a prolongation and that no one alive can tell which. Readers rotate off after the hard pages by custom, and the next reader takes up without comment. The hall stays silent through them. Veterans who have heard the pages 1,777 times still find them hard, which the counselors regard as healthy: the pages are supposed to hurt, because what they describe hurt, and a facility that could hear them comfortably would be a facility that had stopped understanding them.
+
+#### The Breaking Silence
+
+The silence breaks in the reading weeks — the facility's long institutional quiet about its own uncertainty, cracked open annually by the founder's candor. Staff speak during the reading weeks in ways they do not speak the rest of the cycle: about doubt, about cost, about whether the standing is worth what the standing takes. The counselors schedule extra hours and the supervisors protect them. The Directorate's standing position on the breaking silence is unambiguous and old: say it in the reading weeks, say it fully, and then take it back to the watches with you, spoken. Unspoken doubt rots. Spoken doubt is ballast. The silence of Cycle 1,778 broke on schedule, loudly, and the facility was better for it — the counselors' reading-week report notes the highest volume of self-reported strain in recent cycles and the lowest incidence of unreported strain, which is the trade the ceremony exists to make.
+
+#### The Last Page
+
+The journal's last page is read on Day 97 by the senior-most staff member present, always, without exception. The page is short. The founder writes that the facility will outlast its founder, that the doctrine will be revised by hands the founder will never shake, and that the only instruction worth leaving is the one the founder could not prove: stand it anyway. Three words, underlined once in the original. The reader speaks them and closes the journal, and the hall answers with the response the ceremony has used since the first reading: we stand it anyway. The journal returns to its case. The reading weeks close. And the facility goes back to its watches carrying what the founder carried — the uncertainty, the cost, and the instruction — into the days ahead, where the eleventh blessing and the refugee dawn were waiting.

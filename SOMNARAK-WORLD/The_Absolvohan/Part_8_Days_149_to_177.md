@@ -3202,3 +3202,19 @@ Seiyon records the final log entry of Batch 7:
 *Cycle 1,778: Complete.* 
 *The Absolvohan: Discharged.*
 *The World: Begun.*
+
+### Narrative Interlude — The Critical Weeks
+
+Past the threshold the cycle grows dangerous in a new way. The doctrine names the hazard precisely: a facility that has crossed believes it will arrive, and belief makes rosters careless. Days 149 through 177 are therefore the most heavily supervised stretch of the Absolvohan's year — not because the pressures are highest but because the vigilance is hardest to maintain. The critical-weeks protocol doubles inspections, randomizes drills, and empowers any supervisor to stand down any Warden showing the particular slackness the archive calls threshold confidence.
+
+#### The Transmutation
+
+What happens at the cycle's deep middle is the Absolvohan's central event and its least explicable: the transmutation, in which the facility's accumulated holdings change character — the stored sorrow ceasing to be only weight and becoming, by a process the engineers describe operationally and no one explains causally, something the facility can carry rather than merely contain. The transmutation is preceded by days of rising instability and followed by a stillness the instruments register as absence. Crews on duty for it describe the same sequence across every cycle: the pressure climbing past tolerable, the whole structure singing at a frequency felt in the teeth, and then — nothing. Not silence. Stillness. The weight still present, still measured, and no longer pressing. Cycle 1,778's transmutation ran its full course with the facility fully staffed and every precaution armed. The crews held through the singing. The stillness arrived. The logs recorded it in the prescribed language, which is deliberately flat: transmutation complete, holdings stable, facility intact.
+
+#### The Cost Accounting
+
+The Directorate accounts for the transmutation's cost the day after, always, in open session. Equipment damaged. Personnel strained. Holdings altered. The accounting is read aloud and entered unedited, because the institution's oldest rule about the transmutation is that it is never described as free. Veterans insist on the accounting more fiercely than administrators do — the crews who stood the singing want the ledger honest. Cycle 1,778's accounting ran long: significant equipment losses on the lower rings, forty-one personnel stood down for strain, three containments requiring re-rating. All of it logged, all of it read aloud, all of it entered. The session closed with the standing finding: cost accepted, facility holding, cycle continuing.
+
+#### The Long Middle
+
+What follows the transmutation is the cycle's long middle — days of ordinary duty in a facility that has already done the extraordinary and must now simply keep standing. The long middle breaks more rosters than the transmutation does. The counselors watch for its particular symptom, which is not fear but flatness: personnel performing perfectly and feeling nothing, going through the doctrine's motions with the attention switched off. The remedy is rotation, rest, and the deliberate reintroduction of meaning — reception duty, training cohorts, the small assignments that put the work back in front of the worker. Cycle 1,778's long middle ran from the transmutation through Day 177 and was managed by the book: rotations honored, rests enforced, flatness caught early in every case the counselors logged. The roster came through the middle tired and whole. And the facility turned toward its final stretch — transmuted, accounted, and standing — with the real year waiting at the end of the count.

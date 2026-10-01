@@ -1759,3 +1759,19 @@ The supercritical Han reaches absolute thermodynamic compression. Under the harm
 | Reverie Directorate Central Command Archive  |
 +==============================================+
 ```
+
+### Narrative Interlude — What the Absolvohan Is
+
+Asked to describe the Absolvohan in one sentence, the senior staff give variations on the same answer: it is a year, stood properly, as many times as it takes. The facility is the apparatus. The doctrine is the method. The roster is the thing that actually holds. Everything else in the institution's enormous documentation exists to keep those three in working order across a cycle's length — and, across 1,778 cycles, to keep them in working order through repetition that would hollow out anything less deliberately maintained.
+
+#### The Shape of a Cycle
+
+Every cycle has the same shape, and the shape is taught to every cohort before anything else. The waking, and the oath. The foundation weeks, where the baselines are laid. The escalation, where the pressure declares itself. The vault weeks, where the facility goes down to listen. The reading weeks, where the founder's doubt is spoken aloud. The blessing weeks, where the roster is made into a community again. The threshold, where hope becomes measurable. The transmutation, where the weight changes character. The long middle, where flatness is the enemy. And the final days, where the loop unwinds and the year either arrives or does not. Staff who know the shape can locate themselves in it on any given morning, which the counselors regard as the single most protective piece of knowledge the institution teaches. You cannot endure an unmapped year. You can endure a mapped one.
+
+#### Why It Repeats
+
+The repetition is not the Directorate's choice and never was. The loop is a condition the facility was built inside, not a method the facility adopted, and the institution's entire posture toward it is best described as disciplined refusal to be deformed by it. Rehearsal is not treated as rehearsal. Watches are stood as if they counted, because the doctrine holds that a watch stood as practice is a watch stood badly, and a facility full of badly stood watches has no chance of crossing anything. The archive's harshest internal criticisms, preserved alongside everything else, are aimed at the cycles where this discipline slipped — the cycles the reviewers describe as performed rather than lived. Cycle 1,778 is not among them, and the reviewers say so plainly.
+
+#### What It Is For
+
+The Absolvohan is for the city, and the staff are reminded of this constantly and deliberately — through reception duty, through the refugee dawn, through the fourth threshold indicator that measures how the facility treats what arrives at its door. The containments are the means. The city standing is the end. Personnel who invert the two are corrected early and firmly, because the inversion is the failure mode the founder feared most and wrote about most often: a facility that comes to serve its own perfection, containing beautifully, for no one. The institution's answer is structural rather than inspirational. Reception is rostered. The refugees are met by everyone. The fourth indicator is read aloud at every threshold briefing. And the roster that stands the cycle knows, because the structure makes it unavoidable to know, exactly whose mornings it is standing for.
