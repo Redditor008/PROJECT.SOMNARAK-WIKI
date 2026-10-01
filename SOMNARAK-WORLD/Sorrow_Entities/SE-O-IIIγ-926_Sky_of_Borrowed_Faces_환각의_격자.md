@@ -322,16 +322,21 @@ The entity does not rage. It does not weep. It persists — phantasmal and lamen
 
 ## Warden Record
 
-### The Overtime
+### The Air Projects
 
-Some watches run long — relief delayed, pressure rising, the roster holding past the rotation. The overtime custom governs every extended watch: the holding roster stays willingly, the relief hurries honestly, and the extra hours are logged as overtime honored. No Warden has ever been ordered to overtime. Every Warden has stood it. Veterans describe the custom as the roster's handshake: we hold until relieved, relieved or not. The overtime log records every extension — hours held, reason delayed, relief arrived. The log's entries are uniformly proud: held two extra, relief delayed by storm, containment unbroken. Sky of Borrowed Faces (SE-O-IIIγ-926) has never stood an unheld watch — relief or no relief, rotation or overtime. The roster holds until relieved. The custom guarantees it.
+Images are thrown onto whatever surface is available — faces, fears, remembered things — and they move and speak and occasionally reach. The Warden's log records the surfaces used rather than the images shown. That choice is explained on the form: the surfaces are objective and the images are not, and a log of images would be a log of what each Warden brought with them.
 
-### The Relief
+### Faces of the Fractured
 
-Relief, when it arrives, is the roster's sweetest moment — the relieving Warden's hand on the door, the standing Warden's briefing delivered, the watch transferred with the formula: I relieve you. I stand relieved. The relief custom requires the full briefing regardless of delay — no shortcuts for lateness, no abbreviations for haste. The arriving Warden hears everything, confirms everything, and takes the watch fresh. Veterans describe reliefs as the containment's heartbeat: regular, complete, and unfailing. Sky of Borrowed Faces is witnessed watch after watch without a gap — each watch handed to the next, each Warden relieved in full. Hold until relieved. Relieve in full. The heartbeat continues, watch after watch, forever.
-### The Extra Hour Honored
+Much of what appears belongs to the Fractured, and the file's position is that these are projections rather than persons and that the distinction must be held onto by anyone working the perimeter. The briefing states it twice, at the start and at the end. The repetition is deliberate and is the only instance of it in the wing's briefing material.
 
-Overtime hours are honored at muster — the senior Warden reading the overtime log aloud, each extension praised by name. The honor custom treats held hours as the roster's gift: given willingly, received gratefully, praised publicly. Veterans describe the reading as the overtime's true pay — not the logged hours but the spoken thanks. The honored roster stands straighter after. Sky of Borrowed Faces has never stood an unheld watch, and the muster proves the roster knows it. Held past rotation. Honored at muster. The custom continues.
+### Reaching
+
+The images sometimes extend toward an observer and contact has been reported, which the file neither confirms nor dismisses, recording the reports as reports. No physical trace has ever been found. The two facts are printed in the same paragraph so that neither can be quoted without the other, which the archivist's note identifies as the reason for the layout.
+
+### Accumulation
+
+Exposure layers rather than clearing, and the personnel register follows individuals across their whole service with the infirmary holding the detail. The facility receives an eligibility and nothing more. The file records that this holding adopted the arrangement later than the others in the wing, after a review found that its own exposure records had been readable by the duty office for years. The review's finding is held in the folder in full, including the part that identifies how long the condition had persisted and the part that declines to attribute it to any individual. The facility accepted the finding without response and implemented the change within the month, which the file records with both dates so that the interval is visible. No individual was named in it at any point, and the facility did not ask for one to be.
 
 ## Trivia
 

@@ -410,16 +410,21 @@ Some sorrows mourn a maker. Relic Waiting for Its Maker mourns the making — th
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Drill
+### Walls That Lean In
 
-Emergency drills run on rotation in Relic Waiting for Its Maker's containment — pressure scenarios, breach simulations, full-muster exercises the roster performs the way musicians practice scales. The drill doctrine is the Directorate's standing answer to complacency: practice the crisis before the crisis practices on you. Drills are unannounced, realistic, and graded — the senior Warden scoring response time, precaution arming, and roster discipline against the standard. Failing drills are repeated. Passing drills are logged. And the roster performs every drill as if Relic Waiting for Its Maker (SE-O-IIIγ-651) pressed in truth, because the doctrine's spine is realism: drill as you will stand. The roster drills hard. The roster stands harder. The drills prove it, rotation after rotation.
+The chamber's walls bend inward as though listening, and the degree of lean is measured each cycle with a plumb line against marks cut at the base. The lean has increased. The increase is slight, is outside the error of the method, and is reported as such in plain terms, the file having resisted a proposal to express it as a rate on the ground that two points do not make one.
 
-### The After-Action
+### It Cannot Be Looked At
 
-Every drill ends with the after-action — the roster gathered, the senior Warden reading the score, each Warden speaking one improvement. The after-action's rule is candor without rank: the newest Warden speaks first, the senior Warden last, and every improvement is logged regardless of source. The after-action log runs continuously — hundreds of entries, each one a small sharpening: faster arming here, clearer signals there, better positioning everywhere. Veterans describe the after-action as the drill's true product: not the practice but the polish. Relic Waiting for Its Maker is witnessed by a roster that improves on rotation, drill by drill. Practice the crisis. Polish the response. The after-action proves the roster does — one improvement at a time, logged forever.
-### The Perfect Score
+The relic itself is not directly visible and the Warden's record therefore describes the chamber, which is the only thing observation can reach. Attempts at indirect viewing have been made with mirrors and are documented and produced nothing. The documentation is retained in full. The file explains that keeping failed methods is cheaper than having each new Warden invent them again.
 
-Once in a generation of drills, a roster scores perfectly — every response on time, every precaution armed, every signal crisp. Perfect drills are logged in gold — the senior Warden's term for the commendation entry, preserved verbatim. The roster that scored it is honored at muster. The drill is studied by every roster after. Relic Waiting for Its Maker has witnessed perfect drills and held through all of them — practiced crises met with perfect responses. Drill as you will stand. The perfect score proves the roster stands perfectly.
+### Spoken Secrets
+
+The chamber responds when something confidential is said aloud in it, which has made silence the working rule and written notes the working medium. Slates are used rather than paper and are wiped before leaving. The wiping is witnessed. The file states that this is excessive and that it has been kept because the alternative was asking Wardens to trust that nothing was retained.
+
+### The Artisan Who Did Not Wake
+
+A masked artisan died during a sleep ritual and left the relic with its instruction unfinished, and the commissioning file holds the instruction as far as it goes. It stops mid-clause. The remainder has never been inferred and the file carries a line stating that it will not be, the archivist adding that an instruction completed by the archive would be the archive's instruction and not the artisan's. The clause breaks at a point where the sense is almost but not quite recoverable, which the file acknowledges is the hardest kind of fragment to leave alone. Two Wardens have written down their own completions in the margin of a working copy and both were removed to a separate sheet rather than erased, the sheet being labelled as speculation and kept at the back.
 
 ## Trivia
 

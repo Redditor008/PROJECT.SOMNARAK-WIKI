@@ -384,16 +384,21 @@ Some sorrows mourn exile. Exiles' Wall mourns the building — the shelters star
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The New Warden
+### Structures It Never Finishes
 
-Every Warden in Exiles' Wall's chain stood a first watch — briefed, nervous, and determined. The first-watch protocol pairs every newcomer with a veteran: shadow the watch, ask everything, touch nothing unasked. Veterans describe their first-watch duty as the roster's truest test — not of the newcomer but of themselves. Teaching the containment reveals what the teacher has forgotten. Newcomers ask why the gauge is read twice, why the chamber is eyeballed before the instruments, why the oath's clauses run in their fixed order. Veterans answer, and in answering remember. Exiles' Wall (SE-O-IIIγ-617) has been learned fresh by every Warden who ever stood it. The learning never ends. The teaching never ends. The chain continues, watch by watch, rookie by rookie.
+The wall throws up partial shelters along its length and abandons each one, and the Warden's survey counts the beginnings rather than the completions, there being none of the latter. Each new start is numbered and plotted. The plot shows them clustered rather than spread, and the file reports the clustering as an observation without offering a reading of it.
 
-### The First Log
+### Leaking
 
-The newcomer's first log is preserved — bound into the containment file, the rookie's own hand recording the first witnessed watch. First logs are earnest to the point of poetry: readings logged twice, observations tripled, the entity described the way newcomers describe everything — fully, carefully, as if the containment depended on this one log. Veterans read the first logs the way parents keep childhood drawings: with pride, with humor, and with recognition. Every veteran wrote one. Every veteran remembers. Exiles' Wall is witnessed, rookie after rookie, by personnel whose first logs prove the doctrine's deepest claim: the containment is learned fresh by everyone, and everyone learns it. The first log stands. The Warden stands with it.
-### The Shadow's End
+Its surface is wet and sheds sorrow steadily, like rain running off stone, and the runoff collects at the base where the ground is lower. The collection point is bailed on a schedule and the volume recorded. The figures are kept because they are the only quantitative series the holding produces, and the standing order concedes in writing that nobody knows what the volume indicates.
 
-The newcomer's shadow period ends with the first solo watch — the veteran stepping back, the rookie standing alone, the containment held by new hands. Veterans describe the moment as the roster's true commissioning: not the oath sworn but the watch stood solo. The first solo log is preserved beside the first shadowed log — before and after, student and Warden. Exiles' Wall has been stood solo by every Warden in its chain. Each one held. Each one holds still.
+### Burning Cold
+
+The red light across its face gives no heat, which has been confirmed at intervals with a thermometer set against the crystal, and the confirmations are logged. The series has not moved. The file keeps it on the same reasoning used at the other cold-fire holdings and cross-refers to them, which is the only cross-reference in the folder.
+
+### Shelters Abandoned Before Finishing
+
+Exiles built near the Gate and left each structure incomplete, and the commissioning material holds what the Gate warden recorded of that period — arrivals, the ground allocated, and the dates the plots fell vacant. The vacancy dates are the useful column. The archivist's note observes that most plots went empty within weeks of being taken and that the record contains no instance of anyone being told to leave. The allocations were made by a clerk who kept careful books and whose hand is legible throughout, which is the reason the series is usable at all. His name appears at the foot of each page and nowhere else in the file. The archivist's note records it once, in full, with the observation that he is the only person in the commissioning material who did his job and is otherwise unremembered.
 
 ## Trivia
 

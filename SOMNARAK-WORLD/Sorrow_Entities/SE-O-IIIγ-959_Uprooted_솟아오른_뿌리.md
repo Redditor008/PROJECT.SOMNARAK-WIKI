@@ -372,16 +372,21 @@ Some sorrows mourn a home. Uprooted mourns the rooting — the attempt to belong
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Nightingale Shift
+### It Follows Old Foundations
 
-The nightingale shift is the roster's term for a watch so quiet it sings — readings nominal, entity quiescent, the whole of Uprooted's containment humming at peacetime pitch. Nightingale watches are logged the way all watches are logged, with one addition: the watch commander's nightingale mark, a small notation in the margin recording that the quiet held the whole watch through. Commanders prize the mark the way sailors prize fair winds — not as achievement but as grace. The quiet is never earned. It is received, logged, and passed to the relief with gratitude. Uprooted (SE-O-IIIγ-959) has granted the roster many nightingale shifts. Each one is marked. Each one is remembered. And each one steadies the roster for the watches that sing less sweetly.
+The root-serpent hauls itself along the lines of structures that are no longer there, and its track can be predicted from the Desolate foundation surveys with fair reliability. The surveys are therefore the holding's principal operational document, kept current and marked up with each passage. Where it has departed from a foundation line, the departure is circled, and there are few circles.
 
-### The Quiet Ledger
+### Building Nothing Finished
 
-The quiet ledger compiles every nightingale mark in the containment's history — dates, commanders, and the watch conditions that made the quiet possible. The ledger's purpose is morale made tangible: proof, in the commanders' own hands, that the containment holds far more often than it strains. New Wardens read the ledger on commissioning. Veterans consult it before hard watches. And the senior Warden cites it at every briefing where the roster's confidence wavers: the quiet outnumbers the pressure a hundred to one. The ledger proves it. Uprooted is witnessed, watch after watch, by personnel who know the numbers — and the numbers say the containment holds, the quiet returns, and the nightingale sings more often than it silent.
-### The Dawn Chorus
+It raises partial structures as it goes and completes none, and the Warden records each start with its position and its dimensions. Dimensions are taken because they vary and the variation is the only thing the starts have in common. The file declines to call them attempts, using the word structures throughout, on the stated ground that attempt implies an intention the record cannot establish.
 
-The morning after a nightingale shift, the relief arrives to birdsong — the roster's term for a handover with nothing to report. Readings nominal, entity quiescent, the quiet passed intact. Veterans describe dawn-chorus handovers as the watch's benediction: the night held, the day inherits peace. Uprooted grants them regularly. The roster receives them gratefully. And the quiet ledger grows — mark by mark, chorus by chorus.
+### Headless
+
+There is no head on it and no point that functions as one, which has defeated every attempt to describe its orientation, and the Warden's form asks for direction of travel rather than facing. The form was amended to this after its first year. The original version is kept with the amendment, so that a reader can see what the holding thought it was watching at the start.
+
+### A Settlement That Kept Moving
+
+A Desolate community relocated repeatedly and left its foundations behind each time, and the commissioning file holds the sequence of sites with the dates each was occupied and abandoned. The intervals shorten toward the end of the series. The archivist's note points this out once, in a single sentence, and does not say what the last entry means. The sites are plotted on a single sheet with the sequence drawn between them as a line, which makes the shortening legible at a glance and was the reason the sheet was drawn. The last site on it is where the holding now stands. The sheet is redrawn only when a site is added, and none has been.
 
 ## Trivia
 

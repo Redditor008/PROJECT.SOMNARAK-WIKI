@@ -368,16 +368,21 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Anniversary
+### Heard Only by Some
 
-Every cycle, on the containment's founding date, Corrosion Dream's roster holds the anniversary — the full chain mustered, the founding log read aloud, the year's watches honored. The anniversary reads the numbers: watches stood, readings logged, pressures weathered. Then the senior Warden reads the names: the roster present, the roster rotated, the roster remembered. New Wardens hear what the containment is. Veterans hear what they maintain. And the founding log — the first watch, the first readings, the oath sworn fresh — binds the anniversary to the origin: this is what was sworn, this is what was kept, this is what continues. Corrosion Dream (SE-O-IIIγ-915) has been held for every anniversary the archive records. The roster intends to hold every anniversary after.
+It sings in a voice that reaches only those who have crossed a boundary that broke behind them, which means most personnel hear nothing at all and the watch depends on the few who do. Those Wardens are not required to describe what is sung. They are required to record that singing occurred, and the file notes that the distinction was negotiated rather than imposed.
 
-### The Founding Log
+### Rust and Dark Water
 
-The founding log is preserved under glass — the first watch's readings, the first commander's hand, the oath's first swearing. Trainees read it through the glass before they read anything else, and the lesson lands the way origins teach: everything the containment is began here, with these readings, this roster, this oath. The founding log's margins carry the first commander's annotations — steady, holds, continue — preserved in the original hand. Veterans touch the glass on anniversary. Newcomers press close to read. Corrosion Dream is witnessed by the latest link in a chain the founding log began. The glass protects the page. The roster protects everything else. The anniversary binds them: origin and present, sworn and kept, held then and held now.
-### The Toast
+The figure is built from corroded bridge plate and standing water, and the proportions shift between appearances, sometimes more metal and sometimes more water. The proportion is estimated and logged. The estimates are coarse and the file says so, observing that a coarse series kept consistently has twice shown a change that a finer one taken irregularly would have missed.
 
-The anniversary closes with the toast — the roster raised glasses (water, on duty) to the containment held and the year coming. The senior Warden speaks the formula: to the watches stood, the pressures weathered, and the oath renewed. The roster answers: held, weathered, renewed. Veterans describe the toast as the anniversary's seal — the ceremony closed, the year blessed, the containment commended by its own. Corrosion Dream is toasted every anniversary. The glasses rise. The oath holds.
+### Dreams Before Waking
+
+Encounters occur in sleep before they occur awake, reliably enough that the dream report functions as a warning, and the holding's rota is adjusted on receipt of one. The adjustment is automatic and requires no authorisation. The file records that making it discretionary was tried and that the discretion was exercised against the warning once.
+
+### A Bridge Rebuilt Only in Dreaming
+
+The crossing fell and the community that survived it dreamed of rebuilding and the dream corroded before anything was made, and the commissioning file holds the subscription raised for the real reconstruction. The money was collected. It was never spent and was eventually returned, and the archivist's note observes that the return receipts are signed by most of the same hands that signed the subscription. The receipts are held with the subscription list in a single bound volume, opened at the two matching pages whenever the file is consulted, which is seldom. The volume was given to the facility by the community rather than requisitioned. The letter accompanying it is three lines long and asks only that the money be recorded as having been raised. It makes no other request and offers no account of itself.
 
 ## Trivia
 

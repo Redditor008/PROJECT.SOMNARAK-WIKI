@@ -299,16 +299,21 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 
 ## Warden Record
 
-### The Letter
+### Stories Made Briefly Real
 
-Wardens in Once Upon's chain write letters — to family, to friends, to the civilian lives they maintain alongside the watches. The letter custom is the roster's oldest morale practice: write honestly, write regularly, and write home. The Directorate censors nothing and reads nothing — the letters are sealed, private, and sacrosanct. Veterans describe the custom as the roster's ballast: the watches demand everything, and the letters return something. News from outside. Love from afar. The reminder that the city the roster protects contains people who write back. Once Upon (SE-O-IIIγ-920) is witnessed by personnel with lives beyond the chamber — lives the letters maintain, one sealed page at a time. The watches take. The letters give. The roster holds both.
+For an hour, forgotten tales told within range become physically present — figures in the streets, voices from empty rooms, endings playing themselves out in the air — and the Warden records which stories appeared. The record is a list of titles where titles exist and descriptions where they do not. It is long. It is not indexed by subject, deliberately, the file holding that an index would invite the sorting of other people's stories into categories.
 
-### The Post Box
+### A Kilometre
 
-The facility's post box stands in the muster hall — plain, battered, and emptied daily. Wardens post their letters between watches, and the box fills the way morale fills: steadily, quietly, without ceremony. The post custom requires nothing but the box's presence — no quotas, no reminders, only the standing invitation of the empty slot. Counselors monitor the box's volume the way engineers monitor gauges: full box, healthy roster. The box has never stood empty a full rotation. Once Upon is witnessed by personnel who write home — who maintain, through sealed pages and daily postings, the civilian ballast that steadies the watches. The box stands. The letters flow. The roster writes, the city answers, and the containment holds on ballast of paper and love.
-### The Reply
+The effect has a radius and the radius is stable, which makes this the only time entity in the wing with a reliable boundary, and the boundary is marked on the district map held by the ward office as well as by the facility. Both copies are updated together. Neither has required an update.
 
-Letters from home arrive with the supply runs — answers to the roster's sealed pages, love returned for love sent. The reply custom gives Wardens an hour with their mail before the next watch: read privately, treasure fully, stand steadied. Veterans describe reply days as the roster's refueling — the civilian ballast renewed, the watches re-steadied. Counselors note the correlation openly: reply days precede the steadiest watches. Once Upon is witnessed by personnel who are written to — who stand, watch after watch, on ballast of paper and love, sent and answered.
+### Recognised, Not Discovered
+
+The pressure sat in the logs as an ambient reading for years before anyone saw that it had a shape, and the original entries are kept exactly as they were filed. They are unannotated. The archivist's note gives the same reason given at the other holding where this occurred and cross-refers to it, which is the only place in the folder that points outside itself.
+
+### Endings That Replay
+
+What recurs most often are conclusions rather than beginnings, and the file reports the imbalance as a counted observation. No explanation is offered. The archivist's note remarks that several have been proposed at review, that each was plausible, and that the file records the count and not the proposals because the count is the part that will still be true later. The counting itself is done by a second Warden who does not watch the manifestation, working from the first Warden's called descriptions, so that the person recording the imbalance is not the person experiencing it. The arrangement doubles the staffing requirement of the hour and has never been questioned on cost. The file records it as the only procedure in the holding that exists purely to protect the record from the recorder. The pairing is fixed for the duration.
 
 ## Trivia
 

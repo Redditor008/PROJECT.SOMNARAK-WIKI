@@ -299,16 +299,21 @@ The entity does not rage. It does not weep. It persists — phantasmal and lamen
 
 ## Warden Record
 
-### The Storm Duty
+### An Hour of Walking
 
-When crisis strikes elsewhere, Allhallow's roster stands storm duty — full watches on short staffing, precautions maintained while reserves deploy outward. Storm duty is the containment's contribution to the Directorate's larger battles: holding firm at home while the institution fights abroad. The storm protocol runs the roster lean: essential watches only, tightened rotations, the senior Warden holding the center. Veterans describe storm duty as the roster's truest test — not of skill but of steadiness. The entity presses. The reserves are gone. The roster holds anyway. Allhallow (SE-O-IIIγ-916) has weathered every storm duty the archive records without a watch unstood. The roster holds at home. The Directorate fights abroad. Both hold because both hold.
+The dead, or what resemble them, walk the Desolate perimeter for exactly an hour and then are gone, and they neither speak nor stop. The Warden counts them. The count is the holding's principal record and it varies between occurrences, which is reported as a plain series without a running average, the file having removed one after readers began treating the mean as the expected number.
 
-### The Lean Log
+### Without Warning
 
-Storm duties are logged in the lean log — watches stood short-handed, readings taken under strain, the roster's performance at minimum strength. The lean log's entries are terse to the point of pride: short roster, full doctrine, held. Commanders cite the lean log whenever staffing debates arise: the roster holds lean, the log proves it, the standard survives shortage. But the lean log's standing lesson is caution, not comfort — the senior Warden's annotation reads: held, and never again if avoidable. Leanness proves the roster. Fullness protects it. Allhallow is witnessed, storm after storm, by personnel who hold lean when they must and full when they can. The lean log proves the must. The roster prefers the can.
-### The Full Strength
+It descends unannounced and no precursor has been identified, despite a long search that is documented with its methods. The search is closed. Its closure is recorded as a decision with a date and a signature rather than allowed to lapse, which the archivist's note defends as the honest way to end an investigation that found nothing.
 
-Storm duty ends with the return to full strength — reserves recalled, roster restored, the lean log closed with the final entry: full strength resumed. Veterans describe the restoration as the roster's deep breath: the crisis passed, the strength returned, the containment held throughout. The senior Warden reads the lean log aloud at the restoration muster — every short watch honored, every strained reading praised. Allhallow weathered lean. Allhallow stands full. The roster held both, and holds still.
+### They Do Not Stop
+
+The walkers hold their course through anything placed in it and no interaction has ever been achieved, nor is any attempted. The prohibition on approach is absolute and is one of the oldest instructions in the wing. The file states that it was written before the first serious incident rather than after one and that this is worth knowing.
+
+### Older Than Its First Record
+
+The earliest documented occurrence is dated and the phenomenon precedes it, the grief having thickened at the border without announcing itself, and the file says so at the front rather than burying it. The archivist's note adds that the perimeter patrols of the preceding period left logs, that those logs contain entries nobody acted on, and that they are reproduced in sequence so a reader can watch the thing become visible. The entries are unremarkable individually and are not annotated. They note figures seen on the perimeter, in the language patrols used for anything they could not identify, and they recur at intervals across several years before stopping without explanation. The patrol books are held complete rather than excerpted, so the entries can be read in their ordinary surroundings.
 
 ## Trivia
 

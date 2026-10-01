@@ -381,16 +381,21 @@ Some sorrows mourn the war dead. Scar Walker is their guardian — the rage give
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Requisition
+### It Comes When Visitors Do
 
-Every instrument in Scar Walker's containment arrived by requisition — requested in writing, justified by need, approved against the quartermaster's unforgiving standard. The requisition files are the archive's driest holding and the roster's proudest: page after page of gauges, seals, lamps, and lines, each one argued for and won. The quartermaster's standing rule governs all of it: need it, prove it, maintain it. Requisitions that prove need are approved. Instruments that arrive are maintained — cleaned, calibrated, and logged — or the quartermaster reclaims them. No ornament has ever survived the quartermaster's review. No necessity has ever been denied it. Scar Walker (SE-O-IIIδ-011) is witnessed with instruments the roster earned by argument and keeps by maintenance.
+The armoured phantom appears on the approach of people rather than on a schedule, which makes the containment a matter of access rather than of perimeter, and the holding's record is in substance a visitor register. Names are taken at the approach where visitors are willing to give them, and refusal is permitted. The register notes refusals as refusals and the file states that nobody has been turned back for one.
 
-### The Quartermaster's Shelf
+### The Weapon
 
-The quartermaster keeps one shelf of retired instruments — gauges that served past calibration, lamps that burned past brightness, seals that held past rating. Each bears its service record: installed this date, maintained this often, retired with honors. New Wardens are shown the shelf before they file their first requisition, and the lesson lands the way honest objects teach: request only what the containment needs, maintain everything the containment grants, and retire with honors what has served past serving. Scar Walker is witnessed with the quartermaster's instruments, standing on the quartermaster's shelf in honorable retirement when their service ends. Need it. Prove it. Maintain it. The shelf proves the roster does.
-### The Approved Stamp
+It carries something made of solidified fury and has never used it, through the whole of the record, and the file says so in those words so that no reader can take the armament for a prediction. The weapon is described carefully because it is the thing visitors see first. The description occupies a page and includes the observation that it resembles no pattern used by any of the six.
 
-Approved requisitions return bearing the quartermaster's stamp — granted, with the date and the quartermaster's initials. Wardens keep their stamped approvals the way soldiers keep orders: filed, honored, and cited when the instruments arrive. The stamp means the quartermaster agreed — the need was real, the proof sufficed, the containment gains. Scar Walker is witnessed with stamped instruments, every one earned. The stamp approves. The roster maintains. The containment holds.
+### No Allegiance
+
+The rage it carries belongs to all six factions together rather than to one, and the containment file is structured to preserve that: material from each is held in equal measure and in no ranked order, with the sequence rotated between editions of the folder. The rotation is recorded. The archivist's note explains that a fixed order would be read as a judgment and that the facility has none to offer.
+
+### The Site as Wound
+
+Han erupted at The Scar during the first war and the ground was left as an injury rather than a battlefield, and the commissioning material treats it as terrain as much as history — the density readings, the survey of the rift, the condition of the ground now. The historical documents follow the physical ones. The ordering was deliberate, and the file's opening line states that what remains at The Scar is a place before it is an account.
 
 ## Trivia
 

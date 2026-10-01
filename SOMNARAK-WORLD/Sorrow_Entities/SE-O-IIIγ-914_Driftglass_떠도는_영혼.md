@@ -459,16 +459,21 @@ Some sorrows mourn a home. Driftglass mourns the having-none — the traveler's 
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Visitor
+### Never the Same Route
 
-Civilians visit Driftglass's facility on escorted rotation — oversight committees, trainee cohorts, the occasional dignitary requiring proof the Directorate spends wisely. The visitor protocol governs every tour: see the precautions, meet the roster, witness the doctrine practiced. Escort Wardens perform the protocol the way docents perform museums — proudly, precisely, and with the veteran's pleasure in showing work well done. Visitors ask the questions visitors always ask: is it safe, is it wise, is it worth it. The escort answers with the containment itself: the gauges, the logs, the roster standing. Driftglass (SE-O-IIIγ-914) receives few visitors and impresses all of them. The protocol proves the Directorate's case the way only practice proves anything: by showing.
+It drifts through the Alpha Tree vaults and has not repeated a path, which makes prediction impossible and makes the watch a matter of coverage rather than interception. Positions are logged and the accumulated tracks are drawn on one sheet. The sheet is now nearly solid. The file notes that a sheet which has become uninformative through completeness is still worth maintaining, because the first route it declines to take will show.
 
-### The Guest Book
+### Weeping Without a Body
 
-Visitors sign the guest book — name, office, and one line of impression. The book runs to volumes: oversight satisfied, trainees inspired, dignitaries reassured. The roster reads the guest book the way crews read commendations: with pride earned and perspective kept. The visitors see the containment for an hour. The roster stands it for careers. But the guest book's lines prove what the roster sometimes forgets mid-watch: the work shows. The doctrine reads. The containment impresses even the skeptical. Driftglass is witnessed by personnel the visitors praise and the Directorate trusts. The guest book holds the praise. The roster holds the entity. Both holdings grow, visit after visit, watch after watch.
-### The Return Visit
+It grieves and there is nothing there to grieve with, no form beyond the drifting crystal, and the Warden's account records the fact rather than attempting to describe the quality of it. Descriptive language is discouraged on the form. The instruction is printed on the form itself and the file explains that early accounts competed with one another in eloquence and became useless as a series.
 
-Some visitors return — oversight satisfied so fully they bring colleagues, trainees inspired so deeply they request posting. Return visits are the escort Wardens' proudest moments: the containment impressed once, and the impressed came back. The guest book's return entries are marked with the escort's star — came, saw, returned. Driftglass collects return visitors the way the roster collects commendations: steadily, deservedly. Visit once, impressed. Return, convinced. The containment proves itself twice.
+### Remembering Outside
+
+What it holds are places beyond the city, and the containment file carries the Desolate survey sheets for the region the traveller is believed to have crossed. The belief is marked as a belief. The sheets are included because they are the only material that corresponds to anything the entity appears to retain, and the file is careful to say that the correspondence is inferred.
+
+### A Traveller Who Did Not Rest
+
+Someone came in from the Desolate carrying nothing but sorrow and the body did not remain, and the commissioning record is the gate entry and the medical note that followed it. Both are short. The archivist's note states that the entity has no name in the file because none was given at the gate, that this was ordinary at the time, and that it has not been remedied by invention. Neither has been supplemented since the containment was established, and no search for the traveller's origin has been authorised.
 
 ## Trivia
 
