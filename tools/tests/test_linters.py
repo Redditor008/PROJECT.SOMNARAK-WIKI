@@ -9,6 +9,7 @@ Comprehensive unit test suite for Project Somnarak automated linters:
 import unittest
 import os
 import re
+import sys
 
 FIXTURE_DIR = os.path.join(os.path.dirname(__file__), "fixtures")
 
@@ -84,6 +85,50 @@ class TestSeamLinter(unittest.TestCase):
     def test_out_of_1000_caught(self):
         violations = self.check_seam_file(os.path.join(FIXTURE_DIR, "bad_seam_out_of_1000.md"))
         self.assertTrue(any("out\\ of\\ 1000" in v or "1000" in v for v in violations))
+
+
+class TestLabelLinter(unittest.TestCase):
+    """V6-6: dossier table labels and bare [SE-code] tags."""
+
+    GOOD = "SE-C-IIIγ-999_Good_Label_Sample.md"
+    BAD = "SE-C-IIIγ-998_Bad_Label_Tag.md"
+
+    def setUp(self):
+        sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+        import label_lint
+        self.lint = label_lint
+
+    def audit(self, fixture):
+        return self.lint.audit_file(os.path.join(FIXTURE_DIR, fixture))
+
+    def codes(self, fixture):
+        return [e.split("-> ")[1].split("]")[0].lstrip("[") for e in self.audit(fixture)]
+
+    def test_good_fixture_passes(self):
+        errors = self.audit(self.GOOD)
+        self.assertEqual(len(errors), 0, f"Expected 0 errors on good fixture, got: {errors}")
+
+    def test_self_name_label_caught(self):
+        self.assertIn("LABEL_SELF_NAME", self.codes(self.BAD))
+
+    def test_code_parenthetical_label_caught(self):
+        self.assertIn("LABEL_CODE_PAREN", self.codes(self.BAD))
+
+    def test_bare_code_tag_in_table_cell_caught(self):
+        # The V6-1 revert missed 395 tags because they sat inside table cells
+        # rather than at the end of a sentence. This guards that regression.
+        self.assertIn("BARE_CODE_TAG", self.codes(self.BAD))
+
+    def test_unknown_label_caught(self):
+        self.assertIn("LABEL_NOT_ALLOWED", self.codes(self.BAD))
+
+    def test_markdown_link_is_not_a_bare_tag(self):
+        self.assertIsNone(self.lint.P_BARE_TAG.search("see [SE-C-IIIγ-021](../x.md) for detail"))
+        self.assertIsNotNone(self.lint.P_BARE_TAG.search("throw it off. [SE-C-IIIγ-021]"))
+
+    def test_schema_label_is_allowed(self):
+        self.assertTrue(self.lint.label_allowed("Starting Sorrow Gauge"))
+        self.assertFalse(self.lint.label_allowed("Starting Sorrow Gauge (The Maw)"))
 
 
 if __name__ == "__main__":

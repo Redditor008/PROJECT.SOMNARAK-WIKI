@@ -348,7 +348,7 @@ The Foam Flood does not exist in total isolation. Its record carries a cross-fla
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Soot Fry (C-IIβ-947)** | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The carving's eyes flare at any reference to the fish; the field spikes (and vice versa). | Spikes; both gauges rise; the eyes will not dim. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
+| **The Soot Fry** | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The carving's eyes flare at any reference to the fish; the field spikes (and vice versa). | Spikes; both gauges rise; the eyes will not dim. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
 | **SE-C-Vδ-949 (the classified outcome)** | The transformation that the WARNING forbids. | Not to be invoked. See SE-C-Vδ-949 (Echo-Core Eyes Only). | Do not investigate without authorisation. |
 | **The Crystal Peaks** | The highest natural points in Mugenhan — the closest thing to sky the land offers. | The carving's field strengthens measurably when the Peaks are visible; the longing is calmer but deeper. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 

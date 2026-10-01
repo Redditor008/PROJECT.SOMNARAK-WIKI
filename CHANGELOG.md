@@ -8,7 +8,36 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### Corrected
+
+- **Retraction — the V5-12 boilerplate figure above is wrong.** The entry below claims dossier
+  boilerplate was cut "from ~39% to ~2% shared lines." That measurement was an artifact of the
+  measuring method, not a real reduction. Shared lines had been made *textually* distinct by
+  appending `(Entity Name)` to table labels and `[SE-code]` tags to sentence ends, so a
+  line-equality count no longer matched them while the underlying prose stayed identical.
+  The decoration was itself a defect and has since been reverted (V6-1: 395 bare code tags
+  across 282 dossiers, plus 11 decorated labels).
+- **Measured figure, re-taken honestly.** Counting prose lines only, with the entity name and
+  code normalised to placeholders before comparison, shared dossier prose across the 291
+  Sorrow Entity dossiers stands at **13.4%** of 7,355 prose lines for lines shared by 30+ files
+  (16.0% at 8+, 18.8% at 3+, 20.9% at 2+). The real reduction came from V6-3, which rewrote the
+  Apex, Warden, and Watch Record sections bespoke across 232 dossiers.
+- **Residual sharing is deliberate.** The remaining repeated lines are procedural scaffolding —
+  the Tension / Clash / Resolution combat beats and the M.A.W. conditional-extension clause.
+  These are fixed template structure, in the same category as table labels, and were left in
+  place rather than reworded into false variety.
+
 ### Added
+- **V6 integrity round (decoration revert, bespoke records, label lint)** —
+  - V6-1: reverted all appended `[SE-code]` tags and own-name label parentheticals, including
+    395 instances hidden inside table cells that an end-of-sentence sweep had missed.
+  - V6-3: rewrote `## Apex Record` (80 files), `## Warden Record` (82), and `## Watch Record`
+    (70) with per-entity content; validated at 0 sentences retained from the shared template.
+  - V6-4/V6-5: reconciled entity counts across 7 index and README files; completed the catalog
+    to 291 rows.
+  - V6-6: added `tools/label_lint.py`, a seventh gate enforcing that dossier table labels come
+    from a fixed vocabulary and that no bare `[SE-code]` tag is used as a differentiation
+    device. Covered by unit tests in `tools/tests/test_linters.py`.
 - **V5 missed-fix rounds (counts, chronology, lint)** —
   - Corrected lingering `292` counts to 291 across live docs + navigation; root README 44→49 codices, 12→16 volumes; audit baseline 35→52.
   - Rewrote Sorrow README origin scope (City/Outside/Inner) and replaced 288 Project-Moon risk names in the entity catalog with canonical ranks.

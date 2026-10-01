@@ -320,7 +320,7 @@ The Soot Fry does not exist in total isolation. Its record carries a cross-flag 
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Foam Flood (C-IIIγ-948)** | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The fish's Gauge spikes sharply in the carving's presence (and vice versa). | Spikes; both gauges rise; sealed memory straining toward the surface. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
+| **The Foam Flood** | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The fish's Gauge spikes sharply in the carving's presence (and vice versa). | Spikes; both gauges rise; sealed memory straining toward the surface. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
 | **SE-C-Vδ-949 (the classified outcome)** | The transformation that the WARNING forbids. | Not to be invoked. See SE-C-Vδ-949 (Echo-Core Eyes Only). | Do not investigate without authorisation. |
 | **The Sorrow Lake** | A body of water older and vaster than the puddle the fish has settled for. | The fish drifts toward any open water it is moved near, as if drawn to a depth it recognises; calming but restless. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
