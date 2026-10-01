@@ -397,6 +397,8 @@ Silence in the chamber is absolute by protocol — no speech, no narration, no r
 
 Slips returning from the chamber are filed with the shift record and not read aloud at handover, which is the one place in the wing where the handover briefing is deliberately incomplete. The outgoing observer may say what they wish in their own words outside the chamber, and most say very little, and nobody has ever been pressed. The counselors receive the slips separately and read every one.
 
+The slot's stock is a heavy unlined paper chosen because it does not tear when a hand is unsteady, and the choice is recorded in the original requisition with that reason written beside it in the ordering clerk's hand. Successive quartermasters have reordered the same stock without being told to. When a substitute arrived once during a supply shortage, the watch sent it back the same day and worked from the remainder of the old stock until the correct paper could be obtained, and no supervisor was asked to approve the decision because none of them would have decided otherwise.
+
 ## Trivia
 
 - It remembers deaths that no document contains.

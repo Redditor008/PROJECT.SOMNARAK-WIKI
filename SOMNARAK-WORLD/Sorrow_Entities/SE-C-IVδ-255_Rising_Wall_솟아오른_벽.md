@@ -389,6 +389,8 @@ The single-voice rule governs every enclosure: one spotter talks, everyone else 
 
 Spotters are drawn from a trained list rather than from whoever is available, and the training is specific: how to talk somebody out along a marked line while a structure of pressure closes around them. The list is short. The wing has never been willing to lengthen it by lowering what it takes to get on it.
 
+Spotters rotate off the list at their own request and without explanation, and no record is kept of who has left it or why. The wing's view, written into the standing order, is that a person who no longer wants to stand at the line is already telling the holding everything it needs to know, and that asking them for more would cost the list the trust that makes it work at all.
+
 ## Trivia
 
 - It grows taller when a person denies one-sided love.
