@@ -299,16 +299,21 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 
 ## Watch Record
 
-### The Sharp Pencil
+### At Dusk the Seats Fill
 
-Logs are written in pencil — sharpened before every watch, the roster's oldest instrument custom. The pencil doctrine is practical: pencil writes on damp paper, survives the chamber's cold, and never leaks. But the custom is honor: the sharpened pencil means the prepared Warden. Veterans sharpen deliberately, ritually, the way soldiers clean weapons. New Wardens receive their first pencil at commissioning — issued with the logbook, blessed with the formula. Moktak is recorded in graphite — reading by reading, pencil by pencil, sharp forever.
-### The Full Box
+The ceremonial hall stands empty until evening, when translucent figures take the seats and resume conversations that ended long ago, and the Warden counts the figures and notes which seats are occupied. The seating is consistent. The file holds a plan of the hall with the recurring positions marked and notes that the plan matches the founding families' order of precedence.
 
-Commissioning issues a full box of pencils — twelve, sharpened, the rookie's first year. Veterans replenish from the quartermaster with pride. Moktak is recorded in graphite that never runs out. Issued, sharpened, recording.
+### They Speak to Each Other
 
-### The Sharpener
+The conversation is among the figures rather than toward anyone present, and no response has ever been obtained. Attempts are not made. The standing order states that the hall is to be observed and not entered during the hour, and the file records that the restriction was requested by the district rather than imposed by the facility.
 
-The muster hall keeps a wall sharpener — bolted, trued, and used before every watch. The sharpener custom queues the roster: sharpen in turn, waste nothing, write sharp. The sharpener has served generations of pencils. Moktak is recorded sharp. Queued, sharpened, writing.
+### An Empty Hall Otherwise
+
+Outside the hour the building is ordinary and is maintained as a building, with the fabric inspected and repaired on a normal schedule. The maintenance records are in the folder. The archivist's note remarks that this is the only containment in the wing that also has a roof contract.
+
+### A Particular Weight
+
+What crystallized here is one specific grief rather than the city's general ache, and the commissioning material is correspondingly narrow — the founding families, their gatherings, the matter they were meeting about. The folder is thin. The file states that proposals to pad it with civic history were refused, the archivist noting that the hall is about a conversation and not about a city.
 
 ## Trivia
 

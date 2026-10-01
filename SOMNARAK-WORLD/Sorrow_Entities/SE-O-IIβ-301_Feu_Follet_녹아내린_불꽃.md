@@ -372,16 +372,21 @@ Some sorrows mourn comfort lost. Feu Follet mourns comfort dissolving — the me
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Mended Chair
+### A Flame Inside the Mind
 
-The muster hall's chairs are mended, never replaced — joints glued, legs braced, the roster's oldest thrift custom. The mend log records every repair: chair three, leg braced, holding. Veterans describe the mended chairs as the roster's philosophy: maintain what serves, repair what breaks, replace only what cannot be mended. New Wardens perform their first mend before their first watch — glue, clamp, and the lesson. Feu Follet (SE-O-IIβ-301) is witnessed by menders — who repair, watch after watch, the chairs that hold the roster that holds the entity.
-### The Steady Seat
+It is perceived within consciousness rather than in the room, taking the form of a figure whose face follows the observer's grief, and there is accordingly nothing in the holding to look at. The Warden's record is a self-report. The file states the limitation at the front and notes that the holding has never pretended to instrumental evidence.
 
-Mended chairs hold steady — tested after every repair, trusted at every muster. Steady-seat checks close every mend. Feu Follet is witnessed by personnel well-seated. Mended, steady, holding.
+### It Burns Cold
 
-### The Glue Pot
+The fire gives no heat and this is confirmed by the absence of any thermal reading, there being nothing physical to read. The confirmation is formal rather than meaningful. The file acknowledges as much and keeps the entry because the alternative is a record that appears to have skipped a check.
 
-Chair mending keeps a glue pot warm — ready for every repair, used weekly. The glue-pot custom wastes nothing: mend it today, sit it tomorrow. Feu Follet's chairs hold. Glued, clamped, holding.
+### It Dissolves When Faced
+
+Direct confrontation ends the manifestation, which gives personnel a reliable exit and makes the holding unusually safe, and the standing order says so plainly. The method is taught at briefing. The file notes that it works every time, that nobody understands why, and that the second clause has not been allowed to soften the first.
+
+### A Fire That Saved Someone
+
+A traveller in the Desolate remembered the fire that kept them alive after everyone else was gone, and the memory decayed, and the commissioning file holds what they later told the Gate officers. It is a short account and mostly concerns the others. The archivist's note observes that the traveller describes the fire in one sentence and the people who did not reach it in all the rest.
 
 ## Trivia
 

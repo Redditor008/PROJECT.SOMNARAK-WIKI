@@ -400,16 +400,21 @@ Some sorrows mourn a home. Perennial mourns the pattern — the settlement found
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Fresh Paint
+### They Walk
 
-Maintenance repaints Perennial's chambers on rotation — walls fresh, markings crisp, the containment gleaming the way readiness gleams. The paint custom treats the work as honor, not chore: the roster paints its own chambers, brushes shared, pride joint. Veterans describe fresh-paint days as the containment's renewals — the same doctrine, brightened walls, the watches continuing across the wet paint. Perennial (SE-N-IIβ-845) is witnessed in chambers the roster keeps worthy — painted faithfully, maintained proudly, gleaming always.
-### The Dry Wall
+The flowers lift their own roots and move on thin stem-legs, and the swarm's position is logged at each watch against surveyed pins. The ground they cross is not damaged. The file notes this specifically because the obvious expectation is otherwise and because two early reports of disturbance were traced to the survey work itself.
 
-Fresh paint dries under watch — the roster guarding wet walls the way it guards everything: faithfully. Dry-wall checks close every paint day. Perennial's chambers gleam. Painted, dried, gleaming.
+### They Return
 
-### The Color Standard
+Crushing does not end them and the patch reappears, and the number of destructions and returns is recorded as a plain tally. The tally is long. The file states that destruction is no longer attempted, that it was attempted repeatedly in the early years, and that the tally is retained so nobody proposes it again as a novelty.
 
-Chamber paint follows the color standard — walls regulation gray, markings safety yellow, pipes coded by system. The standard custom keeps every facility legible: any Warden, any chamber, readable at a glance. Perennial's chambers match the standard exactly. Painted standard, reading clearly.
+### Faint Singing
+
+They produce a quiet sound on approach, and whether it occurred is logged without any attempt to describe it. The descriptive field was removed from the form. The archivist's note explains that this was done across several holdings at the same time, lists them, and observes that the entries it replaced were becoming literature.
+
+### Founded, Abandoned, Rebuilt, Abandoned
+
+A settlement was established and left and established again, each return adding another layer to the ground, and the commissioning file holds the land records for each occupation. There are four. The archivist's note observes that the fourth set is the most thorough of them, that the people who wrote it clearly intended to stay, and that the records stop in the middle of a survey.
 
 ## Trivia
 

@@ -371,16 +371,21 @@ Some sorrows are about hiding. Face Beneath Masks is about the hiding that becom
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Mended Chair
+### A Wall Inside
 
-The muster hall's chairs are mended, never replaced — joints glued, legs braced, the roster's oldest thrift custom. The mend log records every repair: chair three, leg braced, holding. Veterans describe the mended chairs as the roster's philosophy: maintain what serves, repair what breaks, replace only what cannot be mended. New Wardens perform their first mend before their first watch — glue, clamp, and the lesson. Face Beneath Masks (SE-N-IIβ-689) is witnessed by menders — who repair, watch after watch, the chairs that hold the roster that holds the entity.
-### The Steady Seat
+The presence has no surface and exists within consciousness, extending whenever someone tries to conceal an emotional boundary, and it is therefore observed only through its effect on the person carrying it. There is no containment chamber. The file is explicit that the holding is administrative rather than physical and that the registered location refers to where the affected person is.
 
-Mended chairs hold steady — tested after every repair, trusted at every muster. Steady-seat checks close every mend. Face Beneath Masks is witnessed by personnel well-seated. Mended, steady, holding.
+### It Blocks Memory, Not Movement
 
-### The Glue Pot
+What it obstructs is recall rather than passage, and the obstruction is mapped by asking the affected person what they can no longer reach. The mapping is done by the infirmary. The facility receives the extent and not the content, and the file records that this division was established at the outset rather than after a failure, which is unusual in the wing.
 
-Chair mending keeps a glue pot warm — ready for every repair, used weekly. The glue-pot custom wastes nothing: mend it today, sit it tomorrow. Face Beneath Masks's chairs hold. Glued, clamped, holding.
+### It Grows Where Identity Is Withheld
+
+Concealment feeds it, which places personnel in an awkward position, since the posting requires discretion. The file addresses the difficulty directly rather than ignoring it. It states that operational confidentiality is not the kind of withholding the entity responds to, that the distinction is believed to hold, and that it is not certain.
+
+### Masks for Every Part of a Life
+
+A Mask Market artisan made a face for each role until none was left underneath, and the commissioning file holds their order book. It is extensive and the work was admired. The archivist's note observes that the book records commissions from others for most of its length and that the final section lists pieces made to the artisan's own measurements.
 
 ## Trivia
 

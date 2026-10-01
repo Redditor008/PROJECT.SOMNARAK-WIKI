@@ -322,16 +322,21 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 
 ## Watch Record
 
-### The Polished Gauge
+### The Dead Speak Among Themselves
 
-Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Passing Bell (SE-N-IIβ-919) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
-### The Clear Face
+For an hour each cycle the voices become audible in Zone A and are addressed to one another rather than to anyone living, and the Warden transcribes what can be made out. Transcription is partial by nature. The file keeps the gaps marked at their true length rather than closed, so that the proportion recovered is visible.
 
-Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Passing Bell is measured truly. Polished, clear, true.
+### A Warning Nobody Can Use
 
-### The Calibration Weight
+What they say is consistently a warning and it has never been deciphered in time, which the file states at the front rather than allowing a reader to discover it. The transcripts are nonetheless kept and indexed. The archivist's note explains that they have been read back after events on several occasions and that the readings were persuasive and too late to matter.
 
-Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Passing Bell is measured on verified instruments. Polished, tested, true.
+### Once Per Cycle
+
+The recurrence is regular and the hour is known in advance, so the district is notified on a standing list in the same manner as the other predictable holdings. The list is the district's own. The facility implements revisions without comment, and the file cross-refers to the holding where that arrangement originated.
+
+### A Specific Wound
+
+The grief behind it is particular rather than general, and the commissioning material concerns a small number of people and a short span of time. It is brief and is not supplemented. The archivist's note repeats the position taken across this group of holdings, that a thin file about something definite is of more use than a thick one about everything nearby.
 
 ## Trivia
 

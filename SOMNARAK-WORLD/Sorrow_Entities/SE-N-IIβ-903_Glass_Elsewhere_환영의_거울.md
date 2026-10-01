@@ -355,16 +355,21 @@ The entity does not rage. It does not weep. It persists — phantasmal and void,
 
 ## Watch Record
 
-### The Quiet Lunch
+### It Reflects What Is Gone
 
-The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. Glass Elsewhere is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
-### The Second Helping
+The surface ripples like water and returns rooms that have been demolished, corridors of buildings no longer standing, and faces of the Fractured, never the room it stands in. The Warden records the category of what appeared. Categories are drawn from a short list and the file notes that the list has not needed extending.
 
-Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. Glass Elsewhere is witnessed by well-fed personnel. Served, seconded, steady.
+### Faces of the Fractured
 
-### The Recipe Card
+Among what it shows are people who have been Fractured, and the holding's rule is that these are not identified, not named in the log, and not reported to anyone. The rule is absolute. The file explains that the reflections may resemble people who are living, that resemblance is not identification, and that the facility is not in a position to tell families anything.
 
-Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. Glass Elsewhere's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+### The Absence That Does Not Fill
+
+The district's own name for it describes a gap that stays open, and the file carries that name beside the classification without preferring either. Both are at the head of the folder. The archivist's note states the usual reason, that the local name is older than the facility's involvement.
+
+### Months of Study
+
+Floor 4 examined it at length and their findings are classified, with only a summary available, and the file reproduces the summary and marks plainly where the rest sits. It does not pretend to completeness. The archivist's note observes that a containment record which conceals its own gaps is worse than one that admits them, and that the marking was insisted upon when the folder was assembled.
 
 ## Trivia
 

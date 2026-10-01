@@ -372,16 +372,21 @@ Some sorrows are about betrayal. Myrmidon is about the betrayal that divides —
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Watered Plant
+### Torn in Two
 
-A plant grows in Myrmidon's muster hall — watered on rotation, tended jointly, the roster's living green. The plant custom assigns every Warden a watering week: tend it, log it, pass it on. The plant has survived every hardship the roster survived — shortages, storms, short staffing. Veterans describe it as the roster's mirror: thriving when the roster thrives, drooping when the roster strains. Counselors check the plant the way they check personnel. Myrmidon is witnessed by gardeners — who water, watch after watch, the green proof that life persists in the containment.
-### The New Leaf
+The figure's outline flickers between what appear to be two incompatible memories, and the Warden logs which of the two is dominant at each observation. Neither predominates overall. The file prints the running proportions and states that they have remained close to even for the whole of the containment, which it offers without interpretation.
 
-The muster plant grows new leaves — each one logged, each one celebrated. New-leaf days are the roster's small festivals. Myrmidon is witnessed where life persists. Watered, leafing, living.
+### It Weeps From the Chest
 
-### The Watering Roster
+The split in its chest is the source of the weeping rather than the face, and the file notes this in the briefing because the detail is consistently misremembered by personnel afterward. The misremembering is itself recorded. The archivist's note observes that accounts written a week later describe a weeping face and that accounts written the same day do not.
 
-Plant watering runs on roster — names scheduled, weeks assigned, never missed. The roster custom treats the plant as a posting: tend it like a watch. Myrmidon's plant thrives on scheduled care. Rostered, watered, thriving.
+### It Reacts to Authority
+
+Symbols of office, inherited violence, and anything standing for the city provoke a response, so personnel work the holding without insignia. Uniform is not worn here. The exemption is formal and is listed in the facility's dress instruction with a reference to this containment, which is the only such entry.
+
+### Loyalty That Tore
+
+Someone discovered that the institution they had served had ruined their family, and the commissioning file holds both halves — their service record and the proceedings that harmed their household. The two are filed together deliberately. The archivist's note states that they overlap in time by several years and that the service record contains commendations issued during that overlap.
 
 ## Trivia
 

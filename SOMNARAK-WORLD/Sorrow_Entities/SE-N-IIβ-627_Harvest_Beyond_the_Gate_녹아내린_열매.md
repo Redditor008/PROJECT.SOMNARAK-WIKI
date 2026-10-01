@@ -381,16 +381,21 @@ Some sorrows mourn a home. Harvest Beyond the Gate mourns the replanting — the
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Watered Plant
+### Fruit That Melts
 
-A plant grows in Harvest Beyond the Gate's muster hall — watered on rotation, tended jointly, the roster's living green. The plant custom assigns every Warden a watering week: tend it, log it, pass it on. The plant has survived every hardship the roster survived — shortages, storms, short staffing. Veterans describe it as the roster's mirror: thriving when the roster thrives, drooping when the roster strains. Counselors check the plant the way they check personnel. Harvest Beyond the Gate is witnessed by gardeners — who water, watch after watch, the green proof that life persists in the containment.
-### The New Leaf
+The dark fruit grows and runs down into the crimson ground, and contact accelerates it, so nothing here is ever picked. The Warden records the number setting and the number lost, and the second figure always equals the first. The file reports the identity of the counts without remark, having established it over a long enough run that it is no longer treated as a finding.
 
-The muster plant grows new leaves — each one logged, each one celebrated. New-leaf days are the roster's small festivals. Harvest Beyond the Gate is witnessed where life persists. Watered, leafing, living.
+### Sweet and Burned
 
-### The Watering Roster
+The air carries both smells together and the combination is noted at each visit as present or absent. It has never been absent. The file keeps the entry anyway and explains why in a line, which is that the smell is the first thing a person notices on the approach and would be the first thing to change.
 
-Plant watering runs on roster — names scheduled, weeks assigned, never missed. The roster custom treats the plant as a posting: tend it like a watch. Harvest Beyond the Gate's plant thrives on scheduled care. Rostered, watered, thriving.
+### It Draws Exiles
+
+People who have been put out of the city come to the orchard without direction, and their arrival is recorded as a count and never as names. Names are not taken at the Gate holdings. The file states that the rule is uniform across them and was adopted so that no exile need weigh being seen against wanting to stand somewhere that grows.
+
+### Trees That Could Not Live Out There
+
+Exiles planted beyond the Gate and the trees failed in that ground, and what remained was the harvest they had imagined, and the commissioning file holds their planting notes. The notes are practical — spacing, watering, the choice of stock. The archivist's note observes that they were written by people who knew how to grow things and that nothing in them accounts for the soil they were working.
 
 ## Trivia
 

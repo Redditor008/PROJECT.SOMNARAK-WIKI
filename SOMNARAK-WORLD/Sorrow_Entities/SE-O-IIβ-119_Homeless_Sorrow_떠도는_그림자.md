@@ -402,16 +402,21 @@ Some sorrows mourn a place. Homeless Sorrow mourns the having-no-place — the d
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Timely Relief
+### No Fixed Shape
 
-Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Homeless Sorrow is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
-### The Early Arrival
+The cold shadow is a stalking quadruped at one moment and many-limbed the next, and the Warden records the form observed from a short printed list rather than describing it. The list was built from the first year's entries. The file notes that it has twelve items and that nothing outside them has been seen since it was compiled.
 
-The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Homeless Sorrow is relieved promptly. Early, briefed, holding.
+### It Flows Between Shadows
 
-### The Relief Log
+Movement is from one dark place to another rather than across open ground, and its route through the Old Lament is plotted against the district's lamp positions. The correspondence is close. The file supplies the lamp schedule with the plot and remarks that the entity's range contracted when the ward replaced several lamps, which is recorded as an observation and not as a method.
 
-Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Homeless Sorrow is witnessed continuously. Arrived, briefed, transferred.
+### Someone Has Just Left
+
+Its presence leaves the impression of a recent departure, and personnel report this consistently, in those terms. The report is logged as a yes or no. The file notes that the sensation has never been absent in an occupied room and that Wardens describe it as the feature that makes the posting lonely rather than frightening.
+
+### Sorrow With Nowhere to Settle
+
+Displaced people moved from room to room after their homes were struck out, and their mourning never had anywhere to rest, and the commissioning file holds the rehousing records. They show many moves per household. The archivist's note observes that each move was properly authorised and properly recorded, and that the records amount to a map of the entity's range.
 
 ## Trivia
 

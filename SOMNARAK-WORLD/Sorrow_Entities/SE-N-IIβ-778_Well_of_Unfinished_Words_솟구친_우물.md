@@ -408,16 +408,21 @@ Some sorrows are about loss. Well of Unfinished Words is about the unspoken — 
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Clean Log
+### It Climbs
 
-The perfect watch log — every reading on time, every notation legible, every margin clean — is the roster's quiet pride. Well of Unfinished Words's archive holds hundreds: watches logged flawlessly, filed promptly, and preserved as the standard. The clean-log custom marks each one: the watch commander's checkmark, the archivist's nod, the log bound with the honored volumes. New Wardens study clean logs before writing their own. Veterans produce them without thinking. Well of Unfinished Words (SE-N-IIβ-778) is witnessed on paper as faithfully as in person — reading by reading, log by log, clean forever.
-### The Archivist's Nod
+The liquid in the shaft rises rather than settling, and the level is read against a graduated staff fixed to the inner wall. The level responds to what is said nearby. Readings are therefore taken in silence by a single person, and the file notes that the silent-reading rule is the only procedure in the holding and is sufficient.
 
-Clean logs earn the archivist's nod — the small sharp gesture of approval, given at filing. Wardens prize the nod the way crews prize commendations. Well of Unfinished Words's archive holds hundreds of nodded logs. The nod approves. The roster logs clean.
+### Walls That Lean Toward It
 
-### The Bound Volume
+The surrounding structures incline inward and the lean is surveyed annually with a plumb line. It has increased slightly. The increase is reported as a measurement with its error stated, and the file declines to describe the walls as listening despite the word appearing in several Warden accounts, which are kept separately.
 
-Clean logs are bound annually — the year's flawless watches gathered, covered, and shelved with the honored volumes. The binding custom closes every year: the archivist's selection, the binder's craft, the volume shelved with ceremony. Well of Unfinished Words's bound years line the archive shelf — proof, in leather and thread, that the roster logs clean. Bound, shelved, honored.
+### It Overflows When Ignored
+
+Neglect produces a rise to the lip and beyond, which makes attendance the containment, and the watch is kept continuously rather than on rounds. The requirement is expensive. The file records that it has been questioned at review on cost and sustained each time, with the reviewing officer's reasoning reproduced.
+
+### Mourners Who Were Dispersed
+
+People gathered at the border to speak of their dead and were moved on before anyone had finished, and the words went into the ground, and the commissioning file holds the dispersal order. It is routine in form and cites a routine ground. The archivist's note observes that the order does not mention a funeral, that the officer who signed it may not have known what was being dispersed, and that the file includes his subsequent statement saying so.
 
 ## Trivia
 

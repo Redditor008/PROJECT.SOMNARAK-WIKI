@@ -408,16 +408,21 @@ Some sorrows are about grief. Mirror of Soaking is about rage — the anger swal
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Spare Key
+### It Rises From the Ground
 
-Every chamber in Mirror of Soaking's containment keeps a spare key — sealed, logged, and held by the watch commander. The spare-key custom governs its custody: sealed at watch start, verified at watch end, used only in the emergencies the doctrine tables. The keys have been used rarely and regretted never — each use logged, each emergency met, each seal replaced after. New commanders receive the keys the way they receive the watch: with briefing, with gravity, with the formula. Mirror of Soaking is secured by keys the roster holds faithfully — spares sealed, customs kept, emergencies answered.
-### The Unbroken Seal
+The mirror comes up during periods of concentrated rage and stays where it appeared, and the holding is accordingly not one place but a series of them, each recorded with its date and position. The positions are plotted on a district map. The plot is uneven and the file prints it without analysis, noting that a map of where the district has been angriest is not a conclusion it wishes to draw.
 
-Spare-key seals are verified unbroken at every watch end — the commander's check, the log's confirmation. Unbroken seals mean unneeded emergencies. Mirror of Soaking's seals hold watch after watch. Sealed, verified, holding.
+### No Face in It
 
-### The Key Ceremony
+The surface returns the anger present rather than the person standing there, and nobody has seen their own reflection in it. Wardens report the absence as disorienting. The file records the effect and states that it diminishes with familiarity, which is offered as information rather than as reassurance.
 
-Watch commanders receive the spare keys with ceremony — the sealed packet, the custody formula, the log's countersignature. The ceremony binds the custody: keys received, responsibility taken, watch begun. Mirror of Soaking's keys pass commander to commander, ceremony by ceremony. Received, held, transferred.
+### Red at Suppression
+
+It brightens for someone holding anger in, specifically, and not for anger expressed, and the distinction has been observed consistently enough to be relied on. Wardens are told of it at briefing. The file notes that several have declined the posting after the briefing and that the declining is recorded without consequence.
+
+### Anger Called Disorder
+
+Collectors treated rage as a defect and asked gratitude from people whose debts were growing, and the commissioning file holds the collection guidance of the period. It instructs staff on managing what it calls difficult temperaments. The archivist's note observes that the guidance is calm, professional, and entirely without malice, and that the mirror came out of the ground underneath it.
 
 ## Trivia
 

@@ -367,16 +367,21 @@ Some sorrows mourn the dead. Survivor's Span mourns the living — the survivor 
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Folded Blanket
+### It Carries Spans
 
-Bunks are made with folded blankets — corners square, edges aligned, the roster's oldest order custom. Inspections check the blankets first: square corners mean disciplined Wardens. Veterans fold without thinking — the creases sharp from years of practice. New Wardens learn the fold before they learn the gauges: order in the bunk, order in the watch. Survivors Span is witnessed by personnel who fold blankets — who keep, in small squares of wool, the discipline that keeps the containment.
-### The Tight Corner
+The weeping figure bears broken bridge sections across its shoulders and the number of spans is counted at each watch. The count does not change. The file notes that the figure's load has been constant throughout the containment and that this is reported because the obvious expectation was that it would accumulate.
 
-Blanket corners are tucked tight — the inspection's first check, the roster's smallest discipline. Tight corners, tight watches. Survivors Span is witnessed by personnel squared away. Folded, tight, ready.
+### Traffic That Is Not There
 
-### The Bunk Inspection
+It bears weight that cannot be seen, and the strain is visible in its posture rather than measurable by anything, so the Warden's record describes the stance against a set of reference drawings. The drawings were made at the opening. They are crude and are retained because a consistent crude reference outperforms a series of better ones.
 
-Bunks are inspected weekly — blankets folded, kits stowed, floors swept. The inspection custom scores fairly and praises publicly. Survivors Span's roster passes inspection standing. Folded, stowed, passing.
+### It Waits Beneath Tunnels
+
+The figure keeps to the underside of crossings and does not leave them, and its locations are mapped against the tunnel network. The map is small and has not grown. The file observes that the constancy of the range is the reason a single Warden has always been sufficient here.
+
+### The One Who Got Across
+
+A tunnel bridge failed in a Han surge and the survivor took the collapse as theirs to carry, and the commissioning file holds their own account, given voluntarily and at length. It is detailed about the others and brief about themselves. The archivist's note observes that the account names everyone who did not cross, in order, and that the survivor's name appears in it only once.
 
 ## Trivia
 
