@@ -411,16 +411,23 @@ Some sorrows mourn the dead. Remembrance mourns the unremembered — the lives t
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Replacement
+### The Surface
 
-Instruments wear out, and Remembrance's containment replaces them — gauges retired past calibration, seals retired past rating, lamps retired past brightness. The replacement protocol governs every swap: the new instrument certified, the old instrument honored, the exchange logged with both service records attached. Retiring instruments are not discarded. They join the quartermaster's shelf — or, for instruments of exceptional service, the muster hall's honored wall. Veterans describe replacements as the containment's renewals: the doctrine continues, the instruments refresh, the watches unbroken across the exchange. Remembrance (SE-C-IIIγ-115) has been witnessed through generations of instruments. Each generation served. Each generation retired honored. The watches never paused.
+It shows the viewer their own past and shows it accurately. Wardens do not look in. The prohibition is absolute, covers reflections caught incidentally, and is the reason the well's cover is closed except during the inspection, which is conducted by touch and by sound rather than by sight. The arrangement is awkward and was adopted after the containment's first period, in which looking was permitted at the Warden's discretion and the discretion proved to be no protection at all.
 
-### The Honored Wall
+### Dark, Warm, Still
 
-The honored wall holds the containment's most distinguished retirees — the gauge that caught the first pressure spike, the seal that held the worst season, the lamp that burned through the longest watch. Each bears its citation: served here, held this, retired honored. New Wardens study the wall before their first watch, learning the instruments' histories the way they learn the roster's. Veterans touch the wall's frame on passing — the way crews touch memorials, the way the night crews touch the spare lamp. Remembrance is witnessed with instruments that will one day hang honored. The wall proves the roster maintains what it uses and honors what has served. Serve well. Retire honored. The wall waits for every instrument standing.
-### The First Reading
+The liquid does not move, does not cool, and does not evaporate, and the three constants are logged each watch by instrument rather than by eye. The series has never varied. It is maintained on the same reasoning applied elsewhere in the wing, which is that an unchanging measurement only means something if somebody has been taking it continuously.
 
-New instruments take their first readings under witness — the installing Warden, the watch commander, and the logbook open. The first-reading custom records the moment: instrument installed, reading taken, service begun. Veterans describe first readings as the containment's small commissionings — new eyes on the entity, sworn to accuracy. The first readings are preserved with the installation logs — baseline truth, witnessed jointly. Remembrance is measured by instruments whose first readings were honored. Installed, witnessed, trusted. The readings continue.
+### Remembered by No One
+
+The memories that collected beneath the Archive belong to people nobody is still mourning, and this is the containment's actual subject. The file holds the Archive's own account of how the accumulation occurred and the point at which it was noticed. The Warden's commissioning material includes it, and the note attached records that the memories arrived because there was nowhere else for them to go.
+
+### The Closed Cover
+
+The cover is lifted only for the inspection and is closed by the Warden who opened it, never by the relief. The rule exists so that no cover is ever left open across a handover, a situation that has arisen once, lasted a few minutes, and produced the standing instruction the following day.
+
+The inspection itself takes only a few minutes and consists of confirming that the liquid is where it should be and that nothing has disturbed the surface, both established by sound alone. Wardens describe the procedure as the strangest routine they perform and perform it without variation.
 
 ## Trivia
 

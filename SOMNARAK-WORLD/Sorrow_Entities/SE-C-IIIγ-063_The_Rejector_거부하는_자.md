@@ -376,16 +376,23 @@ Some sorrows are about what was taken. The Rejector's sorrow is about what was r
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Drill
+### Refusing Without Heat
 
-Emergency drills run on rotation in The Rejector's containment — pressure scenarios, breach simulations, full-muster exercises the roster performs the way musicians practice scales. The drill doctrine is the Directorate's standing answer to complacency: practice the crisis before the crisis practices on you. Drills are unannounced, realistic, and graded — the senior Warden scoring response time, precaution arming, and roster discipline against the standard. Failing drills are repeated. Passing drills are logged. And the roster performs every drill as if The Rejector (SE-C-IIIγ-063) pressed in truth, because the doctrine's spine is realism: drill as you will stand. The roster drills hard. The roster stands harder. The drills prove it, rotation after rotation.
+He denies the debt, the system, and the inheritance, and he does it without anger — the refusal is flat, and he fights as though the outcome does not concern him. This is the containment's difficulty rather than its reassurance. An entity that does not care what happens cannot be deterred, cannot be bargained with, and does not respond to any of the pressures the wing ordinarily relies on, and the standing order says so in its first paragraph rather than leaving Wardens to discover it.
 
-### The After-Action
+### Weightless
 
-Every drill ends with the after-action — the roster gathered, the senior Warden reading the score, each Warden speaking one improvement. The after-action's rule is candor without rank: the newest Warden speaks first, the senior Warden last, and every improvement is logged regardless of source. The after-action log runs continuously — hundreds of entries, each one a small sharpening: faster arming here, clearer signals there, better positioning everywhere. Veterans describe the after-action as the drill's true product: not the practice but the polish. The Rejector is witnessed by a roster that improves on rotation, drill by drill. Practice the crisis. Polish the response. The after-action proves the roster does — one improvement at a time, logged forever.
-### The Perfect Score
+He is lighter than the other two, visibly and measurably, and the difference is logged each watch. It has not changed. The measurement is taken because it is the only quantitative thing the containment produces and because the first Warden argued that a figure which never moves is still worth keeping, there being no way to know in advance which constant is the one that eventually stops being constant.
 
-Once in a generation of drills, a roster scores perfectly — every response on time, every precaution armed, every signal crisp. Perfect drills are logged in gold — the senior Warden's term for the commendation entry, preserved verbatim. The roster that scored it is honored at muster. The drill is studied by every roster after. The Rejector has witnessed perfect drills and held through all of them — practiced crises met with perfect responses. Drill as you will stand. The perfect score proves the roster stands perfectly.
+### What He Watched
+
+The suffering he refused to inherit is documented from the family's own record — the father's payments, the grandfather's instrument, and the household accounts across the whole period. The sequence is complete and the file presents it in order. The archivist's note explains that the three containments here hold one family, that the documents are the same documents read from different ends, and that the Warden should read this one last.
+
+### Reading Them in Order
+
+The family's documents are issued to new Wardens in a fixed sequence beginning with the original instrument and ending here, and the sequence is set out in the commissioning list rather than left to preference. It was arranged this way by the archivist who assembled the three files, on the stated ground that a reader who begins with the refusal will think it unreasonable and a reader who arrives at it last will not.
+
+The sequence is printed on the inside cover of each of the three files so that it cannot be mislaid separately from them.
 
 ## Trivia
 

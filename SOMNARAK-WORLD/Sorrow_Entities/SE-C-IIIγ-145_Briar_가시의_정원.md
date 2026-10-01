@@ -411,16 +411,23 @@ Some sorrows stay soft. Briar is what sorrow becomes when softness becomes too c
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Requisition
+### Reaching Vines
 
-Every instrument in Briar's containment arrived by requisition — requested in writing, justified by need, approved against the quartermaster's unforgiving standard. The requisition files are the archive's driest holding and the roster's proudest: page after page of gauges, seals, lamps, and lines, each one argued for and won. The quartermaster's standing rule governs all of it: need it, prove it, maintain it. Requisitions that prove need are approved. Instruments that arrive are maintained — cleaned, calibrated, and logged — or the quartermaster reclaims them. No ornament has ever survived the quartermaster's review. No necessity has ever been denied it. Briar (SE-C-IIIγ-145) is witnessed with instruments the roster earned by argument and keeps by maintenance.
+The thicket moves and grips what brushes it, and the containment's approach discipline is consequently about clothing and footing rather than about distance. Loose equipment is prohibited in the approach, straps are taped, and nothing is carried that hangs. The rule came from the holding's early period and its justification is a single incident in which a worker was held by a shoulder strap rather than by any part of themselves and was released by cutting the strap.
 
-### The Quartermaster's Shelf
+### Flowers From Grievance
 
-The quartermaster keeps one shelf of retired instruments — gauges that served past calibration, lamps that burned past brightness, seals that held past rating. Each bears its service record: installed this date, maintained this often, retired with honors. New Wardens are shown the shelf before they file their first requisition, and the lesson lands the way honest objects teach: request only what the containment needs, maintain everything the containment grants, and retire with honors what has served past serving. Briar is witnessed with the quartermaster's instruments, standing on the quartermaster's shelf in honorable retirement when their service ends. Need it. Prove it. Maintain it. The shelf proves the roster does.
-### The Approved Stamp
+Every bloom corresponds to a wrong, and the blooms are counted at each watch. The count rises slowly. It is the containment's only indicator and it measures the district rather than the entity, a distinction the standing order draws explicitly so that a rising count is not read as a containment failure. The Warden records the number and nothing else, no attempt being made to identify what any individual flower refers to.
 
-Approved requisitions return bearing the quartermaster's stamp — granted, with the date and the quartermaster's initials. Wardens keep their stamped approvals the way soldiers keep orders: filed, honored, and cited when the instruments arrive. The stamp means the quartermaster agreed — the need was real, the proof sufficed, the containment gains. Briar is witnessed with stamped instruments, every one earned. The stamp approves. The roster maintains. The containment holds.
+### Gentleness Did Not Prevent It
+
+The garden began as memorial planting for losses caused by violence and became what it is because the planting did not stop the violence. The file holds the memorial committee's own minutes across that period, which record the plantings, the hopes attached to them, and the subsequent losses in the same sequence. The archivist's note records that the minutes were kept hopefully throughout.
+
+### The Bloom Count
+
+Counting is done from the margin with a tally rather than from memory, and two Wardens count independently when the figure is expected to have changed. Disagreements are recorded as a range rather than resolved. The practice was adopted after an early period in which single counts were reconciled by discussion and the reconciled figures were found to drift toward whatever the previous watch had entered.
+
+Recorded ranges are entered with both Wardens' names so that a reader can see which pair produced which spread, and the file notes that the spread has narrowed over the containment's history without anyone having been instructed to count more carefully.
 
 ## Trivia
 

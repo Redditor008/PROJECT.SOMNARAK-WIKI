@@ -381,16 +381,21 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The New Warden
+### Constant Motion
 
-Every Warden in The Inheritor's chain stood a first watch — briefed, nervous, and determined. The first-watch protocol pairs every newcomer with a veteran: shadow the watch, ask everything, touch nothing unasked. Veterans describe their first-watch duty as the roster's truest test — not of the newcomer but of themselves. Teaching the containment reveals what the teacher has forgotten. Newcomers ask why the gauge is read twice, why the chamber is eyeballed before the instruments, why the oath's clauses run in their fixed order. Veterans answer, and in answering remember. The Inheritor (SE-C-IIIγ-062) has been learned fresh by every Warden who ever stood it. The learning never ends. The teaching never ends. The chain continues, watch by watch, rookie by rookie.
+He moves when distressed and the movement is the roster's primary indicator — a stationary watch is a quiet one and a pacing watch is not. The Warden logs motion rather than measuring it, in three states agreed when the containment opened and never refined, on the finding that a finer scale produced disagreement between Wardens while a coarse one did not. Nothing is done to settle him. The standing order is explicit that the pacing is not a problem to be managed and that attempts to calm it have twice made it worse.
 
-### The First Log
+### Resenting Both
 
-The newcomer's first log is preserved — bound into the containment file, the rookie's own hand recording the first witnessed watch. First logs are earnest to the point of poetry: readings logged twice, observations tripled, the entity described the way newcomers describe everything — fully, carefully, as if the containment depended on this one log. Veterans read the first logs the way parents keep childhood drawings: with pride, with humor, and with recognition. Every veteran wrote one. Every veteran remembers. The Inheritor is witnessed, rookie after rookie, by personnel whose first logs prove the doctrine's deepest claim: the containment is learned fresh by everyone, and everyone learns it. The first log stands. The Warden stands with it.
-### The Shadow's End
+He holds the one who incurred the debt and the one who refuses it in equal contempt, and the chambers are arranged so that all three are near each other regardless. Wardens are instructed not to carry word between them. The prohibition covers the obvious and the incidental — a remark about one made in another's hearing is a breach — and it exists because the three listen for each other and because the roster established early that the only thing worse than their proximity is their speculation about it.
 
-The newcomer's shadow period ends with the first solo watch — the veteran stepping back, the rookie standing alone, the containment held by new hands. Veterans describe the moment as the roster's true commissioning: not the oath sworn but the watch stood solo. The first solo log is preserved beside the first shadowed log — before and after, student and Warden. The Inheritor has been stood solo by every Warden in its chain. Each one held. Each one holds still.
+### Paying What He Did Not Owe
+
+The obligation he discharged was his parent's and the containment file holds the payment record in full, instalment by instalment, across the years it took. The schedule is unremarkable and complete. Wardens read it on commissioning, and the archivist's note beneath it observes that the document shows a man meeting every term on time and that nothing in it suggests he was ever thanked.
+
+### The Three-State Log
+
+The motion states are recorded as a single mark in a ruled column and the column has used the same three symbols since the containment opened. A proposal to add a fourth intermediate state was tested over a full cycle and withdrawn by the Warden who proposed it, whose closing note records that the extra state was used differently by every person on the roster and that the coarse scale had been right.
 
 ## Trivia
 

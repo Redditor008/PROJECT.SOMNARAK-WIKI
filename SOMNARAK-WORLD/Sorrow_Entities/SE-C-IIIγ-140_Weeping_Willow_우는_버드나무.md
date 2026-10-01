@@ -384,16 +384,23 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Nightingale Shift
+### Shelter
 
-The nightingale shift is the roster's term for a watch so quiet it sings — readings nominal, entity quiescent, the whole of Weeping Willow's containment humming at peacetime pitch. Nightingale watches are logged the way all watches are logged, with one addition: the watch commander's nightingale mark, a small notation in the margin recording that the quiet held the whole watch through. Commanders prize the mark the way sailors prize fair winds — not as achievement but as grace. The quiet is never earned. It is received, logged, and passed to the relief with gratitude. Weeping Willow (SE-C-IIIγ-140) has granted the roster many nightingale shifts. Each one is marked. Each one is remembered. And each one steadies the roster for the watches that sing less sweetly.
+Mourners come beneath the branches and the Willow permits it, and the containment's boundary was drawn to allow access rather than to prevent it. This was contested when the holding was established and was settled by the district rather than by the facility: the Gardens are a place people grieve in, the tree is part of that, and a fence would have made the facility the thing standing between mourners and a place of mourning. Wardens keep watch from the margin and do not approach anyone beneath it.
 
-### The Quiet Ledger
+### The Falling
 
-The quiet ledger compiles every nightingale mark in the containment's history — dates, commanders, and the watch conditions that made the quiet possible. The ledger's purpose is morale made tangible: proof, in the commanders' own hands, that the containment holds far more often than it strains. New Wardens read the ledger on commissioning. Veterans consult it before hard watches. And the senior Warden cites it at every briefing where the roster's confidence wavers: the quiet outnumbers the pressure a hundred to one. The ledger proves it. Weeping Willow is witnessed, watch after watch, by personnel who know the numbers — and the numbers say the containment holds, the quiet returns, and the nightingale sings more often than it silent.
-### The Dawn Chorus
+Crystallized leaves fall continuously and are not swept while visitors are present. Collection happens at the end of the day, by hand, and the material goes to sealed storage. The timing is the whole of the rule and the reason is given in the standing order: the falling is what people come to sit under, and a Warden clearing it as it lands would be tidying somebody's grief away in front of them.
 
-The morning after a nightingale shift, the relief arrives to birdsong — the roster's term for a handover with nothing to report. Readings nominal, entity quiescent, the quiet passed intact. Veterans describe dawn-chorus handovers as the watch's benediction: the night held, the day inherits peace. Weeping Willow grants them regularly. The roster receives them gratefully. And the quiet ledger grows — mark by mark, chorus by chorus.
+### Places of Ending
+
+It grows near where things finish, and the containment file maps its position against the Gardens' own history of memorials, closures, and last occasions. The correlation is strong. The map is held with the file and is shown to Wardens on commissioning, and the archivist's note observes that the tree did not choose a sad place so much as that the place had been one for a long time.
+
+### End of Day
+
+Collection begins after the Gardens close and is done without lamps where the light allows, the Wardens working slowly and finishing when they finish. No time is allotted to the task in the roster. It was left unscheduled deliberately when the containment was established and no commander since has proposed giving it a duration.
+
+Wardens working the collection are not rostered to any other duty that day, which is the only concession the schedule makes and was arranged quietly rather than written into the standing order.
 
 ## Trivia
 

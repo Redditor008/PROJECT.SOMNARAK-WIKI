@@ -420,16 +420,23 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Storm Duty
+### Binding
 
-When crisis strikes elsewhere, The Dancing Chains's roster stands storm duty — full watches on short staffing, precautions maintained while reserves deploy outward. Storm duty is the containment's contribution to the Directorate's larger battles: holding firm at home while the institution fights abroad. The storm protocol runs the roster lean: essential watches only, tightened rotations, the senior Warden holding the center. Veterans describe storm duty as the roster's truest test — not of skill but of steadiness. The entity presses. The reserves are gone. The roster holds anyway. The Dancing Chains (SE-C-IIIγ-102) has weathered every storm duty the archive records without a watch unstood. The roster holds at home. The Directorate fights abroad. Both hold because both hold.
+Once the chains close on a person they cannot be removed by that person, and release requires another pair of hands. This single fact governs the containment: nothing here is ever done alone, the two-person rule admits no exception for brevity or convenience, and the second Warden's presence is required even for tasks that plainly need one. The rule's justification is one line in the standing order and has never been elaborated, because the file's drafters judged that the sentence describing what happens otherwise was sufficient.
 
-### The Lean Log
+### Pulsing
 
-Storm duties are logged in the lean log — watches stood short-handed, readings taken under strain, the roster's performance at minimum strength. The lean log's entries are terse to the point of pride: short roster, full doctrine, held. Commanders cite the lean log whenever staffing debates arise: the roster holds lean, the log proves it, the standard survives shortage. But the lean log's standing lesson is caution, not comfort — the senior Warden's annotation reads: held, and never again if avoidable. Leanness proves the roster. Fullness protects it. The Dancing Chains is witnessed, storm after storm, by personnel who hold lean when they must and full when they can. The lean log proves the must. The roster prefers the can.
-### The Full Strength
+They brighten near sorrow and dim near joy and pulse in the presence of strong feeling of any kind, which makes them a usable indicator of the room rather than of themselves. The Warden logs brightness. The scale is crude, three steps, and was deliberately kept crude after a finer one produced readings that varied more with the Warden than with the chains.
 
-Storm duty ends with the return to full strength — reserves recalled, roster restored, the lean log closed with the final entry: full strength resumed. Veterans describe the restoration as the roster's deep breath: the crisis passed, the strength returned, the containment held throughout. The senior Warden reads the lean log aloud at the restoration muster — every short watch honored, every strained reading praised. The Dancing Chains weathered lean. The Dancing Chains stands full. The roster held both, and holds still.
+### The Forgotten Story
+
+The tale the chains came from is lost and its compulsion is not, and the containment file holds what the archivists have been able to recover of the narrative — fragments, variants, and two incompatible endings. Neither ending involves the dancer stopping. The archivist's note records that this was checked carefully in the hope that it did.
+
+### Two Pairs of Hands
+
+The second Warden's presence is logged by name alongside the first for every task, however short, and the two names are written by two different people. Single-signature entries are treated as procedural failures regardless of outcome and are reviewed. Three have occurred. All three were self-reported by the Warden who had worked alone, and the file records that in each case nothing had gone wrong.
+
+Reviews of single-signature entries are conducted by a Warden from outside the containment and conclude with a finding rather than a sanction, the roster having established at the outset that a rule people report themselves for breaking is a rule worth protecting from punishment. The reviewing Warden's finding is entered in a single line and the matter is then closed permanently, with no entry made against the individual's record anywhere in the facility.
 
 ## Trivia
 

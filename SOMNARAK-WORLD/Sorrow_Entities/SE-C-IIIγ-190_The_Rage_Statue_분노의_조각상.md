@@ -384,16 +384,23 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Drill
+### The Unfinished Blow
 
-Emergency drills run on rotation in The Rage Statue's containment — pressure scenarios, breach simulations, full-muster exercises the roster performs the way musicians practice scales. The drill doctrine is the Directorate's standing answer to complacency: practice the crisis before the crisis practices on you. Drills are unannounced, realistic, and graded — the senior Warden scoring response time, precaution arming, and roster discipline against the standard. Failing drills are repeated. Passing drills are logged. And the roster performs every drill as if The Rage Statue (SE-C-IIIγ-190) pressed in truth, because the doctrine's spine is realism: drill as you will stand. The roster drills hard. The roster stands harder. The drills prove it, rotation after rotation.
+The fist is raised and never falls. The statue cannot be moved from the stance, has resisted every attempt to shift it, and radiates rage continuously without ever acting on it. Wardens report the incompleteness as the difficult part — not the fury but the fact that it does not arrive — and the counselors have recorded this consistently enough that the briefing now states it in advance rather than leaving each Warden to find the words themselves.
 
-### The After-Action
+### Radiating
 
-Every drill ends with the after-action — the roster gathered, the senior Warden reading the score, each Warden speaking one improvement. The after-action's rule is candor without rank: the newest Warden speaks first, the senior Warden last, and every improvement is logged regardless of source. The after-action log runs continuously — hundreds of entries, each one a small sharpening: faster arming here, clearer signals there, better positioning everywhere. Veterans describe the after-action as the drill's true product: not the practice but the polish. The Rage Statue is witnessed by a roster that improves on rotation, drill by drill. Practice the crisis. Polish the response. The after-action proves the roster does — one improvement at a time, logged forever.
-### The Perfect Score
+Anger spreads from it and is felt by anyone in the chamber, and the standing order's response is procedural rather than protective: Wardens do not make decisions in the room. Anything requiring judgment is carried out of the chamber and settled outside it, however trivial, and the rule covers routine matters specifically because the serious ones were never the problem. It was adopted after a watch in which two Wardens argued over a scheduling matter and both later described the argument as unlike them.
 
-Once in a generation of drills, a roster scores perfectly — every response on time, every precaution armed, every signal crisp. Perfect drills are logged in gold — the senior Warden's term for the commendation entry, preserved verbatim. The roster that scored it is honored at muster. The drill is studied by every roster after. The Rage Statue has witnessed perfect drills and held through all of them — practiced crises met with perfect responses. Drill as you will stand. The perfect score proves the roster stands perfectly.
+### Prevented From Resisting
+
+Those wronged without the power to answer are documented from the complaint records of the period, which are substantial and which were filed, received, and left unactioned in their thousands. The file holds a representative run. The archivist's note observes that the complaints are reasonable, specific, and almost all correct, and that the statue is what happened to them.
+
+### Decisions Outside
+
+The rule covers rostering, equipment, and anything requiring agreement between two people, and Wardens step into the corridor to settle such matters even when the chamber is quiet. Visitors find the practice strange and it is explained to them at the door. The explanation is brief and has not needed revision since the watch in which it was first required.
+
+The door explanation is given by whichever Warden is nearest and is not scripted, which was a deliberate choice: a form of words issued by the facility would have made the practice sound like policy rather than like something the roster had learned.
 
 ## Trivia
 

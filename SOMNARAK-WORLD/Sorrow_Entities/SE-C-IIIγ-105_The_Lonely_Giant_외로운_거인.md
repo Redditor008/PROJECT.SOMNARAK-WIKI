@@ -383,16 +383,23 @@ Some sorrows are about belonging lost. The Lonely Giant's sorrow is about belong
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Letter
+### Care
 
-Wardens in The Lonely Giant's chain write letters — to family, to friends, to the civilian lives they maintain alongside the watches. The letter custom is the roster's oldest morale practice: write honestly, write regularly, and write home. The Directorate censors nothing and reads nothing — the letters are sealed, private, and sacrosanct. Veterans describe the custom as the roster's ballast: the watches demand everything, and the letters return something. News from outside. Love from afar. The reminder that the city the roster protects contains people who write back. The Lonely Giant (SE-C-IIIγ-105) is witnessed by personnel with lives beyond the chamber — lives the letters maintain, one sealed page at a time. The watches take. The letters give. The roster holds both.
+It avoids buildings and people and sits down carefully when approached rather than striking, and every account in the containment's record describes an entity trying not to cause harm. The tremors are incidental to its weight and not to its intent. The standing order is accordingly built around giving it room rather than restricting it: the approach corridor is wide, the fittings are set high, and the floor was specified to a tolerance that engineering described at the time as generous and has never regretted.
 
-### The Post Box
+### The Eyes
 
-The facility's post box stands in the muster hall — plain, battered, and emptied daily. Wardens post their letters between watches, and the box fills the way morale fills: steadily, quietly, without ceremony. The post custom requires nothing but the box's presence — no quotas, no reminders, only the standing invitation of the empty slot. Counselors monitor the box's volume the way engineers monitor gauges: full box, healthy roster. The box has never stood empty a full rotation. The Lonely Giant is witnessed by personnel who write home — who maintain, through sealed pages and daily postings, the civilian ballast that steadies the watches. The box stands. The letters flow. The roster writes, the city answers, and the containment holds on ballast of paper and love.
-### The Reply
+The sadness in its face is the part Wardens report years afterward, and the counselors treat the watch as an exposure on that basis rather than on any physical measure. Follow-up contact is routine and is made whether or not anything is reported. The provision was added after a long-serving Warden disclosed, at the end of a posting, that they had found the watch difficult throughout and had not mentioned it because nothing had happened.
 
-Letters from home arrive with the supply runs — answers to the roster's sealed pages, love returned for love sent. The reply custom gives Wardens an hour with their mail before the next watch: read privately, treasure fully, stand steadied. Veterans describe reply days as the roster's refueling — the civilian ballast renewed, the watches re-steadied. Counselors note the correlation openly: reply days precede the steadiest watches. The Lonely Giant is witnessed by personnel who are written to — who stand, watch after watch, on ballast of paper and love, sent and answered.
+### Too Much for the World
+
+The people whose isolation formed it are documented in the containment file through the withdrawal records of the period — tenancy endings, employment lapses, and the municipal notes that followed. The documents are administrative and say nothing about why. The archivist's note observes that the city recorded these departures carefully and asked after none of them.
+
+### The Wide Corridor
+
+The approach was built oversized against the engineering standard of the day and the additional cost was carried without argument. The specification note survives and gives its reason in one line, which is that the entity tries not to touch things and should be given room to succeed.
+
+The specification note is held with the chamber drawings rather than in the containment file, where successive engineering staff have encountered it while planning unrelated work. Two have added their initials beneath the line. Neither was asked to, and neither explained why. The drawings themselves are stored flat rather than rolled, in a cabinet in the engineering office, and are consulted perhaps once a cycle. The sheet carrying the note is the most worn of the set, which the office attributes to nothing in particular and has never investigated, the cabinet being open to anyone who works there and the sheet being near the front.
 
 ## Trivia
 

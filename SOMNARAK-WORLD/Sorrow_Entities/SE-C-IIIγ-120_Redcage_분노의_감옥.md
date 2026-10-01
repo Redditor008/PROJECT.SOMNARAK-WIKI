@@ -411,16 +411,23 @@ Some sorrows mourn freedom lost. Redcage mourns the particular freedom of being 
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Overtime
+### Empty
 
-Some watches run long — relief delayed, pressure rising, the roster holding past the rotation. The overtime custom governs every extended watch: the holding roster stays willingly, the relief hurries honestly, and the extra hours are logged as overtime honored. No Warden has ever been ordered to overtime. Every Warden has stood it. Veterans describe the custom as the roster's handshake: we hold until relieved, relieved or not. The overtime log records every extension — hours held, reason delayed, relief arrived. The log's entries are uniformly proud: held two extra, relief delayed by storm, containment unbroken. Redcage (SE-C-IIIγ-120) has never stood an unheld watch — relief or no relief, rotation or overtime. The roster holds until relieved. The custom guarantees it.
+The cage holds no one and has never held anyone, and the bars pulse regardless. New Wardens are told this before their first watch because the obvious assumption is that something is inside and the assumption shapes how a person behaves in the room. There is nothing to feed, nothing to observe, and nothing to release. The standing order describes the duty as guarding an empty cage and does not soften the phrase.
 
-### The Relief
+### Growth
 
-Relief, when it arrives, is the roster's sweetest moment — the relieving Warden's hand on the door, the standing Warden's briefing delivered, the watch transferred with the formula: I relieve you. I stand relieved. The relief custom requires the full briefing regardless of delay — no shortcuts for lateness, no abbreviations for haste. The arriving Warden hears everything, confirms everything, and takes the watch fresh. Veterans describe reliefs as the containment's heartbeat: regular, complete, and unfailing. Redcage is witnessed watch after watch without a gap — each watch handed to the next, each Warden relieved in full. Hold until relieved. Relieve in full. The heartbeat continues, watch after watch, forever.
-### The Extra Hour Honored
+It enlarges whenever a fresh injustice occurs, and the growth is measured against fixed marks on the floor. The series rises. It has risen in every period of the containment's operation without exception, and the Warden's handover includes the current dimension spoken aloud. The file notes that the figure has never fallen and that no mechanism by which it could has been proposed.
 
-Overtime hours are honored at muster — the senior Warden reading the overtime log aloud, each extension praised by name. The honor custom treats held hours as the roster's gift: given willingly, received gratefully, praised publicly. Veterans describe the reading as the overtime's true pay — not the logged hours but the spoken thanks. The honored roster stands straighter after. Redcage has never stood an unheld watch, and the muster proves the roster knows it. Held past rotation. Honored at muster. The custom continues.
+### Those Who Were Jailed
+
+The citizens imprisoned for debts and crimes they did not commit are listed where the court records permit, and the list is long and incomplete. It is held open. Additions arrive occasionally from families and are entered without verification where verification is impossible, under a standing instruction that the burden of proof will not fall on the relatives of people the courts already failed.
+
+### The Floor Marks
+
+Marks are cut rather than painted and each carries its date, and setting a new one requires the senior Warden's authorization because it records that the cage has grown. The authorizations are kept in their own short register. Wardens consult it more often than the dimensional log, the dates being easier to feel than the figures.
+
+Entries in the register give the date, the authorising Warden, and the distance moved, and nothing else. The column for a reason was removed from the form early in the containment's operation after it was observed that every entry in it said the same thing. The removed column survives on the obsolete form stock, which was never destroyed and is still stored with the register, and new Wardens are usually shown a blank old sheet alongside the current one.
 
 ## Trivia
 

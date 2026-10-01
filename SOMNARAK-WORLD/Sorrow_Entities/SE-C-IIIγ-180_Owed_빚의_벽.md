@@ -392,16 +392,23 @@ Some sorrows are carried. Owed is a sorrow that, carried too long by too many, s
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The New Warden
+### Blocking the Way
 
-Every Warden in Owed's chain stood a first watch — briefed, nervous, and determined. The first-watch protocol pairs every newcomer with a veteran: shadow the watch, ask everything, touch nothing unasked. Veterans describe their first-watch duty as the roster's truest test — not of the newcomer but of themselves. Teaching the containment reveals what the teacher has forgotten. Newcomers ask why the gauge is read twice, why the chamber is eyeballed before the instruments, why the oath's clauses run in their fixed order. Veterans answer, and in answering remember. Owed (SE-C-IIIγ-180) has been learned fresh by every Warden who ever stood it. The learning never ends. The teaching never ends. The chain continues, watch by watch, rookie by rookie.
+It stands across a thoroughfare that people need, and the containment has never been permitted to close the route entirely. A managed passage runs around it, maintained by the municipal office and inspected by the facility, and the arrangement costs both parties more than a closure would. The reasoning is in the original instrument: the Wall is made of obligation blocking movement between people, and a facility that responded by blocking the street would be completing it.
 
-### The First Log
+### New Blocks
 
-The newcomer's first log is preserved — bound into the containment file, the rookie's own hand recording the first witnessed watch. First logs are earnest to the point of poetry: readings logged twice, observations tripled, the entity described the way newcomers describe everything — fully, carefully, as if the containment depended on this one log. Veterans read the first logs the way parents keep childhood drawings: with pride, with humor, and with recognition. Every veteran wrote one. Every veteran remembers. Owed is witnessed, rookie after rookie, by personnel whose first logs prove the doctrine's deepest claim: the containment is learned fresh by everyone, and everyone learns it. The first log stands. The Warden stands with it.
-### The Shadow's End
+Material appears whenever an obligation is added anywhere in the city, without construction and without warning, and the Warden's watch includes a dimensional check against fixed marks. The figure rises. It has never fallen, no block has ever been observed to appear, and the growth is always found rather than witnessed — a fact recorded in the standing order so that Wardens do not spend their watches waiting to see one.
 
-The newcomer's shadow period ends with the first solo watch — the veteran stepping back, the rookie standing alone, the containment held by new hands. Veterans describe the moment as the roster's true commissioning: not the oath sworn but the watch stood solo. The first solo log is preserved beside the first shadowed log — before and after, student and Warden. Owed has been stood solo by every Warden in its chain. Each one held. Each one holds still.
+### Beyond the Ledgers
+
+The debts that formed it exceeded what the Collector ledgers could hold, and the containment file reproduces the final reconciliation attempt: a document in which the figures stop being tallied and the clerk's hand records that the total could not be arrived at. The entry is brief. It is the last page of the ledger and the first document in the Warden's file.
+
+### The Managed Passage
+
+The diversion is lit and surfaced to the municipal standard rather than to the facility's, which is higher, and the difference was the district's choice. Their position, recorded in the agreement, was that a route maintained to facility standard would look like facility property and that the street belonged to the people using it.
+
+Inspection of the passage is carried out jointly, a facility Warden walking it alongside a municipal officer, and the two sign a single sheet. The joint form was the district's idea and replaced two separate returns that had disagreed with each other twice. Copies of the signed sheet go to both offices and neither keeps the original, an arrangement nobody planned and which has persisted without difficulty.
 
 ## Trivia
 

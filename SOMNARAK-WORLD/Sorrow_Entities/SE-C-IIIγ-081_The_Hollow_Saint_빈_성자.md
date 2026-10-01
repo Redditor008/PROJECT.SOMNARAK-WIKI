@@ -371,16 +371,21 @@ Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and t
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Visitor
+### The Absence
 
-Civilians visit The Hollow Saint's facility on escorted rotation — oversight committees, trainee cohorts, the occasional dignitary requiring proof the Directorate spends wisely. The visitor protocol governs every tour: see the precautions, meet the roster, witness the doctrine practiced. Escort Wardens perform the protocol the way docents perform museums — proudly, precisely, and with the veteran's pleasure in showing work well done. Visitors ask the questions visitors always ask: is it safe, is it wise, is it worth it. The escort answers with the containment itself: the gauges, the logs, the roster standing. The Hollow Saint (SE-C-IIIγ-081) receives few visitors and impresses all of them. The protocol proves the Directorate's case the way only practice proves anything: by showing.
+Its body is shaped around a hollow and the hollow is not fillable. Comfort offered in the ordinary way does nothing, and the containment's early period consists largely of attempts to establish otherwise — food, warmth, company, speech — all recorded, all unsuccessful, and all retained in the file so that nobody repeats them believing the ground untested. The Warden's instruction is to offer nothing. It is the hardest provision in the wing to comply with and the briefing says so plainly.
 
-### The Guest Book
+### Reaching
 
-Visitors sign the guest book — name, office, and one line of impression. The book runs to volumes: oversight satisfied, trainees inspired, dignitaries reassured. The roster reads the guest book the way crews read commendations: with pride earned and perspective kept. The visitors see the containment for an hour. The roster stands it for careers. But the guest book's lines prove what the roster sometimes forgets mid-watch: the work shows. The doctrine reads. The containment impresses even the skeptical. The Hollow Saint is witnessed by personnel the visitors praise and the Directorate trusts. The guest book holds the praise. The roster holds the entity. Both holdings grow, visit after visit, watch after watch.
-### The Return Visit
+It extends its hands toward anyone nearby, continuously, and the reaching does not stop when it is not answered. Wardens work from beyond its range. The boundary is marked and is set generously, further out than the entity's reach requires, because the distance was chosen to protect the Warden from the choice rather than from the contact — a worker standing just outside arm's length is a worker deciding every minute not to step forward.
 
-Some visitors return — oversight satisfied so fully they bring colleagues, trainees inspired so deeply they request posting. Return visits are the escort Wardens' proudest moments: the containment impressed once, and the impressed came back. The guest book's return entries are marked with the escort's star — came, saw, returned. The Hollow Saint collects return visitors the way the roster collects commendations: steadily, deservedly. Visit once, impressed. Return, convinced. The containment proves itself twice.
+### The Healer
+
+The person who absorbed others' pain until nothing of them remained is named in the containment file, and the file holds their practice record: the patients, the dates, the volume of work across the years. It is a long document and an entirely ordinary one. The archivist's note observes that the record shows no misconduct, no error, and no moment at which anyone intervened, and that the Warden should understand the entity as the end of a career rather than as the result of an incident.
+
+### The Tested Comforts
+
+The record of early attempts is kept as a plain list — what was offered, when, and what happened — with no narrative and no conclusions drawn. It runs to a single page. Wardens are shown it at commissioning precisely because it is dry, the file's drafters having judged that a page of failed kindnesses states the position more effectively than any instruction forbidding them would.
 
 ## Trivia
 

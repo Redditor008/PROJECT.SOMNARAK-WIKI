@@ -418,16 +418,23 @@ Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens whe
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Anniversary
+### The Changing Pool
 
-Every cycle, on the containment's founding date, The Sorrow Fountain's roster holds the anniversary — the full chain mustered, the founding log read aloud, the year's watches honored. The anniversary reads the numbers: watches stood, readings logged, pressures weathered. Then the senior Warden reads the names: the roster present, the roster rotated, the roster remembered. New Wardens hear what the containment is. Veterans hear what they maintain. And the founding log — the first watch, the first readings, the oath sworn fresh — binds the anniversary to the origin: this is what was sworn, this is what was kept, this is what continues. The Sorrow Fountain (SE-C-IIIγ-088) has been held for every anniversary the archive records. The roster intends to hold every anniversary after.
+Depth follows the grief of whoever is present and is read at every watch against a graduated mark cut into the basin. The Warden records the level and their own name, and the pairing is deliberate: the reading is partly a measurement of the person taking it, and the file prefers that this be visible rather than hidden in an apparently objective number. Wardens have found the practice uncomfortable. None has asked for it to be removed.
 
-### The Founding Log
+### No Reflection
 
-The founding log is preserved under glass — the first watch's readings, the first commander's hand, the oath's first swearing. Trainees read it through the glass before they read anything else, and the lesson lands the way origins teach: everything the containment is began here, with these readings, this roster, this oath. The founding log's margins carry the first commander's annotations — steady, holds, continue — preserved in the original hand. Veterans touch the glass on anniversary. Newcomers press close to read. The Sorrow Fountain is witnessed by the latest link in a chain the founding log began. The glass protects the page. The roster protects everything else. The anniversary binds them: origin and present, sworn and kept, held then and held now.
-### The Toast
+The surface returns no face. Objects reflect normally and people do not, and the effect has been tested carefully enough to establish that it is specific rather than general. The tests are recorded and are not repeated. The standing order's only provision is that Wardens are told before their first watch, the omission of this from the original briefing having produced two reports that the file describes as avoidable distress.
 
-The anniversary closes with the toast — the roster raised glasses (water, on duty) to the containment held and the year coming. The senior Warden speaks the formula: to the watches stood, the pressures weathered, and the oath renewed. The roster answers: held, weathered, renewed. Veterans describe the toast as the anniversary's seal — the ceremony closed, the year blessed, the containment commended by its own. The Sorrow Fountain is toasted every anniversary. The glasses rise. The oath holds.
+### Listening
+
+The Fountain quiets when somebody listens to it, which is the containment's single mitigation and requires nothing but attention. Wardens are permitted to sit with it and most do. The practice is not rostered, not logged, and not counted as duty, and a proposal to formalize it was declined on the ground that a required listening would not be listening and that the entity appears able to tell the difference.
+
+### Sitting With It
+
+Time spent listening is not recorded anywhere, which is deliberate, and Wardens who do it are not asked about it at handover. The one thing the roster does track is that the practice continues, inferred from the fact that the Fountain's recorded level falls more often than its visitor pattern would explain. Nobody has investigated the discrepancy further.
+
+The basin's graduation was cut by the first Warden using a chisel borrowed from the Gardens' own maintenance store, which is recorded in the file because the borrowing was never formalised and the chisel was never returned. The Gardens have not asked for it. It hangs beside the mark it made.
 
 ## Trivia
 
