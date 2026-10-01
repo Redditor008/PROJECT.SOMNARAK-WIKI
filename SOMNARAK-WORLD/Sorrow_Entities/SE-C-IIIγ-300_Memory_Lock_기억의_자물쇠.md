@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Memory Lock.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Lock has no key and no mechanism behind the plate, yet it is unmistakably fastened.
+- Work loosens nothing. A successful cycle lowers pressure in the bay while leaving the Lock exactly as found.
+- Only Viderehan and Ferrehan apply. Attempts to work the object by other means are not recorded as effective.
+- Personnel who handle it report losing the reason they came to deep storage. Debrief at the bay door rather than at shift end.
+- Extraction draws on residue at the plate and is authorized apart from routine work.
 
 ## Combat Record
 ### Core Stat Line

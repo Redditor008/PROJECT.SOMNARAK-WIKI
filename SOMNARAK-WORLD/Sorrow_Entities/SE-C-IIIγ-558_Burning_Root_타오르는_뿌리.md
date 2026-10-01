@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Burning Root.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Root burns without consuming itself and has not shortened since it was first logged on Collector's Row.
+- A successful cycle banks the burn. The Root is not diminished, and the heat returns within the shift.
+- The margin is two conditions. Escalation travels along the root line rather than from the visible end.
+- Burden pressure accumulates faster than the gauge shows. Crews are rotated on time, not on reading.
+- Extraction is authorized apart from the work cycle and is never a reward for a clean shift.
 
 ## Combat Record
 ### Core Stat Line

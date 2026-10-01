@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Sunken Pillar.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Pillar is mobile despite its mass, and it is never recorded in the same position twice across the Desolate.
+- A cycle settles it for a shift. Position is not held, and the entity is unchanged by a successful outcome.
+- Observation and endurance are the valid approaches; Viderehan and Ferrehan are both logged against it.
+- No breach counter exists. Personnel log bearing and distance at contact, since the Pillar's location is the only variable that reliably changes.
+- Extraction is a separate authorization and is not treated as routine recovery.
 
 ## Combat Record
 ### Core Stat Line

@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Beating Relic.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Relic keeps a rhythm that does not match any pulse taken from personnel in the room.
+- A successful cycle slows the beat. It has never stopped it, and the rhythm resumes at its own tempo.
+- Three ignored conditions escalate it. The body register is the channel of contact, so the first symptom is physical rather than emotional.
+- Personnel who report their own pulse matching the Relic are withdrawn immediately and not returned to the rotation that shift.
+- Extraction is a separate risk event with its own authorization.
 
 ## Combat Record
 ### Core Stat Line

@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Frozen Echo.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Echo is held mid-sound near The Scar, and the sound resumes from exactly where it stopped when conditions shift.
+- Work extends the pause. It does not end the sound, and no cycle has shortened what remains of it.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- There is no breach counter. The frozen field expands, and its edge is marked physically at every session.
+- Extraction draws from the field edge and carries its own authorization.
 
 ## Combat Record
 ### Core Stat Line

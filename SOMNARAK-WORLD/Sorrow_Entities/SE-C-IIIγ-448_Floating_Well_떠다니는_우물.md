@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Floating Well.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Well hangs above the Forge District floor and does not drift, though nothing supports it.
+- Work settles it closer to the ground. It rises again between shifts, and the resting height has not changed across the record.
+- Two ignored conditions escalate it. The escalation is vertical — the Well climbs rather than advances.
+- Grudge expression reaches personnel as structural strain; the gantry below is load-tested on a fixed schedule.
+- Recovery of the implement is a separate exposure event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

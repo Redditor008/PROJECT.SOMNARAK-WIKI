@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Eleven Fifty-Nine.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The hour never completes. Instruments in the room agree on the minute and disagree on the day.
+- A cycle holds the minute steady for a shift. The entity is not advanced or reversed by good work.
+- Three ignored conditions escalate it. Contact runs through the lament register, and the escalation is felt as anticipation rather than fear.
+- Personnel are issued external timepieces that are checked against the facility clock at the door, both entering and leaving.
+- Extraction is a separate authorization and carries the same temporal exposure.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Devouring Bloom.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Bloom opens in the deep tunnels where there is no light, and it closes around what is nearest rather than what moves.
+- A completed cycle slows the opening. The Bloom is not reduced, and the tunnel recovers nothing it has taken.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- No breach counter applies. The growth front advances along the tunnel, and its position is marked at every session rather than estimated.
+- Residue from the growth front is the extraction source, under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

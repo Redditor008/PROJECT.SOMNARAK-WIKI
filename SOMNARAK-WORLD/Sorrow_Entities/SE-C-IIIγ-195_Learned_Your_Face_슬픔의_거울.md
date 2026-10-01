@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Learned Your Face.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The object returns a face to anyone who looks into it, and the face is always one the viewer has stopped thinking about.
+- A completed cycle dulls the surface for a shift. The entity retains every face it has learned, and the set has only grown.
+- Viderehan and Ferrehan are the valid approaches; neither has removed a learned face from the record.
+- There is no breach counter because the object expands its recognition range rather than escaping. The range is remeasured from the Alpha Tree bay at every session.
+- Extraction is a separate authorization and carries the same recognition hazard as direct observation.
 
 ## Combat Record
 ### Core Stat Line

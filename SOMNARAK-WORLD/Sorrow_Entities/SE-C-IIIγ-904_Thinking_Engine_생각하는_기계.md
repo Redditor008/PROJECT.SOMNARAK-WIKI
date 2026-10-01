@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Thinking Engine.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Engine runs without input and produces output no operator has requested.
+- Work interrupts the process. It resumes from where it was interrupted, and nothing logged has cleared its working state.
+- The margin is three conditions. Contact runs through the mind register, so escalation presents as conclusions the operative did not reach.
+- Crews work in pairs and compare notes aloud; a divergence between two accounts is the reliable early warning.
+- Recovery of the implement is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line
