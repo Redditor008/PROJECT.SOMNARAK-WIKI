@@ -366,16 +366,21 @@ Tactical Instruction: Reserve this A-Relic exclusively for sovereign-class or he
 
 ## Warden Record
 
-### The Overtime
+### The Iron
 
-Some watches run long — relief delayed, pressure rising, the roster holding past the rotation. The overtime custom governs every extended watch: the holding roster stays willingly, the relief hurries honestly, and the extra hours are logged as overtime honored. No Warden has ever been ordered to overtime. Every Warden has stood it. Veterans describe the custom as the roster's handshake: we hold until relieved, relieved or not. The overtime log records every extension — hours held, reason delayed, relief arrived. The log's entries are uniformly proud: held two extra, relief delayed by storm, containment unbroken. The Wedge That Held (SE-O-IIIγ-412) has never stood an unheld watch — relief or no relief, rotation or overtime. The roster holds until relieved. The custom guarantees it.
+The wedge is hand-beaten from porous volcanic black iron, its head mushroomed by sledgehammer work and its flats carved with eighteen apprentice serial codes, and the codes are the inventory. Each is recorded against the apprentice it belonged to where the shift registers allow the match. Most match. The ones that do not are listed as unmatched rather than guessed at, and the file states that the registers for that shift were themselves damaged in the Rupture.
 
-### The Relief
+### Fever Heat
 
-Relief, when it arrives, is the roster's sweetest moment — the relieving Warden's hand on the door, the standing Warden's briefing delivered, the watch transferred with the formula: I relieve you. I stand relieved. The relief custom requires the full briefing regardless of delay — no shortcuts for lateness, no abbreviations for haste. The arriving Warden hears everything, confirms everything, and takes the watch fresh. Veterans describe reliefs as the containment's heartbeat: regular, complete, and unfailing. The Wedge That Held is witnessed watch after watch without a gap — each watch handed to the next, each Warden relieved in full. Hold until relieved. Relieve in full. The heartbeat continues, watch after watch, forever.
-### The Extra Hour Honored
+It radiates a dry heat that does not diminish, and the tip holds a temperature high enough that handling is done with the hemp wrapping in place. The wrapping is original — grease and sweat and fraying cloth — and it is not replaced. Replacement has been proposed on conservation grounds and refused each time, the file recording that the rags were wound by hand and that nobody has been willing to be the person who unwound them.
 
-Overtime hours are honored at muster — the senior Warden reading the overtime log aloud, each extension praised by name. The honor custom treats held hours as the roster's gift: given willingly, received gratefully, praised publicly. Veterans describe the reading as the overtime's true pay — not the logged hours but the spoken thanks. The honored roster stands straighter after. The Wedge That Held has never stood an unheld watch, and the muster proves the roster knows it. Held past rotation. Honored at muster. The custom continues.
+### Kang Il-Joo
+
+The master smith who forged it is named throughout and his indenture record is held with the containment file, listing the apprentices of the Seventh Slag Shift in the order they were taken on. The list is reproduced whole. The archivist's note observes that it is an ordinary trade document, that it was kept for ordinary reasons, and that it is now the only place several of those names are written down.
+
+### The Flues
+
+Supervisors welded the blast flues shut and the Rupture followed, and the commissioning file holds the maintenance authorisations for that work with the signatures intact. The names of the signing supervisors are not redacted. The file states the reason in a single line, which is that the apprentices are named and that it would be indefensible to name only them. The authorisations are held with the production orders that preceded them, which establish why the flues were closed and make the decision legible as a scheduling choice rather than an act of malice. The orders are dated and signed.
 
 ## Trivia
 

@@ -396,16 +396,21 @@ So mind the mushrooms, child. Mind the edge. And if you hear your brother callin
 
 ## Warden Record
 
-### The Visitor
+### She Moves Toward Voices
 
-Civilians visit Calling Bloom's facility on escorted rotation — oversight committees, trainee cohorts, the occasional dignitary requiring proof the Directorate spends wisely. The visitor protocol governs every tour: see the precautions, meet the roster, witness the doctrine practiced. Escort Wardens perform the protocol the way docents perform museums — proudly, precisely, and with the veteran's pleasure in showing work well done. Visitors ask the questions visitors always ask: is it safe, is it wise, is it worth it. The escort answers with the containment itself: the gauges, the logs, the roster standing. Calling Bloom (SE-O-IIIβ-944) receives few visitors and impresses all of them. The protocol proves the Directorate's case the way only practice proves anything: by showing.
+She stands entirely still until she hears someone speak and then goes quickly toward the sound with her head tilted, which makes speech the thing that summons her and silence the whole of the protocol. Wardens work the approach without speaking, using hand signals agreed in advance. The signal set is short and is printed on a card carried by each person, and the card is checked at the start of the watch.
 
-### The Guest Book
+### The Bloom
 
-Visitors sign the guest book — name, office, and one line of impression. The book runs to volumes: oversight satisfied, trainees inspired, dignitaries reassured. The roster reads the guest book the way crews read commendations: with pride earned and perspective kept. The visitors see the containment for an hour. The roster stands it for careers. But the guest book's lines prove what the roster sometimes forgets mid-watch: the work shows. The doctrine reads. The containment impresses even the skeptical. Calling Bloom is witnessed by personnel the visitors praise and the Directorate trusts. The guest book holds the praise. The roster holds the entity. Both holdings grow, visit after visit, watch after watch.
-### The Return Visit
+A single pale flower rises from the crown of her head and its petals open on one dark wet eye, and it is the only colour on her. It is not touched and has never been sampled. The prohibition is absolute and is one of the few in the wing with no stated reason, the file recording only that it was imposed by the first Keeper of the holding and has not been revisited.
 
-Some visitors return — oversight satisfied so fully they bring colleagues, trainees inspired so deeply they request posting. Return visits are the escort Wardens' proudest moments: the containment impressed once, and the impressed came back. The guest book's return entries are marked with the escort's star — came, saw, returned. Calling Bloom collects return visitors the way the roster collects commendations: steadily, deservedly. Visit once, impressed. Return, convinced. The containment proves itself twice.
+### Nari
+
+The child she was is named throughout the containment file and her family is recorded — the scavenger household, their ground, the mushroom-beds she knew and the tree-line she passed. The detail is domestic and is included deliberately. The archivist's note states that a file which described only the wood and the bloom would be a file about a hazard, and that this one is about a child who went looking for her brother.
+
+### Seojun
+
+The brother whose crying she believed she heard is named as well, and what is known of him is set down plainly: he was not in the wood. The file says so in those words rather than at length. It records what he was doing instead, which is ordinary and verified, and the archivist's note adds that he was told, that he was a child himself, and that nothing further about him appears in the record by his family's request. The request is recorded in the file as a request and the file complies with it.
 
 ## Trivia
 

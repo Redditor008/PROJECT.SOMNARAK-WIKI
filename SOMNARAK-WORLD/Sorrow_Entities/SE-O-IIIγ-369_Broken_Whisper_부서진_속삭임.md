@@ -406,16 +406,21 @@ Some sorrows mourn the dead. Broken Whisper mourns their last words — the mess
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Storm Duty
+### Fragments That Never Complete
 
-When crisis strikes elsewhere, Broken Whisper's roster stands storm duty — full watches on short staffing, precautions maintained while reserves deploy outward. Storm duty is the containment's contribution to the Directorate's larger battles: holding firm at home while the institution fights abroad. The storm protocol runs the roster lean: essential watches only, tightened rotations, the senior Warden holding the center. Veterans describe storm duty as the roster's truest test — not of skill but of steadiness. The entity presses. The reserves are gone. The roster holds anyway. Broken Whisper (SE-O-IIIγ-369) has weathered every storm duty the archive records without a watch unstood. The roster holds at home. The Directorate fights abroad. Both hold because both hold.
+It gives out pieces of whispers and no fragment is ever a whole sentence, each carrying a different sorrow from the one before, and the Warden transcribes them as heard without joining them. Transcripts are kept as lists rather than as text. The file is explicit that no one is to arrange the fragments into continuous speech and that the instruction was issued after an early Warden did, in good faith, and produced something that read as a single voice.
 
-### The Lean Log
+### Drifting in the Currents
 
-Storm duties are logged in the lean log — watches stood short-handed, readings taken under strain, the roster's performance at minimum strength. The lean log's entries are terse to the point of pride: short roster, full doctrine, held. Commanders cite the lean log whenever staffing debates arise: the roster holds lean, the log proves it, the standard survives shortage. But the lean log's standing lesson is caution, not comfort — the senior Warden's annotation reads: held, and never again if avoidable. Leanness proves the roster. Fullness protects it. Broken Whisper is witnessed, storm after storm, by personnel who hold lean when they must and full when they can. The lean log proves the must. The roster prefers the can.
-### The Full Strength
+The fractured crystal floats in the underground Han currents without apparent direction, and its position is logged against the current map maintained for the tunnel system. The two have been compared and the object does not reliably follow the flow. The discrepancy is recorded and unexplained, and the file's treatment of it is a single sentence that declines to speculate.
 
-Storm duty ends with the return to full strength — reserves recalled, roster restored, the lean log closed with the final entry: full strength resumed. Veterans describe the restoration as the roster's deep breath: the crisis passed, the strength returned, the containment held throughout. The senior Warden reads the lean log aloud at the restoration muster — every short watch honored, every strained reading praised. Broken Whisper weathered lean. Broken Whisper stands full. The roster held both, and holds still.
+### Silenced by Collapse
+
+Messages from the deep tunnels were cut off by falling rock and Han pressure, and the commissioning material holds the signal logs from the stations that were receiving them. The logs end mid-entry in several places. They are reproduced exactly, including the incomplete lines, and the archivist's note says that the temptation to mark the breaks with an editorial symbol was resisted because the breaks are the record.
+
+### Pleas Not Heard
+
+What the object holds is appeal rather than information, and the file states this at the front to shape how a reader approaches the transcripts. The distinction has practical weight: the fragments have been examined for operational detail about the collapse and yielded none, the examination having concluded that the voices were not reporting anything but asking for something. The receiving stations are named and their operators are named where the shift books survive, which is in most cases. The operators recorded the loss of signal in the ordinary way and continued their watch to its end. Their names are listed at the back.
 
 ## Trivia
 

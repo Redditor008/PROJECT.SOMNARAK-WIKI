@@ -299,16 +299,21 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 
 ## Warden Record
 
-### The Requisition
+### Pressure, Not Apparition
 
-Every instrument in Dead Air's containment arrived by requisition — requested in writing, justified by need, approved against the quartermaster's unforgiving standard. The requisition files are the archive's driest holding and the roster's proudest: page after page of gauges, seals, lamps, and lines, each one argued for and won. The quartermaster's standing rule governs all of it: need it, prove it, maintain it. Requisitions that prove need are approved. Instruments that arrive are maintained — cleaned, calibrated, and logged — or the quartermaster reclaims them. No ornament has ever survived the quartermaster's review. No necessity has ever been denied it. Dead Air (SE-N-IIIγ-929) is witnessed with instruments the roster earned by argument and keeps by maintenance.
+The dead become present as weight rather than as anything seen — the sensation of being leaned against by someone absent — and the Warden's log records bearing and estimated mass, which are both subjective and both recorded. The subjectivity is acknowledged on the form itself, which carries a printed line stating that the entries are impressions. The line was added early and has never been removed.
 
-### The Quartermaster's Shelf
+### Barometric
 
-The quartermaster keeps one shelf of retired instruments — gauges that served past calibration, lamps that burned past brightness, seals that held past rating. Each bears its service record: installed this date, maintained this often, retired with honors. New Wardens are shown the shelf before they file their first requisition, and the lesson lands the way honest objects teach: request only what the containment needs, maintain everything the containment grants, and retire with honors what has served past serving. Dead Air is witnessed with the quartermaster's instruments, standing on the quartermaster's shelf in honorable retirement when their service ends. Need it. Prove it. Maintain it. The shelf proves the roster does.
-### The Approved Stamp
+It is tied to pressure in the ordinary atmospheric sense and the Zone A readings are taken at the same hours as the municipal weather station's, so the two series can be laid against each other. They have been, repeatedly, and the relationship is loose. The file prints both series and no correlation figure, the archivist's note observing that every coefficient anyone has calculated has been quoted afterward as though it were a mechanism.
 
-Approved requisitions return bearing the quartermaster's stamp — granted, with the date and the quartermaster's initials. Wardens keep their stamped approvals the way soldiers keep orders: filed, honored, and cited when the instruments arrive. The stamp means the quartermaster agreed — the need was real, the proof sufficed, the containment gains. Dead Air is witnessed with stamped instruments, every one earned. The stamp approves. The roster maintains. The containment holds.
+### Nobody Is Seen
+
+There are no apparitions and no visual phenomena of any kind, and arriving personnel are told so before their first watch because the expectation is otherwise universal. The briefing is blunt about it. The file explains that Wardens who spend a watch looking for figures report more contact than those who do not, and that the effect is attributed to attention rather than to the entity.
+
+### A Particular Grief
+
+What crystallized here was one specific wound rather than the city's ambient ache, and the commissioning material is accordingly narrow — a small set of documents concerning few people. The file is thin and is not padded. The archivist's note states that proposals to supplement it with general material on Zone A were refused on the ground that a thin file about something specific is more use than a thick one about everything. The documents are held loose in a single folder in the order they were obtained, and the folder has not been reorganised since it was opened.
 
 ## Trivia
 

@@ -299,16 +299,21 @@ The entity does not rage. It does not weep. It persists — dream and void, pati
 
 ## Warden Record
 
-### The Nightingale Shift
+### A Morning That Does Not Arrive
 
-The nightingale shift is the roster's term for a watch so quiet it sings — readings nominal, entity quiescent, the whole of Dawn That Forgot's containment humming at peacetime pitch. Nightingale watches are logged the way all watches are logged, with one addition: the watch commander's nightingale mark, a small notation in the margin recording that the quiet held the whole watch through. Commanders prize the mark the way sailors prize fair winds — not as achievement but as grace. The quiet is never earned. It is received, logged, and passed to the relief with gratitude. Dawn That Forgot (SE-N-IIIγ-917) has granted the roster many nightingale shifts. Each one is marked. Each one is remembered. And each one steadies the roster for the watches that sing less sweetly.
+The sun comes up and the district does not, its people aware that it is light and unable to open their eyes, and the Warden's post is outside the affected zone looking in. Observation is visual and from a distance. There is no instrument in the holding that measures the condition itself, a fact the standing order states in its first paragraph so that nobody arrives expecting one.
 
-### The Quiet Ledger
+### Recognised, Not Discovered
 
-The quiet ledger compiles every nightingale mark in the containment's history — dates, commanders, and the watch conditions that made the quiet possible. The ledger's purpose is morale made tangible: proof, in the commanders' own hands, that the containment holds far more often than it strains. New Wardens read the ledger on commissioning. Veterans consult it before hard watches. And the senior Warden cites it at every briefing where the roster's confidence wavers: the quiet outnumbers the pressure a hundred to one. The ledger proves it. Dawn That Forgot is witnessed, watch after watch, by personnel who know the numbers — and the numbers say the containment holds, the quiet returns, and the nightingale sings more often than it silent.
-### The Dawn Chorus
+The pressure had been logged for years as an ambient reading before anyone noticed it had a shape, and the containment file holds those earlier logs in their original form, filed as the unremarkable entries they were taken to be. They are not annotated. The archivist's note explains the choice: marking them would show a later reader what to look for, and the point of keeping them is that nobody saw it.
 
-The morning after a nightingale shift, the relief arrives to birdsong — the roster's term for a handover with nothing to report. Readings nominal, entity quiescent, the quiet passed intact. Veterans describe dawn-chorus handovers as the watch's benediction: the night held, the day inherits peace. Dawn That Forgot grants them regularly. The roster receives them gratefully. And the quiet ledger grows — mark by mark, chorus by chorus.
+### The Junior Researcher
+
+The person who identified the shape is named and her working note is reproduced, a single page, written for herself rather than for submission. It is informal and it is correct. The file records that she was not asked to present it, that the reclassification proceeded without her, and that her name was added to the record afterward at the insistence of the Floor on which she worked.
+
+### Cumulative
+
+Exposures accumulate rather than resolving, and personnel totals are tracked across a whole service rather than per posting. The infirmary holds the figures and the facility is given a judgment and no numbers. The division is standard in this wing and the file notes that this holding was the one where it was first adopted, the practice having spread from here to the other time and hazard containments. The judgment is given as cleared or not cleared and is accepted without appeal, the facility having no mechanism to contest it and having declined to build one when the arrangement was first written down.
 
 ## Trivia
 

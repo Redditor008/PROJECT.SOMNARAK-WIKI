@@ -421,16 +421,21 @@ Some sorrows mourn a companion. Sleeping Tree mourns the shared growth — the p
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Replacement
+### It Has Not Woken
 
-Instruments wear out, and Sleeping Tree's containment replaces them — gauges retired past calibration, seals retired past rating, lamps retired past brightness. The replacement protocol governs every swap: the new instrument certified, the old instrument honored, the exchange logged with both service records attached. Retiring instruments are not discarded. They join the quartermaster's shelf — or, for instruments of exceptional service, the muster hall's honored wall. Veterans describe replacements as the containment's renewals: the doctrine continues, the instruments refresh, the watches unbroken across the exchange. Sleeping Tree (SE-O-IIIγ-374) has been witnessed through generations of instruments. Each generation served. Each generation retired honored. The watches never paused.
+The coiled mass beneath the Alpha Tree is dormant and has never moved, and the containment's entire operation is the maintenance of that condition, which requires nothing to be done. The watch records absence of change. The file concedes that this makes for an unvarying log and argues that an unvarying log is precisely what a sleeping thing requires, since the first variation will be legible against it.
 
-### The Honored Wall
+### Growing in Sleep
 
-The honored wall holds the containment's most distinguished retirees — the gauge that caught the first pressure spike, the seal that held the worst season, the lamp that burned through the longest watch. Each bears its citation: served here, held this, retired honored. New Wardens study the wall before their first watch, learning the instruments' histories the way they learn the roster's. Veterans touch the wall's frame on passing — the way crews touch memorials, the way the night crews touch the spare lamp. Sleeping Tree is witnessed with instruments that will one day hang honored. The wall proves the roster maintains what it uses and honors what has served. Serve well. Retire honored. The wall waits for every instrument standing.
-### The First Reading
+It enlarges while dormant, slowly, and the growth is measured against pins set in the surrounding rock rather than in the soil, the soil having been found to move. The pin network was re-established once for that reason and the original readings were discarded as unusable. The discard is recorded with its justification, which the file considered necessary because the early series is referred to in older documents.
 
-New instruments take their first readings under witness — the installing Warden, the watch commander, and the logbook open. The first-reading custom records the moment: instrument installed, reading taken, service begun. Veterans describe first readings as the containment's small commissionings — new eyes on the entity, sworn to accuracy. The first readings are preserved with the installation logs — baseline truth, witnessed jointly. Sleeping Tree is measured by instruments whose first readings were honored. Installed, witnessed, trusted. The readings continue.
+### Sound Does Not Reach It
+
+It cannot be woken by noise, which has been established rather than assumed, and the establishing tests are documented with their levels and their authorisations. They are not repeated. The standing order prohibits further acoustic testing and the prohibition is explained in one line: the question has been answered, and the only thing another test could discover is an exception.
+
+### A Promise Broken by Returning
+
+Two travellers planted a tree beyond the city and one came back alone, carrying the promise with them, and the commissioning file holds what the returning traveller wrote afterward. It is not an account of the other person. It is an account of the planting, in detail, over several pages, and the archivist's note observes that the document never once says what happened and never once stops circling it. The pages are held in their original binding, which is a worked leather cover of some quality, and the file notes that it was made for the purpose. The cover has not been repaired.
 
 ## Trivia
 

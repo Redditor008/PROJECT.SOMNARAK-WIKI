@@ -368,16 +368,21 @@ Some sorrows mourn the dead. Forgotten Soul mourns the living-erased — the cit
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Anniversary
+### A Face That Will Not Hold
 
-Every cycle, on the containment's founding date, Forgotten Soul's roster holds the anniversary — the full chain mustered, the founding log read aloud, the year's watches honored. The anniversary reads the numbers: watches stood, readings logged, pressures weathered. Then the senior Warden reads the names: the roster present, the roster rotated, the roster remembered. New Wardens hear what the containment is. Veterans hear what they maintain. And the founding log — the first watch, the first readings, the oath sworn fresh — binds the anniversary to the origin: this is what was sworn, this is what was kept, this is what continues. Forgotten Soul (SE-O-IIIγ-233) has been held for every anniversary the archive records. The roster intends to hold every anniversary after.
+Its features change whenever someone tries to recall them, so no description survives the attempt to make one, and the Warden's sheet asks for posture and gait instead. Those have been consistent. The file notes that the walk is the only stable identifying feature the containment has and that it is sufficient, Wardens having never mistaken the figure for anything else.
 
-### The Founding Log
+### It Cannot Stop Walking
 
-The founding log is preserved under glass — the first watch's readings, the first commander's hand, the oath's first swearing. Trainees read it through the glass before they read anything else, and the lesson lands the way origins teach: everything the containment is began here, with these readings, this roster, this oath. The founding log's margins carry the first commander's annotations — steady, holds, continue — preserved in the original hand. Veterans touch the glass on anniversary. Newcomers press close to read. Forgotten Soul is witnessed by the latest link in a chain the founding log began. The glass protects the page. The roster protects everything else. The anniversary binds them: origin and present, sworn and kept, held then and held now.
-### The Toast
+The figure moves continuously and has not been observed at rest, which means the watch follows rather than stands, and the route is recorded as a track rather than a location. Tracks accumulate and are overlaid on a single sheet in faint ink. The sheet is dark in the places it returns to and the file leaves the interpretation of those places entirely to the reader.
 
-The anniversary closes with the toast — the roster raised glasses (water, on duty) to the containment held and the year coming. The senior Warden speaks the formula: to the watches stood, the pressures weathered, and the oath renewed. The roster answers: held, weathered, renewed. Veterans describe the toast as the anniversary's seal — the ceremony closed, the year blessed, the containment commended by its own. Forgotten Soul is toasted every anniversary. The glasses rise. The oath holds.
+### Glowing at Recognition
+
+It brightens when someone recognises its grief, which is the only interaction the containment has ever achieved, and the standing order neither requires nor forbids it. The decision rests with the Warden on watch. The file records that this discretion was deliberate, that removing it was proposed in both directions, and that it survived on the argument that recognition offered under instruction would not be recognition.
+
+### Nobody Claimed the Sorrow
+
+A citizen vanished from every record and every relationship, leaving an unclaimed grief in Old Lament, and the commissioning file holds the enquiries made at the time by nobody in particular — a landlord's note, an unpaid account, a query from a trade society. They are small documents and they are all there is. The archivist's note observes that not one of them was made by a person who knew them. The three documents are held together on a single leaf because separating them would give each more weight than it has. They total fewer lines than this paragraph, and the archivist's note says so directly, as a measurement rather than as a remark. The leaf is stored flat and unfolded.
 
 ## Trivia
 

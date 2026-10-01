@@ -372,16 +372,21 @@ Some sorrows are about silence. Protest No One Remembers is about the erasure of
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Letter
+### A Hole Where Sound Should Be
 
-Wardens in Protest No One Remembers's chain write letters — to family, to friends, to the civilian lives they maintain alongside the watches. The letter custom is the roster's oldest morale practice: write honestly, write regularly, and write home. The Directorate censors nothing and reads nothing — the letters are sealed, private, and sacrosanct. Veterans describe the custom as the roster's ballast: the watches demand everything, and the letters return something. News from outside. Love from afar. The reminder that the city the roster protects contains people who write back. Protest No One Remembers (SE-O-IIIγ-371) is witnessed by personnel with lives beyond the chamber — lives the letters maintain, one sealed page at a time. The watches take. The letters give. The roster holds both.
+It moves through the Commons as a voice-shaped absence and takes the sound out of the air around it, and the Warden's detection method is a continuous tone played from a fixed source and listened to from a fixed point. When the tone thins, something has passed between. The method is primitive and has never failed, and proposals to replace it with recording equipment have been declined on the ground that the equipment also goes quiet.
 
-### The Post Box
+### Found Only by Looking for It
 
-The facility's post box stands in the muster hall — plain, battered, and emptied daily. Wardens post their letters between watches, and the box fills the way morale fills: steadily, quietly, without ceremony. The post custom requires nothing but the box's presence — no quotas, no reminders, only the standing invitation of the empty slot. Counselors monitor the box's volume the way engineers monitor gauges: full box, healthy roster. The box has never stood empty a full rotation. Protest No One Remembers is witnessed by personnel who write home — who maintain, through sealed pages and daily postings, the civilian ballast that steadies the watches. The box stands. The letters flow. The roster writes, the city answers, and the containment holds on ballast of paper and love.
-### The Reply
+It becomes locatable when someone searches for what was silenced, which makes the search itself the instrument and makes an unattended watch useless. Wardens are therefore briefed on what was suppressed before they go on duty rather than afterward. The file acknowledges that this is the reverse of normal practice and states that the holding does not function otherwise.
 
-Letters from home arrive with the supply runs — answers to the roster's sealed pages, love returned for love sent. The reply custom gives Wardens an hour with their mail before the next watch: read privately, treasure fully, stand steadied. Veterans describe reply days as the roster's refueling — the civilian ballast renewed, the watches re-steadied. Counselors note the correlation openly: reply days precede the steadiest watches. Protest No One Remembers is witnessed by personnel who are written to — who stand, watch after watch, on ballast of paper and love, sent and answered.
+### No Acoustic Trace
+
+It leaves nothing behind that can be measured after the fact, so every finding in the containment is contemporaneous and nothing can be checked later. The file flags this as the record's central weakness, in its own words, at the front. The archivist's note adds that stating a weakness plainly at the start is the only protection available to a file that cannot be verified.
+
+### A Protest Removed
+
+A community's protest was taken out of the records, out of speech, and out of memory, and the commissioning file is largely a record of what is not there — the gaps in the Commons minutes, the missing sequence of reference numbers, the meetings with no entries. The archivist's note explains the method: the protest is established by the shape of the hole it left, that being the only evidence the erasure permitted to survive. The method is set out step by step at the front of the file so that a later reader can judge it rather than accept it, and the archivist's note adds that the reconstruction has been checked twice by people who were not involved in making it. Both checks are filed with their findings, which were minor. Neither required a revision.
 
 ## Trivia
 

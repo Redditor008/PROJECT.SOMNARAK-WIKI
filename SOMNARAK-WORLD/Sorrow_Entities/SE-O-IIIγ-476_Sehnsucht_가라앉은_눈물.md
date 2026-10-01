@@ -410,16 +410,21 @@ Some sorrows are about hiding grief. Sehnsucht is about hiding it too well — t
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Nightingale Shift
+### It Sinks from Reaching
 
-The nightingale shift is the roster's term for a watch so quiet it sings — readings nominal, entity quiescent, the whole of Sehnsucht's containment humming at peacetime pitch. Nightingale watches are logged the way all watches are logged, with one addition: the watch commander's nightingale mark, a small notation in the margin recording that the quiet held the whole watch through. Commanders prize the mark the way sailors prize fair winds — not as achievement but as grace. The quiet is never earned. It is received, logged, and passed to the relief with gratitude. Sehnsucht (SE-O-IIIγ-476) has granted the roster many nightingale shifts. Each one is marked. Each one is remembered. And each one steadies the roster for the watches that sing less sweetly.
+The tear-shaped object lies half-buried and descends whenever a hand goes toward it, which has been confirmed often enough that reaching is now prohibited rather than merely discouraged. Depth is measured by sighting the exposed surface against a graduated rod planted beside it. The rod is checked against a benchmark outside the affected soil, on a schedule, for the obvious reason.
 
-### The Quiet Ledger
+### Heavier When Ignored
 
-The quiet ledger compiles every nightingale mark in the containment's history — dates, commanders, and the watch conditions that made the quiet possible. The ledger's purpose is morale made tangible: proof, in the commanders' own hands, that the containment holds far more often than it strains. New Wardens read the ledger on commissioning. Veterans consult it before hard watches. And the senior Warden cites it at every briefing where the roster's confidence wavers: the quiet outnumbers the pressure a hundred to one. The ledger proves it. Sehnsucht is witnessed, watch after watch, by personnel who know the numbers — and the numbers say the containment holds, the quiet returns, and the nightingale sings more often than it silent.
-### The Dawn Chorus
+It gains weight in the absence of attention, which inverts the usual arrangement and makes neglect the hazard, and the standing order therefore requires the watch to be kept rather than merely available. Unmanned periods are logged as unmanned. The file holds that recording a gap honestly is the minimum obligation of a containment whose failure mode is inattention.
 
-The morning after a nightingale shift, the relief arrives to birdsong — the roster's term for a handover with nothing to report. Readings nominal, entity quiescent, the quiet passed intact. Veterans describe dawn-chorus handovers as the watch's benediction: the night held, the day inherits peace. Sehnsucht grants them regularly. The roster receives them gratefully. And the quiet ledger grows — mark by mark, chorus by chorus.
+### The Glow Below
+
+Light comes from beneath the ground around it, visible at night and not otherwise, and the Warden's night observation is the only one that produces anything. The daytime watch continues anyway. Its justification in the file is that the containment is also a presence, that the presence is the point, and that a holding attended only after dark would be a different arrangement than the one agreed.
+
+### Buried Rather Than Shown
+
+A traveller put a last tear into the ground near The Scar rather than let it be seen, and the commissioning material is almost nothing: a route, a date of passage, and the fact of the burial. The file does not expand it. The archivist's note states that the entity is made of a refusal to be witnessed and that a thick file about it would be a contradiction of its subject. The route is reconstructed from two waystation registers and the date of passage from one of them. Neither names the traveller, and the file carries the reconstruction with its sources shown so that a reader can see how thin the ground is. Both registers survive complete.
 
 ## Trivia
 

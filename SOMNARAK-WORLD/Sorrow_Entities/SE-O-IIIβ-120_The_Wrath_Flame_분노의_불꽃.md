@@ -374,16 +374,21 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Drill
+### It Patrols
 
-Emergency drills run on rotation in The Wrath Flame's containment — pressure scenarios, breach simulations, full-muster exercises the roster performs the way musicians practice scales. The drill doctrine is the Directorate's standing answer to complacency: practice the crisis before the crisis practices on you. Drills are unannounced, realistic, and graded — the senior Warden scoring response time, precaution arming, and roster discipline against the standard. Failing drills are repeated. Passing drills are logged. And the roster performs every drill as if The Wrath Flame (SE-O-IIIβ-120) pressed in truth, because the doctrine's spine is realism: drill as you will stand. The roster drills hard. The roster stands harder. The drills prove it, rotation after rotation.
+The burning figure walks a route through The Scar rather than holding a position, and the route is mapped and has altered only at the margins. Wardens observe from outside it. The map is posted at the approach so that anyone entering can see where the figure will be, which the file describes as the single measure that has done most to keep the containment uneventful.
 
-### The After-Action
+### The Salute
 
-Every drill ends with the after-action — the roster gathered, the senior Warden reading the score, each Warden speaking one improvement. The after-action's rule is candor without rank: the newest Warden speaks first, the senior Warden last, and every improvement is logged regardless of source. The after-action log runs continuously — hundreds of entries, each one a small sharpening: faster arming here, clearer signals there, better positioning everywhere. Veterans describe the after-action as the drill's true product: not the practice but the polish. The Wrath Flame is witnessed by a roster that improves on rotation, drill by drill. Practice the crisis. Polish the response. The after-action proves the roster does — one improvement at a time, logged forever.
-### The Perfect Score
+It acknowledges those who acknowledge the dead, and the gesture is recorded whenever it occurs, with the circumstances. The log of salutes is longer than the log of attacks. Both are kept in the same book rather than separately, on the archivist's reasoning that an entity which does two things should not be filed as though it did one.
 
-Once in a generation of drills, a roster scores perfectly — every response on time, every precaution armed, every signal crisp. Perfect drills are logged in gold — the senior Warden's term for the commendation entry, preserved verbatim. The roster that scored it is honored at muster. The drill is studied by every roster after. The Wrath Flame has witnessed perfect drills and held through all of them — practiced crises met with perfect responses. Drill as you will stand. The perfect score proves the roster stands perfectly.
+### Fire as Conduct
+
+It carries no weapon and its flame responds to disrespect rather than to proximity, which makes the containment a matter of behaviour rather than of distance, and the standing order says so in terms. Personnel are briefed on conduct rather than on exclusion zones. The file states frankly that this is an unusual containment instruction and that it has been questioned at review and has held.
+
+### Six Factions, Unmourned
+
+The dead of the Occlusihan fighting at The Scar were not properly mourned and their anger remained, and the commissioning file holds the burial returns from all six factions where they survive. They are incomplete in different ways and the file does not reconcile them. The archivist's note observes that reconciling them would require deciding which faction's count of its own dead to prefer, and that the facility has no standing to do that. Each return is reproduced in the form in which it was received, in its own hand and its own arrangement, with no attempt to impose a common layout. Where a faction kept no written count at all, the file says so on a page of its own rather than omitting the faction from the sequence.
 
 ## Trivia
 

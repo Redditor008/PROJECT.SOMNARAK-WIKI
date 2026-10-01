@@ -366,16 +366,21 @@ Some sorrows are about what was lost. Vanity Asleep is about what is avoided —
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The New Warden
+### Reflecting After You Look Away
 
-Every Warden in Vanity Asleep's chain stood a first watch — briefed, nervous, and determined. The first-watch protocol pairs every newcomer with a veteran: shadow the watch, ask everything, touch nothing unasked. Veterans describe their first-watch duty as the roster's truest test — not of the newcomer but of themselves. Teaching the containment reveals what the teacher has forgotten. Newcomers ask why the gauge is read twice, why the chamber is eyeballed before the instruments, why the oath's clauses run in their fixed order. Veterans answer, and in answering remember. Vanity Asleep (SE-N-IIIγ-954) has been learned fresh by every Warden who ever stood it. The learning never ends. The teaching never ends. The chain continues, watch by watch, rookie by rookie.
+Its surface shows a face only once the viewer has turned from it, so nobody has seen their own reflection in it directly, and the Warden's account is necessarily retrospective. Reports are written immediately on leaving rather than at the end of the watch. The requirement is procedural and the reason given is practical: the recollection degrades quickly and the first version is the only one worth keeping.
 
-### The First Log
+### It Does Not Wake
 
-The newcomer's first log is preserved — bound into the containment file, the rookie's own hand recording the first witnessed watch. First logs are earnest to the point of poetry: readings logged twice, observations tripled, the entity described the way newcomers describe everything — fully, carefully, as if the containment depended on this one log. Veterans read the first logs the way parents keep childhood drawings: with pride, with humor, and with recognition. Every veteran wrote one. Every veteran remembers. Vanity Asleep is witnessed, rookie after rookie, by personnel whose first logs prove the doctrine's deepest claim: the containment is learned fresh by everyone, and everyone learns it. The first log stands. The Warden stands with it.
-### The Shadow's End
+The figure sleeps and has never opened its eyes, through every event in the containment's record, and the eyelids are checked at each watch as a formality that the file admits is a formality. It is performed anyway. The standing order notes that the check costs nothing and that the facility would prefer the first person to see them open to be someone who was looking.
 
-The newcomer's shadow period ends with the first solo watch — the veteran stepping back, the rookie standing alone, the containment held by new hands. Veterans describe the moment as the roster's true commissioning: not the oath sworn but the watch stood solo. The first solo log is preserved beside the first shadowed log — before and after, student and Warden. Vanity Asleep has been stood solo by every Warden in its chain. Each one held. Each one holds still.
+### Pity, Not Judgment
+
+What returns in the reflection is understanding rather than accusation, and the file is careful about this because personnel brace for the opposite. Several accounts describe the pity as harder to receive than condemnation would have been, and those accounts are quoted in the briefing material with permission. Consent for the quotation was sought individually and is recorded against each passage.
+
+### Too Tired to Look
+
+It formed from self-knowledge people were too exhausted to face, and the commissioning file holds the material of that exhaustion rather than of any dramatic refusal — work rosters, shift lengths, the ordinary arithmetic of the period. The archivist's note draws the connection explicitly and then stops, observing that the documents make the argument adequately and that an argument made twice reads as an argument that needed help. The rosters cover a period of several years and show no interruption of any kind. They were obtained from the labour office rather than reconstructed, complete, and the transfer letter is bound in front of them because it is dated and establishes that nothing was selected. No part of it is missing.
 
 ## Trivia
 

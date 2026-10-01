@@ -368,16 +368,21 @@ Some sorrows mourn a place. Broken Ruin mourns the carrying — the disaster bro
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Requisition
+### It Does Not Rebuild
 
-Every instrument in Broken Ruin's containment arrived by requisition — requested in writing, justified by need, approved against the quartermaster's unforgiving standard. The requisition files are the archive's driest holding and the roster's proudest: page after page of gauges, seals, lamps, and lines, each one argued for and won. The quartermaster's standing rule governs all of it: need it, prove it, maintain it. Requisitions that prove need are approved. Instruments that arrive are maintained — cleaned, calibrated, and logged — or the quartermaster reclaims them. No ornament has ever survived the quartermaster's review. No necessity has ever been denied it. Broken Ruin (SE-O-IIIγ-559) is witnessed with instruments the roster earned by argument and keeps by maintenance.
+The figure is assembled from pieces of a structure that fell beyond the city and it waits without ever putting them back together, which distinguishes it from the other ruin entities in the wing and is stated in the briefing for that reason. Wardens arriving from those postings expect reconstruction. The file is explicit that none occurs and that waiting is the entity's whole activity.
 
-### The Quartermaster's Shelf
+### The Sound of Collapse
 
-The quartermaster keeps one shelf of retired instruments — gauges that served past calibration, lamps that burned past brightness, seals that held past rating. Each bears its service record: installed this date, maintained this often, retired with honors. New Wardens are shown the shelf before they file their first requisition, and the lesson lands the way honest objects teach: request only what the containment needs, maintain everything the containment grants, and retire with honors what has served past serving. Broken Ruin is witnessed with the quartermaster's instruments, standing on the quartermaster's shelf in honorable retirement when their service ends. Need it. Prove it. Maintain it. The shelf proves the roster does.
-### The Approved Stamp
+It carries the noise of the structure coming down and the noise arrives without a source, at ordinary volume, at unpredictable intervals. Occurrences are logged with the time and nothing else. Attempts to characterise the sound were made early and the results were discarded as unusable, the Wardens involved having each described something different and all having been certain.
 
-Approved requisitions return bearing the quartermaster's stamp — granted, with the date and the quartermaster's initials. Wardens keep their stamped approvals the way soldiers keep orders: filed, honored, and cited when the instruments arrive. The stamp means the quartermaster agreed — the need was real, the proof sufficed, the containment gains. Broken Ruin is witnessed with stamped instruments, every one earned. The stamp approves. The roster maintains. The containment holds.
+### It Appears to Survivors
+
+Those who have lived through a collapse see it and others do not, and the containment therefore screens its own personnel, assigning the watch to Wardens without that history. The screening is done by the infirmary and the facility receives only an eligibility. The file records that several Wardens have volunteered on the basis of their own experience and that all have been refused.
+
+### Brought Into the City
+
+A Desolate settlement fell and the survivors carried fragments and memory in with them, and the commissioning file holds the arrival records for that group — what they were carrying, declared at the gate, in the gate clerk's hand. The list includes stone. The archivist's note draws no conclusion from this and simply observes that the clerk wrote it down without comment and passed them through. The declaration was taken at an ordinary gate on an ordinary day and was filed with that day's other entries, where it remained until the containment was established and it was found during a routine search.
 
 ## Trivia
 
