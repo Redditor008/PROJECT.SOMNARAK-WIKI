@@ -406,16 +406,21 @@ Some sorrows are about separation. Friendless Bridge is about the promised reuni
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Folded Blanket
+### A Bridge Between Nothing
 
-Bunks are made with folded blankets — corners square, edges aligned, the roster's oldest order custom. Inspections check the blankets first: square corners mean disciplined Wardens. Veterans fold without thinking — the creases sharp from years of practice. New Wardens learn the fold before they learn the gauges: order in the bunk, order in the watch. Friendless Bridge is witnessed by personnel who fold blankets — who keep, in small squares of wool, the discipline that keeps the containment.
-### The Tight Corner
+The empty crystal spans across ledgers and floors without joining two places, and the Warden records its extent rather than its endpoints, there being none that correspond to anywhere. The extent grows and recedes. Measurements are taken against the room's own fittings, which the file concedes is unsatisfactory and defends as the only available reference.
 
-Blanket corners are tucked tight — the inspection's first check, the roster's smallest discipline. Tight corners, tight watches. Friendless Bridge is witnessed by personnel squared away. Folded, tight, ready.
+### Both Ends Unfinished
 
-### The Bunk Inspection
+Neither terminus is complete and neither has ever closed, and the condition of the ends is drawn at each inspection rather than described. The drawings are kept in sequence. The file notes that they show the ends changing in form while remaining unfinished, and that no drawing in the series shows a completed edge.
 
-Bunks are inspected weekly — blankets folded, kits stowed, floors swept. The inspection custom scores fairly and praises publicly. Friendless Bridge's roster passes inspection standing. Folded, stowed, passing.
+### It Waits to Be Crossed
+
+The object gives every indication of waiting and nothing has crossed it, crossing being prohibited absolutely. The prohibition is one line long. The file adds a second line explaining that the ban exists because the bridge does not connect anything, and that there is therefore nowhere for a person who crossed it to arrive.
+
+### A Meeting That Kept Not Happening
+
+A family promised to come together across Collector's Row and debt and duty kept them apart, and the commissioning file holds their letters arranging it. The arrangements are repeated and revised many times. The archivist's note observes that each letter postpones to a specific later date, that every date named was superseded, and that the correspondence ends without any of them having been kept.
 
 ## Trivia
 

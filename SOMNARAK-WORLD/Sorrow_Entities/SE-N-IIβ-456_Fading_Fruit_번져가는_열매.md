@@ -378,16 +378,21 @@ Some sorrows are about hunger. Fading Fruit is about the system that produces hu
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Polished Gauge
+### Fruit That Fades
 
-Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Fading Fruit (SE-N-IIβ-456) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
-### The Clear Face
+The trees bear and the fruit thins to nothing before it can be taken, and the Warden counts the setting fruit and the empty stems after each fall. The two numbers are always the same. The file reports the identity of the counts as the holding's principal finding and notes that nothing has ever been harvested from the garden.
 
-Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Fading Fruit is measured truly. Polished, clear, true.
+### Warm, Bitter Ground
 
-### The Calibration Weight
+The soil holds heat and a bitterness that can be tasted in the air, and the ground temperature is taken at marked points on a schedule. It is stable. The file keeps the series for the usual reason and observes that the warmth has been mistaken for a sign of fertility by visitors on more than one occasion.
 
-Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Fading Fruit is measured on verified instruments. Polished, tested, true.
+### It Draws Debtors
+
+People under obligation come to the garden without being directed to it, and their arrival is noted without their names being taken. Names are not taken here at all. The file records that the ward asked for this and that the facility agreed before the holding was formally established.
+
+### A Garden Planted in Collector's Row
+
+Debtors put in a garden and every fruit faded before anyone tasted it, and the commissioning file holds the planting agreement they drew up between themselves. It allocated the work and the harvest in equal shares. The archivist's note observes that the agreement is careful, fair, and signed by everyone, and that it governed a crop that never existed.
 
 ## Trivia
 

@@ -406,16 +406,21 @@ Some sorrows are about debt. Debt-Collector's-Lantern is about the collecting �
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Mended Chair
+### It Burns Without Flame
 
-The muster hall's chairs are mended, never replaced — joints glued, legs braced, the roster's oldest thrift custom. The mend log records every repair: chair three, leg braced, holding. Veterans describe the mended chairs as the roster's philosophy: maintain what serves, repair what breaks, replace only what cannot be mended. New Wardens perform their first mend before their first watch — glue, clamp, and the lesson. Debt-Collector s-Lantern (SE-N-IIβ-250) is witnessed by menders — who repair, watch after watch, the chairs that hold the roster that holds the entity.
-### The Steady Seat
+The lantern gives a pale light that is not fire, and the light has been tested for heat and for combustion products and produced neither. The tests are documented. The file keeps them at the front because the object looks exactly like a lamp and every new Warden assumes it is one, which the briefing addresses before anything else.
 
-Mended chairs hold steady — tested after every repair, trusted at every muster. Steady-seat checks close every mend. Debt-Collector s-Lantern is witnessed by personnel well-seated. Mended, steady, holding.
+### Brighter Near Debt
 
-### The Glue Pot
+Its intensity rises with the weight of obligation nearby, which makes it an instrument for something the facility has decided not to measure. The lantern is kept in a fixed location and is not carried. The decision not to use it for survey work is recorded with its reasoning, which is that a device that finds debt would be used to find debtors.
 
-Chair mending keeps a glue pot warm — ready for every repair, used weekly. The glue-pot custom wastes nothing: mend it today, sit it tomorrow. Debt-Collector s-Lantern's chairs hold. Glued, clamped, holding.
+### It Dims for Honest Acknowledgement
+
+Light falls when an obligation is admitted plainly, and the dimming is logged with the circumstances where they are known. They usually are not. The file notes that most recorded dimmings have no identified cause, that the holding does not investigate them, and that this is deliberate rather than negligent.
+
+### A Collector Who Saw Burdens as Light
+
+Someone carried a lamp through debtors' homes and began to perceive what they owed as brightness, and the commissioning file holds that Collector's round book. It lists the addresses and the sums. The archivist's note observes that the entries become shorter toward the end of the book and that the final pages record the addresses without the amounts.
 
 ## Trivia
 

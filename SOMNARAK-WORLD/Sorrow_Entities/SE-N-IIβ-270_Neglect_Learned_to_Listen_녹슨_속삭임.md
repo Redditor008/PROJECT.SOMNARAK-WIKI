@@ -382,16 +382,21 @@ Some sorrows are about loss. Neglect Learned to Listen is about discard — the 
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Clean Log
+### Corrosion That Resembles Writing
 
-The perfect watch log — every reading on time, every notation legible, every margin clean — is the roster's quiet pride. Neglect Learned to Listen's archive holds hundreds: watches logged flawlessly, filed promptly, and preserved as the standard. The clean-log custom marks each one: the watch commander's checkmark, the archivist's nod, the log bound with the honored volumes. New Wardens study clean logs before writing their own. Veterans produce them without thinking. Neglect Learned to Listen (SE-N-IIβ-270) is witnessed on paper as faithfully as in person — reading by reading, log by log, clean forever.
-### The Archivist's Nod
+The rust across the walls, pipes, and abandoned metal forms shapes like letters that cannot be read, and the Warden photographs fixed panels at intervals for comparison. The shapes change. No reading has ever been proposed in the file and the archivist's note states that the prohibition on proposing one is informal, has never been written down, and has been observed by everyone.
 
-Clean logs earn the archivist's nod — the small sharp gesture of approval, given at filing. Wardens prize the nod the way crews prize commendations. Neglect Learned to Listen's archive holds hundreds of nodded logs. The nod approves. The roster logs clean.
+### It Watches Through Rust
 
-### The Bound Volume
+Attention appears to come from the corroded surfaces themselves, and personnel report being observed from directions where there is only pipework. The reports are logged without comment. The file holds that recording the sensation is useful and interpreting it is not, and that this distinction is the holding's entire methodology.
 
-Clean logs are bound annually — the year's flawless watches gathered, covered, and shelved with the honored volumes. The binding custom closes every year: the archivist's selection, the binder's craft, the volume shelved with ceremony. Neglect Learned to Listen's bound years line the archive shelf — proof, in leather and thread, that the roster logs clean. Bound, shelved, honored.
+### Heavier When Cleaned
+
+Attempts to remove the rust increase its weight and extent, which was discovered by the ward's maintenance crews before the facility was involved. Their work orders are in the folder. The archivist's note observes that the crews recorded the effect accurately, reported it upward, and were instructed to continue cleaning for some time afterward.
+
+### What the City Discarded
+
+Abandoned tools, abandoned records, and confessions spoken to nobody accumulated in the Old Lament until the neglect became something that listens, and the commissioning material is a disposal register. It lists what was dumped there and when. The archivist's note remarks that the register is meticulous, that the district kept excellent records of what it was throwing away, and that this is the only documentation the entity has.
 
 ## Trivia
 

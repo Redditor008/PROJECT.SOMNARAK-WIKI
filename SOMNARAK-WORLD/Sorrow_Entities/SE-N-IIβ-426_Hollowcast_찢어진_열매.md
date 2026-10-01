@@ -368,16 +368,21 @@ Some sorrows are about losing memory. Hollowcast is about losing the self while 
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Quiet Lunch
+### A Person-Shaped Opening
 
-The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. Hollowcast is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
-### The Second Helping
+The emptiness holds a human outline split like torn fruit with crimson light coming from the gap, and the Warden records the width of the opening, which varies. It widens and narrows. The measurements are taken by sighting rather than by approach and the file notes that the sighting method was adopted after the opening was observed to respond to proximity.
 
-Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. Hollowcast is witnessed by well-fed personnel. Served, seconded, steady.
+### Whispers Without Words
 
-### The Recipe Card
+It communicates something that is not language and personnel report understanding it anyway, which the file treats with care, recording what was understood and by whom without asserting that anything was said. The distinction is maintained throughout the folder. The archivist's note identifies it as the most important editorial decision in the record.
 
-Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. Hollowcast's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+### Violent When Its Absence Is Denied
+
+Insisting that it is whole produces a reaction, and this is the holding's only hazard, so the briefing instructs personnel never to address it as a person. The instruction is uncomfortable to follow. The file acknowledges as much and offers no alternative, stating that the entity's emptiness is the fact it will not permit anyone to contradict.
+
+### Memories Removed After Trauma
+
+A worker's memories were taken following a severe injury and the outline was left with anger inside it, and the commissioning file holds the removal authorisation and the medical justification that accompanied it. The justification is sound by the standards of the time. The archivist's note states that the procedure was intended as a mercy and was performed by people who believed it was one.
 
 ## Trivia
 

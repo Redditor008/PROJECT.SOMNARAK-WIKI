@@ -408,16 +408,21 @@ Some sorrows are about silence. Dismissed Cry is about the hearing that is not r
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Timely Relief
+### A Scream in Crystal
 
-Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Dismissed Cry is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
-### The Early Arrival
+The red object hangs in the air with a torn opening where a mouth would be and produces nothing audible, and the Warden logs its height above the floor and its orientation. Both drift slowly. The drift is recorded against wall marks and the file notes that the object has never touched any surface in the whole of the containment.
 
-The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Dismissed Cry is relieved promptly. Early, briefed, holding.
+### It Reacts to Tears
 
-### The Relief Log
+Weeping nearby produces a response in the crystal, a visible change at the opening, and this is the only stimulus that has ever worked. It is not induced. The standing order forbids attempting to provoke the response and the file gives the reason directly, which is that the only way to test it would be to make someone cry.
 
-Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Dismissed Cry is witnessed continuously. Arrived, briefed, transferred.
+### Anger Stored in the Surface
+
+The crystal accumulates what it has been given and the surface darkens as it does, graded annually against a reference. The grading has deepened. The file reports the trend plainly and states that there is no known mechanism for releasing what is held, and that none has been sought.
+
+### A Protest Heard as Noise
+
+Someone cried out against an injustice in the Desolate and everyone who heard it treated the cry as disturbance, and the commissioning file holds the complaints that were lodged about the noise. There are several. The archivist's note observes that the complaints describe the volume, the hour, and the inconvenience, and that not one of them records what was being said.
 
 ## Trivia
 

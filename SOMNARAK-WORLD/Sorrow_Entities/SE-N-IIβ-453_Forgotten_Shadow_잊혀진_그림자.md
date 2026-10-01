@@ -363,16 +363,21 @@ Some sorrows mourn the dead. Forgotten Shadow mourns the living-unrecorded — t
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Sharp Pencil
+### It Sings Without Sound
 
-Logs are written in pencil — sharpened before every watch, the roster's oldest instrument custom. The pencil doctrine is practical: pencil writes on damp paper, survives the chamber's cold, and never leaks. But the custom is honor: the sharpened pencil means the prepared Warden. Veterans sharpen deliberately, ritually, the way soldiers clean weapons. New Wardens receive their first pencil at commissioning — issued with the logbook, blessed with the formula. Forgotten Shadow is recorded in graphite — reading by reading, pencil by pencil, sharp forever.
-### The Full Box
+The faceless shadow produces singing that is understood rather than heard, and the Warden records whether singing occurred and for how long, with no field for melody or words. The field was removed. The file explains that entries in it had become descriptions of music the Wardens knew, and that the form now asks only what can be established.
 
-Commissioning issues a full box of pencils — twelve, sharpened, the rookie's first year. Veterans replenish from the quartermaster with pride. Forgotten Shadow is recorded in graphite that never runs out. Issued, sharpened, recording.
+### Darker Near the Forgotten
 
-### The Sharpener
+Its depth of colour increases around people nobody holds in mind, and the shade is graded against a card. The gradings are logged without naming anyone nearby. The file is explicit that the entity's response must never become a record of who in the district has been forgotten, and the archivist's note calls this the clearest privacy provision in the wing.
 
-The muster hall keeps a wall sharpener — bolted, trued, and used before every watch. The sharpener custom queues the roster: sharpen in turn, waste nothing, write sharp. The sharpener has served generations of pencils. Forgotten Shadow is recorded sharp. Queued, sharpened, writing.
+### It Follows Abandoned Paths
+
+The shadow keeps to routes that are no longer walked, and its track is plotted against a survey of disused ways. The agreement is close. The survey had to be assembled from several sources because no current map shows those paths, and the sources are listed with the gaps between them marked.
+
+### A Wanderer Who Left No Entry
+
+Someone crossing the Desolate disappeared from every settlement record while still alive, leaving only the shadow of their route, and the commissioning file holds the settlement registers with the absences shown. The absences are consistent across all of them. The archivist's note observes that no register records them arriving and none records them leaving, and that the shadow's track passes through every one of those places.
 
 ## Trivia
 

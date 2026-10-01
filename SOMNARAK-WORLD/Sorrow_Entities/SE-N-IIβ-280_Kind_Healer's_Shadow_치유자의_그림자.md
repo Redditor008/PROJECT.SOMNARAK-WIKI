@@ -363,16 +363,21 @@ Some sorrows mourn the healer. Kind Healer's Shadow mourns the continuation — 
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Spare Key
+### It Follows One Person
 
-Every chamber in Kind Healer's Shadow's containment keeps a spare key — sealed, logged, and held by the watch commander. The spare-key custom governs its custody: sealed at watch start, verified at watch end, used only in the emergencies the doctrine tables. The keys have been used rarely and regretted never — each use logged, each emergency met, each seal replaced after. New commanders receive the keys the way they receive the watch: with briefing, with gravity, with the formula. Kind Healer's Shadow is secured by keys the roster holds faithfully — spares sealed, customs kept, emergencies answered.
-### The Unbroken Seal
+The warm faceless shadow attaches to a single wounded person at a time and does not divide its attention, and the holding's record is therefore a sequence of individuals rather than a continuous watch. Each is recorded with consent. Where consent is withheld the entry is kept anonymised, and the file notes that this has happened twice.
 
-Spare-key seals are verified unbroken at every watch end — the commander's check, the log's confirmation. Unbroken seals mean unneeded emergencies. Kind Healer's Shadow's seals hold watch after watch. Sealed, verified, holding.
+### It Heals by Being Near
 
-### The Key Ceremony
+Recovery improves in its proximity and no contact is involved, which has been observed by the infirmary rather than by the facility, and the infirmary's assessments are held as received. They are cautious in their wording. The file reproduces that caution rather than summarising it into something more confident, the archivist noting that the summary was drafted and read as a claim.
 
-Watch commanders receive the spare keys with ceremony — the sealed packet, the custody formula, the log's countersignature. The ceremony binds the custody: keys received, responsibility taken, watch begun. Kind Healer's Shadow's keys pass commander to commander, ceremony by ceremony. Received, held, transferred.
+### It Goes When the Wound Closes
+
+The shadow disappears on recovery, every time, and does not return to the same person. Departures are logged with the date of discharge. The file observes that the holding has never had to arrange an ending and that the entity has never had to be removed from anyone, which is unusual enough to be worth stating.
+
+### A Healer Who Did Not Survive
+
+Someone died during a Han overflow and their compassion stayed behind, and the commissioning file holds the overflow's casualty list with their entry among the others, unmarked. It is not highlighted. The archivist's note explains that singling out the line was proposed and refused, on the ground that the healer's name sits among people they were treating and that the list is more accurate left alone.
 
 ## Trivia
 

@@ -370,16 +370,21 @@ Some sorrows are about being heard. Aphonia is about not being heard — the scr
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Watered Plant
+### A Scream With No Sound
 
-A plant grows in Aphonia's muster hall — watered on rotation, tended jointly, the roster's living green. The plant custom assigns every Warden a watering week: tend it, log it, pass it on. The plant has survived every hardship the roster survived — shortages, storms, short staffing. Veterans describe it as the roster's mirror: thriving when the roster thrives, drooping when the roster strains. Counselors check the plant the way they check personnel. Aphonia is witnessed by gardeners — who water, watch after watch, the green proof that life persists in the containment.
-### The New Leaf
+The figure's mouth is open in a cry that produces nothing audible and is instead felt in the chest, and the Warden records duration and intensity by self-report. There is no instrument that registers it. The file says so plainly and notes that four separate attempts at acoustic detection are documented in the folder, all negative, all retained.
 
-The muster plant grows new leaves — each one logged, each one celebrated. New-leaf days are the roster's small festivals. Aphonia is witnessed where life persists. Watered, leafing, living.
+### Its Face Recognises
 
-### The Watering Roster
+The expression is one of desperate recognition rather than of pain, directed at whoever is present, and personnel find this the hardest part of the posting. The briefing warns of it specifically. The file records that the warning was added after Wardens repeatedly reported having felt addressed by name, and that no name has ever actually been given.
 
-Plant watering runs on roster — names scheduled, weeks assigned, never missed. The roster custom treats the plant as a posting: tend it like a watch. Aphonia's plant thrives on scheduled care. Rostered, watered, thriving.
+### Answering Calms It
+
+Speaking in reply reduces the cry, reliably and immediately, and this is the one effective action the holding has. Wardens may answer and are not required to. The file is explicit that the choice rests with the person, observing that an order to answer a scream would make the response a procedure and that the entity appears to respond to something other than procedure.
+
+### Cries After Rescue Failed
+
+People called from collapsed structures and Fracture zones and the calls crystallized once rescue had not come, and the commissioning file holds the operational records of those attempts. The attempts were real and were made. The archivist's note states that the rescues failed for reasons the records set out, that the reasons are adequate, and that the entity exists regardless of their adequacy.
 
 ## Trivia
 

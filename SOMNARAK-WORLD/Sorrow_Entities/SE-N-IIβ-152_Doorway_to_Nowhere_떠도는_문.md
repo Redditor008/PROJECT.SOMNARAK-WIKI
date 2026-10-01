@@ -370,16 +370,21 @@ Some sorrows mourn a home. Doorway to Nowhere mourns the leaving — the door to
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Timely Relief
+### A Threshold Without a Wall
 
-Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Doorway to Nowhere is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
-### The Early Arrival
+The burning door stands and walks on a frame with nothing around it, and the Warden's record notes its position and the direction the door faces, which changes as it moves. There is no structure to anchor it to. The file remarks that this is the only holding in the wing whose subject is an architectural feature with no architecture.
 
-The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Doorway to Nowhere is relieved promptly. Early, briefed, holding.
+### It Never Opens Twice on the Same Place
 
-### The Relief Log
+The handle gives onto a different memory each time and no destination has recurred, which has been verified across the whole of the record. Opening is not performed by personnel. The prohibition is absolute and the file explains it without drama: the door opens onto somewhere, nobody knows where, and the facility has declined to find out by sending someone.
 
-Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Doorway to Nowhere is witnessed continuously. Arrived, briefed, transferred.
+### It Glows Near Empty Homes
+
+Its light rises in the vicinity of abandoned dwellings, and the brightness is logged against the number of vacant properties on the street, which the ward supplies. The correlation is strong. The file prints both series and states that the relationship is observed rather than explained, and that the ward's figures are reproduced as received.
+
+### An Evacuation That Scattered Families
+
+A border evacuation separated households and their doors became the mark of leaving without knowing whether return was possible, and the commissioning file holds the evacuation order with its route schedules. The order is efficient and well drafted. The archivist's note observes that it provided for departure in considerable detail and made no provision at all for coming back.
 
 ## Trivia
 

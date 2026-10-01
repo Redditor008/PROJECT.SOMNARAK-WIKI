@@ -377,16 +377,21 @@ Some sorrows mourn the fallen. Forgotten Soldier mourns the edited — the sacri
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Folded Blanket
+### He Stands at Attention
 
-Bunks are made with folded blankets — corners square, edges aligned, the roster's oldest order custom. Inspections check the blankets first: square corners mean disciplined Wardens. Veterans fold without thinking — the creases sharp from years of practice. New Wardens learn the fold before they learn the gauges: order in the bunk, order in the watch. Forgotten Soldier is witnessed by personnel who fold blankets — who keep, in small squares of wool, the discipline that keeps the containment.
-### The Tight Corner
+The flickering warrior holds a formal posture continuously and does not relax it, and the Warden's log records the bearing and the direction he faces. Both are constant. The file notes that he is oriented toward the perimeter he served rather than toward the room, and that the orientation was checked against the old boundary line and found to agree.
 
-Blanket corners are tucked tight — the inspection's first check, the roster's smallest discipline. Tight corners, tight watches. Forgotten Soldier is witnessed by personnel squared away. Folded, tight, ready.
+### Armour From Before the Structuring
 
-### The Bunk Inspection
+The plate belongs to an era well before the present record and has been examined by people who know old armour, whose opinions are held with their names. They broadly agree on the period. Where they differ the differences are printed, and the file states that no attempt has been made to use the armour to identify him because the pattern was common and the men who wore it were many.
 
-Bunks are inspected weekly — blankets folded, kits stowed, floors swept. The inspection custom scores fairly and praises publicly. Forgotten Soldier's roster passes inspection standing. Folded, stowed, passing.
+### The Salute
+
+He returns a salute to anyone who tells him they remember him, and the occurrences are logged with the name of the person who spoke. Wardens are not instructed to say it. The file records that most do, that the words are not required by any order, and that the practice has never been written into the standing instructions because nobody has wanted to make it a duty.
+
+### Struck From the Rolls
+
+His name was removed, his service deleted, and his twenty years at the Zone E perimeter erased, and the commissioning file holds the rolls with the gap in them. The gap is clean and deliberate. The archivist's note observes that the surrounding entries are intact, that the deletion was done carefully by someone competent, and that the care is the most disturbing feature of the document.
 
 ## Trivia
 

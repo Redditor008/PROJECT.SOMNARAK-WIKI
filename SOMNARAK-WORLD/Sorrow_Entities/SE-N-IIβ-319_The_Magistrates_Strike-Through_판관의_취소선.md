@@ -366,16 +366,21 @@ Operational Rule: When deploying this A-Relic in combat, the squad leader must d
 
 ## Watch Record
 
-### The Fresh Paint
+### A Mark That Cannot Be Lifted
 
-Maintenance repaints The Magistrates Strike-Through's chambers on rotation — walls fresh, markings crisp, the containment gleaming the way readiness gleams. The paint custom treats the work as honor, not chore: the roster paints its own chambers, brushes shared, pride joint. Veterans describe fresh-paint days as the containment's renewals — the same doctrine, brightened walls, the watches continuing across the wet paint. The Magistrates Strike-Through (SE-N-IIβ-319) is witnessed in chambers the roster keeps worthy — painted faithfully, maintained proudly, gleaming always.
-### The Dry Wall
+The chalk leaves a lime-white streak that resists solvents, flame, and scraping, and the resistance has been tested on sample surfaces rather than on anything of record. The test panels are retained. The file notes that they are kept in the folder itself, physically, which makes this the only containment record in the wing that contains part of its own subject's work.
 
-Fresh paint dries under watch — the roster guarding wet walls the way it guards everything: faithfully. Dry-wall checks close every paint day. The Magistrates Strike-Through's chambers gleam. Painted, dried, gleaming.
+### Cold and Heavy
 
-### The Color Standard
+The stick is bone-cold and weighs more in the hand than its size accounts for, and both are recorded at each inspection, the weight on a balance and the temperature by contact. Neither has altered. The file states that the discrepancy between the measured mass and the apparent heaviness is not resolved and is reported as two separate observations.
 
-Chamber paint follows the color standard — walls regulation gray, markings safety yellow, pipes coded by system. The standard custom keeps every facility legible: any Warden, any chamber, readable at a glance. The Magistrates Strike-Through's chambers match the standard exactly. Painted standard, reading clearly.
+### Baek-Hyeon
+
+The Chief Inquisitor who made it is named throughout, and his judicial record is held with the containment file in full, including the sentences he passed before the Purge. They are not few. The archivist's note states that the file includes them because a document that showed only his last act would be a defence rather than a record.
+
+### Eighty-Two Names
+
+The condemned he struck from the slaughter manifest are listed, individually, and the list occupies its own section at the front of the folder rather than an appendix. It is the first thing a reader meets. The archivist's note explains the placement in one line, which is that the names were the point of what he did and should not be reached last.
 
 ## Trivia
 
