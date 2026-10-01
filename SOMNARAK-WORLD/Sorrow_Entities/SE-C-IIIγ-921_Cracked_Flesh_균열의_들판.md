@@ -308,16 +308,21 @@ The entity does not rage. It does not weep. It persists — body and grudge, pat
 
 ## Warden Record
 
-### The Letter
+### Three Minutes
 
-Wardens in Cracked Flesh's chain write letters — to family, to friends, to the civilian lives they maintain alongside the watches. The letter custom is the roster's oldest morale practice: write honestly, write regularly, and write home. The Directorate censors nothing and reads nothing — the letters are sealed, private, and sacrosanct. Veterans describe the custom as the roster's ballast: the watches demand everything, and the letters return something. News from outside. Love from afar. The reminder that the city the roster protects contains people who write back. Cracked Flesh (SE-C-IIIγ-921) is witnessed by personnel with lives beyond the chamber — lives the letters maintain, one sealed page at a time. The watches take. The letters give. The roster holds both.
+The ground in that part of Zone B marks anyone who stands on it past a threshold, and the cracks begin without pain, which is the hazard — personnel do not feel themselves being affected. The watch is timed rather than observed. A second Warden holds the clock and calls the limit aloud, and no one is permitted to time themselves. The rule exists because self-timing was the original practice and was abandoned after the affected party in each of the early incidents proved to be the person holding the watch.
 
-### The Post Box
+### Porcelain
 
-The facility's post box stands in the muster hall — plain, battered, and emptied daily. Wardens post their letters between watches, and the box fills the way morale fills: steadily, quietly, without ceremony. The post custom requires nothing but the box's presence — no quotas, no reminders, only the standing invitation of the empty slot. Counselors monitor the box's volume the way engineers monitor gauges: full box, healthy roster. The box has never stood empty a full rotation. Cracked Flesh is witnessed by personnel who write home — who maintain, through sealed pages and daily postings, the civilian ballast that steadies the watches. The box stands. The letters flow. The roster writes, the city answers, and the containment holds on ballast of paper and love.
-### The Reply
+The cracks deepen as though the body were fired clay under load, and the progression is photographed at fixed intervals against a scale. The photographs are held in the personnel file of the affected Warden rather than in the containment record, and they are released to the containment record only with that person's written consent. Consent has been given in most cases and refused in some. The refusals are noted as refusals and the gap is left visible rather than filled.
 
-Letters from home arrive with the supply runs — answers to the roster's sealed pages, love returned for love sent. The reply custom gives Wardens an hour with their mail before the next watch: read privately, treasure fully, stand steadied. Veterans describe reply days as the roster's refueling — the civilian ballast renewed, the watches re-steadied. Counselors note the correlation openly: reply days precede the steadiest watches. Cracked Flesh is witnessed by personnel who are written to — who stand, watch after watch, on ballast of paper and love, sent and answered.
+### A Condition, Not a Thing
+
+There is nothing to point at. The hazard exists as a property of a place, and the containment is consequently a boundary and a schedule rather than a vessel, which the standing order says in its first line so that arriving personnel do not spend their first watch looking for an occupant. The boundary is marked on the ground in paint renewed each cycle and the renewal is itself a timed task performed from outside the line.
+
+### Cumulative
+
+Exposures layer, and the file tracks each Warden's total across their whole service rather than per posting, which required building a register that follows people between departments. The register is maintained by the infirmary and the facility receives only a cleared or not-cleared answer when it asks. It does not receive the underlying figures. That division was insisted on by the infirmary and the file records that the facility conceded it without argument. Paint for the boundary is held in the watch room rather than drawn from stores, so that a renewal is never delayed by a requisition. Two sealed tins are kept at all times.
 
 ## Trivia
 

@@ -401,16 +401,21 @@ Some sorrows are about forgetting. Chain of Memories is about remembering too mu
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Visitor
+### Faces in the Links
 
-Civilians visit Chain of Memories's facility on escorted rotation — oversight committees, trainee cohorts, the occasional dignitary requiring proof the Directorate spends wisely. The visitor protocol governs every tour: see the precautions, meet the roster, witness the doctrine practiced. Escort Wardens perform the protocol the way docents perform museums — proudly, precisely, and with the veteran's pleasure in showing work well done. Visitors ask the questions visitors always ask: is it safe, is it wise, is it worth it. The escort answers with the containment itself: the gauges, the logs, the roster standing. Chain of Memories (SE-N-IIIβ-200) receives few visitors and impresses all of them. The protocol proves the Directorate's case the way only practice proves anything: by showing.
+Each link holds a face, a place, or a moment, and the links are catalogued by what they contain, which makes the inventory a register of other people's lives. Access to it is restricted, not for secrecy but because the file holds that a catalogue of remembered faces should not be casually read. Requests are granted in writing and the grants are logged with their reasons.
 
-### The Guest Book
+### Tightening
 
-Visitors sign the guest book — name, office, and one line of impression. The book runs to volumes: oversight satisfied, trainees inspired, dignitaries reassured. The roster reads the guest book the way crews read commendations: with pride earned and perspective kept. The visitors see the containment for an hour. The roster stands it for careers. But the guest book's lines prove what the roster sometimes forgets mid-watch: the work shows. The doctrine reads. The containment impresses even the skeptical. Chain of Memories is witnessed by personnel the visitors praise and the Directorate trusts. The guest book holds the praise. The roster holds the entity. Both holdings grow, visit after visit, watch after watch.
-### The Return Visit
+The chain draws tighter when a memory it holds is denied by the person it came from, and the tightening is measurable and sudden. The Warden cannot know which memory or whose. What is recorded is the time, and the times are kept in a plain series without interpretation, the file stating that any attempt to match them to events outside the containment would be guesswork dressed as a finding.
 
-Some visitors return — oversight satisfied so fully they bring colleagues, trainees inspired so deeply they request posting. Return visits are the escort Wardens' proudest moments: the containment impressed once, and the impressed came back. The guest book's return entries are marked with the escort's star — came, saw, returned. Chain of Memories collects return visitors the way the roster collects commendations: steadily, deservedly. Visit once, impressed. Return, convinced. The containment proves itself twice.
+### Growing with Shared History
+
+It lengthens as history accumulates between people, so its size is a measure of the district rather than of itself, and the length is taken each cycle against a fixed anchor. The anchor is a ring set in the Vault floor, placed when the holding opened. It has been re-surveyed twice and has not moved, which the file reports as a negative result in the same tone as any other.
+
+### Trading to Preserve
+
+Families exchanged memories after the records burned, and the commissioning material holds what survives of that effort — the lists of what each household undertook to carry for others, in several hands. The lists are incomplete. The archivist's note states that the gaps are original rather than lost, that some households were never approached, and that the chain contains no links from them. Granted requests are reviewed after the fact by a second reader who did not approve them, and the reviews are filed with the original grants. No grant has yet been found improper. The reviews continue on the stated reasoning that the value of the check lies in its being performed rather than in what it finds.
 
 ## Trivia
 

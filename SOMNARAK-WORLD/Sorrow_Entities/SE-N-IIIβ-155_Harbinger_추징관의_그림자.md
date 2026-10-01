@@ -367,16 +367,21 @@ Some sorrows are about the debt. Harbinger is about the dread of the debt — th
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Requisition
+### Following the Balance
 
-Every instrument in Harbinger's containment arrived by requisition — requested in writing, justified by need, approved against the quartermaster's unforgiving standard. The requisition files are the archive's driest holding and the roster's proudest: page after page of gauges, seals, lamps, and lines, each one argued for and won. The quartermaster's standing rule governs all of it: need it, prove it, maintain it. Requisitions that prove need are approved. Instruments that arrive are maintained — cleaned, calibrated, and logged — or the quartermaster reclaims them. No ornament has ever survived the quartermaster's review. No necessity has ever been denied it. Harbinger (SE-N-IIIβ-155) is witnessed with instruments the roster earned by argument and keeps by maintenance.
+It attaches to debt rather than to a person, which means it can be at an address its subject has left and can find them again without tracking them, and the Warden's position reports therefore record ledger balances alongside locations. The two columns are kept side by side on one sheet. The format was devised in the containment's first year and has never been altered, the file noting that every proposed improvement separated the columns and thereby destroyed the only thing the sheet was for.
 
-### The Quartermaster's Shelf
+### Never Touching
 
-The quartermaster keeps one shelf of retired instruments — gauges that served past calibration, lamps that burned past brightness, seals that held past rating. Each bears its service record: installed this date, maintained this often, retired with honors. New Wardens are shown the shelf before they file their first requisition, and the lesson lands the way honest objects teach: request only what the containment needs, maintain everything the containment grants, and retire with honors what has served past serving. Harbinger is witnessed with the quartermaster's instruments, standing on the quartermaster's shelf in honorable retirement when their service ends. Need it. Prove it. Maintain it. The shelf proves the roster does.
-### The Approved Stamp
+It does not make contact and has never been recorded doing so, maintaining a distance that varies and closes as the obligation ages. Distance is measured and logged. The series across a single subject is the most legible record the containment produces, and it is shown to the subject on request, which is a right written into the standing order rather than a courtesy and was written in after a subject asked and was refused.
 
-Approved requisitions return bearing the quartermaster's stamp — granted, with the date and the quartermaster's initials. Wardens keep their stamped approvals the way soldiers keep orders: filed, honored, and cited when the instruments arrive. The stamp means the quartermaster agreed — the need was real, the proof sufficed, the containment gains. Harbinger is witnessed with stamped instruments, every one earned. The stamp approves. The roster maintains. The containment holds.
+### Visible at the Edge
+
+It can be seen only from the corner of the eye or in reflected light, so the watch is kept with mirrors placed at fixed points rather than by looking. The mirrors are cleaned on a schedule and the schedule is logged, a triviality that is recorded because a missed cleaning once produced a report of disappearance that cost two days.
+
+### The Companion
+
+Generations lived under ledgers until the idea of collection became something that walked beside people, and the file documents the ordinariness of that rather than any single case. The material is routine: deadlines, notices, the standard forms. The archivist's note says the entity was made by paperwork and that the commissioning file is accordingly a file of paperwork, which was the only honest way to assemble it. Sheets are archived in their original order and have never been re-sorted.
 
 ## Trivia
 

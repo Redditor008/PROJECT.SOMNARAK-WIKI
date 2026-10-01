@@ -419,16 +419,21 @@ Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized b
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Storm Duty
+### Petals Through the Floor
 
-When crisis strikes elsewhere, Devouring Bloom's roster stands storm duty — full watches on short staffing, precautions maintained while reserves deploy outward. Storm duty is the containment's contribution to the Directorate's larger battles: holding firm at home while the institution fights abroad. The storm protocol runs the roster lean: essential watches only, tightened rotations, the senior Warden holding the center. Veterans describe storm duty as the roster's truest test — not of skill but of steadiness. The entity presses. The reserves are gone. The roster holds anyway. Devouring Bloom (SE-C-IIIγ-916) has weathered every storm duty the archive records without a watch unstood. The roster holds at home. The Directorate fights abroad. Both hold because both hold.
+It spreads by pushing petals of weight crystal through tunnel floors and walls, each one heavy enough to crack stone, and the Warden's survey is therefore structural rather than biological. The duty is walked with the tunnel engineers rather than alone, and the two sets of notes are filed together without reconciliation. Where they disagree, both readings stand. The arrangement was proposed by the engineers, who said plainly that they did not want the facility deciding which of them was right about a floor their own people walk on.
 
-### The Lean Log
+### Hauling Itself
 
-Storm duties are logged in the lean log — watches stood short-handed, readings taken under strain, the roster's performance at minimum strength. The lean log's entries are terse to the point of pride: short roster, full doctrine, held. Commanders cite the lean log whenever staffing debates arise: the roster holds lean, the log proves it, the standard survives shortage. But the lean log's standing lesson is caution, not comfort — the senior Warden's annotation reads: held, and never again if avoidable. Leanness proves the roster. Fullness protects it. Devouring Bloom is witnessed, storm after storm, by personnel who hold lean when they must and full when they can. The lean log proves the must. The roster prefers the can.
-### The Full Strength
+It drags toward what it is feeding on and then roots, and the rooted phase is the one that does the damage, the feeding being slow and the weight accumulating throughout. Movement is logged by the position of the root-legs against marks cut into the tunnel wall, which is cruder than the instruments available and was chosen because the marks survive a collapse and the instruments do not.
 
-Storm duty ends with the return to full strength — reserves recalled, roster restored, the lean log closed with the final entry: full strength resumed. Veterans describe the restoration as the roster's deep breath: the crisis passed, the strength returned, the containment held throughout. The senior Warden reads the lean log aloud at the restoration muster — every short watch honored, every strained reading praised. Devouring Bloom weathered lean. Devouring Bloom stands full. The roster held both, and holds still.
+### Beautiful and Immovable
+
+What it carries is grief that has been kept until it turned into something worth looking at and could no longer be shifted, and the containment file states the problem in those words at the front. The formulation is not decorative. It governs the disposal question, which has been raised at intervals and answered the same way each time: the bloom cannot be moved without breaking it, and breaking it has never been authorised.
+
+### The Memorial Petals
+
+Workers left petals below the city for those who did not come back up, and the practice is documented in the file through the burial society's own minutes rather than through any facility account. The minutes record the decision to begin, the subscription that funded it, and the years in which it continued. The archivist's note observes that the society never recorded a decision to stop, and that the petals crystallized while the practice was still going on. The marks are recut whenever a face spalls, and the recutting is logged with the reason.
 
 ## Trivia
 

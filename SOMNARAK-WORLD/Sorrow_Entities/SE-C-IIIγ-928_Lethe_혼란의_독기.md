@@ -326,16 +326,21 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 
 ## Warden Record
 
-### The Replacement
+### An Invisible Accumulation
 
-Instruments wear out, and Lethe's containment replaces them — gauges retired past calibration, seals retired past rating, lamps retired past brightness. The replacement protocol governs every swap: the new instrument certified, the old instrument honored, the exchange logged with both service records attached. Retiring instruments are not discarded. They join the quartermaster's shelf — or, for instruments of exceptional service, the muster hall's honored wall. Veterans describe replacements as the containment's renewals: the doctrine continues, the instruments refresh, the watches unbroken across the exchange. Lethe (SE-C-IIIγ-928) has been witnessed through generations of instruments. Each generation served. Each generation retired honored. The watches never paused.
+It settles in the lower levels of Zone C and cannot be seen, so the watch depends on detection by effect, and the effects begin with misplaced words. Wardens on the lower rotation read aloud from a fixed passage at the start and end of each watch while a second person follows the text. Errors are marked on the page. The pages accumulate and are the only reliable instrument the containment has ever had.
 
-### The Honored Wall
+### Reversed Meanings
 
-The honored wall holds the containment's most distinguished retirees — the gauge that caught the first pressure spike, the seal that held the worst season, the lamp that burned through the longest watch. Each bears its citation: served here, held this, retired honored. New Wardens study the wall before their first watch, learning the instruments' histories the way they learn the roster's. Veterans touch the wall's frame on passing — the way crews touch memorials, the way the night crews touch the spare lamp. Lethe is witnessed with instruments that will one day hang honored. The wall proves the roster maintains what it uses and honors what has served. Serve well. Retire honored. The wall waits for every instrument standing.
-### The First Reading
+Past the first stage, words invert — personnel say the opposite of what they intend and do not notice. Written orders are therefore issued in advance and carried on the person, so that an instruction given during exposure can be checked against one written before it. Where the two conflict, the written order governs absolutely and the Warden is withdrawn. No discretion is permitted at that point and the standing order says so without qualification.
 
-New instruments take their first readings under witness — the installing Warden, the watch commander, and the logbook open. The first-reading custom records the moment: instrument installed, reading taken, service begun. Veterans describe first readings as the containment's small commissionings — new eyes on the entity, sworn to accuracy. The first readings are preserved with the installation logs — baseline truth, witnessed jointly. Lethe is measured by instruments whose first readings were honored. Installed, witnessed, trusted. The readings continue.
+### Memory and Imagination
+
+The final stage removes the distinction between what happened and what was imagined, and the file is careful to state that affected personnel are not lying and do not experience uncertainty. Their accounts are recorded in full and retained. They are not used to establish facts about the containment. Both halves of that rule are written down, because the first half was once observed without the second and the resulting record took considerable work to disentangle.
+
+### Thirty-One Refinements
+
+The protocols have been rewritten many times and each rewrite adds the same clause about the mind register, which the file reproduces in every version so the repetition is visible on the page. The archivist's note draws the obvious conclusion: the clause keeps being added because it keeps being forgotten, and the forgetting is not administrative. The note is dated and initialled and has not been revised since. The reading passage has not been changed since the containment opened, on the ground that a new text would make every page before it incomparable.
 
 ## Trivia
 

@@ -407,16 +407,21 @@ Some sorrows are about what is owed. The Debt Chain is about what cannot be paid
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Drill
+### Every Link an Obligation
 
-Emergency drills run on rotation in The Debt Chain's containment — pressure scenarios, breach simulations, full-muster exercises the roster performs the way musicians practice scales. The drill doctrine is the Directorate's standing answer to complacency: practice the crisis before the crisis practices on you. Drills are unannounced, realistic, and graded — the senior Warden scoring response time, precaution arming, and roster discipline against the standard. Failing drills are repeated. Passing drills are logged. And the roster performs every drill as if The Debt Chain (SE-N-IIIβ-160) pressed in truth, because the doctrine's spine is realism: drill as you will stand. The roster drills hard. The roster stands harder. The drills prove it, rotation after rotation.
+The chain is made of crystallized debts and each link holds one, distinct and individually legible, so the inventory is a list of obligations rather than of parts. The inventory is maintained and it grows. New links are recorded with the date of appearance and nothing else, the file having decided early that naming the parties would turn a containment register into a collection instrument.
 
-### The After-Action
+### Heavier When Touched
 
-Every drill ends with the after-action — the roster gathered, the senior Warden reading the score, each Warden speaking one improvement. The after-action's rule is candor without rank: the newest Warden speaks first, the senior Warden last, and every improvement is logged regardless of source. The after-action log runs continuously — hundreds of entries, each one a small sharpening: faster arming here, clearer signals there, better positioning everywhere. Veterans describe the after-action as the drill's true product: not the practice but the polish. The Debt Chain is witnessed by a roster that improves on rotation, drill by drill. Practice the crisis. Polish the response. The after-action proves the roster does — one improvement at a time, logged forever.
-### The Perfect Score
+It gains weight under contact, and handling is therefore limited to what the survey requires and performed with the chain supported rather than lifted. Wardens are briefed that the increase is not an illusion and has been measured. The measurements are held. They are not reproduced in the briefing, which states only that the effect is real, on the reasoning that a Warden who has seen the figures handles the chain differently and worse.
 
-Once in a generation of drills, a roster scores perfectly — every response on time, every precaution armed, every signal crisp. Perfect drills are logged in gold — the senior Warden's term for the commendation entry, preserved verbatim. The roster that scored it is honored at muster. The drill is studied by every roster after. The Debt Chain has witnessed perfect drills and held through all of them — practiced crises met with perfect responses. Drill as you will stand. The perfect score proves the roster stands perfectly.
+### Linking Generations
+
+Obligations pass down, and the chain's structure records the descent, children's links joined to parents' in a sequence that can be read. The file notes that the sequence is the clearest genealogical document in the district and that it has twice been requested by parties outside the facility. Both requests were refused. The refusals are recorded with the names of the requesting offices.
+
+### Ledgers Beyond Storing
+
+The Collector ledgers outgrew the space available to keep them and the obligations crystallized rather than being discarded, and the commissioning material includes the storage returns from the period — the shelving, the overflow, the proposals for disposal that were never acted on. The archivist's note observes that the chain exists because nobody was willing to throw the ledgers away and nobody was willing to build anywhere to put them. The inventory is copied in full each cycle and the previous copy retained rather than superseded, so the growth of the chain can be read as a sequence of complete documents rather than as amendments to one. The copies are bound and shelved in order. The practice is expensive in labour and has never been questioned at review.
 
 ## Trivia
 

@@ -382,16 +382,21 @@ She did not reach it. She reached, instead, for the next warm thing, and the nex
 
 ## Warden Record
 
-### The Anniversary
+### She Is the Puddle
 
-Every cycle, on the containment's founding date, Grieving Love's roster holds the anniversary — the full chain mustered, the founding log read aloud, the year's watches honored. The anniversary reads the numbers: watches stood, readings logged, pressures weathered. Then the senior Warden reads the names: the roster present, the roster rotated, the roster remembered. New Wardens hear what the containment is. Veterans hear what they maintain. And the founding log — the first watch, the first readings, the oath sworn fresh — binds the anniversary to the origin: this is what was sworn, this is what was kept, this is what continues. Grieving Love (SE-N-IIIβ-941) has been held for every anniversary the archive records. The roster intends to hold every anniversary after.
+From the waist up she reads as a woman and below it she is a translucent dome of deep-blue slime that serves as both body and movement, and the Warden's observation notes are instructed to describe the whole rather than the upper part alone. The instruction exists because the early notes described a woman standing in something. They were not wrong about what they saw. They were wrong about where she ends, and the correction is recorded as a correction rather than silently applied.
 
-### The Founding Log
+### Weeping Without Losing
 
-The founding log is preserved under glass — the first watch's readings, the first commander's hand, the oath's first swearing. Trainees read it through the glass before they read anything else, and the lesson lands the way origins teach: everything the containment is began here, with these readings, this roster, this oath. The founding log's margins carry the first commander's annotations — steady, holds, continue — preserved in the original hand. Veterans touch the glass on anniversary. Newcomers press close to read. Grieving Love is witnessed by the latest link in a chain the founding log began. The glass protects the page. The roster protects everything else. The anniversary binds them: origin and present, sworn and kept, held then and held now.
-### The Toast
+Her tears do not fall away; they rejoin her, so she cries continuously and never diminishes, and nothing is ever collected from the floor of the holding. Wardens are told this during the briefing. The file's reason for stating it explicitly is that personnel arriving with the ordinary expectation of a weeping thing look for a residue, find none, and conclude that the weeping is display.
 
-The anniversary closes with the toast — the roster raised glasses (water, on duty) to the containment held and the year coming. The senior Warden speaks the formula: to the watches stood, the pressures weathered, and the oath renewed. The roster answers: held, weathered, renewed. Veterans describe the toast as the anniversary's seal — the ceremony closed, the year blessed, the containment commended by its own. Grieving Love is toasted every anniversary. The glasses rise. The oath holds.
+### Sooah
+
+The apothecary who became her is named throughout, and her working papers are held with the containment record — her reagent notes, her trials, and the sequence of attempts at drawing the Weeping-wasting out of Haneul. The notes are methodical to the last page. The archivist's note observes that they show no deterioration of any kind, that she was working carefully on the night she fell, and that the file preserves them to prevent the easier story in which exhaustion made her careless.
+
+### Haneul
+
+The person she was trying to save is also named, and what is known of him is set down at the same length as what is known of her, which required effort because far less survives. The entry is short and does not apologise for being short. It closes with the observation that the cure was never finished and that the file does not record what became of him. The entry was written by a Warden who spent a season searching the Zone D registers for him and found three lines.
 
 ## Trivia
 

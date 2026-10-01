@@ -369,16 +369,21 @@ Some sorrows mourn a home. Mirror of Broken mourns a self — the identity shatt
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Storm Duty
+### Shards That Disagree
 
-When crisis strikes elsewhere, Mirror of Broken's roster stands storm duty — full watches on short staffing, precautions maintained while reserves deploy outward. Storm duty is the containment's contribution to the Directorate's larger battles: holding firm at home while the institution fights abroad. The storm protocol runs the roster lean: essential watches only, tightened rotations, the senior Warden holding the center. Veterans describe storm duty as the roster's truest test — not of skill but of steadiness. The entity presses. The reserves are gone. The roster holds anyway. Mirror of Broken (SE-N-IIIγ-127) has weathered every storm duty the archive records without a watch unstood. The roster holds at home. The Directorate fights abroad. Both hold because both hold.
+The figure is assembled from broken mirror and each shard returns a different self, so there is no single reflection to record and the Warden logs the count of distinct faces rather than their content. Content is not described. The prohibition is in the standing order and its reason is given: the faces belong to the person looking, and a written account of them would put a Warden's interior on a shelf in the archive.
 
-### The Lean Log
+### It Appears in Sleep
 
-Storm duties are logged in the lean log — watches stood short-handed, readings taken under strain, the roster's performance at minimum strength. The lean log's entries are terse to the point of pride: short roster, full doctrine, held. Commanders cite the lean log whenever staffing debates arise: the roster holds lean, the log proves it, the standard survives shortage. But the lean log's standing lesson is caution, not comfort — the senior Warden's annotation reads: held, and never again if avoidable. Leanness proves the roster. Fullness protects it. Mirror of Broken is witnessed, storm after storm, by personnel who hold lean when they must and full when they can. The lean log proves the must. The roster prefers the can.
-### The Full Strength
+Encounters occur in the dreams of exiles rather than in the waking holding, which means the containment has no perimeter in the ordinary sense and the watch consists of collecting accounts afterward. Accounts are taken voluntarily and the volunteering is recorded alongside the account, so a reader can see who chose to speak. Nobody has been asked twice. The file states that the rule against asking twice was written by a Warden who had been asked twice.
 
-Storm duty ends with the return to full strength — reserves recalled, roster restored, the lean log closed with the final entry: full strength resumed. Veterans describe the restoration as the roster's deep breath: the crisis passed, the strength returned, the containment held throughout. The senior Warden reads the lean log aloud at the restoration muster — every short watch honored, every strained reading praised. Mirror of Broken weathered lean. Mirror of Broken stands full. The roster held both, and holds still.
+### Silent Watching
+
+It does not act. It observes, and the observation is the entire effect, which the briefing material presents as the central difficulty of the posting rather than as a reassurance. Personnel expecting a hazard are told there is none of the kind they are prepared for. The file notes that this briefing was shortened twice and restored to its full length both times.
+
+### Becoming Someone Else
+
+What it carries is the cost of changing in order to survive leaving, and the commissioning material holds the Gate's own passage records for the relevant period — names going out, with the entries made on the way in beside them where both exist. Many have only one half. The archivist's note observes that the incomplete rows are the majority and that this is the condition the entity is made of. Accounts are held unedited, including the ones that contradict each other, and no attempt has been made to reconcile them. The file states that reconciliation would require deciding whose dream was accurate, which is not a question the archive is equipped to answer.
 
 ## Trivia
 

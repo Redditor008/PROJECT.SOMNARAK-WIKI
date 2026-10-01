@@ -414,16 +414,21 @@ Do not touch it. Do not, whatever the longing in your chest tells you, look up t
 
 ## Warden Record
 
-### The Overtime
+### The Moment Before Rising
 
-Some watches run long — relief delayed, pressure rising, the roster holding past the rotation. The overtime custom governs every extended watch: the holding roster stays willingly, the relief hurries honestly, and the extra hours are logged as overtime honored. No Warden has ever been ordered to overtime. Every Warden has stood it. Veterans describe the custom as the roster's handshake: we hold until relieved, relieved or not. The overtime log records every extension — hours held, reason delayed, relief arrived. The log's entries are uniformly proud: held two extra, relief delayed by storm, containment unbroken. Foam Flood (SE-C-IIIγ-948) has never stood an unheld watch — relief or no relief, rotation or overtime. The roster holds until relieved. The custom guarantees it.
+The carving holds the first motion of ascent and never completes it, wings half-spread, body arched, and the Vault is kept at a distance from which the posture reads clearly. Wardens are not stationed close. The viewing position was set after the early watches were kept at arm's length and the Wardens on those watches began describing the carving as straining rather than posed.
 
-### The Relief
+### White Stone, Black Dragon
 
-Relief, when it arrives, is the roster's sweetest moment — the relieving Warden's hand on the door, the standing Warden's briefing delivered, the watch transferred with the formula: I relieve you. I stand relieved. The relief custom requires the full briefing regardless of delay — no shortcuts for lateness, no abbreviations for haste. The arriving Warden hears everything, confirms everything, and takes the watch fresh. Veterans describe reliefs as the containment's heartbeat: regular, complete, and unfailing. Foam Flood is witnessed watch after watch without a gap — each watch handed to the next, each Warden relieved in full. Hold until relieved. Relieve in full. The heartbeat continues, watch after watch, forever.
-### The Extra Hour Honored
+The block is of no quarry the Keepers can place, dense and unchippable, pale where the dragon is not and dark where it is, the darkness being the stone itself. Sampling has been attempted and failed. The failed attempts are documented with their methods so that the next person to propose one can see what has already been tried, and the file notes that every proposal since the third has been withdrawn after reading the section rather than refused.
 
-Overtime hours are honored at muster — the senior Warden reading the overtime log aloud, each extension praised by name. The honor custom treats held hours as the roster's gift: given willingly, received gratefully, praised publicly. Veterans describe the reading as the overtime's true pay — not the logged hours but the spoken thanks. The honored roster stands straighter after. Foam Flood has never stood an unheld watch, and the muster proves the roster knows it. Held past rotation. Honored at muster. The custom continues.
+### The Eyes
+
+The set stones at the eyes glow steadily and are faintly warm, and they are the only light in the Vault, which the facility has chosen not to supplement. Lamps were installed once and removed. The removal is recorded without an explanation, and the archivist's note states that none was written at the time and that the Keepers who made the decision declined to supply one afterward.
+
+### The Riverbank
+
+A traveller who slept beside the carving walked to the top of the bank at dawn and stepped off it certain he could fly, and the sealing of the bed followed within the day. The traveller is named in the file and his belongings are listed. The inventory is short. It is reproduced in full on the grounds that a list of what a man was carrying is the nearest thing the record has to an account of who he was. The Vault door is opened by two Keepers together and neither is permitted to enter alone, a rule that predates the written protocol and was in force as custom for some years before anyone set it down. The file records both the custom and the date it became an instruction.
 
 ## Trivia
 

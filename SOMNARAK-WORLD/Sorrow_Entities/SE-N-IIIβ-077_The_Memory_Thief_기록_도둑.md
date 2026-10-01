@@ -382,16 +382,21 @@ Some sorrows are about losing memory. The Memory Thief is about the fear of losi
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Nightingale Shift
+### Difficult to See Directly
 
-The nightingale shift is the roster's term for a watch so quiet it sings — readings nominal, entity quiescent, the whole of The Memory Thief's containment humming at peacetime pitch. Nightingale watches are logged the way all watches are logged, with one addition: the watch commander's nightingale mark, a small notation in the margin recording that the quiet held the whole watch through. Commanders prize the mark the way sailors prize fair winds — not as achievement but as grace. The quiet is never earned. It is received, logged, and passed to the relief with gratitude. The Memory Thief (SE-N-IIIβ-077) has granted the roster many nightingale shifts. Each one is marked. Each one is remembered. And each one steadies the roster for the watches that sing less sweetly.
+The figure is small, quick, and resists direct attention, and the Warden's observation protocol is built around that: positions are recorded from peripheral sighting and never from a sustained look, which does not work. Two observers at an angle to each other produce a usable fix. One observer produces nothing. The protocol states the requirement as a minimum rather than a preference and watches are not opened below it.
 
-### The Quiet Ledger
+### What It Takes
 
-The quiet ledger compiles every nightingale mark in the containment's history — dates, commanders, and the watch conditions that made the quiet possible. The ledger's purpose is morale made tangible: proof, in the commanders' own hands, that the containment holds far more often than it strains. New Wardens read the ledger on commissioning. Veterans consult it before hard watches. And the senior Warden cites it at every briefing where the roster's confidence wavers: the quiet outnumbers the pressure a hundred to one. The ledger proves it. The Memory Thief is witnessed, watch after watch, by personnel who know the numbers — and the numbers say the containment holds, the quiet returns, and the nightingale sings more often than it silent.
-### The Dawn Chorus
+It removes small memories — not the large ones, which the file notes is the property that makes it tolerable and also the property that makes it hard to prove. Losses are established by comparison against a written baseline each Warden records before their first watch, a page of small particulars of their own choosing. The page is sealed and held by the infirmary. Wardens have described writing it as the most unpleasant hour of the posting.
 
-The morning after a nightingale shift, the relief arrives to birdsong — the roster's term for a handover with nothing to report. Readings nominal, entity quiescent, the quiet passed intact. Veterans describe dawn-chorus handovers as the watch's benediction: the night held, the day inherits peace. The Memory Thief grants them regularly. The roster receives them gratefully. And the quiet ledger grows — mark by mark, chorus by chorus.
+### The Stash
+
+Taken memories are kept somewhere, and the containment file is explicit that the location has never been found and that searching for it is not an authorised activity. The prohibition is unusual in the wing and it is explained: the searches that were conducted produced no stash and produced several Wardens who could not afterward say what they had been looking for.
+
+### Memory as Currency
+
+It formed from the fear of forgetting in a city where remembering is tradable, and the commissioning material includes the Collector's Row exchange schedules of the period rather than any narrative account. The schedules list what a memory was worth. They are dry and they are the point, and the archivist's note observes that the entity steals exactly the class of memory the schedules priced lowest. Baseline pages are destroyed when a Warden leaves the posting, unread, in that Warden's presence. The destruction is witnessed and the witness signs that the page was not opened. Several departing Wardens have asked to read their own page first and the request has been granted in every instance, which the file notes is the only part of the procedure that was never debated.
 
 ## Trivia
 

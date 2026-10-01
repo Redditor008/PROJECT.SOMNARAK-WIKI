@@ -407,16 +407,21 @@ Some sorrows are about the debt. Deadline is about the waiting — the countdown
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The New Warden
+### Counting Down to Something Else
 
-Every Warden in Deadline's chain stood a first watch — briefed, nervous, and determined. The first-watch protocol pairs every newcomer with a veteran: shadow the watch, ask everything, touch nothing unasked. Veterans describe their first-watch duty as the roster's truest test — not of the newcomer but of themselves. Teaching the containment reveals what the teacher has forgotten. Newcomers ask why the gauge is read twice, why the chamber is eyeballed before the instruments, why the oath's clauses run in their fixed order. Veterans answer, and in answering remember. Deadline (SE-N-IIIβ-156) has been learned fresh by every Warden who ever stood it. The learning never ends. The teaching never ends. The chain continues, watch by watch, rookie by rookie.
+Its hands do not tell the hour. They run to a person's deadline, which means the face reads differently depending on who is standing in front of it, and the Warden's log records the reading together with the reader. A clock that shows a different time to each observer cannot be checked against another clock, so it is not checked. The standing order states plainly that the instrument is unverifiable and is logged anyway.
 
-### The First Log
+### Warm
 
-The newcomer's first log is preserved — bound into the containment file, the rookie's own hand recording the first witnessed watch. First logs are earnest to the point of poetry: readings logged twice, observations tripled, the entity described the way newcomers describe everything — fully, carefully, as if the containment depended on this one log. Veterans read the first logs the way parents keep childhood drawings: with pride, with humor, and with recognition. Every veteran wrote one. Every veteran remembers. Deadline is witnessed, rookie after rookie, by personnel whose first logs prove the doctrine's deepest claim: the containment is learned fresh by everyone, and everyone learns it. The first log stands. The Warden stands with it.
-### The Shadow's End
+It holds a warmth it has no source for, and the temperature is taken each watch through a cloth rather than by hand. The measure is unremarkable and has never varied beyond a narrow band. It is recorded because the band is narrow: the file's position is that a constant which has never moved is worth continuing to watch precisely because its moving would mean something.
 
-The newcomer's shadow period ends with the first solo watch — the veteran stepping back, the rookie standing alone, the containment held by new hands. Veterans describe the moment as the roster's true commissioning: not the oath sworn but the watch stood solo. The first solo log is preserved beside the first shadowed log — before and after, student and Warden. Deadline has been stood solo by every Warden in its chain. Each one held. Each one holds still.
+### It Never Resets
+
+The count does not return to a start and cannot be wound. Attempts to intervene mechanically are prohibited, the prohibition dating from the only occasion on which one was made, and the file records that occasion in the technician's own account rather than in a summary. His account is two pages and does not explain what he expected to happen.
+
+### Acceleration
+
+New obligations speed the hands, and the correlation is close enough that the Warden's log functions as an unintended record of borrowing on Collector's Row. The facility does not share it. The decision not to is recorded with its reasoning, which is that the log was created to watch an object and that an institution which began supplying it elsewhere would have built something other than a containment. Temperature readings are taken by whoever holds the watch rather than by a designated person, so that the series is not the record of one hand. The cloths are issued fresh each time and are not reused between watches. Both practices are trivial and both are written into the order, the file observing that trivial practices survive only when they are written down.
 
 ## Trivia
 
