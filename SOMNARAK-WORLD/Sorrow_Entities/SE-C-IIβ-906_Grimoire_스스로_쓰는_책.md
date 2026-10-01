@@ -378,16 +378,21 @@ The entity does not rage. It does not weep. It persists — tale and grudge, pat
 
 ## Watch Record
 
-### The Clean Log
+### It Writes Itself
 
-The perfect watch log — every reading on time, every notation legible, every margin clean — is the roster's quiet pride. Grimoire's archive holds hundreds: watches logged flawlessly, filed promptly, and preserved as the standard. The clean-log custom marks each one: the watch commander's checkmark, the archivist's nod, the log bound with the honored volumes. New Wardens study clean logs before writing their own. Veterans produce them without thinking. Grimoire (SE-C-IIβ-906) is witnessed on paper as faithfully as in person — reading by reading, log by log, clean forever.
-### The Archivist's Nod
+Ink seeps from the binding and fills the pages unaided, and the Warden records the quantity of new text at each watch by counting lines rather than reading them. Counting without reading is difficult and the file acknowledges it. The instruction stands regardless, with the note that a Warden who reads is not committing an offence and should record that they did.
 
-Clean logs earn the archivist's nod — the small sharp gesture of approval, given at filing. Wardens prize the nod the way crews prize commendations. Grimoire's archive holds hundreds of nodded logs. The nod approves. The roster logs clean.
+### A Different Story for Each Reader
 
-### The Bound Volume
+The text changes according to who opens it, so no two readings agree and the book has no content that can be filed. What the file holds instead is a register of openings — who, when, and for how long. The register is the document. The archivist's note remarks that this is the only containment in the wing whose record is entirely about the staff.
 
-Clean logs are bound annually — the year's flawless watches gathered, covered, and shelved with the honored volumes. The binding custom closes every year: the archivist's selection, the binder's craft, the volume shelved with ceremony. Grimoire's bound years line the archive shelf — proof, in leather and thread, that the roster logs clean. Bound, shelved, honored.
+### Rage That Does Not Cool
+
+The district's own name for it describes something that will not settle, and the file carries that name alongside the classification without ranking them. Both are printed at the head of the folder. The archivist's note explains that the local name predates the facility's involvement and that displacing it would be a claim the facility is not entitled to make.
+
+### Possession Rather Than Pressure
+
+What distinguishes it from the rest of its class is that it takes objects rather than crushing or dissolving, and the protocols had to be written new. The original drafting file is kept. It shows the procedure being worked out, with the discarded versions, and the archivist's note states that the discards are more instructive than the final text.
 
 ## Trivia
 

@@ -366,16 +366,21 @@ Some sorrows are about being trapped. Hollow Echo is about being unheard — the
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Quiet Lunch
+### It Says One Word
 
-The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. Hollow Echo is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
-### The Second Helping
+The voice repeats a request for help, patiently, without variation in wording, and the Warden logs the interval between repetitions. The intervals are regular. The regularity is the holding's only measurement and the file treats it as sufficient, noting that a containment does not need more instrumentation than its subject offers.
 
-Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. Hollow Echo is witnessed by well-fed personnel. Served, seconded, steady.
+### It Answers Acknowledgment
 
-### The Recipe Card
+Responding to the voice produces a response in turn, which is the only interaction available, and Wardens are permitted to answer but not required to. The permission is explicit in the standing order. The file explains that making it a duty would mean assigning someone to answer a call for help they cannot act on, and that the facility declined to do that.
 
-Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. Hollow Echo's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+### Everywhere and Nowhere
+
+The sound has no location and the faint outline that occasionally appears does not correspond to it, which has been checked by observers placed apart. The checks agreed. The file holds the outline and the voice as two separate phenomena in the same holding and declines to assume they are one thing, pending anything that would establish it.
+
+### Calls That Were Not Answered
+
+People called from rubble, from overflows, and from Fracture zones, and nobody came, and the commissioning material is the response logs for those events. The logs show the calls received. They show the decisions taken, with times, and the archivist's note states that the decisions were defensible on the information available and that the file includes the information available so a reader can judge for themselves.
 
 ## Trivia
 

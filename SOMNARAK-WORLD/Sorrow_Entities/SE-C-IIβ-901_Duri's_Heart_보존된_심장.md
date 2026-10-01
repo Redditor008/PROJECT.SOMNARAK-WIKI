@@ -378,16 +378,21 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 
 ## Watch Record
 
-### The Mended Chair
+### It Is Still Beating
 
-The muster hall's chairs are mended, never replaced — joints glued, legs braced, the roster's oldest thrift custom. The mend log records every repair: chair three, leg braced, holding. Veterans describe the mended chairs as the roster's philosophy: maintain what serves, repair what breaks, replace only what cannot be mended. New Wardens perform their first mend before their first watch — glue, clamp, and the lesson. Duri's Heart (SE-C-IIβ-901) is witnessed by menders — who repair, watch after watch, the chairs that hold the roster that holds the entity.
-### The Steady Seat
+The organ suspended in amber crystal continues to beat, slowly, and the rate is counted at each watch over a timed interval. The count has not changed. It is the longest unvarying series in the wing and the file states the figure plainly without remark, the archivist's note observing that the restraint in the entry was deliberate and was discussed.
 
-Mended chairs hold steady — tested after every repair, trusted at every muster. Steady-seat checks close every mend. Duri's Heart is witnessed by personnel well-seated. Mended, steady, holding.
+### The Crystal Pulses With It
 
-### The Glue Pot
+The amber around the heart moves in time with the organ and is warm to the touch, and the warmth is taken through a cloth at each watch. Both measurements are made by the same person in the same minute so that they can be compared. The file notes that the two have never diverged and that a divergence is the event the holding is watching for.
 
-Chair mending keeps a glue pot warm — ready for every repair, used weekly. The glue-pot custom wastes nothing: mend it today, sit it tomorrow. Duri's Heart's chairs hold. Glued, clamped, holding.
+### Duri
+
+The healer is named throughout and her service record is held with the containment file in full, including the eleven days in the Zone D medical bay without relief. The record is not laudatory. It is administrative, listing hours and cases, and the archivist's note states that the file prefers the roster to a tribute because the roster shows what was actually asked of her.
+
+### No Triage Sufficient
+
+The Fracture rate was beyond what the bay could handle and no protocol existed equal to the volume, and the commissioning material includes the procedures that were in force. They are inadequate on their face. The file reproduces them without comment and holds, in the same folder, the revised procedures issued afterward, which are dated.
 
 ## Trivia
 

@@ -366,16 +366,21 @@ Some sorrows mourn the dead. Forgotten Name mourns the unnamed — the citizen w
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Sharp Pencil
+### It Disappears When Spoken
 
-Logs are written in pencil — sharpened before every watch, the roster's oldest instrument custom. The pencil doctrine is practical: pencil writes on damp paper, survives the chamber's cold, and never leaks. But the custom is honor: the sharpened pencil means the prepared Warden. Veterans sharpen deliberately, ritually, the way soldiers clean weapons. New Wardens receive their first pencil at commissioning — issued with the logbook, blessed with the formula. Forgotten Name is recorded in graphite — reading by reading, pencil by pencil, sharp forever.
-### The Full Box
+The name cannot survive being said aloud and vanishes from the speaker as it leaves them, which makes the holding's central rule a prohibition on speech. Everything here is written. Slates are used and the writing is transferred to paper outside the area, and the transfer is witnessed to confirm that nothing was spoken during it.
 
-Commissioning issues a full box of pencils — twelve, sharpened, the rookie's first year. Veterans replenish from the quartermaster with pride. Forgotten Name is recorded in graphite that never runs out. Issued, sharpened, recording.
+### Writing Brings It Back
 
-### The Sharpener
+Set down on paper, the name returns, and this is the only recovery method the containment has. The written record is therefore the entity's continued existence in a literal sense, and the file says so in those terms. Copies are held in three places. The locations are listed and the triplication is described as the holding's primary containment measure.
 
-The muster hall keeps a wall sharpener — bolted, trued, and used before every watch. The sharpener custom queues the roster: sharpen in turn, waste nothing, write sharp. The sharpener has served generations of pencils. Forgotten Name is recorded sharp. Queued, sharpened, writing.
+### Clearer When Shared
+
+More than one person holding it strengthens it, and the facility has accordingly arranged for the name to be known by several Wardens at once rather than kept by one. The arrangement is formal and the participants consented in writing. The file records that consent was sought because the duty amounts to carrying a stranger's name for the rest of a career.
+
+### Died Alone, Records Lost
+
+A citizen died with nobody present and their documents did not survive, and the commissioning file holds the search conducted afterward for anything that named them. It found nothing. The archivist's note observes that the search was exhaustive and well documented, and that the file's own index entry is now among the few places the name is written.
 
 ## Trivia
 

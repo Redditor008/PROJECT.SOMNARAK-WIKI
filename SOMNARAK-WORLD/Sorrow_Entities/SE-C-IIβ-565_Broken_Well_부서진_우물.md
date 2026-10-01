@@ -366,16 +366,21 @@ Some sorrows mourn the lost. Broken Well mourns the searching — the endless, u
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Sharp Pencil
+### It Waits for Someone to Look Down
 
-Logs are written in pencil — sharpened before every watch, the roster's oldest instrument custom. The pencil doctrine is practical: pencil writes on damp paper, survives the chamber's cold, and never leaks. But the custom is honor: the sharpened pencil means the prepared Warden. Veterans sharpen deliberately, ritually, the way soldiers clean weapons. New Wardens receive their first pencil at commissioning — issued with the logbook, blessed with the formula. Broken Well is recorded in graphite — reading by reading, pencil by pencil, sharp forever.
-### The Full Box
+The figure rises from the broken shaft and does not act until a person leans over the rim, which makes the containment a matter of keeping people from the edge rather than of restraining anything. A rail was fitted at the opening. The file records its installation as the single intervention the holding has ever required and notes that nothing has occurred since.
 
-Commissioning issues a full box of pencils — twelve, sharpened, the rookie's first year. Veterans replenish from the quartermaster with pride. Broken Well is recorded in graphite that never runs out. Issued, sharpened, recording.
+### Grief in the Dark Water
 
-### The Sharpener
+What stands at the bottom returns a reflection of whatever grief is brought to it, and Wardens take the reading by lowering a lamp rather than by looking. The lamp method was devised early. It is clumsy and slow and the file defends it on the ground that an instrument can be lowered into a well as often as needed and a person should not be.
 
-The muster hall keeps a wall sharpener — bolted, trued, and used before every watch. The sharpener custom queues the roster: sharpen in turn, waste nothing, write sharp. The sharpener has served generations of pencils. Broken Well is recorded sharp. Queued, sharpened, writing.
+### Weeping for the Unremembered
+
+It mourns losses that nobody now holds, and the Warden logs the duration of the weeping and nothing of its character. The character has been described in the past and those accounts are kept at the back of the folder, separated, with a note explaining that they were written before the form was standardised and are not a template.
+
+### A Mother Beside a Well
+
+A child went into a Han-softened shaft and the mother stayed at its edge until the well itself became a figure, and the commissioning file holds the search record. It ran for some days and then stopped. The archivist's note states that the stopping was properly authorised, that the authorisation is in the folder, and that the mother was not consulted about it.
 
 ## Trivia
 

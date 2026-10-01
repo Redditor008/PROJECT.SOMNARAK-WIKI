@@ -370,16 +370,21 @@ Some sorrows mourn what was destroyed. Cleaved mourns what was never finished �
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Folded Blanket
+### Leaning at a Skyline That Is Not There
 
-Bunks are made with folded blankets — corners square, edges aligned, the roster's oldest order custom. Inspections check the blankets first: square corners mean disciplined Wardens. Veterans fold without thinking — the creases sharp from years of practice. New Wardens learn the fold before they learn the gauges: order in the bunk, order in the watch. Cleaved is witnessed by personnel who fold blankets — who keep, in small squares of wool, the discipline that keeps the containment.
-### The Tight Corner
+The split tower figure inclines its upper half toward a horizon nothing in the district matches, and the bearing of the lean is recorded at each sighting. It is constant. The file notes that the bearing has been checked against the unbuilt plan's intended orientation and that it agrees, which is reported as a correspondence and not as a conclusion.
 
-Blanket corners are tucked tight — the inspection's first check, the roster's smallest discipline. Tight corners, tight watches. Cleaved is witnessed by personnel squared away. Folded, tight, ready.
+### It Moves Through Old Streets
 
-### The Bunk Inspection
+The figure walks the oldest part of the district and keeps to streets that existed when the project was begun, avoiding later construction entirely. The route is mapped against a period street plan rather than a current one. That decision is explained on the map itself, in a legend written by the Warden who first noticed the entity was using a city that no longer exists.
 
-Bunks are inspected weekly — blankets folded, kits stowed, floors swept. The inspection custom scores fairly and praises publicly. Cleaved's roster passes inspection standing. Folded, stowed, passing.
+### Burning With What Was Not Built
+
+Its fire corresponds to unrealised potential rather than to heat, and no thermal measurement has produced anything. The attempts are listed. The file keeps them because the absence of heat in a visibly burning figure is the detail new personnel most often disbelieve, and a list of instruments that found nothing is more persuasive than an assurance.
+
+### The Project That Stopped
+
+The tower ceased when its architect and workers disappeared and the city was left with the drawings, and the commissioning file holds those drawings complete. They are competent and buildable. The archivist's note observes that the plans contain no flaw anyone has found, that the structure could have stood, and that the file includes a structural assessment confirming it because the question is always asked.
 
 ## Trivia
 

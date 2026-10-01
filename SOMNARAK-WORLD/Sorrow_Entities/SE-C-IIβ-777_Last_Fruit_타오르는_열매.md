@@ -374,16 +374,21 @@ Some sorrows are about what was taken. Last Fruit is about what was wanted and f
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Timely Relief
+### The Seed-Mouth
 
-Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Last Fruit is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
-### The Early Arrival
+The split rind opens on a glowing core that functions as a mouth, and its brightness increases as the creature nears something that has been refused to someone. Brightness is graded against the standard card at a distance. The grading is done from behind cover, the file noting that this is the only holding in the wing where the observation position is specified as concealed.
 
-The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Last Fruit is relieved promptly. Early, briefed, holding.
+### Charring Without Consuming
 
-### The Relief Log
+Its skin burns and flakes continuously and is never used up, shedding sparks shaped like seeds, and the sparks are collected where they fall and counted. They do not germinate and this has been confirmed over a long period in a controlled bed. The negative result is recorded with the duration of the trial, which was considerable.
 
-Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Last Fruit is witnessed continuously. Arrived, briefed, transferred.
+### It Lurches Toward Denial
+
+Movement is toward refused desire rather than toward people, which means the holding's protocol concerns what personnel want rather than where they stand. Wardens are not asked to disclose anything. They are told the mechanism and left to manage themselves, and the file states that an earlier version requiring declaration was withdrawn as intrusive and unworkable.
+
+### The Last Fruit
+
+A child was refused the final fruit of a dying tree and the longing caught, and the commissioning material is domestic and slight — a household, a tree, a season of failure. The refusal was not cruel. The archivist's note is explicit on this point, observing that the fruit was being kept for a reason and that the file includes the reason so the reader cannot make the easy judgment.
 
 ## Trivia
 

@@ -373,16 +373,21 @@ Those who hear the Whisper feel, briefly, the particular agony of knowing someth
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Polished Gauge
+### Two Tones
 
-Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Double Mouth (SE-C-IIβ-716) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
-### The Clear Face
+The voice divides into a whisper and something burning, and the Warden records which of the two is speaking at each observation, the proportion having proved the most useful thing about the holding. The angry tone has become more frequent. The file reports the trend as a count across the whole record rather than as a rate, declining to express it as a slope on two decades of uneven sampling.
 
-Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Double Mouth is measured truly. Polished, clear, true.
+### It Comes From Several Directions
 
-### The Calibration Weight
+Sound arrives from multiple bearings at once and no single source resolves, which has been tested on the same grid pattern used at the gallery holding and with the same result. The method was borrowed deliberately and the borrowing is credited. The file notes that comparability across holdings is worth more than a method tailored to each.
 
-Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Double Mouth is measured on verified instruments. Polished, tested, true.
+### Louder When Denied
+
+Contradiction increases it, reliably, and this is the one behaviour personnel are instructed never to trigger. The instruction is not about danger. The file explains that the entity was made by being disbelieved and that a facility which tested the effect would be repeating the thing that made it, which the archivist's note calls the clearest ethical line in the wing.
+
+### A Witness Who Was Dismissed
+
+Someone reported an injustice and was not believed, and the memory tore in two, and the commissioning file holds the original complaint with the response it received. The response is courteous and final. Both documents are short and are printed facing each other, the archivist's note observing that the file does not establish whether the complaint was true and that the entity exists either way.
 
 ## Trivia
 

@@ -366,16 +366,21 @@ Some sorrows are about dying. Drowned Roots is about being denied the dignity of
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Fresh Paint
+### A Face in the Bark
 
-Maintenance repaints Drowned Roots's chambers on rotation — walls fresh, markings crisp, the containment gleaming the way readiness gleams. The paint custom treats the work as honor, not chore: the roster paints its own chambers, brushes shared, pride joint. Veterans describe fresh-paint days as the containment's renewals — the same doctrine, brightened walls, the watches continuing across the wet paint. Drowned Roots (SE-C-IIβ-997) is witnessed in chambers the roster keeps worthy — painted faithfully, maintained proudly, gleaming always.
-### The Dry Wall
+The trunk carries a howling face and the branches move like arms, and the Warden's record describes the posture of the limbs rather than the expression. The expression has not changed in the whole of the record. The limbs have, and the file notes that the choice of what to log was made on that basis and not on which was more striking.
 
-Fresh paint dries under watch — the roster guarding wet walls the way it guards everything: faithfully. Dry-wall checks close every paint day. Drowned Roots's chambers gleam. Painted, dried, gleaming.
+### It Reaches Toward Masks
 
-### The Color Standard
+The branches extend toward covered faces specifically, and personnel working the holding do not wear anything over the face for that reason. The rule includes respirators, which required an engineering solution for the dusty months. The solution is described in the folder, and the file remarks that it was expensive and was approved without argument.
 
-Chamber paint follows the color standard — walls regulation gray, markings safety yellow, pipes coded by system. The standard custom keeps every facility legible: any Warden, any chamber, readable at a glance. Drowned Roots's chambers match the standard exactly. Painted standard, reading clearly.
+### Burning and Weeping
+
+It does both at once as it walks on its root-limbs, and the two are logged separately because they do not always occur together. The combinations have been tallied. The tally shows no pattern and is kept anyway, the archivist's note defending the practice with the observation that a pattern cannot appear in data nobody collected.
+
+### A Name Struck From the Record
+
+A soldier's name was removed from the war record and the denied duty grew into this, and the commissioning file holds the amended record alongside the original where the original survives. It does, in one copy. The archivist's note states that the two documents differ by a single line and that the file exists to keep that line legible.
 
 ## Trivia
 

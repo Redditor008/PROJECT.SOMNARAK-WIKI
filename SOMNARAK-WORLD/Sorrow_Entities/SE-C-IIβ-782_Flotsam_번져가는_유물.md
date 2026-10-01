@@ -372,16 +372,21 @@ Some sorrows are about being forgotten. Flotsam is about being remembered wrong 
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Watered Plant
+### A Red Outline
 
-A plant grows in Flotsam's muster hall — watered on rotation, tended jointly, the roster's living green. The plant custom assigns every Warden a watering week: tend it, log it, pass it on. The plant has survived every hardship the roster survived — shortages, storms, short staffing. Veterans describe it as the roster's mirror: thriving when the roster thrives, drooping when the roster strains. Counselors check the plant the way they check personnel. Flotsam is witnessed by gardeners — who water, watch after watch, the green proof that life persists in the containment.
-### The New Leaf
+It shows as a burning edge around objects whose use is being forgotten, and the Warden's survey is of the objects rather than of the entity, listing which items in the holding currently carry the outline. The list changes. Items have left it and returned, and the comings and goings are logged with dates because the pattern is the only dynamic thing in the containment.
 
-The muster plant grows new leaves — each one logged, each one celebrated. New-leaf days are the roster's small festivals. Flotsam is witnessed where life persists. Watered, leafing, living.
+### It Burns Histories
 
-### The Watering Roster
+What it consumes is the knowledge of what a thing was for, and the file keeps written descriptions of every object in the affected area, made in advance and stored elsewhere. The descriptions are the countermeasure. They are held off site deliberately and the file records the address of the store, which is the only such entry in the wing.
 
-Plant watering runs on roster — names scheduled, weeks assigned, never missed. The roster custom treats the plant as a posting: tend it like a watch. Flotsam's plant thrives on scheduled care. Rostered, watered, thriving.
+### Remembering Makes It Fade
+
+The outline retreats when someone recalls an object's purpose, which gives the holding an intervention it can actually perform, and the recollections are logged with the person who supplied them. Most come from outside the facility. The ward has a standing arrangement to send people who know old things, and the arrangement is reproduced in the folder.
+
+### A Relic Nobody Could Explain
+
+A household object descended through generations until its purpose was lost and its history began to go, and the commissioning file holds the family's own account of the descent. They knew who had held it and not what it did. The archivist's note observes that the account is detailed about people and blank about function, and that the blankness is the oldest evidence in the file.
 
 ## Trivia
 

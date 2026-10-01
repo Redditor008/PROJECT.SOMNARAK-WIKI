@@ -366,16 +366,21 @@ Some sorrows are about speaking. Weight of Silence is about not speaking — the
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Polished Gauge
+### A Dark Outline
 
-Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Weight of Silence (SE-N-IIα-285) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
-### The Clear Face
+The pressure becomes visible as an edge around people who have stopped speaking, and the Warden records who is outlined rather than how strongly. Names are recorded with consent and anonymised references without it, both being permitted. The dual system is described on the form and the file notes that most people have agreed to be named, which was not expected.
 
-Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Weight of Silence is measured truly. Polished, clear, true.
+### Heavier for What Is Withheld
 
-### The Calibration Weight
+The load increases with the quantity of unsaid material, and it is measured by the affected person's own report rather than by any instrument, there being none that reaches it. Self-report is acknowledged as weak evidence. The file says so and keeps it, observing that the alternative is no evidence rather than better evidence.
 
-Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Weight of Silence is measured on verified instruments. Polished, tested, true.
+### It Glows When Someone Tries to Leave
+
+Departure produces a faint light, which is the only time the entity does anything visible on its own account, and the glow is logged with the circumstances. Leaving is never prevented. The standing order is unambiguous that the light is an observation and not a signal to act, and the file records that this had to be written down after an early incident in which it was treated as one.
+
+### A Family That Said Nothing
+
+Each member stayed quiet after a loss, believing speech would hurt the others, and the commissioning file holds what they wrote to each other afterward, which is a correspondence that discusses everything except the loss. It is lengthy and affectionate. The archivist's note observes that the letters are warm throughout and that the silence is visible only to someone reading for it.
 
 ## Trivia
 

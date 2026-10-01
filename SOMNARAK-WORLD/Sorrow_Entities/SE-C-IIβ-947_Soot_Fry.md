@@ -389,16 +389,21 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 
 ## Watch Record
 
-### The Spare Key
+### It Hides Its Size
 
-Every chamber in Soot Fry's containment keeps a spare key — sealed, logged, and held by the watch commander. The spare-key custom governs its custody: sealed at watch start, verified at watch end, used only in the emergencies the doctrine tables. The keys have been used rarely and regretted never — each use logged, each emergency met, each seal replaced after. New commanders receive the keys the way they receive the watch: with briefing, with gravity, with the formula. Soot Fry is secured by keys the roster holds faithfully — spares sealed, customs kept, emergencies answered.
-### The Unbroken Seal
+In the puddle the fish compresses to a small dark silhouette and its true body is considerably larger, and both dimensions are recorded at each survey, the apparent and the actual. The discrepancy is constant. The file reports it as two numbers side by side and offers no mechanism, noting that the measurement is reliable and the explanation is absent.
 
-Spare-key seals are verified unbroken at every watch end — the commander's check, the log's confirmation. Unbroken seals mean unneeded emergencies. Soot Fry's seals hold watch after watch. Sealed, verified, holding.
+### The Eye
 
-### The Key Ceremony
+A single black eye takes up half the face and returns nothing, no reflection of any kind, and this has been confirmed with a lamp held at several angles. The confirmations are logged. The file notes that Wardens consistently report the eye as the feature that makes the holding difficult, and that the white body does not trouble them at all.
 
-Watch commanders receive the spare keys with ceremony — the sealed packet, the custody formula, the log's countersignature. The ceremony binds the custody: keys received, responsibility taken, watch begun. Soot Fry's keys pass commander to commander, ceremony by ceremony. Received, held, transferred.
+### Hunger With No Object
+
+It feeds continuously and is never satisfied and gives every appearance of wanting something it cannot name, and the feeding is logged by quantity. The quantities are large. The file states that no dietary limit has been established, that the holding supplies what is required, and that the arrangement is reviewed annually and has not been altered.
+
+### Simply Present
+
+It was not placed in the puddle, not born there, and not grown there — it was there when the first surveyor looked, and the commissioning file says so without elaboration. There is nothing else to say. The archivist's note observes that this is one of a small number of entities in the archive with no origin event at all, and lists the others for comparison.
 
 ## Trivia
 
