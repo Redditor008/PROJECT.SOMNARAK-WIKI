@@ -411,16 +411,21 @@ Crucible is that awareness. It still burns. It still shapes metal. But those who
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Anniversary
+### Forging Without a Smith
 
-Every cycle, on the containment's founding date, Crucible's roster holds the anniversary — the full chain mustered, the founding log read aloud, the year's watches honored. The anniversary reads the numbers: watches stood, readings logged, pressures weathered. Then the senior Warden reads the names: the roster present, the roster rotated, the roster remembered. New Wardens hear what the containment is. Veterans hear what they maintain. And the founding log — the first watch, the first readings, the oath sworn fresh — binds the anniversary to the origin: this is what was sworn, this is what was kept, this is what continues. Crucible (SE-C-IIIβ-275) has been held for every anniversary the archive records. The roster intends to hold every anniversary after.
+Metal in the furnace takes shape according to the anger nearest it, unattended, and the Warden's principal duty is ensuring that nothing is left within the working volume between watches. The sweep is performed at the start and end of every watch and is signed twice. It covers tools, offcuts, fittings, and anything a previous shift may have set down, and the thoroughness is not precautionary — the containment's early record includes three objects that were produced from material nobody intended to leave there.
 
-### The Founding Log
+### Naming the Rage
 
-The founding log is preserved under glass — the first watch's readings, the first commander's hand, the oath's first swearing. Trainees read it through the glass before they read anything else, and the lesson lands the way origins teach: everything the containment is began here, with these readings, this roster, this oath. The founding log's margins carry the first commander's annotations — steady, holds, continue — preserved in the original hand. Veterans touch the glass on anniversary. Newcomers press close to read. Crucible is witnessed by the latest link in a chain the founding log began. The glass protects the page. The roster protects everything else. The anniversary binds them: origin and present, sworn and kept, held then and held now.
-### The Toast
+The forge cools when anger is stated honestly, which is the only mitigation the containment possesses and the only one it has ever needed. Wardens are instructed to say what they are angry about, aloud, in the room, when the heat rises. The instruction is in the standing order rather than in guidance, is not optional, and is the provision that new Wardens find hardest to comply with. The file notes that it works every time it has been tried and that it has been tried on every occasion the heat has risen.
 
-The anniversary closes with the toast — the roster raised glasses (water, on duty) to the containment held and the year coming. The senior Warden speaks the formula: to the watches stood, the pressures weathered, and the oath renewed. The roster answers: held, weathered, renewed. Veterans describe the toast as the anniversary's seal — the ceremony closed, the year blessed, the containment commended by its own. Crucible is toasted every anniversary. The glasses rise. The oath holds.
+### What Was Made Here
+
+The weapons shaped from the city's suppressed rage before the furnace woke are documented from the Forge's own production records, which are intact and detailed. They list quantities, specifications, and destinations. The Warden's commissioning material includes the destinations page, by itself, and the note attached explains that the page is included because the containment file is otherwise a document about a furnace and the page is the part about what the furnace was for.
+
+### The Sweep Sheet
+
+Both signatures on the sweep are entered in full rather than initialled, and the sheet carries the time as well as the date. The requirement came from a Warden who pointed out that initials are indistinguishable between two of the roster's longer-serving members and that a sweep is the one record in the containment where it matters precisely who did it.
 
 ## Trivia
 

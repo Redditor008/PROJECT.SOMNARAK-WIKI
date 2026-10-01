@@ -428,16 +428,21 @@ Some sorrows mourn the past. Broken Clock mourns the future that would not come 
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Nightingale Shift
+### The Radius
 
-The nightingale shift is the roster's term for a watch so quiet it sings — readings nominal, entity quiescent, the whole of Broken Clock's containment humming at peacetime pitch. Nightingale watches are logged the way all watches are logged, with one addition: the watch commander's nightingale mark, a small notation in the margin recording that the quiet held the whole watch through. Commanders prize the mark the way sailors prize fair winds — not as achievement but as grace. The quiet is never earned. It is received, logged, and passed to the relief with gratitude. Broken Clock (SE-C-IIIγ-044) has granted the roster many nightingale shifts. Each one is marked. Each one is remembered. And each one steadies the roster for the watches that sing less sweetly.
+Time distorts within a measured distance of the face and does not beyond it, and the boundary is sharp enough to be marked on the floor. Wardens work from outside the line and enter only under a named authorization recorded for each crossing. Inside, minutes run long or short without pattern, and the Warden's own sense of elapsed time is treated as evidence of nothing. The watch clock is held outside the radius and is read by a second person, which is the containment's one staffing requirement and the reason the post is never worked alone.
 
-### The Quiet Ledger
+### Hands Without Pattern
 
-The quiet ledger compiles every nightingale mark in the containment's history — dates, commanders, and the watch conditions that made the quiet possible. The ledger's purpose is morale made tangible: proof, in the commanders' own hands, that the containment holds far more often than it strains. New Wardens read the ledger on commissioning. Veterans consult it before hard watches. And the senior Warden cites it at every briefing where the roster's confidence wavers: the quiet outnumbers the pressure a hundred to one. The ledger proves it. Broken Clock is witnessed, watch after watch, by personnel who know the numbers — and the numbers say the containment holds, the quiet returns, and the nightingale sings more often than it silent.
-### The Dawn Chorus
+The movement of the hands forward, backward, and to a stop has been logged continuously since the containment opened and has yielded no sequence, no period, and no correlation with anything the facility measures. The series is maintained anyway. The standing instruction notes that the absence of a pattern is the finding, that a finding of this kind is only credible if the observation is unbroken, and that an interrupted log would leave the next Warden unable to say whether the pattern had been missed or had never existed.
 
-The morning after a nightingale shift, the relief arrives to birdsong — the roster's term for a handover with nothing to report. Readings nominal, entity quiescent, the quiet passed intact. Veterans describe dawn-chorus handovers as the watch's benediction: the night held, the day inherits peace. Broken Clock grants them regularly. The roster receives them gratefully. And the quiet ledger grows — mark by mark, chorus by chorus.
+### Anchored to the Loop
+
+The Clock is fixed to the repetition the city lived through, and the containment file holds the municipal record of that period — the same notices issued again, the same proceedings opened twice, the same returns filed with identical content. The duplication is visible on the page. The Warden's commissioning material includes a short run of it, consecutive and unedited, on the archivist's reasoning that the Clock is easier to understand after reading the same document three times than after reading any description of it.
+
+### The Outside Clock
+
+The timepiece is read aloud by the second person at fixed intervals and the Warden inside the radius acknowledges each reading. An unacknowledged reading is an immediate withdrawal condition, regardless of how recently the Warden last spoke, and the interval was shortened once after a watch in which an acknowledgment came late and the Warden afterward could not say how long they had been silent.
 
 ## Trivia
 

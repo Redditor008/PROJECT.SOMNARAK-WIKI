@@ -379,16 +379,23 @@ Some sorrows act. The Observing Bird only watches — and the watching is its so
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Letter
+### What the Eyes Record
 
-Wardens in The Observing Bird's chain write letters — to family, to friends, to the civilian lives they maintain alongside the watches. The letter custom is the roster's oldest morale practice: write honestly, write regularly, and write home. The Directorate censors nothing and reads nothing — the letters are sealed, private, and sacrosanct. Veterans describe the custom as the roster's ballast: the watches demand everything, and the letters return something. News from outside. Love from afar. The reminder that the city the roster protects contains people who write back. The Observing Bird (SE-C-IIIγ-031) is witnessed by personnel with lives beyond the chamber — lives the letters maintain, one sealed page at a time. The watches take. The letters give. The roster holds both.
+Each eye takes a different aspect of what is in front of it and none of them forgets. The Bird does not act on what it sees and has never been observed to intervene in anything, which makes the containment one of custody rather than restraint — there is nothing to prevent, only something to be watched by. Wardens report the attention as total and undirectable. The standing order's only provision on the matter is that personnel are told about it before their first watch rather than after, a change made when the original briefing was found to have omitted it.
 
-### The Post Box
+### Never Sleeping
 
-The facility's post box stands in the muster hall — plain, battered, and emptied daily. Wardens post their letters between watches, and the box fills the way morale fills: steadily, quietly, without ceremony. The post custom requires nothing but the box's presence — no quotas, no reminders, only the standing invitation of the empty slot. Counselors monitor the box's volume the way engineers monitor gauges: full box, healthy roster. The box has never stood empty a full rotation. The Observing Bird is witnessed by personnel who write home — who maintain, through sealed pages and daily postings, the civilian ballast that steadies the watches. The box stands. The letters flow. The roster writes, the city answers, and the containment holds on ballast of paper and love.
-### The Reply
+It has not been observed at rest at any point in the containment's record. The watch therefore has no quiet period and no interval in which the Warden is unobserved, and the roster compensates with short shifts rather than with any physical measure. Shift length here is the shortest in the wing. It was reduced twice, both times on the counselors' recommendation, and the second reduction was accompanied by a note observing that the difficulty is not fear but the absence of privacy.
 
-Letters from home arrive with the supply runs — answers to the roster's sealed pages, love returned for love sent. The reply custom gives Wardens an hour with their mail before the next watch: read privately, treasure fully, stand steadied. Veterans describe reply days as the roster's refueling — the civilian ballast renewed, the watches re-steadied. Counselors note the correlation openly: reply days precede the steadiest watches. The Observing Bird is witnessed by personnel who are written to — who stand, watch after watch, on ballast of paper and love, sent and answered.
+### Witnessing Without Power
+
+The Bird formed from people who saw injustice and could not stop it, and the file's historical section is an account of what they saw rather than of what they became. It draws on depositions taken at the time and never acted upon, which survive in the Collectors' own files because nothing was done with them. The depositions are reproduced in full. The Warden's material includes them unabridged, and the archivist's note records that they were complete, credible, and filed.
+
+### Short Watches
+
+The reduced shift is not extendable and cannot be volunteered against, a Warden who wishes to remain being relieved regardless. The provision was written at the counselors' insistence after two long-serving personnel were found to be working consecutive shortened watches and treating the pair as one ordinary one. Neither was disciplined. The rule was simply made unambiguous the following week.
+
+Relief arrives inside the chamber rather than at the door, so that the handover happens under the same observation as the watch itself. The arrangement was chosen over a doorway handover after Wardens reported that stepping out and back in was harder than remaining, and it has not been revisited since.
 
 ## Trivia
 

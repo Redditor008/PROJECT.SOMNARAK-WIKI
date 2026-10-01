@@ -387,16 +387,21 @@ Some sorrows mourn the dead. The Hollow Choir mourns the unsaid — the one hund
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Storm Duty
+### The Amphitheatre
 
-When crisis strikes elsewhere, The Hollow Choir's roster stands storm duty — full watches on short staffing, precautions maintained while reserves deploy outward. Storm duty is the containment's contribution to the Directorate's larger battles: holding firm at home while the institution fights abroad. The storm protocol runs the roster lean: essential watches only, tightened rotations, the senior Warden holding the center. Veterans describe storm duty as the roster's truest test — not of skill but of steadiness. The entity presses. The reserves are gone. The roster holds anyway. The Hollow Choir (SE-C-IIIγ-021) has weathered every storm duty the archive records without a watch unstood. The roster holds at home. The Directorate fights abroad. Both hold because both hold.
+The chamber was built for the voices rather than adapted to them, which makes it the only purpose-constructed containment in the wing. Its geometry was specified by the engineers who first recorded the manifestation and has not been altered since, including through two refurbishment cycles in which the surrounding structure was substantially rebuilt around it. The Warden's inspection covers the surfaces rather than any equipment. Nothing is mounted in the volume, nothing is stored there, and the stage is swept by hand before every watch.
 
-### The Lean Log
+### Unfinished Songs
 
-Storm duties are logged in the lean log — watches stood short-handed, readings taken under strain, the roster's performance at minimum strength. The lean log's entries are terse to the point of pride: short roster, full doctrine, held. Commanders cite the lean log whenever staffing debates arise: the roster holds lean, the log proves it, the standard survives shortage. But the lean log's standing lesson is caution, not comfort — the senior Warden's annotation reads: held, and never again if avoidable. Leanness proves the roster. Fullness protects it. The Hollow Choir is witnessed, storm after storm, by personnel who hold lean when they must and full when they can. The lean log proves the must. The roster prefers the can.
-### The Full Strength
+What the voices sing stops partway. Lullabies, work songs, and love songs break off mid-phrase and are not resumed, and the breaking is consistent enough that Wardens can anticipate it. They are instructed not to complete the line. The prohibition covers humming, mouthing, and writing the remainder down, and it is justified in the standing order rather than merely stated: the songs were stopped by the city, the voices are what stopping produced, and a Warden supplying an ending would be answering on behalf of people who were not allowed to finish.
 
-Storm duty ends with the return to full strength — reserves recalled, roster restored, the lean log closed with the final entry: full strength resumed. Veterans describe the restoration as the roster's deep breath: the crisis passed, the strength returned, the containment held throughout. The senior Warden reads the lean log aloud at the restoration muster — every short watch honored, every strained reading praised. The Hollow Choir weathered lean. The Hollow Choir stands full. The roster held both, and holds still.
+### The Silenced
+
+Those who questioned the Veil, challenged the Collectors, or demanded justice are listed where the record permits, and the list is substantially incomplete. Its incompleteness is stated on the first page rather than at the back. The Warden's commissioning includes reading it aloud, alone, in the empty amphitheatre, which is a practice the roster established for itself and which appears in no instruction issued by the facility. The file records that it is done and does not require it.
+
+### The Empty Stage
+
+Sweeping is done by hand with a soft brush and takes longer than the surface warrants, and no Warden has ever been told to hurry it. The practice is not in the standing order. It appears only in the handover notes, where it has been passed from one Warden to the next for the whole life of the containment, usually in three or four words.
 
 ## Trivia
 

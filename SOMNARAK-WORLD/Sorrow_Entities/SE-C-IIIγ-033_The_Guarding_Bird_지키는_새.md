@@ -379,16 +379,23 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Overtime
+### The Post
 
-Some watches run long — relief delayed, pressure rising, the roster holding past the rotation. The overtime custom governs every extended watch: the holding roster stays willingly, the relief hurries honestly, and the extra hours are logged as overtime honored. No Warden has ever been ordered to overtime. Every Warden has stood it. Veterans describe the custom as the roster's handshake: we hold until relieved, relieved or not. The overtime log records every extension — hours held, reason delayed, relief arrived. The log's entries are uniformly proud: held two extra, relief delayed by storm, containment unbroken. The Guarding Bird (SE-C-IIIγ-033) has never stood an unheld watch — relief or no relief, rotation or overtime. The roster holds until relieved. The custom guarantees it.
+It guards things that are already lost and does not accept that they are gone. The containment is arranged around this: the Bird is given a post, the post is respected, and nothing is moved through the space it has chosen to hold. The arrangement is not a concession to the entity's comfort. It was adopted after the containment's early period established that a post relocated by the facility is re-established by the Bird within the shift, and that the intervening period is the only time it has ever been aggressive.
 
-### The Relief
+### Sheltering
 
-Relief, when it arrives, is the roster's sweetest moment — the relieving Warden's hand on the door, the standing Warden's briefing delivered, the watch transferred with the formula: I relieve you. I stand relieved. The relief custom requires the full briefing regardless of delay — no shortcuts for lateness, no abbreviations for haste. The arriving Warden hears everything, confirms everything, and takes the watch fresh. Veterans describe reliefs as the containment's heartbeat: regular, complete, and unfailing. The Guarding Bird is witnessed watch after watch without a gap — each watch handed to the next, each Warden relieved in full. Hold until relieved. Relieve in full. The heartbeat continues, watch after watch, forever.
-### The Extra Hour Honored
+It spreads its wings over personnel without being asked and the gesture is protective rather than threatening. Wardens are instructed to permit it and to remain still. The instruction exists because the sheltering is easily misread, because the first Warden to experience it withdrew sharply, and because the Bird followed. The account of that watch is a page long, is written by the Warden concerned, and is issued to every new Warden on commissioning in preference to any procedural summary.
 
-Overtime hours are honored at muster — the senior Warden reading the overtime log aloud, each extension praised by name. The honor custom treats held hours as the roster's gift: given willingly, received gratefully, praised publicly. Veterans describe the reading as the overtime's true pay — not the logged hours but the spoken thanks. The honored roster stands straighter after. The Guarding Bird has never stood an unheld watch, and the muster proves the roster knows it. Held past rotation. Honored at muster. The custom continues.
+### Defenders of What Was Gone
+
+The citizens and soldiers who guarded homes and causes already lost are documented in the containment file from the defence rosters of the period, which record people reporting for duty at positions that no longer had anything behind them. The rosters are complete and were kept correctly throughout. The archivist's note observes that somebody continued administering the duty properly long after the duty had no object, and that this is the part of the record the Warden should carry into the chamber.
+
+### Respecting the Post
+
+Where the Bird has settled is marked on the chamber plan in pencil and amended whenever it moves, which is seldom. The plan is the only drawing in the wing maintained in a medium that can be erased, and the choice was deliberate: a post recorded in ink would invite the assumption that it is the facility's to assign.
+
+Amendments to the plan are dated in the margin and the previous position is left faintly visible rather than erased completely, which was not the original intent and became the practice because the first Warden to move a mark could not bring themselves to remove the old one entirely.
 
 ## Trivia
 

@@ -366,16 +366,21 @@ Operational Rule: Authorize single-use fracture exclusively during Level 3 Facil
 
 ## Warden Record
 
-### The Visitor
+### Mass
 
-Civilians visit Fathers Broken Bond's facility on escorted rotation — oversight committees, trainee cohorts, the occasional dignitary requiring proof the Directorate spends wisely. The visitor protocol governs every tour: see the precautions, meet the roster, witness the doctrine practiced. Escort Wardens perform the protocol the way docents perform museums — proudly, precisely, and with the veteran's pleasure in showing work well done. Visitors ask the questions visitors always ask: is it safe, is it wise, is it worth it. The escort answers with the containment itself: the gauges, the logs, the roster standing. Fathers Broken Bond (SE-C-IIIβ-072) receives few visitors and impresses all of them. The protocol proves the Directorate's case the way only practice proves anything: by showing.
+The tablet weighs more than brass of its dimensions can weigh, by a margin that has been measured repeatedly and has never varied. It is not lifted. The mount it rests in was built around it rather than under it, the fitting was done in place, and the Warden's handling instruction consists of a single line stating that the object is to be left where it is. No reason of hazard is given because none has been established. The file's note says only that the tablet is heavy in a way the facility cannot account for and that moving an unaccountable thing is a decision requiring a better reason than tidiness.
 
-### The Guest Book
+### The Burns
 
-Visitors sign the guest book — name, office, and one line of impression. The book runs to volumes: oversight satisfied, trainees inspired, dignitaries reassured. The roster reads the guest book the way crews read commendations: with pride earned and perspective kept. The visitors see the containment for an hour. The roster stands it for careers. But the guest book's lines prove what the roster sometimes forgets mid-watch: the work shows. The doctrine reads. The containment impresses even the skeptical. Fathers Broken Bond is witnessed by personnel the visitors praise and the Directorate trusts. The guest book holds the praise. The roster holds the entity. Both holdings grow, visit after visit, watch after watch.
-### The Return Visit
+Acid damage across the face is original and is not treated. Conservation advice was sought once and recommended stabilization; the advice was declined and is filed alongside the decision, which records that the discolouration is part of what happened to the object and that a cleaned tablet would be a different document. The seal of the Debt Concourse remains legible beneath the damage. The Warden's log notes its condition each cycle in two words.
 
-Some visitors return — oversight satisfied so fully they bring colleagues, trainees inspired so deeply they request posting. Return visits are the escort Wardens' proudest moments: the containment impressed once, and the impressed came back. The guest book's return entries are marked with the escort's star — came, saw, returned. Fathers Broken Bond collects return visitors the way the roster collects commendations: steadily, deservedly. Visit once, impressed. Return, convinced. The containment proves itself twice.
+### The Son
+
+The man who chose execution rather than let four decades of debt pass to his family is named in the containment file, and the court record of his sentencing is reproduced in full because it is the only official account of what he said. He said very little. The transcript runs to a page and a half, most of it procedural, and the archivist's note beneath it observes that the proceeding was brief, correctly conducted, and entirely lawful.
+
+### The Mount
+
+The fitting holds the tablet at the angle it was found in rather than flat, which was the first Warden's specification and was queried by the engineers who built it. The reason given then is the reason recorded now: the object was found lying as it fell and the facility had no better idea than that of how it should sit.
 
 ## Trivia
 

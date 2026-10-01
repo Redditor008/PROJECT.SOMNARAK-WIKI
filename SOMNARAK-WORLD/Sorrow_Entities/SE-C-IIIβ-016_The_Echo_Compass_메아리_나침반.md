@@ -413,16 +413,21 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The New Warden
+### The Needle
 
-Every Warden in The Echo Compass's chain stood a first watch — briefed, nervous, and determined. The first-watch protocol pairs every newcomer with a veteran: shadow the watch, ask everything, touch nothing unasked. Veterans describe their first-watch duty as the roster's truest test — not of the newcomer but of themselves. Teaching the containment reveals what the teacher has forgotten. Newcomers ask why the gauge is read twice, why the chamber is eyeballed before the instruments, why the oath's clauses run in their fixed order. Veterans answer, and in answering remember. The Echo Compass (SE-C-IIIβ-016) has been learned fresh by every Warden who ever stood it. The learning never ends. The teaching never ends. The chain continues, watch by watch, rookie by rookie.
+It points toward concentrated sorrow and is never still while any remains in range, which makes it the only instrument in the wing that reports on the facility rather than on itself. The Warden logs bearing and rate each watch. The bearings are not acted upon. This is written into the standing order in terms that leave no discretion, because a device that indicates where grief is thickest will, if followed, take personnel to places nobody has assessed, and the containment's early history includes two occasions on which it did exactly that.
 
-### The First Log
+### Stillness
 
-The newcomer's first log is preserved — bound into the containment file, the rookie's own hand recording the first witnessed watch. First logs are earnest to the point of poetry: readings logged twice, observations tripled, the entity described the way newcomers describe everything — fully, carefully, as if the containment depended on this one log. Veterans read the first logs the way parents keep childhood drawings: with pride, with humor, and with recognition. Every veteran wrote one. Every veteran remembers. The Echo Compass is witnessed, rookie after rookie, by personnel whose first logs prove the doctrine's deepest claim: the containment is learned fresh by everyone, and everyone learns it. The first log stands. The Warden stands with it.
-### The Shadow's End
+The needle rests only when nothing near it is grieving, and in the containment's whole operation it has rested four times. Each occasion is recorded with the date, the duration, and the Warden on watch, and no explanation has been established for any of them. The four entries sit together on a single page kept at the front of the log rather than in sequence with the rest. Wardens are shown the page on commissioning and are told that it is the shortest document in the containment and the one most often reread.
 
-The newcomer's shadow period ends with the first solo watch — the veteran stepping back, the rookie standing alone, the containment held by new hands. Veterans describe the moment as the roster's true commissioning: not the oath sworn but the watch stood solo. The first solo log is preserved beside the first shadowed log — before and after, student and Warden. The Echo Compass has been stood solo by every Warden in its chain. Each one held. Each one holds still.
+### Built to Find What Was Hidden
+
+The Keepers made it to locate forgotten memories and it learned instead that every direction held grief. The construction notes survive and are held with the containment file, including the specification, the intended use, and the final entry in the maker's hand recording that the device worked. The Warden's file reproduces that entry without commentary. It is one line long and does not say what the maker concluded.
+
+### The Bearing Log
+
+Bearings are entered in degrees and nothing else, no location named and no inference attached, and the column has been kept in the same form since the containment opened. Wardens have proposed adding an interpretation field twice. Both proposals were declined on the ground that a column for what the bearing means is a column somebody will eventually fill in, and that the order forbidding the bearings to be acted upon depends on their never having been translated into places.
 
 ## Trivia
 

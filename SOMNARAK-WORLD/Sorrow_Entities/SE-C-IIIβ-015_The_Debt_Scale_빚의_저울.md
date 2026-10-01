@@ -411,16 +411,21 @@ Some sorrows are born from cruelty. The Debt Scale is born from justice — and 
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Requisition
+### No Verdict of Innocence
 
-Every instrument in The Debt Scale's containment arrived by requisition — requested in writing, justified by need, approved against the quartermaster's unforgiving standard. The requisition files are the archive's driest holding and the roster's proudest: page after page of gauges, seals, lamps, and lines, each one argued for and won. The quartermaster's standing rule governs all of it: need it, prove it, maintain it. Requisitions that prove need are approved. Instruments that arrive are maintained — cleaned, calibrated, and logged — or the quartermaster reclaims them. No ornament has ever survived the quartermaster's review. No necessity has ever been denied it. The Debt Scale (SE-C-IIIβ-015) is witnessed with instruments the roster earned by argument and keeps by maintenance.
+The Scale measures and does not absolve. It has never returned a null reading, never balanced empty, and the Warden's briefing states plainly that a person who steps before it will receive a figure. This is the containment's whole difficulty, since the instrument is accurate, impartial, and available, and the pressure to use it has come from outside the facility rather than within. Every request for a measurement of a named individual has been refused. The refusals are filed together and the standing reason given is that an impartial measure of a person is not the same thing as a just one.
 
-### The Quartermaster's Shelf
+### Movement Without Contact
 
-The quartermaster keeps one shelf of retired instruments — gauges that served past calibration, lamps that burned past brightness, seals that held past rating. Each bears its service record: installed this date, maintained this often, retired with honors. New Wardens are shown the shelf before they file their first requisition, and the lesson lands the way honest objects teach: request only what the containment needs, maintain everything the containment grants, and retire with honors what has served past serving. The Debt Scale is witnessed with the quartermaster's instruments, standing on the quartermaster's shelf in honorable retirement when their service ends. Need it. Prove it. Maintain it. The shelf proves the roster does.
-### The Approved Stamp
+The dishes rise and settle on their own and the motion is logged by observation alone, nothing being mounted on the instrument and nothing touching it. Instrumentation was attempted early and abandoned when the attached sensors were found to alter the readings they were installed to record. The equipment was removed, the attempt is documented in full, and the Warden's log has been kept by eye ever since in a hand-ruled column that has not changed format since the containment opened.
 
-Approved requisitions return bearing the quartermaster's stamp — granted, with the date and the quartermaster's initials. Wardens keep their stamped approvals the way soldiers keep orders: filed, honored, and cited when the instruments arrive. The stamp means the quartermaster agreed — the need was real, the proof sufficed, the containment gains. The Debt Scale is witnessed with stamped instruments, every one earned. The stamp approves. The roster maintains. The containment holds.
+### The Demand for Fairness
+
+The Scale came from people asking to be measured honestly rather than at a Collector's discretion, and the file is careful to record that the demand was reasonable and was met in the worst possible way. The petitions that preceded it are held in the containment record — ordinary documents, politely worded, asking for a published standard. The Warden's commissioning material includes them. The note attached explains that the entity on the plinth is what the city produced instead of an answer.
+
+### The Refusals
+
+Requests for a named measurement arrive from outside the facility and are answered individually rather than by form, each refusal signed by the senior Warden and setting out the reasoning in full. There have been nine. None has been appealed, and the file notes that several of the requesting offices wrote again afterward on unrelated matters, which the archivist records as evidence that the refusals were understood rather than resented.
 
 ## Trivia
 

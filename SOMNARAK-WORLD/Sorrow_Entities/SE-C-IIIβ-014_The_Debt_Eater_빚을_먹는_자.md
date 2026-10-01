@@ -385,16 +385,21 @@ Some sorrows mourn what was taken. The Debt Eater mourns what was never agreed t
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Nightingale Shift
+### The Hands Protocol
 
-The nightingale shift is the roster's term for a watch so quiet it sings — readings nominal, entity quiescent, the whole of The Debt Eater's containment humming at peacetime pitch. Nightingale watches are logged the way all watches are logged, with one addition: the watch commander's nightingale mark, a small notation in the margin recording that the quiet held the whole watch through. Commanders prize the mark the way sailors prize fair winds — not as achievement but as grace. The quiet is never earned. It is received, logged, and passed to the relief with gratitude. The Debt Eater (SE-C-IIIβ-014) has granted the roster many nightingale shifts. Each one is marked. Each one is remembered. And each one steadies the roster for the watches that sing less sweetly.
+Contact is the entity's entire method and the roster's entire concern. It draws through the palms, it reaches for anyone within arm's length, and it does not distinguish between a worker who has consented and one who has simply come too close. The Warden's standing order is therefore spatial rather than behavioural: a marked radius, maintained at all times, enforced by the Warden on watch regardless of what the entity is doing or how long it has been still. Nothing in the order depends on reading the entity's intent. The drafters were explicit that intent has never been reliably read here and that a rule requiring somebody to judge it would fail on the watch where judgement was hardest.
 
-### The Quiet Ledger
+### What It Takes
 
-The quiet ledger compiles every nightingale mark in the containment's history — dates, commanders, and the watch conditions that made the quiet possible. The ledger's purpose is morale made tangible: proof, in the commanders' own hands, that the containment holds far more often than it strains. New Wardens read the ledger on commissioning. Veterans consult it before hard watches. And the senior Warden cites it at every briefing where the roster's confidence wavers: the quiet outnumbers the pressure a hundred to one. The ledger proves it. The Debt Eater is witnessed, watch after watch, by personnel who know the numbers — and the numbers say the containment holds, the quiet returns, and the nightingale sings more often than it silent.
-### The Dawn Chorus
+Burden drawn from a debtor does not disperse — it accumulates in the entity, and the accumulation is the figure the Warden logs each watch. The series rises. It has risen without interruption since the containment opened and no mechanism for reduction has ever been identified, which means the log is a record of something filling up at a rate nobody can alter. The Warden's handover includes the current figure spoken aloud, a practice adopted so that the number is never merely written down and never merely inherited.
 
-The morning after a nightingale shift, the relief arrives to birdsong — the roster's term for a handover with nothing to report. Readings nominal, entity quiescent, the quiet passed intact. Veterans describe dawn-chorus handovers as the watch's benediction: the night held, the day inherits peace. The Debt Eater grants them regularly. The roster receives them gratefully. And the quiet ledger grows — mark by mark, chorus by chorus.
+### The Fifty
+
+The citizens whose refusal formed the entity are listed in the containment file from the resistance's own declaration, which survived because the Collectors kept it as evidence. The list is complete and the document is reproduced in facsimile, seal and annotations intact. Wardens read it on commissioning. The file's only annotation sits beneath it and observes that the declaration was written to be used against the people who signed it, that it was, and that it is now the only place their names appear together.
+
+### The Marked Radius
+
+The radius is painted rather than taped and is repainted before it fades, the Warden on watch judging when. Repainting is done from outside the line. The tool kept for it hangs by the door where its presence can be checked at a glance, and the practice of hanging it visibly rather than storing it was established early for exactly that reason.
 
 ## Trivia
 

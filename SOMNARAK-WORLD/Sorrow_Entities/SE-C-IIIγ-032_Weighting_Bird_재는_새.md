@@ -384,16 +384,21 @@ Some sorrows are suffered. Weighting Bird's sorrow is inflicted — gently, nece
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Replacement
+### Weighing Guilt
 
-Instruments wear out, and Weighting Bird's containment replaces them — gauges retired past calibration, seals retired past rating, lamps retired past brightness. The replacement protocol governs every swap: the new instrument certified, the old instrument honored, the exchange logged with both service records attached. Retiring instruments are not discarded. They join the quartermaster's shelf — or, for instruments of exceptional service, the muster hall's honored wall. Veterans describe replacements as the containment's renewals: the doctrine continues, the instruments refresh, the watches unbroken across the exchange. Weighting Bird (SE-C-IIIγ-032) has been witnessed through generations of instruments. Each generation served. Each generation retired honored. The watches never paused.
+The scales in its eyes measure culpability rather than mass and return a comparison rather than a verdict — one sorrow set against another. The Warden logs that a judgment occurred and does not log its content. The distinction is enforced strictly and was argued at length when the containment opened, the position that prevailed being that the facility has no use for the entity's conclusions about anyone and that recording them would create a document somebody would eventually want to read.
 
-### The Honored Wall
+### Nothing Unrecorded
 
-The honored wall holds the containment's most distinguished retirees — the gauge that caught the first pressure spike, the seal that held the worst season, the lamp that burned through the longest watch. Each bears its citation: served here, held this, retired honored. New Wardens study the wall before their first watch, learning the instruments' histories the way they learn the roster's. Veterans touch the wall's frame on passing — the way crews touch memorials, the way the night crews touch the spare lamp. Weighting Bird is witnessed with instruments that will one day hang honored. The wall proves the roster maintains what it uses and honors what has served. Serve well. Retire honored. The wall waits for every instrument standing.
-### The First Reading
+Every judgment it makes is registered somewhere within itself and none is discarded, which the Warden's briefing presents as the containment's defining property. It cannot be asked to forget. Requests to have a specific judgment withdrawn have been received from personnel on three occasions and the answer each time has been that the facility has no mechanism, no influence, and no standing to ask. The three requests are held in the file at the request of the people who made them.
 
-New instruments take their first readings under witness — the installing Warden, the watch commander, and the logbook open. The first-reading custom records the moment: instrument installed, reading taken, service begun. Veterans describe first readings as the containment's small commissionings — new eyes on the entity, sworn to accuracy. The first readings are preserved with the installation logs — baseline truth, witnessed jointly. Weighting Bird is measured by instruments whose first readings were honored. Installed, witnessed, trusted. The readings continue.
+### The Officials Who Weighed
+
+Collectors and officials who assessed citizens' guilt until the assessing itself became an entity are documented from their own case books. The books are mundane. They record names, figures, and determinations in a clerical hand, at volume, over years, and the Warden's commissioning material includes a single representative page rather than the series. The note attached explains that one page conveys the practice accurately and that the full run conveys only its length.
+
+### The Three Requests
+
+The personnel who asked to have a judgment withdrawn were told that the facility could do nothing, in writing, by the senior Warden, and each letter said so in the same plain terms rather than offering consolation. All three asked that the correspondence be kept. It is held in the containment file under their names, at the front, and the archivist's note records that they wanted it there.
 
 ## Trivia
 

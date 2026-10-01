@@ -429,16 +429,21 @@ Some sorrows mourn what was lost. The Cracked Hourglass mourns what was spent �
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Drill
+### The Leak
 
-Emergency drills run on rotation in The Cracked Hourglass's containment — pressure scenarios, breach simulations, full-muster exercises the roster performs the way musicians practice scales. The drill doctrine is the Directorate's standing answer to complacency: practice the crisis before the crisis practices on you. Drills are unannounced, realistic, and graded — the senior Warden scoring response time, precaution arming, and roster discipline against the standard. Failing drills are repeated. Passing drills are logged. And the roster performs every drill as if The Cracked Hourglass (SE-C-IIIβ-036) pressed in truth, because the doctrine's spine is realism: drill as you will stand. The roster drills hard. The roster stands harder. The drills prove it, rotation after rotation.
+Sand runs continuously from the cracked bulb and regenerates, so the glass never empties and the leak never stops. The Warden measures the rate rather than the volume, the volume being meaningless, and the rate is the containment's primary indicator. It responds to emotional pressure in the room. This has made the watch itself a variable in its own measurement, a problem the file acknowledges openly and does not solve, noting that the Warden cannot observe the instrument without being present and cannot be present without affecting it.
 
-### The After-Action
+### Every Grain a Moment
 
-Every drill ends with the after-action — the roster gathered, the senior Warden reading the score, each Warden speaking one improvement. The after-action's rule is candor without rank: the newest Warden speaks first, the senior Warden last, and every improvement is logged regardless of source. The after-action log runs continuously — hundreds of entries, each one a small sharpening: faster arming here, clearer signals there, better positioning everywhere. Veterans describe the after-action as the drill's true product: not the practice but the polish. The Cracked Hourglass is witnessed by a roster that improves on rotation, drill by drill. Practice the crisis. Polish the response. The after-action proves the roster does — one improvement at a time, logged forever.
-### The Perfect Score
+Each particle corresponds to a moment of somebody's life, and the escaped sand is collected rather than swept. It goes to sealed storage in dated containers and is never consolidated, each watch's collection kept separate from every other. The practice costs storage space and achieves nothing operational. It was established by the first Warden and has been continued without instruction by every one since, and the file's only note on it records that no commander has been asked to approve the practice because none has ever been asked to.
 
-Once in a generation of drills, a roster scores perfectly — every response on time, every precaution armed, every signal crisp. Perfect drills are logged in gold — the senior Warden's term for the commendation entry, preserved verbatim. The roster that scored it is honored at muster. The drill is studied by every roster after. The Cracked Hourglass has witnessed perfect drills and held through all of them — practiced crises met with perfect responses. Drill as you will stand. The perfect score proves the roster stands perfectly.
+### The Widening
+
+The crack opens and closes with the pressure around it and has, across the containment's record, opened slightly more than it has closed. The net figure is small and is reported in every annual return without projection attached. Wardens have asked what happens if it opens fully. The answer entered in the file is that nobody knows, that the question has been put to the Memory Archive and to the engineering staff and returned unanswered by both, and that the honest position is a measurement and no forecast.
+
+### The Storage Run
+
+Dated containers of escaped sand now fill a room of their own and are shelved in order of collection. Nothing is ever withdrawn. The room is inspected annually, the inspection confirming only that the seals hold and the labels remain legible, and the inspector's report has consisted of the same two sentences for as long as the series has existed.
 
 ## Trivia
 

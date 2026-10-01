@@ -383,16 +383,21 @@ Some sorrows are inflicted. The Debtor's sorrow is assumed — taken on willingl
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Requisition
+### The Weight
 
-Every instrument in The Debtor's containment arrived by requisition — requested in writing, justified by need, approved against the quartermaster's unforgiving standard. The requisition files are the archive's driest holding and the roster's proudest: page after page of gauges, seals, lamps, and lines, each one argued for and won. The quartermaster's standing rule governs all of it: need it, prove it, maintain it. Requisitions that prove need are approved. Instruments that arrive are maintained — cleaned, calibrated, and logged — or the quartermaster reclaims them. No ornament has ever survived the quartermaster's review. No necessity has ever been denied it. The Debtor (SE-C-IIIγ-061) is witnessed with instruments the roster earned by argument and keeps by maintenance.
+What he carries is invisible, has been measured, and does not change. The figure is recorded in the containment file and is read at every handover, not because it varies but because the roster decided early that a number carried by somebody should be spoken by somebody. He moves slowly beneath it and declines assistance. Wardens are instructed not to offer, the instruction being one of the few in the wing framed as a courtesy rather than a precaution, and the file explains that offers have been made, have been refused, and have visibly cost him something each time.
 
-### The Quartermaster's Shelf
+### Accepting Blame
 
-The quartermaster keeps one shelf of retired instruments — gauges that served past calibration, lamps that burned past brightness, seals that held past rating. Each bears its service record: installed this date, maintained this often, retired with honors. New Wardens are shown the shelf before they file their first requisition, and the lesson lands the way honest objects teach: request only what the containment needs, maintain everything the containment grants, and retire with honors what has served past serving. The Debtor is witnessed with the quartermaster's instruments, standing on the quartermaster's shelf in honorable retirement when their service ends. Need it. Prove it. Maintain it. The shelf proves the roster does.
-### The Approved Stamp
+He takes responsibility that is not his and does so willingly, agreeing with any accusation put to him. The standing order therefore forbids accusation in the chamber in any form, including rhetorical and incidental, and extends the prohibition to conversation between Wardens within his hearing. The provision was added after a watch in which two personnel discussed an unrelated failure in his presence and he accepted it. The incident caused no harm and is recorded in full.
 
-Approved requisitions return bearing the quartermaster's stamp — granted, with the date and the quartermaster's initials. Wardens keep their stamped approvals the way soldiers keep orders: filed, honored, and cited when the instruments arrive. The stamp means the quartermaster agreed — the need was real, the proof sufficed, the containment gains. The Debtor is witnessed with stamped instruments, every one earned. The stamp approves. The roster maintains. The containment holds.
+### The Original Debt
+
+He is the first of the three and the one who incurred the obligation, and the containment file holds the instrument that created it. It is a short document and an ordinary one. The terms are not unusual for the period, the rate is unremarkable, and the signature is his. The archivist's note beneath it records that nothing about the instrument is exceptional, that this is the point, and that the Warden should read it before reading anything else in the file.
+
+### The Three Together
+
+He must remain near the other two and the containment is arranged to permit it, the three chambers sharing a common boundary rather than being separated. The arrangement doubles the structural cost of the holding and was never seriously contested, the engineering assessment of the alternative having been attached to the original proposal and never needing to be cited since.
 
 ## Trivia
 
