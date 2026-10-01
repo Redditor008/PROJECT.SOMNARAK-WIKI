@@ -414,16 +414,21 @@ Some sorrows mourn cruelty. Unrung mourns a failure — the warning that stayed 
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Spare Key
+### A Bell That Takes Sound
 
-Every chamber in Unrung's containment keeps a spare key — sealed, logged, and held by the watch commander. The spare-key custom governs its custody: sealed at watch start, verified at watch end, used only in the emergencies the doctrine tables. The keys have been used rarely and regretted never — each use logged, each emergency met, each seal replaced after. New commanders receive the keys the way they receive the watch: with briefing, with gravity, with the formula. Unrung is secured by keys the roster holds faithfully — spares sealed, customs kept, emergencies answered.
-### The Unbroken Seal
+It matches the Orphaned Bell in form and does the opposite, absorbing noise rather than making it, and the absorption is measured with the same tone-and-listener method used at the silent holdings. The method was adopted from them deliberately so that the readings are comparable. The file names the holding it was borrowed from and the person who proposed the borrowing.
 
-Spare-key seals are verified unbroken at every watch end — the commander's check, the log's confirmation. Unbroken seals mean unneeded emergencies. Unrung's seals hold watch after watch. Sealed, verified, holding.
+### It Vibrates for Sincere Listening
 
-### The Key Ceremony
+The bell responds when someone listens in earnest and does not respond to force, which is the most difficult property in the wing to write a procedure around. The standing order does not attempt one. It records the behaviour and leaves the Warden to it, the file noting that an instruction to listen sincerely would be an instruction to perform sincerity.
 
-Watch commanders receive the spare keys with ceremony — the sealed packet, the custody formula, the log's countersignature. The ceremony binds the custody: keys received, responsibility taken, watch begun. Unrung's keys pass commander to commander, ceremony by ceremony. Received, held, transferred.
+### Silent Under Force
+
+Striking it produces nothing and striking has been tried, under authorisation, and the attempts are documented. They are not repeated. The prohibition rests on the file's position that the question has been answered and that a bell which will not ring for a hammer has said all a hammer can make it say.
+
+### A Warning That Never Sounded
+
+It was meant to signal a catastrophe and the signal was never given, and the commissioning file holds the duty roster for the night in question with the name of the watchman who held the rope. He is named. The archivist's note states that the record does not establish that he failed, that the surviving evidence is consistent with his never having been told, and that the file names him because leaving the post blank would have invited a worse assumption.
 
 ## Trivia
 

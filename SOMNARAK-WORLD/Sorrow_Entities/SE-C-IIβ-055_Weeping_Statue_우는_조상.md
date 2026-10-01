@@ -386,16 +386,21 @@ Some sorrows are released. Weeping Statue is a sorrow that was forbidden to rele
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Polished Gauge
+### Tears That Become Echoes
 
-Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Weeping Statue (SE-C-IIβ-055) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
-### The Clear Face
+The statue weeps continuously and the tears harden at its feet into small Echoes, which are collected on a schedule, counted, and stored unexamined. Collection is routine and the count is the holding's main series. It rises and falls. No one has correlated it with anything and the file notes that attempts to do so were abandoned not because they failed but because each one required deciding what to compare it against.
 
-Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Weeping Statue is measured truly. Polished, clear, true.
+### A Face That Answers
 
-### The Calibration Weight
+Its features shift subtly according to the grief in front of it, which means no two Wardens describe it alike and the description on file is deliberately generic. The genericness is explained on the page. The file states that a precise description would be a description of whoever wrote it, and that this was learned from the first three attempts, which are retained.
 
-Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Weeping Statue is measured on verified instruments. Polished, tested, true.
+### It Does Not Move or Speak
+
+The statue is fixed and silent and has never done anything but weep, and the containment accordingly consists of collection, counting, and presence. The standing order is short. The archivist's note remarks that it is the shortest in the wing and that its brevity has been mistaken for neglect at review twice, both times by readers who had not visited.
+
+### Composed, Silent, Useful
+
+Generations were taught to hold themselves together and the uncried grief collected into something that cries instead, and the commissioning material is pedagogical — the instruction given to children, in the textbooks of the period. They are ordinary schoolbooks. They are reproduced at the relevant pages and the archivist's note observes that the passages were not considered harsh at the time and were not meant unkindly.
 
 ## Trivia
 

@@ -418,16 +418,21 @@ Some sorrows mourn what was taken. The Empty Mask is what is left when the takin
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Sharp Pencil
+### A Face-Shaped Absence
 
-Logs are written in pencil — sharpened before every watch, the roster's oldest instrument custom. The pencil doctrine is practical: pencil writes on damp paper, survives the chamber's cold, and never leaks. But the custom is honor: the sharpened pencil means the prepared Warden. Veterans sharpen deliberately, ritually, the way soldiers clean weapons. New Wardens receive their first pencil at commissioning — issued with the logbook, blessed with the formula. The Empty Mask is recorded in graphite — reading by reading, pencil by pencil, sharp forever.
-### The Full Box
+The mask is featureless and its interior reads as depth rather than as surface, and the Warden's inspection records the apparent depth, which is measured by a probe and which exceeds the thickness of the object. The discrepancy is constant. It is reported as a measurement and the file declines to characterise it, noting that every available word for the condition is a metaphor.
 
-Commissioning issues a full box of pencils — twelve, sharpened, the rookie's first year. Veterans replenish from the quartermaster with pride. The Empty Mask is recorded in graphite that never runs out. Issued, sharpened, recording.
+### It Takes a Face
 
-### The Sharpener
+Left against a person unattended it can replace a face with emptiness, and the holding therefore has a rule that it is never handled alone and never left in a room with a sleeping or unconscious person. The second clause is unusual and was added after a near miss in an infirmary corridor. The circumstances are recorded in full.
 
-The muster hall keeps a wall sharpener — bolted, trued, and used before every watch. The sharpener custom queues the roster: sharpen in turn, waste nothing, write sharp. The sharpener has served generations of pencils. The Empty Mask is recorded sharp. Queued, sharpened, writing.
+### Glow and Dim
+
+It brightens near sorrow and fades near joy, which makes it a crude instrument for the mood of its surroundings, and the brightness is graded against a card at each watch. The series is kept. The file observes drily that the holding has thereby accumulated a long record of the emotional weather of a storage corridor and that nobody has found a use for it.
+
+### Names Given Up
+
+People erased their own names and faces and histories in order to carry on, and the commissioning file holds the administrative traces of that — withdrawn registrations, surrendered papers, applications to be removed from rolls. The applications are the hardest part of the folder. They are in the applicants' own hands and the archivist's note states that they are held unredacted because redacting them would complete what the applicants began.
 
 ## Trivia
 

@@ -412,16 +412,21 @@ Some sorrows are too deep for tears. Frozen Tear is what they become instead.
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Mended Chair
+### It Never Melts
 
-The muster hall's chairs are mended, never replaced — joints glued, legs braced, the roster's oldest thrift custom. The mend log records every repair: chair three, leg braced, holding. Veterans describe the mended chairs as the roster's philosophy: maintain what serves, repair what breaks, replace only what cannot be mended. New Wardens perform their first mend before their first watch — glue, clamp, and the lesson. Frozen Tear (SE-C-IIβ-102) is witnessed by menders — who repair, watch after watch, the chairs that hold the roster that holds the entity.
-### The Steady Seat
+The frozen tear holds its form and holds warmth at the same time, and both are checked at each watch, the warmth by hand through a cloth and the form by sight against a drawing. Neither has changed. The file keeps the drawing as the reference rather than a photograph, the drawing having been made at the holding's opening and being the oldest document in the folder.
 
-Mended chairs hold steady — tested after every repair, trusted at every muster. Steady-seat checks close every mend. Frozen Tear is witnessed by personnel well-seated. Mended, steady, holding.
+### Those Who Sit Beside It
 
-### The Glue Pot
+Visitors come and sit near it without touching, and the holding permits this under a written arrangement with the ward. Names are not taken. The arrangement states that visiting is not an observation opportunity and that Wardens are not to record what visitors do, which the file notes was the ward's condition and was accepted without negotiation.
 
-Chair mending keeps a glue pot warm — ready for every repair, used weekly. The glue-pot custom wastes nothing: mend it today, sit it tomorrow. Frozen Tear's chairs hold. Glued, clamped, holding.
+### A Faint Glow
+
+It gives a small steady light that is easiest to see at night, and the night watch logs its intensity against a card. The readings have not varied. The archivist's note observes that this containment produces three unvarying series and that their constancy is the reason the holding is rated as it is.
+
+### The Tear That Did Not Fall
+
+Someone who had lost everything found they could not cry and the single tear froze before it fell, and the commissioning record is slight — a mourner, a date, the fact. No name survives. The file does not reconstruct one and the archivist's note explains that the material would support a plausible identification and that a plausible identification is not the same as a correct one.
 
 ## Trivia
 

@@ -416,16 +416,21 @@ Some sorrows mourn what was. Rem mourns what was imagined — the unlived life, 
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Clean Log
+### It Shows Differently to Everyone
 
-The perfect watch log — every reading on time, every notation legible, every margin clean — is the roster's quiet pride. Rem's archive holds hundreds: watches logged flawlessly, filed promptly, and preserved as the standard. The clean-log custom marks each one: the watch commander's checkmark, the archivist's nod, the log bound with the honored volumes. New Wardens study clean logs before writing their own. Veterans produce them without thinking. Rem (SE-C-IIβ-135) is witnessed on paper as faithfully as in person — reading by reading, log by log, clean forever.
-### The Archivist's Nod
+The shard presents as a room, a face, or a suspended tear depending on who is looking, and no two Wardens have described the same thing. The log therefore records the observer with the observation, always, and the pairing is the point. Entries without an observer's name are treated as void and the file states that two such entries exist and have been struck through rather than removed.
 
-Clean logs earn the archivist's nod — the small sharp gesture of approval, given at filing. Wardens prize the nod the way crews prize commendations. Rem's archive holds hundreds of nodded logs. The nod approves. The roster logs clean.
+### It Goes When Understood
 
-### The Bound Volume
+Full comprehension ends the manifestation, which makes understanding a thing to be approached carefully, and the standing order asks Wardens to stop short of it. The instruction is difficult to follow and the file acknowledges as much. It offers no technique and says it has none, only the request.
 
-Clean logs are bound annually — the year's flawless watches gathered, covered, and shelved with the honored volumes. The binding custom closes every year: the archivist's selection, the binder's craft, the volume shelved with ceremony. Rem's bound years line the archive shelf — proof, in leather and thread, that the roster logs clean. Bound, shelved, honored.
+### Flickering
+
+It is unstable between its forms and the transitions are timed where they can be caught, producing a series of intervals with no detectable pattern. The analysis has been attempted twice and both attempts are retained with their methods. The archivist's note observes that the second was conducted in ignorance of the first and that this is why failed work is kept.
+
+### A Dream Left Unfinished
+
+A dreamer died before completing something they had been dreaming toward and the residue came loose near the Dream Gates, and the commissioning material is what the dreamer left — notes toward the thing, in their own hand. The notes stop. They are held in the order they were found, unnumbered, and the file states that the sequence is as found and may not be the sequence they were written in.
 
 ## Trivia
 

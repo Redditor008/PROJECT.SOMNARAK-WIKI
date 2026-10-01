@@ -420,16 +420,21 @@ Some sorrows mourn the dead. Hums mourns their songs — the unfinished melodies
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Fresh Paint
+### It Sings in Still Air
 
-Maintenance repaints Hums's chambers on rotation — walls fresh, markings crisp, the containment gleaming the way readiness gleams. The paint custom treats the work as honor, not chore: the roster paints its own chambers, brushes shared, pride joint. Veterans describe fresh-paint days as the containment's renewals — the same doctrine, brightened walls, the watches continuing across the wet paint. Hums (SE-C-IIβ-048) is witnessed in chambers the roster keeps worthy — painted faithfully, maintained proudly, gleaming always.
-### The Dry Wall
+The stone performs when the air is quiet and sorrow is concentrated nearby, and the Warden's duty is to be present and to write down what is sung. Transcription is by hand and in the moment. Recording equipment was trialled early and the trial is documented: the devices captured the stone adequately and the Wardens stopped listening, which the file identifies as the reason the trial was ended.
 
-Fresh paint dries under watch — the roster guarding wet walls the way it guards everything: faithfully. Dry-wall checks close every paint day. Hums's chambers gleam. Painted, dried, gleaming.
+### The Songs Are Records
 
-### The Color Standard
+What it produces are real songs that real people sang — lullabies, work songs, love songs, funeral songs — rather than invented sound, and several have been identified from the district's own memory. Identifications are recorded with the person who made them. Where a song is unidentified it is written down anyway and filed under the day it was heard.
 
-Chamber paint follows the color standard — walls regulation gray, markings safety yellow, pipes coded by system. The standard custom keeps every facility legible: any Warden, any chamber, readable at a glance. Hums's chambers match the standard exactly. Painted standard, reading clearly.
+### Warm
+
+The stone holds warmth continuously and the temperature is taken at each watch, which is a brief task and produces a long unvarying series. The file keeps it for the usual reason and states the usual reason. The archivist's note adds that this is the smallest holding in the wing to maintain a continuous instrumental record and that the record has never been asked for by anyone.
+
+### Melodies Nobody Carried On
+
+Songs vanished when the people who sang them died, and the commissioning material is a list of singers compiled in the Echo Gardens after the fact, with what each was known for. The list is incomplete and says so at the head. The archivist's note observes that it was assembled by people who had sung alongside them and that the facility has added nothing to it.
 
 ## Trivia
 

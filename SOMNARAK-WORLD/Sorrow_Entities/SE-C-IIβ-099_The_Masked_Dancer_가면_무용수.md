@@ -391,16 +391,21 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Folded Blanket
+### It Does Not Stop
 
-Bunks are made with folded blankets — corners square, edges aligned, the roster's oldest order custom. Inspections check the blankets first: square corners mean disciplined Wardens. Veterans fold without thinking — the creases sharp from years of practice. New Wardens learn the fold before they learn the gauges: order in the bunk, order in the watch. The Masked Dancer is witnessed by personnel who fold blankets — who keep, in small squares of wool, the discipline that keeps the containment.
-### The Tight Corner
+The dancer moves continuously with precision that does not degrade, and the Warden's log records duration rather than quality, there being no variation in quality to record. The figure has not rested in the whole of the containment's operation. The file states this as an observation and declines to call it tireless, the word having been removed from an earlier draft as an interpretation.
 
-Blanket corners are tucked tight — the inspection's first check, the roster's smallest discipline. Tight corners, tight watches. The Masked Dancer is witnessed by personnel squared away. Folded, tight, ready.
+### Faster Under Confrontation
 
-### The Bunk Inspection
+Approach and challenge increase the tempo, which has been established and is not provoked deliberately, and the standing order forbids testing it. The prohibition is explained plainly: the speed can be made to rise and nobody knows what it rises toward. The file notes that the instruction was written by a Warden who had seen it accelerate and who asked for the rule herself.
 
-Bunks are inspected weekly — blankets folded, kits stowed, floors swept. The inspection custom scores fairly and praises publicly. The Masked Dancer's roster passes inspection standing. Folded, stowed, passing.
+### The Tear
+
+A single tear sometimes appears from beneath the smiling mask, and its occurrence is logged with the time and the circumstances. The log is short, the occurrences being rare. It is the part of the record that Wardens read first on taking the posting, which the file mentions because the briefing material does not direct them to and they do it anyway.
+
+### For Those Who Could Not Move
+
+It formed from people whose bodies or circumstances denied them movement — the paralysed, the confined, the ill, the sorrow-bound — and the commissioning material includes what those people wrote where any of it survives. Little does. What there is runs to a few pages and is reproduced entire, and the archivist's note states that none of it is about dancing.
 
 ## Trivia
 

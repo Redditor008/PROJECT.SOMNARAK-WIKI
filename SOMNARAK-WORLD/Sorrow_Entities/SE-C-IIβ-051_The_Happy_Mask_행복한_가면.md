@@ -418,16 +418,21 @@ Some sorrows are about loss. The Happy Mask is about performance — the lifelon
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Quiet Lunch
+### It Cannot Be Taken Off
 
-The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. The Happy Mask is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
-### The Second Helping
+Once worn, the mask does not come away at the wearer's hand, and this single fact governs the entire holding: it is never worn, never tried, and never brought near a face. The prohibition is enforced by storing it face down in a fitted tray. The tray was made for it and the file records the measurement that was taken to make it.
 
-Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. The Happy Mask is witnessed by well-fed personnel. Served, seconded, steady.
+### The Smile Widens
 
-### The Recipe Card
+Confrontation makes the expression broaden, which has been observed often enough to be relied upon, and Wardens are instructed to note the degree rather than to avoid provoking it. There is no instruction to be gentle with it. The file is candid that the smile is unpleasant to watch and that the duty is logged regardless, and the archivist's note says the honesty is deliberate.
 
-Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. The Happy Mask's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+### A Sorrow Underneath
+
+Sustained observation brings something out from under the fixed expression, and what emerges is recorded in the Warden's own words without a prompt on the form. Accounts vary considerably. They are kept individually rather than summarised, the file holding that a summary of what people saw under the smile would be a description of the smile and not of what was under it.
+
+### Performing Happiness
+
+The mask formed from the habit of appearing content in order to get by, and the commissioning material is drawn from institutional conduct standards of the period rather than from any personal account. They are dull documents and they are the evidence. The archivist's note draws the connection in one sentence and leaves the standards to speak, observing that they required cheerfulness in writing.
 
 ## Trivia
 

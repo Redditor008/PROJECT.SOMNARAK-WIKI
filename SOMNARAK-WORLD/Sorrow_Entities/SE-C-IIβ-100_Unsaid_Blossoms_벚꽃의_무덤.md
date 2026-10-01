@@ -382,16 +382,21 @@ Some sorrows mourn what was lost. The Grave mourns what was never said — and f
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Timely Relief
+### Blossoms Out of Season
 
-Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Unsaid Blossoms is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
-### The Early Arrival
+The crystal tree flowers when it should not and the blossoms fall in still air, and the Warden counts the fall rather than the bloom, the count being the more tractable of the two. Fallen blossoms are gathered daily and stored. The store is substantial. It is not examined, each blossom containing a sentence that was never said and the file holding that the sentences are not the facility's to read.
 
-The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Unsaid Blossoms is relieved promptly. Early, briefed, holding.
+### Thick Air
 
-### The Relief Log
+The atmosphere around the grave is noticeably heavy and the effect has a measurable edge, surveyed annually against markers set beyond it. The boundary has not moved. The survey is brief and is conducted by one person in an afternoon, and the file records the method precisely so that the brevity cannot later be mistaken for carelessness.
 
-Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Unsaid Blossoms is witnessed continuously. Arrived, briefed, transferred.
+### It Is a Grave
+
+The holding is a burial place before it is a containment and the standing order says so in its first line, which governs how personnel conduct themselves there. Voices are kept low by instruction rather than by custom. The archivist's note remarks that the instruction was proposed by the Wardens and that the administration's only amendment was to make it mandatory.
+
+### What the Family Did Not Say
+
+Someone was buried without the things that needed saying being said, and the commissioning file holds what the household did say — the funeral arrangements, the notice placed, the order of service. All of it is correct and complete. The archivist's note observes that the family did everything that was required of them and that the entity exists because of what was not.
 
 ## Trivia
 

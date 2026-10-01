@@ -390,16 +390,21 @@ Some sorrows are about cruelty. Emberling is about absence — the simple absenc
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Watered Plant
+### Light Without Warmth
 
-A plant grows in Emberling embers's muster hall — watered on rotation, tended jointly, the roster's living green. The plant custom assigns every Warden a watering week: tend it, log it, pass it on. The plant has survived every hardship the roster survived — shortages, storms, short staffing. Veterans describe it as the roster's mirror: thriving when the roster thrives, drooping when the roster strains. Counselors check the plant the way they check personnel. Emberling embers is witnessed by gardeners — who water, watch after watch, the green proof that life persists in the containment.
-### The New Leaf
+The child of embers gives off light and no heat whatever, which is confirmed at each watch with a thermometer held at the usual distance, and the result is always the same. Wardens find this the hardest feature of the posting. The file says so directly, in the briefing material, on the reasoning that a person who expects warmth and does not find it should have been told.
 
-The muster plant grows new leaves — each one logged, each one celebrated. New-leaf days are the roster's small festivals. Emberling embers is witnessed where life persists. Watered, leafing, living.
+### The One Ember
 
-### The Watering Roster
+A single ember among the others does not go out, in any conditions including the coldest the holding has recorded, and it is identified at each watch and confirmed present. It has never been absent. The confirmation takes a moment and is the only task in the containment that could be called urgent, and the file notes that no Warden has ever had to be reminded to do it.
 
-Plant watering runs on roster — names scheduled, weeks assigned, never missed. The roster custom treats the plant as a posting: tend it like a watch. Emberling embers's plant thrives on scheduled care. Rostered, watered, thriving.
+### Slow and Careful
+
+It moves cautiously, as though the ground might not hold, and its path is recorded. The path avoids open space. The observation is recorded without interpretation, though the archivist's note allows itself one line, which is that the caution is the most legible thing about the entity and the least explicable.
+
+### A Tale the City Forgot
+
+The figure came out of a forgotten story about a girl carrying embers through the cold, and the commissioning file holds what can be recovered of the tale — fragments from three tellers, none complete and none agreeing. They are printed side by side. The archivist's note states that the versions differ in what the girl was looking for and agree that she did not find it.
 
 ## Trivia
 

@@ -415,16 +415,21 @@ Some sorrows mourn the extraordinary. Forgotten Market Stall mourns the ordinary
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Clean Log
+### It Is Not There in the Morning
 
-The perfect watch log — every reading on time, every notation legible, every margin clean — is the roster's quiet pride. Forgotten Market Stall's archive holds hundreds: watches logged flawlessly, filed promptly, and preserved as the standard. The clean-log custom marks each one: the watch commander's checkmark, the archivist's nod, the log bound with the honored volumes. New Wardens study clean logs before writing their own. Veterans produce them without thinking. Forgotten Market Stall (SE-C-IIα-062) is witnessed on paper as faithfully as in person — reading by reading, log by log, clean forever.
-### The Archivist's Nod
+The stall stands overnight in the abandoned commerce district and is gone by light, leaving ground that is warmer than the ground around it, and the warm patch is the only thing the day watch can record. Its temperature is taken and its outline chalked. The outline has differed every time, which is consistent with a stall whose shape varies, and the chalk marks are left to weather rather than cleaned off.
 
-Clean logs earn the archivist's nod — the small sharp gesture of approval, given at filing. Wardens prize the nod the way crews prize commendations. Forgotten Market Stall's archive holds hundreds of nodded logs. The nod approves. The roster logs clean.
+### Goods With Labels
 
-### The Bound Volume
+What it offers carries written descriptions of a lost life or moment, and the Warden copies the labels without purchasing. Copying is permitted and acquisition is not. The distinction is the whole of the protocol and it is stated in one line, the file noting that it has never needed elaboration because no Warden has yet reported being tempted by anything on the table.
 
-Clean logs are bound annually — the year's flawless watches gathered, covered, and shelved with the honored volumes. The binding custom closes every year: the archivist's selection, the binder's craft, the volume shelved with ceremony. Forgotten Market Stall's bound years line the archive shelf — proof, in leather and thread, that the roster logs clean. Bound, shelved, honored.
+### Inventory That Should Not Exist
+
+Some of the stock is of things that are known to be gone, and the copied labels have twice matched items in the district's loss registers. The matches are recorded as matches and nothing was done with them. The file explains that the registers belong to the people who filed them and that a containment which began returning findings to claimants would be operating a service it was never asked to provide.
+
+### Merchants Whose Trade Vanished
+
+The commerce district emptied as the city shifted and the merchants' hopes went with it, and the commissioning material is the ward's own tenancy record for the market — who held which pitch, and the date each lapsed. The lapses cluster in a short span. The archivist's note observes that no closure order was ever issued and that the market simply stopped being somewhere people went.
 
 ## Trivia
 

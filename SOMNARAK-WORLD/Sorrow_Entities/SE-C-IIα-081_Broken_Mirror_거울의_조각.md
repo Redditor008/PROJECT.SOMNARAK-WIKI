@@ -416,16 +416,21 @@ Some sorrows are about what happened. Broken Mirror is about what was refused �
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
-### The Spare Key
+### It Shows What Was Put Away
 
-Every chamber in Broken Mirror's containment keeps a spare key — sealed, logged, and held by the watch commander. The spare-key custom governs its custody: sealed at watch start, verified at watch end, used only in the emergencies the doctrine tables. The keys have been used rarely and regretted never — each use logged, each emergency met, each seal replaced after. New commanders receive the keys the way they receive the watch: with briefing, with gravity, with the formula. Broken Mirror is secured by keys the roster holds faithfully — spares sealed, customs kept, emergencies answered.
-### The Unbroken Seal
+The glass returns a memory the viewer has forgotten or buried rather than the room in front of it, and Wardens work with their backs to it. The rule is absolute and is the reason the holding has an unusual floor marking, a painted line indicating which way to face. The line is repainted on a schedule like any other fitting.
 
-Spare-key seals are verified unbroken at every watch end — the commander's check, the log's confirmation. Unbroken seals mean unneeded emergencies. Broken Mirror's seals hold watch after watch. Sealed, verified, holding.
+### Cracks That Correspond
 
-### The Key Ceremony
+Its fractures answer to sealed memories, and the crack pattern is traced onto an overlay each cycle and compared with the last. New cracks have appeared. They are logged with their date and their position and are not matched against the vault inventories, the file stating that such a comparison was proposed once and was refused as an attempt to read what the Keepers were asked to seal.
 
-Watch commanders receive the spare keys with ceremony — the sealed packet, the custody formula, the log's countersignature. The ceremony binds the custody: keys received, responsibility taken, watch begun. Broken Mirror's keys pass commander to commander, ceremony by ceremony. Received, held, transferred.
+### It Cannot Be Broken
+
+Ordinary force does not damage it, which has been established and is not retested, and the establishing attempts are documented with their authorisations. The authorisations are included because the attempts were made deliberately rather than accidentally. The archivist's note records that the officer who authorised them wrote a short justification at the time and that it is held with them.
+
+### A Vault That Cracked
+
+Citizens asked the Keepers to put memories away and the sealed material pressed until a vault gave, and the commissioning file holds the vault's maintenance history. It shows inspections on schedule and no defect found. The file prints the inspection returns in sequence up to the failure and makes no remark, the archivist noting only that the record is complete and that nothing in it anticipates what happened.
 
 ## Trivia
 
