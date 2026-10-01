@@ -322,16 +322,21 @@ The entity does not rage. It does not weep. It persists — dream and lament, pa
 
 ## Warden Record
 
-### The Overtime
+### Everyone, the Same Night
 
-Some watches run long — relief delayed, pressure rising, the roster holding past the rotation. The overtime custom governs every extended watch: the holding roster stays willingly, the relief hurries honestly, and the extra hours are logged as overtime honored. No Warden has ever been ordered to overtime. Every Warden has stood it. Veterans describe the custom as the roster's handshake: we hold until relieved, relieved or not. The overtime log records every extension — hours held, reason delayed, relief arrived. The log's entries are uniformly proud: held two extra, relief delayed by storm, containment unbroken. Unwaking Block (SE-N-IIIγ-908) has never stood an unheld watch — relief or no relief, rotation or overtime. The roster holds until relieved. The custom guarantees it.
+An entire residential block in Zone D went to sleep together and did not wake, and the inhabitants remain where they were, which makes the containment a holding around living people. Their care is not the facility's. It is the district infirmary's, and the division is written into the first clause of the standing order: the facility watches the place, the infirmary attends the sleepers, and neither instructs the other.
 
-### The Relief
+### Buildings That Dream
 
-Relief, when it arrives, is the roster's sweetest moment — the relieving Warden's hand on the door, the standing Warden's briefing delivered, the watch transferred with the formula: I relieve you. I stand relieved. The relief custom requires the full briefing regardless of delay — no shortcuts for lateness, no abbreviations for haste. The arriving Warden hears everything, confirms everything, and takes the watch fresh. Veterans describe reliefs as the containment's heartbeat: regular, complete, and unfailing. Unwaking Block is witnessed watch after watch without a gap — each watch handed to the next, each Warden relieved in full. Hold until relieved. Relieve in full. The heartbeat continues, watch after watch, forever.
-### The Extra Hour Honored
+The structures themselves have begun to behave as sleepers do — walls move, doors open onto rooms that are not in any plan — and the Warden's duty inside is mapping rather than guarding. Each entry produces a plan of what the interior was that day. The plans are dated and stacked and no master plan is maintained, the file holding that a master would have to decide which day was the building and that no day is.
 
-Overtime hours are honored at muster — the senior Warden reading the overtime log aloud, each extension praised by name. The honor custom treats held hours as the roster's gift: given willingly, received gratefully, praised publicly. Veterans describe the reading as the overtime's true pay — not the logged hours but the spoken thanks. The honored roster stands straighter after. Unwaking Block has never stood an unheld watch, and the muster proves the roster knows it. Held past rotation. Honored at muster. The custom continues.
+### The Texture of Sleep
+
+The air itself carries the quality of deep sleep and personnel working inside are limited by a timed watch called from outside, the caller never entering. The arrangement is strict and the reason is given plainly: the limit cannot be kept by anyone breathing that air, this having been established early and at some cost.
+
+### Contained in Fourteen Hours
+
+The response was unusually fast and the containment has held since, and the file records both the speed and the margin, which was narrow. The operational account is retained in the responders' own words. The archivist's note adds that the register this entity works in was not in the manual at the time, that the people who contained it had no procedure for what they were doing, and that the procedure now in use was written afterward from what they did. The responders' account was taken within the week and has never been edited for style. It runs to several pages in three hands and includes the passages in which the responders disagree with one another about the order of events, which were left in place deliberately.
 
 ## Trivia
 

@@ -367,16 +367,21 @@ Some sorrows mourn exile. Nemo mourns the return — the homecoming to a world t
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Storm Duty
+### Tears That Carry Names
 
-When crisis strikes elsewhere, Nemo's roster stands storm duty — full watches on short staffing, precautions maintained while reserves deploy outward. Storm duty is the containment's contribution to the Directorate's larger battles: holding firm at home while the institution fights abroad. The storm protocol runs the roster lean: essential watches only, tightened rotations, the senior Warden holding the center. Veterans describe storm duty as the roster's truest test — not of skill but of steadiness. The entity presses. The reserves are gone. The roster holds anyway. Nemo (SE-N-IIIγ-589) has weathered every storm duty the archive records without a watch unstood. The roster holds at home. The Directorate fights abroad. Both hold because both hold.
+Each tear it sheds holds a name, and the names can be read, which makes the containment the only holding in the wing that produces a list of people as a routine output. The list is maintained. It is not published and it is not searched against the civic registers, both restrictions being original to the holding and both having been reaffirmed at every review since.
 
-### The Lean Log
+### It Cannot Stay Gone
 
-Storm duties are logged in the lean log — watches stood short-handed, readings taken under strain, the roster's performance at minimum strength. The lean log's entries are terse to the point of pride: short roster, full doctrine, held. Commanders cite the lean log whenever staffing debates arise: the roster holds lean, the log proves it, the standard survives shortage. But the lean log's standing lesson is caution, not comfort — the senior Warden's annotation reads: held, and never again if avoidable. Leanness proves the roster. Fullness protects it. Nemo is witnessed, storm after storm, by personnel who hold lean when they must and full when they can. The lean log proves the must. The roster prefers the can.
-### The Full Strength
+The figure returns whenever its tears fall, so disappearance is never final and the Warden's log records returns rather than sightings. Intervals between returns are recorded and have no discernible period, which has been tested and the testing retained. The standing position is that the entity is permanently present and intermittently visible, and that the distinction matters for how the watch is staffed.
 
-Storm duty ends with the return to full strength — reserves recalled, roster restored, the lean log closed with the final entry: full strength resumed. Veterans describe the restoration as the roster's deep breath: the crisis passed, the strength returned, the containment held throughout. The senior Warden reads the lean log aloud at the restoration muster — every short watch honored, every strained reading praised. Nemo weathered lean. Nemo stands full. The roster held both, and holds still.
+### Returning to the Same Places
+
+It comes back to the locations where loss occurred rather than to where it was last seen, and those locations are mapped and the map is short. It has not lengthened. The file notes the stability as the single most reliable feature of the containment and the reason a two-person watch has been sufficient since the earliest years.
+
+### Returned to No One
+
+A person came back from exile and found their family, their record, and their name gone, and the commissioning file holds the search they conducted — the offices visited, the enquiries lodged, the replies received. The replies are uniformly courteous and uniformly empty. They are reproduced in sequence, and the archivist's note observes that the file is in effect a correspondence between one person and an administration that had no entry for them, preserved from the only side that kept copies. The correspondence is held in date order with the enquiries and the replies interleaved, so the shape of the exchange is visible on the page rather than requiring reconstruction. The paper is brittle at the folds and is handled with the file closed wherever a reading can be taken from the index instead.
 
 ## Trivia
 

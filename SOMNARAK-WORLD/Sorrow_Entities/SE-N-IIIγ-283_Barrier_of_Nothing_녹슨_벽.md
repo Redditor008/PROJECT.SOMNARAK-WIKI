@@ -369,16 +369,21 @@ Some sorrows are about exclusion. Barrier of Nothing is about the exclusion that
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Overtime
+### A Barrier That Stops Nothing
 
-Some watches run long — relief delayed, pressure rising, the roster holding past the rotation. The overtime custom governs every extended watch: the holding roster stays willingly, the relief hurries honestly, and the extra hours are logged as overtime honored. No Warden has ever been ordered to overtime. Every Warden has stood it. Veterans describe the custom as the roster's handshake: we hold until relieved, relieved or not. The overtime log records every extension — hours held, reason delayed, relief arrived. The log's entries are uniformly proud: held two extra, relief delayed by storm, containment unbroken. Barrier of Nothing (SE-N-IIIγ-283) has never stood an unheld watch — relief or no relief, rotation or overtime. The roster holds until relieved. The custom guarantees it.
+It stands beside the Gate in the shape of a man assembled from rusted wall plate and obstructs no passage whatever — people walk through where it is, and do. The Warden's log records transits rather than obstructions, which makes the containment sheet a record of people leaving. The sheet is forwarded nowhere. It is kept because the entity keeps its own version on its surface, and the file wanted a copy that was made by a person.
 
-### The Relief
+### Departures on Its Surface
 
-Relief, when it arrives, is the roster's sweetest moment — the relieving Warden's hand on the door, the standing Warden's briefing delivered, the watch transferred with the formula: I relieve you. I stand relieved. The relief custom requires the full briefing regardless of delay — no shortcuts for lateness, no abbreviations for haste. The arriving Warden hears everything, confirms everything, and takes the watch fresh. Veterans describe reliefs as the containment's heartbeat: regular, complete, and unfailing. Barrier of Nothing is witnessed watch after watch without a gap — each watch handed to the next, each Warden relieved in full. Hold until relieved. Relieve in full. The heartbeat continues, watch after watch, forever.
-### The Extra Hour Honored
+Its plates record who has gone, in marks that accumulate and are not legible as names, and the Warden rubs an impression of a fixed panel each cycle onto paper. The impressions are stacked in order in a single box. Read in sequence they show the panel filling. Nobody has proposed interpreting them, and the file notes with some care that this restraint was arrived at rather than imposed: the first two Wardens both tried, independently, and both wrote that they had stopped.
 
-Overtime hours are honored at muster — the senior Warden reading the overtime log aloud, each extension praised by name. The honor custom treats held hours as the roster's gift: given willingly, received gratefully, praised publicly. Veterans describe the reading as the overtime's true pay — not the logged hours but the spoken thanks. The honored roster stands straighter after. Barrier of Nothing has never stood an unheld watch, and the muster proves the roster knows it. Held past rotation. Honored at muster. The custom continues.
+### Rust Through Sleep
+
+Its corrosion spreads in dreams rather than on metal, and personnel who have worked the holding report finding rust in sleep for some while after. The infirmary tracks this and the facility does not receive the detail. It receives a duration. The durations have lengthened across the containment's operation and the file prints them as a plain column, unexplained, under a heading that says only how long afterward.
+
+### The Wall They Built
+
+Exiles raised a wall near the Gate and then passed through it one at a time until only the wall was left, and the commissioning material holds the work roster for its construction. The roster has names against days. Most of those names appear later in the Gate's outward passage records, which the file sets alongside, matched where a match exists. The archivist's note observes that the two documents together show a group of people building a barrier and then individually going around it.
 
 ## Trivia
 

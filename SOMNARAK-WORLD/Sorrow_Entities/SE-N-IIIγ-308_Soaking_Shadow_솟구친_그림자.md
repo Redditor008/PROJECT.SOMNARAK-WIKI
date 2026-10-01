@@ -400,16 +400,21 @@ Some sorrows are about feeling anger. Soaking Shadow is about absorbing it — t
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Nightingale Shift
+### Drenched in Crimson
 
-The nightingale shift is the roster's term for a watch so quiet it sings — readings nominal, entity quiescent, the whole of Soaking Shadow's containment humming at peacetime pitch. Nightingale watches are logged the way all watches are logged, with one addition: the watch commander's nightingale mark, a small notation in the margin recording that the quiet held the whole watch through. Commanders prize the mark the way sailors prize fair winds — not as achievement but as grace. The quiet is never earned. It is received, logged, and passed to the relief with gratitude. Soaking Shadow (SE-N-IIIγ-308) has granted the roster many nightingale shifts. Each one is marked. Each one is remembered. And each one steadies the roster for the watches that sing less sweetly.
+The shape is a silhouette soaked in burning light, standing in the Alpha Tree vault without a body to cast it, and the colour deepens with the resentment held nearby. Intensity is graded against a printed card held at arm's length, which is a crude method and was adopted over instruments because the instruments disagreed with each other and the card has never disagreed with itself.
 
-### The Quiet Ledger
+### Fed by Repetition
 
-The quiet ledger compiles every nightingale mark in the containment's history — dates, commanders, and the watch conditions that made the quiet possible. The ledger's purpose is morale made tangible: proof, in the commanders' own hands, that the containment holds far more often than it strains. New Wardens read the ledger on commissioning. Veterans consult it before hard watches. And the senior Warden cites it at every briefing where the roster's confidence wavers: the quiet outnumbers the pressure a hundred to one. The ledger proves it. Soaking Shadow is witnessed, watch after watch, by personnel who know the numbers — and the numbers say the containment holds, the quiet returns, and the nightingale sings more often than it silent.
-### The Dawn Chorus
+What sustains it is anger returned to rather than anger felt once, and the file is precise about the distinction because it determines who may work the holding. Wardens carrying an active grievance are not posted. The screening is done by the infirmary and the facility is told only whether a person is cleared, an arrangement the file records as having been proposed by the Wardens themselves rather than by the administration.
 
-The morning after a nightingale shift, the relief arrives to birdsong — the roster's term for a handover with nothing to report. Readings nominal, entity quiescent, the quiet passed intact. Veterans describe dawn-chorus handovers as the watch's benediction: the night held, the day inherits peace. Soaking Shadow grants them regularly. The roster receives them gratefully. And the quiet ledger grows — mark by mark, chorus by chorus.
+### No Owner
+
+The shadow belongs to nothing. Searches for a casting body were conducted thoroughly in the early years and found none, and the reports are retained in full with their methods so that the ground is visibly covered. The file states the negative finding as a finding. The archivist's note adds that personnel continue to look upward on entering the vault and that the habit has not been discouraged.
+
+### A Vault Used for Keeping Grievances
+
+Complaints were put into the Alpha Tree vault to be out of the way and stayed there until they amounted to something, and the commissioning material holds the deposit register for the period. It is an ordinary register. Each line is a grievance lodged and shelved, with a date and a disposition column that is almost entirely blank. The archivist's note draws attention to the blank column and says nothing further about it. The register was transferred to the facility intact and has not been added to since the vault was sealed. Its final page is half filled. No further deposits have been proposed and the vault's remaining shelving stands empty.
 
 ## Trivia
 

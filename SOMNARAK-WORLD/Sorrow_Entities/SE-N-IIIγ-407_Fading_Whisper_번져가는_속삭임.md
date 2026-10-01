@@ -365,16 +365,21 @@ Some sorrows are about losing memory. Fading Whisper is about the place the memo
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Requisition
+### It Cannot Finish
 
-Every instrument in Fading Whisper's containment arrived by requisition — requested in writing, justified by need, approved against the quartermaster's unforgiving standard. The requisition files are the archive's driest holding and the roster's proudest: page after page of gauges, seals, lamps, and lines, each one argued for and won. The quartermaster's standing rule governs all of it: need it, prove it, maintain it. Requisitions that prove need are approved. Instruments that arrive are maintained — cleaned, calibrated, and logged — or the quartermaster reclaims them. No ornament has ever survived the quartermaster's review. No necessity has ever been denied it. Fading Whisper (SE-N-IIIγ-407) is witnessed with instruments the roster earned by argument and keeps by maintenance.
+The figure whispers and never completes a sentence, breaking off at the same point in a phrase regardless of who is listening, and the Warden transcribes what is said including the break. Transcripts are filed unreconstructed. Completing the sentence has been attempted at review and the attempt is recorded alongside its own withdrawal, the reviewer having noted that every proposed ending said more about the person proposing it than about the entity.
 
-### The Quartermaster's Shelf
+### Burning Without Heat
 
-The quartermaster keeps one shelf of retired instruments — gauges that served past calibration, lamps that burned past brightness, seals that held past rating. Each bears its service record: installed this date, maintained this often, retired with honors. New Wardens are shown the shelf before they file their first requisition, and the lesson lands the way honest objects teach: request only what the containment needs, maintain everything the containment grants, and retire with honors what has served past serving. Fading Whisper is witnessed with the quartermaster's instruments, standing on the quartermaster's shelf in honorable retirement when their service ends. Need it. Prove it. Maintain it. The shelf proves the roster does.
-### The Approved Stamp
+It is alight and gives off nothing, and the absence of temperature is confirmed each watch with a thermometer set at a fixed distance. The reading has never deviated. The file keeps the series anyway and explains why in a line: a measurement that has never moved is the only kind that can be trusted to show movement, and this one is checked precisely because it is boring.
 
-Approved requisitions return bearing the quartermaster's stamp — granted, with the date and the quartermaster's initials. Wardens keep their stamped approvals the way soldiers keep orders: filed, honored, and cited when the instruments arrive. The stamp means the quartermaster agreed — the need was real, the proof sufficed, the containment gains. Fading Whisper is witnessed with stamped instruments, every one earned. The stamp approves. The roster maintains. The containment holds.
+### Weaker When Remembered
+
+Its voice diminishes whenever someone recalls it, which inverts the ordinary relation and makes the containment's own attention a form of harm. The standing order limits observation time per watch for that reason and states the reason plainly. The limit is enforced by a second person. The file records that Wardens have asked to stay longer and have been refused, and that the refusals were logged as refusals rather than quietly accommodated.
+
+### A Place Taken from a Child
+
+A memory was removed from a child's mind and the place it referred to remained, guarding itself, and the commissioning file holds the removal authorisation. The child is not named in it. The procedure is described in the clinical language of the period and the file reproduces that language without softening it, the archivist's note observing that the document's ordinariness is the part worth preserving and that a paraphrase would lose it. The authorisation bears two signatures and a countersignature.
 
 ## Trivia
 

@@ -367,16 +367,21 @@ Some sorrows are about separation. Melting Rope is about the connection that out
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Drill
+### Melting and Reforming
 
-Emergency drills run on rotation in Melting Rope's containment — pressure scenarios, breach simulations, full-muster exercises the roster performs the way musicians practice scales. The drill doctrine is the Directorate's standing answer to complacency: practice the crisis before the crisis practices on you. Drills are unannounced, realistic, and graded — the senior Warden scoring response time, precaution arming, and roster discipline against the standard. Failing drills are repeated. Passing drills are logged. And the roster performs every drill as if Melting Rope (SE-N-IIIγ-447) pressed in truth, because the doctrine's spine is realism: drill as you will stand. The roster drills hard. The roster stands harder. The drills prove it, rotation after rotation.
+The rope dissolves at one end while the other end makes itself, continuously, so that it is never the same rope and is never absent, and the Warden's dream-account form asks for the direction of travel rather than the length. Direction has been consistent in most accounts and not in all. The exceptions are listed separately rather than averaged away, the file holding that an exception folded into a mean stops being visible.
 
-### The After-Action
+### Routes That Are Gone
 
-Every drill ends with the after-action — the roster gathered, the senior Warden reading the score, each Warden speaking one improvement. The after-action's rule is candor without rank: the newest Warden speaks first, the senior Warden last, and every improvement is logged regardless of source. The after-action log runs continuously — hundreds of entries, each one a small sharpening: faster arming here, clearer signals there, better positioning everywhere. Veterans describe the after-action as the drill's true product: not the practice but the polish. Melting Rope is witnessed by a roster that improves on rotation, drill by drill. Practice the crisis. Polish the response. The after-action proves the roster does — one improvement at a time, logged forever.
-### The Perfect Score
+It holds paths through the Desolate that no longer exist, and the containment file carries the surveyed routes of the period alongside the current ones for comparison. The old maps are originals. They were obtained from the caravan registry rather than copied, by request, and the registry's letter agreeing to transfer them is bound with the maps because it contains the only written account of why the routes were abandoned.
 
-Once in a generation of drills, a roster scores perfectly — every response on time, every precaution armed, every signal crisp. Perfect drills are logged in gold — the senior Warden's term for the commendation entry, preserved verbatim. The roster that scored it is honored at muster. The drill is studied by every roster after. Melting Rope has witnessed perfect drills and held through all of them — practiced crises met with perfect responses. Drill as you will stand. The perfect score proves the roster stands perfectly.
+### Pulled Toward the Forgotten
+
+Dreamers are drawn toward people they have stopped remembering, which means the entity's effect is specific to each sleeper and cannot be compared between them. Accounts are collected individually and never aggregated. The standing order says so explicitly, and the file explains that an early summary of common features was produced, circulated, and withdrawn after the Wardens who had supplied the accounts objected that it had made their dreams into a single dream.
+
+### The Two Travellers
+
+One remembered the way and one remembered only the rope between them, and the commissioning material holds both recollections, taken separately and years apart. They do not agree about the separation. Neither account is marked as correct and the file makes a point of saying that neither can be, the archivist's note adding that the disagreement is not a flaw in the record but the shape of the thing being recorded. The withdrawal is filed with the summary it withdrew, both intact, so the episode remains legible to anyone working the holding later.
 
 ## Trivia
 

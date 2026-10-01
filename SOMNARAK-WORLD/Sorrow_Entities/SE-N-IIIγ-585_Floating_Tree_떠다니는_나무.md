@@ -397,16 +397,21 @@ Some sorrows mourn a home. Floating Tree mourns the rooting — the place that h
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Anniversary
+### Root-First Through the Air
 
-Every cycle, on the containment's founding date, Floating Tree's roster holds the anniversary — the full chain mustered, the founding log read aloud, the year's watches honored. The anniversary reads the numbers: watches stood, readings logged, pressures weathered. Then the senior Warden reads the names: the roster present, the roster rotated, the roster remembered. New Wardens hear what the containment is. Veterans hear what they maintain. And the founding log — the first watch, the first readings, the oath sworn fresh — binds the anniversary to the origin: this is what was sworn, this is what was kept, this is what continues. Floating Tree (SE-N-IIIγ-585) has been held for every anniversary the archive records. The roster intends to hold every anniversary after.
+It drifts above the Desolate with its roots trailing beneath it and never touches ground, moving on the Han currents rather than under its own power, and the Warden's track is plotted against the current map maintained for the region. The two are filed as one sheet. Where the entity has departed from the current, the departure is circled and dated, and there are fewer such circles than the early Wardens expected.
 
-### The Founding Log
+### The Shadow Beneath
 
-The founding log is preserved under glass — the first watch's readings, the first commander's hand, the oath's first swearing. Trainees read it through the glass before they read anything else, and the lesson lands the way origins teach: everything the containment is began here, with these readings, this roster, this oath. The founding log's margins carry the first commander's annotations — steady, holds, continue — preserved in the original hand. Veterans touch the glass on anniversary. Newcomers press close to read. Floating Tree is witnessed by the latest link in a chain the founding log began. The glass protects the page. The roster protects everything else. The anniversary binds them: origin and present, sworn and kept, held then and held now.
-### The Toast
+It casts a shadow on the ground below it, and the shadow is the only part of the entity that can be measured from a safe position, so the dimensional record is entirely shadow measurement. The method's limitations are stated in the file rather than glossed: the figure depends on the height, the height is estimated, and the series is therefore internally consistent and absolutely uncalibrated. It is used anyway and labelled accordingly.
 
-The anniversary closes with the toast — the roster raised glasses (water, on duty) to the containment held and the year coming. The senior Warden speaks the formula: to the watches stood, the pressures weathered, and the oath renewed. The roster answers: held, weathered, renewed. Veterans describe the toast as the anniversary's seal — the ceremony closed, the year blessed, the containment commended by its own. Floating Tree is toasted every anniversary. The glasses rise. The oath holds.
+### Leaves of Broken Memory
+
+Its foliage is made from fragments of lives that came apart, and fragments have been recovered where they have fallen. Recovered material is catalogued and stored and is not examined. The prohibition is written into the standing order and its reason given: the fragments belong to identifiable people, some of whom are living, and the facility took the position early that holding something is not the same as reading it.
+
+### Scattered by the Surge
+
+A community was dispersed by an Outside Sorrow surge and its memories gathered into the drifting tree, and the commissioning file holds the resettlement lists compiled afterward. They are incomplete and the gaps are marked as gaps. The archivist's note records that the lists were assembled by the scattered community itself rather than by any authority, that they were handed to the facility voluntarily, and that the facility has never added to them. The lists are stored in the condition they arrived in, creased and annotated in several hands, and have not been transcribed into a clean copy.
 
 ## Trivia
 

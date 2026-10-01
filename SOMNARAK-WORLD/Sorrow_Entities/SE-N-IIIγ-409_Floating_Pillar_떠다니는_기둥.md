@@ -367,16 +367,21 @@ Some sorrows are about losing support. Floating Pillar is about the support that
 **Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The New Warden
+### A Voice Around an Absence
 
-Every Warden in Floating Pillar's chain stood a first watch — briefed, nervous, and determined. The first-watch protocol pairs every newcomer with a veteran: shadow the watch, ask everything, touch nothing unasked. Veterans describe their first-watch duty as the roster's truest test — not of the newcomer but of themselves. Teaching the containment reveals what the teacher has forgotten. Newcomers ask why the gauge is read twice, why the chamber is eyeballed before the instruments, why the oath's clauses run in their fixed order. Veterans answer, and in answering remember. Floating Pillar (SE-N-IIIγ-409) has been learned fresh by every Warden who ever stood it. The learning never ends. The teaching never ends. The chain continues, watch by watch, rookie by rookie.
+There is no pillar. There is a pillar-shaped gap above the Market floor and a voice surrounding it, speaking from above and below at the same moment, and the Warden's position report records the dimensions of the absence rather than of anything present. The dimensions are taken by sighting across the gap from two marked points. They have been stable since the holding opened.
 
-### The First Log
+### From Above and Below
 
-The newcomer's first log is preserved — bound into the containment file, the rookie's own hand recording the first witnessed watch. First logs are earnest to the point of poetry: readings logged twice, observations tripled, the entity described the way newcomers describe everything — fully, carefully, as if the containment depended on this one log. Veterans read the first logs the way parents keep childhood drawings: with pride, with humor, and with recognition. Every veteran wrote one. Every veteran remembers. Floating Pillar is witnessed, rookie after rookie, by personnel whose first logs prove the doctrine's deepest claim: the containment is learned fresh by everyone, and everyone learns it. The first log stands. The Warden stands with it.
-### The Shadow's End
+The voice arrives from both directions simultaneously, which defeats ordinary location, and attempts to resolve a source by moving around it have been made and documented and failed. The failures are kept. The standing order now instructs Wardens not to attempt it, not because the attempt is dangerous but because the file holds that repeating a settled negative wastes a watch that could be spent recording what the voice actually says.
 
-The newcomer's shadow period ends with the first solo watch — the veteran stepping back, the rookie standing alone, the containment held by new hands. Veterans describe the moment as the roster's true commissioning: not the oath sworn but the watch stood solo. The first solo log is preserved beside the first shadowed log — before and after, student and Warden. Floating Pillar has been stood solo by every Warden in its chain. Each one held. Each one holds still.
+### It Names What Is Missing
+
+Its utterances concern absent things, and the Warden logs them verbatim without checking them, the checking having been tried and having produced a difficulty the file describes frankly: some of what it named was found to be missing and some was not, and no pattern separates the two. The log is therefore a record of statements rather than of facts and is labelled as such on its cover.
+
+### A Protector Who Was Not There
+
+Someone relied on a guardian who did not exist until the reliance collapsed, and the commissioning material holds what the person wrote during the years of believing it — letters addressed to a protector, kept and never sent. They are held in full. The archivist's note states that they are the most complete personal record in the wing and that their subject never received one of them. The letters are stored flat, in the order they were written, and have been read in full by three people in the containment's history, each of whom recorded having done so. Each of the three recorded the date and nothing about the contents, which was what the standing order asked of them.
 
 ## Trivia
 

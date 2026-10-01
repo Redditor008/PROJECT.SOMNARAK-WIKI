@@ -371,16 +371,21 @@ Some sorrows mourn a place. Dreaming Ruin mourns the persistence of the place �
 **Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Visitor
+### Rebuilt by Remembering
 
-Civilians visit Dreaming Ruin's facility on escorted rotation — oversight committees, trainee cohorts, the occasional dignitary requiring proof the Directorate spends wisely. The visitor protocol governs every tour: see the precautions, meet the roster, witness the doctrine practiced. Escort Wardens perform the protocol the way docents perform museums — proudly, precisely, and with the veteran's pleasure in showing work well done. Visitors ask the questions visitors always ask: is it safe, is it wise, is it worth it. The escort answers with the containment itself: the gauges, the logs, the roster standing. Dreaming Ruin (SE-N-IIIγ-505) receives few visitors and impresses all of them. The protocol proves the Directorate's case the way only practice proves anything: by showing.
+The figure assembles itself from the pieces of a ruined room whenever someone thinks of it, which makes recollection the mechanism of its appearance and leaves the containment without any physical lever at all. The Warden's duty is to record occurrences, not to prevent them. The standing order states in its opening line that prevention is not possible and not attempted, placing that where it cannot be missed.
 
-### The Guest Book
+### Never the Same Wall
 
-Visitors sign the guest book — name, office, and one line of impression. The book runs to volumes: oversight satisfied, trainees inspired, dignitaries reassured. The roster reads the guest book the way crews read commendations: with pride earned and perspective kept. The visitors see the containment for an hour. The roster stands it for careers. But the guest book's lines prove what the roster sometimes forgets mid-watch: the work shows. The doctrine reads. The containment impresses even the skeptical. Dreaming Ruin is witnessed by personnel the visitors praise and the Directorate trusts. The guest book holds the praise. The roster holds the entity. Both holdings grow, visit after visit, watch after watch.
-### The Return Visit
+It does not restore a wall twice, so each appearance reconstructs a different part of the room and no appearance repeats, and the Warden sketches what was built on a plan of the room as the file has reconstructed it. The plan is filling in unevenly. Several areas have never appeared. They are left blank rather than inferred, and the blankness is the most informative feature of the sheet.
 
-Some visitors return — oversight satisfied so fully they bring colleagues, trainees inspired so deeply they request posting. Return visits are the escort Wardens' proudest moments: the containment impressed once, and the impressed came back. The guest book's return entries are marked with the escort's star — came, saw, returned. Dreaming Ruin collects return visitors the way the roster collects commendations: steadily, deservedly. Visit once, impressed. Return, convinced. The containment proves itself twice.
+### Dreaming the Rooms
+
+The former residents continued to dream of the household after it was lost, and the containment file holds their accounts where they were willing to give them, in their own words, unedited. Some declined. The declinations are recorded with the dates they were made, which the archivist's note defends as necessary: a file that showed only the people who spoke would suggest that everyone had.
+
+### A Home That Exists Only as Memory
+
+What the entity carries is the pain of going back to somewhere that is no longer anywhere, and the commissioning material includes the demolition order and the inventory taken before it was carried out. The inventory lists furniture. It runs to several pages and names ordinary things in ordinary quantities, and the file places it last on the archivist's reasoning that the reader should arrive at the room's contents only after learning what happened to the room. The order itself is a single sheet and names no household. It was issued against a parcel number, and the parcel number is the only identifier the containment file carries forward.
 
 ## Trivia
 

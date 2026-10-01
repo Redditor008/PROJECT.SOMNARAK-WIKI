@@ -369,16 +369,21 @@ Some sorrows mourn the forgotten. Redacted is the forgetting itself — the eras
 **Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Replacement
+### Branches Where Memories Should Be
 
-Instruments wear out, and Redacted's containment replaces them — gauges retired past calibration, seals retired past rating, lamps retired past brightness. The replacement protocol governs every swap: the new instrument certified, the old instrument honored, the exchange logged with both service records attached. Retiring instruments are not discarded. They join the quartermaster's shelf — or, for instruments of exceptional service, the muster hall's honored wall. Veterans describe replacements as the containment's renewals: the doctrine continues, the instruments refresh, the watches unbroken across the exchange. Redacted (SE-N-IIIγ-184) has been witnessed through generations of instruments. Each generation served. Each generation retired honored. The watches never paused.
+The figure is a tree of dark crystal with a face set in the trunk, and what should be its memories are bare branching instead, so the Warden's description sheet records the branch structure rather than any expression. Branch counts are taken each cycle from three fixed angles. The structure has changed, and the changes are held as drawings made on the spot rather than as photographs, the file explaining that photography of the branches has repeatedly produced images in which the count cannot be resolved.
 
-### The Honored Wall
+### Growing Around the Forgotten
 
-The honored wall holds the containment's most distinguished retirees — the gauge that caught the first pressure spike, the seal that held the worst season, the lamp that burned through the longest watch. Each bears its citation: served here, held this, retired honored. New Wardens study the wall before their first watch, learning the instruments' histories the way they learn the roster's. Veterans touch the wall's frame on passing — the way crews touch memorials, the way the night crews touch the spare lamp. Redacted is witnessed with instruments that will one day hang honored. The wall proves the roster maintains what it uses and honors what has served. Serve well. Retire honored. The wall waits for every instrument standing.
-### The First Reading
+It thickens around people who have been let go of, which means its growth is a measure of the border region rather than of itself, and the trunk girth is taken annually with a tape against a marked line. The figure is rising steadily. The file states that fact without projection, having removed an estimated future dimension from an earlier version of the document on the archivist's objection that a forecast would imply the facility knew what the growth was counting.
 
-New instruments take their first readings under witness — the installing Warden, the watch commander, and the logbook open. The first-reading custom records the moment: instrument installed, reading taken, service begun. Veterans describe first readings as the containment's small commissionings — new eyes on the entity, sworn to accuracy. The first readings are preserved with the installation logs — baseline truth, witnessed jointly. Redacted is measured by instruments whose first readings were honored. Installed, witnessed, trusted. The readings continue.
+### What the Archive Did
+
+A person's history was taken out of the records, and the containment file does not treat that as something done elsewhere. It holds the withdrawal slips from the record office, the authorisation, and the signature on it. The name of the officer survives. The name of the person erased does not, and the file sets the two facts in consecutive sentences, which the archivist's note confirms was deliberate and was objected to at review and was retained.
+
+### Absence, Not Destruction
+
+What the entity shows is a gap rather than a ruin, and arriving Wardens are briefed on the distinction before they are shown the figure, because the instinct is to look for damage and there is none to find. The briefing is short. It says that nothing here was broken, that something was removed, and that the difference is the whole of the posting. The file notes that the wording has been left exactly as the first Warden of the holding wrote it.
 
 ## Trivia
 

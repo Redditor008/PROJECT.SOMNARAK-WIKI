@@ -407,16 +407,21 @@ Some sorrows are about what was lost. Bridge of the Unchosen is about what was n
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
-### The Replacement
+### A Bridge Over Nothing
 
-Instruments wear out, and Bridge of the Unchosen's containment replaces them — gauges retired past calibration, seals retired past rating, lamps retired past brightness. The replacement protocol governs every swap: the new instrument certified, the old instrument honored, the exchange logged with both service records attached. Retiring instruments are not discarded. They join the quartermaster's shelf — or, for instruments of exceptional service, the muster hall's honored wall. Veterans describe replacements as the containment's renewals: the doctrine continues, the instruments refresh, the watches unbroken across the exchange. Bridge of the Unchosen (SE-N-IIIγ-874) has been witnessed through generations of instruments. Each generation served. Each generation retired honored. The watches never paused.
+It stands in pale crystal above open ground with no river beneath it and no water in the record of the site, and the Warden's survey measures the span and the clearance beneath, both of which are meaningless and both of which are taken. The file defends the practice in one sentence: the measurements are the only numbers the containment can produce, and a holding that produces no numbers stops being watched.
 
-### The Honored Wall
+### Frozen Footsteps
 
-The honored wall holds the containment's most distinguished retirees — the gauge that caught the first pressure spike, the seal that held the worst season, the lamp that burned through the longest watch. Each bears its citation: served here, held this, retired honored. New Wardens study the wall before their first watch, learning the instruments' histories the way they learn the roster's. Veterans touch the wall's frame on passing — the way crews touch memorials, the way the night crews touch the spare lamp. Bridge of the Unchosen is witnessed with instruments that will one day hang honored. The wall proves the roster maintains what it uses and honors what has served. Serve well. Retire honored. The wall waits for every instrument standing.
-### The First Reading
+Steps taken on it do not continue — the foot stays where it was set — and the effect has been confirmed at the near end only, no one having gone further. The limit is a prohibition and it is absolute. The file records that it was imposed before the first incident rather than after one, which is unusual in the wing and is noted as such.
 
-New instruments take their first readings under witness — the installing Warden, the watch commander, and the logbook open. The first-reading custom records the moment: instrument installed, reading taken, service begun. Veterans describe first readings as the containment's small commissionings — new eyes on the entity, sworn to accuracy. The first readings are preserved with the installation logs — baseline truth, witnessed jointly. Bridge of the Unchosen is measured by instruments whose first readings were honored. Installed, witnessed, trusted. The readings continue.
+### A Destination Behind Frost
+
+The far end is obscured and has never been resolved, from any angle or in any condition, and the attempts are listed with their dates and their methods. The list is long and entirely negative. It is kept at the front of the folder rather than in an appendix, so that the first thing a reader learns is what the facility has failed to see.
+
+### The Crossing Not Taken
+
+Someone turned back at the last moment and the path set around the decision, and the commissioning file holds what survives of the intention to cross — the preparations made, the arrangements put in place, the provisions obtained. All of it is ordinary and all of it was done. The archivist's note observes that the record contains everything about the crossing except the crossing, and that this is what the bridge is. The provisions were still in storage when the file was assembled and are itemised in an appendix that runs to a page and a half. Nothing in that appendix was ever used, and the items are listed in the quantities in which they were bought.
 
 ## Trivia
 
