@@ -367,6 +367,19 @@ Some sorrows are about what was taken. Burning Root is about what was kept too l
 **Operational interpretation (Burning Root):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Burning Root):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Replacement
+
+Instruments wear out, and Burning Root's containment replaces them — gauges retired past calibration, seals retired past rating, lamps retired past brightness. The replacement protocol governs every swap: the new instrument certified, the old instrument honored, the exchange logged with both service records attached. Retiring instruments are not discarded. They join the quartermaster's shelf — or, for instruments of exceptional service, the muster hall's honored wall. Veterans describe replacements as the containment's renewals: the doctrine continues, the instruments refresh, the watches unbroken across the exchange. Burning Root (SE-C-IIIγ-558) has been witnessed through generations of instruments. Each generation served. Each generation retired honored. The watches never paused.
+
+### The Honored Wall
+
+The honored wall holds the containment's most distinguished retirees — the gauge that caught the first pressure spike, the seal that held the worst season, the lamp that burned through the longest watch. Each bears its citation: served here, held this, retired honored. New Wardens study the wall before their first watch, learning the instruments' histories the way they learn the roster's. Veterans touch the wall's frame on passing — the way crews touch memorials, the way the night crews touch the spare lamp. Burning Root is witnessed with instruments that will one day hang honored. The wall proves the roster maintains what it uses and honors what has served. Serve well. Retire honored. The wall waits for every instrument standing.
+### The First Reading
+
+New instruments take their first readings under witness — the installing Warden, the watch commander, and the logbook open. The first-reading custom records the moment: instrument installed, reading taken, service begun. Veterans describe first readings as the containment's small commissionings — new eyes on the entity, sworn to accuracy. The first readings are preserved with the installation logs — baseline truth, witnessed jointly. Burning Root is measured by instruments whose first readings were honored. Installed, witnessed, trusted. The readings continue.
+
 ## Trivia
 
 - Its roots grow along names rather than physical roads.

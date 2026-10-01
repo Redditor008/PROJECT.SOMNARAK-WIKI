@@ -366,6 +366,19 @@ Some sorrows are about losing memory. Hollowcast is about losing the self while 
 **Operational interpretation (Hollowcast):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Hollowcast):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Quiet Lunch
+
+The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. Hollowcast is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
+### The Second Helping
+
+Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. Hollowcast is witnessed by well-fed personnel. Served, seconded, steady.
+
+### The Recipe Card
+
+Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. Hollowcast's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+
 ## Trivia
 
 - It has no original name in any surviving record.

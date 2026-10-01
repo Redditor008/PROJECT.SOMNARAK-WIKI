@@ -400,6 +400,19 @@ Some sorrows mourn a place. Homeless Sorrow mourns the having-no-place — the d
 **Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Timely Relief
+
+Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Homeless Sorrow is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
+### The Early Arrival
+
+The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Homeless Sorrow is relieved promptly. Early, briefed, holding.
+
+### The Relief Log
+
+Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Homeless Sorrow is witnessed continuously. Arrived, briefed, transferred.
+
 ## Trivia
 
 - The Shadow is darkest in rooms people refuse to enter.

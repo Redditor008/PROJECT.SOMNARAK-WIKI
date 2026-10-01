@@ -370,6 +370,19 @@ Some sorrows are about silence. Protest No One Remembers is about the erasure of
 **Operational interpretation (Protest No One Remembers):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Protest No One Remembers):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Letter
+
+Wardens in Protest No One Remembers's chain write letters — to family, to friends, to the civilian lives they maintain alongside the watches. The letter custom is the roster's oldest morale practice: write honestly, write regularly, and write home. The Directorate censors nothing and reads nothing — the letters are sealed, private, and sacrosanct. Veterans describe the custom as the roster's ballast: the watches demand everything, and the letters return something. News from outside. Love from afar. The reminder that the city the roster protects contains people who write back. Protest No One Remembers (SE-O-IIIγ-371) is witnessed by personnel with lives beyond the chamber — lives the letters maintain, one sealed page at a time. The watches take. The letters give. The roster holds both.
+
+### The Post Box
+
+The facility's post box stands in the muster hall — plain, battered, and emptied daily. Wardens post their letters between watches, and the box fills the way morale fills: steadily, quietly, without ceremony. The post custom requires nothing but the box's presence — no quotas, no reminders, only the standing invitation of the empty slot. Counselors monitor the box's volume the way engineers monitor gauges: full box, healthy roster. The box has never stood empty a full rotation. Protest No One Remembers is witnessed by personnel who write home — who maintain, through sealed pages and daily postings, the civilian ballast that steadies the watches. The box stands. The letters flow. The roster writes, the city answers, and the containment holds on ballast of paper and love.
+### The Reply
+
+Letters from home arrive with the supply runs — answers to the roster's sealed pages, love returned for love sent. The reply custom gives Wardens an hour with their mail before the next watch: read privately, treasure fully, stand steadied. Veterans describe reply days as the roster's refueling — the civilian ballast renewed, the watches re-steadied. Counselors note the correlation openly: reply days precede the steadiest watches. Protest No One Remembers is witnessed by personnel who are written to — who stand, watch after watch, on ballast of paper and love, sent and answered.
+
 ## Trivia
 
 - It becomes stronger when official records deny it.

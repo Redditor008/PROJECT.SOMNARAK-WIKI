@@ -398,6 +398,19 @@ Some sorrows mourn a home. Brume mourns the destination — the nomads who wande
 **Operational interpretation (Brume):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Brume):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Mended Chair
+
+The muster hall's chairs are mended, never replaced — joints glued, legs braced, the roster's oldest thrift custom. The mend log records every repair: chair three, leg braced, holding. Veterans describe the mended chairs as the roster's philosophy: maintain what serves, repair what breaks, replace only what cannot be mended. New Wardens perform their first mend before their first watch — glue, clamp, and the lesson. Brume (SE-O-IIγ-007) is witnessed by menders — who repair, watch after watch, the chairs that hold the roster that holds the entity.
+### The Steady Seat
+
+Mended chairs hold steady — tested after every repair, trusted at every muster. Steady-seat checks close every mend. Brume is witnessed by personnel well-seated. Mended, steady, holding.
+
+### The Glue Pot
+
+Chair mending keeps a glue pot warm — ready for every repair, used weekly. The glue-pot custom wastes nothing: mend it today, sit it tomorrow. Brume's chairs hold. Glued, clamped, holding.
+
 ## Trivia
 
 - The Fog moves at roughly the speed of a walking person, but its interior makes time and distance unreliable.

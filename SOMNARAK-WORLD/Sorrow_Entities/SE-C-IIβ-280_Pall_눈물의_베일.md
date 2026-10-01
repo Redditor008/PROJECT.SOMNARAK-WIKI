@@ -411,6 +411,19 @@ The city built a Veil to keep feeling down. The citizens built a veil to let it 
 **Operational interpretation (Pall):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Pall):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Watered Plant
+
+A plant grows in Pall's muster hall — watered on rotation, tended jointly, the roster's living green. The plant custom assigns every Warden a watering week: tend it, log it, pass it on. The plant has survived every hardship the roster survived — shortages, storms, short staffing. Veterans describe it as the roster's mirror: thriving when the roster thrives, drooping when the roster strains. Counselors check the plant the way they check personnel. Pall is witnessed by gardeners — who water, watch after watch, the green proof that life persists in the containment.
+### The New Leaf
+
+The muster plant grows new leaves — each one logged, each one celebrated. New-leaf days are the roster's small festivals. Pall is witnessed where life persists. Watered, leafing, living.
+
+### The Watering Roster
+
+Plant watering runs on roster — names scheduled, weeks assigned, never missed. The roster custom treats the plant as a posting: tend it like a watch. Pall's plant thrives on scheduled care. Rostered, watered, thriving.
+
 ## Trivia
 
 - The Veil has no fixed wearer.

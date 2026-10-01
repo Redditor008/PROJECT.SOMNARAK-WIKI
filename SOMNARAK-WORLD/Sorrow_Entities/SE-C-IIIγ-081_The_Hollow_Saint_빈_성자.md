@@ -369,6 +369,19 @@ Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and t
 **Operational interpretation (The Hollow Saint):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (The Hollow Saint):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Visitor
+
+Civilians visit The Hollow Saint's facility on escorted rotation — oversight committees, trainee cohorts, the occasional dignitary requiring proof the Directorate spends wisely. The visitor protocol governs every tour: see the precautions, meet the roster, witness the doctrine practiced. Escort Wardens perform the protocol the way docents perform museums — proudly, precisely, and with the veteran's pleasure in showing work well done. Visitors ask the questions visitors always ask: is it safe, is it wise, is it worth it. The escort answers with the containment itself: the gauges, the logs, the roster standing. The Hollow Saint (SE-C-IIIγ-081) receives few visitors and impresses all of them. The protocol proves the Directorate's case the way only practice proves anything: by showing.
+
+### The Guest Book
+
+Visitors sign the guest book — name, office, and one line of impression. The book runs to volumes: oversight satisfied, trainees inspired, dignitaries reassured. The roster reads the guest book the way crews read commendations: with pride earned and perspective kept. The visitors see the containment for an hour. The roster stands it for careers. But the guest book's lines prove what the roster sometimes forgets mid-watch: the work shows. The doctrine reads. The containment impresses even the skeptical. The Hollow Saint is witnessed by personnel the visitors praise and the Directorate trusts. The guest book holds the praise. The roster holds the entity. Both holdings grow, visit after visit, watch after watch.
+### The Return Visit
+
+Some visitors return — oversight satisfied so fully they bring colleagues, trainees inspired so deeply they request posting. Return visits are the escort Wardens' proudest moments: the containment impressed once, and the impressed came back. The guest book's return entries are marked with the escort's star — came, saw, returned. The Hollow Saint collects return visitors the way the roster collects commendations: steadily, deservedly. Visit once, impressed. Return, convinced. The containment proves itself twice.
+
 ## Trivia
 
 - It could not absorb the Frozen Veil's emotional cold; the Veil has since been destroyed.

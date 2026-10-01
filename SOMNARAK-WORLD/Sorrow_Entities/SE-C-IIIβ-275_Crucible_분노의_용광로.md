@@ -409,6 +409,19 @@ Crucible is that awareness. It still burns. It still shapes metal. But those who
 **Operational interpretation (Crucible):** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Crucible):** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Anniversary
+
+Every cycle, on the containment's founding date, Crucible's roster holds the anniversary — the full chain mustered, the founding log read aloud, the year's watches honored. The anniversary reads the numbers: watches stood, readings logged, pressures weathered. Then the senior Warden reads the names: the roster present, the roster rotated, the roster remembered. New Wardens hear what the containment is. Veterans hear what they maintain. And the founding log — the first watch, the first readings, the oath sworn fresh — binds the anniversary to the origin: this is what was sworn, this is what was kept, this is what continues. Crucible (SE-C-IIIβ-275) has been held for every anniversary the archive records. The roster intends to hold every anniversary after.
+
+### The Founding Log
+
+The founding log is preserved under glass — the first watch's readings, the first commander's hand, the oath's first swearing. Trainees read it through the glass before they read anything else, and the lesson lands the way origins teach: everything the containment is began here, with these readings, this roster, this oath. The founding log's margins carry the first commander's annotations — steady, holds, continue — preserved in the original hand. Veterans touch the glass on anniversary. Newcomers press close to read. Crucible is witnessed by the latest link in a chain the founding log began. The glass protects the page. The roster protects everything else. The anniversary binds them: origin and present, sworn and kept, held then and held now.
+### The Toast
+
+The anniversary closes with the toast — the roster raised glasses (water, on duty) to the containment held and the year coming. The senior Warden speaks the formula: to the watches stood, the pressures weathered, and the oath renewed. The roster answers: held, weathered, renewed. Veterans describe the toast as the anniversary's seal — the ceremony closed, the year blessed, the containment commended by its own. Crucible is toasted every anniversary. The glasses rise. The oath holds.
+
 ## Trivia
 
 - It can forge objects from emotion without raw material.

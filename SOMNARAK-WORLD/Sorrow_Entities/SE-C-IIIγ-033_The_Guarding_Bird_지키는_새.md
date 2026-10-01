@@ -377,6 +377,19 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 **Operational interpretation (The Guarding Bird):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (The Guarding Bird):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Overtime
+
+Some watches run long — relief delayed, pressure rising, the roster holding past the rotation. The overtime custom governs every extended watch: the holding roster stays willingly, the relief hurries honestly, and the extra hours are logged as overtime honored. No Warden has ever been ordered to overtime. Every Warden has stood it. Veterans describe the custom as the roster's handshake: we hold until relieved, relieved or not. The overtime log records every extension — hours held, reason delayed, relief arrived. The log's entries are uniformly proud: held two extra, relief delayed by storm, containment unbroken. The Guarding Bird (SE-C-IIIγ-033) has never stood an unheld watch — relief or no relief, rotation or overtime. The roster holds until relieved. The custom guarantees it.
+
+### The Relief
+
+Relief, when it arrives, is the roster's sweetest moment — the relieving Warden's hand on the door, the standing Warden's briefing delivered, the watch transferred with the formula: I relieve you. I stand relieved. The relief custom requires the full briefing regardless of delay — no shortcuts for lateness, no abbreviations for haste. The arriving Warden hears everything, confirms everything, and takes the watch fresh. Veterans describe reliefs as the containment's heartbeat: regular, complete, and unfailing. The Guarding Bird is witnessed watch after watch without a gap — each watch handed to the next, each Warden relieved in full. Hold until relieved. Relieve in full. The heartbeat continues, watch after watch, forever.
+### The Extra Hour Honored
+
+Overtime hours are honored at muster — the senior Warden reading the overtime log aloud, each extension praised by name. The honor custom treats held hours as the roster's gift: given willingly, received gratefully, praised publicly. Veterans describe the reading as the overtime's true pay — not the logged hours but the spoken thanks. The honored roster stands straighter after. The Guarding Bird has never stood an unheld watch, and the muster proves the roster knows it. Held past rotation. Honored at muster. The custom continues.
+
 ## Trivia
 
 - The Bird may guard an absence rather than a physical object.

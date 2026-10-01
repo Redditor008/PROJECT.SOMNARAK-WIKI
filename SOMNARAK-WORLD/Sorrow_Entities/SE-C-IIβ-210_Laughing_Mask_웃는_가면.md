@@ -402,6 +402,19 @@ Some sorrows weep. Laughing Mask laughs — and the laughing is the sorrow, pres
 **Operational interpretation (Laughing Mask):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Laughing Mask):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Quiet Lunch
+
+The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. Laughing Mask is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
+### The Second Helping
+
+Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. Laughing Mask is witnessed by well-fed personnel. Served, seconded, steady.
+
+### The Recipe Card
+
+Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. Laughing Mask's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+
 ## Trivia
 
 - It becomes silent around unscripted laughter.

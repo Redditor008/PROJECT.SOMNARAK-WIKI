@@ -404,6 +404,19 @@ Some sorrows mourn a home. Broken Door mourns the separation — the door betwee
 **Operational interpretation (Broken Door):** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Broken Door):** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Quiet Lunch
+
+The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. Broken Door is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
+### The Second Helping
+
+Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. Broken Door is witnessed by well-fed personnel. Served, seconded, steady.
+
+### The Recipe Card
+
+Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. Broken Door's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+
 ## Trivia
 
 - It has no wall but casts a rectangular shadow.

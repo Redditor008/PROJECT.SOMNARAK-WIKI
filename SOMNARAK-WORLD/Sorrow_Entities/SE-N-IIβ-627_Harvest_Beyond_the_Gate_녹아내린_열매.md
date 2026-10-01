@@ -379,6 +379,19 @@ Some sorrows mourn a home. Harvest Beyond the Gate mourns the replanting — the
 **Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Watered Plant
+
+A plant grows in Harvest Beyond the Gate's muster hall — watered on rotation, tended jointly, the roster's living green. The plant custom assigns every Warden a watering week: tend it, log it, pass it on. The plant has survived every hardship the roster survived — shortages, storms, short staffing. Veterans describe it as the roster's mirror: thriving when the roster thrives, drooping when the roster strains. Counselors check the plant the way they check personnel. Harvest Beyond the Gate is witnessed by gardeners — who water, watch after watch, the green proof that life persists in the containment.
+### The New Leaf
+
+The muster plant grows new leaves — each one logged, each one celebrated. New-leaf days are the roster's small festivals. Harvest Beyond the Gate is witnessed where life persists. Watered, leafing, living.
+
+### The Watering Roster
+
+Plant watering runs on roster — names scheduled, weeks assigned, never missed. The roster custom treats the plant as a posting: tend it like a watch. Harvest Beyond the Gate's plant thrives on scheduled care. Rostered, watered, thriving.
+
 ## Trivia
 
 - The fruit cannot be carried beyond the Gate vicinity.

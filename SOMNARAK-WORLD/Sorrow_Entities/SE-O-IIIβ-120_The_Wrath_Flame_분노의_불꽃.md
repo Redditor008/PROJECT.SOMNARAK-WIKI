@@ -372,6 +372,19 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 **Operational interpretation (The Wrath Flame):** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (The Wrath Flame):** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Drill
+
+Emergency drills run on rotation in The Wrath Flame's containment — pressure scenarios, breach simulations, full-muster exercises the roster performs the way musicians practice scales. The drill doctrine is the Directorate's standing answer to complacency: practice the crisis before the crisis practices on you. Drills are unannounced, realistic, and graded — the senior Warden scoring response time, precaution arming, and roster discipline against the standard. Failing drills are repeated. Passing drills are logged. And the roster performs every drill as if The Wrath Flame (SE-O-IIIβ-120) pressed in truth, because the doctrine's spine is realism: drill as you will stand. The roster drills hard. The roster stands harder. The drills prove it, rotation after rotation.
+
+### The After-Action
+
+Every drill ends with the after-action — the roster gathered, the senior Warden reading the score, each Warden speaking one improvement. The after-action's rule is candor without rank: the newest Warden speaks first, the senior Warden last, and every improvement is logged regardless of source. The after-action log runs continuously — hundreds of entries, each one a small sharpening: faster arming here, clearer signals there, better positioning everywhere. Veterans describe the after-action as the drill's true product: not the practice but the polish. The Wrath Flame is witnessed by a roster that improves on rotation, drill by drill. Practice the crisis. Polish the response. The after-action proves the roster does — one improvement at a time, logged forever.
+### The Perfect Score
+
+Once in a generation of drills, a roster scores perfectly — every response on time, every precaution armed, every signal crisp. Perfect drills are logged in gold — the senior Warden's term for the commendation entry, preserved verbatim. The roster that scored it is honored at muster. The drill is studied by every roster after. The Wrath Flame has witnessed perfect drills and held through all of them — practiced crises met with perfect responses. Drill as you will stand. The perfect score proves the roster stands perfectly.
+
 ## Trivia
 
 - The Flame's fire is emotional rather than conventional heat.

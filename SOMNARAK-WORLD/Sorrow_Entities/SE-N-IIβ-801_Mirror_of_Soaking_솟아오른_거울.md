@@ -406,6 +406,19 @@ Some sorrows are about grief. Mirror of Soaking is about rage — the anger swal
 **Operational interpretation (Mirror of Soaking):** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Mirror of Soaking):** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Spare Key
+
+Every chamber in Mirror of Soaking's containment keeps a spare key — sealed, logged, and held by the watch commander. The spare-key custom governs its custody: sealed at watch start, verified at watch end, used only in the emergencies the doctrine tables. The keys have been used rarely and regretted never — each use logged, each emergency met, each seal replaced after. New commanders receive the keys the way they receive the watch: with briefing, with gravity, with the formula. Mirror of Soaking is secured by keys the roster holds faithfully — spares sealed, customs kept, emergencies answered.
+### The Unbroken Seal
+
+Spare-key seals are verified unbroken at every watch end — the commander's check, the log's confirmation. Unbroken seals mean unneeded emergencies. Mirror of Soaking's seals hold watch after watch. Sealed, verified, holding.
+
+### The Key Ceremony
+
+Watch commanders receive the spare keys with ceremony — the sealed packet, the custody formula, the log's countersignature. The ceremony binds the custody: keys received, responsibility taken, watch begun. Mirror of Soaking's keys pass commander to commander, ceremony by ceremony. Received, held, transferred.
+
 ## Trivia
 
 - The Mirror appears only where rage has been suppressed for a long time.

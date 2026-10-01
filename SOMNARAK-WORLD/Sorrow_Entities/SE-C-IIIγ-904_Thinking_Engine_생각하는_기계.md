@@ -351,6 +351,19 @@ Now it sits in a containment cell on Floor 4, covered in dials that turn on thei
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and mind pressure readings after every breach or unusual interaction.
 
+## Warden Record
+
+### The Drill
+
+Emergency drills run on rotation in Thinking Engine's containment — pressure scenarios, breach simulations, full-muster exercises the roster performs the way musicians practice scales. The drill doctrine is the Directorate's standing answer to complacency: practice the crisis before the crisis practices on you. Drills are unannounced, realistic, and graded — the senior Warden scoring response time, precaution arming, and roster discipline against the standard. Failing drills are repeated. Passing drills are logged. And the roster performs every drill as if Thinking Engine (SE-C-IIIγ-904) pressed in truth, because the doctrine's spine is realism: drill as you will stand. The roster drills hard. The roster stands harder. The drills prove it, rotation after rotation.
+
+### The After-Action
+
+Every drill ends with the after-action — the roster gathered, the senior Warden reading the score, each Warden speaking one improvement. The after-action's rule is candor without rank: the newest Warden speaks first, the senior Warden last, and every improvement is logged regardless of source. The after-action log runs continuously — hundreds of entries, each one a small sharpening: faster arming here, clearer signals there, better positioning everywhere. Veterans describe the after-action as the drill's true product: not the practice but the polish. Thinking Engine is witnessed by a roster that improves on rotation, drill by drill. Practice the crisis. Polish the response. The after-action proves the roster does — one improvement at a time, logged forever.
+### The Perfect Score
+
+Once in a generation of drills, a roster scores perfectly — every response on time, every precaution armed, every signal crisp. Perfect drills are logged in gold — the senior Warden's term for the commendation entry, preserved verbatim. The roster that scored it is honored at muster. The drill is studied by every roster after. Thinking Engine has witnessed perfect drills and held through all of them — practiced crises met with perfect responses. Drill as you will stand. The perfect score proves the roster stands perfectly.
+
 ## Trivia
 
 - One of the first catalogued **Object-Mind** entities in Somnarak.

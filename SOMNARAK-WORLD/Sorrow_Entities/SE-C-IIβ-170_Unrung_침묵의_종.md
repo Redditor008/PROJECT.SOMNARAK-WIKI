@@ -412,6 +412,19 @@ Some sorrows mourn cruelty. Unrung mourns a failure — the warning that stayed 
 **Operational interpretation (Unrung):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Unrung):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Spare Key
+
+Every chamber in Unrung's containment keeps a spare key — sealed, logged, and held by the watch commander. The spare-key custom governs its custody: sealed at watch start, verified at watch end, used only in the emergencies the doctrine tables. The keys have been used rarely and regretted never — each use logged, each emergency met, each seal replaced after. New commanders receive the keys the way they receive the watch: with briefing, with gravity, with the formula. Unrung is secured by keys the roster holds faithfully — spares sealed, customs kept, emergencies answered.
+### The Unbroken Seal
+
+Spare-key seals are verified unbroken at every watch end — the commander's check, the log's confirmation. Unbroken seals mean unneeded emergencies. Unrung's seals hold watch after watch. Sealed, verified, holding.
+
+### The Key Ceremony
+
+Watch commanders receive the spare keys with ceremony — the sealed packet, the custody formula, the log's countersignature. The ceremony binds the custody: keys received, responsibility taken, watch begun. Unrung's keys pass commander to commander, ceremony by ceremony. Received, held, transferred.
+
 ## Trivia
 
 - It can open sealed doors but cannot produce sound.

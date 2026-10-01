@@ -320,6 +320,19 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and spirit pressure readings after every breach or unusual interaction.
 
+## Watch Record
+
+### The Polished Gauge
+
+Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Passing Bell (SE-N-IIβ-919) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
+### The Clear Face
+
+Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Passing Bell is measured truly. Polished, clear, true.
+
+### The Calibration Weight
+
+Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Passing Bell is measured on verified instruments. Polished, tested, true.
+
 ## Trivia
 
 - One of the first catalogued **Time-Spirit** entities in Somnarak.

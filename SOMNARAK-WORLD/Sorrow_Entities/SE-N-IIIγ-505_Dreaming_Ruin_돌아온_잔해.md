@@ -369,6 +369,19 @@ Some sorrows mourn a place. Dreaming Ruin mourns the persistence of the place �
 **Operational interpretation (Dreaming Ruin):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Dreaming Ruin):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Visitor
+
+Civilians visit Dreaming Ruin's facility on escorted rotation — oversight committees, trainee cohorts, the occasional dignitary requiring proof the Directorate spends wisely. The visitor protocol governs every tour: see the precautions, meet the roster, witness the doctrine practiced. Escort Wardens perform the protocol the way docents perform museums — proudly, precisely, and with the veteran's pleasure in showing work well done. Visitors ask the questions visitors always ask: is it safe, is it wise, is it worth it. The escort answers with the containment itself: the gauges, the logs, the roster standing. Dreaming Ruin (SE-N-IIIγ-505) receives few visitors and impresses all of them. The protocol proves the Directorate's case the way only practice proves anything: by showing.
+
+### The Guest Book
+
+Visitors sign the guest book — name, office, and one line of impression. The book runs to volumes: oversight satisfied, trainees inspired, dignitaries reassured. The roster reads the guest book the way crews read commendations: with pride earned and perspective kept. The visitors see the containment for an hour. The roster stands it for careers. But the guest book's lines prove what the roster sometimes forgets mid-watch: the work shows. The doctrine reads. The containment impresses even the skeptical. Dreaming Ruin is witnessed by personnel the visitors praise and the Directorate trusts. The guest book holds the praise. The roster holds the entity. Both holdings grow, visit after visit, watch after watch.
+### The Return Visit
+
+Some visitors return — oversight satisfied so fully they bring colleagues, trainees inspired so deeply they request posting. Return visits are the escort Wardens' proudest moments: the containment impressed once, and the impressed came back. The guest book's return entries are marked with the escort's star — came, saw, returned. Dreaming Ruin collects return visitors the way the roster collects commendations: steadily, deservedly. Visit once, impressed. Return, convinced. The containment proves itself twice.
+
 ## Trivia
 
 - The Ruin cannot reconstruct a room no living person remembers.

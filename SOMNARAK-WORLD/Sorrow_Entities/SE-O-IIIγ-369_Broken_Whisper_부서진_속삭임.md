@@ -404,6 +404,19 @@ Some sorrows mourn the dead. Broken Whisper mourns their last words — the mess
 **Operational interpretation (SE-O-IIIγ-369):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (SE-O-IIIγ-369):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Storm Duty
+
+When crisis strikes elsewhere, Broken Whisper's roster stands storm duty — full watches on short staffing, precautions maintained while reserves deploy outward. Storm duty is the containment's contribution to the Directorate's larger battles: holding firm at home while the institution fights abroad. The storm protocol runs the roster lean: essential watches only, tightened rotations, the senior Warden holding the center. Veterans describe storm duty as the roster's truest test — not of skill but of steadiness. The entity presses. The reserves are gone. The roster holds anyway. Broken Whisper (SE-O-IIIγ-369) has weathered every storm duty the archive records without a watch unstood. The roster holds at home. The Directorate fights abroad. Both hold because both hold.
+
+### The Lean Log
+
+Storm duties are logged in the lean log — watches stood short-handed, readings taken under strain, the roster's performance at minimum strength. The lean log's entries are terse to the point of pride: short roster, full doctrine, held. Commanders cite the lean log whenever staffing debates arise: the roster holds lean, the log proves it, the standard survives shortage. But the lean log's standing lesson is caution, not comfort — the senior Warden's annotation reads: held, and never again if avoidable. Leanness proves the roster. Fullness protects it. Broken Whisper is witnessed, storm after storm, by personnel who hold lean when they must and full when they can. The lean log proves the must. The roster prefers the can.
+### The Full Strength
+
+Storm duty ends with the return to full strength — reserves recalled, roster restored, the lean log closed with the final entry: full strength resumed. Veterans describe the restoration as the roster's deep breath: the crisis passed, the strength returned, the containment held throughout. The senior Warden reads the lean log aloud at the restoration muster — every short watch honored, every strained reading praised. Broken Whisper weathered lean. Broken Whisper stands full. The roster held both, and holds still.
+
 ## Trivia
 
 - Its whispers are clearer near walls containing older grief.

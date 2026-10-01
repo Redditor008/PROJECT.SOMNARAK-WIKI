@@ -385,6 +385,19 @@ Some sorrows mourn the dead. The Hollow Choir mourns the unsaid — the one hund
 **Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Storm Duty
+
+When crisis strikes elsewhere, The Hollow Choir's roster stands storm duty — full watches on short staffing, precautions maintained while reserves deploy outward. Storm duty is the containment's contribution to the Directorate's larger battles: holding firm at home while the institution fights abroad. The storm protocol runs the roster lean: essential watches only, tightened rotations, the senior Warden holding the center. Veterans describe storm duty as the roster's truest test — not of skill but of steadiness. The entity presses. The reserves are gone. The roster holds anyway. The Hollow Choir (SE-C-IIIγ-021) has weathered every storm duty the archive records without a watch unstood. The roster holds at home. The Directorate fights abroad. Both hold because both hold.
+
+### The Lean Log
+
+Storm duties are logged in the lean log — watches stood short-handed, readings taken under strain, the roster's performance at minimum strength. The lean log's entries are terse to the point of pride: short roster, full doctrine, held. Commanders cite the lean log whenever staffing debates arise: the roster holds lean, the log proves it, the standard survives shortage. But the lean log's standing lesson is caution, not comfort — the senior Warden's annotation reads: held, and never again if avoidable. Leanness proves the roster. Fullness protects it. The Hollow Choir is witnessed, storm after storm, by personnel who hold lean when they must and full when they can. The lean log proves the must. The roster prefers the can.
+### The Full Strength
+
+Storm duty ends with the return to full strength — reserves recalled, roster restored, the lean log closed with the final entry: full strength resumed. Veterans describe the restoration as the roster's deep breath: the crisis passed, the strength returned, the containment held throughout. The senior Warden reads the lean log aloud at the restoration muster — every short watch honored, every strained reading praised. The Hollow Choir weathered lean. The Hollow Choir stands full. The roster held both, and holds still.
+
 ## Trivia
 
 - The Choir's exact count—144—is unchanged despite new silences elsewhere in the city.

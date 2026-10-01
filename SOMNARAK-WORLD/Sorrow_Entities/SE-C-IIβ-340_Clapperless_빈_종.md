@@ -410,6 +410,19 @@ Some sorrows are about cruelty. Clapperless is about the gap between form and fu
 **Operational interpretation (Clapperless):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Clapperless):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Fresh Paint
+
+Maintenance repaints Clapperless's chambers on rotation — walls fresh, markings crisp, the containment gleaming the way readiness gleams. The paint custom treats the work as honor, not chore: the roster paints its own chambers, brushes shared, pride joint. Veterans describe fresh-paint days as the containment's renewals — the same doctrine, brightened walls, the watches continuing across the wet paint. Clapperless (SE-C-IIβ-340) is witnessed in chambers the roster keeps worthy — painted faithfully, maintained proudly, gleaming always.
+### The Dry Wall
+
+Fresh paint dries under watch — the roster guarding wet walls the way it guards everything: faithfully. Dry-wall checks close every paint day. Clapperless's chambers gleam. Painted, dried, gleaming.
+
+### The Color Standard
+
+Chamber paint follows the color standard — walls regulation gray, markings safety yellow, pipes coded by system. The standard custom keeps every facility legible: any Warden, any chamber, readable at a glance. Clapperless's chambers match the standard exactly. Painted standard, reading clearly.
+
 ## Trivia
 
 - It can open a sealed door without ringing.

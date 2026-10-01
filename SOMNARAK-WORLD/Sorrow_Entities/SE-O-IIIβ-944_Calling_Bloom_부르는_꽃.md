@@ -394,6 +394,19 @@ So mind the mushrooms, child. Mind the edge. And if you hear your brother callin
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 
+## Warden Record
+
+### The Visitor
+
+Civilians visit Calling Bloom's facility on escorted rotation — oversight committees, trainee cohorts, the occasional dignitary requiring proof the Directorate spends wisely. The visitor protocol governs every tour: see the precautions, meet the roster, witness the doctrine practiced. Escort Wardens perform the protocol the way docents perform museums — proudly, precisely, and with the veteran's pleasure in showing work well done. Visitors ask the questions visitors always ask: is it safe, is it wise, is it worth it. The escort answers with the containment itself: the gauges, the logs, the roster standing. Calling Bloom (SE-O-IIIβ-944) receives few visitors and impresses all of them. The protocol proves the Directorate's case the way only practice proves anything: by showing.
+
+### The Guest Book
+
+Visitors sign the guest book — name, office, and one line of impression. The book runs to volumes: oversight satisfied, trainees inspired, dignitaries reassured. The roster reads the guest book the way crews read commendations: with pride earned and perspective kept. The visitors see the containment for an hour. The roster stands it for careers. But the guest book's lines prove what the roster sometimes forgets mid-watch: the work shows. The doctrine reads. The containment impresses even the skeptical. Calling Bloom is witnessed by personnel the visitors praise and the Directorate trusts. The guest book holds the praise. The roster holds the entity. Both holdings grow, visit after visit, watch after watch.
+### The Return Visit
+
+Some visitors return — oversight satisfied so fully they bring colleagues, trainees inspired so deeply they request posting. Return visits are the escort Wardens' proudest moments: the containment impressed once, and the impressed came back. The guest book's return entries are marked with the escort's star — came, saw, returned. Calling Bloom collects return visitors the way the roster collects commendations: steadily, deservedly. Visit once, impressed. Return, convinced. The containment proves itself twice.
+
 ## Trivia
 
 - She has wandered the Muttering Wood for roughly three centuries; the scavenger band that lost her is long dust, but the warning rhyme they composed is still sung among the wilderness children.

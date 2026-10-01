@@ -366,6 +366,19 @@ Some sorrows mourn the drowned. Drowned Echo mourns the calling — the voices t
 **Operational interpretation (Drowned Echo):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Drowned Echo):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Clean Log
+
+The perfect watch log — every reading on time, every notation legible, every margin clean — is the roster's quiet pride. Drowned Echo's archive holds hundreds: watches logged flawlessly, filed promptly, and preserved as the standard. The clean-log custom marks each one: the watch commander's checkmark, the archivist's nod, the log bound with the honored volumes. New Wardens study clean logs before writing their own. Veterans produce them without thinking. Drowned Echo (SE-O-IIβ-378) is witnessed on paper as faithfully as in person — reading by reading, log by log, clean forever.
+### The Archivist's Nod
+
+Clean logs earn the archivist's nod — the small sharp gesture of approval, given at filing. Wardens prize the nod the way crews prize commendations. Drowned Echo's archive holds hundreds of nodded logs. The nod approves. The roster logs clean.
+
+### The Bound Volume
+
+Clean logs are bound annually — the year's flawless watches gathered, covered, and shelved with the honored volumes. The binding custom closes every year: the archivist's selection, the binder's craft, the volume shelved with ceremony. Drowned Echo's bound years line the archive shelf — proof, in leather and thread, that the roster logs clean. Bound, shelved, honored.
+
 ## Trivia
 
 - The Echo cannot be recorded by ordinary audio devices.

@@ -367,6 +367,19 @@ Some sorrows mourn the forgotten. Redacted is the forgetting itself — the eras
 **Operational interpretation (Redacted):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Redacted):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Replacement
+
+Instruments wear out, and Redacted's containment replaces them — gauges retired past calibration, seals retired past rating, lamps retired past brightness. The replacement protocol governs every swap: the new instrument certified, the old instrument honored, the exchange logged with both service records attached. Retiring instruments are not discarded. They join the quartermaster's shelf — or, for instruments of exceptional service, the muster hall's honored wall. Veterans describe replacements as the containment's renewals: the doctrine continues, the instruments refresh, the watches unbroken across the exchange. Redacted (SE-N-IIIγ-184) has been witnessed through generations of instruments. Each generation served. Each generation retired honored. The watches never paused.
+
+### The Honored Wall
+
+The honored wall holds the containment's most distinguished retirees — the gauge that caught the first pressure spike, the seal that held the worst season, the lamp that burned through the longest watch. Each bears its citation: served here, held this, retired honored. New Wardens study the wall before their first watch, learning the instruments' histories the way they learn the roster's. Veterans touch the wall's frame on passing — the way crews touch memorials, the way the night crews touch the spare lamp. Redacted is witnessed with instruments that will one day hang honored. The wall proves the roster maintains what it uses and honors what has served. Serve well. Retire honored. The wall waits for every instrument standing.
+### The First Reading
+
+New instruments take their first readings under witness — the installing Warden, the watch commander, and the logbook open. The first-reading custom records the moment: instrument installed, reading taken, service begun. Veterans describe first readings as the containment's small commissionings — new eyes on the entity, sworn to accuracy. The first readings are preserved with the installation logs — baseline truth, witnessed jointly. Redacted is measured by instruments whose first readings were honored. Installed, witnessed, trusted. The readings continue.
+
 ## Trivia
 
 - It has no known original person.

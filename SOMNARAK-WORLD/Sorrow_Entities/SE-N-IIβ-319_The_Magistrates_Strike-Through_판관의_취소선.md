@@ -364,6 +364,19 @@ He drew lines until the chalk wore down to a bloody stump between his fingers, t
 
 Operational Rule: When deploying this A-Relic in combat, the squad leader must designate a post-encounter 'Identity Anchor'—an operative outside the circle who memorizes the squad's names so they can be reminded who they are after the ward collapses.
 
+## Watch Record
+
+### The Fresh Paint
+
+Maintenance repaints The Magistrates Strike-Through's chambers on rotation — walls fresh, markings crisp, the containment gleaming the way readiness gleams. The paint custom treats the work as honor, not chore: the roster paints its own chambers, brushes shared, pride joint. Veterans describe fresh-paint days as the containment's renewals — the same doctrine, brightened walls, the watches continuing across the wet paint. The Magistrates Strike-Through (SE-N-IIβ-319) is witnessed in chambers the roster keeps worthy — painted faithfully, maintained proudly, gleaming always.
+### The Dry Wall
+
+Fresh paint dries under watch — the roster guarding wet walls the way it guards everything: faithfully. Dry-wall checks close every paint day. The Magistrates Strike-Through's chambers gleam. Painted, dried, gleaming.
+
+### The Color Standard
+
+Chamber paint follows the color standard — walls regulation gray, markings safety yellow, pipes coded by system. The standard custom keeps every facility legible: any Warden, any chamber, readable at a glance. The Magistrates Strike-Through's chambers match the standard exactly. Painted standard, reading clearly.
+
 ## Trivia
 
 - Baek-Hyeon lived for twenty-three years after the purge in an outer monastery, never speaking another word.

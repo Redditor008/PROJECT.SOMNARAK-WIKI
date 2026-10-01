@@ -376,6 +376,19 @@ The entity does not rage. It does not weep. It persists — tale and grudge, pat
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and tale pressure readings after every breach or unusual interaction.
 
+## Watch Record
+
+### The Clean Log
+
+The perfect watch log — every reading on time, every notation legible, every margin clean — is the roster's quiet pride. Grimoire's archive holds hundreds: watches logged flawlessly, filed promptly, and preserved as the standard. The clean-log custom marks each one: the watch commander's checkmark, the archivist's nod, the log bound with the honored volumes. New Wardens study clean logs before writing their own. Veterans produce them without thinking. Grimoire (SE-C-IIβ-906) is witnessed on paper as faithfully as in person — reading by reading, log by log, clean forever.
+### The Archivist's Nod
+
+Clean logs earn the archivist's nod — the small sharp gesture of approval, given at filing. Wardens prize the nod the way crews prize commendations. Grimoire's archive holds hundreds of nodded logs. The nod approves. The roster logs clean.
+
+### The Bound Volume
+
+Clean logs are bound annually — the year's flawless watches gathered, covered, and shelved with the honored volumes. The binding custom closes every year: the archivist's selection, the binder's craft, the volume shelved with ceremony. Grimoire's bound years line the archive shelf — proof, in leather and thread, that the roster logs clean. Bound, shelved, honored.
+
 ## Trivia
 
 - One of the first catalogued **Object-Tale** entities in Somnarak.

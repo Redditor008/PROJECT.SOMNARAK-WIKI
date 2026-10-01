@@ -372,6 +372,19 @@ Some sorrows are about what was taken. Last Fruit is about what was wanted and f
 **Operational interpretation (Last Fruit):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Last Fruit):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Timely Relief
+
+Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Last Fruit is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
+### The Early Arrival
+
+The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Last Fruit is relieved promptly. Early, briefed, holding.
+
+### The Relief Log
+
+Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Last Fruit is witnessed continuously. Arrived, briefed, transferred.
+
 ## Trivia
 
 - Its seeds are emotional sparks, not reproductive material.

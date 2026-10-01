@@ -380,6 +380,19 @@ Some sorrows mourn what was lost. The Grave mourns what was never said — and f
 **Operational interpretation (Unsaid Blossoms):** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Unsaid Blossoms):** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Timely Relief
+
+Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Unsaid Blossoms is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
+### The Early Arrival
+
+The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Unsaid Blossoms is relieved promptly. Early, briefed, holding.
+
+### The Relief Log
+
+Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Unsaid Blossoms is witnessed continuously. Arrived, briefed, transferred.
+
 ## Trivia
 
 - Blossoms fall without wind.

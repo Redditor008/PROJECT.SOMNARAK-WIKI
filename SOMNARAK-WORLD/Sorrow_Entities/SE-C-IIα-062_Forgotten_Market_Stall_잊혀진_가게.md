@@ -413,6 +413,19 @@ Some sorrows mourn the extraordinary. Forgotten Market Stall mourns the ordinary
 **Operational interpretation (Forgotten Market Stall):** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Forgotten Market Stall):** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Clean Log
+
+The perfect watch log — every reading on time, every notation legible, every margin clean — is the roster's quiet pride. Forgotten Market Stall's archive holds hundreds: watches logged flawlessly, filed promptly, and preserved as the standard. The clean-log custom marks each one: the watch commander's checkmark, the archivist's nod, the log bound with the honored volumes. New Wardens study clean logs before writing their own. Veterans produce them without thinking. Forgotten Market Stall (SE-C-IIα-062) is witnessed on paper as faithfully as in person — reading by reading, log by log, clean forever.
+### The Archivist's Nod
+
+Clean logs earn the archivist's nod — the small sharp gesture of approval, given at filing. Wardens prize the nod the way crews prize commendations. Forgotten Market Stall's archive holds hundreds of nodded logs. The nod approves. The roster logs clean.
+
+### The Bound Volume
+
+Clean logs are bound annually — the year's flawless watches gathered, covered, and shelved with the honored volumes. The binding custom closes every year: the archivist's selection, the binder's craft, the volume shelved with ceremony. Forgotten Market Stall's bound years line the archive shelf — proof, in leather and thread, that the roster logs clean. Bound, shelved, honored.
+
 ## Trivia
 
 - The Stall's ground remains warm after it disappears.

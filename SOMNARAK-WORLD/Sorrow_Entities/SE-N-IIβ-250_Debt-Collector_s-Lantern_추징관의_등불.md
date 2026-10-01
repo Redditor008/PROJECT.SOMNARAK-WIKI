@@ -404,6 +404,19 @@ Some sorrows are about debt. Debt-Collector's-Lantern is about the collecting �
 **Operational interpretation (Debt-Collector s-Lantern):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Debt-Collector s-Lantern):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Mended Chair
+
+The muster hall's chairs are mended, never replaced — joints glued, legs braced, the roster's oldest thrift custom. The mend log records every repair: chair three, leg braced, holding. Veterans describe the mended chairs as the roster's philosophy: maintain what serves, repair what breaks, replace only what cannot be mended. New Wardens perform their first mend before their first watch — glue, clamp, and the lesson. Debt-Collector s-Lantern (SE-N-IIβ-250) is witnessed by menders — who repair, watch after watch, the chairs that hold the roster that holds the entity.
+### The Steady Seat
+
+Mended chairs hold steady — tested after every repair, trusted at every muster. Steady-seat checks close every mend. Debt-Collector s-Lantern is witnessed by personnel well-seated. Mended, steady, holding.
+
+### The Glue Pot
+
+Chair mending keeps a glue pot warm — ready for every repair, used weekly. The glue-pot custom wastes nothing: mend it today, sit it tomorrow. Debt-Collector s-Lantern's chairs hold. Glued, clamped, holding.
+
 ## Trivia
 
 - It glows for Collectors who believe they are debt-free.

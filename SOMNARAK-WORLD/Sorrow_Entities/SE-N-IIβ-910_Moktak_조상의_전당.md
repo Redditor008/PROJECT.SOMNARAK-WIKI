@@ -297,6 +297,19 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and spirit pressure readings after every breach or unusual interaction.
 
+## Watch Record
+
+### The Sharp Pencil
+
+Logs are written in pencil — sharpened before every watch, the roster's oldest instrument custom. The pencil doctrine is practical: pencil writes on damp paper, survives the chamber's cold, and never leaks. But the custom is honor: the sharpened pencil means the prepared Warden. Veterans sharpen deliberately, ritually, the way soldiers clean weapons. New Wardens receive their first pencil at commissioning — issued with the logbook, blessed with the formula. Moktak is recorded in graphite — reading by reading, pencil by pencil, sharp forever.
+### The Full Box
+
+Commissioning issues a full box of pencils — twelve, sharpened, the rookie's first year. Veterans replenish from the quartermaster with pride. Moktak is recorded in graphite that never runs out. Issued, sharpened, recording.
+
+### The Sharpener
+
+The muster hall keeps a wall sharpener — bolted, trued, and used before every watch. The sharpener custom queues the roster: sharpen in turn, waste nothing, write sharp. The sharpener has served generations of pencils. Moktak is recorded sharp. Queued, sharpened, writing.
+
 ## Trivia
 
 - One of the first catalogued **Place-Spirit** entities in Somnarak.

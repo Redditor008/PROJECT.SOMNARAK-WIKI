@@ -387,6 +387,19 @@ Holdout is that memory. It lives in the vault — a building made of nothing but
 **Operational interpretation (Holdout):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Holdout):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Polished Gauge
+
+Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Holdout (SE-C-IIβ-240) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
+### The Clear Face
+
+Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Holdout is measured truly. Polished, clear, true.
+
+### The Calibration Weight
+
+Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Holdout is measured on verified instruments. Polished, tested, true.
+
 ## Trivia
 
 - The Ruin appears only to those connected to its history.

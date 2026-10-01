@@ -365,6 +365,19 @@ Some sorrows mourn the dead. Survivor's Span mourns the living — the survivor 
 **Operational interpretation (Survivors Span):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Survivors Span):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Folded Blanket
+
+Bunks are made with folded blankets — corners square, edges aligned, the roster's oldest order custom. Inspections check the blankets first: square corners mean disciplined Wardens. Veterans fold without thinking — the creases sharp from years of practice. New Wardens learn the fold before they learn the gauges: order in the bunk, order in the watch. Survivors Span is witnessed by personnel who fold blankets — who keep, in small squares of wool, the discipline that keeps the containment.
+### The Tight Corner
+
+Blanket corners are tucked tight — the inspection's first check, the roster's smallest discipline. Tight corners, tight watches. Survivors Span is witnessed by personnel squared away. Folded, tight, ready.
+
+### The Bunk Inspection
+
+Bunks are inspected weekly — blankets folded, kits stowed, floors swept. The inspection custom scores fairly and praises publicly. Survivors Span's roster passes inspection standing. Folded, stowed, passing.
+
 ## Trivia
 
 - It carries no physical weight, but its footsteps crack the floor.

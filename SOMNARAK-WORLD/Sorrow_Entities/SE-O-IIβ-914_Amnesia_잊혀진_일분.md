@@ -299,6 +299,19 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and void pressure readings after every breach or unusual interaction.
 
+## Watch Record
+
+### The Timely Relief
+
+Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Amnesia is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
+### The Early Arrival
+
+The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Amnesia is relieved promptly. Early, briefed, holding.
+
+### The Relief Log
+
+Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Amnesia is witnessed continuously. Arrived, briefed, transferred.
+
 ## Trivia
 
 - One of the first catalogued **Time-Void** entities in Somnarak.

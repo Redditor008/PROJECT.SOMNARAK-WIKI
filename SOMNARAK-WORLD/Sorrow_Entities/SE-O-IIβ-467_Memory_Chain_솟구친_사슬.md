@@ -370,6 +370,19 @@ Some sorrows mourn separation. Memory Chain mourns the memory-bond — the conne
 **Operational interpretation (Memory Chain):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Memory Chain):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Spare Key
+
+Every chamber in Memory Chain's containment keeps a spare key — sealed, logged, and held by the watch commander. The spare-key custom governs its custody: sealed at watch start, verified at watch end, used only in the emergencies the doctrine tables. The keys have been used rarely and regretted never — each use logged, each emergency met, each seal replaced after. New commanders receive the keys the way they receive the watch: with briefing, with gravity, with the formula. Memory Chain is secured by keys the roster holds faithfully — spares sealed, customs kept, emergencies answered.
+### The Unbroken Seal
+
+Spare-key seals are verified unbroken at every watch end — the commander's check, the log's confirmation. Unbroken seals mean unneeded emergencies. Memory Chain's seals hold watch after watch. Sealed, verified, holding.
+
+### The Key Ceremony
+
+Watch commanders receive the spare keys with ceremony — the sealed packet, the custody formula, the log's countersignature. The ceremony binds the custody: keys received, responsibility taken, watch begun. Memory Chain's keys pass commander to commander, ceremony by ceremony. Received, held, transferred.
+
 ## Trivia
 
 - It can connect people who never physically met.

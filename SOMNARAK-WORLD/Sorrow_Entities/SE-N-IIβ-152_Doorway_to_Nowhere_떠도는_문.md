@@ -368,6 +368,19 @@ Some sorrows mourn a home. Doorway to Nowhere mourns the leaving — the door to
 **Operational interpretation (Doorway to Nowhere):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Doorway to Nowhere):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Timely Relief
+
+Relief arrives on time — the roster's proudest punctuality record. The timeliness log records every relief's arrival: on the mark, watch after watch, rotation after rotation. Late reliefs are vanishingly rare and always explained — storm, crisis, the extraordinary. Veterans describe timeliness as the roster's courtesy: the standing Warden held the watch, the relieving Warden honors the holding. Doorway to Nowhere is witnessed without a gap — relief on time, watches unbroken, punctuality honored forever.
+### The Early Arrival
+
+The best reliefs arrive early — minutes before the mark, briefed and ready. Early arrivals earn the standing Warden's thanks. Doorway to Nowhere is relieved promptly. Early, briefed, holding.
+
+### The Relief Log
+
+Every relief is logged — arrival time, briefing given, watch transferred. The relief log runs unbroken: thousands of entries, zero gaps. Doorway to Nowhere is witnessed continuously. Arrived, briefed, transferred.
+
 ## Trivia
 
 - No two openings lead to the same memory.

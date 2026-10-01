@@ -384,6 +384,19 @@ Some sorrows are released. Weeping Statue is a sorrow that was forbidden to rele
 **Operational interpretation (Weeping Statue):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Weeping Statue):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Polished Gauge
+
+Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Weeping Statue (SE-C-IIβ-055) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
+### The Clear Face
+
+Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Weeping Statue is measured truly. Polished, clear, true.
+
+### The Calibration Weight
+
+Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Weeping Statue is measured on verified instruments. Polished, tested, true.
+
 ## Trivia
 
 - The entity's Korean registry title uses “ancestor,” though no individual ancestor has been identified.

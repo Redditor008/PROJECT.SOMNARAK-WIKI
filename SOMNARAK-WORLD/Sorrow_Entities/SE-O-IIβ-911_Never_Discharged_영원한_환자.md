@@ -297,6 +297,19 @@ The entity does not rage. It does not weep. It persists — body and weight, pat
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and body pressure readings after every breach or unusual interaction.
 
+## Watch Record
+
+### The Folded Blanket
+
+Bunks are made with folded blankets — corners square, edges aligned, the roster's oldest order custom. Inspections check the blankets first: square corners mean disciplined Wardens. Veterans fold without thinking — the creases sharp from years of practice. New Wardens learn the fold before they learn the gauges: order in the bunk, order in the watch. Never Discharged is witnessed by personnel who fold blankets — who keep, in small squares of wool, the discipline that keeps the containment.
+### The Tight Corner
+
+Blanket corners are tucked tight — the inspection's first check, the roster's smallest discipline. Tight corners, tight watches. Never Discharged is witnessed by personnel squared away. Folded, tight, ready.
+
+### The Bunk Inspection
+
+Bunks are inspected weekly — blankets folded, kits stowed, floors swept. The inspection custom scores fairly and praises publicly. Never Discharged's roster passes inspection standing. Folded, stowed, passing.
+
 ## Trivia
 
 - One of the first catalogued **Time-Body** entities in Somnarak.

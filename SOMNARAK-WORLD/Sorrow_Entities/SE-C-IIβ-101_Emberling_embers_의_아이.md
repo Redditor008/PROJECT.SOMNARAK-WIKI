@@ -388,6 +388,19 @@ Some sorrows are about cruelty. Emberling is about absence — the simple absenc
 **Operational interpretation (Emberling embers):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Emberling embers):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Watered Plant
+
+A plant grows in Emberling embers's muster hall — watered on rotation, tended jointly, the roster's living green. The plant custom assigns every Warden a watering week: tend it, log it, pass it on. The plant has survived every hardship the roster survived — shortages, storms, short staffing. Veterans describe it as the roster's mirror: thriving when the roster thrives, drooping when the roster strains. Counselors check the plant the way they check personnel. Emberling embers is witnessed by gardeners — who water, watch after watch, the green proof that life persists in the containment.
+### The New Leaf
+
+The muster plant grows new leaves — each one logged, each one celebrated. New-leaf days are the roster's small festivals. Emberling embers is witnessed where life persists. Watered, leafing, living.
+
+### The Watering Roster
+
+Plant watering runs on roster — names scheduled, weeks assigned, never missed. The roster custom treats the plant as a posting: tend it like a watch. Emberling embers's plant thrives on scheduled care. Rostered, watered, thriving.
+
 ## Trivia
 
 - The entity's title is retained from a fairy tale no current Keeper can fully reconstruct.

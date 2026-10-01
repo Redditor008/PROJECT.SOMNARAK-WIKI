@@ -364,6 +364,19 @@ Some sorrows are about being trapped. Hollow Echo is about being unheard — the
 **Operational interpretation (Hollow Echo):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Hollow Echo):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Quiet Lunch
+
+The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. Hollow Echo is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
+### The Second Helping
+
+Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. Hollow Echo is witnessed by well-fed personnel. Served, seconded, steady.
+
+### The Recipe Card
+
+Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. Hollow Echo's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+
 ## Trivia
 
 - The Echo's voice is heard more clearly by people who have once called for help.

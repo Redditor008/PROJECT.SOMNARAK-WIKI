@@ -411,6 +411,19 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 **Operational interpretation (The Echo Compass):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (The Echo Compass):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The New Warden
+
+Every Warden in The Echo Compass's chain stood a first watch — briefed, nervous, and determined. The first-watch protocol pairs every newcomer with a veteran: shadow the watch, ask everything, touch nothing unasked. Veterans describe their first-watch duty as the roster's truest test — not of the newcomer but of themselves. Teaching the containment reveals what the teacher has forgotten. Newcomers ask why the gauge is read twice, why the chamber is eyeballed before the instruments, why the oath's clauses run in their fixed order. Veterans answer, and in answering remember. The Echo Compass (SE-C-IIIβ-016) has been learned fresh by every Warden who ever stood it. The learning never ends. The teaching never ends. The chain continues, watch by watch, rookie by rookie.
+
+### The First Log
+
+The newcomer's first log is preserved — bound into the containment file, the rookie's own hand recording the first witnessed watch. First logs are earnest to the point of poetry: readings logged twice, observations tripled, the entity described the way newcomers describe everything — fully, carefully, as if the containment depended on this one log. Veterans read the first logs the way parents keep childhood drawings: with pride, with humor, and with recognition. Every veteran wrote one. Every veteran remembers. The Echo Compass is witnessed, rookie after rookie, by personnel whose first logs prove the doctrine's deepest claim: the containment is learned fresh by everyone, and everyone learns it. The first log stands. The Warden stands with it.
+### The Shadow's End
+
+The newcomer's shadow period ends with the first solo watch — the veteran stepping back, the rookie standing alone, the containment held by new hands. Veterans describe the moment as the roster's true commissioning: not the oath sworn but the watch stood solo. The first solo log is preserved beside the first shadowed log — before and after, student and Warden. The Echo Compass has been stood solo by every Warden in its chain. Each one held. Each one holds still.
+
 ## Trivia
 
 - It can point toward emotional sources beyond physical distance.

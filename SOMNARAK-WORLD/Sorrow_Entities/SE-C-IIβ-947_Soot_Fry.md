@@ -387,6 +387,19 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, the hunger-cycle baseline, and — critically — the separation distance from C-IIIγ-948, after every breach, expansion, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 
+## Watch Record
+
+### The Spare Key
+
+Every chamber in Soot Fry's containment keeps a spare key — sealed, logged, and held by the watch commander. The spare-key custom governs its custody: sealed at watch start, verified at watch end, used only in the emergencies the doctrine tables. The keys have been used rarely and regretted never — each use logged, each emergency met, each seal replaced after. New commanders receive the keys the way they receive the watch: with briefing, with gravity, with the formula. Soot Fry is secured by keys the roster holds faithfully — spares sealed, customs kept, emergencies answered.
+### The Unbroken Seal
+
+Spare-key seals are verified unbroken at every watch end — the commander's check, the log's confirmation. Unbroken seals mean unneeded emergencies. Soot Fry's seals hold watch after watch. Sealed, verified, holding.
+
+### The Key Ceremony
+
+Watch commanders receive the spare keys with ceremony — the sealed packet, the custody formula, the log's countersignature. The ceremony binds the custody: keys received, responsibility taken, watch begun. Soot Fry's keys pass commander to commander, ceremony by ceremony. Received, held, transferred.
+
 ## Trivia
 
 - The fish's hunger resets higher after every feeding; the R.D. has stopped feeding it, and the Gauge has, against all expectation, begun to fall.

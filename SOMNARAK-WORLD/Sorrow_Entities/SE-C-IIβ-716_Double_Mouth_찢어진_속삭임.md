@@ -371,6 +371,19 @@ Those who hear the Whisper feel, briefly, the particular agony of knowing someth
 **Operational interpretation (Double Mouth):** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Double Mouth):** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Polished Gauge
+
+Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Double Mouth (SE-C-IIβ-716) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
+### The Clear Face
+
+Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Double Mouth is measured truly. Polished, clear, true.
+
+### The Calibration Weight
+
+Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Double Mouth is measured on verified instruments. Polished, tested, true.
+
 ## Trivia
 
 - The two voices never speak the same words.

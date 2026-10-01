@@ -353,6 +353,19 @@ The entity does not rage. It does not weep. It persists — phantasmal and void,
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and phantasmal pressure readings after every breach or unusual interaction.
 
+## Watch Record
+
+### The Quiet Lunch
+
+The roster eats together between watches — plain food, shared tables, the mess hall humming at peacetime pitch. The lunch custom requires nothing but presence: sit, eat, and be roster together. Veterans describe the quiet lunch as the watch's ballast — the ordinary shared before the extraordinary witnessed. Counselors monitor the mess the way engineers monitor gauges: full tables, healthy roster. Glass Elsewhere is witnessed by personnel who eat together — who share, between watches, the plain food and quiet company that steady the standing.
+### The Second Helping
+
+Good mess days earn second helpings — the cook's nod, the ladle's return, the roster fed fully. Second-helping days precede steady watches. Glass Elsewhere is witnessed by well-fed personnel. Served, seconded, steady.
+
+### The Recipe Card
+
+Good mess recipes are carded — the cook's formula preserved, the roster's favorites reproducible. The card file grows steadily: plain food, perfected. Glass Elsewhere's roster eats from the cards — proven meals, steady watches. Cooked, carded, savored.
+
 ## Trivia
 
 - One of the first catalogued **Object-Phantasmal** entities in Somnarak.

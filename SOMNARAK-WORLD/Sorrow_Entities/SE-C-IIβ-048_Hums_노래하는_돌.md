@@ -418,6 +418,19 @@ Some sorrows mourn the dead. Hums mourns their songs — the unfinished melodies
 **Operational interpretation (Hums):** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Hums):** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Fresh Paint
+
+Maintenance repaints Hums's chambers on rotation — walls fresh, markings crisp, the containment gleaming the way readiness gleams. The paint custom treats the work as honor, not chore: the roster paints its own chambers, brushes shared, pride joint. Veterans describe fresh-paint days as the containment's renewals — the same doctrine, brightened walls, the watches continuing across the wet paint. Hums (SE-C-IIβ-048) is witnessed in chambers the roster keeps worthy — painted faithfully, maintained proudly, gleaming always.
+### The Dry Wall
+
+Fresh paint dries under watch — the roster guarding wet walls the way it guards everything: faithfully. Dry-wall checks close every paint day. Hums's chambers gleam. Painted, dried, gleaming.
+
+### The Color Standard
+
+Chamber paint follows the color standard — walls regulation gray, markings safety yellow, pipes coded by system. The standard custom keeps every facility legible: any Warden, any chamber, readable at a glance. Hums's chambers match the standard exactly. Painted standard, reading clearly.
+
 ## Trivia
 
 - The Stone may preserve songs from before the Consolihan.

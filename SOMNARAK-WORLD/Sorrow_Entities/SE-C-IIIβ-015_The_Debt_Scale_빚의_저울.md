@@ -409,6 +409,19 @@ Some sorrows are born from cruelty. The Debt Scale is born from justice — and 
 **Operational interpretation (The Debt Scale):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (The Debt Scale):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Requisition
+
+Every instrument in The Debt Scale's containment arrived by requisition — requested in writing, justified by need, approved against the quartermaster's unforgiving standard. The requisition files are the archive's driest holding and the roster's proudest: page after page of gauges, seals, lamps, and lines, each one argued for and won. The quartermaster's standing rule governs all of it: need it, prove it, maintain it. Requisitions that prove need are approved. Instruments that arrive are maintained — cleaned, calibrated, and logged — or the quartermaster reclaims them. No ornament has ever survived the quartermaster's review. No necessity has ever been denied it. The Debt Scale (SE-C-IIIβ-015) is witnessed with instruments the roster earned by argument and keeps by maintenance.
+
+### The Quartermaster's Shelf
+
+The quartermaster keeps one shelf of retired instruments — gauges that served past calibration, lamps that burned past brightness, seals that held past rating. Each bears its service record: installed this date, maintained this often, retired with honors. New Wardens are shown the shelf before they file their first requisition, and the lesson lands the way honest objects teach: request only what the containment needs, maintain everything the containment grants, and retire with honors what has served past serving. The Debt Scale is witnessed with the quartermaster's instruments, standing on the quartermaster's shelf in honorable retirement when their service ends. Need it. Prove it. Maintain it. The shelf proves the roster does.
+### The Approved Stamp
+
+Approved requisitions return bearing the quartermaster's stamp — granted, with the date and the quartermaster's initials. Wardens keep their stamped approvals the way soldiers keep orders: filed, honored, and cited when the instruments arrive. The stamp means the quartermaster agreed — the need was real, the proof sufficed, the containment gains. The Debt Scale is witnessed with stamped instruments, every one earned. The stamp approves. The roster maintains. The containment holds.
+
 ## Trivia
 
 - The Scale does not display numbers; it displays emotional weight.

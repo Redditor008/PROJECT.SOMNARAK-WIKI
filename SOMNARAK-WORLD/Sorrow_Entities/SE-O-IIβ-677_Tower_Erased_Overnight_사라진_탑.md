@@ -382,6 +382,19 @@ Some sorrows mourn demolition. Tower Erased Overnight mourns the erasure — the
 **Operational interpretation (Tower Erased Overnight):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Tower Erased Overnight):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Fresh Paint
+
+Maintenance repaints Tower Erased Overnight's chambers on rotation — walls fresh, markings crisp, the containment gleaming the way readiness gleams. The paint custom treats the work as honor, not chore: the roster paints its own chambers, brushes shared, pride joint. Veterans describe fresh-paint days as the containment's renewals — the same doctrine, brightened walls, the watches continuing across the wet paint. Tower Erased Overnight (SE-O-IIβ-677) is witnessed in chambers the roster keeps worthy — painted faithfully, maintained proudly, gleaming always.
+### The Dry Wall
+
+Fresh paint dries under watch — the roster guarding wet walls the way it guards everything: faithfully. Dry-wall checks close every paint day. Tower Erased Overnight's chambers gleam. Painted, dried, gleaming.
+
+### The Color Standard
+
+Chamber paint follows the color standard — walls regulation gray, markings safety yellow, pipes coded by system. The standard custom keeps every facility legible: any Warden, any chamber, readable at a glance. Tower Erased Overnight's chambers match the standard exactly. Painted standard, reading clearly.
+
 ## Trivia
 
 - Its height changes according to the observer's memory.

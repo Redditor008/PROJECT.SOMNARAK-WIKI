@@ -370,6 +370,19 @@ Some sorrows are about betrayal. Myrmidon is about the betrayal that divides —
 **Operational interpretation (Myrmidon):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Myrmidon):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Watered Plant
+
+A plant grows in Myrmidon's muster hall — watered on rotation, tended jointly, the roster's living green. The plant custom assigns every Warden a watering week: tend it, log it, pass it on. The plant has survived every hardship the roster survived — shortages, storms, short staffing. Veterans describe it as the roster's mirror: thriving when the roster thrives, drooping when the roster strains. Counselors check the plant the way they check personnel. Myrmidon is witnessed by gardeners — who water, watch after watch, the green proof that life persists in the containment.
+### The New Leaf
+
+The muster plant grows new leaves — each one logged, each one celebrated. New-leaf days are the roster's small festivals. Myrmidon is witnessed where life persists. Watered, leafing, living.
+
+### The Watering Roster
+
+Plant watering runs on roster — names scheduled, weeks assigned, never missed. The roster custom treats the plant as a posting: tend it like a watch. Myrmidon's plant thrives on scheduled care. Rostered, watered, thriving.
+
 ## Trivia
 
 - The entity reacts to representation rather than personal identity.

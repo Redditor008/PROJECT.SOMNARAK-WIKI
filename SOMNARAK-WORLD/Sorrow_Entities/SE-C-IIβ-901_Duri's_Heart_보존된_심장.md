@@ -376,6 +376,19 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 
 **Review requirement:** Recheck containment status, Sorrow Gauge trend, and body pressure readings after every breach or unusual interaction.
 
+## Watch Record
+
+### The Mended Chair
+
+The muster hall's chairs are mended, never replaced — joints glued, legs braced, the roster's oldest thrift custom. The mend log records every repair: chair three, leg braced, holding. Veterans describe the mended chairs as the roster's philosophy: maintain what serves, repair what breaks, replace only what cannot be mended. New Wardens perform their first mend before their first watch — glue, clamp, and the lesson. Duri's Heart (SE-C-IIβ-901) is witnessed by menders — who repair, watch after watch, the chairs that hold the roster that holds the entity.
+### The Steady Seat
+
+Mended chairs hold steady — tested after every repair, trusted at every muster. Steady-seat checks close every mend. Duri's Heart is witnessed by personnel well-seated. Mended, steady, holding.
+
+### The Glue Pot
+
+Chair mending keeps a glue pot warm — ready for every repair, used weekly. The glue-pot custom wastes nothing: mend it today, sit it tomorrow. Duri's Heart's chairs hold. Glued, clamped, holding.
+
 ## Trivia
 
 - One of the first catalogued **Object-Body** entities in Somnarak.

@@ -382,6 +382,19 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 **Operational interpretation (Weeping Willow):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Weeping Willow):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Nightingale Shift
+
+The nightingale shift is the roster's term for a watch so quiet it sings — readings nominal, entity quiescent, the whole of Weeping Willow's containment humming at peacetime pitch. Nightingale watches are logged the way all watches are logged, with one addition: the watch commander's nightingale mark, a small notation in the margin recording that the quiet held the whole watch through. Commanders prize the mark the way sailors prize fair winds — not as achievement but as grace. The quiet is never earned. It is received, logged, and passed to the relief with gratitude. Weeping Willow (SE-C-IIIγ-140) has granted the roster many nightingale shifts. Each one is marked. Each one is remembered. And each one steadies the roster for the watches that sing less sweetly.
+
+### The Quiet Ledger
+
+The quiet ledger compiles every nightingale mark in the containment's history — dates, commanders, and the watch conditions that made the quiet possible. The ledger's purpose is morale made tangible: proof, in the commanders' own hands, that the containment holds far more often than it strains. New Wardens read the ledger on commissioning. Veterans consult it before hard watches. And the senior Warden cites it at every briefing where the roster's confidence wavers: the quiet outnumbers the pressure a hundred to one. The ledger proves it. Weeping Willow is witnessed, watch after watch, by personnel who know the numbers — and the numbers say the containment holds, the quiet returns, and the nightingale sings more often than it silent.
+### The Dawn Chorus
+
+The morning after a nightingale shift, the relief arrives to birdsong — the roster's term for a handover with nothing to report. Readings nominal, entity quiescent, the quiet passed intact. Veterans describe dawn-chorus handovers as the watch's benediction: the night held, the day inherits peace. Weeping Willow grants them regularly. The roster receives them gratefully. And the quiet ledger grows — mark by mark, chorus by chorus.
+
 ## Trivia
 
 - The tree weeps even when no one is present.

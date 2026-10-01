@@ -416,6 +416,19 @@ Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens whe
 **Operational interpretation (The Sorrow Fountain):** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (The Sorrow Fountain):** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Warden Record
+
+### The Anniversary
+
+Every cycle, on the containment's founding date, The Sorrow Fountain's roster holds the anniversary — the full chain mustered, the founding log read aloud, the year's watches honored. The anniversary reads the numbers: watches stood, readings logged, pressures weathered. Then the senior Warden reads the names: the roster present, the roster rotated, the roster remembered. New Wardens hear what the containment is. Veterans hear what they maintain. And the founding log — the first watch, the first readings, the oath sworn fresh — binds the anniversary to the origin: this is what was sworn, this is what was kept, this is what continues. The Sorrow Fountain (SE-C-IIIγ-088) has been held for every anniversary the archive records. The roster intends to hold every anniversary after.
+
+### The Founding Log
+
+The founding log is preserved under glass — the first watch's readings, the first commander's hand, the oath's first swearing. Trainees read it through the glass before they read anything else, and the lesson lands the way origins teach: everything the containment is began here, with these readings, this roster, this oath. The founding log's margins carry the first commander's annotations — steady, holds, continue — preserved in the original hand. Veterans touch the glass on anniversary. Newcomers press close to read. The Sorrow Fountain is witnessed by the latest link in a chain the founding log began. The glass protects the page. The roster protects everything else. The anniversary binds them: origin and present, sworn and kept, held then and held now.
+### The Toast
+
+The anniversary closes with the toast — the roster raised glasses (water, on duty) to the containment held and the year coming. The senior Warden speaks the formula: to the watches stood, the pressures weathered, and the oath renewed. The roster answers: held, weathered, renewed. Veterans describe the toast as the anniversary's seal — the ceremony closed, the year blessed, the containment commended by its own. The Sorrow Fountain is toasted every anniversary. The glasses rise. The oath holds.
+
 ## Trivia
 
 - Its pool has no fixed bottom.

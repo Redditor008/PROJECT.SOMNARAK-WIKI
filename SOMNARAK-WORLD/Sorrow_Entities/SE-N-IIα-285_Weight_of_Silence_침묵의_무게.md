@@ -364,6 +364,19 @@ Some sorrows are about speaking. Weight of Silence is about not speaking — the
 **Operational interpretation (Weight of Silence):** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement (Weight of Silence):** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### The Polished Gauge
+
+Gauges are polished on rotation — faces clear, needles true, the instruments gleaming. The polish custom pairs every Warden with specific gauges: yours to clean, yours to calibrate, yours to trust. Veterans know their gauges the way sailors know ships — every scratch mapped, every quirk learned. The polish log records every cleaning: gauge bright, needle true, Warden proud. Weight of Silence (SE-N-IIα-285) is measured with instruments the roster loves — polished faithfully, calibrated jointly, gleaming always.
+### The Clear Face
+
+Polished gauges read clearly — faces bright, needles sharp against the marks. Clear-face checks open every watch. Weight of Silence is measured truly. Polished, clear, true.
+
+### The Calibration Weight
+
+Gauge calibration uses the test weight — certified mass, applied on schedule, readings verified. The calibration custom pairs every polish with a test: clean it, weigh it, trust it. Weight of Silence is measured on verified instruments. Polished, tested, true.
+
 ## Trivia
 
 - It grows heavier when silence is used as punishment.
