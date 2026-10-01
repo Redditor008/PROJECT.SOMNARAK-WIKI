@@ -177,7 +177,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-340] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Clapperless rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Clapperless activates its primary resonance: Reveals one sealed warning or opens one sealed passage. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of knowing a danger was present but no one heard it; the bearer begins perceiving echoes of a warning bell failed before a han overflow, leaving the affected district without notice. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -324,7 +324,7 @@ The entity has become a symbol among certain personnel — a reminder that sorro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Clapperless; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-340] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain in meaningful silence. The sorrow is seen clearly; Clapperless is fully recorded. | Reveals the warning that was ignored. The gauge climbs and Clapperless withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

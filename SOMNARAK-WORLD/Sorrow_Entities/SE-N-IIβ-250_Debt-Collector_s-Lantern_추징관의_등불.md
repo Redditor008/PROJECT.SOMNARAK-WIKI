@@ -177,7 +177,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIβ-250] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | Debt-Collector's-Lantern sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Carrying the Lantern into a debt-bearing area.) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the weight of taking payment while knowing the system is unfair. during a collector carried a lantern through debtors' homes and began seeing their burdens as light; the relic answers only to complete commitment. | The full discharge completes: Illuminates hidden karmic obligations. All hostile entities in range suffer devastating disruption and elemental debuffs. |
@@ -320,7 +320,7 @@ The entity's story has spread through the facility — not as official documenta
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Debt-Collector s-Lantern; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-250] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Remains beside the worker while the burden is measured. The sorrow is borne; Debt-Collector's-Lantern is fully recorded. | Reveals hidden debts and their origins. The gauge climbs and Debt-Collector's-Lantern withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

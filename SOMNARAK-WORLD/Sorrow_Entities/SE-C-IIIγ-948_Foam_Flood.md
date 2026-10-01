@@ -182,7 +182,7 @@ The gauge response is only meaningful in context. The Foam Flood is recorded as 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-948] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Foam Flood begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates The Foam Flood: The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the grief of a shape carved for flight that has never flown. the dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise. forged during flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. the r.d. sealed the riverbed, moved the carving to the vault, and began the record. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |

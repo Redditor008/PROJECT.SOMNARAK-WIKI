@@ -281,7 +281,7 @@ The archive cross-references this entity with its registered location — the so
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Unheard; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-Iα-965] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The silence softens and carries the worker's grief. The sorrow is named; Unheard is fully recorded. | The pressure fights back without producing sound. The gauge climbs and Unheard withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

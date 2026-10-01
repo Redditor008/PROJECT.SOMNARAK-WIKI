@@ -296,7 +296,7 @@ The Director notes: this sorrow is representative, not anomalous. It is the city
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Torpor; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IVδ-157] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can sleep without abandoning duty. The sorrow is borne; Torpor is fully recorded. | Reveals the duties that kept people awake. The gauge climbs and Torpor withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

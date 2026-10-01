@@ -294,7 +294,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Anger Underfoot; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-175] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can walk without adding another mark. The sorrow is named; Anger Underfoot is fully recorded. | Shows the sequence of events that left it. The gauge climbs and Anger Underfoot withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

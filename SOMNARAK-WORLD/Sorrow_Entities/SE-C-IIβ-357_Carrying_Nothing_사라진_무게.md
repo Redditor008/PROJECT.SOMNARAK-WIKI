@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Carrying Nothing; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IIβ-357] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Reaches toward the worker for recognition. The sorrow is named; Carrying Nothing is fully recorded. | Fire intensifies and the hidden burden presses outward. The gauge climbs and Carrying Nothing withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

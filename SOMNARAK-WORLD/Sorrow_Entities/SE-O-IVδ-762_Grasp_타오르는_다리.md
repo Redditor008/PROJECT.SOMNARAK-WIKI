@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Grasp; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IVδ-762] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Warm tears soften the figure. The sorrow is witnessed; Grasp is fully recorded. | Fire rises and the Bridge lashes outward. The gauge climbs and Grasp withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

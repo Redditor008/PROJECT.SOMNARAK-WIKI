@@ -288,7 +288,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Observing Bird; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-031] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; The Observing Bird is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Observing Bird withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

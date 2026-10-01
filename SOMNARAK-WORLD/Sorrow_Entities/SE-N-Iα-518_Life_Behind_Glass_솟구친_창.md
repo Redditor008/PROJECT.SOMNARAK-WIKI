@@ -177,7 +177,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-Iα-518] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Life Behind Glass rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Life Behind Glass activates its primary resonance: Shows a memory of a life beyond the tunnel. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the weight of observing life from a distance and never entering it; the bearer begins perceiving echoes of a tunnel worker watched the city through a small window but never left the depths; the view became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Life Behind Glass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-Iα-518] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can continue looking without crossing. The sorrow is witnessed; Life Behind Glass is fully recorded. | Reveals the world the worker never entered. The gauge climbs and Life Behind Glass withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

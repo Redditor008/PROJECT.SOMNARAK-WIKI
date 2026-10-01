@@ -177,7 +177,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IVδ-222] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Patina rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Patina activates its primary resonance: Radiates an intense gravitational field of Weight, anchoring all grounded constructs and preventing knockback. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the anger of inheriting a conflict no living person began; the bearer begins perceiving echoes of a border dispute continued long after its original cause vanished; its resentment rusted into the ground. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -320,7 +320,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Patina; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVδ-222] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can bear history without inheriting anger. The sorrow is named; Patina is fully recorded. | Reveals the history of the inherited conflict. The gauge climbs and Patina withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

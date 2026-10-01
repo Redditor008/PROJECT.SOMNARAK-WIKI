@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIβ-488] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Friendless Bridge rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Friendless Bridge activates its primary resonance: Creates a temporary emotional connection. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of waiting for a relationship to become mutual; the bearer begins perceiving echoes of a family promised to meet across collector's row but debt and duty kept separating them. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -320,7 +320,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Friendless Bridge; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-488] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can wait without crossing alone. The sorrow is named; Friendless Bridge is fully recorded. | Reveals the connection it tried to build. The gauge climbs and Friendless Bridge withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

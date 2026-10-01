@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Doorway to Nowhere; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIβ-152] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Opens onto a gentle memory of home. The sorrow is witnessed; Doorway to Nowhere is fully recorded. | Burns and refuses to open. The gauge climbs and Doorway to Nowhere withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

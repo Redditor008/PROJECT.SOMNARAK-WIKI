@@ -177,7 +177,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-Iα-329] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Folly rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Folly activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of a future designed but never inhabited; the bearer begins perceiving echoes of a border tower was planned, funded, and abandoned before construction finished. its possibility crystallized. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -320,7 +320,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Folly; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-329] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can accept incompletion. The sorrow is seen clearly; Folly is fully recorded. | Shows the people who were meant to inhabit it. The gauge climbs and Folly withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -284,7 +284,7 @@ The sorrow did not emerge from nothing. It grew around this location until it wa
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Barrier of Nothing; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIIγ-283] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Rust loosens and the wall shows a remembered departure. The sorrow is borne; Barrier of Nothing is fully recorded. | Plates harden and dream-space narrows. The gauge climbs and Barrier of Nothing withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

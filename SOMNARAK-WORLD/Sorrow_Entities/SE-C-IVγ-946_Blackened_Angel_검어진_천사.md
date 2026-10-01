@@ -189,7 +189,7 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IVγ-946] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Blackened Angel begins thrumming as the channel opens; a palpable wave of weight sorrow sweeps across the containment chamber. | Opening the channel activates Blackened Angel: The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the grief of a giving thing forced, over and over, to grant cruelty — and the slow loss of trust in the wishes of people. forged during a collector named kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. the angel could not refuse. with the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |

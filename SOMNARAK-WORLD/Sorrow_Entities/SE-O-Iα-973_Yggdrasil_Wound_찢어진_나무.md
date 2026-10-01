@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Yggdrasil Wound; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-Iα-973] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The split closes slightly and roots become visible. The sorrow is seen clearly; Yggdrasil Wound is fully recorded. | The tree tears further through the worker's thoughts. The gauge climbs and Yggdrasil Wound withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

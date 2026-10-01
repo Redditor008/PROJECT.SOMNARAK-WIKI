@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IVδ-852] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Conservatory rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Conservatory activates its primary resonance: Rebuilds one room for a short time. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of loving a place so fiercely that preservation became destruction; the bearer begins perceiving echoes of a caretaker overloaded a han structure to save a home; the structure collapsed and crystallized. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Conservatory; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IVδ-852] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain without rebuilding. The sorrow is named; Conservatory is fully recorded. | Shows the love and failure behind the structure. The gauge climbs and Conservatory withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

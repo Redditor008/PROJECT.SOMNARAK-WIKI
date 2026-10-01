@@ -185,7 +185,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-051] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Happy Mask rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping The Happy Mask activates its primary resonance: Makes the wearer appear happy regardless of their true state. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of smiling for others while wanting to cry; the bearer begins perceiving echoes of citizens learned to perform happiness to survive social and institutional demands. the false smile became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -331,7 +331,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Happy Mask; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-051] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; The Happy Mask is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Happy Mask withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

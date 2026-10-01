@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Somnium; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVγ-175] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Weaves a comforting dream around the worker. The sorrow is witnessed; Somnium is fully recorded. | Turns the dream into a hostile maze. The gauge climbs and Somnium withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

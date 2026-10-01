@@ -163,7 +163,7 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-Iα-114] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | A Letter Never Sent sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Breaking the indigo crystal wax seal and opening the envelope flap.) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the unendurable weight of realizing the person you wronged will die believing you never cared. during the great subsidence of year 4,112 in sector-a-04, where lower foundational struts sheared during sub-rail evacuation; the relic answers only to complete commitment. | The full discharge completes: The letter burns in a heatless deep blue flash, discharging a restorative acoustic chime that instantly cures Panic, clears mental terror, and grants +15 Composure to all allies within Range Band 3. All hostile entities in range suffer devastating disruption and elemental debuffs. |

@@ -177,7 +177,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IVγ-240] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Broken Clocktower begins thrumming as the channel opens; a palpable wave of weight sorrow sweeps across the containment chamber. | Opening the channel activates Broken Clocktower: Projects a six-meter temporal dilation field, locking hostile action slots and delaying attacks by 2 turns. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the weight of waiting inside an event with no conclusion. forged during an accident at 3:47 left the tower and its witnesses trapped in an unresolved instant. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -318,7 +318,7 @@ Personnel who work with the entity consistently report changes in their personal
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Clocktower; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVγ-240] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests the worker inside stretched time. The sorrow is borne; Broken Clocktower is fully recorded. | Shows the event frozen at 3:47. The gauge climbs and Broken Clocktower withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

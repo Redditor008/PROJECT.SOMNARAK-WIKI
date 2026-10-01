@@ -177,7 +177,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIIγ-160] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Broken Promise rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Broken Promise activates its primary resonance: Binds the speaker to the promise emotionally and physically. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from betrayal—the grief of believing words and discovering that they were never intended to hold; the bearer begins perceiving echoes of a collector promised debt relief, then used the promise to secure another obligation. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -316,7 +316,7 @@ The entity exists in a space between memory and forgetting — not quite present
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Promise; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIγ-160] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker will make a promise without certainty. The sorrow is named; Broken Promise is fully recorded. | Reveals the original promise and its betrayal. The gauge climbs and Broken Promise withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

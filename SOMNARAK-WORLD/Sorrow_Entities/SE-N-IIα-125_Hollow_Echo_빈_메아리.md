@@ -280,7 +280,7 @@ The entity's presence changes the air — making it heavier, colder, more satura
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Hollow Echo; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIα-125] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Pauses and responds to the worker's tears. The sorrow is seen clearly; Hollow Echo is fully recorded. | The call becomes distant but does not stop. The gauge climbs and Hollow Echo withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Dejà Vu; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVδ-125] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Returns a comforting memory. The sorrow is seen clearly; Déjà Vu is fully recorded. | Sings louder and fills the mind with intrusive absence. The gauge climbs and Déjà Vu withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

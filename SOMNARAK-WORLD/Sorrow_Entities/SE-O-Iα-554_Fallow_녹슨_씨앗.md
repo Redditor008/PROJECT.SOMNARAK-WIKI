@@ -171,7 +171,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-Iα-554] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Fallow lies still until it is taken up — a thing of blue grief, whole and waiting. | When the relic is equipped, it activates: begins a slow, uncertain growth that may form a new entity. |
 | 1 Minute | It was born beyond the wall, where sorrow had no one left to witness it. | The effect lasts indefinite, for as long as the relic remains worn. |
@@ -337,7 +337,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Fallow; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-Iα-554] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can wait without forcing growth. The sorrow is witnessed; Fallow is fully recorded. | Reveals the settlement and gardener who abandoned it. The gauge climbs and Fallow withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

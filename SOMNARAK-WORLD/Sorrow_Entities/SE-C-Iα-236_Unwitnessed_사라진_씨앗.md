@@ -177,7 +177,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-Iα-236] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Unwitnessed begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Unwitnessed: Projects concentrated Lament sorrow resonance across the immediate perimeter. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the grief of a beginning that disappeared before anyone could witness it. forged during a traveler lost a seed during a han-storm and later forgot what they had intended to grow. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Unwitnessed; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-236] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can wait for something that will not grow. The sorrow is witnessed; Unwitnessed is fully recorded. | Reveals the plant and future it might have become. The gauge climbs and Unwitnessed withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

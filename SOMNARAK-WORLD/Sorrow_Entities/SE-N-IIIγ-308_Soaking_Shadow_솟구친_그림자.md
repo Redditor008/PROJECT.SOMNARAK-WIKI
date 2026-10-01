@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIIγ-308] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Soaking Shadow rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Soaking Shadow activates its primary resonance: Absorbs and stores hostile emotion. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the exhaustion of becoming a container for other people's anger; the bearer begins perceiving echoes of an alpha tree vault was used to hide grievances until the accumulated resentment took the shape of a shadow. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -316,7 +316,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Soaking Shadow; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIγ-308] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain without adding anger. The sorrow is named; Soaking Shadow is fully recorded. | Reveals the grievances feeding it. The gauge climbs and Soaking Shadow withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

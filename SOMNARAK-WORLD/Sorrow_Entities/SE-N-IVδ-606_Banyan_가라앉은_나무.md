@@ -314,7 +314,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Banyan; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IVδ-606] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Keeps the worker above the submerged roots until they endure. The sorrow is witnessed; Banyan is fully recorded. | Reveals the hidden lives beneath the district. The gauge climbs and Banyan withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

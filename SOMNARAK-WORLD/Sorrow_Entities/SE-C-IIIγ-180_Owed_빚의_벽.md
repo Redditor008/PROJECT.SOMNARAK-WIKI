@@ -303,7 +303,7 @@ The entity has become a symbol among certain personnel — a reminder that sorro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Owed; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-180] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests the worker beneath the city's accumulated weight. The sorrow is borne; Owed is fully recorded. | Reveals the history of individual obligations. The gauge climbs and Owed withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

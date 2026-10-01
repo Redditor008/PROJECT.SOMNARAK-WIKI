@@ -296,7 +296,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Neglect Learned to Listen; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-270] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Forces the worker to carry the whispers without answering them. The sorrow is borne; Neglect Learned to Listen is fully recorded. | Reveals what the city discarded. The gauge climbs and Neglect Learned to Listen withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

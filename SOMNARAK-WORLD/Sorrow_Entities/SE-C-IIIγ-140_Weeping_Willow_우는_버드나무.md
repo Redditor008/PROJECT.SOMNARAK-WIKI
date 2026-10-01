@@ -295,7 +295,7 @@ Personnel who work with the entity consistently report changes in their personal
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Weeping Willow; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-140] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Shelters the worker while they endure their grief. The sorrow is witnessed; Weeping Willow is fully recorded. | Reveals the endings carried by each branch. The gauge climbs and Weeping Willow withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -163,7 +163,7 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIβ-072] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | Father's Broken Bond sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Snapping the octagonal brass tablet in two along its scored center line with both hands.) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the crushing, suffocating realization that in somnarak, poverty is a crime that outlives the father to consume the children. during the archive vault break-in of year 4,166 in the third sump concourse registry; the relic answers only to complete commitment. | The full discharge completes: Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. All hostile entities in range suffer devastating disruption and elemental debuffs. |

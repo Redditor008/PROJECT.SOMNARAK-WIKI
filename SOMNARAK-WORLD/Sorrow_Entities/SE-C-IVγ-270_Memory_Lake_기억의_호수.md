@@ -292,7 +292,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Memory Lake; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVγ-270] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain beside another life. The sorrow is witnessed; Memory Lake is fully recorded. | Reveals deep historical layers. The gauge climbs and Memory Lake withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

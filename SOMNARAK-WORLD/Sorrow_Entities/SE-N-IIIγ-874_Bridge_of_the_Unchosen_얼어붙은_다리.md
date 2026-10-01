@@ -177,7 +177,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIIγ-874] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Bridge of the Unchosen rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Bridge of the Unchosen activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of what could have been if someone had chosen differently; the bearer begins perceiving echoes of a person abandoned a crossing at the last moment; the path froze around the decision. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Bridge of the Unchosen; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIγ-874] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can cross without claiming the alternative life. The sorrow is seen clearly; Bridge of the Unchosen is fully recorded. | Shows the choice at the center of the crossing. The gauge climbs and Bridge of the Unchosen withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

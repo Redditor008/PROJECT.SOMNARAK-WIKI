@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIIβ-156] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Deadline begins thrumming as the channel opens; a palpable wave of weight sorrow sweeps across the containment chamber. | Opening the channel activates Deadline: Displays the next debt deadline. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the dread of waiting for collection and knowing the deadline cannot be escaped. forged during debtors watched clocks while waiting for collectors to arrive; their anxiety crystallized into a timepiece. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -320,7 +320,7 @@ The entity's story has spread through the facility — not as official documenta
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Deadline; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIβ-156] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can wait without surrendering to panic. The sorrow is borne; Deadline is fully recorded. | Reveals the origin of the deadline. The gauge climbs and Deadline withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

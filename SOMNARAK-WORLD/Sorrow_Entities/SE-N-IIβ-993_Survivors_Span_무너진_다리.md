@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Survivors Span; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIβ-993] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Weeps with the worker and lowers its burden. The sorrow is borne; Survivor's Span is fully recorded. | Broken spans strike the tunnel walls. The gauge climbs and Survivor's Span withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

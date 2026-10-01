@@ -284,7 +284,7 @@ The archive cross-references this entity with its registered location — the so
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Forgotten God; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-Vδ-265] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Dreams of ancient prayers become gentler. The sorrow is witnessed; Forgotten God is fully recorded. | The vault fills with divine pressure. The gauge climbs and Forgotten God withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

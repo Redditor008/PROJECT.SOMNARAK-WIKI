@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Walking Calendar; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVδ-220] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Sings a softer chronology and lowers its burden. The sorrow is borne; Walking Calendar is fully recorded. | Adds the worker's anger to its weight. The gauge climbs and Walking Calendar withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

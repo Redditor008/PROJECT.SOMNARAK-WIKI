@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Survivors' Breath; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IVδ-895] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Settles around the worker like shared relief. The sorrow is seen clearly; Survivors' Breath is fully recorded. | Becomes a harsh wind and spreads through the halls. The gauge climbs and Survivors' Breath withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

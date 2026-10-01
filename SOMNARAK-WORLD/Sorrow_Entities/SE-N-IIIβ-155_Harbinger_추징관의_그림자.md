@@ -282,7 +282,7 @@ The entity's presence changes the air — making it heavier, colder, more satura
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Harbinger; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIIβ-155] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Remains close, acknowledging shared burden. The sorrow is borne; Harbinger is fully recorded. | Becomes denser and harder to escape. The gauge climbs and Harbinger withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -185,7 +185,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-048] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Hums begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Hums: Plays a song of the dead and establishes an emotional connection to its source. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the grief of unfinished melodies and lives remembered only through music. forged during songs disappeared when their singers died. the melodies crystallized in the echo gardens so someone could still hear them. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -331,7 +331,7 @@ The entity's presence changes the air — making it heavier, colder, more satura
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Hums; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-048] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; Hums is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Hums withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

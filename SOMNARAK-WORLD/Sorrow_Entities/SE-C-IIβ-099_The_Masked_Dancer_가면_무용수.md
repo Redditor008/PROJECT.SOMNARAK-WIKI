@@ -302,7 +302,7 @@ Personnel who work with the entity consistently report changes in their personal
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Masked Dancer; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-099] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; The Masked Dancer is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Masked Dancer withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

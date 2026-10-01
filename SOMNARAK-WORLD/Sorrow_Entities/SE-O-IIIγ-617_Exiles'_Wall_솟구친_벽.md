@@ -296,7 +296,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Exiles' Wall; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIIγ-617] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can stand at the border. The sorrow is named; Exiles' Wall is fully recorded. | Reveals the homes and people left beyond the Gate. The gauge climbs and Exiles' Wall withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

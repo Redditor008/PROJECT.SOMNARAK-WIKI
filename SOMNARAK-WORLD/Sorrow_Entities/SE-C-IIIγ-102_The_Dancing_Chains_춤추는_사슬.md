@@ -185,7 +185,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-102] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Dancing Chains rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping The Dancing Chains activates its primary resonance: The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from exhaustion, loss of agency, and the grief of being unable to stop moving; the bearer begins perceiving echoes of the story's curse was forgotten, but its compulsion remained and crystallized into the chains. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -331,7 +331,7 @@ The entity exists in a space between memory and forgetting — not quite present
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Dancing Chains; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-102] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; The Dancing Chains is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Dancing Chains withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

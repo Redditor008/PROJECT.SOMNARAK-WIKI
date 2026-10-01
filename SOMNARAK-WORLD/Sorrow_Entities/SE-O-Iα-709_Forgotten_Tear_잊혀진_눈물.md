@@ -177,7 +177,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-Iα-709] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Forgotten Tear rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Forgotten Tear activates its primary resonance: Transfers the forgotten grievance into the holder's awareness. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the anger of a person whose loss was dismissed by everyone around them; the bearer begins perceiving echoes of a death was treated as insignificant; the unacknowledged tear became a red crystal. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -318,7 +318,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Tear; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-Iα-709] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can hold it without claiming it. The sorrow is named; Forgotten Tear is fully recorded. | Reveals the grievance beneath the grief. The gauge climbs and Forgotten Tear withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

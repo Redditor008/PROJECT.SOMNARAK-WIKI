@@ -170,7 +170,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-916] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 seconds | Devouring Bloom waits in silence — an unyielding manifestation of accumulated sorrow — until a current is opened through it. | When the relic is channeled, it activates: floors become heavy and passages narrow. |
 | 1 minute | It crystallized from an unvoiced grief buried beneath the municipal foundations. | The effect persists (while the channel is maintained; interruption ends the effect), strengthening the longer the channel is held. |
@@ -330,7 +330,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Devouring Bloom; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-916] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can bear its growing weight. The sorrow is borne; Devouring Bloom is fully recorded. | Reveals the sorrow attached to each petal. The gauge climbs and Devouring Bloom withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -177,7 +177,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIβ-560] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Dismissed Cry rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Dismissed Cry activates its primary resonance: Releases the emotional force of the original protest. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of a person whose protest was converted into noise by everyone who heard it; the bearer begins perceiving echoes of a witness screamed against an injustice in the desolate; the cry crystallized after being ignored. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Dismissed Cry; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-560] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain with anger without repeating it. The sorrow is named; Dismissed Cry is fully recorded. | Reveals the injustice behind the scream. The gauge climbs and Dismissed Cry withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

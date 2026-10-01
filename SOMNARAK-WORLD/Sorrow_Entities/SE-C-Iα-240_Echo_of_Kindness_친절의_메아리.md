@@ -292,7 +292,7 @@ The entity exists in a space between memory and forgetting — not quite present
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Echo of Kindness; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-240] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Remains nearby while the worker accepts comfort. The sorrow is witnessed; Echo of Kindness is fully recorded. | Reveals the act that formed the Echo. The gauge climbs and Echo of Kindness withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

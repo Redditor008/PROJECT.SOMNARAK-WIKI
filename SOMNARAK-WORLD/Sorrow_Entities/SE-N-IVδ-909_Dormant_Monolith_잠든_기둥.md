@@ -276,7 +276,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Dormant Monolith; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IVδ-909] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The Pillar softens and allows grief to pass. The sorrow is seen clearly; Dormant Monolith is fully recorded. | It rises through the worker's thoughts. The gauge climbs and Dormant Monolith withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

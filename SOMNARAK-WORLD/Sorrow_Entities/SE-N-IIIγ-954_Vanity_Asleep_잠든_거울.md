@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Vanity Asleep; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIIγ-954] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The figure's surface softens and reflects a remembered kindness. The sorrow is seen clearly; Vanity Asleep is fully recorded. | Its reflection fractures into hostile versions of the worker. The gauge climbs and Vanity Asleep withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

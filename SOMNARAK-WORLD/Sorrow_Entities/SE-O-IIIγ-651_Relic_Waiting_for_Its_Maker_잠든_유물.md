@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IIIγ-651] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Relic Waiting for Its Maker begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Relic Waiting for Its Maker: Awakens a dormant resonance field that reinforces all allied armor by +20% and restores weapon sharpness. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the weight of a purpose waiting for a person who will never return. forged during a masked artisan died during a sleep ritual, leaving the relic and its unfinished instruction behind. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Relic Waiting for Its Maker; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIIγ-651] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Keeps the worker in the chamber until silence is endured. The sorrow is seen clearly; Relic Waiting for Its Maker is fully recorded. | Reveals symbols describing the relic's purpose. The gauge climbs and Relic Waiting for Its Maker withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

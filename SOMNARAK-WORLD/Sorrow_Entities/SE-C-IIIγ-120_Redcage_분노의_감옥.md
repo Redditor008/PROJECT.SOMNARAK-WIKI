@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-120] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Redcage rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Redcage activates its primary resonance: Releases a wave of anger and memories of unjust imprisonment. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the fury of being trapped by a system that refuses to admit error; the bearer begins perceiving echoes of citizens were jailed for debts and crimes they did not commit; their rage became the bars of an empty cage. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -322,7 +322,7 @@ The entity has become a symbol among certain personnel — a reminder that sorro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Redcage; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-120] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain near rage without feeding it. The sorrow is named; Redcage is fully recorded. | Reveals the injustices that formed each bar. The gauge climbs and Redcage withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

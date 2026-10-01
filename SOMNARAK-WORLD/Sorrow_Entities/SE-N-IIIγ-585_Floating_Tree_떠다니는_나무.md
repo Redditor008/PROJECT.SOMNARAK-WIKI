@@ -310,7 +310,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Floating Tree; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIγ-585] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain beneath a rootless shelter. The sorrow is witnessed; Floating Tree is fully recorded. | Reveals fragments of the broken community. The gauge climbs and Floating Tree withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

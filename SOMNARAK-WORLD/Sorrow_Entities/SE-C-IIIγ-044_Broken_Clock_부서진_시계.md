@@ -185,7 +185,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-044] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Broken Clock rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Broken Clock activates its primary resonance: The clock's distortion field expands to seven meters; perception and biological time may desynchronize. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of promises trapped in repetition and time that cannot progress; the bearer begins perceiving echoes of the loop made citizens experience events again and again without resolution. their temporal exhaustion crystallized into the clock. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -337,7 +337,7 @@ The archive cross-references this entity with its registered location — the so
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Clock; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-044] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; Broken Clock is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Broken Clock withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -239,9 +239,9 @@ Each M.A.W. piece is a conditional extension of Amnesia, not ordinary equipment.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIβ-914] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-O-IIβ-914] |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

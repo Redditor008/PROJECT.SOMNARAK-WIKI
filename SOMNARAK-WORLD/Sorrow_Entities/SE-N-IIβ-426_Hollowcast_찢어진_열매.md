@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Hollowcast; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIβ-426] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Reaches toward the worker and softens. The sorrow is named; Hollowcast is fully recorded. | Fights back with sharp emotional force. The gauge climbs and Hollowcast withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

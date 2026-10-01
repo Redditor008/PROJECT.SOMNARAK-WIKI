@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Pandoras Jar; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IVδ-967] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Reaches toward the worker, seeking recognition. The sorrow is borne; Pandora's Jar is fully recorded. | Burns with retaliatory fury. The gauge climbs and Pandora's Jar withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

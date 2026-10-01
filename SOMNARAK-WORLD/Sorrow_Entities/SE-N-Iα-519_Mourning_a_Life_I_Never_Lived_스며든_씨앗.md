@@ -314,7 +314,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Mourning a Life I Never Lived; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-Iα-519] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can accept nonexistence. The sorrow is seen clearly; Mourning a Life I Never Lived is fully recorded. | Shows what was imagined but never formed. The gauge climbs and Mourning a Life I Never Lived withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -163,7 +163,7 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IVδ-515] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | The Last Warmth of Forty-Two sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Throwing or shatter-striking the quartz vial against a solid surface or target core.) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the absolute terror of dying alone in freezing darkness, transformed into solidarity by refusing to die in silence. during the great freeze of year 4,188 in sector 09, where an avalanche sealed a crawler beneath forty meters of ice; the relic answers only to complete commitment. | The full discharge completes: Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed. All hostile entities in range suffer devastating disruption and elemental debuffs. |

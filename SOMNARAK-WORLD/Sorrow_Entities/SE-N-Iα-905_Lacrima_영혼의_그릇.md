@@ -193,7 +193,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-Iα-905] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Lacrima rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Lacrima activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the accumulated grief of unacknowledged void; the bearer begins perceiving echoes of a crisis in the city where void went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -318,9 +318,9 @@ Each M.A.W. piece is a conditional extension of Lacrima, not ordinary equipment.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-Iα-905] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-N-Iα-905] |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

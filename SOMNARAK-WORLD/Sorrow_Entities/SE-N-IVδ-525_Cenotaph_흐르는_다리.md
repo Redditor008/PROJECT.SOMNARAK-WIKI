@@ -288,7 +288,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Cenotaph; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IVδ-525] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Reaches for the worker and lowers its anger. The sorrow is named; Cenotaph is fully recorded. | Retaliates with flowing force. The gauge climbs and Cenotaph withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

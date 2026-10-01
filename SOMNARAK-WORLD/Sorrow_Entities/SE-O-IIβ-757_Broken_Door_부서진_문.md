@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IIβ-757] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Broken Door begins thrumming as the channel opens; a palpable wave of grudge sorrow sweeps across the containment chamber. | Opening the channel activates Broken Door: Opens an anomalous egress threshold, allowing squad members to bypass spatial obstacles and relocate 3 nodes. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the anger of being forced to leave before goodbye or explanation. forged during a family home was divided during an echo incident; the door survived while the family did not remain together. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -318,7 +318,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Door; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIβ-757] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Requires the worker to remain at the threshold. The sorrow is named; Broken Door is fully recorded. | Shows the moment the home was broken. The gauge climbs and Broken Door withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

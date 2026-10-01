@@ -280,7 +280,7 @@ Weight of Silence is invisible — a pressure with no source, a heaviness with n
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Weight of Silence; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIα-285] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Pressure eases when tears accompany speech. The sorrow is borne; Weight of Silence is fully recorded. | Weight presses harder against the chest. The gauge climbs and Weight of Silence withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -171,7 +171,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IVδ-315] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Collapsed Seed lies still until it is taken up — a thing of blue grief, whole and waiting. | When the relic is equipped, it activates: begins a dangerous partial manifestation. |
 | 1 Minute | It was drawn from the quiet sorrows carried inside — the kind never spoken aloud. | The effect lasts until the Seed is removed from the growth medium, for as long as the relic remains worn. |
@@ -333,7 +333,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Collapsed Seed; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IVδ-315] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can wait without forcing growth. The sorrow is witnessed; Collapsed Seed is fully recorded. | Shows the entity it might have become. The gauge climbs and Collapsed Seed withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Drowned Echo; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IIβ-378] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The water recedes slightly and the voice rises. The sorrow is witnessed; Drowned Echo is fully recorded. | Pressure increases and the voice sinks. The gauge climbs and Drowned Echo withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

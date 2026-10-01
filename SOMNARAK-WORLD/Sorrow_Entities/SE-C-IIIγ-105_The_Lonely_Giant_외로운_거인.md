@@ -293,7 +293,7 @@ Containment records trace the crystallization to this location — the sorrow gr
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Lonely Giant; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-105] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; The Lonely Giant is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Lonely Giant withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

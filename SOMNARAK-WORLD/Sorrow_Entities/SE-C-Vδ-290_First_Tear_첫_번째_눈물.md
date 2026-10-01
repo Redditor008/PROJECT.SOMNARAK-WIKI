@@ -179,7 +179,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-Vδ-290] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | First Tear rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping First Tear activates its primary resonance: Unknown. Proximity produces a complete emotional history of sorrow. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the original moment when someone lost something they loved; the bearer begins perceiving echoes of unknown. it occurred before han became structural and before somnarak existed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -303,7 +303,7 @@ First Tear sits in the deepest vault beneath the Alpha Tree — sealed, guarded,
 
 > A choice presented to the observing worker at the climax of contact. One path reveals First Tear; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Vδ-290] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the observer can bear total grief. The sorrow is witnessed; First Tear is fully recorded. | Shows the shape of sorrow before language. The gauge climbs and First Tear withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

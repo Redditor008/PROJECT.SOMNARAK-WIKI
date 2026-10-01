@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Animus; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-Iα-108] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The trace slows and recognizes shared grief. The sorrow is named; Animus is fully recorded. | The ancient fury flares. The gauge climbs and Animus withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

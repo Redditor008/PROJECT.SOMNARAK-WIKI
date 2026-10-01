@@ -185,7 +185,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIα-081] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Broken Mirror rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Broken Mirror activates its primary resonance: Projects a suppressed memory in complete emotional and sensory detail. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from denial—the grief of truths too painful to preserve and too persistent to destroy; the bearer begins perceiving echoes of sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the mirror. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -327,7 +327,7 @@ In the early days of the Archive, when the Keepers first began collecting memori
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Mirror; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIα-081] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; Broken Mirror is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Broken Mirror withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

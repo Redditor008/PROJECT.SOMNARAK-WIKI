@@ -287,7 +287,7 @@ Containment records trace the crystallization to this location — the sorrow gr
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Hollow Tree; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVγ-205] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The interior warms and accepts shared grief. The sorrow is borne; Hollow Tree is fully recorded. | Roots tighten and the hollow deepens. The gauge climbs and Hollow Tree withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

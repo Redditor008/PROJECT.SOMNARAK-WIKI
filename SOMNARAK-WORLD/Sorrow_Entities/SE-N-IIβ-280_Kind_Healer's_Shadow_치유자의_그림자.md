@@ -276,7 +276,7 @@ The entity's presence changes the air — making it heavier, colder, more satura
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Kind Healer's Shadow; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIβ-280] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Moves closer and shares the burden. The sorrow is witnessed; Kind Healer's Shadow is fully recorded. | Retreats from aggression. The gauge climbs and Kind Healer's Shadow withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

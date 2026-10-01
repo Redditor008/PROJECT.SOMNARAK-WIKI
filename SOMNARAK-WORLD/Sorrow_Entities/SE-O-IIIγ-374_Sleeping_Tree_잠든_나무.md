@@ -171,7 +171,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IIIγ-374] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Sleeping Tree lies still until it is taken up — a thing of old, banked embers, whole and waiting. | When the relic is equipped, it activates: shows the dream of the life the travelers intended to build. |
 | 1 Minute | It was born beyond the wall, where sorrow had no one left to witness it. | The effect lasts until the dream ends, for as long as the relic remains worn. |
@@ -333,7 +333,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Sleeping Tree; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIIγ-374] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain without waking it. The sorrow is named; Sleeping Tree is fully recorded. | Reveals the travelers and the broken promise. The gauge climbs and Sleeping Tree withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -302,7 +302,7 @@ In the early days of Zone B, when the first settlers built their homes from soli
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Whispering Walls; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-011] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; Whispering Walls is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Whispering Walls withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

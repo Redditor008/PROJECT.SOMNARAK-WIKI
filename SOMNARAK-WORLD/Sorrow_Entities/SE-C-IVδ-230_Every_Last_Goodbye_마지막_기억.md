@@ -282,7 +282,7 @@ The entity's containment zone has become a gathering place for certain personnel
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Every Last Goodbye; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVδ-230] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Shows final moments of love, acceptance, or peace. The sorrow is seen clearly; Every Last Goodbye is fully recorded. | Releases a wave of fear and regret. The gauge climbs and Every Last Goodbye withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

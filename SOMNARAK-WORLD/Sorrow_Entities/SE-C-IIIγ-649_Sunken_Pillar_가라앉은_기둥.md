@@ -290,7 +290,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Sunken Pillar; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-649] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can mourn possibility without calling it history. The sorrow is seen clearly; Sunken Pillar is fully recorded. | Shows the lives and structures that never came. The gauge climbs and Sunken Pillar withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

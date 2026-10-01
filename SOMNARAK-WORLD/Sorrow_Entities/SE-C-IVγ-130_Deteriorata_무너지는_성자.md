@@ -282,7 +282,7 @@ The sorrow did not emerge from nothing. It grew around this location until it wa
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Deteriorata; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVγ-130] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Cracks close briefly when sorrow is shared. The sorrow is borne; Deteriorata is fully recorded. | Crumbling accelerates and fragments become heavy. The gauge climbs and Deteriorata withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

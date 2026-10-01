@@ -301,7 +301,7 @@ Field analysis confirms the sorrow accumulated over cycles at this location unti
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Emberling embers; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-101] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; Emberling is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Emberling withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

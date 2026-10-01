@@ -294,7 +294,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Rift; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVδ-193] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can cross without denying the division. The sorrow is borne; Rift is fully recorded. | Reveals what the wall separated and protected. The gauge climbs and Rift withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

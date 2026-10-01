@@ -284,7 +284,7 @@ The entity has become a symbol among certain personnel — a reminder that sorro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Aphonia; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIβ-170] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Silent tears appear and the scream softens. The sorrow is seen clearly; Aphonia is fully recorded. | The silent scream becomes physically painful. The gauge climbs and Aphonia withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

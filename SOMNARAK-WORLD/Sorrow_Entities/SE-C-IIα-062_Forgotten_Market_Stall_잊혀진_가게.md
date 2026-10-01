@@ -185,7 +185,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIα-062] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Forgotten Market Stall rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Forgotten Market Stall activates its primary resonance: The Stall manifests and offers impossible goods. Purchased memories may be experienced as if personally lived. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the loss of commerce, community, and the ordinary exchanges that made a life feel real; the bearer begins perceiving echoes of the forgotten market emptied as districts shifted. the merchants' abandoned hopes crystallized into a stall that sells what was lost. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -327,7 +327,7 @@ The Director notes: this sorrow is representative, not anomalous. It is the city
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Market Stall; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIα-062] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; Forgotten Market Stall is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Forgotten Market Stall withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

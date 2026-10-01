@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Dreaming Ruin; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIIγ-505] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Rebuilds a gentle portion of the remembered room. The sorrow is seen clearly; Dreaming Ruin is fully recorded. | Collapses and throws dream debris. The gauge climbs and Dreaming Ruin withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

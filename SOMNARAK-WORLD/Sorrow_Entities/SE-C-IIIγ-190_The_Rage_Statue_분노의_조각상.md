@@ -291,7 +291,7 @@ The entity's story has spread through the facility — not as official documenta
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Rage Statue; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IIIγ-190] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The face softens and the raised fist lowers slightly. The sorrow is named; The Rage Statue is fully recorded. | Heat gathers in the fist and rage intensifies. The gauge climbs and The Rage Statue withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

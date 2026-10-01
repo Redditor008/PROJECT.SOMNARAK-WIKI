@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-195] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Learned Your Face begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Learned Your Face: Shows the viewer's sorrow without its usual defenses. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the loneliness of believing no one could understand one's grief. forged during citizens brought their pain to a sealed alpha tree room and left without speaking. the unshared sorrow became reflective. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -320,7 +320,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Learned Your Face; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-195] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Requires the worker to remain with the reflected sorrow. The sorrow is seen clearly; Learned Your Face is fully recorded. | Reveals the grief hidden beneath behavior. The gauge climbs and Learned Your Face withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

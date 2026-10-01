@@ -163,7 +163,7 @@ Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IIIγ-412] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | The Wedge That Held sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram).) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender. during the great basalt rupture of year 4,185 in old cheonbulok, where supervisors welded shut the blast flues; the relic answers only to complete commitment. | The full discharge completes: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. All hostile entities in range suffer devastating disruption and elemental debuffs. |

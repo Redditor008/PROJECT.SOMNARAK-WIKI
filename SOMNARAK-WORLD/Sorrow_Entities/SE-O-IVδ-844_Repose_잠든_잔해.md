@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Repose; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IVδ-844] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The figure sleeps more peacefully and the ruins settle. The sorrow is witnessed; Repose is fully recorded. | The dream shifts into a destructive collapse. The gauge climbs and Repose withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

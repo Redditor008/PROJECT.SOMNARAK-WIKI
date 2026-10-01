@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-290] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | Broken Compass sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Touch and naming a destination.) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the fear of having no direction and no trusted path back. during a survey corps member lost a route in the forge district and never found the correct direction again; the relic answers only to complete commitment. | The full discharge completes: Points toward the nearest concentrated sorrow. All hostile entities in range suffer devastating disruption and elemental debuffs. |
@@ -318,7 +318,7 @@ Broken Compass sits in a vault in Zone D — ancient, cracked, its needle spinni
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Compass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-290] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can watch without reacting. The sorrow is seen clearly; Broken Compass is fully recorded. | Reveals the pattern behind being lost. The gauge climbs and Broken Compass withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

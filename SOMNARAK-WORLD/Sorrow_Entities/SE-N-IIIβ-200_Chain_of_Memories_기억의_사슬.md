@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIIβ-200] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Chain of Memories rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Chain of Memories activates its primary resonance: Connects the user's memory to the memory contained in the link. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the weight of remembering for people who cannot or will not remember themselves; the bearer begins perceiving echoes of families traded memories to preserve history after records were destroyed; the memories crystallized into links. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -316,7 +316,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Chain of Memories; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIβ-200] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can carry shared history. The sorrow is borne; Chain of Memories is fully recorded. | Displays the relationships between memories. The gauge climbs and Chain of Memories withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

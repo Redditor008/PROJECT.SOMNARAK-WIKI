@@ -177,7 +177,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIβ-778] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Well of Unfinished Words begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Well of Unfinished Words: Acoustic reverberation silences hostile psychic chants across Range Band 2, preventing mental panic cascades. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the need to tell a loss and find no one willing to hear it. forged during border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. their words sank into the ground. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -322,7 +322,7 @@ The archive cross-references this entity with its registered location — the so
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Well of Unfinished Words; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-778] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Requires the worker to remain and listen without interruption. The sorrow is witnessed; Well of Unfinished Words is fully recorded. | Reveals the grief embedded in the water. The gauge climbs and Well of Unfinished Words withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

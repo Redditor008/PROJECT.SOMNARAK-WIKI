@@ -284,7 +284,7 @@ The entity's containment zone has become a gathering place for certain personnel
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Panopticon; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IIβ-235] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Eyes blink and acknowledge the worker. The sorrow is seen clearly; Panopticon is fully recorded. | Stares without blinking. The gauge climbs and Panopticon withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -296,7 +296,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Harvest Beyond the Gate; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-627] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain near an impossible return. The sorrow is named; Harvest Beyond the Gate is fully recorded. | Reveals the desire inside each fruit. The gauge climbs and Harvest Beyond the Gate withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

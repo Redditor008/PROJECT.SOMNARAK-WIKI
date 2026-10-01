@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-102] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Frozen Tear rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Frozen Tear activates its primary resonance: Creates a quiet field where emotional distress can be acknowledged. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of someone unable to cry despite having lost everything; the bearer begins perceiving echoes of a mourner's first and only tear froze before it could fall. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -319,7 +319,7 @@ Personnel who work with the entity consistently report changes in their personal
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Frozen Tear; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-102] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can sit beside grief without touching it. The sorrow is witnessed; Frozen Tear is fully recorded. | Reveals the instant the tear crystallized. The gauge climbs and Frozen Tear withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

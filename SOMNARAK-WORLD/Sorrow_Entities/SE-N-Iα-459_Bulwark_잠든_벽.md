@@ -296,7 +296,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Bulwark; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-Iα-459] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can wait without waking the sorrow. The sorrow is seen clearly; Bulwark is fully recorded. | Reveals what the wall was built to exclude. The gauge climbs and Bulwark withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

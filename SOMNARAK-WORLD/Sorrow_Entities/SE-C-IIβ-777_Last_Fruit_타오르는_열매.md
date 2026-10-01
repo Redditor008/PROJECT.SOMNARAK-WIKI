@@ -286,7 +286,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Last Fruit; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IIβ-777] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Fire dims and the fruit's warmth becomes gentle. The sorrow is named; Last Fruit is fully recorded. | Sparks burst outward and the figure burns brighter. The gauge climbs and Last Fruit withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIβ-801] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Mirror of Soaking rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Mirror of Soaking activates its primary resonance: Displays hidden anger and its original injustice. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of injustice left unnamed and anger treated as unacceptable; the bearer begins perceiving echoes of citizens swallowed rage under debt and order until suppressed anger became a reflective object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -322,7 +322,7 @@ Collectors called anger disorder and demanded gratitude from people whose debts 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Mirror of Soaking; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-801] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Forces the worker to remain before their own rage. The sorrow is named; Mirror of Soaking is fully recorded. | Reveals the event that created the anger. The gauge climbs and Mirror of Soaking withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

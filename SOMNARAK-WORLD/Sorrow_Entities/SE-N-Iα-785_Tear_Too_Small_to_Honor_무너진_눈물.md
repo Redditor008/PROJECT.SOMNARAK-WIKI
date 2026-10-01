@@ -177,7 +177,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-Iα-785] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Tear Too Small to Honor rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Tear Too Small to Honor activates its primary resonance: Transfers the feeling of the original grief. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the pain of wanting to cry but believing the grief is too small or embarrassing to deserve release; the bearer begins perceiving echoes of a visitor hid a single tear beneath a garden stone; the grief flattened into a collapsed object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Tear Too Small to Honor; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-Iα-785] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can hold grief without dismissing it. The sorrow is witnessed; Tear Too Small to Honor is fully recorded. | Reveals the small loss that formed it. The gauge climbs and Tear Too Small to Honor withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

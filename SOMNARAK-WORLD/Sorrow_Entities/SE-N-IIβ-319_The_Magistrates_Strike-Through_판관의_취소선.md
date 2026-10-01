@@ -163,7 +163,7 @@ Operatives assigned to Ferrehan must wear silk-lined gloves. If bare skin contac
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIβ-319] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | The Magistrate's Strike-Through sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Grinding the chalk along the floor to complete a closed unbroken circle around allies.) initiates an instantaneous, irreversible discharge across the battlefield. |
 | 3 Uses | Crystallized from the horror of holding the power to sentence the innocent and choosing self-annihilation over compliance. during the great directorate purge of year 4,119 on floor 6, where executioners demanded eighty-two signed death warrants before dawn; the relic answers only to complete commitment. | The full discharge completes: The chalk grinds completely into powder, creating a 30-second sanctuary. Allies inside are immune to Void damage, panic, and mind erosion. Hostiles crossing the line take 15 Void damage and are repelled 2 nodes. All hostile entities in range suffer devastating disruption and elemental debuffs. |

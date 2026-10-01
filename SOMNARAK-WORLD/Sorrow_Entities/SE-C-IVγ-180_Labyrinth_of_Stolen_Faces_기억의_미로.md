@@ -294,7 +294,7 @@ The entity exists in a space between memory and forgetting — not quite present
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Labyrinth of Stolen Faces; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVγ-180] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can continue without a stable map. The sorrow is seen clearly; Labyrinth of Stolen Faces is fully recorded. | Reveals the memory architecture. The gauge climbs and Labyrinth of Stolen Faces withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

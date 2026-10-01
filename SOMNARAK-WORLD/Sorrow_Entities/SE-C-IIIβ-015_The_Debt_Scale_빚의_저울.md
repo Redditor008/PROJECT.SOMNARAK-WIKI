@@ -177,7 +177,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIβ-015] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Debt Scale rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping The Debt Scale activates its primary resonance: Displays the user's karmic debt as weight and feeling. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of people judged by corrupt systems and the fear of an impartial measure that might reveal too much; the bearer begins perceiving echoes of citizens demanded that debt be measured fairly rather than assigned by collector preference. the demand became a scale. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -320,7 +320,7 @@ The archive cross-references this entity with its registered location — the so
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Debt Scale; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIβ-015] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Holds the worker beneath the emotional weight of measurement. The sorrow is seen clearly; The Debt Scale is fully recorded. | Displays the structure of a person's obligations. The gauge climbs and The Debt Scale withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

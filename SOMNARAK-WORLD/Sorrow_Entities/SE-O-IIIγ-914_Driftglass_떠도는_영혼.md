@@ -173,7 +173,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IIIγ-914] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Driftglass lies still until it is taken up — a thing of blue grief, whole and waiting. | When the relic is equipped, it activates: personnel feel loss of direction and belonging. |
 | 1 Minute | It was born beyond the wall, where sorrow had no one left to witness it. | The effect lasts until a resting place is acknowledged, for as long as the relic remains worn. |
@@ -230,7 +230,7 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IIIγ-914] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Driftglass rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Driftglass activates its primary resonance: Personnel feel loss of direction and belonging. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of wandering after every destination has become unfamiliar; the bearer begins perceiving echoes of a desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -371,7 +371,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Driftglass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIIγ-914] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain with a wanderer. The sorrow is witnessed; Driftglass is fully recorded. | Reveals routes beyond the city. The gauge climbs and Driftglass withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

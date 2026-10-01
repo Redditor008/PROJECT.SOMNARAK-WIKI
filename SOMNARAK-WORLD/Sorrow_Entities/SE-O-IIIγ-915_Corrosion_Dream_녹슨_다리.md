@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Corrosion Dream; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IIIγ-915] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Sings a warmer verse and lowers its rusted hands. The sorrow is seen clearly; Corrosion Dream is fully recorded. | The bridge plates twist into defensive edges. The gauge climbs and Corrosion Dream withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

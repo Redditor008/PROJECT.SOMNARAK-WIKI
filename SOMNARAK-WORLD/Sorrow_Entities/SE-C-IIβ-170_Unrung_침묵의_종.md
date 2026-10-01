@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-170] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Unrung rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Unrung activates its primary resonance: Opens one sealed door or reveals one suppressed warning. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of knowing a warning existed but no one heard it in time; the bearer begins perceiving echoes of a bell was meant to signal catastrophe, but the signal never sounded. the unspoken warning became a silent object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -324,7 +324,7 @@ The entity's story has spread through the facility — not as official documenta
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Unrung; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-170] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests the worker's ability to remain before silence. The sorrow is seen clearly; Unrung is fully recorded. | Reveals the warnings that were ignored. The gauge climbs and Unrung withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

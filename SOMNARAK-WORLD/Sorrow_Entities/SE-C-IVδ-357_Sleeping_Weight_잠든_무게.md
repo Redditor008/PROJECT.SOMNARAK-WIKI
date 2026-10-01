@@ -278,7 +278,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Sleeping Weight; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVδ-357] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Remains asleep and its weight becomes gentler. The sorrow is borne; Sleeping Weight is fully recorded. | The tunnel grows heavier and the figure stirs. The gauge climbs and Sleeping Weight withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

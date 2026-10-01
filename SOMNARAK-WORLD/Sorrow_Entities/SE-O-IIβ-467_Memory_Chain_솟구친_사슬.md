@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Memory Chain; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IIβ-467] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Links loosen and the voice becomes gentle. The sorrow is witnessed; Memory Chain is fully recorded. | The voice tightens around the worker's thoughts. The gauge climbs and Memory Chain withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

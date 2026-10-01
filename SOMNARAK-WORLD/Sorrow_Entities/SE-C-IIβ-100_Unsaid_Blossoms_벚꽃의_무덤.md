@@ -294,7 +294,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Unsaid Blossoms; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-100] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Requires the worker to remain beneath falling petals. The sorrow is witnessed; Unsaid Blossoms is fully recorded. | Reveals the emotional history of the grave. The gauge climbs and Unsaid Blossoms withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

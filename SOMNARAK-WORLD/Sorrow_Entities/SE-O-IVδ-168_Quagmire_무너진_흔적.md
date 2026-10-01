@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IVδ-168] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Quagmire rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Quagmire activates its primary resonance: Projects concentrated Lament sorrow resonance across the immediate perimeter. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the burden of a journey ending without arrival; the bearer begins perceiving echoes of a desolate path collapsed under han, carrying the tracks and names of everyone who had used it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Quagmire; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IVδ-168] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain at the end of a journey. The sorrow is witnessed; Quagmire is fully recorded. | Reveals the route and its missing travelers. The gauge climbs and Quagmire withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -294,7 +294,7 @@ Personnel who work with the entity consistently report changes in their personal
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Midnight Choir; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-245] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The Walls sing for hours while testing attention. The sorrow is witnessed; Midnight Choir is fully recorded. | Songs reveal historical events and lost voices. The gauge climbs and Midnight Choir withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -177,7 +177,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IVδ-115] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Broken Fragment rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Broken Fragment activates its primary resonance: Displays the burden carried by the monument's former community. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the burden of history condensed into one piece too heavy to move; the bearer begins perceiving echoes of a border monument commemorating generations of debt was shattered during an uprising; one fragment remained. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -318,7 +318,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Fragment; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IVδ-115] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain beneath its pressure. The sorrow is borne; Broken Fragment is fully recorded. | Reveals the monument's debt history. The gauge climbs and Broken Fragment withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

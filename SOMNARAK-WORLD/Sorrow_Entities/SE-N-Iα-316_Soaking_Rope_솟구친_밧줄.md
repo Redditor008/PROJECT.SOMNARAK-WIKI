@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Soaking Rope; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-Iα-316] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The rope loosens and becomes visible. The sorrow is named; Soaking Rope is fully recorded. | It tightens around thought and spreads anger. The gauge climbs and Soaking Rope withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

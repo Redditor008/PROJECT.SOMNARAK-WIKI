@@ -276,7 +276,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Shadow; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIβ-453] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Moves closer and sings a softer verse. The sorrow is witnessed; Forgotten Shadow is fully recorded. | Grows heavy and follows aggressively. The gauge climbs and Forgotten Shadow withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

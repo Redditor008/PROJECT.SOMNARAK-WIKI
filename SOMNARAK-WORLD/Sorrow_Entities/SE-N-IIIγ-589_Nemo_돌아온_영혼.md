@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Nemo; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIIγ-589] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Weeps with the worker and reveals a name. The sorrow is witnessed; Nemo is fully recorded. | Retaliates with waves of memory and sorrow. The gauge climbs and Nemo withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

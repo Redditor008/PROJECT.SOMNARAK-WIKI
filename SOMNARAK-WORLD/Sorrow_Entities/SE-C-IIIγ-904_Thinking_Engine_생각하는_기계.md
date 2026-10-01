@@ -187,7 +187,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-904] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Thinking Engine begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Thinking Engine: Projects concentrated Lament sorrow resonance across the immediate perimeter. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the accumulated grief of unacknowledged lament. forged during a crisis in the city where lament went unaddressed. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -289,9 +289,9 @@ Each M.A.W. piece is a conditional extension of Thinking Engine, not ordinary eq
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-904] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-IIIγ-904] |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

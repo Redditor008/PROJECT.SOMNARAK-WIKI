@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Double Mouth; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IIβ-716] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The tones harmonize and reveal the witness's grief. The sorrow is named; Double Mouth is fully recorded. | The angry tone becomes a painful shout. The gauge climbs and Double Mouth withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

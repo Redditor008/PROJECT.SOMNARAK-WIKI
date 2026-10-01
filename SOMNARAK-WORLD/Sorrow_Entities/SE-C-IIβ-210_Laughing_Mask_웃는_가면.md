@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-210] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Laughing Mask rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Laughing Mask activates its primary resonance: Produces an appearance of effortless happiness. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of laughing so others would not know you were hurting; the bearer begins perceiving echoes of a performer continued entertaining the mask market after losing everyone they loved. the laughter became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -316,7 +316,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Laughing Mask; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-210] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Laughs for hours, testing whether the worker can remain present. The sorrow is seen clearly; Laughing Mask is fully recorded. | Shows the face behind the laughter. The gauge climbs and Laughing Mask withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

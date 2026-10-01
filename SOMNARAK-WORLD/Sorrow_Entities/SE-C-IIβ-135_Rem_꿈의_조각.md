@@ -177,7 +177,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-135] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Rem rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Rem activates its primary resonance: Induces a restorative lucid reverie, purging cognitive confusion and restoring +20 Composure. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the loss of an imagined life that felt more real than the waking one; the bearer begins perceiving echoes of a dreamer died before completing a cherished dream; its emotional residue broke loose near the dream gates. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -328,7 +328,7 @@ Rem drifts through Zone A — a piece of the Dream realm that has broken off and
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Rem; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-135] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Makes the worker remain inside a repeating dream image. The sorrow is witnessed; Rem is fully recorded. | Reveals the dream's incomplete structure. The gauge climbs and Rem withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

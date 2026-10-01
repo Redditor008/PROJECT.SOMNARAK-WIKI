@@ -314,7 +314,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Homeless Sorrow; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIβ-119] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Follows the worker until they can remain in darkness. The sorrow is seen clearly; Homeless Sorrow is fully recorded. | Reveals traces of those who passed through. The gauge climbs and Homeless Sorrow withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

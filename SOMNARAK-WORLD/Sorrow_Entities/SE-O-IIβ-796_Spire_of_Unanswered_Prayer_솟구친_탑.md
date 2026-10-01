@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Spire of Unanswered Prayer; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IIβ-796] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The song lowers and warmth becomes gentle. The sorrow is witnessed; Spire of Unanswered Prayer is fully recorded. | The voice becomes a storm of hot tears. The gauge climbs and Spire of Unanswered Prayer withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

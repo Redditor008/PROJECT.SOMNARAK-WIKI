@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Myrmidon; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IIβ-235] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Reaches toward the worker through the tear. The sorrow is named; Myrmidon is fully recorded. | Attacks symbols of authority and perceived representation. The gauge climbs and Myrmidon withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

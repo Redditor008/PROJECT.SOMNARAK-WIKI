@@ -296,7 +296,7 @@ The entity exists in a space between memory and forgetting — not quite present
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Black River; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Vγ-225] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain near total sorrow. The sorrow is borne; Black River is fully recorded. | Reveals the grief carried through its currents. The gauge climbs and Black River withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

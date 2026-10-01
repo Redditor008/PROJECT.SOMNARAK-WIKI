@@ -185,7 +185,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-054] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Empty Mask rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping The Empty Mask activates its primary resonance: Makes the wearer unrecognizable to others. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of becoming nothing to oneself and to everyone else; the bearer begins perceiving echoes of citizens erased names, faces, and histories to survive. the accumulated absence crystallized into a mask with no face. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -331,7 +331,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Empty Mask; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-054] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; The Empty Mask is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Empty Mask withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

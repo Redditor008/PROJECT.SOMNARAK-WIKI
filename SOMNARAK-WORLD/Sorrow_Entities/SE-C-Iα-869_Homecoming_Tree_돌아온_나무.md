@@ -312,7 +312,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Homecoming Tree; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-869] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Requires the worker to remain beneath it without claiming ownership. The sorrow is witnessed; Homecoming Tree is fully recorded. | Shows the settlement before and after abandonment. The gauge climbs and Homecoming Tree withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

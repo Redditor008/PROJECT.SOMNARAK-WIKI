@@ -294,7 +294,7 @@ The entity's containment zone has become a gathering place for certain personnel
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Risus; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-150] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Continues around the worker until they can hear sadness in joy. The sorrow is witnessed; Risus is fully recorded. | Reveals the people and moment behind the laughter. The gauge climbs and Risus withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

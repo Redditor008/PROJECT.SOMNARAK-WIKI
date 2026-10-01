@@ -191,7 +191,7 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-906] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Grimoire rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Grimoire activates its primary resonance: Projects concentrated Grudge sorrow resonance across the immediate perimeter. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the accumulated grief of unacknowledged grudge; the bearer begins perceiving echoes of a crisis in the city where grudge went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -316,9 +316,9 @@ Each M.A.W. piece is a conditional extension of Grimoire, not ordinary equipment
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-906] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-IIβ-906] |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

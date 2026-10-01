@@ -177,7 +177,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-115] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Remembrance begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Remembrance: Dredges submerged recollections from the city's past, granting +15 Clarity and revealing enemy elemental weaknesses. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the weight of every life being remembered by no one person. forged during accumulated memories passed beneath the archive until they collected into a well. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -322,7 +322,7 @@ The entity exists in a space between memory and forgetting — not quite present
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Remembrance; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-115] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Forces the worker to remain with difficult memories. The sorrow is seen clearly; Remembrance is fully recorded. | Displays the viewer's history in full. The gauge climbs and Remembrance withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

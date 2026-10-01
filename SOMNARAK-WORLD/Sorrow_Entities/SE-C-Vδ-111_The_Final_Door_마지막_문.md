@@ -187,7 +187,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-Vδ-111] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Final Door begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates The Final Door: The Door may whisper a buried truth for exactly thirteen seconds. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the need to know what lies beyond, and the fear that knowledge may be worse than ignorance. forged during none recorded. it was found beneath the alpha tree already sealed. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -336,7 +336,7 @@ The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Final Door; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Vδ-111] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; The Final Door is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Final Door withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

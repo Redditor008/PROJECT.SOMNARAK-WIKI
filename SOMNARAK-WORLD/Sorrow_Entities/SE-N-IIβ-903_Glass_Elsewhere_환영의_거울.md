@@ -191,7 +191,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIβ-903] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Glass Elsewhere begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Glass Elsewhere: Projects concentrated Void sorrow resonance across the immediate perimeter. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the accumulated grief of unacknowledged void. forged during a crisis in the city where void went unaddressed. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -293,9 +293,9 @@ Each M.A.W. piece is a conditional extension of Glass Elsewhere, not ordinary eq
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-903] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-N-IIβ-903] |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

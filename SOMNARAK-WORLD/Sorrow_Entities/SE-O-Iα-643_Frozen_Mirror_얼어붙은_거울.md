@@ -177,7 +177,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-Iα-643] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Frozen Mirror rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Frozen Mirror activates its primary resonance: Reflects suppressed grief as frozen anger. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of being unable to recognize oneself in one's own pain; the bearer begins perceiving echoes of a traveler carried a mirror through the desolate and watched every familiar face disappear from its surface. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -318,7 +318,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Frozen Mirror; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-Iα-643] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain before an unrecognizable self. The sorrow is named; Frozen Mirror is fully recorded. | Reveals the sorrow behind the reflection. The gauge climbs and Frozen Mirror withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

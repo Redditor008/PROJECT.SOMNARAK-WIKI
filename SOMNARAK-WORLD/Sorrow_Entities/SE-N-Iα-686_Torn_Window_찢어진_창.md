@@ -177,7 +177,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-Iα-686] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Torn Window rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Torn Window activates its primary resonance: Shows one former occupant's memory of the window. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of seeing the same place through too many losses; the bearer begins perceiving echoes of a tunnel window was touched by generations of workers until each person's departure remained in the glass. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -318,7 +318,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Torn Window; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-Iα-686] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can look without entering the memory. The sorrow is named; Torn Window is fully recorded. | Reveals the history of the room beyond it. The gauge climbs and Torn Window withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

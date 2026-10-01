@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Swallowed Fury; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-Iα-683] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Becomes clearer and less hostile. The sorrow is named; Swallowed Fury is fully recorded. | Burns with borrowed fury. The gauge climbs and Swallowed Fury withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

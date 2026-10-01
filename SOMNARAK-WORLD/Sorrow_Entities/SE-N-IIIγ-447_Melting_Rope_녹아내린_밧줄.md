@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Melting Rope; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIIγ-447] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The rope reforms and reaches toward the worker. The sorrow is witnessed; Melting Rope is fully recorded. | It melts rapidly and tangles the dream. The gauge climbs and Melting Rope withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

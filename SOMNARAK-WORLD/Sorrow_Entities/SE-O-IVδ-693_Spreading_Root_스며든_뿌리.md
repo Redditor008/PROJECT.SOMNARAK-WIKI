@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Spreading Root; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IVδ-693] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Roots loosen and reveal the grief below. The sorrow is borne; Spreading Root is fully recorded. | Roots harden and spread aggressively. The gauge climbs and Spreading Root withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

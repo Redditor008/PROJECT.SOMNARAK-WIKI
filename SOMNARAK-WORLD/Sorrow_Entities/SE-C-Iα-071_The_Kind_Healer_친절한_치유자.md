@@ -304,7 +304,7 @@ Containment records trace the crystallization to this location — the sorrow gr
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Kind Healer; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-071] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; The Kind Healer is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Kind Healer withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

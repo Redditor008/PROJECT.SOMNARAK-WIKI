@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Mirror of Rising; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-Iα-392] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The reflected name becomes clearer. The sorrow is borne; Mirror of Rising is fully recorded. | The mirror rises sharply and reflects rage. The gauge climbs and Mirror of Rising withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

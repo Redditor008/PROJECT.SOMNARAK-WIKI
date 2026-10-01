@@ -312,7 +312,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Perennial; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-845] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can stand beneath karmic weight. The sorrow is borne; Perennial is fully recorded. | Reveals the settlement's cycles of return and loss. The gauge climbs and Perennial withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

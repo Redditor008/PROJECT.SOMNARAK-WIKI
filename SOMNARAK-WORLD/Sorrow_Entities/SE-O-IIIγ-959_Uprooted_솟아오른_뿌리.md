@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Uprooted; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-IIIγ-959] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Flames dim and roots loosen. The sorrow is witnessed; Uprooted is fully recorded. | Roots strike outward and structures rise violently. The gauge climbs and Uprooted withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

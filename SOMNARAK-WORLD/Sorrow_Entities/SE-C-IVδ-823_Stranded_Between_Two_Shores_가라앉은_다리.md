@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Stranded Between Two Shores; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVδ-823] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Weeps with the worker and lowers its span. The sorrow is witnessed; Stranded Between Two Shores is fully recorded. | The bridge cracks and the tunnel fills with tears. The gauge climbs and Stranded Between Two Shores withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-609] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Frozen Echo rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Frozen Echo activates its primary resonance: Projects the emotional history of one former owner. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the burden of carrying everyone else's history without retaining a single owner; the bearer begins perceiving echoes of a relic circulated through refugees and scavengers until their memories froze inside its surface. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -316,7 +316,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Frozen Echo; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-609] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can carry history without possession. The sorrow is witnessed; Frozen Echo is fully recorded. | Reveals the chain of former owners. The gauge climbs and Frozen Echo withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

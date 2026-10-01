@@ -264,10 +264,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Fading Whisper (N-IIIγ-407 [N]) is logged as a Subject-Grudge manifestation expressing Void. The Whisper formed from a place erased from one person's memory. Held at Zone A, Alpha Tree. The figure fades after every completed sentence.
 
-**Entry 2 (SE-N-IIIγ-407) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Alpha Tree corridors and memory spaces. Personnel feel longing for places they cannot identify. It becomes stronger when someone denies the missing place.
 
-**Entry 3 (SE-N-IIIγ-407) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of losing an entire part of life while knowing something is missing.
 
 **Entry 4 — <Containment Notice>**
@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Fading Whisper; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIIγ-407] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Becomes clearer and speaks more gently. The sorrow is seen clearly; Fading Whisper is fully recorded. | Burns brighter and fades faster. The gauge climbs and Fading Whisper withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

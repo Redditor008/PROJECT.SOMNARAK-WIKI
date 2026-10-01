@@ -310,7 +310,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Flowing Seed; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIγ-628] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests the worker beneath constant weight. The sorrow is borne; Flowing Seed is fully recorded. | Reveals memories erased by the city. The gauge climbs and Flowing Seed withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

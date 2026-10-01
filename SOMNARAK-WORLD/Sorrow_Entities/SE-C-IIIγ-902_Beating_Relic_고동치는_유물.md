@@ -170,7 +170,7 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-902] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Beating Relic rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Beating Relic activates its primary resonance: Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the accumulated grief of unacknowledged grudge; the bearer begins perceiving echoes of a crisis in the city where grudge went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -272,9 +272,9 @@ Each M.A.W. piece is a conditional extension of Beating Relic, not ordinary equi
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-902] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. [SE-C-IIIγ-902] |
+| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

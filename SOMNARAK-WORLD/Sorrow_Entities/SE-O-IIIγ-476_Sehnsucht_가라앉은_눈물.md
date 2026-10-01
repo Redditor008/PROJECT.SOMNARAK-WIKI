@@ -177,7 +177,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IIIγ-476] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Sehnsucht rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Sehnsucht activates its primary resonance: Releases a memory of the sorrow into the worker. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the weight of grief hidden so deeply that even the person who felt it forgot its source; the bearer begins perceiving echoes of a traveler buried a final tear near the scar rather than allow anyone to see it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Sehnsucht; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIIγ-476] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain beside buried sorrow. The sorrow is borne; Sehnsucht is fully recorded. | Reveals the event beneath the forgotten grief. The gauge climbs and Sehnsucht withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

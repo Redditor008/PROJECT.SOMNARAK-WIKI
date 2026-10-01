@@ -276,7 +276,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Floating Fragment; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-Iα-453] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Drifts closer and dims its flame. The sorrow is witnessed; Floating Fragment is fully recorded. | Spins and emits a sharper cry. The gauge climbs and Floating Fragment withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

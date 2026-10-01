@@ -177,7 +177,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-310] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Cracked Mirror rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Cracked Mirror activates its primary resonance: Shows the viewer's true self without social masks. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of people unable to face their own truth; the bearer begins perceiving echoes of mask market citizens sought mirrors that would flatter them; one mirror refused and cracked under the burden. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -316,7 +316,7 @@ The entity has become a symbol among certain personnel — a reminder that sorro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Cracked Mirror; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-310] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can look without flinching. The sorrow is seen clearly; Cracked Mirror is fully recorded. | Displays the truth behind the cracks. The gauge climbs and Cracked Mirror withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

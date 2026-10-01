@@ -278,7 +278,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Vanished Tree; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-Iα-622] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Branches return and the tree weeps gently. The sorrow is named; Vanished Tree is fully recorded. | It burns along the disappearing roots. The gauge climbs and Vanished Tree withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

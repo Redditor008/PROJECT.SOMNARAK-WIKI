@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Sleeping Shard; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IVδ-611] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | It sleeps more peacefully and its tears slow. The sorrow is seen clearly; Sleeping Shard is fully recorded. | The dream fractures and the Shard wakes angrily. The gauge climbs and Sleeping Shard withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

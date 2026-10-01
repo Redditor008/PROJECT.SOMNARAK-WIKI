@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-891] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Screaming Masonry rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Screaming Masonry activates its primary resonance: +3 stat bonus when working the source entity Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the pressure of promises and duties accumulating until the body could no longer carry them; the bearer begins perceiving echoes of residents of old lament failed one another through generations, leaving their unfulfilled duties in the walls. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -320,7 +320,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Screaming Masonry; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-891] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Weighs the worker's resolve. The sorrow is borne; Screaming Masonry is fully recorded. | Reveals the obligations behind the cry. The gauge climbs and Screaming Masonry withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

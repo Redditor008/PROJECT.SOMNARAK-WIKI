@@ -136,8 +136,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (SE-O-IIIγ-369)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (SE-O-IIIγ-369)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Fragments can be assembled into partial histories. | Stable |
 | **Ferrehan** | Continues whispering until the worker can bear incompletion. | Decrease |
 
@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IIIγ-369] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Broken Whisper rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Broken Whisper activates its primary resonance: Returns one broken whisper as a complete emotional message. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the burden of unfinished pleas and voices broken by fear; the bearer begins perceiving echoes of messages from the deep tunnels were silenced by collapse and han pressure. their fragments crystallized into the object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -302,10 +302,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Whisper (O-IIIγ-369 [LO]) is logged as a Object-Weight manifestation expressing Lament. The object formed from words interrupted before they could be heard. Held at Zone B, deep tunnels. The object floats along underground sorrow currents.
 
-**Entry 2 (SE-O-IIIγ-369) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 No complete message has been recovered without human interpretation.
 
-**Entry 3 (SE-O-IIIγ-369) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of unfinished pleas and voices broken by fear.
 
 **Entry 4 — <Containment Notice>**
@@ -318,7 +318,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Whisper; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIIγ-369] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Continues whispering until the worker can bear incompletion. The sorrow is witnessed; Broken Whisper is fully recorded. | Fragments can be assembled into partial histories. The gauge climbs and Broken Whisper withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -185,7 +185,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIβ-036] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Cracked Hourglass rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping The Cracked Hourglass activates its primary resonance: Briefly slows time in the surrounding area. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from fear of mortality, deadlines, wasted moments, and unrecoverable choices; the bearer begins perceiving echoes of the city's constant pressure to hurry and the knowledge that time cannot be reclaimed crystallized into leaking sand. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -339,7 +339,7 @@ The entity's presence changes the air — making it heavier, colder, more satura
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Cracked Hourglass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIβ-036] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; The Cracked Hourglass is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Cracked Hourglass withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

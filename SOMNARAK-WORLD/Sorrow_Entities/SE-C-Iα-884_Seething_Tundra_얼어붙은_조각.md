@@ -177,7 +177,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-Iα-884] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Seething Tundra begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Seething Tundra: Transfers a stored emotional memory into the user. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of rage made cold by exhaustion and grief. forged during a mourner tried to preserve a final tear as a memorial; the tear hardened around their anger. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Seething Tundra; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-884] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Remains cold while testing the worker's patience. The sorrow is seen clearly; Seething Tundra is fully recorded. | Reveals the memory embedded in its surface. The gauge climbs and Seething Tundra withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

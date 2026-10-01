@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IVδ-641] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Home to No One Who Knew Me rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Home to No One Who Knew Me activates its primary resonance: Returns a lost object or memory to its previous location briefly. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the instability of belonging—returning home only to find home has forgotten you; the bearer begins perceiving echoes of an artifact left the city, was destroyed or hidden, and later returned to a district that had changed beyond recognition. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -321,7 +321,7 @@ The sorrow did not emerge from nothing. It grew around this location until it wa
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Home to No One Who Knew Me; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IVδ-641] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Remains present while the worker bears uncertainty. The sorrow is named; Home to No One Who Knew Me is fully recorded. | Shows the routes and hands through which it passed. The gauge climbs and Home to No One Who Knew Me withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

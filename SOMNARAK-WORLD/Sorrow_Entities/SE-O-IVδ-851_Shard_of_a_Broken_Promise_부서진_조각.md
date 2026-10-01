@@ -177,7 +177,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-IVδ-851] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Shard of a Broken Promise rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Shard of a Broken Promise activates its primary resonance: Creates a brief protective field. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the pain of trusting words more than circumstances; the bearer begins perceiving echoes of an artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Shard of a Broken Promise; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IVδ-851] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain without repairing it. The sorrow is witnessed; Shard of a Broken Promise is fully recorded. | Shows the promise and the moment it failed. The gauge climbs and Shard of a Broken Promise withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

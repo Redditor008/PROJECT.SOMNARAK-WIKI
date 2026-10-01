@@ -278,7 +278,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Rising Wall; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVδ-255] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The wall lowers and reaches toward the worker. The sorrow is witnessed; Rising Wall is fully recorded. | It hardens against aggression. The gauge climbs and Rising Wall withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

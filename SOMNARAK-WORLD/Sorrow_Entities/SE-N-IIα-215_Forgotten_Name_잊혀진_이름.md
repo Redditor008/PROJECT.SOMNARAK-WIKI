@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Name; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIα-215] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Becomes clearer through tears and repetition. The sorrow is seen clearly; Forgotten Name is fully recorded. | Fades immediately. The gauge climbs and Forgotten Name withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

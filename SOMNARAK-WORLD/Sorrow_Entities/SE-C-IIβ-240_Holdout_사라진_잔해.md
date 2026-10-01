@@ -296,7 +296,7 @@ Containment records trace the crystallization to this location — the sorrow gr
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Holdout; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-240] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain in a place that cannot be repaired. The sorrow is named; Holdout is fully recorded. | Shows the people and purpose of the lost structure. The gauge climbs and Holdout withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

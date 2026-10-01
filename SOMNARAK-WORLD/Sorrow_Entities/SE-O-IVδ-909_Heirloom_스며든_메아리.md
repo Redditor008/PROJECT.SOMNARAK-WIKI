@@ -292,7 +292,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Heirloom; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IVδ-909] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain while the sound burns away. The sorrow is named; Heirloom is fully recorded. | Reveals how the grievance spread. The gauge climbs and Heirloom withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

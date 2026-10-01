@@ -296,7 +296,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Tower Erased Overnight; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-IIβ-677] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Makes the worker stand in the missing tower's shadow. The sorrow is named; Tower Erased Overnight is fully recorded. | Reveals rooms and people who were removed. The gauge climbs and Tower Erased Overnight withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

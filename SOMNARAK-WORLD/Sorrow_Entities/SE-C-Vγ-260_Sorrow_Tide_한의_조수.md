@@ -292,7 +292,7 @@ The entity's containment zone has become a gathering place for certain personnel
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Sorrow Tide; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Vγ-260] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Personnel endure the wave until dawn. The sorrow is borne; Sorrow Tide is fully recorded. | The Tide reveals grief currents across the city. The gauge climbs and Sorrow Tide withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

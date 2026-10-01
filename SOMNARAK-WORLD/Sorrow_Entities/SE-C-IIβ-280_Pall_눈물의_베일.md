@@ -177,7 +177,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIβ-280] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Pall rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Pall activates its primary resonance: Conceals identity and allows the wearer to feel nearby grief. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of mourning privately while appearing composed in public; the bearer begins perceiving echoes of visitors to the echo gardens collected tears to make a veil of shared mourning; the veil became aware of every wearer. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -320,7 +320,7 @@ Pall hangs in the Echo Gardens — delicate, translucent, made of crystallized t
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Pall; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-280] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can wear grief without hiding. The sorrow is witnessed; Pall is fully recorded. | Reveals the people whose tears formed its threads. The gauge climbs and Pall withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

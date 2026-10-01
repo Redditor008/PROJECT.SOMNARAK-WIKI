@@ -177,7 +177,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIβ-016] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Echo Compass begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates The Echo Compass: Points toward the nearest related sorrow source. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the grief of searching for lost memories and discovering sorrow everywhere. forged during keepers built a device to find forgotten memories; the device learned that every direction contained grief. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -320,7 +320,7 @@ The entity's presence changes the air — making it heavier, colder, more satura
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Echo Compass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIβ-016] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can follow without expecting relief. The sorrow is seen clearly; The Echo Compass is fully recorded. | Reveals patterns in its direction changes. The gauge climbs and The Echo Compass withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

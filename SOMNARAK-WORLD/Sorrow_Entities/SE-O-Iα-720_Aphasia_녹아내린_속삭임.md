@@ -288,7 +288,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Aphasia; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-Iα-720] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The figure reforms slightly and speaks more clearly. The sorrow is named; Aphasia is fully recorded. | Melts rapidly and spreads angry whispers. The gauge climbs and Aphasia withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

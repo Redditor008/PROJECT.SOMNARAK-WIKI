@@ -278,7 +278,7 @@ The entity's containment zone has become a gathering place for certain personnel
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Hollow Architect; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVγ-255] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Pauses construction and accepts shared grief. The sorrow is borne; Hollow Architect is fully recorded. | Builds defensive walls around the worker. The gauge climbs and Hollow Architect withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

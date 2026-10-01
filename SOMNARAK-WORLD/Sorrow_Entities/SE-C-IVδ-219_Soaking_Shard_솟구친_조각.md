@@ -177,7 +177,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IVδ-219] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Soaking Shard begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Soaking Shard: Releases one preserved memory as liquid vision. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the grief of believing a loss had been sealed when it remained alive inside. forged during a memorial shard in the alpha tree vault cracked during a sorrow tide surge. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -316,7 +316,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Soaking Shard; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVδ-219] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain while grief flows. The sorrow is witnessed; Soaking Shard is fully recorded. | Reveals memories stored in its liquid interior. The gauge climbs and Soaking Shard withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

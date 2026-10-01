@@ -284,7 +284,7 @@ An exile once stood before the Gate and found that the reflection had no single 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Mirror of Broken; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIIγ-127] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Shards turn toward the worker's grief. The sorrow is borne; Mirror of Broken is fully recorded. | The dream fractures into hostile reflections. The gauge climbs and Mirror of Broken withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

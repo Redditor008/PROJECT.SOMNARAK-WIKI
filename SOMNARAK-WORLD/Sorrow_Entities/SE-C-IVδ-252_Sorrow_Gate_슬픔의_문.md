@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IVδ-252] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Sorrow Gate begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Sorrow Gate: May whisper a buried truth for thirteen seconds. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the fear of what waits beyond an irreversible threshold. forged during the gate was found beneath the alpha tree already sealed; all records of its maker are absent. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |

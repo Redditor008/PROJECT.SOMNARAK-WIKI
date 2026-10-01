@@ -282,7 +282,7 @@ The entity's story has spread through the facility — not as official documenta
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Candela; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVδ-165] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Melting slows when its sorrow is shared. The sorrow is witnessed; Candela is fully recorded. | The body collapses faster and the floor becomes slippery with grief. The gauge climbs and Candela withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

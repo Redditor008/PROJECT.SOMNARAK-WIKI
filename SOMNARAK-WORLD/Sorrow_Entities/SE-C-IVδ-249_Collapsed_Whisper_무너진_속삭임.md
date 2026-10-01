@@ -262,23 +262,23 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Collapsed Whisper (C-IVδ-249 [GS]) is logged as a Subject-Dream manifestation expressing Grudge. The Whisper formed from a warning that collapsed before reaching anyone. Held at The Desolate — mobile. It sings through dream distortion.
 
-**Entry 2 (SE-C-IVδ-249) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through dreams of personnel near the Desolate. Subjects hear warnings that cannot be completed. Its warnings are fragments, not prophecies.
 
-**Entry 3 (SE-C-IVδ-249) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of understanding danger too late to communicate it.
 
 **Entry 4 — <Containment Notice>**
 Management: Capture fragments without inventing the missing message. Work response — Flerehan: The whisper reforms and becomes audible. (Decrease); Pugnahan: Dream-space collapses into red static. (Increase); Viderehan: Shows the danger and the failed warning. (Stable); Ferrehan: Tests whether the worker can listen through distortion. (Decrease). Personnel feel hope before recognizing the danger.
 
-**Entry 5 (SE-C-IVδ-249) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a healer who absorbed too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. A scout’s warning, dissolved by the storm, repeating eternally. Effect: proximity induces the agony of arriving …
 
 ## 최종 관찰 (Final Observation)
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Collapsed Whisper; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IVδ-249] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The whisper reforms and becomes audible. The sorrow is named; Collapsed Whisper is fully recorded. | Dream-space collapses into red static. The gauge climbs and Collapsed Whisper withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

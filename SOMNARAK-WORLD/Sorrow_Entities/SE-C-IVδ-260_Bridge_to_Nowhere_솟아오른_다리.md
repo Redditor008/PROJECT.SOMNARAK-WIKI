@@ -294,7 +294,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Bridge to Nowhere; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVδ-260] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Requires the worker to cross a memory without claiming it as present. The sorrow is witnessed; Bridge to Nowhere is fully recorded. | Reveals the bridge's former route and travelers. The gauge climbs and Bridge to Nowhere withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

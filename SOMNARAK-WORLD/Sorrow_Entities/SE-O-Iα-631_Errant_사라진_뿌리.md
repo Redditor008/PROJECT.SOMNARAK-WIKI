@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Errant; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-Iα-631] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Reaches gently and steadies. The sorrow is borne; Errant is fully recorded. | Retracts into the floor. The gauge climbs and Errant withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

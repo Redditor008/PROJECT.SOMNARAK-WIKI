@@ -171,7 +171,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-Iα-330] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 seconds | Mourner's Bloom waits in silence — a thing of blue grief — until a current is opened through it. | When the relic is channeled, it activates: crystallizes one moment of mourning into a petal. |
 | 1 minute | It crystallized from an unvoiced grief buried beneath the municipal foundations. | The effect persists (until the grief is acknowledged and released), strengthening the longer the channel is held. |
@@ -337,7 +337,7 @@ The entity exists in a space between memory and forgetting — not quite present
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Mourner's Bloom; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-330] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Blooms slowly beside a patient worker. The sorrow is witnessed; Mourner's Bloom is fully recorded. | Reveals the emotion in each petal. The gauge climbs and Mourner's Bloom withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

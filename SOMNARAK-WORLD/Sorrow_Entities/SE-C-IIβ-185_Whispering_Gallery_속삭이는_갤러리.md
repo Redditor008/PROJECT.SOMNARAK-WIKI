@@ -290,7 +290,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Whispering Gallery; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-185] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Requires the worker to walk its full length without answering every voice. The sorrow is witnessed; Whispering Gallery is fully recorded. | Reveals the history behind the frames. The gauge climbs and Whispering Gallery withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

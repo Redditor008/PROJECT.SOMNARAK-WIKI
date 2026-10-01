@@ -190,7 +190,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IVδ-001] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Orphaned Bell hangs motionless in its tower — a three-meter monument of blue grief, cold and waiting. | When the operator enters the circle and speaks a lost name, the rim begins an imperceptible 40-Hertz oscillation. |
 | 1 Minute | Blue condensation pools upward along the bronze crystal; the chime vibrates in the operator's ribs. | The effect calms attending personnel, emitting silver resonance that soothes Composure strain. |
@@ -247,7 +247,7 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IVδ-001] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Orphaned Bell begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates The Orphaned Bell: The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the grief of parents searching for children who would never return. forged during zone b expanded over streets and homes, swallowing children into the han and leaving families without answers. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -395,7 +395,7 @@ The Director notes: this sorrow is representative, not anomalous. It is the city
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Orphaned Bell; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVδ-001] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; The Orphaned Bell is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Orphaned Bell withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

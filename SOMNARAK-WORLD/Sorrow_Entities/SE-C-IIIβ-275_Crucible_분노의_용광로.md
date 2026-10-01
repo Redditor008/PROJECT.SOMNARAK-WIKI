@@ -177,7 +177,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIβ-275] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Crucible begins thrumming as the channel opens; a palpable wave of grudge sorrow sweeps across the containment chamber. | Opening the channel activates Crucible: Tempers metal in concentrated Grudge; weapons forged in the hearth gain +20% armor penetration, but generate intense radiant heat. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the burden of making useful things from resentment. forged during forge workers shaped weapons from the city's suppressed rage until the furnace became conscious. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -320,7 +320,7 @@ Crucible burns in Zone D — ancient, hot, made of crystallized fury. The Forge 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Crucible; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIβ-275] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain near heat and anger. The sorrow is named; Crucible is fully recorded. | Reveals the grief embedded in each weapon. The gauge climbs and Crucible withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

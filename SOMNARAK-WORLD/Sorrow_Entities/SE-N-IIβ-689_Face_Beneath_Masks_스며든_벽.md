@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Face Beneath Masks; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IIβ-689] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Cracks open and allows a feeling through. The sorrow is seen clearly; Face Beneath Masks is fully recorded. | The mental wall thickens. The gauge climbs and Face Beneath Masks withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

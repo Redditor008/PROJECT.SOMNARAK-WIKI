@@ -278,7 +278,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Floating Well; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IIIγ-448] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Lowers toward the worker and shares sorrow. The sorrow is named; Floating Well is fully recorded. | Surges upward and releases pressure. The gauge climbs and Floating Well withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

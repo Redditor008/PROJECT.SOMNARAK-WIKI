@@ -177,7 +177,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IIIγ-088] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Sorrow Fountain begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates The Sorrow Fountain: Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens, revealing the memory of the city's accumulated mourning, gathered into a single visible stream. forged during tears from memorials and grieving citizens collected beneath the echo gardens until the fountain rose. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
@@ -329,7 +329,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Sorrow Fountain; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIIγ-088] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain in the pool without breaking. The sorrow is witnessed; The Sorrow Fountain is fully recorded. | Each drop reveals a different grief. The gauge climbs and The Sorrow Fountain withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

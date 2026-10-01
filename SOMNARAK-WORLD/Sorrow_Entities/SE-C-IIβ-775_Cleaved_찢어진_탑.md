@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Cleaved; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-C-IIβ-775] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | Its flame lowers and unfinished rooms become visible. The sorrow is seen clearly; Cleaved is fully recorded. | It splits further and burns through nearby walls. The gauge climbs and Cleaved withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

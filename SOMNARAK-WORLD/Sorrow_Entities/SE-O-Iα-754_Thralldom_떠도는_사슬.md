@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Thralldom; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-O-Iα-754] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The links loosen and stop crawling. The sorrow is named; Thralldom is fully recorded. | It lashes toward the worker. The gauge climbs and Thralldom withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

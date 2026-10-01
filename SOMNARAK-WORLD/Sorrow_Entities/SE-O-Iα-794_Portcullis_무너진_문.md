@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-O-Iα-794] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Portcullis rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Portcullis activates its primary resonance: Opens a brief emotional passage to the destination's memory. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the burden of being trapped at the moment of departure; the bearer begins perceiving echoes of a tunnel collapse sealed a door while people were still on both sides of it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Portcullis; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-O-Iα-794] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain at a blocked threshold. The sorrow is witnessed; Portcullis is fully recorded. | Reveals the people and route beyond the door. The gauge climbs and Portcullis withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -290,7 +290,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Fading Fruit; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIβ-456] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain near denied hope. The sorrow is named; Fading Fruit is fully recorded. | Reveals what each debtor wanted. The gauge climbs and Fading Fruit withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

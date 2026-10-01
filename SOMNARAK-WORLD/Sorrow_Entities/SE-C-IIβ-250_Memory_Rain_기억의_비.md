@@ -292,7 +292,7 @@ The entity's story has spread through the facility — not as official documenta
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Memory Rain; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IIβ-250] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | The worker remains beneath the rain without losing identity. The sorrow is witnessed; Memory Rain is fully recorded. | Each drop can be catalogued as a memory record. The gauge climbs and Memory Rain withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

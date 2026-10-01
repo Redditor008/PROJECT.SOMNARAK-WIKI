@@ -177,7 +177,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-N-IIIβ-160] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Debt Chain rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping The Debt Chain activates its primary resonance: Reveals the obligation's history and connections. Grants +10% resistance to Weight damage while equipped. |
 | 30 Seconds | The artifact was born from the grief of owing something that cannot be paid; the bearer begins perceiving echoes of collector ledgers became too numerous to store; every obligation crystallized into a connected link. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -320,7 +320,7 @@ The entity exists in a space between memory and forgetting — not quite present
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Debt Chain; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-N-IIIβ-160] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests the worker beneath accumulated obligation. The sorrow is borne; The Debt Chain is fully recorded. | Reveals the debt represented by each link. The gauge climbs and The Debt Chain withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

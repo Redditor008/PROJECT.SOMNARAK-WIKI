@@ -280,7 +280,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Tear; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. [SE-N-IVδ-517] |
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
 | The figure becomes clearer and the sound softens. The sorrow is witnessed; Broken Tear is fully recorded. | The dream cracks and the crying intensifies. The gauge climbs and Broken Tear withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

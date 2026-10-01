@@ -177,7 +177,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-IVδ-668] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Frozen Fury rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Frozen Fury activates its primary resonance: Displays the lives and injustice attached to the structure. Grants +10% resistance to Void damage while equipped. |
 | 30 Seconds | The artifact was born from the rage of a home destroyed while its residents were still being blamed for its loss; the bearer begins perceiving echoes of a collector-controlled district was cleared and frozen in memory after its residents disappeared. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
@@ -320,7 +320,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Frozen Fury; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-IVδ-668] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can remain among absent lives. The sorrow is seen clearly; Frozen Fury is fully recorded. | Shows the history beneath the ruin. The gauge climbs and Frozen Fury withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

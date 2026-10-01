@@ -171,7 +171,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Log and Method
 
-| Interaction Amount | **Log** | **Method** [SE-C-Iα-300] |
+| Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 seconds | Sorrow Seed waits in silence — an unyielding manifestation of accumulated sorrow — until a current is opened through it. | When the relic is channeled, it activates: grows into a Sorrow Entity shaped by the sorrow it absorbs. |
 | 1 minute | It crystallized from an unvoiced grief buried beneath the municipal foundations. | The effect persists (indefinite), strengthening the longer the channel is held. |
@@ -331,7 +331,7 @@ The entity's containment zone has become a gathering place for certain personnel
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Sorrow Seed; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. [SE-C-Iα-300] |
+| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
 | Tests whether the worker can hold potential without planting it. The sorrow is borne; Sorrow Seed is fully recorded. | Reveals possible forms it could grow into. The gauge climbs and Sorrow Seed withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
