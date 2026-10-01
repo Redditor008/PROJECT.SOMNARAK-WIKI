@@ -2580,3 +2580,32 @@ Escalation weeks are measured in hard watches, and the archive counts them preci
 #### The Holding Line
 
 By Day 49 the escalation had plateaued — readings elevated but stable, the Sovereigns converged but contained, the facility holding a line it had drawn and would not yield. The plateau is the escalation's real victory: not reversal but refusal. The doctrine does not promise to push the pressure back. It promises to stand where it stands. The holding line of Cycle 1,778 was drawn on Day 49 and held every day after — a fact the archive records plainly and the roster remembers proudly. Central Command's Day 49 entry reads: escalation plateaued, line held, roster standing. Three clauses, one meaning. The facility had met the convergence and had not moved. And the cycle turned toward its middle — toward the deep vault, the external contact, and everything the Absolvohan would face — with the line drawn behind it, proven, and holding.
+
+### Narrative Interlude — Voices from the Escalation
+
+Recorded across Days 29 through 49, during and immediately after the hard watches.
+
+#### A Watch Commander
+
+"The drift started on a Tuesday and I knew by Thursday. Not from the numbers — the numbers were still green. From the room. Gauges that had been quiet for a month were all leaning the same direction, and when instruments agree on something they have never agreed on before, you stop arguing and you call it up the chain. I called it up. Central Command had it from three other departments inside the hour. That is what the baselines are for and that is the only reason we met the convergence standing instead of reacting."
+
+#### An Engineer
+
+"People want the convergence to be dramatic. It is not dramatic. It is arithmetic going wrong slowly in four places at once. What makes it frightening is coherence — the sense that the holdings are not individually straining but collectively deciding. I will not defend that language. I am an engineer and I know what I am supposed to say. But every engineer who has stood a convergence has felt the same thing and most of them will tell you so off the record, which is where all the honest engineering gets said."
+
+#### A Warden, After Her Fourth Hard Watch
+
+"Three hard watches equal a rotation's fatigue. I have stood four this week and I can tell you the formula is generous. You come off and your hands shake and you are not frightened, that is the thing people get wrong — you are not frightened, you are just used up. The relief takes the chair and you walk out and someone from the mess puts something hot in front of you and you eat it without tasting it and you sleep nine hours. Then you do it again. And it works. That is the part I did not believe until I lived it. It actually works."
+
+#### A Supervisor on Standing People Down
+
+"I stood two Wardens down in the escalation weeks and both of them argued with me, which is how I knew I was right. The ones who need standing down always argue. We have a rule about this and the rule exists because the archive is full of cycles where someone was allowed to be a hero for three extra watches and then was not available for the thirty after that. Nobody thanks you at the time. One of them thanked me on Day 60. The other has not and may not. That is fine. That is the job."
+
+#### A Clerk in Central Command
+
+"My station reads the whole facility at once. In the foundation weeks it is pleasant — a wall of green, departments chatting, the occasional query. During convergence it becomes something else: every department reporting continuously, the whole structure speaking at you, and your job is to hear the pattern nobody holding one piece of it can hear. I found the plateau before the analysts did. I am not boasting. I only mean that the view from the middle is real, and the institution is built so somebody always has it."
+
+#### The Director
+
+"We did not push the escalation back. I want that in the record plainly, because the temptation afterward is to describe a plateau as a victory of force. It was not. We drew a line and refused to move it and the pressure stopped where we stood. That is all. The doctrine never promised more than that, and every cycle that believed it could promise more spent itself trying. Hold the line. Let the line be enough. On Day 49 it was."
+

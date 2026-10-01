@@ -2561,3 +2561,32 @@ Contact from outside arrives during the vault weeks because that is when the fac
 #### Coming Up
 
 Vault crews come up in the prescribed sequence — slowly, in stages, with rest periods the medical staff enforce absolutely. The ascent is as governed as the descent, for reasons the counselors explain plainly: the vault is cold and the facility is warm, and personnel who cross too fast carry the cold up with them. Staged ascent lets the cold off in layers. Crews arriving at the surface are met by counselors, fed, and rested before they speak to anyone about what they saw. The debriefs come the next day, warm and fed and steady. Cycle 1,778's vault crews came up on schedule, all of them, in good order. The debriefs were full and clear. The vault weeks closed. And the facility — warmed, informed, and sobered — turned toward the founder's journal and the breaking silence waiting in the days beyond.
+
+### Narrative Interlude — Voices from the Deep Vault
+
+Vault-crew debriefs, recorded warm and rested on the day after ascent, as the protocol requires.
+
+#### A Volunteer, First Descent
+
+"They tell you it is cold. Everyone tells you it is cold, and you nod, and then you go down and discover that cold was the wrong word entirely — it is not a temperature, it is an attitude. The vault is not hostile. It is simply not interested in whether you are there. I checked seals for six hours in a place that did not care about me at all, and when I came up I sat in the mess with my hands around a bowl for a long time without talking. My partner let me. She had been down before."
+
+#### A Seal Technician, Eleventh Descent
+
+"A weeping seal is a sentence. You learn to read it the way you read handwriting. Where it weeps, how fast, what the margin looks like after you dry it — that tells you what is pressing and from which direction. New crews want to seal it immediately. I understand the instinct. But a sealed leak you did not read is a message you destroyed, and the vault does not repeat itself. So we sit with it. We log it. Then we seal it, and we carry the sentence upstairs intact."
+
+#### A Contact Officer
+
+"Three of us, always. Never two, never one. I have read the incident files from the cycles when that rule did not exist yet and I would like everyone to read them. What comes through during the vault weeks is patient and extremely good at finding the shape of what you want. With three in the room, the shape cannot hold — it can be one person's hope, it cannot be three people's at once. So we sit in threes and we log everything and we answer with the formula. Witnessed, not admitted. It has held for a very long time."
+
+#### A Medical Officer on Staged Ascent
+
+"People try to skip stages. They feel fine. That is the symptom, not the absence of one. The cold comes up with you in layers and if you cross too fast it stays in — we see it as flatness for weeks after, sometimes a whole cycle. So we hold them at each stage whether they like it or not, and we feed them, and we do not let anybody debrief until they have slept. The debriefs are better for it anyway. A rested person remembers more than a frightened one."
+
+#### A Crew Chief
+
+"What I tell every new volunteer at the top of the stairs is this: you are going down to listen, not to fix. If you fix something that needed listening to, you have made us blind in that spot for a cycle. And then I tell them the other thing, which is that we come up together or we do not come up. Nobody in the history of this facility has been left down there and nobody will be while I am holding the roster. Then we go down. Then we come back. That is the whole job, and it has been the whole job every time."
+
+#### The Director
+
+"The vault is the part of this institution I would most like to be able to describe as solved. It is not solved. It is attended. We go down because not going down is how facilities lose vaults, and we come up because the vault is not a place that forgives staying. Everything else said about it in the overview documents is accurate and insufficient, and the crews who actually make the descent know that better than any document will."
+

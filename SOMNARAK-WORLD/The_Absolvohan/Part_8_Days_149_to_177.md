@@ -3218,3 +3218,32 @@ The Directorate accounts for the transmutation's cost the day after, always, in 
 #### The Long Middle
 
 What follows the transmutation is the cycle's long middle — days of ordinary duty in a facility that has already done the extraordinary and must now simply keep standing. The long middle breaks more rosters than the transmutation does. The counselors watch for its particular symptom, which is not fear but flatness: personnel performing perfectly and feeling nothing, going through the doctrine's motions with the attention switched off. The remedy is rotation, rest, and the deliberate reintroduction of meaning — reception duty, training cohorts, the small assignments that put the work back in front of the worker. Cycle 1,778's long middle ran from the transmutation through Day 177 and was managed by the book: rotations honored, rests enforced, flatness caught early in every case the counselors logged. The roster came through the middle tired and whole. And the facility turned toward its final stretch — transmuted, accounted, and standing — with the real year waiting at the end of the count.
+
+### Narrative Interlude — Voices from the Critical Weeks
+
+Recorded across Days 149 through 177, before and after the transmutation.
+
+#### A Crew Member Who Stood the Singing
+
+"The frequency is not a sound. I want to be exact about this because people write it up as a noise and it is not a noise. You feel it in the teeth and the long bones and the floor plates, and your instruments register it and your ears do not. It climbs for about nine minutes. Then it stops — not fades, stops — and what replaces it is stillness. The weight is still there. The gauges still read it. It is simply not pressing anymore. I have no explanation. I was there and I have no explanation."
+
+#### An Engineer on the Accounting
+
+"I insisted on the cost accounting being read aloud and I will insist every cycle I am alive for. The administrators would file it. Filing is how a thing becomes free. Forty-one people stood down for strain is not a line item, it is forty-one people, and three containments re-rated is not paperwork, it is three places that are different now. Read it in the room. Let everyone hear what it cost. Then enter it and continue. That is the only honest way to carry an event nobody can explain."
+
+#### A Counselor on Flatness
+
+"After the transmutation comes the dangerous part, which looks like nothing. People perform perfectly and feel nothing. They hit every mark, log every reading, and if you ask how they are they say fine in a voice with no floor under it. Flatness is not grief and it is not burnout — it is the attention switching off while the hands keep going. We catch it with rotation and rest and by putting the work back in front of the worker. Send a flat Warden to reception duty for a morning. Nine times in ten they come back switched on."
+
+#### A Supervisor on Threshold Confidence
+
+"My job in the critical weeks is to be unpopular. I stand people down for slackness that nobody else would call slackness — a gauge read from the doorway, a briefing given at half length, the small roundings-off that start when a roster believes the ending is already written. The archive is full of cycles that crossed the threshold and then lost the middle. I have read all of them. So I walk the floor and I interrupt the rounding-off, and people find me tiresome, and the middle holds."
+
+#### A Trainee
+
+"I joined after the crossing, which the veterans tell me is a strange way to arrive. They talk about the threshold the way you would talk about weather you had survived, and I did not survive it, I just showed up afterward. What I did stand was the transmutation, nine minutes of the building singing in my teeth, and after that nobody treated me as someone who had arrived late. One of the old hands said: you have your own nine minutes now. That is apparently how it works here."
+
+#### The Director
+
+"Cost accepted, facility holding, cycle continuing. That is the standing finding and it is deliberately flat, because the alternative is language that makes an unexplained event sound understood. We do not understand the transmutation. We prepare for it, we staff it fully, we arm every precaution, we stand the singing, and we account honestly for what it takes. Then we manage the long middle by the book, because the middle is what breaks rosters that have already won. This one came through tired and whole."
+

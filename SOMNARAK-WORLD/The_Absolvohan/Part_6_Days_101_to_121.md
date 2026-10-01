@@ -2635,3 +2635,32 @@ The refugees arrive during the blessing weeks — people from the outer district
 #### What the Blessing Is For
 
 The staff debate what the blessing means and agree on what it does. It puts the roster in one room. It puts the refugees in front of the roster. It interrupts, for one hour daily across three weeks, the facility's tendency to become a machine that contains rather than a community that stands. The senior staff's standing explanation, offered to every cohort that asks, is unsentimental: the doctrine can be practiced by exhausted strangers, and it will fail eventually. It can be practiced by rested people who know each other, and it holds. The blessing makes the second kind. The blessing weeks of Cycle 1,778 closed on Day 121 with the hour kept, the refugees housed, and the roster — rested, cohered, and clear about what it stood for — turning toward the threshold of hope and the open hand waiting beyond.
+
+### Narrative Interlude — Voices from the Blessing Weeks
+
+Recorded during the hour, and in the receiving hall, across Days 101 through 121.
+
+#### An Engineer on the Hour
+
+"I objected to the blessing hour in writing, twice, in two different cycles. My objection was that we were standing down operational capacity for a ritual with no mechanism. My objection was correct and irrelevant. The counselors produced twenty cycles of cohesion data and I read it properly and changed my position, which is what you do. I still cannot tell you why it works. I can tell you that rosters that keep it relieve each other eleven percent faster under pressure, and I am an engineer, so that is the end of the argument."
+
+#### A Memory Archive Clerk
+
+"We sing. Badly. It started before any of us and nobody knows who began it. The archive crews have terrible voices as a group and we have never once discussed improving. Someone starts, everyone joins late, we get through two or three and then the hour is over and we go back to work. Visitors find it strange. The strange thing to me is the departments that spend the hour in silence — an hour is a long time to sit with people and say nothing. We would rather sing badly."
+
+#### A Reception Officer, Refugee Dawn
+
+"They came at first light, which they always do, because walking at night is worse. The protocol is four lines long and the whole of it is: feed them, warm them, register them, do not ask. The not-asking is the hard part. You can see the question on new staff — what happened, where is the rest of your family — and you can see the moment they swallow it. Good. The telling comes later if it comes. What they need at the door is soup and a blanket and somebody who does not make them explain themselves to get it."
+
+#### A Warden on Reception Duty
+
+"I have contained things for most of my adult life and I have thought about the city in the abstract the whole time. Then I spent a morning in the receiving hall holding a bag for a woman while she signed a register with a child asleep on her shoulder, and the abstraction died. I went back on watch that night and read my gauges differently. Not more carefully — I was already careful. More personally. The protocol says reception is rotated so the burden spreads. I think it is rotated so the abstraction keeps dying."
+
+#### A Supervisor
+
+"My department fought about the hour for the first week — what to do with it, whether cards were frivolous, whether people could just sleep. I let them fight. By the second week they had sorted it themselves: cards at one table, quiet at another, the three who wanted to sleep sleeping in the corner while the rest of us played. That is the hour working. It is not the activity. It is thirty people arranging themselves into a room they all agreed to be in."
+
+#### The Director
+
+"The blessing is not explained and I have stopped pretending the institution can explain it. Here is what I will defend: a doctrine practiced by exhausted strangers fails eventually, and a doctrine practiced by rested people who know each other holds. The hour makes the second kind of roster. The refugee dawn makes sure that roster remembers who it is for. Put those two in the same three weeks and you get a facility that can cross a threshold. We kept the hour every day this cycle, in every department. I consider that one of the reasons we crossed."
+

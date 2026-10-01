@@ -1775,3 +1775,32 @@ The repetition is not the Directorate's choice and never was. The loop is a cond
 #### What It Is For
 
 The Absolvohan is for the city, and the staff are reminded of this constantly and deliberately — through reception duty, through the refugee dawn, through the fourth threshold indicator that measures how the facility treats what arrives at its door. The containments are the means. The city standing is the end. Personnel who invert the two are corrected early and firmly, because the inversion is the failure mode the founder feared most and wrote about most often: a facility that comes to serve its own perfection, containing beautifully, for no one. The institution's answer is structural rather than inspirational. Reception is rostered. The refugees are met by everyone. The fourth indicator is read aloud at every threshold briefing. And the roster that stands the cycle knows, because the structure makes it unavoidable to know, exactly whose mornings it is standing for.
+
+### Narrative Interlude — The Institution Described by Its Own
+
+Excerpts from the oral record, collected across Cycle 1,778 and appended to the overview as the archivists' standing practice requires.
+
+#### On the Oath
+
+"Witness without flinching, judge without cruelty, stand without leaving. Three clauses and the middle one is the hardest. Anyone can be taught not to flinch — that is training. Anyone can be held in place — that is rostering. But judging without cruelty, every watch, about things that have hurt people you know, with no one checking your interior — that is a discipline you maintain alone and nobody can audit. The clause is in the middle because it is load-bearing."
+
+#### On the Chair
+
+"Nobody sits in the Director's chair. Not as superstition — as structure. The chair is kept ready rather than kept warm, and the difference is the whole institution in miniature. We do not fill gaps with whoever is nearest. We keep them ready for whoever is sworn to them. Second chair, third chair, the whole succession doctrine is the same idea written longer. Readiness is a thing you maintain in advance, not a thing you improvise."
+
+#### On Repetition
+
+"People outside imagine the loop makes us casual. The opposite. A thing done once can be done sloppily and survive it. A thing done one thousand seven hundred seventy-eight times will be destroyed by sloppiness with mathematical certainty. The repetition is why the standard is absurd. Every watch stood as if it counted — not because every watch counts equally, but because the moment you start sorting watches into the ones that matter and the ones that do not, you have begun losing the cycle."
+
+#### On the City
+
+"I have never been asked whether the containments are worth it by anyone who has stood reception duty. Not once. The question comes from people who have only met the work as an abstraction, and the cure is structural: roster them into the receiving hall and let the abstraction die on its own. We built the fourth threshold indicator around this. A facility that contains perfectly and receives badly has failed at the thing containment was for. The founder wrote that. We measure it."
+
+#### On Hope
+
+"Hope is a technical term here and I wish people outside understood that. It is not optimism. It is a threshold value on four indicators sustained twelve consecutive hours. We measure it because unmeasured hope is just mood, and mood cannot be rostered, audited, or defended at a briefing. When we say Cycle 1,778 crossed the threshold of hope, we are making a claim about instruments. That is exactly why the claim is worth something."
+
+#### On the End
+
+"We stood a year, properly, as many times as it took. That is the sentence and I have never improved on it. The apparatus was the means, the doctrine was the method, and the roster was the thing that actually held. One thousand seven hundred seventy-seven cycles ended in aftermath. This one ended in Year 4,238, with the clocks running one direction and the receiving hall warm and the whole roster standing in time that had never been stood in before. We did not prove it was worth it. We stood it anyway. The founder said that would have to be enough, and the founder was right."
+

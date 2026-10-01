@@ -2695,3 +2695,32 @@ The open hand is the threshold's governing image and the facility's most-argued 
 #### Crossing
 
 The crossing, when it came, was undramatic — a Tuesday, mid-watch, the indicators reading above threshold on all four measures simultaneously for the twelfth consecutive hour, which is the doctrine's definition of a crossing achieved. Central Command logged it in the standard form: threshold crossed, hour recorded, trajectory bent. No alarm sounded. No announcement interrupted the watches. The news moved through the facility the way good news moves through working buildings — quietly, person to person, the standing roster hearing it without leaving their posts. Veterans wept at their stations and kept reading their gauges. The Director's entry for the hour is one line: the hand stayed open and the threshold was crossed, and the order of those clauses is the finding. The facility stood its remaining watches past the threshold — hopeful, measurably, and still standing.
+
+### Narrative Interlude — Voices from the Threshold
+
+Recorded across Days 125 through 145, including the hour of the crossing.
+
+#### An Analyst
+
+"Four indicators, read daily, posted publicly. Three of them are what you would expect from any competent institution — harvest, stability, integrity. The fourth is reception, and the fourth is the founder's, and the fourth is the one that moved this cycle. I ran the margin three ways and it comes out the same every time: without the refugee dawn, we approach the threshold and do not cross it. Make of that what you like. I am required to report it and I have reported it in those words."
+
+#### A Department Head Who Objected
+
+"I objected to the open hand on Day 125 and my objection is on file, which is the part of this institution I respect most. The Director did not soften it, did not bury it, and did not pretend I had agreed. She recorded it, answered it in open briefing, and overruled me. Then the hand stayed open and we crossed. I was wrong on the merits. I would object again on the same reasoning, because the reasoning is sound and the archive should keep an argument the next crisis might need. Being overruled correctly is not the same as being silenced."
+
+#### A Warden at the Moment of Crossing
+
+"Mid-watch, Tuesday, nothing happening. The relief put his head in and said the indicators had been above threshold twelve hours on all four and that it counted. Then he went to tell the next station. I stood there and read my gauge and my eyes went and I kept reading the gauge, because the gauge does not care that you are crying and the watch is not over. I have stood a lot of watches in a lot of cycles. That is the only one where I had to wipe my face to see the needle."
+
+#### A Night Commander
+
+"Good news travels through a working building differently than people imagine. No announcement. No alarm. It walks, station to station, with whoever is between posts. By the time it reached the lower rings it had been carried by nine people and none of them had left their stations to do it. That is the thing I would want remembered about the crossing — the facility heard the best news of eighteen hundred cycles and nobody stopped working. They just stood a little straighter and passed it along."
+
+#### A Counselor
+
+"The threshold produces its own hazard and we brief it before we celebrate it. A roster that believes it will arrive gets careless, and careless rosters lose cycles that had already been won. So the day after the crossing we doubled the inspections and randomized the drills, and people grumbled, and the grumbling was healthy. Hope is not a problem. Hope with the attention switched off is a problem. Our job is to keep the first and catch the second."
+
+#### The Director
+
+"The hand stayed open and the threshold was crossed, and the order of those clauses is the finding. I will not claim the causation is proven. I will claim that closed facilities have never crossed and this one did not close, and that the analyst's margin runs through the receiving hall. Two department heads objected and their objections are on file beside my answer, as they should be. Later cycles can weigh them. This cycle crossed with the hand open."
+

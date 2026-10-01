@@ -2918,3 +2918,32 @@ Rosters settle the way buildings settle — audibly, with small adjustments, int
 #### The First Doubts
 
 Doubt arrives in the foundation days, always, and always in the same form: a veteran mid-watch doing the arithmetic. One thousand seven hundred seventy-seven cycles. One thousand seven hundred seventy-seven foundations laid. One thousand seven hundred seventy-seven endings that were not endings. The counselors expect the foundation doubts the way physicians expect fevers, and they treat them the same way — openly, without alarm, with the standing guidance the counselors have issued since the loop's earliest records: the arithmetic is correct and incomplete. The previous cycles failed. This cycle is not the previous cycles. Stand it as if it were the first, because for the purpose of standing it, it is. The doubts surfaced, were spoken, and were held. The roster stood. And the foundation days closed on Day 25 with the structures laid, the baselines memorized, and the doubts filed where doubts belong — logged, acknowledged, and outweighed by the standing.
+
+### Narrative Interlude — Voices from the Foundation Weeks
+
+The counselors keep an oral record alongside the written one — personnel speaking, in their own words, about the days they stood. The foundation-week recordings of Cycle 1,778 fill several volumes. What follows is drawn from them, lightly ordered, otherwise unaltered.
+
+#### A Baseline Technician
+
+"People think baseline duty is nothing. It is the opposite of nothing. You sit with a gauge for ten hours and you write down that it did not move. Then you do it again. Then again. And somewhere in week two you stop watching the number and start hearing the instrument — the little tick it makes when the needle settles, the way the hum changes when the line is clean. After that you could tell me the facility's health with the lights off. That is what the weeks buy. Not data. Ears."
+
+#### A Second-Year Warden
+
+"My first cycle, I thought the foundation days were a formality and I resented them. I wanted the real work. Then the escalation came and I found out the real work is unsurvivable if you have not done the formality. Everyone around me knew where every seal was, how every door sounded, which gauge ran a hair high. I was still looking things up. I promised myself I would never be the person looking things up during an escalation again. I have kept that promise for a long time now."
+
+#### A Department Supervisor
+
+"What I watch for in the first twenty-five days is who talks to whom. Not performance — performance is fine, everyone performs in week one. I want to know whether the night crew and the day crew have actually met, whether the engineers will say something awkward to the Wardens or just file it. A facility where people file things instead of saying them will break in the middle of the cycle. Every time. So I stand in the corridor at handover and I count conversations. It is the least scientific thing I do and the most predictive."
+
+#### A Counselor
+
+"They come in with the arithmetic. Always. One thousand seven hundred seventy-seven. They say the number like it is an accusation, and in a way it is. My job is not to argue with the number. The number is true. My job is to ask what they intend to do on their next watch, and to keep asking until they hear themselves answer: stand it. The doubt is not the problem. The doubt is load-bearing, honestly. The problem is the doubt that never gets said, because that one comes out later, at the worst hour, in someone's hands."
+
+#### A Refugee Reception Officer
+
+"Nobody arrives in the foundation weeks. That is the strange part of the posting. You spend twenty-five days preparing a hall that stands empty — folding blankets, checking the stove, counting bowls. People ask why we staff it. We staff it because the dawn they do arrive, the hall has to be warm already. You cannot warm a hall while someone is standing in it with a child. So we fold blankets in an empty room for twenty-five days, and then one morning the doors open and every one of those blankets matters."
+
+#### The Director
+
+"The foundations are the only part of the cycle I can control completely, and so I spend them being extremely boring. No speeches. No initiatives. Rotations honored, baselines logged, departments introduced. If I have done this correctly, no one will remember the first twenty-five days of this cycle at all. They will remember the threshold, or the transmutation, or the end. That is correct. Foundations are not supposed to be remembered. They are supposed to hold."
+

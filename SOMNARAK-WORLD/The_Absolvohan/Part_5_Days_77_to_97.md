@@ -2306,3 +2306,32 @@ The silence breaks in the reading weeks — the facility's long institutional qu
 #### The Last Page
 
 The journal's last page is read on Day 97 by the senior-most staff member present, always, without exception. The page is short. The founder writes that the facility will outlast its founder, that the doctrine will be revised by hands the founder will never shake, and that the only instruction worth leaving is the one the founder could not prove: stand it anyway. Three words, underlined once in the original. The reader speaks them and closes the journal, and the hall answers with the response the ceremony has used since the first reading: we stand it anyway. The journal returns to its case. The reading weeks close. And the facility goes back to its watches carrying what the founder carried — the uncertainty, the cost, and the instruction — into the days ahead, where the eleventh blessing and the refugee dawn were waiting.
+
+### Narrative Interlude — Voices from the Reading Weeks
+
+Recorded in the muster hall and the corridors outside it, across Days 77 through 97.
+
+#### A Senior Reader
+
+"You rehearse the hard pages and it does not help. I have read the counting page eleven times and the eleventh was not easier than the first. There is a place where the founder lists them and then simply stops listing them, mid-page, and the hand changes. You can see the moment in the paper. When you read it aloud you have to decide how to handle the stopping, and there is no good way, so you just stop too. The hall stays quiet. Then the next reader stands up."
+
+#### A Trainee, First Reading
+
+"I did not understand why everyone warned me. It is a journal. People keep journals. Then the reader got to the page where the founder says the facility might be a mercy or might be a prolongation and nobody alive can tell which — and said it in the founder's words, flatly, the way you would read a specification — and I realized that the institution I had just sworn an oath to has never been sure it was right. And it stood anyway. I have thought about that every watch since. It is not a comfortable thought. It is a very sturdy one."
+
+#### A Counselor on the Breaking Silence
+
+"The reading weeks are my busiest and my favorite. Everything that has been quietly rotting for three months comes out in a fortnight. People say things in those weeks that they have been carrying since the waking, and the saying costs them something and then it stops costing them anything at all. My report shows a spike in self-reported strain and a collapse in unreported strain. Administrators sometimes read the first number and worry. The first number is the medicine."
+
+#### An Engineer Who Dislikes the Ceremony
+
+"I will say on the record that I find the reading sentimental and that I attend every day of it. Both are true. The sentiment is not the point — the point is that once a cycle, everyone in this building hears that the people who built it were guessing. It keeps us from treating the doctrine as handed down. It is not handed down. It is accumulated, by frightened people, under load, and it is revisable. I have proposed three revisions in my career. Two were adopted. Neither would have occurred to me without the reading."
+
+#### A Night Commander
+
+"We read it again at night, informally, for the crews who cannot leave their posts for the hall. Nobody authorized that and nobody has ever stopped it. Two of us take the journal around on a cart, and at each station we read whatever page that station has not heard. At three in the morning in a corridor with one lamp, the founder's doubts sound different than they do in the hall. Closer, I would say. Like somebody talking rather than somebody being commemorated."
+
+#### The Director
+
+"Stand it anyway. Three words, underlined once, and the entire institution's working philosophy. I have never found a better formulation and I have stopped looking. Everything we do — the baselines, the vault, the blessing hour, the open hand — is an elaboration of a sentence a frightened person wrote on the last page of a journal because they could not prove the thing they were about to ask of everyone who came after. We cannot prove it either. We read it aloud once a cycle so that nobody can pretend otherwise. Then we stand it anyway."
+
