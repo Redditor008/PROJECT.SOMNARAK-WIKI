@@ -156,14 +156,14 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Movement** | Weighting Bird bursts free and crawls or slithers in search of prey. It dives at personnel. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
+| **First Target** | The heaviest guilt in range, regardless of rank or proximity. The scales resolve before the wings move. |
 | **Escalation** | Each turn free, Resilience drain +5 until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Containment priority:** Clear the corridor rather than block it. The Bird stops when there is nothing left in front of it to weigh.
+- **Sorrow Gauge on breach:** Opens at 30% and rises in proportion to the mass it has weighed, which makes a crowded corridor costlier than a long pursuit.
 
 ## M.A.W. Equipment
 

@@ -159,14 +159,14 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Movement** | The Rejector breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
 | **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever attempts to give him an instruction. Refusal requires something to refuse. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Issue no orders and leave the route open. He has never breached by force and cannot be driven.
+- **Sorrow Gauge on breach:** Opens at 25%, the lowest of the Triplets, and rises only when he is commanded. An uncommanded Rejector stalls in place.
 
 ## M.A.W. Equipment
 

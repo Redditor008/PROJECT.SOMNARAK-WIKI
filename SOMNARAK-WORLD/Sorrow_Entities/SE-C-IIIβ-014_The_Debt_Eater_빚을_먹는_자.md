@@ -164,14 +164,14 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | The Debt Eater shatters containment and hunts through the facility. It seeks out the indebted and the burdened. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whichever worker carries the largest unsettled Echo balance. Proximity is irrelevant until two debts are equal. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Settle or freeze outstanding balances across the sector before attempting suppression; a creditless floor starves it.
+- **Sorrow Gauge on breach:** Opens at 35% and advances 15% each time it collects, not each turn. A floor with no debtors on it costs nothing.
 
 ## M.A.W. Equipment
 

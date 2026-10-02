@@ -159,14 +159,14 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Movement** | The Inheritor tears loose and pursues personnel with deliberate steps. It hunts personnel indiscriminately. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Indiscriminate by design. It does not distinguish, because the obligation it carries was never assigned to a particular person either. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Validate the resentment aloud over the corridor channel before Wardens deploy; confrontation reinforces him.
+- **Sorrow Gauge on breach:** Opens at 45% and rises 10% per turn, the fastest of the Triplets, and does not pause when unopposed.
 
 ## M.A.W. Equipment
 

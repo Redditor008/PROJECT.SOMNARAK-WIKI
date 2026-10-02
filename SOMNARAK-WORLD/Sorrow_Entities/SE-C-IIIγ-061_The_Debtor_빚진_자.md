@@ -165,14 +165,14 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Movement** | The Debtor tears loose and pursues personnel with deliberate steps. It seeks out the indebted and the burdened. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
 | **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The nearest worker willing to meet its eyes. It pursues acknowledgment rather than flesh. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Accept a share of the burden at a controlled point. Physical blocking only lengthens the route it takes.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per corridor crossed, slowed throughout by the 7.3 tons it refuses to set down.
 
 ## M.A.W. Equipment
 

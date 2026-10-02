@@ -164,14 +164,14 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Movement** | The Hollow Choir seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Everyone within earshot simultaneously. The Choir does not select, and corridors are scored by audibility rather than by distance. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Re-seal the amphitheater's acoustic boundary. Physical suppression of a bodiless entity accomplishes nothing.
+- **Sorrow Gauge on breach:** Opens at 50% because the voices are already distributed on breach, and rises 5% for each corridor newly reached.
 
 ## M.A.W. Equipment
 

@@ -161,14 +161,14 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Movement** | The Observing Bird bursts free and crawls or slithers in search of prey. It dives at personnel. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
+| **First Target** | The worker whose record it holds least completely. It dives at the gap in its account, not at the nearest body. |
 | **Escalation** | Each turn free, Composure drain +5 until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Containment priority:** Run a full disclosure sweep of the sector. The Bird settles once nothing within it remains unrecorded.
+- **Sorrow Gauge on breach:** Opens at 30% and rises 10% for each personnel file it completes, rather than per turn elapsed.
 
 ## M.A.W. Equipment
 

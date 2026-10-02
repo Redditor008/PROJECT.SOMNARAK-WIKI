@@ -159,14 +159,14 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Movement** | The Guarding Bird rampages on its limbs, crashing through walls. It patrols and attacks intruders. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
+| **First Target** | Whoever stands between it and the thing it has decided to guard. It attacks a position rather than a person. |
 | **Escalation** | Each turn free, Clarity drain +5 until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Containment priority:** Concede the post and withdraw. Suppression attempts are read as intrusion and accelerate it.
+- **Sorrow Gauge on breach:** Opens at 40% and holds there while its post is unchallenged, rising 20% only when the post is approached.
 
 ## M.A.W. Equipment
 
