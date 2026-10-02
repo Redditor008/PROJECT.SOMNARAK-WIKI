@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Dreaming Ruin.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Ruin in the Market is intact when dreamed and ruined when observed directly.
+- A cycle steadies the observed state. The dreamed state is unchanged, and no session has reconciled the two.
+- Two ignored conditions escalate it. Escalation presents as the dreamed state persisting into direct observation.
+- Crews record what they observed before sleeping and compare at the desk rather than in the field.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

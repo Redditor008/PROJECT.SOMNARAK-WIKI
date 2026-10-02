@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Unwaking Block.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The block holds sleep that does not end, and personnel removed from it do not wake on removal.
+- Work shortens the onset. It does not shorten the sleep itself, and no session has produced a waking inside the block.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- Three ignored conditions escalate it. The dream register carries contact, so crews are paired and each pair holds a timed verbal check.
+- Extraction is a separate risk event under its own authorization and is never attempted by a single operative.
 
 ## Combat Record
 ### Core Stat Line

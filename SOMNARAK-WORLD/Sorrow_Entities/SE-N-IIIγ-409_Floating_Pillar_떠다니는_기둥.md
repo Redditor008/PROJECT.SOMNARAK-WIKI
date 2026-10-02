@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Floating Pillar.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Pillar holds a fixed height above the Market floor and has never been observed in motion.
+- A cycle settles it lower. It returns to the same height, and the height has not drifted across the record.
+- Two ignored conditions escalate it. Escalation presents as rotation rather than any change in elevation.
+- Identity pressure acts on crews stationed beneath it; the floor below is kept clear and station time is capped.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

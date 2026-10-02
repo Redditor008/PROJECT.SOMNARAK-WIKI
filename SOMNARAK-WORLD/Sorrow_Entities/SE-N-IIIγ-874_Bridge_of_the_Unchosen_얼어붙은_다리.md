@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Bridge of the Unchosen.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Bridge in the Gardens carries only those who did not choose to cross it.
+- A cycle steadies the deck. The condition is unchanged, and no session has produced a deliberate crossing.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- There is no breach counter. Crossing is not used for access under standing order, and the deck is treated as a structural load only.
+- Residue is recovered from the deck under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

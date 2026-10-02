@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Forgotten Name.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The name exists and cannot be retained; personnel read it and cannot repeat it on leaving the room.
+- A cycle settles the entity. The name is unchanged, and no session has carried it out of the enclosure.
+- Four ignored conditions escalate it. Escalation presents as personnel retaining a name that the record does not contain.
+- The name is not transcribed by hand. Transcription is by instrument and is reviewed off site.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

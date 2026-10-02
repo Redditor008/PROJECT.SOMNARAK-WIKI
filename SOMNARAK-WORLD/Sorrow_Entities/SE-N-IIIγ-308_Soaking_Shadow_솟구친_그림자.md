@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Soaking Shadow.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The shadow is wet and falls where no object stands to cast it.
+- A cycle reduces its extent for a shift. The wetness is unchanged, and the Alpha Tree floor beneath it has never dried.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- There is no breach counter. The wetted outline is marked at every session, since the outline is the only boundary the entity offers.
+- Residue is collected from the wetted margin under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

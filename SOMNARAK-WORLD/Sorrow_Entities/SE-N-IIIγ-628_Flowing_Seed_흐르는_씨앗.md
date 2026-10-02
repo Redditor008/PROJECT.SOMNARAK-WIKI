@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Flowing Seed.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Seed moves through the ground as a liquid would and does not germinate anywhere it rests.
+- Work slows the movement for a shift. The Seed is unchanged, and no session has recorded growth.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- No breach counter applies. Its position is logged at every session, because the Seed does not remain where it was left.
+- Residue is recovered from the track under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

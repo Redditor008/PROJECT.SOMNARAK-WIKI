@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Vanity Asleep.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The entity sleeps and is arranged as though observed, and the arrangement is corrected between sessions.
+- A cycle deepens the sleep. The arrangement is unchanged, and no session has recorded the correction taking place.
+- Two ignored conditions escalate it. Escalation presents as the arrangement changing while under direct observation.
+- Identity pressure acts on personnel who adjust their own appearance during a session; the behaviour is logged rather than corrected.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

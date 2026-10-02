@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Melting Rope.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Rope is melting across the Desolate and has not shortened, and it is mobile between sessions.
+- Work slows the melt. The length is unchanged, and no cycle has recovered any of the run-off.
+- Two ignored conditions escalate it. Bearing is logged at first contact, since position is the variable that moves.
+- Emotional pressure acts on personnel who handle it; handling is prohibited and recovery is by instrument.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

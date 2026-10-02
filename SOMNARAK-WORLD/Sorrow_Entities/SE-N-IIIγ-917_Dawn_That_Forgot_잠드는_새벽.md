@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Dawn That Forgot.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The morning arrives without the night preceding it, and the facility log records no interval between the two.
+- A cycle restores part of the interval. The gap recurs, and no session has produced a complete night.
+- Three ignored conditions escalate it. Contact runs through the dream register, so escalation presents as personnel unable to account for the previous shift.
+- Handover is written and countersigned at the door, because spoken handover has repeatedly failed to survive the gap.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

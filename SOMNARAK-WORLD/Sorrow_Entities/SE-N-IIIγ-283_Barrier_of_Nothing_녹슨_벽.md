@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Barrier of Nothing.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The barrier near the Gate has no substance and cannot be passed, and both findings are logged as confirmed.
+- Work thins it for a shift. The impassability is unchanged, and no session has moved anything through it.
+- Two ignored conditions escalate it. Escalation presents as the barrier extending rather than thickening.
+- Burden pressure acts on personnel who test it repeatedly; testing is limited to one attempt per session and is recorded.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Dead Air.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The volume carries no sound and is not a vacuum; instruments confirm pressure while registering nothing.
+- Work reduces its extent for a shift. The silence is unchanged, and no session has produced a sound within it.
+- Three ignored conditions escalate it. The spirit register carries contact, and the first sign is the loss of the crew's own voices.
+- Crews work on physical line signals rather than speech, and a missed signal ends the session for the rotation.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

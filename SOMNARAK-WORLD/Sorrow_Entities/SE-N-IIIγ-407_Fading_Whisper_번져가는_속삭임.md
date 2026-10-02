@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Fading Whisper.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Whisper is quieter at every logging and has not yet become inaudible.
+- Work accelerates the fading. It has never completed, and the rate returns to baseline between sessions.
+- Two ignored conditions escalate it. Escalation here is an increase in volume, which reverses the trend the file is named for.
+- Identity pressure acts on personnel who strain to hear it; listening is instrumented and crews do not lean in.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line
