@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Candela's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The work is done while the figure is losing shape, and the rate of loss is the instrument. Flerehan slows the melting by sharing what it is carrying; Ferrehan asks the worker to be told a future loss and do nothing about it. Pugnahan collapses the body faster and leaves the floor unsafe. Nothing recovers wax that has already run.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not treat every vision as inevitable; distinguish possibility from fate**.
 
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Candela’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Candela executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time is not the hazard here; acting is. The figure holds its shape through long quiet sessions and loses it in minutes once a team begins trying to prevent what it has shown them. Personnel who find a session uneventful have usually understood the entity correctly.
+- The requiem, the shroud and the halo are all made from compassion that outran what it could do. Each activation borrows a measure of foreknowledge and the operator keeps it. The recorded cost is not visions. It is that the operator begins grieving things that have not happened to people who are still fine.
+- An unresolved session does not transform the entity; it spends it. What is left in the chamber afterwards is the wax, and the wax does not come back. The file records the entity's whole history as a quantity, and the quantity has only ever gone one way.
 
 ## Appearance
 **Primary Form:** A saint-like figure made of melting wax and crystallized tears. Its face changes according to future grief it has perceived.
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A saint-like figure made of melting wax and crystallized tears. Its face changes according to future grief it has perceived.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It manifests within the registered area and walks only toward people. Record its height at entry and exit — the figure is measurably shorter at the end of an active session — and the position of the pools, which never quite spread and never dry.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-B-02, Zone B
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; Zone B holds more than one record that shows what is coming, and they do not carry the same obligation when it does. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the face and the rate together. The features run and reset to mirror a grief it has already perceived, so the face is a reading rather than an appearance: note whose grief it resembles, if anyone present recognises it. Then the melting — drops per minute if countable, height lost if not — and whether the crystallised tears threaded through the wax are holding or have begun to loosen.
 
 ## Origin
 - **Formation:** The Saint formed from compassion overwhelmed by anticipation.
 - **The Sorrow:** The pain of knowing that people will suffer and being unable to prevent every future loss.
 - **The Event:** A visionary healer began grieving tragedies before they occurred; compassion dissolved the boundary between present and future.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A healer of Zone B who began grieving her patients' losses in advance and could not stop at the ones that were going to happen. The Keepers' record names her and lists the people she mourned; a third of them are still alive, and the file keeps the list because that proportion is the entity's management condition in evidential form.
 - **Expanded origin context:** The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a containment subject. It has become a teacher. A mirror. A reminder that behind every Sorrow Entity is a story — a story of loss, of grief, of the weight of being human in a city built on sorrow.
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Candela is recorded as a Subject with Subject-Lament manifestation and Lament elemental expression. The current record places it at SECTOR-B-02, Zone B; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling gauge under Flerehan means the grief was shared rather than received; under Ferrehan it means the worker was shown a loss and let it stand as a possibility. Stability under Viderehan is correct and is not a failure. The gauge rises whenever anybody in the chamber starts planning around what they were shown — the entity reads the planning, not the outcome.
 ## Breach Behavior
 
 > *"Candela has broken free. Reaches toward personnel."*
@@ -153,16 +153,16 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Candela shatters containment and hunts through the facility. It reaches toward personnel. |
+| **Movement** | It leaves the chamber and walks to wherever the person it has been grieving for is working. It reaches toward them and does nothing else. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
-| **Escalation** | Each turn free, Composure drain +5 until suppressed. |
+| **First Target** | Whoever is named in the most recent vision, wherever in the facility they are. |
+| **Escalation** | Drain rises by 5 for each attempt to prevent what it has shown, and holds steady for as long as it is allowed to walk and reach. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
+- **Breach type:** Escape — it leaves the chamber and goes to find the people it has been grieving for, which is the behaviour the record classifies as hunting and is not pursuit in any ordinary sense.
+- **Containment priority:** Suppression accelerates the loss and has never ended an incident. Enter every vision in the prediction register as one possibility among several, in writing, where the figure can see it being written; the melting slows within minutes. The register is the containment apparatus and the chamber is incidental to it.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment
@@ -182,13 +182,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A line of up to three — the requiem carries forward through a group the way an anticipated grief passes down a corridor rather than stopping at one person.
+**Falloff Rule:** Full effect on the first, seventy per cent on the second, fifty on the third. What thins along the line is certainty: the third target reports having been worried rather than having known.
+**Damage Application:** Record the strike and the anticipation separately. The lament lands once; the conviction that something is coming persists for the rest of the shift and is the part personnel need relieving of.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Candela's lament signature in the strike.
+**Ability:** Lament damage to the mind. The requiem channels grief for something that has not happened, and what it opens in a target is the certainty that it will.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the entity's unwept grief and weeps involuntarily, generally for somebody who is in the room and in good health.
 
 ### M.A.W. Suit — The Melted Shroud
 
@@ -204,9 +204,9 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Candela's kind of pressure.
+**Ability:** Turns Lament aside from the mind, which is the only pressure this entity applies — it has never struck anyone. The shroud is what allows a worker to be shown a future loss and still finish the session.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small pleasures, and reports it first as being unable to enjoy anything that is going to end.
 
 ### M.A.W. Stigma — The Melted Halo
 
@@ -216,13 +216,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to work against Candela itself, and nothing in the rest of Zone B.
 
 **Ability:** Reveals approaching emotional danger.
 
 **Cost:** The wearer grieves possible futures before they happen.
 
-*Stigmas are granted at random by Candela upon a successful work, not manufactured.*
+*The halo is not manufactured. Candela gives one to a worker who was shown a death and did not go and warn anyone, and has given none to a worker who acted on a vision, however well it turned out.*
 
 ### M.A.W. Use Notes
 
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grades describe extraction stability rather than human safety, and on this post that gap is the whole story. Nothing here is decided by equipment. What the table cannot show is that the halo's wearers are the personnel most often relieved from duty on this wing, and that the recorded reason is never the entity.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Candela's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Record the first sign, which is the smell of tallow in a cold room; the first sensation, which is grief for somebody who is not in danger; the figure's height at entry and exit; the number of visions shown and whose; and the condition that ends the encounter, which is each vision being entered in the register as a possibility. Record the register entry numbers.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -267,17 +267,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Candela (C-IVδ-165 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Saint formed from compassion overwhelmed by anticipation. Held at SECTOR-B-02, Zone B. The Saint loses material continuously but never disappears.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Moves through the facility while leaving melting residue. Personnel experience grief for future events as if they already occurred. Its visions are possible futures, not fixed predictions.
+**Entry 2 — <Prediction Register, Zone B: Outcomes Checked at One Year>**
+Visions entered in the register's first year: eighty-four. Checked at one year: occurred as shown, nineteen; occurred in altered form, twenty-two; did not occur, thirty-one; unresolvable, twelve. The register's standing note is that the second and third categories together are the majority and that this is the figure to quote when personnel ask whether the entity is ever wrong. It is wrong constantly. It grieves anyway, and the grief is identical in every case.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The pain of knowing that people will suffer and being unable to prevent every future loss.
+**Entry 3 — <Statement of a Worker Who Was Shown Something and Did Not Act>**
+"It showed me a corridor and a date and someone I work with. I wrote it in the register and I went home. For eleven days I checked the duty board every morning to see where she was posted, and then the date came and nothing happened, and she is still here, and I have never told her. What I want recorded is that not acting was not restraint. I did it because the file said to, and I was sick for most of a fortnight, and if the file had said anything else I would have gone and told her inside the hour."
 
 **Entry 4 — <Containment Notice>**
 Management: Do not treat every vision as inevitable; distinguish possibility from fate. Work response — Flerehan: Melting slows when its sorrow is shared. (Decrease); Pugnahan: The body collapses faster and the floor becomes slippery with grief. (Increase); Viderehan: Shows possible future losses. (Stable); Ferrehan: Tests whether the worker can endure knowing without intervening. (Decrease). Personnel may become unable to experience present joy after prolonged exposure.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-The Saint runs. Wax leaves the face faster than it is replaced, and the features reset into an expression nobody in the chamber is wearing yet — the grief of whoever is standing closest, as they will wear it later. Staff who recognise their own future face on it do not usually say so at the time. The recognitions that have been reported were reported weeks afterward, and in every case the grief had arrived in between.
+**Entry 5 — <Director's Memo, Eyes Only: On Not Acting>**
+The instruction not to act on Candela's visions is the hardest thing this office asks of the wing, and it is asked on arithmetic rather than principle: the register shows the entity wrong more often than right, and every intervention — successful or not — accelerates a loss that cannot be reversed. There is no quantity of wax in reserve. This memo exists so that the instruction is not attributed to the personnel who carry it out. Where a vision proves accurate and nobody was warned, the decision was taken here, in advance, and in writing, and is to be reported as such.
 
 **Threat rating:** Low. The melting is continuous and the figure has never left its alcove. The hazard is anticipatory mourning — personnel grieve a loss that has not happened, accurately, and the keening that follows fractures composure in anyone within earshot who has also seen their own face on it.
 
@@ -308,12 +308,12 @@ Wax tears run down the Saint's face. Each drop shows a different future: a door 
 
 Candela does not exist in isolation. Its recorded relationships with The Kind Healer, The Cracked Hourglass, The Dawn of Mourning should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Observe it alone and with the full team present, since the number of people available to be grieved for changes what it shows. In shared conditions record whether the visions turned toward the other entity, whether the melting rate changed, and whether anything it showed had already been entered in the register.
 
 
 ### Entity Interaction Record
 
-Candela must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Candela is filed with the Zone B records that concern knowing rather than doing. The relationships below are what the archive will support. They are not alliances; they are several forms of information that arrived too early, and in proximity each makes the others harder to leave unacted on.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -321,7 +321,7 @@ Candela must be assessed as part of an entity network, not as an isolated profil
 | **The Cracked Hourglass** | Shows futures shaped by wasted time. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Dawn of Mourning** | The Saint's possible visions include its transformation. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo and full-team baselines first, then the shared encounter: melting rate before, during and after, the distance at which the visions began, how long the rate stayed elevated once the other entity withdrew, and whether any vision shown during the overlap has since been checked against an outcome. The last is a one-year field and is to be left open, not estimated.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -368,9 +368,9 @@ Some sorrows grieve the present. Candela grieves the future — every loss that 
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this as a record of foreknowledge that cannot be used, not of a hostile subject. Every figure here follows from somebody deciding to act on what they were told. The management condition is a filing discipline, and it is the only measure that has ever slowed the melting.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any incident matching a registered prediction, and after any session in which personnel acted on a vision — the last unconditionally, including cases where the action succeeded, because a successful intervention raises the figure exactly as a failed one does. The review examines the register, not the judgement of the person who went.
 ## Apex Record
 
 ### Melting Without Heat
@@ -408,9 +408,9 @@ Collected pools are held unanalyzed for a fixed interval before the material is 
 
 - **Classification detail:** Candela is a Subject with Entity (IV) — Self-aware, dissolving, compassionate coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-B-02, Zone B.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the melting without heat and by the face resetting. Several figures in Zone B are described as saint-like; this is the one that is smaller at the end of a session than at the start.
+- **Record detail:** Check the designation before approach. More than one Zone B record shows the future, and they differ on what is owed in response — this is the one that must not be acted upon.
+- **Containment detail:** The entity does not need to breach to cost something. It melts in a sealed chamber with nobody present whenever a registered prediction is treated as settled elsewhere in the facility, and the containment reading is taken from the register and the height mark, not from the door.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-165
