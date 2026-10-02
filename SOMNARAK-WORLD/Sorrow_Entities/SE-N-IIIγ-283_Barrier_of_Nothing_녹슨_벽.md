@@ -296,7 +296,7 @@ You dream of a wall that has no end. On one side stands the city; on the other, 
 
 
 
-**At first contact:** The Subject-Dream does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A dreamlike humanoid formed from rusted wall plates. It appears beside the Exile's Gate and blocks....
+**At first contact:** The Subject-Dream does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A dreamlike humanoid formed from rusted wall plates. It appears beside the Exile's Gate and blocks no physical passage.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Dream becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

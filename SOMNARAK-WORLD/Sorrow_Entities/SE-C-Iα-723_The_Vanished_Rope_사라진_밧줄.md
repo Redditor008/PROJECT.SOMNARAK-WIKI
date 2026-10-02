@@ -296,7 +296,7 @@ A length of rope burns across the horizon, attached to nothing. When it reaches 
 
 
 
-**At first contact:** The Subject-Grudge does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A burning humanoid figure with rope-like limbs that fade in and out of visibility. The rope appears....
+**At first contact:** The Subject-Grudge does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A burning humanoid figure with rope-like limbs that fade in and out of visibility. The rope appears severed at both ends.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Grudge becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

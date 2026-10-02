@@ -292,7 +292,7 @@ A figure sleeps inside a crystal shard. Its face changes as dreams pass through 
 
 
 
-**At first contact:** The Subject-Lament does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes....
+**At first contact:** The Subject-Lament does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes shape inside dreams.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Lament becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

@@ -291,7 +291,7 @@ Rusted plates rise out of the dream and form a span over black water. You cross,
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Dream resolve into something you can name. A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Dream resolve into something you can name. A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by people who have crossed a broken boundary.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Void that the entity embodies. Understanding it does not make it easier.
 

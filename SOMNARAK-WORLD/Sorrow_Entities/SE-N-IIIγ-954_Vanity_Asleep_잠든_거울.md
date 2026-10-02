@@ -292,7 +292,7 @@ The figure sleeps beneath a surface that should reflect the room. You look and s
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Void pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A sleeping, mirror-like figure whose surface reflects the viewer's face only after the viewer has....
+**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Void pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A sleeping, mirror-like figure whose surface reflects the viewer's face only after the viewer has looked away.
 
 **With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Void has a history here, and prolonged exposure makes that history legible.
 

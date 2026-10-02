@@ -292,7 +292,7 @@ Sound drains from the room, but understanding gathers. The figure glows where no
 
 
 
-**At first contact:** The Subject-Dream does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A dreamlike figure formed from luminous silence. Its outline glows faintly, but no face can be held....
+**At first contact:** The Subject-Dream does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A dreamlike figure formed from luminous silence. Its outline glows faintly, but no face can be held in memory.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Dream becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

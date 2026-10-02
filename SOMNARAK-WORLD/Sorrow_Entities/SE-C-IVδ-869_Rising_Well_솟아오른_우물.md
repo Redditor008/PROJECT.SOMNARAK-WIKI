@@ -290,7 +290,7 @@ The ground opens in your mind. A well rises where no ground exists, and crimson 
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Mind resolves: A well-shaped presence rising from the ground inside a person's consciousness. Its rim appears as a....
+**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Mind resolves: A well-shaped presence rising from the ground inside a person's consciousness. Its rim appears as a circle of crimson light.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 

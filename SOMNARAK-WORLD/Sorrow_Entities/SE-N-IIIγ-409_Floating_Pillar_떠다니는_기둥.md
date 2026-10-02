@@ -292,7 +292,7 @@ A voice rises around an empty vertical shape. You reach for the pillar and your 
 
 
 
-**At first contact:** The Subject-Spirit does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. An ethereal voice surrounding a pillar-shaped absence. The voice speaks from above and below at....
+**At first contact:** The Subject-Spirit does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. An ethereal voice surrounding a pillar-shaped absence. The voice speaks from above and below at once.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Spirit becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

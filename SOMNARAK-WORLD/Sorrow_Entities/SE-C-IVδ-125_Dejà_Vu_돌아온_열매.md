@@ -296,7 +296,7 @@ A sweetness appears on your tongue before the fruit appears. You remember a kitc
 
 
 
-**At first contact:** The Subject-Mind does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A fruit-shaped presence within consciousness rather than space. It appears as a familiar object....
+**At first contact:** The Subject-Mind does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A fruit-shaped presence within consciousness rather than space. It appears as a familiar object returning to an impossible place.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Mind becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

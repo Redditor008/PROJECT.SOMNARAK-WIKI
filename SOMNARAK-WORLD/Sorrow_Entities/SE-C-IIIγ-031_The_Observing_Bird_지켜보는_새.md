@@ -300,7 +300,7 @@ The eyes find you before the body does. One watches your face, another your hand
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. An eagle-sized bird covered in exactly 144 eyes. It does not speak or attack; it watches and....
+**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. An eagle-sized bird covered in exactly 144 eyes. It does not speak or attack; it watches and records.
 
 **With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Lament has a history here, and prolonged exposure makes that history legible.
 

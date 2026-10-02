@@ -296,7 +296,7 @@ A wall stands inside your mind. It has already fallen, but the dust has not sett
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Mind resolve into something you can name. A wall-shaped presence inside consciousness, cracked and leaning. It appears as a collapsing....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Mind resolve into something you can name. A wall-shaped presence inside consciousness, cracked and leaning. It appears as a collapsing boundary between one thought and the next.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Lament that the entity embodies. Understanding it does not make it easier.
 

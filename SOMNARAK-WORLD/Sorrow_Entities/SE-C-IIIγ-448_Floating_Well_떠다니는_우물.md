@@ -290,7 +290,7 @@ A well hangs above the Forge, its opening black and patient. You look down and s
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Grudge pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A well-shaped pressure floating above the Forge floor. Its rim is made of dark crystal and its....
+**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Grudge pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A well-shaped pressure floating above the Forge floor. Its rim is made of dark crystal and its depth opens into consciousness.
 
 **With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Grudge has a history here, and prolonged exposure makes that history legible.
 

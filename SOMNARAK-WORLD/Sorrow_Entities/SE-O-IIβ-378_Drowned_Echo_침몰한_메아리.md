@@ -291,7 +291,7 @@ Your ears fill with water though your clothes remain dry. A voice speaks beneath
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Mind resolve into something you can name. A submerged presence in consciousness, perceived as a voice beneath dark water. It has no physical....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Mind resolve into something you can name. A submerged presence in consciousness, perceived as a voice beneath dark water. It has no physical body.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Lament that the entity embodies. Understanding it does not make it easier.
 

@@ -294,7 +294,7 @@ A bridge appears behind your eyes. The far shore is crowded with people you coul
 
 
 
-**At first contact:** The Subject-Mind does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A bridge-shaped consciousness made from a broken promise and a violent crossing. It appears as a....
+**At first contact:** The Subject-Mind does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A bridge-shaped consciousness made from a broken promise and a violent crossing. It appears as a pressure in the mind.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Mind becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

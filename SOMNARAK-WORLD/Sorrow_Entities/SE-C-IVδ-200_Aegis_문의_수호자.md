@@ -294,7 +294,7 @@ The Gate stands open behind the Guardian. The figure does not move, yet every ex
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Grudge pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Body resolve into something you can name. A massive armored figure standing before the Exile's Gate. Its armor is ancient Han-crystal and its....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Grudge pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Body resolve into something you can name. A massive armored figure standing before the Exile's Gate. Its armor is ancient Han-crystal and its weapon remains lowered.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Grudge that the entity embodies. Understanding it does not make it easier.
 

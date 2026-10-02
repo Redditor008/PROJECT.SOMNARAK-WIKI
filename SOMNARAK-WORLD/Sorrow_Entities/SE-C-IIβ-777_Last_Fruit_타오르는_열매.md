@@ -298,7 +298,7 @@ The figure smells of fruit and smoke. Its red core glows through the market mask
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Body resolves: A hunched, seed-crusted beast born of a single charring fruit — its body a cracked crimson rind....
+**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Body resolves: a hunched, seed-crusted shape born of a single charring fruit, its body a cracked crimson rind over a core that glows bright red and never burns down. Embers drift off it as it moves. The flesh is warm and gives slightly under a hand, like fruit, and the air around it smells of char and of something overripe.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 

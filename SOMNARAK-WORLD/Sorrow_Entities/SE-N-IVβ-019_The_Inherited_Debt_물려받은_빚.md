@@ -314,7 +314,7 @@ A silence presses against your ears. Something speaks without words, showing you
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Weight pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Mind resolve into something you can name. The entity has no stable physical body. Those with heavy inherited debt perceive it as a shadow on....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Weight pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Mind resolve into something you can name. The entity has no stable physical body. Those with heavy inherited debt perceive it as a shadow on their back, a whisper in the ear, or pressure against the chest.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Weight that the entity embodies. Understanding it does not make it easier.
 

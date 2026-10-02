@@ -294,7 +294,7 @@ Stone cracks with the sound of a held breath. The Saint kneels, and the room bec
 
 
 
-**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A saint-like humanoid made of cracking stone and dark Han-crystal. Pieces crumble from its body but....
+**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A saint-like humanoid made of cracking stone and dark Han-crystal. Pieces crumble from its body but never reach the floor.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Body becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

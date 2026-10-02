@@ -299,7 +299,7 @@ The Window passes like a person walking behind glass. Inside its frozen surface,
 
 
 
-**At first contact:** The Subject-Grudge does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid figure of black ice and burning edges. It moves constantly around the Commons and never....
+**At first contact:** The Subject-Grudge does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid figure of black ice and burning edges. It moves constantly around the Commons and never remains in one place.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Grudge becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

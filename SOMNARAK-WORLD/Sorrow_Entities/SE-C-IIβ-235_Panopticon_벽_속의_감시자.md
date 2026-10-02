@@ -296,7 +296,7 @@ You feel watched before you see the first eye. Then another opens in the wall, a
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Void always changes a room. Then the Subject-Phantasmal resolves: Eyes embedded in walls, ceilings, and doorframes. A translucent watcher may appear only when the....
+**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Void always changes a room. Then the Subject-Phantasmal resolves: Eyes embedded in walls, ceilings, and doorframes. A translucent watcher may appear only when the observer accepts being seen.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Void is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 

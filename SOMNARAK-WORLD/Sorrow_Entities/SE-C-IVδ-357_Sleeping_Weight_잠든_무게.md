@@ -290,7 +290,7 @@ The tunnel slopes downward toward a sleeping figure. Every step becomes harder. 
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Weight always changes a room. Then the Subject-Lament resolves: A sleeping humanoid figure made of black weight-crystal. It lies beneath the tunnels, weeping in....
+**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Weight always changes a room. Then the Subject-Lament resolves: A sleeping humanoid figure made of black weight-crystal. It lies beneath the tunnels, weeping in its sleep.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Weight is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 

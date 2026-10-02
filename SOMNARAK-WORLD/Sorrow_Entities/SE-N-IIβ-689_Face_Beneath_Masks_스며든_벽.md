@@ -296,7 +296,7 @@ A wall rises behind your thoughts. It is smooth, blank, and impossible to climb.
 
 
 
-**At first contact:** The Subject-Mind does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A wall-shaped presence inside consciousness that spreads whenever a person tries to hide an....
+**At first contact:** The Subject-Mind does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A wall-shaped presence inside consciousness that spreads whenever a person tries to hide an emotional boundary.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Mind becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

@@ -300,7 +300,7 @@ A bridge flows through the Garden without water beneath it. Its surface carries 
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Body resolves: A long serpentine creature of flowing stone and dark water, its body arching and coiling like a....
+**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Body resolves: a long form of flowing stone and dark water, its body arching and coiling like a span thrown across a river, its torso the bridge and its arms reaching out to shelter people who are no longer there. The river it crosses is not there either.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 

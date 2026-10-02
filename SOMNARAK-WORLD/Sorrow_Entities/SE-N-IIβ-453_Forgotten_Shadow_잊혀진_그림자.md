@@ -288,7 +288,7 @@ A shadow crosses the dust and sings into the empty land. You see no mouth, no in
 
 
 
-**At first contact:** The Subject-Weight does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid shadow that sings softly while moving through the Desolate. It has no face, but....
+**At first contact:** The Subject-Weight does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid shadow that sings softly while moving through the Desolate. It has no face, but understands anyone who watches it.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Weight becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

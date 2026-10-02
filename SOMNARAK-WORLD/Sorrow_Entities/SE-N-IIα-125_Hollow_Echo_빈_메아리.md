@@ -292,7 +292,7 @@ You hear “Help” from behind you. When you turn, the gardens are empty. The c
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Phantasmal resolve into something you can name. A voice without a stable body. At times a faint translucent outline appears, but the sound is....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Phantasmal resolve into something you can name. A voice without a stable body. At times a faint translucent outline appears, but the sound is present everywhere and nowhere.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Void that the entity embodies. Understanding it does not make it easier.
 

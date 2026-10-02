@@ -295,7 +295,7 @@ The room feels heavy, but the young man looks empty. He does not argue; argument
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Void pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A thin young man with empty eyes and a defiant posture. He appears almost weightless compared with....
+**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Void pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A thin young man with empty eyes and a defiant posture. He appears almost weightless compared with the other Triplets.
 
 **With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Void has a history here, and prolonged exposure makes that history legible.
 

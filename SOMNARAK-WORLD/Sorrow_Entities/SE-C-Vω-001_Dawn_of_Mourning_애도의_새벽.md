@@ -306,7 +306,7 @@ The Kind Healer rises into light that is not light. Twelve colors merge, and win
 
 
 
-**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — All four settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a....
+**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — All four settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Body becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

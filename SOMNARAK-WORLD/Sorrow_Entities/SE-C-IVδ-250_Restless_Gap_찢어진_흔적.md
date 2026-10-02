@@ -296,7 +296,7 @@ The figure stands in the Commons, and the room forgets how its corners connect. 
 
 
 
-**At first contact:** The Subject-Void does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. An emptiness shaped like a person, split by a jagged vertical tear. It carries no visible material....
+**At first contact:** The Subject-Void does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. An emptiness shaped like a person, split by a jagged vertical tear. It carries no visible material but bends the space around it.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Void becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

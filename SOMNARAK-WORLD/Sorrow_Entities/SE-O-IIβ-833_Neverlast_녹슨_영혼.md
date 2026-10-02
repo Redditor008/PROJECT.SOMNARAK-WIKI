@@ -301,7 +301,7 @@ The figure stands as if waiting at a door that will never open. Rust flakes from
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Lament resolve into something you can name. A motionless figure that appears rusted and worn, made of dark tear-crystal. It weeps while waiting....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Lament resolve into something you can name. A motionless figure that appears rusted and worn, made of dark tear-crystal. It weeps while waiting for a friend who abandoned it.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Lament that the entity embodies. Understanding it does not make it easier.
 

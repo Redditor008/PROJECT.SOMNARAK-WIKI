@@ -300,7 +300,7 @@ A wing passes over you like a roof. The air beneath it is still, quiet, and safe
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Void always changes a room. Then the Subject-Body resolves: A large bird with hard, angular wings shaped like shields. It guards objects, places, and memories....
+**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Void always changes a room. Then the Subject-Body resolves: A large bird with hard, angular wings shaped like shields. It guards objects, places, and memories that are already lost.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Void is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 

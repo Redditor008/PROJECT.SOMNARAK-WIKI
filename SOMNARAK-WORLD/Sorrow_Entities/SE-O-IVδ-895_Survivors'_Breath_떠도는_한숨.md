@@ -295,7 +295,7 @@ A breath leaves your mouth and does not vanish. It travels down the corridor, jo
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Void always changes a room. Then the Subject-Spirit resolves: An ethereal breath moving through the Old Lament as a voice without a body. It appears as a pale....
+**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Void always changes a room. Then the Subject-Spirit resolves: An ethereal breath moving through the Old Lament as a voice without a body. It appears as a pale trail in cold air.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Void is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 

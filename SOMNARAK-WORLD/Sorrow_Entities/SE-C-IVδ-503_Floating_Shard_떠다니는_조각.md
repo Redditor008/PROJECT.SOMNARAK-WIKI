@@ -290,7 +290,7 @@ A shard floats through the Forge's heat, carrying a pale figure inside it. The f
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A large floating crystal shard containing the outline of a ghostly figure. It drifts above the....
+**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A large floating crystal shard containing the outline of a ghostly figure. It drifts above the Forge without touching anything.
 
 **With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Lament has a history here, and prolonged exposure makes that history legible.
 

@@ -294,7 +294,7 @@ Iron footsteps cross the floor. The Judge turns its sealed face toward you, and 
 
 
 
-**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — Grudge settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its....
+**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — Grudge settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its chest.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Body becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

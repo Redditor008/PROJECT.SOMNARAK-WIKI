@@ -301,7 +301,7 @@ He stands in the corridor's shadow, translucent and ancient, with eyes fixed on 
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Grudge pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Phantasmal resolve into something you can name. A translucent, flickering warrior in armor from an unidentified ancient era. He stands perfectly at....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Grudge pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Phantasmal resolve into something you can name. A translucent, flickering warrior in armor from an unidentified ancient era. He stands perfectly at attention and carries no visible weapon unless provoked.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Grudge that the entity embodies. Understanding it does not make it easier.
 

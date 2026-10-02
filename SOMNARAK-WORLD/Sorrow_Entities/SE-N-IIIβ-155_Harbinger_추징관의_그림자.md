@@ -294,7 +294,7 @@ You feel cold between your shoulders. When you turn, there is nothing. When you 
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Weight pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Phantasmal resolve into something you can name. A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Weight pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Phantasmal resolve into something you can name. A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Weight that the entity embodies. Understanding it does not make it easier.
 

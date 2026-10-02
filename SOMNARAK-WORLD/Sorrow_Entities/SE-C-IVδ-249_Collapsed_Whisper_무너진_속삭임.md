@@ -290,7 +290,7 @@ The dream collapses around a voice. You see a caravan falling through red dust, 
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Dream resolves: A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches....
+**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Dream resolves: A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 

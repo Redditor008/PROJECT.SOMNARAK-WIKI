@@ -305,7 +305,7 @@ The room becomes quiet enough to hear your own blood. A shape stands where you w
 
 
 
-**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A barely visible young woman made of crystallized silence. She produces no sound and is often....
+**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A barely visible young woman made of crystallized silence. She produces no sound and is often visible only when someone deliberately looks for her.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Body becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

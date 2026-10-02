@@ -294,7 +294,7 @@ The figure stands in a vault without shadows. Its eyes contain not faces but end
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Void resolve into something you can name. A translucent figure made from the final moments of everyone who has died in Somnarak. Its form....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Void resolve into something you can name. A translucent figure made from the final moments of everyone who has died in Somnarak. Its form flickers between faces and last thoughts.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Void that the entity embodies. Understanding it does not make it easier.
 

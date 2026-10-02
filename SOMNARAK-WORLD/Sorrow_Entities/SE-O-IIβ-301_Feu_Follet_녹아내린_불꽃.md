@@ -295,7 +295,7 @@ A flame burns behind your eyes. It shows a hand, a shelter, a moment when fear s
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A melting flame perceived inside consciousness as a figure whose face changes with the observer's....
+**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A melting flame perceived inside consciousness as a figure whose face changes with the observer's grief.
 
 **With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Lament has a history here, and prolonged exposure makes that history legible.
 

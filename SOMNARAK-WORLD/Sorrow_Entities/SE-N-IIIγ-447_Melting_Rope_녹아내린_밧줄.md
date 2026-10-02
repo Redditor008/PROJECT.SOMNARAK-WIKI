@@ -292,7 +292,7 @@ A rope crosses the dream between two travelers. One end melts in your hand, warm
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A dreamlike rope-shaped figure that melts at one end while reforming at the other. It appears in....
+**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A dreamlike rope-shaped figure that melts at one end while reforming at the other. It appears in the dreams of travelers.
 
 **With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Lament has a history here, and prolonged exposure makes that history legible.
 

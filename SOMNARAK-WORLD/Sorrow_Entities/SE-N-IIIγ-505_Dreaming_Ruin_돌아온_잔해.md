@@ -296,7 +296,7 @@ A wall rises from dream-dust. A familiar chair appears, then a door, then the so
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Dream resolve into something you can name. A dreamlike figure made from pieces of a ruined room. It rebuilds itself whenever someone remembers....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Dream resolve into something you can name. A dreamlike figure made from pieces of a ruined room. It rebuilds itself whenever someone remembers it.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Void that the entity embodies. Understanding it does not make it easier.
 

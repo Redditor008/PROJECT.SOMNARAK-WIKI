@@ -294,7 +294,7 @@ Wax tears run down the Saint's face. Each drop shows a different future: a door 
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Lament always changes a room. Then the Subject-Lament resolves: A saint-like figure made of melting wax and crystallized tears. Its face changes according to....
+**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Lament always changes a room. Then the Subject-Lament resolves: A saint-like figure made of melting wax and crystallized tears. Its face changes according to future grief it has perceived.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Lament is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 

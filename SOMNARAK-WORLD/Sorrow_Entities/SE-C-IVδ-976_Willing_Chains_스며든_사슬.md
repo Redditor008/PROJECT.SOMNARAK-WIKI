@@ -294,7 +294,7 @@ The figure burns in the corridor while chains crawl from its feet. One wraps a d
 
 
 
-**At first contact:** The Subject-Grudge does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A burning figure covered in black chains that spread across walls and floors. Its body remains....
+**At first contact:** The Subject-Grudge does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A burning figure covered in black chains that spread across walls and floors. Its body remains motionless while the chains move.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Grudge becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

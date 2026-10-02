@@ -295,7 +295,7 @@ Broken stone rises around a sleeping figure. Its breathing shifts the ruins like
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Lament resolve into something you can name. A sleeping humanoid made from the ruins of an Outside Sorrow settlement. It weeps while resting....
+**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Lament resolve into something you can name. A sleeping humanoid made from the ruins of an Outside Sorrow settlement. It weeps while resting beneath broken structures.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Lament that the entity embodies. Understanding it does not make it easier.
 
