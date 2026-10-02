@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Spire of Unanswered Prayer (O-IIβ-796 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Tower formed from an Outside Sorrow settlement that never stopped mourning its dead. Held at Zone A, Alpha Tree vault. Its song is warm but produces grief.
 
-**Entry 2 (Spire of Unanswered Prayer) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Travels through dreams and Alpha Tree vaults. Personnel feel grief descending from above. The tower appears only in consciousness.
 
-**Entry 3 (Spire of Unanswered Prayer) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of looking upward for rescue that never descended.
 
 **Entry 4 — <Containment Notice>**

@@ -282,7 +282,7 @@ The Silent Child (N-Iα-025 [VS]) is logged as a Subject-Body manifestation expr
 **Entry 2 — <Excerpt from Field Log, Year 4227>**
 Wanders silently, choosing corners, doorways, and unoccupied seats. Nearby personnel feel the weight of being unheard and may lose the ability to speak above a whisper. It becomes more present during the Sorrow Tide.
 
-**Entry 3 (The Silent Child) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Neglect—the grief of words dismissed, cries overlooked, and existence treated as absence.
 
 **Entry 4 — <Containment Notice>**

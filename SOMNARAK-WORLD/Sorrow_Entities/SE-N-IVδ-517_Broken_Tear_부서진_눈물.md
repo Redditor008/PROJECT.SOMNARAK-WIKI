@@ -264,16 +264,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Tear (N-IVδ-517 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The Tear formed from grief interrupted before it could complete its release. Held at Zone A, Alpha Tree vault. The crying has no measurable acoustic source.
 
-**Entry 2 (Broken Tear) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in dreams and Alpha Tree reflections. Personnel hear crying and experience another person's loss. The figure fractures when exposed to false comfort.
 
-**Entry 3 (Broken Tear) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The pain of crying for so long that the crying becomes a separate life.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not interrupt or promise relief; remain present. Work response — Flerehan: The figure becomes clearer and the sound softens. (Decrease); Pugnahan: The dream cracks and the crying intensifies. (Increase); Viderehan: Reveals the original loss beneath the sound. (Stable); Ferrehan: Tests whether the worker can remain through the entire lament. (Decrease). It is more active near liquid-memory entities.
 
-**Entry 5 (Broken Tear) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

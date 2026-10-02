@@ -267,16 +267,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Candela (C-IVδ-165 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Saint formed from compassion overwhelmed by anticipation. Held at SECTOR-B-02, Zone B. The Saint loses material continuously but never disappears.
 
-**Entry 2 (Candela) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through the facility while leaving melting residue. Personnel experience grief for future events as if they already occurred. Its visions are possible futures, not fixed predictions.
 
-**Entry 3 (Candela) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The pain of knowing that people will suffer and being unable to prevent every future loss.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not treat every vision as inevitable; distinguish possibility from fate. Work response — Flerehan: Melting slows when its sorrow is shared. (Decrease); Pugnahan: The body collapses faster and the floor becomes slippery with grief. (Increase); Viderehan: Shows possible future losses. (Stable); Ferrehan: Tests whether the worker can endure knowing without intervening. (Decrease). Personnel may become unable to experience present joy after prolonged exposure.
 
-**Entry 5 (Candela) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a …  Threat rating: Low. The Saint melts between present and future grief. Effect: proximity induces anticipatory mourning.
 
 ## 최종 관찰 (Final Observation)

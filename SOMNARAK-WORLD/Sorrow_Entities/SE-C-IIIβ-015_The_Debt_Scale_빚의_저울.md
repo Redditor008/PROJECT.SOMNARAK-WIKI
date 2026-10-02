@@ -305,10 +305,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Debt Scale (C-IIIβ-015 [VO]) is logged as a Object-Void manifestation expressing Void. The Scale formed from the demand for fairness. Held at SECTOR-C-01, used by Collectors. The Scale is always correct by its own definition.
 
-**Entry 2 (The Debt Scale) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It does not distinguish inherited debt from personal debt unless asked.
 
-**Entry 3 (The Debt Scale) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of people judged by corrupt systems and the fear of an impartial measure that might reveal too much.
 
 **Entry 4 — <Containment Notice>**

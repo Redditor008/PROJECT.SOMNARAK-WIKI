@@ -304,10 +304,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Friendless Bridge (N-IIβ-488 [O]) is logged as a Object-Void manifestation expressing Grudge. The Bridge formed from a connection that was promised but never built. Held at Zone C, Collector's Row. It has no stable endpoints.
 
-**Entry 2 (Friendless Bridge) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It spreads through ledgers and family records.
 
-**Entry 3 (Friendless Bridge) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of waiting for a relationship to become mutual.
 
 **Entry 4 — <Containment Notice>**

@@ -319,7 +319,7 @@ The Dancing Chains (C-IIIγ-102 [GO]) is logged as a Object-Grudge manifestation
 **Entry 2 — <Excerpt from Field Log, Year 4203>**
 The object has never moved from its containment zone without a bound wearer.
 
-**Entry 3 (The Dancing Chains) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Exhaustion, loss of agency, and the grief of being unable to stop moving.
 
 **Entry 4 — <Containment Notice>**

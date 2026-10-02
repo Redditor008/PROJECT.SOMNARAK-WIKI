@@ -298,16 +298,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Border Tree (O-IVδ-151 [GP]) is logged as a Place-Lament manifestation expressing Grudge. The Tree formed from the grief of borders that never stopped moving. Held at Zone E, Border region. The Tree grows through political and emotional boundaries rather than soil alone.
 
-**Entry 2 (Border Tree) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its leaves fall during border negotiations.
 
-**Entry 3 (Border Tree) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The pain of belonging being defined by lines that separate families and communities.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows every boundary that crossed the ground. (Stable); Ferrehan: Tests whether the worker can remain between territories. (Decrease). It becomes more active during the Sorrow Tide.
 
-**Entry 5 (Border Tree) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

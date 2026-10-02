@@ -303,10 +303,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Compass (C-IIβ-290 [D]) is logged as a Object-Void manifestation expressing Void. The Compass formed from the sorrow of being lost. Held at SECTOR-D-01, Forge District. The needle never stops in Somnarak.
 
-**Entry 2 (Broken Compass) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It is unreliable near dense Han flows.
 
-**Entry 3 (Broken Compass) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The fear of having no direction and no trusted path back.
 
 **Entry 4 — <Containment Notice>**

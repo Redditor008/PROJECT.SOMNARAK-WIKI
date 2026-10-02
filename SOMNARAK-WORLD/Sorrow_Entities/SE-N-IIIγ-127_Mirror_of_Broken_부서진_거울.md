@@ -269,10 +269,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Mirror of Broken (N-IIIγ-127 [WS]) is logged as a Subject-Dream manifestation expressing Weight. The entity formed from a self divided by leaving home. Held at Zone E, Exile's Gate vicinity. It manifests most strongly near the Exile's Gate.
 
-**Entry 2 (Mirror of Broken) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through dreams and Gate reflections. Personnel feel divided between city-self and exile-self. Its reflections are dreams, not ordinary images.
 
-**Entry 3 (Mirror of Broken) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of becoming someone else in order to survive.
 
 **Entry 4 — <Containment Notice>**

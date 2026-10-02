@@ -263,16 +263,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sleeping Weight (C-IVδ-357 [WS]) is logged as a Subject-Lament manifestation expressing Weight. The Weight formed from responsibility carried unconsciously. Held at Zone B, deep tunnels. It has never fully awakened.
 
-**Entry 2 (Sleeping Weight) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its influence rises through the deep tunnels. Personnel feel every duty they have accepted as physical weight. Its dreams alter local gravity.
 
-**Entry 3 (Sleeping Weight) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of doing what must be done without receiving recognition or rest.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not wake it; distribute the burden among a team. Work response — Flerehan: Remains asleep and its weight becomes gentler. (Decrease); Pugnahan: The tunnel grows heavier and the figure stirs. (Increase); Viderehan: Shows the task it never believed was complete. (Stable); Ferrehan: Tests the worker beneath increasing pressure. (Decrease). Personnel report longing after exposure, often longing for rest.
 
-**Entry 5 (Sleeping Weight) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. A worker braced beneath a beam, eternally holding. Effect: proximity induces the exhaustion of unrewarded duty.
 
 ## 최종 관찰 (Final Observation)

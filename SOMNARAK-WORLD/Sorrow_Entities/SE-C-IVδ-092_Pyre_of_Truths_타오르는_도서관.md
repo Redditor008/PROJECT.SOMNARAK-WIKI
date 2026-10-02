@@ -293,13 +293,13 @@ Pyre of Truths (C-IVδ-092 [GP]) is logged as a Place-Grudge manifestation expre
 **Entry 2 — <Excerpt from Field Log, Year 4204>**
 Flame temperature changes according to intent rather than physics.
 
-**Entry 3 (Pyre of Truths) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of truths suppressed and stories denied the right to exist.
 
 **Entry 4 — <Containment Notice>**
 Readers of the Burning Page report knowledge they cannot un-know.
 
-**Entry 5 (Pyre of Truths) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. The Library burns perpetually with forbidden truth. Effect: viewers see censored records in the flames.
 
 ## 최종 관찰 (Final Observation)

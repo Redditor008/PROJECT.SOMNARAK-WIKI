@@ -305,10 +305,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Deadline (N-IIIβ-156 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Clock formed from anxiety over debt deadlines. Held at SECTOR-C-01, Collector's Row. It never displays ordinary time.
 
-**Entry 2 (Deadline) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its hands stop briefly when a debt is acknowledged.
 
-**Entry 3 (Deadline) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The dread of waiting for collection and knowing the deadline cannot be escaped.
 
 **Entry 4 — <Containment Notice>**

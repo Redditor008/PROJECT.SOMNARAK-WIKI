@@ -264,16 +264,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Ember Phoenix (O-IVδ-190 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Phoenix formed from survival that became another kind of death. Held at The Desolate — mobile. The Phoenix's cycle has no recorded first death.
 
-**Entry 2 (Ember Phoenix) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Flies through the Desolate, leaving fire and ash. Nearby entities become agitated and personnel relive repeated loss. Its flame burns memory as readily as matter.
 
-**Entry 3 (Ember Phoenix) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of having to rise again when no one asks whether you are ready.
 
 **Entry 4 — <Containment Notice>**
 Management: Allow the cycle to finish; forced extinguishing causes violent rebirth. Work response — Flerehan: The flames lower and the Phoenix delays rebirth. (Decrease); Pugnahan: It attacks in a blazing dive. (Increase); Viderehan: Shows memories from previous cycles. (Stable); Ferrehan: Tests whether the worker can witness death without demanding resurrection. (Decrease). Personnel feel hope before understanding the exhaustion beneath it.
 
-**Entry 5 (Ember Phoenix) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

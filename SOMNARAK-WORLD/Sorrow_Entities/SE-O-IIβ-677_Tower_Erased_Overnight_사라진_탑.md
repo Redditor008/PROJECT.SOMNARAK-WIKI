@@ -280,10 +280,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Tower Erased Overnight (O-IIβ-677 [GP]) is logged as a Place-Void manifestation expressing Grudge. The Tower formed from a building removed before anyone could say goodbye. Held at Zone B, Old Lament — ambient. The Tower has no physical structure but casts a shadow.
 
-**Entry 2 (Tower Erased Overnight) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The air becomes thick with unsaid words nearby.
 
-**Entry 3 (Tower Erased Overnight) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of disappearance without a funeral, record, or final word.
 
 **Entry 4 — <Containment Notice>**

@@ -264,10 +264,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Weight of Silence (N-IIα-285 [WS]) is logged as a Subject-Weight manifestation expressing Weight. The Weight formed from silence held as responsibility. Held at Zone D, Mantle Commons — ambient. It appears around people who have stopped speaking about a shared event.
 
-**Entry 2 (Weight of Silence) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Attaches to personnel and follows them through the Commons. Speech becomes physically difficult and thoughts feel heavy. It glows when someone attempts to leave without speaking.
 
-**Entry 3 (Weight of Silence) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of words withheld to protect others or avoid conflict.
 
 **Entry 4 — <Containment Notice>**

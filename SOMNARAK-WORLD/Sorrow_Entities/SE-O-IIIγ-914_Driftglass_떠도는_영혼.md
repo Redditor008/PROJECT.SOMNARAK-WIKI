@@ -355,10 +355,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Driftglass (O-IIIγ-914 [N]) is logged as a Object-Lament manifestation expressing Lament. The Soul formed from an Outside Sorrow traveler who never found a place to rest. Held at Zone A, Alpha Tree. It follows no physical map.
 
-**Entry 2 (Driftglass) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through Alpha Tree corridors and vaults. Personnel feel loss of direction and belonging. It is stronger near Alpha Tree roots.
 
-**Entry 3 (Driftglass) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of wandering after every destination has become unfamiliar.
 
 **Entry 4 — <Containment Notice>**

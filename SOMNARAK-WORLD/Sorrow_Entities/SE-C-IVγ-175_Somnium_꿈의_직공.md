@@ -267,10 +267,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Somnium (C-IVγ-175 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The Weaver formed from dreams abandoned before they could be lived. Held at SECTOR-A-01, near Dream Gates. It is visible only partially outside the Dream layer.
 
-**Entry 2 (Somnium) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through sleeping personnel and Dream-layer corridors. Personnel confuse desire, memory, and present reality. Its dreams can be beautiful enough to overcome the will to wake.
 
-**Entry 3 (Somnium) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of imagined lives that felt possible but never became real.
 
 **Entry 4 — <Containment Notice>**

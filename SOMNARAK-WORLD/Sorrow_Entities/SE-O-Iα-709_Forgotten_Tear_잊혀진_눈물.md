@@ -302,10 +302,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Forgotten Tear (O-Iα-709 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The Tear formed from grief that was forgotten before it could be expressed. Held at Zone A, Alpha Tree vault. It becomes heavier when ignored.
 
-**Entry 2 (Forgotten Tear) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It warms when grief is acknowledged.
 
-**Entry 3 (Forgotten Tear) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The anger of a person whose loss was dismissed by everyone around them.
 
 **Entry 4 — <Containment Notice>**

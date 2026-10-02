@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Soot Fry (C-IIβ-947 [WS]) is logged as a Subject-Body manifestation expressing Weight. The entity is a 2.2 m featureless white Han-crystal fish that rests as a 20 cm black silhouette in a metre-wide Han puddle; it lunges to full size when prey enters the water and drags it under. Contained on-site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and feeding deepens the hunger.
 
-**Entry 2 (Soot Fry) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Worked via Viderehan and Ferrehan from the bank; no entry. The silhouette was logged at 20 cm; a probe-line triggered a full lunge — the body measured 2.2 m, the puddle's measured depth during the lunge returned null on sonar (no floor). When Sentinel Harin spoke the word "fly" near the bank, the fish went motionless for three seconds and the eye oriented upward. Note: the word appears to resonate with a sealed memory. Do not repeat it casually.
 
 **Entry 3 — <Counseling Log>**

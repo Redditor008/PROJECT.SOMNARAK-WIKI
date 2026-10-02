@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Aphonia (N-IIβ-170 [VS]) is logged as a Subject-Void manifestation expressing Void. The Scream formed from pleas for help that no one heard. Held at Zone B, Old Lament — ambient. It produces no measurable sound.
 
-**Entry 2 (Aphonia) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through Old Lament corridors. Personnel feel unheard panic and lose the ability to call out. It reacts strongly to direct acknowledgment.
 
-**Entry 3 (Aphonia) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The despair of screaming until the voice becomes absence.
 
 **Entry 4 — <Containment Notice>**

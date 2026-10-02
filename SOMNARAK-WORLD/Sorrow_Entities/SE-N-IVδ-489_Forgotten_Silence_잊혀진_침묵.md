@@ -264,16 +264,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Forgotten Silence (N-IVδ-489 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The entity formed from silence that was forgotten even by those who created it. Held at Zone C, Mask Market. The entity glows during the Sorrow Tide.
 
-**Entry 2 (Forgotten Silence) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in dreams, reflective surfaces, and the Mask Market. Personnel lose access to words they were about to speak. It cannot be recorded reliably by audio equipment.
 
-**Entry 3 (Forgotten Silence) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The loss of words, confessions, and warnings that no one remembered choosing to suppress.
 
 **Entry 4 — <Containment Notice>**
 Management: Name the withheld truth without forcing another person to speak. Work response — Flerehan: Glows brighter and shares the worker's unspoken grief. (Decrease); Pugnahan: Withdraws into dream-space. (Stable); Viderehan: Shows the moment a silence was created. (Stable); Ferrehan: Remains beside the worker until they can endure not knowing. (Decrease). Personnel report feeling weight rather than fear.
 
-**Entry 5 (Forgotten Silence) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

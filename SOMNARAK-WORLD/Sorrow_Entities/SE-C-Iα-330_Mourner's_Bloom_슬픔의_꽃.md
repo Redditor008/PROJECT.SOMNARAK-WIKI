@@ -322,10 +322,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Mourner's Bloom (C-Iα-330 [D]) is logged as a Object-Lament manifestation expressing Lament. The Flower formed from one honest moment of mourning. Held at Zone D, Echo Gardens. Flowers bloom in response to nearby sorrow.
 
-**Entry 2 (Mourner's Bloom) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 They wilt when joy is forced rather than felt.
 
-**Entry 3 (Mourner's Bloom) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The need for grief to be visible and beautiful rather than hidden.
 
 **Entry 4 — <Containment Notice>**

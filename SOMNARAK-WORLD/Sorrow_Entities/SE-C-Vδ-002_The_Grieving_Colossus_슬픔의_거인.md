@@ -283,13 +283,13 @@ The Grieving Colossus (C-Vδ-002 [WS]) is logged as a Subject-Body manifestation
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 Slow migration through Zone D; the R.D. tracks and redirects construction around its path. Tears expand Zone D and create new structures; witnesses experience involuntary mourning. Buildings formed from its tears are beautiful, stable, and emotionally heavy.
 
-**Entry 3 (The Grieving Colossus) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The immense loneliness of the forgotten dead.
 
 **Entry 4 — <Containment Notice>**
 Management: Cannot be stopped. It can only be guided by monitoring its path and clearing safe routes.  Personnel near it report increased empathy and reduced detachment.
 
-**Entry 5 (The Grieving Colossus) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 Containment records trace the crystallization to this location — the sorrow grew patient and specific until it became a presence that cannot be removed, only held.
 
 ## 최종 관찰 (Final Observation)

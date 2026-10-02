@@ -260,16 +260,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Dormant Monolith (N-IVδ-909 [N]) is logged as a Subject-Mind manifestation expressing Void. The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened.
 
-**Entry 2 (Dormant Monolith) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the minds of personnel near the Border. Personnel feel emptiness and the inability to leave duty. Its shadow grows when the worker refuses rest.
 
-**Entry 3 (Dormant Monolith) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of being held in place by duties no one else remembers.
 
 **Entry 4 — <Containment Notice>**
 Management: Ground the worker and establish a rotation of duty. Work response — Flerehan: The Pillar softens and allows grief to pass. (Decrease); Pugnahan: It rises through the worker's thoughts. (Increase); Viderehan: Reveals the duties holding the worker in place. (Stable); Ferrehan: Tests whether the worker can rest beneath responsibility. (Decrease). Personnel report emptiness after contact.
 
-**Entry 5 (Dormant Monolith) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

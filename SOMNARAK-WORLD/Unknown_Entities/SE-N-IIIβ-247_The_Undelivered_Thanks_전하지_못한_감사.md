@@ -238,16 +238,16 @@ The extracted equipment reflects the same unresolved pressure as The Undelivered
 **Entry 1 — Containment Description**
 The subject is a translucent humanoid, slight, perpetually mid-bow, garbed in the faded coat of a Zone D commoner. At the hip it carries a satchel of warm-gold stones — each stone, on inspection, a single crystallized expression of gratitude. The figure itself is cold; only the stones are warm. It does not speak. It bows, and waits, and moves on.
 
-**Entry 2 (The Undelivered Thanks) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 First contact occurred on the Lantern's dock at dawn. The subject stood at the mooring where the Initiative vessel had departed the previous night, bowing at intervals to an empty berth. It did not respond to address. When Specialist Grey approached, one stone transferred from the satchel to his sternum without contact. The agent reported a sudden, specific recollection of a person he had failed to thank. The stone remained for nine days.
 
-**Entry 3 (The Undelivered Thanks) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 "It wasn't a debt I could pay. I tried for nine years. Flowers at the dock every season. Letters I couldn't send because I never learned her name. When I found her — grey hair, shaking hands — she looked at me the way you look at furniture. The thanks had nowhere to go. It just... stayed. And then it wasn't mine anymore. It was everyone's." — Iseulia (이슬리아), flower-seller, Zone D
 
 **Entry 4 — <Containment Notice, Research Division>**
 The subject is not suppressible by force and yields poorly to Flerehan, Pugnahan, and Viderehan. Ferrehan is the sole effective Work Type: the worker bears one stone until it can be delivered to its living recipient, whereupon it dissolves. Personnel are reminded that the work does not end the sorrow — it forwards it, one thank-you at a time, until it reaches someone who can receive it.
 
-**Entry 5 (The Undelivered Thanks) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 We asked whether the Hand of Hope could dissolve it. It cannot. Gratitude is not sorrow; the Hand transforms sorrow. This entity is the remainder hope cannot reach — the proof that even mercy leaves something behind. Extraction is forbidden. To weaponize gratitude would be to prove the thanks should never have been given. — Majin
 
 ## 최종 관찰 (Final Observation)

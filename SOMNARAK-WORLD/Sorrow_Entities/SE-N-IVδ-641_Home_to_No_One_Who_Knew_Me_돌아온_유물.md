@@ -305,16 +305,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Home to No One Who Knew Me (N-IVδ-641 [GO]) is logged as a Object-Void manifestation expressing Grudge. The Relic formed from the grief of an object repeatedly lost and rediscovered. Held at Zone B, Old Lament — ambient. The Relic appears without a consistent schedule.
 
-**Entry 2 (Home to No One Who Knew Me) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It glows during the Sorrow Tide.
 
-**Entry 3 (Home to No One Who Knew Me) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The instability of belonging—returning home only to find home has forgotten you.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the routes and hands through which it passed. (Stable); Ferrehan: Remains present while the worker bears uncertainty. (Decrease). Personnel report confusion between an object's former and current identity.
 
-**Entry 5 (Home to No One Who Knew Me) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
 
 ## 최종 관찰 (Final Observation)

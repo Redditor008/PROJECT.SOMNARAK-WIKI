@@ -267,10 +267,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Mirror of Rising (C-Iα-392 [O]) is logged as a Subject-Dream manifestation expressing Weight. The Mirror formed from a city forgetting its own name. Held at Zone C, Mask Market. Its reflection rises before its figure.
 
-**Entry 2 (Mirror of Rising) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears through reflective surfaces in the Mask Market. Personnel forget the names of places and people. It is strongest around old Market records.
 
-**Entry 3 (Mirror of Rising) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of identity erased at the scale of a community.
 
 **Entry 4 — <Containment Notice>**

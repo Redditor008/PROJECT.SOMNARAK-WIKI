@@ -279,10 +279,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Unsaid Blossoms (C-IIβ-100 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Grave formed from words never spoken to the dead. Held at SECTOR-D-02, Echo Gardens. Blossoms bloom more heavily during the Sorrow Tide.
 
-**Entry 2 (Unsaid Blossoms) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 No physical body has been recovered beneath the grave.
 
-**Entry 3 (Unsaid Blossoms) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of apologies, farewells, and declarations delayed until no listener remained.
 
 **Entry 4 — <Containment Notice>**

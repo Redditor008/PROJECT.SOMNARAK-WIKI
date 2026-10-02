@@ -283,7 +283,7 @@ The Memory Thief (N-IIIβ-077 [VS]) is logged as a Subject-Phantasmal manifestat
 **Entry 2 — <Excerpt from Field Log, Year 4229>**
 Moves rapidly through corridors and personnel groups. Removes small memories from staff without immediate physical signs. It has never breached through force; it simply slips away when unattended.
 
-**Entry 3 (The Memory Thief) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Anxiety that a face, name, or cherished moment may disappear without warning.
 
 **Entry 4 — <Containment Notice>**

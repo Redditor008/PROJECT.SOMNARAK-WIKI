@@ -268,16 +268,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Survivors' Breath (O-IVδ-895 [VS]) is logged as a Subject-Spirit manifestation expressing Void. The Sigh formed from exhaustion that could not become rest. Held at Zone B, Old Lament. It is strongest after breaches and long patrols.
 
-**Entry 2 (Survivors' Breath) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Flows through Old Lament walls and personnel breath. Personnel feel exhaustion, relief, and sudden emptiness. It moves through breath but is not contagious physically.
 
-**Entry 3 (Survivors' Breath) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of surviving one more day without believing the next will be easier.
 
 **Entry 4 — <Containment Notice>**
 Management: Permit rest; do not force personnel to continue working through it. Work response — Flerehan: Settles around the worker like shared relief. (Decrease); Pugnahan: Becomes a harsh wind and spreads through the halls. (Increase); Viderehan: Reveals the crises that produced each breath. (Stable); Ferrehan: Tests whether the worker can rest without abandoning duty. (Decrease). Personnel report emptiness when the relief ends.
 
-**Entry 5 (Survivors' Breath) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

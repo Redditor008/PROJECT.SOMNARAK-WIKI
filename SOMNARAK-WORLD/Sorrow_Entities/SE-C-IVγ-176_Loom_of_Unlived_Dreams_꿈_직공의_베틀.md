@@ -305,10 +305,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Loom of Unlived Dreams (C-IVγ-176 [LO]) is logged as a Object-Dream manifestation expressing Lament. The Loom formed from dreams abandoned before they could become lives. Held at SECTOR-A-01, near Dream Gates. The Loom responds to desire more than touch.
 
-**Entry 2 (Loom of Unlived Dreams) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Dreams produced by it can affect physical rooms.
 
-**Entry 3 (Loom of Unlived Dreams) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of imagined futures that were beautiful enough to feel real.
 
 **Entry 4 — <Containment Notice>**

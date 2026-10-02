@@ -296,10 +296,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Perennial (N-IIβ-845 [WP]) is logged as a Place-Void manifestation expressing Weight. The Flower formed from a place that was repeatedly abandoned. Held at The Desolate — mobile. The flowers sing faintly during the Sorrow Tide.
 
-**Entry 2 (Perennial) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Removing them causes them to return elsewhere along the same route.
 
-**Entry 3 (Perennial) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of returning to a location that can no longer return anything to you.
 
 **Entry 4 — <Containment Notice>**

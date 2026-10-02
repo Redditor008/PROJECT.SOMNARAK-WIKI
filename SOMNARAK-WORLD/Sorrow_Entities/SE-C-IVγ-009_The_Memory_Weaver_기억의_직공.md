@@ -281,7 +281,7 @@ The Memory Weaver (C-IVγ-009 [VS]) is logged as a Subject-Dream manifestation e
 **Entry 2 — <Excerpt from Field Log, Year 4223>**
 Webs spread through the facility, converting rooms into memory zones. Reality is replaced by the past; personnel cannot distinguish memory from present. The same memory loop may persist for hours with no clear distinction between past and present.
 
-**Entry 3 (The Memory Weaver) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The terror of being erased and the loneliness of memories no one claims.
 
 **Entry 4 — <Containment Notice>**

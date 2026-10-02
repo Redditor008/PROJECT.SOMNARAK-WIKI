@@ -298,10 +298,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Mourning a Life I Never Lived (N-Iα-519 [VP]) is logged as a Place-Grudge manifestation expressing Void. The Seed formed from potential that was removed before it could exist. Held at Zone A, Alpha Tree vault. It has never grown into a physical plant.
 
-**Entry 2 (Mourning a Life I Never Lived) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its roots spread through ideas and memory.
 
-**Entry 3 (Mourning a Life I Never Lived) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of discovering that what you mourned was never actually there.
 
 **Entry 4 — <Containment Notice>**

@@ -327,7 +327,7 @@ The Cracked Hourglass (C-IIIβ-036 [WO]) is logged as a Object-Weight manifestat
 **Entry 2 — <Excerpt from Field Log, Year 4218>**
 The object resonates with the Weeping and pulses near strong emotion.
 
-**Entry 3 (The Cracked Hourglass) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Fear of mortality, deadlines, wasted moments, and unrecoverable choices.
 
 **Entry 4 — <Containment Notice>**

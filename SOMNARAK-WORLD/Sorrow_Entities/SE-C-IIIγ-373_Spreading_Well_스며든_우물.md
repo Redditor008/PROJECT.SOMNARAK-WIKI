@@ -301,10 +301,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Spreading Well (C-IIIγ-373 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Well formed from sorrow that refused to remain in one place. Held at The Desolate, near The Scar. Channels follow Han currents and old mourning paths.
 
-**Entry 2 (Spreading Well) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The Well sings beneath the ground.
 
-**Entry 3 (Spreading Well) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The need for grief to travel until it finds another person able to understand it.
 
 **Entry 4 — <Containment Notice>**

@@ -325,7 +325,7 @@ Broken Clock (C-IIIγ-044 [WO]) is logged as a Object-Weight manifestation expre
 **Entry 2 — <Excerpt from Field Log, Year 4231>**
 Hands move forward, backward, or stop for unexplained intervals.
 
-**Entry 3 (Broken Clock) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of promises trapped in repetition and time that cannot progress.
 
 **Entry 4 — <Containment Notice>**

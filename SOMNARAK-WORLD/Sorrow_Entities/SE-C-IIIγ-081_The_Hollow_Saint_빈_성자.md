@@ -267,10 +267,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Hollow Saint (C-IIIγ-081 [VS]) is logged as a Subject-Void manifestation expressing Void. The Saint formed from a healer who absorbed the pain of others until nothing remained of the self. Held at SECTOR-B-02, Zone B. It was once a healer but can no longer heal itself.
 
-**Entry 2 (The Hollow Saint) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through the facility seeking sorrow to absorb. Personnel become emotionally numb and lose parts of their identity. Exposure produces temporary relief followed by emotional numbness.
 
-**Entry 3 (The Hollow Saint) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The emptiness of giving everything away and discovering that healing others did not create a self.
 
 **Entry 4 — <Containment Notice>**

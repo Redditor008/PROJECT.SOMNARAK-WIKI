@@ -290,7 +290,7 @@ Whispering Walls (C-Iα-011 [LP]) is logged as a Place-Lament manifestation expr
 **Entry 2 — <Excerpt from Field Log, Year 4224>**
 The Han-signature predates the city and the Consolihan.
 
-**Entry 3 (Whispering Walls) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The fear of speaking aloud, followed by the grief of voices that died unheard.
 
 **Entry 4 — <Containment Notice>**

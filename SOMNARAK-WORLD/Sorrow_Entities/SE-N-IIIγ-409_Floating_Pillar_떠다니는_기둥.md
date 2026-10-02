@@ -265,10 +265,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Floating Pillar (N-IIIγ-409 [O]) is logged as a Subject-Spirit manifestation expressing Void. The Pillar formed from an absence made visible through memory. Held at Zone C, Mask Market. The voice has no measurable source.
 
-**Entry 2 (Floating Pillar) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Floats through reflective spaces in the Mask Market. Personnel feel emptiness where they expected protection. It is strongest near masks and false identities.
 
-**Entry 3 (Floating Pillar) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of discovering that a cherished support never truly existed.
 
 **Entry 4 — <Containment Notice>**

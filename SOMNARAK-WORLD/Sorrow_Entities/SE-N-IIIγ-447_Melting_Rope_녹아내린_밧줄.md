@@ -265,10 +265,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Melting Rope (N-IIIγ-447 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The Rope formed from a journey held together only by memory. Held at The Desolate — mobile. It exists primarily in dreams.
 
-**Entry 2 (Melting Rope) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through Desolate dreams and remembered paths. Personnel follow routes toward people who are no longer there. Its routes change when the dreamer remembers more.
 
-**Entry 3 (Melting Rope) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of connection degrading while one person continues holding on.
 
 **Entry 4 — <Containment Notice>**

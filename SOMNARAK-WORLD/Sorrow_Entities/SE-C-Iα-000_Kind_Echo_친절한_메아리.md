@@ -275,7 +275,7 @@ Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject
 **Entry 2 — <Excerpt from Training Manual, Year 4202>**
 "When the R.D. was founded, the first containment sweeps identified hundreds of Sorrow Entities across the city. One of them — found in the oldest corner of the Old Lament — was different. It was warm. It did not weep, wail, or attack. It glowed, softly, and hummed, gently, and when the first agent reached for it, it leaned in. We designated it 000 and gave it a permanent home in our training unit. It has trained every agent we have ever hired."
 
-**Entry 3 (Kind Echo) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 "They told me my first entity would be scary. It wasn't. It was warm, and it hummed, and I put my hand on it and it brightened. I practiced all four Work Types on it in one afternoon. It responded the same way to all of them — gently. I left the unit feeling like I could do this job. I think that is exactly what it wanted me to feel." — Trainee Specialist Hanul Grey (하늘 그레이), Zone B, first day
 
 **Entry 4 — <Containment Notice, Research Division>**

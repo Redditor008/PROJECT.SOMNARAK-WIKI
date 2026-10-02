@@ -270,13 +270,13 @@ Walking Calendar (C-IVδ-220 [WS]) is logged as a Subject-Body manifestation exp
 **Entry 2 — <Excerpt from Field Log, Year 4218>**
 Walks through Alpha Tree storage and historical districts. Personnel feel centuries of shame and responsibility at once. Its singing is composed of dates rather than melodies.
 
-**Entry 3 (Walking Calendar) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of every generation that inherited the city's crimes.
 
 **Entry 4 — <Containment Notice>**
 Management: Archive the truth; do not erase or excuse it. Work response — Flerehan: Sings a softer chronology and lowers its burden. (Decrease); Pugnahan: Adds the worker's anger to its weight. (Increase); Viderehan: Reveals hidden history by date and consequence. (Stable); Ferrehan: Tests whether the worker can remain beneath historical weight. (Decrease). Personnel exposed for long periods lose awareness of the present.
 
-**Entry 5 (Walking Calendar) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Low. An impossibly old figure carrying centuries of inherited guilt. Effect: proximity induces the burden of …
 
 ## 최종 관찰 (Final Observation)

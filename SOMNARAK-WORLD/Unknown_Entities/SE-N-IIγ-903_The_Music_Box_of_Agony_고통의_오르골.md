@@ -207,7 +207,7 @@ The Music Box of Agony (`N-IIγ-903 [VO]`) is a 25 × 15 cm music box — pink l
 **Entry 2 — <Excerpt from Field Log, Year 4220>**
 First contact: the box was found in a sealed room, already playing. The occupant — a citizen, identity never confirmed — sat beside it, translucent, silent, in the exact posture of the figurine. The figurine was turning. The spring, on examination, could not account for more than a few minutes of play. The box had been playing, by the dust on the lid's hinge, for years.
 
-**Entry 3 (The Music Box of Agony) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 "It didn't sound like a song. It sounded like a thought I'd been having my whole life and only just noticed. By the second time through, I couldn't remember why I'd come into the room. By the third, I couldn't remember my name. I only got it back because the Ferrehan worker made me say it at the end. I have never been so frightened of a lullaby." — Listener [stabilized], Echo Gardens
 
 **Entry 4 — <Containment Notice, Research Division>**

@@ -271,10 +271,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Last Fruit (C-IIβ-777 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The entity formed from desire denied until it became anger. Held at Zone C, Mask Market. It glows near concealed wants.
 
-**Entry 2 (Last Fruit) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through the Mask Market seeking someone who will accept it. Personnel feel intense desire turning into resentment. Sparks become seeds that vanish before touching the ground.
 
-**Entry 3 (Last Fruit) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of wanting something simple and being taught that wanting was shameful.
 
 **Entry 4 — <Containment Notice>**

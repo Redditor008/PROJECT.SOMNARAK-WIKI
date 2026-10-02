@@ -264,16 +264,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Spreading Root (O-IVδ-693 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight. The Root formed from sorrow that was buried rather than resolved. Held at Zone B, Old Lament. The entity's roots spread through existing cracks rather than solid material.
 
-**Entry 2 (Spreading Root) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through walls and floors by extending roots. Personnel feel buried sorrow and physical pressure. It grows during the Sorrow Tide.
 
-**Entry 3 (Spreading Root) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of grief hidden beneath homes, streets, and family histories.
 
 **Entry 4 — <Containment Notice>**
 Management: Listen to the Root's history; cutting roots causes further spread. Work response — Flerehan: Roots loosen and reveal the grief below. (Decrease); Pugnahan: Roots harden and spread aggressively. (Increase); Viderehan: Shows the buried history of the ground. (Stable); Ferrehan: Weighs the worker with increasing pressure. (Decrease). Personnel report grief before seeing the figure.
 
-**Entry 5 (Spreading Root) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

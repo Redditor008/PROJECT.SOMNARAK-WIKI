@@ -279,16 +279,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Swallow (C-IVδ-767 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Shadow formed from grief that outlived the person who first carried it. Held at Zone A, Alpha Tree. It is strongest near memorials and old records.
 
-**Entry 2 (Swallow) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It fades when grief is named by its original source.
 
-**Entry 3 (Swallow) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of mourning someone else's loss until it becomes indistinguishable from your own.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the people whose sorrow feeds it. (Stable); Ferrehan: Tests whether the worker can carry grief without claiming it. (Decrease). Personnel report longing after exposure.
 
-**Entry 5 (Swallow) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Moderate. The Shadow spreads, absorbing visitors’ grief. Effect: visitors’ private sorrow rises and merges with the …
 
 ## 최종 관찰 (Final Observation)

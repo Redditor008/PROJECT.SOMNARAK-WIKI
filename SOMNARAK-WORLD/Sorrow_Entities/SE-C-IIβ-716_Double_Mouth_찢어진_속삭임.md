@@ -267,10 +267,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Double Mouth (C-IIβ-716 [GS]) is logged as a Subject-Spirit manifestation expressing Grudge. The Whisper formed from a memory split between truth and denial. Held at Zone D, Mantle Commons. One tone remembers; the other accuses.
 
-**Entry 2 (Double Mouth) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Travels through voices and conversations in the Commons. Personnel remember arguments and events differently. It grows when witnesses are dismissed.
 
-**Entry 3 (Double Mouth) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The pain of knowing something happened while being unable to make others believe it.
 
 **Entry 4 — <Containment Notice>**

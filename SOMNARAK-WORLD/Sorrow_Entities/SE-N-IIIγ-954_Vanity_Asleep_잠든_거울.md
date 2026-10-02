@@ -265,10 +265,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Vanity Asleep (N-IIIγ-954 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The Mirror formed from self-knowledge that people were too exhausted to face. Held at Zone A, Alpha Tree. It remains dormant under ordinary observation.
 
-**Entry 2 (Vanity Asleep) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in reflective surfaces across Zone A. Personnel see themselves as the city sees them: damaged, tired, and pitied. It wakes when someone denies a reflection they have already seen.
 
-**Entry 3 (Vanity Asleep) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of seeing oneself clearly and still being unable to change.
 
 **Entry 4 — <Containment Notice>**

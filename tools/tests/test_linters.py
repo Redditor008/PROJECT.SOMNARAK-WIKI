@@ -119,6 +119,15 @@ class TestLabelLinter(unittest.TestCase):
         # rather than at the end of a sentence. This guards that regression.
         self.assertIn("BARE_CODE_TAG", self.codes(self.BAD))
 
+    def test_entry_callout_self_name_caught(self):
+        # 509 of these survived the V6-1 revert because it only swept table
+        # labels and [SE-] tags, never the bold Entry callout headers.
+        self.assertIn("CALLOUT_SELF_NAME", self.codes(self.BAD))
+
+    def test_undecorated_entry_callout_passes(self):
+        self.assertIsNone(self.lint.P_ENTRY_DECOR.search(
+            "**Entry 3 \u2014 <Excerpt from Counseling Log>**"))
+
     def test_unknown_label_caught(self):
         self.assertIn("LABEL_NOT_ALLOWED", self.codes(self.BAD))
 

@@ -289,7 +289,7 @@ The Inherited Debt (N-IVβ-019 [WS]) is logged as a Subject-Mind manifestation e
 **Entry 2 — <Excerpt from Field Log, Year 4219>**
 Spreads through personnel as a shared mental burden. Personnel feel obligations they never incurred as physical weight on their shoulders. It cannot be separated from a person by ordinary extraction.
 
-**Entry 3 (The Inherited Debt) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The helpless weight of inheriting guilt, payment, and shame from ancestors.
 
 **Entry 4 — <Containment Notice>**

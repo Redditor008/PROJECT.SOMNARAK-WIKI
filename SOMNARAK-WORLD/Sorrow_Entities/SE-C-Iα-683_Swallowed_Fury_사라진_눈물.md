@@ -267,10 +267,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Swallowed Fury (C-Iα-683 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge. The entity formed from a tear that was erased before it could fall. Held at Zone D, Forge District. It appears near workers who suppress visible emotion.
 
-**Entry 2 (Swallowed Fury) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Drifts through Forge District corridors and vents. Personnel experience anger beneath suppressed grief. It glows during the Sorrow Tide.
 
-**Entry 3 (Swallowed Fury) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The fury of grief denied before it became visible.
 
 **Entry 4 — <Containment Notice>**

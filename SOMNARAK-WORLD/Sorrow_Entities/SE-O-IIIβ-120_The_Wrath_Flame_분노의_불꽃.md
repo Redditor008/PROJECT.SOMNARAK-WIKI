@@ -271,7 +271,7 @@ The Wrath Flame (O-IIIβ-120 [GS]) is logged as a Subject-Body manifestation exp
 **Entry 2 — <Excerpt from Field Log, Year 4230>**
 Patrols beyond The Scar and along the Desolate border. Disrespectful personnel experience the rage of the Occlusihan. The Flame patrols the same rift repeatedly.
 
-**Entry 3 (The Wrath Flame) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Fury at a war that consumed lives and left its reason behind.
 
 **Entry 4 — <Containment Notice>**

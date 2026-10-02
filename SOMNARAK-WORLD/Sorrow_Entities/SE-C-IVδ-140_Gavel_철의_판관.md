@@ -267,16 +267,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Gavel (C-IVδ-140 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Judge formed from the sorrow of people subjected to impartial systems that were never truly fair. Held at SECTOR-C-01, Collector's Row. It watches without visible eyes.
 
-**Entry 2 (Gavel) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through Collector's Row issuing silent judgments. Personnel feel guilty for actions they have not yet taken. Collector records become legible when it is near.
 
-**Entry 3 (Gavel) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of being measured by rules that refused to understand circumstances.
 
 **Entry 4 — <Containment Notice>**
 Management: Present context and evidence; do not appeal with status or force. Work response — Flerehan: Records tears as mitigating evidence. (Decrease); Pugnahan: Treats aggression as guilt. (Increase); Viderehan: Shows the evidence used in its judgment. (Stable); Ferrehan: Makes the worker wait beneath its gaze. (Decrease). It has judged personnel and Collectors identically.
 
-**Entry 5 (Gavel) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
 
 ## 최종 관찰 (Final Observation)

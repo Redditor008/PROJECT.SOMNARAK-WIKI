@@ -265,10 +265,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Forgotten Name (N-IIα-215 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The entity formed from a person's name forgotten by everyone who knew it. Held at Zone B, Old Lament — ambient. The Name fades when spoken by only one person.
 
-**Entry 2 (Forgotten Name) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in conversations, records, and dreams throughout Old Lament. Personnel forget names they have just spoken. Written records make it temporarily stable.
 
-**Entry 3 (Forgotten Name) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The terror of existing without a witness.
 
 **Entry 4 — <Containment Notice>**

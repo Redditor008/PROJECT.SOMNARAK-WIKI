@@ -286,13 +286,13 @@ Sorrow Gate (C-IVδ-252 [VO]) is logged as a Object-Void manifestation expressin
 **Entry 2 — <Excerpt from Field Log, Year 4202>**
 Something warm and apparently alive exists beyond it.
 
-**Entry 3 (Sorrow Gate) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The fear of what waits beyond an irreversible threshold.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Whispers reveal fragments of buried truth. (Stable); Ferrehan: Remains silent while testing the worker's patience. (Stable). The Archive Lead visits once each year and says nothing.
 
-**Entry 5 (Sorrow Gate) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …  Threat rating: Unknown. The Gate is sealed. Its contents are unknown. Risk: opening the Gate is considered catastrophic by all …
 
 ## 최종 관찰 (Final Observation)

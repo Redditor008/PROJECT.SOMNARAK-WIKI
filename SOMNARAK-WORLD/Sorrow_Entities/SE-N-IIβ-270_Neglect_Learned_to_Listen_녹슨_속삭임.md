@@ -280,10 +280,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Neglect Learned to Listen (N-IIβ-270 [WP]) is logged as a Place-Grudge manifestation expressing Weight. The Whisper formed from burdens discarded by the city. Held at Zone B, Old Lament. The place watches through corroded surfaces.
 
-**Entry 2 (Neglect Learned to Listen) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Rust contains fragments of abandoned testimony.
 
-**Entry 3 (Neglect Learned to Listen) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of people and responsibilities treated as refuse.
 
 **Entry 4 — <Containment Notice>**

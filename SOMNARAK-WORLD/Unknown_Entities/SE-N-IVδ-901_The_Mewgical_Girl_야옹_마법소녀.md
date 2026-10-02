@@ -275,16 +275,16 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 **Entry 1 — Containment Description**
 The Mewgical Girl (`N-IVδ-901 [MH]`) is a two-meter magical-girl doll — Subject-Body — bonded to a separate Subject-Spirit (Shu Shu), forming a Hybrid entity of Mixed expression. Cat ears, cat tail, pink costume, golden cat-paw staff. Two coherent identities speak through one mouth. Mobile; last observed near the Maw perimeter, Zone B. No permanent containment chamber exists.
 
-**Entry 2 (The Mewgical Girl) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 First confirmed contact: a bouncing procession of small fuse bombs preceded the entity by half a block. The doll emerged covered in pink light, asking bystanders if they were hurt; the second voice, from the same smile, named each bystander a threat. The staff cycled pink → blue → grey. One worker was healed and threatened in the same sentence.
 
-**Entry 3 (The Mewgical Girl) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 "I am the one who moves the hands. She is the one who decides whether the hands are safe. We were never introduced. We woke up sharing a heart, and the heart was not big enough for two. She thinks I am naive. I think she is afraid. We are both right. Please do not ask one of us to leave." — Mimi, on behalf of a Shu Shu who did not disagree.
 
 **Entry 4 — <Containment Notice, Research Division>**
 Do not attempt forced separation of the two identities — both recorded attempts produced synchronized attack and Cartoon Soot cascade. Address Mimi and Shu Shu by name before every interaction. The active Work Type must match the leading persona; Ferrehan is valid only if the worker refuses to choose between them. A stable gauge is not proof of a stable bond.
 
-**Entry 5 (The Mewgical Girl) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 This entity is the city's wish — "someone save us" — given a body and bonded to the protective fury that wish required. The body performs the hope; the soul survives it. They are incompatible, and they are inseparable, and that is exactly the condition the Hand of Hope was built to address: sorrow and the will to protect it, forced to share one vessel until they learn to move together. We are not containing a monster. We are watching two people learn to be one without erasing each other. — Majin
 
 ## 최종 관찰 (Final Observation)

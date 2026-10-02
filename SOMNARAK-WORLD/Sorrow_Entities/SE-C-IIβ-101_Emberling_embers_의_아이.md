@@ -289,7 +289,7 @@ Emberling (C-IIβ-101 [LS]) is logged as a Subject-Body manifestation expressing
 **Entry 2 — <Excerpt from Field Log, Year 4226>**
 Wanders slowly through the facility, holding its ember. Personnel nearby feel increasing cold and the emotional absence of comfort. Flerehan and Ferrehan are consistently effective.
 
-**Entry 3 (Emberling embers) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The loneliness of needing comfort and finding no one able to offer it.
 
 **Entry 4 — <Containment Notice>**

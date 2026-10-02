@@ -8,6 +8,7 @@ import sys
 #   R1 LABEL_CODE_PAREN  - a table label decorated with an entity code
 #   R2 LABEL_SELF_NAME   - a table label decorated with its own entity name
 #   R3 BARE_CODE_TAG     - a bare [SE-...] tag appended to text (NOT a link)
+#   R5 CALLOUT_SELF_NAME - an Entry callout decorated with the entity's own name
 #   R4 LABEL_NOT_ALLOWED - a table label outside the fixed vocabulary
 #
 # R3 scans every line including table cells. The original V6-1 sweep only
@@ -155,6 +156,11 @@ def label_allowed(label):
     return label in _NAMES or bare in _NAMES or ("The " + bare) in _NAMES
 
 
+# R5: bold "Entry N (Something) --" callout headers. The entity's own name in
+# that parenthetical is the V5-12 decoration pattern, not differentiation.
+P_ENTRY_DECOR = re.compile(r"\*\*Entry (\d+)\s*\(([^)]+)\)\s*[-\u2014]")
+
+
 def audit_file(path):
     """Return a list of violation strings for one dossier."""
     name, code = entity_identity(path)
@@ -170,6 +176,14 @@ def audit_file(path):
             errors.append(
                 f"{path}:{idx} -> [BARE_CODE_TAG] '{m.group(0)}' "
                 f"appended to text; code tags are not a differentiation device")
+
+        # R5: an Entry callout decorated with the entity's own name.
+        for m in P_ENTRY_DECOR.finditer(line):
+            inner = m.group(2).strip()
+            if inner == name or inner in name or name in inner:
+                errors.append(
+                    f"{path}:{idx} -> [CALLOUT_SELF_NAME] Entry header "
+                    f"'{m.group(0)}' is decorated with the entity's own name")
 
         stripped = line.strip()
         if not stripped.startswith('|'):

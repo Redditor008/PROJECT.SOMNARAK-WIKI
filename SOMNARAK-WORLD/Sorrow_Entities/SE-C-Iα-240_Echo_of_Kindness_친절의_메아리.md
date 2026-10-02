@@ -277,10 +277,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Echo of Kindness (C-Iα-240 [LO]) is logged as a Lament manifestation expressing Lament. The Echo formed from kindness that became rare enough to crystallize. Held at Zone D, Mantle Commons — ambient. It appears after kindness rather than grief alone.
 
-**Entry 2 (Echo of Kindness) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its words are short and direct.
 
-**Entry 3 (Echo of Kindness) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of a city where compassion is treated as exceptional.
 
 **Entry 4 — <Containment Notice>**

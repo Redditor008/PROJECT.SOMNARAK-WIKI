@@ -264,16 +264,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sleeping Shard (N-IVδ-611 [N]) is logged as a Subject-Lament manifestation expressing Void. The Shard formed from grief deliberately placed into sleep. Held at Zone E, Exile's Gate vicinity. It has never fully awakened.
 
-**Entry 2 (Sleeping Shard) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through dreams near the Exile's Gate. Personnel experience sleeping grief and emotional paralysis. Its dreams are visible to personnel near the Gate.
 
-**Entry 3 (Sleeping Shard) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The desire to stop feeling without losing the memory of what caused the pain.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not wake it; reduce disturbance and provide a dream anchor. Work response — Flerehan: It sleeps more peacefully and its tears slow. (Decrease); Pugnahan: The dream fractures and the Shard wakes angrily. (Increase); Viderehan: Reveals the memory beneath its sleep. (Stable); Ferrehan: Tests whether the worker can remain without waking it. (Decrease). Its tears contain no liquid outside the Dream layer.
 
-**Entry 5 (Sleeping Shard) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

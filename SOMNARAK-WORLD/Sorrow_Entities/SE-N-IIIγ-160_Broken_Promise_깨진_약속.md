@@ -301,10 +301,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Promise (N-IIIγ-160 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The object formed from a promise that was used as a weapon. Held at SECTOR-C-01, Collector's Row. It moves when promises are spoken near it.
 
-**Entry 2 (Broken Promise) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It distinguishes inability from deliberate betrayal.
 
-**Entry 3 (Broken Promise) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Betrayal—the grief of believing words and discovering that they were never intended to hold.
 
 **Entry 4 — <Containment Notice>**

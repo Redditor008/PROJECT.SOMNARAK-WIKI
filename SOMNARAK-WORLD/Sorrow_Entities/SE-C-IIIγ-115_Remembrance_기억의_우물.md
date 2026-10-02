@@ -307,10 +307,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Remembrance (C-IIIγ-115 [VP]) is logged as a Place-Void manifestation expressing Void. The Well formed from memories flowing downward through Somnarak's foundations. Held at SECTOR-A-01, beneath the Grand Archive. The Well contains liquid memory from every period of Somnarak.
 
-**Entry 2 (Remembrance) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It does not judge what it shows.
 
-**Entry 3 (Remembrance) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of every life being remembered by no one person.
 
 **Entry 4 — <Containment Notice>**

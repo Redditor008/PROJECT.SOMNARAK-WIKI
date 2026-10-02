@@ -268,16 +268,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Welcome Haven (O-IVδ-897 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The entity formed from a wall that failed to protect the people behind it. Held at Zone E, Border region. It patrols former wall lines.
 
-**Entry 2 (Welcome Haven) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves along the Zone E border and watchtowers. Personnel feel betrayal by institutions meant to protect them. It attacks representations of false security more than individuals.
 
-**Entry 3 (Welcome Haven) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The fury of discovering that safety was promised but never delivered.
 
 **Entry 4 — <Containment Notice>**
 Management: Admit the wall failed; do not promise perfect protection. Work response — Flerehan: Flames lower and the broken pieces become visible. (Decrease); Pugnahan: Attacks with burning fragments. (Increase); Viderehan: Reveals what the wall failed to protect. (Stable); Ferrehan: Tests whether the worker can stand before failed safety. (Decrease). Its fire is emotional rather than physical.
 
-**Entry 5 (Welcome Haven) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built nothing. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

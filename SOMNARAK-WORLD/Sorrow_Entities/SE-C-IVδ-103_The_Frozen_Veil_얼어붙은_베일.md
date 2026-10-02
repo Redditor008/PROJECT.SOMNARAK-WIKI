@@ -281,13 +281,13 @@ The Frozen Veil (C-IVδ-103 [VS]) is logged as a Subject-Void manifestation expr
 **Entry 2 — <Excerpt from Field Log, Year 4210>**
 Its cold radiates outward through corridors and adjacent rooms. Joy, sorrow, anger, and love fade from affected personnel. The Veil's effect is emotional, not physical.
 
-**Entry 3 (The Frozen Veil) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The isolation of people who cannot connect, feel warmth, or risk genuine attachment.
 
 **Entry 4 — <Containment Notice>**
 Management: Tears and sincere emotional expression crack the Veil. Physical force is ineffective.  The Kind Healer refuses to approach; warmth cannot penetrate the Veil.
 
-**Entry 5 (The Frozen Veil) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
 
 ## 최종 관찰 (Final Observation)

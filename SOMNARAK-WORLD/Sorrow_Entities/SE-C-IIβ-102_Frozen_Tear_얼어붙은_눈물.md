@@ -304,10 +304,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Frozen Tear (C-IIβ-102 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Tear formed from sorrow too deep to flow. Held at SECTOR-D-02, Echo Gardens. It is one of the most visited minor entities in the Gardens.
 
-**Entry 2 (Frozen Tear) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 No authorized worker has touched it.
 
-**Entry 3 (Frozen Tear) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of someone unable to cry despite having lost everything.
 
 **Entry 4 — <Containment Notice>**

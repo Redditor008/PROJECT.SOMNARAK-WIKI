@@ -280,10 +280,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Atlas (O-Iα-169 [WP]) is logged as a Place-Weight manifestation expressing Weight. The Pillar formed from support that became an identity. Held at Zone D, Forge District. It supports no visible structure yet never falls.
 
-**Entry 2 (Atlas) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Rust appears after unshared labor.
 
-**Entry 3 (Atlas) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of holding others up while no one asks whether the support is failing.
 
 **Entry 4 — <Containment Notice>**

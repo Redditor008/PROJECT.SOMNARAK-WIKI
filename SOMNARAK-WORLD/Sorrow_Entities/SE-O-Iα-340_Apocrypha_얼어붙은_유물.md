@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Apocrypha (O-Iα-340 [VP]) is logged as a Place-Void manifestation expressing Void. The Relic formed from an object lost before its owner could say farewell. Held at The Desolate — mobile. The Relic has no confirmed physical core.
 
-**Entry 2 (Apocrypha) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It moves along abandoned routes.
 
-**Entry 3 (Apocrypha) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The emptiness of an object whose meaning was never explained.
 
 **Entry 4 — <Containment Notice>**

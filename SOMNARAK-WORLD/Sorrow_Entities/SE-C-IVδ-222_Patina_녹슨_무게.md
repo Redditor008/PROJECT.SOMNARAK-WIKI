@@ -305,16 +305,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Patina (C-IVδ-222 [GP]) is logged as a Place-Weight manifestation expressing Grudge. The Weight formed from resentment passed through generations of border families. Held at Zone E, Border region. Its weight changes with border disputes.
 
-**Entry 2 (Patina) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Rust spreads through markers rather than metal alone.
 
-**Entry 3 (Patina) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The anger of inheriting a conflict no living person began.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the history of the inherited conflict. (Stable); Ferrehan: Tests whether the worker can bear history without inheriting anger. (Decrease). Personnel feel weight before anger.
 
-**Entry 5 (Patina) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Low. Corroded ground from inherited resentment. Effect: crossing the border induces directionless anger.
 
 ## 최종 관찰 (Final Observation)

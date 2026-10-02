@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Protest No One Remembers (O-IIIγ-371 [VS]) is logged as a Subject-Spirit manifestation expressing Void. The Silence formed from an absence that was erased so completely no one remembered it had existed. Held at Zone D, Mantle Commons. It cannot be recorded through sound.
 
-**Entry 2 (Protest No One Remembers) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through voices, rooms, and public conversations. Personnel lose access to words they were about to say. It appears more clearly when people search for suppressed history.
 
-**Entry 3 (Protest No One Remembers) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The fear of losing even the memory of having been silent.
 
 **Entry 4 — <Containment Notice>**

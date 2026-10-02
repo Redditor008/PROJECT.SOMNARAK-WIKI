@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Doorway to Nowhere (N-IIβ-152 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The Door formed from people who left home without knowing whether they could return. Held at Zone A, Alpha Tree. It appears near old thresholds and sealed rooms.
 
-**Entry 2 (Doorway to Nowhere) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through Alpha Tree corridors seeking thresholds. Personnel feel rage toward every home they cannot return to. Its flame is emotional rather than physical.
 
-**Entry 3 (Doorway to Nowhere) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of carrying a threshold after the place beyond it is gone.
 
 **Entry 4 — <Containment Notice>**

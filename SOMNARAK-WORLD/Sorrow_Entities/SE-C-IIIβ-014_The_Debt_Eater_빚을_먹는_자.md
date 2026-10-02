@@ -280,7 +280,7 @@ The Debt Eater (C-IIIβ-014 [VS]) is logged as a Subject-Body manifestation expr
 **Entry 2 — <Excerpt from Field Log, Year 4216>**
 The creature remains in place; white debt fog fills the containment zone. Personnel feel compelled to surrender Echoes, memories, or years of life. Those with nothing to offer collapse beneath imagined debt. Subjects treated by the Eater report increased empathy and reduced detachment, followed by emotional numbness.
 
-**Entry 3 (The Debt Eater) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The denial and exhaustion of people burdened by obligations they never chose.
 
 **Entry 4 — <Containment Notice>**

@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Portcullis (O-Iα-794 [LO]) is logged as a Object-Weight manifestation expressing Lament. The Door formed from a passage closed before someone could leave. Held at Zone B, deep tunnels. It has never opened physically.
 
-**Entry 2 (Portcullis) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its light appears when someone names a destination.
 
-**Entry 3 (Portcullis) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of being trapped at the moment of departure.
 
 **Entry 4 — <Containment Notice>**

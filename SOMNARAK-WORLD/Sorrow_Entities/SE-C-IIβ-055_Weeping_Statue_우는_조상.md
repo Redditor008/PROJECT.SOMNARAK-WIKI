@@ -286,7 +286,7 @@ Weeping Statue (C-IIβ-055 [LS]) is logged as a Subject-Lament manifestation exp
 **Entry 2 — <Excerpt from Field Log, Year 4208>**
 The Statue remains fixed; its tears overflow through the containment zone. Personnel standing in the tears experience amplified personal grief. Every tear carries a distinct emotional signature.
 
-**Entry 3 (Weeping Statue) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The pain of holding tears inside until sorrow became solid.
 
 **Entry 4 — <Containment Notice>**

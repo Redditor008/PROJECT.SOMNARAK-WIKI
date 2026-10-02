@@ -260,10 +260,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Forgotten Shadow (N-IIβ-453 [LS]) is logged as a Subject-Weight manifestation expressing Lament. The Shadow formed from a person forgotten while still alive. Held at The Desolate — mobile. Its song cannot be recorded by ordinary equipment.
 
-**Entry 2 (Forgotten Shadow) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through the Desolate along abandoned routes. Personnel feel the weight of being forgotten. It becomes clearer when someone admits they do not know its name.
 
-**Entry 3 (Forgotten Shadow) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of being overlooked until existence becomes uncertain.
 
 **Entry 4 — <Containment Notice>**

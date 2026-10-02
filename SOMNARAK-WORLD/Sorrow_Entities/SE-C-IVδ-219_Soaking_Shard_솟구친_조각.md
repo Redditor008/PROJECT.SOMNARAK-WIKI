@@ -301,16 +301,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Soaking Shard (C-IVδ-219 [LO]) is logged as a Object-Void manifestation expressing Lament. The Shard formed when crystallized sorrow broke open and began flowing again. Held at Zone A, Alpha Tree vault. The Shard's tears are warm despite its crystal body.
 
-**Entry 2 (Soaking Shard) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It grows more active during the Sorrow Tide.
 
-**Entry 3 (Soaking Shard) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of believing a loss had been sealed when it remained alive inside.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals memories stored in its liquid interior. (Stable); Ferrehan: Tests whether the worker can remain while grief flows. (Decrease). Physical damage increases its liquid output.
 
-**Entry 5 (Soaking Shard) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. The Shard cracked and proved sealed grief was flowing inside. Effect: proximity induces the horror of contained …
 
 ## 최종 관찰 (Final Observation)

@@ -277,10 +277,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Memory Rain (C-IIβ-250 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Rain formed from memories too numerous for the city to hold. Held at Zone D, Echo Gardens — periodic. Rain intensity increases during the Sorrow Tide.
 
-**Entry 2 (Memory Rain) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Drops become crystals after landing.
 
-**Entry 3 (Memory Rain) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of too many lives pressing upward until the sky had to release them.
 
 **Entry 4 — <Containment Notice>**

@@ -281,7 +281,7 @@ The Hollow Knight (C-IVγ-073 [GS]) is logged as a Subject-Body manifestation ex
 **Entry 2 — <Excerpt from Field Log, Year 4222>**
 Patrols facility corridors, seeking threats that no longer exist. Personnel feel compelled to stand guard and abandon other duties. It patrols sixteen hours per day and never retreats.
 
-**Entry 3 (The Hollow Knight) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of a soldier who fought for a cause that no longer exists and remained responsible after the reason for responsibility vanished.
 
 **Entry 4 — <Containment Notice>**

@@ -277,10 +277,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Memory Lake (C-IVγ-270 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Lake formed from memories released by the city's dead. Held at SECTOR-D-02, beneath the Echo Gardens. The Lake contains memories without known owners.
 
-**Entry 2 (Memory Lake) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its surface reflects emotional history, not physical form.
 
-**Entry 3 (Memory Lake) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of too many lives stored in one silent body.
 
 **Entry 4 — <Containment Notice>**

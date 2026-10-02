@@ -279,16 +279,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Memorial Flame Mid-Ceremony (C-IVδ-763 [LP]) is logged as a Place-Void manifestation expressing Lament. The Flame formed from a fire extinguished before its owner could grieve. Held at Zone A, Alpha Tree vault. The vault's temperature changes despite no measurable flame.
 
-**Entry 2 (Memorial Flame Mid-Ceremony) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Personnel experience emptiness before grief.
 
-**Entry 3 (Memorial Flame Mid-Ceremony) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The pain of losing warmth and having someone else's grief enter your body.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the memorial and those who tended it. (Stable); Ferrehan: Tests whether the worker can mourn without a visible object. (Decrease). The Flame becomes clearer during memorial ceremonies.
 
-**Entry 5 (Memorial Flame Mid-Ceremony) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. An extinguished memorial flame; incomplete grief migrates into passersby. Effect: visitors absorb others’ …
 
 ## 최종 관찰 (Final Observation)

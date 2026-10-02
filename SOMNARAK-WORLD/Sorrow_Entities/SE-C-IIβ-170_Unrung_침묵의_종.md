@@ -309,10 +309,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Unrung (C-IIβ-170 [VO]) is logged as a Object-Void manifestation expressing Void. The Bell formed from warnings that were ignored. Held at SECTOR-A-01, near the Orphaned Bell. It vibrates near honest listeners but never produces ordinary sound.
 
-**Entry 2 (Unrung) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It resonates with the Orphaned Bell without becoming audible.
 
-**Entry 3 (Unrung) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of knowing a warning existed but no one heard it in time.
 
 **Entry 4 — <Containment Notice>**

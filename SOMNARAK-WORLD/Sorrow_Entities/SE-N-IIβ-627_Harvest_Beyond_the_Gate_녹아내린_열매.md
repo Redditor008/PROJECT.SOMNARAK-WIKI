@@ -280,10 +280,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Harvest Beyond the Gate (N-IIβ-627 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Fruit formed from longing that became resentment. Held at Zone E, Exile's Gate vicinity. Fruit melts without heat.
 
-**Entry 2 (Harvest Beyond the Gate) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It grows after new exiles pass the Gate.
 
-**Entry 3 (Harvest Beyond the Gate) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of wanting a home or future that exile made impossible.
 
 **Entry 4 — <Containment Notice>**

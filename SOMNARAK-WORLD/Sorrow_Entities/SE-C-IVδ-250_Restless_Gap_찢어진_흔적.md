@@ -269,16 +269,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Restless Gap (C-IVδ-250 [WS]) is logged as a Subject-Void manifestation expressing Weight. The Trace formed from a life broken into disconnected pieces. Held at Zone D, Mantle Commons. The entity creates discontinuity rather than ordinary destruction.
 
-**Entry 2 (Restless Gap) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Mantle Commons, leaving gaps in memory. Personnel lose continuity between thoughts, places, and identities. Personnel report longing for memories they cannot identify.
 
-**Entry 3 (Restless Gap) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of surviving while no longer feeling connected to one's own past.
 
 **Entry 4 — <Containment Notice>**
 Management: Use memory anchors and reconstruct the person's history without inventing missing pieces. Work response — Flerehan: Reaches toward the worker through the tear. (Decrease); Pugnahan: Space around it tears and grows heavier. (Increase); Viderehan: Shows fragments of the life that was divided. (Stable); Ferrehan: Tests whether the worker can endure discontinuity. (Decrease). It becomes more active during the Sorrow Tide.
 
-**Entry 5 (Restless Gap) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Low. A person-shaped gap from Han-fractured memories. Effect: proximity induces the disconnection from one’s own past.
 
 ## 최종 관찰 (Final Observation)

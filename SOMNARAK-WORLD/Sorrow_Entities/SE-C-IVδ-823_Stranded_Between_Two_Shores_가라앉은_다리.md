@@ -267,16 +267,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Stranded Between Two Shores (C-IVδ-823 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Bridge formed from crossings interrupted by catastrophe. Held at Zone B, deep tunnels. The Bridge appears in deep tunnels and during heavy Sorrow Tide activity.
 
-**Entry 2 (Stranded Between Two Shores) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Extends through tunnels and appears over emotional gaps. Personnel feel separated from people they love. It carries voices from both sides of a separation.
 
-**Entry 3 (Stranded Between Two Shores) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of journeys ended between one shore and another.
 
 **Entry 4 — <Containment Notice>**
 Management: Listen between the sobs and name both shores. Work response — Flerehan: Weeps with the worker and lowers its span. (Decrease); Pugnahan: The bridge cracks and the tunnel fills with tears. (Increase); Viderehan: Shows the people who tried to cross. (Stable); Ferrehan: Requires the worker to remain while the sobs subside. (Decrease). The tunnel floor becomes wet without measurable liquid.
 
-**Entry 5 (Stranded Between Two Shores) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who couldn't repair. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. A bridge that sank mid-crossing, families split. Effect: proximity induces the grief of journeys ended between …
 
 ## 최종 관찰 (Final Observation)

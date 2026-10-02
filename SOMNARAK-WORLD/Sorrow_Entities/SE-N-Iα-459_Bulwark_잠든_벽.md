@@ -280,10 +280,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Bulwark (N-Iα-459 [VP]) is logged as a Place-Lament manifestation expressing Void. The Wall formed from grief that withdrew into sleep. Held at Zone D, Forge District. It absorbs ordinary sound but not emotional presence.
 
-**Entry 2 (Bulwark) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It warms near patient visitors.
 
-**Entry 3 (Bulwark) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The exhaustion of wanting connection but lacking the strength to ask for it.
 
 **Entry 4 — <Containment Notice>**

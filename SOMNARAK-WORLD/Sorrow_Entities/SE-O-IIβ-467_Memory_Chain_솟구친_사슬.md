@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Memory Chain (O-IIβ-467 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Chain formed from connections preserved through memory after physical bonds were lost. Held at Zone D, Echo Gardens. It is heard more often than seen.
 
-**Entry 2 (Memory Chain) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Travels through voices and memories in the Echo Gardens. Personnel become linked to memories that are not theirs. Its voice moves through connected memories.
 
-**Entry 3 (Memory Chain) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of remembering a relationship alone.
 
 **Entry 4 — <Containment Notice>**

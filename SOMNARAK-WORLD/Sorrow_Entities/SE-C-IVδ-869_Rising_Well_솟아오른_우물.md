@@ -263,16 +263,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Rising Well (C-IVδ-869 [GS]) is logged as a Subject-Mind manifestation expressing Grudge. The Well formed from rage buried so deeply that it became an inner landscape. Held at The Desolate — mobile. The Well is mobile because it manifests through consciousness.
 
-**Entry 2 (Rising Well) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in the minds of personnel and spreads through shared memory. Personnel experience fury without a clear object. It sings rather than speaks.
 
-**Entry 3 (Rising Well) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Anger without a remembered cause and the exhaustion of carrying inherited fury.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not invent a cause; document the fragments and ground the subject. Work response — Flerehan: The singing lowers and the well becomes less deep. (Decrease); Pugnahan: The well rises through the worker's thoughts. (Increase); Viderehan: Reveals echoes of the forgotten event. (Stable); Ferrehan: Tests whether the worker can hear anger without inheriting it. (Decrease). Exposure produces weight before rage.
 
-**Entry 5 (Rising Well) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Moderate. The Well of inherited fury opens in descendants’ minds. Effect: proximity induces rage without a remembered …
 
 ## 최종 관찰 (Final Observation)

@@ -301,10 +301,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Memory Lock (C-IIIγ-300 [D]) is logged as a Object-Void manifestation expressing Void. The Lock formed from memories sealed by the Keepers. Held at SECTOR-A-01, Alpha Tree deep vault. It seals memories rather than physical objects alone.
 
-**Entry 2 (Memory Lock) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Aggression strengthens its purpose.
 
-**Entry 3 (Memory Lock) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of protecting truth by denying access to it.
 
 **Entry 4 — <Containment Notice>**

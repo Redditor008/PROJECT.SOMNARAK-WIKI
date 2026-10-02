@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Thralldom (O-Iα-754 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The Chain formed from a bond that became imprisonment. Held at Zone B, Old Lament — ambient. It crawls without a body to pull it.
 
-**Entry 2 (Thralldom) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Crawls through Old Lament seeking a new attachment. Personnel feel compelled to remain in harmful relationships or duties. It becomes calmer when no one tries to possess it.
 
-**Entry 3 (Thralldom) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of being held by obligation after love has ended.
 
 **Entry 4 — <Containment Notice>**

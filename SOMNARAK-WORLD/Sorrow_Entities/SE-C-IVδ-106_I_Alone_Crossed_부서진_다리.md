@@ -267,16 +267,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 I Alone Crossed (C-IVδ-106 [O]) is logged as a Subject-Mind manifestation expressing Lament. The Bridge formed from a crossing that became a personal failure. Held at The Desolate, near The Scar. It manifests mentally around The Scar.
 
-**Entry 2 (I Alone Crossed) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the consciousness of people near The Scar. Personnel feel paralyzing fear of failing others. It mirrors the worker's own fear of failure.
 
-**Entry 3 (I Alone Crossed) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The belief that one person's failure caused everyone else's loss.
 
 **Entry 4 — <Containment Notice>**
 Management: Name the limits of one person's responsibility. Work response — Flerehan: Pauses and acknowledges shared sorrow. (Decrease); Pugnahan: Resists with pressure and memory-rage. (Increase); Viderehan: Reveals the crossing without assigning total blame. (Stable); Ferrehan: Tests whether the worker can bear failure without becoming it. (Decrease). It becomes calmer when blame is distributed honestly.
 
-**Entry 5 (I Alone Crossed) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. The guide stands at the edge, carrying survivor’s guilt. Effect: proximity induces the corrosive belief that …
 
 ## 최종 관찰 (Final Observation)

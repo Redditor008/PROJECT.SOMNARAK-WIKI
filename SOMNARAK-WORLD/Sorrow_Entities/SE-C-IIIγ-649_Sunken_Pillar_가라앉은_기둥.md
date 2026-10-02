@@ -275,10 +275,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sunken Pillar (C-IIIγ-649 [VP]) is logged as a Place-Void manifestation expressing Void. The Pillar formed from a monument to things that never existed. Held at The Desolate — mobile. It sinks deeper when attacked.
 
-**Entry 2 (Sunken Pillar) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its empty carvings respond to mourning.
 
-**Entry 3 (Sunken Pillar) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of missing possibilities mistaken for lost memories.
 
 **Entry 4 — <Containment Notice>**

@@ -305,10 +305,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Echo Compass (C-IIIβ-016 [VO]) is logged as a Object-Void manifestation expressing Void. The Compass formed from the need to find what the city hid. Held at SECTOR-D-01, Forge District. The needle spins continuously in Somnarak.
 
-**Entry 2 (The Echo Compass) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It points faster near concentrated sorrow.
 
-**Entry 3 (The Echo Compass) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of searching for lost memories and discovering sorrow everywhere.
 
 **Entry 4 — <Containment Notice>**

@@ -317,16 +317,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Collapsed Seed (N-IVδ-315 [LO]) is logged as a Object-Grudge manifestation expressing Lament. The Seed formed from life that never reached its intended form. Held at Zone C, Mask Market. The Seed is not dormant; it is waiting inside a collapsed form.
 
-**Entry 2 (Collapsed Seed) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its tears never stop.
 
-**Entry 3 (Collapsed Seed) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of potential lost before birth or completion.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the entity it might have become. (Stable); Ferrehan: Tests whether the worker can wait without forcing growth. (Decrease). It must not be planted under any circumstances.
 
-**Entry 5 (Collapsed Seed) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table for details.
 
 ## 최종 관찰 (Final Observation)

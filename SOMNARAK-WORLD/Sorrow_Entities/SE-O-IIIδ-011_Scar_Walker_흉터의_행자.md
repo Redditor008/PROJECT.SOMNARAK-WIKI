@@ -280,13 +280,13 @@ Scar Walker (O-IIIδ-011 [GS]) is logged as a Subject-Phantasmal manifestation e
 **Entry 2 — <Excerpt from Field Log, Year 4205>**
 Leaves The Scar and patrols the facility perimeter in search of intruders. Disrespectful personnel experience the Occlusihan's rage and may be physically attacked. It responds to respect more reliably than to any suppression measure.
 
-**Entry 3 (Scar Walker) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Fury over a war that destroyed lives and left its dead without meaningful remembrance.
 
 **Entry 4 — <Containment Notice>**
 Management: Show respect, salute its duty, and acknowledge its sacrifice.  Extended proximity produces increased empathy and reduced detachment in personnel.
 
-**Entry 5 (Scar Walker) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
 
 ## 최종 관찰 (Final Observation)

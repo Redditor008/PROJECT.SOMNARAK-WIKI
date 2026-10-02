@@ -274,10 +274,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Neverlast (O-IIβ-833 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Soul formed from the grief of a friend who was abandoned. Held at Zone B, Old Lament — contained/ambient. The Soul has never intentionally breached containment.
 
-**Entry 2 (Neverlast) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through the facility searching for someone who will understand. Personnel experience overwhelming sorrow and abandoned attachment. It becomes more active during the Sorrow Tide.
 
-**Entry 3 (Neverlast) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The confusion of being left without explanation and the longing for acknowledgment.
 
 **Entry 4 — <Containment Notice>**

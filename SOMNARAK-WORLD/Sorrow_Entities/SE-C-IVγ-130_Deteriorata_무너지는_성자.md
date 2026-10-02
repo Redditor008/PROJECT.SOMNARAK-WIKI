@@ -267,10 +267,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Deteriorata (C-IVγ-130 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Saint formed from the grief of a person who spent a lifetime holding others together while slowly falling apart. Held at SECTOR-B-02, Zone B. The Saint's fragments vanish before touching the ground.
 
-**Entry 2 (Deteriorata) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks slowly through Zone B while shedding stone. Personnel feel the weight of every responsibility they have accepted. It becomes more active during the Sorrow Tide.
 
-**Entry 3 (Deteriorata) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of being treated as strong until collapse became inevitable.
 
 **Entry 4 — <Containment Notice>**

@@ -278,10 +278,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Lost Prince (C-IVγ-091 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Prince formed from abandonment. Held at SECTOR-D-02, Echo Gardens — contained. The Prince asks the same questions to every visitor.
 
-**Entry 2 (The Lost Prince) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Influence radiates through nearby personnel as the Prince searches. Personnel feel intense attachment, abandonment, and longing. It has never attacked without first being frightened.
 
-**Entry 3 (The Lost Prince) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of a bond broken without explanation and a love that left no ending.
 
 **Entry 4 — <Containment Notice>**

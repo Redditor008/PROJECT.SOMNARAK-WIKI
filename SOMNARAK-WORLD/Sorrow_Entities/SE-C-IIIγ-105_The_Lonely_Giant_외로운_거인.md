@@ -281,7 +281,7 @@ The Lonely Giant (C-IIIγ-105 [WS]) is logged as a Subject-Body manifestation ex
 **Entry 2 — <Excerpt from Field Log, Year 4211>**
 Wanders through Zone D, carefully selecting routes. Personnel feel the weight of isolation; ground tremors may damage structures. It avoids structures even when doing so increases its own isolation.
 
-**Entry 3 (The Lonely Giant) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Isolation and the belief that no place can hold one’s existence.
 
 **Entry 4 — <Containment Notice>**

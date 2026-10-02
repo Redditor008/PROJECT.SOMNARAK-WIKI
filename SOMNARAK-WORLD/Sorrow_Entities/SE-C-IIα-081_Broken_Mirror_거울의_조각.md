@@ -315,7 +315,7 @@ Broken Mirror (C-IIα-081 [VO]) is logged as a Object-Void manifestation express
 **Entry 2 — <Excerpt from Field Log, Year 4218>**
 Touch produces emotional weight but no physical injury.
 
-**Entry 3 (Broken Mirror) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Denial—the grief of truths too painful to preserve and too persistent to destroy.
 
 **Entry 4 — <Containment Notice>**

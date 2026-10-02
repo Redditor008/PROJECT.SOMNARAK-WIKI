@@ -279,10 +279,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Risus (C-Iα-150 [LO]) is logged as a Lament manifestation expressing Lament. The Echo formed from laughter preserved after happiness had ended. Held at Zone D, Mantle Commons — ambient. The sound is strongest in Mantle Commons at dusk.
 
-**Entry 2 (Risus) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It carries no physical vibration detectable by instruments.
 
-**Entry 3 (Risus) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of remembering joy after the person or moment that created it is gone.
 
 **Entry 4 — <Containment Notice>**

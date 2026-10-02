@@ -296,7 +296,7 @@ Brume (O-IIγ-007 [VP]) is logged as a Place-Phantasmal manifestation expressing
 **Entry 2 — <Excerpt from Field Log, Year 4212>**
 It has not expanded beyond the region associated with the Desolate, but mapped perimeter markers shift.
 
-**Entry 3 (Brume) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The hopelessness of wandering without destination, shelter, or belief that anyone would come.
 
 **Entry 4 — <Containment Notice>**

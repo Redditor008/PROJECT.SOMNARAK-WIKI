@@ -267,16 +267,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Aegis (C-IVδ-200 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Guardian formed from a warrior's vow to protect the Gate until the city no longer needed it. Held at SECTOR-E-01, Zone E — guards the Exile's Gate. It has guarded the Gate for longer than current records.
 
-**Entry 2 (Aegis) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Leaves the Gate to pursue those attempting to return. Personnel feel the finality of exile and the weight of every goodbye. It does not stop legitimate exiles.
 
-**Entry 3 (Aegis) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of watching thousands leave and knowing the Gate would never bring them back.
 
 **Entry 4 — <Containment Notice>**
 Management: State the purpose of departure; do not attempt to return through the Gate. Work response — Flerehan: The Guardian's weapon lowers and its grief becomes visible. (Decrease); Pugnahan: Attacks anyone attempting unauthorized return. (Increase); Viderehan: Reveals the history of every exile who passed. (Stable); Ferrehan: Stands beside the worker in silence. (Decrease). It attacks only attempts to reverse the Gate's one-way function.
 
-**Entry 5 (Aegis) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 Field analysis confirms the sorrow accumulated over cycles at this location until the Han reached critical density and the entity crystallized.
 
 ## 최종 관찰 (Final Observation)

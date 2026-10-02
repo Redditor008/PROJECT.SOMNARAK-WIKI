@@ -305,10 +305,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Pall (C-IIβ-280 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Veil formed from sorrow people used to hide their tears. Held at Zone D, Echo Gardens. It becomes heavier near unexpressed grief.
 
-**Entry 2 (Pall) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its tears contain no individual memories unless directly observed.
 
-**Entry 3 (Pall) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of mourning privately while appearing composed in public.
 
 **Entry 4 — <Containment Notice>**

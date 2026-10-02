@@ -306,13 +306,13 @@ The Maw (C-IVω-001 [GP]) is logged as a Place-Tale manifestation expressing Gru
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Warm tar beneath the district remains at approximately body temperature.
 
-**Entry 3 (The Maw) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The rage and terror of one thousand citizens deliberately sacrificed as structural material for the growing city.
 
 **Entry 4 — <Containment Notice>**
 Taeho is the only known person who can communicate clearly with the thousand.
 
-**Entry 5 (The Maw) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
 
 ## 최종 관찰 (Final Observation)

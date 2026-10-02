@@ -265,10 +265,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Hollow Echo (N-IIα-125 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The Echo formed from calls for help that went unanswered. Held at Zone D, Echo Gardens — ambient. The Echo is ambient and has no confirmed physical body.
 
-**Entry 2 (Hollow Echo) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Voice travels through gardens, walls, and open air. Personnel feel the patient despair of an unanswered plea. It responds to acknowledgment but continues calling afterward.
 
-**Entry 3 (Hollow Echo) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The despair of asking for rescue and learning that no one was coming.
 
 **Entry 4 — <Containment Notice>**

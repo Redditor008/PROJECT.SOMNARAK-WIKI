@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Dismissed Cry (N-IIβ-560 [D]) is logged as a Object-Grudge manifestation expressing Grudge. The Scream formed from anger that had no safe voice. Held at The Desolate, near The Scar. It produces pressure rather than sound.
 
-**Entry 2 (Dismissed Cry) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Tears reduce its density.
 
-**Entry 3 (Dismissed Cry) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of a person whose protest was converted into noise by everyone who heard it.
 
 **Entry 4 — <Containment Notice>**

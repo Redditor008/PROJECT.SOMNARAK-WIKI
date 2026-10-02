@@ -324,13 +324,13 @@ The Final Door (C-Vδ-111 [VO]) is logged as a Object-Void manifestation express
 **Entry 2 — <Excerpt from Field Log, Year 4202>**
 May reveal a buried truth. Something warm and alive exists on the opposite side.
 
-**Entry 3 (The Final Door) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The need to know what lies beyond, and the fear that knowledge may be worse than ignorance.
 
 **Entry 4 — <Containment Notice>**
 Whispers use a language unlike Korean or any known Before-Time language.
 
-**Entry 5 (The Final Door) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this location, permanent as the Weeping, and the entity is its exoskeleton.
 
 ## 최종 관찰 (Final Observation)

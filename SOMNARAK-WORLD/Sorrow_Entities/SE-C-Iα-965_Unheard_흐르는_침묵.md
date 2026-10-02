@@ -266,10 +266,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Unheard (C-Iα-965 [N]) is logged as a Subject-Weight manifestation expressing Grudge. The entity formed from a city that stopped listening to its own final words. Held at Zone C, Collector's Row. The entity is the final entry in the Codex's current sequence.
 
-**Entry 2 (Unheard) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Flows through Collector's Row and connected records. Personnel feel the weight of endings and cannot hear ordinary speech. Its silence is absolute but emotionally aggressive.
 
-**Entry 3 (Unheard) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of reaching the end of speech and discovering that no one fought to preserve it.
 
 **Entry 4 — <Containment Notice>**

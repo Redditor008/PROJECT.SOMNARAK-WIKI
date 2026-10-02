@@ -269,10 +269,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Dreaming Ruin (N-IIIγ-505 [VS]) is logged as a Subject-Dream manifestation expressing Void. The Ruin formed from a home remembered after it was destroyed. Held at Zone C, Mask Market. It is more stable when a memory is shared by multiple people.
 
-**Entry 2 (Dreaming Ruin) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through dreams and Mask Market reflections. Personnel become trapped reconstructing lost places. Its architecture changes with each observer.
 
-**Entry 3 (Dreaming Ruin) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The pain of returning to a place that exists only as memory.
 
 **Entry 4 — <Containment Notice>**

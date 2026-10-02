@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Well of Unfinished Words (N-IIβ-778 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Well formed from mourning that had no witness. Held at Zone E, Border region. It is most active at border funerals and departures.
 
-**Entry 2 (Well of Unfinished Words) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The liquid rises toward speakers.
 
-**Entry 3 (Well of Unfinished Words) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The need to tell a loss and find no one willing to hear it.
 
 **Entry 4 — <Containment Notice>**

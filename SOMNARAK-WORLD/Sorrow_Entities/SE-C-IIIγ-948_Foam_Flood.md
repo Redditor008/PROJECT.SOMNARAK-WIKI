@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Foam Flood (C-IIIγ-948 [LO]) is logged as an Object-Spirit manifestation expressing Lament. The entity is a metre-tall carving of a black dragon in unknown white stone, with glowing white eyes, fixed in the Dry Riverbed Vault, SECTOR-C-07, Zone C. A hand laid upon it shares its long longing to fly; channeling past 90 seconds is forbidden. It grows sadder each time it is shared.
 
-**Entry 2 (Foam Flood) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Worked via Viderehan and Ferrehan only; one sanctioned 90-second gloved channel by Cartographer Yeonhwa for terrain mapping. The petitioner reported a complete, euphoric vision of flight, followed by acute sky-grief on return to the ground; composure readings dipped but stabilised within the hour. The carving's eyes brightened during the channel and have not fully dimmed since. Note: the relic cannot refuse the sharing of its longing — the core hazard — and the Vault remains sealed against unsanctioned contact.
 
 **Entry 3 — <Counseling Log>**

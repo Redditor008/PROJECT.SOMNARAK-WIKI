@@ -268,16 +268,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Breach (N-IVδ-339 [LS]) is logged as a Subject-Mind manifestation expressing Lament. The Wall formed from protection that failed. Held at Zone D, Echo Gardens. It watches personnel through their sense of security.
 
-**Entry 2 (Breach) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through consciousness as collapsing boundaries. Personnel lose trust in rooms, doors, and protective procedures. It is more active after containment failures.
 
-**Entry 3 (Breach) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of believing a barrier would hold and discovering that the danger was already inside.
 
 **Entry 4 — <Containment Notice>**
 Management: Establish realistic anchors; do not promise perfect safety. Work response — Flerehan: Cracks widen gently and reveal the fear beneath. (Decrease); Pugnahan: The wall collapses into the worker's thoughts. (Increase); Viderehan: Shows the protection and the moment it failed. (Stable); Ferrehan: Tests the worker's ability to remain after safety disappears. (Decrease). Personnel report fear even in secure rooms.
 
-**Entry 5 (Breach) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

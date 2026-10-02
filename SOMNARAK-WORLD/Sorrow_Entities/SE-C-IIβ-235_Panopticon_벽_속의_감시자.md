@@ -269,10 +269,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Panopticon (C-IIβ-235 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The Watcher formed from surveillance without intervention. Held at Zone B, Old Lament — ambient. The eyes do not blink or sleep.
 
-**Entry 2 (Panopticon) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Eyes appear throughout connected structures. Personnel feel exposed and unable to keep secrets. They record actions but do not produce verdicts.
 
-**Entry 3 (Panopticon) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of being observed by systems that never helped.
 
 **Entry 4 — <Containment Notice>**

@@ -264,10 +264,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Ruin (O-IIIγ-559 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Ruin formed from a structure destroyed outside the city and remembered by survivors. Held at Zone C, Mask Market. It reacts to survivors and Desolate travelers.
 
-**Entry 2 (Broken Ruin) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through Mask Market while carrying pieces of the ruin. Personnel feel grief from an outside disaster as their own. The fragments never form a stable building.
 
-**Entry 3 (Broken Ruin) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of carrying a disaster after leaving the place where it happened.
 
 **Entry 4 — <Containment Notice>**

@@ -263,10 +263,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Burning Root (C-IIIγ-558 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The Root formed from obligations carried so long that they became familiar rather than heavy. Held at Zone C, Collector's Row. It follows debt records and family names.
 
-**Entry 2 (Burning Root) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves along floors and ledgers through Collector's Row. Personnel feel familiar burdens as warmth and then pain. Its fire warms before it burns.
 
-**Entry 3 (Burning Root) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of mistaking inherited burden for identity.
 
 **Entry 4 — <Containment Notice>**

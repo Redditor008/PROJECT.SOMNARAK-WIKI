@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Life Behind Glass (N-Iα-518 [D]) is logged as a Object-Weight manifestation expressing Lament. The Window formed from a view that was never taken. Held at Zone B, deep tunnels. It has no view of physical surroundings.
 
-**Entry 2 (Life Behind Glass) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The rain on its surface is emotional rather than liquid.
 
-**Entry 3 (Life Behind Glass) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of observing life from a distance and never entering it.
 
 **Entry 4 — <Containment Notice>**

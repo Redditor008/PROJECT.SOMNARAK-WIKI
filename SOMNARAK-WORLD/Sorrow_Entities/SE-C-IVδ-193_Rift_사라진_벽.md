@@ -279,16 +279,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Rift (C-IVδ-193 [WP]) is logged as a Place-Grudge manifestation expressing Weight. The Wall formed from a boundary removed without healing the separation it caused. Held at Zone B, Old Lament — ambient. The Wall has no physical material.
 
-**Entry 2 (Rift) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its pressure increases when people deny the district's history.
 
-**Entry 3 (Rift) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of discovering that removing a barrier does not reunite the people it divided.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals what the wall separated and protected. (Stable); Ferrehan: Tests whether the worker can cross without denying the division. (Decrease). Personnel report weight when crossing its empty line.
 
-**Entry 5 (Rift) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. An invisible wall dividing a district that demolished its physical wall. Effect: crossing the boundary induces old …
 
 ## 최종 관찰 (Final Observation)

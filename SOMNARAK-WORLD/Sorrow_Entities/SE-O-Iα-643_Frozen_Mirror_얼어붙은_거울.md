@@ -302,10 +302,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Frozen Mirror (O-Iα-643 [GO]) is logged as a Object-Lament manifestation expressing Grudge. The Mirror formed from sorrow that hardened into anger after being denied reflection. Held at The Desolate — mobile. It sings in the Desolate without producing sound.
 
-**Entry 2 (Frozen Mirror) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its cracks respond to suppressed rage.
 
-**Entry 3 (Frozen Mirror) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of being unable to recognize oneself in one's own pain.
 
 **Entry 4 — <Containment Notice>**

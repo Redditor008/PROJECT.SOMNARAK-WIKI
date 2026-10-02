@@ -321,10 +321,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Fallow (O-Iα-554 [LO]) is logged as a Object-Grudge manifestation expressing Lament. The Seed formed from an Outside Sorrow that was planted and forgotten. Held at The Desolate — mobile. The Seed rolls with Han-wind and never follows a straight route.
 
-**Entry 2 (Fallow) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It rusts metal but not living tissue.
 
-**Entry 3 (Fallow) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of expecting growth in a place that could no longer support life.
 
 **Entry 4 — <Containment Notice>**

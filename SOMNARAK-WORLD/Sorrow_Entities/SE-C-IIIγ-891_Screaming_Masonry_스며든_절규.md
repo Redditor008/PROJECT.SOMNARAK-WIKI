@@ -305,10 +305,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Screaming Masonry (C-IIIγ-891 [D]) is logged as a Object-Lament manifestation expressing Weight. The Scream formed from obligations that were never fulfilled. Held at Zone B, Old Lament — ambient. The Scream is felt more than heard.
 
-**Entry 2 (Screaming Masonry) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It spreads through walls and old contracts.
 
-**Entry 3 (Screaming Masonry) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The pressure of promises and duties accumulating until the body could no longer carry them.
 
 **Entry 4 — <Containment Notice>**

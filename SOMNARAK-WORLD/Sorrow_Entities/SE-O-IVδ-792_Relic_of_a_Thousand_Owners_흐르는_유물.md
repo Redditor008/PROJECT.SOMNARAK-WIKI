@@ -267,16 +267,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Relic of a Thousand Owners (O-IVδ-792 [O]) is logged as a Subject-Phantasmal manifestation expressing Lament. The Relic formed from an object carried through many exiles. Held at Zone E, Exile's Gate vicinity. The Relic changes form near the Exile's Gate.
 
-**Entry 2 (Relic of a Thousand Owners) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves around the Gate and through exile memories. Personnel feel every farewell attached to the relic. It is more active when someone leaves the city.
 
-**Entry 3 (Relic of a Thousand Owners) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of surviving every owner and belonging to none.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not claim ownership; document its owners. Work response — Flerehan: The figure softens and reveals one owner's grief. (Decrease); Pugnahan: It flows around aggression and returns it as force. (Increase); Viderehan: Reveals the chain of exiles who carried it. (Stable); Ferrehan: Tests whether the worker can hold history without possession. (Decrease). Its ghostly body is never fully solid.
 
-**Entry 5 (Relic of a Thousand Owners) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mourner who couldn't stop crying. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

@@ -263,16 +263,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Rising Wall (C-IVδ-255 [N]) is logged as a Subject-Weight manifestation expressing Lament. The Wall formed from love that was never returned. Held at Zone D, Mantle Commons. Its pressure rises during collective mourning.
 
-**Entry 2 (Rising Wall) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Grows through Mantle Commons and adjacent streets. Personnel feel overwhelming sorrow and unreturned attachment. It responds to patience rather than force.
 
-**Entry 3 (Rising Wall) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of remembering someone who did not remember you.
 
 **Entry 4 — <Containment Notice>**
 Management: Patient endurance and honest acknowledgment. Work response — Flerehan: The wall lowers and reaches toward the worker. (Decrease); Pugnahan: It hardens against aggression. (Increase); Viderehan: Reveals the memories the city erased. (Stable); Ferrehan: Pushes against the worker until patience wins. (Decrease). It communicates through emotion.
 
-**Entry 5 (Rising Wall) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. A wall of one-sided remembering. Effect: proximity induces the burden of remembering someone who forgot you.
 
 ## 최종 관찰 (Final Observation)

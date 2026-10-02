@@ -285,13 +285,13 @@ The Convergence (C-Vδ-010 [WS]) is logged as a Subject-Body — fusion of the T
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Floats through the facility, judging and sentencing. Personnel experience the full weight of their accumulated sorrow and karmic debt. Each formation caused catastrophic facility losses.
 
-**Entry 3 (The Convergence) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The belief that every existence carries an unavoidable sentence.
 
 **Entry 4 — <Containment Notice>**
 Management: Separate Entities 031, 032, and 033 within twelve seconds.  Judgment is always “Guilty,” regardless of conduct or history.
 
-**Entry 5 (The Convergence) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
 
 ## 최종 관찰 (Final Observation)

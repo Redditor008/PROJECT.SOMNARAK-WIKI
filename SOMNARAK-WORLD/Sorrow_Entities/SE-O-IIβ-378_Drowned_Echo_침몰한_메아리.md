@@ -264,10 +264,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Drowned Echo (O-IIβ-378 [LS]) is logged as a Subject-Mind manifestation expressing Lament. The Echo formed from voices lost beneath Han floods. Held at Zone B, deep tunnels. The Echo is strongest in deep tunnels and flooded chambers.
 
-**Entry 2 (Drowned Echo) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the minds of personnel near deep water. Subjects feel submerged and cannot speak clearly. Instruments record pressure but not speech.
 
-**Entry 3 (Drowned Echo) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of speaking while knowing no one above the surface can hear.
 
 **Entry 4 — <Containment Notice>**

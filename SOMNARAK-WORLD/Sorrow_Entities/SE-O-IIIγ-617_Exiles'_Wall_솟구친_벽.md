@@ -280,10 +280,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Exiles' Wall (O-IIIγ-617 [O]) is logged as a Place-Lament manifestation expressing Grudge. The Wall formed from mourning at the border. Held at Zone E, Exile's Gate vicinity. It grows near new exile routes.
 
-**Entry 2 (Exiles' Wall) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its red heat is emotional rather than thermal.
 
-**Entry 3 (Exiles' Wall) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of leaving a place that never truly accepted you.
 
 **Entry 4 — <Containment Notice>**

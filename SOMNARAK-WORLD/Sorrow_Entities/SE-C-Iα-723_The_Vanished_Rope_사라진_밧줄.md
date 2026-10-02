@@ -269,10 +269,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Vanished Rope (C-Iα-723 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The entity formed from the grief of a severed connection. Held at The Desolate — mobile. Mobile, non-territorial, and more active during the Sorrow Tide.
 
-**Entry 2 (The Vanished Rope) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders the Desolate along old travel routes. Personnel feel the pull of an absent relationship. Fire dims when a worker acknowledges abandonment.
 
-**Entry 3 (The Vanished Rope) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The pain of being tied to someone who vanished and the helplessness of holding an invisible end.
 
 **Entry 4 — <Containment Notice>**

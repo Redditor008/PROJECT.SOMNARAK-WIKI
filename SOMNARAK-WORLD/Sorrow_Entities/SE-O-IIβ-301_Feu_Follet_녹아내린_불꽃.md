@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Feu Follet (O-IIβ-301 [LS]) is logged as a Subject-Mind manifestation expressing Lament. The Flame formed from a Desolate survivor's memory of warmth after everyone else was gone. Held at Zone C, Mask Market. It manifests in the minds of people wearing masks.
 
-**Entry 2 (Feu Follet) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through masks, reflections, and consciousness. Personnel confuse remembered comfort with present safety. It is calmer when its source is accepted as imperfect.
 
-**Entry 3 (Feu Follet) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The fear that comfort itself will melt away.
 
 **Entry 4 — <Containment Notice>**

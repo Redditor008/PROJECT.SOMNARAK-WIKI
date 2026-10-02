@@ -269,10 +269,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Absent Landmark (C-Iα-863 [VS]) is logged as a Subject-Body manifestation expressing Void. The Tower formed from a structure that became a person only after it was lost. Held at Zone B, Old Lament. It sinks when threatened.
 
-**Entry 2 (Absent Landmark) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Sinks and rises along the Old Lament skyline. Personnel feel the loss of familiar places. Its windows show no present interior.
 
-**Entry 3 (Absent Landmark) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The emptiness left when a familiar landmark disappears.
 
 **Entry 4 — <Containment Notice>**

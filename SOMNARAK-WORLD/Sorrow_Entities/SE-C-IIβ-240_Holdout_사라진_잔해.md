@@ -281,10 +281,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Holdout (C-IIβ-240 [GP]) is logged as a Place-Weight manifestation expressing Grudge. The Ruin formed from a place destroyed while someone still believed it could be saved. Held at Zone A, Alpha Tree vault. It appears only when someone remembers the destroyed site.
 
-**Entry 2 (Holdout) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its pressure is stronger around Architects.
 
-**Entry 3 (Holdout) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The anger of discovering that destruction was treated as necessary before anyone asked what it meant.
 
 **Entry 4 — <Containment Notice>**

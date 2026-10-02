@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Ephemera (O-Iα-189 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The Ruin formed from a settlement remembered by fewer people each year. Held at The Desolate — mobile. It fades in strong daylight and reforms after dusk.
 
-**Entry 2 (Ephemera) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through the Desolate following old settlement routes. Personnel feel a place disappearing beneath memory. It is clearer to survivors than to outsiders.
 
-**Entry 3 (Ephemera) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of a place disappearing after its destruction.
 
 **Entry 4 — <Containment Notice>**

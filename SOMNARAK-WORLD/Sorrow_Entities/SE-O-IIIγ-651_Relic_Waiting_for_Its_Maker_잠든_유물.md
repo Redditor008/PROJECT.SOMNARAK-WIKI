@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Relic Waiting for Its Maker (O-IIIγ-651 [VP]) is logged as a Place-Grudge manifestation expressing Void. The place formed around a relic whose owner never woke to reclaim it. Held at Zone C, Mask Market. The relic itself has never been fully observed.
 
-**Entry 2 (Relic Waiting for Its Maker) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walls move subtly in response to speech.
 
-**Entry 3 (Relic Waiting for Its Maker) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of a purpose waiting for a person who will never return.
 
 **Entry 4 — <Containment Notice>**

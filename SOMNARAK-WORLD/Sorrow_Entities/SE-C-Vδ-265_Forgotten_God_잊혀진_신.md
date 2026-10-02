@@ -269,16 +269,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Forgotten God (C-Vδ-265 [LS]) is logged as a Subject-Body manifestation expressing All four — Lament, Grudge, Void, Weight. The God predates the current city and was once worshipped as a deity of sorrow. Held at SECTOR-A-01, beneath the Alpha Tree — sealed. The God has never fully awakened.
 
-**Entry 2 (Forgotten God) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Dreams and prayers spread through the city. Personnel experience unanswered ancient prayers and divine sorrow. Its dreams leak into the city as prayer and nightmare.
 
-**Entry 3 (Forgotten God) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of prayers answered by abandonment and faith forgotten after it was no longer needed.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not wake, address, or attempt extraction. Maintain the sealed vault. Work response — Flerehan: Dreams of ancient prayers become gentler. (Decrease); Pugnahan: The vault fills with divine pressure. (Increase); Viderehan: Reveals fragments of the first settlers' faith. (Stable); Ferrehan: Tests whether the worker can endure a god's dream without waking it. (Decrease). The Library contains scripture associated with it.
 
-**Entry 5 (Forgotten God) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
 
 ## 최종 관찰 (Final Observation)

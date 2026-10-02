@@ -306,16 +306,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Quagmire (O-IVδ-168 [O]) is logged as a Object-Weight manifestation expressing Lament. The Trace formed from a route destroyed before its travelers reached safety. Held at The Desolate, near The Scar. It follows collapsed paths rather than current geography.
 
-**Entry 2 (Quagmire) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its weight increases after Han-storms.
 
-**Entry 3 (Quagmire) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of a journey ending without arrival.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the route and its missing travelers. (Stable); Ferrehan: Tests whether the worker can remain at the end of a journey. (Decrease). Personnel feel loss without seeing a body.
 
-**Entry 5 (Quagmire) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

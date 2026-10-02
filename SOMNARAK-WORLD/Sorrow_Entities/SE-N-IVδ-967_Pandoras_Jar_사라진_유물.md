@@ -264,16 +264,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Pandora's Jar (N-IVδ-967 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The entity formed from the grief of a relic erased from history. Held at The Desolate — mobile. The entity is mobile and has no fixed containment route.
 
-**Entry 2 (Pandoras Jar) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through the Desolate following traces of the vanished object. Personnel feel the weight of lost history and burning resentment. It reacts violently to claims that the relic never existed.
 
-**Entry 3 (Pandoras Jar) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The pain of losing an object that carried a people's identity.
 
 **Entry 4 — <Containment Notice>**
 Management: Bear the heat and name what was lost. Work response — Flerehan: Reaches toward the worker, seeking recognition. (Decrease); Pugnahan: Burns with retaliatory fury. (Increase); Viderehan: Reveals fragments of the missing relic's history. (Stable); Ferrehan: Tests the worker beneath increasing heat. (Decrease). Its fire does not consume material; it burns memory.
 
-**Entry 5 (Pandoras Jar) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

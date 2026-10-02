@@ -302,10 +302,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Door (O-IIβ-757 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Door formed from a home broken apart by separation. Held at Zone D, Echo Gardens. It opens only onto memories, never physical rooms.
 
-**Entry 2 (Broken Door) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its flame grows when visitors attempt to force reunion.
 
-**Entry 3 (Broken Door) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The anger of being forced to leave before goodbye or explanation.
 
 **Entry 4 — <Containment Notice>**

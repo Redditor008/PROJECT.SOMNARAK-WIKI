@@ -307,10 +307,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Bridge of the Unchosen (N-IIIγ-874 [D]) is logged as a Object-Weight manifestation expressing Void. The Bridge formed from a crossing that was never taken. Held at Zone D, Echo Gardens. Frost never melts through temperature.
 
-**Entry 2 (Bridge of the Unchosen) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The destination changes according to the observer's regret.
 
-**Entry 3 (Bridge of the Unchosen) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of what could have been if someone had chosen differently.
 
 **Entry 4 — <Containment Notice>**

@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Uprooted (O-IIIγ-959 [D]) is logged as a Subject-Grudge manifestation expressing Lament. The Root formed from a life forced to grow in hostile ground. Held at The Desolate — mobile. It follows abandoned foundations.
 
-**Entry 2 (Uprooted) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Desolate soil and abandoned foundations. Personnel feel consuming rage and displaced belonging. Its fire is emotional and does not consume wood.
 
-**Entry 3 (Uprooted) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of belonging nowhere and building without a place to remain.
 
 **Entry 4 — <Containment Notice>**

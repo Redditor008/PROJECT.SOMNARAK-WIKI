@@ -290,7 +290,7 @@ The Masked Dancer (C-IIβ-099 [GS]) is logged as a Subject-Body manifestation ex
 **Entry 2 — <Excerpt from Field Log, Year 4213>**
 Dances through corridors and public areas. Anyone who watches feels compelled to dance. Its movement is graceful, precise, and physically tireless.
 
-**Entry 3 (The Masked Dancer) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of the paralyzed, imprisoned, sick, and sorrow-bound—people whose bodies or lives denied them movement.
 
 **Entry 4 — <Containment Notice>**

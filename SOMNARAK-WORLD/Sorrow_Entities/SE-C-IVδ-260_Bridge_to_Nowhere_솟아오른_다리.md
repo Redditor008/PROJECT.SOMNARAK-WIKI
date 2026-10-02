@@ -279,16 +279,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Bridge to Nowhere (C-IVδ-260 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Bridge formed from a remembered crossing. Held at Zone D, Echo Gardens. The Bridge sings during formation.
 
-**Entry 2 (Bridge to Nowhere) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It may appear over flat ground.
 
-**Entry 3 (Bridge to Nowhere) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of a place remembered more vividly than the people who once crossed it.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the bridge's former route and travelers. (Stable); Ferrehan: Requires the worker to cross a memory without claiming it as present. (Decrease). Personnel report sorrow after crossing, even if the crossing felt joyful.
 
-**Entry 5 (Bridge to Nowhere) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Minimal. A bridge spanning nothing, built from remembered crossings. Effect: walking it induces the grief of places …
 
 ## 최종 관찰 (Final Observation)

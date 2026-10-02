@@ -274,10 +274,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Fading Fruit (N-IIβ-456 [N]) is logged as a Place-Grudge manifestation expressing Grudge. The Fruit formed from desire made impossible by debt. Held at Zone C, Collector's Row. Fruit fades before reaching maturity.
 
-**Entry 2 (Fading Fruit) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It grows near debt disputes.
 
-**Entry 3 (Fading Fruit) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of wanting a better life and being told the debt makes it unavailable.
 
 **Entry 4 — <Containment Notice>**

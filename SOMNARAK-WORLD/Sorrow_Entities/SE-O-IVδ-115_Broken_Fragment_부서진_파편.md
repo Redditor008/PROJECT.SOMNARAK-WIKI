@@ -302,16 +302,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Fragment (O-IVδ-115 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Fragment formed from a monument broken by accumulated obligation. Held at Zone E, Border region. It cannot be lifted by mechanical or Han force.
 
-**Entry 2 (Broken Fragment) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The inscriptions appear only to people who acknowledge inherited debt.
 
-**Entry 3 (Broken Fragment) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of history condensed into one piece too heavy to move.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the monument's debt history. (Stable); Ferrehan: Tests whether the worker can remain beneath its pressure. (Decrease). It creates grief rather than fear in witnesses.
 
-**Entry 5 (Broken Fragment) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

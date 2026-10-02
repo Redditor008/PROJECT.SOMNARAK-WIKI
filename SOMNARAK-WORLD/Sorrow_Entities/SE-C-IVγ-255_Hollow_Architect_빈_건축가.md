@@ -263,10 +263,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Hollow Architect (C-IVγ-255 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Architect formed from the sorrow of building for a future that never came. Held at Zone B, Old Lament. Every structure lacks one essential element.
 
-**Entry 2 (Hollow Architect) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through Old Lament, building as it moves. Unfinished rooms and structures appear around personnel. The Architect never enters a completed room.
 
-**Entry 3 (Hollow Architect) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of creation without completion, occupancy, or recognition.
 
 **Entry 4 — <Containment Notice>**

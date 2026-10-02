@@ -305,10 +305,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Folly (C-Iα-329 [VO]) is logged as a Object-Grudge manifestation expressing Void. The Tower formed from potential that never became architecture. Held at Zone E, Border region. It melts without heat.
 
-**Entry 2 (Folly) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 No material accumulates beneath it.
 
-**Entry 3 (Folly) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of a future designed but never inhabited.
 
 **Entry 4 — <Containment Notice>**

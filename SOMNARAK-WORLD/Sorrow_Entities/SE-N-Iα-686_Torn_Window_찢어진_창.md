@@ -302,10 +302,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Torn Window (N-Iα-686 [N]) is logged as a Object-Lament manifestation expressing Grudge. The Window formed from a view destroyed by repeated hands and memories. Held at Zone B, deep tunnels. It reflects hands rather than faces.
 
-**Entry 2 (Torn Window) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The cracks never close.
 
-**Entry 3 (Torn Window) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of seeing the same place through too many losses.
 
 **Entry 4 — <Containment Notice>**

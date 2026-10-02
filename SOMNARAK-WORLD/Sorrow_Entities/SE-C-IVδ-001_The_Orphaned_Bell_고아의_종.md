@@ -383,13 +383,13 @@ The Orphaned Bell (C-IVδ-001 [LO]) is logged as a Object-Lament manifestation e
 **Entry 2 — <Excerpt from Field Log, Year 4209>**
 The tower contained 2,347 faces at one survey; the next survey recorded four additional faces.
 
-**Entry 3 (The Orphaned Bell) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of parents searching for children who would never return.
 
 **Entry 4 — <Containment Notice>**
 The bell has never breached containment and behaves as if containment is irrelevant.
 
-**Entry 5 (The Orphaned Bell) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The Director notes: this sorrow is representative, not anomalous. It is the city grief given form at this location — the wound made visible.
 
 ## 최종 관찰 (Final Observation)

@@ -263,16 +263,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Floating Shard (C-IVδ-503 [N]) is logged as a Subject-Phantasmal manifestation expressing Lament. The Shard formed from compassion for people broken by the city. Held at Zone D, Forge District. It becomes brighter near injured personnel.
 
-**Entry 2 (Floating Shard) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Floats through Forge District and adjacent facilities. Personnel feel consuming pity and rage at suffering. Its fragments dissolve after an entity or person is acknowledged.
 
-**Entry 3 (Floating Shard) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of seeing suffering clearly while lacking the power to change it.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not dismiss the pain or promise impossible rescue. Work response — Flerehan: Drifts closer and softens its light. (Decrease); Pugnahan: Shards split away and strike the air. (Increase); Viderehan: Reveals the injuries it has witnessed. (Stable); Ferrehan: Tests whether the worker can bear pity without surrender. (Decrease). It has never physically attacked without being provoked.
 
-**Entry 5 (Floating Shard) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who couldn't create. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. A crystal of helpless compassion, drifting. Effect: proximity induces the ache of seeing suffering without power …
 
 ## 최종 관찰 (Final Observation)

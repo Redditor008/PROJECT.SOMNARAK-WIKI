@@ -240,7 +240,7 @@ The subject is a translucent elder, sexless with age, face permanently wet, clad
 **Entry 2 — <Observation Note, Year 4238>**
 Anomalous refractive property confirmed: hope-light — from any Hope entity, Bearer, or M.A.W. — passes through the subject visibly and unchanged. It is the only recorded substance in Somnarak that the Hand of Hope's field cannot warm. The subject appears distressed by this contrast, weeping more intensely in the presence of Hope-signatures. The light does not harm it. It simply does not reach it.
 
-**Entry 3 (The Unconsoled) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 "Four thousand years my family kept that grief. We didn't have a word for it — it was just the weight of the stone, the reason wept in our sleep. Then the Hand opened, and for one hour everything lifted. Everything but ours. I watched the gold light go through her like she was a window. She wept harder after. Not because it hurt. Because for the first time she could see how alone she was." — Changwook Hanaris (창욱 하나리스), founding family elder
 
 **Entry 4 — <Foundation Stability Warning, Engineering Division>**

@@ -292,7 +292,7 @@ The Kind Healer (C-Iα-071 [LS]) is logged as a Subject-Body manifestation expre
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Moves gently through the facility seeking wounded personnel. Heals personnel while absorbing their pain; each blessing advances transformation. Healing is genuine, but the entity visibly shudders as it absorbs each pain.
 
-**Entry 3 (The Kind Healer) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The sorrow of a healer who could not save everyone and carried the pain of every person she failed to reach.
 
 **Entry 4 — <Containment Notice>**

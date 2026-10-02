@@ -276,7 +276,7 @@ The Guarding Bird (C-IIIγ-033 [VS]) is logged as a Subject-Body manifestation e
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Flies through the facility protecting everything it identifies as vulnerable. Personnel feel protected but trapped by its guardianship. It has never abandoned a post, even when the protected object no longer exists.
 
-**Entry 3 (The Guarding Bird) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of defenders who fought for something already gone.
 
 **Entry 4 — <Containment Notice>**

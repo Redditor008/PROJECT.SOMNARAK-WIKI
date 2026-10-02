@@ -280,16 +280,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Torpor (N-IVδ-157 [WP]) is logged as a Place-Grudge manifestation expressing Weight. The Sigh formed from exhaustion that had no safe place to rest. Held at Zone E, Border region. It is most dangerous when personnel refuse to rest.
 
-**Entry 2 (Torpor) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The place watches through the silence of sleeping camps.
 
-**Entry 3 (Torpor) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of being unable to stop, even after survival has become the only task.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the duties that kept people awake. (Stable); Ferrehan: Tests whether the worker can sleep without abandoning duty. (Decrease). It becomes active during border emergencies.
 
-**Entry 5 (Torpor) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The Director notes: this sorrow is representative, not anomalous. It is the city grief given form at this location — the wound made visible.
 
 ## 최종 관찰 (Final Observation)

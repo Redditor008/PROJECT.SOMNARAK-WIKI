@@ -305,10 +305,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Debt Chain (N-IIIβ-160 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Chain formed from the weight of obligation. Held at SECTOR-C-01, Collector's Row. The Chain grows continuously.
 
-**Entry 2 (The Debt Chain) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Old links are heavier than new ones.
 
-**Entry 3 (The Debt Chain) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of owing something that cannot be paid.
 
 **Entry 4 — <Containment Notice>**

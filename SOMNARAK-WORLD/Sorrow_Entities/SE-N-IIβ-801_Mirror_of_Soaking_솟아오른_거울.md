@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Mirror of Soaking (N-IIβ-801 [GO]) is logged as a Object-Void manifestation expressing Grudge. The Mirror formed from rage that could not be spoken safely. Held at Zone C, Collector's Row. Appears in Collector's Row where suppressed debt anger is concentrated.
 
-**Entry 2 (Mirror of Soaking) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The surface shows no physical reflection.
 
-**Entry 3 (Mirror of Soaking) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of injustice left unnamed and anger treated as unacceptable.
 
 **Entry 4 — <Containment Notice>**

@@ -276,10 +276,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Rage Statue (C-IIIγ-190 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The Statue formed from rage that was never allowed to act. Held at SECTOR-B-01, Zone B. It has never moved physically.
 
-**Entry 2 (The Rage Statue) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The Statue remains fixed while its rage spreads through nearby personnel. Personnel feel anger belonging to someone unable to fight back. Its rage affects personnel who stand before it.
 
-**Entry 3 (The Rage Statue) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The fury of people wronged without the power to respond.
 
 **Entry 4 — <Containment Notice>**

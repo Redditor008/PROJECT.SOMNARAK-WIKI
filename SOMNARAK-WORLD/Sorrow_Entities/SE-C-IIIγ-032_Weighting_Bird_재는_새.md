@@ -281,7 +281,7 @@ Weighting Bird (C-IIIγ-032 [GS]) is logged as a Subject-Body manifestation expr
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Flies through the facility measuring guilt and sorrow. Personnel feel their guilt physically measured. Personnel exposed for long periods report increased empathy and reduced detachment.
 
-**Entry 3 (Weighting Bird) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The knowledge that every judgment creates another burden.
 
 **Entry 4 — <Containment Notice>**

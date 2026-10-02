@@ -311,7 +311,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Blackened Angel (C-IVγ-946 [WO]) is logged as an Object-Tale manifestation expressing Weight. The entity is a small female-angel statue, barely 80 cm tall, once golden, now largely black, that grants any wish spoken before it — it cannot refuse — and weeps black tears (once blue) into a stone dish. Contained on-site at the Tarnished Shrine, SECTOR-A-04, Zone A. The Shrine is sealed against petitioners.
 
-**Entry 2 (Blackened Angel) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject worked via Viderehan and Ferrehan only; no wish spoken. The gold-to-black ratio was logged at roughly 1:7 — far past the 1:1 mid-point recorded at intake. The angel wept continuously throughout observation, slow black tears, though nothing was asked of it. When Specialist Haneulash Yoon named its grief aloud ("you did not want to grant the cruel ones"), the weeping slowed. Note: the compulsion to grant is absolute and is the hazard — the angel is not malicious, only unable to refuse.
 
 **Entry 3 — <Counseling Log>**

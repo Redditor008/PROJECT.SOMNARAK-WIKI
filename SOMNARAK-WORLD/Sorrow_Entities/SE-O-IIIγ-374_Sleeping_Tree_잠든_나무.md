@@ -317,10 +317,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sleeping Tree (O-IIIγ-374 [N]) is logged as a Object-Weight manifestation expressing Grudge. The Tree formed from a promise made in the wilderness and broken by return. Held at Zone A, Alpha Tree. The Tree grows only while asleep.
 
-**Entry 2 (Sleeping Tree) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It has never produced fruit.
 
-**Entry 3 (Sleeping Tree) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of promising to grow together, then leaving one person behind.
 
 **Entry 4 — <Containment Notice>**

@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Grieving Love (N-IIIβ-941 [LS]) is logged as a Subject-Body manifestation expressing Lament. The entity formed when an apothecary, Sooah, fell into a vat of concentrated Han she was distilling as a cure for her dying beloved. Held at the Drowned Apothecary, SECTOR-D-03, Zone D. She drifts, weeps without wetting the floor, and reaches for any offered warmth.
 
-**Entry 2 (Grieving Love) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject responsive to Flerehan. On entry, Handler Soojin reports the room dropped several degrees and the lamps dimmed. The entity did not approach until Soojin knelt and stayed still; she then pressed her forehead to Soojin's chest and was silent for eleven minutes. The Handler's composure readings dipped but stabilised. No envelopment occurred. Note: the danger is not that she attacks. The danger is that it feels like kindness.
 
 **Entry 3 — <Counseling Log>**

@@ -269,16 +269,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Déjà Vu (C-IVδ-125 [VS]) is logged as a Subject-Mind manifestation expressing Void. The entity formed from something lost and recovered too late. Held at Zone A, Alpha Tree. The entity sings in consciousness rather than through air.
 
-**Entry 2 (Dejà Vu) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through consciousness and shared memory. Personnel feel an absent person or place returning inside them. It is most active near old memories and the Alpha Tree.
 
-**Entry 3 (Dejà Vu) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The fear that return cannot restore what absence changed.
 
 **Entry 4 — <Containment Notice>**
 Management: Anchor personnel to the present and name the difference between return and restoration. Work response — Flerehan: Returns a comforting memory. (Decrease); Pugnahan: Sings louder and fills the mind with intrusive absence. (Increase); Viderehan: Reveals where the object and its owner were lost. (Stable); Ferrehan: Tests whether the worker can remember without reclaiming. (Decrease). Personnel report emptiness after the return fades.
 
-**Entry 5 (Dejà Vu) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. The Fruit returned carrying the mind of the one who remembered it. Effect: holders feel the grief of recovery …
 
 ## 최종 관찰 (Final Observation)

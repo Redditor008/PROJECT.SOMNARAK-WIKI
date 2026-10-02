@@ -304,10 +304,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Debt-Collector's-Lantern (N-IIβ-250 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Lantern formed from the sorrow of collecting from others. Held at Zone C, Collector's Row — ambient. It glows near debtors and Collectors alike.
 
-**Entry 2 (Debt-Collector s-Lantern) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its light is brighter for inherited obligations.
 
-**Entry 3 (Debt-Collector s-Lantern) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of taking payment while knowing the system is unfair.
 
 **Entry 4 — <Containment Notice>**

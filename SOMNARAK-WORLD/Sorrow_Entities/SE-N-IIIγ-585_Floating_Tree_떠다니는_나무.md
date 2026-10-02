@@ -295,10 +295,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Floating Tree (N-IIIγ-585 [N]) is logged as a Place-Weight manifestation expressing Lament. The Tree formed from lives separated from their roots. Held at The Desolate, near The Scar. It moves with Outside Sorrow currents.
 
-**Entry 2 (Floating Tree) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its roots never touch the ground.
 
-**Entry 3 (Floating Tree) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of people who survived but lost every place that gave them meaning.
 
 **Entry 4 — <Containment Notice>**

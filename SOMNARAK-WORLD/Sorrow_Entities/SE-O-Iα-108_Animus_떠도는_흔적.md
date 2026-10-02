@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Animus (O-Iα-108 [GS]) is logged as a Subject-Spirit manifestation expressing Grudge. The Trace formed from rage that outlived its original reason. Held at Zone D, Mantle Commons. The Trace's fury is older than any identified witness.
 
-**Entry 2 (Animus) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders through Mantle Commons and adjacent corridors. Personnel feel ancient anger without knowing its source. It produces weight without a stable physical body.
 
-**Entry 3 (Animus) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The exhaustion of carrying anger after the memory of its cause has disappeared.
 
 **Entry 4 — <Containment Notice>**

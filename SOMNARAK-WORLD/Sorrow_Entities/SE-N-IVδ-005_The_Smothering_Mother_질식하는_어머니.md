@@ -282,13 +282,13 @@ The Smothering Mother (N-IVδ-005 [GS]) is logged as a Subject-Body manifestatio
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 Breaks free and moves through the facility seeking “children” to protect. Grabs personnel and holds them. The held feel perfectly safe and gradually lose the will to resist. Personnel released after six hours report crying for days because they had never felt so safe.
 
-**Entry 3 (The Smothering Mother) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of a mother who searched for months and never found the children the city took, and the terror of losing anyone else she might hold.
 
 **Entry 4 — <Containment Notice>**
 Management: Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective.  Her embrace creates safety that becomes imprisonment when prolonged.
 
-**Entry 5 (The Smothering Mother) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 Containment records trace the crystallization to this location — the sorrow grew patient and specific until it became a presence that cannot be removed, only held.
 
 ## 최종 관찰 (Final Observation)

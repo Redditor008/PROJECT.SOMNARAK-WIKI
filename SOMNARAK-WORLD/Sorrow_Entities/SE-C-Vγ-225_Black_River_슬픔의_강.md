@@ -281,10 +281,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Black River (C-Vγ-225 [WP]) is logged as a Place-Weight manifestation expressing Weight. The River is considered the source of Han and the origin of all Sorrow Entities. Held at SECTOR-A-01, beneath the Alpha Tree — The Weeping. The River is the suspected source of all Han.
 
-**Entry 2 (Black River) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its sound is felt through bone rather than heard.
 
-**Entry 3 (Black River) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The accumulated grief of every person who has lived and died in Somnarak.
 
 **Entry 4 — <Containment Notice>**

@@ -279,10 +279,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Anger Underfoot (C-Iα-175 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Trace formed from a grievance carried through places rather than people. Held at Zone D, Mantle Commons. It spreads along repeated paths rather than physical cracks.
 
-**Entry 2 (Anger Underfoot) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its origin has not been identified.
 
-**Entry 3 (Anger Underfoot) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The exhaustion of anger remaining after every person who caused it has gone.
 
 **Entry 4 — <Containment Notice>**

@@ -307,10 +307,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Unwitnessed (C-Iα-236 [LO]) is logged as a Object-Weight manifestation expressing Lament. The Seed formed from potential lost before planting. Held at The Desolate, near The Scar. It cannot be physically collected.
 
-**Entry 2 (Unwitnessed) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The heartbeat appears during rain.
 
-**Entry 3 (Unwitnessed) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of a beginning that disappeared before anyone could witness it.
 
 **Entry 4 — <Containment Notice>**

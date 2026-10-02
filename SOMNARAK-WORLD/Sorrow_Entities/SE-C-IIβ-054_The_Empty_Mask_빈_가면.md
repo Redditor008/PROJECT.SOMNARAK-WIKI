@@ -319,7 +319,7 @@ The Empty Mask (C-IIβ-054 [WO]) is logged as a Object-Weight manifestation expr
 **Entry 2 — <Excerpt from Field Log, Year 4205>**
 Unsupervised exposure creates identity confusion within minutes.
 
-**Entry 3 (The Empty Mask) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of becoming nothing to oneself and to everyone else.
 
 **Entry 4 — <Containment Notice>**

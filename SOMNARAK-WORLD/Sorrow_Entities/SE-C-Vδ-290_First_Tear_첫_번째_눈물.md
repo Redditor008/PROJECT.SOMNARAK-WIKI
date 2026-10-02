@@ -291,13 +291,13 @@ First Tear (C-Vδ-290 [LO]) is logged as a Object-Lament manifestation expressin
 **Entry 2 — <Excerpt from Field Log, Year 4202>**
 Its Han-signature predates the city and all known records.
 
-**Entry 3 (First Tear) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The original moment when someone lost something they loved.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the shape of sorrow before language. (Stable); Ferrehan: Tests whether the observer can bear total grief. (Decrease). It radiates the sorrow of everything without visibly changing.
 
-**Entry 5 (First Tear) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 First Tear sits in the deepest vault beneath the Alpha Tree — sealed, guarded, forgotten by all but the highest-ranking Keepers. It is small — barely larger than a raindrop. It is ancient — older than the city, older than the Consolihan, older than the …  Threat rating: Unknown. The oldest sorrow in the world. Predates the city, the Han, and the Weeping. Effect: proximity induces the …
 
 ## 최종 관찰 (Final Observation)

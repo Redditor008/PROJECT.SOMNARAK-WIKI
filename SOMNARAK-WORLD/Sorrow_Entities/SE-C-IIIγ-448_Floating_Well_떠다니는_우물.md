@@ -263,10 +263,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Floating Well (C-IIIγ-448 [O]) is logged as a Subject-Weight manifestation expressing Grudge. The Well formed from sorrow that could not be grounded. Held at Zone D, Forge District. It floats because its sorrow has no ground.
 
-**Entry 2 (Floating Well) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Floats through the Forge District and follows Han currents. Personnel feel pressure and anger without physical source. It grows heavier around displaced workers.
 
-**Entry 3 (Floating Well) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of carrying grief without a place to put it.
 
 **Entry 4 — <Containment Notice>**

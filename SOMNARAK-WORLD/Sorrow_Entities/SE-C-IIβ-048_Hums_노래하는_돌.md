@@ -319,7 +319,7 @@ Hums (C-IIβ-048 [LO]) is logged as a Object-Lament manifestation expressing Lam
 **Entry 2 — <Excerpt from Field Log, Year 4225>**
 Plays a song personally connected to the listener. Songs function as records of lives absent from the Archive.
 
-**Entry 3 (Hums) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of unfinished melodies and lives remembered only through music.
 
 **Entry 4 — <Containment Notice>**

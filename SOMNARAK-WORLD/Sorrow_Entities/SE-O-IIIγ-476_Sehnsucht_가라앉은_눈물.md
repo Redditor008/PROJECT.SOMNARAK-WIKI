@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sehnsucht (O-IIIγ-476 [WO]) is logged as a Object-Void manifestation expressing Weight. The Tear formed from sorrow deliberately buried. Held at The Desolate, near The Scar. It sinks when approached with force.
 
-**Entry 2 (Sehnsucht) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It rises during honest mourning.
 
-**Entry 3 (Sehnsucht) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of grief hidden so deeply that even the person who felt it forgot its source.
 
 **Entry 4 — <Containment Notice>**

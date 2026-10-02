@@ -268,16 +268,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Repose (O-IVδ-844 [N]) is logged as a Subject-Lament manifestation expressing Lament. The Ruin formed from a settlement that died while its survivors continued mourning. Held at Zone B, Old Lament — ambient. It has never fully awakened.
 
-**Entry 2 (Repose) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its dreams spread through Old Lament and nearby ruins. Personnel relive collapse and feel the ground becoming unsafe. Its dreams alter nearby architecture.
 
-**Entry 3 (Repose) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The exhaustion of grieving a place that can no longer be restored.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not wake it; reduce noise and acknowledge the dead. Work response — Flerehan: The figure sleeps more peacefully and the ruins settle. (Decrease); Pugnahan: The dream shifts into a destructive collapse. (Increase); Viderehan: Reveals the settlement's final day. (Stable); Ferrehan: Tests whether the worker can remain near sleeping grief. (Decrease). It is calmest when mourned quietly.
 
-**Entry 5 (Repose) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

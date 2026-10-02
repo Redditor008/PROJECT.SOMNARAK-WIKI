@@ -267,16 +267,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Willing Chains (C-IVδ-976 [O]) is logged as a Subject-Grudge manifestation expressing Void. The Chain formed from bonds that became imprisonment. Held at Zone B, Old Lament — ambient. It spreads through contracts and emotional commitments.
 
-**Entry 2 (Willing Chains) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through Old Lament structures and contracts. Personnel feel trapped by obligations they cannot identify. Chains become warm near people who call imprisonment protection.
 
-**Entry 3 (Willing Chains) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of being held by systems, promises, or relationships that no longer protect.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not cut blindly; identify what each chain represents. Work response — Flerehan: Chains loosen and the figure's fire dims. (Decrease); Pugnahan: Chains lash outward and spread faster. (Increase); Viderehan: Reveals what each chain binds. (Stable); Ferrehan: Tests whether the worker can endure without accepting a false bond. (Decrease). It is most active in the Raw.
 
-**Entry 5 (Willing Chains) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Moderate. The Chain spreads, binding newcomers to obligations. Effect: proximity induces the grief of bonds that no …
 
 ## 최종 관찰 (Final Observation)

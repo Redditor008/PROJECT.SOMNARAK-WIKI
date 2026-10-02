@@ -316,10 +316,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sorrow Seed (C-Iα-300 [D]) is logged as a Object-Weight manifestation expressing Weight. The Seed formed from concentrated grief waiting for a form. Held at Zone D, Echo Gardens. It is dormant but not inert.
 
-**Entry 2 (Sorrow Seed) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It responds to nearby grief.
 
-**Entry 3 (Sorrow Seed) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Potential sorrow—the fear that pain will become something larger than the person who felt it.
 
 **Entry 4 — <Containment Notice>**

@@ -280,16 +280,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Pent (N-IVδ-821 [D]) is logged as a Place-Grudge manifestation expressing Grudge. The Sigh formed from a breath erased before it could be released. Held at Zone B, Old Lament — ambient. It is strongest after long shifts.
 
-**Entry 2 (Pent) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It has no ordinary sound source.
 
-**Entry 3 (Pent) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of exhaustion denied until even relief disappears.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the worker and the moment of collapse. (Stable); Ferrehan: Tests whether personnel can rest without shame. (Decrease). Its pressure decreases when personnel rest together.
 
-**Entry 5 (Pent) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

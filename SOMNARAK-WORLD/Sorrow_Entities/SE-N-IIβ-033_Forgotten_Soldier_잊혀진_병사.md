@@ -276,7 +276,7 @@ Forgotten Soldier (N-IIβ-033 [GS]) is logged as a Subject-Phantasmal manifestat
 **Entry 2 — <Excerpt from Field Log, Year 4221>**
 Walks through the facility, approaching personnel and standing before them. Those who acknowledge him feel duty and purpose; those who ignore him feel crushing guilt. He salutes only when the words “I remember you” are spoken.
 
-**Entry 3 (Forgotten Soldier) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 A lifetime of sacrifice made invisible, and the weight of being forgotten by the very city he defended.
 
 **Entry 4 — <Containment Notice>**

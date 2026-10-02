@@ -276,16 +276,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Heirloom (O-IVδ-909 [GP]) is logged as a Place-Void manifestation expressing Grudge. The Echo formed from anger repeated until it no longer belonged to anyone. Held at Zone A, Alpha Tree vault. The chamber expands when the Echo is repeated.
 
-**Entry 2 (Heirloom) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It burns itself as it spreads.
 
-**Entry 3 (Heirloom) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The exhaustion of inherited fury that consumes both victim and bearer.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals how the grievance spread. (Stable); Ferrehan: Tests whether the worker can remain while the sound burns away. (Decrease). Personnel report sorrow after the rage fades.
 
-**Entry 5 (Heirloom) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

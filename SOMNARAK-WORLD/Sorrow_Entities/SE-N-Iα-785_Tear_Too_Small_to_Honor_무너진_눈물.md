@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Tear Too Small to Honor (N-Iα-785 [O]) is logged as a Object-Void manifestation expressing Lament. The Tear formed from sorrow collapsed beneath shame. Held at Zone D, Echo Gardens. It is most active around visitors who hide their tears.
 
-**Entry 2 (Tear Too Small to Honor) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It has never been lifted without emotional distress.
 
-**Entry 3 (Tear Too Small to Honor) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The pain of wanting to cry but believing the grief is too small or embarrassing to deserve release.
 
 **Entry 4 — <Containment Notice>**

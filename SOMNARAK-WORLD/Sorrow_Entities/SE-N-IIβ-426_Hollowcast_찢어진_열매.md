@@ -266,10 +266,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Hollowcast (N-IIβ-426 [D]) is logged as a Subject-Void manifestation expressing Grudge. The Fruit formed from a mind erased by its own pain. Held at Zone D, Forge District. It communicates through emotion rather than language.
 
-**Entry 2 (Hollowcast) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Forge District consciousness. Personnel feel consuming rage without a complete self behind it. It watches personnel with curiosity.
 
-**Entry 3 (Hollowcast) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of losing identity while still carrying the shape of a person.
 
 **Entry 4 — <Containment Notice>**

@@ -282,7 +282,7 @@ The Hollow Choir (C-IIIγ-021 [LS]) is logged as a Subject-Spirit manifestation 
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 The voices spread beyond the amphitheater and fill the facility. All personnel hear the songs and experience the grief of the silenced. Mass distress and possible Fracture may follow. Groups of twelve correspond to distinct historical eras.
 
-**Entry 3 (The Hollow Choir) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of having one's words stolen, one's songs forbidden, and one's history erased.
 
 **Entry 4 — <Containment Notice>**

@@ -298,16 +298,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Banyan (N-IVδ-606 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Tree formed from sorrow deliberately buried beneath performance and masks. Held at Zone C, Mask Market. The Tree is visible only through reflections and transparent floors.
 
-**Entry 2 (Banyan) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It grows during the Sorrow Tide.
 
-**Entry 3 (Banyan) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of a community that hid its true pain until the ground became its only witness.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the hidden lives beneath the district. (Stable); Ferrehan: Keeps the worker above the submerged roots until they endure. (Decrease). Mask Market masks crack when the Tree is disturbed.
 
-**Entry 5 (Banyan) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)

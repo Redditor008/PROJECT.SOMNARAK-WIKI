@@ -307,10 +307,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Seething Tundra (C-Iα-884 [VO]) is logged as a Object-Grudge manifestation expressing Void. The Shard formed from sorrow that was shaped into an object rather than spoken. Held at Zone D, Echo Gardens. The Shard remains stationary in the Echo Gardens.
 
-**Entry 2 (Seething Tundra) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It pulses during the Sorrow Tide.
 
-**Entry 3 (Seething Tundra) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Rage made cold by exhaustion and grief.
 
 **Entry 4 — <Containment Notice>**

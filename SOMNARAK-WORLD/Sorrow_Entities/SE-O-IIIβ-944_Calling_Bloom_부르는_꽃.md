@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Calling Bloom (O-IIIβ-944 [LS]) is logged as a Subject-Tale manifestation expressing Lament. The entity formed when a wilderness child, Nari, touched a watching flower at the heart of the Muttering Wood while searching for her brother. Held/managed in the Muttering Wood, beyond SECTOR-E-02. She wanders, calls stolen names, and bears a single watching bloom upon her crown.
 
-**Entry 2 (Calling Bloom) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject responsive to Flerehan. On entry, the patrol reports total wood-silence followed by a perfect imitation of Specialist Hanul Grey's late mother. Specialist Hanul Grey was restrained before reaching the source. The child was located at the clearing's edge — wheat-sheaf height, grey dress, a blue bloom with one eye. When addressed as "Nari," the bloom's eye half-closed and the voice stopped. Note: the danger is not the child. The danger is that the voice is always exactly right.
 
 **Entry 3 — <Counseling Log>**

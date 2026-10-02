@@ -303,10 +303,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Clocktower (C-IVγ-240 [WP]) is logged as a Place-Weight manifestation expressing Weight. The Clocktower formed from a moment that could not end. Held at Zone C, near Collector's Row. The distortion field changes with emotional pressure.
 
-**Entry 2 (Broken Clocktower) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 All clocks within the tower eventually show 3:47.
 
-**Entry 3 (Broken Clocktower) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of waiting inside an event with no conclusion.
 
 **Entry 4 — <Containment Notice>**

@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Myrmidon (O-IIβ-235 [GS]) is logged as a Subject-Lament manifestation expressing Grudge. The Soul formed from a person divided by betrayal. Held at Zone A, Alpha Tree. The entity is more reactive to uniforms and official seals than to individuals.
 
-**Entry 2 (Myrmidon) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through Alpha Tree corridors seeking institutional symbols. Personnel feel divided loyalty, grief, and rage toward authority. It calms when a worker acknowledges institutional harm.
 
-**Entry 3 (Myrmidon) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of loving someone or something that became the instrument of one's harm.
 
 **Entry 4 — <Containment Notice>**

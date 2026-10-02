@@ -297,10 +297,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Homecoming Tree (C-Iα-869 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Tree formed from the grief of returning to a place that no longer recognized you. Held at Zone E, Border region. The Tree appears only after significant return or rediscovery.
 
-**Entry 2 (Homecoming Tree) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its roots follow memories rather than water.
 
-**Entry 3 (Homecoming Tree) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The loss of home through time, absence, and change.
 
 **Entry 4 — <Containment Notice>**

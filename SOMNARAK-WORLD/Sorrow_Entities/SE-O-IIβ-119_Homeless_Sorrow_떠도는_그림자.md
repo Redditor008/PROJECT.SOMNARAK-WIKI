@@ -298,10 +298,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Homeless Sorrow (O-IIβ-119 [VP]) is logged as a Place-Grudge manifestation expressing Void. The Shadow formed from sorrow that had nowhere to settle. Held at Zone B, Old Lament. The Shadow is strongest in abandoned rooms.
 
-**Entry 2 (Homeless Sorrow) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It is not extinguished by light; it retreats from acknowledgment.
 
-**Entry 3 (Homeless Sorrow) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of people who wandered through loss until even their mourning became homeless.
 
 **Entry 4 — <Containment Notice>**

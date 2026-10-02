@@ -305,16 +305,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Frozen Fury (C-IVδ-668 [O]) is logged as a Object-Grudge manifestation expressing Void. The Ruin formed from a place emptied by institutional violence. Held at Zone C, Collector's Row. It is not physically movable.
 
-**Entry 2 (Frozen Fury) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It responds strongly to Collector activity.
 
-**Entry 3 (Frozen Fury) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The rage of a home destroyed while its residents were still being blamed for its loss.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the history beneath the ruin. (Stable); Ferrehan: Tests whether the worker can remain among absent lives. (Decrease). Personnel feel rage before fear.
 
-**Entry 5 (Frozen Fury) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Moderate. The Ruin rages in cold stasis. Effect: proximity induces fury of the wrongly blamed.
 
 ## 최종 관찰 (Final Observation)

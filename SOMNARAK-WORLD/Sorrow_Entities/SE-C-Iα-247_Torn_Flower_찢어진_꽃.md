@@ -263,10 +263,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Torn Flower (C-Iα-247 [O]) is logged as a Subject-Lament manifestation expressing Grudge. The Flower formed from a promise broken while someone was still waiting. Held at Zone B, Old Lament — ambient. It appears in damaged memorials.
 
-**Entry 2 (Torn Flower) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through cracks and old gardens in Zone B. Personnel feel the sorrow of damaged beauty and broken promises. It becomes calmer when someone remains nearby.
 
-**Entry 3 (Torn Flower) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of beauty damaged before it could bloom fully.
 
 **Entry 4 — <Containment Notice>**

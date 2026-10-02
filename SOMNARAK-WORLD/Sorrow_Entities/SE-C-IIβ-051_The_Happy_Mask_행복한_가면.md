@@ -319,7 +319,7 @@ The Happy Mask (C-IIβ-051 [VO]) is logged as a Object-Void manifestation expres
 **Entry 2 — <Excerpt from Field Log, Year 4228>**
 It resonates with the Weeping despite its apparent happiness.
 
-**Entry 3 (The Happy Mask) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of smiling for others while wanting to cry.
 
 **Entry 4 — <Containment Notice>**

@@ -301,10 +301,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Frozen Echo (C-IIIγ-609 [D]) is logged as a Object-Weight manifestation expressing Lament. The Echo formed from an object passed between too many grieving people. Held at The Desolate, near The Scar. It grows heavier with each new witness.
 
-**Entry 2 (Frozen Echo) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It is cold physically and emotionally.
 
-**Entry 3 (Frozen Echo) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The burden of carrying everyone else's history without retaining a single owner.
 
 **Entry 4 — <Containment Notice>**

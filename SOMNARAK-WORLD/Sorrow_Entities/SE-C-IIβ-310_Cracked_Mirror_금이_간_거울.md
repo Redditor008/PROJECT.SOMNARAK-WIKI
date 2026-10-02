@@ -301,10 +301,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Cracked Mirror (C-IIβ-310 [D]) is logged as a Object-Void manifestation expressing Void. The Mirror formed from the sorrow of dishonesty. Held at SECTOR-C-01, Mask Market. Its cracks correspond to truths someone could not bear.
 
-**Entry 2 (Cracked Mirror) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It becomes clearer near masks and disguises.
 
-**Entry 3 (Cracked Mirror) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of people unable to face their own truth.
 
 **Entry 4 — <Containment Notice>**

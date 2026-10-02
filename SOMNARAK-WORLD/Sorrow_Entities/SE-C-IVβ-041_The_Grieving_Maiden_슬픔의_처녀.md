@@ -277,10 +277,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Grieving Maiden (C-IVβ-041 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Maiden formed from a parent whose child died of illness. Held at SECTOR-D-02, contained with the Three Sisters. Separation from the Three Sisters causes rapid distress.
 
-**Entry 2 (The Grieving Maiden) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks slowly through the facility while weeping. Personnel experience the overwhelming grief of losing a child. Activity increases during the Sorrow Tide.
 
-**Entry 3 (The Grieving Maiden) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 Helpless grief—the knowledge that love could not prevent a child's death.
 
 **Entry 4 — <Containment Notice>**

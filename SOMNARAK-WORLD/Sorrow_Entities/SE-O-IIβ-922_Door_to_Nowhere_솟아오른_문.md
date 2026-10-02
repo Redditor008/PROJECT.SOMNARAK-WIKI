@@ -302,10 +302,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Door to Nowhere (O-IIβ-922 [O]) is logged as a Object-Weight manifestation expressing Grudge. The Door formed from the anger of being denied an exit. Held at Zone B, Old Lament — ambient. It rises from floors without damaging them.
 
-**Entry 2 (Door to Nowhere) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It appears near old lockdown sites.
 
-**Entry 3 (Door to Nowhere) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The weight of a threshold that existed but could not be crossed.
 
 **Entry 4 — <Containment Notice>**

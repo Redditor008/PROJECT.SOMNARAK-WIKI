@@ -272,16 +272,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Cenotaph (N-IVδ-525 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Bridge formed from a promise to protect someone who had already been lost. Held at Zone D, Echo Gardens. Its form changes with the movement of nearby sorrow.
 
-**Entry 2 (Cenotaph) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Flows through paths and memory-crossings in the Gardens. Personnel feel paralyzing fear of failing to protect others. It protects empty paths and absent people.
 
-**Entry 3 (Cenotaph) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of defending the dead while blaming oneself for their absence.
 
 **Entry 4 — <Containment Notice>**
 Management: Controlled acknowledgment and team support. Work response — Flerehan: Reaches for the worker and lowers its anger. (Decrease); Pugnahan: Retaliates with flowing force. (Increase); Viderehan: Shows the promise and the failed crossing. (Stable); Ferrehan: Weighs the worker's resolve beneath moving pressure. (Decrease). It becomes more active during Outside Sorrow events.
 
-**Entry 5 (Cenotaph) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table for details.
 
 ## 최종 관찰 (Final Observation)

@@ -315,7 +315,7 @@ Forgotten Market Stall (C-IIα-062 [VO]) is logged as a Object-Void manifestatio
 **Entry 2 — <Excerpt from Field Log, Year 4215>**
 Goods are genuine crystallized memories or Echoes.
 
-**Entry 3 (Forgotten Market Stall) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The loss of commerce, community, and the ordinary exchanges that made a life feel real.
 
 **Entry 4 — <Containment Notice>**

@@ -276,7 +276,7 @@ The Observing Bird (C-IIIγ-031 [LS]) is logged as a Subject-Body manifestation 
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Flies through the facility, observing and recording. Personnel feel every action, secret, and thought exposed. It does not blink, sleep, or forget.
 
-**Entry 3 (The Observing Bird) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The helplessness of seeing suffering and remaining powerless.
 
 **Entry 4 — <Containment Notice>**

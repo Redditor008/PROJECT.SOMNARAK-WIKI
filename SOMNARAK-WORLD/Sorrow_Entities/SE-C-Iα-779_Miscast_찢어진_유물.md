@@ -307,10 +307,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Miscast (C-Iα-779 [GO]) is logged as a Object-Weight manifestation expressing Grudge. The Relic formed from an object destroyed before its work was complete. Held at Zone D, Forge District. The pieces move along Forge District Han-currents.
 
-**Entry 2 (Miscast) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It becomes more active near broken tools.
 
-**Entry 3 (Miscast) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of being made for a purpose and broken before fulfilling it.
 
 **Entry 4 — <Containment Notice>**

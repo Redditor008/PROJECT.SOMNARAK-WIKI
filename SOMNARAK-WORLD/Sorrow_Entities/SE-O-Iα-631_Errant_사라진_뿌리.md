@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Errant (O-Iα-631 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight. The Root formed from belonging severed before it could take hold. Held at Zone C, Mask Market. It appears beneath masks and false identities.
 
-**Entry 2 (Errant) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Drifts through Mask Market floors and reflective surfaces. Personnel feel ungrounded and lose their sense of origin. It waits longer than it moves.
 
-**Entry 3 (Errant) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The grief of losing one's origin and being unable to return to any ground.
 
 **Entry 4 — <Containment Notice>**

@@ -267,16 +267,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Every Last Goodbye (C-IVδ-230 [VS]) is logged as a Subject-Void manifestation expressing Void. The entity formed from final moments that had no witness. Held at SECTOR-A-01, Alpha Tree deep vault. It holds every recorded death and many unrecorded ones.
 
-**Entry 2 (Every Last Goodbye) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its memories spread through the Alpha Tree vault. Personnel experience the final moments of the dead and glimpse their own. It communicates through feeling rather than speech.
 
-**Entry 3 (Every Last Goodbye) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The loneliness of dying and the fear that the last moment will vanish with the person.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not attempt to erase a final moment; acknowledge and record it. Work response — Flerehan: Shows final moments of love, acceptance, or peace. (Decrease); Pugnahan: Releases a wave of fear and regret. (Increase); Viderehan: Reveals the final moment of a selected dead person. (Stable); Ferrehan: Makes the worker experience the approach of their own ending. (Decrease). Personnel experience existential crisis after prolonged exposure.
 
-**Entry 5 (Every Last Goodbye) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply. …  Threat rating: Low. Holds the final thoughts of every citizen who died unwitnessed. Effect: proximity induces the loneliness of dying.
 
 ## 최종 관찰 (Final Observation)

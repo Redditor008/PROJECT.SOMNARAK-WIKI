@@ -268,16 +268,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Apnea (N-IVδ-159 [O]) is logged as a Subject-Dream manifestation expressing Grudge. The Sigh formed from exhaustion that was never allowed to escape. Held at Zone E, Border region. It is strongest at the border during long watches.
 
-**Entry 2 (Apnea) — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in dreams of border personnel. Personnel feel frozen rage and cannot complete a breath. It manifests through dreams rather than physical cold.
 
-**Entry 3 (Apnea) — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log>**
 The rage of being forced to continue after the body has accepted an ending.
 
 **Entry 4 — <Containment Notice>**
 Management: Ground the worker and allow a safe release of breath. Work response — Flerehan: Frost cracks and the breath becomes audible. (Decrease); Pugnahan: It hardens and returns anger as cold pressure. (Increase); Viderehan: Reveals the death and exhaustion behind it. (Stable); Ferrehan: Tests whether the worker can remain without forcing movement. (Decrease). Personnel report sorrow after the rage fades.
 
-**Entry 5 (Apnea) — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Per entity classification. See SECC Classification table for details.
 
 ## 최종 관찰 (Final Observation)
