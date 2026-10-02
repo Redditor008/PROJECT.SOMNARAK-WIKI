@@ -312,16 +312,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Mirror (C-IIα-081 [VO]) is logged as a Object-Void manifestation expressing Void. The Mirror formed from memories that citizens asked the Keepers to seal away. Held at SECTOR-A-01, Alpha Tree Archive — contained. The Mirror's Han-signature resonates with the Archive's sealed memory vaults.
 
-**Entry 2 — <Excerpt from Field Log, Year 4218>**
+**Entry 2 — <Weight Without Injury>**
 Touch produces emotional weight but no physical injury.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Too Painful to Keep, Too Stubborn to Lose>**
 Denial—the grief of truths too painful to preserve and too persistent to destroy.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Those Who Seek It>**
 Some citizens seek the Mirror to remember; others avoid it permanently.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Early Keepers>**
 In the early days of the Archive, when the Keepers first began collecting memories, they found that some memories were too painful to preserve. Citizens wanted to forget — their losses, their mistakes, their shame. The Keepers honored these requests. They …
 
 ## 최종 관찰 (Final Observation)

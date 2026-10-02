@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Forgotten Silence.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 1, and the margin is narrower still in practice because workers cannot reliably recall whether a previous cycle occurred.
+- Pressure is mental. No face can be held in memory; personnel describe the encounter afterward without being able to describe the entity.
+- It glows brighter and shares unspoken grief, lowering the gauge. The exchange requires the worker to bring grief they have never voiced.
+- Written logs are completed inside the chamber rather than after exit, because recall degrades within minutes of leaving the perimeter.
+- Yield depends on grief that has never been spoken aloud, so a worker returns diminishing amounts across successive assignments.
 
 ## Combat Record
 ### Core Stat Line

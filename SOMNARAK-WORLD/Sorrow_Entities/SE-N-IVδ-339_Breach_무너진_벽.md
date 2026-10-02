@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Breach.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 1. The boundary is already cracked and leaning on arrival; one failure completes the collapse.
+- Pressure is mental. The entity occupies the boundary between one thought and the next, so containment here is cognitive rather than spatial.
+- Widening the cracks gently reveals the fear beneath and lowers the gauge. The approach is to open it further, not to shore it up.
+- It watches before it acts. Personnel report being observed for some minutes before any gauge movement, and that interval is the window for withdrawal.
+- Yield comes from the fear revealed through the cracks, so a cycle that holds the wall together produces nothing.
 
 ## Combat Record
 ### Core Stat Line

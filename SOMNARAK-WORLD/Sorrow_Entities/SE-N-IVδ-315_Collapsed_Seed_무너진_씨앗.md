@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Collapsed Seed.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. The seed hauls itself about the chamber but expands rather than escapes, and the trigger is activation.
+- Viderehan and Ferrehan are the only valid approaches; despite the mobility there is no mind here to engage or to confront.
+- Observation shows the entity it might have become. Endurance requires remaining while the root-limbs pulse and the sap runs.
+- The shoots are wet and continue to erupt from the split regardless of pruning. Chamber drainage is cleared every cycle because the blue sap sets hard.
+- Yield is taken from the sap rather than the body, which makes a weeping cycle productive and a dormant one worthless.
 
 ## Combat Record
 ### Core Stat Line

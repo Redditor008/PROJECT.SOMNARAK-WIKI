@@ -316,16 +316,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Hums (C-IIβ-048 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Stone formed from songs of the dead that no living person continued. Held at SECTOR-D-02, Echo Gardens — contained/open display. The Stone's Han-signature resonates with the Weeping.
 
-**Entry 2 — <Excerpt from Field Log, Year 4225>**
+**Entry 2 — <Songs the Archive Lacks>**
 Plays a song personally connected to the listener. Songs function as records of lives absent from the Archive.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Unfinished Melodies>**
 The grief of unfinished melodies and lives remembered only through music.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Recognised and Forgotten>**
 Personnel often recognize songs they believed forgotten.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Heavier Air, Wilting Plants>**
 The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the …
 
 ## 최종 관찰 (Final Observation)

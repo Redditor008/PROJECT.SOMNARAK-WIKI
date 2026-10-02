@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Torpor.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. Torpor expands its quiet rather than escaping, and the trigger is accumulation rather than failure.
+- Viderehan and Ferrehan are the only valid approaches; a border place cannot be engaged emotionally or confronted.
+- Observation reveals the duties that kept people awake. Endurance requires remaining while the air presses downward and the ground gives underfoot.
+- Every sound entering the site becomes a sleeping breath. Verbal communication fails inside the perimeter and crews work to hand signals agreed before entry.
+- Yield rises with stored exhaustion, so the site is worked after long shifts rather than at the start of them.
 
 ## Combat Record
 ### Core Stat Line

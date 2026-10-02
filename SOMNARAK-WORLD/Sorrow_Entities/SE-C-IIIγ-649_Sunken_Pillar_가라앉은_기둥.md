@@ -275,16 +275,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sunken Pillar (C-IIIγ-649 [VP]) is logged as a Place-Void manifestation expressing Void. The Pillar formed from a monument to things that never existed. Held at The Desolate — mobile. It sinks deeper when attacked.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <The Empty Carvings>**
 Its empty carvings respond to mourning.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Possibilities, Not Memories>**
 The grief of missing possibilities mistaken for lost memories.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <What Never Came>**
 Work response — Viderehan: Shows the lives and structures that never came. (Stable); Ferrehan: Tests whether the worker can mourn possibility without calling it history. (Decrease). Personnel report fear when they see a life that never existed.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Soldier Who Died Forgotten>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
 
 ## 최종 관찰 (Final Observation)

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Apnea.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 1. The first failed cycle breaches, and the breach is immediate rather than escalating.
+- Pressure is physical and structural despite the dream form. The crimson cracks across its face and chest widen under failure and do not close.
+- Warmth cracks the frost and the breath becomes audible, lowering the gauge. Audible breath is the success signal on this row.
+- It freezes emotion rather than air. Ambient temperature is unaffected, so thermal instrumentation gives no warning and the gauge is the only indicator.
+- Yield is drawn from the released breath, so cycles that end with the figure still silent return nothing at all.
 
 ## Combat Record
 ### Core Stat Line

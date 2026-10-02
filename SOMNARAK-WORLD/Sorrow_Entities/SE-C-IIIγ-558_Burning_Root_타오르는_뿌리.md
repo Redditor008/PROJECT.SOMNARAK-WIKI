@@ -263,16 +263,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Burning Root (C-IIIγ-558 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The Root formed from obligations carried so long that they became familiar rather than heavy. Held at Zone C, Collector's Row. It follows debt records and family names.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Warmth Before the Burn>**
 Moves along floors and ledgers through Collector's Row. Personnel feel familiar burdens as warmth and then pain. Its fire warms before it burns.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Burden Mistaken for Self>**
 The grief of mistaking inherited burden for identity.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Name It, Do Not Claim It>**
 Management: Name the burden without calling it selfhood. Work response — Flerehan: Flames lower and roots loosen. (Decrease); Pugnahan: Roots strike outward and heat increases. (Increase); Viderehan: Reveals the debt lines connecting the family. (Stable); Ferrehan: Tests whether the worker can imagine life without the burden. (Decrease). Personnel report longing for the burden after exposure ends.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Citizen Who Fractured>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
 
 ## 최종 관찰 (Final Observation)

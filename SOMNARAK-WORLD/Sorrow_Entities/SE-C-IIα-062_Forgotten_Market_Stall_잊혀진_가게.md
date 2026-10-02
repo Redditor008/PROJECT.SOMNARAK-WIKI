@@ -312,16 +312,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Forgotten Market Stall (C-IIα-062 [VO]) is logged as a Object-Void manifestation expressing Void. The Stall formed from the grief of merchants whose livelihoods vanished as the city expanded. Held at Zone B, Forgotten Market — mobile manifestation. The Stall cannot be forced to remain after dawn.
 
-**Entry 2 — <Excerpt from Field Log, Year 4215>**
+**Entry 2 — <What Is for Sale>**
 Goods are genuine crystallized memories or Echoes.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <The Ordinary Exchanges>**
 The loss of commerce, community, and the ordinary exchanges that made a life feel real.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <It Vanishes if Pressed>**
 Aggression causes immediate disappearance.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Representative, Not Anomalous>**
 The Director notes: this sorrow is representative, not anomalous. It is the city grief given form at this location — the wound made visible.
 
 ## 최종 관찰 (Final Observation)

@@ -305,16 +305,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Screaming Masonry (C-IIIγ-891 [D]) is logged as a Object-Lament manifestation expressing Weight. The Scream formed from obligations that were never fulfilled. Held at Zone B, Old Lament — ambient. The Scream is felt more than heard.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Through Walls and Contracts>**
 It spreads through walls and old contracts.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <More Than the Body Could Carry>**
 The pressure of promises and duties accumulating until the body could no longer carry them.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <The Obligations Behind the Cry>**
 Work response — Viderehan: Reveals the obligations behind the cry. (Stable); Ferrehan: Weighs the worker's resolve. (Decrease). It becomes heavier near debt disputes.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Keeper Who Erased Memory>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
 
 ## 최종 관찰 (Final Observation)

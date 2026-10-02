@@ -316,16 +316,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Happy Mask (C-IIβ-051 [VO]) is logged as a Object-Void manifestation expressing Void. The Mask formed from the sorrow of pretending to be happy. Held at SECTOR-C-01, contained with the Masked Troupe. The mask has never moved without a wearer.
 
-**Entry 2 — <Excerpt from Field Log, Year 4228>**
+**Entry 2 — <Resonance Behind the Smile>**
 It resonates with the Weeping despite its apparent happiness.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Smiling for Others>**
 The grief of smiling for others while wanting to cry.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <When the Smile Is Stopped>**
 Wearers become distressed when prevented from smiling.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Merchant's Story>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything and got nothing. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. …
 
 ## 최종 관찰 (Final Observation)

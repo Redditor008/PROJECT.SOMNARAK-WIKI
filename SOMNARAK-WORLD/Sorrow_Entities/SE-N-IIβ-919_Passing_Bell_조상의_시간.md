@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Passing Bell.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3, but the gauge can only move during the hour itself; the remainder of the cycle is inert regardless of activity in Zone A.
+- Pressure combines weight and spirit. Personnel report it as fatigue in the legs and a reluctance to speak, persisting until the hour closes.
+- The entity is an hour rather than a body. Containment is scheduling: the hour arrives once per cycle and cannot be moved, shortened, or skipped.
+- The dead speak to each other, not to the living. Personnel who answer are recorded as having answered, and are not reassigned to the hour.
+- Yield is bounded by the hour's duration, which makes this the only row in its class with a fixed daily ceiling.
 
 ## Combat Record
 ### Core Stat Line

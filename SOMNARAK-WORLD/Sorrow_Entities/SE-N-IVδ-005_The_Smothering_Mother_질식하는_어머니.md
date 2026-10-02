@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Smothering Mother.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 1. A single failed cycle breaches containment, so there is no margin and no second attempt within a shift.
+- Pressure is physical and structural. Her arms reach the full width of the containment room, and the room is specified around that reach rather than around her body.
+- Weeping with her makes her gentle and lowers the gauge. Distant study holds it stable; no approach safely raises tolerance.
+- The face is warm and the hollow eyes absorb light. Workers are briefed that the warmth is accurate rather than a lure, which is why the threshold is 1.
+- Yield is high per cycle and the cycles are few. Extraction is scheduled against the breach risk rather than against the quota.
 
 ## Combat Record
 ### Core Stat Line

@@ -315,16 +315,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Devouring Bloom (C-IIIγ-916 [N]) is logged as a Object-Weight manifestation expressing Weight. The Flower formed from sorrow preserved as weight. Held at Zone B, deep tunnels. Its petals grow toward memorial objects.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Heavier After the Tunnels>**
 It becomes heavier after tunnel deaths.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Beautiful and Immovable>**
 The burden of carrying grief until it becomes beautiful but impossible to move.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Sorrow in Each Petal>**
 Work response — Viderehan: Reveals the sorrow attached to each petal. (Stable); Ferrehan: Tests whether the worker can bear its growing weight. (Decrease). Personnel report longing after exposure.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Architect Who Built>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
 
 ## 최종 관찰 (Final Observation)

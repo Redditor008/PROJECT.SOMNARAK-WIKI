@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Broken Tear.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 1. A single failure is sufficient, and the figure does not recover its shape between cycles.
+- Pressure is mental. The face cannot stay whole, and personnel report the fracture continuing in their own dreams for several nights afterward.
+- The figure becomes clearer and the sound softens under grief shared openly. Clarity is the success signal here rather than silence.
+- It cries without liquid. The sound has no source that instrumentation can locate, and suppression equipment has no effect on it.
+- Yield is drawn from the accumulated century of loss it carries rather than from the cycle, so returns stay steady regardless of work quality.
 
 ## Combat Record
 ### Core Stat Line

@@ -301,16 +301,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Spreading Well (C-IIIγ-373 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Well formed from sorrow that refused to remain in one place. Held at The Desolate, near The Scar. Channels follow Han currents and old mourning paths.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <It Sings Beneath the Ground>**
 The Well sings beneath the ground.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Until Someone Understands>**
 The need for grief to travel until it finds another person able to understand it.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Following the Channels>**
 Work response — Viderehan: Reveals linked sorrow sites along its channels. (Stable); Ferrehan: Tests whether the worker can follow grief without being consumed. (Decrease). It becomes active near The Scar.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Singer Who Sang Too Long>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
 
 ## 최종 관찰 (Final Observation)

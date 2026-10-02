@@ -263,16 +263,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Floating Well (C-IIIγ-448 [O]) is logged as a Subject-Weight manifestation expressing Grudge. The Well formed from sorrow that could not be grounded. Held at Zone D, Forge District. It floats because its sorrow has no ground.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Following the Han Currents>**
 Floats through the Forge District and follows Han currents. Personnel feel pressure and anger without physical source. It grows heavier around displaced workers.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Nowhere to Put It>**
 The burden of carrying grief without a place to put it.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <A Place to Mourn>**
 Management: Create a safe mourning place; do not force it downward. Work response — Flerehan: Lowers toward the worker and shares sorrow. (Decrease); Pugnahan: Surges upward and releases pressure. (Increase); Viderehan: Shows the grief stored inside its depth. (Stable); Ferrehan: Tests whether the worker can remain under the floating opening. (Decrease). It becomes calm when grief is given a physical place.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Warden Who Couldn't Protect>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
 
 ## 최종 관찰 (Final Observation)

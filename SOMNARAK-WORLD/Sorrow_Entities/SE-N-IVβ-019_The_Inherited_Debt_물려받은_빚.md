@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Inherited Debt.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3. Only workers who perceive the entity can advance the gauge; those carrying no inherited debt record no interaction at all.
+- Pressure is burden-class. The entity has no stable physical body and manifests as a shadow at the back, a whisper at the ear, or pressure against the chest.
+- Acknowledging a shared burden lowers the gauge. Denial produces no response rather than an increase, which is unusual for this class.
+- Assignment requires a declared inheritance. The roster is drawn from personnel records rather than availability, and crews cannot be substituted at short notice.
+- Yield tracks the size of the debt perceived rather than the length of the cycle, so a heavily indebted worker returns more in less time.
 
 ## Combat Record
 ### Core Stat Line

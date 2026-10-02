@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Survivors Span.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3. The gauge rises when the entity is made to carry more, so cycles are scheduled to lighten it rather than to test it.
+- Pressure is burden-class and literal. The figure bears invisible traffic across its shoulders and the load registers on floor sensors beneath the tunnel.
+- Weeping alongside it lowers its burden and the gauge. Workers are told that the tears are the work, not a side effect of it.
+- It waits beneath tunnels by preference and returns to one if relocated, which makes containment a question of choosing which tunnel rather than preventing movement.
+- Yield is drawn from the weight it sets down, so a cycle that lightens it fully leaves nothing to extract on the next.
 
 ## Combat Record
 ### Core Stat Line

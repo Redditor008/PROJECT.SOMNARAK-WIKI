@@ -301,16 +301,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Frozen Echo (C-IIIγ-609 [D]) is logged as a Object-Weight manifestation expressing Lament. The Echo formed from an object passed between too many grieving people. Held at The Desolate, near The Scar. It grows heavier with each new witness.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Cold Both Ways>**
 It is cold physically and emotionally.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <History Without an Owner>**
 The burden of carrying everyone else's history without retaining a single owner.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <The Chain of Owners>**
 Work response — Viderehan: Reveals the chain of former owners. (Stable); Ferrehan: Tests whether the worker can carry history without possession. (Decrease). Personnel report loss after contact.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Merchant Who Sold Everything>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
 
 ## 최종 관찰 (Final Observation)

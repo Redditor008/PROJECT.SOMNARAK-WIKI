@@ -283,16 +283,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Weeping Statue (C-IIβ-055 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Statue formed from grief that people were unable to express. Held at SECTOR-D-02, Echo Gardens — contained. The Statue has never attempted to breach; only its tears expand.
 
-**Entry 2 — <Excerpt from Field Log, Year 4208>**
+**Entry 2 — <The Tears Overflow>**
 The Statue remains fixed; its tears overflow through the containment zone. Personnel standing in the tears experience amplified personal grief. Every tear carries a distinct emotional signature.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Held Until Solid>**
 The pain of holding tears inside until sorrow became solid.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Do Not Drain the Tears>**
 Management: Share the grief. Do not drain or destroy the tears.  Personnel report increased empathy after sitting beside it.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Mother Who Lost a Child>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This …
 
 ## 최종 관찰 (Final Observation)

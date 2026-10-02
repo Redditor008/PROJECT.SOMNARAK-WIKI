@@ -316,16 +316,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Empty Mask (C-IIβ-054 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Mask formed from the sorrow of having no identity. Held at SECTOR-C-01, contained with the Masked Troupe. The Mask pulses near strong emotion but never develops a face.
 
-**Entry 2 — <Excerpt from Field Log, Year 4205>**
+**Entry 2 — <Minutes to Confusion>**
 Unsupervised exposure creates identity confusion within minutes.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Nothing to Anyone>**
 The grief of becoming nothing to oneself and to everyone else.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Repeated Naming>**
 The safest countermeasure is repeated naming by trusted personnel.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Merchant Who Sold It All>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything and got nothing. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. …
 
 ## 최종 관찰 (Final Observation)
