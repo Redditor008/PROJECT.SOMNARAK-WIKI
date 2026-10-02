@@ -39,10 +39,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Quagmire.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A completed cycle lightens the Trace and adds to the survey. It does not finish the journey, recover the travellers, or shorten the crystal line by a single metre; what the work produces is a better map of something that stopped happening.
+- There is no breach counter. The activation condition is external and the facility cannot see it coming from the Desolate: a route destroyed somewhere with nobody present to record it. The Trace registers the loss before any report of it reaches Zone A.
+- A yield of 20–28 at Severe difficulty is drawn out in the open Desolate near The Scar, hours from relief, with no containment structure of any kind. The exposure figure that matters for this holding is travel time, and it is not in the table.
+- Extraction means cutting crystal out of a line that is itself a record of people who were cut off. It is scheduled separately, and the segment removed is surveyed and logged in position before it is lifted, because the line cannot be put back.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Quagmire's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The team reaches the Trace, establishes which direction the line was travelling, confirms the survey equipment is working before anything else is attempted, and agrees that no one will walk the line's length until it has been measured.
+2. **Clash:** Twenty-four turns in open ground against 910 points of unfinished journey at 45% resistance to its own element. Nothing attacks. The pressure is 29 to 64 per turn of simply remaining at the end of a road that stopped, and parties fail this encounter by leaving rather than by being overcome.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Map the Trace and preserve the names it carries**.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Quagmire reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Extended exposure produces a specific disorientation that personnel consistently under-report: the conviction that the party is mid-journey and has somewhere still to reach. Workers have continued walking the line past its end, in good order, discussing the route, and have described the experience afterwards as entirely reasonable at the time.
+- Every piece drawn from the Trace charges in arrivals that never happened. The censer shields composure and leaves its bearer weeping for people they never met; the shroud keeps the mind steady and flattens small pleasures; the Lantern shows routes buried under dust and plays every traveller who did not come through.
+- If the Trace is not mapped and the names not preserved, nothing detonates. The line simply gets heavier, the Desolate ground around it subsides further, and the next survey party has a harder job than the last one. This holding punishes neglect with accumulation rather than violence, which is why it has been neglected.
 
 ## Appearance
 **Physical Form:** A broken line of heavy crystal across the Desolate ground, resembling a collapsed record of movement.
@@ -116,18 +116,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A broken line of heavy crystal across the Desolate ground, resembling a collapsed record of movement. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | A fixed broken line of heavy crystal lying across the Desolate ground, frozen mid-stride and oriented along a road that no longer exists; it has never relocated, but the ground beneath it continues to give. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Survey it, do not describe it. Record the line's total length, the position and width of every break in it, its bearing against the old road alignment, the depth of subsidence beneath each segment, and the mass where load cells can be seated. The crystal's appearance does not change; its weight does, and the record states the governing variable plainly — it grows heavier when routes are erased from maps. That makes the instrument a theodolite and a scale, and it makes the relevant archive the cartographic one rather than the incident log. Record also the footsteps. The Trace carries them and never produces its own, so the sound belongs to the travellers and should be counted, timed and attributed where possible, not written down as ambience.
 
 ## Origin
 - **Formation:** The Trace formed from a route destroyed before its travelers reached safety.
 - **The Sorrow:** The burden of a journey ending without arrival.
 - **The Event:** A Desolate path collapsed under Han, carrying the tracks and names of everyone who had used it.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A party of travellers, number unestablished, who were weeks on the road and did not arrive. The Trace carries their footsteps, which means the facility holds evidence of how many there were and has not finished counting; the resolution condition requires preserving the names, and the names are not yet all known.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Quagmire is recorded as an Object/Place with Object-Weight manifestation and Lament elemental expression. The current record places it at The Desolate, near The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Viderehan holds the gauge level and reveals the route together with its missing travellers, which is the single most useful output this holding produces and changes nothing about its state — it is a witness function, not a treatment. Ferrehan brings the gauge down, and the test is whether the worker can remain at the end of a journey: stay at the point where the road stops, for the full cycle, without walking on and without turning back. Both failures are logged and they look nothing alike. A worker who walks on has joined the journey; a worker who leaves early has done what everyone else did. A falling gauge here means somebody stood at the end of a road for twenty-four turns on purpose.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -173,7 +173,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic works while carried and stops when it is set down under the removal condition; it projects Lament across the immediate perimeter rather than at a target, so it affects the bearer's own party first and cannot be aimed. It confers no containment authority over the Trace, and Viderehan and Ferrehan remain the only valid responses.
 
 ### Log and Method
 
@@ -188,7 +188,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 The escalation pattern is specific to Quagmire: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Count the party, then survey. There is no perimeter to hold in open Desolate and nothing to clear, but personnel have walked the line's length without noticing, so the first action is a head count against the manifest and the second is a check that everybody is still at the end rather than along it. Then establish whether the activation was local or whether a road was destroyed elsewhere — the trigger is usually somewhere else entirely, and a team searching the Desolate for a cause will not find one.
 
 ### Detailed Activation Record
 
@@ -201,7 +201,7 @@ The escalation pattern is specific to Quagmire: it is not a generic breach event
 | **Risk** | Critical (δ) Object-Weight producing Lament pressure; Misuse increases emotional strain and may destabilize the operator. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** the route lost and where → change in measured mass → new breaks in the line → subsidence depth → footsteps counted → whether any name was recovered. The last field is the only one that discharges the resolution condition, and a report that fills every other column and leaves it blank has documented an activation without doing anything about it.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -222,12 +222,12 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The full figure against one target and nothing beyond them — the censer is swung by hand on its three chains and reaches as far as the bearer's arm.
+**Damage Application:** Score the impact of the heated bowl once, then score the lingering incense again on each following turn while the smoke holds; the two resolve as separate events against the same resistance.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Quagmire's lament signature in the strike.
+**Ability:** A brass thurible trailing lavender smoke that holds an emotional oasis around its bearer — the smoke steadies composure against anything the Desolate puts in front of the eyes, and the hot bowl does the rest at close quarters.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tears run underneath it, which colleagues find more unsettling than panic would be.
 
 ### M.A.W. Suit — The Trace Shroud
 
@@ -243,9 +243,9 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Quagmire's kind of pressure.
+**Ability:** Han-silk wrapping that holds the wearer's composure under Lament pressure, tightening as it nears the line it was drawn from.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the Desolate steady, competent, and unable to say whether the trip back was good or bad.
 
 ### M.A.W. Stigma — The Trace Lantern
 
@@ -255,17 +255,17 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the bearer's rating while working the Trace, conditional on the bearer having logged a survey reading during the cycle
 
 **Ability:** Reveals hidden routes beneath sorrow and dust.
 
 **Cost:** The user hears every traveler who never arrived.
 
-*Stigmas are granted at random by Quagmire upon a successful work, not manufactured.*
+*The Trace Lantern is given, not taken. It has appeared only on workers who recovered a name and filed it, and no procedure has produced one deliberately.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Quagmire's sorrow within the equipment may activate. and may produce an effect tied to Quagmire's element. The Stigma is Quagmire's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each piece remains part of the Trace, and the set is built for the road rather than for the fight — a censer that keeps a traveller steady, a shroud that keeps them warm and unbothered, a lantern that finds the way. It is, in plain terms, an expedition kit. Note the grades before issuing it: these are α-rated items drawn from a Critical holding, three to six damage against an entity that applies twenty-nine to sixty-four, and a party that outfits for this encounter from its own M.A.W. will be comprehensively under-equipped. That mismatch is in the record because it is real and because it is thematically exact. The Trace was a journey that was provisioned for walking and met something that was not walking. Its equipment has the same gap in it.
 
 ### Field Use Record
 
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The α grades on this set are honest and low, and the useful functions — the oasis, the hidden routes — are not in the damage column at all. Read the Cost lines as the specification. The Lantern in particular should be assessed on what it does to the bearer's hearing rather than on its rating, since every traveller who never arrived is a larger number than the sheet implies.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Quagmire's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Survey, count, name. The survey is instrumental and repeatable. The count is of footsteps, taken over a fixed interval and compared across cycles, since the Trace carries them and produces none of its own. The naming is the part teams skip because it is slow and because it belongs to an archivist rather than a field worker: every recovered name is checked against the Zone A route registers and the missing-persons files and entered under this designation. The resolution condition for a Critical-tier holding is a cataloguing task, and it will not be discharged by anyone standing in the Desolate.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -306,16 +306,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Quagmire (O-IVδ-168 [O]) is logged as a Object-Weight manifestation expressing Lament. The Trace formed from a route destroyed before its travelers reached safety. Held at The Desolate, near The Scar. It follows collapsed paths rather than current geography.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Survey Return, Desolate Expedition>**
 Its weight increases after Han-storms.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Missing Persons Register, Open>**
 The burden of a journey ending without arrival.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the route and its missing travelers. (Stable); Ferrehan: Tests whether the worker can remain at the end of a journey. (Decrease). Personnel feel loss without seeing a body.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 — <Cartographic Office Note on Decommissioned Routes>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
@@ -345,12 +345,12 @@ A line of crystal crosses the dust and ends abruptly. No road continues beyond i
 
 Quagmire does not exist in isolation. Its recorded relationships with Survivor's Span, The Spreading Well, The Vanished Shadow should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish the Trace's solo series first — mass, breaks, bearing, subsidence, footstep count — across several cycles, because every one of those readings is a number and a number is the only baseline this entity can have. When a second holding is introduced, attend to the variable peculiar to this one: whether the other entity has a route. Things that travel, lead, guide or mark a way are candidates for interaction in a sense that merely adjacent holdings are not, and the Trace has been observed to re-bear slightly toward them. Log separation, duration, gauge movement, and the bearing before and after to the nearest minute of arc. A permanent change in bearing would be the most significant finding this entity could produce and has not yet occurred.
 
 
 ### Entity Interaction Record
 
-Quagmire must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Trace lies in the open Desolate near The Scar rather than in a managed zone, so its neighbours are whatever else the Desolate holds and the survey intervals are long. The interactions below are canonical but each was recorded at a particular mass and bearing; personnel must re-run the survey before relying on any of them.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -358,7 +358,7 @@ Quagmire must be assessed as part of an entity network, not as an isolated profi
 | **The Spreading Well** | The Well carries sorrow along its abandoned route. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Vanished Shadow** | The Shadow follows the missing travelers. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Measure before and after with the same instruments and the same reference stakes. Record the separation at first response, the duration, the gauge movement, the mass throughout, the footstep count during contact, and the bearing on withdrawal. The bearing is the finding; everything else is context for it.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -405,9 +405,9 @@ Some sorrows mourn a destination. Quagmire mourns the journey — the path colla
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The resolution condition for this holding is *map the Trace and preserve the names it carries*, which is not a containment action in any sense the facility normally uses the word. There is no suppression here, no seal, no gauge to drive down by force. The entity grows heavier when routes are erased from maps and lighter when the record is kept, which means the containment infrastructure for a Critical-tier Desolate holding is the cartographic office and a register of the dead — maintained by staff who have never been to The Scar and who are not told that their filing is a containment measure. The file records that plainly. Where the entity and the record disagree, trust the entity and log the discrepancy.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any activation, re-run the full survey and attach two documents that are not normally part of an incident review: the list of routes decommissioned, destroyed or removed from the maps since the previous survey, and the current name register for this designation. The mass reading is meaningless without the first and the resolution condition cannot be assessed without the second. Reviews filed without them have been accepted in the past and should not be again.
 ## Apex Record
 
 ### Absorbed Footsteps
@@ -451,9 +451,9 @@ Traverse pairs are drawn from the same watch rather than mixed across shifts, so
 
 - **Classification detail:** Quagmire is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is The Desolate, near The Scar.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify by the line. A broken run of heavy crystal lying along an alignment that matches no road on any current map, salt-cold, carrying footsteps that do not belong to anyone present.
+- **Record detail:** The Desolate holds several Lament residues formed from interrupted journeys; confirm the designation O-IVδ-168 and the Object-Weight manifestation before applying this file to any of them.
+- **Containment detail:** There is no containment structure and none is planned — the Trace sits in open ground days from the nearest facility, and the practical measures are a survey schedule, a map archive and a register of names. Personnel should understand that this holding is contained by paperwork performed elsewhere, and that the paperwork has lapsed before.
 ## Document Information
 
 **Document ID:** SE-O-IVδ-168
