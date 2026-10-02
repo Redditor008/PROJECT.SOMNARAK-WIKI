@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Uprooted.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle loosens the roots and dims the fire for the length of one passage. It does not settle the entity, which has no site to be settled on: the holding is a route, not a cell, and the next foundation line is already surveyed.
+- Activation here is read twice over. The stated threshold of 2 counts down with each failed or refused cycle, and a Sorrow Gauge at or above 75% activates the entity on its own regardless of what the count stands at; not every holding in the archive carries a count at all, and where none is listed the percentage is the only reading there is.
+- The 16–22 Han-Energy yield is modest because the work is mostly walking and recording, and the exposure is correspondingly slow — it accrues over seasons of escort duty rather than in a single cycle. Rotate personnel off the route before they begin describing it as their route.
+- M.A.W. extraction is a separate authorised event and never a bonus attached to a good cycle. The α-grade set drawn from this entity is cheap to field and expensive to carry: the Shield's recorded cost is the sorrow of every place its wearer has left, and that cost does not stop when the harness comes off.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Uprooted's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The team fixes the entity against the Desolate foundation surveys, confirms which old structure line it is travelling, and takes position off that line rather than across it. Direction of travel is logged before anything else, because there is no facing to log.
+2. **Clash:** Work is done alongside the route and never in front of it. Flerehan and Ferrehan are the reducing types here; the surveys are marked up live, each unfinished structure is measured where it is raised, and any departure from a known foundation line is circled on the sheet as it happens rather than reconstructed afterwards.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not burn the roots; map and witness their route**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Clarity** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Uprooted’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Uprooted defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact erodes a specific thing rather than the whole person: the sense of having somewhere to return to. Personnel on long escort rotations report their quarters feeling provisional, then their posting, then the district, and the progression is slow enough to be mistaken for ordinary restlessness.
+- Every M.A.W. activation is charged against the wielder in the currency of the source. The Needle-Rifle is almost silent and its user weeps without noticing; the Shield slows a crisis down and hands back every place its wearer has walked away from; the Charm asks only that its bearer weep in their sleep, which several have described as the worst of the three.
+- Without resolution the entity does not rage; it simply continues, and continuing is the breach. It leaves the surveyed line, takes a route nobody has mapped, and raises its unfinished structures in occupied ground — which is how a holding that has never killed anybody becomes a district emergency.
 
 ## Appearance
 **Physical Form:** A serpent of living root hauled up out of the ground — a long burning root-beast with no head and many reaching tendrils. **Movement:** It pulls itself upward and onward like a snake of root.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
 - **Primary marker:** A burning figure whose body is made from roots rising out of the Desolate ground.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Hauls itself along the lines of buildings that are no longer there; record direction of travel and the foundation reference, never facing — it has no head and nothing that serves as one.
 - **Element signature:** Lament
 - **Registered location:** The Desolate — mobile
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A burning figure whose body is made from roots rising out of the Desolate ground. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Hauls itself along the lines of buildings that are no longer there; record direction of travel and the foundation reference, never facing — it has no head and nothing that serves as one. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Take the length of the body, the number of tendrils in contact with the ground, the height of the fire along it, and the grid reference of the foundation line it is following. Record direction of travel instead of facing; the Warden's form was amended to ask for this in the holding's first year and the original form is kept beside the amendment. Any structure it raises is measured on the spot — footprint, height, materials — because the dimensions vary and the variation is the only property the structures share. They are gone by dawn, so a structure that is not measured is a structure that was never recorded. Describe the flame in terms of what it does not do: it does not consume wood, it does not scorch the ground, and it is warm at a distance that suggests it should. 'Strange' is not an observation here. The thing is a legible object following a surveyed line.
 
 ## Origin
 - **Formation:** The Root formed from a life forced to grow in hostile ground.
 - **The Sorrow:** The grief of belonging nowhere and building without a place to remain.
 - **The Event:** A Desolate settlement moved repeatedly, leaving its roots and structures behind each time.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A Desolate community that relocated again and again because the Han-charged ground would not hold a permanent structure. The commissioning file lists every site with the date it was occupied and the date it was abandoned, and the intervals grow shorter down the page. The archivist noted that once, in one sentence, and left it. The last site in the sequence is the ground this holding now stands on.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Uprooted is recorded as a Subject with Subject-Grudge manifestation and Lament elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Read it in the roots and the route. A falling gauge looks like slack — tendrils releasing their grip on the ground, the fire shortening along the length, the pace steadying to the surveyed line. The pressure is being absorbed and the grievance is not: the entity is calmer, and it is still travelling. A rising gauge looks like purpose. The structures come up faster, further off the line, and larger, and a team that finds itself admiring the construction has already missed the reading. Log every deviation the same day — an unmapped turn, a structure left standing past first light, a stretch walked in silence where weeping was recorded last season. On this holding the deviations are the record; the baseline has been stable for years and will tell you nothing new.
 ## Breach Behavior
 
 > *"Rising Root has broken free. Grasps at ankles, dragging personnel down."*
@@ -161,8 +161,8 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Clear the route rather than close it. Move personnel and material off the projected line, open the doors along it, and let the passage complete; corridors are blocked only where the line would take it into occupied quarters, and every block is logged as an escalation because it is one. Pugnahan is held in reserve and fire is never used — the resolution condition on this holding forbids burning the roots, and that instruction survives the breach.
+- **Sorrow Gauge on breach:** Opens at 40% and is driven by displacement rather than by elapsed time. Each barricade raised across its path, each rerouting that drives it off a surveyed foundation line, and each site it is turned away from adds 10%, and the figure does not distinguish a necessary diversion from an arbitrary one. Each 10% is removed when a passage is left open along a mapped line and that passage is entered in the survey as a recognised route — a written admission that it has somewhere it is allowed to go. Standing still neither raises nor lowers the reading. The arithmetic is deliberate and uncomfortable: a disciplined containment response consisting entirely of blocked corridors will drive this gauge to its ceiling without a single error being made.
 
 ## M.A.W. Equipment
 
@@ -184,12 +184,12 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the designated target and nothing to anyone beside it; the needle stops in the body it was aimed at.
+**Damage Application:** Resolve the needle's direct damage first, then apply the multiplier to the paralytic's Tick damage as a second, separate calculation.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Uprooted's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — composure, willpower, orientation. The discharge is near-silent, and targets consistently report the paralysis arriving before they registered that anything had been fired.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the grief of ground that would not hold. Prolonged use produces involuntary weeping, usually at the end of a march rather than during one.
 
 ### M.A.W. Suit — Uprooted Shield
 
@@ -217,17 +217,17 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat while the Charm's source entity is the subject of the cycle, and nothing at all on any other holding
 
-**Ability:** Grants a minor boon tied to Uprooted's sorrow; the effect mirrors the entity's nature.
+**Ability:** Grants a small, persistent steadiness on unfamiliar ground — the bearer finds routes easily and is rarely lost, which is the sorrow of the source turned the right way round.
 
 **Cost:** The bearer weeps in their sleep.
 
-*Stigmas are granted at random by Uprooted upon a successful work, not manufactured.*
+*The Charm is given, never made. It appears after a successful cycle, at the source's discretion, and no procedure or stated probability compels it.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Uprooted's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design, a piece amplifies its own cost and can wake an echo of the element it was drawn from, which on this set presents as warmth with no source and the conviction that the current posting is temporary. Stigmas are not produced. The entity bestows them unpredictably after a successful cycle, as though parting with a fragment of itself, and no amount of correct procedure obliges it to part with anything.
 
 ### Field Use Record
 
@@ -238,7 +238,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade measures what a piece does to entities and nothing else. This set is α-grade, cheap in Echoes and freely issued, and its costs are among the heaviest recorded in the district — a low rating has never meant a low price, and the two columns must be read together before any issue is authorised.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Uprooted's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Observe from beside the route, moving with it, and record four things in order: the first sighting with its grid reference, the first structure raised, the first measurable change in the ground, and the condition under which the passage ended. The form is the sorrow and not the plan — the roots say what was left behind, never where the entity will turn next. Prediction comes from the foundation surveys instead, which is why the surveys are the principal document of this holding and are marked up on the day of every passage.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Uprooted (O-IIIγ-959 [D]) is logged as a Subject-Grudge manifestation expressing Lament. The Root formed from a life forced to grow in hostile ground. Held at The Desolate — mobile. It follows abandoned foundations.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Route Escort Log, Year 4238>**
 Moves through Desolate soil and abandoned foundations. Personnel feel consuming rage and displaced belonging. Its fire is emotional and does not consume wood.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Long Rotation>**
 The grief of belonging nowhere and building without a place to remain.
 
 **Entry 4 — <Containment Notice>**
@@ -307,12 +307,12 @@ Roots break through the dust and a burning person rises among them. Around its f
 
 Uprooted does not exist in isolation. Its recorded relationships with The Spreading Root, The Rootless, The Burning Root should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity on its own before the two are allowed within range, because a resonance measured against an unknown is not a measurement. All three recorded relations here are root or rootlessness entities, so the question to be answered is whether the routes converge — whether a second presence begins following this one's foundation lines, or this one begins following theirs. Log the first mutual reaction, the distance that triggered it, the duration, the gauge movement on both sides, and what persists after separation. A pairing that was quiet last season is not cleared for this one: Sorrow Tides, Ordeals and transformations have inverted stable interactions on this route overnight.
 
 
 ### Entity Interaction Record
 
-Uprooted must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Uprooted must be assessed as a member of a group of root-bearing sorrows rather than as a single travelling object. The relations below are canonical in the sense that they have been observed and filed, not in the sense that they are fixed. Any of them may present as assistance, obstruction, indifference, or a condition that only appears in certain ground, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ Uprooted must be assessed as part of an entity network, not as an isolated profi
 | **The Rootless** | Shares the grief of rootlessness. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Burning Root** | Carries familiar burden into Outside Sorrow. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties separately, then bring them into range along the surveyed line and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on the ground between them, and whatever remains once they have separated. The additional field required on this holding is the route record: whose line was followed, and by which of them.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -367,9 +367,9 @@ Some sorrows mourn a home. Uprooted mourns the rooting — the attempt to belong
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read the classification, the Combat Record, the M.A.W. profile and the Warden Record together, and read the commissioning file with them, because the uncomfortable part of this holding is in the commissioning file. The sequence of abandoned sites ends at the ground the facility is built on. Nothing in the record claims the wing is implicated in what formed the entity, and nothing in the record rules it out, and the shortening intervals are noted once and not interpreted. Personnel should know this before they are posted here rather than working it out from the plotted sheet. Where observation contradicts the file, the file is wrong: log the deviation, report it, and do not reconcile it by editing the record — the contradictions on this holding have outlasted every attempt to tidy them, and are the most useful thing in it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, blocked passage, structure left standing past dawn, or unusual interaction, re-verify the gauge, the activation count, the exposure log, and the entity's position against the foundation surveys before the route is worked again. Every barricade raised during the event is listed by grid reference with the reason it was necessary. That list is an operational record and not a charge sheet: the teams that raise barricades are usually right to, and a review that discourages them from writing the barricade down has removed the only explanation the next gauge reading will ever have.
 ## Warden Record
 
 ### It Follows Old Foundations
@@ -399,9 +399,9 @@ A Desolate community relocated repeatedly and left its foundations behind each t
 
 - **Classification detail:** Uprooted is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the line it travels, not by the fire. Several Desolate entities burn and more than one is made of root; this is the headless one that follows the surveyed foundations of settlements that are no longer standing.
+- **Record detail:** Three root entities are filed as relations of this one and their names are easily confused on a dispatch sheet. Confirm the full designation and the manifestation before a cycle is booked, because the handling instructions diverge precisely where it matters — at whether fire may be used.
+- **Containment detail:** This holding has no door to be behind. Containment is a surveyed route, a schedule, and a standing agreement about which ground is left open, and the entity is in motion the entire time it is contained. Adjacent quarters report the Han thickening hours ahead of a passage, which is the only early warning the district has and is treated as part of the containment system rather than as a nuisance.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-959
