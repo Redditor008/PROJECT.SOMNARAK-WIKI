@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Brume.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle thins the bank and shortens its reach for a while. The fog reforms on the next flow line. Nothing in the record has ever dispersed it, wind included; it thins when the sorrow underneath it is acknowledged and thickens again when the acknowledging stops.
+- No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism, and the figure here is 75%; this is an expansion holding rather than a breach holding, so what the percentage governs is how far the bank spreads and how fast, not whether something gets out.
+- The 16–22 Han-Energy yield is ordinary for the band and the exposure is not. Time inside the bank is not reliably felt or reported — workers consistently underestimate how long they were in it — so exposure on this holding is timed from outside by a person who never enters, and the external clock is the only figure entered in the log.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction from a Place-manifestation is awkward and the wing has only ever managed it at the margin, taking from the edge of the bank rather than its body, which is why this set is small and its pieces are all, in one way or another, about direction.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,15 +86,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Brume's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Viderehan and Ferrehan are worked across a long engagement, with lifelines run to fixed points outside the bank and an external timekeeper who does not enter. The fog is not struck, pushed, burned or dispersed at any stage; the instruction is in the resolution condition and it is not conditional on how the engagement is going.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically**.
 
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Brume’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Brume executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time is the hazard here in a specific and measurable way, because the interior makes duration unreliable. Saturation accumulates at the ordinary rate while the worker's sense of it does not accumulate at all, and personnel recovered after long exposure characteristically report a short pleasant walk.
+- M.A.W. activation is an exchange with no negotiation in it; the registry lists the parameters and the bearer pays in memory and self. The payment from this source is made in small pieces nobody misses individually — a route, a face, the name of a street — which is why the cumulative ledger matters more here than the per-use figure.
+- An unresolved encounter does not end, it expands. The bank widens along the flow lines at roughly a hundred metres an hour and keeps widening until the sorrow beneath it is acknowledged; there is no exit condition that does not involve somebody mourning somebody.
 
 ## Appearance
 **Physical Form:** A moving bank of grey-white fog that is not weather but sorrow made mist. Its interior obscures distance and softens the ground.
@@ -109,7 +109,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Phantasmal
 - **Primary marker:** A moving bank of grey-white fog that is not weather but sorrow made mist. Its interior obscures distance and softens the ground.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Mobile, drifting along the Han-flow lines at about walking pace; plot the leading edge against the flow survey and the surveyed markers, and record the bearing rather than the position.
 - **Element signature:** Void
 - **Registered location:** The Desolate — mobile
 
@@ -118,12 +118,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A moving bank of grey-white fog that is not weather but sorrow made mist. Its interior obscures distance and softens the ground. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Mobile, drifting along the Han-flow lines at about walking pace; plot the leading edge against the flow survey and the surveyed markers, and record the bearing rather than the position. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Follows Han-flow lines through the Desolate. Moves at approximately walking speed. Carries the despair of nomads who wandered until hope failed. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Identification** | The designation is the first filter and the flow survey is the second; confirm the bearing, the pace and the manifestation agree with the file before anyone approaches the margin. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** There is no body to describe, so the protocol describes an edge and an interior. For the edge: the height of the bank, the bearing and timed rate between surveyed markers, the sharpness of the boundary, and the depth at which a hand becomes invisible. For the interior, observe from the margin and record the sounds — weeping is the usual report, muffled, at no locatable distance — and the smell, which is cold and damp and faintly of old flowers and has been described in those terms by every observer since commissioning. Record what the ground does under the bank; it softens, and the softening is measurable. Never estimate distance from inside. The interior makes distance unreliable, and an interior estimate entered in a log has twice sent a recovery party to the wrong marker.
 
 ## Origin
 - **Formation:** Brume crystallized from the collective despair of Desolate nomads.
@@ -155,7 +155,7 @@ The Fog does not respond to Work Types in the traditional sense.
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Brume is recorded as an Object/Place with Place-Phantasmal manifestation and Void elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** Read it in density and in the people, since the fog has no posture to read. A falling gauge presents as thinning — the bank shallower at the edge, the far markers coming back into view, the weeping quieter and further off. The pressure drops and the source is untouched; a lower gauge is a window and not a door, and the fog is somewhere else by morning. A rising gauge presents as **ease**. The interior becomes comfortable, the cold stops registering, and the people inside stop wanting to come out — not from fear, but because leaving has quietly stopped seeming worth the effort. That is the characteristic failure here and it does not look like distress from inside or outside. The external timekeeper exists for this reason and their call to withdraw is not reviewable from within the bank.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -185,7 +185,7 @@ The escalation pattern is specific to Brume: it is not a generic breach event. P
 | **Risk** | This Major (γ) Object/Place produces Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → bearing and leading-edge rate → the extent of ground covered and what is under it → personnel effect, with the external clock reading beside each entry → duration → management condition. The fourth field takes the external time and not the worker's own account, which on this holding is reliably wrong and reliably confident. Viderehan and Ferrehan remain the only valid Work Types, and nothing in an expansion event makes physical dispersal permissible.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -205,13 +205,13 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A single line, cutting through up to three targets standing in the same bearing
+**Falloff Rule:** 100% to the first target in the line, 70% to the second, 50% to the third — the cut loses definition with depth, as everything does here.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the two are tracked apart because the lingering portion persists after the line has closed.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Brume's void signature in the strike.
+**Ability:** Deals Void damage against the Soul — identity, memory, and the sense of having somewhere to return to. The strike carries the source's signature, and targets report briefly forgetting which direction they came from.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small memories with each use, always ones too minor to notice going: a turning, a face in a crowd, the name of a place they passed through once.
 
 ### M.A.W. Suit — The Hope Veil
 
@@ -227,9 +227,9 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Brume's kind of pressure.
+**Ability:** Grants resistance to Void pressure, shielding the Soul against erosion of identity and memory. It is rated for the interior of the bank and is the only piece in the set cleared for extended wear inside one.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves, as though watching their own shift from a short distance behind it. The sensation persists for some hours after the piece is removed.
 
 ### M.A.W. Stigma — The Hope Lantern
 
@@ -239,17 +239,17 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat while this piece's source entity is the subject of the cycle, and nothing on any other holding
 
 **Ability:** Creates a field of hope that counters despair-based effects.
 
 **Cost:** The flame draws from the user's own hope and dims as that hope is exhausted.
 
-*Stigmas are granted at random by Brume upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, as unpredictable as the fog's own course, and no procedure obliges one.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Brume's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; a piece forced past its design charges immediately and personally, and the sorrow in it can wake — which on this set presents as the wielder losing confidence in a route they have walked a hundred times. No protocol produces a Stigma; it comes from the source at the source's disposition or not at all.
 
 ### Field Use Record
 
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes extraction stability and nothing about the wielder. A well-graded piece from this source can still demand a toll no rating accounts for, and the toll here is unusually hard to self-assess, since what it takes is the faculty that would remember having had more. Read both columns, authorise on the second, and check the cumulative ledger rather than the wielder's own account.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -285,7 +285,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Brume's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Observe from the margin with an external clock and a lifeline, and record the first visible sign, the first emotional response and the time it occurred, the first measurable change in the ground or air, and the condition that ended the watch. The entity's appearance is its history made visible rather than a guide to its behaviour: a fog that covers everything and moves at the pace of a person walking is what wandering looks like once the wandering has stopped having a destination. One finding is recorded here to spare its rediscovery — the comparison against the Desolate's meteorological returns has been run over a long period and answered the obvious objection in writing. This is not weather. Nobody need test that again.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -296,7 +296,7 @@ Brume (O-IIγ-007 [VP]) is logged as a Place-Phantasmal manifestation expressing
 **Entry 2 — <Excerpt from Field Log, Year 4212>**
 It has not expanded beyond the region associated with the Desolate, but mapped perimeter markers shift.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Time Lost in the Bank>**
 The hopelessness of wandering without destination, shelter, or belief that anyone would come.
 
 **Entry 4 — <Containment Notice>**
@@ -332,12 +332,12 @@ The air changes first. Weight gathers behind your eyes, and the horizon folds in
 
 Brume does not exist in isolation. Its recorded relationships with The Hollow Choir, The Maw, The Kind Healer, The Scar Walker should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity alone; an interaction reading taken against an unbaselined bank cannot be told apart from the fog's ordinary drift. The relations on file concern loss of direction, open country, or things that cover other things, so the question to settle is whether the bank alters course for the other presence — a departure from the flow lines would be the finding, since in the whole plotted record the few departures have each turned out to be changes in the survey rather than in the fog. Log onset, distance, duration, gauge change on both sides, ground effect, and whether separation reverses it. Re-verify every cycle.
 
 
 ### Entity Interaction Record
 
-Brume must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Brume must be assessed as one of a group of sorrows that move through open country rather than as a solitary weather event. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -346,7 +346,7 @@ Brume must be assessed as part of an entity network, not as an isolated profile.
 | **The Kind Healer** | The Healer cannot enter; the sorrow is too dense. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Scar Walker** | The Walker patrols the Fog's edge and redirects travelers away from its deepest zones. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, let the bank come to the second rather than moving anything into it, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on the covered ground, and whatever persists after the bank has passed. The field this holding adds is the bearing, taken before contact and a full hour after.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -395,9 +395,9 @@ Some sorrows mourn a home. Brume mourns the destination — the nomads who wande
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification is the frame and this record is the picture, and neither substitutes for standing at the edge with a watch. The suppression condition is the difficulty. The fog thins when the sorrow it covers is acknowledged and mourned, and the people it is made of left no names — the commissioning file says so outright rather than letting the absence be inferred, and observes that this entity is the only record those wanderers have. So the containment practice is a mourning conducted for strangers, by people who did not know them, with nothing to read out. The wing has no procedure for that and has not written one; what exists instead is a convention, unofficial and universally followed, by which the party at the margin says aloud where the bank came from and what is known of how it formed before any cycle begins. Two commanders have proposed formalising it. Both proposals were withdrawn by their own authors, one of them minuting that an order to grieve would produce compliance and nothing else. Where the entity contradicts this file, trust the entity and log the contradiction.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every expansion, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, recheck the gauge, the exposure log, the bearing and the covered area before work resumes. Two further items are required here. Every logged exposure is checked against the external clock rather than the worker's account, as a matter of routine and without implying anything about the worker. And any member who has been inside the bank twice in a shift is stood down regardless of the recorded durations, because the second entry is the one after which people stop timing themselves.
 ## Watch Record
 
 ### Fog That Is Not Weather
@@ -427,9 +427,9 @@ Wanderers crossed the open land until isolation took away their sense of return,
 
 - **Classification detail:** Brume is an Object/Place with Echo (II) — Repeats a single pattern: blanketing areas coherence and Major (γ) — High danger in the Desolate potency.
 - **Field detail:** Its defining element is Void, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by its pace and its course. It keeps to the Han-flow lines and moves at about the speed of a person on foot, and that constancy is the holding's single most useful property — it is what makes the warning to outlying parties reliable.
+- **Record detail:** Several filed entities present as mist, cloud or obscurement, and more than one is mobile in the Desolate. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the decisive point, which is whether the thing may be dispersed, and here it may not.
+- **Containment detail:** There is nothing to seal and nowhere to seal it. Containment on this holding is a plotted course, a timed warning to whoever is downwind of the flow line, and a margin nobody crosses without a lifeline. Because the arrival is predictable, almost everybody who has been inside this fog chose to be, and the file records that fact without comment.
 ## Document Information
 
 **Document ID:** SE-O-IIγ-007
