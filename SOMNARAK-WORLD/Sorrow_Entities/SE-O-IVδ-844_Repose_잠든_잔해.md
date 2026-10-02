@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Repose.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A completed cycle settles the figure into deeper sleep and the surrounding rubble with it. Nothing is rebuilt, nothing is woken, and no cycle has ever reduced the ruin it is made of; the measure of success here is that less happened than might have.
+- The activation threshold is 1. A single failed cycle wakes it, and the file should be read with that in mind: every protocol below is written to prevent one event that has not yet occurred and for which there is no recorded recovery procedure.
+- A yield of 20–28 at Severe difficulty is drawn from a sleeping Critical-tier holding by workers who must remain quiet throughout. The limiting factor is not stamina or protection but noise discipline, and it degrades with fatigue long before anything else does.
+- Extraction means taking material from the rubble a sleeping person is built out of, by hand, without tools that make noise. It is scheduled separately, performed by the smallest practicable party, and abandoned at the first change in the figure's breathing.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Repose's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The team locates the sleeping figure among the Old Lament rubble, establishes the sound floor of the area, confirms that no powered equipment is present, and agrees the withdrawal signal — which is given by hand, not by voice.
+2. **Clash:** Twenty-four turns beside something that does not fight back and must not be made to. The 910-point gauge and the 29 to 64 pressure describe what happens if it wakes, not what happens during a cycle; the encounter as actually conducted is long, quiet, and measured in how little the party disturbed.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not wake it; reduce noise and acknowledge the dead**.
 
 ### Consequences
 
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Repose’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Repose’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- Prolonged exposure puts personnel inside the dream rather than beside it. Workers relive a collapse that is not theirs and report the ground becoming unsafe underfoot, and the reports are not metaphorical — the architecture around this holding is partly dreamed, and which parts is not always established in advance.
+- Every piece drawn from the Ruin charges in sleep. The disc lights what cannot be seen and leaves its wielder weeping while awake; the Pillow guards the wearer's memory against collapse and fills their nights with every ruin they have ever walked past; the Charm takes its payment after the shift, from a bearer who weeps in their sleep and does not know it until they are told.
+- Failure here has one specific meaning: it wakes. What follows is recorded in the breach section and has never been observed, because the threshold has never been reached — and personnel should treat an unobserved breach protocol as an untested one rather than as a reassurance.
 
 ## Appearance
 **Primary Form:** A sleeping humanoid made from the ruins of an Outside Sorrow settlement. It weeps while resting beneath broken structures.
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A sleeping humanoid made from the ruins of an Outside Sorrow settlement. It weeps while resting beneath broken structures. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Lies among the Old Lament rubble in the posture of a person asleep and has never been observed to rise; record the position of the limbs, any change in posture between cycles, and the rate of breathing, which is the only movement reliably present. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the figure, then record the buildings. The figure is straightforward — the position of each limb, the materials visible in the body, the moisture on the stone, the rate and depth of breathing, and whether it is weeping. The buildings are the part the standard protocol has no field for and the part that matters: this entity's dreams temporarily restore destroyed structures, which means some of the standing architecture in the Old Lament is sustained by the sleep of the thing lying in the middle of it. Survey the surrounding structures each cycle against the pre-collapse plans and mark which are present that should not be. That list is a map of what disappears if it ever wakes, and personnel are entitled to know whether they are standing on it.
 
 ## Origin
 - **Formation:** The Ruin formed from a settlement that died while its survivors continued mourning.
 - **The Sorrow:** The exhaustion of grieving a place that can no longer be restored.
 - **The Event:** An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** An entire Outside Sorrow settlement, and one survivor of it. The settlement is in the body; the survivor is the sleeper. The record does not name either, and the resolution condition requires the dead to be acknowledged, which the facility is therefore doing by count rather than by name.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Repose is recorded as a Subject with Subject-Lament manifestation and Lament elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** Flerehan brings the gauge down and the figure sleeps more peacefully as the ruins settle — grief shared quietly is the one thing this holding has ever been observed to accept. Ferrehan brings it down by endurance: the test is whether the worker can remain near sleeping grief, which sounds undemanding and is not, because nothing happens for twenty-four turns and the pressure is entirely the worker's own urge to do something. Viderehan holds level and shows the settlement's final day, which is valuable for the record and changes nothing here. Pugnahan raises the gauge and turns the dream into a collapse, and personnel should understand what that means literally: the structures around them are partly dreamed, and the dream is where the damage lands first.
 ## Breach Behavior
 
 > *"Repose has broken free. Collapses the facility structure around it."*
@@ -161,8 +161,8 @@ The behavior table is a snapshot, not a system. The classification and origin co
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Silence and acknowledgement, and nothing else. The standard response is counter-indicated at every point: Pugnahan turns the dream destructive, a Warden detail moving at speed through rubble is the loudest thing the Old Lament will hear that week, and sealing corridors around a holding whose dreams are holding those corridors up is self-defeating. Reduce noise to the established floor, stand personnel still, and have someone read the count of the settlement's dead aloud, quietly. The management condition is three instructions and all three are about volume.
+- **Sorrow Gauge on breach:** Indexed to sound and to acknowledgement. Rises 10% for every alarm, klaxon, powered tool or raised voice within the Old Lament, measured at the figure rather than at the source. Falls 10% each time the settlement's dead are acknowledged aloud below the sound floor. A silent response holds it level; a conventional emergency response — which is loud by design — drives it up faster than anything the entity does.
 
 ## M.A.W. Equipment
 
@@ -183,13 +183,13 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A single projected line of astral light through up to three targets, cast along the disc's orbital edge.
+**Falloff Rule:** 100% at the first target, 70% at the second and 50% at the third, as the beam is diffused along its path.
+**Damage Application:** Score the beam once, then score the lingering illumination again on each following turn while the target remains lit; the two resolve as separate events against the same resistance.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Repose's lament signature in the strike.
+**Ability:** A hovering bronze disc of constellations and revolving calendar rings that throws blue astral light along its edges, showing sorrow entities that cannot otherwise be seen — and, with the rings aligned, standing as a shield against elemental fire.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder weeps while using it, steadily, for a settlement they never saw. The disc is the quietest weapon in the δ catalogue and its bearer is frequently the only audible thing in the room.
 
 ### M.A.W. Suit — The Ruin Pillow
 
@@ -217,17 +217,17 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the bearer's rating while working the Ruin, forfeited for the remainder of the cycle if the bearer raises their voice
 
-**Ability:** Grants a minor boon tied to Repose's sorrow; the effect mirrors the entity's nature.
+**Ability:** The charm lets its bearer rest properly in places where rest is not possible — on rubble, in corridors, through alarms — and they wake unrefreshed in a way no measurement detects.
 
 **Cost:** The bearer weeps in their sleep.
 
-*Stigmas are granted at random by Repose upon a successful work, not manufactured.*
+*The Ruin Charm is given, not taken. It has appeared only on workers who completed a full cycle without once raising their voice and read the count aloud at the end of it. No procedure has produced one deliberately.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Repose's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each piece remains part of the Ruin, and the set is built for watching over rather than for fighting. The disc reveals what is there and shields against what is thrown. The Pillow protects the wearer's memory from collapse — the only item in the catalogue that does so directly — and pays for it with every ruin the wearer has ever passed, returned to them nightly and in order. The Charm grants rest and withholds its benefit. Taken together this is a vigil kit: equipment for staying beside something, at length, without disturbing it. Operatives who requisition it for assault work find that it performs, that nothing in it helps them finish anything, and that it is extremely good at keeping them in the room.
 
 ### Field Use Record
 
@@ -238,7 +238,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The δ grades are high and honest. What the columns cannot show is that every cost in this set falls due during sleep — the weeping, the dreams, the unrefreshing rest — which means they are invisible in any assessment taken on shift. Read the Cost lines as the specification and ask the wearer about their nights.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Repose's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Take three records every cycle and keep them separate. The acoustic record: the sound floor on arrival, every event above it, and the figure's breathing throughout. The structural record: which surrounding buildings are standing, checked against the pre-collapse plans. The personnel record: what each worker dreamed the following night, collected the next day rather than at debrief, because this entity's effects arrive in sleep and a debrief taken on the walk back will capture none of them. Workers are told in advance that they will be asked.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -268,16 +268,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Repose (O-IVδ-844 [N]) is logged as a Subject-Lament manifestation expressing Lament. The Ruin formed from a settlement that died while its survivors continued mourning. Held at Zone B, Old Lament — ambient. It has never fully awakened.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Acoustic Survey, Old Lament>**
 Its dreams spread through Old Lament and nearby ruins. Personnel relive collapse and feel the ground becoming unsafe. Its dreams alter nearby architecture.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Dream Log, Collected Next Day>**
 The exhaustion of grieving a place that can no longer be restored.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not wake it; reduce noise and acknowledge the dead. Work response — Flerehan: The figure sleeps more peacefully and the ruins settle. (Decrease); Pugnahan: The dream shifts into a destructive collapse. (Increase); Viderehan: Reveals the settlement's final day. (Stable); Ferrehan: Tests whether the worker can remain near sleeping grief. (Decrease). It is calmest when mourned quietly.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 — <Structural Dependency Note, Unresolved>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
@@ -307,12 +307,12 @@ Broken stone rises around a sleeping figure. Its breathing shifts the ruins like
 
 Repose does not exist in isolation. Its recorded relationships with The Broken Ruin, Fading Ruin, The Sleeping Wall should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish the solo baseline across several quiet cycles — breathing rate, posture, the standing structure survey — before any second holding is brought near, and note that the Old Lament is ambient rather than partitioned, so some interactions have already been running for years without being recorded as such. The variable specific to this entity is noise: any holding that produces sound, movement or alarm is interacting with it continuously regardless of distance. Log separation, duration, gauge movement, the acoustic record, and whether the dream-sustained structures altered during contact. The last of these has moved twice and both occasions were attributed to something else at the time.
 
 
 ### Entity Interaction Record
 
-Repose must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This holding lies ambient in the Old Lament rather than in a cell, among a number of Zone B entities that are themselves loud, mobile or both. The interactions below are canonical but each was recorded under a particular sound regime; personnel must re-establish the current floor before relying on any of them.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ Repose must be assessed as part of an entity network, not as an isolated profile
 | **Fading Ruin** | Carries its fragments into waking space. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Sleeping Wall** | Both protect sorrow through sleep. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record the separation at first response, the duration, the gauge movement, the figure's breathing throughout, the peak sound level reached, and the structural survey before and after. Whether the effect persists is assessed on the buildings, which are the only part of this encounter that keeps a record by itself.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -369,9 +369,9 @@ Some sorrows mourn a place. Repose mourns the inability to stop — the grief so
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Two facts in this file sit together uncomfortably and the facility has not resolved them. The entity's dreams temporarily restore destroyed structures, and the entity sleeps through every recorded Sorrow Tide. Taken together they describe a holding that is, in practice, load-bearing — quietly repairing the Old Lament, reliably absent from every crisis, and asking nothing. That is an invitation to leave it alone and to build on what it dreams, and both have happened. The honest reading is that the facility has come to depend on a Critical-tier entity's continued unconsciousness, has never written that dependency down as a risk, and has an activation threshold of 1 standing between it and finding out. This paragraph is that risk being written down.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any incident — including incidents elsewhere in Zone B that merely passed nearby — verify the gauge, the activation count, the figure's posture and breathing, and the standing-structure survey. Attach the acoustic log for the period. Sorrow Tides require their own review here for the opposite reason to everywhere else: this entity sleeps through them, so the Tide response rather than the Tide is what reaches it, and that response is loud.
 ## Apex Record
 
 ### It Does Not Wake
@@ -415,9 +415,9 @@ Confirmations from district sources are entered against the relevant photographi
 
 - **Classification detail:** Repose is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone B, Old Lament — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify by the materials. Broken timber, collapsed stone and ash fused into the shape of a resting person, salt-damp to the touch, weeping without waking.
+- **Record detail:** The Old Lament holds several Lament entities formed from destroyed settlements; confirm the designation O-IVδ-844 and the Subject-Lament manifestation before applying this file to any of them.
+- **Containment detail:** There is no cell and there will not be one, since building it would require the noise that construction makes. This holding is contained by a sound discipline, a count of the dead read aloud, and the fact that nobody has yet dropped anything heavy in the Old Lament. That is the entire arrangement, and it has held for the whole period of record.
 ## Document Information
 
 **Document ID:** SE-O-IVδ-844
