@@ -277,7 +277,7 @@ The grief of a future promised by architecture but never built.
 Management: Do not complete the structure; document what was intended and lost. Work response — Flerehan: Its flame lowers and unfinished rooms become visible. (Decrease); Pugnahan: It splits further and burns through nearby walls. (Increase); Viderehan: Reveals the planned building and the people who would have lived there. (Stable); Ferrehan: Forces the worker to endure the feeling of almost-arrival. (Decrease). Personnel report emptiness after seeing the intended building.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

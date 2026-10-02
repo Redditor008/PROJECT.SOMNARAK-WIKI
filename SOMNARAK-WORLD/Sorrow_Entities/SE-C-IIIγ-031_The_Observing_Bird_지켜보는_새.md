@@ -283,7 +283,7 @@ The helplessness of seeing suffering and remaining powerless.
 Management: Look at the Bird and accept its gaze.  Its eyes preserve historical fragments absent from the Archive.
 
 **Entry 5 — <The Story Traded for Echoes>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

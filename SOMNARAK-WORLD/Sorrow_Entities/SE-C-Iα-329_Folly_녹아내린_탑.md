@@ -315,7 +315,7 @@ The grief of a future designed but never inhabited.
 Work response — Viderehan: Shows the people who were meant to inhabit it. (Stable); Ferrehan: Tests whether the worker can accept incompletion. (Decrease). Long observation produces longing for an unrealized place.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored. Expanded origin context: The entity's origin is not a mystery; it is a diagnosis. The sorrow concentrated at Zone E, Border region until the Void became structural — load-bearing, permanent, woven into the Object/Place the way the Weeping is woven into the city. You do not remove it. You contain it.
 
 ## 최종 관찰 (Final Observation)
 

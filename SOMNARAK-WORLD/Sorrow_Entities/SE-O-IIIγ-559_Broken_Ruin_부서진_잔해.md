@@ -274,7 +274,7 @@ The grief of carrying a disaster after leaving the place where it happened.
 Management: Listen to the survivor's account; do not reconstruct the settlement. Work response — Flerehan: The figure weeps and reveals the settlement's rooms. (Decrease); Pugnahan: Fragments strike outward. (Increase); Viderehan: Shows the collapse without assigning blame. (Stable); Ferrehan: Tests whether the worker can remain with the memory. (Decrease). Personnel feel sorrow after the figure leaves.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

@@ -316,7 +316,7 @@ The weight of grief hidden so deeply that even the person who felt it forgot its
 Work response — Viderehan: Reveals the event beneath the forgotten grief. (Stable); Ferrehan: Tests whether the worker can remain beside buried sorrow. (Decrease). The ground around it remains warm despite the Desolate cold.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

@@ -278,7 +278,7 @@ The fear that comfort itself will melt away.
 Management: Anchor the worker in present sensations. Work response — Flerehan: Flame steadies and reveals the remembered warmth. (Decrease); Pugnahan: It melts through the worker's thoughts. (Increase); Viderehan: Shows whether the fire was real or remembered. (Stable); Ferrehan: Tests whether the worker can remain as comfort changes. (Decrease). It produces grief after comfort ends.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

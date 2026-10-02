@@ -317,7 +317,7 @@ The grief of a beginning that disappeared before anyone could witness it.
 Work response — Viderehan: Reveals the plant and future it might have become. (Stable); Ferrehan: Tests whether the worker can wait for something that will not grow. (Decrease). Personnel report longing and incomplete hope.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

@@ -325,7 +325,7 @@ The burden of carrying grief until it becomes beautiful but impossible to move.
 Work response — Viderehan: Reveals the sorrow attached to each petal. (Stable); Ferrehan: Tests whether the worker can bear its growing weight. (Decrease). Personnel report longing after exposure.
 
 **Entry 5 — <The Architect Who Built>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

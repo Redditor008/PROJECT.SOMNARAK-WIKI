@@ -273,7 +273,9 @@ The grief of understanding danger too late to communicate it.
 Management: Capture fragments without inventing the missing message. Work response — Flerehan: The whisper reforms and becomes audible. (Decrease); Pugnahan: Dream-space collapses into red static. (Increase); Viderehan: Shows the danger and the failed warning. (Stable); Ferrehan: Tests whether the worker can listen through distortion. (Decrease). Personnel feel hope before recognizing the danger.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a healer who absorbed too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. A scout’s warning, dissolved by the storm, repeating eternally. Effect: proximity induces the agony of arriving …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a healer who absorbed too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+
+**Threat rating:** Low. A scout’s warning, dissolved by the storm, repeating eternally. Effect: proximity induces the agony of arriving with the warning too late to be spoken, and a resentful fury that burns through containment barriers.
 
 ## 최종 관찰 (Final Observation)
 

@@ -273,7 +273,9 @@ Anger without a remembered cause and the exhaustion of carrying inherited fury.
 Management: Do not invent a cause; document the fragments and ground the subject. Work response — Flerehan: The singing lowers and the well becomes less deep. (Decrease); Pugnahan: The well rises through the worker's thoughts. (Increase); Viderehan: Reveals echoes of the forgotten event. (Stable); Ferrehan: Tests whether the worker can hear anger without inheriting it. (Decrease). Exposure produces weight before rage.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Moderate. The Well of inherited fury opens in descendants’ minds. Effect: proximity induces rage without a remembered …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+
+**Threat rating:** Moderate. The Well of inherited fury opens in descendants’ minds. Effect: proximity induces rage without a remembered cause, the exhaustion of carrying inherited fury, and a wave of malice that seeks out unresolved conflict.
 
 ## 최종 관찰 (Final Observation)
 

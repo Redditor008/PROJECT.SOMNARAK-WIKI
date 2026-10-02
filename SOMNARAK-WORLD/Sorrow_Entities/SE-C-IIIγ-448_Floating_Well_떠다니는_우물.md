@@ -273,7 +273,7 @@ The burden of carrying grief without a place to put it.
 Management: Create a safe mourning place; do not force it downward. Work response — Flerehan: Lowers toward the worker and shares sorrow. (Decrease); Pugnahan: Surges upward and releases pressure. (Increase); Viderehan: Shows the grief stored inside its depth. (Stable); Ferrehan: Tests whether the worker can remain under the floating opening. (Decrease). It becomes calm when grief is given a physical place.
 
 **Entry 5 — <The Warden Who Couldn't Protect>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

@@ -274,7 +274,7 @@ The grief of having one's existence erased while the body and memory continue se
 Management: Do not invent a name; remain present and record what is known. Work response — Flerehan: Slows and reaches toward the worker. (Decrease); Pugnahan: Walks faster and weeps more intensely. (Increase); Viderehan: Shows fragments of an identity no record preserves. (Stable); Ferrehan: Tests whether the worker will keep walking beside it. (Decrease). It has never attacked without being obstructed.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

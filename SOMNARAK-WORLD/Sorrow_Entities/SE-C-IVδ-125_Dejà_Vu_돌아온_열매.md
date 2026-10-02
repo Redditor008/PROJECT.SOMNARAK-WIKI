@@ -279,7 +279,9 @@ The fear that return cannot restore what absence changed.
 Management: Anchor personnel to the present and name the difference between return and restoration. Work response — Flerehan: Returns a comforting memory. (Decrease); Pugnahan: Sings louder and fills the mind with intrusive absence. (Increase); Viderehan: Reveals where the object and its owner were lost. (Stable); Ferrehan: Tests whether the worker can remember without reclaiming. (Decrease). Personnel report emptiness after the return fades.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. The Fruit returned carrying the mind of the one who remembered it. Effect: holders feel the grief of recovery …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+
+**Threat rating:** Low. The Fruit returned carrying the mind of the one who remembered it. Effect: holders feel the grief of a recovery that restores the object and not the time it was away, followed by a spreading numbness that erases names and faces.
 
 ## 최종 관찰 (Final Observation)
 

@@ -278,7 +278,7 @@ The emptiness of no longer recognizing the person one became.
 Management: Use names and present anchors; do not force a fixed identity. Work response — Flerehan: The figure reforms gently around shared grief. (Decrease); Pugnahan: It melts faster and spreads through thought. (Increase); Viderehan: Shows the self before the erosion. (Stable); Ferrehan: Tests whether the worker can remain seen by the self. (Decrease). Personnel report sorrow after exposure.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who couldn't repair. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who couldn't repair. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored. Expanded origin context: The archive cross-references this entity's sorrow with Zone E, Border region — the same Han density, the same Void signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
 
 ## 최종 관찰 (Final Observation)
 

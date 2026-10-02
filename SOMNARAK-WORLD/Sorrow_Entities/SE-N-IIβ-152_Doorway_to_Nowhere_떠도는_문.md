@@ -279,7 +279,7 @@ The grief of carrying a threshold after the place beyond it is gone.
 Management: Close the door consciously; do not force passage. Work response — Flerehan: Opens onto a gentle memory of home. (Decrease); Pugnahan: Burns and refuses to open. (Increase); Viderehan: Shows the history of the threshold. (Stable); Ferrehan: Tests the worker by keeping the door open to an empty room. (Decrease). Personnel report rage when the door shows a home they cannot enter.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

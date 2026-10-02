@@ -282,7 +282,7 @@ The grief of being unable to explain why something was wrong.
 Management: Record the whisper exactly; do not invent missing words. Work response — Flerehan: The figure reforms slightly and speaks more clearly. (Decrease); Pugnahan: Melts rapidly and spreads angry whispers. (Increase); Viderehan: Reveals the event behind the broken sentence. (Stable); Ferrehan: Tests whether the worker can listen without completing the words. (Decrease). The whisper is emotional rather than acoustic.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

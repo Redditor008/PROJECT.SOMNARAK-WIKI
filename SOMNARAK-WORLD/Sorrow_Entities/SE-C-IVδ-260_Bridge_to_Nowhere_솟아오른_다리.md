@@ -289,7 +289,9 @@ The grief of a place remembered more vividly than the people who once crossed it
 Work response — Viderehan: Reveals the bridge's former route and travelers. (Stable); Ferrehan: Requires the worker to cross a memory without claiming it as present. (Decrease). Personnel report sorrow after crossing, even if the crossing felt joyful.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Minimal. A bridge spanning nothing, built from remembered crossings. Effect: walking it induces the grief of places …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Minimal. A bridge spanning nothing, built from remembered crossings. Effect: walking it induces the grief of places remembered more vividly than the people who crossed them.
 
 ## 최종 관찰 (Final Observation)
 

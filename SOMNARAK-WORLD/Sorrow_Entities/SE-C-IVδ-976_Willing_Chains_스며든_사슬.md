@@ -277,7 +277,9 @@ The grief of being held by systems, promises, or relationships that no longer pr
 Management: Do not cut blindly; identify what each chain represents. Work response — Flerehan: Chains loosen and the figure's fire dims. (Decrease); Pugnahan: Chains lash outward and spread faster. (Increase); Viderehan: Reveals what each chain binds. (Stable); Ferrehan: Tests whether the worker can endure without accepting a false bond. (Decrease). It is most active in the Raw.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Moderate. The Chain spreads, binding newcomers to obligations. Effect: proximity induces the grief of bonds that no …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+
+**Threat rating:** Moderate. The Chain spreads, binding newcomers to obligations. Effect: proximity induces the grief of bonds that no longer protect and are still binding, followed by a numbness that erases names and faces.
 
 ## 최종 관찰 (Final Observation)
 

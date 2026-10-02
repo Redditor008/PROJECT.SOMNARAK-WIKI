@@ -316,7 +316,7 @@ The weight of a purpose waiting for a person who will never return.
 Work response — Viderehan: Reveals symbols describing the relic's purpose. (Stable); Ferrehan: Keeps the worker in the chamber until silence is endured. (Decrease). Confusion follows attempts to identify its purpose too quickly.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

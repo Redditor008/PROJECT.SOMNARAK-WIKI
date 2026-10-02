@@ -273,7 +273,7 @@ The pain of searching for someone in a place that cannot answer.
 Management: Do not enter the opening; listen from the edge. Work response — Flerehan: Pauses and acknowledges shared sorrow. (Decrease); Pugnahan: The well hardens and the figure retaliates. (Increase); Viderehan: Reveals the child's disappearance. (Stable); Ferrehan: Pushes the worker to wait beside the broken opening. (Decrease). Personnel report weight after looking into the opening.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

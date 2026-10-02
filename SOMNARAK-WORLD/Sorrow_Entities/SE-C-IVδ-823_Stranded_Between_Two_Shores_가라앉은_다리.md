@@ -277,7 +277,9 @@ The grief of journeys ended between one shore and another.
 Management: Listen between the sobs and name both shores. Work response — Flerehan: Weeps with the worker and lowers its span. (Decrease); Pugnahan: The bridge cracks and the tunnel fills with tears. (Increase); Viderehan: Shows the people who tried to cross. (Stable); Ferrehan: Requires the worker to remain while the sobs subside. (Decrease). The tunnel floor becomes wet without measurable liquid.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who couldn't repair. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. A bridge that sank mid-crossing, families split. Effect: proximity induces the grief of journeys ended between …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who couldn't repair. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored. Expanded origin context: The Director's annotation: 'This sorrow is not anomalous. It is representative. The Lament at Zone B, deep tunnels is the same grief, the same refusal, the same wound. The Subject is what happens when the city stops pretending it doesn't hurt.'
+
+**Threat rating:** Low. A bridge that sank mid-crossing, families split. Effect: proximity induces the grief of journeys ended between one shore and another, with the families divided by the crossing, and a sorrow that pools in the chest.
 
 ## 최종 관찰 (Final Observation)
 

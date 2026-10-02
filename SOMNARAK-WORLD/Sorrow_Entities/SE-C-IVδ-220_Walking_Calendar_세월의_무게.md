@@ -277,7 +277,9 @@ The weight of every generation that inherited the city's crimes.
 Management: Archive the truth; do not erase or excuse it. Work response — Flerehan: Sings a softer chronology and lowers its burden. (Decrease); Pugnahan: Adds the worker's anger to its weight. (Increase); Viderehan: Reveals hidden history by date and consequence. (Stable); Ferrehan: Tests whether the worker can remain beneath historical weight. (Decrease). Personnel exposed for long periods lose awareness of the present.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Low. An impossibly old figure carrying centuries of inherited guilt. Effect: proximity induces the burden of …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored. Expanded origin context: The Director's annotation: 'This sorrow is not anomalous. It is representative. The Weight at SECTOR-A-01, Alpha Tree deep storage is the same grief, the same refusal, the same wound. The Subject is what happens when the city stops pretending it doesn't hurt.'
+
+**Threat rating:** Low. An impossibly old figure carrying centuries of inherited guilt. Effect: proximity induces the burden of inherited crime, every generation's share of it at once, as an oppressive mass that makes breathing feel like lifting.
 
 ## 최종 관찰 (Final Observation)
 

@@ -343,7 +343,7 @@ The burden of promising to grow together, then leaving one person behind.
 Work response — Viderehan: Reveals the travelers and the broken promise. (Stable); Ferrehan: Tests whether the worker can remain without waking it. (Decrease). Its dream is strongest near Outside Sorrow samples.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built nothing. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built nothing. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

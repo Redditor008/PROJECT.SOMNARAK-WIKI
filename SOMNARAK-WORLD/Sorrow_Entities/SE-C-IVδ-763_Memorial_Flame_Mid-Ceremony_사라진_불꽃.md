@@ -289,7 +289,9 @@ The pain of losing warmth and having someone else's grief enter your body.
 Work response — Viderehan: Reveals the memorial and those who tended it. (Stable); Ferrehan: Tests whether the worker can mourn without a visible object. (Decrease). The Flame becomes clearer during memorial ceremonies.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. An extinguished memorial flame; incomplete grief migrates into passersby. Effect: visitors absorb others’ …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Low. An extinguished memorial flame; incomplete grief migrates into passersby. Effect: visitors absorb others' grief in place of warmth, carrying out mourning that was never theirs.
 
 ## 최종 관찰 (Final Observation)
 

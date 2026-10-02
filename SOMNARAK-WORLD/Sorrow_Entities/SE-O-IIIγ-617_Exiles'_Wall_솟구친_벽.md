@@ -290,7 +290,7 @@ The grief of leaving a place that never truly accepted you.
 Work response — Viderehan: Reveals the homes and people left beyond the Gate. (Stable); Ferrehan: Tests whether the worker can stand at the border. (Decrease). Unfinished structures collapse when the Wall is acknowledged.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

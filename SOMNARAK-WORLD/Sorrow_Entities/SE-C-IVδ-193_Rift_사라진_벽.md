@@ -289,7 +289,9 @@ The grief of discovering that removing a barrier does not reunite the people it 
 Work response — Viderehan: Reveals what the wall separated and protected. (Stable); Ferrehan: Tests whether the worker can cross without denying the division. (Decrease). Personnel report weight when crossing its empty line.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. An invisible wall dividing a district that demolished its physical wall. Effect: crossing the boundary induces old …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+
+**Threat rating:** Low. An invisible wall dividing a district that demolished its physical wall. Effect: crossing the boundary induces old division without its cause, and the discovery that removing a barrier does not reunite the people it divided.
 
 ## 최종 관찰 (Final Observation)
 

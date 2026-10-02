@@ -273,7 +273,7 @@ The grief of beauty damaged before it could bloom fully.
 Management: Do not repair or pick it; witness the torn form. Work response — Flerehan: Petals close around shared grief. (Decrease); Pugnahan: Torn edges burn and spread. (Increase); Viderehan: Reveals the memorial and broken promise. (Stable); Ferrehan: Tests whether the worker can remain without picking it up. (Decrease). It has never attacked without being touched.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

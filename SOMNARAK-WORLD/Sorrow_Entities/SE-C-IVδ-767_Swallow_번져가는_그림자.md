@@ -289,7 +289,9 @@ The burden of mourning someone else's loss until it becomes indistinguishable fr
 Work response — Viderehan: Reveals the people whose sorrow feeds it. (Stable); Ferrehan: Tests whether the worker can carry grief without claiming it. (Decrease). Personnel report longing after exposure.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Moderate. The Shadow spreads, absorbing visitors’ grief. Effect: visitors’ private sorrow rises and merges with the …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Moderate. The Shadow spreads, absorbing visitors’ grief. Effect: visitors' private sorrow rises and merges with the mourning around them until the two cannot be told apart.
 
 ## 최종 관찰 (Final Observation)
 

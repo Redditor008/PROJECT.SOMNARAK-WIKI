@@ -311,7 +311,7 @@ The grief of laughing so others would not know you were hurting.
 Work response — Viderehan: Shows the face behind the laughter. (Stable); Ferrehan: Laughs for hours, testing whether the worker can remain present. (Decrease). Personnel report peace before recognizing the laughter as forced.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who repaired too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who repaired too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

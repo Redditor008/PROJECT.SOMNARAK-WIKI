@@ -274,7 +274,7 @@ The emptiness of reaching the other side and finding no one waiting.
 Management: Do not promise reunion; name both the crossing and the loss. Work response — Flerehan: Sings a warmer verse and lowers its rusted hands. (Decrease); Pugnahan: The bridge plates twist into defensive edges. (Increase); Viderehan: Reveals the failed crossing and those left behind. (Stable); Ferrehan: Keeps singing until the worker can remain with the distance. (Decrease). Personnel report hope before the sense of abandonment.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

@@ -279,7 +279,7 @@ The grief of knowing something is missing without knowing what it was.
 Management: Do not supply false memories; record the absence. Work response — Flerehan: Leaves fall and the missing shape becomes visible. (Decrease); Pugnahan: Roots tighten and the branches burn. (Increase); Viderehan: Reveals the absent history without inventing it. (Stable); Ferrehan: Tests whether the worker can bear not knowing. (Decrease). Personnel report rage when they realize the absence was deliberate.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

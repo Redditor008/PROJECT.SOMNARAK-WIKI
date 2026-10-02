@@ -315,7 +315,7 @@ The loneliness of believing no one could understand one's grief.
 Work response — Viderehan: Reveals the grief hidden beneath behavior. (Stable); Ferrehan: Requires the worker to remain with the reflected sorrow. (Decrease). Personnel often leave with greater peace and less certainty.
 
 **Entry 5 — <The Weaver Who Couldn't Create>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who couldn't create. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who couldn't create. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

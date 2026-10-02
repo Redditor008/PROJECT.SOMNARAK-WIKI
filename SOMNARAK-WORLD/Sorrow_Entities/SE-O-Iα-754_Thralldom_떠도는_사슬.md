@@ -278,7 +278,7 @@ The grief of being held by obligation after love has ended.
 Management: Do not bind it; offer an unforced ending. Work response — Flerehan: The links loosen and stop crawling. (Decrease); Pugnahan: It lashes toward the worker. (Increase); Viderehan: Reveals the relationship behind the restraint. (Stable); Ferrehan: Tests whether the worker can remain without being bound. (Decrease). Its marks fade when a bond ends honestly.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

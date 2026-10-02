@@ -277,7 +277,7 @@ The grief of losing identity while still carrying the shape of a person.
 Management: Use identity anchors and do not invent memories for it. Work response — Flerehan: Reaches toward the worker and softens. (Decrease); Pugnahan: Fights back with sharp emotional force. (Increase); Viderehan: Reveals the structure of its missing identity. (Stable); Ferrehan: Tests whether the worker can remain near emptiness. (Decrease). It is most active near memory extraction equipment.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

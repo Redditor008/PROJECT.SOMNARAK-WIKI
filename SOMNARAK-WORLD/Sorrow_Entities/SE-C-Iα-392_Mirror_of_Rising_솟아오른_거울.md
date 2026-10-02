@@ -277,7 +277,7 @@ The burden of identity erased at the scale of a community.
 Management: Name what is known without inventing the missing parts. Work response — Flerehan: The reflected name becomes clearer. (Decrease); Pugnahan: The mirror rises sharply and reflects rage. (Increase); Viderehan: Reveals the names and histories erased from the Market. (Stable); Ferrehan: Tests whether the worker can remain before a missing identity. (Decrease). Personnel report rage after losing names.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

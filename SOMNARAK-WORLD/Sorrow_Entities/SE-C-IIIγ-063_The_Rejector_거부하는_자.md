@@ -278,7 +278,7 @@ The emptiness produced by denying every obligation before it can claim you.
 Management: Permit him to refuse; forced acceptance increases resistance.  He has never breached by force.
 
 **Entry 5 — <The Lover Who Was Abandoned>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

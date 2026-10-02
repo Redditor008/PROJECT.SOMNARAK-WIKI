@@ -277,7 +277,7 @@ The pain of knowing something happened while being unable to make others believe
 Management: Record both tones; do not choose a convenient version. Work response — Flerehan: The tones harmonize and reveal the witness's grief. (Decrease); Pugnahan: The angry tone becomes a painful shout. (Increase); Viderehan: Shows the event without deciding who is believed. (Stable); Ferrehan: Tests whether the worker can listen through contradiction. (Decrease). Personnel report weight after hearing both voices.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

@@ -279,7 +279,7 @@ The pain of returning to a place that exists only as memory.
 Management: Wake with an anchor and preserve the memory without rebuilding it. Work response — Flerehan: Rebuilds a gentle portion of the remembered room. (Decrease); Pugnahan: Collapses and throws dream debris. (Increase); Viderehan: Reveals which parts are memory and which are invention. (Stable); Ferrehan: Tests whether the worker can leave the ruin. (Decrease). Personnel feel grief after waking.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

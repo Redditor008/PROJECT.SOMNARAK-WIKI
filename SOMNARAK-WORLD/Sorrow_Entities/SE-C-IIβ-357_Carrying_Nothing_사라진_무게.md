@@ -277,7 +277,7 @@ The confusion of feeling lighter while knowing something essential has vanished.
 Management: Do not replace the missing thing with a false explanation. Work response — Flerehan: Reaches toward the worker for recognition. (Decrease); Pugnahan: Fire intensifies and the hidden burden presses outward. (Increase); Viderehan: Shows the moment the weight disappeared. (Stable); Ferrehan: Tests whether the worker can endure absence without inventing an answer. (Decrease). Exposure produces wonder followed by disorientation.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

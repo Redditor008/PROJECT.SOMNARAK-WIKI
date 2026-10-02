@@ -316,7 +316,7 @@ The emptiness of an object whose meaning was never explained.
 Work response — Viderehan: Shows fragments of the relic's unknown purpose. (Stable); Ferrehan: Tests whether the worker can remain in the cold without answers. (Decrease). Personnel feel rage after prolonged silence at the site.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

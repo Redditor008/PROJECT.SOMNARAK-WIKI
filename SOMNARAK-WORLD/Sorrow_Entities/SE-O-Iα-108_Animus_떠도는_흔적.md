@@ -278,7 +278,7 @@ The exhaustion of carrying anger after the memory of its cause has disappeared.
 Management: Do not supply a false reason; observe and endure until it fades. Work response — Flerehan: The trace slows and recognizes shared grief. (Decrease); Pugnahan: The ancient fury flares. (Increase); Viderehan: Reveals fragments without identifying a complete cause. (Stable); Ferrehan: Tests whether the worker can endure anger without inheriting it. (Decrease). It becomes faint when no one attempts to define its anger.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

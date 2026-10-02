@@ -283,7 +283,7 @@ The grief of defenders who fought for something already gone.
 Management: Thank the Bird and acknowledge that protection has been received.  Excessive protection can prevent personnel from leaving safe zones.
 
 **Entry 5 — <The Story in Whispers>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

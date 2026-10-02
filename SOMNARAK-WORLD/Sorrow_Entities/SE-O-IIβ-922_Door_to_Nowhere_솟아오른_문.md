@@ -312,7 +312,7 @@ The weight of a threshold that existed but could not be crossed.
 Work response — Viderehan: Shows why the exit was denied. (Stable); Ferrehan: Tests whether the worker can stand before an opening without using it. (Decrease). Its red pressure increases when someone says they have no choice.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

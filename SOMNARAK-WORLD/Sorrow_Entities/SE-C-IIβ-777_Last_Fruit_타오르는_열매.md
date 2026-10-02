@@ -281,7 +281,7 @@ The grief of wanting something simple and being taught that wanting was shameful
 Management: Name the desire; do not promise to fulfill it. Work response — Flerehan: Fire dims and the fruit's warmth becomes gentle. (Decrease); Pugnahan: Sparks burst outward and the figure burns brighter. (Increase); Viderehan: Reveals the desire beneath the anger. (Stable); Ferrehan: Tests whether the worker can remain near what they want but cannot have. (Decrease). It responds to honest acknowledgment more than acquisition.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

@@ -274,7 +274,7 @@ The grief of being prepared to hold someone who never reached back.
 Management: Do not promise return; release the rope consciously. Work response — Flerehan: The rope loosens and becomes visible. (Decrease); Pugnahan: It tightens around thought and spreads anger. (Increase); Viderehan: Reveals the promise that was withdrawn. (Stable); Ferrehan: Tests whether the worker can wait without binding themselves. (Decrease). It becomes calm when waiting ends honestly.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

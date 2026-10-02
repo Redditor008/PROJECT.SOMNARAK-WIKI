@@ -277,7 +277,7 @@ The grief of being used, loved, and then forgotten.
 Management: Name the owners and purpose; do not force preservation. Work response — Flerehan: The outline brightens and reveals former owners. (Decrease); Pugnahan: Heat spreads across nearby objects. (Increase); Viderehan: Shows the relic's fading history. (Stable); Ferrehan: Tests whether the worker can hold a memory without possessing it. (Decrease). It is calmer around named heirlooms.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

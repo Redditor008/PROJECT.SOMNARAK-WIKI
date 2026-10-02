@@ -311,7 +311,9 @@ The grief of believing a loss had been sealed when it remained alive inside.
 Work response — Viderehan: Reveals memories stored in its liquid interior. (Stable); Ferrehan: Tests whether the worker can remain while grief flows. (Decrease). Physical damage increases its liquid output.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. The Shard cracked and proved sealed grief was flowing inside. Effect: proximity induces the horror of contained …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Low. The Shard cracked and proved sealed grief was flowing inside. Effect: proximity induces the horror of contained grief found still moving, a loss believed sealed and discovered alive inside.
 
 ## 최종 관찰 (Final Observation)
 

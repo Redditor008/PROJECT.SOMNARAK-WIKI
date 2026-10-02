@@ -316,7 +316,7 @@ The pain of wanting to cry but believing the grief is too small or embarrassing 
 Work response — Viderehan: Reveals the small loss that formed it. (Stable); Ferrehan: Tests whether the worker can hold grief without dismissing it. (Decrease). The Gardens' flowers grow around it but never over it.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

@@ -289,7 +289,7 @@ The exhaustion of anger remaining after every person who caused it has gone.
 Work response — Viderehan: Shows the sequence of events that left it. (Stable); Ferrehan: Tests whether the worker can walk without adding another mark. (Decrease). Personnel feel hope when the trace thins.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who repaired too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who repaired too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

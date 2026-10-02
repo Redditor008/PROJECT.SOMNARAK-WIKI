@@ -365,7 +365,7 @@ The grief of wandering after every destination has become unfamiliar.
 Management: Provide a memory anchor; do not force a destination. Work response — Viderehan: Reveals routes beyond the city. (Stable); Ferrehan: Tests whether the worker can remain with a wanderer. (Decrease). Personnel report loss without a specific object.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

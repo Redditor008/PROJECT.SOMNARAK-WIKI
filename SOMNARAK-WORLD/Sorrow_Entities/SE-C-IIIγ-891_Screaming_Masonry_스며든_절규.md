@@ -315,7 +315,7 @@ The pressure of promises and duties accumulating until the body could no longer 
 Work response — Viderehan: Reveals the obligations behind the cry. (Stable); Ferrehan: Weighs the worker's resolve. (Decrease). It becomes heavier near debt disputes.
 
 **Entry 5 — <The Keeper Who Erased Memory>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

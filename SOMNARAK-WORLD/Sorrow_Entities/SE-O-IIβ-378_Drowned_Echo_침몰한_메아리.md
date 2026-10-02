@@ -274,7 +274,7 @@ The grief of speaking while knowing no one above the surface can hear.
 Management: Use air, voice anchors, and calm acknowledgment; do not shout into the memory. Work response — Flerehan: The water recedes slightly and the voice rises. (Decrease); Pugnahan: Pressure increases and the voice sinks. (Increase); Viderehan: Shows fragments of the flooded tunnel. (Stable); Ferrehan: Tests whether the worker can breathe through the memory. (Decrease). Personnel wake from exposure afraid of ordinary water.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

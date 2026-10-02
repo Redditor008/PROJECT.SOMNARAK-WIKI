@@ -279,7 +279,7 @@ The emptiness left when a familiar landmark disappears.
 Management: Record its former location; do not attempt to rebuild it around the entity. Work response — Flerehan: Stops sinking and reveals former occupants. (Decrease); Pugnahan: The ground pulls it downward. (Increase); Viderehan: Shows the lives that once filled its rooms. (Stable); Ferrehan: Tests whether the worker can remain before an absence. (Decrease). Personnel report emptiness after viewing it.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

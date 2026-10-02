@@ -279,7 +279,7 @@ The pain of being tied to someone who vanished and the helplessness of holding a
 Management: Name what was lost; do not attempt to recreate the bond. Work response — Flerehan: Reaches toward the worker in recognition. (Decrease); Pugnahan: Burns more intensely and recoils. (Increase); Viderehan: Reveals the bond and the moment it was severed. (Stable); Ferrehan: Tests whether the worker can hold on without pulling. (Decrease). It has never caused direct physical injury.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

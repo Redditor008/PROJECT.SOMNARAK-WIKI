@@ -315,7 +315,7 @@ The grief of imagined futures that were beautiful enough to feel real.
 Work response — Viderehan: Reveals the dreamer's hidden desire. (Stable); Ferrehan: Keeps the worker inside an unfinished dream. (Decrease). It becomes dangerously active during Dream Bleed.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

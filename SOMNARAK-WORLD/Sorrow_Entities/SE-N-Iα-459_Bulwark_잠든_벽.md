@@ -290,7 +290,7 @@ The exhaustion of wanting connection but lacking the strength to ask for it.
 Work response — Viderehan: Reveals what the wall was built to exclude. (Stable); Ferrehan: Tests whether the worker can wait without waking the sorrow. (Decrease). It has never moved or opened.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

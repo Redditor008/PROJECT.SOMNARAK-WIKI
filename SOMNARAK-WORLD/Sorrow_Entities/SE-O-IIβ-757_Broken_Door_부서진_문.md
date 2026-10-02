@@ -312,7 +312,7 @@ The anger of being forced to leave before goodbye or explanation.
 Work response — Viderehan: Shows the moment the home was broken. (Stable); Ferrehan: Requires the worker to remain at the threshold. (Decrease). It becomes calm when the reason for leaving is acknowledged.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a healer who absorbed too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a healer who absorbed too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

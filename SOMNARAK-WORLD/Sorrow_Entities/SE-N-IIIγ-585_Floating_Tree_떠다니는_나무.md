@@ -305,7 +305,7 @@ The grief of people who survived but lost every place that gave them meaning.
 Work response — Viderehan: Reveals fragments of the broken community. (Stable); Ferrehan: Tests whether the worker can remain beneath a rootless shelter. (Decrease). Personnel report loss after standing beneath its shadow.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

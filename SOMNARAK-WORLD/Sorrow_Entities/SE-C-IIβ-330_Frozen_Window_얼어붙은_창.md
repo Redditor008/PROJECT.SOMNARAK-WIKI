@@ -282,7 +282,7 @@ The weight of watching someone leave and believing movement might reverse the lo
 Management: Allow it to complete its circuit and name the ending. Work response — Flerehan: Slows and displays the worker's own farewell. (Decrease); Pugnahan: Surges and throws shards of frozen weight. (Increase); Viderehan: Shows the event seen through its surface. (Stable); Ferrehan: Keeps moving while testing whether the worker can remain. (Decrease). Personnel report sorrow rather than fear after seeing its reflected scenes.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

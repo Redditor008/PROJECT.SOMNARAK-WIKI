@@ -275,7 +275,7 @@ The burden of carrying everyone who did not make it across.
 Management: Do not blame the worker; share the names of those lost. Work response — Flerehan: Weeps with the worker and lowers its burden. (Decrease); Pugnahan: Broken spans strike the tunnel walls. (Increase); Viderehan: Reveals the travelers lost in the collapse. (Stable); Ferrehan: Tests whether the worker can stand beneath shared weight. (Decrease). It becomes calmer when responsibility is shared.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

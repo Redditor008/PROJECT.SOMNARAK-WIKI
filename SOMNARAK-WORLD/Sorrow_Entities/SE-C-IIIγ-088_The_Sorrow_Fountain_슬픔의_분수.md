@@ -324,7 +324,7 @@ The city's accumulated mourning, gathered into a single visible stream.
 Work response — Viderehan: Each drop reveals a different grief. (Stable); Ferrehan: Tests whether the worker can remain in the pool without breaking. (Decrease). The Echo Gardens' flowers draw from its overflow.
 
 **Entry 5 — <The Architect Who Built Too High>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

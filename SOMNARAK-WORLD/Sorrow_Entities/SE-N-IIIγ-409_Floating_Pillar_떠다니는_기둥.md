@@ -275,7 +275,7 @@ The grief of discovering that a cherished support never truly existed.
 Management: Establish real support; do not replace the missing thing with another illusion. Work response — Flerehan: The voice softens and the absence becomes clear. (Decrease); Pugnahan: It rises and removes nearby sound. (Increase); Viderehan: Reveals what the worker imagined as support. (Stable); Ferrehan: Tests whether the worker can stand without it. (Decrease). Personnel report emptiness rather than fear.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

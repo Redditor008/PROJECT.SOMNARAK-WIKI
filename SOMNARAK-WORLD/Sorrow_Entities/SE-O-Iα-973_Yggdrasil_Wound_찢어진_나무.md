@@ -290,7 +290,7 @@ The grief of a person whose identity split around an event they could not surviv
 Management: Ground the worker and permit both memories to remain. Work response — Flerehan: The split closes slightly and roots become visible. (Decrease); Pugnahan: The tree tears further through the worker's thoughts. (Increase); Viderehan: Shows the memory held on each side of the split. (Stable); Ferrehan: Tests whether the worker can remain between both memories. (Decrease). Personnel report grief after the presence fades.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

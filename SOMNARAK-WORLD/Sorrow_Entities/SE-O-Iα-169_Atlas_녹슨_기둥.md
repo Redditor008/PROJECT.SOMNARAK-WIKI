@@ -290,7 +290,7 @@ The burden of holding others up while no one asks whether the support is failing
 Work response — Viderehan: Reveals the structure it once supported. (Stable); Ferrehan: Tests whether the worker can stand without becoming support. (Decrease). Personnel feel sorrow rather than fear nearby.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

@@ -275,7 +275,7 @@ The grief of seeing oneself clearly and still being unable to change.
 Management: Do not wake it by force; look at the reflected self without turning away. Work response — Flerehan: The figure's surface softens and reflects a remembered kindness. (Decrease); Pugnahan: Its reflection fractures into hostile versions of the worker. (Increase); Viderehan: Reveals a truth the worker has avoided. (Stable); Ferrehan: Remains asleep while the worker waits for the reflection to appear. (Decrease). Personnel report fear before the image appears.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

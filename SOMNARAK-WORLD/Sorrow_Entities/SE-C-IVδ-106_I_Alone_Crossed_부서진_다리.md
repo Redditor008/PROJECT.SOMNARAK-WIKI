@@ -277,7 +277,9 @@ The belief that one person's failure caused everyone else's loss.
 Management: Name the limits of one person's responsibility. Work response — Flerehan: Pauses and acknowledges shared sorrow. (Decrease); Pugnahan: Resists with pressure and memory-rage. (Increase); Viderehan: Reveals the crossing without assigning total blame. (Stable); Ferrehan: Tests whether the worker can bear failure without becoming it. (Decrease). It becomes calmer when blame is distributed honestly.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. The guide stands at the edge, carrying survivor’s guilt. Effect: proximity induces the corrosive belief that …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Low. The guide stands at the edge, carrying survivor’s guilt. Effect: proximity induces the corrosive belief that one person's failure caused every other loss, accompanied by a keening wail that fractures emotional stability.
 
 ## 최종 관찰 (Final Observation)
 

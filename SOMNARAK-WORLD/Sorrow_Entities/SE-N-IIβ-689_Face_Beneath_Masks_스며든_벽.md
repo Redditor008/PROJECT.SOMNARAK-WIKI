@@ -279,7 +279,7 @@ The emptiness created by isolation and self-protection.
 Management: Establish safe contact; do not force the wall open. Work response — Flerehan: Cracks open and allows a feeling through. (Decrease); Pugnahan: The mental wall thickens. (Increase); Viderehan: Reveals what the worker has walled away. (Stable); Ferrehan: Tests whether the worker can remain without hiding. (Decrease). Personnel report emptiness after it recedes.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

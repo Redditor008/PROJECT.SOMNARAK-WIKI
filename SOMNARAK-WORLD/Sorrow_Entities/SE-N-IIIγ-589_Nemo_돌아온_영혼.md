@@ -277,7 +277,7 @@ The grief of coming home to a world that no longer knows you.
 Management: Speak the names carried by the tears; do not deny the return. Work response — Flerehan: Weeps with the worker and reveals a name. (Decrease); Pugnahan: Retaliates with waves of memory and sorrow. (Increase); Viderehan: Shows its return and the erasure it found. (Stable); Ferrehan: Tests whether the worker can remain after a return fails. (Decrease). It is most active near Alpha Tree thresholds.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

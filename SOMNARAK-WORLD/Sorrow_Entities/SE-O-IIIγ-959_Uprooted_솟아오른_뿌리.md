@@ -278,7 +278,7 @@ The grief of belonging nowhere and building without a place to remain.
 Management: Do not burn the roots; map and witness their route. Work response — Flerehan: Flames dim and roots loosen. (Decrease); Pugnahan: Roots strike outward and structures rise violently. (Increase); Viderehan: Shows the settlements beneath its growth. (Stable); Ferrehan: Tests whether the worker can bear rootless movement. (Decrease). It becomes active after Desolate migrations.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

@@ -273,7 +273,7 @@ The grief of mistaking inherited burden for identity.
 Management: Name the burden without calling it selfhood. Work response — Flerehan: Flames lower and roots loosen. (Decrease); Pugnahan: Roots strike outward and heat increases. (Increase); Viderehan: Reveals the debt lines connecting the family. (Stable); Ferrehan: Tests whether the worker can imagine life without the burden. (Decrease). Personnel report longing for the burden after exposure ends.
 
 **Entry 5 — <The Citizen Who Fractured>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

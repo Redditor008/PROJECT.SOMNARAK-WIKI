@@ -273,7 +273,9 @@ The grief of seeing suffering clearly while lacking the power to change it.
 Management: Do not dismiss the pain or promise impossible rescue. Work response — Flerehan: Drifts closer and softens its light. (Decrease); Pugnahan: Shards split away and strike the air. (Increase); Viderehan: Reveals the injuries it has witnessed. (Stable); Ferrehan: Tests whether the worker can bear pity without surrender. (Decrease). It has never physically attacked without being provoked.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who couldn't create. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. A crystal of helpless compassion, drifting. Effect: proximity induces the ache of seeing suffering without power …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who couldn't create. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Low. A crystal of helpless compassion, drifting. Effect: proximity induces the ache of seeing suffering clearly without the power to change it, settling as a sorrow that pools in the chest.
 
 ## 최종 관찰 (Final Observation)
 

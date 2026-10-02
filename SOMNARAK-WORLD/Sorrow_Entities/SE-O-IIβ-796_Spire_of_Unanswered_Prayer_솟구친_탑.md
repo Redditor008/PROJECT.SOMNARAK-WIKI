@@ -278,7 +278,7 @@ The grief of looking upward for rescue that never descended.
 Management: Listen to the song; do not silence it. Work response — Flerehan: The song lowers and warmth becomes gentle. (Decrease); Pugnahan: The voice becomes a storm of hot tears. (Increase); Viderehan: Reveals the settlement beneath the song. (Stable); Ferrehan: Tests whether the worker can remain beneath the falling grief. (Decrease). It is stronger near Outside Sorrow records.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

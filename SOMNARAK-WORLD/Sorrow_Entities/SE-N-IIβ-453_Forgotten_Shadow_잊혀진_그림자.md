@@ -271,7 +271,7 @@ The weight of being overlooked until existence becomes uncertain.
 Management: Walk beside it and record what it shows. Work response — Flerehan: Moves closer and sings a softer verse. (Decrease); Pugnahan: Grows heavy and follows aggressively. (Increase); Viderehan: Reveals the route and people who forgot it. (Stable); Ferrehan: Tests whether the worker can walk beside it without naming it falsely. (Decrease). It never follows a maintained road.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored. Expanded origin context: Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around The Desolate — until the Lament was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
 
 ## 최종 관찰 (Final Observation)
 

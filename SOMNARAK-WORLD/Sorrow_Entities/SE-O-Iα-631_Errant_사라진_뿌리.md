@@ -278,7 +278,7 @@ The grief of losing one's origin and being unable to return to any ground.
 Management: Establish a current anchor; do not force the Root into an old home. Work response — Flerehan: Reaches gently and steadies. (Decrease); Pugnahan: Retracts into the floor. (Stable); Viderehan: Shows places the worker once called home. (Stable); Ferrehan: Tests whether the worker can remain without roots. (Decrease). Personnel report emptiness after it disappears.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 
