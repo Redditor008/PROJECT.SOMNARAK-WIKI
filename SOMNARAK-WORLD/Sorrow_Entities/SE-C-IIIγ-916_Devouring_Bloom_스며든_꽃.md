@@ -208,14 +208,14 @@ The escalation pattern is specific to Devouring Bloom: it is not a generic breac
 | **Movement** | Devouring Bloom rampages on its limbs, crashing through walls. It releases spores that infest personnel. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
 | **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever is downwind. The spores arrive before the bloom does, and infestation sets the order of casualties. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Seal ventilation first and suppress second. Blocking its path without controlling airflow spreads the infestation faster.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per worker infested rather than per turn; the bloom itself is slow.
 
 ## M.A.W. Equipment
 

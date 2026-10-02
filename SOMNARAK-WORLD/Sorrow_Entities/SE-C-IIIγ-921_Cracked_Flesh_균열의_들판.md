@@ -153,13 +153,13 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's body influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Grudge pressure radiates — the body register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Anyone stationary for more than three minutes. It selects by dwell time, not by distance or by person. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Grudge drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Enforce continuous movement across the zone and widen the cordon. There is no body here to suppress.
+- **Sorrow Gauge on breach:** Opens at 35% and rises 5% for each additional square metre of ground that becomes affected.
 
 ## M.A.W. Equipment
 

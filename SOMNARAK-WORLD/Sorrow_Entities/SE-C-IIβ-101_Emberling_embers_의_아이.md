@@ -164,14 +164,14 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Movement** | Emberling embers tears loose and pursues personnel with deliberate steps. It moves toward adults who might protect it. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
+| **First Target** | Adults rather than the nearest personnel. It moves toward those it reads as able to carry it. |
 | **Escalation** | Each turn free, Composure drain +5 until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Containment priority:** Assign one worker to accept it rather than evacuating the sector. Refusal is what escalates this breach.
+- **Sorrow Gauge on breach:** Opens at 35% and rises 10% each time an adult refuses it.
 
 ## M.A.W. Equipment
 

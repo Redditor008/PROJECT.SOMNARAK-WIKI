@@ -164,14 +164,14 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Movement** | Weeping Statue intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever stands in the spreading tears. The Statue never moves; the pool selects for it. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Channel and contain the tears rather than the statue. Draining them is prohibited; grief shared at the perimeter slows the spread.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per metre the tear pool advances across the floor.
 
 ## M.A.W. Equipment
 

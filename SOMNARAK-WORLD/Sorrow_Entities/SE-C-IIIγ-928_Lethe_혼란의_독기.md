@@ -155,13 +155,13 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 | **Breach Type** | Expansion |
 | **Movement** | The entity's mind influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Void pressure radiates — the mind register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The lowest occupied level. The gas accumulates downward, so exposure order follows elevation rather than proximity. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Evacuate upward and ventilate from below. Personnel already affected cannot reliably report their own condition.
+- **Sorrow Gauge on breach:** Opens at 30% and rises 10% per level it reaches as it fills upward from the sublevels.
 
 ## M.A.W. Equipment
 

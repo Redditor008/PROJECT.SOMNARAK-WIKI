@@ -153,13 +153,13 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's grudge influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Grudge pressure radiates — the grudge register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The whole district at once. The entity is a twelve-hour period and has no position from which to select anyone. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Grudge drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** No suppression is possible. Record the start, stand Wardens down for the duration, and reconcile the clocks afterward.
+- **Sorrow Gauge on breach:** Opens at 60% and falls one step per hour elapsed. It is governed by the clocks running backward, not by any response.
 
 ## M.A.W. Equipment
 

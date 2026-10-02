@@ -156,14 +156,14 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Movement** | Frozen Window breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
 | **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Unpredictable by nature. It never remains in one place, and target assignment changes faster than the corridor log can record it. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Contain by narrowing the available space rather than by pursuit. It cannot be intercepted on a predicted route.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per relocation rather than per turn, which makes a cornered Frozen Window cheaper than a roaming one.
 
 ## M.A.W. Equipment
 

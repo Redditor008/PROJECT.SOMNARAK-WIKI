@@ -156,14 +156,14 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Movement** | Double Mouth expands beyond containment like a spreading tide. It drives personnel mad with half-heard secrets. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever it has heard before. It remembers listeners and returns to them in preference to strangers. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Rotate previously exposed personnel out of the sector entirely. Familiarity is the vector here.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per half-heard phrase completed in a listener's mind.
 
 ## M.A.W. Equipment
 

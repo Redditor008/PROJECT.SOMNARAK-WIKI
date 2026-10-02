@@ -156,14 +156,14 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Movement** | Panopticon pulses with concentrated force, cracking the walls around it. It expands, crushing corridors shut. |
 | **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever refuses to be seen. The eyes are already everywhere, so the breach concentrates on the unwilling. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Instruct personnel to accept being seen. Covering the eyes or shielding corridors raises the gauge rather than lowering it.
+- **Sorrow Gauge on breach:** Opens at 50% and falls 10% each time a worker acknowledges the gaze aloud.
 
 ## M.A.W. Equipment
 

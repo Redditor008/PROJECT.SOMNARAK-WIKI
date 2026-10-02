@@ -156,14 +156,14 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Movement** | Carrying Nothing shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever acknowledges the weight it carries. Those who do not see it are not pursued. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Acknowledge the weight over the sector channel. Suppression of a figure carrying nothing has no point of application.
+- **Sorrow Gauge on breach:** Opens at 30% and rises 15% each time the burden is denied aloud.
 
 ## M.A.W. Equipment
 

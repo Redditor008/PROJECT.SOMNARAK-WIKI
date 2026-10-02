@@ -156,14 +156,14 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Movement** | Broken Well expands beyond containment like a spreading tide. It draws personnel toward its depths. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever remembers least. It draws those with no recollection of the losses it weeps for. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Staff the perimeter with personnel who hold the relevant records. Remembering aloud halts the draw.
+- **Sorrow Gauge on breach:** Opens at 45% and rises 10% per person drawn toward the depths.
 
 ## M.A.W. Equipment
 
