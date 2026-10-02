@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Hollow Architect.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Architect continues to design, and the drawings describe a building that the survey cannot place anywhere in Old Lament.
+- A cycle interrupts the drawing. The work resumes from the same line, and nothing already drawn has been altered by a session.
+- Two ignored conditions escalate it. Escalation presents as the drawings beginning to describe the room the crew is standing in.
+- Drawings are collected by instrument and are not read in the enclosure; reading is done at the Old Lament desk.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

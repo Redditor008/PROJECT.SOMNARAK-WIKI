@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Rift.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Rift is ambient in Old Lament rather than located, and its edges are not consistent between sessions.
+- Work narrows it for a shift. It reopens to its logged extent, and no cycle has closed any part of it permanently.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- There is no breach counter. Crews lay physical line from the entry point, and any route not on the line is treated as outside containment.
+- Extraction is a separate authorization and is never attempted off the line.
 
 ## Combat Record
 ### Core Stat Line

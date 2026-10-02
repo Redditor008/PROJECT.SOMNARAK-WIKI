@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Memory Lake.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The lake beneath the Gardens has no inflow and holds a constant level across every logged season.
+- Work stills the surface for a shift. The level is unchanged, and nothing has been recovered from the lake by any cycle.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- No breach counter applies. The saturated margin advances under the Gardens, and the margin is staked at every session rather than carried forward.
+- Extraction draws from the margin and is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

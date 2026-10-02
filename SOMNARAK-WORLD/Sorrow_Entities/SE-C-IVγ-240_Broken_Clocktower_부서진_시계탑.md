@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Broken Clocktower.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The tower is broken at the mechanism and still marks an hour, though not the one the district is keeping.
+- Work settles the structure for a shift. The mechanism is unrepaired, and no cycle has brought its hour into agreement with any other clock.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- There is no breach counter. Burden pressure spreads outward from the tower base through Zone C, and the affected radius is walked at every session.
+- Residue is recovered from the mechanism housing under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

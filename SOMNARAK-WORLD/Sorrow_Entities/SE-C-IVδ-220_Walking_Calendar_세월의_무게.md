@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Walking Calendar.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The entity moves through deep storage marking days that do not correspond to the facility calendar.
+- A cycle slows the marking. The sequence is not corrected, and no session has aligned it with any record in the Archive.
+- One ignored condition escalates it. There is no margin, and the pre-entry check is performed against a printed date.
+- Burden pressure accrues in personnel who attempt to reconcile the two calendars in the room; reconciliation is prohibited on site.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

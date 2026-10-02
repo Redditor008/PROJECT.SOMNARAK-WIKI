@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Patina.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The corrosion in the Border region advances on materials that do not corrode, and stops at no boundary the survey can identify.
+- Work slows the advance. Nothing already affected has been restored, and the rate returns to baseline between shifts.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- There is no breach counter. The affected front is staked at every session, since the front is the only reliable measure the entity offers.
+- Residue is recovered from the front under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

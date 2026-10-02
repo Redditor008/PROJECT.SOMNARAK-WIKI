@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Soaking Shard.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Shard is wet in a dry vault and does not dry, though the surrounding air reads normal.
+- Work slows the seep. The Shard is unchanged, and the vault floor has never been recorded as dry beneath it.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- No breach counter applies. The wetted area spreads across the vault floor, and its edge is marked physically at every session.
+- Residue is collected from the wetted margin under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

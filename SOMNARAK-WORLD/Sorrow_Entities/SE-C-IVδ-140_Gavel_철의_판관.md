@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Gavel.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Gavel falls on Collector's Row without a hand, and each fall is logged as a decision that no one has made.
+- Work lengthens the interval between falls. It does not stop them, and no decision has been reversed by a cycle.
+- One ignored condition is enough to escalate it. Conditions are verified by two operatives before entry.
+- Structural pressure is literal; the bench and floor are load-checked on the same schedule as the gauge.
+- Recovery of the implement is a separate authorization and is never a reward for a clean shift.
 
 ## Combat Record
 ### Core Stat Line

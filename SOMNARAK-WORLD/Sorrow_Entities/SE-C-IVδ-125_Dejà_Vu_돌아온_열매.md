@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Dejà Vu.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Personnel arriving at the Alpha Tree enclosure report having run the session already, in detail, before it begins.
+- A cycle weakens the impression. It does not prevent it, and the reported detail has never been wrong about the session that follows.
+- A single ignored condition escalates it. The margin is nil, and the pre-session check is performed from a printed list.
+- Operatives who report the impression are not stood down, since the record shows the impression is near universal; they are paired instead.
+- Extraction is a separate exposure event with its own authorization.
 
 ## Combat Record
 ### Core Stat Line

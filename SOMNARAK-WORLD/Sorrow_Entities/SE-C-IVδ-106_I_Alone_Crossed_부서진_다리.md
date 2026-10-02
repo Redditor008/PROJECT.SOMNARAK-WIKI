@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy I Alone Crossed.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The entity maintains that it crossed The Scar alone, and the Desolate record neither confirms nor contradicts the claim.
+- Work reduces the insistence for a shift. The account is unchanged, and no session has produced a second version of it.
+- One ignored condition escalates it. Escalation presents as the crew beginning to accept the account as established.
+- Crews log the claim verbatim and do not discuss it in the field; assessment is done off site.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

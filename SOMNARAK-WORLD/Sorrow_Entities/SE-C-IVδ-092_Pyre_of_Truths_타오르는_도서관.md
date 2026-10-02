@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Pyre of Truths.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Pyre burns without fuel and consumes nothing placed into it, including material that would burn anywhere else in the facility.
+- Work banks the burn for a shift. The Pyre is not diminished, and nothing committed to it has ever been recovered or destroyed.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- No breach counter applies. The heat field expands through Zone B, and its boundary is instrumented because it cannot be judged by skin.
+- Residue recovery is a separate authorization.
 
 ## Combat Record
 ### Core Stat Line

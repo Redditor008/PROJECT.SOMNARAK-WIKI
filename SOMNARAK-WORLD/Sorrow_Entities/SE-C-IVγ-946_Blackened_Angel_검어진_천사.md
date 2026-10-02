@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful Viderehan or Ferrehan work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy the entity.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded activation or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter management.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The shrine stands tarnished and the tarnish does not progress; cleaning returns within the shift.
+- Any spoken wish directed at the figure is the activation condition. There is no counter, and an unintended wish counts.
+- Work steadies Resolve in the shrine room. The figure is unaltered, and the shrine has never been recorded as spent.
+- Crews are briefed to speak only scripted lines inside the room, and the script is read from the page rather than from memory.
+- Relic recovery is separately authorized and is never an outcome of a routine shift.
 
 ## Combat Record
 ### Core Stat Line

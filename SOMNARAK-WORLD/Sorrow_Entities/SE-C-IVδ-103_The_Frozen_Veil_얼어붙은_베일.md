@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Frozen Veil.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Veil is held in deep storage and has not moved since it was placed there.
+- A cycle settles it further. Nothing on record has lifted the Veil, and the stillness is its stable state rather than a containment success.
+- A single ignored condition is enough to escalate it. There is no margin here, and conditions are confirmed by two operatives before any session begins.
+- Identity pressure acts on recall of what the Veil covers; personnel are debriefed at the storage door while the detail survives.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

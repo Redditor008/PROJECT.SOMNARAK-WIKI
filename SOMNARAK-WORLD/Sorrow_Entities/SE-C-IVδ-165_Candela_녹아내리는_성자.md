@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Candela.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Candela melts continuously and has not shortened, which is recorded as the primary anomaly rather than the flame.
+- A cycle slows the melt. The height is unchanged, and the run-off has never been collected in any measurable quantity.
+- One ignored condition escalates it. There is no margin, and the pre-entry check is read aloud from the brief.
+- Emotional pressure builds in personnel who watch the flame directly; viewing is indirect and timed.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line
