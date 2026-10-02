@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dormant Monolith's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is nothing in the room to engage. The Pillar stands in the worker's own thinking, and the encounter is conducted there — Viderehan to set out the duties holding them in place, Flerehan to let the grief through, Ferrehan to find out whether they can rest while the obligations are still outstanding. Pugnahan raises the Pillar through their thoughts and is logged as an escalation, not an attack.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Ground the worker and establish a rotation of duty**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Dormant Monolith’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Dormant Monolith defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact does not produce a crisis; it produces a worker who will not go off shift. The manifestation completes quietly, and the first sign from outside is a roster where one name keeps volunteering. Supervisors are briefed to read the roster as an exposure record.
+- Every activation of the zweihander, the shield or the charm is paid in the wielder's own continuity: small memories, unnamed, gone without a gap where they were. The pieces work precisely as described. What they take is not the thing the wielder would have chosen to give, because choosing requires remembering what is there.
+- Without a rotation established, nothing breaks. The Pillar simply goes on standing, and the duties it holds pass to whoever is nearest to them — which in this facility means the worker who has been on the post longest. The recorded breach is the moment that transfer becomes irreversible.
 
 ## Appearance
 **Primary Form:** A pillar-shaped presence sleeping inside consciousness. Its surface is pale and its shadow reaches into forgotten rooms.
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Mind
 - **Primary marker:** A pillar-shaped presence sleeping inside consciousness. Its surface is pale and its shadow reaches into forgotten rooms.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It does not occupy the chamber. Position is recorded as where in the observer's own thinking the Pillar stands and how far its shadow reaches behind that; both are logged in the observer's words and not standardised.
 - **Element signature:** Void
 - **Registered location:** Zone E, Border region
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; the wrong entity is the wrong sorrow, and with this one the error is not visible from outside the worker. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** There is nothing to photograph. Record the pale surface as the observer describes it, the depth the shadow reaches, and the rooms it reaches into — forgotten rooms, usually the observer's own. Note that the recollections brought back from them belong to no one on the roster. Those are logged verbatim and not acted upon.
 
 ## Origin
 - **Formation:** The Pillar formed from responsibility that became a permanent mental structure.
 - **The Sorrow:** The grief of being held in place by duties no one else remembers.
 - **The Event:** A border worker carried family and community obligations until the mind became a sleeping pillar.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One border worker who carried obligations for a family and a community that both outlasted their own memory of asking. The record does not name them because by the time it was taken there was no one left who could. The duties are listed in full. The people they were owed to are not.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Dormant Monolith is recorded as a Subject with Subject-Mind manifestation and Void elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Softening and a falling gauge mean the worker has let something through rather than discharged it, and the distinction matters at the next shift. A rising Pillar means the work was taken as an attempt to put the duties down, which this entity does not permit and does not punish — it simply rises. The most reliable reading is taken from whether the worker goes home afterwards.
 ## Breach Behavior
 
 > *"Sleeping Pillar has broken free. Hunts personnel indiscriminately."*
@@ -153,17 +153,17 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Dormant Monolith seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
+| **Movement** | Nothing crosses the walls. The Pillar stands in one more mind, then another, moving by who is thinking of their duties rather than by distance. |
 | **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever in the facility has gone longest without being relieved. |
+| **Escalation** | Drain rises by 5 for each worker who declines relief, and falls by the same amount for each who accepts it. Elapsed time does not enter the calculation. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Establish the rotation before anything else, and establish it by order rather than by invitation — this entity's hold is on people who will not stand down when asked. Grounding the worker comes second; the transformation completes in whoever is still on post.
+- **Sorrow Gauge on breach:** It tracks refused rest. Every member of the response team who stays past their relief raises it, and it falls the moment a relief is accepted — including the relief of the person leading the response. A breach here has been ended twice by sending the team home and once by a supervisor going first.
 
 ## M.A.W. Equipment
 
@@ -183,9 +183,9 @@ Requiring tremendous physical strength to wield, the sceptre serves equally as a
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Dormant Monolith's void signature in the strike.
+**Ability:** Void damage to the soul rather than the body — identity, memory, the continuity that lets a person know which obligations are theirs. The zweihander carries the Pillar's dormancy into the strike, and what it opens does not wake.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Small nameless memories go with each use. The wielder cannot audit the loss; the faculty that would notice is the one being spent.
 
 ### M.A.W. Suit — Dormant Monolith Shield
 
@@ -209,17 +209,17 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to work against the Pillar itself, and nothing against any other entity in the Border region.
 
-**Ability:** Grants a minor boon tied to Dormant Monolith's sorrow; the effect mirrors the entity's nature.
+**Ability:** The charm lets the wearer set a duty down briefly without the sense of having abandoned it. The relief lasts about an hour and is not cumulative.
 
 **Cost:** The bearer occasionally forgets a word.
 
-*Stigmas are granted at random by Dormant Monolith upon a successful work, not manufactured.*
+*The charm is not manufactured. The Pillar gives one after a cycle that ended with the worker relieved on time, and it has never given one to a worker who stayed.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Dormant Monolith's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of the Pillar rather than ordinary equipment, and the condition is rest taken. Used by a relieved and grounded operator, the zweihander and the shield hold to grade. Used by someone who has not stood down, the cost scales and the Void in them becomes active, which here means the wielder loses the memory of what they were owed rather than of what they owe. The charm is given, not drawn.
 
 ### Field Use Record
 
@@ -230,7 +230,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety and here it is barely relevant. The shield performs unremarkably and anchors the wearer so completely that two observers have had to be told by colleagues that the shift was over. That is the characteristic cost of this file, and no figure in the table carries it.
 
 ## 관찰 기록 (Observation Log)
 
@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Dormant Monolith's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record the first sign, which is the observer becoming aware of an obligation they had not thought about that day; the first sensation, which is weight without a source; the extent of the shadow at entry and exit; and the condition that ends the encounter, which is the observer being relieved. Observations that end because the observer decided to stop are logged differently and counted separately.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -261,17 +261,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Dormant Monolith (N-IVδ-909 [N]) is logged as a Subject-Mind manifestation expressing Void. The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Border Post Rota>**
 Spreads through the minds of personnel near the Border. Personnel feel emptiness and the inability to leave duty. Its shadow grows when the worker refuses rest.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Duties Listed by a Worker Who Could Not Name Who They Were For>**
 The grief of being held in place by duties no one else remembers.
 
 **Entry 4 — <Containment Notice>**
 Management: Ground the worker and establish a rotation of duty. Work response — Flerehan: The Pillar softens and allows grief to pass. (Decrease); Pugnahan: It rises through the worker's thoughts. (Increase); Viderehan: Reveals the duties holding the worker in place. (Stable); Ferrehan: Tests whether the worker can rest beneath responsibility. (Decrease). Personnel report emptiness after contact.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+**Entry 5 — <Rotation Order, Border Region>**
+No post in the Border region is held by one worker for more than four consecutive shifts, and relief is issued as an order so that no one has to ask for it. Where a duty cannot be divided, it is written down in full and countersigned by a second worker, who thereby holds it jointly whether or not it is ever called on. The rota is kept with the containment documents and is amended under the same authority. A worker who declines relief is relieved regardless, and the decline is not recorded against them.
 
 **Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
@@ -302,12 +302,12 @@ A pillar rises inside your mind, holding up a ceiling no one else can see. You a
 
 Dormant Monolith does not exist in isolation. Its recorded relationships with The Sleeping Weight, The Crumbling Saint, The Forgotten Soldier should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline the Pillar with one observer at a time and never with two, since the readings are taken inside a person and two observers produce two entities' worth of record. When another entity is brought into proximity, the change appears in the shadow's depth rather than in the surface. Record which forgotten rooms it reaches and whether they were reachable before.
 
 
 ### Entity Interaction Record
 
-Dormant Monolith must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Pillar belongs with the records concerned with obligations that outlived the people who imposed them. The relationships below are the ones the record will support. They are not alliances and not conflicts; they are the same unreleased duty, held in different places, and when two of them are near each other the duty becomes easier for a worker to pick up.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -315,7 +315,7 @@ Dormant Monolith must be assessed as part of an entity network, not as an isolat
 | **The Crumbling Saint** | Both carry duties beyond endurance. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Forgotten Soldier** | Recognizes duty without release. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** One observer, solo baseline, then the pairing: the depth of the shadow at first and last contact, which rooms it reached, how long the change held, and whether the observer afterwards reported an obligation they had not reported before. The last field is the one that has changed the file, and it is the one most often left blank.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -364,9 +364,9 @@ Some sorrows are about duty. Dormant Monolith is about duty that consumed the du
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file describes something that only exists where somebody is already carrying too much, which makes the record accurate about the entity and conditional on the reader. Every figure in it assumes a worker with unresolved responsibilities, because no one else has ever seen it. Where the file and the worker disagree, the worker is the measurement.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any breach in the Border region, and after any change to the duty rota — the last unconditionally, since the rota is this entity's containment and an unreviewed change to it is an unreviewed change to containment. A review is not a means of assessing whether a worker is overcommitted.
 ## Apex Record
 
 ### The Pillar Inside
@@ -408,9 +408,9 @@ Time granted to deal with a returned obligation is not charged against leave, is
 
 - **Classification detail:** Dormant Monolith is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone E, Border region.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** There are no physical markers to work from. Identify it by the conditions of appearance: a pale column standing in the observer's own thinking, a shadow running into rooms they had forgotten, and the fact that colleagues standing beside them see nothing at all.
+- **Record detail:** Check the designation before work begins. Other records in this wing concern weight and obligation, and they differ on the decisive point — this one cannot be lifted off a worker, only shared out.
+- **Containment detail:** A seal does not apply. The Pillar is contained by the rotation of duty and by nothing else, and the rota is therefore a containment document — amended under the same authority, and audited on the same schedule, as the physical seals elsewhere in the wing.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-909
