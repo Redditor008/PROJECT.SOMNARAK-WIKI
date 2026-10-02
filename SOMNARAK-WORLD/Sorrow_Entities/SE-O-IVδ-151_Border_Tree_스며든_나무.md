@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Border Tree.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle slows the creep and loosens the roots already under the floor, but Border Tree is not pushed back to any earlier boundary; ground it has taken, it keeps.
+- A rising gauge, a failed cycle, or a new border dispute anywhere in Zone E will start the expansion recorded below; the Tree does not need to be provoked directly to begin moving.
+- The 20–28 Han-Energy yield is paid for in ground: every cycle worked at close range leaves the working party inside the footprint the roots will occupy next, so recovery rotations must be scheduled against the expansion rate, not against the clock.
+- Extracting M.A.W. material means cutting living root, which the Tree registers as a new border drawn across itself; schedule extraction as its own operation with its own expansion forecast.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Border Tree's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The party establishes which side of the Tree's current boundary it is standing on, maps the roots already under the surface, and confirms that Viderehan and Ferrehan are the only responses available to it.
+2. **Clash:** Over a long twenty-four-turn encounter the party works Viderehan and Ferrehan against 910 points of accumulated grievance while roots come up through the floor behind them; at 45% resistance to its own Grudge pressure the Tree cannot be out-damaged, only out-negotiated.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Negotiate boundaries and acknowledge both sides of the loss**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
-- Border Tree’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Border Tree's dossier.
+- Prolonged exposure does not escalate in intensity so much as in geography: a worker who stays too long begins to experience the containment wall as a national border, the corridor behind them as foreign territory, and their own posting as an exile they consented to.
+- Every piece drawn from the Tree takes payment in the same currency the Tree deals in — the bearer loses the ability to cross something. A line they drew, a doorway they once used, a person they are no longer able to approach; the debit is never recorded as damage and never appears in a grade ledger.
+- Nothing about this grievance resolves on its own, because a border does not forget where it was drawn. Left unaddressed, the roots simply continue under the foundations until the expansion behaviour recorded below begins on its own schedule.
 
 ## Appearance
 **Physical Form:** A colossal creeping tree-monster — a vast plant-creature with roots like legs and branches like grasping claws. **Movement:** It inches forward on its spreading roots, agonizingly slow.
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A vast tree whose roots spread beneath the Border region and whose branches enter nearby structures. Its bark resembles old walls and barricades. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Mobile at a pace that defeats direct observation; the trunk advances on its roots so slowly that movement is confirmed only by surveying the same marker across cycles. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Measure the Tree against fixed landmarks, not against itself. Record the distance from the trunk to the nearest standing structure, the depth at which roots are visible in broken ground, which branches have entered buildings and through which openings, and how far the bark's wall-like pattern has spread along the limbs. Border Tree's advance is too slow to see and too fast to ignore, so the record must be numeric and must be taken from the same survey points every cycle. A note that the Tree looks larger is worth nothing; a note that the trunk now stands four metres closer to the eastern wall than it did last cycle is the entire observation.
 
 ## Origin
 - **Formation:** The Tree formed from the grief of borders that never stopped moving.
 - **The Sorrow:** The pain of belonging being defined by lines that separate families and communities.
 - **The Event:** Border settlements were repeatedly redrawn, forcing people to leave homes that remained physically nearby but became politically unreachable.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The families of the settlement the border was redrawn through — people whose homes remained standing and in plain sight, on the wrong side of a line none of them had drawn.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Border Tree is recorded as an Object/Place with Place-Lament manifestation and Grudge elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Viderehan holds the gauge stable because being seen is not what the Tree wants; it shows the worker every boundary that ever crossed this ground and is neither soothed nor inflamed by the showing. Ferrehan lowers the gauge because endurance between territories is the only answer the grievance accepts — a worker who stands in the gap without choosing a side demonstrates the thing the settlement was never permitted to do. Falling pressure here means the Tree has been heard, not that it has withdrawn; the roots do not retreat. If the gauge rises during Ferrehan, the worker has taken a side, and the record of which side they took is more valuable than the cycle that was lost.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -174,7 +174,7 @@ The escalation pattern is specific to Border Tree: it is not a generic breach ev
 | **Risk** | Critical (δ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Negotiate boundaries and acknowledge both sides of the loss. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** precipitating dispute → first structure entered → the crossing that became impassable → divided-belonging effects reported by personnel → metres gained → the boundary that was negotiated to stop it. The Tree does not respond to Flerehan or Pugnahan; there is nobody left in it to weep with or to confront.
 ## Breach Behavior
 
 > *"Border Tree has broken free. Extends roots through the floor, entangling personnel."*
@@ -191,8 +191,8 @@ The escalation pattern is specific to Border Tree: it is not a generic breach ev
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Do not barricade. Walls are the Tree's own material — its bark already reproduces the pattern of old barricades — and every corridor sealed against it is another line it can grow along. Keep crossings open and staffed.
+- **Sorrow Gauge on breach:** Indexed to crossings, not to time. Rises 8% for every doorway, corridor or gate sealed against the advance, and falls 5% for every crossing deliberately held open and used by personnel in full view of the trunk. A party that does nothing holds it level; a party that fortifies loses.
 
 ## M.A.W. Equipment
 
@@ -213,9 +213,9 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A single thrust line through up to three targets, the tanto's thorned hilt drawing the bearer's blood at the moment of commitment.
+**Falloff Rule:** 100% at the point of entry, 70% through the second body and 50% through the third, as the alkaloid load carried on the blade is spent along the line.
+**Damage Application:** The laceration and the toxin resolve as separate events — the cut is scored once, and the burning alkaloid tick is scored again on each subsequent turn against the same resistance.
 
 **Ability:** Creates a barrier that prevents hostile crossing.
 
@@ -235,9 +235,9 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Border Tree's kind of pressure.
+**Ability:** Han-iron plate that stiffens against Grudge pressure, holding the wearer's body together under the crushing weight of roots and the slow structural failure of anything the Tree has grown into.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The harness tightens as it nears its source and will not loosen afterwards; the wearer moves at the Tree's pace, deliberate and unhurried, and finds that stepping out of the way of anything has become a decision rather than a reflex.
 
 ### M.A.W. Stigma — The Border Charm
 
@@ -247,17 +247,17 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the bearer's rating while working Border Tree, conditional on the bearer remaining on the side of the boundary they began the cycle on
 
-**Ability:** Grants a minor boon tied to Border Tree's sorrow; the effect mirrors the entity's nature.
+**Ability:** The charm lets its bearer feel where a line has been drawn before anyone announces it — useful during negotiations, intolerable at home.
 
 **Cost:** The bearer's temper shortens.
 
-*Stigmas are granted at random by Border Tree upon a successful work, not manufactured.*
+*The Border Charm is given, not taken. It appears on a worker who completed a Ferrehan cycle without choosing a side, and no procedure has reproduced it deliberately.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Border Tree's element. No protocol produces Stigmas. They emerge from Border Tree's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece remains part of the Tree. The Bramble Tanto raises a barrier that nothing hostile can cross and then refuses to let its own wielder back over it; the Border Plate resists the pressure it was cut from and slows the body wearing it; the Border Charm reads boundaries and shortens the temper of whoever reads them. The pattern is consistent and is not a design flaw: this entity's whole grievance is that a line can be drawn by someone who does not have to live behind it, and its equipment declines to make that mistake twice. Anyone who wants the benefit lives behind the line too.
 
 ### Field Use Record
 
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The δ grades here describe what the equipment does to a target, and nothing else. Nothing in the damage figures records that a worker issued the tanto for a long encounter may finish it unable to walk back through a door they sealed themselves. Read the Cost line as the real specification and the numbers as a footnote to it.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -290,7 +290,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Border Tree's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Survey, then interview. Take the physical measurements first — root depth, trunk position, which structures have been entered — because they are the only part of the record that cannot be argued with. Only afterwards ask personnel what they felt, and ask it in the specific form this entity requires: which side of the line did you believe you were standing on, and when did that belief change. The two records are compared at debrief, and where they disagree the measurement is correct and the feeling is the finding.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -298,16 +298,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Border Tree (O-IVδ-151 [GP]) is logged as a Place-Lament manifestation expressing Grudge. The Tree formed from the grief of borders that never stopped moving. Held at Zone E, Border region. The Tree grows through political and emotional boundaries rather than soil alone.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Survey Marker Log, Zone E Perimeter>**
 Its leaves fall during border negotiations.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Resettlement Interview, Transcribed>**
 The pain of belonging being defined by lines that separate families and communities.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows every boundary that crossed the ground. (Stable); Ferrehan: Tests whether the worker can remain between territories. (Decrease). It becomes more active during the Sorrow Tide.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 — <Standing Instruction to Zone E Wardens>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
@@ -337,12 +337,12 @@ The ground splits along an old boundary and roots rise through it. The Tree is b
 
 Border Tree does not exist in isolation. Its recorded relationships with The Returning Tree, The Garden of Thorns, The Maw should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish the Tree's own expansion rate across at least three uncontested cycles before any second entity is introduced into Zone E, because the variable that matters here is metres of ground and it cannot be recovered once confused. When a second entity is present, log the distance between them, whether the roots turn toward it or away, and — the measurement specific to this entity — whether the Tree treats the other presence as a neighbour sharing the ground or as a border to grow along. Those two outcomes look identical for several cycles and then diverge completely. Separation does not reset anything; ground taken during a joint observation stays taken, so these studies are run only when the expansion they will cause is acceptable.
 
 
 ### Entity Interaction Record
 
-Border Tree must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Border Tree shares Zone E with everything else posted to the border region, and unlike most entities it is slowly changing the terrain those relationships take place on. The interactions below are canonical, but each was recorded at a particular distance, and the distances are no longer what they were. Personnel must re-measure before assuming any of them still applies.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -350,7 +350,7 @@ Border Tree must be assessed as part of an entity network, not as an isolated pr
 | **The Garden of Thorns** | Thorns grow along contested borders. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Maw** | Both carry the sorrow of foundations built through exclusion. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Fix survey markers before contact. Record the separation at first response, the direction of root growth during the encounter, the gauge movement, any divided-belonging effects reported by personnel present, and the position of every marker again after separation — the last of these is the only reading that shows what the encounter actually cost.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -397,9 +397,9 @@ Some sorrows mourn a home. Border Tree mourns the lines — the borders that mov
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file describes a boundary dispute that acquired a body, and it should be read the way a boundary dispute is read: positions, claims, and what each side believes it is owed. The classification tells a warden that the Tree is Critical, mobile, and answerable only to Viderehan and Ferrehan. It does not tell them where the line is this cycle. That has to be walked. Where the file and the ground disagree, the ground is correct, and the discrepancy is logged rather than reconciled — the record of how far the file drifted from the terrain is itself the measurement of how fast the Tree is moving.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every expansion event, re-walk the perimeter and re-record all four: trunk position, root extent, the structures currently entered, and the crossings still passable. A review that confirms the gauge and the personnel but not the geography has confirmed nothing, because this entity's only real output is distance. The previous survey is retained alongside the new one; the difference between them is the report.
 ## Apex Record
 
 ### Creeping
@@ -443,9 +443,9 @@ Abandoned station remains are not recovered and are added to the district survey
 
 - **Classification detail:** Border Tree is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone E, Border region.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify by bark pattern. The trunk's surface reproduces the courses of old walls and barricades, and that marking is present on Border Tree and on nothing else in Zone E.
+- **Record detail:** Several Zone E records refer to displacement and to borders; confirm the designation O-IVδ-151 and the Place-Lament manifestation before treating any of them as this entity.
+- **Containment detail:** There is no seal here in any useful sense. The roots are already past whatever line is currently drawn, and personnel standing well outside the marked boundary have reported divided belonging at full strength. Treat the perimeter as a survey reference, not as containment.
 ## Document Information
 
 **Document ID:** SE-O-IVδ-151
