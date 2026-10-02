@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Vellum Man.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The figure is written rather than drawn, and the text continues around the body without a beginning.
+- Work slows the appearance of new text. Nothing already written has been removed by any session.
+- Three ignored conditions escalate it. The tale register carries contact, so escalation presents as personnel recounting the text as their own history.
+- Crews do not read the text aloud; transcription is done by instrument and reviewed off site.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

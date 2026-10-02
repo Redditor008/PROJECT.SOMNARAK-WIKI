@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Redacted.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The entity's record is complete and unreadable in the places that would identify it.
+- A cycle settles it. The redactions are unchanged, and no session has recovered text from beneath them.
+- Two ignored conditions escalate it. Escalation presents as new redactions appearing in the current session's notes.
+- Notes are written in duplicate, and one copy is removed from the room at intervals during the session rather than at the end.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

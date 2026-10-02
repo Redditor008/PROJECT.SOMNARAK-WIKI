@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Sorrow Tide.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Tide rises on its own schedule and the schedule has never been predicted from any prior cycle.
+- Work shortens the high period. The height reached is unchanged, and no session has prevented a rise.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- No breach counter applies. The high-water mark is recorded at every session, since the mark is the only measure the Tide reliably leaves.
+- Extraction is authorized apart from the work cycle and is never attempted during a rise.
 
 ## Combat Record
 ### Core Stat Line

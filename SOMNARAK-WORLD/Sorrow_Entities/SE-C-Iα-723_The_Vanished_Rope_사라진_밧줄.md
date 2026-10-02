@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Vanished Rope.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Rope is gone from the Desolate site and the knot it held remains tied in open air.
+- A cycle settles the knot. It has never been untied, and no session has recovered the Rope.
+- Four ignored conditions escalate it. Escalation is a change in the knot rather than any reappearance.
+- Emotional pressure acts on crews who attempt to work the knot by hand; handling is prohibited by standing order.
+- Extraction is a separate risk event with its own authorization.
 
 ## Combat Record
 ### Core Stat Line

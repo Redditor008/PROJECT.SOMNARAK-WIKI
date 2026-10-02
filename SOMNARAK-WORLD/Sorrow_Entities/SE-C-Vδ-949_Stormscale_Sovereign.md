@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Stormscale Sovereign.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Sovereign is latent and has no containment of its own, because it has never manifested.
+- The activation condition is the reunion of the Soot Fry and the Foam Flood. There is no counter and no gradual approach to it.
+- Work is performed on the two separately and never in proximity; the separation is the containment measure.
+- No gauge reading on either constituent predicts the reunion, so transfer routes for both are planned to avoid intersection regardless of readings.
+- Extraction is not defined for this entity, and no recovery is authorized against it.
 
 ## Combat Record
 ### Core Stat Line

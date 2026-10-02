@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Dawn of Mourning.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Dawn carries all four sorrows and is the heaviest single entry in the registry by every measure the facility keeps.
+- Work reduces the pressure in the surrounding zones for a period. The entity is unchanged, and no session has altered what it is.
+- A single ignored condition escalates it. There is no margin at this scale, and conditions are verified independently by two operatives before any approach.
+- Mixed pressure defeats single-register screening. The exclusion radius is enforced from outside and is not reduced on a favourable reading.
+- Extraction is a separate risk event under its own authorization and is never attempted while the entity is active.
 
 ## Combat Record
 ### Core Stat Line

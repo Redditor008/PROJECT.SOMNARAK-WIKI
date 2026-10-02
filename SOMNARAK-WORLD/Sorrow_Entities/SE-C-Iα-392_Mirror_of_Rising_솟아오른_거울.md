@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Mirror of Rising.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Mirror shows the viewer standing, whatever posture the viewer is actually in.
+- Work settles the surface. The discrepancy persists after a clean cycle and is recorded as the entity's stable behaviour.
+- Four ignored conditions are required to escalate it, which is a wide margin for an entity held in the Market.
+- Burden pressure acts on personnel who test the discrepancy repeatedly; viewing is single-pass and logged.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

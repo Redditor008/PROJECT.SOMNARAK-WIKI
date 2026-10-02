@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Mourner's Bloom.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Bloom opens only where a loss has been recorded, and the Gardens log confirms the correspondence in every logged case.
+- A cycle slows the opening. The correspondence is unchanged, and no session has produced a bloom without a matching record.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- No breach counter applies. New openings are logged against the register of losses rather than against the gauge.
+- Residue is collected from spent blooms under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

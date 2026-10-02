@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Swallowed Fury.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The fury is phantasmal and contained within the Forge District rather than by any fitting.
+- Work reduces its presence for a shift. It reforms at the same intensity, and no cycle has diminished it.
+- The margin is four conditions. Escalation presents as the fury becoming briefly visible rather than as any increase in force.
+- Structural pressure registers in the district fittings; they are inspected on the same schedule as the gauge.
+- Recovery of the implement is a separate authorization.
 
 ## Combat Record
 ### Core Stat Line

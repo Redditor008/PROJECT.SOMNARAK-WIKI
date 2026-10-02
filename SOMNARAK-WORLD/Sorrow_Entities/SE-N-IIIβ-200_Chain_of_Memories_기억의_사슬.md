@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Chain of Memories.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Each link holds a recollection, and the order of the links does not match the order of the events.
+- Work settles the Chain for a shift. The order is unchanged, and no session has rearranged or removed a link.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- There is no breach counter. Personnel do not handle individual links; handling is by the Chain as a whole under standing order.
+- Residue is recovered from the Row floor under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

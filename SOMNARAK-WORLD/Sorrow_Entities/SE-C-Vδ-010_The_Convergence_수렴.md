@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Convergence.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Convergence is the three Birds in one body, and the record treats it as a single subject rather than as a group under one file.
+- Work reduces the pressure it exerts. It has never separated the constituents, and no session has addressed one of them alone.
+- A single ignored condition escalates it. There is no margin, and conditions are verified by two operatives against a printed list before approach.
+- Burden pressure reaches personnel at distance. Crews who have previously worked any of the three Birds are excluded from the rotation by screening.
+- Extraction is a separate risk event under its own authorization and is never attempted while the entity is active.
 
 ## Combat Record
 ### Core Stat Line

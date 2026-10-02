@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Black River.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The River runs through the weight register rather than through any channel the survey can map, and it does not freeze or fall.
+- Work slows the flow for a shift. The River is not diminished, and nothing committed to it has been recovered downstream or anywhere else.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- There is no breach counter. The banks are staked at every session, and crews work from the bank rather than the water under standing order.
+- Extraction draws from bank residue and is authorized separately; entry to the flow is not an extraction method.
 
 ## Combat Record
 ### Core Stat Line

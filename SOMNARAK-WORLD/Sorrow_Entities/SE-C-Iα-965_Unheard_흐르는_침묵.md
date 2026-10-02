@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Unheard.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The entity speaks continuously and no instrument in the enclosure has registered a sound.
+- A cycle settles it. The speech is unchanged, and no session has produced a recording.
+- Four ignored conditions escalate it. Escalation presents as personnel reporting the content of speech they cannot hear.
+- Any operative who reports content is withdrawn immediately and debriefed separately, before conferring with the rest of the crew.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Sorrow Storm.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Storm is periodic and crosses all zones; it is not contained anywhere and is not expected to be.
+- Work reduces the severity of a passage. It does not prevent the next one, and the period has not shifted across the record.
+- Viderehan and Ferrehan are the valid approaches where the Storm is stationary enough to be worked at all.
+- There is no breach counter. The standing order during a passage is shelter and accounting for personnel, not containment.
+- Extraction is authorized apart from the work cycle and is never attempted during a passage.
 
 ## Combat Record
 ### Core Stat Line

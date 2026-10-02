@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Deadline.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The date is fixed and the record does not say what falls due on it.
+- Work does not move the date. A cycle reduces the pressure around it, and the pressure returns as the interval shortens.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- There is no breach counter. The interval is logged at every session, since the interval is the only quantity the entity changes.
+- Residue recovery is separately authorized and is not a routine outcome of the shift.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Vanished Tree.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Tree is absent from the Border site and continues to cast shade there.
+- A cycle reduces the shade. The absence is unchanged, and no survey has located the Tree itself.
+- Four ignored conditions escalate it, and escalation presents as the shade extending beyond its logged outline.
+- Structural pressure is recorded in the ground beneath the shade; the outline is staked at every session.
+- Extraction is authorized apart from the work cycle and is never a reward for a clean shift.
 
 ## Combat Record
 ### Core Stat Line

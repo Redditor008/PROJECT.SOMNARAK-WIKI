@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Homecoming Tree.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Personnel who pass the Tree report arriving somewhere they have been before, and the reports do not agree on where.
+- Work lowers the strength of the impression for a shift. The Tree is unchanged, and the impression recurs at its logged rate.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- There is no breach counter. The influenced radius widens, and personnel log the impression at the moment it occurs rather than at debrief.
+- Residue is recovered from the root line under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

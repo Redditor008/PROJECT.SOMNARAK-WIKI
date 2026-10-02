@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Miscast.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The object was cast wrong and functions correctly, which is the finding the Forge District file turns on.
+- Work settles it. The fault is unchanged, and no cycle has caused it to fail in the way its casting predicts.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- No breach counter applies. Structural pressure is logged at the mount rather than in the object, and the mount is load-checked at every session.
+- Residue is recovered from the mount under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

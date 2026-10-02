@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Harbinger.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Harbinger arrives on Collector's Row before the collection it announces, and the announcement has always been accurate.
+- Work delays the arrival. It has never prevented the collection, and no session has produced a false announcement.
+- The margin is three conditions. Escalation is a shortening of the interval between announcement and collection.
+- Burden pressure acts on personnel named in an announcement; they are removed from the rotation until the interval has passed.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

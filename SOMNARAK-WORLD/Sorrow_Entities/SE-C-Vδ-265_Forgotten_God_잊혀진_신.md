@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Forgotten God.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The entity carries all four sorrows at once, and personnel cannot name it afterwards despite having worked it.
+- A cycle reduces the pressure in the block. The entity is unchanged, and no session has produced a name that survives the debrief.
+- One ignored condition escalates it. There is no margin, and the approach is authorized individually rather than by rotation.
+- Mixed pressure means no single register gives early warning; crews are withdrawn on elapsed time rather than on any reading.
+- Extraction is a separate risk event under its own authorization and is never attempted while the entity is active.
 
 ## Combat Record
 ### Core Stat Line

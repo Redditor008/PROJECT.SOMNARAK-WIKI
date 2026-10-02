@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Memory Thief.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Thief takes recollections and leaves the structure of them intact, so the loss is noticed late or not at all.
+- A cycle reduces the rate of taking. Nothing taken has been returned by any session.
+- Three ignored conditions escalate it. Escalation presents as crews disagreeing about the content of the current shift.
+- Session notes are written contemporaneously and sealed in the room, then compared at the desk rather than recalled.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

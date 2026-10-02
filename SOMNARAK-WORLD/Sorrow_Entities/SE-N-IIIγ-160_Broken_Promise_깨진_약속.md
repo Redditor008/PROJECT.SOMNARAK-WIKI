@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Broken Promise.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The promise is broken and still binding, which is the contradiction the Collector's Row file is built around.
+- Work settles it for a shift. The binding is unchanged, and no session has released anyone named in it.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- No breach counter applies. Personnel do not make undertakings of any kind in the room, including procedural ones.
+- Residue is recovered from the Row floor under separate authorization, apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

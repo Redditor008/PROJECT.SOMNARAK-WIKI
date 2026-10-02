@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Grieving Love.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- She grieves someone the record cannot identify, and the grief is directed rather than general.
+- Work steadies Composure in the room. The grief is unchanged, and no cycle has drawn her attention from it.
+- Her activation condition is a high gauge reading or the specific circumstance named in her file; both are checked before entry.
+- Personnel who attempt to comfort her are logged as a protocol breach regardless of outcome, because the response is reliably reciprocated.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

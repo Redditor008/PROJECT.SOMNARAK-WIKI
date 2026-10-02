@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Mirror of Broken.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Mirror near the Exile's Gate shows the viewer as they were before an event the viewer cannot place.
+- A cycle settles the surface. The image is unchanged, and no session has produced a current reflection.
+- Two ignored conditions escalate it. Escalation presents as the image advancing toward the present.
+- Burden pressure acts on personnel who recognise the earlier state; viewing is single-pass and recorded.
+- Extraction is authorized apart from the work cycle and is never a reward for a clean shift.
 
 ## Combat Record
 ### Core Stat Line

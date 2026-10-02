@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Absent Landmark.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Personnel in Old Lament navigate by a landmark that the survey does not contain, and they do so successfully.
+- A cycle weakens the reliance. The landmark remains absent, and no session has caused a crew to lose its way.
+- Four ignored conditions escalate it. Escalation presents as crews disagreeing about where the landmark stands.
+- Identity pressure acts on the operative's confidence in their own route; routes are drawn on paper before entry and followed as drawn.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

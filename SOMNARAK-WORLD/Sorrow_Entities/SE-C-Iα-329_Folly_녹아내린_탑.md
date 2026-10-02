@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Folly.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The structure in the Border region was built for a purpose no surviving record names, and it was completed.
+- Work settles it for a shift. The structure is unchanged, and no session has identified what it was for.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- There is no breach counter. The affected radius widens along the border line, and its edge is marked at every session.
+- Residue is recovered from the footings under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Debt Chain.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Chain is continuous and has no ends; the Row inventory records its length as unmeasured rather than as unknown.
+- A cycle settles the links. The length is unchanged, and no session has found a terminus in either direction.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- No breach counter applies. Crews mark their position on the Chain physically, because progress along it cannot be judged by eye.
+- Extraction draws from link residue under separate authorization.
 
 ## Combat Record
 ### Core Stat Line
