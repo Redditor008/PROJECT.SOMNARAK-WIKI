@@ -88,15 +88,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Home to No One Who Knew Me's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** Viderehan and Ferrehan only, worked at distance, with the watch recording and keeping others back and doing nothing else. The relic is not approached, handled, moved, marked or addressed. Nobody says that it has come back, within its hearing or outside it, during the engagement.
+3. **Resolution:** The cycle closes when the gauge falls below 25% and the appearance has been logged — light, position, duration, form marked unidentified — and the district association has been told. On this holding a completed cycle consists almost entirely of having refrained, and the sheet says so in those words so that nobody records it as a failure.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
-- Home to No One Who Knew Me’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Home to No One Who Knew Me's dossier.
+- The effects compound with duration and they compound in the witnesses rather than in the object. People present grow uncertain about unrelated things — their route, their reason for being in the district, whether they have already spoken to someone — and the uncertainty is mild, resolves within the shift, and is entirely convincing while it lasts.
+- Each M.A.W. activation debits the wielder past what the grade ledger records — composure, recollection, somatic steadiness. The charge from this source is specific: wielders lose the certainty that places they return to are the places they left.
+- Without resolution the relic does not rupture outward so much as persist, and then go, and then come back. The transformation on the classification is a change of form rather than an escape: the thing that was a black relic last time will be something else next time, glowing the same way.
 
 ## Appearance
 **Physical Form:** A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms.
@@ -108,7 +108,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms.
-- **Position / movement:** Physical Form: A black relic that appears in the Old Lament after long absence.
+- **Position / movement:** Appears and departs without pattern or precursor; record the street, the exact position, the time of first sighting and the time of loss, and treat the interval since the last appearance as the holding's primary variable.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament — ambient
 
@@ -117,18 +117,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms. |
-| **Position / movement** | Physical Form: A black relic that appears in the Old Lament after long absence. |
+| **Position / movement** | Appears and departs without pattern or precursor; record the street, the exact position, the time of first sighting and the time of loss, and treat the interval since the last appearance as the holding's primary variable. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Identification is not optional and is made on the light; the SECC code, the manifestation and the crimson inner fire must align before anything is recorded as an appearance, and the form field stays marked unidentified. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the light, not the shape. The relic shifts between object forms and holds none of them, so the identifying feature is the crimson fire inside it: log the colour, the depth at which it appears to sit within the object, whether it pulses, and the heat, which is fever-hot and reads on an instrument at a distance it should not. The form is recorded in a separate field and is marked unidentified by default, because the watch is trained on the light alone — a dozen reference images, all of different objects, all showing the same glow from within. The earlier approach of cataloguing observed forms was found to be actively misleading, with watch members looking for a shape from the list and failing to register an unlisted one. That catalogue is kept as a record of what has been seen and is marked across its face as not an identification aid.
 
 ## Origin
 - **Formation:** The Relic formed from the grief of an object repeatedly lost and rediscovered.
 - **The Sorrow:** The instability of belonging—returning home only to find home has forgotten you.
 - **The Event:** An artifact left the city, was destroyed or hidden, and later returned to a district that had changed beyond recognition.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Nobody who can be named. Whoever carried the artifact out of the city, whoever lost it, hid it or destroyed it, and whoever lived on the street it came back to are all beyond the record. The district it returned to had changed past recognition and had no memory of it, which is the sorrow, and the file cannot repair that by naming anyone.
 - **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around Zone B, Old Lament — until the Grudge was dense enough to become a Object/Place. The sorrow is old. The entity is just its current shape.
 
 ## Behavior
@@ -147,7 +147,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Home to No One Who Knew Me is recorded as an Object/Place with Object-Void manifestation and Grudge elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Read it in the light and in the witnesses. A falling gauge presents as dimming — the inner fire sinking deeper into whatever the object currently is, the heat dropping toward the street's own, the form holding steady for longer. The pressure eases and nothing is settled; it will go, and it will come back, and nothing anybody does here affects either. A rising gauge presents as **familiarity**. The object begins to look like something: a tool from a trade the observer's family worked, a household thing from their childhood, something they are sure they have seen before. The form changes according to the history the observer remembers, so a watch member who finds the relic recognisable is reading their own past and not the object, and that is the point at which they are relieved.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -174,7 +174,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | The user may confuse return with restoration and lose present memories. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The activation trigger is touch or recognition by someone who remembers it, which makes the tool classification a registry convention and not a field practice: the use and the hazard are the same act. The relic is not equipped, not carried, and not deliberately activated under any standing authority, and no exception has been granted in the holding's operation. Containment remains Viderehan and Ferrehan, performed at distance. What it returns when triggered is a lost object or memory, briefly, to where it used to be — and the recorded risk is that the user mistakes a return for a restoration, which the file states in the plainest available terms: it may return an object without returning the person who owned it.
 
 ### Log and Method
 
@@ -189,7 +189,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 The escalation pattern is specific to Home to No One Who Knew Me: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone B, Old Lament — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish a cordon at a distance that keeps the public out rather than keeping the relic in, verify from the light whether an appearance has become an activation, and clear unshielded persons from the street. Enforce the recorded protocol, which on this holding is a protocol of non-interference: nothing is approached, handled, moved, contained or marked, and the watch's entire function is to record and to keep others away. That passivity has been challenged in review as an abdication and was defended in writing in terms the file still carries — the relic is a thing that was lost, destroyed, hidden and returned by other people's decisions, the facility has no reason to believe it would improve matters by adding its own, and a watch that does nothing is at least not the next thing that happens to it.
 
 ### Detailed Activation Record
 
@@ -202,7 +202,7 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 | **Risk** | Critical (δ) Object-Void producing Grudge pressure; The user may confuse return with restoration and lose present memories. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** what constituted the recognition → who recognised it and what they took it to be → first visible change in the light → what was returned, where it was returned to, and for how long → witness effect, with each witness's task sheet attached → duration → management condition. The second field records the witness's own history rather than the object's, because the form is drawn from the observer, and it is kept with the exposure record instead of in the operational log. Viderehan and Ferrehan remain the only valid Work Types, and nobody touches it during a response.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -220,13 +220,13 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A single line, reaching up to three targets standing one behind another
+**Falloff Rule:** 100% to the first target, 70% to the second, 50% to the third — the strike loses conviction with each person it passes through.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the impact and the lingering heat are tracked apart.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Home to No One Who Knew Me's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure. The strike carries the source's signature, and those hit report a moment of not recognising the room they are standing in.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also mislay small possessions at a rate the wing has measured and declines to explain.
 
 ### M.A.W. Suit — Home to No One Who Knew Me's Plate
 
@@ -242,9 +242,9 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Home to No One Who Knew Me's kind of pressure.
+**Ability:** Grants resistance to Grudge pressure, shielding the Body against the force this source carries. It gives no protection whatever against the confusion effect, which is not pressure and passes through every rating in the set.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull and their sense of belonging somewhere dulls with them. Wearers describe their own quarters as a place they are staying.
 
 ### M.A.W. Stigma — Home to No One Who Knew Me's Ember
 
@@ -254,17 +254,17 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat while this piece's source entity is the subject of the cycle, and nothing at all elsewhere
 
 **Ability:** Recalls one lost object to the wearer's hand.
 
 **Cost:** The wearer feels the object's entire history as personal grief.
 
-*Stigmas are granted at random by Home to No One Who Knew Me upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, as unscheduled as the appearances themselves, and nothing obliges one.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Home to No One Who Knew Me's element. No protocol produces Stigmas. They emerge from Home to No One Who Knew Me's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design the cost is immediate and personal, and the sorrow carried in it can wake — which on this set presents as the certainty of having been somewhere before, in a place the wielder has demonstrably never been. No protocol produces a Stigma; it comes from the source at the source's disposition or not at all.
 
 ### Field Use Record
 
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Performance and human cost are separate axes and the grade measures only the first. An efficient piece from this source can still leave its wielder Fractured, hollowed or sorrow-bound, and the costs here attach to memory and place rather than to the body, so they are reported late or not at all. Read both columns, authorise on the second, and ask the wielder where they are from.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or recognition by someone who remembers it. Effect: Returns a lost object or memory to its previous location briefly. Duration: Until the returned thing is acknowledged or forgotten again. Risk: The user may confuse return with restoration and lose. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Home to No One Who Knew Me's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Observe in pairs, from the standing district watch, with a written task sheet that a second person signed before entry. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the street, and the condition that ended the appearance. The task sheet is part of the method rather than administration: a worker who cannot recall why they are in the district reads what they wrote down before they entered it, and the second signature exists because an early sheet was found to have been amended by the worker during an episode. The entity's appearance is its history made visible rather than a guide to behaviour — a thing that keeps coming back to a street that has no record of it is what belonging looks like once it has stopped being mutual.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -306,16 +306,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Home to No One Who Knew Me (N-IVδ-641 [GO]) is logged as a Object-Void manifestation expressing Grudge. The Relic formed from the grief of an object repeatedly lost and rediscovered. Held at Zone B, Old Lament — ambient. The Relic appears without a consistent schedule.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Old Lament District Watch Sheet, Year 4238>**
 It glows during the Sorrow Tide.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Recognising the Relic>**
 The instability of belonging—returning home only to find home has forgotten you.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the routes and hands through which it passed. (Stable); Ferrehan: Remains present while the worker bears uncertainty. (Decrease). Personnel report confusion between an object's former and current identity.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Minute on the Non-Interference Rule>**
 The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
 
 ## 최종 관찰 (Final Observation)
@@ -345,12 +345,12 @@ Something rests where the dust was undisturbed. It glows as if it has just cross
 
 Home to No One Who Knew Me does not exist in isolation. Its recorded relationships with The Forgotten Market Stall, The Broken Mirror, The Orphaned Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Solo baselines first, which on this holding means waiting: there is no interval between appearances and no precursor, so a baseline is assembled from whatever the watch happens to record. The relations on file concern loss, return, or things that outlast the people who knew them, so the question to settle is whether the light responds to the other presence at all, the form being unreliable and the heat being the only stable measurement available. Log the first cross-entity response, the distance that activates it, the duration, the gauge change on both sides, the operational impact, and whether separation ends it.
 
 
 ### Entity Interaction Record
 
-Home to No One Who Knew Me must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This relic must be assessed as one of a group of sorrows made from return rather than as an isolated object in the Old Lament. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -358,7 +358,7 @@ Home to No One Who Knew Me must be assessed as part of an entity network, not as
 | **The Broken Mirror** | Reflects the Relic's former owners. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Orphaned Bell** | Tolls when the Relic returns. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties separately, bring the second no nearer than the cordon, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the street, and whatever persists after separation. The field this holding adds is the witness record: who was present, what each of them thought the object was, and whether any two agreed.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -405,9 +405,9 @@ Some sorrows mourn a home. Home to No One Who Knew Me mourns the return — the 
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Treat the record as a starting point and the watch sheet as the authority, and understand what the posting actually is. There is no interval, no pattern and no precursor, so containment here is a standing watch in a district with no end date and no expectation of activity — a duty that consists of being present in case something appears. Boredom is written into the protocol as the operational hazard, and the roster office maintains a standing list of unrelated district tasks that can be abandoned instantly without consequence, so that nobody is ever rostered to wait and nothing else. The list is short, is reviewed each cycle, and has been added to twice, both times by watch members who had found something useful to do and said so. Alongside that sits the archive work: establishing, for each recorded appearance, what the location used to be. Three sites have been traced to buildings demolished before anyone now serving was born. The research has no containment application, the file concedes as much, and it is funded as archive work rather than operations, which is the arrangement that carried it through two budget reductions. Where the entity contradicts this record, trust the entity and preserve the contradiction.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every appearance, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, verify the four pillars — gauge, seal, personnel, position — and add the three this holding needs. Every witness's task sheet is collected and compared against what they say afterwards, with discrepancies logged as exposure and never as unreliability. Any watch member who reported the relic as recognisable is rotated off, since the form is drawn from the observer's own history and a recognisable relic means the observer has become the instrument. And the district association is briefed after every appearance — by choice rather than obligation, briefly and factually. Their standing position, minuted at the first meeting and never revised, is that the object belongs to the district whether or not the district remembers it, and that they would rather hear about it from the facility than from one another.
 ## Apex Record
 
 ### Appearance Without Schedule
@@ -449,9 +449,9 @@ District watch duty is paired with unrelated work in the Old Lament so that nobo
 
 - **Classification detail:** Home to No One Who Knew Me is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the crimson light inside it and by nothing else. The shape will be wrong, and more precisely it will be whatever the person looking has reason to find familiar.
+- **Record detail:** Relic-class entities are numerous in the archive and several are logged as shifting or returning. Confirm the designation and the manifestation before anything is booked; the instructions diverge at the practical point, which here is that this one is never handled under any circumstances.
+- **Containment detail:** There is no seal, no chamber and no custody. Containment on this holding is a rotation, a cordon used only when the public is present, and a briefing given to the people who live there. What crosses no boundary, because there is no boundary, is the confusion: it reaches whoever happens to be in the street, including people with no connection to the facility, and those encounters are logged with the holding and followed up by the district association rather than by the wing.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-641
