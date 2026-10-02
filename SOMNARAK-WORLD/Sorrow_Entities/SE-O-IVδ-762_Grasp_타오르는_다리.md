@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Grasp.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle lowers the gauge and quiets the calling; it does not reach anybody on the far side, and the figure reforms over the same gap with the same roll of names.
+- The condition that moves this holding toward a breach is not gauge drift but reply: an answer given to the voice, or a rescue promised within hearing of it, moves the count at once and the threshold here is one.
+- The 20–28 Han-Energy yield is drawn from a Critical-grade figure that holds a conversation, and the exposure it costs is social rather than physical. Budget recovery for personnel who have heard their own names in it, not for an injury that will never present.
+- M.A.W. extraction here strips equipment from a rescuer, and the Crown's recorded cost is the rage of every failed rescue. Authorise it as its own event, with its own briefing, never as a reward attached to a good cycle.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Grasp's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The team confirms which side of the gap it is working from, fixes the marked detour, and sets the no-crossing line before the figure is in view. Nobody approaches with an open rescue commitment outstanding elsewhere in the district.
+2. **Clash:** Work proceeds across the gap and never over it. The figure calls; the team works through Flerehan and Ferrehan, logs every name the voice uses, and treats each answer given as a gauge event to be recorded rather than as a lapse of discipline to be corrected.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not promise rescue; acknowledge the limits of one person**.
 
 ### Consequences
 
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Grasp’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Grasp’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- The longer the exposure, the deeper the wound, and the wound presents as competence. Those who stay in earshot stop hearing a stranger's voice and begin hearing one that knows them; judgement goes first, so the worker does not panic but instead produces a plan to cross, and the plan is coherent.
+- The M.A.W. is never costless. The Requiem weeps through its wielder, the Shroud takes the small pleasures, and the Crown hands over a rage belonging to a rescue the wearer never attended. All three costs are codified in the equipment file and all three are charged on every use.
+- Failure to reach the resolution condition ends the cycle with the figure unsoftened and the calling louder, and what escapes is a bridge-shape moving through corridors that collapses under anybody who steps onto it.
 
 ## Appearance
 **Primary Form:** A humanoid bridge of burning crystal, weeping warm tears across the Desolate.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A humanoid bridge of burning crystal, weeping warm tears across the Desolate.
-- **Position / movement:** Notable Features: Its tears burn without damaging, its body floats over empty ground, and it carries the rage of failed rescue.
+- **Position / movement:** Holds position above a gap in the Desolate terrain, arch surveyed and unmoved; it floats over ground that has no support beneath it.
 - **Element signature:** Lament
 - **Registered location:** The Desolate, near The Scar
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid bridge of burning crystal, weeping warm tears across the Desolate. |
-| **Position / movement** | Notable Features: Its tears burn without damaging, its body floats over empty ground, and it carries the rage of failed rescue. |
+| **Position / movement** | Holds position above a gap in the Desolate terrain, arch surveyed and unmoved; it floats over ground that has no support beneath it. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Identification** | Cross-check the arch, the gap beneath it and the Lament signature against the designation before contact; a burning Fragment and a burning Sovereign look alike at distance in blown dust. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the span before the figure — the width of the gap it stands over, the surveyed position of the arch, and the distance at which the heat is first felt. Then record the two things this holding needs that the standard fields do not ask for. The first is the roster of personnel who heard their own name, pronounced correctly, in a voice they do not know; that is a finding about an encounter rather than a staffing note, and it travels to the counselor with the log. The second is whether the arch has moved, because it has not, and on the day it does the entire approach plan around the gap is void. Describe the fire in measurements — colour, height, whether the tears leave the body as liquid or as light, whether the crystal is translucent at the crown. The figure is not 'eerie' and not 'unsettling'. It is a person-shaped crossing that is on fire, suspended over a drop, and it is addressing you by name.
 
 ## Origin
 - **Formation:** The Bridge formed from a crossing destroyed while people were still on it.
 - **The Sorrow:** The grief of trying to rescue people who could no longer be reached.
 - **The Event:** A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The caravan that was mid-crossing when the Han-storm took the bridge, listed in full in the Apex Record from the departure post's own roll, and the one rescuer who stood on the near side and kept calling after there was nothing left to call across. The record does not name the rescuer. The relief office's review, held in this file, found that the response was prompt, correctly organised, and could not have arrived in the time available.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Grasp is recorded as a Subject with Subject-Lament manifestation and Lament elemental expression. The current record places it at The Desolate, near The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** Read it in the calling. A decrease sounds like the voice losing its addressee — fewer names, longer gaps, the tone shifting from summons to weeping; the figure is being accompanied rather than answered, which is what Flerehan and Ferrehan are for. An increase sounds like success: the voice becomes specific, urgent and encouraging, as though the crossing were nearly complete. That is what the work having fed it sounds like, and it is pleasant to hear. Record the worker's condition separately from the gauge, because the two diverge here more than the standard form allows — a cycle that ends with the gauge down and the worker quietly convinced that the far side is reachable is a failed cycle and must be written up as one. If the figure says anything this file does not contain, and in particular anything that is true about the person it is speaking to, that is the most important line of the day.
 ## Breach Behavior
 
 > *"Grasp has broken free. Collapses under anyone who crosses."*
@@ -161,8 +161,8 @@ The behavior table is a snapshot, not a system. The classification and origin co
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Clear the gap first and the personnel second. No suppression line is ever formed across the span; block the approaches at both ends of the detour, confirm the count of who is on which side before Wardens move, and drive it back with Pugnahan only once nobody is standing anywhere that would make a crossing look sensible.
+- **Sorrow Gauge on breach:** Begins at 40% and is driven by reply rather than by elapsed time. Each answer given to the voice — a name returned, a shout across the gap, a rescue stated as a commitment within hearing of it — adds 10%, and the figure draws no distinction between a promise meant sincerely and one shouted to steady a colleague. Each 10% comes off when the responding team states aloud, on the open channel, the number of people it cannot reach and does not intend to attempt. Silence holds the reading steady; it does not lower it. A large and well-resourced rescue response therefore raises this gauge faster than the entity manages on its own, which is why the suppression condition is addressed to the responders and not to the subject.
 
 ## M.A.W. Equipment
 
@@ -181,13 +181,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** Line; the thrust runs out along the span and takes up to 3 targets standing in file
+**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%; the reach shortens with every body it passes through, as the crossing did.
+**Damage Application:** Resolve the direct hit first, then apply the multiplier to any Tick damage as a separate calculation. The two are never folded into one roll.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Grasp's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — composure, willpower, and the capacity to decline. The Requiem carries the calling into the strike, and targets cut by it report being briefly addressed.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder inherits the unanswered call. Prolonged use produces involuntary weeping, and operators begin finishing sentences that were spoken to somebody else.
 
 ### M.A.W. Suit — Grasp Shroud
 
@@ -203,9 +203,9 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Grasp's kind of pressure.
+**Ability:** Grants resistance to Lament pressure, shielding the Mind against the particular weight of a rescue that cannot be completed. The Shroud is rated against the heat as well as the grief; both are listed and neither is removed by the other.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small pleasures, and to small requests. Colleagues report that the wearer stops being asked for help and does not notice that it has stopped.
 
 ### M.A.W. Stigma — Grasp Crown
 
@@ -215,17 +215,17 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat while the Crown's source entity is the subject of the cycle, and nothing at all anywhere else in the holding
 
 **Ability:** Heals minor wounds through warm sorrow.
 
 **Cost:** The wearer feels the rage of every failed rescue.
 
-*Stigmas are granted at random by Grasp upon a successful work, not manufactured.*
+*The Crown is given, never made. It is granted during a successful cycle, at the source's discretion, and no procedure or stated probability obliges it to appear.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Grasp's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity rather than ordinary equipment. The listed benefit is strongest when the operator holds to the intended use pattern; used outside it, the wielder pays more and risks waking the sorrow embedded in the piece, which here surfaces as heat, as weeping, or as the conviction that somebody is calling. The source alone decides when a Stigma is granted. There is no procedure for it and no guarantee of it — it is an act of sorrow, not a stage of production.
 
 ### Field Use Record
 
@@ -236,7 +236,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes pressure delivered to entities and says nothing about what the piece does to the person carrying it. For this set the operator column is the dangerous one: a γ rating sits beside weeping, numbness, and a borrowed rage. Read both columns before authorising, and authorise on the second.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Grasp's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Observe from a fixed station on one side of the gap, and write the encounter up as a conversation rather than as a sighting: first audible call, first name used, first reply given if any, and the condition under which the exchange ended. Appearance is diagnosis and not prediction — the fire records what happened to the crossing, not what the figure intends next. The single measurement with predictive value is the gap itself, so survey it on every visit, because the arch's position is the only line in this record that has never changed.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -266,16 +266,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Grasp (O-IVδ-762 [O]) is logged as a Subject-Lament manifestation expressing Lament. The Bridge formed from a crossing destroyed while people were still on it. Held at The Desolate, near The Scar. Its tears are warm and emotionally painful.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Desolate Patrol Log, Year 4238>**
 Moves through Desolate paths and broken crossings. Personnel feel rage at people they could not save. It is strongest near The Scar.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Summary, Post-Contact Interview>**
 The grief of trying to rescue people who could no longer be reached.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not promise rescue; acknowledge the limits of one person. Work response — Flerehan: Warm tears soften the figure. (Decrease); Pugnahan: Fire rises and the Bridge lashes outward. (Increase); Viderehan: Reveals the failed rescue and its victims. (Stable); Ferrehan: Tests whether the worker can remain near impossible rescue. (Decrease). It does not distinguish rescue from impossible return.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 — <Oral Tradition Excerpt, Director's File>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
@@ -305,12 +305,12 @@ The Bridge burns above a gap that no longer exists. Warm tears fall through the 
 
 Grasp does not exist in isolation. Its recorded relationships with The Sunken Bridge, The Scar Walker, The Flowing Bridge should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity alone before they are observed together, because resonance cannot be measured against an unknown. All three recorded relations here are crossings or the guardian of one, so the specific question is whether the calling transfers — whether a second structure begins addressing personnel by name, and whether those names come from its own event or from this one. Log trigger distance, duration, gauge movement on both sides, and whatever remains after separation. Do not assume a repeat is safe: these relationships have shifted with the condition of the ground, and a resonance recorded in still weather has behaved as a cascade during a Han-storm.
 
 
 ### Entity Interaction Record
 
-Grasp must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Grasp must be read as one node in a group of crossings rather than as a solitary figure over a gap. The relations below are canonical, which means they have been observed and filed, not that they are stable. Each may present as assistance, as obstruction, as indifference, or as a condition that only appears in certain weather, and a result obtained once licenses nothing during a Sorrow Tide, a breach elsewhere in the district, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -318,7 +318,7 @@ Grasp must be assessed as part of an entity network, not as an isolated profile.
 | **The Scar Walker** | Guards the ground around its manifestation. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Flowing Bridge** | Carries the same anger toward impossible rescue. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Work one direction at a time. Establish both baselines, bring the pair into range by the shorter approach, and log the first shared change with its distance and timestamp; then separate and log what persists. The required extra field for this holding is the name record — who was addressed, by which presence, and whether the name was correct — since that is the only available measure of which entity is driving the exchange.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -365,9 +365,9 @@ Some sorrows mourn the dead. Grasp mourns the reaching — the calls across the 
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this file whole and act on the whole of it, because the part that fails at this holding is not usually the containment procedure. The gap is real, the surface will bear weight, the detour is long, and the prohibition on crossing has been proposed for relaxation three times on technically sound grounds and refused three times. That refusal is the containment measure. It has to be renewed by people who did not witness the event, against a cost paid daily by everyone who walks the long way, and it is therefore the element of this holding most likely to be revised by somebody acting entirely reasonably. Where observation contradicts the file, the file is wrong: record the discrepancy, report it, and let the record grow rather than tidying it away — and route any proposal to shorten the route as an escalation item rather than as a works matter.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, Ordeal, crossing attempt, or exchange in which the voice was answered, confirm the gauge reading, the Fracture risk, the surveyed position of the arch, and the integrity of the barriers at both ends of the detour before the next cycle is authorised. The name roster from the encounter is reviewed with the counselor and not with the line supervisor. No part of this review is a disciplinary process: personnel who answered are reporting a property of the entity, and a review that makes them reluctant to say so has destroyed the only instrument this holding owns.
 ## Apex Record
 
 ### Tears That Burn Without Harm
@@ -413,9 +413,9 @@ The two-page record of the one crossing attempt is signed by every person posted
 
 - **Classification detail:** Grasp is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is The Desolate, near The Scar.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the gap and not by the fire. Several Desolate entities burn; only this one is a person-shaped span holding position over ground that is not there, with a surveyed arch that has never moved.
+- **Record detail:** The archive holds several entries concerning bridges, two of which are filed as relations of this one. Confirm the full designation and the manifestation before a cycle is booked, because the handling instructions differ at exactly the point that matters — whether anything may be walked across.
+- **Containment detail:** Containment here is a line on a map and a refusal, not a wall. The heat carries past the markers, the voice carries further than the heat, and personnel on the far side of the detour have reported being addressed without ever having seen the figure. A correctly contained, un-breached Grasp is still talking to the district.
 ## Document Information
 
 **Document ID:** SE-O-IVδ-762
