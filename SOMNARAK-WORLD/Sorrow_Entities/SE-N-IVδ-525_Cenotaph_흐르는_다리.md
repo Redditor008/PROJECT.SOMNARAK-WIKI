@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Cenotaph's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The team works along the span rather than in front of it. Flerehan and Ferrehan both lower the gauge, and both require the worker to stay on the bridge while it is moving. Pugnahan is answered with flowing force and is recorded as the only approach that has ever put personnel in the water that is not there.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Controlled acknowledgment and team support**.
 
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resilience**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Cenotaph’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Cenotaph executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time alone does nothing here. What accumulates is crossings: each person who goes over the span unaccompanied adds to the load it believes it is carrying, and a shift of heavy single traffic does more than a day of standing idle.
+- The shrine, the plate and the ring are all made from a promise that outlived the person it was given to. Each activation borrows that refusal to let go, and the operator keeps a share of it. The recorded cost is not pain. It is that the operator stops being able to hand a task over.
+- An encounter that ends without the responsibility being placed somewhere does not end; it is carried out of the chamber. Cenotaph does not pursue the team. It follows the one who left still holding it, and the file notes that this is usually the person who spoke least.
 
 ## Appearance
 **Primary Form:** A long serpentine creature of flowing stone and dark water, its body arching and coiling like a living bridge across corridors.
@@ -111,7 +111,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A humanoid figure whose body flows like a bridge over moving water. Its arms protect people who are already gone.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Record the span, not the position: which two points the body is bridging, how much corridor it occupies, and whether the arch rose or fell during the observation. A Cenotaph that has lowered its span is not settling. It is making itself easier to walk on.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Echo Gardens
 
@@ -123,15 +123,15 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; several Echo Gardens records share this origin event, and the wrong identification here means arriving with the wrong idea of what the entity is trying to do. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the surface before anything else — stone when it is holding, moving water when it is not, and the transition between them is the only reliable warning this entity gives. Note the arms, which reach for people who are not in the corridor, and the direction they are reaching. They have twice pointed at a door before anybody came through it.
 
 ## Origin
 - **Formation:** The Bridge formed from a promise to protect someone who had already been lost.
 - **The Sorrow:** The grief of defending the dead while blaming oneself for their absence.
 - **The Event:** A guardian promised to keep a crossing safe, but an Outside Sorrow surge destroyed it before help arrived.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A guardian of a river crossing in the Echo Gardens, and the people who were on the crossing when the surge took it. The Keepers' record names the guardian and does not name the lost, because the guardian's own account of that day never managed to list them.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -149,7 +149,7 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Cenotaph is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at Zone D, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling gauge under Flerehan means the reaching was answered rather than avoided; a falling gauge under Ferrehan means the worker stayed on a surface that was moving. Rising means the entity was treated as an obstruction in the corridor. The distinction personnel most often get wrong is that standing still on the span is participation, and stepping off it is not.
 ## Breach Behavior
 
 > *"Cenotaph has broken free. Collapses under anyone who crosses."*
@@ -157,17 +157,17 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Cenotaph breaks free and stalks the corridors on foot. It collapses under anyone who crosses. |
+| **Movement** | It leaves on foot and re-spans the first busy corridor it reaches. It does not chase; it lies across the route and gives way under whoever crosses alone. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Secondary Effect** | The span gives way under load, into water that is not there and from which personnel are nonetheless recovered wet. |
+| **First Target** | Whoever steps onto the span first, and by preference whoever stepped on without waiting for the rest of their team. |
+| **Escalation** | Drain rises by 5 for each solo crossing made while it is free, and falls by 5 for each crossing made in pairs. Time off the span changes nothing either way. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — it leaves the chamber on foot and takes up a span somewhere else in the facility, generally across a route people are using.
+- **Containment priority:** Close the crossing rather than the entity. Post the alternate route, mark the span out of service, and ensure nobody is asking it to carry anyone — it has stood down every recorded time this was done, and has pushed through every barricade it was given instead.
+- **Sorrow Gauge on breach:** The gauge tracks crossings, not turns. Each person who goes over the span alone raises it by 10; each crossing made by two people together, or signed for by somebody who is not the one crossing, lowers it by the same. A breach has twice been ended by sending personnel back over in pairs.
 
 ## M.A.W. Equipment
 
@@ -189,12 +189,12 @@ The clear water trickling within the shrine never overflows its drainage trough.
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The shrine strikes one target and does not spread along the span. Personnel further down the same body are unaffected, which is the only reason work on a bridged corridor is permitted at all.
+**Damage Application:** Record the strike and the collapse separately. The Grudge lands first and the span gives way after, and reports that treat the fall as part of the hit lose the interval that would have let the worker move.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Cenotaph's grudge signature in the strike.
+**Ability:** Grudge damage to the body, delivered as weight rather than as a blow. The shrine carries the entity's self-blame into the strike and falls hardest on anyone it has already decided to shelter.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Old wounds ache and faint bruising rises, in the pattern of a load carried across the shoulders.
 
 ### M.A.W. Suit — Cenotaph Plate
 
@@ -210,9 +210,9 @@ The clear water trickling within the shrine never overflows its drainage trough.
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Cenotaph's kind of pressure.
+**Ability:** Turns Grudge aside from the body, which is the only damage this entity delivers. The plate is what permits a worker to be standing on the span when it gives way.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes dull and the wearer becomes slow to step off a surface that has started to move, which on this post is the exact hesitation the entity punishes.
 
 ### M.A.W. Stigma — Cenotaph Ring
 
@@ -222,17 +222,17 @@ The clear water trickling within the shrine never overflows its drainage trough.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against Cenotaph itself, and no effect on the Echo Gardens entities it is filed beside.
 
 **Ability:** Prevents emotional manipulation during rescue work.
 
 **Cost:** The wearer feels every person they cannot save.
 
-*Stigmas are granted at random by Cenotaph upon a successful work, not manufactured.*
+*The ring is not manufactured. Cenotaph gives one to a worker who said out loud whose responsibility the crossing was, and it has given none to a worker who took the whole of it onto themselves.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Cenotaph's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of Cenotaph rather than ordinary equipment, and the condition is that the duty is shared. Carried by an operator working in a team that has named who is accountable, the shrine and the plate hold to grade. Carried by one working alone, the cost scales and the Grudge in them becomes active, which here means the operator cannot put the equipment down at end of shift. The ring is given, not issued.
 
 ### Field Use Record
 
@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grades describe extraction stability rather than human safety, and on this post the two diverge sharply. The plate is dependable and the shrine is unremarkable. What no grade records is that the ring, which costs nothing measurable, leaves its wearer volunteering for every crossing on the roster.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -265,7 +265,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Cenotaph's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Record the first sign, which is the cold arriving before the span is visible; the two points the body is bridging; the number of crossings made during the observation and how many were made alone; and the condition that ends the encounter, which is responsibility for the crossing being stated out loud and accepted by somebody else present.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -273,17 +273,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Cenotaph (N-IVδ-525 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Bridge formed from a promise to protect someone who had already been lost. Held at Zone D, Echo Gardens. Its form changes with the movement of nearby sorrow.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Flows through paths and memory-crossings in the Gardens. Personnel feel paralyzing fear of failing to protect others. It protects empty paths and absent people.
+**Entry 2 — <Excerpt from Crossing Register, Echo Gardens>**
+Cycle 1,778, third quarter. Crossings logged at the Gardens span: four hundred and six. Made in pairs or larger: ninety-one. Of the remainder, eleven resulted in a report of paralysing fear of failing to protect somebody, all eleven by personnel crossing alone, and nine of the eleven on the return leg when the rest of the party had already gone ahead. The register was not kept for this purpose and is the best record the wing has.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of defending the dead while blaming oneself for their absence.
+**Entry 3 — <Statement of a Worker Who Crossed Twice>**
+"The first time I went over on my own and it held, and I thought that meant it liked me. The second time there were two of us and it held easier — you could feel the difference through your boots. What I would put in a report, if a report had a place for it, is that it is not deciding whether to drop you. It is working out whether anyone else has got you, and if the answer is nobody, it takes that job on itself, and it is not able to do it."
 
 **Entry 4 — <Containment Notice>**
 Management: Controlled acknowledgment and team support. Work response — Flerehan: Reaches for the worker and lowers its anger. (Decrease); Pugnahan: Retaliates with flowing force. (Increase); Viderehan: Shows the promise and the failed crossing. (Stable); Ferrehan: Weighs the worker's resolve beneath moving pressure. (Decrease). It becomes more active during Outside Sorrow events.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+**Entry 5 — <Order Closing the Crossing>**
+The Gardens span is withdrawn from service with effect from this cycle. The alternate route by the eastern walk is posted at both approaches and is to be used for all movement, including by personnel who consider the detour unnecessary. The crossing is not closed because it is unsafe. It is closed because it is still on duty, and it cannot be relieved of a duty the facility keeps asking it to perform. Responsibility for movement across the Gardens now sits with the routing office and is recorded there under a name.
 
 **Threat rating:** Per entity classification. See SECC Classification table for details.
 
@@ -314,12 +314,12 @@ A bridge flows through the Garden without water beneath it. Its surface carries 
 
 Cenotaph does not exist in isolation. Its recorded relationships with The Sunken Bridge, The Grieving Colossus, The Guardian of the Gate should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Observe Cenotaph alone and across a full traffic cycle before any paired study, since its load is made of other people's movements and a quiet corridor misrepresents it. In shared conditions, record whether the span lengthened toward the other entity, whether the arms changed direction, and whether the surface held.
 
 
 ### Entity Interaction Record
 
-Cenotaph must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Cenotaph is filed with the Echo Gardens records because the surge that took the crossing is the same event that produced several of them. The relationships below are what the record will support. They are not alliances; they are a guardian and the things it believes it failed, sharing a zone.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -327,7 +327,7 @@ Cenotaph must be assessed as part of an entity network, not as an isolated profi
 | **The Grieving Colossus** | Both mourn those who cannot be reached. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Guardian of the Gate** | Shares protective duty and impossible goodbyes. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Full-cycle baseline first, then the shared encounter: the distance at which the span began to extend, which way the arms reached, how long the surface stayed solid, and where the body had settled an hour after the other entity withdrew. The last field is what shows whether the crossing was transferred.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -361,20 +361,20 @@ Some sorrows are about loss. Cenotaph is about the failed protection — the pro
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Refer to the Work Type responses in the Behavior section, and note that two of the four lower the gauge here, which is unusual for a Grudge subject.
 - Standard containment protocols apply.
 **Observation Notes:**
 - See Origin section for formation details.
 - See Combat Record for engagement parameters.
 **Cross-References:** See entity’s interaction record and cross-references in the full file.
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** The guardian of the crossing, named in the Keepers' record and not in this file.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this as a record of a duty that was never discharged rather than of an aggressive subject. Every number here was generated by people walking somewhere, and the entity's figures move with the traffic plan more than with anything the containment team does.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Outside Sorrow event, after any change to corridor routing in Zone D, and after any incident in which a worker crossed the span alone — the last whether or not the gauge moved, because single crossings accumulate below the reporting threshold. A review is not an instrument for finding who should have gone with them.
 ## Apex Record
 
 ### The Span Across Corridors
@@ -416,9 +416,9 @@ The shoring timber and jacks staged beside the affected runs are rotated out bef
 
 - **Classification detail:** Cenotaph is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone D, Echo Gardens.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the span and the surface. Other flowing-form entities are catalogued in Zone D; this is the one that arches between two fixed points and offers to be walked on.
+- **Record detail:** Check the designation before approach. More than one Echo Gardens record carries the surge; they differ on what they want, and this is the one that wants someone else to take the crossing.
+- **Containment detail:** A sealed Cenotaph is not an idle one. It continues to hold a span nobody is using, and the load it reports is unchanged. Containment here is measured on the traffic register rather than on the door.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-525

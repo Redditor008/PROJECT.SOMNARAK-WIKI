@@ -24,6 +24,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-16`](R-16_REPORT_PROGRESS_COUNTER.md) | Always Report the Progress Counter |
 | [`R-17`](R-17_SHORTHAND_AND_WORKING_AGREEMENTS.md) | Shorthand and Working Agreements |
 | [`R-18`](R-18_BATCH_VERSUS_CAREFUL.md) | Divide Every Defect Set Into Batch-Short and Careful-Detail |
+| [`R-19`](R-19_DISPOSITION_CLASSES.md) | Disposition classes: Positive, Neutral, Negative — effect on Facility 01, kept separate from threat rating |
 
 ## Precedence
 
