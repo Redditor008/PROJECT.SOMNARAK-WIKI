@@ -39,10 +39,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Life Behind Glass.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A completed cycle quiets the rain behind the pane for a time. It does not open the window, which has no opening mechanism, and it does not change what the glass is for; the view resumes on its own.
+- There is no breach counter here and no violent exit to prepare for. The failure state is a worker standing at the pane past the end of their shift, and it arrives quietly enough that the first indication is usually an unanswered roster check.
+- The 10–14 yield is drawn in minutes at the glass, and the exposure it costs is not measured in pressure but in duration. Rotation schedules, not protective equipment, are the controlling variable for this assignment.
+- Extraction requires a worker to hold the view deliberately rather than observe it, which is the one behaviour this entity rewards and the one it punishes. Book it as its own operation with a named relief who is instructed to interrupt.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Life Behind Glass's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **Tension:** The team locates the pane in the tunnel wall, confirms it is showing falling rain rather than a scene, logs the time at which each worker first looks at it, and establishes who is responsible for calling them away.
+2. **Clash:** There is no exchange of blows. The Window shows each worker a life they did not take, and the encounter proceeds for as long as they keep watching it; gauge movement tracks whether anyone in the party is still working or whether all of them are now an audience.
+3. **Resolution:** The cycle closes when every worker present has looked away under their own power and reported what they saw, with the gauge back beneath 25%.
 
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Life Behind Glass’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Life Behind Glass executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Duration is the entire hazard. Nothing about a short exposure is harmful and nothing about a long one looks harmful from outside; the worker is simply standing still, apparently attentive, and the longer they stand the less of a reason they can find to stop.
+- Every piece cut from this Window extends the wearer's sight and gives them nothing to do with it. The prism shows a chamber in shifting colour, the shroud keeps its wearer composed, the shard reveals grief happening somewhere else. All three are instruments of watching, and the toll each one takes is the growing sense that watching is sufficient.
+- An unresolved encounter does not escalate; it continues. The Window keeps showing, the worker keeps looking, and the shift ends around them. Recovery from a long exposure is slow and is measured by whether the worker resumes initiating tasks rather than waiting to be assigned them.
 
 ## Appearance
 **Physical Form:** A window-shaped object that displays only falling sorrow. It is warm, wet, and fixed inside the tunnel wall.
@@ -116,18 +116,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A window-shaped object that displays only falling sorrow. It is warm, wet, and fixed inside the tunnel wall. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Fixed in the tunnel wall and seated as though the masonry were built around it; no mounting, hinge, frame-gap or opening mechanism has been located on either face. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** The pane itself does not change — same dimensions, same dark rain, same warmth and damp on the glass — so recording the entity's appearance is close to worthless and personnel should stop spending cycles on it. Record the observer instead. Note the exact time each worker begins looking, their distance from the pane, whether they are still facing their actual task, how long before they speak, and who ended the viewing. The Window's only measurable output is what it does to the person in front of it, and a report describing the rain in careful detail while omitting that the author watched it for forty minutes has documented the wrong subject entirely.
 
 ## Origin
 - **Formation:** The Window formed from a view that was never taken.
 - **The Sorrow:** The weight of observing life from a distance and never entering it.
 - **The Event:** A tunnel worker watched the city through a small window but never left the depths; the view became an object.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One man, unnamed, who lived beside this pane and watched every joy, departure and season pass on the other side of it without once going out to join them.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Life Behind Glass is recorded as an Object/Place with Object-Weight manifestation and Lament elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** Viderehan holds the gauge level, and the reason is worth stating plainly: observation is what this entity already is, so looking at it adds nothing and takes nothing away. The worker sees the world they never entered and the Window is unmoved by being seen. Ferrehan lowers the gauge, because enduring here means continuing to look without crossing — holding the view, acknowledging what is on the other side, and declining both to climb through and to walk away. That is the thing the man at the pane never managed in either direction. A falling gauge means a worker has held that position for a full cycle. A rising gauge usually means someone stopped working and started watching, and the distinction between the two is invisible from across the tunnel; it must be established by asking.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -173,7 +173,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
 | **Risk** | The viewer may become unable to return to present work. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic requires line of sight and nothing else — it begins the moment the operative looks and ends the moment they look away, with no detachment procedure and no cooldown. It cannot be used to work the Window, and it grants no authority over it; Viderehan and Ferrehan remain the only valid responses.
 
 ### Log and Method
 
@@ -188,7 +188,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 The escalation pattern is specific to Life Behind Glass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** There is nothing to cordon. Count heads, identify who is at the pane, and record how long they have been there before you speak to them. Retrieve by stepping into their line of sight rather than by touching them or by covering the glass — a worker who is pulled away reports the loss as something done to them, and the entity keeps that. Then check the shift board, because this Window is most active during long shifts and the real finding is usually in the roster rather than in the tunnel.
 
 ### Detailed Activation Record
 
@@ -201,7 +201,7 @@ The escalation pattern is specific to Life Behind Glass: it is not a generic bre
 | **Risk** | Minor (α) Object-Weight producing Lament pressure; The viewer may become unable to return to present work. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** time of first look → what the glass showed → how long the viewer held it → who ended it and how → the viewer's state on the following shift. The scene is logged in the viewer's own words and is never summarised, since the glass has not yet shown the same outside life twice and each account is the only record that will exist of it.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -222,12 +222,12 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The full figure against the one target standing in the projected light, and nothing to anyone outside it — the mosaic falls where the panes aim it and reaches no further.
+**Damage Application:** Score the light's first pass once, then score the exhaustion again on each following turn while the tesseract keeps turning; the two resolve as separate events against the same resistance.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Life Behind Glass's lament signature in the strike.
+**Ability:** Turns slowly on its own axis and throws shifting coloured mosaics across the chamber; anyone standing in the projection is worn down by what the light shows them rather than by the light itself.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder stops moving. Operatives have been recovered mid-engagement watching their own prism turn, uninjured, with no account of the intervening minutes beyond saying that the colours had not finished.
 
 ### M.A.W. Suit — Life Behind Glass Shroud
 
@@ -243,9 +243,9 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Life Behind Glass's kind of pressure.
+**Ability:** Han-silk wrapping that holds the wearer's composure steady under Lament pressure, tightening as it nears the pane it was drawn from.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The shroud achieves composure by holding everything at one remove, and it does not distinguish between sorrow and anything else; wearers remain entirely steady and describe the shift afterwards as something they saw rather than something they were in.
 
 ### M.A.W. Stigma — Life Behind Glass Shard
 
@@ -255,13 +255,13 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the bearer's rating while working the Window, conditional on the bearer having looked away from it at least once during the cycle
 
 **Ability:** Shows distant emotional events.
 
 **Cost:** The wearer feels the sorrow of every view.
 
-*Stigmas are granted at random by Life Behind Glass upon a successful work, not manufactured.*
+*The Shard is given, not taken. It has only ever appeared on workers who completed a Ferrehan cycle and then left the tunnel without looking back at the pane, and no procedure has reproduced one deliberately.*
 
 ### M.A.W. Use Notes
 
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** These are α-grade numbers and they are honest ones — three to six damage, fifteen Echoes, no hidden performance. What the grades cannot express is that the entire set improves what its bearer can perceive and improves nothing about what they can reach. Read the Cost lines as the specification and the damage figures as a footnote.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Looking through the glass. Effect: Shows a memory of a life beyond the tunnel. Duration: Until the viewer looks away. Risk: The viewer may become unable to return to present work. Tool Use Profile — I-Relic Operational Rule: The relic. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Life Behind Glass's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Work in pairs with the roles declared in advance: one worker looks, the other keeps time and does not. The viewer reports the scene in full and in their own words before leaving the tunnel, since the glass does not repeat and an account deferred to the end of shift comes back shorter every time. The timekeeper logs duration, the moment the viewer stopped responding to speech, and who ended the viewing. Then they swap, and the timekeeper's account is taken the same way. A single worker alone at this pane is not an observation method; it is the entity's own history being repeated with a clipboard.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Life Behind Glass (N-Iα-518 [D]) is logged as a Object-Weight manifestation expressing Lament. The Window formed from a view that was never taken. Held at Zone B, deep tunnels. It has no view of physical surroundings.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Tunnel Patrol Note, Zone B>**
 The rain on its surface is emotional rather than liquid.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Post-Shift Debrief, Verbatim>**
 The weight of observing life from a distance and never entering it.
 
 **Entry 4 — <Containment Notice>**
@@ -345,12 +345,12 @@ The tunnel wall holds a window, but beyond it there is no sky. You see a life co
 
 Life Behind Glass does not exist in isolation. Its recorded relationships with The Torn Window, The Memory Rain, The Sleeping Weight should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** This entity defeats the standard baseline procedure and the record should admit it. The glass has never shown the same outside life twice, so there is no repeatable solo reading to compare a joint reading against; what can be established instead is a distribution — how long workers hold the view, how readily they look away, how much of the scene they can still recount a day later. Build that across a dozen cycles before any second entity is brought into the tunnel. Then log the separation, the duration, the gauge movement, and the single question that matters here: whether the other presence appears on the far side of the glass. It has not yet. The day it does, the methodology changes and this paragraph is void.
 
 
 ### Entity Interaction Record
 
-Life Behind Glass must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Window is positioned in a transit tunnel that most of Zone B passes through, so it has more incidental contact with personnel and holdings than its Minor rating suggests. The interactions below were recorded under particular traffic conditions, and traffic through the deep tunnels is seasonal; re-establish the viewing distribution before relying on any of them.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -358,7 +358,7 @@ Life Behind Glass must be assessed as part of an entity network, not as an isola
 | **The Memory Rain** | The glass fills with falling memories. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Sleeping Weight** | Shows the world beyond endless duty. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Keep the timekeeper role in force throughout. Record the separation at first response, the duration of the joint exposure, the gauge movement, what the glass showed during it, and whether any worker present had to be called away. The last of these is the measurement; everything else is context for it.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -407,9 +407,9 @@ Some sorrows are about being trapped. Life Behind Glass is about the trap of obs
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** A file is a pane. It shows the reader an entity from a position of complete safety, in full detail, with nothing required of them — and this particular entity exists because a man found that arrangement comfortable enough to live his life inside. Personnel who are fluent in the archive and have never worked a cycle should treat that as a direct warning rather than a figure of speech. Read this record, then go and stand in the tunnel. Where the two disagree, the tunnel is correct, and the discrepancy is logged rather than quietly reconciled.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every incident, pull the shift roster alongside the incident log. Re-verify the gauge, the pane's condition, the exposure times of everyone present, and the hours each of them had already worked — this Window is most active during long shifts, and in the majority of logged events the controlling factor was scheduling rather than anything the entity did. A review that examines the tunnel and not the rota has examined the wrong half of the incident.
 ## Trivia
 
 - The Window has no opening mechanism.
@@ -421,9 +421,9 @@ Some sorrows are about being trapped. Life Behind Glass is about the trap of obs
 
 - **Classification detail:** Life Behind Glass is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone B, deep tunnels.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify by the rain. The pane shows falling dark water and nothing else until someone looks directly into it, and the glass is warm and wet to the touch in a tunnel that is neither.
+- **Record detail:** Zone B holds more than one Lament residue formed from a life observed rather than lived; confirm the designation N-Iα-518 and the Object-Weight manifestation before applying this file to any of them.
+- **Containment detail:** The Window is contained in the sense that it cannot move and cannot be opened, and in no other sense. It sits in a working transit tunnel with no door between it and the personnel who walk past it every shift, which is accepted because sealing the tunnel would cost more than the entity does. The containment measure for this holding is the rotation schedule.
 ## Document Information
 
 **Document ID:** SE-N-Iα-518
