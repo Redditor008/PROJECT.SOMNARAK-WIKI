@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Ember Phoenix.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle lets one burning run its course and end. It does not end the sequence. The next ignition follows on its own schedule carrying every death before it, and a team that has worked this holding well has bought the entity a rest, not a release.
+- The listed threshold is 1 and that is not a typographical thinness — it is the whole statement of this holding. One failed or refused cycle brings the count to zero. Nothing here has any margin left; the entity has been required to rise more times than the record can number, and what tolerance it had was spent long before this facility existed.
+- The 20–28 Han-Energy yield is high and comes from a cycle that was going to happen regardless of whether anyone was present to harvest it. The wing has never been comfortable with that arrangement and the discomfort is minuted: this is the only holding whose yield is produced by the entity's suffering continuing on its own terms rather than by any work performed on it.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. What is taken here is a piece of an endurance that outlasted its owner's willingness, and the pieces behave accordingly: they keep working after the wielder has stopped wanting them to.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Ember Phoenix's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The team establishes position upwind of the ash fall and fixes the one decision in advance, in writing, before the fire is in view: what it will take to make them intervene. The threshold is set in the corridor because inside the encounter every member of every team that has worked this holding has wanted to put the fire out.
+2. **Clash:** Work proceeds across a long engagement — twenty-four turns is typical and the duration is the point. The entity cycles through ignition, collapse and return while the team holds station, suppresses movement only, and does not touch the burning. Resilience is tracked on every member each turn, since the pressure here erodes the capacity to keep standing still.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Allow the cycle to finish; forced extinguishing causes violent rebirth**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Ember Phoenix’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Ember Phoenix defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact invites the full documented cycle: the deaths and returns compressing into each other until the whole engagement area is burning and reigniting at once. Personnel caught in that condition report their own exhaustion arriving as rage, and the two are difficult to separate afterwards.
+- Every M.A.W. activation extracts a real price — recollection, sensation, years — set out in the equipment file and paid in the field rather than on paper. The pieces from this source charge in a particular currency: the wielder's ability to stop, rest, or admit that they have had enough.
+- Without resolution the entity escapes and roams, which is the breach type on the classification. It does not seek anyone out. It moves, burning, through whatever is in the way, because the one thing it has never been permitted to do is remain still.
 
 ## Appearance
 **Primary Form:** A massive bird made of crimson flame and black ash. It burns, dies, and reforms from its own remains.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A massive bird made of crimson flame and black ash. It burns, dies, and reforms from its own remains.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Mobile across the Desolate and not held to any boundary; record the bearing, the rate, and which stage of the cycle it is in when sighted.
 - **Element signature:** Grudge
 - **Registered location:** The Desolate — mobile
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive bird made of crimson flame and black ash. It burns, dies, and reforms from its own remains. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile across the Desolate and not held to any boundary; record the bearing, the rate, and which stage of the cycle it is in when sighted. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Verify the designation, the manifestation and the cycle stage against the file before Work begins; the wrong entity is the wrong sorrow, and on this holding the wrong stage is the wrong instruction. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the cycle rather than the shape, because the shape is only ever a moment of it. Each sighting is timed and placed within the sequence: ember, ignition, full wing, collapse, ash, re-ignition. Log the interval between the last collapse and the next spark to the second — that interval is the only measurement this holding provides that has ever shortened, and the shortening is the finding. Take the core separately: dark crimson fire that is not fire, beating slowly like an exposed heart, ringed in charred metal and fused growth, heavier than its size accounts for and heavier still when nobody is watching. The heat does not read as heat on an instrument. It reads as held anger, and that is the phrase the file uses because no better one has been proposed in eleven years. Do not write 'burning'. Write which burning, and how long since the last.
 
 ## Origin
 - **Formation:** The Phoenix formed from survival that became another kind of death.
 - **The Sorrow:** The burden of having to rise again when no one asks whether you are ready.
 - **The Event:** A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One survivor of the Desolate who got out of catastrophe after catastrophe, and was praised for it each time. The record keeps the escapes and keeps nothing about rest. Nobody in it ever asks her whether she wants to go on; the question does not appear in any surviving testimony, and its absence is the whole of the sorrow.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Ember Phoenix is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Read it in the interval between collapse and re-ignition. A falling gauge presents as lengthening — the ash lying longer, the spark slower to come, the fire smaller when it does. The pressure is absorbed and the source is untouched; she is resting, not finished, and the next ignition is already on its way. A rising gauge presents as vigour. The returns come faster and bigger, the wings carry further, and the thing looks magnificent and unkillable in exactly the way the old stories describe. That is the failure state. Magnificence here is the measure of how little recovery she has been allowed. If the entity responds differently from the record, write it down before acting on it, and resist the particular temptation this holding produces, which is to read a strong return as a good outcome.
 ## Breach Behavior
 
 > *"Ember Phoenix has broken free. Ignites everything."*
@@ -161,8 +161,8 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Containment priority:** Physical suppression of movement, and of movement only. The distinction is the most important line in this dossier and the easiest to lose under pressure: the breach is a thing roaming where it should not roam, so barriers, corridor denial and evacuation are all authorised, while extinguishing is prohibited outright. Forced extinguishing causes violent rebirth and has done so on every occasion it has been attempted. The prohibited action is also the instinctive one, which is why it is written here rather than in a footnote.
+- **Sorrow Gauge on breach:** Opens at 40% and moves on interference rather than on elapsed time. Each attempt to put the fire out, pin it in place, or require it to rise before its own cycle calls for it adds 10%. Each 10% comes off when a full cycle — burn, collapse, ash, return — is allowed to complete with nobody doing anything. Standing still holds it steady. This is the only gauge in the wing that a team lowers by refraining, and the briefing states the consequence plainly: on this holding, doing your utmost is how it gets worse.
 
 ## M.A.W. Equipment
 
@@ -182,9 +182,9 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Ember Phoenix's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body — structural integrity and the physical capacity to continue. The strike carries the source's signature, and those hit describe the wound as something they have had before.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old injuries ache, every one of them, in the order they were received. Prolonged use leaves faint bruising over scars that healed years ago.
 
 ### M.A.W. Suit — The Rebirth Plate
 
@@ -200,9 +200,9 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Ember Phoenix's kind of pressure.
+**Ability:** Grants resistance to Grudge pressure, shielding the Body against the kind of force that expects you to get up again. Rated highly for sustained engagements, which is the only kind this source produces.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull and their sense of their own limits dulls with them. Wearers work past exhaustion without registering it and are poor judges of their own fitness to continue; the medical hold on this piece exists for that reason.
 
 ### M.A.W. Stigma — The Rebirth Ember
 
@@ -212,17 +212,17 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat while this piece's source entity is the subject of the cycle, and nothing on any other holding
 
 **Ability:** Revives the wearer once after fatal injury.
 
 **Cost:** The wearer returns carrying the emotional memory of dying.
 
-*Stigmas are granted at random by Ember Phoenix upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, as unbidden as the next ignition, and no amount of correct procedure summons one.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Ember Phoenix's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forcing a piece against its design amplifies the cost immediately and can wake the sorrow carried in it, which on this set presents as the conviction that one more effort is required and that stopping now would waste everything already spent. No protocol produces a Stigma; it comes from the source or not at all.
 
 ### Field Use Record
 
@@ -233,7 +233,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade measures output and says nothing about what a piece takes. A flawless performer from this source can still hollow its wielder's memory or bind them to the sorrow it came from, and the costs in this set are unusually hard to self-report, since the thing eroded is the faculty that would notice. Read both columns and authorise on the second, then ask the wielder's team rather than the wielder.
 
 ## 관찰 기록 (Observation Log)
 
@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Ember Phoenix's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Observe across at least one complete cycle; a single-stage sighting is of limited value here and has repeatedly produced identifications of the wrong stage as the whole entity. Record the first visible sign, the first emotional response in the observer and what prompted it, the first instrument-measurable change in the surrounding air, and the condition that ended the encounter. The entity's form is its sorrow rather than its strategy — a thing that burns, dies and returns is what survival looks like once nobody has asked the survivor whether she wants to keep going — and it forecasts nothing about behaviour.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -264,16 +264,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Ember Phoenix (O-IVδ-190 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Phoenix formed from survival that became another kind of death. Held at The Desolate — mobile. The Phoenix's cycle has no recorded first death.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Desolate Pursuit Log, Year 4238>**
 Flies through the Desolate, leaving fire and ash. Nearby entities become agitated and personnel relive repeated loss. Its flame burns memory as readily as matter.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Teams Who Intervened>**
 The burden of having to rise again when no one asks whether you are ready.
 
 **Entry 4 — <Containment Notice>**
 Management: Allow the cycle to finish; forced extinguishing causes violent rebirth. Work response — Flerehan: The flames lower and the Phoenix delays rebirth. (Decrease); Pugnahan: It attacks in a blazing dive. (Increase); Viderehan: Shows memories from previous cycles. (Stable); Ferrehan: Tests whether the worker can witness death without demanding resurrection. (Decrease). Personnel feel hope before understanding the exhaustion beneath it.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Minute on the Extinguishing Prohibition>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
@@ -303,12 +303,12 @@ The sky catches fire. Wings cross the Desolate, then collapse into ash. You expe
 
 Ember Phoenix does not exist in isolation. Its recorded relationships with The Vanished Flame, The Grieving Colossus, The Wrath Flame should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity alone across a full cycle before any approach; an interaction reading taken against an unbaselined cycle is worthless here. The relations on file concern fire, endurance, or returning, so the question to settle is whether the proximity alters the interval — whether the other presence makes the return come sooner. Log the first mutual reaction, the distance that triggers it, the duration, the gauge change on both sides, the operational impact, and whether separation ends it. Repeat each cycle; a settled dynamic in the Desolate has been reversed overnight by a Sorrow Tide, an Ordeal or a transformation more than once.
 
 
 ### Entity Interaction Record
 
-Ember Phoenix must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Ember Phoenix must be assessed as one of a group of sorrows that renew themselves rather than as a solitary fire crossing the Desolate. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -316,7 +316,7 @@ Ember Phoenix must be assessed as part of an entity network, not as an isolated 
 | **The Grieving Colossus** | The Colossus mourns each rebirth. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Wrath Flame** | Both carry ancient fire and fury. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring them into range at the start of an ash phase rather than mid-burn, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on the ground between them, and whatever persists after separation. The field this holding adds is the interval, measured before and after, since that is where this entity records a relationship.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -363,9 +363,9 @@ Some sorrows mourn the dead. Ember Phoenix mourns the surviving — the compulso
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this layer against the classification, the Combat Record and the equipment profile before acting on any single entry, and notice what the suppression condition asks of the organisation holding it. Allow the cycle to finish. The containment measure is institutional patience, which is the resource this facility has least of: it requires a standing order that no team may improve on, a shift clock that tolerates a twenty-four-turn engagement ending in nothing visible, and supervisors who will not ask why the fire is still burning. Three separate proposals to develop a suppressant for this holding are on file. All three were declined, and the minute attached to the last one is quoted in the Story Log because it is the clearest statement the wing has produced on the matter: the thing that would make her stop has never been a stronger measure, and we have no mechanism for the thing it actually is. Where the entity contradicts this file, trust the entity and log the contradiction rather than resolving it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, escape, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, re-verify the gauge, the exposure log, the entity's position and the cycle interval before operations resume. Two further items are required here. Every intervention is logged with the name of the person who made the call, not to apportion blame but because the wing needs to know how often the prohibition fails under pressure, and the figure is used to revise the briefing rather than the roster. And any worker who has begun describing their own fatigue in the entity's terms is stood down for a cycle, with that stand-down recorded as a routine rotation.
 ## Apex Record
 
 ### The Cycle
@@ -409,9 +409,9 @@ The prepared volume is kept beside the current one in the same unlocked drawer, 
 
 - **Classification detail:** Ember Phoenix is a Subject with Entity (IV) — Self-aware, cyclical, eternal coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the cycle and never by the silhouette. A great many things burn in the Desolate; this is the one that collapses into its own ash and comes back out of it, and the return is the identifying feature.
+- **Record detail:** Fire-form entities are common in the archive and at least four are logged as mobile in the Desolate. Confirm the designation and the manifestation before a cycle is booked, because the instructions diverge at the decisive point — whether the fire may be put out, and here it may not.
+- **Containment detail:** There is no cell. This entity is mobile across open country and what is called containment is a moving perimeter and an evacuation order travelling ahead of it. Personnel downwind report warmth, old aches, and an unwillingness to sit down; those reports are collected with the holding and treated as exposure data rather than as morale.
 ## Document Information
 
 **Document ID:** SE-O-IVδ-190
