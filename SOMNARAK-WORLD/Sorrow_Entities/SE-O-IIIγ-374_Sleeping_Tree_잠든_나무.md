@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Sleeping Tree.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle deepens the sleep for a season. It settles nothing: the promise is still unkept, the second caretaker is still not coming, and the entity grows only while asleep — so a well-run holding here is one in which the subject is quietly getting larger.
+- This holding carries no breach counter, and the absence is not an omission. Where no count is listed the Sorrow Gauge percentage is the whole of the activation mechanism, and the reading to watch is 75%; a count, where one exists elsewhere in the archive, runs down with failed cycles on any role — Subject, Object, Place or Relic alike — and this file simply does not have one.
+- The 16–22 Han-Energy yield is drawn without waking the source, which makes it the least physically hazardous work in the zone and the easiest to over-schedule. Exposure here is measured in how many cycles a worker has sat beside it, not in what was done during any one of them.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction from a dormant source requires contact, contact is the activation trigger, and every piece in this β-grade set was taken from something that was asleep at the time.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,15 +86,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Sleeping Tree's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** There is no exchange here unless the team creates one. Viderehan and Ferrehan are worked at the recorded distance, contact with the roots is logged as an activation rather than as work, and the gauge is read against stillness — the entity's combat actions are things it does in its sleep, and every one of them is an involuntary movement rather than an attack.
+3. **Resolution:** The cycle ends when the Sorrow Gauge falls below 25% and the entity has not been woken — which on this holding means the team withdrew having touched nothing, carried nothing away, and promised nothing within earshot of the roots.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Sleeping Tree reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Extended exposure carries a cumulative and specific risk: the dream is persuasive, and workers who sit beside it across many cycles begin making arrangements for a life they have been shown rather than one they intend. Identity drift here arrives as plans.
+- The equipment file states what each piece takes and the field record has never contradicted it. The Oak-Blade aches in old wounds, the Plate dulls the reflexes it protects, and the Bracelet makes its wearer difficult to remember — the last of these has been described by three separate counselors as the heaviest cost in the β catalogue.
+- If the condition is not met the entity does not retaliate; it wakes, and waking is the whole of the catastrophe. A thing that has been growing in its sleep since the facility was built stands up, and the record is clear that it would walk.
 
 ## Appearance
 **Physical Form:** A vast dormant tree-beast coiled beneath the Alpha Tree, trunk a curled body, roots clenched around a broken promise. **Movement:** It does not move — yet; were it to wake it would walk on its roots.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Object-Weight
 - **Primary marker:** A large tree-shaped object sleeping beneath the Alpha Tree. Its roots are wrapped around a broken promise.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed, coiled, and dormant beneath the Alpha Tree; record the curl of the trunk and the position of the clenched roots, not a bearing — it has no orientation while it sleeps and will have one only once.
 - **Element signature:** Grudge
 - **Registered location:** Zone A, Alpha Tree
 
@@ -115,18 +115,31 @@
 | Field | Detail |
 |---|---|
 | **Form** | A large tree-shaped object sleeping beneath the Alpha Tree. Its roots are wrapped around a broken promise. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Fixed, coiled, and dormant beneath the Alpha Tree; record the curl of the trunk and the position of the clenched roots, not a bearing — it has no orientation while it sleeps and will have one only once. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+### Appearance States
+
+The classification above describes a dormant object and the Breach Behavior section describes something that charges through a floor. Both are this entity, recorded in two states. The distinction is operational: it determines which Work Types are valid, what may be measured, and whether the holding is a survey or an evacuation. Declare the state before any other field is filled in.
+
+| Field | Dormant Appearance | Waking Appearance |
+|---|---|---|
+| **Mode of presence** | Asleep, coiled, and load-bearing; a fixed feature of Zone A that the surveys treat as terrain. | Awake and upright, walking on its roots, extending them through the floor as it goes. |
+| **Form** | A vast tree-beast curled beneath the Alpha Tree, trunk read as a body, roots clenched around the promise. | The same body uncurled, and larger than the dormant measurements predict — it has been growing the entire time. |
+| **Movement** | None. It has not shifted position in the holding's recorded history. | Charges and thrashes; the roots travel ahead of the body through the floor. |
+| **Valid Work Types** | Viderehan and Ferrehan only, worked at the recorded distance. | None. Work is suspended; the response is evacuation and perimeter, and Pugnahan is held in reserve rather than applied. |
+| **Measurement** | Trunk circumference, root spread, and canopy depth, taken on the same schedule as the structural survey. | Nothing is measured during the event. The dormant measurements are the baseline the aftermath is read against. |
+| **Transition** | Holds while the Sorrow Gauge stays below 75% and nothing touches the roots. | Entered at or above 75%, or on contact. No return to the dormant state has been recorded, and the file does not claim one is possible. |
+
+**Appearance protocol:** Declare the state, then record within it. In the **Dormant Appearance**, take trunk circumference, root spread, canopy depth and the clearance between the crown and the Alpha Tree's own roots, on the structural survey's schedule rather than the observation schedule — these are building measurements, because the thing is holding part of Zone A up. Note what has changed since the last set, and expect change: it grows in its sleep, so a reading identical to the previous one is a reading to be taken again. Record the sound separately; the creaking is involuntary and its rhythm has been stable for years. Describe nothing as 'disturbing'. It has a circumference, a temperature that runs cold, a smell of char, and a measurable rate of growth, and those are the observations. In the **Waking Appearance**, nothing is measured and nobody stays to describe it.
 
 ## Origin
 - **Formation:** The Tree formed from a promise made in the wilderness and broken by return.
 - **The Sorrow:** The burden of promising to grow together, then leaving one person behind.
 - **The Event:** Two travelers planted a tree outside the city; one returned alone and carried the sleeping promise back.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Two travelers who planted a tree outside the city as a vow to grow old beside it, and the one of them who came back. The record does not name either. It notes that the survivor never returned to the tree, and that returning alone would have been the proof of the loss the planting was meant to prevent.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built nothing. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +157,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Sleeping Tree is recorded as an Object/Place with Object-Weight manifestation and Grudge elemental expression. The current record places it at Zone A, Alpha Tree; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Read it in the sleep. A falling gauge presents as settling — the creak lengthening, the roots slackening by a measurable fraction around what they hold, the cold easing toward ambient. The entity is quieter and it is not safer; this is stabilisation of a dormancy, not the resolution of anything. A rising gauge presents as liveliness, which is the hazard: the dream pressing further out of the body, phantom branches resolving at the edge of vision, the canopy appearing fuller than the measurements allow. Personnel find this beautiful and have said so in the logs. Any response the file does not describe is reported the same day — but the single observation that outranks every other is movement, of any size, anywhere on the body, because nothing in this record has ever moved.
 ## Activation Behavior
 
 **Activation Trigger:** Touching the roots while repeating the promise.
@@ -197,7 +210,7 @@ The escalation pattern is specific to Sleeping Tree: it is not a generic breach 
 | **Risk** | The worker may attempt to complete someone else's promise. |
 | **Management** | Use the valid Work Types and the management procedure listed above. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** contact or gauge reading → who made contact and what was said → first visible change in the body → content of the dream as reported → duration → condition under which the operator let go. The dream report is taken before the operator has spoken to anyone else, because it is consistent between operators and the consistency is the finding. Viderehan and Ferrehan remain the only valid Work Types throughout.
 ## Breach Behavior
 
 > *"Sleeping Tree has broken free. Extends roots through the floor, entangling personnel."*
@@ -205,17 +218,20 @@ The escalation pattern is specific to Sleeping Tree: it is not a generic breach 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
+| **State change** | Dormant Appearance → Waking Appearance. The transition is the event; everything below describes the second state only. |
 | **Movement** | Sleeping Tree breaks loose and charges, thrashing. It extends roots through the floor, entangling personnel. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
+| **Retained non-breach mechanic** | The relic function persists. Contact with the roots still shows the dream of the life the travelers intended to build, so personnel entangled during the event are being shown it while they are held — and it remains deaf to sound. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — the dormant state ends and the entity walks, which is the one thing the Appearance States table lists as having no recorded return.
+- **Non-breach mechanics retained in breach:** It still cannot be reached by sound, so klaxons, shouted orders and sonic deterrents are useless and the only recorded response is to the promise spoken at the roots. The relic function is still live, so contact still produces the dream. And it is still growing, which means the measurements taken during the quiet years are the only description of the body anyone will have.
+- **Containment priority:** Evacuate the layer above before anything else; the roots travel through the floor and the Alpha Tree holding is directly over it. Do not shout, do not sound klaxons at it, and do not attempt to recall or redirect it by voice — it could not be woken by sound and it cannot be steered by sound now. Wardens form a perimeter rather than a line of contact, and Pugnahan is held in reserve on the standing ground that nothing in this file has ever been improved by force.
+- **Sorrow Gauge on breach:** Opens at 40% and is driven by intervention rather than by elapsed time. Each attempt to rouse, restrain, cut, lift or redirect it adds 10%, and the count makes no distinction between a reckless attempt and a correct one. Each full hour in which it is neither touched nor addressed removes 10%. This is the only holding in the district where doing nothing is the treatment and the arithmetic says so plainly: a suppression team acting competently and continuously will raise this gauge faster than the entity can, and a team that withdraws to the perimeter and waits will lower it.
 
 ## M.A.W. Equipment
 
@@ -235,9 +251,9 @@ The petrified wood possesses the hardness of tempered steel combined with superi
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Sleeping Tree's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body — structure, footing, the integrity of what is standing. The Oak-Blade lands with the dull concussive weight of a shed branch and breaks guard stances rather than cutting through them.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old injuries ache in the days after use, and prolonged carriage leaves faint bruising along the forearms that no impact accounts for.
 
 ### M.A.W. Suit — Sleeping Tree Plate
 
@@ -253,9 +269,9 @@ The petrified wood possesses the hardness of tempered steel combined with superi
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Sleeping Tree's kind of pressure.
+**Ability:** Grants resistance to Grudge pressure, shielding the Body against weight, impact and the slow compression this source specialises in. The Plate is rated for falling mass as well as for grudge, which is the pairing this holding actually requires.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull by a measurable fraction, as though armoured in patience; wearers describe seeing a thing coming and declining, briefly, to move.
 
 ### M.A.W. Stigma — Sleeping Tree Bracelet
 
@@ -265,17 +281,17 @@ The petrified wood possesses the hardness of tempered steel combined with superi
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat while the Bracelet's source entity is the subject of the cycle, and nothing on any other holding
 
 **Ability:** Conceals the wearer's movement and emotional presence.
 
 **Cost:** The wearer becomes difficult to remember.
 
-*Stigmas are granted at random by Sleeping Tree upon a successful work, not manufactured.*
+*The Bracelet is given, never made. It is offered after a successful cycle at the source's discretion, which on this holding means it is offered by something asleep, and no procedure compels it.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Sleeping Tree's sorrow within the equipment may activate. and may produce an effect tied to Sleeping Tree's element. The Stigma is Sleeping Tree's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design, a piece amplifies its own cost and can wake the sorrow carried in it, which on this set presents as a cold that sits in the bones and the sense of an appointment not kept. Stigmas are not produced. This source offers them unpredictably after a successful cycle, as unpredictably as the sorrow that shaped it, and no quantity of correct procedure obliges an offering.
 
 ### Field Use Record
 
@@ -286,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade states what a piece does to entities and nothing whatever about what it does to the person carrying it. On this set the β rating sits beside aching wounds, dulled reflexes, and a wearer who becomes difficult to remember. Read the two columns together and authorise on the second, because the second is the one that follows people home.
 
 ## 관찰 기록 (Observation Log)
 
@@ -309,7 +325,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching the roots while repeating the promise. Effect: Shows the dream of the life the travelers intended to build. Duration: Until the dream ends. Risk: The worker may attempt to complete someone else's promise. Tool Use Profile — I-Relic Operational. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Sleeping Tree's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Observe on a fixed schedule from the marked station, and record four things: the measurements, the creak and its interval, any change in the dream pressure reported by the observer, and the condition under which the watch ended. Form follows sorrow and not intent — the shape says a promise went unkept, and says nothing about what the entity will do. Prediction comes from the growth figures instead, which is why they are plotted rather than filed, and why the plot is the first document a relief observer is shown.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -317,10 +333,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sleeping Tree (O-IIIγ-374 [N]) is logged as a Object-Weight manifestation expressing Grudge. The Tree formed from a promise made in the wilderness and broken by return. Held at Zone A, Alpha Tree. The Tree grows only while asleep.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Zone A Structural Survey, Year 4238>**
 It has never produced fruit.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on the Dream Reports>**
 The burden of promising to grow together, then leaving one person behind.
 
 **Entry 4 — <Containment Notice>**
@@ -356,12 +372,12 @@ The tree sleeps beneath roots older than the facility. Its branches move in drea
 
 Sleeping Tree does not exist in isolation. Its recorded relationships with The Returning Tree, The Broken Promise, The Forgotten God should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity alone; interaction data without a solo baseline is an anecdote. The three relations recorded here are all things that hold something after its owner has gone, so the question to be answered is whether proximity makes the sleep lighter — whether the creak interval shortens, whether the dream carries content that belongs to the other entity, and whether the growth rate changes in the weeks afterwards. Log range, duration, trigger, gauge movement on both sides, the field effect, and the residue after separation. A pairing that was quiet last cycle is a hypothesis and not a clearance; a Sorrow Tide, an Ordeal or a transformation event has reversed stable dynamics in this zone before.
 
 
 ### Entity Interaction Record
 
-Sleeping Tree must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Sleeping Tree must be assessed as one of a group of sorrows that outlasted the people who made them, rather than as an isolated dormant object. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that only appears under pressure, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -369,7 +385,7 @@ Sleeping Tree must be assessed as part of an entity network, not as an isolated 
 | **The Broken Promise** | Both preserve promises that survived their owners. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Forgotten God** | Sleeps in the same deep layer of sorrow. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties separately, bring them into range by the approach that requires no contact with the roots, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on the surrounding structure, and whatever persists after separation. The field this holding adds is the growth measurement, taken before the pairing and again a fortnight after it.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -416,9 +432,9 @@ Some sorrows mourn a companion. Sleeping Tree mourns the shared growth — the p
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read the classification, the activation record, the relic profile and the structural survey as one document, because the awkward fact about this holding only appears when they are laid side by side: the entity is load-bearing. It has been growing in its sleep beneath the Alpha Tree for longer than the facility has stood, the Zone A surveys treat it as terrain, and the plan for what happens to the layer above if it ever stands up does not exist in any version that has been approved. That is not a containment failure; it is a dependency nobody chose, acquired one quiet survey at a time by an institution that kept finding nothing wrong. Where observation contradicts the file, the file is wrong — log the deviation, report it, and do not reconcile it by amending the record. On this holding the contradiction worth preserving is the oldest one: a subject classified as able to breach, which has never moved.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every breach, Sorrow Tide, Ordeal, transformation attempt, and recorded contact with the roots voids the current baseline. Re-verify the gauge, the growth measurements, the exposure log and the condition of the floor above before the watch resumes. Dream reports are reviewed with the counselor and not with the line supervisor, and no part of this review is disciplinary: operators who touched the roots are reporting the only interior view of this entity anyone has, and a review that teaches them to leave it out of the log has closed the single window this holding possesses.
 ## Warden Record
 
 ### It Has Not Woken
@@ -448,9 +464,9 @@ Two travellers planted a tree beyond the city and one came back alone, carrying 
 
 - **Classification detail:** Sleeping Tree is an Object/Place with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone A, Alpha Tree.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the curl and by the clenched roots, not by the species. Several tree-form entities are held in Zone A; this is the one that is unmistakably a creature lying down, and the one whose roots are closed around something.
+- **Record detail:** Three entities in the archive are filed as relations of this one and two carry tree or promise in their common names. Confirm the designation and the manifestation before a cycle is booked: the handling instructions diverge at the point that matters most here, which is whether the entity may be touched at all.
+- **Containment detail:** Containment holds a body that was never trying to leave. The dream is not contained by anything: personnel on the floor above report sleeping heavily, waking rested, and remembering a place beyond the city they have not been to, and those reports come from staff who have never been assigned to this holding and in several cases do not know it exists.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-374
