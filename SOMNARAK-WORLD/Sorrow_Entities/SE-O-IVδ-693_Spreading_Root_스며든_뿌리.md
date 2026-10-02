@@ -86,15 +86,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Spreading Root's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The Root is already under the floor the team is standing on, so there is no approach phase and no safe distance — only a choice about what to do with the ground. Flerehan and Viderehan open the buried history; Ferrehan takes the weight and holds it. Pugnahan hardens the roots and widens the spread, and the file records it as the one Work Type that has never improved an encounter here.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen to the Root's history; cutting roots causes further spread**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
-- Spreading Root’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Spreading Root's dossier.
+- The pressure accumulates rather than peaks. A worker who stays past the recommended cycle is not overwhelmed; they simply find, later that day, that standing up takes a decision. The weight is cumulative across shifts as well as within them, which is why the roster for this post is read by total hours and not by consecutive ones.
+- The sceptre, the mantle and the staff all draw on buried weight, and weight is not destroyed by being lifted — it is held by somebody. Each activation transfers a measure of it to the wielder, who ages slightly and does not recover the difference. There is no costless extraction here; there is only a change in who is carrying.
+- If the Root's history is never heard out, nothing bursts. It spreads — along the same path it always takes, through remembered places, under rooms where something was buried rather than settled — and the recorded breach is the point at which the facility's own floors become part of its route.
 
 ## Appearance
 **Physical Form:** A creature of braided black roots in the rough shape of a beast, threading into floors and walls as it drags onward. **Movement:** It drags itself like a beast, rooting into whatever it passes.
@@ -118,15 +118,15 @@
 | **Position / movement** | The roots spread into floors and walls while the figure moves slowly. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins; if one of them does not, stop there. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the ground before the creature. Note where the roots have entered floor or wall, how far the threading runs beyond the body, and whether the shadows left behind are still present at the end of the observation. The beast-shape is the part that moves; the root-system is the part that matters, and it is the part most reports leave out.
 
 ## Origin
 - **Formation:** The Root formed from sorrow that was buried rather than resolved.
 - **The Sorrow:** The weight of grief hidden beneath homes, streets, and family histories.
 - **The Event:** Buried sorrow beneath the Old Lament pushed upward through the structures until it took a wandering shape.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Generations of households in the Old Lament who buried grief under their own floors, each burial private, none of them unusual at the time. No originator can be named because the practice was ordinary. The Keepers' note records that the ground was asked about and that no family would be the first to answer.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Spreading Root is recorded as a Subject with Subject-Phantasmal manifestation and Weight elemental expression. The current record places it at Zone B, Old Lament; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Loosening roots and a falling gauge mean the buried history has been allowed up, and what comes with it belongs to the ground rather than to the worker. Hardening means the work was taken as an attempt to clear the Root away, and the spread that follows is not retaliation but the ordinary behaviour of something that grows when cut. The distinction is reliable enough to brief on.
 ## Breach Behavior
 
 > *"Spreading Root has broken free. Grasps at ankles, dragging personnel down."*
@@ -155,14 +155,14 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Movement** | Spreading Root breaks loose and charges, thrashing. It grasps at ankles, dragging personnel down. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
 | **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever is standing on ground with something buried under it. |
+| **Escalation** | Drain rises by 5 for each additional room the threading reaches, not for each turn elapsed; a Root that is spreading slowly escalates slowly. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — but not flight. The Root does not leave; it extends, taking the route that remembered places give it, and it is found in the next room before it is seen leaving this one.
+- **Containment priority:** Do not cut, and do not block the corridor — a severed root spreads in two directions and a blocked route is answered through the floor. Stand on the ground the Root came out of and have its history read aloud there. The suppression on file is a hearing, not a barricade.
+- **Sorrow Gauge on breach:** It climbs by distance rather than by turn — each new room the roots reach adds to it — and it falls when something buried under the ground the Root is standing on is named out loud by somebody who knows it. Where nobody present knows, the gauge holds and the spread continues at the same rate.
 
 ## M.A.W. Equipment
 
@@ -182,9 +182,9 @@ Planted into the ground, the spurs burrow deep into structural foundations to de
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Spreading Root's weight signature in the strike.
+**Ability:** Weight damage to the Han rather than to the body — it goes for sorrow reserves and karmic debt, and a target with little of either barely registers the blow. The sceptre carries buried mass into the strike and lands hardest on whoever is already carrying the most.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder grows heavier by degrees and ages slightly with prolonged use. Neither effect reverses, and both are recorded in hours rather than in uses.
 
 ### M.A.W. Suit — The Rootbound Mantle
 
@@ -212,17 +212,17 @@ Planted into the ground, the spurs burrow deep into structural foundations to de
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to work against the Root itself, and no effect on any other weight-bearing entity in the wing.
 
 **Ability:** Anchors the wearer against physical and emotional force.
 
 **Cost:** The wearer becomes increasingly unable to leave a place they have entered.
 
-*Stigmas are granted at random by Spreading Root upon a successful work, not manufactured.*
+*The staff is not manufactured. The Root offers one after a cycle in which its history was heard to the end, and it has never offered one where a root was cut.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Spreading Root's element. No protocol produces Stigmas. They emerge from Spreading Root's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of the Root rather than ordinary equipment, and the condition is that the ground is listened to rather than cleared. Used as intended, the sceptre and the mantle hold to grade. Used to force a path, the cost scales and the weight held in them becomes active, which here means the wielder carries the mass of whatever was buried under the room they were standing in. The staff is given after a hearing and cannot be requisitioned.
 
 ### Field Use Record
 
@@ -233,7 +233,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Performance and cost run on separate axes here. δ measures the spread and the pressure. It says nothing about the mantle, which is unremarkable in the field and anchors the wearer so thoroughly that two of them have had to be told, by colleagues, that the shift had ended.
 
 ## 관찰 기록 (Observation Log)
 
@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Spreading Root's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Record the first sign, which is usually a floor sounding wrong underfoot rather than anything visible; the first sensation, which is weight arriving in the chest without exertion; the extent of the threading at entry and at exit; and the condition that ends the encounter, which is the history being heard out or the team withdrawing while it is still being told.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -264,17 +264,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Spreading Root (O-IVδ-693 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight. The Root formed from sorrow that was buried rather than resolved. Held at Zone B, Old Lament. The entity's roots spread through existing cracks rather than solid material.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Floor Survey, Old Lament>**
 Moves through walls and floors by extending roots. Personnel feel buried sorrow and physical pressure. It grows during the Sorrow Tide.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Testimony Taken Above the Root>**
 The weight of grief hidden beneath homes, streets, and family histories.
 
 **Entry 4 — <Containment Notice>**
 Management: Listen to the Root's history; cutting roots causes further spread. Work response — Flerehan: Roots loosen and reveal the grief below. (Decrease); Pugnahan: Roots harden and spread aggressively. (Increase); Viderehan: Shows the buried history of the ground. (Stable); Ferrehan: Weighs the worker with increasing pressure. (Decrease). Personnel report grief before seeing the figure.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+**Entry 5 — <Hearing Record, Old Lament>**
+The hearing is held on the ground the roots came out of, and it is held aloud. Households of the Old Lament are invited and not compelled; the record notes which were invited, which attended, and which declined, and it does not characterise the declines. What is said is written down as it is said. No burial named at a hearing has ever been dug up afterwards, and the standing undertaking given to the district is that none will be.
 
 **Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
@@ -305,12 +305,12 @@ The floor hums beneath you. A root crosses the wall, then another, and a figure 
 
 Spreading Root does not exist in isolation. Its recorded relationships with The Maw, The Whispering Walls, The Grieving Colossus should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline the Root alone and over a full route rather than at one point — it is the only mobile entity in this group and a single-position baseline will understate it. When another entity shares the ground, record where the threading changes direction, whether it goes toward the other entity or away, and whether the shadows left behind are in the new path or the old one.
 
 
 ### Entity Interaction Record
 
-Spreading Root must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Root is one of several things in Zone B that grew out of something put under the floor and left there. The relationships below are the ones the record will support. They are not alliances; they are a shared foundation, and what happens between them happens underneath, where it is recorded after the fact by what the surface does.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -318,7 +318,7 @@ Spreading Root must be assessed as part of an entity network, not as an isolated
 | **The Whispering Walls** | Uses the Walls to spread buried voices. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Grieving Colossus** | Its tears feed the Root's growth. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baseline over the full route first, then the shared encounter: where the paths meet, what altered in the rate or direction of spread, how long the change held, and whether the Root resumed its original route after separation. It has not resumed twice, and in both cases the new route ran under a room where something had been buried.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -365,9 +365,9 @@ Some sorrows are about grief. Spreading Root is about buried grief — the sorro
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file describes something that cannot be moved, only heard. Every figure in it — gauge, spread rate, yield — assumes personnel who stand still on compromised ground, and the δ rating reflects what happens when they do not. Where the file and the floor disagree, the floor is right, and the discrepancy is logged rather than reconciled.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any structural work anywhere in the Old Lament, and after any excavation at all — the last unconditionally, since digging in this district has twice changed the route within a day. A review that finds a new route has found a new burial, and the finding belongs to the district survey rather than to the post.
 ## Apex Record
 
 ### Rooting as It Goes
@@ -413,9 +413,9 @@ The map is maintained in a single large sheet, amended rather than redrawn, and 
 
 - **Classification detail:** Spreading Root is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone B, Old Lament.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the threading, not by the shape. The beast-form varies between sightings; the root-system entering floor and wall does not, and it is the part that confirms the designation.
+- **Record detail:** Check the designation before work begins. More than one rooted entity is recorded in this district, and they differ on the one point that matters here — this is the one that must not be cut.
+- **Containment detail:** Sealed is not contained. The threading passes beneath the seal because the seal is anchored in the same ground, and staff in rooms beyond it report floors that sound hollow and shadows in the shape of roots on walls the Root has never reached.
 ## Document Information
 
 **Document ID:** SE-O-IVδ-693
