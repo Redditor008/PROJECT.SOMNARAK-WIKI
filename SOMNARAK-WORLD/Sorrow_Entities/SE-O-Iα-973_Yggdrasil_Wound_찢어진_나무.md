@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Yggdrasil Wound.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A completed cycle closes the split slightly and brings the roots into view. The two halves do not rejoin, no cycle has ever rejoined them, and personnel should understand that the objective here is a tolerable separation rather than a repair.
+- The activation threshold stands at 4 and counts down. A failed cycle takes one, and so does any occasion on which a memory is denied in its presence — by the worker, about themselves, out loud. A cycle in which both accounts were allowed to stand can return one.
+- A yield of 10–14 at Low difficulty understates the selection problem. This entity cannot be worked by whoever is available; it can only be worked by personnel who are able to perceive it, and that is a much smaller and more particular group than the roster suggests.
+- Extraction is performed in perception, by an operative who by definition carries an unresolved conflict of their own. It is scheduled separately, with a grounding partner present, and never assigned to a worker in the week following a bereavement or a disciplinary finding.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Yggdrasil Wound's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The team enters the deep tunnels and establishes, first, which members can perceive the entity at all. Those who cannot are posted as grounding partners rather than sent away; those who can are the working party, and the division is recorded before anything else happens.
+2. **Clash:** Ten turns against 198 points of divided mind at 15% resistance, with three to ten pressure per turn. The numbers are trivial. The difficulty is that the entity works only on those who can see it, which means the party's most affected member is doing the work and the party's steadiest member is standing in the tunnel unable to help.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Ground the worker and permit both memories to remain**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Composure**, funneling cognitive instability back into the Sorrow Gauge.
-- Yggdrasil Wound’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Yggdrasil Wound's dossier.
+- Prolonged exposure produces divided identity accompanied by warmth, and the warmth is the problem. Workers describe the state as comfortable — a sense of being in two places without strain — and they describe it fondly afterwards, which is why over-runs on this assignment are nearly always voluntary.
+- Every piece drawn from the Tree charges in halves. The censer numbs pain and takes memories away in pairs, leaving one side of a thing remembered and not the other; the veil holds the self together and makes the wearer feel like one of two; the Torn Root lets its bearer hold two conflicting memories at once and charges them the full pain of both, simultaneously and without respite.
+- Unresolved, the split widens. There is no eruption to brace for — the entity simply becomes harder to be near for the people who can perceive it, and easier for everyone else to conclude does not warrant attention.
 
 ## Appearance
 **Physical Form:** A tree-beast split crown-to-root, each half a lurching creature dragging itself on half a root-system. **Movement:** Both halves crawl in different directions, straining to part.
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A tree-shaped presence split from crown to root, perceived inside consciousness as a warm empty space. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Two halves of one tree-beast, each dragging itself on half a root-system, moving independently and never far apart; the file records the entity as perceived mentally, and the distance between the halves is the only spatial measurement that has proved repeatable. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the cleft and the warmth. The gap between the two halves is the entity's state made visible — log its width at crown and at root, whether the glow within it is steady or pulsing, and the temperature reported by each observer, since warmth here is not ambient but indexed to denial. Then record a fact the standard protocol has no field for: who could see it. The Tree cannot be perceived by anyone without an unresolved memory conflict, so the list of observers is not a staffing note. It is a finding about those people, it is generated involuntarily, and it must be handled as welfare material rather than circulated with the survey.
 
 ## Origin
 - **Formation:** The Tree formed from a mind divided by loss.
 - **The Sorrow:** The grief of a person whose identity split around an event they could not survive remembering.
 - **The Event:** A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One man who survived a collapse that took everyone else and kept a single memory of it, around which the rest of him divided. The record does not say what the memory was. It says he could not survive remembering it and did not stop.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Yggdrasil Wound is recorded as a Subject with Subject-Mind manifestation and Void elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Flerehan brings the gauge down and the split closes slightly as the roots become visible — grief shared with it reduces the gap, which is as close to treatment as this holding permits. Ferrehan also brings it down, and the test is exact: whether the worker can remain between both memories. Not choose between them, not reconcile them, not decide which is true. Remain. Viderehan holds level and shows what is held on each side of the split, which is informative and leaves the gap unchanged. Pugnahan raises the gauge and tears the tree further through the worker's own thoughts, because confrontation demands a single account and the demand for a single account is the injury. The management condition states the whole of it: ground the worker, and permit both memories to remain.
 ## Breach Behavior
 
 > *"Torn Tree has broken free. Extends roots through the floor, entangling personnel."*
@@ -161,8 +161,8 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** The standard response cannot be executed here and personnel should be told why rather than left to discover it. Pugnahan is a logged gauge increase that drives the split through the worker's thoughts. More fundamentally, Wardens selected for steadiness are precisely the personnel least likely to be able to perceive this entity, and several logged responses consist of a stable detail standing in a tunnel seeing nothing while an affected colleague deteriorates beside them. Ground the affected worker, keep both of their accounts on the record, and do not seal the tunnel — there is nothing in it to seal in.
+- **Sorrow Gauge on breach:** Indexed to denial. Rises 10% each time a memory is contradicted, overruled or withdrawn in its presence — including a worker correcting their own earlier account under pressure — and the warmth rises measurably with it. Falls 10% each time two incompatible accounts are both written down and neither is struck out. Silence holds it level. Reconciliation does not count as resolution and has never lowered it.
 
 ## M.A.W. Equipment
 
@@ -182,9 +182,9 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Yggdrasil Wound's void signature in the strike.
+**Ability:** A burl censer burning willow resin into warm, clinging smoke; breathing it numbs pain and stiffens resolve, and the same smoke carried into a target's lungs loosens their hold on who they are.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced it, keeps the arrival and loses the journey — always one side of a pair, never both, and never the side they would have chosen.
 
 ### M.A.W. Suit — The Torn Veil
 
@@ -200,9 +200,9 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Yggdrasil Wound's kind of pressure.
+**Ability:** Near-translucent Han-gossamer that shifts and breathes with the wearer and holds their identity intact under Void pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The veil preserves the self by keeping two copies of it. Wearers report no distress and describe the sensation precisely and repeatedly as being one of two — agreeing with themselves, working alongside themselves, and finding the arrangement unremarkable until someone else points it out.
 
 ### M.A.W. Stigma — The Torn Root
 
@@ -212,17 +212,17 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the bearer's rating while working the Tree, forfeited for the remainder of the cycle if the bearer withdraws or amends an account they have already given
 
 **Ability:** Holds two conflicting memories without immediate collapse.
 
 **Cost:** The wearer feels the pain of both memories simultaneously.
 
-*Stigmas are granted at random by Yggdrasil Wound upon a successful work, not manufactured.*
+*The Torn Root is given, not taken. It has appeared only on workers who held two contradictory memories through a full cycle without resolving either, and no procedure has produced one deliberately.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Yggdrasil Wound's element. No protocol produces Stigmas. They emerge from Yggdrasil Wound's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece remains part of the Tree, and the set is organised around holding two things at once. The censer numbs and divides. The veil keeps the wearer intact by duplicating them. The Torn Root is the only item in the α catalogue that lets its bearer carry two irreconcilable memories without collapsing, which makes it genuinely valuable for inquiry work, interviews and any proceeding where a witness's account conflicts with the record — and it charges the bearer the full weight of both memories at the same time, continuously, for as long as they hold them. Operatives return it quickly. Those who do not are usually the ones who find the arrangement familiar, which is the condition this set is drawn from and the reason issue is reviewed rather than routine.
 
 ### Field Use Record
 
@@ -233,7 +233,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The α grades are low and accurate. What no column records is that this set's costs are all paid in coherence rather than capability — the wearer performs perfectly well, by every measure the facility takes, as two people. Read the Cost lines as the specification and take the grounding partner's account over the wearer's.
 
 ## 관찰 기록 (Observation Log)
 
@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Yggdrasil Wound's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Pair every observer with a grounding partner who cannot perceive the entity, and have the partner keep time, use the observer's name at intervals, and write down everything the observer says. The observer records the cleft, the warmth and the two memories shown on either side of the split. Neither account is merged into the other afterwards. Both are filed, including where they contradict — and they will contradict, because this entity's entire subject matter is an irreconcilable pair, and a report that resolves the contradiction has described something that was not there.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -264,10 +264,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Yggdrasil Wound (O-Iα-973 [VS]) is logged as a Subject-Mind manifestation expressing Void. The Tree formed from a mind divided by loss. Held at Zone B, deep tunnels. The Tree is perceived mentally rather than physically.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Tunnel Perception Roster, Zone B>**
 Spreads through consciousness and tunnel memories. Personnel experience divided identity and warmth inside emptiness. Its warmth increases when a memory is denied.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Two Statements, Filed Together>**
 The grief of a person whose identity split around an event they could not survive remembering.
 
 **Entry 4 — <Containment Notice>**
@@ -303,12 +303,12 @@ A tree grows behind your eyes. Its trunk is split, its roots hold two different 
 
 Yggdrasil Wound does not exist in isolation. Its recorded relationships with The Torn Trace, The Hollow Tree, The Memory Well should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish the solo baseline with the same observers each cycle wherever possible, because a change in who can perceive the Tree is a change in the instrument rather than in the entity, and the two are easy to confuse. When a second holding is introduced, log the separation, the duration, the gauge movement, the cleft width, and the question specific to this entity: whether the other presence appears on one side of the split or on both. A presence that registers on only one half has been recorded twice and in both cases the observers disagreed about which half, which is itself the characteristic result and is preserved rather than adjudicated.
 
 
 ### Entity Interaction Record
 
-Yggdrasil Wound must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Tree moves through the Zone B deep tunnels and is perceived rather than encountered, so its interactions are mediated by the personnel who can see it and change as that group changes. The interactions below are canonical but each was recorded through particular observers; personnel must re-establish who can currently perceive it before relying on any of them.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -316,7 +316,7 @@ Yggdrasil Wound must be assessed as part of an entity network, not as an isolate
 | **The Hollow Tree** | Shares warmth within emptiness. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Memory Well** | Draws conflicting memories from its surface. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record which observers perceived the encounter and which did not, the separation, the duration, the gauge movement, the cleft width throughout, and each observer's account written independently of the others. Discrepancies between accounts are retained in full.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -363,9 +363,9 @@ Some sorrows mourn a loss. Yggdrasil Wound mourns the tearing — the mind split
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Two things in this file do not agree, and both are left standing. The classification records the Tree as incorporeal with no vessel, perceived mentally rather than physically; the breach record describes it rampaging on its limbs, crashing through walls and extending roots through the floor. Those cannot both be straightforwardly true, and the archive's own rule applies to its own pages: the contradiction is preserved as evidence rather than normalised away. Personnel responding to a breach here should expect to be unable to agree afterwards about whether anything physical occurred, and should file that disagreement rather than settle it on the way back.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any incident, verify the gauge, the activation count, the cleft width and the personnel exposure log — and review the perception roster against the previous one. A worker newly able to perceive the Tree, and a worker who has stopped being able to, are both findings, and the second is not automatically good news; it may mean a conflict has been resolved, or it may mean it has been buried. Neither conclusion is drawn from the roster alone and neither is recorded as a performance matter.
 ## Trivia
 
 - Its warmth comes from the space between conflicting memories.
@@ -377,9 +377,9 @@ Some sorrows mourn a loss. Yggdrasil Wound mourns the tearing — the mind split
 
 - **Classification detail:** Yggdrasil Wound is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone B, deep tunnels.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify by the cleft. A tree-beast split crown to root, the two halves dragging separately, with a glow in the tear between them and a warmth that does not match the tunnel air.
+- **Record detail:** The deep tunnels hold several Void residues formed from divided or interrupted identity; confirm the designation O-Iα-973 and the Subject-Mind manifestation before applying this file to any of them.
+- **Containment detail:** No door is relevant to this holding. It is perceived rather than located, and it reaches only those carrying an unresolved conflict of their own — which means the containment boundary is drawn through the staff, not around the tunnels, and that it moves as people's lives do. The practical measures are the perception roster, the grounding-partner rule, and a standing instruction that both accounts stay on the record.
 ## Document Information
 
 **Document ID:** SE-O-Iα-973
