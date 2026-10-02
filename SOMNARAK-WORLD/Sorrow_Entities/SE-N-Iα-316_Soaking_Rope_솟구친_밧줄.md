@@ -86,15 +86,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Soaking Rope's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The Rope does not have to be reached; it is already in the room with anyone who is waiting for somebody. Work proceeds by Flerehan and Ferrehan — naming the wait, then enduring it without taking hold — while Pugnahan tightens the one thing it is meant to loosen. The gauge tracks what the team is privately hoping for rather than what it is doing.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not promise return; release the rope consciously**.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Soaking Rope reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Extended exposure does not injure the body, and that is the difficulty: a worker can stand a full shift beside the Rope and come out unmarked and attached. The attachment is to somebody absent, usually somebody real, and it strengthens quietly past the recommended cycle. Workers are stood down when they begin checking whether a message has arrived.
+- The beam, the plate and the knot each carry the same expectation out of the Rope and into the wearer, and expectation is not spent by being moved. What the M.A.W. gives is an awareness of bonds that were never returned, the wearer's own included. Nothing here is extracted for free; the cost is paid in a currency the body does not register.
+- If the release is not made consciously, nothing dramatic follows. The Rope stays held, the worker leaves still holding it, and the encounter is recorded as unresolved rather than failed. Unresolved encounters accumulate against the worker who had them, and the record shows that they do not accumulate against anyone else.
 
 ## Appearance
 **Primary Form:** An empty rope-shaped figure that watches from the edge of consciousness. It has no visible hands or face.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Void
 - **Primary marker:** An empty rope-shaped figure that watches from the edge of consciousness. It has no visible hands or face.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It hangs taut, in the attitude of being held out to somebody, and it does not move toward or away from an observer. Record the direction the free end is reaching, and whether anyone in the room was waiting on news.
 - **Element signature:** Grudge
 - **Registered location:** Zone A, Alpha Tree
 
@@ -118,16 +118,16 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Check the entity against its file before work or contact: designation, element, manifestation, and registered location. If one of them contradicts what is in front of you, do not proceed. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the line itself: how taut, how wet, how far the free end extends, and where it points. There is no second end, and that is to be confirmed at each observation rather than assumed from the file. Note the fibre, which is hemp and has never been recorded dry, and note whether the shape loosened at any point — loosening is the only visible response this entity gives.
 
 ## Origin
 - **Formation:** The Rope formed from a connection that was never allowed to become real.
 - **The Sorrow:** The grief of being prepared to hold someone who never reached back.
 - **The Event:** A child waited for a parent who promised to return; the promise dissolved into an empty rope.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **The People:** A child who waited, and a parent who meant the promise at the time it was made. Neither is named here. The Keeper who took the testimony recorded that the child was still waiting on the day it was given, and did not go back to ask a second time.
+- **Expanded origin context:** The parent gave the child a rope before leaving — a tether, a token, a thing to hold while the absence lasted — and said that they would come back. The leaving was necessary and the promise was meant. The child held the rope through the weeks and then the months, and did not stop, because a promise is as real to a child as the person who made it and a child cannot yet tell a sincere promise from one the world will not permit. The waiting soaked into the fibre the way everything soaks into objects here, slowly and completely, until the rope was heavier than the child could lift and held the shape of a grip by itself.
 
 ## Behavior
 
@@ -144,25 +144,25 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Soaking Rope is recorded as a Subject with Subject-Void manifestation and Grudge elemental expression. The current record places it at Zone A, Alpha Tree; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Loosening is success and it is visible — the taut line goes slack and the whole figure becomes easier to see rather than harder. Tightening is not an attack; it is the Rope answering a worker who is still privately expecting someone. The useful question after a work cycle is not what the team did but who each of them was thinking about, and it is the honest answers that correlate with the gauge.
 ## Breach Behavior
 
-> *"Soaking Rope has broken free. Hunts personnel indiscriminately."*
+> *"Soaking Rope has broken free. Everyone in the zone is now waiting for someone."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | Soaking Rope intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Movement** | The Rope does not travel; the attitude does. The waiting extends outward from the chamber and personnel inside the radius begin holding a line that is not there. |
+| **Effect** | Expectation is imposed rather than pressure. Each person in range acquires someone to wait for, and Resilience falls for as long as the waiting is sustained. |
+| **Secondary Effect** | A tightening around thought that never touches the body. |
+| **First Target** | Whoever in range is already waiting for someone. |
+| **Escalation** | One further person in range acquires the wait each turn; drain increases by 5 for each person holding it rather than by 5 per turn. |
 
 ### Escalation Notes
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Do not seal and wait it out — a sealed zone is a room full of people expecting the door to open, and that is the condition the entity feeds on. End the waits aloud instead, one at a time, starting with the response team's own.
+- **Sorrow Gauge on breach:** It does not climb on a timer. It climbs each time somebody inside the affected zone says they will come back — to a colleague, to a patient, into a handset — and it falls when a wait is ended out loud and truthfully, including a wait nobody was keeping. This breach is resolved by language, which is why the response team is briefed on what not to promise before it is briefed on anything else.
 
 ## M.A.W. Equipment
 
@@ -182,9 +182,9 @@ Carried across the shoulders like a penitent yoke, the beam radiates suffocating
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Soaking Rope's grudge signature in the strike.
+**Ability:** Grudge damage to the body, delivered by weight rather than by edge. The beam carries the guilt of a promise that was not kept, and it lands heaviest on entities built out of one.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The yoke is carried across the shoulders and goes on being carried after it is set down. The ache settles where the beam sat and corresponds to no injury on file.
 
 ### M.A.W. Suit — The Empty Plate
 
@@ -200,9 +200,9 @@ Carried across the shoulders like a penitent yoke, the beam radiates suffocating
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Soaking Rope's kind of pressure.
+**Ability:** Turns Grudge aside from the body, which is barely what the Rope attacks. The plate is worn here for the long shifts rather than the short ones, and it protects nothing the Rope is actually reaching for.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer becomes slower to answer and slower to leave, and reports afterwards that the shift felt shorter than it was.
 
 ### M.A.W. Stigma — The Empty Knot
 
@@ -212,17 +212,17 @@ Carried across the shoulders like a penitent yoke, the beam radiates suffocating
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against the Rope itself. The knot does nothing anywhere else, and workers have tried it elsewhere.
 
 **Ability:** Reveals bonds that were never reciprocal.
 
 **Cost:** The wearer feels every abandoned expectation nearby.
 
-*Stigmas are granted at random by Soaking Rope upon a successful work, not manufactured.*
+*The knot is not issued. The Rope offers one after work that ended a wait honestly, and it has never offered one to a worker who was still waiting for someone of their own.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Soaking Rope's sorrow within the equipment may activate. and may produce an effect tied to Soaking Rope's element. The Stigma is Soaking Rope's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of the Rope rather than ordinary equipment, and the condition here is honesty about what the operator is waiting for. Used as intended, the beam and the plate perform to grade. Used by someone holding out for a return of their own, the cost scales and the expectation held in the metal becomes active, which with this entity means the wearer acquires a second wait on top of the one they brought. The knot is not requisitioned. It is offered, or it is not.
 
 ### Field Use Record
 
@@ -233,7 +233,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** α is the lowest grade in the archive, and the knot is the most expensive thing in this file. The grade measures what the beam does to the Rope. It does not measure what it is to feel every unreciprocated expectation within thirty metres, which is what the wearer receives and what no figure here records.
 
 ## 관찰 기록 (Observation Log)
 
@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Soaking Rope's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Record the first sign, which is usually a sensation at the wrist with nothing touching it; the moment the observer notices they are thinking of one specific absent person; and the condition that ends the encounter, which is a wait being named rather than a gauge falling. Observers are asked for the name they thought of and may decline. Declines are logged as declines and nothing further is asked.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -264,17 +264,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Soaking Rope (N-Iα-316 [D]) is logged as a Subject-Void manifestation expressing Grudge. The Rope formed from a connection that was never allowed to become real. Held at Zone A, Alpha Tree. It is perceived more clearly by people waiting for someone.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Waiting-Room Log, Zone A>**
 Travels through consciousness and abandoned memories. Personnel feel attached to someone who is absent. It binds emotionally but never physically.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Note Left Beside the Rope>**
 The grief of being prepared to hold someone who never reached back.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not promise return; release the rope consciously. Work response — Flerehan: The rope loosens and becomes visible. (Decrease); Pugnahan: It tightens around thought and spreads anger. (Increase); Viderehan: Reveals the promise that was withdrawn. (Stable); Ferrehan: Tests whether the worker can wait without binding themselves. (Decrease). It becomes calm when waiting ends honestly.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The rope was brought in still taut. It had been held so long that the fibre had set in the attitude of holding, and it has not relaxed since, which is why the chamber fittings support it at the angle it arrived in rather than coiling it. The Keepers who collected it did not find the child. The file records the search and records that it was closed, and the two entries are four days apart.
 
 ## 최종 관찰 (Final Observation)
 
@@ -303,12 +303,12 @@ You feel a rope around your wrist, but nothing touches you. The other end disapp
 
 Soaking Rope does not exist in isolation. Its recorded relationships with The Vanished Rope, The Wandering Chain, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline the Rope alone before pairing it with anything. With the Vanished Rope the two do not reinforce — the pair reads lower than either alone, the only recorded instance in this wing of two grieving objects settling one another. With the Lost Prince the waiting synchronises and carries to personnel at the perimeter. Record range, duration, and whether anybody outside the pairing began waiting as well.
 
 
 ### Entity Interaction Record
 
-Soaking Rope must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Rope sits in a group of entities that are all, in different ways, still expecting somebody. The relationships below are the ones the record will support. They are neither alliances nor hostilities; they are one unfinished wait kept in three shapes, and each shape alters what the others do.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -316,7 +316,7 @@ Soaking Rope must be assessed as part of an entity network, not as an isolated p
 | **The Wandering Chain** | Both bind expectations to absence. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Lost Prince** | Resonates with unanswered waiting. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baseline first. Then the shared encounter: the distance at which the first change appears, what altered in the line's tension, how long it held, and whether the Rope returned to its original attitude after separation or kept the new one. It has kept the new one twice, and on both occasions the change was a few degrees of direction.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -365,9 +365,9 @@ Some sorrows mourn a parent. Soaking Rope mourns the waiting — the child's fai
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file describes something that cannot be handled, only answered. Every figure in it — gauge, resistance, yield — is in practice a measurement of personnel, since the Rope does nothing unprompted and responds only to what the people in the room are already carrying. Read the management line first and the statistics second, and treat disagreement between them as evidence about the team rather than about the entity.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any breach in Zone A, and after any change of personnel on the post — the last of these more often than the others, because this entity's readings move with whoever is standing in front of it. A review that produces a different baseline has not found an error; it has found a different worker. Reviews are not to be used to question a worker's fitness.
 ## Trivia
 
 - It has no second end.
@@ -379,9 +379,9 @@ Some sorrows mourn a parent. Soaking Rope mourns the waiting — the child's fai
 
 - **Classification detail:** Soaking Rope is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone A, Alpha Tree.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the single end and by the tension. Other bound and knotted things are held in this wing; only this one is taut with nothing at the far end of it.
+- **Record detail:** Check the designation before work begins. The Vanished Rope and the Wandering Chain are catalogued separately, answer to different management, and have been confused in the field at least once.
+- **Containment detail:** Containment holds the fibre and nothing else. The Rope's reach is the reach of whoever is near it, and sealing the chamber does not shorten it. Staff on adjacent rotations report dreams of somebody arriving; the dreams are logged, because twice they have preceded a movement in the gauge.
 ## Document Information
 
 **Document ID:** SE-N-Iα-316

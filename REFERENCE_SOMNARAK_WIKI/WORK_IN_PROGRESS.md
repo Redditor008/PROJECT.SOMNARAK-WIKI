@@ -11,23 +11,22 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Measure | Value |
 |---|---|
 | Dossier body lines | 28092 |
-| Lines shared by 30+ dossiers | 6358 |
-| **Headline** | **22.63%** |
-| Dossiers still at 30+ shared lines | 85 |
-| Dossiers fully cleaned | 45 |
+| Lines shared by 30+ dossiers | 6331 |
+| **Headline** | **22.54%** |
+| Dossiers still at 30+ shared lines | 84 |
+| Dossiers fully cleaned | 46 |
 | Unfinished-text breaks outstanding | 0 |
 
 ## Workstream 1 — De-boilerplate (open)
 
 Whole-file rewriting of the worst-affected dossiers, one file per turn, bespoke per entity. Rules `R-02`, `R-04`, `R-05`, `R-14`, `R-15` all bind here.
 
-**Progress: 45 / 130.** Headline trajectory 34.3% → 22.63%.
+**Progress: 46 / 130.** Headline trajectory 34.3% → 22.54%.
 
 ### Next targets, in order
 
 | Shared lines | Dossier |
 |---|---|
-| 38 | `SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md` |
 | 38 | `SE-N-IVδ-611_Sleeping_Shard_잠든_조각.md` |
 | 38 | `SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md` |
 | 37 | `SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md` |
@@ -35,6 +34,7 @@ Whole-file rewriting of the worst-affected dossiers, one file per turn, bespoke 
 | 36 | `SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md` |
 | 36 | `SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md` |
 | 35 | `SE-N-IVδ-525_Cenotaph_흐르는_다리.md` |
+| 35 | `SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md` |
 
 Re-rank after every clean. Files drop into the top band as global counts shift; the queue is never carried over from a previous turn without re-measuring.
 
@@ -44,7 +44,7 @@ Every cleaned file keeps 9–13 lines of genuine cross-reference furniture (`**C
 
 ### Completed cleans
 
-Fallow 50→12, Shard 49→9, Ephemera 48→12, Border Tree 48→11, Tear 48→11, Glass 48→12, Portcullis 47→11, Thralldom 47→12, Aphasia 47→12, Forgotten Tear 47→12, Anonym 47→12, Welcome Haven 47→11, Survivors' Breath 47→10, Quagmire 47→10, Yggdrasil Wound 46→13, Repose 46→11, Grasp 46→10, Uprooted 46→11, Sleeping Tree 46→10, Frozen Mirror 45→11, Heirloom 45→9, Spire 45→10, Memory Chain 45→10, Feu Follet 45→10, Broken Whisper 45→9, Ember Phoenix 44→10, Broken Fragment 44→9, Brume 44→11, Myrmidon 44→9, Broken Ruin 44→11, Errant 43→11, Atlas 43→11, Animus 43→10, Conservatory 43→9, Home to No One 43→9, Broken Door 42→10, Tower Erased Overnight 42→9, Relic Waiting for Its Maker 42→9, Exiles' Wall 41→10, Protest No One Remembers 41→10, Pent 41→9, The Silent Child 39→11, Broken Tear 39→10, Relic of a Thousand Owners 38→9, The Wrath Flame 38→10.
+Fallow 50→12, Shard 49→9, Ephemera 48→12, Border Tree 48→11, Tear 48→11, Glass 48→12, Portcullis 47→11, Thralldom 47→12, Aphasia 47→12, Forgotten Tear 47→12, Anonym 47→12, Welcome Haven 47→11, Survivors' Breath 47→10, Quagmire 47→10, Yggdrasil Wound 46→13, Repose 46→11, Grasp 46→10, Uprooted 46→11, Sleeping Tree 46→10, Frozen Mirror 45→11, Heirloom 45→9, Spire 45→10, Memory Chain 45→10, Feu Follet 45→10, Broken Whisper 45→9, Ember Phoenix 44→10, Broken Fragment 44→9, Brume 44→11, Myrmidon 44→9, Broken Ruin 44→11, Errant 43→11, Atlas 43→11, Animus 43→10, Conservatory 43→9, Home to No One 43→9, Broken Door 42→10, Tower Erased Overnight 42→9, Relic Waiting for Its Maker 42→9, Exiles' Wall 41→10, Protest No One Remembers 41→10, Pent 41→9, The Silent Child 39→11, Broken Tear 39→10, Relic of a Thousand Owners 38→9, The Wrath Flame 38→10, Soaking Rope 38→11.
 
 ## Workstream 2 — Unfinished text (closed)
 
