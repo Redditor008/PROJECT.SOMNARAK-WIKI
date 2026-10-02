@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Spire of Unanswered Prayer.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle lowers the song and gentles the warmth for a shift. Nothing descends. The settlement is still under the surge, the help it called for is still not coming, and the entity resumes at the elevation it was last heard from.
+- Two readings govern activation here and either is sufficient. The listed threshold of 3 is a count that runs down — each failed or refused cycle takes one from it, and the third brings the entity to zero — while a Sorrow Gauge at or above 60% activates it regardless of where the count stands.
+- The 12–18 Han-Energy yield is average for the band and the work is rated Moderate, which has made this holding a routine posting. The exposure is not in any one cycle; it is in a sound that is pleasant, that personnel volunteer to stay in, and that is warm precisely because it is still expecting an answer.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. There is no vessel to break here, so extraction is taken out of the song itself, and the Tear's recorded cost is that its wearer hears the lost settlement while asleep.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Spire of Unanswered Prayer's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The team fixes the apparent elevation, logs it as self-reported, and agrees the listening positions before anyone speaks. No request is left outstanding with the wing above at the time the cycle opens; that check is part of the pre-cycle brief and is the one most often skipped.
+2. **Clash:** The team works all four types while the song continues, and the song is never interrupted — the suppression condition on this holding is to listen rather than to silence, which means the Clash phase consists largely of staying put. Gauge movement is read between verses rather than during them.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen to the song; do not silence it**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- Spire of Unanswered Prayer’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Spire of Unanswered Prayer's dossier.
+- The effects compound with duration in a form the turn count hides: the song is warm, it feels like rescue arriving, and the longer a worker stands in it the more certain they become that something is on its way. Severe cases present as patience, not as distress, and patience is not a symptom anybody reports.
+- Each M.A.W. activation debits the wielder past what the grade ledger records. The Chime-Tower weeps through its user, the Shroud takes the small pleasures, and the Tear gives shelter from emotional weather at the cost of a settlement singing in its wearer's sleep every night it is worn.
+- Without resolution the sorrow does not disperse and does not escape — it transforms, which is the breach type on the classification. The voice stops rising through one consciousness at a time and spreads like a tide through all of them at once, and what it is still doing while it hunts is asking.
 
 ## Appearance
 **Primary Form:** A tower-shaped voice rising through consciousness, heard as warm rain against crystal.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Spirit
 - **Primary marker:** A tower-shaped voice rising through consciousness, heard as warm rain against crystal.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** No physical extent and no station; record the apparent elevation and the duration, mark the elevation as self-reported, and note that every account to date has placed the sound above the listener.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree vault
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A tower-shaped voice rising through consciousness, heard as warm rain against crystal. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | No physical extent and no station; record the apparent elevation and the duration, mark the elevation as self-reported, and note that every account to date has placed the sound above the listener. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Identification is not optional, and here it is done by ear. The designation, the manifestation and the recorded acoustic signature must agree before a cycle opens; no physical marker exists to check against, which is itself the first thing to verify. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** There is nothing to look at, and the protocol begins by saying so: the holding has no physical extent, no structure has ever been found, and an observer who reports seeing a tower has recorded the most significant finding of the cycle. What is logged instead is the sound and the body's answer to it. Take the apparent elevation from each listener separately and do not reconcile the figures; take the duration, the interval between verses, the temperature of the air against the warmth personnel report on the skin, and whether weeping felt inverted — that last field is present or absent, without elaboration, and it is almost always present. New Wardens disbelieve it, so the briefing states it before anything else. Write warm rain on crystal if that is what it is. Do not write 'haunting'.
 
 ## Origin
 - **Formation:** The Tower formed from an Outside Sorrow settlement that never stopped mourning its dead.
 - **The Sorrow:** The grief of looking upward for rescue that never descended.
 - **The Event:** A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A Desolate community that went under a Han surge, and the survivors who carried its tower-song into the city. The commissioning file holds what those survivors could give — the song's occasions, who led it, and when it was sung — and the accounts agree closely, which the archivist notes is unusual and attributes to the fact that they had been singing it together for a very long time.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Spire of Unanswered Prayer is recorded as a Subject with Subject-Spirit manifestation and Lament elemental expression. The current record places it at Zone A, Alpha Tree vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Read it in the song and in how badly the team wants to join in. A falling gauge presents as lowering — the voice dropping in pitch and elevation, the warmth going gentle, the intervals lengthening. The pressure is being absorbed; the settlement is still under the water and the source is untouched. A rising gauge presents as uplift: the song climbs, the warmth sharpens into something like hope, and workers describe the distinct impression that help is close. That impression is the reading. It is logged as a gauge event and never as encouragement. Any response the file does not contain is written up the same day, and the observation that outranks the rest is the song stopping — which has happened twice, lasted under a minute each time, and is described in both reports as the worst part of the posting.
 ## Breach Behavior
 
 > *"Spire of Unanswered Prayer has broken free. Hunts personnel indiscriminately."*
@@ -162,7 +162,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and is driven by unanswered asking rather than by elapsed time. Each request the responding team sends upward that comes back without a decision adds 10% — a referral, an acknowledgement, an instruction to await instruction, all count as nothing returned. Each decision given at the level it was asked removes 10%, and a refusal counts: a clear no lowers this gauge, and silence does not. The entity is the sound of people calling upward and receiving nothing, and a command structure that handles a breach by escalating it is feeding the thing it is escalating about.
 
 ## M.A.W. Equipment
 
@@ -184,12 +184,12 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the single designated target; the descending peal is aimed and does not spill onto anyone standing beside it.
+**Damage Application:** Resolve the peal's direct damage first, then apply the multiplier to any Tick damage as a separate second calculation.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Spire of Unanswered Prayer's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — composure, willpower, the ability to stay where you are told. Rung in descending order the bells press an airborne sorrow entity downward and hold it against the floor under a weight of simulated atmosphere.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the grief of a call that went up and never came back down. Prolonged use causes involuntary weeping, which users report as feeling like it runs upward.
 
 ### M.A.W. Suit — The Tower Shroud
 
@@ -205,9 +205,9 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Spire of Unanswered Prayer's kind of pressure.
+**Ability:** Grants resistance to Lament pressure, shielding the Mind against the warm and hopeful variety this source produces — the Shroud is rated against encouragement as much as against grief, which is an odd line in an equipment file and is the correct one here.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small joys, and to small reassurances; colleagues report that comfort offered to a Shroud wearer simply does not land.
 
 ### M.A.W. Stigma — The Tower Tear
 
@@ -217,17 +217,17 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat while the Tear's source entity is the subject of the cycle, and nothing on any other holding
 
 **Ability:** Creates a small field of shelter from emotional storms.
 
 **Cost:** The wearer hears the lost settlement during sleep.
 
-*Stigmas are granted at random by Spire of Unanswered Prayer upon a successful work, not manufactured.*
+*The Tear is given, never made. It appears after a successful cycle at the source's discretion, and no procedure or stated probability obliges a voice to part with anything.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Spire of Unanswered Prayer's element. No protocol produces Stigmas. They emerge from Spire of Unanswered Prayer's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; used against its grain, a piece amplifies its own cost immediately and personally, and can wake the element carried in it, which on this set presents as warm rain heard indoors and the conviction that a decision is about to arrive. No protocol produces a Stigma. They emerge from the source's own disposition during a cycle, unbidden and unrepeatable.
 
 ### Field Use Record
 
@@ -238,7 +238,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are separate axes, and the β rating on this set describes only the first. An efficient piece can still leave its wielder Fractured, hollowed, or quietly bound to a settlement that drowned before they were born. Read both columns and authorise on the second.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Spire of Unanswered Prayer's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Observe by listening, from fixed positions, with the listeners separated far enough that they cannot hear each other agree. Record the first audible sign, the first emotional sensation and its direction, the first measurable change in the room, and the condition that ended the encounter. Appearance is history made visible and not a forecast — a tower made of voice is the shape of a community that kept calling, and it predicts nothing about the next hour. Several attempts have been made to resolve the song into words; all failed, and all are retained with their methods so that the ground is visibly covered. The last was years ago and nobody has proposed another.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Spire of Unanswered Prayer (O-IIβ-796 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Tower formed from an Outside Sorrow settlement that never stopped mourning its dead. Held at Zone A, Alpha Tree vault. Its song is warm but produces grief.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Vault Listening Log, Year 4238>**
 Travels through dreams and Alpha Tree vaults. Personnel feel grief descending from above. The tower appears only in consciousness.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Prolonged Listening Duty>**
 The grief of looking upward for rescue that never descended.
 
 **Entry 4 — <Containment Notice>**
@@ -307,12 +307,12 @@ A tower rises inside your mind, but its rooms are filled with rain. The tears ar
 
 Spire of Unanswered Prayer does not exist in isolation. Its recorded relationships with The Sunken Tower, The Memory Rain, The Sorrow River should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Solo baselines first — they are the control group, and with an entity that exists only in consciousness there is nothing else to compare against. The relations on file all concern things that wait or things that were never answered, so the question is whether the song acquires a second occasion: whether it begins marking an event that belongs to the other entity, and whether the listeners' elevation reports converge when they have never converged before. Log activating distance, duration, gauge change on both sides, operational impact, and whether separation ends it. Every pairing is a fresh experiment; identical conditions have produced different results in consecutive cycles here.
 
 
 ### Entity Interaction Record
 
-Spire of Unanswered Prayer must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Spire of Unanswered Prayer must be assessed as one of a group of sorrows that consist of waiting, rather than as a single voice in a vault. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ Spire of Unanswered Prayer must be assessed as part of an entity network, not as
 | **The Memory Rain** | Its tears fall through memory-rain imagery. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Sorrow River** | Its song draws toward the underground River. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring them into range with listeners separated, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the vault, and whatever persists after separation. The field this holding adds is the elevation set — every listener's figure, unreconciled, before and after.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -369,9 +369,9 @@ Some sorrows mourn a community. Spire of Unanswered Prayer mourns the calling �
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Treat the record as a starting point and the song as the authority, and then read the suppression condition for what it asks of the wing rather than of the worker. Listen to the song; do not silence it. The holding is therefore managed by a standing decision to tolerate an unresolved sound inside a facility, indefinitely, with no completion state and no possibility of a result — and that decision has to be renewed by people who are measured on closing things. The pressure to silence it has never come from the floor. It comes from above, in writing, roughly once a term, and the refusals are filed together and read as a sequence. Where observation contradicts the file, trust the entity and log the discrepancy; preserve the contradiction rather than normalising it, and treat any proposal to resolve this holding permanently as an escalation item rather than an improvement.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any transformation, Sorrow Tide, Ordeal, or unusual interaction, verify the four pillars — gauge, seal, personnel, position — and add the two this holding needs: the elevation set, and the list of requests the team sent upward during the event with what came back for each. The second list is an operational record and not a complaint; it explains the gauge, and a wing that reads it as criticism of the command structure will stop receiving it, at which point the breach arithmetic becomes unreadable. Listening logs go to the counselor rather than the line supervisor.
 ## Watch Record
 
 ### A Tower That Is a Voice
@@ -401,9 +401,9 @@ A Desolate community went under a Han surge and the survivors carried its tower-
 
 - **Classification detail:** Spire of Unanswered Prayer is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree vault.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the direction and the warmth. Several holdings in the vault are heard rather than seen; this is the one that comes from above, sounds like warm rain on crystal, and makes weeping feel as though it is running the wrong way.
+- **Record detail:** Tower-form and prayer-form entities recur through the archive and several share this one's element and vault. Confirm the designation and the manifestation before a cycle is booked, because the instructions diverge at the point that matters here — whether the sound may be stopped.
+- **Containment detail:** Sealed does not mean silent, and on this holding the phrase is not a metaphor. There is no vessel, no boundary the sound has to cross, and no door between the entity and a listener; the vault seal governs access to the room and not to the song. Personnel have reported it in dreams while off shift, and those reports are filed with the holding rather than with the individual.
 ## Document Information
 
 **Document ID:** SE-O-IIβ-796
