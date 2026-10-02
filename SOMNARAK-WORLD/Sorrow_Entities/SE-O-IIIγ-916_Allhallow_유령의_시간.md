@@ -107,7 +107,7 @@
 **Identification Profile**
 - **Entity Type:** Time
 - **Manifestation:** Time-Phantasmal
-- **Primary marker:** An hour that descends without warning on the Desolate border, during which the d...
+- **Primary marker:** An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-O-916
 

@@ -109,7 +109,7 @@
 **Identification Profile**
 - **Entity Type:** Object
 - **Manifestation:** Object-Body
-- **Primary marker:** A human heart suspended in crystallized Han, still beating — slow, wet, unmistak...
+- **Primary marker:** A human heart suspended in crystallized Han, still beating — slow, wet, unmistakable. The crystal around it is dark amber, warm to the touch, and pulses in time with the organ within.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-901
 

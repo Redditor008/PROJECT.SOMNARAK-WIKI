@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Lament
-- **Primary marker:** A bank of fog that rolls through the lower corridors of Zone D without warning. ...
+- **Primary marker:** A bank of fog that rolls through the lower corridors of Zone D without warning. Those caught in it begin to weep — not from sadness but from the sheer weight of grief that the fog carries, grief that is not theirs.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-C-922
 

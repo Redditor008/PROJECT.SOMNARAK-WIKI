@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Body
-- **Primary marker:** A zone of ground in Zone B where anyone who stands for more than three minutes d...
+- **Primary marker:** A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, as if the body were porcelain under pressure.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-921
 

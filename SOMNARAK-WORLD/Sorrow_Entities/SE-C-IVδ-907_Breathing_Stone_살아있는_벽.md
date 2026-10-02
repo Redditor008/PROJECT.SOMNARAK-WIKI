@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Place
 - **Manifestation:** Place-Body
-- **Primary marker:** A section of corridor wall in Zone C that has become flesh — warm, pale, and fai...
+- **Primary marker:** A section of corridor wall in Zone C that has become flesh — warm, pale, and faintly breathing. Bricks show through the skin like bones through thin cloth. Veins of dark Han pulse beneath the surface.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-907
 

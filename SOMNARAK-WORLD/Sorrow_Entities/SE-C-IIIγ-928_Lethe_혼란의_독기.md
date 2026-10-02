@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Mind
-- **Primary marker:** An invisible gas that accumulates in the lower levels of Zone C, causing progres...
+- **Primary marker:** An invisible gas that accumulates in the lower levels of Zone C, causing progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination.
 - **Element signature:** Void
 - **Registered location:** SECTOR-C-928
 

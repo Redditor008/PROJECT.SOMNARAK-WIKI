@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Grudge
-- **Primary marker:** A stationary atmospheric anomaly above Zone C that generates localized fury in a...
+- **Primary marker:** A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-923
 

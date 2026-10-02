@@ -107,7 +107,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Phantasmal
-- **Primary marker:** An area of the Desolate where the air itself projects images — memories, fears, ...
+- **Primary marker:** An area of the Desolate where the air itself projects images — memories, fears, faces of the Fractured — onto whatever surface is available. The images move, speak, and sometimes reach out.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-O-926
 

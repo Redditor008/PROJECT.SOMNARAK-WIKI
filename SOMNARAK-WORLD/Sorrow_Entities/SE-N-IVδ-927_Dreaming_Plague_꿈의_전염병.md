@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Dream
-- **Primary marker:** A contagious dream-state that spreads through proximity in Zone D. One person fa...
+- **Primary marker:** A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.
 - **Element signature:** Void
 - **Registered location:** SECTOR-N-927
 

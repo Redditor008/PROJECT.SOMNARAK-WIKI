@@ -109,7 +109,7 @@
 **Identification Profile**
 - **Entity Type:** Object
 - **Manifestation:** Object-Phantasmal
-- **Primary marker:** A standing mirror whose surface ripples like water. It does not reflect the room...
+- **Primary marker:** A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demolished, faces of people who have been Fractured.
 - **Element signature:** Void
 - **Registered location:** SECTOR-N-903
 

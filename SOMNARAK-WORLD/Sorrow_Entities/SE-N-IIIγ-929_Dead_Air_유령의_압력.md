@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Spirit
-- **Primary marker:** A barometric anomaly in Zone A that causes the dead to become briefly, tangibly ...
+- **Primary marker:** A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-N-929
 

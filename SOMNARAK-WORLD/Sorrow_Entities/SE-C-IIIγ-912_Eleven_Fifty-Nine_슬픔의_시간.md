@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Time
 - **Manifestation:** Time-Lament
-- **Primary marker:** An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400...
+- **Primary marker:** An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-C-912
 

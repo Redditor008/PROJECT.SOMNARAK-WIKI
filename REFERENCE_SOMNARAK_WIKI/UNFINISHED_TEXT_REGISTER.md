@@ -8,13 +8,13 @@ This register marks every place in `SOMNARAK-WORLD/` where the text stops before
 
 | Class | Fault | Outstanding |
 |---|---|---|
-| **A** | Flavor Text — "At first contact" sentence cut mid-clause | 0 — cleared |
+| **A** | Flavor Text — "At first contact" cut mid-clause | 0 — cleared |
+| **C** | Identification — Primary marker cut mid-phrase | 0 — cleared |
 | **B** | Story Log / Director's Memo — origin paragraph cut at "This sorrow …" | 103 |
-| **C** | Identification — Primary marker / Form cell cut mid-phrase | 31 |
 | **D** | Body prose cut mid-sentence | 72 |
-| | **Total outstanding** | **206** |
+| | **Total outstanding** | **175** |
 
-Affected files: **202**.
+Affected files: **175**.
 
 ## Fix standard
 
@@ -22,17 +22,15 @@ Complete the sentence from the entity's own material in the same file — its fo
 
 ## Cleared
 
-**Class A — 63 occurrences, all closed.** Sixty-one were completed from each entity's own recorded form; two carried a flavor description that differed from the form cell and were written out individually.
+**Class A — 63 occurrences.** Sixty-one completed from each entity's own recorded form; two carried a flavor description found nowhere else in their file and were written out individually.
+
+**Class C — 31 occurrences.** Every truncated identification marker restored from its own dossier's Physical Form entry. This class was cleared first among the remaining three because an identification instruction that stops mid-phrase is unusable at the moment of contact.
 
 ## Classes outstanding
 
 ### Class B — Story Log / Director's Memo — origin paragraph cut at "This sorrow …"
 
 The shared origin cadence breaks off before its final clause, and in several files the next words are an unrelated field such as "Threat rating:", fusing two fragments into one line.
-
-### Class C — Identification — Primary marker / Form cell cut mid-phrase
-
-The marker a worker is told to identify the entity by is itself incomplete, which makes the instruction unusable at the point of contact.
 
 ### Class D — Body prose cut mid-sentence
 
@@ -65,13 +63,7 @@ A paragraph in Observation, Behavior, Breach or Apex prose ends on a function wo
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리.md` | B | 314 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥.md` | B | 288 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-891_Screaming_Masonry_스며든_절규.md` | B | 318 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md` | C | 112 | …stone carved in the shape of a clenched hand, threaded with veins o... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md` | C | 112 | …an-crystal apparatus the size of a writing desk, covered in dials t... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md` | C | 111 | …occurs once per cycle in the Mantle Commons — between 0300 and 0400... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md` | C | 111 | …iod that recurs irregularly in Zone B, during which every clock in ... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md` | B | 328 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md` | C | 111 | …und in Zone B where anyone who stands for more than three minutes d... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-928_Lethe_혼란의_독기.md` | C | 111 | …gas that accumulates in the lower levels of Zone C, causing progres... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIα-081_Broken_Mirror_거울의_조각.md` | D | 325 | …heir mistakes, their shame. The Keepers honored these requests. They … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-048_Hums_노래하는_돌.md` | D | 329 | … causes unease in most personnel. Research teams have documented the … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md` | D | 329 | …ique — in Somnarak, everyone sorrows. But this sorrow was different. … |
@@ -98,8 +90,6 @@ A paragraph in Observation, Behavior, Breach or Apex prose ends on a function wo
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-775_Cleaved_찢어진_탑.md` | B | 280 | …mnarak, everyone sorrows. But this sorrow was different. This sorrow … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-777_Last_Fruit_타오르는_열매.md` | B | 284 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-782_Flotsam_번져가는_유물.md` | B | 280 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-901_Duri's_Heart_보존된_심장.md` | C | 112 | … suspended in crystallized Han, still beating — slow, wet, unmistak... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md` | C | 112 | …nd tome whose pages fill themselves with ink that seeps from the bi... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md` | B | 276 | …mnarak, everyone sorrows. But this sorrow was different. This sorrow … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md` | B | 290 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md` | B | 291 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
@@ -123,13 +113,7 @@ A paragraph in Observation, Behavior, Breach or Apex prose ends on a function wo
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-767_Swallow_번져가는_그림자.md` | B | 292 | …s’ grief. Effect: visitors’ private sorrow rises and merges with the … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md` | B | 280 | …split. Effect: proximity induces the grief of journeys ended between … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-869_Rising_Well_솟아오른_우물.md` | B | 276 | …cendants’ minds. Effect: proximity induces rage without a remembered … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md` | C | 111 | …corridor wall in Zone C that has become flesh — warm, pale, and fai... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md` | C | 111 | …d complex beneath Zone C that reconfigures its corridors based on t... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-915_Endless_Shift_끝없는_교대.md` | C | 111 | …in the Zone D Forge District that never ends for the personnel assi... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-915_Endless_Shift_끝없는_교대.md` | D | 250 | …grief. A work shift in the Zone D Forge District that never ends fo... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md` | C | 111 | …nterval that repeats indefinitely for anyone caught within its radi... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-922_Miasma_우는_안개.md` | C | 111 | … that rolls through the lower corridors of Zone D without warning. ... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-923_Hatred_Above_분노의_폭풍.md` | C | 111 | …atmospheric anomaly above Zone C that generates localized fury in a... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-976_Willing_Chains_스며든_사슬.md` | B | 280 | …to obligations. Effect: proximity induces the grief of bonds that no … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md` | D | 300 | …d in the dark — because whispering was safer than shouting. Shouting … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-150_Risus_웃음의_메아리.md` | D | 292 | … near the entity's containment unit, not to study it, but to simply. … |
@@ -148,12 +132,10 @@ A paragraph in Observation, Behavior, Breach or Apex prose ends on a function wo
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md` | B | 282 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md` | D | 310 | …— in Somnarak, everyone sorrows. But this sorrow was different. This … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md` | D | 320 | …ique — in Somnarak, everyone sorrows. But this sorrow was different. … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md` | C | 111 | … of paper and ink that shimmers when spoken to — its body is a manu... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-225_Black_River_슬픔의_강.md` | D | 294 | …e entity in another life, another time. The R.D. has classified this … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-260_Sorrow_Tide_한의_조수.md` | D | 290 | … near the entity's containment unit, not to study it, but to simply. … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md` | B | 295 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-290_First_Tear_첫_번째_눈물.md` | D | 301 | …es the city, the Han, and the Weeping. Effect: proximity induces the … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-925_Sorrow_Mass_압살의_한.md` | C | 111 | …maly beneath the Alpha Tree where Han density is so concentrated th... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-925_Sorrow_Mass_압살의_한.md` | D | 248 | …grief. A gravity anomaly beneath the Alpha Tree where Han density i... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-155_Harbinger_추징관의_그림자.md` | D | 280 | … causes unease in most personnel. Research teams have documented the … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-156_Deadline_빚의_시계.md` | D | 318 | …e seen, what they have understood. The entity has become more than a … |
@@ -171,9 +153,6 @@ A paragraph in Observation, Behavior, Breach or Apex prose ends on a function wo
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-589_Nemo_돌아온_영혼.md` | B | 280 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-628_Flowing_Seed_흐르는_씨앗.md` | B | 308 | …mnarak, everyone sorrows. But this sorrow was different. This sorrow … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-874_Bridge_of_the_Unchosen_얼어붙은_다리.md` | B | 320 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md` | C | 111 | … block in Zone D where every inhabitant fell asleep on the same nig... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md` | C | 111 | …rrives but does not wake the city. The sun rises, the sky lightens,... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-929_Dead_Air_유령의_압력.md` | C | 111 | …anomaly in Zone A that causes the dead to become briefly, tangibly ... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md` | B | 278 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-125_Hollow_Echo_빈_메아리.md` | D | 278 | … causes unease in most personnel. Research teams have documented the … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md` | B | 278 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
@@ -192,18 +171,13 @@ A paragraph in Observation, Behavior, Breach or Apex prose ends on a function wo
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md` | B | 282 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-801_Mirror_of_Soaking_솟아오른_거울.md` | D | 320 | …vier than the ledgers. One night, a mirror rose through the floor of … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-845_Perennial_돌아온_꽃.md` | D | 310 | …ique — in Somnarak, everyone sorrows. But this sorrow was different. … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md` | C | 112 | …rror whose surface ripples like water. It does not reflect the room... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-910_Moktak_조상의_전당.md` | C | 111 | …hall in Zone A where the city’s founding families once gathered. Th... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-919_Passing_Bell_조상의_시간.md` | C | 111 | … per cycle, during which the voices of the dead become audible in Z... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-993_Survivors_Span_무너진_다리.md` | B | 278 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md` | C | 111 | …dream-state that spreads through proximity in Zone D. One person fa... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md` | B | 277 | …mnarak, everyone sorrows. But this sorrow was different. This sorrow … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-459_Bulwark_잠든_벽.md` | B | 293 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md` | B | 319 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md` | B | 311 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-686_Torn_Window_찢어진_창.md` | B | 315 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-785_Tear_Too_Small_to_Honor_무너진_눈물.md` | B | 319 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-905_Lacrima_영혼의_그릇.md` | C | 111 | …jar, unremarkable except for the faint light that leaks from beneat... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md` | B | 277 | …mnarak, everyone sorrows. But this sorrow was different. This sorrow … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md` | D | 315 | …ique — in Somnarak, everyone sorrows. But this sorrow was different. … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-371_Protest_No_One_Remembers_사라진_침묵.md` | B | 281 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
@@ -214,11 +188,7 @@ A paragraph in Observation, Behavior, Breach or Apex prose ends on a function wo
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md` | B | 319 | …mnarak, everyone sorrows. But this sorrow was different. This sorrow … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-914_Driftglass_떠도는_영혼.md` | B | 368 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md` | B | 277 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-916_Allhallow_유령의_시간.md` | C | 110 | …descends without warning on the Desolate border, during which the d... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-916_Allhallow_유령의_시간.md` | D | 247 | …grief. An hour that descends without warning on the Desolate border... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-920_Once_Upon_이야기의_시간.md` | C | 110 | …g which every forgotten story ever told within a kilometre radius b... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md` | C | 110 | …dius in the Desolate where sound does not exist — not muted, not da... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md` | C | 110 | …e Desolate where the air itself projects images — memories, fears, ... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md` | B | 281 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md` | D | 311 | …— in Somnarak, everyone sorrows. But this sorrow was different. This … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-235_Myrmidon_찢어진_영혼.md` | D | 281 | …— in Somnarak, everyone sorrows. But this sorrow was different. This … |
@@ -229,11 +199,8 @@ A paragraph in Observation, Behavior, Breach or Apex prose ends on a function wo
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-757_Broken_Door_부서진_문.md` | B | 315 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md` | B | 281 | …mnarak, everyone sorrows. But this sorrow was different. This sorrow … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-833_Neverlast_녹슨_영혼.md` | B | 287 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-911_Never_Discharged_영원한_환자.md` | C | 110 | …nt frozen in the air of a Zone E medical bay — a soldier mid-scream... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-911_Never_Discharged_영원한_환자.md` | D | 247 | …grief. A single moment frozen in the air of a Zone E medical bay — ... |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-914_Amnesia_잊혀진_일분.md` | C | 110 | …te — always between 1159 and 1200 on an unmarked day — during which... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-922_Door_to_Nowhere_솟아오른_문.md` | B | 315 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
-| `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-930_Once_Told_살아_있는_서사.md` | C | 110 | …in the deep Desolate where stories told aloud begin to physically m... |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-108_Animus_떠도는_흔적.md` | B | 281 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-126_Anonym_녹아내린_조각.md` | B | 281 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |
 | `SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-169_Atlas_녹슨_기둥.md` | B | 293 | …ak, everyone sorrows. But this sorrow was different. This sorrow was … |

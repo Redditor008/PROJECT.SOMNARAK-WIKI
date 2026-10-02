@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Time
 - **Manifestation:** Time-Spirit
-- **Primary marker:** An hour, once per cycle, during which the voices of the dead become audible in Z...
+- **Primary marker:** An hour, once per cycle, during which the voices of the dead become audible in Zone A. They do not speak to the living — they speak to each other, and what they say is always a warning that the living cannot decipher in time.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-N-919
 

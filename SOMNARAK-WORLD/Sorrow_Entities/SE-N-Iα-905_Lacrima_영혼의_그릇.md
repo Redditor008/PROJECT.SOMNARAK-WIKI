@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Object
 - **Manifestation:** Object-Spirit
-- **Primary marker:** A small clay jar, unremarkable except for the faint light that leaks from beneat...
+- **Primary marker:** A small clay jar, unremarkable except for the faint light that leaks from beneath its lid and the voice — barely audible, always pleading — that emanates from within.
 - **Element signature:** Void
 - **Registered location:** SECTOR-N-905
 

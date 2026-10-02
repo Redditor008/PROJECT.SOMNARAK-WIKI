@@ -107,7 +107,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Tale
-- **Primary marker:** A phenomenon in the deep Desolate where stories told aloud begin to physically m...
+- **Primary marker:** A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-O-930
 

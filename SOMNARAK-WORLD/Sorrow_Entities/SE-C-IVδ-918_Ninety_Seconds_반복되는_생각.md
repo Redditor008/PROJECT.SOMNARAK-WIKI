@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Time
 - **Manifestation:** Time-Mind
-- **Primary marker:** A 90-second interval that repeats indefinitely for anyone caught within its radi...
+- **Primary marker:** A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last.
 - **Element signature:** Void
 - **Registered location:** SECTOR-C-918
 

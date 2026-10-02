@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Weight
-- **Primary marker:** A gravity anomaly beneath the Alpha Tree where Han density is so concentrated th...
+- **Primary marker:** A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-925
 

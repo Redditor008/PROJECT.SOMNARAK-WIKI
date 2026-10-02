@@ -107,7 +107,7 @@
 **Identification Profile**
 - **Entity Type:** Time
 - **Manifestation:** Time-Void
-- **Primary marker:** A single minute — always between 1159 and 1200 on an unmarked day — during which...
+- **Primary marker:** A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are.
 - **Element signature:** Void
 - **Registered location:** SECTOR-O-914
 

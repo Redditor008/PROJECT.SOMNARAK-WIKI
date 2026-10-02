@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Tale
-- **Primary marker:** A figure made of paper and ink that shimmers when spoken to — its body is a manu...
+- **Primary marker:** A figure made of paper and ink that shimmers when spoken to — its body is a manuscript of forgotten tales, pages turning beneath skin that is not skin but vellum.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-C-900
 

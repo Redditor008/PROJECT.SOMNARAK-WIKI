@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Place
 - **Manifestation:** Place-Dream
-- **Primary marker:** A residential block in Zone D where every inhabitant fell asleep on the same nig...
+- **Primary marker:** A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-N-908
 

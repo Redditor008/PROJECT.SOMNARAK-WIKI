@@ -107,7 +107,7 @@
 **Identification Profile**
 - **Entity Type:** Time
 - **Manifestation:** Time-Tale
-- **Primary marker:** An hour during which every forgotten story ever told within a kilometre radius b...
+- **Primary marker:** An hour during which every forgotten story ever told within a kilometre radius becomes briefly, viscerally real — characters walk the streets, narrators whisper from empty rooms, and endings replay themselves in the air.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-O-920
 

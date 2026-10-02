@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Time
 - **Manifestation:** Time-Weight
-- **Primary marker:** A work shift in the Zone D Forge District that never ends for the personnel assi...
+- **Primary marker:** A work shift in the Zone D Forge District that never ends for the personnel assigned to it. They continue working — smelting, forging, shaping — for what feels like days, though only hours pass outside the affected area.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-915
 

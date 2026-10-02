@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Place
 - **Manifestation:** Place-Spirit
-- **Primary marker:** A ceremonial hall in Zone A where the city’s founding families once gathered. Th...
+- **Primary marker:** A ceremonial hall in Zone A where the city’s founding families once gathered. The hall is empty — except at dusk, when translucent figures appear in the seats and resume conversations that ended centuries ago.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-N-910
 

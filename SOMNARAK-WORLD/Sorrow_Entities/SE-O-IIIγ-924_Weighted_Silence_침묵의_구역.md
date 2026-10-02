@@ -107,7 +107,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Void
-- **Primary marker:** A 50-metre radius in the Desolate where sound does not exist — not muted, not da...
+- **Primary marker:** A 50-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. Personnel who enter report that the silence has weight, texture, and intent.
 - **Element signature:** Void
 - **Registered location:** SECTOR-O-924
 

@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Time
 - **Manifestation:** Time-Dream
-- **Primary marker:** A dawn that arrives but does not wake the city. The sun rises, the sky lightens,...
+- **Primary marker:** A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes.
 - **Element signature:** Void
 - **Registered location:** SECTOR-N-917
 

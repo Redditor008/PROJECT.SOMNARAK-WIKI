@@ -107,7 +107,7 @@
 **Identification Profile**
 - **Entity Type:** Time
 - **Manifestation:** Time-Body
-- **Primary marker:** A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream...
+- **Primary marker:** A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-O-911
 

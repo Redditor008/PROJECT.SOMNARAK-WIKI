@@ -109,7 +109,7 @@
 **Identification Profile**
 - **Entity Type:** Object
 - **Manifestation:** Object-Body
-- **Primary marker:** A fist-sized stone carved in the shape of a clenched hand, threaded with veins o...
+- **Primary marker:** A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster when held by someone who is angry.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-902
 

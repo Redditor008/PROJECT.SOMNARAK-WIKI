@@ -109,7 +109,7 @@
 **Identification Profile**
 - **Entity Type:** Object
 - **Manifestation:** Object-Mind
-- **Primary marker:** A brass-and-Han-crystal apparatus the size of a writing desk, covered in dials t...
+- **Primary marker:** A brass-and-Han-crystal apparatus the size of a writing desk, covered in dials that turn on their own, gears that grind without power, and a central lens that focuses on whoever stands before it.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-C-904
 

@@ -109,7 +109,7 @@
 **Identification Profile**
 - **Entity Type:** Object
 - **Manifestation:** Object-Tale
-- **Primary marker:** A leather-bound tome whose pages fill themselves with ink that seeps from the bi...
+- **Primary marker:** A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-906
 

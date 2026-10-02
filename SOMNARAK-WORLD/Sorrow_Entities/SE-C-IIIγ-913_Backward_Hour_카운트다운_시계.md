@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Time
 - **Manifestation:** Time-Grudge
-- **Primary marker:** A 12-hour period that recurs irregularly in Zone B, during which every clock in ...
+- **Primary marker:** A 12-hour period that recurs irregularly in Zone B, during which every clock in the district counts backward and the anger of every citizen intensifies proportionally to the speed of the reversal.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-913
 

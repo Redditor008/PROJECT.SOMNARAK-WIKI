@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Place
 - **Manifestation:** Place-Mind
-- **Primary marker:** An underground complex beneath Zone C that reconfigures its corridors based on t...
+- **Primary marker:** An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back.
 - **Element signature:** Void
 - **Registered location:** SECTOR-C-909
 
