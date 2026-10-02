@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Magistrates Strike-Through.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
-- M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.
+- The trigger is single-use. Completing the drawn circle destroys the entity, grinding it to dust, and no second activation is possible.
+- Viderehan and Ferrehan are the only valid approaches; there is no counterpart here to engage or to confront.
+- Observation documents the partial arc without extending it. Endurance requires holding the implement without completing the stroke.
+- Because destruction is irreversible, all work is conducted under two-person authorisation and the implement is removed from the chamber between cycles.
+- Yield must be extracted before any drawing work begins. Once the circle closes there is nothing left to extract from.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Aphonia.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3. Activation follows the third failed cycle, and the scream becomes audible for the first time at that point.
+- Pressure is identity-class. Personnel lose the memory of their own voice for several hours and must be reminded of their names.
+- Tears soften the scream; aggression converts it into physical pain concentrated in the inner ear.
+- Workers with prior vocal injury are excluded from assignment. The entity selects them preferentially and their memory loss lasts measurably longer.
+- Yield is drawn from the silence rather than the scream. Cycles in which the scream becomes audible produce no recoverable Han-Energy.
 
 ## Combat Record
 ### Core Stat Line

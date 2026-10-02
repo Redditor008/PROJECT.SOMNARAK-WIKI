@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Neglect Learned to Listen.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. The entity expands by accumulating what is said near it rather than by escaping containment.
+- Viderehan and Ferrehan are the only valid approaches; the object cannot be engaged emotionally or confronted.
+- Observation records the rust patterns, which rearrange into legible fragments of overheard speech. Endurance requires remaining within earshot while it repeats them back.
+- Speech near the containment zone is restricted to operational necessity. The entity retains everything said and returns it at unpredictable intervals.
+- Yield rises with the volume of speech absorbed since the previous extraction, so quiet periods reduce recoverable Han-Energy.
 
 ## Combat Record
 ### Core Stat Line

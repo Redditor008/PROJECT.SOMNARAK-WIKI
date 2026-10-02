@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Kind Healer's Shadow.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3, but the entity retreats from aggression rather than escalating, so confrontation holds the gauge stable instead of raising it.
+- Pressure is mental. Workers report an unearned sense of relief during the cycle and a corresponding depletion once it ends.
+- Sharing the burden lowers the gauge. The shadow takes a measurable portion of the worker's distress and does not return it.
+- Personnel are capped at one cycle per shift. Repeated sharing produces an emotional flatness that persists beyond the working day.
+- Yield is drawn from the transferred burden, so cycles worked by emotionally unburdened personnel return very little.
 
 ## Combat Record
 ### Core Stat Line

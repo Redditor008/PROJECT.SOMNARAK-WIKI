@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Weight of Silence.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold sits at 4, one step higher than most Subject-class entities on this row; the gauge tolerates a full additional failed cycle before activation, and crews have used that margin to attempt speech-based work twice in a single shift.
+- Pressure registers as burden rather than injury. Personnel locate it in the chest and throat, and medical review finds no physical cause on examination.
+- Work that pairs speech with tears lowers the gauge; silence held under confrontation raises it. Crews are instructed to let a worker stop mid-sentence rather than finish.
+- Because the entity responds to the act of speaking rather than to its content, scripted or recited dialogue produces no measurable change in either direction.
+- Han-Energy yield rises with the number of words spoken aloud during the cycle, not with the cycle's duration.
 
 ## Combat Record
 ### Core Stat Line

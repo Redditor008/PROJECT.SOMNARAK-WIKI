@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Forgotten Soldier.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold of 3 leaves two failed cycles of margin; the third failure produces a direct breach attempt rather than the gradual escalation seen elsewhere in this class.
+- Pressure is physical and structural. Containment damage concentrates on doors and load-bearing frames rather than on personnel.
+- The salute is the reliable de-escalation. Workers who return it record a falling gauge; workers who ignore it record no change at all.
+- Confrontation does not defeat the entity so much as satisfy it. It attacks until acknowledgment is given, then stops regardless of damage dealt or received.
+- Yield is highest on cycles that end in acknowledgment rather than suppression; suppressed cycles return roughly half the Han-Energy.
 
 ## Combat Record
 ### Core Stat Line

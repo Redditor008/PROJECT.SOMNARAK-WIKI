@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Forgotten Shadow.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3. Failed cycles leave the entity following the worker, and the gauge continues to rise for as long as it follows.
+- Pressure is mental. Personnel report being certain they have forgotten something important and being unable to identify what it was.
+- Singing with it lowers the gauge; the verse softens and it stops advancing. Aggression makes it heavier and it pursues.
+- A shadow that has begun following cannot be re-contained during the same shift. The assigned worker is rotated out and the entity settles on its own.
+- Yield depends on the duration of the sung verse rather than on the number of cycles attempted.
 
 ## Combat Record
 ### Core Stat Line

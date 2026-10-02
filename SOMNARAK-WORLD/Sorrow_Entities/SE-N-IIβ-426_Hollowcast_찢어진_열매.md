@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Hollowcast.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3. The gauge rises sharply on confrontation, so a single aggressive cycle can consume two steps of margin.
+- Pressure is physical and structural despite the emotional character of its attacks; containment damage appears in the casing and its mounts.
+- Reaching toward the entity softens it. Striking it produces a sharp emotional force that registers on personnel as impact trauma without contact.
+- The torn casing does not repair between cycles. Each confrontation widens it, and widens the radius of the emotional force accordingly.
+- Yield falls as the casing widens, which makes early-cycle extraction materially more productive than late.
 
 ## Combat Record
 ### Core Stat Line

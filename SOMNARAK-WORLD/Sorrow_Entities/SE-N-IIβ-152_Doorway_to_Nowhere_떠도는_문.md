@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Doorway to Nowhere.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3. The gauge climbs on refusal, so repeated forced-entry attempts are the dominant cause of activation on this row.
+- Pressure is mental. Personnel report homesickness and disorientation for hours after the cycle ends, with no accompanying physical symptoms.
+- The doorway opens for workers who approach gently and seals against aggression. A sealed frame radiates heat sufficient to blister skin on contact.
+- Nothing retrieved from beyond the frame has ever been catalogued; objects carried back decay to ash within the hour.
+- Yield correlates with how long the door is held open, which makes sustained gentle work more productive than repeated brief attempts.
 
 ## Combat Record
 ### Core Stat Line

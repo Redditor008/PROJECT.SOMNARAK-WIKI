@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Debt-Collector s-Lantern.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- There is no breach counter. The lantern expands its reach instead of escaping, and the trigger is activation rather than containment failure.
+- Only Viderehan and Ferrehan are valid approaches; the lantern cannot be emotionally engaged or confronted.
+- Observation reveals the ledger of debts held in the flame. Endurance tests whether the worker can stand in its light while their own obligations are itemised aloud.
+- The illuminated radius grows by a measurable margin each time a cycle ends in failure, and does not contract afterward.
+- Yield scales with the size of the lit area, which makes failed cycles perversely productive and is the reason extraction is scheduled before remediation rather than after it.
 
 ## Combat Record
 ### Core Stat Line
