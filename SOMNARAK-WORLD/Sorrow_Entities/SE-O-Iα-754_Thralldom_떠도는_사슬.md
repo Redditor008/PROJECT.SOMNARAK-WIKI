@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Thralldom.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A completed cycle slows the crawl and loosens the links, and the Chain resumes wandering afterwards. There is no version of this work that ends with the restraint released, because the person it was fastened to is already gone; the most that can be achieved is that it is not fastened to anyone new.
+- The activation threshold stands at 4 and counts down. Each failed cycle, and each attempt to detain the entity, takes one from it; a clean cycle can return one. At zero it breaks free and begins binding personnel, and the count is the single figure a supervisor should be able to recite from memory.
+- A yield of 10–14 at Low difficulty means this entity is worked frequently and casually, usually by whoever is nearest when it is sighted. Given that the correct response is to let it pass, the training burden here is unusually high for the rating.
+- Extraction means taking a link from a chain that has never been willingly parted from anything. It is scheduled as its own operation, and the extracting worker is relieved immediately afterwards rather than continuing the cycle.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Thralldom's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The team sights the Chain crawling in the Old Lament corridors, confirms it is still an open length rather than a closed loop, establishes which way it is heading, and clears that route rather than blocking it.
+2. **Clash:** Ten turns, and the whole engagement turns on restraint — the party's, not the entity's. Flerehan and Ferrehan bring the gauge down, Pugnahan drives it up, and a party that reaches for Pugnahan because the Chain is hostile will spend the remaining turns managing the consequence.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not bind it; offer an unforced ending**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
-- Thralldom’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Thralldom's dossier.
+- Prolonged exposure produces a specific and well-documented effect: personnel begin to feel compelled to remain in harmful relationships and duties. It does not present as distress. It presents as loyalty, as not wanting to let the team down, as declining a transfer for reasons the worker can articulate fluently and at length.
+- Every piece taken from the Chain charges in bonds. The blade draws lines that nothing may cross and leaves the wielder's old wounds aching; the plate holds the body together and dulls every reflex that would have moved it out of the way; the Link reveals which of a person's attachments have turned coercive and makes them feel every one they have already left.
+- Left unresolved, the Chain does not burst outward so much as fasten onward. It crawls through the Old Lament looking for a new attachment, and the recorded breach is simply what that looks like when it succeeds and the attachment is a person.
 
 ## Appearance
 **Physical Form:** A serpent-creature of interlocked chain-links, no head and no tail, dragging itself with a predator's patience. **Movement:** It crawls and slithers link by link through corridors.
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A chain-shaped figure that crawls and burns through old corridors. It has no visible person attached to either end. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Crawls and drags itself along corridor floors at a steady predator's pace, with no head, no tail and nothing pulling it; record the direction of travel and whether the length is open or has closed into a loop. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the configuration above everything else. The Chain travels as an open length, and Trivia establishes that it closes into a loop only when a person tries to possess it — so the shape of the entity is a direct readout of what the personnel in the corridor have just done. Log its length, the number of links visible, the direction of crawl, the heat coming off it, and whether either end is free. Then log the red marks: they appear on places where people were prevented from leaving, which makes them a map of the facility's own history rather than a feature of the entity, and they should be surveyed and recorded by location. A loop in the log is an incident report whether or not it was filed as one.
 
 ## Origin
 - **Formation:** The Chain formed from a bond that became imprisonment.
 - **The Sorrow:** The grief of being held by obligation after love has ended.
 - **The Event:** A family used a chain to keep a loved one from leaving during Fracture; the restraint remained after the person was gone.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A family during the Fracture who chained a man to keep him from leaving, and the man, who left anyway. The record is careful on one point: they did it out of love, and it was still a chain.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Thralldom is recorded as a Subject with Subject-Grudge manifestation and Grudge elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Flerehan and Ferrehan both bring the gauge down, by opposite routes. Weeping with it loosens the links and stops the crawling, because grief is what the binding was made of and it has never been met with any. Endurance works because Ferrehan here means staying beside the Chain without being fastened to it — present, unbound, and free to go — which is the arrangement the family could not manage. Viderehan holds level: it reveals the relationship behind the restraint, and the Chain neither resists the exposure nor gains from it. Pugnahan raises the gauge every time, without exception, and the reason is structural rather than temperamental. Confrontation is force applied to make something stay, and that is the exact act that produced this entity.
 ## Breach Behavior
 
 > *"Thralldom has broken free. Binds personnel, dragging them."*
@@ -161,8 +161,8 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Clear the route. Do not block corridors, do not deploy Wardens to hold a line, and do not force it back through Pugnahan — every one of those is a restraint, Pugnahan is a logged gauge increase for this entity, and preventing something from leaving is the originating act of the whole case. Open the way it is heading, stand personnel aside, and let it go. Containment is achieved by offering an unforced ending, not by arresting its movement.
+- **Sorrow Gauge on breach:** Indexed to restraint rather than to elapsed time. Rises 10% for each attempt to hold, bind, cordon or detain it, and for each personnel member it succeeds in binding. Falls 10% each time an exit is opened ahead of it and the personnel present stand away from the doorway in plain view. A party that does nothing holds it level indefinitely; a party that gives chase will not.
 
 ## M.A.W. Equipment
 
@@ -184,12 +184,12 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The full figure against one designated target and nothing beyond them — the blade is a boundary tool, and a boundary applies to the one who is standing at it.
+**Damage Application:** Score the cut once, then score the gravitational drag again on each following turn while the target remains within the drawn line; the two resolve as separate events against the same resistance.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Thralldom's grudge signature in the strike.
+**Ability:** Scores a line across the floor that nothing crosses at full speed, halving the movement of anything that tries — a thirty-six inch sword etched with land deeds, which settles the question of where a thing may go by the oldest available method.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Every injury the wielder has ever recovered from begins to ache again, and faint bruising surfaces along the lines of old breaks. Nothing new is damaged. The body is simply reminded of everything it has already been held by.
 
 ### M.A.W. Suit — The Wandering Plate
 
@@ -205,9 +205,9 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Thralldom's kind of pressure.
+**Ability:** Han-iron plate that shifts and breathes with the wearer and hardens against Grudge pressure, keeping a body intact against something that binds and drags rather than strikes.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The harness answers slightly after the wearer does. Nothing is prevented, but every movement away from something becomes deliberate, and wearers report that stepping back out of a bad situation now requires a decision where it used to require none.
 
 ### M.A.W. Stigma — The Wandering Link
 
@@ -217,17 +217,17 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the bearer's rating while working the Chain, forfeited for the remainder of the cycle if the bearer attempts to restrain it
 
 **Ability:** Reveals bonds that have become coercive.
 
 **Cost:** The wearer feels every bond they have left behind.
 
-*Stigmas are granted at random by Thralldom upon a successful work, not manufactured.*
+*The Link is given, not taken — which for this entity is the whole of the matter. It has appeared only on workers who let the Chain leave, and no procedure has ever produced one by holding on.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Thralldom's element. No protocol produces Stigmas. They emerge from Thralldom's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece remains part of the Chain, and the set has a property the grades do not record: all three of them hold. The blade pins a target in place, the plate slows the wearer's own withdrawal, and the Link binds its bearer to the memory of every attachment they have walked away from. There is no item here that helps anyone leave. Operatives who use this set to secure an area find that it performs exactly as written, and operatives who use it to cover a withdrawal find that it does too, which is the problem. The equipment was drawn from a restraint applied by people who loved the person they were restraining, and it has inherited their certainty along with their grip.
 
 ### Field Use Record
 
@@ -238,7 +238,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The α grades are accurate and unremarkable — three to six damage, ten to fifteen Echoes, nothing concealed. What they omit is that this set's costs are all exerted on the wearer's capacity to disengage, which is not a combat statistic and does not appear on any sheet. Read the Cost lines as the specification.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Thralldom's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Log the Chain's configuration, its direction, and every restraint attempted by anyone present, including attempts that were considered and abandoned. Then take the personnel record, which for this entity is not optional: workers exposed to it report compulsion to remain in harmful duties, and that compulsion is indistinguishable from conscientiousness in a debrief. Ask instead whether the worker has declined leave, extended a shift, or refused a rotation since the exposure. The answer is the measurement, and the worker will usually supply it while explaining why it does not count.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Thralldom (O-Iα-754 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The Chain formed from a bond that became imprisonment. Held at Zone B, Old Lament — ambient. It crawls without a body to pull it.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Corridor Sighting Report, Old Lament>**
 Crawls through Old Lament seeking a new attachment. Personnel feel compelled to remain in harmful relationships or duties. It becomes calmer when no one tries to possess it.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Separation Interview, Transcribed>**
 The grief of being held by obligation after love has ended.
 
 **Entry 4 — <Containment Notice>**
@@ -307,12 +307,12 @@ Metal slides across the floor behind you. The Chain follows without pulling, wai
 
 Thralldom does not exist in isolation. Its recorded relationships with The Chain of Memories, The Broken Promise, The Smothering Mother should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish the Chain's solo wandering first — route, pace, configuration, and where it lingers — across cycles in which nothing is asked of it and nothing stands in its way. Then introduce a second entity, and observe the variable that governs every interaction this holding has: whether the Chain attaches. It crawls through the Old Lament seeking a new attachment, and its interactions are not resonances or reactions but candidacies. Log the separation at first response, the duration, the gauge movement, whether it altered course toward the other entity, and above all whether it closed into a loop. Separation ends the contact but does not undo the selection, and a Chain that has chosen will return to the same holding on later cycles unprompted.
 
 
 ### Entity Interaction Record
 
-Thralldom must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Chain is ambient within the Old Lament rather than held at a fixed point, so it encounters more of Zone B than any comparable α-tier holding and its relationships change as it travels. The interactions below are canonical but each was recorded at a particular stage of its wandering; personnel must re-establish its current route before relying on any of them.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ Thralldom must be assessed as part of an entity network, not as an isolated prof
 | **The Broken Promise** | Both preserve bonds that failed. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Smothering Mother** | The Mother recognizes protection becoming restraint. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record the separation at first response, the change in crawl direction, the duration of contact, the gauge movement, the configuration at the closest approach, and whether the Chain remained in the area after the second entity was withdrawn. The last of these is the finding; the rest is context.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -369,9 +369,9 @@ Some sorrows are about loss. Thralldom is about the holding that outlasted the l
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The governing instruction for this entity contradicts the facility's standing reflexes, and personnel should be told so plainly rather than left to discover it: the Chain is hostile, mobile, and classified as able to breach, and the correct response is still to get out of its way. Everything a warden is trained to do when something crawls down a corridor — block it, hold the line, force it back — raises this gauge, and the dossier records that it becomes calmer when no one tries to possess it. The classification is accurate. The instinct it provokes is wrong. Where the file and the entity disagree, trust the entity, log the discrepancy, and do not reconcile it quietly.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any incident, verify the gauge, the activation count, the personnel exposure log and the entity's position — and add the one review item specific to this holding: list every restraint applied during the event, by whom, and on whose order. Most Thralldom incidents are made worse by the response rather than by the entity, and a review that does not itemise the response has not examined the incident.
 ## Trivia
 
 - It never forms a closed loop unless a person tries to possess it.
@@ -383,9 +383,9 @@ Some sorrows are about loss. Thralldom is about the holding that outlasted the l
 
 - **Classification detail:** Thralldom is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify by the marks. Red staining appears on thresholds and corridors where people were once prevented from leaving, and it fades wherever a bond has since ended honestly.
+- **Record detail:** Zone B holds more than one Grudge residue formed from obligation outlasting affection; confirm the designation O-Iα-754 and the Subject-Grudge manifestation before applying this file to any of them.
+- **Containment detail:** There is no cell. The Chain is logged as ambient within the Old Lament, and the decision not to enclose it was deliberate rather than a shortfall of resources — a sealed door is a restraint, and restraint is what this entity is for. It is contained by the practice of letting it through.
 ## Document Information
 
 **Document ID:** SE-O-Iα-754
