@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Heirloom.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle quiets the chamber and does not shrink it. The room keeps every metre it has gained; the grievance keeps every generation it has passed through, and the next unattributed repetition starts from the size recorded at the end of the last cycle.
+- No breach counter is listed and none applies to a Place-manifestation that cannot be destroyed with its vessel. Where no count exists the Sorrow Gauge percentage is the activation mechanism entire, and the figure here is 90%; where a count does exist in the archive it runs down with failed cycles on any role at all, Subject, Object, Place or Relic alike.
+- The 20–28 Han-Energy yield is drawn from a Critical-grade expansion holding that produces no corpse, no vessel and no dust, which makes it look cheap on the ledger. The cost is paid in the vault's dimensions and in what personnel believe about each other afterwards.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. This source yields no vessel to break, so extraction is taken from the sound itself, and the δ-grade set that results carries the source's defining property — it repeats.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,15 +86,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Heirloom's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Every exchange here is one the team supplies. Viderehan and Ferrehan are worked under voice discipline: what is said in the chamber is said once, by one named speaker, and is entered in the log as spoken rather than paraphrased. Nothing is repeated back for confirmation, which is the single hardest instruction in this file to follow under pressure.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Stop repetition and identify the original voice**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
-- Heirloom’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Heirloom's dossier.
+- The effects compound with duration in a way the turn count understates: the first repetition is merely disorienting, and by the twentieth the worker can no longer identify which of the voices in the chamber was originally theirs. Severe cases present as settled, articulate conviction rather than as distress.
+- Each M.A.W. activation debits the wielder beyond what the grade ledger can record. The Zweihander aches in old wounds, the Plate dulls the reflexes it protects, and the Flame burns hostile echoes at the price of its wearer's certainty about which angers were ever theirs to begin with.
+- Without resolution the sorrow does not dissipate and does not escape either — it transforms, which is the breach type on the classification. The chamber stops being a room that echoes and becomes an echo that has a room, and the vault plan is amended rather than the entity contained.
 
 ## Appearance
 **Physical Form:** An empty chamber that echoes with burning voices. The room appears larger whenever the Echo repeats.
@@ -106,7 +106,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
 - **Primary marker:** An empty chamber that echoes with burning voices. The room appears larger whenever the Echo repeats.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The chamber holds its station in the vault and gains volume instead of travelling; record the wall survey against the previous one, never a bearing — what moves here is the boundary.
 - **Element signature:** Grudge
 - **Registered location:** Zone A, Alpha Tree vault
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | An empty chamber that echoes with burning voices. The room appears larger whenever the Echo repeats. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | The chamber holds its station in the vault and gains volume instead of travelling; record the wall survey against the previous one, never a bearing — what moves here is the boundary. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Identification is not optional. The designation, the manifestation type and the wall survey must agree before a cycle opens; an expansion holding that has grown since the last visit is not the same room the last team worked in. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Measure the room, because the room is the entity. Take the four wall distances from the fixed survey pins, the ceiling height at centre, and the carrying time of a single clap, and set all six against the previous cycle's figures before anything subjective is written down. The chamber is empty and must be recorded as empty: no speakers, no source, no body, nothing to point at. Log the temperature, which runs hot in a space with nothing in it to be hot. Log what the voices say and whose they sound like, in the hearer's own words, and log the fact that two people in the same chamber routinely disagree about both. Do not write 'strange'. Write the dimensions, and write them again next cycle, because the only thing this entity reliably does is get bigger.
 
 ## Origin
 - **Formation:** The Echo formed from anger repeated until it no longer belonged to anyone.
 - **The Sorrow:** The exhaustion of inherited fury that consumes both victim and bearer.
 - **The Event:** A grievance was repeated through generations until the words became an empty fire.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A family, then a street, then a district, carrying one grievance forward by recitation until nobody living could say who had been wronged or by whom. The record cannot name the original voice. That is not a gap in the archive; it is the entity — the thing that formed is precisely the point at which the name went out of the telling.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Heirloom is recorded as an Object/Place with Place-Void manifestation and Grudge elemental expression. The current record places it at Zone A, Alpha Tree vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Read it in the sound and in the survey, and never in how the team feels about the cycle. A falling gauge presents as thinning — fewer overlapping voices, a shorter carrying time, the burnt-paper smell dropping below notice. The pressure is being absorbed and the source is untouched; the walls stay exactly where they were. A rising gauge presents as agreement, which is the dangerous reading on this holding: the voices converge, they become articulate, and they start saying a thing the worker already half believed. A cycle that ends with the team unanimous about a grievance is a cycle to be examined, not filed. Any response the record does not describe is written up the same day, and the single observation that outranks every other is a voice naming someone who is currently on shift.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -175,7 +175,7 @@ The escalation pattern is specific to Heirloom: it is not a generic breach event
 | **Risk** | Critical (δ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Stop repetition and identify the original voice. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** repetition logged → what was repeated and whether it was attributed → wall survey against the previous figures → which personnel heard their own anger returned to them → rate of spread through connected spaces → management condition. The second field decides the event: an attributed repetition is an observation and an unattributed one is the trigger. Viderehan and Ferrehan remain the only valid Work Types.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -195,27 +195,27 @@ Requiring tremendous physical strength to wield, the sceptre serves equally as a
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** Line; the sceptre's shockwave travels out along the floor and reaches up to 3 targets standing in file
+**Falloff Rule:** Primary 100% → first target behind 70% → second 50%; the ripple loses authority with distance from the planted butt, as a sound does.
+**Damage Application:** Resolve the impact first, then apply the multiplier to any Tick damage as a second and separate calculation; the two are never rolled together.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Heirloom's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body — footing, structure, the ability to stay upright. Planted and struck, the sceptre carries the source's signature into the floor, and the stagger it produces arrives a moment after the blow rather than with it.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old injuries ache for days after a planting, and prolonged use raises faint bruising along the shoulders that the weight alone does not explain.
 
 ### M.A.W. Suit — The Echo Plate
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-Appearance : A massive six-foot two-handed greatsword with a four-foot blade, broad side parrying rings, and long drooping quillons that ring like tuned orchestral chimes when the sword is swung.
+**Appearance:** a full plated harness of Grudge Han-iron, dark and faintly warm, hung at the shoulders and flanks with long drooping resonance rings tuned like orchestral chimes.
 
-The blade's immense reach and momentum dominate wide hallways, holding multiple foes at bay. The chime quillons resonate in harmony with the swing, releasing acoustic ripples that disorient opponents.
+The rings sound continuously as the wearer moves, and the harness works by answering an incoming echo with a competing one: a returned voice arrives at the plate already out of phase with itself and reaches the wearer detuned. The cost is that the wearer is never in silence.
 
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Heirloom's kind of pressure.
+**Ability:** Grants resistance to Grudge pressure, shielding the Body against concussive and acoustic force. The resonance rings detune an incoming echo before it reaches the wearer, which is the only recorded defence against this source's primary effect.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull measurably, armoured in something nearer resentment than patience, and the rings continue to sound faintly for some hours after the plate is removed.
 
 ### M.A.W. Stigma — The Echo Flame
 
@@ -225,17 +225,17 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat while the Flame's source entity is the subject of the cycle, and nothing whatever on any other holding
 
 **Ability:** Burns hostile echoes and silences their spread.
 
 **Cost:** The lantern burns away one of the user's own repeated memories.
 
-*Stigmas are granted at random by Heirloom upon a successful work, not manufactured.*
+*The Flame is given, never made. It appears after a successful cycle at the source's discretion — which here means at the discretion of a room — and no procedure or stated probability compels it.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Heirloom's element. No protocol produces Stigmas. They emerge from Heirloom's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design, a piece amplifies its own cost and can wake the element carried in it, which on this set presents as a ringing that does not stop at the ears and the sense of having already had this argument. Stigmas are not produced by any protocol. They emerge from the source's own disposition during a cycle, unbidden and unrepeatable, and no quantity of correct practice obliges one to appear.
 
 ### Field Use Record
 
@@ -246,7 +246,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are separate axes and this set demonstrates it at the top of the scale. The δ rating describes what the pieces do to entities; it says nothing about a wielder left Fractured, hollowed, or quietly bound to a grievance that was never theirs. Read both columns and authorise on the second.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Heirloom's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Observe from the survey pins with one designated speaker and everyone else silent, and record four things: the first change in the acoustics, the first thing an observer felt and toward whom, the first measurable change in the wall distances, and the condition under which the watch ended. The entity's appearance is its history made visible rather than a forecast of its behaviour — an empty burning room is the shape a grievance takes once nobody can name its owner, and it predicts nothing. The predictive document is the wall survey, which is why the survey is plotted and why a relief observer is shown the plot before the chamber.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -276,16 +276,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Heirloom (O-IVδ-909 [GP]) is logged as a Place-Void manifestation expressing Grudge. The Echo formed from anger repeated until it no longer belonged to anyone. Held at Zone A, Alpha Tree vault. The chamber expands when the Echo is repeated.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Vault Acoustic Survey, Year 4238>**
 It burns itself as it spreads.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Attribution Failure>**
 The exhaustion of inherited fury that consumes both victim and bearer.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals how the grievance spread. (Stable); Ferrehan: Tests whether the worker can remain while the sound burns away. (Decrease). Personnel report sorrow after the rage fades.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Standing Instruction on Quoted Grievances>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
@@ -315,12 +315,12 @@ The room repeats your footsteps before you take them. Then it repeats your voice
 
 Heirloom does not exist in isolation. Its recorded relationships with The Rusted Whisper, The Wrath Flame, The Hollow Choir should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Solo baselines first; they are the control group and without them an interaction study here is a rumour with a timestamp. The relations recorded for this holding all carry something forward on behalf of someone who is gone, so the question to be settled is whether the inheritance transfers — whether the chamber begins repeating a second entity's grievance, and whether the wall survey moves in the fortnight afterwards. Log the activating distance, duration, gauge change on both sides, operational impact, and whether separation ends it. Each pairing is a fresh experiment: identical entities in identical conditions have responded differently across consecutive cycles in this vault.
 
 
 ### Entity Interaction Record
 
-Heirloom must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Heirloom must be assessed as one of a group of sorrows that outlive their owners and travel by being passed on, rather than as an isolated chamber in a vault. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that only shows under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -328,7 +328,7 @@ Heirloom must be assessed as part of an entity network, not as an isolated profi
 | **The Wrath Flame** | Gives it heat but not its original fury. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Hollow Choir** | Can divide the Echo into individual voices. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring them into range under voice discipline, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on the chamber, and whatever persists after separation. The field this holding adds is the wall survey, taken before the pairing and again at the end of the following week, because this entity records interactions in its own dimensions.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -375,9 +375,9 @@ Some sorrows mourn a wrong. Heirloom mourns the forgetting of the wrong — the 
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Treat the record as a starting point and the chamber as the authority, and then notice what the trigger actually indicts. This entity expands on the repetition of anger without examination, it travels through connected memory spaces, and it is held in an archive whose daily business is copying grievances forward into new files. The containment condition — identify the original voice — is therefore a documentation standard before it is a field order: every quoted grievance in this wing carries the name of the first speaker, or it is not quoted. That rule costs the archive something real, because much of what it holds can no longer be attributed, and the honest consequence is that some records cannot be repeated at all. Where observation contradicts the file, trust the chamber and log the discrepancy; do not normalise it, and do not summarise a disputed account into a tidy one — the tidy version is the one that spreads.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any transformation, expansion, Sorrow Tide, Ordeal, or unusual interaction, verify the four pillars — gauge, seal, personnel, position — and add the fifth this holding requires, which is the wall survey. Every repetition logged during the event is reviewed for attribution, and the review asks whether the name was absent or merely omitted. The hearing log goes to the counselor and not to the line supervisor. Where a voice named a serving colleague, that is treated as an output of the entity and not as an allegation, and any wing that reverses those two has reinvented the grievance this entity is made of.
 ## Apex Record
 
 ### The Room That Grows
@@ -423,9 +423,9 @@ Reference marks are cut rather than painted, shallow and small, and each carries
 
 - **Classification detail:** Heirloom is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone A, Alpha Tree vault.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the emptiness and the measurements. Several holdings in the vault produce voices; this is the one with nothing in it, which is hot for no reason, and whose walls are further apart this month than last.
+- **Record detail:** Echo-form and inheritance-form entities are numerous in the archive and their common names overlap badly on a dispatch sheet. Confirm the designation and the manifestation before a cycle is booked, because the instructions diverge at the point that matters here — whether anything said in the room may be repeated outside it.
+- **Containment detail:** Sealed does not mean silent, and on this holding the seal is close to decorative. The sound spreads without distance, so a sealed vault door filters volume and not reach; personnel two levels up have reported hearing their own anger returned to them in a corridor that shares no wall with the chamber. The containment that works is the voice discipline, which is to say a rule people have to keep choosing to obey.
 ## Document Information
 
 **Document ID:** SE-O-IVδ-909
