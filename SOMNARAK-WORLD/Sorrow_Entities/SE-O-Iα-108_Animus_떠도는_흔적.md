@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Animus.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- A successful cycle lets the trace fade from the Commons for a while, which is the only outcome this holding offers and is not a resolution. It returns on its own schedule along a different line, equally angry, and no nearer knowing why.
+- Both readings are live. The listed threshold is 4, a count that runs down one step per failed or refused cycle; the Combat Record separately sets activation at a Sorrow Gauge of 45%, and the gauge reaching that figure activates the entity whatever the count still stands at. The count is generous and the percentage is low, which is a combination that produces frequent minor activations and almost no warning time.
 - The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction from a trace this thin is marginal work and the yield is small; what comes out is a length of anger with no object attached, and the pieces look for one.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,15 +86,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Animus's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Ten turns, all four Work Types available, and one rule holds throughout and is read aloud before entry: nobody offers it a reason. Not a name, not a faction, not a family, not a hypothesis, not a reconstruction of what the quarrel might have been. The voice is transcribed as heard and left uninterpreted.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not supply a false reason; observe and endure until it fades**.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Animus reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Extended exposure carries a cumulative risk with a specific shape here. Each additional minute increases the worker's need for the anger to make sense, and that need is the thing the holding actually damages. Personnel who stay too long begin constructing a cause, privately and convincingly, and report it afterwards as something they heard.
+- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: what this source charges is the ability to let a wrong go unexplained, and the loss is not noticed as a loss.
+- If the condition is not met the trace's form shifts and the Commons shift with it, which is the Transform breach on the classification. The alteration is small and local and consists, on every record to date, of the surrounding space rearranging itself into somewhere an old argument happened.
 
 ## Appearance
 **Primary Form:** An ethereal trace that wanders through the Commons as a red line of heat and a faint disembodied voice.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Spirit
 - **Primary marker:** An ethereal trace that wanders through the Commons as a red line of heat and a faint disembodied voice.
-- **Position / movement:** Primary Form: An ethereal trace that wanders through the Commons as a red line of heat and a faint disembodied voice.
+- **Position / movement:** Drifts along no fixed route through the Commons; record the line it walked, where it entered and left, and whether the footprints of light were still present when a second observer looked.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Mantle Commons
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | An ethereal trace that wanders through the Commons as a red line of heat and a faint disembodied voice. |
-| **Position / movement** | Primary Form: An ethereal trace that wanders through the Commons as a red line of heat and a faint disembodied voice. |
+| **Position / movement** | Drifts along no fixed route through the Commons; record the line it walked, where it entered and left, and whether the footprints of light were still present when a second observer looked. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Check the designation, the element and the manifestation against the file, and confirm the line of heat and the travelling voice together; if any detail contradicts, do not proceed. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the line, the voice, and the prints, and record who was looking at each. The line is a thin red thread of heat drawn in the air: log its height, its length, its temperature by instrument rather than by hand, and the smell of char that accompanies it. The voice travels along the line and is faint; transcribe the words heard, verbatim, with nothing supplied where the words are indistinct. The prints of light are the difficulty. They fade when nobody is looking at them, which means the only evidence this entity leaves requires a witness to continue existing, and no instrument record of a print has ever been obtained. The protocol therefore pairs observers and logs both accounts separately. Where they disagree, both are kept. Neither is corrected against the other.
 
 ## Origin
 - **Formation:** The Trace formed from rage that outlived its original reason.
 - **The Sorrow:** The exhaustion of carrying anger after the memory of its cause has disappeared.
 - **The Event:** A grievance was repeated across generations until the grievance remained but its origin was lost.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A line of people who inherited a quarrel and kept it, each generation passing on the anger intact and the reason imperfectly, until the last of them had the whole of the one and none of the other. No individual is identifiable and no counterparty is named anywhere in the record, which may mean the counterparty was forgotten or may mean there never was one.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Animus is recorded as a Subject with Subject-Spirit manifestation and Grudge elemental expression. The current record places it at Zone D, Mantle Commons; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Read it in the line and in what the worker has started to believe. A falling gauge presents as thinning — the thread dimming, the voice dropping below the transcription threshold, the heat falling toward the ambient. The pressure eases and nothing is answered; the grievance is no closer to being known. A rising gauge presents as **sense**. The voice begins to seem intelligible, the fragments start to fit a story, and the worker finds themselves close to understanding what this is about. That is the failure state and it is almost indistinguishable from competent work. The entity carries anger with the reason burned out of it, and the one thing it will take from a person is a reason — and once given, on the two occasions it was given, the anger acquired an object it had not previously had.
 ## Breach Behavior
 
 > *"Animus has broken free. Hunts personnel indiscriminately."*
@@ -162,7 +162,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and moves on explanation rather than on elapsed time. Each 10% is added when a reason is supplied within hearing: a cause named, a party blamed, a feud identified, a hypothesis spoken aloud, or a speculative passage from a report read out near the line. Sincerity, accuracy and tentativeness make no difference; what registers is that a reason was offered. Each 10% comes off when a worker says plainly, out loud, that the cause is not known and will not be supplied, and the transcript for that interval is filed uninterpreted. Silence holds it steady. The phrase in standing use is the shortest containment measure in this wing — I do not know why you are angry — and personnel are taught to say it without apology, because an apologetic delivery has twice been followed by somebody volunteering a theory to fill the gap.
 
 ## M.A.W. Equipment
 
@@ -184,12 +184,12 @@ The knives respond instantly to telekinetic hand gestures, flying through the ai
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the single designated target; the trace selects one person and nothing carries to those beside them.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the strike and the migrating mark it leaves are tracked apart.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Animus's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure. The strike carries the source's signature, and those hit report a brief, specific fury directed at nobody in particular.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising, in the pattern of grips rather than blows — as though someone had taken hold of them.
 
 ### M.A.W. Suit — The Trace Plate
 
@@ -205,9 +205,9 @@ The knives respond instantly to telekinetic hand gestures, flying through the ai
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Animus's kind of pressure.
+**Ability:** Grants resistance to Grudge pressure, shielding the Body against anger that has no object. It is rated against duration rather than force, which suits a source that has been going for generations.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull and their grudges lengthen. Wearers remain annoyed about things for considerably longer than the things warrant, and do not connect this to the equipment.
 
 ### M.A.W. Stigma — The Trace Ember
 
@@ -217,13 +217,13 @@ The knives respond instantly to telekinetic hand gestures, flying through the ai
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat while this piece's source entity is the subject of the cycle, and nothing anywhere else
 
 **Ability:** Reveals the emotional residue left by a past event.
 
 **Cost:** The wearer may inherit anger without learning its cause.
 
-*Stigmas are granted at random by Animus upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, for no reason that has ever been established, which is in keeping.*
 
 ### M.A.W. Use Notes
 
@@ -238,7 +238,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and the relationship inverts on minor sources like this one: negligible output, a cost that runs for years. Read both columns, authorise on the second, and review this set against the wielder's conduct outside the facility rather than their cycle performance inside it.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Animus's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Observe in pairs, transcribe rather than interpret, and record the first visible sign, the first emotional response and what prompted it, the first measurable change in the Commons, and the condition that ended the encounter. The entity's form is its sorrow rather than its strategy — a line of heat walking a route nobody remembers deciding on is what a grievance looks like once it has outlasted everyone who could say what it was about. One instruction is specific to this holding. The observer does not record what they think the voice meant. There is a field for what was said and no field for what it was about, and the omission is deliberate: the original grievance has never been recovered, several attempts have been made, and each attempt produced a different plausible answer and a worse week at the Commons.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Animus (O-Iα-108 [GS]) is logged as a Subject-Spirit manifestation expressing Grudge. The Trace formed from rage that outlived its original reason. Held at Zone D, Mantle Commons. The Trace's fury is older than any identified witness.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Mantle Commons Patrol Transcript, Year 4238>**
 Wanders through Mantle Commons and adjacent corridors. Personnel feel ancient anger without knowing its source. It produces weight without a stable physical body.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Workers Who Found an Explanation>**
 The exhaustion of carrying anger after the memory of its cause has disappeared.
 
 **Entry 4 — <Containment Notice>**
@@ -307,12 +307,12 @@ A red line crosses the floor, pauses, and continues. No body follows it. The air
 
 Animus does not exist in isolation. Its recorded relationships with The Rusted Soul, The Angry Maiden, The Forgotten Soldier should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity alone; a trace this faint produces nothing interpretable without a long solo series behind it. The relations on file concern anger, inheritance, or things that persist past their cause, so the question to settle is whether the voice becomes clearer in company — clarity being the warning sign on this holding rather than the result. Capture range, duration, trigger, gauge delta on both sides, field effect, and post-separation residue. A stable pattern is a hypothesis and not a law: re-verify every cycle, because a Sorrow Tide, an Ordeal or a transformation has overturned settled dynamics in the Commons before.
 
 
 ### Entity Interaction Record
 
-Animus must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Animus must be assessed as one of a group of sorrows that outlived their occasions, rather than as a solitary trace crossing the Mantle Commons. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ Animus must be assessed as part of an entity network, not as an isolated profile
 | **The Angry Maiden** | Her fire gives the Trace temporary form. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Forgotten Soldier** | Salutes the ancient duty within its anger. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring them into range in the open Commons with two observers assigned to the trace alone, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the space, and whatever persists after separation. The field this holding adds is the transcript, kept verbatim and unglossed, with the two observers' versions filed side by side.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -367,9 +367,9 @@ Some sorrows mourn a grievance. Animus mourns the lost cause — the anger carri
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The file is a map and the Commons are the territory, and the suppression condition is a prohibition rather than an action. Do not supply a false reason; observe and endure until it fades. An archive exists to establish causes, and this is the holding where establishing one is the harm — not because the answer would be wrong, though it would, but because this entity has no object for its anger and a supplied reason gives it one. The wing has twice commissioned historical work on the original quarrel. Both inquiries produced coherent, well-sourced, mutually incompatible accounts, and both were followed by a measurable fortnight of activity at the Commons. The second inquiry's findings were sealed rather than filed, and the minute ordering the seal says that the Directorate had learned something about itself and not about the grievance. Where the entity contradicts this record, trust the entity; preserve the contradiction as evidence rather than normalising it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every breach, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge, the exposure log, the position and the state of the Commons before work resumes. Two further items are required here. Transcripts are checked for interpretation — any sentence describing what the voice meant is struck from the record and noted as struck, with no consequence to the author, because supplying meaning is what a literate person does with an incomplete sentence. And any worker who has formed a settled belief about the cause is rotated off the holding and asked to write the belief down for the sealed file rather than being argued out of it, since arguing has been tried and entrenches it.
 ## Trivia
 
 - The entity's original grievance has never been recovered.
@@ -381,9 +381,9 @@ Some sorrows mourn a grievance. Animus mourns the lost cause — the anger carri
 
 - **Classification detail:** Animus is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone D, Mantle Commons.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the thread of heat and the prints that fade when unwatched. The Commons carry several faint presences; this is the one that leaves a visible line in the air and a voice travelling along it.
+- **Record detail:** Grudge-form residues are common in the archive and more than one is logged in Zone D. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the decisive point, since several comparable holdings are managed by naming the wrong that caused them and this one is destabilised by it.
+- **Containment detail:** There is no body to hold and no door to close on a thing that walks the Commons at will. What crosses any boundary here is irritability: adjacent personnel report old arguments resurfacing, disproportionate annoyance at colleagues, and dreams of being owed an apology. Those reports are collected with the holding, and supervisors are told explicitly not to treat them as conduct matters.
 ## Document Information
 
 **Document ID:** SE-O-Iα-108
