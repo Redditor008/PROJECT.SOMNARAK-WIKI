@@ -39,10 +39,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Tear Too Small to Honor.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A completed cycle lets the Tear sit a fraction less flat beneath the stone, but nothing restores the shape it had before it was hidden; the pressing already happened and the record of it is the object.
+- The Tear does not escalate the way larger entities do. It activates on touch, and it activates on being passed over — a cycle skipped because the assignment looked too minor to bother with is itself the triggering condition.
+- A yield of 10–14 and a difficulty rating of Low describe the extraction, not the encounter. Personnel are reminded that this entity exists because somebody applied exactly that kind of arithmetic to a grief and concluded it did not merit the effort.
+- Extraction requires lifting the Tear, and the Tear has never been lifted without emotional distress in any logged instance. Schedule it as a contact operation with a counsellor present, not as an incidental pickup at the end of a Viderehan cycle.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Tear Too Small to Honor's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **Tension:** The worker locates the Tear beneath its stone in the Echo Gardens, notes the ring of flowers that grows around it and never across it, and confirms that only Viderehan and Ferrehan are available against an Object-Void.
+2. **Clash:** Ten turns at most, against 227 points of pressed-down Lament and a Han pressure that never exceeds nine. The difficulty is not survival. It is that the worker must keep taking a three-point entity seriously for the full duration, and the entity measures whether they do.
+3. **Resolution:** The cycle closes when a worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Clarity** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Tear Too Small to Honor’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Tear Too Small to Honor defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact does not produce acute injury. It produces a worker who has begun to apply the Tear's judgment to themselves — withholding complaints, declining counselling, and describing genuine losses as not worth logging, which is the full manifestation of this entity and is routinely mistaken for professionalism.
+- Every piece drawn from the Tear charges the same toll in a different currency: the awl makes its wielder weep for grief that is not theirs, the shroud takes away small pleasures, and the ring heals other people's wounds by making the bearer feel the weight of each one. None of these costs are large. That is precisely how the Tear operates.
+- Unworked, the Tear does not escape and does not grow — the shame that collapsed it forbids expansion. It flattens further, and every millimetre it loses is harder to recover than the last. Neglect is the only way this entity worsens, and it is the most common outcome.
 
 ## Appearance
 **Physical Form:** A tear-shaped object crushed flat against the soil. It remains wet despite being crystallized.
@@ -116,18 +116,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A tear-shaped object crushed flat against the soil. It remains wet despite being crystallized. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary and pressed flat against the soil beneath a Garden stone; it cannot fall further and cannot rise, and it has never been observed to relocate itself. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Measure the Tear, every cycle, with instruments. Record its width across the soil, its height above it to the nearest tenth of a millimetre, whether the crystal is still wet, and how close the nearest flower has grown to its edge without crossing it. This is the one entity in the Gardens where the dimensions are the behaviour: Trivia records it flatter after being ignored and standing fractionally higher after someone admits their grief matters, and the only way to hold the archive to that claim is a measured series taken by people who were not told what the series was supposed to show. Impressions are not acceptable here. A worker writing that the Tear seemed smaller today has recorded their own state, which is worth logging separately, but it is not a measurement.
 
 ## Origin
 - **Formation:** The Tear formed from sorrow collapsed beneath shame.
 - **The Sorrow:** The pain of wanting to cry but believing the grief is too small or embarrassing to deserve release.
 - **The Event:** A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One visitor to the Echo Gardens, unnamed in the record, who came to mourn among monuments raised for the consumed, the Fractured, and the Cheongula's thousand, and decided her own loss did not belong in that company.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Tear Too Small to Honor is recorded as an Object/Place with Object-Void manifestation and Lament elemental expression. The current record places it at Zone D, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Viderehan holds the gauge level. Looking at the Tear reveals the small loss that formed it, and the Tear neither resists being seen nor gains anything from it — it was never hidden from sight, only from acknowledgement. Ferrehan lowers the gauge, because endurance here means holding a grief that feels too minor to hold and declining to put it down early. That is the exact act the visitor could not perform. A falling gauge therefore means a worker has managed, for ten turns, not to rank sorrows. A rising gauge almost always traces to a single remark in the log — the word *just*, the word *only*, the phrase *nothing serious* — and the remark should be transcribed verbatim rather than summarised, because the entity is responding to the wording and not to the sentiment.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -173,7 +173,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
 | **Risk** | The worker may carry shame for mourning. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic works only in contact with skin and stops the moment it is deliberately set down — deliberately being the operative word, since dropping it does not end the transfer. It confers no containment authority: the Tear cannot be worked by its own wearer, and Viderehan and Ferrehan remain the only valid responses.
 
 ### Log and Method
 
@@ -188,7 +188,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 The escalation pattern is specific to Tear Too Small to Honor: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Confirm who is in contact with the Tear and for how long, since nothing visible marks the difference between ten seconds and two minutes of wear. Record the measurement before intervening. Remove the bearer by asking them to set it down rather than by taking it from them; forced detachment is what converts a minor transfer into acute panic. Do not clear the Gardens — the Tear has no reach beyond the hand holding it, and evacuating a public memorial over a three-point entity has its own cost.
 
 ### Detailed Activation Record
 
@@ -201,7 +201,7 @@ The escalation pattern is specific to Tear Too Small to Honor: it is not a gener
 | **Risk** | Minor (α) Object-Void producing Lament pressure; The worker may carry shame for mourning. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** contact → the bearer's first unprompted remark → duration of hold → measured change in the Tear's height → how the contact ended, and whether the bearer chose to end it. The remark is logged before the telemetry, because it is the earliest indicator and the one most likely to be tidied up afterwards.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -222,12 +222,12 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The full figure against one designated target and nothing at all beyond them — the awl is a palm punch at arm's length, and the grief it carries was never permitted a second witness.
+**Damage Application:** Score the puncture once, then score the bleed again on each following turn; the diamond-section wound resists clotting and the two are resolved as separate events against the same resistance.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Tear Too Small to Honor's lament signature in the strike.
+**Ability:** Drives a narrow, deep Lament wound into the target's composure — a single small hurt placed with enough force that it cannot be waved away, which is the only argument this entity has ever been able to make.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder weeps, at inconvenient times, for a loss that is not theirs and that they cannot name. Operatives have reported finding the weeping more humiliating than any injury the awl has caused them, which is itself the toll.
 
 ### M.A.W. Suit — Tear Too Small to Honor Shroud
 
@@ -243,9 +243,9 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Tear Too Small to Honor's kind of pressure.
+**Ability:** Han-silk wrapping that holds the wearer's composure intact under Lament pressure, cool against the skin and lit faintly enough to be read by in the dark of the Gardens.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** Protection is achieved by scale. The shroud discards every feeling below a certain size, and it does not distinguish between a small grief and a small pleasure; wearers keep their stability and lose the taste of ordinary good days.
 
 ### M.A.W. Stigma — Tear Too Small to Honor Ring
 
@@ -255,17 +255,17 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the bearer's rating while working the Tear — the smallest bonus in the catalogue, and recorded here without apology
 
 **Ability:** Allows the wearer to heal minor wounds through touch.
 
 **Cost:** The wearer feels the weight of every sorrow encountered.
 
-*Stigmas are granted at random by Tear Too Small to Honor upon a successful work, not manufactured.*
+*The Ring is given, not taken. It appears on workers who finished a Ferrehan cycle without once calling the assignment minor, and no deliberate procedure has ever produced one.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Tear Too Small to Honor's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each piece remains part of the Tear, and each one is slightly less impressive than its grade suggests. The awl is five-to-nine damage at short range. The shroud wards one element. The ring closes cuts. Personnel who come to this set from a δ-grade loadout consistently under-equip from it and consistently report afterwards that the costs were heavier than anything on the sheet, because the sheet records magnitude and this entity has never been about magnitude. Used as intended — one wound at a time, one wearer, one small healing — the set is dependable. Used as a supplement to something larger, it quietly teaches its operator to discount the small, which is the condition the Tear was made from.
 
 ### Field Use Record
 
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Read the β grade against the α entity and the mismatch is the point: equipment cut from a Minor residue outperforms the residue itself, and nothing in either number records what the wearer gives up. Treat the Cost lines as the specification and the damage values as a footnote to them.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch. Effect: Transfers the feeling of the original grief. Duration: Until the object is placed down deliberately. Risk: The worker may carry shame for mourning. Tool Use Profile — I-Relic Operational Rule: The relic remains active while attached to the. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Tear Too Small to Honor's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Take the physical series first — height, width, moisture, flower distance — then ask the worker one question in this fixed form: what did you lose that you have not mentioned to anyone. The question is asked identically every cycle, with the answer recorded verbatim and sealed, because the Tear responds to acknowledgement and an answer rephrased by the recorder is no longer an acknowledgement. Where the measurements and the testimony disagree, the measurements stand and the disagreement is the finding.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Tear Too Small to Honor (N-Iα-785 [O]) is logged as a Object-Void manifestation expressing Lament. The Tear formed from sorrow collapsed beneath shame. Held at Zone D, Echo Gardens. It is most active around visitors who hide their tears.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Handling Log, Echo Gardens Keepers>**
 It has never been lifted without emotional distress.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Visitor Intake Form, Question 4>**
 The pain of wanting to cry but believing the grief is too small or embarrassing to deserve release.
 
 **Entry 4 — <Containment Notice>**
@@ -345,12 +345,12 @@ The object lies pressed into the ground, no larger than a drop. You touch it and
 
 Tear Too Small to Honor does not exist in isolation. Its recorded relationships with The Frozen Tear, The Sorrow Flower, The Weeping Statue should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** The Tear sits in a memorial garden surrounded by monuments to catastrophes, so its baseline is never genuinely solitary and the record should stop pretending otherwise. What must be established first is its measured series under ordinary visitor traffic. Only then introduce a second entity, and log the one variable that matters for this entity above all others: whether proximity to a larger sorrow presses the Tear flatter. Current readings suggest it does, by a margin small enough to be dismissed, which is the reason the margin is now recorded to a tenth of a millimetre and signed. Separation does not restore the lost height within the same cycle, so these studies are run sparingly and never twice in succession.
 
 
 ### Entity Interaction Record
 
-Tear Too Small to Honor must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Tear cannot be read apart from its neighbours, because comparison is the mechanism that made it. Every interaction below was recorded against a specific set of surrounding griefs, and the Echo Gardens' holdings change. Personnel must re-establish the measured baseline before treating any entry here as current.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -358,7 +358,7 @@ Tear Too Small to Honor must be assessed as part of an entity network, not as an
 | **The Sorrow Flower** | Flowers bloom around its shame. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Weeping Statue** | The Statue weeps when the Tear is touched. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Measure before contact and measure again after separation, using the same instrument and the same reference stone. Record the separation distance, the duration, the gauge movement, anything the attending workers said about either entity's relative importance, and the height differential across the whole encounter. The last of these is the only reading that shows what the proximity cost.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -407,9 +407,9 @@ Some sorrows are grand. Tear Too Small to Honor is about the small — the quiet
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Everything in this file is small. Minor potency, Residue coherence, Low difficulty, a ten-turn encounter, single-figure pressure, a one-point Stigma. A reader working down the sheet is being invited, line by line, to conclude that the entity does not warrant attention — and that conclusion, reached by a visitor in this same garden, is what produced it. The file is accurate and the invitation is real; personnel are asked to notice it and decline it. Where the record and the entity disagree, log the contradiction and leave it standing.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every contact event, re-record all four: the measured dimensions, the duration of the hold, the bearer's state at release, and whether release was chosen or forced. A review that confirms containment and omits the dimensions has confirmed nothing, since the dimensions are the only output this entity produces. The previous measurement is retained beside the new one; the difference between them is the report.
 ## Trivia
 
 - It is flatter after being ignored.
@@ -421,9 +421,9 @@ Some sorrows are grand. Tear Too Small to Honor is about the small — the quiet
 
 - **Classification detail:** Tear Too Small to Honor is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone D, Echo Gardens.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify by the flowers. The Gardens' growth closes in around the Tear and stops at its edge without ever covering it, and no other holding in Zone D produces that ring.
+- **Record detail:** The Echo Gardens hold several Lament residues formed from withheld mourning; confirm the designation N-Iα-785 and the Object-Void manifestation before applying this file to any of them.
+- **Containment detail:** This entity is not behind a door. It is contained in a public memorial, under a stone, where visitors pass it daily and most never learn it is there — and that arrangement is deliberate, since the Tear is at its most active around people who are hiding tears of their own. Containment status here means supervised exposure, not isolation.
 ## Document Information
 
 **Document ID:** SE-N-Iα-785
