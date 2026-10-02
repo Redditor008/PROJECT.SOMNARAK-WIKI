@@ -23,6 +23,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-15`](R-15_CLEAN_FIX_VERIFICATION.md) | Clean Fix, Not Cover-Up — Verification Method |
 | [`R-16`](R-16_REPORT_PROGRESS_COUNTER.md) | Always Report the Progress Counter |
 | [`R-17`](R-17_SHORTHAND_AND_WORKING_AGREEMENTS.md) | Shorthand and Working Agreements |
+| [`R-18`](R-18_BATCH_VERSUS_CAREFUL.md) | Divide Every Defect Set Into Batch-Short and Careful-Detail |
 
 ## Precedence
 

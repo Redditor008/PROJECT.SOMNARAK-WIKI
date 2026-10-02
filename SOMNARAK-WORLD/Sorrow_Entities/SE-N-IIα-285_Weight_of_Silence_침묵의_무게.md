@@ -275,7 +275,7 @@ The burden of words withheld to protect others or avoid conflict.
 Management: Allow safe speech; do not force a confession. Work response — Flerehan: Pressure eases when tears accompany speech. (Decrease); Pugnahan: Weight presses harder against the chest. (Increase); Viderehan: Reveals the words being withheld. (Stable); Ferrehan: Tests whether the worker can remain under silence without collapsing. (Decrease). Personnel report fear before feeling pressure.
 
 **Entry 5 — <Archive Note>**
-Weight of Silence is invisible — a pressure with no source, a heaviness with no origin. It settles on those who carry unspoken words — confessions never made, apologies never given, truths never told. The entity exists in a state of perpetual waiting  …
+Weight of Silence is invisible — a pressure with no source, a heaviness with no origin. It settles on those who carry unspoken words — confessions never made, apologies never given, truths never told. The entity exists in a state of perpetual waiting — for the sentence that was never finished, from the person who never said it. Until then the pressure stays, finds the chest, and accelerates whatever it settles on: debts come due sooner, metal corrodes sooner, personnel tire sooner. It eases only when speech arrives with tears, and never when a confession is demanded.
 
 ## 최종 관찰 (Final Observation)
 

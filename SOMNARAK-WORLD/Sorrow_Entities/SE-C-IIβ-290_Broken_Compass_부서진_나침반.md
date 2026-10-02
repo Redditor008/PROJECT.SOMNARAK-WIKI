@@ -313,7 +313,7 @@ The fear of having no direction and no trusted path back.
 Work response — Viderehan: Reveals the pattern behind being lost. (Stable); Ferrehan: Tests whether the worker can watch without reacting. (Decrease). Personnel report weight after prolonged use.
 
 **Entry 5 — <Archive Note>**
-Broken Compass sits in a vault in Zone D — ancient, cracked, its needle spinning endlessly. The Compass cannot find direction — it cannot find anything. Born from the sorrow of being lost — the disorientation of not knowing where you are or where you're …
+Broken Compass sits in a vault in Zone D — ancient, cracked, its needle spinning endlessly. The Compass cannot find direction — it cannot find anything. Born from the sorrow of being lost — the disorientation of not knowing where you are or where you're going. The Compass still answers — never the question put to it. The needle settles only toward the nearest concentration of sorrow, and personnel who follow it for any length of time report arriving somewhere true and useless, carrying a weight they did not set out with.
 
 ## 최종 관찰 (Final Observation)
 

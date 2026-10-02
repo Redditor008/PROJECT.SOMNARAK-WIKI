@@ -116,7 +116,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An hour during which every forgotten story ever told within a kilometre radius becomes briefly, viscerally real — characters walk the streets, narrato |
+| **Form** | An hour during which every forgotten story ever told within a kilometre radius becomes briefly, viscerally real — characters walk the streets, narrators whisper from empty rooms, and endings replay themselves in the air. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Time-Tale manifestation is the primary identifying feature. Lament pressure is present and measurable. |

@@ -117,7 +117,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A work shift in the Zone D Forge District that never ends for the personnel assigned to it. They continue working — smelting, forging, shaping — for w |
+| **Form** | A work shift in the Zone D Forge District that never ends for the personnel assigned to it. They continue working — smelting, forging, shaping — for what feels like days, though only hours pass outside the affected area. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Time-Weight manifestation is the primary identifying feature. Weight pressure is present and measurable. |
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of Endless Shift, not ordinary equi
 
 ## 감각 묘사 (Flavor Text)
 
-The weight register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your weight — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A work shift in the Zone D Forge District that never ends fo...
+The weight register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your weight — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A work shift in the Zone D Forge District that never ends for the personnel assigned to it. They continue working — smelting, forging, shaping — for what feels like days, though only hours pass outside the affected area.
 
 **At first contact:** The weight signature is unmistakable — this is not a general weight entity but one whose sorrow has taken the specific shape of weight.
 

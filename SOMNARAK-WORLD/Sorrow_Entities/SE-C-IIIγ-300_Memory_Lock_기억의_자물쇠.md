@@ -311,7 +311,7 @@ The burden of protecting truth by denying access to it.
 Work response — Viderehan: Reveals the nature of what it protects. (Stable); Ferrehan: Tests whether the worker can stand before a secret without opening it. (Decrease). Personnel feel peace when they choose not to open it.
 
 **Entry 5 — <The Vault Beneath the Alpha Tree>**
-Memory Lock sits in the deepest vault beneath the Alpha Tree — massive, ancient, sealing a vault that contains memories too dangerous to be accessed. The Lock was created by the Keepers to contain truths that could destabilize the city. The entity exists …
+Memory Lock sits in the deepest vault beneath the Alpha Tree — massive, ancient, sealing a vault that contains memories too dangerous to be accessed. The Lock was created by the Keepers to contain truths that could destabilize the city. The entity exists as a seal that is also a mouth. One sealed memory at a time works its way through the mechanism and whispers to whoever stands closest — never the memory that was asked for — while everything else stays exactly as the Keepers left it. Personnel report an unexpected peace in the moment they decide not to open it.
 
 ## 최종 관찰 (Final Observation)
 

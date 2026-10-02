@@ -117,7 +117,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls sh |
+| **Form** | A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Place-Dream manifestation is the primary identifying feature. Lament pressure is present and measurable. |

@@ -317,7 +317,7 @@ The grief of injustice left unnamed and anger treated as unacceptable.
 Work response — Viderehan: Reveals the event that created the anger. (Stable); Ferrehan: Forces the worker to remain before their own rage. (Decrease). It glows during the Sorrow Tide.
 
 **Entry 5 — <Archive Note>**
-Collectors called anger disorder and demanded gratitude from people whose debts grew no matter how much they paid. The citizens swallowed their words until the unspoken rage became heavier than the ledgers. One night, a mirror rose through the floor of …
+Collectors called anger disorder and demanded gratitude from people whose debts grew no matter how much they paid. The citizens swallowed their words until the unspoken rage became heavier than the ledgers. One night, a mirror rose through the floor of a counting house with the ledgers still open on the table. It did not show the room. It showed the anger the citizens had swallowed, and underneath it the injustice that had put the anger there, and it has shown those same two things to everyone who has stood before it since. It glows during the Sorrow Tide.
 
 ## 최종 관찰 (Final Observation)
 

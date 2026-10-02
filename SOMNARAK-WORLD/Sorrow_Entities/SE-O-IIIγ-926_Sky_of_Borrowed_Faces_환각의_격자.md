@@ -116,7 +116,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An area of the Desolate where the air itself projects images — memories, fears, faces of the Fractured — onto whatever surface is available. The image |
+| **Form** | An area of the Desolate where the air itself projects images — memories, fears, faces of the Fractured — onto whatever surface is available. The images move, speak, and sometimes reach out. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Hazard-Phantasmal manifestation is the primary identifying feature. Lament pressure is present and measurable. |

@@ -323,7 +323,7 @@ The loss of an imagined life that felt more real than the waking one.
 Work response — Viderehan: Reveals the dream's incomplete structure. (Stable); Ferrehan: Makes the worker remain inside a repeating dream image. (Decrease). The warmth of its tears is emotional rather than physical.
 
 **Entry 5 — <Archive Note>**
-Rem drifts through Zone A — a piece of the Dream realm that has broken off and entered reality. The Fragment flickers — showing fragments of dreams, memories, and possibilities. Beautiful, fragile, unstable. The entity exists in a state of …
+Rem drifts through Zone A — a piece of the Dream realm that has broken off and entered reality. The Fragment flickers — showing fragments of dreams, memories, and possibilities. Beautiful, fragile, unstable. The entity exists in a state of unfinished dreaming — an image that was never carried through to its end and keeps returning to the place where it was cut. Personnel who rest inside its drift wake with their confusion purged and their composure restored, and cannot afterwards say what they dreamed.
 
 ## 최종 관찰 (Final Observation)
 

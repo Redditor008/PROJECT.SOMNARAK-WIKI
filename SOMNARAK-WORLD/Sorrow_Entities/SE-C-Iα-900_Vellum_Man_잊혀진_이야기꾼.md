@@ -117,7 +117,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A figure made of paper and ink that shimmers when spoken to — its body is a manuscript of forgotten tales, pages turning beneath skin that is not skin |
+| **Form** | A figure made of paper and ink that shimmers when spoken to — its body is a manuscript of forgotten tales, pages turning beneath skin that is not skin but vellum. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Subject-Tale manifestation is the primary identifying feature. Lament pressure is present and measurable. |

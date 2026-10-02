@@ -278,7 +278,7 @@ The grief of loving someone or something that became the instrument of one's har
 Management: Separate the person from the institution they represent; do not defend the institution. Work response — Flerehan: Reaches toward the worker through the tear. (Decrease); Pugnahan: Attacks symbols of authority and perceived representation. (Increase); Viderehan: Reveals the betrayal that split its identity. (Stable); Ferrehan: Weighs whether the worker can remain without defending the system. (Decrease). It has never attacked someone who openly admits the system's failures.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

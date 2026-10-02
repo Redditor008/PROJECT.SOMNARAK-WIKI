@@ -117,7 +117,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A small clay jar, unremarkable except for the faint light that leaks from beneath its lid and the voice — barely audible, always pleading — that emana |
+| **Form** | A small clay jar, unremarkable except for the faint light that leaks from beneath its lid and the voice — barely audible, always pleading — that emanates from within. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Object-Spirit manifestation is the primary identifying feature. Void pressure is present and measurable. |

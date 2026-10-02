@@ -315,7 +315,7 @@ The grief of mourning privately while appearing composed in public.
 Work response — Viderehan: Reveals the people whose tears formed its threads. (Stable); Ferrehan: Tests whether the worker can wear grief without hiding. (Decrease). It cannot be worn without an external remover.
 
 **Entry 5 — <Archive Note>**
-Pall hangs in the Echo Gardens — delicate, translucent, made of crystallized tears. The Veil allows the wearer to see the dead — ghostly presences that walk among the living. The entity exists in a state of perpetual waiting — not for rescue, not …
+Pall hangs in the Echo Gardens — delicate, translucent, made of crystallized tears. The Veil allows the wearer to see the dead — ghostly presences that walk among the living. The entity exists in a state of perpetual waiting — not for rescue, not for an owner, but for a mourner willing to be seen wearing it. The Veil hides the face of whoever puts it on and opens the grief of everyone nearby to them, and it will not come away by the wearer's own hands; another person has to lift it off.
 
 ## 최종 관찰 (Final Observation)
 

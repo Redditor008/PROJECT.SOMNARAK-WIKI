@@ -298,7 +298,9 @@ The original moment when someone lost something they loved.
 Work response — Viderehan: Shows the shape of sorrow before language. (Stable); Ferrehan: Tests whether the observer can bear total grief. (Decrease). It radiates the sorrow of everything without visibly changing.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-First Tear sits in the deepest vault beneath the Alpha Tree — sealed, guarded, forgotten by all but the highest-ranking Keepers. It is small — barely larger than a raindrop. It is ancient — older than the city, older than the Consolihan, older than the …  Threat rating: Unknown. The oldest sorrow in the world. Predates the city, the Han, and the Weeping. Effect: proximity induces the …
+First Tear sits in the deepest vault beneath the Alpha Tree — sealed, guarded, forgotten by all but the highest-ranking Keepers. It is small — barely larger than a raindrop. It is ancient — older than the city, older than the Consolihan, older than the Weeping that gave the city its name.
+
+**Threat rating:** Unknown. The oldest sorrow in the world. Predates the city, the Han, and the Weeping. Effect: proximity induces the complete emotional history of sorrow at once — not the memory of a grief but grief with no event attached to it, arriving whole and belonging to no one. Vault authority is held by the highest-ranking Keepers alone, and the standing instruction is that it is observed and never handled.
 
 ## 최종 관찰 (Final Observation)
 

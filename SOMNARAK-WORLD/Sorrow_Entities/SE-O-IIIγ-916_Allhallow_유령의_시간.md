@@ -116,7 +116,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not spe |
+| **Form** | An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Time-Phantasmal manifestation is the primary identifying feature. Lament pressure is present and measurable. |
@@ -244,7 +244,7 @@ Each M.A.W. piece is a conditional extension of Allhallow, not ordinary equipmen
 
 ## 감각 묘사 (Flavor Text)
 
-The phantasmal register changes the lament from a classification into an experience. You do not merely register lament pressure on the gauge; you feel it in your phantasmal — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. An hour that descends without warning on the Desolate border...
+The phantasmal register changes the lament from a classification into an experience. You do not merely register lament pressure on the gauge; you feel it in your phantasmal — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish.
 
 **At first contact:** The phantasmal signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of phantasmal.
 

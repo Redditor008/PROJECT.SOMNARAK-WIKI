@@ -307,7 +307,7 @@ The burden of returning to a location that can no longer return anything to you.
 Work response — Viderehan: Reveals the settlement's cycles of return and loss. (Stable); Ferrehan: Tests whether the worker can stand beneath karmic weight. (Decrease). Personnel report loss rather than fear.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

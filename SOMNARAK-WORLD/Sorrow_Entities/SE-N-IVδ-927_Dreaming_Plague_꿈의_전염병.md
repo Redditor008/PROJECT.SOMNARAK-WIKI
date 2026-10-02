@@ -117,7 +117,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the sam |
+| **Form** | A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Hazard-Dream manifestation is the primary identifying feature. Void pressure is present and measurable. |

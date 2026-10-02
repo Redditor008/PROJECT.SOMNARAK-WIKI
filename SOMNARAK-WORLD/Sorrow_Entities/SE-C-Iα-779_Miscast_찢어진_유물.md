@@ -317,7 +317,7 @@ The grief of being made for a purpose and broken before fulfilling it.
 Work response — Viderehan: Reveals its former function. (Stable); Ferrehan: Tests the worker's patience with repeated failed reunions. (Decrease). Personnel report emptiness when the pieces fail to reconnect.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

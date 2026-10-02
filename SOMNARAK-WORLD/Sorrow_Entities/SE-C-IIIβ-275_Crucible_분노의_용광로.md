@@ -315,7 +315,7 @@ The burden of making useful things from resentment.
 Work response — Viderehan: Reveals the grief embedded in each weapon. (Stable); Ferrehan: Tests whether the worker can remain near heat and anger. (Decrease). It is most active during industrial disputes.
 
 **Entry 5 — <The Forge in Zone D>**
-Crucible burns in Zone D — ancient, hot, made of crystallized fury. The Forge creates weapons from anger — blades of fury, shields of resentment. Born from the sorrow of creation through pain — making things because you're too angry to stop. The entity …
+Crucible burns in Zone D — ancient, hot, made of crystallized fury. The Forge creates weapons from anger — blades of fury, shields of resentment. Born from the sorrow of creation through pain — making things because you're too angry to stop. The entity does not cool. Smiths who have worked the hearth report that the heat is not the forge's but the grudge's, and that a blade tempered here leaves the anvil already knowing what it was made to cut — twenty per cent further through armour than it has any right to go, and hot enough in the hand to keep reminding the bearer why it exists.
 
 ## 최종 관찰 (Final Observation)
 

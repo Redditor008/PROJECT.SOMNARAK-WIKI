@@ -278,7 +278,7 @@ The grief of a place disappearing after its destruction.
 Management: Map and name what remains; do not chase what is already gone. Work response — Flerehan: The figure becomes clearer and weeps quietly. (Decrease); Pugnahan: It scatters and reforms farther away. (Increase); Viderehan: Reveals the settlement's last days. (Stable); Ferrehan: Tests whether the worker can remain while the ruin fades. (Decrease). It leaves no physical tracks.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything and got nothing. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything and got nothing. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

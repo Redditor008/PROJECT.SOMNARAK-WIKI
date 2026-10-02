@@ -275,7 +275,7 @@ The grief of connection degrading while one person continues holding on.
 Management: Release the rope consciously and wake with a present anchor. Work response — Flerehan: The rope reforms and reaches toward the worker. (Decrease); Pugnahan: It melts rapidly and tangles the dream. (Increase); Viderehan: Reveals the route and the missing traveler. (Stable); Ferrehan: Tests whether the worker can hold on without being dragged. (Decrease). Personnel report peace before realizing the dream is leading them away.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

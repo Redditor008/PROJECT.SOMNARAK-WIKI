@@ -270,7 +270,7 @@ The persistence of grief after the person who expressed it has vanished.
 Management: Listen without attempting to identify or silence the cry. Work response — Flerehan: Drifts closer and dims its flame. (Decrease); Pugnahan: Spins and emits a sharper cry. (Increase); Viderehan: Reveals the original moment of mourning. (Stable); Ferrehan: Follows the worker until they can endure the sound. (Decrease). The Fragment never stops drifting for long.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased their own memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased their own memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

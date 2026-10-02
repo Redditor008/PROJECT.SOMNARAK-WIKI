@@ -277,7 +277,7 @@ The grief of imagined lives that felt possible but never became real.
 Management: Identify the dream's false promise and wake without violence. Work response — Flerehan: Weaves a comforting dream around the worker. (Decrease); Pugnahan: Turns the dream into a hostile maze. (Increase); Viderehan: Mirrors the worker's hidden desire. (Stable); Ferrehan: Keeps the worker inside an unfinished dream. (Decrease). It mirrors desire rather than truth.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased their own memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased their own memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

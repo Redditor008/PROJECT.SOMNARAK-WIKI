@@ -116,7 +116,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 m |
+| **Form** | A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Time-Body manifestation is the primary identifying feature. Weight pressure is present and measurable. |
@@ -244,7 +244,7 @@ Each M.A.W. piece is a conditional extension of Never Discharged, not ordinary e
 
 ## 감각 묘사 (Flavor Text)
 
-The body register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your body — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A single moment frozen in the air of a Zone E medical bay — ...
+The body register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your body — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own.
 
 **At first contact:** The body signature is unmistakable — this is not a general weight entity but one whose sorrow has taken the specific shape of body.
 

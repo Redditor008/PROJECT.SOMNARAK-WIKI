@@ -277,7 +277,7 @@ The fury of grief denied before it became visible.
 Management: Permit tears and name the loss; do not suppress the anger. Work response — Flerehan: Becomes clearer and less hostile. (Decrease); Pugnahan: Burns with borrowed fury. (Increase); Viderehan: Reveals the loss that produced the tear. (Stable); Ferrehan: Waits while the worker remains near it. (Decrease). It produces confusion because the original tear is missing.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

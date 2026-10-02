@@ -10,12 +10,12 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 
 | Measure | Value |
 |---|---|
-| Dossier body lines | 28091 |
+| Dossier body lines | 28092 |
 | Lines shared by 30+ dossiers | 6386 |
 | **Headline** | **22.73%** |
 | Dossiers still at 30+ shared lines | 86 |
 | Dossiers fully cleaned | 44 |
-| Unfinished-text breaks outstanding | 72 |
+| Unfinished-text breaks outstanding | 35 |
 
 ## Workstream 1 — De-boilerplate (open)
 
@@ -48,17 +48,17 @@ Fallow 50→12, Shard 49→9, Ephemera 48→12, Border Tree 48→11, Tear 48→1
 
 ## Workstream 2 — Unfinished text (open)
 
-Tracked in detail in `UNFINISHED_TEXT_REGISTER.md`. 269 breaks found by reading; 7 were deliberate and left alone.
+Detail in `UNFINISHED_TEXT_REGISTER.md`. 269 breaks found by reading, plus 30 more found later by diffing fields against each other; 7 trailing ellipses were deliberate and left alone.
 
-| Class | Fault | State |
+Work is split under `RULES/R-18` into **batch-short** (the file already holds the answer; scripted) and **careful-detail** (it has to be written; one file at a time).
+
+| Half | Class | State |
 |---|---|---|
-| A | Flavor Text "At first contact" cut mid-clause | **closed** — 63 |
-| B | Story Log origin paragraph cut at "This sorrow …" | **closed** — 103 |
-| C | Primary marker cut mid-phrase | **closed** — 31 |
-| E5 | `Threat rating:` line fused onto the origin paragraph and itself truncated | **closed** — 13 |
-| D | Body prose cut mid-sentence | open — 72 |
+| batch | A, B, B2, C, F | **closed — 249** |
+| careful | E5, D-unique | **closed — 28** |
+| careful | D-shared — six shared Story Log paragraphs | open — **35** |
 
-**Closed: 197 / 269.** Remaining files: 72.
+**Closed: 277 / 312.** Everything that remains is careful-detail: six paragraphs repeated across 35 dossiers, each cut mid-sentence. A single shared completion would clear all 35 ellipses and make the archive worse, because the truncation is the only thing currently marking the paragraph as boilerplate.
 
 ## Workstream 3 — Rules (standing)
 

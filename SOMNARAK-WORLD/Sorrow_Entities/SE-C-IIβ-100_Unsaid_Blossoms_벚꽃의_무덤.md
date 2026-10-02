@@ -289,7 +289,7 @@ The weight of apologies, farewells, and declarations delayed until no listener r
 Work response — Viderehan: Reveals the emotional history of the grave. (Stable); Ferrehan: Requires the worker to remain beneath falling petals. (Decrease). Personnel report fear before hearing their own unsaid words.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This …
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## 최종 관찰 (Final Observation)
 

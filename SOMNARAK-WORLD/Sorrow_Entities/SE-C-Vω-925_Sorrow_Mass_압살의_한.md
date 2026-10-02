@@ -117,7 +117,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — dou |
+| **Form** | A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Hazard-Weight manifestation is the primary identifying feature. Weight pressure is present and measurable. |
@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of Sorrow Mass, not ordinary equipm
 
 ## 감각 묘사 (Flavor Text)
 
-The weight register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your weight — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A gravity anomaly beneath the Alpha Tree where Han density i...
+The weight register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your weight — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.
 
 **At first contact:** The weight signature is unmistakable — this is not a general weight entity but one whose sorrow has taken the specific shape of weight.
 

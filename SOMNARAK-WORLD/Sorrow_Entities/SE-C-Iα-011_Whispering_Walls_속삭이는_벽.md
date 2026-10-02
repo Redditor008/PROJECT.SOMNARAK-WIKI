@@ -297,7 +297,7 @@ The fear of speaking aloud, followed by the grief of voices that died unheard.
 Perimeter markers have moved even though no wall has physically shifted.
 
 **Entry 5 — <Archive Note>**
-In the early days of Zone B, when the first settlers built their homes from solidified grief, they spoke to each other. They shared their sorrows, their fears, their hopes. They whispered in the dark — because whispering was safer than shouting. Shouting …
+In the early days of Zone B, when the first settlers built their homes from solidified grief, they spoke to each other. They shared their sorrows, their fears, their hopes. They whispered in the dark — because whispering was safer than shouting. Shouting carried to the Collectors. Whispering carried only as far as the grief the houses had been built from — and the grief kept it. The walls have been repeating those confidences ever since, in the voices of settlers four generations dead, and the perimeter markers have been found moved although no wall has shifted.
 
 ## 최종 관찰 (Final Observation)
 

@@ -279,7 +279,7 @@ The weight of becoming someone else in order to survive.
 Management: Establish a present identity without denying the former one. Work response — Flerehan: Shards turn toward the worker's grief. (Decrease); Pugnahan: The dream fractures into hostile reflections. (Increase); Viderehan: Shows the selves the worker abandoned. (Stable); Ferrehan: Tests whether the worker can remain without choosing one self. (Decrease). Personnel feel fear after seeing selves they cannot reconcile.
 
 **Entry 5 — <Archive Note>**
-An exile once stood before the Gate and found that the reflection had no single face. One shard showed the person who had entered the city years ago. Another showed the person who had learned to survive inside it. A third showed the stranger who would walk …
+An exile once stood before the Gate and found that the reflection had no single face. One shard showed the person who had entered the city years ago. Another showed the person who had learned to survive inside it. A third showed the stranger who would walk back out through the Gate if the exile stayed much longer. None of the three agreed to be the reflection. The shards have turned toward grief rather than toward the body standing in front of them ever since, and personnel leave the chamber carrying an oppressive mass that makes breathing feel like lifting.
 
 ## 최종 관찰 (Final Observation)
 

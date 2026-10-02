@@ -117,7 +117,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then de |
+| **Form** | A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, as if the body were porcelain under pressure. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Hazard-Body manifestation is the primary identifying feature. Grudge pressure is present and measurable. |

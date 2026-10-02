@@ -322,7 +322,7 @@ Denial—the grief of truths too painful to preserve and too persistent to destr
 Some citizens seek the Mirror to remember; others avoid it permanently.
 
 **Entry 5 — <The Early Keepers>**
-In the early days of the Archive, when the Keepers first began collecting memories, they found that some memories were too painful to preserve. Citizens wanted to forget — their losses, their mistakes, their shame. The Keepers honored these requests. They …
+In the early days of the Archive, when the Keepers first began collecting memories, they found that some memories were too painful to preserve. Citizens wanted to forget — their losses, their mistakes, their shame. The Keepers honored these requests. They took the memories out and filed them where no one would go looking. What they did not account for is that a memory removed is not a memory destroyed; it waits in storage, intact, with all of its weight still on it. The shards are what came back out. Each one returns a suppressed memory whole, in complete emotional and sensory detail, to a citizen who once asked to be rid of it.
 
 ## 최종 관찰 (Final Observation)
 

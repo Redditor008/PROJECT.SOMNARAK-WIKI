@@ -117,7 +117,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever ha |
+| **Form** | A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Time-Mind manifestation is the primary identifying feature. Void pressure is present and measurable. |
