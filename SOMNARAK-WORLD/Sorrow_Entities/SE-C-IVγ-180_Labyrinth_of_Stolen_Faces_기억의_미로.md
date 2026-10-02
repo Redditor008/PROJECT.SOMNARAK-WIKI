@@ -289,7 +289,7 @@ The fear of not knowing which parts of one's history are true.
 Work response — Viderehan: Reveals the memory architecture. (Stable); Ferrehan: Tests whether the worker can continue without a stable map. (Decrease). The Maze contains lives absent from the Archive.
 
 **Entry 5 — <Archive Note>**
-The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this …
+The walls are memory rather than stone, and they move when the person inside them does — not when they walk, but when they remember, or fail to. That makes a map of the labyrinth meaningless and makes the mapper the variable. Entry is one worker at a time with a line attached, and the line is the only part of the procedure nobody has proposed revising. Three surveys exist. No two of them describe the same building.
 
 ## 최종 관찰 (Final Observation)
 

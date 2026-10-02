@@ -319,7 +319,7 @@ The grief of knowing a danger was present but no one heard it.
 Work response — Viderehan: Reveals the warning that was ignored. (Stable); Ferrehan: Tests whether the worker can remain in meaningful silence. (Decrease). It resonates with the Orphaned Bell without sound.
 
 **Entry 5 — <Archive Note>**
-The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …
+There is nothing inside the bell. It is light for its size, it takes in sound instead of making any, and whatever sorrow should have been ringing in it was scooped out before it ever reached the facility. What is left will still open something: one sealed passage, or one sealed warning, and never both from the same approach. Requests to use it are decided above the level of the staff who submit them, because the choice of which it gives is not made by the bell.
 
 ## 최종 관찰 (Final Observation)
 

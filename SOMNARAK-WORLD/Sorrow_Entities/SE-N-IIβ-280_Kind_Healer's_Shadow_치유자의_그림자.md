@@ -271,7 +271,7 @@ The grief of healing others while leaving no one to continue the work.
 Management: Accept its help and acknowledge the healer it carries. Work response — Flerehan: Moves closer and shares the burden. (Decrease); Pugnahan: Retreats from aggression. (Stable); Viderehan: Reveals the healer whose compassion formed it. (Stable); Ferrehan: Heals slowly and patiently near the worker. (Decrease). It cannot heal itself.
 
 **Entry 5 — <Archive Note>**
-The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the …
+The shadow finds the wounded and settles beside them. It has no face, it is cast by nothing, and it radiates a warmth that instruments confirm and cannot source — and it can do nothing else. It does not close a wound, slow a bleed, or bring down a fever. Medical staff asked for it to be removed from the infirmary on the grounds that it offered nothing of use. The same staff withdrew the request eleven days later, and it has stayed.
 
 ## 최종 관찰 (Final Observation)
 

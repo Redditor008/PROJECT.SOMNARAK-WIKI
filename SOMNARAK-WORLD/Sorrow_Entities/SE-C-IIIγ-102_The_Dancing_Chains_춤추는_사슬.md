@@ -326,7 +326,7 @@ Exhaustion, loss of agency, and the grief of being unable to stop moving.
 Emotional proximity changes its luminosity.
 
 **Entry 5 — <Between Memory and Forgetting>**
-The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this …
+The chains are kept slack on a floor mount, and the mount is checked at the start of every shift, because they shorten. Not quickly: a link at a time, over weeks, as though drawing in toward a body that is not there yet. Personnel assigned to the chamber are rotated before familiarity sets in. The recorded hazard is not that a worker is seized — it is that a worker begins keeping time with them and does not notice having started.
 
 ## 최종 관찰 (Final Observation)
 

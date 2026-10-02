@@ -314,7 +314,7 @@ The grief of someone unable to cry despite having lost everything.
 Work response — Viderehan: Reveals the instant the tear crystallized. (Stable); Ferrehan: Tests whether the worker can sit beside grief without touching it. (Decrease). It remains warm without a measurable heat source.
 
 **Entry 5 — <Archive Note>**
-Personnel who work with the entity consistently report changes in their personal lives. They become more contemplative. They call their families more often. They sit in silence longer. They weep at unexpected moments — not from sadness, but from a sudden …
+The tear is warm, and that is the first thing anyone says about it. Held long enough it begins to weep — real tears, salt, in a volume greater than its own — and the field it opens is not sedative but permissive: distress inside the radius is allowed to be present without being treated as a failure of composure. Personnel ask to be assigned here. The Department grants the requests and logs them, because a queue for a containment post is itself a finding.
 
 ## 최종 관찰 (Final Observation)
 

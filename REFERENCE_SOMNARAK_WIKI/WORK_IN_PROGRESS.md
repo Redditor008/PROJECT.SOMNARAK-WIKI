@@ -15,7 +15,7 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | **Headline** | **22.73%** |
 | Dossiers still at 30+ shared lines | 86 |
 | Dossiers fully cleaned | 44 |
-| Unfinished-text breaks outstanding | 35 |
+| Unfinished-text breaks outstanding | 0 |
 
 ## Workstream 1 — De-boilerplate (open)
 
@@ -46,19 +46,13 @@ Every cleaned file keeps 9–13 lines of genuine cross-reference furniture (`**C
 
 Fallow 50→12, Shard 49→9, Ephemera 48→12, Border Tree 48→11, Tear 48→11, Glass 48→12, Portcullis 47→11, Thralldom 47→12, Aphasia 47→12, Forgotten Tear 47→12, Anonym 47→12, Welcome Haven 47→11, Survivors' Breath 47→10, Quagmire 47→10, Yggdrasil Wound 46→13, Repose 46→11, Grasp 46→10, Uprooted 46→11, Sleeping Tree 46→10, Frozen Mirror 45→11, Heirloom 45→9, Spire 45→10, Memory Chain 45→10, Feu Follet 45→10, Broken Whisper 45→9, Ember Phoenix 44→10, Broken Fragment 44→9, Brume 44→11, Myrmidon 44→9, Broken Ruin 44→11, Errant 43→11, Atlas 43→11, Animus 43→10, Conservatory 43→9, Home to No One 43→9, Broken Door 42→10, Tower Erased Overnight 42→9, Relic Waiting for Its Maker 42→9, Exiles' Wall 41→10, Protest No One Remembers 41→10, Pent 41→9, The Silent Child 39→11, Broken Tear 39→10, Relic of a Thousand Owners 38→9.
 
-## Workstream 2 — Unfinished text (open)
+## Workstream 2 — Unfinished text (closed)
 
-Detail in `UNFINISHED_TEXT_REGISTER.md`. 269 breaks found by reading, plus 30 more found later by diffing fields against each other; 7 trailing ellipses were deliberate and left alone.
+**312 breaks completed. The canonical scan returns zero.** Full tally in `UNFINISHED_TEXT_REGISTER.md`.
 
-Work is split under `RULES/R-18` into **batch-short** (the file already holds the answer; scripted) and **careful-detail** (it has to be written; one file at a time).
+Split under `RULES/R-18`: **batch-short** 249 (the file already held the answer — scripted), **careful-detail** 63 (written one file at a time).
 
-| Half | Class | State |
-|---|---|---|
-| batch | A, B, B2, C, F | **closed — 249** |
-| careful | E5, D-unique | **closed — 28** |
-| careful | D-shared — six shared Story Log paragraphs | open — **35** |
-
-**Closed: 277 / 312.** Everything that remains is careful-detail: six paragraphs repeated across 35 dossiers, each cut mid-sentence. A single shared completion would clear all 35 ellipses and make the archive worse, because the truncation is the only thing currently marking the paragraph as boilerplate.
+Two findings worth carrying forward. Thirty `| **Form** |` cells were truncated at exactly 150 characters with no ellipsis at all, and were only ever going to be found by diffing one field against another. And splitting a fused line exposed a second truncation underneath every single time it was done.
 
 ## Workstream 3 — Rules (standing)
 

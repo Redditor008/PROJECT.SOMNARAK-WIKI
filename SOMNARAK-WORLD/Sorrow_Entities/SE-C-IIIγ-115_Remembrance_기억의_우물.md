@@ -317,7 +317,7 @@ The weight of every life being remembered by no one person.
 Work response — Viderehan: Displays the viewer's history in full. (Stable); Ferrehan: Forces the worker to remain with difficult memories. (Decrease). Extended viewing can cause identity crisis and emotional overload.
 
 **Entry 5 — <Not Quite Present>**
-The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this …
+The well returns the past of whoever leans over it, and it does not restrict itself to the past that person came looking for. Observers have surfaced with recollections that were accurate, verifiable, and their own, and that they had spent years arranging not to have. Clarity rises; so does the cost of it. Nobody draws from the well alone, and what is drawn is written down before the observer leaves the chamber.
 
 ## 최종 관찰 (Final Observation)
 

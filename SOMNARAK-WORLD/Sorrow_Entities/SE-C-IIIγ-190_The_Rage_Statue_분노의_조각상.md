@@ -286,7 +286,7 @@ The fury of people wronged without the power to respond.
 Management: Do not attempt to force the fist down; name the wrong. Work response — Flerehan: The face softens and the raised fist lowers slightly. (Decrease); Pugnahan: Heat gathers in the fist and rage intensifies. (Increase); Viderehan: Reveals the injustice that shaped the pose. (Stable); Ferrehan: Tests whether the worker can stand before unexpressed anger. (Decrease). It becomes more active during the Sorrow Tide.
 
 **Entry 5 — <Whispered Legend>**
-The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a …
+The statue has never completed the blow. The fissures in its stone widen by a measurable fraction each year and something dark moves behind them, which means the strike is still being thrown, only very slowly. Containment is written on that basis. The question put to the Department every review cycle is whether the fist arrives within an institutional lifetime, and the answer on file remains that it does not arrive within this one.
 
 ## 최종 관찰 (Final Observation)
 

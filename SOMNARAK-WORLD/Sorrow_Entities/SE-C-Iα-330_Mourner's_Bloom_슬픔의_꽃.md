@@ -332,7 +332,7 @@ The need for grief to be visible and beautiful rather than hidden.
 Work response — Viderehan: Reveals the emotion in each petal. (Stable); Ferrehan: Blooms slowly beside a patient worker. (Decrease). Each petal holds one distinct grief.
 
 **Entry 5 — <Archive Note>**
-The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this …
+The bloom moves. Its roots coil and carry it, its petals open into something that is recognisably a mouth, and it takes one moment of mourning from whoever comes close enough — not the memory, the moment — and sets it in a petal. The petals are kept. Forty-one are currently held in the vault, each catalogued by the date it was shed and by nothing else, the Department having declined to record whose moment is in which.
 
 ## 최종 관찰 (Final Observation)
 

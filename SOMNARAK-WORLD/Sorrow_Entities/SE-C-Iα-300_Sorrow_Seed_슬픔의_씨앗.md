@@ -326,7 +326,7 @@ Potential sorrow—the fear that pain will become something larger than the pers
 Work response — Viderehan: Reveals possible forms it could grow into. (Stable); Ferrehan: Tests whether the worker can hold potential without planting it. (Decrease). It must not be planted outside an approved research chamber.
 
 **Entry 5 — <Archive Note>**
-The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply. …
+The seed is warm and it beats, and it drags itself toward soil on the single tendril it has put out. What it becomes depends entirely on what is grieving nearby while it takes root, which is why the chamber is kept bare and why the rotation here is the shortest in the wing. Staff are not permitted to speak of their own losses inside the enclosure. The prohibition is absolute and is the only guidance the Department will issue, because the alternative is a list of which sorrows are acceptable to grow.
 
 ## 최종 관찰 (Final Observation)
 

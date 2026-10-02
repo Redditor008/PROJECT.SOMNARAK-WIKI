@@ -326,7 +326,7 @@ The grief of unfinished melodies and lives remembered only through music.
 Personnel often recognize songs they believed forgotten.
 
 **Entry 5 — <Heavier Air, Wilting Plants>**
-The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the …
+The stone is warm, which is the first thing anyone says about it and the thing they keep saying. It sings only in a quiet room and only for one listener at a time, and what it sings is attributable: twice the song has been matched to a named decedent by relatives who were not told what they were being asked to identify. The connection it opens runs in both directions. Workers who have held it report a reluctance to set it down rather than any distress.
 
 ## 최종 관찰 (Final Observation)
 

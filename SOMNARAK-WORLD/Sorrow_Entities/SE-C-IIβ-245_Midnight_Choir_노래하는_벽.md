@@ -289,7 +289,7 @@ The grief of melodies and lives that ended without completion.
 Work response — Viderehan: Songs reveal historical events and lost voices. (Stable); Ferrehan: The Walls sing for hours while testing attention. (Decrease). The Walls become silent when attacked.
 
 **Entry 5 — <Archive Note>**
-Personnel who work with the entity consistently report changes in their personal lives. They become more contemplative. They call their families more often. They sit in silence longer. They weep at unexpected moments — not from sadness, but from a sudden …
+The frescoes sing at midnight and at no other hour, and the order is fixed: lullabies, then work songs, then funeral hymns, out of the painted mouths of people the city has already buried. Night staff may remain in the corridor and are not required to. The one instruction that has never been relaxed is that no recording device is left running — not for containment reasons, but because the three recordings that exist carry a fourth voice, and nobody has been willing to authorise a fifth.
 
 ## 최종 관찰 (Final Observation)
 

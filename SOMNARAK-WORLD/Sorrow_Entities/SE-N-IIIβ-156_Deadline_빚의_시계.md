@@ -315,7 +315,7 @@ The dread of waiting for collection and knowing the deadline cannot be escaped.
 Work response — Viderehan: Reveals the origin of the deadline. (Stable); Ferrehan: Tests whether the worker can wait without surrendering to panic. (Decrease). It is most active near Collector visits.
 
 **Entry 5 — <Archive Note>**
-The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a …
+The clock counts down to the next deadline of whoever is nearest, and it ticks faster as that deadline closes, which means a room can hear a debt coming due before its holder will say so. When the moment arrives the clock stops, and the silence is the event. Staff have asked for the chamber to be sound-isolated. It has not been, because the only thing isolation would achieve is to let a person stand in front of it and not be heard.
 
 ## 최종 관찰 (Final Observation)
 

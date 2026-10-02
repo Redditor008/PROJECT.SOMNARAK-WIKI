@@ -279,7 +279,7 @@ The despair of screaming until the voice becomes absence.
 Management: Say, “I hear you,” and remain present. Work response — Flerehan: Silent tears appear and the scream softens. (Decrease); Pugnahan: The silent scream becomes physically painful. (Increase); Viderehan: Reveals the places from which the pleas came. (Stable); Ferrehan: Tests whether the worker can hear without sound. (Decrease). Personnel report weight after exposure.
 
 **Entry 5 — <Archive Note>**
-The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …
+The figure screams and nothing comes out, and the silence it makes is not an absence of sound but a sound of its own, which instruments register and ears do not. At the edges of the chamber the room is slightly less there than it should be: corners read short, and the far wall will not hold a measurement. Personnel describe the experience as being shouted at by someone they have wronged. The description is recorded because it is consistent across observers — and so is the fact that no two of them name the same person.
 
 ## 최종 관찰 (Final Observation)
 

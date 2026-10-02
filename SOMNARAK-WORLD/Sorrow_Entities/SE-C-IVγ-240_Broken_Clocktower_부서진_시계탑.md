@@ -313,7 +313,7 @@ The weight of waiting inside an event with no conclusion.
 Work response — Viderehan: Shows the event frozen at 3:47. (Stable); Ferrehan: Tests the worker inside stretched time. (Decrease). Personnel may age subjectively during short exposures.
 
 **Entry 5 — <Archive Note>**
-Personnel who work with the entity consistently report changes in their personal lives. They become more contemplative. They call their families more often. They sit in silence longer. They weep at unexpected moments — not from sadness, but from a sudden …
+The hands have read 3:47 since the tower was found, and the gears behind them have never stopped turning. Inside the dilation field a strike lands two turns after it is thrown, and an order given at the foot of the stair is still arriving when it is countermanded. Personnel are briefed to give an instruction once and then wait. The second instruction — issued because the first appeared to have been ignored — is the cause of every incident recorded here.
 
 ## 최종 관찰 (Final Observation)
 

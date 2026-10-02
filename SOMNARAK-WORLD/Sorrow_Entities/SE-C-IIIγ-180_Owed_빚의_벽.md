@@ -298,7 +298,7 @@ The weight of debt becoming a physical barrier between people and movement.
 Work response — Viderehan: Reveals the history of individual obligations. (Stable); Ferrehan: Tests the worker beneath the city's accumulated weight. (Decrease). A collapse is considered a facility-wide catastrophe.
 
 **Entry 5 — <What It Came to Mean>**
-The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …
+The wall is measured weekly, and the measurement is the record: every new block budding on its face corresponds to an obligation entered somewhere in the city that day. It has never shrunk. Clerks from the debt offices have been found at the barrier comparing their own ledgers against it, which is prohibited — not because the comparison is unreliable, but because it has never once been wrong, and the clerks who make it do not go back to their desks the same.
 
 ## 최종 관찰 (Final Observation)
 

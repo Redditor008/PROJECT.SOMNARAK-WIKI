@@ -311,7 +311,7 @@ The grief of people unable to face their own truth.
 Work response — Viderehan: Displays the truth behind the cracks. (Stable); Ferrehan: Tests whether the worker can look without flinching. (Decrease). It cannot be broken further by ordinary force.
 
 **Entry 5 — <Archive Note>**
-The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …
+The mirror shows what the viewer is underneath the arrangement they present, and it does so without malice and without pause. It is not a punishment instrument; several of the specialists who have stood in front of it describe the result as relief. It is also not optional once begun, which is why the glass is kept under cloth between sessions. Personnel schedule their own viewings and may cancel without giving a reason, and the Department has declined to record who does.
 
 ## 최종 관찰 (Final Observation)
 

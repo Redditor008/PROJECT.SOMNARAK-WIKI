@@ -287,7 +287,7 @@ The city's collective grief suppressed by daylight and released through night.
 Work response — Viderehan: The Tide reveals grief currents across the city. (Stable); Ferrehan: Personnel endure the wave until dawn. (Decrease). Personnel who endure it report exhaustion but increased solidarity.
 
 **Entry 5 — <Archive Note>**
-The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply. …
+The Tide is not in a chamber. It is the city after sunset, and the facility sits inside it like everything else. Gauges fill, chests press, and readings taken between dusk and dawn are corrected against a baseline rather than used raw. Nobody is evacuated, because there is nowhere in Somnarak that is not downstream of it. The night shift is paid at a different rate, and the reasoning has never been published: the night shift is not doing the same work.
 
 ## 최종 관찰 (Final Observation)
 

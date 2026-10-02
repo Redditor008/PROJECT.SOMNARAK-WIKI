@@ -293,7 +293,7 @@ The fear of what waits beyond an irreversible threshold.
 Work response — Viderehan: Whispers reveal fragments of buried truth. (Stable); Ferrehan: Remains silent while testing the worker's patience. (Stable). The Archive Lead visits once each year and says nothing.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …  Threat rating: Unknown. The Gate is sealed. Its contents are unknown. Risk: opening the Gate is considered catastrophic by all …
+The Gate does not open, and this office has stopped describing its containment as the containment of a passage. It was found already sealed, it predates the facility, and no instrument has established what lies behind it. Thirteen seconds is what it gives: one buried truth, spoken once, to whoever stands closest. The position of this office is that those seconds are not a reward for correct procedure and are not to be solicited, and that any member of staff who receives them is relieved for the remainder of the shift.
 
 ## 최종 관찰 (Final Observation)
 

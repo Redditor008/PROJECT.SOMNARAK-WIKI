@@ -275,7 +275,7 @@ The despair of asking for rescue and learning that no one was coming.
 Management: Answer: “I hear you.” Never promise help you cannot provide. Work response — Flerehan: Pauses and responds to the worker's tears. (Decrease); Pugnahan: The call becomes distant but does not stop. (Stable); Viderehan: Reveals fragments of the places from which it called. (Stable); Ferrehan: Continues calling while testing whether the worker will keep listening. (Decrease). Exposure causes emotional distress rather than direct harm.
 
 **Entry 5 — <Archive Note>**
-The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the …
+There is nothing in the chamber. The echo is present throughout it at an even volume, with no source and no falloff, repeating a grief that cannot be attributed to anyone — and the longer a worker stands in it, the fewer names they can produce on request. Recovery is complete and takes about a day. The name check at the door is performed on the way out as well as on the way in, and the two lists are compared by somebody who was not inside.
 
 ## 최종 관찰 (Final Observation)
 

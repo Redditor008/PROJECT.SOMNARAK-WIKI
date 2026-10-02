@@ -334,7 +334,7 @@ Fear of mortality, deadlines, wasted moments, and unrecoverable choices.
 Personnel experience emotional weight rather than physical heaviness on contact.
 
 **Entry 5 — <The Wilting Perimeter>**
-The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the …
+Clocks in the adjoining corridor disagree with clocks elsewhere in the wing by between four and eleven seconds, always slow, never fast. The discrepancy follows the hourglass when it is moved and resolves within a day of its removal. Nobody has been harmed by it. Shift handovers conducted inside the affected radius have twice been logged as overlapping, each team recording in good faith that it had relieved the other.
 
 ## 최종 관찰 (Final Observation)
 

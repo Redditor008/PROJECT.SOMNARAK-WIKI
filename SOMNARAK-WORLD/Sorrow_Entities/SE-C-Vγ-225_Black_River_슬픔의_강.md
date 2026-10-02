@@ -291,7 +291,7 @@ The accumulated grief of every person who has lived and died in Somnarak.
 Work response — Viderehan: Reveals the grief carried through its currents. (Stable); Ferrehan: Tests whether the worker can remain near total sorrow. (Decrease). It carries grief from every district and feeds the city above.
 
 **Entry 5 — <Archive Note>**
-The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this …
+The river runs under the city and does not rise, fall, or answer to weather; it is fed by something other than rain. Soundings put the channel deeper than the Alpha Tree's roots and have never found a bank. Survey crews work from the gantry on a line and never from a boat — a rule written after the only crossing attempt, which succeeded. The crew came back in good health and all four gave the same account of how long it had taken. The account was wrong by nine days.
 
 ## 최종 관찰 (Final Observation)
 

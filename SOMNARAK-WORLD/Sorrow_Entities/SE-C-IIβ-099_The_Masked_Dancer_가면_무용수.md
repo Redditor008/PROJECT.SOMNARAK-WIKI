@@ -297,7 +297,7 @@ The grief of the paralyzed, imprisoned, sick, and sorrow-bound—people whose bo
 Management: Match its rhythm and share the performance; do not command it to stop.  Personnel who watch for extended periods report emotional resonance and Clarity reduction.
 
 **Entry 5 — <Archive Note>**
-Personnel who work with the entity consistently report changes in their personal lives. They become more contemplative. They call their families more often. They sit in silence longer. They weep at unexpected moments — not from sadness, but from a sudden …
+The Dancer does not stop, and the body beneath the mask is fever-hot to the touch, which argues that the dancing costs something. Observers are rostered in pairs and instructed to look away on a fixed interval, because the steps are regular enough to be learned and watchers have been found matching them at the rail. Nobody has seen the face. The mask is fused to the skin, and the single attempt to establish how deeply was discontinued on the Director's instruction.
 
 ## 최종 관찰 (Final Observation)
 

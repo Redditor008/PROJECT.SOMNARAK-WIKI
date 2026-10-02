@@ -311,7 +311,7 @@ Betrayal—the grief of believing words and discovering that they were never int
 Work response — Viderehan: Reveals the original promise and its betrayal. (Stable); Ferrehan: Tests whether the worker will make a promise without certainty. (Decrease). Its shards can cut crystal but rarely cut flesh.
 
 **Entry 5 — <Archive Note>**
-The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this …
+The pieces hover and reassemble and never complete a signature. Watched for long enough the motion resolves into someone trying to sign and failing, over and over, which is close to what it is. A promise spoken aloud in the chamber binds the speaker to it, emotionally and then physically, and the binding does not check first whether the promise can be kept. Personnel are briefed to make no commitments inside the room, including the ordinary ones people make to each other at the end of a shift.
 
 ## 최종 관찰 (Final Observation)
 

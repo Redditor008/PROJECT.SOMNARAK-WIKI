@@ -317,7 +317,7 @@ The fury of being trapped by a system that refuses to admit error.
 Work response — Viderehan: Reveals the injustices that formed each bar. (Stable); Ferrehan: Tests whether the worker can remain near rage without feeding it. (Decrease). It becomes hotter during Collector disputes.
 
 **Entry 5 — <A Symbol Among Personnel>**
-The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …
+The cage has no door, and that is the whole of it: it was not built to hold anything, it was built by people who had been held. What it releases is not an attack but a recollection — the patient, exact anger of a sentence nobody deserved — and it borrows the nearest person's own memory of being wrongly accused in order to deliver it. Staff with a disciplinary history are not posted here. Not because they are at greater risk, but because the entity is accurate.
 
 ## 최종 관찰 (Final Observation)
 

@@ -287,7 +287,7 @@ The weight of too many lives pressing upward until the sky had to release them.
 Work response — Viderehan: Each drop can be catalogued as a memory record. (Stable); Ferrehan: The worker remains beneath the rain without losing identity. (Decrease). Heavy rain can overwhelm unanchored personnel.
 
 **Entry 5 — <Archive Note>**
-The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a …
+The droplets drift rather than fall, and each one holds something recognisable: a face, a strip of skin, a lock of hair, a voice made visible. On contact they dissolve, and the fragment goes with them. Sealed hoods are issued not to prevent harm, which has never been demonstrated, but to prevent catching. The fragments cannot be preserved by any method tried, and the workers who have caught one have asked, repeatedly and in writing, to be allowed to try again.
 
 ## 최종 관찰 (Final Observation)
 

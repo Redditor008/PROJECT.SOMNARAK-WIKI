@@ -277,7 +277,7 @@ Anxiety over owing something that cannot be paid and the dread of the Collector'
 Management: Review and acknowledge the debt; force cannot remove the Shadow. Work response — Flerehan: Remains close, acknowledging shared burden. (Decrease); Pugnahan: Becomes denser and harder to escape. (Increase); Viderehan: Reveals the debt balance and its origin. (Stable); Ferrehan: Follows patiently while the worker continues daily duties. (Decrease). Progress toward repayment does not affect it until the balance changes.
 
 **Entry 5 — <Archive Note>**
-The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the …
+The shadow attaches to a debtor and holds a fixed distance, and it cannot be faced — it is behind whoever turns, in every attempt on record. It does not speak and has never been observed to act. What it does is make the debt visible to everyone in the room except the person carrying it, and the problem that creates is social rather than physical. Three transfers out of the debt offices last year were requested by colleagues of the person being followed.
 
 ## 최종 관찰 (Final Observation)
 

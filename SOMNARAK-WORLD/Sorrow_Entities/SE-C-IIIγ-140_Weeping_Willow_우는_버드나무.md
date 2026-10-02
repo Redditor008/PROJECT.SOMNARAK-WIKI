@@ -290,7 +290,7 @@ The grief of goodbyes, completed lives, and beautiful things that must close.
 Work response — Viderehan: Reveals the endings carried by each branch. (Stable); Ferrehan: Shelters the worker while they endure their grief. (Decrease). Its roots do not damage the Gardens.
 
 **Entry 5 — <They Call Their Families More>**
-Personnel who work with the entity consistently report changes in their personal lives. They become more contemplative. They call their families more often. They sit in silence longer. They weep at unexpected moments — not from sadness, but from a sudden …
+The willow sheds all day. The tears are pale crystal, they fall slowly, and they break without any sound, and the floor of the enclosure has to be swept because the fragments do not dissolve. Groundskeeping staff describe the work as calming and ask to be kept on it. The Department permits this and caps it at two consecutive rotations, on the evidence that the ones who stay longer stop sweeping and stand under the branches instead.
 
 ## 최종 관찰 (Final Observation)
 

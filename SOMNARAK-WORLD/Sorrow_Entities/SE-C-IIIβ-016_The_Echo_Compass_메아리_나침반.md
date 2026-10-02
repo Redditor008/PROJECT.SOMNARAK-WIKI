@@ -315,7 +315,7 @@ The grief of searching for lost memories and discovering sorrow everywhere.
 Work response — Viderehan: Reveals patterns in its direction changes. (Stable); Ferrehan: Tests whether the worker can follow without expecting relief. (Decrease). It is useful for finding entities but unreliable for navigation.
 
 **Entry 5 — <Air, Lamps, and Walls>**
-The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the …
+Nothing wilts near the Compass and nothing hums; the air in the case is ordinary air. What changes is direction. Lamps, instrument needles, and the magnetised tools on the bench all begin to agree with the bone sliver instead of with north, and they go on agreeing for some hours after the Compass is boxed. Survey teams working the corridor record their bearings twice — once before entering, once after — and treat the difference between them as the measurement that matters.
 
 ## 최종 관찰 (Final Observation)
 

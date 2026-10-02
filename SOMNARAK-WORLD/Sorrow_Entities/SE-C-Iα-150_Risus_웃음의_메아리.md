@@ -289,7 +289,7 @@ The grief of remembering joy after the person or moment that created it is gone.
 Work response — Viderehan: Reveals the people and moment behind the laughter. (Stable); Ferrehan: Continues around the worker until they can hear sadness in joy. (Decrease). Personnel report rage when they expect joy and hear sorrow instead.
 
 **Entry 5 — <Archive Note>**
-The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply. …
+What arrives is laughter — warm, bright, somebody enjoying themselves at a distance — and then it thins, and holds, and becomes the other thing, with no point at which the change can be marked. There is nothing to contain and nothing to look at. Personnel sit in the corridor on their breaks and listen to the first part of it, and the Department has not forbidden this. The standing requirement is that nobody listens alone, because no one who has heard the second part by themselves has described it the same way twice.
 
 ## 최종 관찰 (Final Observation)
 

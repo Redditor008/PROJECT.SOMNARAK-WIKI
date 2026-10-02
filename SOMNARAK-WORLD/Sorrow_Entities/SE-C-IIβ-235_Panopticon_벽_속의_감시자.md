@@ -279,7 +279,7 @@ The grief of being observed by systems that never helped.
 Management: Look back and accept being witnessed; do not blind the walls. Work response — Flerehan: Eyes blink and acknowledge the worker. (Decrease); Pugnahan: Stares without blinking. (Stable); Viderehan: Shows what it has seen in the walls. (Stable); Ferrehan: Watches silently until the worker accepts the gaze. (Decrease). They are strongest in old Warden routes.
 
 **Entry 5 — <Archive Note>**
-The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply. …
+The eyes are in the walls, the ceiling, and the frames of the doors, and they do not hide. The watcher coalesces only for someone who has stopped trying not to be looked at, which makes the entity unusually hard to observe by procedure: the posture that produces a sighting is the posture the Department trains out of its personnel. Those who do see it describe being examined without judgement, and report that leaving the room is harder than entering it.
 
 ## 최종 관찰 (Final Observation)
 

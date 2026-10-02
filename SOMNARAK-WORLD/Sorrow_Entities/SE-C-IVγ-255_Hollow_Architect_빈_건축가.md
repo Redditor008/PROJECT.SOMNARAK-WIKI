@@ -273,7 +273,7 @@ The burden of creation without completion, occupancy, or recognition.
 Management: Do not complete or destroy the structures; document their purpose. Work response — Flerehan: Pauses construction and accepts shared grief. (Decrease); Pugnahan: Builds defensive walls around the worker. (Increase); Viderehan: Shows the intended future of each structure. (Stable); Ferrehan: Tests whether the worker can remain in an unfinished space. (Decrease). Its plans contain districts absent from current maps.
 
 **Entry 5 — <Archive Note>**
-The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply. …
+The Architect works without rest and finishes nothing. Its plans are legible, the dark crystal they are drawn on is sound, and the structures it raises are competent up to the point where they stop. Staff gather at the viewing line to watch it build and have been asked why. The answers collected are consistent and unhelpful, amounting to the observation that something is being made. Nothing it has raised has yet had a roof.
 
 ## 최종 관찰 (Final Observation)
 

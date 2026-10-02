@@ -287,7 +287,7 @@ The grief of a city where compassion is treated as exceptional.
 Work response — Viderehan: Reveals the act that formed the Echo. (Stable); Ferrehan: Remains nearby while the worker accepts comfort. (Decrease). It is one of the few entities that produces comfort without an immediate cost.
 
 **Entry 5 — <Archive Note>**
-The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this …
+Two or three words arrive from just behind the shoulder, unhurried and kind, and there is nobody there. The content is always comfort, and it has never been specific enough to count as information. Workers who hear it tend not to report it on the day. That is the only operational difficulty the entity has produced: the log ends up reconstructed afterwards, and the reconstruction is always gentler than the account given in person.
 
 ## 최종 관찰 (Final Observation)
 

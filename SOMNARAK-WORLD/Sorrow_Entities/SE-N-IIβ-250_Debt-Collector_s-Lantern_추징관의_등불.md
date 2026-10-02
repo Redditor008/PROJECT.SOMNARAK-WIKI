@@ -315,7 +315,7 @@ The weight of taking payment while knowing the system is unfair.
 Work response — Viderehan: Reveals hidden debts and their origins. (Stable); Ferrehan: Remains beside the worker while the burden is measured. (Decrease). It has never gone completely dark.
 
 **Entry 5 — <Archive Note>**
-The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a …
+The lantern is never carried and it is never where it was left. It burns cold, and it burns brighter as obligation gathers near it, which makes it the most reliable instrument in the wing and the least welcome. It has been placed in a sealed case. It has been found outside the case twice, both times in a corridor where a member of staff was working late. Neither of them reported it. Both were identified by the light.
 
 ## 최종 관찰 (Final Observation)
 

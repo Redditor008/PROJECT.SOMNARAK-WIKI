@@ -319,7 +319,7 @@ The grief of knowing a warning existed but no one heard it in time.
 Work response — Viderehan: Reveals the warnings that were ignored. (Stable); Ferrehan: Tests the worker's ability to remain before silence. (Decrease). It is most active before a preventable incident.
 
 **Entry 5 — <Archive Note>**
-The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a …
+Sound does not carry near the bell; it is taken in. Personnel working the chamber speak by hand signal out of habit rather than instruction, having found that raised voices arrive thinned and at the wrong distance. The bell has rung once, in the sense that something came out of it: a warning sealed in a file none of those present had access to, delivered to the three workers in the room and to nobody else. All three reported it. No two of them agree on the wording.
 
 ## 최종 관찰 (Final Observation)
 

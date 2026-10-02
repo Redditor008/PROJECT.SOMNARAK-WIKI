@@ -315,7 +315,7 @@ The grief of owing something that cannot be paid.
 Work response — Viderehan: Reveals the debt represented by each link. (Stable); Ferrehan: Tests the worker beneath accumulated obligation. (Decrease). It connects debts across families and institutions.
 
 **Entry 5 — <Archive Note>**
-The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this …
+Each link carries one name and one obligation, and the chain has gained length in every month it has been measured. Reading it is permitted; it will give the history of any obligation on it, including the ones already settled and the ones that were inherited rather than incurred. The names are the difficulty. Personnel have found their own, and the standing instruction — that a worker who does so is reassigned on request and without inquiry — exists because the first one to find hers did not ask.
 
 ## 최종 관찰 (Final Observation)
 
