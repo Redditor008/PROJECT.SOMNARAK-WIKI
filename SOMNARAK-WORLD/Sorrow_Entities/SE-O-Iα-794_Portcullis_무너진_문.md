@@ -39,10 +39,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Portcullis.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A completed cycle settles the Door for a while. It does not lift the stone, it does not raise the fallen leaf back into its frame, and it does not reach anyone on the far side; nothing about this entity is reversible and personnel should not work it expecting otherwise.
+- The Door has no breach counter and nothing to escape through. What it has is a trigger that any person can pull by accident, at any moment, simply by saying aloud where they would rather be.
+- A yield of 10–14 against Low difficulty makes this a routine assignment, and routine is the hazard: the Door is worked often, by junior personnel, in a tunnel they are walking through anyway, under exactly the conditions in which someone mentions wanting to go home.
+- Extraction requires naming a destination and meaning it, which is the deliberate performance of the act that formed this entity. It is scheduled separately, with a named relief, and the destination chosen is logged in advance and reviewed.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Portcullis's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **Tension:** The team locates the fallen leaf beneath the tunnel stone, confirms the frame is still standing and the hinges still seated, and agrees before entering that no place-name will be spoken for the duration of the cycle.
+2. **Clash:** Ten turns at most, and the Door does not strike at anyone. It shows the route and the people beyond it, and the engagement is decided by whether the party keeps working at a threshold they cannot cross or stops to look through it.
+3. **Resolution:** The cycle closes when the party has held position at the blocked threshold for its full duration without anyone naming somewhere else, and the gauge settles back beneath 25%.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- Portcullis’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Portcullis's dossier.
+- Prolonged exposure does not intensify the effect so much as fix it in place. A worker who stays too long stops treating the Door as an assignment and begins treating it as a waiting area, and the recorded risk — remaining psychologically at the threshold — describes a person who continues reporting for shifts, performing duties, and quietly expecting to be let through.
+- Every piece cut from the Door charges in the same coin. The jamb-knife levers things open and leaves its wielder weeping; the shroud holds composure and flattens every small pleasure; the Key opens one blocked passage for a few seconds and hands the bearer the departure of everyone who ever waited behind it. The Door gives passage and takes the people.
+- Unworked, nothing ruptures. The Door stays exactly as it is, which is the condition it has held since the collapse, and the only thing that accumulates is the number of personnel who have stood in front of it and said a name out loud.
 
 ## Appearance
 **Physical Form:** A collapsed door lying beneath layers of tunnel stone. Its frame remains upright while the door itself has fallen inward.
@@ -116,18 +116,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A collapsed door lying beneath layers of tunnel stone. Its frame remains upright while the door itself has fallen inward. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Fixed under collapsed tunnel stone with the frame still upright and plumb; the leaf lies fallen inward and has never been observed to shift, settle further, or move on its hinges. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Photograph and measure the hinges every cycle. They are intact — unbent, unsheared, still seated in a frame that is still square — beneath a collapse that brought down the surrounding tunnel, and that single fact is the most important thing in this file: the Door did not fail. It was closed on, from outside, by weight it was never meant to carry. Record the frame's alignment, the depth of stone over the leaf, the condition of each hinge pin, and any change to the fit between leaf and jamb. A description of the rubble is not an observation of this entity. The mechanism is the observation, and the mechanism still works.
 
 ## Origin
 - **Formation:** The Door formed from a passage closed before someone could leave.
 - **The Sorrow:** The burden of being trapped at the moment of departure.
 - **The Event:** A tunnel collapse sealed a door while people were still on both sides of it.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Two groups rather than one — those who were leaving when the tunnel came down, and those who had already gone ahead and stood waiting on the other side of it. The record does not establish which of them this entity belongs to, and personnel should resist the urge to settle the question.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Portcullis is recorded as an Object/Place with Object-Weight manifestation and Lament elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Viderehan holds the gauge level. Looking reveals the people and the route beyond the door, and the Door neither resists the looking nor benefits from it — being seen was never the problem, since everyone involved could see perfectly well what was on the other side. Ferrehan lowers the gauge, because enduring here means remaining at a blocked threshold without forcing it and without leaving it: standing where the waiting happened, for the length of the cycle, on purpose. A falling gauge means a worker has managed that. A rising gauge, in nearly every logged case, follows a worker trying to help — clearing stone, testing the frame, or promising the Door something — and the attempt is understandable enough that it should be recorded without censure and corrected without delay.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -173,7 +173,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
 | **Risk** | The user may remain psychologically trapped at the threshold. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic requires contact and a spoken destination; it cannot be activated silently, and it cannot be activated for someone else. It opens into the memory of a place and never into the place, so it confers no transit, no retrieval and no containment authority. Viderehan and Ferrehan remain the only valid responses.
 
 ### Log and Method
 
@@ -188,7 +188,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 The escalation pattern is specific to Portcullis: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Control speech before you control the ground. The activation condition for this entity is a named destination spoken aloud at the threshold, which means the ordinary language of an emergency response — ordering personnel back to the surface, calling a muster point, telling someone to get home — is itself the trigger. Responders use designations and directions only: *back along the tunnel*, *to the marker*, *to me*. Then establish who touched the leaf, how long the memory held, and whether it has faded. Do not attempt to clear the stone. The collapse is not debris; it is the entity.
 
 ### Detailed Activation Record
 
@@ -201,7 +201,7 @@ The escalation pattern is specific to Portcullis: it is not a generic breach eve
 | **Risk** | Minor (α) Object-Weight producing Lament pressure; The user may remain psychologically trapped at the threshold. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** the destination as it was spoken, verbatim → the light's appearance in the frame → what the memory showed → how long it held → whether the operative could describe the present tunnel while it held. The spoken phrase is transcribed word for word and never paraphrased, because this entity responds to naming and a report that records *the operative named a location* has deleted the only variable that matters.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -222,12 +222,12 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The full figure against one target and nothing beyond them; the knife is a prying tool worked at arm's length, and like the frame it was cut from it admits one at a time.
+**Damage Application:** Score the puncture once, then score the forced joint again on each following turn as the levered wound keeps working open; the two resolve as separate events against the same resistance.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Portcullis's lament signature in the strike.
+**Ability:** Forged from a demolished building's hinge and still behaving like one — it levers a target's composure apart at the joint rather than breaking it, finding the seam where someone is already giving way.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder weeps while using it, without warning and without any accompanying feeling they can identify, and reports afterwards that the grief did not seem to be theirs. Personnel find this harder to tolerate than injury and should be rotated before they stop mentioning it.
 
 ### M.A.W. Suit — The Collapsed Shroud
 
@@ -243,9 +243,9 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Portcullis's kind of pressure.
+**Ability:** Han-silk wrapping that keeps the wearer's composure intact under Lament pressure, drawing tighter as it approaches the frame it was taken from.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The shroud protects by closing. It shuts out the small sorrows and shuts out the small pleasures with them, and wearers describe the following days as a corridor they walked down without stopping anywhere.
 
 ### M.A.W. Stigma — The Collapsed Key
 
@@ -255,17 +255,17 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the bearer's rating while working the Door, conditional on the bearer having stayed at the threshold for the full cycle
 
 **Ability:** Opens one blocked passage for a few seconds.
 
 **Cost:** The user feels the departure of everyone who once waited behind it.
 
-*Stigmas are granted at random by Portcullis upon a successful work, not manufactured.*
+*The Key is given, not taken. It has appeared only on workers who finished a Ferrehan cycle at the threshold without once asking to be let through, and no procedure has produced one deliberately.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Portcullis' element. No protocol produces Stigmas. They emerge from Portcullis' own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece remains part of the Door, and the set has one consistent property that the grades do not record: every item opens something and none of them lets anyone arrive. The knife pries joints apart. The Key clears a blocked passage for a few seconds, long enough to see through and not long enough to pass. Even the shroud works by closing the wearer rather than sheltering them. Operatives issued this set for forced-entry work report that it performs exactly as specified and that the objective is never on the other side, which is not equipment failure — it is a threshold that collapsed with people on both sides of it, reproduced faithfully in portable form.
 
 ### Field Use Record
 
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** These are α-grade numbers and they are not misleading: three to six damage, ten to fifteen Echoes, no concealed performance. What no rating on the sheet conveys is that the Key's few seconds of open passage cost its bearer the departure of every person who once waited behind that door. Read the Cost lines as the specification and the damage values as a footnote to them.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching the fallen door while naming a destination. Effect: Opens a brief emotional passage to the destination's memory. Duration: Until the memory fades. Risk: The user may remain psychologically trapped at the threshold. Tool Use Profile — I-Relic Operational Rule: At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Portcullis's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Record the mechanism first, then the speech. Hinges, frame alignment, stone depth, the fit of the leaf in its jamb — all measurable, all stable, all the baseline against which any change would be real. Then log every word spoken in the tunnel during the cycle, verbatim, by all present. Personnel consistently report grief rather than fear at this threshold, and grief makes people talkative; the useful record of a Portcullis cycle is almost always something a worker said without noticing they had said it.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Portcullis (O-Iα-794 [LO]) is logged as a Object-Weight manifestation expressing Lament. The Door formed from a passage closed before someone could leave. Held at Zone B, deep tunnels. It has never opened physically.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Tunnel Survey Note, Zone B>**
 Its light appears when someone names a destination.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Threshold Interview, Transcribed Verbatim>**
 The burden of being trapped at the moment of departure.
 
 **Entry 4 — <Containment Notice>**
@@ -345,12 +345,12 @@ Stone covers the door, but the frame remains. You place your hand on the fallen 
 
 Portcullis does not exist in isolation. Its recorded relationships with Doorway to Nowhere, The Final Door, The Silent Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish the Door's solo behaviour across several silent cycles first, which for this entity means cycles in which no destination was named by anyone present — a harder control condition to maintain than it sounds, and one that must be verified from the transcript rather than assumed. When a second entity is introduced, observe a constraint peculiar to this holding: any entity whose designation includes a place can be named without intending to name a destination, and the Door does not appear to distinguish the two. Interaction studies here are therefore conducted using codes only, with the second entity referred to by designation and never by its location. Log separation, duration, gauge movement, and whether the frame lit.
 
 
 ### Entity Interaction Record
 
-Portcullis must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Door sits in the Zone B deep tunnels alongside several holdings concerned with departure, waiting and passage, and the proximity is not incidental — the tunnels are where people left from. The interactions below are canonical but were each recorded under particular traffic and particular wording; personnel must re-establish the silent baseline before relying on any of them.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -358,7 +358,7 @@ Portcullis must be assessed as part of an entity network, not as an isolated pro
 | **The Final Door** | Both preserve sealed thresholds. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Silent Bell** | Vibrates when the Portcullis is approached. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Transcribe throughout. Record the separation at first response, the duration, the trigger as spoken, the gauge movement, whether light appeared in the frame, and whether the effect persisted after the second entity was withdrawn. The transcript is the primary record for this entity and the telemetry is secondary to it.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -405,9 +405,9 @@ Some sorrows mourn a collapse. Portcullis mourns the threshold — the passage s
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file names places on almost every line — Zone B, the deep tunnels, the route beyond the door, the destination field in the Tool Use Profile. Personnel are reminded that the file is an ordinary document everywhere except in front of this entity, where reading it aloud is an activation procedure. More broadly: the classification will tell a worker that the Door is Minor, Residue-coherent and low-difficulty, and all of that is true and none of it describes standing at a threshold that still has working hinges. Go and stand there. Where the file and the tunnel disagree, the tunnel is correct, and the disagreement is logged rather than tidied away.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every activation, review the transcript before the telemetry. Confirm the gauge, the frame, the exposure log and the position, but establish first what was said, by whom, and whether anyone named a destination they had not declared beforehand. The entity's whole behaviour is keyed to speech, and a review that verifies four physical pillars while omitting the spoken record has verified nothing that bears on the cause.
 ## Trivia
 
 - The door's hinges are intact despite the collapse.
@@ -419,9 +419,9 @@ Some sorrows mourn a collapse. Portcullis mourns the threshold — the passage s
 
 - **Classification detail:** Portcullis is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone B, deep tunnels.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify by the frame. It stands upright, square and undamaged above a leaf that has fallen inward under tunnel stone, and no other collapse in Zone B has left its frame standing.
+- **Record detail:** Several Zone B holdings are logged as doors, thresholds or blocked passages; confirm the designation O-Iα-794 and the Object-Weight manifestation before applying this file to any of them.
+- **Containment detail:** This entity is already sealed, by several metres of tunnel stone, and the seal is the entity rather than a measure applied to it. Nothing further has been built around it, because the Door's reach is limited to whoever is standing in front of it and speaking. The containment measure for this holding is a rule about what personnel are permitted to say.
 ## Document Information
 
 **Document ID:** SE-O-Iα-794
