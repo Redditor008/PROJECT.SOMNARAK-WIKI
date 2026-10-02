@@ -156,14 +156,14 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | The Hollow Saint tears loose and pursues personnel with deliberate steps. It reaches toward personnel. |
 | **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
+| **First Target** | Whoever carries the most grief. It detects burden before it detects position, and an unburdened worker can stand in its path unnoticed. |
 | **Escalation** | Each turn free, Clarity drain +5 until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Containment priority:** Evacuate the emotionally burdened first and leave identity anchors in the corridor; physical suppression gives it nothing to absorb.
+- **Sorrow Gauge on breach:** Opens at 45% and falls 5% for each worker it has drained, which makes a long breach self-limiting rather than escalating.
 
 ## M.A.W. Equipment
 

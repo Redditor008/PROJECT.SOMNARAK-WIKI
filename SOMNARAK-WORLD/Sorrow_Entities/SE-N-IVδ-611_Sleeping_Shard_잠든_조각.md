@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Sleeping Shard.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 1, and the single permitted failure is hard to avoid because the entity never wakes to register the attempt.
+- Pressure is identity-class. The figure changes shape inside dreams, and workers report their own outline feeling uncertain afterward.
+- Peaceful sleep and slowing tears are the success signal. There is no waking state here to work against.
+- It floats, so the chamber is sealed above as well as below. Drift is recorded rather than corrected, because contact wakes nothing but does disturb the dream.
+- Yield is taken from the tears, which slow on success. A perfectly worked cycle is therefore the least productive one.
 
 ## Combat Record
 ### Core Stat Line

@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Conservatory.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. The Conservatory preserves an outline and extends it rather than escaping containment.
+- Viderehan and Ferrehan are the only valid approaches; the ruin cannot be engaged emotionally or confronted.
+- Observation maps the preserved outline against the real place it copies. Endurance requires remaining inside a room built for people who are not coming.
+- It protects the absent and burns around those who are present, so crews work the perimeter and never the interior centre.
+- Yield falls permanently each time a section of the outline is lost, which caps extraction per structure rather than per cycle.
 
 ## Combat Record
 ### Core Stat Line

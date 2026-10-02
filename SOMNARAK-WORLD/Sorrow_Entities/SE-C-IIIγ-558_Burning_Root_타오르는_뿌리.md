@@ -156,14 +156,14 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Movement** | Burning Root rampages on its limbs, crashing through walls. It grasps at ankles, dragging personnel down. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
 | **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | The lowest point of contact available. It grasps at ankles, so personnel on raised walkways are passed over entirely. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Raise personnel above floor level and starve the route; corridor blocking merely redirects the burn.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 15% whenever it reaches unburned flooring, since fresh ground is what sustains it.
 
 ## M.A.W. Equipment
 

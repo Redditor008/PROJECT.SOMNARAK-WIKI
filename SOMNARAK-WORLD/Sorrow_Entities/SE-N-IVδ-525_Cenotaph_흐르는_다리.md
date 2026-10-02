@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Cenotaph.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 1. One failed cycle breaches, and the body already spans corridors, so a breach begins with the entity present in two sectors at once.
+- Pressure is physical and structural. The flowing stone bears load, and corridor sensors register it as a bridge rather than as an occupant.
+- Reaching back lowers its anger and the gauge. The arch relaxes before the water does, and both must settle before the cycle is logged as a success.
+- It coils across corridors rather than occupying a room, so containment is specified by span rather than by volume.
+- Yield is drawn from the dark water rather than the stone, and the water is reachable only while the body is arched.
 
 ## Combat Record
 ### Core Stat Line

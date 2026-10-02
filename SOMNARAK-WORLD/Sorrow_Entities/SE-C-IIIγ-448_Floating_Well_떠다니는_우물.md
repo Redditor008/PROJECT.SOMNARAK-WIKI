@@ -156,14 +156,14 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Movement** | Floating Well expands beyond containment like a spreading tide. It draws personnel toward its depths. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever stands closest to the rim, drawn rather than hunted. The Well does not pursue; it widens. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Establish a mourning point outside the expanding rim. Forcing it downward accelerates the spread.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per metre the rim expands, tying escalation to area rather than to elapsed time.
 
 ## M.A.W. Equipment
 

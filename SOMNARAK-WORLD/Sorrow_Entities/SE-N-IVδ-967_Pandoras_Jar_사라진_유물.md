@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Pandoras Jar.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 1. The figure is already burning on arrival and a single failure is sufficient.
+- Pressure is burden-class. It carries fragments of an object that no longer exists, and the weight registers despite the object having no referent.
+- Reaching toward it in search of recognition lowers the gauge. Recognition of the fragments, not of the figure, is what registers.
+- The fire is crimson-black and leaves no ash, so chamber burn damage cannot be assessed by residue and is measured by surface loss instead.
+- Yield is drawn from the fragments rather than the flame, which makes a cooler cycle no less productive than a fierce one.
 
 ## Combat Record
 ### Core Stat Line

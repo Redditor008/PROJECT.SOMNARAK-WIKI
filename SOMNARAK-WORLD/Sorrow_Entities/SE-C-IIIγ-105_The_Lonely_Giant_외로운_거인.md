@@ -164,14 +164,14 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Movement** | The Lonely Giant tears loose and pursues personnel with deliberate steps. It hunts personnel indiscriminately. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
 | **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Nobody. It avoids personnel deliberately, and casualties arise from structural collapse along its route rather than from contact. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Clear a path and let it walk. Blocking corridors converts an avoidant entity into a demolition event.
+- **Sorrow Gauge on breach:** Opens at 30% and rises 5% per structure damaged rather than per turn; a cleared route keeps it almost static.
 
 ## M.A.W. Equipment
 

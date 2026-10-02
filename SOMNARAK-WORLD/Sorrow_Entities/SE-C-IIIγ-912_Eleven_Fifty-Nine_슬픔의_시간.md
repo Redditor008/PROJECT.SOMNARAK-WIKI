@@ -153,13 +153,13 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's lament influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Lament pressure radiates — the lament register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Every citizen in the district simultaneously, because the entity is an hour and the hour arrives everywhere at once. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Lament drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** No containment action is available. Log the hour, hold personnel in place, and resume operations at 0400.
+- **Sorrow Gauge on breach:** Opens at 50% at 0300 and falls steadily toward 0400 regardless of response. It cannot be suppressed, only outlasted.
 
 ## M.A.W. Equipment
 

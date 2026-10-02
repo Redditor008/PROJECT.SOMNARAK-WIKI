@@ -150,13 +150,13 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's mind influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Lament pressure radiates — the mind register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Not a person but a process. The Engine reaches the nearest active calculation, and personnel are affected only insofar as they are mid-task. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Lament drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Halt all computation in the sector and work by hand. An idle sector gives its influence nothing to expand into.
+- **Sorrow Gauge on breach:** Opens at 35% and rises 10% each time a facility system returns an altered result.
 
 ## Activation Behavior
 

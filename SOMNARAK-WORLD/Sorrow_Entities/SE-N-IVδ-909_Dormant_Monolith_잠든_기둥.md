@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Dormant Monolith.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 1. The Monolith is dormant rather than docile, and the single failure wakes it.
+- Pressure is identity-class and internal. The pillar stands inside consciousness rather than in the chamber.
+- Softening and allowing grief to pass lowers the gauge. The work is to be let through, not to move the pillar.
+- Its shadow reaches into forgotten rooms, and personnel occasionally return with recollections belonging to no one on the roster. These are logged and not acted upon.
+- Yield is drawn from what passes the pillar, so a cycle in which nothing is allowed through produces nothing.
 
 ## Combat Record
 ### Core Stat Line

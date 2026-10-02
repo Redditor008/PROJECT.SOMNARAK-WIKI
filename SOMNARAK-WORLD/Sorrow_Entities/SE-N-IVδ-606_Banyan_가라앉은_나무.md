@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Banyan.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. Banyan drags itself beneath the floor and extends its reach rather than surfacing.
+- Viderehan and Ferrehan are the only valid approaches; the drowned tree has no mind to engage or to confront.
+- Observation is conducted downward through the crystal, which is the only transparent face. Endurance requires standing above it while the branch-arms press up.
+- The weeping face surfaces at irregular intervals and never in the same floor panel twice. Mask Market trading is suspended on any panel it has reached.
+- Yield rises with the number of branch-arms in contact with the underside of the floor rather than with cycle duration.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Dreaming Plague.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3, but the count advances per sleeper rather than per cycle, so one unnoticed contact can consume the whole margin.
+- Pressure is void and dream-class. The hazard is a state rather than a body, and it occupies people rather than space.
+- Contact is the vector: anyone touching a sleeper enters the same dream. Zone D protocol forbids carrying the unconscious for this reason.
+- Containment is cordon and wait. There is nothing in the chamber to suppress, and waking a sleeper early has never been achieved.
+- Yield is recovered from the shared dream once it ends, and scales with the number of sleepers it held rather than with its duration.
 
 ## Combat Record
 ### Core Stat Line

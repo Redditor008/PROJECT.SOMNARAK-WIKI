@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Home to No One Who Knew Me.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. The relic appears after long absence rather than escaping, and its return is the trigger.
+- Viderehan and Ferrehan are the only valid approaches; a relic cannot be engaged emotionally or confronted.
+- Observation must record which object form it currently holds, because it shifts between them without warning and the inventory is form-dependent.
+- It appears in the Old Lament only after a long absence, which makes the interval between appearances the primary scheduling variable rather than cycle count.
+- Yield is drawn from the crimson inner fire, is highest immediately on reappearance, and falls steadily until the next absence.
 
 ## Combat Record
 ### Core Stat Line

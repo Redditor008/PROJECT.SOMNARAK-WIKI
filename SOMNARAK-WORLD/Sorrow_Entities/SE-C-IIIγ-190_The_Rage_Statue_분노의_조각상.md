@@ -156,14 +156,14 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Movement** | The Rage Statue intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | No one and everyone. The Statue does not move; it corrupts the zone outward, and those nearest the raised fist are affected first. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Name the wrong aloud over the sector channel. The corruption radius contracts on acknowledgment and on nothing else.
+- **Sorrow Gauge on breach:** Opens at 55%, among the highest recorded, and rises 10% for every turn the wrong it embodies goes unnamed.
 
 ## M.A.W. Equipment
 

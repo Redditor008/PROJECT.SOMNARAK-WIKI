@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Silent Child.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 4, the widest margin in this class. Three failures can be absorbed before the fourth activates.
+- Pressure is identity-class. The Child is visible only at the edge of sight, and workers who look directly lose the position entirely.
+- Reaching for acknowledgment lowers the gauge. The Child seeks to be noticed rather than approached, and closing distance ends the cycle without result.
+- It settles in corners and beneath garden structures by preference. Containment is a matter of leaving those spaces available rather than sealing them.
+- Yield is small per cycle and the wide threshold permits many of them, which inverts the usual extraction economics for this class.
 
 ## Combat Record
 ### Core Stat Line

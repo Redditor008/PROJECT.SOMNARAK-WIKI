@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Pent.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. Pent accumulates withheld exhaustion and expands rather than escaping.
+- Viderehan and Ferrehan are the only valid approaches; an absence cannot be consoled or confronted.
+- Observation documents what is missing rather than what is present, which makes the record unusually hard to verify between shifts.
+- The air burns with the pressure of a sigh that never arrives. Personnel rotate on a short cycle because the urge to exhale on the site's behalf is itself a hazard.
+- Yield rises the longer the sigh is withheld, so the site is deliberately left unworked between extractions.
 
 ## Combat Record
 ### Core Stat Line

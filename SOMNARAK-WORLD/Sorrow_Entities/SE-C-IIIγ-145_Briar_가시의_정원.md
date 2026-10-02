@@ -186,14 +186,14 @@ The escalation pattern is specific to Briar: it is not a generic breach event. P
 | **Movement** | Briar rampages on its limbs, crashing through walls. It hunts personnel indiscriminately. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever moves fastest. The vines track motion, and a worker who stops moving is passed over entirely. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Order stillness across the sector before Wardens deploy; movement feeds it, and suppression teams arrive moving.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each person it has gripped, holding steady for as long as nothing is caught.
 
 ## M.A.W. Equipment
 
