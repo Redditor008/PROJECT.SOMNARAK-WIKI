@@ -39,10 +39,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Frozen Mirror.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle clears the surface and settles the crack-song for a shift. It changes nothing in the ice: the faces that drained out of it do not come back, and the next person to look will be read exactly as the last one was.
+- This holding carries no breach counter and needs none. Where no count is listed the Sorrow Gauge percentage is the activation mechanism entire, and the figure here is 45%; a listed count, wherever one appears in the archive, runs down with failed cycles on any role at all — Subject, Object, Place or Relic — and this file simply does not carry one.
+- The 10–14 Han-Energy yield is the lowest band in the wing and the work is rated Low difficulty, which is exactly why this holding over-schedules. The hazard is not in any single cycle; it is in how many times one person has looked.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Taking a piece from this source means taking a shard of the surface, and the shard keeps the property: the Reflection stigma leaves its wearer unable to tell their anger from somebody else's.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Frozen Mirror's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** There is no exchange here that the team does not open by looking. Viderehan and Ferrehan are worked from the marked angle, gaze duration is timed rather than estimated, and the relic is equipped only under the certified tool protocol — every combat action in the table above begins with somebody meeting their own reflection.
+3. **Resolution:** The cycle closes when the Sorrow Gauge falls below 25% and the surface has gone still — which on this holding means every operator who looked has been debriefed and the crack pattern has been photographed against the previous plate.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Frozen Mirror’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Frozen Mirror defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact erodes recognition rather than resilience in the ordinary sense. Operators who view repeatedly describe their own face as belonging to a colleague, then to nobody; the progression is gradual, it is recorded in three separate case files, and it has never reversed on its own.
+- Every M.A.W. activation is charged in the currency of the source. The Stiletto aches in old wounds, the Plate dulls the reflexes it protects, and the Reflection hands its wearer other people's anger as though it were their own — which is the originating risk of this entity, issued as equipment.
+- Without resolution it does not escape; it transforms, which is the breach type recorded in the classification. The surface stops reflecting and starts keeping, and the record of what it has kept is held in the crack pattern rather than anywhere a file can reach.
 
 ## Appearance
 **Physical Form:** A mirror of red-black ice that moves with the Desolate's cold currents. Its surface reflects grief as frozen anger.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
 - **Primary marker:** A mirror of red-black ice that moves with the Desolate's cold currents. Its surface reflects grief as frozen anger.
-- **Position / movement:** Physical Form: A mirror of red-black ice that moves with the Desolate's cold currents.
+- **Position / movement:** Drifts on the Desolate's cold currents and holds no fixed station; record bearing, drift rate, and the direction the surface is facing — the facing is the operational field, not the position.
 - **Element signature:** Grudge
 - **Registered location:** The Desolate — mobile
 
@@ -116,18 +116,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A mirror of red-black ice that moves with the Desolate's cold currents. Its surface reflects grief as frozen anger. |
-| **Position / movement** | Physical Form: A mirror of red-black ice that moves with the Desolate's cold currents. |
+| **Position / movement** | Drifts on the Desolate's cold currents and holds no fixed station; record bearing, drift rate, and the direction the surface is facing — the facing is the operational field, not the position. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Verify the designation, element and manifestation against the plate series before any viewing is logged; the wrong entity is the wrong sorrow, and with mirror-form holdings the wrong entity is also the wrong instruction about looking. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Photograph the crack pattern against the previous plate before anything else, because the cracks are the instrument on this holding: they open around suppressed rage and they open around the rage of whoever is standing in front of them. Record the plate dimensions, the depth of the red-black colour at the centre against the edge, the drift of the object on the cold currents, and the carrying distance of the song — which is heard and does not register on any microphone, a discrepancy that is logged every time rather than noted once. Record what the surface shows. It shows no face, and an observer who reports seeing one has given the most important observation of the cycle. 'Strange' is not an observation. This is a measurable object that is taking a measurement of you.
 
 ## Origin
 - **Formation:** The Mirror formed from sorrow that hardened into anger after being denied reflection.
 - **The Sorrow:** The grief of being unable to recognize oneself in one's own pain.
 - **The Event:** A traveler carried a mirror through the Desolate and watched every familiar face disappear from its surface.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One traveler who carried a mirror across the Desolate and watched the familiar faces go out of it one at a time, his own last. The record does not name him and does not say what became of him. It says only that by the end the pain looking back was not recognisably his, and that he kept carrying it.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who repaired too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Frozen Mirror is recorded as an Object/Place with Object-Lament manifestation and Grudge elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Read it in the ice and in the operator, and treat the second as the primary instrument. A falling gauge presents as clarity — the red-black thinning toward the edges, the song dropping below the carrying distance, the cracks holding at their recorded width. The entity is quieter; nothing has been resolved, and the gauge will be back where it started within a week of normal traffic. A rising gauge presents as heat, which is the paradox worth knowing before the first cycle: an object this cold reports its agitation as warmth in the people looking at it. They become irritable, specific, and certain. If an operator leaves a cycle angry at a named colleague, that is the reading, it is logged as a reading, and it is not treated as a disclosure about the colleague. Anything the file does not describe — a face in the surface above all — is reported the same day.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -173,7 +173,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | The viewer may mistake reflected rage for personal intent. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic answers only while it is carried, and it answers to the eye rather than to the hand — an equipped mirror facing away is an inert plate of ice. It does not replace scheduled work; containment remains Viderehan and Ferrehan, and no operator may carry it on the same shift in which they are due to view it from the marked angle.
 
 ### Log and Method
 
@@ -188,7 +188,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 The escalation pattern is specific to Frozen Mirror: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at The Desolate — mobile, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Turn the surface to the wall first, then establish the perimeter — the sequence is deliberate and is the reverse of the standing order everywhere else in the wing, because every second this plate faces an occupied room it is still working. Then verify whether the event is an activation, a channel surge, or a transformation; clear personnel who have viewed within the shift before clearing anyone else, since they are the ones carrying the effect out of the room; and enforce the recorded protocol. No unlisted Work Type is improvised here. Nothing is smashed: the shards keep the property and multiply the surfaces.
 
 ### Detailed Activation Record
 
@@ -201,7 +201,7 @@ The escalation pattern is specific to Frozen Mirror: it is not a generic breach 
 | **Risk** | Minor (α) Object-Lament producing Grudge pressure; The viewer may mistake reflected rage for personal intent. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** gaze logged → who looked and for how long → change in the crack pattern → what the viewer reported feeling and toward whom → duration after they looked away → management condition. The fourth field is taken verbatim and in the viewer's own words, because the recorded risk of this entity is that reflected rage is mistaken for personal intent, and the wording is the only evidence of which it was. Viderehan and Ferrehan remain the only valid Work Types.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -220,9 +220,9 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Frozen Mirror's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body — structure, footing, physical integrity. The Stiletto's punctures seal themselves in frozen vascular blockage, so wounds taken from it bleed later rather than at the time.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old injuries ache in the cold for days afterward, and prolonged carriage raises faint bruising that no impact in the log accounts for.
 
 ### M.A.W. Suit — The Frozen Plate
 
@@ -238,9 +238,9 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Frozen Mirror's kind of pressure.
+**Ability:** Grants resistance to Grudge pressure, shielding the Body against the hard, still, locking variety this source produces. The Plate is rated for cold as well as for grudge; both ratings are listed and neither substitutes for the other.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull by a measurable fraction, armoured in something closer to resentment than to patience; wearers report seeing a thing coming and declining to move out of its way.
 
 ### M.A.W. Stigma — The Frozen Reflection
 
@@ -250,17 +250,17 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat while the Reflection's source entity is the subject of the cycle, and nothing at all on any other holding
 
 **Ability:** Reveals hidden anger beneath grief.
 
 **Cost:** The wearer cannot easily separate their anger from another person's.
 
-*Stigmas are granted at random by Frozen Mirror upon a successful work, not manufactured.*
+*The Reflection is given, never made. It appears after a successful cycle at the source's discretion, and no procedure or stated probability obliges a mirror to part with a piece of its surface.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Frozen Mirror's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design, a piece amplifies its own cost and can wake the element carried in it, which on this set presents as a cold that does not leave the hands and a certainty about other people's motives that arrives without evidence. Stigmas are not produced. This source offers them unpredictably after a successful cycle, as though parting with a fragment of itself, and correct procedure compels nothing.
 
 ### Field Use Record
 
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade states what a piece does to entities and nothing about what it does to its carrier. This is an α-grade set, the cheapest in the wing in Echoes and the most freely issued, and its costs run to dulled reflexes and borrowed anger. A low rating has never meant a low price; read both columns and authorise on the second.
 
 ## 관찰 기록 (Observation Log)
 
@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Direct gaze. Effect: Reflects suppressed grief as frozen anger. Duration: Until the viewer looks away. Risk: The viewer may mistake reflected rage for personal intent. Tool Use Profile — I-Relic Operational Rule: The relic remains active while attached to the. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Frozen Mirror's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Observe from the marked angle, which is off the normal of the surface, and time the gaze rather than estimating it. Record four things in order: the first change in the ice, the first thing the observer felt and toward whom, the first measurable change in the room's temperature, and the condition under which the observer looked away. Form follows sorrow and not intent — the ice says a man stopped recognising himself, and says nothing about what the object will do. The predictive document here is the plate series, and a crack that has widened between two photographs outranks every impression recorded between them.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -302,10 +302,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Frozen Mirror (O-Iα-643 [GO]) is logged as a Object-Lament manifestation expressing Grudge. The Mirror formed from sorrow that hardened into anger after being denied reflection. Held at The Desolate — mobile. It sings in the Desolate without producing sound.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Desolate Recovery Log, Year 4238>**
 Its cracks respond to suppressed rage.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Post-Viewing Interviews>**
 The grief of being unable to recognize oneself in one's own pain.
 
 **Entry 4 — <Containment Notice>**
@@ -341,12 +341,12 @@ The mirror floats through the cold, reflecting no face. You look into it and see
 
 Frozen Mirror does not exist in isolation. Its recorded relationships with The Frozen Veil, The Broken Mirror, The Wrath Flame should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity alone; an interaction measured without a solo baseline is an anecdote with a timestamp. The relations recorded here all concern reflection, recognition, or the loss of a face, so the question to be settled is whether the surfaces agree — whether a second presence appears in this one, whether the crack pattern changes in the hours afterwards, and whether an observer shown both can still describe which was which. Log range, duration, trigger, gauge movement on both sides, field effect, and residue after separation. A quiet pairing last cycle is a hypothesis and not a clearance; Sorrow Tides, Ordeals and transformations have inverted stable pairings in this wing overnight.
 
 
 ### Entity Interaction Record
 
-Frozen Mirror must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Frozen Mirror must be assessed as one of a set of sorrows that work by showing people to themselves, rather than as an isolated object drifting on the cold currents. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that only appears under pressure, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -354,7 +354,7 @@ Frozen Mirror must be assessed as part of an entity network, not as an isolated 
 | **The Broken Mirror** | Reflects different layers of hidden truth. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Wrath Flame** | Fire cracks the ice without destroying it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties separately, bring them into range with both surfaces turned away, and uncover one at a time. Log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the room, and whatever persists after separation. The field this holding adds is the plate photograph, taken before the pairing and again at the end of the following shift.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -401,9 +401,9 @@ Some sorrows mourn a face. Frozen Mirror mourns the recognition — the faces er
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read the classification, the activation record and the relic profile as one document, and then read what the holding has quietly become. This entity measures suppressed anger in whoever stands in front of it, accurately, at Comprehension Level 1, for ten to fourteen Han-Energy a cycle. Nothing else in the wing measures that at all. The standing prohibition on using viewing records in any assessment, grievance, posting decision or disciplinary matter is therefore the most load-bearing sentence in this file, and it is a prohibition on something the institution would find extremely useful — which is the only reason it has to be written down. Where observation contradicts the file, the file is wrong: log the deviation, report it, and do not reconcile it by amending the record.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any transformation, Sorrow Tide, Ordeal, or anomalous viewing, re-verify the gauge, the plate series, the exposure log and the object's position before work resumes. The viewing log is reviewed with the counselor and not with the line supervisor. Any incident between personnel occurring within a shift of a viewing is examined for attribution error before it is examined as conduct — the recorded risk of this entity is precisely that reflected rage is taken for personal intent, and a wing that disciplines first has turned its own instrument into an injustice.
 ## Trivia
 
 - It reflects emotional transformation rather than physical identity.
@@ -415,9 +415,9 @@ Some sorrows mourn a face. Frozen Mirror mourns the recognition — the faces er
 
 - **Classification detail:** Frozen Mirror is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the colour and the silence. Several reflective entities drift in the Desolate; this is the red-black plate that sings at a carrying distance without registering on a microphone, and shows no face at all.
+- **Record detail:** Mirror-form entities are numerous in the archive and several share this one's element. Confirm the designation and the manifestation before a cycle is booked, because the instructions diverge at the point that matters here — whether the surface may be looked into at all, and from what angle.
+- **Containment detail:** Containment here is an angle and a cover, not a door; the object is small, it drifts, and it works through line of sight alone. A covered mirror in a sealed case is inert, and the same mirror uncovered in a corridor is operating on everyone who passes. The cover is the containment, and it is a sheet of cloth.
 ## Document Information
 
 **Document ID:** SE-O-Iα-643
