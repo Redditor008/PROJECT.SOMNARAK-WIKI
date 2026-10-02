@@ -120,7 +120,20 @@
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Record the cleft and the warmth. The gap between the two halves is the entity's state made visible — log its width at crown and at root, whether the glow within it is steady or pulsing, and the temperature reported by each observer, since warmth here is not ambient but indexed to denial. Then record a fact the standard protocol has no field for: who could see it. The Tree cannot be perceived by anyone without an unresolved memory conflict, so the list of observers is not a staffing note. It is a finding about those people, it is generated involuntarily, and it must be handled as welfare material rather than circulated with the survey.
+### Appearance States
+
+This entity is recorded in two distinct states, and the SECC Classification above describes only the first of them. The distinction is operational rather than descriptive: the state determines what can be perceived, by whom, and with what instruments, and a report that does not declare which state it was taken in cannot be compared against any other.
+
+| Field | Non-Breach Appearance | Breaching Appearance |
+|---|---|---|
+| **Mode of presence** | Perceived inside consciousness; occupies no space and displaces nothing. | Physically present; occupies space, bears weight, and marks the tunnel. |
+| **Form** | A tree-shaped absence split crown to root, felt as a warm empty space. | A tree-beast of pale wood split crown to root, each half lurching on half a root-system. |
+| **Perceptible to** | Only personnel carrying an unresolved memory conflict. | The damage is perceptible to everyone; the entity itself remains perceptible only to the same restricted group. |
+| **Measurement** | Cleft width and warmth, as reported by observers; no instrument registers it. | Cleft width measurable directly; roots, debris and structural damage recordable by survey. |
+| **Movement** | None spatial; it is where the observer is. | Both halves crawl in different directions, straining to part, extending roots through the floor. |
+| **Transition** | Holds indefinitely while the activation count stands above zero. | Entered at count zero; no return to the Non-Breach state has been recorded. |
+
+**Appearance protocol:** Declare the state first, then record within it. In the **Non-Breach Appearance**, log the cleft width at crown and at root, whether the glow within it is steady or pulsing, and the temperature reported by each observer — warmth here is not ambient but indexed to denial. Then record a fact the standard protocol has no field for: who could see it. The Tree cannot be perceived by anyone without an unresolved memory conflict, so the list of observers is not a staffing note. It is a finding about those people, it is generated involuntarily, and it must be handled as welfare material rather than circulated with the survey. In the **Breaching Appearance**, the cleft and the warmth are still the primary readings and are now instrument-measurable, and the observer list must still be taken — because the thing crossing the tunnel remains invisible to personnel with nothing unresolved, who will record only the floor opening and the walls giving way.
 
 ## Origin
 - **Formation:** The Tree formed from a mind divided by loss.
@@ -152,15 +165,18 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
+| **State change** | The entity leaves the Non-Breach Appearance and enters the Breaching Appearance: what was perceived inside consciousness acquires wood, weight and roots. |
 | **Movement** | Yggdrasil Wound rampages on its limbs, crashing through walls. It extends roots through the floor, entangling personnel. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
+| **Retained non-breach mechanic** | The perception gate persists. Physical manifestation does not make the entity visible to everyone; personnel with no unresolved memory conflict perceive the damage and not the cause. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Breach type:** Escape — the entity crosses from the Non-Breach Appearance into the Breaching Appearance and roams the facility in physical form.
+- **Non-breach mechanics retained in breach:** The state change adds a body; it removes nothing. The perception gate still applies, so a breached Tree is invisible to anyone without an unresolved memory conflict and those personnel will report collapsing floors with no cause attached. Warmth remains indexed to denial and remains the fastest indicator available. The cleft remains the state reading. Grounding partners still cannot see what they are grounding against, and the two-account rule still governs every statement taken afterwards. A response team that treats the breach as an ordinary structural emergency will be working from the reports of the people least able to perceive it.
 - **Containment priority:** The standard response cannot be executed here and personnel should be told why rather than left to discover it. Pugnahan is a logged gauge increase that drives the split through the worker's thoughts. More fundamentally, Wardens selected for steadiness are precisely the personnel least likely to be able to perceive this entity, and several logged responses consist of a stable detail standing in a tunnel seeing nothing while an affected colleague deteriorates beside them. Ground the affected worker, keep both of their accounts on the record, and do not seal the tunnel — there is nothing in it to seal in.
 - **Sorrow Gauge on breach:** Indexed to denial. Rises 10% each time a memory is contradicted, overruled or withdrawn in its presence — including a worker correcting their own earlier account under pressure — and the warmth rises measurably with it. Falls 10% each time two incompatible accounts are both written down and neither is struck out. Silence holds it level. Reconciliation does not count as resolution and has never lowered it.
 
@@ -363,7 +379,7 @@ Some sorrows mourn a loss. Yggdrasil Wound mourns the tearing — the mind split
 
 ### Registry Addendum
 
-**Operational interpretation:** Two things in this file do not agree, and both are left standing. The classification records the Tree as incorporeal with no vessel, perceived mentally rather than physically; the breach record describes it rampaging on its limbs, crashing through walls and extending roots through the floor. Those cannot both be straightforwardly true, and the archive's own rule applies to its own pages: the contradiction is preserved as evidence rather than normalised away. Personnel responding to a breach here should expect to be unable to agree afterwards about whether anything physical occurred, and should file that disagreement rather than settle it on the way back.
+**Operational interpretation:** Two descriptions in this file appear to disagree and do not. The classification records the Tree as incorporeal with no vessel, perceived mentally rather than physically; the breach record describes it rampaging on its limbs, crashing through walls and extending roots through the floor. Both are accurate, and they are accurate at different times — the Appearance States table above sets out the Non-Breach and Breaching forms as a single mechanic with two readings rather than as a contradiction to be argued over. Personnel should take three consequences from that. The classification table describes the contained state only, and is not a description of what a response team will meet. The state change is one-way on the current record, so the Non-Breach protocols are preparation and not a fallback. And the perception gate survives the transition, which means a breach here produces two incompatible but equally honest accounts from the same corridor — one of an entity, one of a building failing. Both are filed, as they are for every other reading taken against this holding, and the disagreement between them is not an error to be resolved on the way back.
 
 **Review requirement:** After any incident, verify the gauge, the activation count, the cleft width and the personnel exposure log — and review the perception roster against the previous one. A worker newly able to perceive the Tree, and a worker who has stopped being able to, are both findings, and the second is not automatically good news; it may mean a conflict has been resolved, or it may mean it has been buried. Neither conclusion is drawn from the roster alone and neither is recorded as a performance matter.
 ## Trivia
