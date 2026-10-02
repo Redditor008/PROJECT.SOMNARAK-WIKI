@@ -314,16 +314,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Sorrow Fountain (C-IIIγ-088 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Fountain formed from grief that needed a place to flow. Held at SECTOR-D-02, Echo Gardens. The Fountain grows during memorial seasons.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Not Water>**
 It contains no ordinary water.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <The City's Mourning, Made Visible>**
 The city's accumulated mourning, gathered into a single visible stream.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Standing in the Pool>**
 Work response — Viderehan: Each drop reveals a different grief. (Stable); Ferrehan: Tests whether the worker can remain in the pool without breaking. (Decrease). The Echo Gardens' flowers draw from its overflow.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Architect Who Built Too High>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
 
 ## 최종 관찰 (Final Observation)

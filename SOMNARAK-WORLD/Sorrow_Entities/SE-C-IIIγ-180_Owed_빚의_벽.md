@@ -288,16 +288,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Owed (C-IIIγ-180 [WP]) is logged as a Place-Weight manifestation expressing Weight. The Wall formed from unpaid obligations accumulated across Somnarak. Held at SECTOR-C-01, Collector's Row. The Wall grows with city-wide debt accumulation.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <What Each Block Holds>**
 Its blocks contain individual obligations and promises.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Debt as a Wall>**
 The weight of debt becoming a physical barrier between people and movement.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Beneath the City's Weight>**
 Work response — Viderehan: Reveals the history of individual obligations. (Stable); Ferrehan: Tests the worker beneath the city's accumulated weight. (Decrease). A collapse is considered a facility-wide catastrophe.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <What It Came to Mean>**
 The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …
 
 ## 최종 관찰 (Final Observation)

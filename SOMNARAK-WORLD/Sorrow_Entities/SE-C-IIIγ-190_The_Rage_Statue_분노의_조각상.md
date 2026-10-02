@@ -276,16 +276,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Rage Statue (C-IIIγ-190 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The Statue formed from rage that was never allowed to act. Held at SECTOR-B-01, Zone B. It has never moved physically.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <The Rage Spreads, the Statue Does Not>**
 The Statue remains fixed while its rage spreads through nearby personnel. Personnel feel anger belonging to someone unable to fight back. Its rage affects personnel who stand before it.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Wronged Without Recourse>**
 The fury of people wronged without the power to respond.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Name the Wrong>**
 Management: Do not attempt to force the fist down; name the wrong. Work response — Flerehan: The face softens and the raised fist lowers slightly. (Decrease); Pugnahan: Heat gathers in the fist and rage intensifies. (Increase); Viderehan: Reveals the injustice that shaped the pose. (Stable); Ferrehan: Tests whether the worker can stand before unexpressed anger. (Decrease). It becomes more active during the Sorrow Tide.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Whispered Legend>**
 The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a …
 
 ## 최종 관찰 (Final Observation)

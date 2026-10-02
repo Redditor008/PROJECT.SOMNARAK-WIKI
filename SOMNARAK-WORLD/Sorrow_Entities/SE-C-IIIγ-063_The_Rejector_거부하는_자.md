@@ -268,16 +268,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Rejector (C-IIIγ-063 [VS]) is logged as a Subject-Body manifestation expressing Void. The Rejector formed from the son's refusal to accept a debt he did not create. Held at SECTOR-C-01, contained with the Debt Triplets. The Rejector's refusal is not anger; it is emotional vacancy.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Empty-Eyed and Defiant>**
 Walks slowly through the facility, empty-eyed and defiant. Personnel feel the weight of denial and refusal. Exposure produces empathy in observers even when the entity resists connection.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Refusing Before It Claims You>**
 The emptiness produced by denying every obligation before it can claim you.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Permit the Refusal>**
 Management: Permit him to refuse; forced acceptance increases resistance.  He has never breached by force.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Lover Who Was Abandoned>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …
 
 ## 최종 관찰 (Final Observation)

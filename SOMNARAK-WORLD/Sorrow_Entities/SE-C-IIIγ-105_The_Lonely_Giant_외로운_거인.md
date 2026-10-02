@@ -278,16 +278,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Lonely Giant (C-IIIγ-105 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Giant formed from the sorrow of people who felt too large, too different, or too much for the world. Held at Zone D — wanders, semi-contained. The Giant has never intentionally harmed anyone.
 
-**Entry 2 — <Excerpt from Field Log, Year 4211>**
+**Entry 2 — <Choosing Its Routes>**
 Wanders through Zone D, carefully selecting routes. Personnel feel the weight of isolation; ground tremors may damage structures. It avoids structures even when doing so increases its own isolation.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <No Place Can Hold It>**
 Isolation and the belief that no place can hold one’s existence.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Sitting Beside It>**
 Management: Share its space and acknowledge its loneliness; do not drive it away by force.  Personnel who sit beside it report increased empathy.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Patient and Specific>**
 Containment records trace the crystallization to this location — the sorrow grew patient and specific until it became a presence that cannot be removed, only held.
 
 ## 최종 관찰 (Final Observation)

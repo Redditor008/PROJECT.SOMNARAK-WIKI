@@ -267,16 +267,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Hollow Saint (C-IIIγ-081 [VS]) is logged as a Subject-Void manifestation expressing Void. The Saint formed from a healer who absorbed the pain of others until nothing remained of the self. Held at SECTOR-B-02, Zone B. It was once a healer but can no longer heal itself.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Seeking Sorrow to Absorb>**
 Walks through the facility seeking sorrow to absorb. Personnel become emotionally numb and lose parts of their identity. Exposure produces temporary relief followed by emotional numbness.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <No Self Left Over>**
 The emptiness of giving everything away and discovering that healing others did not create a self.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Identity Anchors>**
 Management: Do not feed it grief; establish distance and identity anchors. Work response — Flerehan: Reaches toward shared grief and absorbs it. (Decrease); Pugnahan: Resists and pulls harder at the worker's sorrow. (Increase); Viderehan: Reveals the emptiness where its identity used to be. (Stable); Ferrehan: Tests the worker by drawing sorrow out slowly. (Decrease). It becomes more active during the Sorrow Tide.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Grief Built Into the Ground>**
 The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
 
 ## 최종 관찰 (Final Observation)

@@ -307,16 +307,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Redcage (C-IIIγ-120 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The Cage formed from people imprisoned without cause. Held at SECTOR-B-01, Zone B. The Cage is empty but never silent.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <One Bar per Injustice>**
 New injustice adds a bar.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <A System That Admits No Error>**
 The fury of being trapped by a system that refuses to admit error.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Near Rage Without Feeding It>**
 Work response — Viderehan: Reveals the injustices that formed each bar. (Stable); Ferrehan: Tests whether the worker can remain near rage without feeding it. (Decrease). It becomes hotter during Collector disputes.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <A Symbol Among Personnel>**
 The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity …
 
 ## 최종 관찰 (Final Observation)

@@ -305,16 +305,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Briar (C-IIIγ-145 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Garden formed from grief that learned to defend itself as anger. Held at SECTOR-D-02, near Echo Gardens. The Garden watches visitors through flowers that turn toward them.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Thorns Answer Anger>**
 Thorns respond to anger more than movement.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Gentleness Did Not Prevent It>**
 The pain of being hurt repeatedly and discovering that gentleness did not prevent it.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Passage Through the Thorns>**
 Work response — Viderehan: Shows the grievance behind each flower. (Stable); Ferrehan: Allows passage only if the worker endures the thorns. (Decrease). It expands during the Sorrow Tide.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Sorrow Woven Into the Fabric>**
 The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
 
 ## 최종 관찰 (Final Observation)

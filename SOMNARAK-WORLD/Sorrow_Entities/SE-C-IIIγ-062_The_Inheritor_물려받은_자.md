@@ -273,16 +273,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Inheritor (C-IIIγ-062 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Inheritor formed from a father's resentment at being forced to pay his parent's debt. Held at SECTOR-C-01, contained with the Debt Triplets. The Inheritor cannot be separated from the Debt Triplets permanently.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Fists Clenched>**
 Rages quickly through the facility with fists clenched. Personnel feel resentment over debts forced upon them. Flerehan calms him; Pugnahan reinforces his inherited anger.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Blamed for Resenting It>**
 The rage of carrying someone else's obligation while being blamed for resenting it.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Not Ingratitude>**
 Management: Validate the resentment; do not call it ingratitude.  Exposure increases empathy while reducing emotional detachment.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Keeper Who Erased Himself>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased their own memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This …
 
 ## 최종 관찰 (Final Observation)

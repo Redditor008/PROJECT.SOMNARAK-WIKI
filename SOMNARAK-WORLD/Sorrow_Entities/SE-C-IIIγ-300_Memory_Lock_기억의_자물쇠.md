@@ -301,16 +301,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Memory Lock (C-IIIγ-300 [D]) is logged as a Object-Void manifestation expressing Void. The Lock formed from memories sealed by the Keepers. Held at SECTOR-A-01, Alpha Tree deep vault. It seals memories rather than physical objects alone.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Aggression Strengthens It>**
 Aggression strengthens its purpose.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Protecting Truth by Denying It>**
 The burden of protecting truth by denying access to it.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Standing Before the Secret>**
 Work response — Viderehan: Reveals the nature of what it protects. (Stable); Ferrehan: Tests whether the worker can stand before a secret without opening it. (Decrease). Personnel feel peace when they choose not to open it.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Vault Beneath the Alpha Tree>**
 Memory Lock sits in the deepest vault beneath the Alpha Tree — massive, ancient, sealing a vault that contains memories too dangerous to be accessed. The Lock was created by the Keepers to contain truths that could destabilize the city. The entity exists …
 
 ## 최종 관찰 (Final Observation)

@@ -316,16 +316,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Dancing Chains (C-IIIγ-102 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The Chains formed from a fairy tale about cursed shoes and the terror of being compelled to continue. Held at SECTOR-B-01, Zone B — contained. Han-signature resonates at a frequency matching the Weeping.
 
-**Entry 2 — <Excerpt from Field Log, Year 4203>**
+**Entry 2 — <Never Without a Wearer>**
 The object has never moved from its containment zone without a bound wearer.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Unable to Stop>**
 Exhaustion, loss of agency, and the grief of being unable to stop moving.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Luminosity and Proximity>**
 Emotional proximity changes its luminosity.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Between Memory and Forgetting>**
 The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this …
 
 ## 최종 관찰 (Final Observation)
