@@ -156,14 +156,14 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | Cleaved breaks free and stalks the corridors on foot. It topples, crushing corridors. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
+| **First Target** | Whichever structure stands tallest in its path. It moves toward skylines rather than toward people, and personnel are struck incidentally. |
 | **Escalation** | Each turn free, Clarity drain +5 until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Containment priority:** Evacuate upper floors along its route and leave the street clear. Suppression at ground level cannot reach the half that is leaning.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each structure it leans against, since the lean is what propagates it.
 
 ## M.A.W. Equipment
 

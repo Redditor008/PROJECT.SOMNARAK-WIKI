@@ -164,14 +164,14 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Movement** | The Memory Weaver breaks loose and charges, thrashing. It steals memories from everyone it passes. |
 | **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
+| **First Target** | Whoever has the most to trade. It approaches rich pasts first and ignores those it has already emptied. |
 | **Escalation** | Each turn free, Clarity drain +5 until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Containment priority:** Prohibit all trade and withdraw through the waking layer. Its webs cannot be cut by personnel who cannot see them.
+- **Sorrow Gauge on breach:** Opens at 45% and rises 10% per trade completed rather than per turn; a refused offer holds it steady.
 
 ## M.A.W. Equipment
 

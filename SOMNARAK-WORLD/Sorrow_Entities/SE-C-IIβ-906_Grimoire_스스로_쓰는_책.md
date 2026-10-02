@@ -154,13 +154,13 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's tale influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Grudge pressure radiates — the tale register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever reads first. The story shapes itself to its reader, and an unread Grimoire expands no further. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Grudge drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Close and weight the book; do not remove it from the sector. Reading it to determine the threat is the commonest way this breach worsens.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per page filled since the breach began.
 
 ## Activation Behavior
 

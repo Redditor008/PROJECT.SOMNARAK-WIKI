@@ -164,14 +164,14 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Movement** | The Silent Maiden breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever deliberately looks for her. She is invisible to those who do not, and reaches only toward acknowledgment. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Assign a single observer to acknowledge her and withdraw everyone else. A sector that ignores her escalates fastest.
+- **Sorrow Gauge on breach:** Opens at 30%, the lowest of the three Maidens, and rises 10% per turn she goes unacknowledged.
 
 ## M.A.W. Equipment
 

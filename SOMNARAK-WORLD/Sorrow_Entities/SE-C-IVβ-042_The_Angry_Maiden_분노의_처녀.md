@@ -164,14 +164,14 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | The Angry Maiden breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever confronts her first. Accusation is answered with heat, and the unconfronting are passed over. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Forbid confrontation and station personnel willing to grieve openly. Wardens deployed in force raise this gauge rather than lowering it.
+- **Sorrow Gauge on breach:** Opens at 45% and falls 10% whenever grief is shared aloud in her presence.
 
 ## M.A.W. Equipment
 

@@ -156,14 +156,14 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | Flotsam expands beyond containment like a spreading tide. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Not personnel at all. It outlines objects that are being forgotten, and workers are harmed only while handling them. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Bring the sector inventory and read it aloud. The breach ends on recollection and cannot be ended by force.
+- **Sorrow Gauge on breach:** Opens at 45% and falls 10% each time an object's use is correctly remembered aloud.
 
 ## M.A.W. Equipment
 

@@ -156,14 +156,14 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Movement** | Drowned Roots breaks loose and charges, thrashing. It extends roots through the floor, entangling personnel. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Anyone wearing a mask or a covered face. It reaches for masked faces specifically and passes the uncovered by. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Order all face coverings removed sector-wide before Wardens enter. Standard breathing apparatus makes a target of its wearer.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per masked worker it reaches.
 
 ## M.A.W. Equipment
 

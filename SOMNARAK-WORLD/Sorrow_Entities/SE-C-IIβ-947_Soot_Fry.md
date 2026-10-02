@@ -171,14 +171,14 @@ The gauge response is only meaningful in context. The Soot Fry is recorded as a 
 | **Movement** | The puddle overflows its metre and spreads as a sheet of pale, heavy water across the ground; the fish — full-sized now — moves within the flood toward anything that stirs. |
 | **Effect** | Resolve and breath fail in all who touch the spreading water; they feel they are drowning on dry ground. |
 | **Secondary Effect** | The flood has no measurable floor; whatever is pulled under does not come back up. |
-| **First Target** | The nearest moving thing — a footstep, a shadow, a reaching hand. |
+| **First Target** | Whatever the eye settles on, which is not reliably a person. Assignment is logged by direction of gaze rather than by proximity. |
 | **Escalation** | Each turn the water spreads 2 m and the fish's Weight pressure grows +5/turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the small pool overflows and the fish within it hunts the wet ground.
-- **Containment priority:** Do not enter the water. Contain the spread (channel it, freeze it, boil it off) and wait for the fish to settle back into its metre.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed, accelerating toward *The Empty Belly*.
+- **Containment priority:** Track the eye rather than the body and accept that physical barriers do not constrain it. Cross-flag handling applies.
+- **Sorrow Gauge on breach:** Opens at 35% and rises 10% each time it passes through a sealed boundary, which it does without damaging it.
 
 ## M.A.W. Equipment
 

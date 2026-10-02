@@ -164,14 +164,14 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | The Hollow Knight seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever stands on its patrol route. It does not deviate, and the route is documented to the metre. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Clear the documented route and return the salute at the perimeter. It has never pursued anyone who stepped aside.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per circuit completed rather than per turn.
 
 ## M.A.W. Equipment
 

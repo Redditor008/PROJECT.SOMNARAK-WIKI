@@ -150,13 +150,13 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's body influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Weight pressure radiates — the body register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Whoever stands closest when the beat quickens. The influence expands in pulses rather than selecting a person. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Cool the amber and slow the beat. Shattering the crystal releases the expansion rather than ending it.
+- **Sorrow Gauge on breach:** Opens at 50% and rises 5% per beat, which makes the rate of escalation measurable in advance for once.
 
 ## Activation Behavior
 
