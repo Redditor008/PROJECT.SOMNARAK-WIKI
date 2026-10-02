@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Fallow.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. Fallow rolls and crawls across the Desolate and widens its blighted ground rather than escaping a chamber.
+- Viderehan and Ferrehan are the only valid approaches here; a seed cannot be consoled through Flerehan or confronted through Pugnahan, and attempts at either are logged as failed cycles.
+- Observation records the corrosion depth on the root-spines, which advances measurably between cycles. Endurance requires remaining in fever-cold air that smells of char and wet iron.
+- The ground beneath it will not feed it, and it waits regardless. Containment is indefinite; there is no condition under which Fallow completes.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Fallow's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **Tension:** Personnel locate the seed by the orange creepers it trails, confirm the fever-cold air, and establish observation distance before the spines orient.
+2. **Clash:** The team works by Viderehan and Ferrehan only, holding position while the root-spines bristle and the creepers advance across the Desolate floor.
+3. **Resolution:** The engagement ends when the root-spines settle and the orange creepers retract toward the seed, or when personnel withdraw beyond the outer edge of the blighted ground and hold that line.
 
 ### Consequences
 
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Fallow’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Fallow’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- Prolonged exposure leaves personnel expecting something that does not arrive; the record notes a persistent sense of an unkept appointment that lasts for days after contact and resists reassurance.
+- The M.A.W. taken from Fallow carries the seed's patience, and the toll is recorded in the equipment section: wielders report a growing unwillingness to abandon tasks that are plainly finished.
+- If the engagement is not resolved the creepers root and the blighted ground widens permanently; no method of reversing established corrosion has been recorded.
 
 ## Appearance
 **Physical Form:** A corroded seed cracked into a bristling creature of rusted root-spines and orange creepers. **Movement:** It rolls and crawls across the Desolate on its spines.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A small seed of rusted crystal that leaks blue tears and rolls with the wind across the Desolate.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fallow rolls and crawls, trailing orange creepers. It holds no fixed position and is tracked by the corroded line it leaves.
 - **Element signature:** Lament
 - **Registered location:** The Desolate — mobile
 
@@ -120,13 +120,13 @@
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Log the corrosion depth on each root-spine, the extent and direction of the creeper trail, and the temperature differential — Fallow reads as fever-cold against ambient air and the gradient is measurable at two metres. Record the smell of char and wet iron separately, noting strength rather than presence, because the smell persists in blighted ground after the entity has moved on and will otherwise be mistaken for a current reading.
 
 ## Origin
 - **Formation:** The Seed formed from an Outside Sorrow that was planted and forgotten.
 - **The Sorrow:** The grief of expecting growth in a place that could no longer support life.
 - **The Event:** A traveler planted a seed near a ruined settlement and never returned to tend it.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The record names a traveler who pressed a seed into ruined soil, promised to return, and did not. The community here is a single broken promise rather than a settlement.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Fallow is recorded as an Object/Place with Object-Grudge manifestation and Lament elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** Success is read from the root-spines settling rather than from any change in the seed, which is unaltered by every cycle on record. A worker who expects visible progress in the seed itself will report failure on a successful cycle. The reliable indicators are the rate of creeper advance, which slows before it reverses, and the ambient temperature, which returns toward normal from the outer edge inward. Both lag the actual response by several minutes, so a cycle is not closed at the first sign of settling but at the second consecutive reading that confirms it. Where the two indicators disagree, temperature is treated as authoritative, because creeper advance can continue mechanically after the entity has disengaged.
 ## Activation Behavior
 
 **Activation Trigger:** Planting the Seed in sorrow-rich soil.
@@ -197,7 +197,7 @@ The escalation pattern is specific to Fallow: it is not a generic breach event. 
 | **Risk** | The growth may absorb nearby grief and become uncontrollable. |
 | **Management** | Use the valid Work Types and the management procedure listed above. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** creeper advance → spine orientation → drop in ambient temperature → the smell of char and wet iron → extent of newly blighted ground, measured from the outer creeper tips rather than from the seed.
 ## Breach Behavior
 
 > *"Fallow has broken free. Plants itself in personnel, growing within."*
@@ -214,8 +214,8 @@ The escalation pattern is specific to Fallow: it is not a generic breach event. 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Contain the creeper spread rather than the body. Fallow has never resisted handling; the ground it has touched is the hazard.
+- **Sorrow Gauge on breach:** Opens at 30% and rises 5% per square metre newly blighted, tying escalation to creeper spread rather than to elapsed time.
 
 ## M.A.W. Equipment
 
@@ -237,12 +237,12 @@ The chronometer ticks with loud, rhythmic mechanical clicks that echo through si
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the struck target; creepers in contact with the same floor plate take a reduced share.
+**Damage Application:** The Lament multiplier applies to the strike and to the corrosion tick separately, because corrosion continues after the spines withdraw.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Fallow's lament signature in the strike.
+**Ability:** Deals Lament damage to the Mind, carrying the seed's expectation — targets act as though waiting for something and surrender initiative.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder begins keeping appointments no one made, and reports reluctance to leave a post once taken.
 
 ### M.A.W. Suit — Fallow Shroud
 
@@ -258,9 +258,9 @@ The chronometer ticks with loud, rhythmic mechanical clicks that echo through si
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Fallow's kind of pressure.
+**Ability:** Grants resistance to Lament damage, insulating the Mind with the seed's indifference to barren ground and to the passage of unproductive time.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer stops noticing deterioration — in equipment, in quarters, and in themselves.
 
 ### M.A.W. Stigma — Fallow Core
 
@@ -270,17 +270,17 @@ The chronometer ticks with loud, rhythmic mechanical clicks that echo through si
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work performed on Fallow, granted only while the wearer carries an unfulfilled obligation on record
 
 **Ability:** Grows a small shelter from local sorrow.
 
 **Cost:** The shelter remembers everyone who abandoned it.
 
-*Stigmas are granted at random by Fallow upon a successful work, not manufactured.*
+*Fallow grants its stigma to workers who complete a cycle without disturbing the seed. It cannot be manufactured, and no worker has received it twice.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Fallow's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece taken from Fallow is a fragment of a thing left waiting, and behaves accordingly: the listed benefit holds for exactly as long as the wielder has something outstanding, and lapses the moment their obligations are clear. This makes Fallow's equipment unusually reliable on long assignments and unusually poor on short ones. Quartermasters are instructed not to issue it to personnel at the end of a rotation, and to re-verify the wielder's outstanding record before each deployment rather than at intake, since the condition is checked continuously by the equipment and not once at issue.
 
 ### Field Use Record
 
@@ -291,7 +291,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The rating measures what the M.A.W. does to entities rather than what it does to you. For Fallow's pieces the figure understates them, because the effect accumulates across an engagement rather than landing at once, and a rating taken from a single exchange will read low by a wide margin.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -313,7 +313,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Planting the Seed in sorrow-rich soil. Effect: Begins a slow, uncertain growth that may form a new entity. Duration: Indefinite. Risk: The growth may absorb nearby grief and become uncontrollable. Tool Use Profile — I-Relic Operational Rule: The relic remains. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Fallow's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Record the creeper trail first, then the spine corrosion, then the ambient temperature. The smell of char and wet iron is the least reliable marker and is logged last, because it lingers in ground the entity has already left and is readily mistaken for a live reading by personnel new to the Desolate.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -321,10 +321,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Fallow (O-Iα-554 [LO]) is logged as a Object-Grudge manifestation expressing Lament. The Seed formed from an Outside Sorrow that was planted and forgotten. Held at The Desolate — mobile. The Seed rolls with Han-wind and never follows a straight route.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <The Creeper Trail>**
 It rusts metal but not living tissue.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <A Promise to Return>**
 The grief of expecting growth in a place that could no longer support life.
 
 **Entry 4 — <Containment Notice>**
@@ -360,12 +360,12 @@ A small rusted seed rolls across the Desolate dust. Blue tears mark its path. Yo
 
 Fallow does not exist in isolation. Its recorded relationships with The Sorrow Seed, The Spreading Root, Pandora's Jar should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish Fallow's creeper radius before introducing a second entity, because the trail is the interaction surface and does not retract once laid. Measure the radius from the outer creeper tips at two points separated by at least ninety degrees, since the trail is rarely circular and a single measurement will understate it. The second entity is introduced outside that radius and allowed to approach under its own behaviour; it is never carried across blighted ground, as contact with the trail has produced recorded interactions in the absence of the entities meeting at all. Where the second entity is itself mobile, both radii are mapped before contact and the overlap is treated as the interaction zone for the record.
 
 
 ### Entity Interaction Record
 
-Fallow must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Fallow must be assessed against the ground it has already blighted rather than as a free-standing creature, and the Desolate record treats the trail as part of the entity for all cataloguing purposes. The interactions below are therefore recorded against the trail as well as the seed, and an interaction logged at a location Fallow has since left remains canonical.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -373,7 +373,7 @@ Fallow must be assessed as part of an entity network, not as an isolated profile
 | **The Spreading Root** | Roots toward the Seed's buried potential. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **Pandora's Jar** | Shares the grief of abandoned objects. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Introduce the second entity upwind of the blighted ground and abort if the root-spines orient before contact is made. Orientation is the reliable warning sign and precedes creeper advance by roughly a minute, which is the full margin available for withdrawal. Record the abort rather than retrying within the same cycle.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -422,9 +422,9 @@ Some sorrows mourn barren ground. Fallow mourns the planting — the seed placed
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read the SECC classification against the Desolate location record. Fallow is catalogued as Object-Grudge but behaves in the field as a slow contaminant, and the two readings must be held together rather than reconciled; attempts to reclassify it as a hazard have been rejected twice on the grounds that the seed remains a discrete, destructible body. For operational purposes the classification governs handling and the location record governs scheduling. Personnel working only from the classification will under-resource the ground survey, which is the larger part of the task.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-survey the blighted ground after any Sorrow Tide. Fallow's trail has been observed to extend during Tides without the entity moving at all, which means a survey taken before a Tide cannot be carried forward. The re-survey is logged against the same record rather than opened as a new one, so the rate of extension stays comparable across Tides.
 ## Trivia
 
 - It rusts tools used to excavate it.
@@ -436,9 +436,9 @@ Some sorrows mourn barren ground. Fallow mourns the planting — the seed placed
 
 - **Classification detail:** Fallow is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Fallow is identified by the orange creeper trail and the fever-cold air before the seed itself is visible; the spines resolve last.
+- **Record detail:** Fallow is catalogued among Desolate seed-forms, several of which share the rust colouring. Corrosion depth and creeper habit distinguish it from the others.
+- **Containment detail:** Containment does not stop the waiting. The ground continues to corrode at the recorded rate whether or not the entity is engaged, and a sealed chamber slows creeper advance without halting the corrosion beneath it.
 ## Document Information
 
 **Document ID:** SE-O-Iα-554
