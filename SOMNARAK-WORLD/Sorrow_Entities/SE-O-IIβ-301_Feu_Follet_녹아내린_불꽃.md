@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Feu Follet.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle steadies the flame and stops the melting for a while. It restores nothing: the fire that saved the traveler is still decades out, the memory of it is still going soft, and the figure reforms with whatever face the next worker brings into the room.
+- The listed threshold of 3 is a count and it runs down, one for each failed or refused cycle, with the third bringing the entity to zero. Track it on the sheet rather than by feel: this holding gives almost no warning in the room, because the sign of a cycle going wrong here is the worker becoming comfortable.
+- The 12–18 Han-Energy yield is standard for the band and the risk is not distributed evenly across the people who earn it. Workers who arrive carrying a recent loss draw the same yield at several times the exposure, because the figure's face is assembled out of whatever grief is brought through the door.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. What is extracted here is a piece of a comfort that went bad, and every piece in the set keeps that character: each one gives something genuinely warm and charges for it afterwards.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Feu Follet's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** Before the figure is engaged the team fixes its anchors — the air temperature from the instrument rather than the skin, the floor texture underfoot, the time of day read aloud. The anchors are agreed in the corridor, not in the room, because the room is where they stop sounding necessary.
+2. **Clash:** Work proceeds while the figure melts, and the team's own state is the second instrument throughout. Every few minutes a worker states a present, checkable sensation aloud and a second worker confirms it; a cycle in which nobody has spoken an anchor for ten minutes is logged as a lapse regardless of how the gauge is reading.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Anchor the worker in present sensations**.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Feu Follet reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Extended exposure carries a cumulative and deceptive risk. The drift here is not toward panic but toward ease: minute by minute the room feels safer, the figure feels familiar, and the worker's account of their own grief becomes smoother and less accurate. Cognitive Fracture on this holding has been identified in debrief rather than in the room on every occasion so far.
+- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and there is none here: a flame that burns without heat still consumes, and what it consumes is the capacity to be comforted by anything smaller than itself.
+- If the condition is not met the entity does not pursue anyone. It intensifies where it stands and the zone warps outward around it, which is the Corrupt breach on the classification, and the first personnel to notice are usually in adjacent rooms rather than in this one.
 
 ## Appearance
 **Primary Form:** A melting flame perceived inside consciousness as a figure whose face changes with the observer's grief.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Mind
 - **Primary marker:** A melting flame perceived inside consciousness as a figure whose face changes with the observer's grief.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Holds its position and is perceived rather than approached; record the distance at which the figure resolves for each observer separately, and whose face it was wearing for them.
 - **Element signature:** Lament
 - **Registered location:** Zone C, Mask Market
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A melting flame perceived inside consciousness as a figure whose face changes with the observer's grief. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Holds its position and is perceived rather than approached; record the distance at which the figure resolves for each observer separately, and whose face it was wearing for them. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Check the designation, the element and the manifestation against the file before proceeding, and verify against the core rather than the figure; if any of the three contradicts, do not proceed. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the core first, because the core is the only part that does not vary: a pale blue fire that is not fire, beating slowly like an exposed heart, ringed in charred metal and fused growth, heavier than its size accounts for. Take the beat rate, the ring diameter, the rate of melt at the lower edge, and the apparent temperature from an instrument rather than from the skin — it reads cold and feels like held anger, and the discrepancy is logged every cycle rather than noted once. Then record the face, with the understanding that the face is not a property of the entity. It is assembled from the observer's grief, so each witness describes a different person and all of them are correct. Note who they saw. Do not reconcile the accounts, and do not ask the witness to justify theirs — in a market full of masks, this is the one that is made out of the person looking at it.
 
 ## Origin
 - **Formation:** The Flame formed from a Desolate survivor's memory of warmth after everyone else was gone.
 - **The Sorrow:** The fear that comfort itself will melt away.
 - **The Event:** A traveler remembered a fire that saved their life, but the memory decayed into a dangerous mental flame.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One traveler who survived a night in the Desolate because of a fire, and outlived everyone who sat around it. The record keeps his account of the warmth and nothing about the fire itself — not where it was built, not who lit it. What formed here was not the fire. It was the memory of being warm when the people were still there.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Feu Follet is recorded as a Subject with Subject-Mind manifestation and Lament elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Read it in the melt rate and in the team, and weight the team heavily. A falling gauge presents as firming — the lower edge holding, the beat slowing to its recorded rhythm, the cold receding to the instrument reading. The entity is quieter and it is not resolved; it is a memory of comfort and nothing in a work cycle gives it the thing it is a memory of. A rising gauge presents as warmth. The room becomes pleasant, the figure becomes someone the worker is glad to see, and the melting accelerates while everybody present reports feeling better than when they came in. That combination is the reading and it is the only one that matters on this holding. Unusual responses precede breaches here reliably, and the most reliable of all is a team that has stopped using its anchors because the room no longer seems to need them.
 ## Breach Behavior
 
 > *"Feu Follet has broken free. Ignites personnel with sorrow-fire."*
@@ -162,7 +162,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and is driven by comfort rather than by elapsed time. Each reassurance offered or accepted inside the warped zone adds 10% — a hand on the shoulder, a promise that this is nearly over, a worker telling a frightened colleague that it is alright — because comfort is the material this entity is made of and it does not distinguish kind intent from any other. Each 10% comes off when a present, physically checkable sensation is stated aloud and confirmed by a second person: an instrument reading, the texture of the floor, the time. Standing in silence holds it steady. The instruction that follows is genuinely hard to obey and the briefing says so plainly — inside this zone, personnel do not comfort each other, they ground each other, and the difference has to be rehearsed before it is needed.
 
 ## M.A.W. Equipment
 
@@ -184,12 +184,12 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the single designated target; the lash finds one person and the paradoxical burn does not carry to anybody standing beside them.
+**Damage Application:** Resolve the direct damage first, then apply the multiplier to any Tick damage as a separate second calculation — the burn and the chill are tracked apart because they do not resolve at the same rate.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Feu Follet's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — composure, willpower, and the ability to tell comfort from danger. The strike carries the source's signature, and those hit report heat and cold in the same instant and cannot afterwards say which arrived first.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the grief of a warmth that outlasted everyone who shared it. Prolonged use causes involuntary weeping, most often in warm rooms and in company.
 
 ### M.A.W. Suit — Feu Follet Shroud
 
@@ -205,9 +205,9 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Feu Follet's kind of pressure.
+**Ability:** Grants resistance to Lament pressure, shielding the Mind against the softening, pleasant variety this source produces. It is rated against being made comfortable, which is an unusual line in an equipment file and the correct one here.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small joys, and to small comforts in particular: heat, company, a hot drink after a shift. Wearers describe the loss as mild and their colleagues do not.
 
 ### M.A.W. Stigma — Feu Follet Ember
 
@@ -217,17 +217,17 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat while this piece's source entity is the subject of the cycle, and nothing whatever on any other holding
 
 **Ability:** Provides brief emotional warmth during distress.
 
 **Cost:** The warmth fades with every use, taking a small memory with it.
 
-*Stigmas are granted at random by Feu Follet upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It is offered after a successful cycle at the entity's own prerogative, as unpredictable as the sorrow that shaped it, and no procedure compels one to appear.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Feu Follet's sorrow within the equipment may activate. and may produce an effect tied to Feu Follet's element. The Stigma is Feu Follet's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; a pattern violation is expensive here, the cost scaling with the breach of design, and the sorrow carried in the piece can activate — which on this set presents as a warmth with no source and the sense of being in good company while alone. The Stigma is the entity's prerogative, a random offering after a successful cycle, and no quantity of correct procedure obliges it.
 
 ### Field Use Record
 
@@ -238,7 +238,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and on this set the relationship runs the wrong way: the β ratings are unremarkable and the costs are among the quietest and most durable in the wing. A low-rated piece can carry a severe psychological price. Read both columns, authorise on the second, and ask who is carrying it.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Feu Follet's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Observe with the anchors running, and record the first visible sign, the first emotional sensation, the first instrument-measurable change in the room, and the condition that ended the encounter. Form follows sorrow and not purpose — a flame that melts is what a comfort looks like once it has begun to go, and it says nothing about intent. One warning belongs in the method rather than the escalation notes: the entity dissolves when it is confronted directly, this reads as a result, and it is not one. Nothing has been suppressed. The record of the Corrupt breach begins, on two occasions out of three, with a team reporting that they faced it down and it went out.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Feu Follet (O-IIβ-301 [LS]) is logged as a Subject-Mind manifestation expressing Lament. The Flame formed from a Desolate survivor's memory of warmth after everyone else was gone. Held at Zone C, Mask Market. It manifests in the minds of people wearing masks.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Mask Market Patrol Log, Year 4238>**
 Spreads through masks, reflections, and consciousness. Personnel confuse remembered comfort with present safety. It is calmer when its source is accepted as imperfect.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on the Face Reports>**
 The fear that comfort itself will melt away.
 
 **Entry 4 — <Containment Notice>**
@@ -307,12 +307,12 @@ A flame burns behind your eyes. It shows a hand, a shelter, a moment when fear s
 
 Feu Follet does not exist in isolation. Its recorded relationships with The Vanished Flame, The Happy Mask, The Frozen Veil should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity alone; without the solo reading an interaction study here is a collection of impressions. The relations on file concern faces, warmth, or things that change according to who is present, so the question to settle is whose grief the figure is drawing on when a second entity is in range — whether the face still belongs to the observer, or has begun to come from somewhere else. Capture range, duration, trigger, gauge delta on both sides, field effect, and post-separation residue. A stable pattern is a hypothesis and not a law: re-verify every cycle, because a Sorrow Tide, an Ordeal or a transformation has reversed settled dynamics in this zone overnight.
 
 
 ### Entity Interaction Record
 
-Feu Follet must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Feu Follet must be assessed as one of a group of sorrows that take their shape from whoever is looking, rather than as a fixed object in the Mask Market. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ Feu Follet must be assessed as part of an entity network, not as an isolated pro
 | **The Happy Mask** | The Mask hides the fear beneath the Flame. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Frozen Veil** | The Veil extinguishes its emotional warmth. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring them into range with the anchors already running, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the zone, and whatever persists after separation. The field this holding adds is the face record: who each observer saw, before and after, kept unreconciled.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -367,9 +367,9 @@ Some sorrows mourn comfort lost. Feu Follet mourns comfort dissolving — the me
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The file is a map and the room is the territory, and the suppression condition is where the two diverge most sharply. Anchor the worker in present sensations — which is to say the containment measure for this holding is a practice carried out by the people being affected, continuously, at the moment they are least inclined to carry it out. There is no mechanism, no seal and no interlock behind it. The wing has twice proposed a technical substitute, an automated announcement of temperature and time on a timer, and both proposals were declined on the recorded ground that an anchor nobody has to speak is an anchor nobody has to mean. Those decisions are filed together, and so is the dissent. This record will be wrong eventually; when it is, the contradiction is worth more than the sentence it contradicts, and it is logged rather than smoothed away.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every breach, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge, the exposure log, the position and the zone boundary before work resumes. Two further items are required here. The anchor log is reviewed for gaps, and a gap is treated as information about the room rather than about the worker, since the entity's whole method is to make the anchors feel unnecessary. And the face reports go to the counselor and never to the line supervisor — a worker who saw a dead colleague in the flame has disclosed a bereavement they did not choose to disclose, and the wing's only decent response is to treat it as medical.
 ## Watch Record
 
 ### A Flame Inside the Mind
@@ -399,9 +399,9 @@ A traveller in the Desolate remembered the fire that kept them alive after every
 
 - **Classification detail:** Feu Follet is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone C, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the core and never by the face. The face is different for every witness and belongs to them; the pale blue heart-beat of fire inside charred metal is the same in every account on file.
+- **Record detail:** Flame-form entities are numerous in the archive and three are held within the Mask Market alone. Confirm the designation and the manifestation before a cycle is booked, because the instructions diverge at the point that matters here — whether the entity may be confronted, and on this holding the answer is no.
+- **Containment detail:** Containment holds a core that was never going anywhere. The entity is perceived inside consciousness, so the seal governs who may enter and not what reaches them: adjacent personnel report pleasant dreams of company, waking warm, and a reluctance to leave their quarters. Those reports are filed with the holding, and the pleasantness of them is the reason they are collected.
 ## Document Information
 
 **Document ID:** SE-O-IIβ-301
