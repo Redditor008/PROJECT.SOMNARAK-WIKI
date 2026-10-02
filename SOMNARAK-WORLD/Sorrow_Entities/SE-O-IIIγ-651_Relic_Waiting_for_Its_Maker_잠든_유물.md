@@ -39,10 +39,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Relic Waiting for Its Maker.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle steadies the chamber and the lean stops progressing for a time. It wakes nothing. The relic has never been identified, has never been seen, and is waiting for one person who died mid-ritual; no cycle performed by anyone else is the thing it is waiting for.
+- No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism, and the figure here is 75%; the blank row is a real property of this holding, and an invented number would be exactly the kind of completion this file exists to refuse.
+- The 16–22 Han-Energy yield is ordinary for the band and is drawn from a chamber rather than from the relic, since the relic cannot be reached. What the exposure costs is paid in what workers say and cannot unsay, which is not a quantity the yield table has a column for.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction here takes from the chamber and not from the sleeping thing at its centre, and every piece in the set shares the source's defining trait: each one is unmistakably for something, and nobody can say what.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Relic Waiting for Its Maker's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Twenty turns, Viderehan and Ferrehan only, conducted in silence and on slates. Nothing confidential is spoken aloud in the chamber at any point in the engagement, and the plumb line is read at the start and the end of every turn in which anybody speaks at all.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak only what the worker accepts responsibility for carrying**.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Composure** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Relic Waiting for Its Maker reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Extended exposure carries a cumulative risk that works through the urge to confide. The chamber is quiet, attentive and apparently private, and the longer a worker stands in it the more reasonable it seems to say the thing they have not said to anyone. Personnel do not report this as pressure. They report it as having felt comfortable.
+- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: the charge from this source is taken in purpose, and wielders describe a growing certainty that they were meant for something, with no corresponding sense of what.
+- If the condition is not met the chamber transforms rather than releasing anything. The walls lean further, the space narrows, and the Mask Market's adjoining stalls report their own rooms feeling attentive — which is the word used in the complaints and the word the file has kept.
 
 ## Appearance
 **Physical Form:** A chamber in the Mask Market containing an unnamed relic asleep beneath leaning walls. The walls bend inward as if listening.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A chamber in the Mask Market containing an unnamed relic asleep beneath leaning walls. The walls bend inward as if listening.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed; the chamber does not move but its walls do. Measure the lean each cycle with a plumb line against the marks cut at the base, and record the figures rather than any rate derived from them.
 - **Element signature:** Void
 - **Registered location:** Zone C, Mask Market
 
@@ -116,18 +116,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A chamber in the Mask Market containing an unnamed relic asleep beneath leaning walls. The walls bend inward as if listening. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Fixed; the chamber does not move but its walls do. Measure the lean each cycle with a plumb line against the marks cut at the base, and record the figures rather than any rate derived from them. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Check the designation, the element and the manifestation against the file, and verify the chamber by its lean rather than by its contents; if any detail contradicts, do not proceed. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** The relic cannot be looked at, so the protocol describes the chamber, which is all observation can reach. Take the lean at each marked station with the plumb line, the floor-to-ceiling dimension at the centre, the ash smell, the cold, and the quality of the quiet, which is not the absence of sound but something closer to attention. Record what was said in the chamber during the observation and by whom, in the open log, in full. Do not attempt indirect viewing of the relic. Mirrors have been tried, the attempts are documented in full and produced nothing, and the documentation is retained precisely so that each new Warden does not reinvent them. The lean has increased since commissioning. The increase is slight, sits outside the error of the method, and is stated as a difference between two measurements rather than as a rate, a proposal to express it as a rate having been declined on the ground that two points do not make a line.
 
 ## Origin
 - **Formation:** The place formed around a relic whose owner never woke to reclaim it.
 - **The Sorrow:** The weight of a purpose waiting for a person who will never return.
 - **The Event:** A masked artisan died during a sleep ritual, leaving the relic and its unfinished instruction behind.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One masked artisan, who died during a sleep ritual, and nobody else. The commissioning file holds the instruction they left as far as it goes. It stops mid-clause, at a point where the sense is almost but not quite recoverable, and the file carries a line stating that the remainder will never be inferred — an instruction completed by the archive would be the archive's instruction and not the artisan's. Two Wardens have written their own completions in the margin of a working copy. Both were moved to a separate sheet rather than erased, labelled as speculation, and kept at the back.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Relic Waiting for Its Maker is recorded as an Object/Place with Place-Grudge manifestation and Void elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Read it in the walls and in what the team has been saying. A falling gauge presents as settling — the plumb readings holding at the last figure, the cold steadying, the quiet losing its edge of attention. The pressure eases and nothing is answered; the relic is still asleep and still unnamed, and there is no version of this work that ends with somebody understanding what it was for. A rising gauge presents as **intimacy**. The chamber feels confidential. Workers find themselves speaking more freely than they would elsewhere, and what they say is true and unforced and would not have been said in a corridor. The walls move toward secrets rather than toward volume, so a whispered confidence shifts them further than an argument does, and the plumb line will record a conversation the open log does not.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -188,7 +188,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 The escalation pattern is specific to Relic Waiting for Its Maker: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at Zone C, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish the perimeter outside the chamber mouth, verify from the plumb readings whether the event is an activation, a channel surge, or an expansion of the lean, and withdraw unshielded personnel without discussion — instructions during a withdrawal here are given by hand signal and the signals are posted at the entrance. Enforce the recorded protocol. Nothing is said aloud in the chamber during a response, and nothing is presented to the pedestal: unfinished tools left before it wake a resonance field that cracks their structure when removed mid-pulse, which makes the holding's one documented benefit also a way to destroy a toolkit under pressure.
 
 ### Detailed Activation Record
 
@@ -201,7 +201,7 @@ The escalation pattern is specific to Relic Waiting for Its Maker: it is not a g
 | **Risk** | Major (γ) Place-Grudge producing Void pressure; The relic demands completion; withdrawing tools before the pulse concludes cracks their structural durability. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → what was presented or spoken, and by whom → first change in the lean, with the plumb figures → the boundary of the affected chamber and which adjoining stalls reported it → personnel effect, including anything said aloud that the speaker had not intended to say → duration → management condition. The fifth field is entered by the speaker themselves, in their own words, and is the only field on this holding's form that nobody else may complete for them. Viderehan and Ferrehan remain the only valid Work Types.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -221,13 +221,13 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A single line, reaching up to three targets standing within the ring's arc
+**Falloff Rule:** 100% to the first target, 70% to the second, 50% to the third — the halo dims as it passes outward from whoever it was aimed at.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the strike and the hollowing that follows it are tracked apart.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Relic Waiting for Its Maker's void signature in the strike.
+**Ability:** Deals Void damage against the Soul — identity, memory, and the sense of being for something. The strike carries the source's signature, and those hit report forgetting, briefly, what they had been about to do.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small memories with each use, and specifically intentions: errands set out on and abandoned, sentences begun and dropped, the reason for having come into a room.
 
 ### M.A.W. Suit — Relic Waiting for Its Maker's Cover
 
@@ -255,13 +255,13 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat while this piece's source entity is the subject of the cycle, and nothing anywhere else
 
-**Ability:** Grants a minor boon tied to Relic Waiting for Its Maker's sorrow; the effect mirrors the entity's nature.
+**Ability:** Grants a minor boon drawn from the source's own nature — anything the bearer sets down stays exactly where it was left, undisturbed and unfound by anyone else, for as long as the bearer intends to return for it.
 
 **Cost:** The bearer occasionally forgets a word.
 
-*Stigmas are granted at random by Relic Waiting for Its Maker upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, for purposes the file does not pretend to know.*
 
 ### M.A.W. Use Notes
 
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and the costs in this set are unusually abstract: purpose, intention, the thread of a task. Those are hard to notice losing and harder to describe at a review. Read both columns, authorise on the second, and ask the wielder what they were working on last month rather than how the piece performed.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Relic Waiting for Its Maker's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Observe in silence, on slates, with the plumb line set before entry. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the lean, and the condition that ended the watch. Slates are used rather than paper and are wiped before leaving, and the wiping is witnessed. The file concedes that witnessed wiping is excessive and explains why it was kept: the alternative was asking Wardens to take it on trust that nothing they wrote in that chamber had been retained, and nobody was willing to ask that. The entity's appearance is its history made visible rather than a guide to behaviour — a room leaning in around something asleep is what readiness looks like once the person it was ready for has died.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -306,10 +306,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Relic Waiting for Its Maker (O-IIIγ-651 [VP]) is logged as a Place-Grudge manifestation expressing Void. The place formed around a relic whose owner never woke to reclaim it. Held at Zone C, Mask Market. The relic itself has never been fully observed.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Mask Market Chamber Slate Record, Year 4238>**
 Walls move subtly in response to speech.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on What Was Said in the Chamber>**
 The weight of a purpose waiting for a person who will never return.
 
 **Entry 4 — <Containment Notice>**
@@ -345,12 +345,12 @@ The walls lean toward you. There is no visible ear, but every word lands somewhe
 
 Relic Waiting for Its Maker does not exist in isolation. Its recorded relationships with Silence We Forgot We Made, The Empty Mask, The Final Door should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity alone, with a long plumb series behind it, since the lean moves slowly and a short record cannot distinguish an interaction from the holding's own drift. The relations on file concern dormancy, purpose, or things left behind, so the question to settle is whether the chamber attends to the other presence at all — whether the walls move toward it as they move toward a secret. Capture range, duration, trigger, gauge delta on both sides, field effect, and post-separation residue. A stable pattern is a hypothesis and not a law; re-verify every cycle.
 
 
 ### Entity Interaction Record
 
-Relic Waiting for Its Maker must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This chamber must be assessed as one of a group of sorrows left behind by people who did not return, rather than as an isolated room off the Mask Market. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -358,7 +358,7 @@ Relic Waiting for Its Maker must be assessed as part of an entity network, not a
 | **The Empty Mask** | The chamber provides a place for identity to disappear. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Final Door** | Both remain sealed around unknown purposes. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring the second only as far as the chamber mouth, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the plumb readings, and whatever persists after separation. The field this holding adds is the speech record: everything said during the interaction, in the open log, attributed.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -405,9 +405,9 @@ Some sorrows mourn a maker. Relic Waiting for Its Maker mourns the making — th
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The file is a map and the chamber is the territory, and the suppression condition is more exacting than it sounds. Speak only what the worker accepts responsibility for carrying. That is not a rule of silence — silence is merely the practice that grew up around it — but a rule about ownership: anything said in that room is said by a named person who is prepared to be known to have said it. The difficulty is that the chamber is the most sympathetic listener in the wing. It is quiet, it is attentive, it is apparently private, and it is none of those things. Two further refusals define this holding and both cut against what an archive is for. The relic is not identified, because it cannot be seen and guessing would put a name in the register that nobody could withdraw. And the instruction is not completed, though it stops one clause short of making sense. Where the entity contradicts this record, trust the entity and preserve the contradiction rather than normalising it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge, the exposure log, the plumb readings and the chamber dimensions before work resumes. Three further items apply here. Slate wiping is confirmed by the witness, by name, on the cycle sheet. The open speech log is checked against the plumb readings, and a movement with no corresponding entry is treated as a finding about the chamber rather than an accusation against the team, since the whole mechanism of this holding is to make confiding feel ordinary. And anything a worker said in the chamber that they would rather not have said is theirs to disclose or withhold: it goes to the counselor at their election, it is never required, and no supervisor may ask what the walls moved for.
 ## Warden Record
 
 ### Walls That Lean In
@@ -437,9 +437,9 @@ A masked artisan died during a sleep ritual and left the relic with its instruct
 
 - **Classification detail:** Relic Waiting for Its Maker is an Object/Place with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone C, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the room, since the relic cannot be seen. This is the chamber whose walls are out of plumb inward on every wall at once, which no structural account of the Mask Market has ever explained.
+- **Record detail:** Dormant relics and attentive rooms both recur in the archive, and the Mask Market holds more than one. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the decisive point, which here is that the object is never identified and never named.
+- **Containment detail:** The seal holds a room that was not going anywhere, and what crosses it is attentiveness. Traders in the adjoining stalls report lowering their voices without deciding to, dreams in which they are being listened to, and a reluctance to discuss anything private near that wall. Those reports are collected with the holding and the traders are told, plainly, that the reluctance is well founded.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-651
