@@ -305,16 +305,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Crucible (C-IIIβ-275 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Forge formed from anger used to create rather than destroy. Held at Zone D, Forge District. The Forge creates objects without a visible worker.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Heat and Intent>**
 Its heat responds to emotional intent.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Useful Anger>**
 The burden of making useful things from resentment.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Working Beside the Heat>**
 Work response — Viderehan: Reveals the grief embedded in each weapon. (Stable); Ferrehan: Tests whether the worker can remain near heat and anger. (Decrease). It is most active during industrial disputes.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Forge in Zone D>**
 Crucible burns in Zone D — ancient, hot, made of crystallized fury. The Forge creates weapons from anger — blades of fury, shields of resentment. Born from the sorrow of creation through pain — making things because you're too angry to stop. The entity …
 
 ## 최종 관찰 (Final Observation)

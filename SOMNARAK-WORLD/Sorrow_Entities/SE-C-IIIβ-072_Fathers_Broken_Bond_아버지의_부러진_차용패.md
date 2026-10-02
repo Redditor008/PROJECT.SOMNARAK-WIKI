@@ -282,16 +282,16 @@ M.A.W. extracted from this relic carries the fury of the indebted underclass. It
 **Entry 1 — Containment Description**
 Reclaimed from the burned archives of the Concourse Indenture Ministry. The brass shows severe pitting consistent with high-molarity industrial solvent immersion.
 
-**Entry 2 — <Excerpt from Field Log>**
+**Entry 2 — <The Load Cell Record>**
 "When resting on a calibrated load cell, the tablet displays inexplicable mass fluctuations. At 09:00 hours, it weighed 21.4 kilograms; at 17:00 hours, coinciding with the end of the municipal shift, its mass registered at 38.7 kilograms without any volumetric expansion."
 
-**Entry 3 — <Excerpt from Lead Analyst Notes>**
+**Entry 3 — <Han-Sol's Father>**
 "Interviews with Third Sump veterans confirm that Han-Sol's father spent thirty-eight years diving in raw caustic runoff to clear blocked sediment sluices. The Debt Concourse charged him five silver talers a month for oxygen canister refills, ensuring the debt outlived the diver."
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Lifting From the Pedestal>**
 Viderehan requires recording the micro-fractures along the scored centerline. Ferrehan tests an operative's ability to lift the tablet from the stasis pedestal using manual labor, enduring the accumulated weight of hereditary labor without dropping the metal.
 
-**Entry 5 — <Deep Archive Synthesis>**
+**Entry 5 — <The Chains the Concourse Designed>**
 Directorate Synthesis: The Concourse designed these tallies to be indestructible chains binding generations. Han-Sol proved that if a man is willing to accept a bullet in his ribs, even hereditary iron can be snapped like dry wood. Its discharge is the sudden collapse of artificial obligation.
 
 ## 최종 관찰 (Final Observation)

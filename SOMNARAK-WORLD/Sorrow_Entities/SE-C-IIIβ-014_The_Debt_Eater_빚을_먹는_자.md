@@ -277,16 +277,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Debt Eater (C-IIIβ-014 [VS]) is logged as a Subject-Body manifestation expressing Void. The Debt Eater crystallized from the collective refusal of early Zone B citizens to pay debts imposed by the Collectors. Held at SECTOR-C-01, Zone C — Collector use; contained. Flerehan calms no part of its function, but Viderehan and Ferrehan reduce its gauge.
 
-**Entry 2 — <Excerpt from Field Log, Year 4216>**
+**Entry 2 — <The White Fog>**
 The creature remains in place; white debt fog fills the containment zone. Personnel feel compelled to surrender Echoes, memories, or years of life. Those with nothing to offer collapse beneath imagined debt. Subjects treated by the Eater report increased empathy and reduced detachment, followed by emotional numbness.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Obligations Never Chosen>**
 The denial and exhaustion of people burdened by obligations they never chose.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Feeding the Fog>**
 Management: Provide a specific amount of Echoes for absorption. Once fed, the fog dissipates.  Its activity increases during the Sorrow Tide.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Structural, Not Singular>**
 The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
 
 ## 최종 관찰 (Final Observation)

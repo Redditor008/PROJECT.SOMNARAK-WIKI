@@ -322,16 +322,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Clock (C-IIIγ-044 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Clock formed from the city's frustration with the repeating time loop of Year 4222–4223. Held at SECTOR-A-01, Alpha Tree deep storage — contained. The distortion field extends exactly seven meters.
 
-**Entry 2 — <Excerpt from Field Log, Year 4231>**
+**Entry 2 — <The Hands>**
 Hands move forward, backward, or stop for unexplained intervals.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Promises in Repetition>**
 The grief of promises trapped in repetition and time that cannot progress.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Bound to the Loop>**
 The Clock is linked to the time loop and cannot leave its origin point.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Grief Grown Into the Place>**
 The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
 
 ## 최종 관찰 (Final Observation)

@@ -273,16 +273,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Guarding Bird (C-IIIγ-033 [VS]) is logged as a Subject-Body manifestation expressing Void. The Bird formed from the sorrow of protecting what could not be saved. Held at SECTOR-B-01, contained with the Three Birds. It grows more active during the Sorrow Tide.
 
-**Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
+**Entry 2 — <Never Abandoned a Post>**
 Flies through the facility protecting everything it identifies as vulnerable. Personnel feel protected but trapped by its guardianship. It has never abandoned a post, even when the protected object no longer exists.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Defending What Was Gone>**
 The grief of defenders who fought for something already gone.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Protection That Traps>**
 Management: Thank the Bird and acknowledge that protection has been received.  Excessive protection can prevent personnel from leaving safe zones.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Story in Whispers>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …
 
 ## 최종 관찰 (Final Observation)

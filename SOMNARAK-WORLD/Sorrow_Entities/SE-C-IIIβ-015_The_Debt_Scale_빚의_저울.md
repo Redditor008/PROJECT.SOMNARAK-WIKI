@@ -305,16 +305,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Debt Scale (C-IIIβ-015 [VO]) is logged as a Object-Void manifestation expressing Void. The Scale formed from the demand for fairness. Held at SECTOR-C-01, used by Collectors. The Scale is always correct by its own definition.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Inherited and Personal>**
 It does not distinguish inherited debt from personal debt unless asked.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <The Impartial Measure>**
 The grief of people judged by corrupt systems and the fear of an impartial measure that might reveal too much.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Daily Use on the Row>**
 Work response — Viderehan: Displays the structure of a person's obligations. (Stable); Ferrehan: Holds the worker beneath the emotional weight of measurement. (Decrease). Collectors use it daily despite citizen opposition.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Woven Into the Zone>**
 The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
 
 ## 최종 관찰 (Final Observation)

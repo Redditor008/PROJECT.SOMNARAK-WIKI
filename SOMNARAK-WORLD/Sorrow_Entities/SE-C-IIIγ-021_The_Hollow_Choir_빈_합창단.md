@@ -279,16 +279,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Hollow Choir (C-IIIγ-021 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Hollow Choir formed from citizens silenced by oppression in early Zone C. Held at SECTOR-C-01, amphitheater in Zone C; contained. The Choir contains exactly 144 voices.
 
-**Entry 2 — <Excerpt from Field Log, Year 4232>**
+**Entry 2 — <When the Voices Spread>**
 The voices spread beyond the amphitheater and fill the facility. All personnel hear the songs and experience the grief of the silenced. Mass distress and possible Fracture may follow. Groups of twelve correspond to distinct historical eras.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Words Stolen, Songs Forbidden>**
 The grief of having one's words stolen, one's songs forbidden, and one's history erased.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Singing Back>**
 Management: Sing to it. Acknowledge the voices and give them a voice in return. Attempts to impose silence fail.  Personnel who listen for more than one hour begin hearing their own name.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Load-Bearing Sorrow>**
 The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this location, permanent as the Weeping, and the entity is its exoskeleton.
 
 ## 최종 관찰 (Final Observation)

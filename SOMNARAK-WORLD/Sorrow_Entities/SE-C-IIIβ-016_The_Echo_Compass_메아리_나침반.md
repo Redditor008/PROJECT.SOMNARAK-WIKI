@@ -305,16 +305,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Echo Compass (C-IIIβ-016 [VO]) is logged as a Object-Void manifestation expressing Void. The Compass formed from the need to find what the city hid. Held at SECTOR-D-01, Forge District. The needle spins continuously in Somnarak.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Rate of Turn>**
 It points faster near concentrated sorrow.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <The Search>**
 The grief of searching for lost memories and discovering sorrow everywhere.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Following Without Relief>**
 Work response — Viderehan: Reveals patterns in its direction changes. (Stable); Ferrehan: Tests whether the worker can follow without expecting relief. (Decrease). It is useful for finding entities but unreliable for navigation.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Air, Lamps, and Walls>**
 The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the …
 
 ## 최종 관찰 (Final Observation)

@@ -324,16 +324,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Cracked Hourglass (C-IIIβ-036 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Hourglass formed from anxiety about running out of time. Held at SECTOR-A-01, Alpha Tree vault — contained. Sand leaks constantly but regenerates.
 
-**Entry 2 — <Excerpt from Field Log, Year 4218>**
+**Entry 2 — <Resonance With the Weeping>**
 The object resonates with the Weeping and pulses near strong emotion.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Unrecoverable Time>**
 Fear of mortality, deadlines, wasted moments, and unrecoverable choices.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Weight Without Mass>**
 Personnel experience emotional weight rather than physical heaviness on contact.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Wilting Perimeter>**
 The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the …
 
 ## 최종 관찰 (Final Observation)

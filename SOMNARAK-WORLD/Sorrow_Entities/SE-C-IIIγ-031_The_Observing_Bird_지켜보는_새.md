@@ -273,16 +273,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Observing Bird (C-IIIγ-031 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Bird formed from the sorrow of witnessing injustice without being able to intervene. Held at SECTOR-B-01, contained with the Three Birds. Exactly 144 eyes record distinct aspects of reality.
 
-**Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
+**Entry 2 — <It Does Not Blink>**
 Flies through the facility, observing and recording. Personnel feel every action, secret, and thought exposed. It does not blink, sleep, or forget.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Seeing and Unable>**
 The helplessness of seeing suffering and remaining powerless.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Accepting the Gaze>**
 Management: Look at the Bird and accept its gaze.  Its eyes preserve historical fragments absent from the Archive.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Story Traded for Echoes>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …
 
 ## 최종 관찰 (Final Observation)

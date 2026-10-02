@@ -275,16 +275,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Debtor (C-IIIγ-061 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Debtor is the grandfather aspect of the Debt Triplets: the one who incurred the original debt. Held at SECTOR-C-01, contained with the Debt Triplets. The invisible burden measures 7.3 tons on Han-scales.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Accepting the Blame>**
 Walks slowly through the facility carrying the burden. Personnel feel obligations they never incurred. The Debtor accepts blame willingly, even when the debt has changed over generations.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <An Obligation That Outlived Its Cause>**
 The burden of accepting responsibility for an obligation that outlived its original cause.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <Sharing the Weight>**
 Management: Carry part of the burden willingly; do not command him to put it down.  The Triplets cannot be permanently separated.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <Old Grief in a New Shape>**
 The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
 
 ## 최종 관찰 (Final Observation)

@@ -278,16 +278,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Weighting Bird (C-IIIγ-032 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Bird formed from the sorrow of those forced to measure guilt and judge others. Held at SECTOR-B-01, contained with the Three Birds. It calculates guilt rather than morality.
 
-**Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
+**Entry 2 — <Measuring Guilt>**
 Flies through the facility measuring guilt and sorrow. Personnel feel their guilt physically measured. Personnel exposed for long periods report increased empathy and reduced detachment.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Every Judgment a Burden>**
 The knowledge that every judgment creates another burden.
 
-**Entry 4 — <Containment Notice>**
+**Entry 4 — <It Waits to Be Asked>**
 Management: Acknowledge the judgment without attempting to deny the weight.  It has never breached by force; it simply waits to be asked to judge.
 
-**Entry 5 — <Archive Note>**
+**Entry 5 — <The Mother in the Story>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This …
 
 ## 최종 관찰 (Final Observation)
