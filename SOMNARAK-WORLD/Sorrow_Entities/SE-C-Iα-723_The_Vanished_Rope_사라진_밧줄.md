@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Vanished Rope's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The figure reaches, and the entire session turns on what the team does with the offered end. Flerehan is answered with recognition and Ferrehan with a test of whether the worker can hold on without pulling; both lower the gauge. Pugnahan makes it burn harder and recoil. Nobody is to be tied.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name what was lost; do not attempt to recreate the bond**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- The Vanished Rope’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in The Vanished Rope's dossier.
+- The effect is not a matter of exposure time. It intensifies each time somebody accepts the end that is being offered, and a worker who has taken it once will be offered it first on every subsequent session, by preference over anyone else in the chamber.
+- The censer, the shroud and the knot are all made from a tie that was cut in the middle. Each activation borrows a measure of the grip that was never released, and the operator keeps it. The recorded cost is not grief. It is that the operator stops being able to let an arrangement lapse.
+- Left unresolved the sorrow does not rupture outward; it keeps asking. The figure continues to present the free end to one person after another, and the file is explicit that nothing about this escalates — it is the same request, made again, which is why the counter and not the clock governs here.
 
 ## Appearance
 **Primary Form:** A burning humanoid figure with rope-like limbs that fade in and out of visibility. The rope appears severed at both ends.
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
 - **Primary marker:** A burning humanoid figure with rope-like limbs that fade in and out of visibility. The rope appears severed at both ends.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It manifests where the chamber allows and then walks a short fixed circuit, the length of the rope, as though the other end were still attached to something at the far point. Record the circuit, its length, and which end of it the figure turns back at.
 - **Element signature:** Lament
 - **Registered location:** The Desolate — mobile
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins. Several records in this archive are ropes; they are handled in opposite ways, and the wrong one in mind puts a worker in the chamber ready to secure something that must only be held. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record both severed ends. The limbs are rope gone to ember, burning without ash, and the fibre is cut cleanly at each end so that it leads to nothing in either direction. Note the fading, which is partial and irregular, and note the reach — the height of the offered end and whom in the room it is held out to.
 
 ## Origin
 - **Formation:** The entity formed from the grief of a severed connection.
 - **The Sorrow:** The pain of being tied to someone who vanished and the helplessness of holding an invisible end.
 - **The Event:** A rope used by two travelers disappeared during a Han-storm; one returned, the other did not.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Two travellers roped together through a Han-storm in the Desolate. One came back still gripping his end. The Keepers' record names him, because he gave the account; the other is recorded only as the end that came back empty, which the file notes is the exact shape of the entity.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. The Vanished Rope is recorded as a Subject with Subject-Grudge manifestation and Lament elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A falling gauge under Flerehan means the reach was met and not refused; under Ferrehan it means the worker held the end steady and did not pull the figure toward them. Rising means the rope was tugged, cut, tied off, or fastened to any fixed point. The distinction personnel most often get wrong is that holding is permitted and securing is not.
 ## Breach Behavior
 
 > *"The Vanished Rope has broken free. Hunts personnel indiscriminately."*
@@ -153,17 +153,17 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Vanished Rope breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
+| **Movement** | It leaves on foot and walks the corridors at a traveller's pace, the offered end held out to whoever it passes. Nobody is hunted; everybody is asked. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever has taken the end before. It returns to them in preference to anyone closer. |
+| **Escalation** | Drain rises by 5 for each person who accepts the end while it is free, and not at all for the time it spends walking unanswered. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — it leaves the chamber on foot, though it does not leave as an escape. It walks the route the two travellers were walking, at the pace they were walking it.
+- **Containment priority:** Do not force it back and do not secure the rope. Name the traveller who did not return, in the corridor it is walking, and it will turn back toward the chamber on its own circuit. Pugnahan has been attempted twice and both times the figure burned brighter and kept walking.
+- **Sorrow Gauge on breach:** Governed by the counter rather than the clock. The listed figure is four, and it falls by one each time a member of personnel takes the offered end and holds it as though they were the one who was lost; at zero the figure stops offering and begins fastening. Naming the missing traveller aloud restores a step, and this is the only recorded way to restore one.
 
 ## M.A.W. Equipment
 
@@ -185,12 +185,12 @@ The lower chamber houses slow-smoldering cedar coals and powdered mourning herbs
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The censer reaches one target. The lament does not travel along a line of personnel, which would be the obvious reading for a rope-form entity and is not what the record shows.
+**Damage Application:** Record the strike and the lingering effect separately. The lament lands once; the sense of holding something that is not there persists through the shift and is what personnel describe afterwards.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Vanished Rope's lament signature in the strike.
+**Ability:** Lament damage to the mind. The censer channels a bond that was severed mid-length, and what it opens in a target is the conviction that somebody is still attached at the other end of something they are carrying.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the entity's unwept grief and weeps involuntarily, most often while putting the censer down.
 
 ### M.A.W. Suit — The Severed Shroud
 
@@ -206,9 +206,9 @@ The lower chamber houses slow-smoldering cedar coals and powdered mourning herbs
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Vanished Rope's kind of pressure.
+**Ability:** Turns Lament aside from the mind, which is the only pressure this entity applies — it has never caused a physical injury. The shroud is what lets a worker take the offered end and give it back.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small pleasures and reports it first as other people's company not registering.
 
 ### M.A.W. Stigma — The Severed Knot
 
@@ -218,17 +218,17 @@ The lower chamber houses slow-smoldering cedar coals and powdered mourning herbs
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against the Vanished Rope itself, and nothing against the other rope-form records.
 
 **Ability:** Reveals the emotional bonds between nearby people.
 
 **Cost:** The wearer feels every broken bond as personal loss.
 
-*Stigmas are granted at random by The Vanished Rope upon a successful work, not manufactured.*
+*The knot is not manufactured. The Rope gives one to a worker who held the end and then named who was missing from it, and has given none to a worker who tied it off safely.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to The Vanished Rope's element. No protocol produces Stigmas. They emerge from The Vanished Rope's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of the Rope rather than ordinary equipment, and the condition is that nobody stands in for the missing. Carried by an operator who has not, the censer and the shroud hold to grade. Carried by one who has, the cost scales and the Lament in them becomes active, which here means the operator is attached to a person they cannot name. The knot is given, not issued.
 
 ### Field Use Record
 
@@ -239,7 +239,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost run on separate axes, and the separation is wide here. The censer and the shroud are both modest. What the grades cannot show is that the knot, which has no combat value, is worn by every worker on this roster who has since requested a transfer, and that none of them gave the entity as the reason.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In The Vanished Rope's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Record the first sign, which is the smell of burning hemp in cold air; the first sensation, which is the impulse to put a hand out; which member of the team the end was offered to and in what order; and the condition that ends the encounter, which is the missing traveller being named aloud. Record the counter before and after.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -269,17 +269,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Vanished Rope (C-Iα-723 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The entity formed from the grief of a severed connection. Held at The Desolate — mobile. Mobile, non-territorial, and more active during the Sorrow Tide.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Wanders the Desolate along old travel routes. Personnel feel the pull of an absent relationship. Fire dims when a worker acknowledges abandonment.
+**Entry 2 — <Account of the Traveller Who Returned>**
+"We tied on because you cannot see your own hands in it. He was behind me and then the line went slack, and I did the thing you are told not to do, which is stop and pull. It came to me easy. Both ends cut, and neither cut by me. I walked out still holding it because putting it down seemed like saying something. They took it off me at the post and I could not tell them his name — not because I had forgotten it. Because saying it out there would have meant he was not coming."
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The pain of being tied to someone who vanished and the helplessness of holding an invisible end.
+**Entry 3 — <Session Note: Who the End Was Offered To>**
+Across thirty-one logged sessions the end has been offered first to the newest member of the team on twenty-six occasions, and on the remaining five to the worker who had taken it at a previous session. It has never been offered first to a session lead. The wing has no mechanism to explain the pattern and records it because it is the most reliable predictor it has: personnel briefed on this paragraph take the end substantially less often, which is the only prophylactic measure the file can honestly recommend.
 
 **Entry 4 — <Containment Notice>**
 Management: Name what was lost; do not attempt to recreate the bond. Work response — Flerehan: Reaches toward the worker in recognition. (Decrease); Pugnahan: Burns more intensely and recoils. (Increase); Viderehan: Reveals the bond and the moment it was severed. (Stable); Ferrehan: Tests whether the worker can hold on without pulling. (Decrease). It has never caused direct physical injury.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The archive has never established the second traveller's name. The returned man did not give it, and the route log for that departure records a party of two with one signature. Three later attempts to recover it from settlement rolls produced three candidates and no way to choose between them. The file's position is that the name is lost and that a guess entered here would make the entity's management condition unperformable, since naming the wrong person has been tried and raises the figure. What is recorded instead is that someone was there, that he was tied on, and that nobody wrote him down.
 
 ## 최종 관찰 (Final Observation)
 
@@ -308,12 +308,12 @@ A length of rope burns across the horizon, attached to nothing. When it reaches 
 
 The Vanished Rope does not exist in isolation. Its recorded relationships with The Lost Prince, Torn Loyalty, The Grieving Colossus should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline it alone and with a full team present, because the reading changes with the number of people available to be offered the end. In shared conditions record whether the reach transferred to the other entity, whether the circuit lengthened, and whether either severed end showed any sign of joining anything.
 
 
 ### Entity Interaction Record
 
-The Vanished Rope must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Rope is filed beside the archive's other severed and binding forms, which it resembles and does not behave like. The relationships below are what the record will support. They are not alliances; they are several different answers to being attached to somebody, and this one is the answer that is still holding an end.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -321,7 +321,7 @@ The Vanished Rope must be assessed as part of an entity network, not as an isola
 | **Torn Loyalty** | Resonates with severed attachment. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Grieving Colossus** | Pauses and listens. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baseline and team baseline first, then the shared encounter: the distance at which the reach began, who it was directed at, how long the circuit held its length, and whether the counter moved during the overlap. A counter that moved without anyone taking the end is the one result this file cannot yet account for.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -364,14 +364,14 @@ Some sorrows mourn the lost. The Vanished Rope mourns the connection — the tet
 **Observation Notes:**
 - Two travelers bound by a rope; the storm took the rope and one traveler.
 **Cross-References:** The Desolate · The Gate · The Melting Rope
-**Faction Involvement:** SED (Desolate-territory exploration)
+**Faction Involvement:** SED, whose Desolate route logs record the storm and both travellers' departure, and one return.
 **Originator:** Two Desolate travelers; one survived.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this as a record of a request rather than of an attack. Every figure here was produced by someone deciding whether to take hold of something. The counter is the mechanism and it moves on personnel decisions, not on elapsed time; a session in which nobody reaches back costs nothing.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any Han-storm in the Desolate, and after any session in which the end was taken — the last unconditionally, including sessions where the gauge appeared unaffected, because the counter moves whether or not the gauge does. The review establishes who took it and whether they were offered it first, and is not a disciplinary instrument.
 ## Trivia
 
 - Both ends of the manifested rope are visibly severed.
@@ -383,9 +383,9 @@ Some sorrows mourn the lost. The Vanished Rope mourns the connection — the tet
 
 - **Classification detail:** The Vanished Rope is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the two cut ends. Several rope and chain forms are catalogued; this is the one severed at both ends, burning without ash, holding one end out.
+- **Record detail:** Check the designation before approach. More than one record in this archive is a rope, and they are not handled alike — this one must be held and not secured.
+- **Containment detail:** Sealed does not mean silent. The reach continues inside a sealed chamber with nobody in it, and the containment reading is the counter rather than the state of the door.
 ## Document Information
 
 **Document ID:** SE-C-Iα-723
