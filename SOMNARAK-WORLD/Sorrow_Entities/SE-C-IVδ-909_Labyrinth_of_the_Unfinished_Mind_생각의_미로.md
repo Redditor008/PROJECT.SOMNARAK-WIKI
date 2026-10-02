@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of Labyrinth of the Unfinished Mind
 
 ## 감각 묘사 (Flavor Text)
 
-Contact is disorienting. The void pressure is familiar — every agent in Somnarak knows void — but the mind filter makes it alien. An underground complex beneath Zone C that reconfigures its corridors based on t... It is the same element in a different language, and the language is mind.
+Contact is disorienting. The void pressure is familiar — every agent in Somnarak knows void — but the mind filter makes it alien. An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back. It is the same element in a different language, and the language is mind.
 
 **At first contact:** The mind signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of mind.
 

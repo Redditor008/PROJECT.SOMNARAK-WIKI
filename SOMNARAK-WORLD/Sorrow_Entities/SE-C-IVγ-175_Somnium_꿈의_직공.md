@@ -294,7 +294,7 @@ Threads hang in the air like rain that forgot to fall. The Weaver touches one, a
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A humanoid figure made from thousands of luminous dream-threads. Its face changes according to the.... The first sensation is always Lament — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A humanoid figure made from thousands of luminous dream-threads. Its face changes according to the dreamer observing it. The first sensation is always Lament — unmistakable, specific, impossible to mistake for anything else in the city.
 
 **With continued exposure:** The Subject-Dream settles into a presence you learn to hold — not comfortably, but recognisably. The Lament pressure stops being an assault and becomes a climate: something you move within rather than against.
 

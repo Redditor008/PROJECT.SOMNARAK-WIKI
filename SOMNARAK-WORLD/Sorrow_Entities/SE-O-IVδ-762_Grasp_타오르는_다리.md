@@ -276,7 +276,9 @@ The grief of trying to rescue people who could no longer be reached.
 Management: Do not promise rescue; acknowledge the limits of one person. Work response — Flerehan: Warm tears soften the figure. (Decrease); Pugnahan: Fire rises and the Bridge lashes outward. (Increase); Viderehan: Reveals the failed rescue and its victims. (Stable); Ferrehan: Tests whether the worker can remain near impossible rescue. (Decrease). It does not distinguish rescue from impossible return.
 
 **Entry 5 — <Oral Tradition Excerpt, Director's File>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

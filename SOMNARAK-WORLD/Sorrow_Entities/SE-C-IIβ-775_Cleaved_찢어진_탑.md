@@ -294,7 +294,7 @@ The skyline tears open above the Old Lament. A tower walks where no tower could 
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Grudge, pressing or releasing like a tide. Then the form resolves: A tall burning figure whose body resembles a tower split vertically. Its upper half leans toward an.... The space does not become generic; it shifts in the specific register of Void.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Grudge, pressing or releasing like a tide. Then the form resolves: A tall burning figure whose body resembles a tower split vertically. Its upper half leans toward an impossible skyline. The space does not become generic; it shifts in the specific register of Void.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

@@ -299,7 +299,7 @@ A whisper melts before it reaches the wall. The small figure beside you loses a 
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A crawling ooze-creature of crimson wax with no fixed shape — it flows across the floor in a low.... The space does not become generic; it shifts in the specific register of Grudge.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A crawling ooze-creature of crimson wax with no fixed shape — it flows across the floor in a low seething mass, whisper-mouths opening and dissolving across its surface as it moves. The space does not become generic; it shifts in the specific register of Grudge.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

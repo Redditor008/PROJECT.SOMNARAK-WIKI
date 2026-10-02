@@ -294,7 +294,7 @@ An old object glows red beneath a layer of dust. You touch it and feel every han
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Weight, pressing or releasing like a tide. Then the form resolves: A burning pressure shaped like a relic carried beneath the skin. It appears as a red outline around.... The space does not become generic; it shifts in the specific register of Grudge.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Weight, pressing or releasing like a tide. Then the form resolves: A burning pressure shaped like a relic carried beneath the skin. It appears as a red outline around objects that are fading from memory. The space does not become generic; it shifts in the specific register of Grudge.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

@@ -244,7 +244,7 @@ Each M.A.W. piece is a conditional extension of Once Upon, not ordinary equipmen
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the lament pressure and the tale register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. An hour during which every forgotten story ever told within ... Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+There is a moment — always the same, always brief — when the lament pressure and the tale register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. An hour during which every forgotten story ever told within a kilometre radius becomes briefly, viscerally real — characters walk the streets, narrators whisper from empty rooms, and endings replay themselves in the air. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
 
 **At first contact:** The tale signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of tale.
 

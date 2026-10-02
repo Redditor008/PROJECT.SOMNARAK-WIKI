@@ -328,7 +328,9 @@ The grief of potential lost before birth or completion.
 Work response — Viderehan: Shows the entity it might have become. (Stable); Ferrehan: Tests whether the worker can wait without forcing growth. (Decrease). It must not be planted under any circumstances.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table for details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table for details.
 
 ## 최종 관찰 (Final Observation)
 

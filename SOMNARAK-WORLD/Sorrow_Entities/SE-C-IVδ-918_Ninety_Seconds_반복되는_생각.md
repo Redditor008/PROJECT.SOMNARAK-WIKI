@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of Ninety Seconds, not ordinary equ
 
 ## 감각 묘사 (Flavor Text)
 
-The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. A 90-second interval that repeats indefinitely for anyone caught within its radi... The void pressure is present, but it does not behave like standard void. It moves through the mind register as if that register were its native element.
+The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. The void pressure is present, but it does not behave like standard void. It moves through the mind register as if that register were its native element.
 
 **At first contact:** The mind signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of mind.
 

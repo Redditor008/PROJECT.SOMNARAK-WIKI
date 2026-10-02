@@ -315,7 +315,9 @@ The anger of inheriting a conflict no living person began.
 Work response — Viderehan: Reveals the history of the inherited conflict. (Stable); Ferrehan: Tests whether the worker can bear history without inheriting anger. (Decrease). Personnel feel weight before anger.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Low. Corroded ground from inherited resentment. Effect: crossing the border induces directionless anger.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+
+**Threat rating:** Low. Corroded ground from inherited resentment. Effect: crossing the border induces directionless anger.
 
 ## 최종 관찰 (Final Observation)
 

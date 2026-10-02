@@ -291,7 +291,9 @@ The grief of exhaustion denied until even relief disappears.
 Work response — Viderehan: Reveals the worker and the moment of collapse. (Stable); Ferrehan: Tests whether personnel can rest without shame. (Decrease). Its pressure decreases when personnel rest together.
 
 **Entry 5 — <Director's Memo on the Exposure Cap, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

@@ -279,7 +279,9 @@ The grief of protection continuing after the person who required it is gone.
 Management: Complete the duty symbolically, then tell the Shadow it may stop. Work response — Flerehan: Pauses and receives shared grief. (Decrease); Pugnahan: Retaliates with frozen force. (Increase); Viderehan: Reveals what it continues to guard. (Stable); Ferrehan: Pushes the worker with silent pressure. (Decrease). Personnel report grief beneath the pressure.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. A shadow guarding an empty vault. Effect: proximity induces the sorrow of duty outliving its purpose.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+
+**Threat rating:** Low. A shadow guarding an empty vault. Effect: proximity induces the sorrow of duty outliving its purpose.
 
 ## 최종 관찰 (Final Observation)
 

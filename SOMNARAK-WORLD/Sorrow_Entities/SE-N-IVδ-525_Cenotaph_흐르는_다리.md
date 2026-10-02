@@ -283,7 +283,9 @@ The grief of defending the dead while blaming oneself for their absence.
 Management: Controlled acknowledgment and team support. Work response — Flerehan: Reaches for the worker and lowers its anger. (Decrease); Pugnahan: Retaliates with flowing force. (Increase); Viderehan: Shows the promise and the failed crossing. (Stable); Ferrehan: Weighs the worker's resolve beneath moving pressure. (Decrease). It becomes more active during Outside Sorrow events.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table for details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table for details.
 
 ## 최종 관찰 (Final Observation)
 

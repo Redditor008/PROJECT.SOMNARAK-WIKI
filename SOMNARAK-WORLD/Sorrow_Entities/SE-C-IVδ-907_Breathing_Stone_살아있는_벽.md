@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of Breathing Stone, not ordinary eq
 
 ## 감각 묘사 (Flavor Text)
 
-The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. A section of corridor wall in Zone C that has become flesh — warm, pale, and fai... The weight pressure is present, but it does not behave like standard weight. It moves through the body register as if that register were its native element.
+The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. A section of corridor wall in Zone C that has become flesh — warm, pale, and faintly breathing. Bricks show through the skin like bones through thin cloth. Veins of dark Han pulse beneath the surface. The weight pressure is present, but it does not behave like standard weight. It moves through the body register as if that register were its native element.
 
 **At first contact:** The body signature is unmistakable — this is not a general weight entity but one whose sorrow has taken the specific shape of body.
 

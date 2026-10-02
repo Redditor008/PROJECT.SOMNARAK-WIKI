@@ -325,7 +325,7 @@ Each M.A.W. piece is a conditional extension of Lacrima, not ordinary equipment.
 
 ## 감각 묘사 (Flavor Text)
 
-You feel it before you see it. The spirit register is not visual — it is atmospheric, visceral, a pressure that settles into the chest. A small clay jar, unremarkable except for the faint light that leaks from beneat... And the void is there, unmistakable, but wearing a shape you have not felt before.
+You feel it before you see it. The spirit register is not visual — it is atmospheric, visceral, a pressure that settles into the chest. A small clay jar, unremarkable except for the faint light that leaks from beneath its lid and the voice — barely audible, always pleading — that emanates from within. And the void is there, unmistakable, but wearing a shape you have not felt before.
 
 **At first contact:** The spirit signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of spirit.
 

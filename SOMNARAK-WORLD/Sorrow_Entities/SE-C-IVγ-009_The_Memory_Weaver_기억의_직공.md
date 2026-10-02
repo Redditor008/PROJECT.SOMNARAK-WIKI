@@ -305,7 +305,7 @@ You feel the webs before you see them: a tug at the edge of the mind, a name alm
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A massive spider-like being whose body is made from crystallized memories. Its webs are spun from.... The first sensation is always Void — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A massive spider-like being whose body is made from crystallized memories. Its webs are spun from stolen pasts, and its eyes resemble thousands of memories turning in Han-crystal sockets. The first sensation is always Void — unmistakable, specific, impossible to mistake for anything else in the city.
 
 **With continued exposure:** The Subject-Dream settles into a presence you learn to hold — not comfortably, but recognisably. The Void pressure stops being an assault and becomes a climate: something you move within rather than against.
 

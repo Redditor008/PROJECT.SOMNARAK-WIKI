@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of Backward Hour, not ordinary equi
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the grudge pressure and the grudge register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A 12-hour period that recurs irregularly in Zone B, during w... Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+There is a moment — always the same, always brief — when the grudge pressure and the grudge register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A 12-hour period that recurs irregularly in Zone B, during which every clock in the district counts backward and the anger of every citizen intensifies proportionally to the speed of the reversal. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
 
 **At first contact:** The grudge signature is unmistakable — this is not a general grudge entity but one whose sorrow has taken the specific shape of grudge.
 

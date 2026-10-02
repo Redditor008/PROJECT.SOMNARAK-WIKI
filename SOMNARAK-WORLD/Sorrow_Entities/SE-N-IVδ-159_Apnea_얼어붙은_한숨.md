@@ -279,7 +279,9 @@ The rage of being forced to continue after the body has accepted an ending.
 Management: Ground the worker and allow a safe release of breath. Work response — Flerehan: Frost cracks and the breath becomes audible. (Decrease); Pugnahan: It hardens and returns anger as cold pressure. (Increase); Viderehan: Reveals the death and exhaustion behind it. (Stable); Ferrehan: Tests whether the worker can remain without forcing movement. (Decrease). Personnel report sorrow after the rage fades.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Per entity classification. See SECC Classification table for details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table for details.
 
 ## 최종 관찰 (Final Observation)
 

@@ -278,7 +278,9 @@ The grief of surviving one more day without believing the next will be easier.
 Management: Permit rest; do not force personnel to continue working through it. Work response — Flerehan: Settles around the worker like shared relief. (Decrease); Pugnahan: Becomes a harsh wind and spreads through the halls. (Increase); Viderehan: Reveals the crises that produced each breath. (Stable); Ferrehan: Tests whether the worker can rest without abandoning duty. (Decrease). Personnel report emptiness when the relief ends.
 
 **Entry 5 — <Rest Area Provision Audit, Zone B>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

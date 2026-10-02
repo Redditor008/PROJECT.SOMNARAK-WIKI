@@ -277,7 +277,9 @@ The loneliness of dying and the fear that the last moment will vanish with the p
 Management: Do not attempt to erase a final moment; acknowledge and record it. Work response — Flerehan: Shows final moments of love, acceptance, or peace. (Decrease); Pugnahan: Releases a wave of fear and regret. (Increase); Viderehan: Reveals the final moment of a selected dead person. (Stable); Ferrehan: Makes the worker experience the approach of their own ending. (Decrease). Personnel experience existential crisis after prolonged exposure.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply. …  Threat rating: Low. Holds the final thoughts of every citizen who died unwitnessed. Effect: proximity induces the loneliness of dying.
+The figure does not settle on a face. It flickers through them — thousands, each held for less than a second, each carrying the last thought that went with it — and the flicker never repeats in an order anyone has been able to record. Personnel sit with it, which is permitted. The stated reason given by most of them is that somebody should be in the room, and the file takes that at face value, since it is also the only thing the entity has ever been shown to want.
+
+**Threat rating:** Low. It has never moved and has never acted. What proximity produces is the loneliness of dying unwitnessed, delivered first-hand rather than as sympathy, and the absence it carries thins the edges of the chamber while a worker is inside it.
 
 ## 최종 관찰 (Final Observation)
 

@@ -278,7 +278,9 @@ The exhaustion of grieving a place that can no longer be restored.
 Management: Do not wake it; reduce noise and acknowledge the dead. Work response — Flerehan: The figure sleeps more peacefully and the ruins settle. (Decrease); Pugnahan: The dream shifts into a destructive collapse. (Increase); Viderehan: Reveals the settlement's final day. (Stable); Ferrehan: Tests whether the worker can remain near sleeping grief. (Decrease). It is calmest when mourned quietly.
 
 **Entry 5 — <Structural Dependency Note, Unresolved>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

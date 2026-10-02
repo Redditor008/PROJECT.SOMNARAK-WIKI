@@ -317,7 +317,9 @@ The grief of loving a place so fiercely that preservation became destruction.
 Work response — Viderehan: Shows the love and failure behind the structure. (Stable); Ferrehan: Tests whether the worker can remain without rebuilding. (Decrease). It preserves places rather than objects.
 
 **Entry 5 — <Director's Minute on the Lodging of the Surveys>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

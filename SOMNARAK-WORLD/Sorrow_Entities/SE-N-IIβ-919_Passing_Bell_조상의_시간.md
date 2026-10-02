@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of Passing Bell, not ordinary equip
 
 ## 감각 묘사 (Flavor Text)
 
-The weight arrives in the spirit register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. An hour, once per cycle, during which the voices of the dead become audible in Z... The space does not become generic or abstract; it changes in the specific way associated with weight filtered through spirit.
+The weight arrives in the spirit register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. An hour, once per cycle, during which the voices of the dead become audible in Zone A. They do not speak to the living — they speak to each other, and what they say is always a warning that the living cannot decipher in time. The space does not become generic or abstract; it changes in the specific way associated with weight filtered through spirit.
 
 **At first contact:** The spirit signature is unmistakable — this is not a general weight entity but one whose sorrow has taken the specific shape of spirit.
 

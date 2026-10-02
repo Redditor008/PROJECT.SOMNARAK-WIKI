@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of Dead Air, not ordinary equipment
 
 ## 감각 묘사 (Flavor Text)
 
-Contact is disorienting. The weight pressure is familiar — every agent in Somnarak knows weight — but the spirit filter makes it alien. A barometric anomaly in Zone A that causes the dead to become briefly, tangibly ... It is the same element in a different language, and the language is spirit.
+Contact is disorienting. The weight pressure is familiar — every agent in Somnarak knows weight — but the spirit filter makes it alien. A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. It is the same element in a different language, and the language is spirit.
 
 **At first contact:** The spirit signature is unmistakable — this is not a general weight entity but one whose sorrow has taken the specific shape of spirit.
 

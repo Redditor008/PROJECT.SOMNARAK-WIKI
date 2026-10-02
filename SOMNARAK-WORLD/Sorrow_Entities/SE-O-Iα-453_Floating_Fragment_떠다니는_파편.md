@@ -287,7 +287,7 @@ A small ember floats in the corridor. It is beautiful until the sound begins: so
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A small burning fragment that floats at shoulder height, sometimes forming the outline of a crying.... The first sensation is always Lament — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A small burning fragment that floats at shoulder height, sometimes forming the outline of a crying figure. The first sensation is always Lament — unmistakable, specific, impossible to mistake for anything else in the city.
 
 **With continued exposure:** The Subject-Grudge settles into a presence you learn to hold — not comfortably, but recognisably. The Lament pressure stops being an assault and becomes a climate: something you move within rather than against.
 

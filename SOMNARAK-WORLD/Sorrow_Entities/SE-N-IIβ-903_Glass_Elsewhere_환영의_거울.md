@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of Glass Elsewhere, not ordinary eq
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the void pressure and the phantasmal register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A standing mirror whose surface ripples like water. It does ... Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+There is a moment — always the same, always brief — when the void pressure and the phantasmal register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demolished, faces of people who have been Fractured. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
 
 **At first contact:** The phantasmal signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of phantasmal.
 

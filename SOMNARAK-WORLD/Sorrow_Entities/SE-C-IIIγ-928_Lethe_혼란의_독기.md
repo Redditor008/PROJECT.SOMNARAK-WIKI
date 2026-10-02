@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of Lethe, not ordinary equipment. T
 
 ## 감각 묘사 (Flavor Text)
 
-The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. An invisible gas that accumulates in the lower levels of Zone C, causing progres... The void pressure is present, but it does not behave like standard void. It moves through the mind register as if that register were its native element.
+The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. An invisible gas that accumulates in the lower levels of Zone C, causing progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. The void pressure is present, but it does not behave like standard void. It moves through the mind register as if that register were its native element.
 
 **At first contact:** The mind signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of mind.
 

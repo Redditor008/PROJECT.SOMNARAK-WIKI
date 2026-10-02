@@ -10,18 +10,18 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 
 | Measure | Value |
 |---|---|
-| Dossier body lines | 28092 |
+| Dossier body lines | 28123 |
 | Lines shared by 30+ dossiers | 6302 |
-| **Headline** | **22.43%** |
+| **Headline** | **22.41%** |
 | Dossiers still at 30+ shared lines | 83 |
 | Dossiers fully cleaned | 47 |
-| Unfinished-text breaks outstanding | 105 |
+| Unfinished-text breaks outstanding | 0 |
 
 ## Workstream 1 — De-boilerplate (open)
 
 Whole-file rewriting of the worst-affected dossiers, one file per turn, bespoke per entity. Rules `R-02`, `R-04`, `R-05`, `R-14`, `R-15` all bind here.
 
-**Progress: 47 / 130.** Headline trajectory 34.3% → 22.43%.
+**Progress: 47 / 130.** Headline trajectory 34.3% → 22.41%.
 
 ### Next targets, in order
 
@@ -46,11 +46,13 @@ Every cleaned file keeps 9–13 lines of genuine cross-reference furniture (`**C
 
 Fallow 50→12, Shard 49→9, Ephemera 48→12, Border Tree 48→11, Tear 48→11, Glass 48→12, Portcullis 47→11, Thralldom 47→12, Aphasia 47→12, Forgotten Tear 47→12, Anonym 47→12, Welcome Haven 47→11, Survivors' Breath 47→10, Quagmire 47→10, Yggdrasil Wound 46→13, Repose 46→11, Grasp 46→10, Uprooted 46→11, Sleeping Tree 46→10, Frozen Mirror 45→11, Heirloom 45→9, Spire 45→10, Memory Chain 45→10, Feu Follet 45→10, Broken Whisper 45→9, Ember Phoenix 44→10, Broken Fragment 44→9, Brume 44→11, Myrmidon 44→9, Broken Ruin 44→11, Errant 43→11, Atlas 43→11, Animus 43→10, Conservatory 43→9, Home to No One 43→9, Broken Door 42→10, Tower Erased Overnight 42→9, Relic Waiting for Its Maker 42→9, Exiles' Wall 41→10, Protest No One Remembers 41→10, Pent 41→9, The Silent Child 39→11, Broken Tear 39→10, Relic of a Thousand Owners 38→9, The Wrath Flame 38→10, Soaking Rope 38→11, Sleeping Shard 38→9.
 
-## Workstream 2 — Unfinished text (reopened)
+## Workstream 2 — Unfinished text (closed on both scans)
 
-**312 end-of-line breaks completed; that scan returns zero.** Then a second kind surfaced that the scan could not see: the sentence is cut mid-clause and another fragment is fused on after the break, so the line ends on a full stop. **105 remain in the dossier wings, across 97 files.** Detail in `UNFINISHED_TEXT_REGISTER.md`.
+**391 breaks completed.** 312 that ended a line, and 79 more that did not — cut mid-clause with another fragment fused on after the break, so the line ended on a full stop and read as finished. Both scans now return zero. Detail in `UNFINISHED_TEXT_REGISTER.md`.
 
-This is the second defect here to be invisible to the scan written for it. The first was thirty `| **Form** |` cells cut at 150 characters with no mark. Both were found by reading, not by scanning.
+26 mid-line ellipses remain and are deliberate: dramatic pauses in dialogue and testimony. They were each read before being left alone.
+
+Two defects here were invisible to the scan written for them — thirty `| **Form** |` cells cut at 150 characters with no mark, and these 79. Both were found by reading a file, not by scanning the archive.
 
 ## Workstream 4 — Splice seams (queued, not started)
 

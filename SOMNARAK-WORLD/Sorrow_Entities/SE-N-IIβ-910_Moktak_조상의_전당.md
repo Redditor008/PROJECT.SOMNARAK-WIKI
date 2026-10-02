@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of Moktak, not ordinary equipment. 
 
 ## 감각 묘사 (Flavor Text)
 
-You feel it before you see it. The spirit register is not visual — it is atmospheric, visceral, a pressure that settles into the chest. A ceremonial hall in Zone A where the city’s founding families once gathered. Th... And the weight is there, unmistakable, but wearing a shape you have not felt before.
+You feel it before you see it. The spirit register is not visual — it is atmospheric, visceral, a pressure that settles into the chest. A ceremonial hall in Zone A where the city’s founding families once gathered. The hall is empty — except at dusk, when translucent figures appear in the seats and resume conversations that ended centuries ago. And the weight is there, unmistakable, but wearing a shape you have not felt before.
 
 **At first contact:** The spirit signature is unmistakable — this is not a general weight entity but one whose sorrow has taken the specific shape of spirit.
 

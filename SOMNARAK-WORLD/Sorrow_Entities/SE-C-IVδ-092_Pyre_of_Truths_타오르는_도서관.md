@@ -300,7 +300,9 @@ The grief of truths suppressed and stories denied the right to exist.
 Readers of the Burning Page report knowledge they cannot un-know.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. The Library burns perpetually with forbidden truth. Effect: viewers see censored records in the flames.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+
+**Threat rating:** Low. The Library burns perpetually with forbidden truth. Effect: viewers see censored records in the flames.
 
 ## 최종 관찰 (Final Observation)
 

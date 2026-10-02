@@ -309,7 +309,7 @@ The alarms stop. The facility becomes silent. Three birds rise in a perfect tria
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales.... The space does not become generic; it shifts in the specific register of Weight.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze. The space does not become generic; it shifts in the specific register of Weight.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Weight pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

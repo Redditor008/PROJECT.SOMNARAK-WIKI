@@ -273,7 +273,9 @@ The burden of remembering someone who did not remember you.
 Management: Patient endurance and honest acknowledgment. Work response — Flerehan: The wall lowers and reaches toward the worker. (Decrease); Pugnahan: It hardens against aggression. (Increase); Viderehan: Reveals the memories the city erased. (Stable); Ferrehan: Pushes against the worker until patience wins. (Decrease). It communicates through emotion.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. A wall of one-sided remembering. Effect: proximity induces the burden of remembering someone who forgot you.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Low. A wall of one-sided remembering. Effect: proximity induces the burden of remembering someone who forgot you.
 
 ## 최종 관찰 (Final Observation)
 

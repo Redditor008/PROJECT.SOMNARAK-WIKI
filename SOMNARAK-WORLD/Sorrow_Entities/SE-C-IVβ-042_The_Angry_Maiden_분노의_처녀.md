@@ -304,7 +304,7 @@ Heat gathers in the room like a held breath. The Maiden stands inside it, bright
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A young woman made of crystallized fire. Her body burns bright red and orange, and her voice.... The space does not become generic; it shifts in the specific register of Grudge.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A young woman made of crystallized fire. Her body burns bright red and orange, and her voice carries the heat of accusation. The space does not become generic; it shifts in the specific register of Grudge.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

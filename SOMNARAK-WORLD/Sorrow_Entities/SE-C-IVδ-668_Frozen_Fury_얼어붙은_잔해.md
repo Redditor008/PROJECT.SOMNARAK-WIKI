@@ -315,7 +315,9 @@ The rage of a home destroyed while its residents were still being blamed for its
 Work response — Viderehan: Shows the history beneath the ruin. (Stable); Ferrehan: Tests whether the worker can remain among absent lives. (Decrease). Personnel feel rage before fear.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Moderate. The Ruin rages in cold stasis. Effect: proximity induces fury of the wrongly blamed.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+
+**Threat rating:** Moderate. The Ruin rages in cold stasis. Effect: proximity induces fury of the wrongly blamed.
 
 ## 최종 관찰 (Final Observation)
 

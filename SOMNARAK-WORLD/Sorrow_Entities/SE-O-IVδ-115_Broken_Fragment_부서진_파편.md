@@ -312,7 +312,9 @@ The burden of history condensed into one piece too heavy to move.
 Work response — Viderehan: Reveals the monument's debt history. (Stable); Ferrehan: Tests whether the worker can remain beneath its pressure. (Decrease). It creates grief rather than fear in witnesses.
 
 **Entry 5 — <Director's Minute on the District Correspondence>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

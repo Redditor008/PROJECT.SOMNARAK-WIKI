@@ -305,7 +305,7 @@ He is small enough to carry and old enough to have waited forever. The crown on 
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A translucent child-like figure wearing a small crown made from crystallized tears. He flickers.... The space does not become generic; it shifts in the specific register of Lament.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A translucent child-like figure wearing a small crown made from crystallized tears. He flickers while wandering and asks where the person who left him has gone. The space does not become generic; it shifts in the specific register of Lament.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Lament pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

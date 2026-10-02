@@ -246,7 +246,7 @@ Each M.A.W. piece is a conditional extension of Amnesia, not ordinary equipment.
 
 ## 감각 묘사 (Flavor Text)
 
-The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. A single minute — always between 1159 and 1200 on an unmarked day — during which... The void pressure is present, but it does not behave like standard void. It moves through the void register as if that register were its native element.
+The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are. The void pressure is present, but it does not behave like standard void. It moves through the void register as if that register were its native element.
 
 **At first contact:** The void signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of void.
 

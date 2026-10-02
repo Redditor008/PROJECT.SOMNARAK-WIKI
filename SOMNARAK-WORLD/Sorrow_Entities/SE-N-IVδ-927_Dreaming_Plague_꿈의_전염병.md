@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of Dreaming Plague, not ordinary eq
 
 ## 감각 묘사 (Flavor Text)
 
-The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A contagious dream-state that spreads through proximity in Zone D. One person fa... The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream.
+The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream.
 
 **At first contact:** The dream signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of dream.
 

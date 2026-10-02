@@ -304,7 +304,7 @@ The room becomes silent in a way that presses against your eardrums. The creatur
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A hunched humanoid barely one meter tall. Its skin is thin, dry, translucent, and the color of old.... The space does not become generic; it shifts in the specific register of Void.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A hunched humanoid barely one meter tall. Its skin is thin, dry, translucent, and the color of old paper. Its eyes glow faintly white. It has no mouth and absorbs debt through its hands. The space does not become generic; it shifts in the specific register of Void.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

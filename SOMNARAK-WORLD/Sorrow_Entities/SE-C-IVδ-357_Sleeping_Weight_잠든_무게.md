@@ -273,7 +273,9 @@ The grief of doing what must be done without receiving recognition or rest.
 Management: Do not wake it; distribute the burden among a team. Work response — Flerehan: Remains asleep and its weight becomes gentler. (Decrease); Pugnahan: The tunnel grows heavier and the figure stirs. (Increase); Viderehan: Shows the task it never believed was complete. (Stable); Ferrehan: Tests the worker beneath increasing pressure. (Decrease). Personnel report longing after exposure, often longing for rest.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Low. A worker braced beneath a beam, eternally holding. Effect: proximity induces the exhaustion of unrewarded duty.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+
+**Threat rating:** Low. A worker braced beneath a beam, eternally holding. Effect: proximity induces the exhaustion of unrewarded duty.
 
 ## 최종 관찰 (Final Observation)
 

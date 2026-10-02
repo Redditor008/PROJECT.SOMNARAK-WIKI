@@ -274,7 +274,9 @@ The burden of having to rise again when no one asks whether you are ready.
 Management: Allow the cycle to finish; forced extinguishing causes violent rebirth. Work response — Flerehan: The flames lower and the Phoenix delays rebirth. (Decrease); Pugnahan: It attacks in a blazing dive. (Increase); Viderehan: Shows memories from previous cycles. (Stable); Ferrehan: Tests whether the worker can witness death without demanding resurrection. (Decrease). Personnel feel hope before understanding the exhaustion beneath it.
 
 **Entry 5 — <Director's Minute on the Extinguishing Prohibition>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 
@@ -291,7 +293,7 @@ The sky catches fire. Wings cross the Desolate, then collapse into ash. You expe
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A massive bird made of crimson flame and black ash. It burns, dies, and reforms from its own.... The space does not become generic; it shifts in the specific register of Grudge.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A massive bird made of crimson flame and black ash. It burns, dies, and reforms from its own remains. The space does not become generic; it shifts in the specific register of Grudge.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

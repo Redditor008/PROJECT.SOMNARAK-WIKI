@@ -324,7 +324,7 @@ Each M.A.W. piece is a conditional extension of Grimoire, not ordinary equipment
 
 ## 감각 묘사 (Flavor Text)
 
-The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. A leather-bound tome whose pages fill themselves with ink that seeps from the bi... The grudge pressure is present, but it does not behave like standard grudge. It moves through the tale register as if that register were its native element.
+The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it. The grudge pressure is present, but it does not behave like standard grudge. It moves through the tale register as if that register were its native element.
 
 **At first contact:** The tale signature is unmistakable — this is not a general grudge entity but one whose sorrow has taken the specific shape of tale.
 

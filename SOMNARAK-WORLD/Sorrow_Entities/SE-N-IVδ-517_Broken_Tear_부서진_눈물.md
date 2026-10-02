@@ -275,7 +275,9 @@ The pain of crying for so long that the crying becomes a separate life.
 Management: Do not interrupt or promise relief; remain present. Work response — Flerehan: The figure becomes clearer and the sound softens. (Decrease); Pugnahan: The dream cracks and the crying intensifies. (Increase); Viderehan: Reveals the original loss beneath the sound. (Stable); Ferrehan: Tests whether the worker can remain through the entire lament. (Decrease). It is more active near liquid-memory entities.
 
 **Entry 5 — <Director's Memo on the Entrant Pool, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

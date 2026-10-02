@@ -290,7 +290,7 @@ The petals are beautiful until you see the split. Crimson light burns along the 
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A figure shaped like a torn flower, weeping from its split petals. It appears in cracks between old.... The first sensation is always Grudge — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A figure shaped like a torn flower, weeping from its split petals. It appears in cracks between old buildings. The first sensation is always Grudge — unmistakable, specific, impossible to mistake for anything else in the city.
 
 **With continued exposure:** The Subject-Lament settles into a presence you learn to hold — not comfortably, but recognisably. The Grudge pressure stops being an assault and becomes a climate: something you move within rather than against.
 

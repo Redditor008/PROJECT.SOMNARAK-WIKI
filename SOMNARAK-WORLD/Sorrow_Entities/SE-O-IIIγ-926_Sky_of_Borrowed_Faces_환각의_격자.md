@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of Sky of Borrowed Faces, not ordin
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the lament pressure and the phantasmal register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. An area of the Desolate where the air itself projects images... Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+There is a moment — always the same, always brief — when the lament pressure and the phantasmal register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. An area of the Desolate where the air itself projects images — memories, fears, faces of the Fractured — onto whatever surface is available. The images move, speak, and sometimes reach out. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
 
 **At first contact:** The phantasmal signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of phantasmal.
 

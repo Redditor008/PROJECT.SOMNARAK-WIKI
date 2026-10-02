@@ -254,7 +254,7 @@ Each M.A.W. piece is a conditional extension of Cracked Flesh, not ordinary equi
 
 ## 감각 묘사 (Flavor Text)
 
-The grudge arrives in the body register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A zone of ground in Zone B where anyone who stands for more than three minutes d... The space does not become generic or abstract; it changes in the specific way associated with grudge filtered through body.
+The grudge arrives in the body register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, as if the body were porcelain under pressure. The space does not become generic or abstract; it changes in the specific way associated with grudge filtered through body.
 
 **At first contact:** The body signature is unmistakable — this is not a general grudge entity but one whose sorrow has taken the specific shape of body.
 

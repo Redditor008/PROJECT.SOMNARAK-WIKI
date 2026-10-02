@@ -274,7 +274,9 @@ The weight of grief hidden beneath homes, streets, and family histories.
 Management: Listen to the Root's history; cutting roots causes further spread. Work response — Flerehan: Roots loosen and reveal the grief below. (Decrease); Pugnahan: Roots harden and spread aggressively. (Increase); Viderehan: Shows the buried history of the ground. (Stable); Ferrehan: Weighs the worker with increasing pressure. (Decrease). Personnel report grief before seeing the figure.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

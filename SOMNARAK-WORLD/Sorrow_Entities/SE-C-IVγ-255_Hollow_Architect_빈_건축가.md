@@ -290,7 +290,7 @@ The Architect draws a line and a wall rises. It draws another and a door appears
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every.... The first sensation is always Weight — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished. The first sensation is always Weight — unmistakable, specific, impossible to mistake for anything else in the city.
 
 **With continued exposure:** The Subject-Body settles into a presence you learn to hold — not comfortably, but recognisably. The Weight pressure stops being an assault and becomes a climate: something you move within rather than against.
 

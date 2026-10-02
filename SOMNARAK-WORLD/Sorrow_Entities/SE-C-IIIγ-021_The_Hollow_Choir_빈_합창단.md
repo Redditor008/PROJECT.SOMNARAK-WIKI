@@ -306,7 +306,7 @@ You hear the Choir before you see the empty amphitheater. It is not music but gr
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: The Choir has no physical body. It manifests as 144 ethereal voices filling a specially constructed.... The first sensation is always Lament — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: The Choir has no physical body. It manifests as 144 ethereal voices filling a specially constructed amphitheater. The empty stage, walls, ceiling, and floor become the apparent source of the sound. The first sensation is always Lament — unmistakable, specific, impossible to mistake for anything else in the city.
 
 **With continued exposure:** The Subject-Spirit settles into a presence you learn to hold — not comfortably, but recognisably. The Lament pressure stops being an assault and becomes a climate: something you move within rather than against.
 

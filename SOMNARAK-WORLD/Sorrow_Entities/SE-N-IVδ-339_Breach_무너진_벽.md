@@ -279,7 +279,9 @@ The grief of believing a barrier would hold and discovering that the danger was 
 Management: Establish realistic anchors; do not promise perfect safety. Work response — Flerehan: Cracks widen gently and reveal the fear beneath. (Decrease); Pugnahan: The wall collapses into the worker's thoughts. (Increase); Viderehan: Shows the protection and the moment it failed. (Stable); Ferrehan: Tests the worker's ability to remain after safety disappears. (Decrease). Personnel report fear even in secure rooms.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

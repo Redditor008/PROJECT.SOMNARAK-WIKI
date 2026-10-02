@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of Eleven Fifty-Nine, not ordinary 
 
 ## 감각 묘사 (Flavor Text)
 
-Contact is disorienting. The lament pressure is familiar — every agent in Somnarak knows lament — but the lament filter makes it alien. An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400... It is the same element in a different language, and the language is lament.
+Contact is disorienting. The lament pressure is familiar — every agent in Somnarak knows lament — but the lament filter makes it alien. An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget. It is the same element in a different language, and the language is lament.
 
 **At first contact:** The lament signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of lament.
 

@@ -271,7 +271,9 @@ The grief of being held in place by duties no one else remembers.
 Management: Ground the worker and establish a rotation of duty. Work response — Flerehan: The Pillar softens and allows grief to pass. (Decrease); Pugnahan: It rises through the worker's thoughts. (Increase); Viderehan: Reveals the duties holding the worker in place. (Stable); Ferrehan: Tests whether the worker can rest beneath responsibility. (Decrease). Personnel report emptiness after contact.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 
@@ -288,7 +290,7 @@ A pillar rises inside your mind, holding up a ceiling no one else can see. You a
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Mind, pressing or releasing like a tide. Then the form resolves: A pillar-shaped presence sleeping inside consciousness. Its surface is pale and its shadow reaches.... The space does not become generic; it shifts in the specific register of Void.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Mind, pressing or releasing like a tide. Then the form resolves: A pillar-shaped presence sleeping inside consciousness. Its surface is pale and its shadow reaches into forgotten rooms. The space does not become generic; it shifts in the specific register of Void.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

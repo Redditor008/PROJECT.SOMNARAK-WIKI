@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of Unwaking Block, not ordinary equ
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the lament pressure and the dream register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A residential block in Zone D where every inhabitant fell as... Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+There is a moment — always the same, always brief — when the lament pressure and the dream register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
 
 **At first contact:** The dream signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of dream.
 

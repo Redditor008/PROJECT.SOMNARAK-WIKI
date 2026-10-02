@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of Dawn That Forgot, not ordinary e
 
 ## 감각 묘사 (Flavor Text)
 
-The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A dawn that arrives but does not wake the city. The sun rises, the sky lightens,... The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream.
+The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes. The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream.
 
 **At first contact:** The dream signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of dream.
 

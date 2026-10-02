@@ -294,7 +294,7 @@ The Saint reaches for you like someone starving. Its touch is cold, not because 
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Void, pressing or releasing like a tide. Then the form resolves: A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people.... The space does not become generic; it shifts in the specific register of Void.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Void, pressing or releasing like a tide. Then the form resolves: A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people as if searching for something to fill it. The space does not become generic; it shifts in the specific register of Void.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

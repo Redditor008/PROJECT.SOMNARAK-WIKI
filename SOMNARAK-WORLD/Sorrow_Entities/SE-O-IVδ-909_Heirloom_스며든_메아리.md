@@ -286,7 +286,9 @@ The exhaustion of inherited fury that consumes both victim and bearer.
 Work response — Viderehan: Reveals how the grievance spread. (Stable); Ferrehan: Tests whether the worker can remain while the sound burns away. (Decrease). Personnel report sorrow after the rage fades.
 
 **Entry 5 — <Director's Standing Instruction on Quoted Grievances>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

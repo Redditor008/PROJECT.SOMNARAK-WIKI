@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of Vellum Man, not ordinary equipme
 
 ## 감각 묘사 (Flavor Text)
 
-The lament arrives in the tale register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A figure made of paper and ink that shimmers when spoken to — its body is a manu... The space does not become generic or abstract; it changes in the specific way associated with lament filtered through tale.
+The lament arrives in the tale register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A figure made of paper and ink that shimmers when spoken to — its body is a manuscript of forgotten tales, pages turning beneath skin that is not skin but vellum. The space does not become generic or abstract; it changes in the specific way associated with lament filtered through tale.
 
 **At first contact:** The tale signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of tale.
 

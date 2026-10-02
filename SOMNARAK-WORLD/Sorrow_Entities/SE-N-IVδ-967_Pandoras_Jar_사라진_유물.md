@@ -275,7 +275,9 @@ The pain of losing an object that carried a people's identity.
 Management: Bear the heat and name what was lost. Work response — Flerehan: Reaches toward the worker, seeking recognition. (Decrease); Pugnahan: Burns with retaliatory fury. (Increase); Viderehan: Reveals fragments of the missing relic's history. (Stable); Ferrehan: Tests the worker beneath increasing heat. (Decrease). Its fire does not consume material; it burns memory.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 
@@ -292,7 +294,7 @@ A red flame walks across the horizon carrying pieces of something you cannot nam
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Grudge, pressing or releasing like a tide. Then the form resolves: A burning humanoid figure carrying fragments of an object that no longer exists. Its fire is.... The space does not become generic; it shifts in the specific register of Weight.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Grudge, pressing or releasing like a tide. Then the form resolves: A burning humanoid figure carrying fragments of an object that no longer exists. Its fire is crimson-black and leaves no ash. The space does not become generic; it shifts in the specific register of Weight.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Weight pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

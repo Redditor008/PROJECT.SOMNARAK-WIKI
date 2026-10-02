@@ -279,7 +279,9 @@ The weight of surviving while no longer feeling connected to one's own past.
 Management: Use memory anchors and reconstruct the person's history without inventing missing pieces. Work response — Flerehan: Reaches toward the worker through the tear. (Decrease); Pugnahan: Space around it tears and grows heavier. (Increase); Viderehan: Shows fragments of the life that was divided. (Stable); Ferrehan: Tests whether the worker can endure discontinuity. (Decrease). It becomes more active during the Sorrow Tide.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow …  Threat rating: Low. A person-shaped gap from Han-fractured memories. Effect: proximity induces the disconnection from one’s own past.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+
+**Threat rating:** Low. A person-shaped gap from Han-fractured memories. Effect: proximity induces the disconnection from one’s own past.
 
 ## 최종 관찰 (Final Observation)
 

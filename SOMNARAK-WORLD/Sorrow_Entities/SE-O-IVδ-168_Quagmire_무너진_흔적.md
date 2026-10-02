@@ -316,7 +316,9 @@ The burden of a journey ending without arrival.
 Work response — Viderehan: Reveals the route and its missing travelers. (Stable); Ferrehan: Tests whether the worker can remain at the end of a journey. (Decrease). Personnel feel loss without seeing a body.
 
 **Entry 5 — <Cartographic Office Note on Decommissioned Routes>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+
+**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

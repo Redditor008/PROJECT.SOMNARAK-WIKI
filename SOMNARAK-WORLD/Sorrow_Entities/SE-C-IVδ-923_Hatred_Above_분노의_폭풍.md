@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of Hatred Above, not ordinary equip
 
 ## 감각 묘사 (Flavor Text)
 
-Contact is disorienting. The grudge pressure is familiar — every agent in Somnarak knows grudge — but the grudge filter makes it alien. A stationary atmospheric anomaly above Zone C that generates localized fury in a... It is the same element in a different language, and the language is grudge.
+Contact is disorienting. The grudge pressure is familiar — every agent in Somnarak knows grudge — but the grudge filter makes it alien. A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person. It is the same element in a different language, and the language is grudge.
 
 **At first contact:** The grudge signature is unmistakable — this is not a general grudge entity but one whose sorrow has taken the specific shape of grudge.
 

@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of Miasma, not ordinary equipment. 
 
 ## 감각 묘사 (Flavor Text)
 
-Contact is disorienting. The lament pressure is familiar — every agent in Somnarak knows lament — but the lament filter makes it alien. A bank of fog that rolls through the lower corridors of Zone D without warning. ... It is the same element in a different language, and the language is lament.
+Contact is disorienting. The lament pressure is familiar — every agent in Somnarak knows lament — but the lament filter makes it alien. A bank of fog that rolls through the lower corridors of Zone D without warning. Those caught in it begin to weep — not from sadness but from the sheer weight of grief that the fog carries, grief that is not theirs. It is the same element in a different language, and the language is lament.
 
 **At first contact:** The lament signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of lament.
 

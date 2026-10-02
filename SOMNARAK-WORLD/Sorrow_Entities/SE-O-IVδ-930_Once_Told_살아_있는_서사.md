@@ -244,7 +244,7 @@ Each M.A.W. piece is a conditional extension of Once Told, not ordinary equipmen
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the lament pressure and the tale register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A phenomenon in the deep Desolate where stories told aloud b... Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+There is a moment — always the same, always brief — when the lament pressure and the tale register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
 
 **At first contact:** The tale signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of tale.
 

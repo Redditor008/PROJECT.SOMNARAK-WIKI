@@ -307,7 +307,7 @@ Silence presses against your ears, but it is not empty. A small translucent figu
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A small, translucent child barely visible at the edge of sight. The Child makes no sound and often.... The space does not become generic; it shifts in the specific register of Void.
+**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A small, translucent child barely visible at the edge of sight. The Child makes no sound and often sits in corners or beneath garden structures. The space does not become generic; it shifts in the specific register of Void.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 

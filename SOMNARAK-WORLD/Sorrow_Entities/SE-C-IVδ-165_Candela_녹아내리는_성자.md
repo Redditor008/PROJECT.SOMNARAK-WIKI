@@ -277,7 +277,9 @@ The pain of knowing that people will suffer and being unable to prevent every fu
 Management: Do not treat every vision as inevitable; distinguish possibility from fate. Work response — Flerehan: Melting slows when its sorrow is shared. (Decrease); Pugnahan: The body collapses faster and the floor becomes slippery with grief. (Increase); Viderehan: Shows possible future losses. (Stable); Ferrehan: Tests whether the worker can endure knowing without intervening. (Decrease). Personnel may become unable to experience present joy after prolonged exposure.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a …  Threat rating: Low. The Saint melts between present and future grief. Effect: proximity induces anticipatory mourning.
+The Saint runs. Wax leaves the face faster than it is replaced, and the features reset into an expression nobody in the chamber is wearing yet — the grief of whoever is standing closest, as they will wear it later. Staff who recognise their own future face on it do not usually say so at the time. The recognitions that have been reported were reported weeks afterward, and in every case the grief had arrived in between.
+
+**Threat rating:** Low. The melting is continuous and the figure has never left its alcove. The hazard is anticipatory mourning — personnel grieve a loss that has not happened, accurately, and the keening that follows fractures composure in anyone within earshot who has also seen their own face on it.
 
 ## 최종 관찰 (Final Observation)
 
