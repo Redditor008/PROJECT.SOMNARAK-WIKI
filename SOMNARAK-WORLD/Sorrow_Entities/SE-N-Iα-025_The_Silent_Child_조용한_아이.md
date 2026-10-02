@@ -170,7 +170,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** The standing instruction for an Escape-type breach reads physical suppression required, and this wing has contested that entry twice in writing. The objection is on file and has not been upheld: the Child is Residue-grade, has never injured anyone, and is retrieved by a worker sitting down in the corridor it chose and staying there. The instruction remains printed because the classification system assigns it by breach type rather than by entity, and the holding's own note is printed beneath it in full — that physical suppression of this entity has never been attempted, is not authorised at this site without a Director's signature, and would in the file's words be the original injury repeated by people who had read the dossier.
+- **Containment priority:** The standing instruction for an Escape-type breach reads physical suppression required; it is assigned by breach type across the whole register, and at this holding it governs nothing that anyone has ever had cause to do. The Child is Residue-grade, has injured no one, and is recovered by a worker sitting down in the corridor it has chosen and remaining there until it becomes visible again. Physical suppression of this entity is not authorised at this site without a Director's signature, and the ground stated for that requirement is the holding's own: it would be the original injury repeated by people who had read the dossier.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment

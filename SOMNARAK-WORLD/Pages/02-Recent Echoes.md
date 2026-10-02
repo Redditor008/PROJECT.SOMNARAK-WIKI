@@ -2,9 +2,9 @@
 
 > *“The archive does not sleep; every cycle writes a new line in the ledger of sorrow.”*
 
-**Recent Echoes**  [최근 반향 기록]  (_Choegeun Banhyang Girok_) serves as the live municipal bulletin and archival changelog for [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
+**Recent Echoes**  [최근 반향 기록]  (_Choegeun Banhyang Girok_) serves as the live municipal bulletin of [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
 
-This dispatch records recent operational updates within Facility 01, containment incident logs, personnel commendations, version revisions, and systemic expansions to the [Sorrow Entities](07-Sorrow%20Entities.md) codex.
+This dispatch records current operational conditions within Facility 01, containment incident logs, personnel commendations, the standing directives in force across the departments, and the systemic reach of the [Sorrow Entities](07-Sorrow%20Entities.md) codex.
 
 ```text
 +========================================================================+
@@ -13,7 +13,7 @@ This dispatch records recent operational updates within Facility 01, containment
 | Archive Activity       | Mnemonic Shift Logs & Real-Time Bulletins     |
 | Current Epoch Anchor   | Year 4,238 (Dawn of Hope) - Cycle 1,778       |
 | Facility 01 Status     | Operational Equilibrium - 9 Floors Active     |
-| System Versions        | Archive Patches 1.0 through 1.4 Formalized    |
+| Governing Standard     | Mnemonic Archive Standard, Full Force         |
 | Supervisory Board      | Reverie Directorate Archival Oversight Bureau |
 +========================================================================+
 ```
@@ -21,7 +21,7 @@ This dispatch records recent operational updates within Facility 01, containment
 ## Contents
 
 - [1 Municipal Bulletin and System Status](#1-municipal-bulletin-and-system-status)
-- [2 Chronological Archive Revisions (Patches 1.0 to 1.4)](#2-chronological-archive-revisions-patches-10-to-14)
+- [2 Standing Directives in Force](#2-standing-directives-in-force)
 - [3 Detailed Containment Incident Logs](#3-detailed-containment-incident-logs)
 - [4 Personnel Commendations and Memorial Roster](#4-personnel-commendations-and-memorial-roster)
 - [5 Departmental Directives and Seasonal Warnings](#5-departmental-directives-and-warnings)
@@ -35,26 +35,36 @@ This dispatch records recent operational updates within Facility 01, containment
 - **Lumen Reserves:** Supercritical battery charged; Absolvohan engine online.
 - **Active Containment Wings:** All nine departmental floors (Spires to Gate Watch) operating at full containment status.
 
-## 2 Chronological Archive Revisions (Patches 1.0 to 1.4)
+## 2 Standing Directives in Force
 
-### Revision 1.4 (Cycle 1,778.34) — Comprehensive Encyclopedia Overhaul
-- Standardized all 291 sorrow entities across the five canonical risk tiers (Residue to Sovereign).
-- Implemented the strict Two-Work-Type Rule for inanimate Tool Relics (Viderehan and Ferrehan only).
-- Verified mathematical balance of the four elemental pressures across all M.A.W. defensive suits.
+The Oversight Bureau publishes the governing rules of the Archive here so that no floor may claim not to have been told. Each directive binds every wing, and the Bureau answers queries on them at the Cycle sitting.
 
-### Revision 1.3 (Cycle 1,778.21) — Ordeals Master Grid Expansion
-- Calibrated the 5 Colors × 4 Watches master matrix, detailing incursion timing across First Watch to Tide Watch.
-- Integrated auditory siren thresholds (First to Fourth Warning Trumpets) for hallway incursion alerts.
+### Classification and the Entity Register
 
-### Revision 1.2 (Cycle 1,778.10) — Departmental Stratum Realizations
-- Formalized Core Realization parameters for all nine Echo-Cores, outlining cognitive handicaps and permanent floor perks.
+- All 291 sorrow entities are held under the five canonical risk tiers, Residue through Sovereign, and no entity is worked under a tier other than the one on its designation.
+- The Two-Work-Type Rule binds every inanimate Tool Relic absolutely: Viderehan and Ferrehan only, with no exception available to a Warden, a Lead, or a Director.
+- Elemental pressure across the four M.A.W. defensive suit families is held in balance by the Bureau, and a loadout whose affinities do not answer the cell it is dispatched into is refused at the armoury rather than at the door.
 
-### Revision 1.1 (Cycle 1,777.89) — Specialist Attributes & Panic Matrices
-- Refined the four core attributes: Resilience (HP), Clarity (SP), Composure (Success), and Resolve (Speed).
-- Balanced the four distinct Panic states (Rampage, Self-Undoing, Drifting, Sabotage) and Lament/mental recovery strikes.
+### The Ordeals Grid
 
-### Revision 1.0 (Cycle 1,775.01) — Initial Mnemonic Archive Standardization
-- Inaugural binding of the 16 Research Volumes and the 18-Section Archival Codex standard.
+- The master matrix of 5 Colors against 4 Watches governs all incursion timing, from First Watch through Tide Watch, and the grid is posted at every stairhead.
+- Auditory thresholds run First through Fourth Warning Trumpet. A hallway incursion alert is sounded on the grid's authority and not on a Warden's judgement; the trumpets are tested on the Cycle sitting and the test is announced beforehand.
+
+### Departmental Stratum
+
+- Core Realization parameters are fixed for all nine Echo-Cores, each one carrying both its cognitive handicap and its permanent floor perk. Neither half may be cited without the other.
+- A floor's perk is the property of the floor and not of the Core who holds it, which is the provision the Bureau is asked about most often and the one it restates without variation.
+
+### Specialist Attributes and Panic
+
+- The four core attributes govern every specialist on the register: Resilience for endurance, Clarity for mental reserve, Composure for success under pressure, and Resolve for speed of action.
+- The four Panic states — Rampage, Self-Undoing, Drifting, and Sabotage — are matched by recovery procedure rather than by restraint, and Lament-class mental recovery is the first resort in all four.
+- No specialist is dispatched into an unfamiliar cell below the posted Clarity floor for that wing.
+
+### The Archival Standard
+
+- The 16 Research Volumes and the 18-Section Archival Codex standard bind the whole of the Mnemonic Archive, and every dossier in the wing is held to the full section count.
+- A file that cannot support a section states so in that section, in plain words. The Bureau's position, printed at the head of the standard, is that a gap declared is a record and a gap concealed is not.
 
 ## 3 Detailed Containment Incident Logs
 

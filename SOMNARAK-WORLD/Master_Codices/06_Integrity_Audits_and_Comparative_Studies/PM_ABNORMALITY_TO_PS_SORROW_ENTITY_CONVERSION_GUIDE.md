@@ -1,13 +1,13 @@
 # PM ABNORMALITY TO PS SORROW ENTITY CONVERSION GUIDE
 ## Project Moon to Project Somnarak Architectural, Phenomenological & Mechanical Adaptation Codex
-### Master Systems Rework Edition — Legacy 10,000 HP Calibration & Tactical Re-Alignment
+### Master Systems Codex — 10,000 HP Calibration & Tactical Alignment
 
 ```text
 +========================================================================+
 |         ARCHIVE MASTER CODEX // SYSTEM TRANSMUTATION STANDARD          |
 +------------------------------------------------------------------------+
 | DOCUMENT: PM ABNORMALITY TO PS SORROW ENTITY CONVERSION GUIDE          |
-| REVISION: DEFINITIVE EXPANDED MASTER EDITION // YEAR 4,238             |
+| STANDING: DEFINITIVE EXPANDED MASTER CODEX // YEAR 4,238               |
 | RATIFYING BODY: SECC & ARCHIVE DIRECTORATE // RESTORATION ERA          |
 +------------------------------------------------------------------------+
 | SCOPE: COMPLETE METAPHYSICAL, COMBAT, WORK & EQUIPMENT TRANSMUTATION   |

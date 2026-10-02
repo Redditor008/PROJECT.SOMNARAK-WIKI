@@ -110,7 +110,7 @@ Somnarak fields nine operational departments across eight descending levels plus
 
 ## 5 Navigation Tools
 
-- [02-Recent Echoes](02-Recent%20Echoes.md) — recent changes, patchnotes, and field logs
+- [02-Recent Echoes](02-Recent%20Echoes.md) — municipal bulletin, standing directives, and field logs
 - [03-Random Dossier](03-Random%20Dossier.md) — random draw generator across all 291 containment records
 - [04-Help](04-Help.md) — reading guide for novices and containment safety standards
 - [42-Navigation](01-Main%20Page.md) — complete directory index

@@ -1112,11 +1112,11 @@ He does not possess complete answers for:
 
 His discovery changes the question. It does not solve the whole planet.
 
-### The Identity Error
+### The Conflated Name
 
-Five passages across two older shared files label “The Exile (Ishall).” Each one uses masculine pronouns for a figure who discovered the Furnace's role and was exiled for reporting it. Direct _Absolvohan_ narration and the controlling Nine establish that **Xyan** is that Exile and discoverer, while **Ishall** is the Outsider who receives his messages.
+Five passages in the shared records of the unknown cities carry the entry “The Exile (Ishall).” Each one uses masculine pronouns and each one describes a figure who discovered the Furnace's role and was cast out for reporting it. Direct _Absolvohan_ narration and the controlling Nine establish that **Xyan** is that Exile and that discoverer, while **Ishall** is the Outsider who receives his messages.
 
-This is a superseded name attribution, not a secret identity or merged character.
+The conflation runs one way and is easily accounted for. Xyan's reports reached the unknown cities through Ishall, who logged them, and the clerks of those cities recorded the name on the receiving end of the signal because it was the only name they ever saw. Two people, one signal, and a register that could only see where the line ended. Xyan and Ishall are separate members of the same nine, and no part of the record supports a hidden identity or a merged figure.
 
 ---
 
@@ -1318,7 +1318,7 @@ The R.D. reference supplies:
 - Lament and Weight signature;
 - partial Cycle awareness.
 
-Its contradictory speculation and fading-body language are superseded by the direct story outcome and the governing body taxonomy.
+Where that framework's speculation and its fading-body language run against the direct story outcome and the governing body taxonomy, the story outcome and the taxonomy are what bind.
 
 ### _Three Corporations_
 
@@ -1480,7 +1480,7 @@ This resolves the older contradiction of a commander permanently unable to enter
 - **Xyan** — Echo-Core 9, the Exile, man, sender and discoverer;
 - **Ishall** — Echo-Core 8, the Outsider, woman, receiver and reporter.
 
-The five older “Exile (Ishall)” references are superseded attribution errors. The corporation cast register lists Xyan and Ishall as separate members of the same nine.
+The five “Exile (Ishall)” entries in the records of the unknown cities carry Xyan's history under Ishall's name, for the reason set out above: she received and logged his messages, and the clerks wrote down the name at the end of the line. The corporation cast register lists Xyan and Ishall as separate members of the same nine.
 
 ### M.A.W. Status
 

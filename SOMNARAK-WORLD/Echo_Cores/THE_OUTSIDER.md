@@ -1372,7 +1372,7 @@ The R.D. reference provides her core history:
 - service as Echo-Core 8;
 - command of Floor 7 and field operations.
 
-Some of its anatomy, identity, and Cycle-summary wording is superseded by the controlling taxonomy and direct story dialogue.
+Where that framework's anatomy, identity, and Cycle-summary wording runs against the controlling taxonomy and the direct story dialogue, the taxonomy and the dialogue are what bind.
 
 ### _Three Corporations_
 
@@ -1486,7 +1486,7 @@ Controlling cast and direct story material establish:
 - **Ishall** — Echo-Core 8, the Outsider, woman, receiver of messages;
 - **Xyan** — Echo-Core 9, the Exile, man, sender of messages and discoverer of the Furnace's role.
 
-Three passages in the records of the unknown cities, and two entries in the broader Directorate framework, label “The Exile (Ishall).” Every one of them describes a **man** who discovered the Furnace's role and was exiled for it — Xyan's history, carrying Ishall's name. The corporation cast register lists the two separately in the same table: the Outsider who was sent to destroy the Directorate and stayed, and the Exile who was cast out for knowing too much. Those entries are therefore treated as superseded name attribution, not as a hidden identity twist.
+Three passages in the records of the unknown cities, and two entries in the broader Directorate framework, label “The Exile (Ishall).” Every one of them describes a **man** who discovered the Furnace's role and was exiled for it — Xyan's history, carrying Ishall's name. The corporation cast register lists the two separately in the same table: the Outsider who was sent to destroy the Directorate and stayed, and the Exile who was cast out for knowing too much. Those entries carry his history under her name because she received and logged his messages, and the clerks of those cities recorded the name at the end of the signal — the only one they ever saw. The conflation is clerical and runs one way; it is not a hidden identity twist.
 
 ### Appearance
 
