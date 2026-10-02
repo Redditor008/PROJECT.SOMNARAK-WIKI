@@ -140,8 +140,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (The Happy Mask)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (The Happy Mask)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** (Observation) | Shows the face and sorrow behind the smile. | Stable |
 | **Ferrehan** (Endurance) | Smiles at the worker for hours. | Decrease |
 ### Special Behaviors

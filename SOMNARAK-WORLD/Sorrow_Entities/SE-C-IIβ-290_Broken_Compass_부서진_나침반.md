@@ -137,8 +137,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Broken Compass)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (Broken Compass)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals the pattern behind being lost. | Stable |
 | **Ferrehan** | Tests whether the worker can watch without reacting. | Decrease |
 

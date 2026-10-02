@@ -135,8 +135,8 @@ The effects are cumulative. Each exposure layers void pressure in the dream regi
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Dawn That Forgot)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan (Dawn That Forgot)** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the dream pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
 

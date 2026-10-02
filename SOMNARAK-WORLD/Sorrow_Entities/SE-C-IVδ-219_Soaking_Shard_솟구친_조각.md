@@ -137,8 +137,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Soaking Shard)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (Soaking Shard)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals memories stored in its liquid interior. | Stable |
 | **Ferrehan** | Tests whether the worker can remain while grief flows. | Decrease |
 

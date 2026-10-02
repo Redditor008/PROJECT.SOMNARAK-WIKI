@@ -125,8 +125,8 @@ Premature pulverization leaves behind an uncontrollable silence anomaly that sup
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (The Magistrates Strike-Through)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (The Magistrates Strike-Through)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Monitors surface powdering and acoustic absorption levels on the plinth. | Stable |
 | **Ferrehan** | Demands the operative hold the chalk without drawing a line, resisting the urge to strike through their own identity. | Decrease |
 

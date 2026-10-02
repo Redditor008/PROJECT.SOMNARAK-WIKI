@@ -136,8 +136,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Owed)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (Owed)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals the history of individual obligations. | Stable |
 | **Ferrehan** | Tests the worker beneath the city's accumulated weight. | Decrease |
 

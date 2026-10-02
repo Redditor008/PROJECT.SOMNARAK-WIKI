@@ -136,8 +136,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Broken Fragment)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (Broken Fragment)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals the monument's debt history. | Stable |
 | **Ferrehan** | Tests whether the worker can remain beneath its pressure. | Decrease |
 

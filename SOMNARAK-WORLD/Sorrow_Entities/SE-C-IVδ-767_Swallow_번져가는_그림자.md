@@ -136,8 +136,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Swallow)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (Swallow)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals the people whose sorrow feeds it. | Stable |
 | **Ferrehan** | Tests whether the worker can carry grief without claiming it. | Decrease |
 

@@ -132,8 +132,8 @@ Thinking Engine was built — not born, built — by a Keeper named Seol who cou
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Thinking Engine)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan (Thinking Engine)** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the mind pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
 

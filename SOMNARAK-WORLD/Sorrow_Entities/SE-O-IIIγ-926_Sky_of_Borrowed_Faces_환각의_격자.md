@@ -134,8 +134,8 @@ The effects are cumulative. Each exposure layers lament pressure in the phantasm
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Sky of Borrowed Faces)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan (Sky of Borrowed Faces)** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the phantasmal pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
 

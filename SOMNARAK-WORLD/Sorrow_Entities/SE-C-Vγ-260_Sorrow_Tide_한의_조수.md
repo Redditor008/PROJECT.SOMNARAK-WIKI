@@ -138,8 +138,8 @@ The Tide does not respond to Work Types in the conventional sense.
 
 | Condition | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Sorrow Tide)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (Sorrow Tide)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | The Tide reveals grief currents across the city. | Stable |
 | **Ferrehan** | Personnel endure the wave until dawn. | Decrease |
 

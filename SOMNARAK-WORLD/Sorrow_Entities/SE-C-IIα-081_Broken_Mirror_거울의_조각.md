@@ -140,8 +140,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Broken Mirror)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (Broken Mirror)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** (Observation) | Reveals patterns in the viewer's history. | Stable |
 | **Ferrehan** (Endurance) | Shows the viewer's worst memory; facing it reduces distress. | Decrease |
 ### Special Behaviors

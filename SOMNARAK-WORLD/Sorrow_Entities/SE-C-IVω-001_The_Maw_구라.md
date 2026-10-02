@@ -143,8 +143,8 @@ The Maw responds to presence rather than conventional Work Types.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (The Maw)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (The Maw)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** (Observation) | Walls reveal impressions of the thousand and the sacrifice. | Stable |
 | **Ferrehan** (Endurance) | The district tests the visitor with layered voices and yielding ground. | Decrease if endured |
 ### Special Behaviors

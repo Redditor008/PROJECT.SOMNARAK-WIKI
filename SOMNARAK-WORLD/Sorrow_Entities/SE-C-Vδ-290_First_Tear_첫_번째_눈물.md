@@ -139,8 +139,8 @@ The Tear does not respond to Work Types in the conventional sense.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (First Tear)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (First Tear)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Shows the shape of sorrow before language. | Stable |
 | **Ferrehan** | Tests whether the observer can bear total grief. | Decrease |
 

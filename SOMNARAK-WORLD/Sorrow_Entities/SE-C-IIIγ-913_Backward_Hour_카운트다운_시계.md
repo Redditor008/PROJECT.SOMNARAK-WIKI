@@ -135,8 +135,8 @@ The effects are cumulative. Each exposure layers grudge pressure in the grudge r
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Backward Hour)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan (Backward Hour)** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the grudge pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the grudge pressure settles gradually under sustained presence. | Decrease |
 

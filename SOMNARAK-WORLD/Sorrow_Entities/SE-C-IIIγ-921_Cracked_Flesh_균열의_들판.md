@@ -135,8 +135,8 @@ The effects are cumulative. Each exposure layers grudge pressure in the body reg
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Cracked Flesh)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan (Cracked Flesh)** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the body pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the grudge pressure settles gradually under sustained presence. | Decrease |
 

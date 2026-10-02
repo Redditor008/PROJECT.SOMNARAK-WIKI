@@ -135,8 +135,8 @@ Personnel who work Labyrinth of the Unfinished Mind do not simply feel void pres
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Labyrinth of the Unfinished Mind)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan (Labyrinth of the Unfinished Mind)** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the mind pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
 

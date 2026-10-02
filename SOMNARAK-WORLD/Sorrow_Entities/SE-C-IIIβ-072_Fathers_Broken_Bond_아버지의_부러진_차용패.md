@@ -124,8 +124,8 @@ Failure to vent burden pressure causes the tablet to sink into the containment p
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Fathers Broken Bond)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (Fathers Broken Bond)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Records mass drift and acid oxidation rates on the tally faces. | Stable |
 | **Ferrehan** | Tests whether the worker can manually lift the tally without dropping it under phantom gravitational strain. | Decrease |
 

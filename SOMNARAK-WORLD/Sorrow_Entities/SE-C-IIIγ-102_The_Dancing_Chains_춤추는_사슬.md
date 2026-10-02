@@ -140,8 +140,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (The Dancing Chains)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (The Dancing Chains)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** (Observation) | Become still, allowing safe study. | Stable |
 | **Ferrehan** (Endurance) | Bind the worker temporarily and test their ability to endure motion. | Decrease |
 ### Special Behaviors

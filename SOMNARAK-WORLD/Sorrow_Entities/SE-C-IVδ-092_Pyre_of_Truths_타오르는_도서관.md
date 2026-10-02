@@ -139,8 +139,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Pyre of Truths)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (Pyre of Truths)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** (Observation) | Fire illuminates the book containing needed knowledge. | Stable |
 | **Ferrehan** (Endurance) | Tests the worker by forcing them through fire. | Decrease |
 ### Special Behaviors

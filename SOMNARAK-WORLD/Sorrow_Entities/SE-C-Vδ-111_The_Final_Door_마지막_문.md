@@ -142,8 +142,8 @@ The Door does not respond to Work Types in the conventional sense.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (The Final Door)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (The Final Door)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** (Observation) | Produces faint ancient whispers. | Stable |
 | **Ferrehan** (Endurance) | Remains silent while testing the worker's willingness to wait. | Stable |
 ### Special Behaviors

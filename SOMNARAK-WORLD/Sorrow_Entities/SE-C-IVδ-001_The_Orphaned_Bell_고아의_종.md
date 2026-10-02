@@ -141,8 +141,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (The Orphaned Bell)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (The Orphaned Bell)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** (Observation) | Falls silent while the worker sees visions of lost children. | Stable |
 | **Ferrehan** (Endurance) | Tolls continuously; enduring the sound gradually calms it. | Decrease |
 

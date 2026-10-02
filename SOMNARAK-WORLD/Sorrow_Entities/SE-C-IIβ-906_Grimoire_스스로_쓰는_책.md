@@ -136,8 +136,8 @@ The R.D. contained it in fourteen hours. Containment holds — barely. The tale 
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Grimoire)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan (Grimoire)** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the tale pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the grudge pressure settles gradually under sustained presence. | Decrease |
 

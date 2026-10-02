@@ -10,4 +10,9 @@
 
 **Entry 3 (Bad Label Tag) — <Excerpt from Counseling Log>**
 
+| Work Type | Response | Gauge Change |
+|---|---|---|
+| **Flerehan (Bad Label Tag)** | Softens. | Decrease |
+
+
 Decorated callout header.

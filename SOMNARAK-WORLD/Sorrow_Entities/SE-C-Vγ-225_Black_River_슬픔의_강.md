@@ -138,8 +138,8 @@ The River does not respond to Work Types in the conventional sense.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Black River)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (Black River)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Reveals the grief carried through its currents. | Stable |
 | **Ferrehan** | Tests whether the worker can remain near total sorrow. | Decrease |
 

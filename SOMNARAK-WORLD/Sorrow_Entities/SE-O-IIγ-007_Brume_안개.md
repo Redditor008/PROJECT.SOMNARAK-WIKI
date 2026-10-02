@@ -140,8 +140,8 @@ The Fog does not respond to Work Types in the traditional sense.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Brume)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (Brume)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** (Observation) | The observer sees faint routes and silhouettes of the lost nomads. | Stable |
 | **Ferrehan** (Endurance) | The fog tests the will to continue moving; persistence permits eventual exit. | Decrease |
 ### Special Behaviors

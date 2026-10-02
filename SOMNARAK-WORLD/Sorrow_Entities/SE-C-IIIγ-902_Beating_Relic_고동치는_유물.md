@@ -132,8 +132,8 @@ Beating Relic was forged in the aftermath of the Battle Pits riots. A Warden nam
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Beating Relic)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan (Beating Relic)** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the body pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the grudge pressure settles gradually under sustained presence. | Decrease |
 

@@ -125,8 +125,8 @@ Failure to maintain stasis allows the wax to fracture prematurely, venting local
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (A Letter Never Sent)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (A Letter Never Sent)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Monitors frost expansion across the wax seal without applying pressure. | Stable |
 | **Ferrehan** | Tests whether the worker can endure proximity to an unread farewell without weeping. | Decrease |
 

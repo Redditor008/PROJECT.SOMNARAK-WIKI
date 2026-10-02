@@ -9,6 +9,7 @@ import sys
 #   R2 LABEL_SELF_NAME   - a table label decorated with its own entity name
 #   R3 BARE_CODE_TAG     - a bare [SE-...] tag appended to text (NOT a link)
 #   R5 CALLOUT_SELF_NAME - an Entry callout decorated with the entity's own name
+#   R6 WORKTYPE_SELF_NAME - a Work Type label decorated with the entity's own name
 #   R4 LABEL_NOT_ALLOWED - a table label outside the fixed vocabulary
 #
 # R3 scans every line including table cells. The original V6-1 sweep only
@@ -160,6 +161,15 @@ def label_allowed(label):
 # that parenthetical is the V5-12 decoration pattern, not differentiation.
 P_ENTRY_DECOR = re.compile(r"\*\*Entry (\d+)\s*\(([^)]+)\)\s*[-\u2014]")
 
+# R6: bold Work Type cell labels in the Behavior table. "**Flerehan (Name)**"
+# is the same V5-12 decoration pattern in a third syntactic position, missed by
+# both the V6-1 sweep (table *labels* only, not bold runs inside cells) and by
+# R5 (Entry callouts only). The Work Type vocabulary is fixed and closed, so a
+# parenthetical after it can never be legitimate differentiation.
+WORK_TYPES = ("Flerehan", "Pugnahan", "Viderehan", "Ferrehan")
+P_WORKTYPE_DECOR = re.compile(
+    r"\*\*(" + "|".join(WORK_TYPES) + r")\s*\(([^)]+)\)\*\*")
+
 
 def audit_file(path):
     """Return a list of violation strings for one dossier."""
@@ -183,6 +193,14 @@ def audit_file(path):
             if inner == name or inner in name or name in inner:
                 errors.append(
                     f"{path}:{idx} -> [CALLOUT_SELF_NAME] Entry header "
+                    f"'{m.group(0)}' is decorated with the entity's own name")
+
+        # R6: a Work Type label decorated with the entity's own name.
+        for m in P_WORKTYPE_DECOR.finditer(line):
+            inner = m.group(2).strip()
+            if inner == name or inner in name or name in inner:
+                errors.append(
+                    f"{path}:{idx} -> [WORKTYPE_SELF_NAME] Work Type label "
                     f"'{m.group(0)}' is decorated with the entity's own name")
 
         stripped = line.strip()

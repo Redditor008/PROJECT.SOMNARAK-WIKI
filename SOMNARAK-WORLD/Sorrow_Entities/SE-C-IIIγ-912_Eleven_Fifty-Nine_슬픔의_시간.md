@@ -135,8 +135,8 @@ The effects are cumulative. Each exposure layers lament pressure in the lament r
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (Eleven Fifty-Nine)** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan (Eleven Fifty-Nine)** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
+| **Pugnahan** (Confrontation) | N/A | — |
 | **Viderehan** (Observation) | Permits study; the lament pressure becomes legible under sustained observation. | Decrease |
 | **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
 

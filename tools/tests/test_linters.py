@@ -128,6 +128,21 @@ class TestLabelLinter(unittest.TestCase):
         self.assertIsNone(self.lint.P_ENTRY_DECOR.search(
             "**Entry 3 \u2014 <Excerpt from Counseling Log>**"))
 
+    def test_worktype_self_name_caught(self):
+        # A third syntactic position for the same V5-12 decoration: 302 of
+        # these survived both the V6-1 sweep and the R5 Entry-callout rule.
+        self.assertIn("WORKTYPE_SELF_NAME", self.codes(self.BAD))
+
+    def test_undecorated_worktype_label_passes(self):
+        self.assertIsNone(self.lint.P_WORKTYPE_DECOR.search(
+            "| **Flerehan** | Softens and withdraws. | Decrease |"))
+
+    def test_worktype_parenthetical_that_is_not_the_name_is_ignored(self):
+        # "(Tears)" is the canonical gloss and must never be stripped.
+        m = self.lint.P_WORKTYPE_DECOR.search("| **Flerehan (Tears)** | x |")
+        self.assertIsNotNone(m)
+        self.assertEqual(m.group(2), "Tears")
+
     def test_unknown_label_caught(self):
         self.assertIn("LABEL_NOT_ALLOWED", self.codes(self.BAD))
 

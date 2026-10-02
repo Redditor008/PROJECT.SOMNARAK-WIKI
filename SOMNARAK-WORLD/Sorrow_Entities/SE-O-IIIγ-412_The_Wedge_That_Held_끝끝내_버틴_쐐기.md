@@ -124,8 +124,8 @@ Premature detonation vents an uncontained magma shockwave across the armory, des
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (The Wedge That Held)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (The Wedge That Held)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Records thermal cycles and crack propagation along the iron shaft. | Stable |
 | **Ferrehan** | Demands the operative endure holding the hot hemp wrapping without dropping the weight. | Decrease |
 

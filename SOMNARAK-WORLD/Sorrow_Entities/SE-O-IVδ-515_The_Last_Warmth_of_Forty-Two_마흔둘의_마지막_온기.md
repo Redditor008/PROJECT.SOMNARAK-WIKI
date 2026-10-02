@@ -124,8 +124,8 @@ Premature rupture releases an uncontrolled flash-freeze wave that petrifies all 
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan (The Last Warmth of Forty-Two)** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan (The Last Warmth of Forty-Two)** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
 | **Viderehan** | Monitors the vortex circulation speed of the trapped blue vapor. | Stable |
 | **Ferrehan** | Demands the operative hold the warm bottle in sub-zero containment, enduring the emotional weight of forty-two farewells. | Decrease |
 
