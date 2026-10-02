@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Errant.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- A successful cycle settles the reaching and the root withdraws below the floor for a while. It is not resettled by this. The family it came from was moved on before the new place could become theirs, and no work cycle gives anybody anywhere to be from.
+- Both readings are live. The listed threshold is 4, a count that runs down one step per failed or refused cycle and the most forgiving margin in this wing; the Combat Record separately sets activation at a Sorrow Gauge of 45%, and that figure fires the entity whatever the count still stands at. The generous count is the reason this holding is run by junior personnel, and the reason its cycle sheets are checked by someone senior anyway.
 - The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. What is taken here is a length of something that never attached to anything, and the pieces behave accordingly: they hold well, briefly, to whatever they are first fitted to, and then they do not.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,15 +86,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Errant's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Ten turns is typical and the engagement is short by design. All four Work Types are available; the root reaches, is endured or observed, and the cycle closes. The single prohibition is that nobody offers it a place. No soil, no origin, no suggestion of where it ought to go back to.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish a current anchor; do not force the Root into an old home**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Errant’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Errant defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact invites the full manifestation, which at this potency is less dramatic than it is persistent: the root takes hold of the worker rather than the floor, and the hold registers as a slow conviction that the worker does not really live where they live.
+- Every M.A.W. activation extracts a real price — recollection, sensation, years — catalogued in the equipment file and paid in the field. From this source the charge is made in attachment: wielders find their own address, their own neighbourhood, their own history increasingly difficult to feel strongly about.
+- Without resolution the entity escapes and roams, which is the breach type on the classification. It sinks through floors and surfaces elsewhere, and it does not travel toward any exit; the pattern across every recorded escape is a slow circuit of rooms, reaching, in no order anyone has been able to map.
 
 ## Appearance
 **Physical Form:** A ghostly root-creature of pale trailing roots, lower half fading, upper reaching with root-fingers. **Movement:** It waits, then grasps; it sinks through floors to reappear elsewhere.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A ghostly root system shaped like a person, with its lower half fading into empty air. It waits beneath floors and masks.
-- **Position / movement:** Notable Features: It has no visible tree, appears only at the edge of memory, and reaches toward people who feel ungrounded.
+- **Position / movement:** Waits beneath floors and surfaces without warning; record where it emerged, what it reached for, and how long it stayed before sinking again.
 - **Element signature:** Weight
 - **Registered location:** Zone C, Mask Market
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ghostly root system shaped like a person, with its lower half fading into empty air. It waits beneath floors and masks. |
-| **Position / movement** | Notable Features: It has no visible tree, appears only at the edge of memory, and reaches toward people who feel ungrounded. |
+| **Position / movement** | Waits beneath floors and surfaces without warning; record where it emerged, what it reached for, and how long it stayed before sinking again. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Verify the designation, the manifestation and the fade line against the file before Work begins; the wrong entity is the wrong sorrow, and several things in this wing look like roots. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the upper half in the ordinary way — the reach of the root-fingers, the pallor, the lead-cold and the smell of wet stone — and then record the lower half, which is the whole point of this entity and is not there. State the height at which the body stops being a body and becomes nothing, measured from the floor, every cycle; that figure varies and the variation is the holding's only responsive measurement. There is no tree. No trunk, no crown, nothing above it that it is the root of, and the file says so in the briefing because observers keep looking for one. Record what it reached toward and who was standing there. It reaches for people who feel ungrounded, which means the appearance log is quietly also a record of how the team is doing, and personnel are told that outright rather than discovering it later.
 
 ## Origin
 - **Formation:** The Root formed from belonging severed before it could take hold.
 - **The Sorrow:** The grief of losing one's origin and being unable to return to any ground.
 - **The Event:** A family was displaced before their new home could become theirs; the unfinished belonging became a wandering root.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One family, displaced twice — once from the ground they grew out of and once again from the place that was going to replace it, before it had finished becoming theirs. The record keeps the second removal in detail and the first hardly at all, which is the usual shape of such records and is noted here rather than corrected.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Errant is recorded as a Subject with Subject-Phantasmal manifestation and Weight elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Read it in the reaching. A falling gauge presents as withdrawal — the root-fingers curling in, the fade line rising, the thing sinking back below the floor without having taken hold of anyone. The pressure drops and nothing is settled; it is still from nowhere. A rising gauge presents as **welcome**. The root reaches more readily, finds a worker more quickly, and the worker in question usually reports that it seems to know them. It does not. It has found somebody who is not sure where they belong, which at this facility is most people in their first year, and that is precisely why the cheapest holding in the wing is the one most often worked by the least settled staff.
 ## Breach Behavior
 
 > *"Errant has broken free. Grasps at ankles, dragging personnel down."*
@@ -161,8 +161,8 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Physical suppression — corridors blocked, Wardens deployed, the entity driven back through Pugnahan. The drive-back is movement only. Nothing is said to it during a suppression about where it belongs, where it came from, or where it is being returned to, and the Wardens' standing phrasing for the manoeuvre avoids the word home entirely.
+- **Sorrow Gauge on breach:** Opens at 40% and moves on placement rather than on elapsed time. Each 10% is added by an attempt to give it an origin or send it back to one: asking where it came from, offering soil, naming the lost settlement, telling it that it belongs somewhere. Each 10% comes off when a worker states a present attachment of their own, out loud, in their own name, without disowning where they came from — both halves, or it does not count. A worker who says only that they live in the Market now has not met the condition, and neither has one who says only that they were born elsewhere. The entity vanishes, in the one documented instance, when a person chose a present belonging without denying the past, and the gauge rule is that observation written down as a procedure.
 
 ## M.A.W. Equipment
 
@@ -184,12 +184,12 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the single designated target; the cleaver takes one person's footing and leaves everybody beside them standing.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the blow and the subsequent loosening are tracked apart.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Errant's weight signature in the strike.
+**Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt. The strike carries the source's signature, and those hit describe a momentary loss of footing on ground that has not moved.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder grows heavier by degrees and prolonged use ages them slightly — a small charge by the wing's standards, and one that has never been observed to reverse between postings.
 
 ### M.A.W. Suit — The Rootless Mantle
 
@@ -217,17 +217,17 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat while this piece's source entity is the subject of the cycle, and nothing anywhere else
 
 **Ability:** Prevents forced displacement and spatial confusion.
 
 **Cost:** The wearer feels every place they have lost.
 
-*Stigmas are granted at random by Errant upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, and nothing in the procedure, the record or the worker's merit obliges one.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Errant's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design it charges immediately and personally, and the sorrow in it can wake — which on this set presents as the sudden certainty that one has been posted somewhere temporary. No protocol produces a Stigma; it comes from the source or not at all.
 
 ### Field Use Record
 
@@ -238,7 +238,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade measures output, not cost, and the mismatch is wide on a holding this minor. A piece drawn from an α-grade source can still hollow a wielder's memory or bind them to the sorrow it came from, and low-potency sets are the ones whose costs go unreviewed longest, precisely because nobody expects much of them. Read both columns and authorise on the second.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Errant's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record the first visible sign, the first emotional response in the observer and what prompted it, the first measurable change in the surrounding space, and the condition that ended the encounter. The entity's form is its sorrow rather than its strategy — a root with nothing above it, reaching, is what belonging looks like when it was cut before it finished — and it predicts nothing about behaviour. Add one field not required elsewhere: how long the observer has been posted to this facility. The correlation between that figure and what the root does is strong enough that the wing collects it, and it is collected as an environmental variable rather than as anything about the individual.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Errant (O-Iα-631 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight. The Root formed from belonging severed before it could take hold. Held at Zone C, Mask Market. It appears beneath masks and false identities.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Mask Market Underfloor Log, Year 4238>**
 Drifts through Mask Market floors and reflective surfaces. Personnel feel ungrounded and lose their sense of origin. It waits longer than it moves.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on First-Year Personnel>**
 The grief of losing one's origin and being unable to return to any ground.
 
 **Entry 4 — <Containment Notice>**
@@ -307,12 +307,12 @@ A root moves under the polished floor. No tree follows it. No soil holds it. It 
 
 Errant does not exist in isolation. Its recorded relationships with The Spreading Tree, Banyan, The Empty Mask should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity alone; the reaching is irregular enough that a short solo series proves nothing about a pair. The relations on file concern rootedness, displacement, or ground, so the question to settle is whether the root reaches for the other entity at all — in the whole record it has only ever reached for people, and a departure from that would be the most significant finding this holding has produced. Log the first mutual reaction, the triggering distance, the duration, the gauge change on both sides, the operational impact, and whether separation ends it. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-Errant must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Errant must be assessed as one of a group of sorrows made from displacement rather than as a minor curiosity beneath the Mask Market floor. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ Errant must be assessed as part of an entity network, not as an isolated profile
 | **Banyan** | Its buried roots recognize the Errant. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Empty Mask** | Both represent identity without belonging. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring them into range above a surveyed floor section rather than over open ground, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the space, and whatever persists after separation. The field this holding adds is the fade line, measured before and after, since it is the only part of the entity that reliably moves.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -367,9 +367,9 @@ Some sorrows mourn a home. Errant mourns the un-rooting — the belonging starte
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this layer against the classification, the Combat Record and the equipment profile before acting on any entry, and read the suppression condition twice, because it is in two halves and the second half is the one that gets dropped. Establish a current anchor; do not force the Root into an old home. The first half is a thing a worker can do. The second is a prohibition against the kindest-seeming action available, which is to find out where this family came from and say the name of it. The wing's view, recorded when the condition was drafted, is that sending something back to a place that will not have it is not restoration but a second removal, and that this facility has performed enough of those. Contradictions are data and not errors: log a deviation, never reconcile it by editing the record, and preserve it as evidence rather than normalising it quietly.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, re-verify the gauge, the containment field, the exposure log and the entity's position before operations resume. Two further items apply here and both exist because this is a minor holding. Every cycle sheet is counter-signed by a senior Warden, not because the work is difficult but because low-potency holdings are where unreviewed habits accumulate. And any worker the root has reached for twice in a month is offered a conversation with the counselor — offered, not required, and recorded as having been offered rather than as having been taken up.
 ## Trivia
 
 - It has no roots in physical soil.
@@ -381,9 +381,9 @@ Some sorrows mourn a home. Errant mourns the un-rooting — the belonging starte
 
 - **Classification detail:** Errant is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone C, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the absence below and the absence above: a root system shaped like a person, fading at the waist, with no tree anywhere that it belongs to.
+- **Record detail:** Root-form and tree-adjacent entities are numerous in the archive and the wing holds several. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge sharply, and more than one of those other holdings requires exactly the action this one forbids.
+- **Containment detail:** The seal governs a thing that travels through floors, so the boundary is as much below as beside. Personnel in the rooms underneath report a pulling sensation at the ankles and a reluctance to unpack their lockers; those reports are collected with the holding and are the reason the lower rooms are not used for long-term storage.
 ## Document Information
 
 **Document ID:** SE-O-Iα-631
