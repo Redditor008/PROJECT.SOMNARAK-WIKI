@@ -86,15 +86,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Wrath Flame's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The team works the Flame in the open at the Scar, where there is no cell wall to fall back behind and the only cover is conduct. Flerehan and Ferrehan carry the encounter; Pugnahan returns heat for heat and has never once been logged as useful. The gauge answers to how the team carries itself, not to how hard it presses.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Bow or salute; acknowledge the war and the dead**.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, The Wrath Flame reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Extended exposure does not so much drift the worker's identity as recruit it. Hour by hour the Flame's fury stops reading as the entity's and starts reading as the worker's own, with a cause attached that the worker did not have that morning. Relief teams are briefed to ask the outgoing worker what they are angry about, and to treat a fluent answer as the finding.
+- The censer, the plate and the ember all draw on the same fire, and the fire is not reduced by being drawn on. What the M.A.W. takes out of the Flame comes out of the wearer instead: ache in old wounds, dulled reflexes, a temper that will not stay off the face. Extraction here is a transfer, and the ledger balances on the person.
+- If nobody bows and nobody salutes, the Flame does not escalate out of malice. It resumes. The patrol continues, the heat climbs, and the encounter ends the way the war ended — with the dead unacknowledged and the fire still burning. Failing the condition is not punished. It is simply not counted.
 
 ## Appearance
 **Primary Form:** A humanoid flame walking on two legs, burning with crimson fury. It carries no weapon but its fire behaves like one.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A humanoid flame walking on two legs, burning with crimson fury. It carries no weapon but its fire behaves like one.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It walks. The route runs through the Scar and across all six former faction boundaries, and it holds to within a few metres from one patrol to the next. Record where on the route it was met and which way it was facing.
 - **Element signature:** Grudge
 - **Registered location:** The Desolate, near The Scar
 
@@ -118,15 +118,15 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Check the entity against its file before work or contact: designation, element, manifestation, and registered location. If any one of them contradicts what is in front of you, do not proceed. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the fire before the figure: colour at the core, colour at the edge, how far the heat carries, and whether it is beating or steady. The Flame signals that it is about to act by standing still, which is the reverse of what personnel expect and the detail most often missing from reports. Write down what the fire did and what you did immediately before it.
 
 ## Origin
 - **Formation:** The Flame formed from the rage of the six factions that fought in the Occlusihan.
 - **The Sorrow:** Fury at a war that consumed lives and left its reason behind.
 - **The Event:** The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Six factions, all of them destroyed by the war they fought, and the thousands they could not bury. No single faction can be named as the originator, because none of them outlived their own dead by long enough to mourn them.
 - **Expanded origin context:** The Director's annotation: 'This sorrow is not anomalous. It is representative. The Grudge at The Desolate, near The Scar is the same grief, the same refusal, the same wound. The Subject is what happens when the city stops pretending it doesn't hurt.'
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. The Wrath Flame is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at The Desolate, near The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** The Flame answers conduct, so the response measures the worker as much as the entity. Dimming means the grief was named and accepted; it does not mean the fire is lower. Concentrated heat means the approach read as disrespect, whatever was intended, and the correction belongs in the bearing rather than in the technique. A salute returned is the clearest success this file records, and the exact words used are to be logged with it.
 ## Breach Behavior
 
 > *"The Wrath Flame has broken free. Ignites personnel with sorrow-fire."*
@@ -162,7 +162,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Begins wherever the last disrespect left it and climbs for as long as the breach is watched rather than addressed. Acknowledgement of the dead, spoken aloud by anyone present — including the breach team — drops it by ten points, and the drop holds only so long as nobody laughs.
 
 ## M.A.W. Equipment
 
@@ -184,12 +184,12 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The censer reaches one target and no further. Steam that misses does not thin with distance; it stops at the end of the chains.
+**Damage Application:** Score the swing and the scalding separately. The iron and the Grudge distillate land as two different injuries, and anyone logging only the heavier of the two will under-record the burn.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Wrath Flame's grudge signature in the strike.
+**Ability:** Grudge damage to the body, delivered by weight and by steam at once. The censer carries the Flame's grievance into the strike, which means it lands hardest on whatever the wielder is actually angry about.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Old wounds ache first — the ones long healed, in the order they were received — and faint bruising rises along the same lines.
 
 ### M.A.W. Suit — The Rage Plate
 
@@ -205,9 +205,9 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Wrath Flame's kind of pressure.
+**Ability:** Turns Grudge aside from the body, which is the pressure the Flame delivers and very nearly the only one it delivers. Against Void or Weight the plate is worse than wearing nothing, and the Scar is short of neither.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes slow. The wearer answers a half-second late and remains certain they answered at once.
 
 ### M.A.W. Stigma — The Rage Ember
 
@@ -217,17 +217,17 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against the Flame itself, and no benefit anywhere else in the archive.
 
 **Ability:** Converts the wearer's anger into physical heat.
 
 **Cost:** Anger becomes visible and difficult to suppress.
 
-*Stigmas are granted at random by The Wrath Flame upon a successful work, not manufactured.*
+*The ember is given, not made. The Flame offers one after work it judged respectful, and it has never offered a second to the same worker.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and The Wrath Flame's sorrow within the equipment may activate. and may produce an effect tied to The Wrath Flame's element. The Stigma is The Wrath Flame's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of the Flame rather than ordinary equipment, and the condition is the same one the entity sets in the field: respect. Used as intended, the censer and the plate perform to grade. Used against their pattern, the cost scales and the Grudge held in the metal becomes active, which at the Scar means heat arriving from the equipment rather than from the entity. The ember is not issued at all. It is offered, after work the Flame judged respectful, and it cannot be requisitioned.
 
 ### Field Use Record
 
@@ -238,7 +238,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade tells you what the censer does to the Flame. It tells you nothing about what the ember does to the wearer, which is to put anger on the face at the moment it is least useful. The grade is the cheaper half of the reading.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In The Wrath Flame's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Record the first sign, which is light on the dust before the figure is in it; the first sensation, which reads as held anger rather than as temperature; and the condition that ends the encounter, which is almost always a gesture made by a person rather than a change in the entity. Note who made it.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -271,7 +271,7 @@ The Wrath Flame (O-IIIβ-120 [GS]) is logged as a Subject-Body manifestation exp
 **Entry 2 — <Excerpt from Field Log, Year 4230>**
 Patrols beyond The Scar and along the Desolate border. Disrespectful personnel experience the rage of the Occlusihan. The Flame patrols the same rift repeatedly.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Marginal Note, Occlusihan Casualty Rolls>**
 Fury at a war that consumed lives and left its reason behind.
 
 **Entry 4 — <Containment Notice>**
@@ -307,12 +307,12 @@ The Scar glows before the Flame appears. A humanoid fire walks through the dust,
 
 The Wrath Flame does not exist in isolation. Its recorded relationships with The Scar Walker, The Forgotten Soldier, The Orphaned Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Take the Flame's baseline alone, on its route, before recording it alongside anything else. With the Scar Walker the two share a patrol and the gauge reads lower for both. With the Orphaned Bell the fire visibly dims on the toll and does not recover until the sound has gone; record the toll, the distance, and how long the dimming lasts, because that last figure has not held steady across two cycles.
 
 
 ### Entity Interaction Record
 
-The Wrath Flame must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Flame is one of several things still carrying the Occlusihan at the Scar, and it behaves differently when another of them is present. The entries below are the relationships the record will stand behind. None of them are alliances. They are the war continuing to arrange its survivors.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ The Wrath Flame must be assessed as part of an entity network, not as an isolate
 | **The Forgotten Soldier** | Salutes the Flame. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Orphaned Bell** | Its fire dims when the Bell tolls. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline first, then the shared encounter: the distance at which the change begins, what changed — heat, route, bearing, sound — how long it held, and whether the Flame rejoined its patrol at the point it left it. That last item is what distinguishes a passing interaction from a lasting one.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -369,9 +369,9 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file describes a fire contained by manners. Every figure in it — gauge, resistance, yield — assumes personnel who bow, and not one of them has been measured against personnel who refuse. The conduct instructions are the load-bearing part of the record; the statistics follow from them.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any breach at the Scar, and after any season in which the patrol route is seen to shift by more than a few metres. The route is the most reliable index this entity offers, and when it moves the rest of the file is provisional until it has been walked again. A review is not to be used to assign fault for an encounter that ended in heat.
 ## Warden Record
 
 ### It Patrols
@@ -401,9 +401,9 @@ The dead of the Occlusihan fighting at The Scar were not properly mourned and th
 
 - **Classification detail:** The Wrath Flame is a Subject with Fragment (III) — Fierce and protective coherence and Moderate (β) — Manageable potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate, near The Scar.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the route and the crimson core before anything else. Several things burn at the Scar; only one of them walks a fixed line and stops when it is saluted.
+- **Record detail:** Check the designation against the file before work begins. The Scar holds more than one Grudge entity drawn from the same war, and they do not answer to the same conduct.
+- **Containment detail:** Containment here holds a behaviour, not a body; there is no cell, and the Flame has never been inside one. What keeps it quiet is a posted route, a briefed approach, and personnel who acknowledge the dead. Staff working nearby still report heat dreams and short tempers off shift.
 ## Document Information
 
 **Document ID:** SE-O-IIIβ-120
