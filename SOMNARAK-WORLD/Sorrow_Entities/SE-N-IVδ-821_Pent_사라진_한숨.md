@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Pent's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Twenty-four turns, Viderehan and Ferrehan only, worked in relays against the exposure cap rather than in a single sustained engagement. No member of the team exhales audibly inside the boundary and nobody speaks toward the absence, which is a δ-grade engagement conducted under a rule about breathing and is as awkward in practice as it reads.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Permit rest and acknowledge exhaustion as real**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
-- Pent’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Pent's dossier.
+- The effects intensify with duration and the mechanism is simple: the longer a person stands in air that burns without being hot, the more reasonable it seems to sigh on the site's behalf. That urge is the hazard, it is named in the briefing as the hazard, and it is the reason the cap is measured in minutes rather than in cycles.
+- Each M.A.W. activation takes a personal debit in composure, memory and years, as codified in the equipment file. This set bills in relief: wielders stop being able to feel the end of anything. Work finishes and nothing lifts, which they report late, because there is no moment at which an absence of relief announces itself.
+- Without resolution the held breath does not disperse but spreads, taking in more of the surrounding ground and leaning the structures at the new edge the way the existing ones already lean. It does not escape. It never has; it accumulates, which is what the empty counter row on this holding actually describes.
 
 ## Appearance
 **Physical Form:** A place where a sigh should be heard but is absent. The air burns with the pressure of withheld exhaustion.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A place where a sigh should be heard but is absent. The air burns with the pressure of withheld exhaustion.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Drifts slowly across the ambient district rather than holding a fixed footprint; fix the boundary against the marked listening point each shift and record where the edge falls, never a direction of travel.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament — ambient
 
@@ -116,18 +116,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A place where a sigh should be heard but is absent. The air burns with the pressure of withheld exhaustion. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Drifts slowly across the ambient district rather than holding a fixed footprint; fix the boundary against the marked listening point each shift and record where the edge falls, never a direction of travel. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Identification is not optional: the designation, the manifestation and the physical markers must align before Work begins, and here the markers are a gap in sound and a measured lean rather than anything visible. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** There is nothing to look at, so the protocol records a sound that is not there and the structures around it. Stand at the marked listening point, listen for the fixed period, and record the observation as present or absent — it has been recorded as present on every occasion since the holding opened. Personnel register it as a gap rather than as silence, specifically the shape of a missing exhalation, and that is the wording to use. Do not attempt instrumentation: four separate approaches produced four recordings of the ambient district and nothing else, and the attempts are documented so they are not repeated. Log the inward lean of the surrounding structures and the heat of the air, noting in both forms that personnel describe burning while instruments report ambient, with neither designated correct. The listening point is a single marked spot rather than a line, swept and kept clear, and nothing is placed on it.
 
 ## Origin
 - **Formation:** The Sigh formed from a breath erased before it could be released.
 - **The Sorrow:** The grief of exhaustion denied until even relief disappears.
 - **The Event:** A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One worker who collapsed in the Old Lament and held back their last sigh so that nobody would hear weakness, and who is not identified. The employment records for the period are incomplete, the collapse was never reported, and the file states plainly that the search was properly conducted and failed. What the archive holds instead is the list of everyone who might have been working that ground — several hundred names, none confirmed, all retained. The header explains the list's own uselessness and explains why it is kept anyway: the entity exists because somebody was not noticed, and a blank page would be the facility agreeing.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Pent is recorded as an Object/Place with Place-Grudge manifestation and Grudge elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Read it in the air and in the walls. A falling gauge presents as the pressure going out of the air — the burning sensation easing toward ordinary warmth, the boundary drawing in, the gap in the sound becoming harder to locate from the marked point. Nothing is released by that. The sigh is still withheld and the worker is still unnamed. A rising gauge presents as **composure**. The team starts to feel equal to the site. Fatigue stops registering, the exposure cap starts to seem conservative, and personnel find themselves declining the relay and offering to take another turn, in good faith and with no sense of strain. This holding was made by someone who treated their own exhaustion as something to be suppressed, and it strengthens whenever exhaustion is called weakness — including when a worker calls their own exhaustion weakness by refusing to admit to it. A team that no longer feels tired at Pent is not rested; it is being read back its originating wrong, and the watch is ended on that observation alone.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -176,7 +176,7 @@ The escalation pattern is specific to Pent: it is not a generic breach event. Pe
 | **Risk** | Critical (δ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Permit rest and acknowledge exhaustion as real. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → anything said aloud toward the absence, verbatim, and by whom → first change in the gap at the listening point → the boundary of the affected ground and which structures moved → personnel effect, including any worker who declined relief or exceeded the exposure cap → duration → management condition. Speaking to the absence has been attempted twice and both times the following quarterly survey showed a marked increase in wall movement; both incidents are described in full in the Apex Record and are the reason the first field exists. Viderehan and Ferrehan remain the only valid Work Types.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -196,13 +196,13 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A single line, reaching up to three targets standing in the flintlock's path
+**Falloff Rule:** 100% to the first target, 70% to the second, 50% to the third — the shot loses force as it passes through.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the impact and the pressure that settles afterward are tracked apart.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Pent's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body — physical form and structural integrity. The strike carries the source's signature, and those hit describe the blow landing as pressure that does not let go rather than as a shock that passes.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising across the ribs and diaphragm, where a held breath sits.
 
 ### M.A.W. Suit — The Vanished Plate
 
@@ -218,9 +218,9 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Pent's kind of pressure.
+**Ability:** Grants resistance to Grudge pressure, shielding the Body against sustained structural force. It holds against pressure and does nothing about the burning, which carries no measurable temperature and therefore engages no rating in the set.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull and their breathing shallows without their noticing; wearers are checked for it at handover, by a colleague, because they do not report it themselves.
 
 ### M.A.W. Stigma — The Vanished Breath
 
@@ -230,17 +230,17 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat while this piece's source entity is the subject of the cycle, and nothing anywhere else
 
 **Ability:** Releases one suppressed breath and calms panic.
 
 **Cost:** The wearer feels every exhaustion hidden nearby.
 
-*Stigmas are granted at random by Pent upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, which no amount of good work has ever been able to hurry.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Pent's element. No protocol produces Stigmas. They emerge from Pent's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design it charges immediately and personally, and the sorrow carried in it can wake — which on this set presents as a wielder who cannot put anything down at the end of a shift. No protocol produces a Stigma; it comes from the source at the source's disposition or not at all.
 
 ### Field Use Record
 
@@ -251,7 +251,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are separate axes and this set separates them further than most. A δ-grade piece here can perform to specification for a year while the wielder quietly loses the capacity to feel finished with anything, which is not a decline any supervisor is trained to see and not a figure the equipment table carries. Read both, authorise on the second, and ask the wielder when they last felt relieved about anything.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Pent's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Observe from the marked point, for the fixed period, within the exposure cap. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the lean or the boundary, and the condition that ended the watch. The entity's appearance is its history made visible rather than a guide to behaviour: a place holding a breath and waiting to be noticed is what suppressed exhaustion looks like once the person suppressing it has gone. The protocol's most debated provision applies throughout. Personnel are required to make the listening observation and are forbidden to acknowledge it aloud — noticing is unavoidable and is in fact the monitoring method, while speaking to the absence has twice produced measurable structural movement. The distinction is fine, it is explained at length in the briefing rather than left to supervisors, and it is not left to individual judgement.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -281,16 +281,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Pent (N-IVδ-821 [D]) is logged as a Place-Grudge manifestation expressing Grudge. The Sigh formed from a breath erased before it could be released. Held at Zone B, Old Lament — ambient. It is strongest after long shifts.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Old Lament Listening Watch Sheet, Year 4238>**
 It has no ordinary sound source.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Workers Who Would Not Take Relief>**
 The grief of exhaustion denied until even relief disappears.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the worker and the moment of collapse. (Stable); Ferrehan: Tests whether personnel can rest without shame. (Decrease). Its pressure decreases when personnel rest together.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Memo on the Exposure Cap, Eyes Only>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
@@ -320,12 +320,12 @@ The Old Lament feels as if it is holding its breath. Walls lean toward you, and 
 
 Pent does not exist in isolation. Its recorded relationships with The Sleeping Sigh, The Whispering Walls, The Crumbling Saint should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Alone first, then together, with the solo baselines standing as the control for every claim made afterward — and here the baseline is a long run of present-or-absent listening observations rather than a reading, which means an interaction has to be demonstrated across shifts and across people before it is believed. The relations on file concern withheld feeling, unnoticed collapse, and the Old Lament's own crowded history. Log the first mutual reaction, the triggering distance, the duration, the gauge change on both sides, the operational impact, and whether separation ends it.
 
 
 ### Entity Interaction Record
 
-Pent must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Pent must be assessed as one of a group of sorrows made by things people refused to let out, rather than as an isolated pressure in the Old Lament. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -333,7 +333,7 @@ Pent must be assessed as part of an entity network, not as an isolated profile. 
 | **The Whispering Walls** | The Walls carry the missing breath. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Crumbling Saint** | Shares the burden of being unable to stop. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring the second no closer than the listening point, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, and whatever persists after separation. The fields this holding adds are the listening observation taken immediately before and after, and the exposure clock, which runs for the interaction exactly as it runs for a cycle.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -380,9 +380,9 @@ Some sorrows are about exhaustion. Pent is about the denial of exhaustion — th
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Treat this record as a starting point; the classification says what to expect and only observation says what is happening. Read it against the suppression condition, which is the most difficult thing this wing has been asked to institutionalise. Permit rest and acknowledge exhaustion as real. Both halves have to be done by the facility rather than by the worker, because the entity's whole mechanism is a person who would not claim either for themselves. So rest here is not granted on request: the exposure cap is enforced against the clock by the relay partner, relief is taken whether or not it is wanted, no seat has ever been installed at the listening point despite requests — the refusal recorded with its reason, that a watch member who is sitting down may stay longer than the cap allows — and a worker who says they are fine is relieved on the same schedule as one who does not. The acknowledgement half is a standing briefing line stating that exhaustion is a condition and not a failing, printed rather than spoken so that no supervisor's tone can qualify it. The ground itself is under a permanent municipal building restriction, granted without difficulty, reviewed on the municipal cycle and supported by the wing in writing every time. Where the entity contradicts this record, trust the entity and log the discrepancy rather than normalising it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any activation, expansion, Sorrow Tide, Ordeal or unusual interaction, verify the gauge, the boundary, personnel condition and the listening observation before work resumes. Four further items apply here. The quarterly engineers' survey is read in full including the covering letter, since the letters are where the discomfort lives — the movement is within tolerance for structures of that age and ground, that finding is what keeps the site open, and the engineers themselves flag it as the finding they are least comfortable with. Every exposure-cap overrun is logged against the holding and never against the individual, because wanting to stay is the entity working as designed. Any instance of a worker declining relief is logged as an observation of the entity. And the invitation extended to each new watch to find a better listening point is renewed at handover as a question rather than a formality; two watch members have spent whole shifts walking the boundary before reporting that the original mark was correct, and both reports are kept.
 ## Apex Record
 
 ### The Absence That Is Audible
@@ -426,9 +426,9 @@ The point's position was fixed by the first watch and has been confirmed by ever
 
 - **Classification detail:** Pent is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the gap in the sound, taken from the marked point, together with the inward lean of the surrounding structures. The Old Lament is full of quiet ground; this is the parcel where something audible is missing rather than merely absent.
+- **Record detail:** Withheld-breath and pressure-form entities both recur in the archive and Zone B holds several ambient holdings. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the practical point, which here is a prohibition on speaking toward the entity at all.
+- **Containment detail:** There is no seal — the holding is a restricted parcel, a listening point and an exposure clock — and what crosses the boundary is the pressure. Residents and workers on the adjoining streets report tiredness they cannot account for and a reluctance to complain of it, and those reports are collected with the holding rather than referred elsewhere, since the second half of each report is the entity's signature.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-821
