@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Memory Chain.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle loosens the links and gentles the voice for a while. Nothing is returned by it: the memories stay in the chain, the people they belong to are still scattered or dead, and the next cycle opens on the same roll of recollections in the same order.
+- The listed threshold of 3 is a count and it runs down — each failed or refused cycle takes one from it, and the third brings the entity to zero. It is also the only activation reading this file carries; the core stat line records no gauge figure for this holding, so there is no percentage to fall back on and the count must be tracked deliberately rather than inferred from a dial.
+- The 12–18 Han-Energy yield is ordinary for the band and the exposure is not. What this holding costs is specific and slow: workers come away holding recollections that are detailed, affectionate, and not theirs, and the condition is not visible in any post-cycle check that asks about distress.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. A piece taken from this source is a link taken out of a chain that is made of other people's shared past, and the equipment file records what each piece keeps of that.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Memory Chain's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The team establishes which direction the voice is travelling and times one full traverse end to end before anything else; the transit time is constant and everything afterwards is measured against it. Positions are taken so that no two workers who share a history stand on the same link.
+2. **Clash:** The team works Flerehan and Ferrehan along the chain while the voice moves, and names what it hears: which link spoke, what it said, and whose memory it is if that can be established. Gauge movement is read per traverse rather than per turn, because the traverse is the only clock this entity keeps.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the link and return each memory to its owner**.
 
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Memory Chain’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Memory Chain executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time favours the chain, and not by wearing anybody down. The longer a worker listens the more of the group's shared past they can recount, and the pleasure of that is the hazard: saturation presents as fondness for people the worker has never met, and it is usually a colleague who notices it first.
+- M.A.W. activation is an exchange with no discount. The registry lists the parameters; the payment is taken from the bearer directly, and on this set it is taken in the coin of the source — what the pieces give in reach and protection they take back in the bearer's hold on which memories were originally theirs.
+- An unresolved encounter does not end; it transforms, which is the breach type on the classification. The chain stops moving link to link and spreads at once, binding and dragging, and what it binds personnel with during the breach is still the thing it binds with at rest — a shared memory, held between two people, used as a rope.
 
 ## Appearance
 **Primary Form:** An invisible chain heard as a voice moving from link to link through the air. When visible, it appears as blue spirit-light.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Spirit
 - **Primary marker:** An invisible chain heard as a voice moving from link to link through the air. When visible, it appears as blue spirit-light.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** No posture to record and no station; log the direction of travel along the links, the transit time end to end, and the inferred length — marked as an inference every time it is written down.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Echo Gardens
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | An invisible chain heard as a voice moving from link to link through the air. When visible, it appears as blue spirit-light. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | No posture to record and no station; log the direction of travel along the links, the transit time end to end, and the inferred length — marked as an inference every time it is written down. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Identification** | The designation is the first filter and the ear is the second, since the eye will usually have nothing to contribute. Confirm the designation, the manifestation and the recorded transit time agree before approaching. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Most cycles here have nothing visible in them at all, so the protocol records sound first: the direction the voice is travelling, the interval between links, the full transit time end to end, and the words, taken verbatim link by link in the order they were spoken — the order is the entity's only grammar and a paraphrase destroys it. On the rare occasions it shows itself as blue spirit-light, log the occurrence with every condition obtaining at the time, whether or not those conditions seem relevant. No condition has yet been found to predict visibility. The list is kept as a plain list precisely so that a pattern, if there is one, has somewhere to be noticed. Record whom it is standing beside, and record nothing about them — the choice of neighbour is not evidence of anything and must never be written as though it were.
 
 ## Origin
 - **Formation:** The Chain formed from connections preserved through memory after physical bonds were lost.
 - **The Sorrow:** The burden of remembering a relationship alone.
 - **The Event:** A group separated by exile continued sharing memories, but the memories gathered into one speaking chain.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A group broken up by exile who kept their bond alive by writing their memories to one another. The commissioning file holds the letters. Each is addressed to several recipients at once and each repeats what all of them already knew, which the archivist notes was plainly deliberate — and which is the material the chain is made of.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Memory Chain is recorded as a Subject with Subject-Spirit manifestation and Lament elemental expression. The current record places it at Zone D, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** Read it in the voice and in the traverse. A falling gauge presents as slackening — the links loosening, the interval between them lengthening, the tone going from recitation to conversation. It is a window and not a door; the pressure returns unless the cycle is sustained, and nothing has been returned to anybody. A rising gauge presents as closeness: the voice tightens, speeds up, and begins using the worker's own recollections as links in the sequence. That is the warning sign and it does not feel like one. Document anything off-pattern the same day — a new word, a traverse that takes longer than the constant, a link that speaks out of order. The last of those has been recorded twice and both reports are flagged, because the order is the one thing this entity has never varied.
 ## Breach Behavior
 
 > *"Memory Chain has broken free. Binds personnel, dragging them."*
@@ -162,7 +162,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and runs on traverses rather than on turns, which matters because the traverse is a fixed interval and the turn is not. Each complete end-to-end passage of the voice in which no link is named adds 10%. Each 10% comes off when a link is named and the memory in it is returned aloud to the person it belongs to — and where that person is dead or unreachable, naming them is sufficient; the entity has never required the owner to be present. Denial moves it fastest: a worker who answers a voiced memory with a disavowal adds the increment immediately, without waiting for the traverse to finish.
 
 ## M.A.W. Equipment
 
@@ -184,12 +184,12 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the one designated target; the link engages a single person and does not carry to anyone beside them.
+**Damage Application:** Resolve the direct damage first, then apply the multiplier to any Tick damage as a second and separate calculation; the rust works on its own schedule.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Memory Chain's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — composure, willpower, and the ability to keep hold of whose memory is whose. The strike carries the source's signature, and those struck report a moment of recognising someone they have never met.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the grief of a bond kept alive by one side only. Prolonged use causes involuntary weeping, most often while reading correspondence.
 
 ### M.A.W. Suit — The Soaking Shroud
 
@@ -205,9 +205,9 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Memory Chain's kind of pressure.
+**Ability:** Grants resistance to Lament pressure, shielding the Mind against the specific weight of remembering a relationship alone. It does not shield against the memories themselves, which arrive as information rather than as pressure and pass through the rating untouched.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small joys, and in particular to the small pleasure of being remembered; wearers stop noticing when they are greeted by name.
 
 ### M.A.W. Stigma — The Soaking Link
 
@@ -217,17 +217,17 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat while this piece's source entity is the subject of the cycle, and nothing at all on any other holding
 
 **Ability:** Allows two people to share a memory temporarily.
 
 **Cost:** Both people feel the grief attached to the memory.
 
-*Stigmas are granted at random by Memory Chain upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It surfaces during a successful cycle if the entity chooses to give, which is rarely and without explanation, and no procedure or stated probability obliges it.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Memory Chain's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced past its design, a piece degrades its user faster and can invert protection into exposure, which on this set means the wearer begins receiving the memories the suit was meant to hold off. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rare and unexplained, and no amount of correct practice changes that.
 
 ### Field Use Record
 
@@ -238,7 +238,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes extraction stability and says nothing about human safety. A well-graded piece from this source can still hand its bearer a decade of somebody else's friendships, which no rating system has a column for. Read both sides of the entry and authorise on the cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Memory Chain's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Observe by listening, with one recorder assigned to the words and another to the clock, because the transit time is the measurement that makes the rest legible. Record the first audible sign, the first emotional response and whose memory prompted it, the first measurable change in the Gardens, and the condition that ended the encounter. The entity looks and sounds the way it does because of what happened to it and not because of any intention toward the listener — a chain of voices is what a correspondence becomes when everyone it was addressed to has gone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Memory Chain (O-IIβ-467 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Chain formed from connections preserved through memory after physical bonds were lost. Held at Zone D, Echo Gardens. It is heard more often than seen.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Echo Gardens Patrol Log, Year 4238>**
 Travels through voices and memories in the Echo Gardens. Personnel become linked to memories that are not theirs. Its voice moves through connected memories.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Borrowed Recollection>**
 The burden of remembering a relationship alone.
 
 **Entry 4 — <Containment Notice>**
@@ -307,12 +307,12 @@ A voice circles you like metal sliding over metal. It speaks from one side of th
 
 Memory Chain does not exist in isolation. Its recorded relationships with The Chain of Memories, The Memory Weaver, Risus should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Individual observation precedes interaction study; know what each entity does alone before watching them together. The relations recorded here all concern things held in common after the holders have gone, so the question to settle is whether the chain takes a link from the other entity — whether a new memory enters the sequence, where in the order it is inserted, and whether the transit time changes. Document onset, range, duration, gauge movement on both sides, environmental effect, and residue. Yesterday's interaction predicts nothing: these are sorrows given form, and a breach, a Sorrow Tide, an Ordeal or a transformation can rearrange the resonance between two of them overnight.
 
 
 ### Entity Interaction Record
 
-Memory Chain must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Memory Chain must be assessed as one of a group of sorrows that consist of something held between people, rather than as a single voice in the Gardens. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that shows only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ Memory Chain must be assessed as part of an entity network, not as an isolated p
 | **The Memory Weaver** | Tries to add stolen memories to the Chain. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **Risus** | Carries laughter through its links. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring them into range along the axis of travel, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the Gardens, and whatever persists after separation. The field this holding adds is the sequence: the full order of links before the pairing and again after it, because an insertion is the only form an interaction takes here.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -367,9 +367,9 @@ Some sorrows mourn separation. Memory Chain mourns the memory-bond — the conne
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification is the frame and this record is the picture, and neither substitutes for standing in the Gardens with a watch. Read the suppression condition carefully before judging the holding by it: name the link and return each memory to its owner. Most of the owners cannot be found. The wing has returned eleven memories in the holding's history and the chain is considerably longer than eleven links, so the honest description of this containment is a task that is being performed correctly and will not be completed, by staff who are assessed on completion. The file states that plainly rather than leaving it to be discovered, because the alternative is a succession of teams each concluding privately that they are failing. Where behaviour deviates from this record, the deviation is the most important thing in the room: log it, report it, and do not normalise it into the version that reads well.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every incident, recheck the gauge, the field, the personnel, the location, and the two readings specific to this holding — the transit time and the order of the links. Any memory returned during the event is recorded with the name it was returned to, and any memory a worker found themselves holding afterwards is recorded as well, without prejudice: carrying somebody else's recollection out of the Gardens is an outcome of the work and not a lapse. Those entries go to the counselor and not to the line supervisor, and a wing that treats them as evidence of unreliability will simply stop being told.
 ## Watch Record
 
 ### A Voice Moving Link to Link
@@ -399,9 +399,9 @@ People separated by exile went on holding their memories in common until the mem
 
 - **Classification detail:** Memory Chain is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone D, Echo Gardens.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the travel and the interval. Several things in the Echo Gardens speak without a body; this is the one whose voice moves in one direction along a fixed line, at a constant rate, and which is almost never seen at all.
+- **Record detail:** Chain-form and memory-form entities are both common in the archive and this one is filed under both. Confirm the designation and the manifestation before a cycle is booked, because the instructions diverge at the point that matters here — whether what it holds is to be released or returned, which are not the same operation.
+- **Containment detail:** It does not need to breach to reach anyone. Containment governs where the chain hangs and not what it carries, and what it carries moves between people who are nowhere near it — two staff on opposite shifts have recognised the same unfamiliar memory. The boundary limits movement; it has never limited connection, which is the one thing this entity does.
 ## Document Information
 
 **Document ID:** SE-O-IIβ-467
