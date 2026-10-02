@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Anonym.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A completed cycle lets the figure hold together a little longer and lets more of the pre-erosion self be seen. It does not restore the exile's face, which no cycle has recovered, and it does not settle the entity into a stable form; holding together is the achievement, not the outcome.
+- The activation threshold stands at 4 and counts down. A failed cycle takes one, and so does any occasion on which personnel tell the entity — or each other — what it is with complete confidence. A cycle conducted in names rather than definitions can return one. At zero it begins to corrupt the zone outward.
+- A yield of 10–14 at Low difficulty conceals an unusual demand: this entity is worked in the mind and the exposure is to the worker's sense of who they are, which recovers slowly and is not detected by any screening the facility currently runs at shift end.
+- Extraction from an entity with no vessel is performed entirely in perception, and the operative performing it is the only instrument available. It is scheduled separately, with a second worker present whose sole duty is to use the operative's name at intervals.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Anonym's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The team registers the Shard inside awareness rather than in the room, confirms each member can still state their own name and posting without hesitation, and agrees who will speak the names aloud during the cycle.
+2. **Clash:** Ten turns, none of them physical. Flerehan and Ferrehan bring the gauge down, Viderehan holds it level, and Pugnahan melts the figure faster and pushes it further through thought — so the engagement is decided by how the party speaks to each other while it is present.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Use names and present anchors; do not force a fixed identity**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Anonym’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Anonym defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact produces identity erosion, and the documented course is specific: subjects lose confidence in their own identity rather than their memory of it. The worker can recite their name, record and history accurately throughout, and simply stops believing that any of it describes them.
+- Every piece drawn from the Shard charges in selfhood. The hand-cannon takes small nameless memories with each shot; the veil holds the soul intact and leaves its wearer faintly absent to themselves; the Reflection shows erosion in others before it becomes loss and makes its bearer the object of everyone's pity.
+- Unresolved, it does not escape — it spreads. The breach type is Corrupt, the zone warps outward from where the entity already is, and the first indication is usually that two people on the same shift give different accounts of who was present.
 
 ## Appearance
 **Primary Form:** A melting shard perceived inside consciousness as a figure made from pale fragments. It watches without a face.
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A melting shard perceived inside consciousness as a figure made from pale fragments. It watches without a face. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Does not occupy space and does not travel; it is perceived inside consciousness and spreads through the awareness of whoever is in the border region. Record which personnel perceive it and at what distance from one another, since distance from the entity is not a measurable quantity. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** This entity has no appearance in the ordinary sense — it is perceived mentally, its pale fragments dissolve and reform under attention, and no two observers have ever produced the same description. The protocol therefore inverts: each observer writes their own account independently, and the accounts are filed as a set rather than reconciled into one. Record how many fragments were perceived, whether a face assembled, whether it seemed to be watching, and how long the perception held before it slid. Then record the detail that matters most and is easiest to miss: observers consistently describe the Shard in terms drawn from their own self-image, and a worker who reports that it looked worn out, or unwanted, or like someone who had been asked to leave, has filed a personnel record. Those descriptions are kept and read as such.
 
 ## Origin
 - **Formation:** The Shard formed from self-image eroded by repeated rejection.
 - **The Sorrow:** The emptiness of no longer recognizing the person one became.
 - **The Event:** An exile's identity dissolved under repeated denial; the remaining self crystallized and began melting.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** An exile, named nowhere in the record, who was refused so many times that he stopped recognising the person the refusals had made of him. The denials are documented. The man is not.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who couldn't repair. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored. Expanded origin context: The archive cross-references this entity's sorrow with Zone E, Border region — the same Han density, the same Void signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Anonym is recorded as a Subject with Subject-Mind manifestation and Void elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Flerehan brings the gauge down and the figure reforms gently around shared grief — it holds together best when it is grieved with rather than identified. Ferrehan brings it down by a harder route: the test is whether the worker can remain seen by the self, which means staying recognisable to themselves for the whole cycle while something is quietly dissolving the grounds for that. Viderehan holds level and shows the self before the erosion, which is informative and changes nothing. Pugnahan raises the gauge every time, melts the figure faster and pushes it further into thought, because confrontation insists on what something is and that insistence is the injury. The management condition states the balance exactly and personnel should not simplify it in either direction: use names and present anchors, and do not force a fixed identity.
 ## Breach Behavior
 
 > *"Anonym has broken free. Hunts personnel indiscriminately."*
@@ -160,9 +160,9 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Breach type:** Corrupt — nothing leaves, because nothing was ever in one place; the border region itself begins to lose definition outward from the personnel who are already carrying it.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Responds to certainty in both directions, which is unusual and is recorded here deliberately. It rises 10% each time personnel deny someone's account of themselves, and it rises 10% just the same each time personnel assert a fixed identity over someone — corrections, confident diagnoses, and telling a frightened colleague who they really are all count. It falls 10% when a worker is addressed by name and asked rather than told who they are. The vault note is accurate: certainty can destabilise it as much as denial.
 
 ## M.A.W. Equipment
 
@@ -184,12 +184,12 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The full figure against one designated target and nothing beyond them — the tallow ball adheres where it lands and does not carry.
+**Damage Application:** Score the impact once, then score the clinging white flame again on each following turn while it continues to burn; water does not shorten it, and the two resolve as separate events against the same resistance.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Anonym's void signature in the strike.
+**Ability:** Fires compressed balls of burning tallow that spread on impact and keep burning — the wound is to the sense of self, and targets describe afterwards not pain but a difficulty saying what was hit.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Each shot takes a small memory, and the loss is undetectable by design — what goes is minor and unlabelled, the name of a corridor, a face from a previous posting, the reason a habit was started. Wielders never notice the absence. Their colleagues do.
 
 ### M.A.W. Suit — The Melting Veil
 
@@ -205,9 +205,9 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Anonym's kind of pressure.
+**Ability:** Near-translucent Han-gossamer that holds the wearer's identity together under Void pressure, drawing tighter the closer it comes to the awareness it was taken from.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The veil protects the self by holding it slightly apart from the wearer. Nothing is lost and nothing hurts; wearers simply report watching themselves complete the shift, competently, from a short distance behind their own eyes.
 
 ### M.A.W. Stigma — The Melting Reflection
 
@@ -217,17 +217,17 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the bearer's rating while working the Shard, forfeited for the remainder of the cycle if the bearer states with certainty what the entity is
 
 **Ability:** Reveals emotional erosion before it becomes identity loss.
 
 **Cost:** The wearer feels pity from every observer.
 
-*Stigmas are granted at random by Anonym upon a successful work, not manufactured.*
+*The Reflection is given, not taken. It has appeared only on workers who finished a cycle without once telling the Shard, or a colleague, what they were. No procedure has produced one deliberately.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Anonym's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each piece remains part of the Shard, and the set shares a property the grades do not record: every item works on the boundary between a person and themselves, and every item moves that boundary. The cannon takes memories too small to miss. The veil preserves the self by setting it at a distance. The Reflection detects erosion in others early enough to act on, which makes it the most genuinely useful instrument in the α catalogue, and charges for it by making the bearer visibly someone to be pitied. Operatives issued the Reflection for welfare duty report that it works exactly as described and that they stopped being asked how they were while wearing it. The source was a man who was refused until he could not recognise himself, and his equipment is correspondingly good at seeing that happen to other people and useless at seeing it happen to the person holding it.
 
 ### Field Use Record
 
@@ -238,7 +238,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The α grades are honest — three to six damage, ten to fifteen Echoes, nothing concealed. What the columns cannot express is that every cost in this set is invisible to the person paying it and obvious to everyone around them, which inverts the usual reporting assumption. Read the Cost lines as the specification, and take the colleague's account over the wearer's.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Anonym's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record perceptions separately and in writing, then record the personnel. For each worker: name, posting, and the answer to one fixed question asked before the cycle and again after it — describe yourself in one sentence. The two sentences are compared and filed together. A shortened, flattened or more generic second sentence is the measurement, and it is a more reliable indicator than anything the worker will volunteer, because the characteristic effect here is loss of confidence in an identity the worker can still recite perfectly. Workers are told the question is coming and told why. Concealing the instrument would make the readings better and the practice worse.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -268,10 +268,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Anonym (O-Iα-126 [VS]) is logged as a Subject-Mind manifestation expressing Void. The Shard formed from self-image eroded by repeated rejection. Held at Zone E, Border region. It is perceived mentally rather than physically.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Border Watch Report, Zone E>**
 Spreads through the consciousness of border personnel. Subjects lose confidence in their own identity. It melts under direct certainty and reforms under patient observation.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Self-Description Sheet, Before and After>**
 The emptiness of no longer recognizing the person one became.
 
 **Entry 4 — <Containment Notice>**
@@ -307,12 +307,12 @@ A figure made of shards watches you from inside your own thought. Its edges melt
 
 Anonym does not exist in isolation. Its recorded relationships with Faceless Glass, The Empty Mask, The Forgotten Name should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish the Shard's solo profile across several cycles first, understanding that the profile is a set of disagreeing accounts rather than a description — the spread between observers is the baseline and a sudden consensus would be the anomaly. When a second entity is introduced, attend to the variable peculiar to this holding: the Shard is perceived inside the personnel, so an interaction is not happening between two entities in a room but between one entity and whatever the workers carrying it are also exposed to. Log which workers perceived what, their separation from one another, the duration, the gauge movement, and whether any two accounts converged. Convergence is reported immediately. It has happened once.
 
 
 ### Entity Interaction Record
 
-Anonym must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Shard shares the Zone E border region with holdings whose business is also belonging, exclusion and the drawing of lines, and it spreads through the personnel who work all of them. The interactions below are canonical but each was recorded through particular observers; personnel must re-establish the current spread of accounts before relying on any of them.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ Anonym must be assessed as part of an entity network, not as an isolated profile
 | **The Empty Mask** | The Mask offers absence where the Shard offers erosion. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Forgotten Name** | The Name can anchor the Shard's fading identity. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record which personnel perceived the Shard and which did not, the separation between them, the duration, the gauge movement, and each account written independently. Then take the self-description sheets again after separation. Whether the effect persists is measured on the workers, because there is nowhere else for it to be measured.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -367,9 +367,9 @@ Some sorrows are about losing a home. Anonym is about losing a self — the iden
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The management condition for this entity is two instructions that pull against each other, and personnel keep resolving the tension by dropping one of them. Use names and present anchors — so speak to people, say who is here, state the date and the posting. Do not force a fixed identity — so do not tell a wavering colleague who they really are, however kindly meant and however accurate. Both halves are required. Dropping the first leaves a worker unaddressed in the presence of something that erodes selfhood; dropping the second applies certainty, which the record states plainly can destabilise this entity as much as denial. The classification will tell a worker that this is a Minor residue. It will not tell them that the correct posture is to be definite about the facts and tentative about the person.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any incident, verify the gauge, the activation count, the exposure log and the extent of the affected zone — and collect the self-description sheets from every worker present, including those who reported no perception. Compare them against the pre-cycle sheets and against the same workers' sheets from earlier postings where those exist. The entity leaves no physical trace and warps a region that has no fixed boundary, so the personnel record is not supporting evidence for this review; it is the only evidence there is.
 ## Trivia
 
 - It does not melt in physical temperatures.
@@ -381,9 +381,9 @@ Some sorrows are about losing a home. Anonym is about losing a self — the iden
 
 - **Classification detail:** Anonym is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone E, Border region.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** There are no physical markers to identify. Recognition is by circumstance: Zone E, a figure of pale fragments that assembles and slides apart under attention, perceived without being located, and a cold that is reported as bloodless rather than cold.
+- **Record detail:** The border region holds more than one Void residue formed from exclusion; confirm the designation O-Iα-126 and the Subject-Mind manifestation before applying this file to any of them.
+- **Containment detail:** No door contains this entity, because it was never on the other side of one — it is perceived inside the consciousness of border personnel, and the containment boundary runs through the staff rather than around a cell. What limits it is rotation, naming practice, and the self-description sheets. The facility's only barrier here is procedural, and it is honest to say so in the file rather than imply a seal that does not exist.
 ## Document Information
 
 **Document ID:** SE-O-Iα-126
