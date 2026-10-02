@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Perennial's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Nothing is confronted and nothing is cleared. Viderehan reads the layers in the soil and holds the figure steady; Ferrehan asks the worker to stand on ground that is heavy with every return made to it, and to stay standing. The gauge falls under Ferrehan. It has never fallen under any procedure involving a tool.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge the place's history and do not claim it as unchanged**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
-- Perennial’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Perennial's dossier.
+- The effect accumulates by return, not by exposure. A worker who stands in the patch for a long shift carries less away than one who has come back to it four times across a season, and the file notes that the second pattern describes most of the personnel on this roster.
+- The maul, the mantle and the petal are all made from a place that was given up on repeatedly. Each activation borrows a measure of its refusal to stay gone, and the operator keeps it. The recorded cost is not fatigue. It is that the operator starts going back to things they had decided to leave.
+- The sorrow here does not dissipate and does not rupture outward. It layers. Each clearance of the patch adds another stratum to ground that already holds several, and what the next team meets is not the same entity grown stronger but the same entity with one more abandonment in it.
 
 ## Appearance
 **Physical Form:** A patch of dark flowers that uproot and walk on thin stem-legs — a swarming bloom-creature. **Movement:** They uproot and skitter on stem-legs, returning no matter how often crushed.
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Place-Void
 - **Primary marker:** A patch of dark flowers growing from apparently empty ground in the Desolate. The flowers return after being removed.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Mobile on stem-legs, and the movement is reoccupation rather than pursuit — it walks back to ground it has been removed from. Record where the patch is, where it was at the last survey, and the distance between the two. A Perennial that has not moved has not been disturbed.
 - **Element signature:** Weight
 - **Registered location:** The Desolate — mobile
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; on this record the ground is part of the identification, and a patch identified without its site history will be treated as vegetation. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the patch and the ground as one object. The flowers are dark, the stem-legs are thin, the petals open like small mouths and sing faintly on approach — the singing stops when anyone steps onto the soil. Note the soil's weight underfoot, which is the clearest field reading this entity gives, and whether the patch has closed over a previous clearance line.
 
 ## Origin
 - **Formation:** The Flower formed from a place that was repeatedly abandoned.
 - **The Sorrow:** The burden of returning to a location that can no longer return anything to you.
 - **The Event:** A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Four generations of a Desolate settlement that was founded, abandoned, rebuilt and abandoned again. The Keepers' record carries each founding date and none of the departure dates, because nobody was present at the end of any of them to write one down.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Perennial is recorded as an Object/Place with Place-Void manifestation and Weight elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A falling figure under Ferrehan means a worker stood on the ground under its full weight and did not step off. Stability under Viderehan means the cycles were shown and read, which is the correct outcome for that approach. The figure rises when the patch is cut, crushed, burned, lifted, or described in a report as cleared.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -175,7 +175,7 @@ The escalation pattern is specific to Perennial: it is not a generic breach even
 | **Risk** | Moderate (β) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Acknowledge the place's history and do not claim it as unchanged. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** what was done to the ground → the patch's position before and after → the distance it returned across → the layers visible in the exposed soil → the figure. The first field is placed first because in every logged activation it is an action taken by personnel, not an event the entity initiated.
 ## Breach Behavior
 
 > *"Perennial has broken free. Releases spores that infest personnel."*
@@ -183,16 +183,16 @@ The escalation pattern is specific to Perennial: it is not a generic breach even
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Perennial bursts free and crawls or slithers in search of prey. It releases spores that infest personnel. |
+| **Movement** | The patch walks out on its stem-legs and heads for ground it was previously removed from. Spores are released along the route and settle on whoever is in it; nobody is sought out. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
 | **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
-| **Escalation** | Each turn free, Resolve drain +5 until suppressed. |
+| **First Target** | Whoever is standing on the ground it is returning to. |
+| **Escalation** | Drain rises by 5 for each clearance attempted while it is free, and does not rise at all for time spent letting it reoccupy the site. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
+- **Breach type:** Escape — recorded as such because the patch leaves its marked area, though what it is doing is going back to a place it was taken from.
+- **Containment priority:** Stop clearing it. Suppression is the mechanism that feeds this entity, and the three heaviest figures on record each follow a thorough removal. Mark the ground as abandoned, enter its history in the site file, and leave the patch standing — it has not crossed a boundary that was left in place.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment
@@ -213,12 +213,12 @@ The escalation pattern is specific to Perennial: it is not a generic breach even
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The maul strikes one target. The weight does not spread through the party, which is consistent with the entity: it presses on whoever is standing on it.
+**Damage Application:** Record the strike and the carried weight separately. The Han damage lands once; the heaviness persists into the following shift and is what personnel actually report, and merging them loses that entirely.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Perennial's weight signature in the strike.
+**Ability:** Weight damage to the Han — to sorrow reserves and karmic debt rather than to the body. The maul carries the accumulation of four abandonments into the blow and lands heaviest on anyone who has left somewhere and gone back.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder grows progressively heavier and ages slightly, in the way the ground here has aged: by rounds of being left.
 
 ### M.A.W. Suit — The Returning Mantle
 
@@ -246,17 +246,17 @@ The escalation pattern is specific to Perennial: it is not a generic breach even
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against Perennial itself, and nothing at the other Desolate sites.
 
-**Ability:** Reveals karmic connections to a place or object.
+**Ability:** The petal shows what a place is owed. Worn on site, it makes visible which ground has been returned to and left, and how many times — which is how two unrecorded foundings were identified.
 
-**Cost:** The wearer feels the weight of every return and abandonment they observe.
+**Cost:** The wearer carries the weight of every return and abandonment they witness, including the ones that are nothing to do with them.
 
-*Stigmas are granted at random by Perennial upon a successful work, not manufactured.*
+*The petal is not manufactured. Perennial gives one to a worker who left the patch where it was standing, and has given none to a worker who tidied the site before leaving.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Perennial's element. No protocol produces Stigmas. They emerge from Perennial's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of Perennial rather than ordinary equipment, and the condition is that the ground is not claimed. Carried by an operator who has acknowledged the site's history, the maul and the mantle hold to grade. Carried by one who has not, the cost scales and the Weight in them becomes active, which here means the operator cannot leave any place for the last time. The petal is given, not issued.
 
 ### Field Use Record
 
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are separate axes and diverge sharply here. The maul performs and the mantle holds. What the grades cannot show is that the petal, which has no combat value at all, is the piece that has ended careers — its wearers keep returning to postings they were released from.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -289,7 +289,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Perennial's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Record the first sign, which is the singing before the patch is in view; the first sensation, which is the ground feeling heavier than the survey says it is; the patch's position against the last recorded one; and the condition that ends the encounter, which is the site's history being entered in the file with the ground left undisturbed. Note whether anything was removed.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -297,17 +297,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Perennial (N-IIβ-845 [WP]) is logged as a Place-Void manifestation expressing Weight. The Flower formed from a place that was repeatedly abandoned. Held at The Desolate — mobile. The flowers sing faintly during the Sorrow Tide.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Removing them causes them to return elsewhere along the same route.
+**Entry 2 — <Soil Record, Desolate Settlement Site>**
+Core taken at the centre of the patch, to a depth of one and a half metres. Four occupation layers, each separated by a band of undisturbed deposition: hearth ash and post-holes, then nothing; hearth ash, floor stone and a drainage cut, then nothing; a thinner layer with no stone at all; and at the top, recent ash with no structures above it. The intervals between them are not equal and the last is the shortest. The core is held in the site file and is the only document in which all four settlements appear together.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The burden of returning to a location that can no longer return anything to you.
+**Entry 3 — <Clearance Log and the Figures That Followed>**
+Clearance one, full removal to soil: regrowth within nine days, figure up eleven points and not recovered that season. Clearance two, burn: regrowth within six days, patch relocated eleven metres toward the old hearth line, figure up fourteen. Clearance three, lifted and transported off site: patch recorded back on the original ground inside a fortnight, transport crate found empty and undamaged, figure up nineteen. No clearance has been authorised since. The figure has fallen by a point or two in each season left alone, which is slow, and is the only reduction anyone has produced.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the settlement's cycles of return and loss. (Stable); Ferrehan: Tests whether the worker can stand beneath karmic weight. (Decrease). Personnel report loss rather than fear.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+The wing is occasionally asked why a patch of flowers holds a Critical designation when it has never injured anyone who left it standing. The answer kept in this file is that the designation is not about the flowers. It is about what personnel reliably do when they are told a site is contained: they tidy it. Perennial is the entity that measures that impulse, and the figures in the clearance log are the measurement. The ground is not being held against the entity. The entity is being held against the facility's habits.
 
 ## 최종 관찰 (Final Observation)
 
@@ -336,12 +336,12 @@ The ground hums beneath the dust. Dark flowers open where no rain has fallen, an
 
 Perennial does not exist in isolation. Its recorded relationships with The Sorrow Flower, The Drift Fog, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline across a season rather than a session, because the measurement here is where the patch has moved to and nothing shorter will show it. In shared conditions record whether the patch moved toward the other entity, whether the singing stopped, and whether the ground between them acquired weight.
 
 
 ### Entity Interaction Record
 
-Perennial must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Perennial is filed with the Desolate records that come from settlements rather than from people. The relationships below are what the archive will support. They are not alliances; they are several pieces of the same abandoned country, and in proximity each makes the others' ground harder to sign off as empty.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -349,7 +349,7 @@ Perennial must be assessed as part of an entity network, not as an isolated prof
 | **The Drift Fog** | The Fog thickens over abandoned ground. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Lost Prince** | The Prince searches among the flowers for returning bonds. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Season-length solo baseline first, then the shared encounter: the patch's position before, during and after, the distance at which it began to move, how long it continued after the other entity withdrew, and whether it ended up on ground either of them had been cleared from. The last field has answered more questions here than the proximity readings.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -385,20 +385,20 @@ Some sorrows mourn a home. Perennial mourns the pattern — the settlement found
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Refer to the Work Type responses in the Behavior section, and note that two of the four are unavailable, which is standard for an Object/Place record and is not a missing entry.
 - Standard containment protocols apply.
 **Observation Notes:**
 - See Origin section for formation details.
 - See Combat Record for engagement parameters.
 **Cross-References:** See entity’s interaction record and cross-references in the full file.
-**Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Faction Involvement:** SED, whose Desolate survey carries all four foundings of the settlement and none of its departures.
+**Originator:** The settlement itself, across four occupations; no individual originator is recoverable and the file does not propose one.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this as a record of ground rather than of a creature. Every figure in it follows something done to the soil by personnel. The percentage is the whole mechanism — there is no counter to run down, and a patch nobody has touched since the last survey will read exactly as it did then.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any survey of the Desolate interior, and after any clearance of vegetation anywhere on the site — the last unconditionally, including clearances carried out for unrelated reasons, since the entity does not distinguish between them. The review examines the clearance order, not the team that carried it out.
 ## Watch Record
 
 ### They Walk
@@ -428,9 +428,9 @@ A settlement was established and left and established again, each return adding 
 
 - **Classification detail:** Perennial is an Object/Place with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the return. Several walking growths are catalogued in the Desolate; this is the one that comes back to the same ground after removal, and the ground is the part that identifies it.
+- **Record detail:** Check the designation before approach. More than one Desolate record is a flowering form, and they differ on the decisive point — this one must not be tidied.
+- **Containment detail:** Sealed does not mean silent, and here it does not even mean still. The patch's influence is in the soil, which continues past any boundary drawn on the surface, and the containment reading is taken from the site history rather than from the perimeter.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-845

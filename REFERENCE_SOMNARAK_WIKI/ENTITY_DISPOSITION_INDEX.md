@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **34** |
-| Pending — no disposition-bearing line found by scan | 269 |
+| **Classified here, with a quoted line of evidence** | **35** |
+| Pending — no disposition-bearing line found by scan | 268 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 34 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 35 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 269 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 268 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -77,6 +77,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Echo Compass | `SE-C-IIIβ-016` | *"A successful cycle quiets the needle for a shift. The entity is unchanged by this, and the next operative will see their own heading."* |
 | Survivors' Breath | `SE-O-IVδ-895` | *"A completed cycle settles the Sigh around the worker and quiets it for a time. Nothing is resolved by this."* |
 | Crucible | `SE-C-IIIβ-275` | Resolution: *"Cool the anger through naming and controlled work."* A furnace that became conscious, and stayed in its forge. |
+| Perennial | `SE-N-IIβ-845` | Breach `Movement`: *"The patch walks out on its stem-legs and heads for ground it was previously removed from… nobody is sought out."* Containment priority: *"Stop clearing it. Suppression is the mechanism that feeds this entity."* It costs the facility its own tidying reflex, and no other seal. |
 | Bridge to Nowhere | `SE-C-IVδ-260` | *"Left unaddressed, the Bridge does not rupture or roam. It lengthens."* Growth is measured in span over empty ground; it takes corridor space and the Gardens roster, and interferes with no other containment. |
 | Well of Unfinished Words | `SE-N-IIβ-778` | *"The sceptre reaches one listener. Grief from this entity does not carry to the rest of the party… it addresses one person at a time, and always the one who is listening."* It waits, and it costs the facility scheduling, nothing else. |
 | Dismissed Cry | `SE-N-IIβ-560` | A grievance that was filed as noise. *"The urn reaches one target. The pressure does not spread to the rest of the party… it is heard by one person at a time or by nobody."* It damages the record-keeping around it and no other containment. |
