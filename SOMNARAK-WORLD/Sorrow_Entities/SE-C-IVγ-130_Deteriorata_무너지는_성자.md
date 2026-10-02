@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Deteriorata.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The entity is degrading continuously and has not yet reached any endpoint, in a process now measured in sessions rather than hours.
+- Work slows the degradation. It has never reversed it, and the rate returns to baseline between shifts.
+- The margin is two conditions. Escalation is an acceleration of the same process rather than a new behaviour.
+- Burden pressure accrues in crews who observe the acceleration directly; viewing time is capped and logged.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

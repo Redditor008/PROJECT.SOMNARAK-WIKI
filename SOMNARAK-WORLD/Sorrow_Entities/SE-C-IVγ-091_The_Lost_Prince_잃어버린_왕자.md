@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Lost Prince.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Prince is searching the Gardens for a place that the facility survey does not contain.
+- A cycle calms the search. It does not end it, and no session has persuaded him that the place is absent.
+- Two ignored conditions escalate him. Escalation presents as the search widening beyond the Gardens boundary.
+- Personnel do not offer directions. Engagement with the search is logged as a protocol breach regardless of outcome.
+- Extraction is a separate risk event with its own authorization.
 
 ## Combat Record
 ### Core Stat Line

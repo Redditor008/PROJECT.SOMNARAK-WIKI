@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Loom of Unlived Dreams.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Loom is threaded with dreams that were never had, and the work on it advances between inspections.
+- A cycle halts the advance for a shift. Nothing woven has been unpicked, and the pattern is unchanged by a clean outcome.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- There is no breach counter. The influenced radius near the Gates widens, and its edge is marked at every session rather than carried over.
+- Residue is recovered from the frame under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

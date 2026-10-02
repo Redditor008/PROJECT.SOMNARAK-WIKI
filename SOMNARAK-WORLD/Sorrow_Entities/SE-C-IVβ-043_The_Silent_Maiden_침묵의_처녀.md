@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Silent Maiden.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Silent Maiden has never been recorded making a sound, and the silence is maintained through the escalation of her Sisters.
+- Work settles her. Nothing on record has produced speech, and the absence is her stable state rather than a symptom.
+- Three ignored conditions escalate her. Hers is the escalation most often missed, because it has no auditory component at all.
+- Identity pressure acts on the operative's memory of what was said in the room; sessions are transcribed by instrument, not from recollection.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

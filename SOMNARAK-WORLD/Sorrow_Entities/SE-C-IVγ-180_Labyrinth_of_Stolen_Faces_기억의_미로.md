@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Labyrinth of Stolen Faces.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The passages beneath Old Lament do not close, and the survey of them has never twice produced the same plan.
+- Work stabilises a route for the length of a shift. The plan is not fixed by this, and no route has survived to a second session.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- No breach counter applies. Crews lay physical line from the entrance and recover it on exit; a route not on the line is not a route.
+- Extraction is authorized apart from the work cycle and is never attempted off the line.
 
 ## Combat Record
 ### Core Stat Line

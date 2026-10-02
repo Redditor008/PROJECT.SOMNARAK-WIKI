@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Midnight Choir.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Choir is only recorded in Old Lament after the shift change, and no member of it has ever been located.
+- Work shortens the performance. It does not prevent the next one, and the entity is unchanged by a successful cycle.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- No breach counter applies. The audible field expands through Zone B, and its boundary is marked physically before the late rotation begins.
+- Extraction draws on residue at the field edge under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

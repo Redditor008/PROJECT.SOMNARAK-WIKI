@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Clapperless.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The bell has no clapper and is held near the Orphaned Bell, where it is the quieter of the two by instrument.
+- Work maintains the silence for a shift. No cycle has produced a tone, and none has been expected to.
+- Only Viderehan and Ferrehan apply to the object.
+- There is no breach counter. The quiet field widens, and its boundary is confirmed by instrument rather than by ear.
+- Extraction is authorized separately from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

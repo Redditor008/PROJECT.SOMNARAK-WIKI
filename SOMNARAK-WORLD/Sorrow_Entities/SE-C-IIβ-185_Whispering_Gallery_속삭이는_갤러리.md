@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Whispering Gallery.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Gallery returns speech from a position other than the speaker's, and the offset is consistent for each individual voice.
+- Work lowers the carry of the returns for a shift. The geometry of the space is unchanged, and the offsets have never been corrected by a cycle.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- There is no breach counter. The carrying field widens through Zone B, and its edge is walked and marked at every session rather than inferred from the previous reading.
+- Residue is recovered from the gallery curve under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

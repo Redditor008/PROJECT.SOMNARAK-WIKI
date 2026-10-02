@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Hollow Knight.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The armour stands and moves with nothing inside it, and the articulation is correct in every joint.
+- Work settles the figure. The hollow is unchanged, and no cycle has caused the armour to open or fall.
+- The margin is two conditions. Escalation is a change of stance, and the stance is photographed at the start of every session for comparison.
+- Structural pressure is the hazard rather than aggression; the Knight has not struck, but its mass is treated as live load.
+- Recovery of the implement is a separate authorization.
 
 ## Combat Record
 ### Core Stat Line

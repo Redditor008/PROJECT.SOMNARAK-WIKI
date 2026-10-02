@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Somnium.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Somnium manifests as sleep rather than as a figure, and personnel near the Gates report the onset as reasonable at the time.
+- A cycle shortens the onset window. It does not prevent the manifestation, and no session has kept a full crew awake by work alone.
+- Two ignored conditions escalate it. Escalation is a shortening of the interval before onset.
+- Crews are paired and each pair holds a timed check; a missed check ends the session for the whole rotation.
+- Extraction is a separate exposure event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

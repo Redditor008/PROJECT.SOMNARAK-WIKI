@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Grimoire.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The book writes itself, and no session has observed the moment of writing despite continuous recording.
+- A cycle slows the rate of new text. Nothing already written has been removed, and the entity is unchanged by a successful outcome.
+- Three ignored conditions escalate it. Contact runs through the tale register, so escalation presents as personnel recounting events that are not theirs.
+- Crews read aloud only what is required and never the most recent page; the most recent page is transcribed by instrument.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

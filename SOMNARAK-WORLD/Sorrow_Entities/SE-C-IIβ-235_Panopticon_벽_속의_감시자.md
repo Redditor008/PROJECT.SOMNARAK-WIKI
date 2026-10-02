@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Panopticon.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The manifestation is phantasmal and ambient in Old Lament; it is not held in a cell and cannot be approached directly.
+- Work reduces the sense of observation for a shift. Nothing on record has ended it, and the entity is not displaced by a successful cycle.
+- Three ignored conditions escalate it. Escalation is reported as certainty about being watched rather than as any visible change.
+- Identity pressure is the hazard. Personnel who begin adjusting their behaviour for an unseen observer are withdrawn from the rotation.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

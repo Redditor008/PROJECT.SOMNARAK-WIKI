@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Angry Maiden.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The anger is sustained without object; nothing in the record identifies what it is directed at.
+- A cycle reduces the intensity for a shift. The direction is unchanged, because there has never been one to change.
+- The margin is three conditions. Escalation in this Sister reliably precedes escalation in the other two by a short interval.
+- Structural pressure is the hazard. The enclosure fittings are load-checked on the same schedule as the gauge reading.
+- Recovery of the implement is a separate authorization and is never a reward for a clean shift.
 
 ## Combat Record
 ### Core Stat Line

@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Cracked Mirror.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The crack does not appear in the reflection, and personnel notice this at different intervals.
+- Work settles the surface for a shift. The discrepancy persists after a clean cycle and is expected rather than a reporting error.
+- Only Viderehan and Ferrehan apply to the object.
+- No breach counter applies. The affected radius grows across the Market, and the edge is remeasured from the case at every session.
+- Residue recovery at the frame is separately authorized.
 
 ## Combat Record
 ### Core Stat Line

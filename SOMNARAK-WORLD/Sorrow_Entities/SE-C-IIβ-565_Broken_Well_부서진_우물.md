@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Broken Well.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Well is phantasmal and has no shaft; objects placed into it rest on the Old Lament floor.
+- Work reduces its presence for a shift. It reforms in the same place, and the entity is not diminished by a successful cycle.
+- Three ignored conditions escalate it. Escalation is reported as depth — personnel describe the floor as giving way without any structural change.
+- Crews work with a physical tether to the doorway, since the hazard acts on judgement about the floor rather than on the floor itself.
+- Extraction is a separate risk event with its own authorization.
 
 ## Combat Record
 ### Core Stat Line

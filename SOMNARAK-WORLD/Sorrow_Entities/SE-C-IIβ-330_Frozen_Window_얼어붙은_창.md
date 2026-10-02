@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Frozen Window.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Window shows the Commons in a condition the Commons has not been in, and the view does not change with the hour.
+- A cycle dims the view. It has never cleared the glass, and the entity is not altered by a successful outcome.
+- Three ignored conditions escalate it. Escalation is a change in what is shown rather than any movement of the frame.
+- Burden pressure accumulates in anyone who watches for longer than a logged interval; viewing time is capped and recorded.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

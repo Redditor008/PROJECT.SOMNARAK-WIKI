@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Cleaved.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The division is clean and the entity is unimpaired by it, which is the finding personnel most often fail to log.
+- Work settles both halves. No cycle has rejoined them, and neither half has been recorded as dominant.
+- Three ignored conditions escalate it. Escalation is simultaneous across both halves rather than beginning in one.
+- Void expression erodes the operative's certainty about which half was addressed; instructions are logged with the half identified by position.
+- Extraction is a separate authorization and carries the same ambiguity.
 
 ## Combat Record
 ### Core Stat Line

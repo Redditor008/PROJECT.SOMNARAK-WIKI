@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Flotsam.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Flotsam accumulates in Old Lament without any current to carry it, and the pile is never composed of the same materials twice.
+- A cycle settles the accumulation. It does not disperse it, and the pile has never been recorded as smaller than at its previous logging.
+- Three ignored conditions escalate it. Escalation is an increase in rate rather than any change in the material.
+- Structural pressure is literal; the bearing floor under the accumulation is instrumented and read at every session.
+- Extraction is a separate authorization and is not treated as routine clearance of the pile.
 
 ## Combat Record
 ### Core Stat Line

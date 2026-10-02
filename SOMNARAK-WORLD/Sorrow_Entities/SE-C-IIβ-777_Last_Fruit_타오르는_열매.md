@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Last Fruit.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- One fruit remains and does not fall, ripen further, or spoil on the Market stand.
+- A cycle steadies it. The fruit is unchanged, and no session has altered its condition in either direction.
+- The margin is three conditions. Escalation presents as the fruit appearing within reach of whoever is nearest.
+- Personnel are briefed that the impulse to take it is the entity acting, not appetite, and the impulse is logged when it occurs.
+- Extraction is a separate risk event and is never a reward for a clean shift.
 
 ## Combat Record
 ### Core Stat Line

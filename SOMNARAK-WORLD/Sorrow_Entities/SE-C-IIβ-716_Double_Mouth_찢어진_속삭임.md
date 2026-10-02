@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Double Mouth.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The entity speaks from two positions at once, and the two accounts of a session rarely agree.
+- A cycle reduces the overlap. It does not silence either voice, and the disagreement is unchanged by a clean outcome.
+- The margin is three conditions. Escalation presents as the two voices converging on the same statement.
+- Crews record both channels separately and do not reconcile them in the room; reconciliation is done at the Commons desk.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

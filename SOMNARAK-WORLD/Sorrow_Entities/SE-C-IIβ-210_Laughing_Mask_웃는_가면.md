@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Laughing Mask.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The sound arrives before the Mask is in view, and personnel in the Mask Market consistently place its source behind them.
+- A successful cycle quiets it for a shift. The Mask is unaltered, and the misplacement of the sound persists after a clean outcome.
+- Only Viderehan and Ferrehan apply to the object.
+- No breach counter applies. The audible radius grows across the Market, and the boundary is confirmed by instrument because personnel cannot locate it by ear.
+- Extraction is a separate authorization and carries the same auditory exposure.
 
 ## Combat Record
 ### Core Stat Line
