@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Gavel's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The session is conducted as a submission of evidence. Flerehan is entered as mitigation and lowers the scale; Ferrehan requires the worker to stand under the sealed face and wait without filling the silence, and lowers it further. Pugnahan is recorded as guilt. Nothing is argued, because nothing here answers argument.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Present context and evidence; do not appeal with status or force**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
-- Gavel’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Gavel's dossier.
+- The effect does not build with time spent in the chamber. It builds with every claim made from position — a rank invoked, a clearance cited, a decision described as already taken. A team that says nothing about who they are can hold a long session at a flat reading.
+- The verdict, the plate and the charm are all made from certainty that never heard the circumstances. Each activation lends the operator a share of that certainty and they keep it. The recorded cost is not anger. It is that the operator becomes unable to revise a decision once they have announced it.
+- Left unresolved the sorrow does not rupture outward. It accumulates as a finding. The scale holds at whatever weight the last submission left it at, and the next team is judged against a record they did not make and are not shown.
 
 ## Appearance
 **Primary Form:** A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its chest.
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its chest.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It manifests within the registered area and takes up a fixed standing position facing the entrance. Record where it is standing and which way the sealed face is turned; it turns toward whoever is speaking, and the turn is the only acknowledgement it gives.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-01, Collector's Row
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; the Row holds several records that measure, and arriving with the wrong one in mind means arriving prepared to argue with something that does not hear argument. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the scale before anything else. The crimson scale set in the chest is the reading — note which pan is down and by how much, at entry, at each submission, and at exit. The face is a sealed plate with nothing on it, and personnel are to stop describing expressions on it; four separate reports have done so and no two agreed.
 
 ## Origin
 - **Formation:** The Judge formed from the sorrow of people subjected to impartial systems that were never truly fair.
 - **The Sorrow:** The grief of being measured by rules that refused to understand circumstances.
 - **The Event:** Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Debtors brought before the Collector courts of the Row, who were measured accurately and heard not at all. The Keepers' record carries the case numbers and not the names, which is the same omission the entity was made of and the reason the file prints the numbers in full.
 - **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around SECTOR-C-01, Collector's Row — until the Grudge was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Gavel is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at SECTOR-C-01, Collector's Row; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A falling scale means evidence was submitted — and the record shows it falls for evidence that damages the submitting team exactly as far as for evidence that helps them, because what it weighs is completeness, not innocence. A rising scale means somebody appealed to standing: rank, authorisation, urgency, or the fact that a decision had already been made elsewhere.
 ## Breach Behavior
 
 > *"Gavel has broken free. Hunts personnel indiscriminately."*
@@ -153,17 +153,17 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Gavel breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
+| **Movement** | It leaves on foot at a walking pace and goes to the room where a decision is being made about somebody who is not in it. It stands there. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
-| **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Secondary Effect** | Everything unsaid in the room becomes difficult to keep unsaid; personnel report volunteering information nobody asked them for. |
+| **First Target** | Whoever in the room is chairing. |
+| **Escalation** | Drain rises by 5 for each decision concluded in its presence without the subject being heard, and not at all for the time it spends standing in an adjourned room. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — it leaves the chamber and walks to wherever a decision about a person is being taken without that person present. It has never been found anywhere else.
+- **Containment priority:** Adjourn, then hold the hearing. Blocked corridors and Warden deployment have been tried on three occasions and the figure walked through all three without altering pace; the only recorded returns to chamber followed a session being reopened with the subject present.
+- **Sorrow Gauge on breach:** The scale governs, not the clock. It rises by 10 for each decision reached in its presence without the subject being heard, and falls by 10 for each hearing conducted in front of it, however small — the record includes a duty-roster dispute settled in a corridor, which brought it down a full step.
 
 ## M.A.W. Equipment
 
@@ -182,9 +182,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A line of up to three. The verdict carries through a group in the order they are standing, which the Row's own court procedure also did.
+**Falloff Rule:** Full effect on the first, seventy per cent on the second, fifty on the third. What thins is not force but attribution: the third target reports being caught up in something rather than being found at fault.
+**Damage Application:** Record the strike and the finding separately. The Grudge lands once; the sense of having been judged persists into the following shift and is the part personnel seek counselling for.
 
 **Ability:** Exposes and strikes the target's greatest wrongdoing.
 
@@ -204,9 +204,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Gavel's kind of pressure.
+**Ability:** Turns Grudge aside from the body, which is the only damage this entity delivers. The plate is what allows a worker to stand under the sealed face for the length of a submission.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes dull, and the wearer becomes slow to withdraw a statement — which in this chamber costs more than the slowness itself.
 
 ### M.A.W. Stigma — The Iron Charm
 
@@ -216,17 +216,17 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to work against Gavel itself, and nothing elsewhere on Collector's Row.
 
-**Ability:** Grants a minor boon tied to Gavel's sorrow; the effect mirrors the entity's nature.
+**Ability:** The charm makes its wearer audible to authority: a statement made while wearing it is entered in full rather than summarised, once. It is the thing the Row's courts never granted.
 
 **Cost:** The bearer's temper shortens.
 
-*Stigmas are granted at random by Gavel upon a successful work, not manufactured.*
+*The charm is not manufactured. Gavel gives one to a worker who submitted the part of the record that told against them, and has given none to a worker who won a session.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Gavel's element. No protocol produces Stigmas. They emerge from Gavel's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of Gavel rather than ordinary equipment, and the condition is that the whole file is produced. Carried by an operator who produces it, the verdict and the plate hold to grade. Carried by one who edits, the cost scales and the Grudge in them becomes active, which here means the operator starts measuring colleagues against rules they have not been told. The charm is given, not issued.
 
 ### Field Use Record
 
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are separate axes, and the separation is wide here. The verdict and the plate both perform. What the grades cannot show is that the charm, which has no combat value, is held by most of the personnel who have since submitted complaints about their own supervisors, and that every one of those complaints was upheld.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Gavel's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Record the first sign, which is the smell of hot iron in a room that is not warm; the first sensation, which is the impulse to explain yourself; the scale's position at entry and exit; every claim of authority made in the chamber and by whom; and the condition that ends the encounter, which is the context being presented in full without an appeal to standing.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -267,17 +267,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Gavel (C-IVδ-140 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Judge formed from the sorrow of people subjected to impartial systems that were never truly fair. Held at SECTOR-C-01, Collector's Row. It watches without visible eyes.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Walks through Collector's Row issuing silent judgments. Personnel feel guilty for actions they have not yet taken. Collector records become legible when it is near.
+**Entry 2 — <Collector Court Docket, Row: Case Numbers Without Names>**
+Row docket, final sitting: one hundred and forty cases, one hundred and forty judgments, mean time per case under four minutes. The column for circumstances offered is present on the form and empty on every line. Two clerks' initials appear throughout. The archive prints the case numbers in full because the numbers are all that survives of the people they were attached to, and because the entity's scale has been observed to settle slightly whenever the docket is read aloud in the chamber.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of being measured by rules that refused to understand circumstances.
+**Entry 3 — <Statement of a Worker Who Submitted Against Herself>**
+"I gave it the whole log, including the part where I was late and the part where I had signed something I had not read. I expected it to go badly. The scale came down. It came down further on my mistakes than on anything I had done right, and I want that written somewhere, because the team had spent two days preparing an account that left those out and that account would have made the reading worse. It is not looking for innocent people. It is looking for complete ones."
 
 **Entry 4 — <Containment Notice>**
 Management: Present context and evidence; do not appeal with status or force. Work response — Flerehan: Records tears as mitigating evidence. (Decrease); Pugnahan: Treats aggression as guilt. (Increase); Viderehan: Shows the evidence used in its judgment. (Stable); Ferrehan: Makes the worker wait beneath its gaze. (Decrease). It has judged personnel and Collectors identically.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
+**Entry 5 — <Director's Memo, Eyes Only: On Being Judged Identically>**
+The Trivia section states that Gavel has judged personnel and Collectors identically. That sentence is the reason this entity is held at Advanced comprehension and worked by senior staff only, and the reason is not safety. It is that the entity does not recognise the distinction this facility runs on. A Warden submitting evidence and a debtor submitting evidence are weighed by the same measure, and the scale has twice fallen for the debtor. No instruction exists, or will be issued, requiring personnel to describe this as an anomaly in the entity.
 
 ## 최종 관찰 (Final Observation)
 
@@ -306,12 +306,12 @@ Iron footsteps cross the floor. The Judge turns its sealed face toward you, and 
 
 Gavel does not exist in isolation. Its recorded relationships with The Weighting Bird, The Debt Scale, The Convergence should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline it alone and with personnel of differing rank present, since the reading responds to who is speaking rather than to how many. In shared conditions record the scale's position throughout, whether the face turned toward the other entity, and whether any decision was taken in the chamber during the overlap.
 
 
 ### Entity Interaction Record
 
-Gavel must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Gavel is filed with the Collector's Row records, which are mostly about debt and this one is not. The relationships below are what the archive will support. They are not alliances; they are the court and the people it processed, kept in the same wing, and in proximity the Row's records read less like a ledger and more like a docket.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -319,7 +319,7 @@ Gavel must be assessed as part of an entity network, not as an isolated profile.
 | **The Debt Scale** | The Scale becomes perfectly balanced nearby. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Convergence** | The Judge is itself judged by the Convergence. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Mixed-rank solo baseline first, then the shared encounter: scale position before, during and after, the distance at which the face turned, how long the reading stayed elevated once the other entity withdrew, and whether anybody present invoked their authority. The last field explains most of the variance and is the one most often omitted.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -366,9 +366,9 @@ Some sorrows are about cruelty. Gavel is about indifference — the impartial sy
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this as a court rather than as a hostile subject. Every figure here follows from how personnel conducted themselves procedurally, and the entity has applied the same standard to Collectors, to Wardens and to the Directorate — the Trivia section records that it has judged personnel and Collectors identically, and no exception has been logged since.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any incident on the Row, and after any disciplinary decision taken anywhere in the facility without the subject present — the last unconditionally, because the scale has moved on decisions taken three sectors away. The review establishes whether a hearing was held, not whether the outcome was correct.
 ## Apex Record
 
 ### The Verdict Never Spoken
@@ -406,9 +406,9 @@ Workers' written findings are sealed before discussion and compared by a clerk o
 
 - **Classification detail:** Gavel is a Subject with Entity (IV) — Rigid and absolute coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-C-01, Collector's Row.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the sealed face and the chest scale. Several iron forms are catalogued on the Row; this is the one with no features at all and a working balance where a heart would be.
+- **Record detail:** Check the designation before approach. More than one Row record weighs things, and they weigh different quantities — this one weighs whether the person was heard.
+- **Containment detail:** Sealed does not mean silent. The scale responds to proceedings elsewhere in the facility with the chamber shut and empty, and the containment reading is taken from the scale rather than from the door.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-140

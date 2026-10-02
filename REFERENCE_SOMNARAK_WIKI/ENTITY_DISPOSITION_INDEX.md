@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **37** |
-| Pending — no disposition-bearing line found by scan | 266 |
+| **Classified here, with a quoted line of evidence** | **38** |
+| Pending — no disposition-bearing line found by scan | 265 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 37 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 38 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 266 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 265 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -77,6 +77,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Echo Compass | `SE-C-IIIβ-016` | *"A successful cycle quiets the needle for a shift. The entity is unchanged by this, and the next operative will see their own heading."* |
 | Survivors' Breath | `SE-O-IVδ-895` | *"A completed cycle settles the Sigh around the worker and quiets it for a time. Nothing is resolved by this."* |
 | Crucible | `SE-C-IIIβ-275` | Resolution: *"Cool the anger through naming and controlled work."* A furnace that became conscious, and stayed in its forge. |
+| Gavel | `SE-C-IVδ-140` | Breach `Movement`: *"It goes to the room where a decision is being made about somebody who is not in it. It stands there."* Containment priority is *"Adjourn, then hold the hearing."* It costs F01 its procedure and nothing structural. |
 | Candela | `SE-C-IVδ-165` | Breach `Movement`: *"It leaves the chamber and walks to wherever the person it has been grieving for is working. It reaches toward them and does nothing else."* Its visions are foreknowledge the facility is forbidden to use, so it costs F01 judgement — not containment. |
 | The Vanished Rope | `SE-C-Iα-723` | Breach `Movement`: *"It leaves on foot and walks the corridors at a traveller's pace, the offered end held out to whoever it passes. Nobody is hunted; everybody is asked."* Trivia confirms it *"has never caused direct physical injury."* It costs F01 personnel, one transfer request at a time. |
 | Perennial | `SE-N-IIβ-845` | Breach `Movement`: *"The patch walks out on its stem-legs and heads for ground it was previously removed from… nobody is sought out."* Containment priority: *"Stop clearing it. Suppression is the mechanism that feeds this entity."* It costs the facility its own tidying reflex, and no other seal. |
