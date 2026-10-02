@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Broken Ruin.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- A successful cycle quiets the collapse-sound and slows the shifting of the materials for a while. It builds nothing. The entity has never put a single piece back where it came from in the whole of the containment, and a cycle that appears to have helped it toward doing so has been misread.
+- Both readings are live and either one alone fires the escalation. The listed threshold is 2, a count that runs down with each failed or refused cycle, which is a thin margin for a holding of this potency; the Combat Record separately sets activation at a Sorrow Gauge of 75%, and the gauge reaching that figure activates the entity whatever the count still stands at.
 - The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction takes a fragment from a figure that is already nothing but fragments, and the pieces keep the source's defining property: they are of no use whatever for putting things back together.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Broken Ruin's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** The watch is set from the eligibility list and from nowhere else. Personnel who have survived a collapse are not assigned, however willing, and the team confirms its own eligibility before the holding is approached rather than afterwards. Position is taken at a fixed station with a clear line back to the Market thoroughfare.
+2. **Clash:** Work proceeds across twenty turns with all four Work Types available, and one prohibition runs through all of them: nothing is reconstructed. No plan is sketched, no fragment is matched to another, no question is asked about what the building was or which wall a piece came from. The account is taken as it is given and the cycle is conducted at the pace of the telling.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen to the survivor's account; do not reconstruct the settlement**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- Broken Ruin’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Broken Ruin's dossier.
+- The effects compound with duration and the compounding is cognitive rather than emotional. Long exposure produces an increasingly confident sense of the settlement's layout in personnel who never saw it: where the well stood, which way the street ran. Those impressions are consistent between workers, they are filed as exposure symptoms, and they are not treated as information about the settlement.
+- Each M.A.W. activation debits the wielder past what the grade ledger records — composure, recollection, somatic steadiness. The characteristic charge from this source is a persistent sense of having left somewhere without taking everything, which does not attach to any particular place the wielder has actually been.
+- Without resolution the entity escapes and roams the facility, which is the breach type on the classification. It does not pursue and it does not hide; it walks, weeping, and stops in rooms, and the rooms it stops in are the ones that remind nobody present of anything in particular.
 
 ## Appearance
 **Primary Form:** A weeping figure made from pieces of a ruined Desolate structure. Its body shifts between stone, dust, and remembered rooms.
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A weeping figure made from pieces of a ruined Desolate structure. Its body shifts between stone, dust, and remembered rooms.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Mobile on foot within the registered area; record posture, distance, and above all whether it has moved at all since the last observation, since waiting is its whole activity.
 - **Element signature:** Lament
 - **Registered location:** Zone C, Mask Market
 
@@ -115,18 +115,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A weeping figure made from pieces of a ruined Desolate structure. Its body shifts between stone, dust, and remembered rooms. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile on foot within the registered area; record posture, distance, and above all whether it has moved at all since the last observation, since waiting is its whole activity. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Identification is not optional and is made against the materials and the collapse-sound together; the SECC code, the manifestation and the physical markers must align before Work begins. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the materials and the sound, separately and without joining them. For the materials: which substance the body is presenting as at the moment of observation — stone, dust, splintered timber, or the remembered interior of a room — with the time of each change and nothing about the sequence, since there is no sequence. The pieces are not from one physical ruin and never have been; the file states this plainly and it is the reason no description of this entity should use the word 'rebuilt' or imply a prior whole. For the sound: log each occurrence of the collapse noise with the time and nothing else. Attempts to characterise it were made early, produced a different account from every Warden involved, each of them certain, and were discarded as unusable. That finding stands. Log the time. Do not describe the sound.
 
 ## Origin
 - **Formation:** The Ruin formed from a structure destroyed outside the city and remembered by survivors.
 - **The Sorrow:** The grief of carrying a disaster after leaving the place where it happened.
 - **The Event:** A Desolate settlement collapsed; survivors brought fragments and memories into the city.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The survivors of a Desolate settlement that fell, who walked to the city carrying what they could. The commissioning file holds their arrival records in the gate clerk's own hand, listing what each declared. The list includes stone. The clerk wrote it down without comment and passed them through, and the archivist's note draws no conclusion from that beyond observing it.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Broken Ruin is recorded as a Subject with Subject-Lament manifestation and Lament elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Read it in the materials and in the pauses. A falling gauge presents as settling — the body holding one substance for longer, the collapse-sound coming at wider intervals, the weeping lower. The pressure drops and the cause is untouched; the settlement is still gone and the pieces are still not from it. A rising gauge presents as **clarity**. The fragments begin to look as though they belong together, the worker starts to see a building in them, and the account being given starts to sound like something that could be drawn. That is the failure state, and it is seductive precisely because the people posted here are careful and methodical. Everything that looks like understanding on this holding is the holding working on the observer.
 ## Breach Behavior
 
 > *"Broken Ruin has broken free. Collapses structures."*
@@ -161,8 +161,8 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Containment priority:** Physical suppression of the roaming figure, by barrier and corridor denial, with no attempt to disassemble, collect, or recover any part of it. Loose material shed during a breach is left where it falls and is logged in place. Personnel sweeping after an escape have twice gathered fragments into a container with the intention of returning them, and the file records both occasions as escalations rather than as recoveries.
+- **Sorrow Gauge on breach:** Opens at 40% and moves on reconstruction rather than on elapsed time. Each 10% is added by an attempt to put the settlement back: a sketch, a matched pair of fragments, a reconciled account, a question about where a piece came from or what the structure was. Each 10% comes off when a survivor's account is taken down whole, in their own order, with nothing asked and nothing corrected — including the parts that contradict the account taken last month. Standing silent holds it steady. The instruction is simple to state and extremely difficult to follow, because reconstruction is not merely a temptation here: it is what a competent archive does, and this holding is the one place in the wing where doing it well makes everything worse.
 
 ## M.A.W. Equipment
 
@@ -182,9 +182,9 @@ The heavy spine allows the dirk to be hammered into stone seams to create climbi
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Broken Ruin's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — composure and the willingness to leave a thing broken. The strike carries the source's signature, and targets report the sound of something large coming down behind them.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the grief of a place that cannot be returned to. Prolonged use causes involuntary weeping, most often on arriving home at the end of a shift.
 
 ### M.A.W. Suit — The Ruin Shroud
 
@@ -200,9 +200,9 @@ The heavy spine allows the dirk to be hammered into stone seams to create climbi
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Broken Ruin's kind of pressure.
+**Ability:** Grants resistance to Lament pressure, shielding the Mind against the particular weight of displacement. It is rated for long watches rather than for impact, which is the only engagement profile this source produces.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small joys, and to the comforts of familiar places in particular. Wearers report that their quarters stop feeling like anywhere specific.
 
 ### M.A.W. Stigma — The Ruin Fragment
 
@@ -212,17 +212,17 @@ The heavy spine allows the dirk to be hammered into stone seams to create climbi
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat while this piece's source entity is the subject of the cycle, and nothing on any other holding
 
 **Ability:** Preserves one memory of a destroyed place.
 
 **Cost:** The wearer hears the sounds of its collapse.
 
-*Stigmas are granted at random by Broken Ruin upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, and no amount of patience, service or correct procedure obliges one.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Broken Ruin's element. No protocol produces Stigmas. They emerge from Broken Ruin's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design the cost is immediate and personal, and the sorrow in the piece can wake — which on this set presents as the conviction that one has left something behind and should go back for it. No protocol produces a Stigma; it comes from the source at the source's disposition or not at all.
 
 ### Field Use Record
 
@@ -233,7 +233,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Performance and human cost are separate axes and the grade only measures the first. An efficient piece from this source can still leave its wielder Fractured, hollowed, or sorrow-bound, and the costs here are slow and domestic in character, surfacing off duty rather than on it. Read both columns, authorise on the second, and ask after the wielder's home life rather than their cycle record.
 
 ## 관찰 기록 (Observation Log)
 
@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Broken Ruin's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Observe from the fixed station, by a Warden on the eligibility list, and record the first visible sign, the first emotional response and what prompted it, the first measurable change in the surrounding space, and the condition that ended the watch. The entity's appearance is its history made visible rather than a guide to its behaviour: a collapsed building that learned to walk and weep, assembled from pieces of no single structure, is what a disaster looks like once it has been carried somewhere else. One standing note belongs here. Wardens transferring in from the other ruin holdings arrive expecting reconstruction and are told in the briefing that none occurs, because the expectation is strong enough that several have recorded progress toward it that the station log does not support.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -264,10 +264,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Ruin (O-IIIγ-559 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Ruin formed from a structure destroyed outside the city and remembered by survivors. Held at Zone C, Mask Market. It reacts to survivors and Desolate travelers.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Mask Market Watch Log, Year 4238>**
 Walks through Mask Market while carrying pieces of the ruin. Personnel feel grief from an outside disaster as their own. The fragments never form a stable building.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on the Refused Volunteers>**
 The grief of carrying a disaster after leaving the place where it happened.
 
 **Entry 4 — <Containment Notice>**
@@ -303,12 +303,12 @@ Stone gathers around a crying figure. A doorway appears, then collapses. Dust fi
 
 Broken Ruin does not exist in isolation. Its recorded relationships with The Vanished Ruin, Corrosion Dream, The Memory Lake should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Solo baselines first, and a long one here, since the material changes and the collapse-sound are both irregular enough that a short series proves nothing. The relations on file concern ruin, displacement, or things carried from elsewhere, so the question to settle is whether the fragments respond to the other presence — whether anything in the body begins to settle, match, or hold. Log the first cross-entity response with its activating distance, the duration, the gauge change on both sides, the operational impact, and whether separation ends it. Re-verify each cycle; a Sorrow Tide, an Ordeal or a transformation has reversed settled dynamics in this zone overnight.
 
 
 ### Entity Interaction Record
 
-Broken Ruin must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Broken Ruin must be assessed as one of a group of sorrows carried into the city from outside it, rather than as a solitary figure in the Mask Market. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -316,7 +316,7 @@ Broken Ruin must be assessed as part of an entity network, not as an isolated pr
 | **Corrosion Dream** | Shares Outside Sorrow from failed settlements. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Memory Lake** | Receives memories of the collapse. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring them into range in the open rather than in an enclosed stall, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the surrounding space, and whatever persists after separation. The field this holding adds is the material log, kept at the same interval throughout and never summarised into a sequence.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -363,9 +363,9 @@ Some sorrows mourn a place. Broken Ruin mourns the carrying — the disaster bro
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Treat the record as a starting point and the station log as the authority, and then look at what the containment actually rests on. This entity appears to those who have survived a collapse and to nobody else, so the people who can see it properly are precisely the people the infirmary rules ineligible for the watch. Several Wardens have volunteered on the strength of their own history. All have been refused, and the refusals are filed with their requests. The consequence is deliberate and uncomfortable: the holding is observed, in perpetuity, by personnel to whom it is faint, and the clearest witnesses available are barred on the ground that the watch would cost them more than the observation is worth. The wing has reviewed that trade twice and upheld it twice, and the minutes of both reviews are attached rather than summarised. Where the entity contradicts this file, trust the entity and log the contradiction unresolved.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, verify the four pillars — gauge, seal, personnel, position — before work resumes. Two further items are specific to this holding. The cycle record is checked for reconstruction: drawings, matched fragments, reconciled accounts. Where found, the finding goes to the briefing and not to the worker's file, since piecing things together is the competence this facility selects for. And eligibility is re-confirmed rather than assumed, because a Warden's history can change between postings and nobody should have to raise it themselves at the door.
 ## Warden Record
 
 ### It Does Not Rebuild
@@ -395,9 +395,9 @@ A Desolate settlement fell and the survivors carried fragments and memory in wit
 
 - **Classification detail:** Broken Ruin is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone C, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the shifting and the waiting. Several filed entities are made of ruin; this is the one whose substance will not settle and which has never attempted to rebuild anything.
+- **Record detail:** Ruin-derived entities are common in the archive and at least two others are held within the Mask Market. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the decisive point, which here is whether reconstruction is permitted, and on this holding it is not.
+- **Containment detail:** The seal holds the figure and does not hold the sound. The collapse noise is reported from stalls and corridors well beyond the boundary, at ordinary volume and without a source, and the Market's own traders have learned to ignore it. Those third-party reports are collected with the holding and timed against the station log, and the timings agree.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-559
