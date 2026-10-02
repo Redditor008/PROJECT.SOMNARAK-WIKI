@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Silent Child's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Ten turns, all four Work Types available, conducted seated and at distance. The team does not close on the Child and does not call to it; the engagement consists almost entirely of remaining present and looking slightly away, and new personnel are warned that it will not feel like work.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Sit beside the Child and share silence. Do not demand speech**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks The Silent Child’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, The Silent Child defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact invites the full manifestation, which at α grade is mild and easy to under-rate: the worker's own voice begins to seem unnecessary. They stop answering colleagues, not from distress but because speaking comes to feel like an imposition on the quiet. It lifts within a shift of leaving the Gardens.
+- Every M.A.W. activation extracts a real price — recollection, sensation, years — catalogued in the equipment file and paid in the field. From this source the charge is taken in audibility: wielders are talked over, their contributions attributed to others, and the file notes that the effect is small, cumulative, and almost never reported by the person it is happening to.
+- Without resolution the Child leaves. It does not attack, having almost nothing to attack with; it escapes containment and moves through the facility looking for somewhere to sit, and the retrieval problem is that it becomes less visible the less attention is paid to it, so a facility searching distractedly cannot find it at all.
 
 ## Appearance
 **Primary Form:** A small, translucent child barely visible at the edge of sight. The Child makes no sound and often sits in corners or beneath garden structures.
@@ -110,7 +110,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A small, translucent child barely visible at the edge of sight. The Child makes no sound and often sits in corners or beneath garden structures.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Mobile on foot and self-directed within the Gardens; record posture, the corner or structure it has chosen, and the distance at which it was first seen — noting that the distance is a property of the observer's attention as much as of the Child's position.
 - **Element signature:** Void
 - **Registered location:** SECTOR-D-02, Echo Gardens — contained
 
@@ -119,12 +119,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A small, translucent child barely visible at the edge of sight. The Child makes no sound and often sits in corners or beneath garden structures. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile on foot and self-directed within the Gardens; record posture, the corner or structure it has chosen, and the distance at which it was first seen — noting that the distance is a property of the observer's attention as much as of the Child's position. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Does not speak, cry, or produce audible movement. Reaches toward people who acknowledge its presence. Becomes less visible when ignored. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Verify the designation, the manifestation and the markers against the file before Work begins; the wrong entity is the wrong sorrow, and a faint child-shape in the Gardens is not by itself an identification. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Observe at the edge of sight and record from there, because a direct look loses the position entirely and the position is the observation. Note the height, the degree of translucency, the posture — it sits more often than it stands — the chosen corner or garden structure, and the distance at which it first became apparent. Record silence as a positive finding rather than as nothing to report: no speech, no crying, no audible movement, confirmed each watch. Note any reaching motion toward a member of the watch, with the name of the person reached toward and what they had just done. Visibility is the measurement that matters here and it varies with attention rather than with light, so the watch logs how many people were present and whether any of them were looking.
 
 ## Origin
 - **Formation:** The Child formed from children whose voices were never heard.
@@ -153,7 +153,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Silent Child is recorded as a Subject with Subject-Body manifestation and Void elemental expression. The current record places it at SECTOR-D-02, Echo Gardens — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Read it in visibility. A falling gauge presents as the Child becoming easier to see — more solid at the edge of vision, holding still, sometimes turning toward the watch. That is the direction of success, which inverts the usual reading and has confused more than one relief shift. A rising gauge presents as **fading**. It thins, slips further toward the periphery, stops reaching, and is eventually not there at all, which an inattentive watch records as the site being quiet. It is not quiet. The Child was made by being overlooked, and it answers neglect by becoming less present, so a watch that cannot see anything has usually earned that result. The question to ask at handover is not whether anything happened but how long anyone spent sitting down.
 ## Breach Behavior
 
 > *"The Silent Child has broken free. Moves toward adults who might protect it."*
@@ -170,7 +170,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** The standing instruction for an Escape-type breach reads physical suppression required, and this wing has contested that entry twice in writing. The objection is on file and has not been upheld: the Child is Residue-grade, has never injured anyone, and is retrieved by a worker sitting down in the corridor it chose and staying there. The instruction remains printed because the classification system assigns it by breach type rather than by entity, and the holding's own note is printed beneath it in full — that physical suppression of this entity has never been attempted, is not authorised at this site without a Director's signature, and would in the file's words be the original injury repeated by people who had read the dossier.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment
@@ -193,12 +193,12 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the single designated target; the stiletto takes one and nothing carries to anyone standing beside them.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the wound and the quiet that follows it are tracked apart.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Silent Child's void signature in the strike.
+**Ability:** Deals Void damage against the Soul — identity, memory, and the sense of being perceived. The strike carries the source's signature, and those hit report that nobody turned to look when they cried out.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small memories with each use, and specifically of being attended to: who listened to them, who asked how they were, which of their requests were answered.
 
 ### M.A.W. Suit — The Silence Veil
 
@@ -214,9 +214,9 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Silent Child's kind of pressure.
+**Ability:** Grants resistance to Void pressure, shielding the Soul against erasure of identity and memory. It protects the wearer from the pressure and makes them harder to notice while worn, which is protection of a kind and is listed in both columns for that reason.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves and is overlooked in queues, in rosters, and at the ends of conversations.
 
 ### M.A.W. Stigma — The Silence Ring
 
@@ -226,17 +226,17 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat while this piece's source entity is the subject of the cycle, and nothing anywhere else
 
 **Ability:** Makes the wearer silent; sound does not carry from them.
 
 **Cost:** The wearer cannot speak above a whisper while wearing it.
 
-*Stigmas are granted at random by The Silent Child upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It appears after a successful cycle at the Child's own disposition, and the file observes that it has most often followed a cycle in which nothing was asked of it.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Silent Child's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design it charges immediately and personally, and the sorrow carried in it can wake — which on this α-grade set presents mildly, as a reluctance to speak first in any room. No protocol produces a Stigma; it comes from the source at the source's disposition or not at all.
 
 ### Field Use Record
 
@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade measures output and says nothing about cost, and an α rating is the most misread figure in the equipment file. A Minor-grade piece from this source takes very little per use and is therefore used constantly, which is how its wielders accumulate a charge that a δ-grade item would have billed in one visible instalment. Read both columns and authorise on the second; the low number is the hazard here, not the reassurance.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Silent Child's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Observe seated, at the periphery of vision, for the full watch. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in visibility or position, and the condition that ended the watch. The entity's appearance is its history made visible rather than a guide to behaviour: a child who makes no sound, sits in corners, and disappears when unattended is what neglect looks like when it has been done to enough children for long enough. Two instructions are specific to this holding. Nothing is demanded of it — no speech, no approach, no response — and the watch records what it chose to do rather than what it was asked. And a worker it reaches toward stays where they are and does not touch it, which is the hardest line in the protocol and the one the counselors see people about.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -283,7 +283,7 @@ The Silent Child (N-Iα-025 [VS]) is logged as a Subject-Body manifestation expr
 **Entry 2 — <Excerpt from Field Log, Year 4227>**
 Wanders silently, choosing corners, doorways, and unoccupied seats. Nearby personnel feel the weight of being unheard and may lose the ability to speak above a whisper. It becomes more present during the Sorrow Tide.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Workers Who Wanted to Pick It Up>**
 Neglect—the grief of words dismissed, cries overlooked, and existence treated as absence.
 
 **Entry 4 — <Containment Notice>**
@@ -319,12 +319,12 @@ Silence presses against your ears, but it is not empty. A small translucent figu
 
 The Silent Child does not exist in isolation. Its recorded relationships with The Kind Healer, The Hollow Choir, The Grieving Colossus, The Smothering Mother, The Orphaned Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity alone first, and allow extra sessions here, since this holding's only real measurement is visibility and visibility moves with how many people are watching. The relations on file concern neglected children, unheard voices, and the Echo Gardens' other quiet residents, so the question worth settling is whether the Child becomes more or less visible in another presence — and whether it chooses to sit near it. Log the first mutual reaction, the triggering distance, the duration, the gauge change on both sides, the operational impact, and whether separation ends it.
 
 
 ### Entity Interaction Record
 
-The Silent Child must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Child must be assessed as one of a group of sorrows made by people being overlooked rather than as an isolated presence in the Echo Gardens. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -334,7 +334,7 @@ The Silent Child must be assessed as part of an entity network, not as an isolat
 | **The Smothering Mother** | Holds the Child gently without forcing it to remain. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Orphaned Bell** | The Child sits near the Bell, listening for a name. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, introduce the second slowly and from outside the Child's chosen corner, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, and whatever persists after separation. The field this holding adds is visibility, recorded at fixed intervals by each observer separately and never agreed between them before being written down.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -383,9 +383,9 @@ Some sorrows mourn neglect. The Silent Child is made of it — the accumulated o
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this layer against the classification, the Combat Record and the equipment profile before acting on any entry, and then read the suppression condition, which is six words long and is the only thing that works. Sit beside the Child and share silence; do not demand speech. The difficulty is not that it is hard but that it is not recognisable as labour. A completed cycle consists of a worker sitting on the ground in a garden for ten turns, saying nothing, achieving nothing visible, and leaving. The task sheet says so in those words so that nobody logs it as an idle shift, and the yield figures are entered alongside it for the same reason. The economics here are inverted and worth stating plainly: the per-cycle yield is small, the threshold of 4 permits a great many cycles, and the result is a holding that produces steadily while looking, to anyone reading the roster from outside, like a posting where nothing happens. That appearance has been raised at review twice. Both times the answer was the Trivia line: its silence is not an absence of communication, it is the record of communication denied. Where the entity contradicts this record, trust the entity and preserve the contradiction.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, re-verify the gauge, the exposure log, the Child's location and its visibility before work resumes, and check the activation count, which stands at 4 and runs down one step per failed or refused cycle regardless of where the gauge sits. Three further items apply here. Sitting time is logged per watch in minutes, because it is the work and an unlogged hour of it looks identical to an hour of neglect. Any instance of a worker demanding speech, closing distance, or attempting contact is recorded against the holding as an exposure event and never against the individual, since the impulse to comfort a child is not a disciplinary matter. And activity rises during a Sorrow Tide, so the watch is doubled rather than shortened, with both members seated and neither of them talking.
 ## Trivia
 
 - The Child becomes more visible when someone sits with it and less visible when ignored.
@@ -397,9 +397,9 @@ Some sorrows mourn neglect. The Silent Child is made of it — the accumulated o
 
 - **Classification detail:** The Silent Child is a Subject with Residue (I) — Barely formed, passive coherence and Minor (α) — Low danger potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-D-02, Echo Gardens — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the combination of translucency, silence and position: small, half-lit, seated low, in a corner or beneath a structure, and visible only while nobody looks straight at it. The Gardens hold other faint presences; this is the one that gets clearer when someone sits down.
+- **Record detail:** Child-form and neglect-derived entities recur across the archive and the Echo Gardens hold more than one quiet resident. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the decisive point, which here is that nothing may be demanded of it.
+- **Containment detail:** Containment here is the opposite of sealing. The Child settles in corners and under garden structures by preference, and the holding works by leaving those spaces open, swept and unlit rather than closing them off — a maintenance instruction that has twice been overridden by well-meaning groundskeeping and twice reinstated. Even contained, it drifts: staff in neighbouring sectors report the sense of someone small having just left the room, and those reports are collected rather than dismissed.
 ## Document Information
 
 **Document ID:** SE-N-Iα-025
