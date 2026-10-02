@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Swallow.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The site takes in what is set down on it, and the Alpha Tree inventory has never recovered an item from it.
+- Work slows the intake for a shift. Nothing taken has been returned, and the rate resumes between sessions.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- There is no breach counter. Equipment is tethered to the crew rather than set down, and the tether is checked on exit.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

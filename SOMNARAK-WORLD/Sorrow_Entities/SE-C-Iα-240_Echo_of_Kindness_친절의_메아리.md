@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Echo of Kindness.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Echo returns kindnesses that were offered in the Commons, in the voice of whoever offered them.
+- Work lowers the frequency of returns for a shift. The entity is unchanged, and nothing returned has been new.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- No breach counter applies. The carrying field widens, and personnel who recognise their own voice are withdrawn from the rotation.
+- Residue recovery at the Commons wall is separately authorized and is never a reward for a clean shift.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Collapsed Whisper.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Whisper is mobile across the Desolate and is never recovered at its last logged bearing.
+- Work settles it for a shift. It relocates between sessions, and no cycle has fixed it in place.
+- A single ignored condition escalates it. Bearing and distance are taken at first contact, because position is the only variable that moves reliably.
+- Structural pressure presents in the ground rather than in the entity; footing is tested ahead of the crew, not under it.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Hatred Above.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The hazard is overhead and does not descend, holding a constant height across the record.
+- A cycle reduces its intensity. The height is unchanged, and no session has brought it lower or driven it off.
+- Three ignored conditions escalate it. The grudge register carries contact, so escalation presents as hostility between crew members rather than toward the entity.
+- Crews work in sight of one another and are withdrawn as a unit if any dispute is logged.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

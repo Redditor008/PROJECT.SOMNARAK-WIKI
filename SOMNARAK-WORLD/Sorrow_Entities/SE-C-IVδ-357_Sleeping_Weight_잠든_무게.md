@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Sleeping Weight.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The entity is asleep in the deep tunnels and has not woken in any logged session.
+- A cycle deepens the sleep. The mass is unchanged, and the sleep is its stable state rather than a containment achievement.
+- A single ignored condition escalates it. The margin is nil, and the tunnel approach is run in silence by standing order.
+- Burden pressure reaches personnel as fatigue before the gauge responds; crews are rotated on a timer.
+- Extraction is authorized apart from the work cycle and is never a reward for a quiet shift.
 
 ## Combat Record
 ### Core Stat Line

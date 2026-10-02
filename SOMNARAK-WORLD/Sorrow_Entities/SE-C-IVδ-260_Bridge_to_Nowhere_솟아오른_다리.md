@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Bridge to Nowhere.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Bridge in the Gardens is complete and carries load, and both of its ends terminate in open ground.
+- Work steadies the structure. The ends are unchanged, and no survey has found anything they were built toward.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- No breach counter applies. The crossing is logged as a structural load rather than a route; personnel do not cross it for access.
+- Residue is recovered from the deck under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

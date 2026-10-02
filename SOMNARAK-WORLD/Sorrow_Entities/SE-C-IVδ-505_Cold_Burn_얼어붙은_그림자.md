@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Cold Burn.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The injury presents as a burn and reads cold to instrument, and the two findings have never been reconciled.
+- A cycle reduces the rate of new presentations. Nothing already presented has healed within any logged session.
+- A single ignored condition escalates it. Screening is physical and is performed at the Market door, entering and leaving.
+- Identity pressure acts on the operative's account of how the injury was received; accounts are taken immediately and separately.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

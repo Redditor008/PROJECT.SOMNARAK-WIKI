@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy A Letter Never Sent.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
-- M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.
+- The letter is sealed and addressed, and the addressee has never been traced in any municipal record.
+- A single-use discharge is the activation condition; the trigger is irreversible and the letter is expended by it.
+- Work steadies personnel in the room. The letter is unaltered by a cycle, and the seal has never been affected.
+- Operatives with unaddressed parental grief suffer rapid Composure erosion near it and are excluded from the rotation by screening, not by self-report.
+- Recovery after discharge is separately authorized and is not an outcome of routine work.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Ninety Seconds.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The same ninety seconds repeat, and personnel retain the previous pass only as a sense of having decided already.
+- A cycle reduces the number of passes. It does not break the repetition, and the span itself has never varied.
+- Three ignored conditions escalate it. Contact runs through the mind register, so escalation presents as crews acting on decisions they have not yet made.
+- Instructions are issued once, in writing, and are not repeated inside the span regardless of what is requested.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

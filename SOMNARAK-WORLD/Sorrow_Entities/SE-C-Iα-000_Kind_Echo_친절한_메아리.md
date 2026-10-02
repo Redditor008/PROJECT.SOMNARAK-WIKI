@@ -38,11 +38,12 @@
 
 ### Operational Notes
 
-- Kind Echo is the designated training entity for all new R.D. personnel.
-- All four Work Types are equally effective — the entity responds gently to any approach.
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform the entity.
-- The entity cannot meaningfully breach; if its (rarely triggered) breach occurs, it simply sits outside its containment door and waits.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Kind Echo is the designated training entity for all new personnel, and the gentleness is genuine rather than a containment artefact.
+- All four Work Types are equally effective. The entity responds the same way to any approach and forgives procedural error.
+- A successful cycle settles it. Nothing on record has transformed the Echo, and the training value depends on that stability.
+- The activation threshold is high enough that it has rarely been approached. A breach here is the Echo waiting outside its door.
+- Trainees' emotional responses are recorded; some find the gentleness moving, and that reaction is data rather than a disqualification.
+- Extraction is a separate risk event and is not demonstrated as part of routine training.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Whispering Walls.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Walls are ambient in Old Lament and are not contained; the whispering has no located source.
+- A cycle lowers the carry for a shift. The walls are unchanged, and no session has produced silence.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- There is no breach counter. The audible field widens, and because the site is uncontained the boundary is walked before each rotation.
+- Residue is recovered from the wall face under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

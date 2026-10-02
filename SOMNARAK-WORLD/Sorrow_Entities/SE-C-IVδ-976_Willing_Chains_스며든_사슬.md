@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Willing Chains.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The chains are not fastened to anything, and the entity holds them closed by its own effort.
+- Work eases the grip. Nothing on record has caused the chains to be released, and the holding is its stable state.
+- A single ignored condition escalates it. There is no margin, and the ambient approach in Old Lament is authorized individually.
+- Identity pressure acts on the operative's sense of being bound; personnel who adjust their own equipment repeatedly are withdrawn.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

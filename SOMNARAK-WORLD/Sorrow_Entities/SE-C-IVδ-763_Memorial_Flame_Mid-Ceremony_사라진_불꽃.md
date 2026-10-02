@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Memorial Flame Mid-Ceremony.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The ceremony is held at the moment before its close, and the attendees are not present to be counted.
+- A cycle steadies the scene. It does not advance or end the ceremony, and no session has reached its conclusion.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- No breach counter applies. Personnel do not speak within the scene, since participation is logged as a protocol breach regardless of outcome.
+- Residue is recovered from the ceremonial ground under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

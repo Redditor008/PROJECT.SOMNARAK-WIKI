@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Restless Gap.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Gap in the Commons does not close and does not widen, holding dimensions that have been constant across the record.
+- A cycle quiets it. The dimensions are unchanged, and nothing has been passed through it in either direction by any session.
+- One ignored condition is enough to escalate it. There is no margin, and the approach is authorized individually.
+- Burden pressure accumulates in personnel who look into the Gap directly; viewing is indirect and timed from outside.
+- Recovery of the implement is a separate authorization.
 
 ## Combat Record
 ### Core Stat Line

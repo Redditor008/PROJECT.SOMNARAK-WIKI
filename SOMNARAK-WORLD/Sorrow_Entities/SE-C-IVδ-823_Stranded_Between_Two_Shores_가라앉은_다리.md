@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Stranded Between Two Shores.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The entity is held between two positions in the deep tunnels and occupies neither of them.
+- A cycle settles it. The separation is unchanged, and no session has brought it to either side.
+- One ignored condition escalates it. There is no margin, and both approach routes are confirmed clear before entry.
+- Emotional pressure acts on crews who attempt to resolve the separation; intervention is prohibited by standing order.
+- Extraction is a separate risk event with its own authorization.
 
 ## Combat Record
 ### Core Stat Line

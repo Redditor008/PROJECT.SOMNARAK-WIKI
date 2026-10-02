@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Rising Well.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Well rises through the Desolate ground and is mobile, appearing at no fixed bearing between sessions.
+- Work lowers it for a shift. It rises again elsewhere, and no cycle has fixed or sealed it.
+- A single ignored condition escalates it. Bearing is logged at first sighting, since the Well's position is its only reliable measure.
+- Structural pressure presents in the surrounding ground; footing is tested ahead of the crew at every approach.
+- Recovery of the implement is a separate authorization.
 
 ## Combat Record
 ### Core Stat Line

@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Breathing Stone.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The stone expands and contracts at a steady interval, and the interval does not match any respiration taken from personnel present.
+- A cycle slows the interval. It has never stopped, and the stone is unaltered by a successful outcome.
+- Viderehan and Ferrehan are the valid approaches to the site.
+- Three ignored conditions escalate it. The body register carries contact, so handlers are screened physically rather than by gauge.
+- Extraction is authorized apart from the work cycle and carries the same physical exposure.
 
 ## Combat Record
 ### Core Stat Line

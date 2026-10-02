@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Endless Shift.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The shift does not end. Personnel inside it complete a full rotation and are relieved by themselves.
+- Work shortens the subjective span. The actual duration is unchanged, and no cycle has produced a handover.
+- Three ignored conditions escalate it. The weight register carries contact, so the first sign is physical exhaustion out of proportion to the hours logged.
+- Crews are relieved against the facility clock at the door and never against their own sense of elapsed time.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

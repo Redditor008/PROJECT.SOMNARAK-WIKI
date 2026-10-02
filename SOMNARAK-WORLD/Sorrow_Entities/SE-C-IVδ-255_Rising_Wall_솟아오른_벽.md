@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Rising Wall.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Wall rises in the Commons without foundation work and has never been recorded falling.
+- A cycle halts the rise for a shift. The achieved height is retained, and no session has lowered it.
+- One ignored condition escalates it. There is no margin, and clearance above the Wall is measured before every entry.
+- Emotional pressure builds in crews who work beneath it; station time under the Wall is capped and logged.
+- Extraction is a separate exposure event with its own authorization.
 
 ## Combat Record
 ### Core Stat Line

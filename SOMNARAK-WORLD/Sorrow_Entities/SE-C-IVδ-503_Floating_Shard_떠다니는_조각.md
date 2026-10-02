@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Floating Shard.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Shard is phantasmal and holds position above the Forge District floor without support.
+- Work lowers it for a shift. It returns to its logged height, and the height has not drifted across the record.
+- One ignored condition escalates it. There is no margin, and clearance is confirmed before any crew is stationed beneath it.
+- Emotional pressure acts on personnel who stand directly under the Shard; the floor beneath it is kept clear.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

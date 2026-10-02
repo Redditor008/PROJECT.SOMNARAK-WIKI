@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Sorrow Seed.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Seed does not germinate and does not spoil, and the Gardens soil around it is unaffected.
+- Work settles it. The Seed is unchanged, and no cycle has produced any sign of growth in either direction.
+- Viderehan and Ferrehan are the valid approaches to the object.
+- There is no breach counter. Burden pressure accumulates in the bed around it, and the affected radius is staked at every session.
+- Residue is collected from the bed under separate authorization.
 
 ## Combat Record
 ### Core Stat Line

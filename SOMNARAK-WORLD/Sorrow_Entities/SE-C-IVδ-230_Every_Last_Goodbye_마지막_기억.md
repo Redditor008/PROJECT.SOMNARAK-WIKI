@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Every Last Goodbye.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The entity repeats partings that the deep vault record cannot attach to any departure.
+- A cycle reduces the frequency. The partings are unchanged, and no session has produced a first or a final one.
+- One ignored condition escalates it. There is no margin, and entry conditions are confirmed by two operatives from a printed list.
+- Identity pressure acts on who the operative believes is leaving; crews state their own names aloud on exit.
+- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line

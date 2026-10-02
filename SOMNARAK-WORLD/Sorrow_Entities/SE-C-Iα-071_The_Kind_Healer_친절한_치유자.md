@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Kind Healer.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Healer treats injuries it has not been shown and does so correctly.
+- Work settles it. The treatment behaviour is unchanged, and no cycle has caused it to decline a presented injury.
+- Four ignored conditions are required to escalate it, which is the widest margin in the containment block.
+- Personnel do not present minor injuries to it. The record shows the behaviour is reliable, and that reliability is the hazard.
+- Extraction is authorized apart from the work cycle.
 
 ## Combat Record
 ### Core Stat Line

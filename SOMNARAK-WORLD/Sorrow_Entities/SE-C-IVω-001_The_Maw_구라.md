@@ -40,10 +40,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Maw.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Maw is a place until it breaches, at which point it is recorded as a breaching subject and the containment problem changes entirely.
+- Work settles the site for a shift. The transformation condition is unaffected by a successful cycle, and no session has removed it.
+- Viderehan and Ferrehan are the valid approaches while it is a place; the breaching form is not worked, it is responded to.
+- There is no breach counter in the ordinary sense. The transformation is the breach, and the standing order is withdrawal rather than containment.
+- Extraction is authorized apart from the work cycle and is never attempted after transformation.
 
 ## Combat Record
 ### Core Stat Line

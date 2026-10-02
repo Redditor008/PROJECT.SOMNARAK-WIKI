@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Miasma.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The Miasma is not held in a vessel. It occupies a volume and is identified by the grief of personnel who enter it.
+- Work thins the volume for a shift. It does not disperse, and the density returns to its logged baseline.
+- Three ignored conditions escalate it. The lament register is the channel, so the first sign is emotional rather than respiratory.
+- Crews state a fixed phrase at intervals; a change in tone is treated as an alarm before any instrument reading.
+- Extraction is a separate exposure event with its own authorization.
 
 ## Combat Record
 ### Core Stat Line
