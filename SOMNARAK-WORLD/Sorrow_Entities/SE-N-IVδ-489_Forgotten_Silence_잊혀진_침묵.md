@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Forgotten Silence's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** No one strikes anything here. The team brings an unspoken grief of its own and offers it, or it does not, and the gauge moves accordingly — Flerehan for the exchange, Ferrehan to stay beside the figure while the answer does not arrive. Pugnahan does not escalate the encounter; it ends it, by sending the entity back into dream-space with the work unfinished.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the withheld truth without forcing another person to speak**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- Forgotten Silence’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Forgotten Silence's dossier.
+- The effects of this entity are a function of what a worker is holding back rather than of exposure time. A short cycle with something withheld costs more than a long one with nothing. Personnel who arrive with nothing unsaid report no effect at all, and are the least useful workers on the roster for exactly that reason.
+- Every use of the claymore, the shroud or the lens is paid for in the wielder's own reticence. The debit is specific: a thing they were keeping becomes harder to keep, and comes out somewhere the facility did not choose. The equipment does not extract silence from the entity so much as redistribute it.
+- If the withheld truth is never named, nothing ruptures. The silence simply widens past the chamber and takes in whatever is said near it, and the recorded breach is the point at which personnel stop being able to tell the difference between a thing they chose not to say and a thing they never knew.
 
 ## Appearance
 **Primary Form:** A dreamlike figure formed from luminous silence. Its outline glows faintly, but no face can be held in memory.
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Dream
 - **Primary marker:** A dreamlike figure formed from luminous silence. Its outline glows faintly, but no face can be held in memory.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It holds its position and is easier to see from the edge of the room than from in front of it. Record the brightness of the outline rather than the posture: the outline answers to who is in the chamber, and the posture does not change.
 - **Element signature:** Lament
 - **Registered location:** Zone C, Mask Market
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins; if one of them does not, stop there. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the light. Brightness rises with the number of unspoken things in the room and is the only reading this entity reliably gives. The face cannot be held in memory and must not be described from recollection after leaving the chamber — write it down inside, or leave the field empty and say so.
 
 ## Origin
 - **Formation:** The entity formed from silence that was forgotten even by those who created it.
 - **The Sorrow:** The loss of words, confessions, and warnings that no one remembered choosing to suppress.
 - **The Event:** Citizens abandoned difficult truths until even the silence surrounding them became invisible.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A city that set truths aside one at a time, each set-aside reasonable on the day it was made. No community is named here because no community decided it. The record identifies the originators only as everyone who was present and said nothing, which is the whole of Zone C for a period the Keepers cannot bound.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Forgotten Silence is recorded as a Subject with Subject-Dream manifestation and Lament elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A brighter outline and a falling gauge mean the exchange took place, which requires the worker to have given something they had never said aloud to anyone. Withdrawal into dream-space is not a failure of technique; it is the entity declining a worker who came with nothing. The honest entry in such cases is that no work occurred, and the roster shows several.
 ## Breach Behavior
 
 > *"Forgotten Silence has broken free. Hunts personnel indiscriminately."*
@@ -153,17 +153,17 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | Forgotten Silence pulses with concentrated force, cracking the walls around it. It hunts personnel indiscriminately. |
+| **Movement** | The figure does not move. The quiet does, spreading outward from the chamber, and personnel inside it find their own speech arriving thinned and unheard. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever in range is carrying the oldest unsaid thing. |
+| **Escalation** | The quiet widens with every truth withheld inside it; Composure drain increases by 5 for each person who has stopped speaking, and does not fall again until somebody does. |
 
 ### Escalation Notes
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Do not order silence in the affected zone. A sealed, quiet room is the condition this entity extends, and the instruction has twice been given by reflex and twice made the readings worse. Have the response team say what they came in holding, then work inward.
+- **Sorrow Gauge on breach:** It does not climb on its own. Each truth withheld inside the affected zone raises it, each truth named aloud lowers it, and nobody has to be listening for either to count. The breach ends when the zone has fewer unspoken things in it than it started with, which is why the response team is debriefed before it is deployed rather than after.
 
 ## M.A.W. Equipment
 
@@ -183,9 +183,9 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Forgotten Silence's lament signature in the strike.
+**Ability:** Lament damage to the mind rather than the body — it goes for composure and for the will to keep something in. The claymore carries the entity's quiet into the blow, and what it opens comes out as speech the target did not intend.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the entity's unwept grief and weeps involuntarily, at intervals, for some time afterwards and generally not in the chamber.
 
 ### M.A.W. Suit — The Quiet Shroud
 
@@ -201,9 +201,9 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Forgotten Silence's kind of pressure.
+**Ability:** Turns Lament aside from the mind, which is the only pressure this entity exerts. The shroud is what makes a long observation survivable here, and it is the reason observers can leave still holding what they came in with.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small pleasures — the first mouthful of something hot, a joke landing — and does not notice the absence until somebody else does.
 
 ### M.A.W. Stigma — The Quiet Lens
 
@@ -213,17 +213,17 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to work against the entity itself, the largest bonus in this wing and useless beyond this chamber.
 
 **Ability:** Reveals the emotional meaning behind silence.
 
 **Cost:** The wearer hears every silence as an unanswered question.
 
-*Stigmas are granted at random by Forgotten Silence upon a successful work, not manufactured.*
+*The lens is not manufactured. The entity gives one after an exchange that went both ways, and it has never given one to a worker who only listened.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Forgotten Silence's element. No protocol produces Stigmas. They emerge from Forgotten Silence's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of the entity rather than ordinary equipment, and the condition here is reciprocity. Used as intended — offered to, not taken from — the claymore and the shroud hold to grade. Used to extract, the cost scales and the Lament held in them becomes active, which with this entity means the wielder's own withheld material surfaces instead of the target's. The lens is given after an exchange and cannot be requisitioned.
 
 ### Field Use Record
 
@@ -234,7 +234,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Performance and cost run on separate axes and do not correlate. δ measures what the silence can do to a team that arrives carrying things. It does not measure the lens, which costs almost nothing in Echoes and makes every unspoken thing in a room legible to the wearer, including the ones addressed to them.
 
 ## 관찰 기록 (Observation Log)
 
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Forgotten Silence's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Record the first sign, which for most observers was a dream the night before rather than anything in the chamber; the first sensation, which is nearby sound going distant without getting quieter; the brightness of the outline at entry and at exit; and the condition that ends the encounter, which is a truth being named by somebody — not necessarily the one the entity was holding.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -265,17 +265,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Forgotten Silence (N-IVδ-489 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The entity formed from silence that was forgotten even by those who created it. Held at Zone C, Mask Market. The entity glows during the Sorrow Tide.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Dream-Report Intake, Mask Market>**
 Appears in dreams, reflective surfaces, and the Mask Market. Personnel lose access to words they were about to speak. It cannot be recorded reliably by audio equipment.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Transcript, Session Conducted in Writing>**
 The loss of words, confessions, and warnings that no one remembered choosing to suppress.
 
 **Entry 4 — <Containment Notice>**
 Management: Name the withheld truth without forcing another person to speak. Work response — Flerehan: Glows brighter and shares the worker's unspoken grief. (Decrease); Pugnahan: Withdraws into dream-space. (Stable); Viderehan: Shows the moment a silence was created. (Stable); Ferrehan: Remains beside the worker until they can endure not knowing. (Decrease). Personnel report feeling weight rather than fear.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+**Entry 5 — <Standing Instruction to Observers>**
+Bring something of your own. Observers who enter this chamber carrying nothing unsaid will record nothing, and the entity will withdraw into dream-space rather than meet them; this is not a failure of procedure and is not to be written up as one. What is offered is not collected, filed, or repeated outside the chamber. No observer is required to disclose afterwards what they gave, and no supervisor may ask. The exchange is the work. Anyone who cannot make it should be rostered elsewhere without explanation or prejudice.
 
 **Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
@@ -306,12 +306,12 @@ Sound drains from the room, but understanding gathers. The figure glows where no
 
 Forgotten Silence does not exist in isolation. Its recorded relationships with The Hollow Choir, The Silent Child, The Forgotten Soldier should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline the entity alone, and baseline the observer too — the readings here are a function of who is present, and a solo baseline that ignores the worker is not a control. When another entity shares the chamber, record the outline's brightness at first and last contact, whether sound travelled normally during the overlap, and whether anything was said aloud that would not otherwise have been said.
 
 
 ### Entity Interaction Record
 
-Forgotten Silence must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The entity belongs to a group of records concerned with what was not said, and it behaves differently when one of the others is in the room. The relationships below are the ones the record will support. They are not alliances. They are the same omission, arrived at by different routes, and in proximity they make each other legible.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -319,7 +319,7 @@ Forgotten Silence must be assessed as part of an entity network, not as an isola
 | **The Silent Child** | Shares a silence that feels acknowledged rather than empty. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Forgotten Soldier** | Receives a silent salute. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, then the pairing: the distance at which the outline changes, the direction of the change, how long it holds, and what was spoken in the chamber during the overlap. The last of those is the field most often left blank, and it is the one that explains the readings.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -366,9 +366,9 @@ Some sorrows are about truth suppressed. Forgotten Silence is about suppression 
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file describes something that measures the people reading it. Every figure here — gauge, resistance, yield — moves with what the personnel in the room are keeping to themselves, which means the record is accurate about the entity and provisional about any particular shift. Where the file and the chamber disagree, the chamber is right, and the discrepancy is logged rather than reconciled.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any breach in Zone C, and after any disciplinary process involving personnel on this post — the last because a worker who has just been questioned brings different material into the chamber, and the readings will move whether or not the entity has. A review is not an instrument for finding out what a worker withheld.
 ## Apex Record
 
 ### The Unheld Face
@@ -412,9 +412,9 @@ The six have not changed. A seventh was proposed and rejected, and the rejection
 
 - **Classification detail:** Forgotten Silence is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone C, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the glow and by the sound going distant. Do not identify it by the face; no observer has been able to describe the same face twice, and the file treats any confident facial description as a reason to re-check the designation.
+- **Record detail:** Check the designation before work begins. Several records in this wing concern silence, and they are not interchangeable — one of them wants to be spoken to and this one wants to be told something.
+- **Containment detail:** Sealed is not silent. The influence crosses the boundary as a flattening of sound in the adjoining corridors, and staff there report conversations they cannot afterwards reconstruct. The seal is rated for the figure and not for the quiet.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-489
