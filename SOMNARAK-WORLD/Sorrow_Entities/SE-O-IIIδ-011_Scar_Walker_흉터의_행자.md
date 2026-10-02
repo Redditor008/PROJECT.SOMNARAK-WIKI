@@ -86,15 +86,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Scar Walker's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The Walker escorts rather than engages. It falls in behind the team on arrival and stays there for the duration, and the work is done with it at the shoulder — Viderehan at the distance it permits, Ferrehan for as long as the team can keep its composure with an armed phantom walking behind it. Pugnahan ends the encounter immediately and is classed as desecration.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Show respect, salute its duty, and acknowledge its sacrifice**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Scar Walker’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Scar Walker defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact does not break a worker down; it enlists them. Personnel on long rotations begin walking the route with the Walker rather than observing it, and report the hours as uneventful, which they are. The hazard is that an escorted worker is difficult to recall to the gate, and twice the recall has had to be made as an order.
+- The chalice, the plate and the blade are all made from fury that was never discharged, and discharging it is what they do. Each activation moves a measure of it into the operator, who keeps it. The pieces are not dangerous in the hand. They are dangerous three days later, in an argument about something else.
+- If respect is never shown, the Walker does not charge. It continues to follow, and it follows the team out — through the Scar, past the markers, to the gate and beyond it if nothing stops it. The recorded breach is not an escape from containment. It is an escort that was never dismissed.
 
 ## Appearance
 **Primary Form:** A tall phantom warrior in armor made of crystallized rage. It carries a weapon of solidified fury and patrols the rift known as The Scar.
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A tall phantom warrior in armor made of crystallized rage. It carries a weapon of solidified fury and patrols the rift known as The Scar.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Behind and slightly to the left, at a distance of four to six metres, matching pace. Record where it took up position, whether the distance changed during the observation, and on which side it was walking when the team left the site.
 - **Element signature:** Grudge
 - **Registered location:** The Desolate — patrols The Scar
 
@@ -121,9 +121,9 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Appears when visitors approach The Scar. Salutes respectful visitors. Its presence evokes the rage of the six factions that fought in the Occlusihan. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; at this site the wrong identification means the wrong gesture, and the gesture is the whole of the procedure. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the armour and the ground together. The plates are crystallised rage fused to something that is only half solid, and the scorching it leaves behind marks the route more reliably than the figure does. Note the weapon's position throughout: lowered, carried, or raised. It has been raised twice in the record and both times the observers had stopped walking.
 
 ## Origin
 - **Formation:** The Walker formed from the collective rage of the six factions that fought in the Occlusihan.
@@ -154,7 +154,7 @@ The Walker is territorial and responds primarily to conduct near The Scar.
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Scar Walker is recorded as a Subject with Subject-Phantasmal manifestation and Grudge elemental expression. The current record places it at The Desolate — patrols The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** A lowered weapon and a falling gauge mean the shared grief was recognised, and recognition here is a judgement the Walker makes about the visitor rather than about the technique. Rising means the approach registered as desecration — which includes photography of the ground, raised voices, and standing on the rift itself. The file lists those three because all three have happened.
 ## Breach Behavior
 
 > *"Scar Walker has broken free. Patrols the perimeter and attacks intruders."*
@@ -165,13 +165,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel. |
-| **Escalation** | Each turn free, Resilience drain +5. |
+| **First Target** | Whoever in the party last stood on the rift itself. |
+| **Escalation** | Drain rises by 5 for each marker of the site left behind as the escort continues, and stops rising the moment the party turns back toward the Scar. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — physically escapes and roams.
-- **Containment priority:** Physical suppression — block corridors, deploy Wardens.
+- **Containment priority:** Dismiss the escort rather than block it. The salute given at the gate ends the following in every case on record; corridors blocked against it have been walked around, and Wardens deployed in front of it have been walked past.
 - **Sorrow Gauge:** Starts 40%, +10%/turn.
 
 ## M.A.W. Equipment
@@ -192,9 +192,9 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Scar Walker's grudge signature in the strike.
+**Ability:** Grudge damage to the body, delivered by a weapon of solidified anger. The chalice carries the Walker's grievance against the living into the strike and bites deepest on anyone who has walked over a grave without knowing it.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Old wounds ache, in the order they were received, and faint bruising rises along the same lines.
 
 ### M.A.W. Suit — The Occlusihan Plate
 
@@ -210,9 +210,9 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Scar Walker's kind of pressure.
+**Ability:** Turns Grudge aside from the body, which is what the Walker's weapon delivers and the only pressure it has ever applied. The plate is rated for a blow that has been struck four times in the whole record.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes dull. The wearer becomes slow to step aside and slow to give way, which on this post is the precise behaviour that provokes the entity.
 
 ### M.A.W. Stigma — The Occlusihan Blade
 
@@ -222,17 +222,17 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to work against the Walker itself, and no effect elsewhere on the Desolate.
 
 **Ability:** Delivers devastating damage to those who have wronged others.
 
 **Cost:** The wielder experiences the Occlusihan's fury as if it were their own.
 
-*Stigmas are granted at random by Scar Walker upon a successful work, not manufactured.*
+*The blade is not manufactured. The Walker offers one to a visitor who left the site as they found it, and it has never offered one to a team that entered under suppression orders.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Scar Walker's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of the Walker rather than ordinary equipment, and the condition is the one it enforces on the ground: the dead are not to be walked over. Used by an operator who has observed that, the chalice and the plate hold to grade. Used by one who has not, the cost scales and the Grudge in them becomes active, which here means the fury arrives without a target and settles on whoever is nearest to the operator. The blade is offered, not issued.
 
 ### Field Use Record
 
@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety and on this post it is not even relevant. The Walker has struck four times in the record, all four after a warning that was given and ignored. What the grade cannot express is that the plate protects against the rarest event in this file and does nothing about the common one, which is an escort that will not be dismissed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -269,7 +269,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Scar Walker's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record the first sign, which is scorching on ground the team has not yet reached; the moment the Walker takes position behind the party; the distance it keeps and any change in it; and the condition that ends the encounter, which is the salute being given and returned. Note who gave it. A salute given by the team leader and a salute given by the newest member are recorded separately, because the responses differ.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -280,14 +280,14 @@ Scar Walker (O-IIIδ-011 [GS]) is logged as a Subject-Phantasmal manifestation e
 **Entry 2 — <Excerpt from Field Log, Year 4205>**
 Leaves The Scar and patrols the facility perimeter in search of intruders. Disrespectful personnel experience the Occlusihan's rage and may be physically attacked. It responds to respect more reliably than to any suppression measure.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Statement Taken at the Gate After Escort>**
 Fury over a war that destroyed lives and left its dead without meaningful remembrance.
 
 **Entry 4 — <Containment Notice>**
 Management: Show respect, salute its duty, and acknowledge its sacrifice.  Extended proximity produces increased empathy and reduced detachment in personnel.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <Standing Order for Entry to The Scar>**
+No party enters the Scar without a named leader, and the leader gives the salute on arrival rather than on departure. Parties are counted out at the gate and counted back, and the count includes whether each member returned accompanied. Nothing is to be removed from the ground, photographed, or stood upon. Where a party has failed to dismiss the escort, the gate watch gives the salute on their behalf and records that it did so; no sanction follows, and the entry is kept so that the failure is visible in the aggregate rather than against a name.
 
 ## 최종 관찰 (Final Observation)
 
@@ -316,12 +316,12 @@ The Desolate is quiet until the phantom appears. Armor forms from red-black crys
 
 Scar Walker does not exist in isolation. Its recorded relationships with The Grieving Colossus, The Orphaned Bell, The Smothering Mother should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline the Walker on its own route and over a full circuit, since it has no fixed position to baseline against. Where it shares the site with another entity of the war, record whether the escort transfers, whether the route alters, and whether the weapon is carried differently. The escort has transferred once, and the file notes that the team did not realise until the gate.
 
 
 ### Entity Interaction Record
 
-Scar Walker must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Walker is one of several things left at the Scar by the same war, and it does not behave the same way when another of them is present. The relationships below are the ones the record will support. They are not alliances. They are survivors of the Occlusihan sharing a site, and what passes between them is recognition rather than cooperation.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -329,7 +329,7 @@ Scar Walker must be assessed as part of an entity network, not as an isolated pr
 | **The Orphaned Bell** | The Walker pauses when the Bell tolls, acknowledging shared sorrow. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Smothering Mother** | The Mother reaches for it, recognizing kindred grief. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Full-circuit baseline first, then the shared encounter: where on the route the two came within sight of each other, whether the Walker's distance from the team changed, how long the change held, and whether it resumed its circuit at the point it left it. That last field is the one that shows whether anything actually happened.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -376,9 +376,9 @@ Some sorrows mourn the war dead. Scar Walker is their guardian — the rage give
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file describes a sentry, and every figure in it was produced by visitors rather than by the entity. The gauge moves on what a party does at the site; the combat values describe four incidents in a record of hundreds of uneventful escorts. Read the entry conditions as the operative part and the statistics as the exception they document.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any incident at the Scar, and after any party returns having failed to give the salute — the last whether or not anything followed, because the Walker's position at the gate is the measurement and it is not always noticed at the time. A review is not an instrument for apportioning blame for an unaccompanied return.
 ## Warden Record
 
 ### It Comes When Visitors Do
@@ -408,9 +408,9 @@ Han erupted at The Scar during the first war and the ground was left as an injur
 
 - **Classification detail:** Scar Walker is a Subject with Fragment (III) — Territorial and responsive coherence and Critical (δ) — Dangerous potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate — patrols The Scar.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the escort behaviour before the armour. Several armed shapes have been reported on the Desolate; this is the one that takes station behind a party and keeps pace without closing.
+- **Record detail:** Check the designation before entering. More than one entity at the Scar carries the Occlusihan, and they do not answer to the same gesture — a salute that settles this one has no effect on the others.
+- **Containment detail:** There is no seal and nothing to seal. Containment here is the gate procedure: who entered, who gave the salute, who was still accompanied on the way out. An escort that reaches the gate undismissed is the recorded failure condition, and it has been logged three times.
 ## Document Information
 
 **Document ID:** SE-O-IIIδ-011

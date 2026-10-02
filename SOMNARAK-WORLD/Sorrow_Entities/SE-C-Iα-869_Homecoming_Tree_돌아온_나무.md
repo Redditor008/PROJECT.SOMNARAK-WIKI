@@ -40,7 +40,7 @@
 
 - Personnel who pass the Tree report arriving somewhere they have been before, and the reports do not agree on where.
 - Work lowers the strength of the impression for a shift. The Tree is unchanged, and the impression recurs at its logged rate.
-- Viderehan and Ferrehan are the valid approaches to the site.
+- Viderehan and Ferrehan are the only approaches available. There is no one to weep with and nothing to confront: the Tree is a place that walks, and a place cannot be argued with.
 - There is no breach counter. The influenced radius widens, and personnel log the impression at the moment it occurs rather than at debrief.
 - Residue is recovered from the root line under separate authorization.
 
@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Homecoming Tree's recorded combat actions. Sorrow Gauge changes determine escalation.
+1. **Tension:** Personnel establish where the Tree has stopped and why — it halts where somebody has come home and not been recognised, so the first task is to find out who that is and whether they are still present.
+2. **Clash:** Viderehan shows the settlement on both sides of the absence, and Ferrehan asks the worker to stand under the branches without claiming the ground. The gauge falls when the ground is described as changed and holds when it is described as restored. Nothing is struck and nothing is driven back.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark the place as changed; do not attempt to restore a false past**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Clarity** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Homecoming Tree’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Homecoming Tree defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact produces homesickness for a place the worker has never been. It is specific, it is detailed, and it survives the shift. Personnel who grew up outside the Border region are the most affected, which is the reverse of the pattern this wing usually records.
+- The requiem, the shroud and the leaf all carry the same thing out of the Tree: the certainty that somewhere is still yours. Each activation spends a little of the operator's own, and it does not come back. The pieces do not take memories of home. They take the claim on it.
+- If the change is never acknowledged, the Tree moves on and keeps moving. It does not expand its footprint; it relocates, to the next place where a return has failed, and the file records this as escape only because there is no other category for a place that leaves.
 
 ## Appearance
 **Physical Form:** A walking tree of true living wood traveling on a knot of root-legs, branches reaching and gripping like hands. **Movement:** It uproots and walks, planting itself wherever a long-absent one returns.
@@ -119,15 +119,15 @@
 | **Position / movement** | Physical Form: A tree that appears in places where people have returned after long absence. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins. With a mobile site the registered location will often be wrong; the bark and the leaves are the check that holds. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the bark first. Names surface on it — people who returned too late — and the set is not fixed between observations; copy what is legible and note what has gone. Then the leaves, which carry fragments of old maps, and the root-legs, which show what ground the Tree has crossed since it was last seen.
 
 ## Origin
 - **Formation:** The Tree formed from the grief of returning to a place that no longer recognized you.
 - **The Sorrow:** The loss of home through time, absence, and change.
 - **The Event:** A displaced community returned to its original border settlement and found it transformed beyond recognition.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A community displaced from a border settlement, who came back together and were not recognised by the people living there. Both groups are named in the Keepers' record. Neither has ever been described by the archive as the one that was wrong.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Homecoming Tree is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** A stable gauge under Viderehan means the Tree is showing, and showing is its full participation — it will not confirm, correct, or respond to questions put to the images. A falling gauge under Ferrehan means the worker stood under the branches and did not describe the ground as theirs. There is no response that constitutes consent, and the file is explicit that none should be read as such.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -175,7 +175,7 @@ The escalation pattern is specific to Homecoming Tree: it is not a generic breac
 | **Risk** | Minor (α) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Mark the place as changed; do not attempt to restore a false past. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** which name surfaced on the bark → where the Tree was standing when it did → the ground covered since the previous sighting → who in the vicinity had recently returned → the percentage at which the branches began to move. Report in that order; the name comes first because it is the only field that has ever predicted the next location.
 ## Breach Behavior
 
 > *"Homecoming Tree has broken free. Extends roots through the floor, entangling personnel."*
@@ -183,17 +183,17 @@ The escalation pattern is specific to Homecoming Tree: it is not a generic breac
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Homecoming Tree rampages on its limbs, crashing through walls. It extends roots through the floor, entangling personnel. |
+| **Movement** | It walks out at the pace it always walks. Roots enter the floor as it goes and personnel are entangled by standing in the route rather than by being sought. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever is standing between the Tree and the direction it has chosen. |
+| **Escalation** | Drain rises by 5 for each attempt made to turn it back, and not at all for time spent letting it walk. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — in the sense that the site departs rather than that the entity flees. The Tree walks out on its root-legs at an unhurried pace and has never been observed to run.
+- **Containment priority:** Do not block the route and do not drive it back. Both have been attempted; both produced root entanglement in the corridor and neither moved the Tree. Name the change aloud where it stands — that the settlement is not what it was, and that this is not anyone's fault — and the branches settle within the hour.
+- **Sorrow Gauge on breach:** Governed by percentage rather than by any count: the branches begin to move at 45%, and the gauge rises with every attempt to restore the site to a former state and falls with every acknowledgement that it has changed. There is no counter to exhaust, and waiting does not reduce it.
 
 ## M.A.W. Equipment
 
@@ -213,12 +213,12 @@ The escalation pattern is specific to Homecoming Tree: it is not a generic breac
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The requiem reaches one listener. It does not carry to the rest of the party, and personnel standing a metre away have reported hearing nothing at all.
+**Damage Application:** Record the immediate effect and the lingering one separately. The lament lands once and then continues at a low level for the remainder of the shift, and a report that merges the two will understate the duration.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Homecoming Tree's lament signature in the strike.
+**Ability:** Lament damage to the mind rather than the body — it works on composure and on the will to stay somewhere. The requiem carries the Tree's displacement into the sound, and what it opens is the wish to go home.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the Tree's unwept grief and weeps involuntarily afterwards, generally once they are somewhere familiar.
 
 ### M.A.W. Suit — The Returning Shroud
 
@@ -234,9 +234,9 @@ The escalation pattern is specific to Homecoming Tree: it is not a generic breac
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Homecoming Tree's kind of pressure.
+**Ability:** Turns Lament aside from the mind, which is the only pressure the Tree exerts. The shroud is what allows a worker to stand under the branches for a full cycle and leave still wanting to go back to their own quarters.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small comforts — a familiar route, a known voice in the corridor — and tends to notice only when the shroud comes off.
 
 ### M.A.W. Stigma — The Returning Leaf
 
@@ -246,17 +246,17 @@ The escalation pattern is specific to Homecoming Tree: it is not a generic breac
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against the Tree itself, and no effect at any other site.
 
 **Ability:** Reveals the memory of a place before it was altered.
 
 **Cost:** The wearer feels the grief of every person who returned too late.
 
-*Stigmas are granted at random by Homecoming Tree upon a successful work, not manufactured.*
+*The leaf is not manufactured. The Tree releases one to a worker who described the ground as changed and did not soften it, and it has released none to anyone who promised the place could be put back.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Homecoming Tree's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of the Tree rather than ordinary equipment, and the condition is that no one claims the ground. Used by an operator who has not, the requiem and the shroud hold to grade. Used by one who has, the cost scales and the Lament in them becomes active, which here means the operator's own home becomes the place they cannot return to. The leaf is released, not drawn.
 
 ### Field Use Record
 
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety and here it is not even the main reading. The requiem is unremarkable in the field. What the table cannot show is that the leaf, which costs almost nothing, makes every map the wearer looks at resolve into somewhere they used to live.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -289,7 +289,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Homecoming Tree's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record the first sign, which is the smell of rain arriving before the Tree is in sight; the first sensation, which is recognition of a place the observer has never been; the names legible on the bark at entry and at exit; and the condition that ends the encounter, which is the change being named out loud by somebody standing underneath it.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -297,17 +297,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Homecoming Tree (C-Iα-869 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Tree formed from the grief of returning to a place that no longer recognized you. Held at Zone E, Border region. The Tree appears only after significant return or rediscovery.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Border Settlement Survey>**
 Its roots follow memories rather than water.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Names Copied From the Bark>**
 The loss of home through time, absence, and change.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the settlement before and after abandonment. (Stable); Ferrehan: Requires the worker to remain beneath it without claiming ownership. (Decrease). It hums during the Sorrow Tide.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The names on the bark were copied at each of the first eleven sightings and the copies do not agree. Some names appear once and are gone by the following season; three have been present every time. The settlement rolls confirm all three returned, and confirm the dates, and confirm that in each case the return was recorded by the clerk as completed. Whether the Tree is listing people the settlement failed to recognise, or people who failed to recognise the settlement, has not been settled, and the archive has stopped putting the question in those terms.
 
 ## 최종 관찰 (Final Observation)
 
@@ -336,12 +336,12 @@ The ground hums under your feet, and a tree rises from a place that was supposed
 
 Homecoming Tree does not exist in isolation. Its recorded relationships with Perennial, Silence We Forgot We Made, The Grieving Colossus should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline the Tree where it stands and again after it has moved, since a single-site baseline describes a stop rather than the entity. When another entity shares the ground, record whether the branches turn toward it, whether any name on the bark changed during the overlap, and whether the Tree's next relocation went somewhere it had been before.
 
 
 ### Entity Interaction Record
 
-Homecoming Tree must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Tree belongs with the records concerned with places that stopped being anyone's. The relationships below are the ones the record will support. They are not alliances; they are several versions of the same displacement, and in proximity each makes the others' ground harder to claim.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -349,7 +349,7 @@ Homecoming Tree must be assessed as part of an entity network, not as an isolate
 | **Silence We Forgot We Made** | Holds the words left behind by returning people. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Grieving Colossus** | Its tears nourish the roots. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline at two separate stops first, then the shared encounter: the distance at which the branches responded, what changed on the bark, how long the Tree remained after the other entity withdrew, and the direction it took when it left. The direction is the field that has most often been omitted and the one that would have predicted the next sighting.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -392,14 +392,14 @@ Some sorrows mourn exile. Homecoming Tree mourns the return — the home not des
 **Observation Notes:**
 - A community returned and found their home transformed beyond recognition.
 **Cross-References:** Zone D · Nemo · Dreaming Ruin
-**Faction Involvement:** SED (Desolate-territory exploration)
+**Faction Involvement:** SED, whose Desolate-territory surveys hold the only maps of the settlement from both before and after the absence.
 **Originator:** A displaced community that returned to a changed settlement.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file describes a place rather than a creature, and places do not have intentions to interpret. Every figure here was produced by people arriving somewhere and not being known. The percentage is the whole mechanism; there is no counter to run down and nothing that accrues with patience.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any relocation, and after any resettlement anywhere in the Border region — the last unconditionally, since a resettlement creates the conditions this entity moves toward. A review that finds the Tree somewhere new is a survey finding, not a containment failure, and is not to be written up as one.
 ## Trivia
 
 - It appears only where return has failed to restore belonging.
@@ -411,9 +411,9 @@ Some sorrows mourn exile. Homecoming Tree mourns the return — the home not des
 
 - **Classification detail:** Homecoming Tree is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone E, Border region.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the bark and the leaves. Other walking growths are recorded in this region; this is the one carrying names and map fragments, and the names can be checked against the settlement rolls.
+- **Record detail:** Check the designation before work begins. Several tree-form entities are catalogued here and they differ on the decisive point — this one must not be told that anything can be restored.
+- **Containment detail:** There is nothing to seal, because the site is the entity and it walks. Containment is the sighting log and the settlement survey, and the measure of it is whether the archive knows where the Tree is before somebody else finds it.
 ## Document Information
 
 **Document ID:** SE-C-Iα-869
