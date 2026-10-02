@@ -88,15 +88,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Conservatory's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** Viderehan and Ferrehan are worked from the permitted path across a long engagement, with the heat margin monitored throughout. Nothing is brought into the radius that resembles any part of the house, and nothing is said inside it about the house that the survey cannot support.
+3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey entries for that watch have been checked against the standing architectural record — which on this holding means the team measured a house that is not there and confirmed that the file still describes it correctly.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Conservatory reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Extended exposure carries a cumulative risk particular to this holding. The interior is an exact outline of rooms belonging to people who are not coming back, and personnel who remain inside it long enough begin to furnish it: not physically, but in recollection, acquiring memories of a house they have never been in. Those recollections are warm, detailed, and false, and the entity burns when a false memory is introduced.
+- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: what this source charges is the ability to leave a lost thing lost, which it takes gradually and replaces with the conviction that enough effort would have been sufficient.
+- If the condition is not met the crystal heats and the outline extends, which is the Transform behaviour on the classification. Nothing escapes and nothing pursues; the preserved shape simply takes in more ground, and whatever stands on that ground is thereafter part of a house that burned down.
 
 ## Appearance
 **Physical Form:** A ruin-shaped object of red-black crystal, preserving the outline of a beloved place.
@@ -108,7 +108,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A ruin-shaped object of red-black crystal, preserving the outline of a beloved place.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed, and defensive rather than inert; record the position of its mass relative to the empty interior and to the approach, since it will place itself between the two.
 - **Element signature:** Grudge
 - **Registered location:** Zone C, Mask Market
 
@@ -117,18 +117,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ruin-shaped object of red-black crystal, preserving the outline of a beloved place. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Fixed, and defensive rather than inert; record the position of its mass relative to the empty interior and to the approach, since it will place itself between the two. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Check the designation, the element and the manifestation against the file, and verify the outline against the standing architectural record before Work begins; if any detail contradicts, do not proceed. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Measure the outline, because the outline is the thing. Take the wall runs, the door apertures, the ceiling heights and the room divisions at the marked stations, and check each against the standing architectural record; a discrepancy in either direction is the most significant observation this holding can produce and is reported the same day. Record the colour of the crystal at three points and the surface temperature by instrument, never by hand, since the heat is the entity's response rather than its condition. Note the smell of char, which is constant. Note what the mass is standing between. The crystal contains no material from the original house — not one brick — and the protocol says so where an observer will read it, because the resemblance is exact enough that personnel have described the walls as original and been sincere.
 
 ## Origin
 - **Formation:** The Ruin formed from a place destroyed by someone trying to preserve it.
 - **The Sorrow:** The grief of loving a place so fiercely that preservation became destruction.
 - **The Event:** A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One caretaker, who loved the place and tried to keep it, and the household who had already gone. The technical account of what she did is held in full, including the specifications she worked to and the point at which the load exceeded them, and it concludes that her method was sound in principle and would have held at a smaller margin. Two reviewers have tried to strike that sentence as speculative. It remains.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -147,7 +147,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Conservatory is recorded as an Object/Place with Object-Grudge manifestation and Grudge elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Read it in the temperature and in the survey. A falling gauge presents as cooling — the crystal darkening from red toward black, the margin temperature settling, the mass easing back from the approach. The pressure drops and nothing is recovered; the house is still gone and the outline is still all that is left of it. A rising gauge presents as **fidelity**. The outline looks more like the house, not less: detail sharpens, a room reads as furnished, and an observer standing at the station finds they can see where the table was. That is the warning. This entity's whole grievance is the difference between preserving a thing and copying it, and anything in the radius that begins to resemble the house — including a memory of it — is read by the crystal as the attempt that destroyed it being made a second time.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -174,7 +174,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | The reconstructed room may consume the observer's present identity. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic answers to an attempt at reconstruction, which means the activation and the prohibited act are the same act, and the tool classification is therefore a registry convention here rather than a field practice. It cannot replace scheduled Work Types; containment remains Viderehan and Ferrehan. Authorised use is confined to the recorded survey work, requires a named authority and a second present, and is refused as a matter of course to anyone who has recently lost a home. That refusal is made by the infirmary and the reason is not entered on the applicant's record.
 
 ### Log and Method
 
@@ -189,7 +189,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 The escalation pattern is specific to Conservatory: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish the perimeter at the cleared margin, verify from the instrument record whether the event is an activation, a channel surge, or an extension of the outline, and withdraw unshielded personnel along the permitted path rather than directly away. Enforce the recorded protocol and walk the margin for combustible material before anything else is attempted. No unlisted Work Type is improvised, and nothing is built, braced, propped or shored anywhere inside the radius during a response — the instinct to stabilise a structure is the one reaction this holding cannot tolerate, and shoring resembles building more closely than anything else a competent team does under pressure.
 
 ### Detailed Activation Record
 
@@ -202,7 +202,7 @@ The escalation pattern is specific to Conservatory: it is not a generic breach e
 | **Risk** | Critical (δ) Object-Grudge producing Grudge pressure; The reconstructed room may consume the observer's present identity. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** what resembled the house → who introduced it and whether it was a plan, an object, or a recollection → first visible change in the crystal, with the temperature at that moment → the boundary of the heat and whether the margin was clear → personnel effect, including any memory of the house reported by someone who never saw it → duration → management condition. The fifth field is the one that gets left blank and the one that matters: the recorded risk here is a reconstructed room consuming the observer's present identity, and it begins as a pleasant familiarity. Viderehan and Ferrehan remain the only valid Work Types.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -222,13 +222,13 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A single line, taking up to three targets standing along the same wall run
+**Falloff Rule:** 100% to the first target in the line, 70% to the second, 50% to the third — the heat attenuates with distance from the glyph exactly as it does from the ruin.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the strike and the subsequent burning are tracked apart because the second continues after the line has closed.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Conservatory's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure. The strike carries the source's signature, and those hit report heat on the skin and the smell of a house fire.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also report their own homes feeling provisional, as though lent to them.
 
 ### M.A.W. Suit — Conservatory Plate
 
@@ -244,9 +244,9 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Conservatory's kind of pressure.
+**Ability:** Grants resistance to Grudge pressure and, uniquely in this set, measurable protection against the radiant heat the source produces. It is the only piece cleared for extended work inside the margin.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull and their attachment to places sharpens unhelpfully. Wearers become reluctant to leave rooms they have worked in, and the reluctance outlasts the shift.
 
 ### M.A.W. Stigma — Conservatory Bracelet
 
@@ -256,13 +256,13 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat while this piece's source entity is the subject of the cycle, and nothing at all elsewhere
 
 **Ability:** Protects others from structural collapse.
 
 **Cost:** The wearer feels every place they failed to preserve.
 
-*Stigmas are granted at random by Conservatory upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, and no care, accuracy or length of service obliges one.*
 
 ### M.A.W. Use Notes
 
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and the δ ratings here are accompanied by costs that are domestic rather than clinical — they surface in where a person lives and how they feel about it, which is not a thing the ledger has a column for. Read both columns, authorise on the second, and ask the wielder about their quarters rather than their cycle record.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Attempting to reconstruct the remembered structure. Effect: Rebuilds one room for a short time. Duration: Until the memory can no longer support the form. Risk: The reconstructed room may consume the observer's present identity. Tool Use Profile — I-Relic Operational. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Conservatory's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Observe from the permitted path, by instrument where the margin is hot, and record the first visible sign, the first emotional response and what prompted it, the first measurable change in the outline, and the condition that ended the watch. The path is itself an observation worth restating: it was established over a long period as the line the ruin does not defend, and it exists by the entity's tolerance rather than the facility's design and could be withdrawn without notice. The entity's appearance is its history made visible rather than a guide to behaviour — a house kept perfectly as the shape of its own ending is what preservation looks like when it is pursued past the point the structure could bear.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -307,16 +307,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Conservatory (N-IVδ-852 [N]) is logged as a Object-Grudge manifestation expressing Grudge. The Ruin formed from a place destroyed by someone trying to preserve it. Held at Zone C, Mask Market. It responds to love more than anger.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Architectural Review Correspondence, Year 4238>**
 False reconstruction causes violent collapse.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Memories of the House>**
 The grief of loving a place so fiercely that preservation became destruction.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the love and failure behind the structure. (Stable); Ferrehan: Tests whether the worker can remain without rebuilding. (Decrease). It preserves places rather than objects.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
+**Entry 5 — <Director's Minute on the Lodging of the Surveys>**
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was …  Threat rating: Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
@@ -346,12 +346,12 @@ The ruin is beautiful because it remembers being loved. Red crystal holds a door
 
 Conservatory does not exist in isolation. Its recorded relationships with The Frozen Ruin, Folly, The Broken Mirror should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each entity alone; the crystal's temperature varies enough with ordinary conditions that a short series proves nothing. The relations on file concern places, preservation, or things kept past their time, so the question to settle is whether the other presence resembles anything — resemblance being this entity's sole criterion — and whether the outline moves toward it. Capture range, duration, trigger, gauge delta on both sides, field effect, and post-separation residue, and take the margin temperature throughout. A stable pattern is a hypothesis and not a law: re-verify every cycle.
 
 
 ### Entity Interaction Record
 
-Conservatory must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Conservatory must be assessed as one of a group of sorrows attached to lost places rather than as a solitary mass in the Mask Market margin. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -359,7 +359,7 @@ Conservatory must be assessed as part of an entity network, not as an isolated p
 | **Folly** | Shares the grief of impossible restoration. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Broken Mirror** | Reflects the former inhabitants. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring the second to the margin along the permitted path and no closer, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the heat boundary, and whatever persists after separation. The field this holding adds is the outline check, run before and after, since the only lasting evidence of an interaction here would be a wall in a different place.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -408,9 +408,9 @@ Some sorrows are about neglect. Conservatory is about devotion — the love so f
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The file is a map and the margin is the territory, and the containment measure is unusual enough to state plainly: this holding's principal activity is architectural review. Plans for any structure inside the affected radius are read by the wing before the municipal office issues consent, and the wing's objection is confined to one ground, which is whether the proposal reproduces the destroyed building. Thirty-one plans have been read and four objected to; all four were amended and built without incident, and none of the four architects disputed the finding once it was explained. Objections go to the applicant and the municipal office in the same words on the same day, with the file reference attached so the applicant can read the basis themselves — an arrangement adopted on the first commander's view that a person refused by a facility they cannot see into will assume the worst and will usually be right to. None of the four has been appealed. The surveys of the outline, which are now the most complete record of that building in existence since the original plans were lost, are lodged with the Memory Archive rather than held here, on the stated ground that the facility holding the only drawing of somebody's home would be one custody too many. Where the entity contradicts this record, trust the entity and preserve the contradiction rather than normalising it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge, the exposure log, the outline and the heat margin before work resumes. Three further items apply here. The margin clearance is walked weekly, an instruction older than any evidence that it is necessary, retained by every commander since on the recorded reasoning that a weekly walk costs almost nothing and the thing in the margin burns when people try to put back what they lost. The architectural review log is checked for lapsed consents. And any worker who has reported a memory of the house is stood down from the holding that day — the memory is the exposure, it is not theirs, and the standing-down is recorded as a routine rotation.
 ## Apex Record
 
 ### Against Reconstruction
@@ -452,9 +452,9 @@ Architectural objections are sent to the municipal office and to the applicant a
 
 - **Classification detail:** Conservatory is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone C, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the outline. Several things in the Market margin are crystalline and red; this is the one whose shape is a floor plan, accurate to the door aperture, of a building that is not there.
+- **Record detail:** Ruin-derived and place-attached entities are numerous in the archive and at least two others sit near this zone. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge sharply, and at least one comparable holding is managed by rebuilding what was lost, which here is the activation trigger.
+- **Containment detail:** There is no cell and no door; containment is a cleared margin, a permitted path, and a standing arrangement with the municipal planning office. The influence that crosses the boundary is the heat and the reviews: four households in this district have built a different house than they intended because of a thing they were never shown, and the file says so in those words rather than in softer ones.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-852
