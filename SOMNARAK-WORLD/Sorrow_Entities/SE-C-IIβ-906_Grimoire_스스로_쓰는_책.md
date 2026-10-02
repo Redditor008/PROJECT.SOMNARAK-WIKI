@@ -164,9 +164,9 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Grimoire record.)
-> **This Relic is Capable of Operative Alteration** (Grimoire record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Grimoire record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Physical contact and intentional interaction.
 
@@ -303,7 +303,7 @@ Each M.A.W. piece is a conditional extension of Grimoire, not ordinary equipment
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Grimoire record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Grimoire (C-IIβ-906 [GO]) is logged as a Object-Tale manifestation expressing Grudge. Held at SECTOR-C-906.
 
@@ -358,7 +358,7 @@ The entity does not rage. It does not weep. It persists — tale and grudge, pat
 
 **Common Name:** Grimoire
 
-**Containment Status:** Contained — SECTOR-C-906 
+**Containment Status:** Contained — SECTOR-C-906
 
 **Comprehension Level:** 2 — Basic
 

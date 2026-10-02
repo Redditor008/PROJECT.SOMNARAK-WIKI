@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Friendless Bridge.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. The bridge spreads across ledgers and floors rather than escaping, and it never connects two actual places.
+- Viderehan and Ferrehan are the only valid approaches; the object cannot be engaged emotionally or confronted.
+- Observation reveals the connection it tried to build. Endurance tests whether the worker can wait beside it without crossing alone.
+- Crossing alone is the single prohibited action. The structure extends to meet a solitary worker and does not retract until the shift ends.
+- Yield accumulates while it waits, so cycles that leave it uncrossed return more than cycles that engage it.
 
 ## Combat Record
 ### Core Stat Line
@@ -149,9 +150,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Friendless Bridge record.)
-> **This Relic is Capable of Operative Alteration** (Friendless Bridge record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Friendless Bridge record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Touching one end while naming the other person.
 
@@ -299,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Friendless Bridge record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Friendless Bridge (N-IIβ-488 [O]) is logged as a Object-Void manifestation expressing Grudge. The Bridge formed from a connection that was promised but never built. Held at Zone C, Collector's Row. It has no stable endpoints.

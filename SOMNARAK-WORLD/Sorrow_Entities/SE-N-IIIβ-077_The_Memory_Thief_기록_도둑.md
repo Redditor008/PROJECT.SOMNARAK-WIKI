@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Memory Thief record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Memory Thief (N-IIIβ-077 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The Thief formed from the fear of forgetting in a city where memory is currency. Held at SECTOR-C-01, Collector's Row — contained. The Thief is quick, elusive, and non-confrontational.

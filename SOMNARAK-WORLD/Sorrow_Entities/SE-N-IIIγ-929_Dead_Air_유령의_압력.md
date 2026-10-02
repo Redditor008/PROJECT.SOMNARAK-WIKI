@@ -224,7 +224,7 @@ Each M.A.W. piece is a conditional extension of Dead Air, not ordinary equipment
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Dead Air record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Dead Air (N-IIIγ-929 [WH]) is logged as a Hazard-Spirit manifestation expressing Weight. Held at SECTOR-N-929.
 
@@ -279,7 +279,7 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 
 **Common Name:** Dead Air
 
-**Containment Status:** Contained — SECTOR-N-929 
+**Containment Status:** Contained — SECTOR-N-929
 
 **Comprehension Level:** 3 — Advanced
 

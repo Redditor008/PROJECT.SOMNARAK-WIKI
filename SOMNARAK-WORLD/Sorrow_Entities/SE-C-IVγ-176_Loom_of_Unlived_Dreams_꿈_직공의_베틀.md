@@ -150,7 +150,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Loom of Unlived Dreams record.)
+> **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Loom of Unlived Dreams record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Loom of Unlived Dreams (C-IVγ-176 [LO]) is logged as a Object-Dream manifestation expressing Lament. The Loom formed from dreams abandoned before they could become lives. Held at SECTOR-A-01, near Dream Gates. The Loom responds to desire more than touch.

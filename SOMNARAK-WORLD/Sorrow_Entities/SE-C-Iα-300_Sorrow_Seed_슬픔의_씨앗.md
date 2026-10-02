@@ -311,7 +311,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Sorrow Seed record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Sorrow Seed (C-Iα-300 [D]) is logged as a Object-Weight manifestation expressing Weight. The Seed formed from concentrated grief waiting for a form. Held at Zone D, Echo Gardens. It is dormant but not inert.

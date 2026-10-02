@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Inherited Debt record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Inherited Debt (N-IVβ-019 [WS]) is logged as a Subject-Mind manifestation expressing Weight. The Inherited Debt formed from families burdened by obligations they never created. Held at SECTOR-C-01, Collector's Row — contained. The entity has never physically breached containment; its influence has.

@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Vanity Asleep record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Vanity Asleep (N-IIIγ-954 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The Mirror formed from self-knowledge that people were too exhausted to face. Held at Zone A, Alpha Tree. It remains dormant under ordinary observation.

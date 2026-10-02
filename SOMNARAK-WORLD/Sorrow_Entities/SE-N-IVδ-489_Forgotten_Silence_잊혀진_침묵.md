@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Forgotten Silence record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Forgotten Silence (N-IVδ-489 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The entity formed from silence that was forgotten even by those who created it. Held at Zone C, Mask Market. The entity glows during the Sorrow Tide.

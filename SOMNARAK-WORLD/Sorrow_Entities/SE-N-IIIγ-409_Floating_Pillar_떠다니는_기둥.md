@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Floating Pillar record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Floating Pillar (N-IIIγ-409 [O]) is logged as a Subject-Spirit manifestation expressing Void. The Pillar formed from an absence made visible through memory. Held at Zone C, Mask Market. The voice has no measurable source.

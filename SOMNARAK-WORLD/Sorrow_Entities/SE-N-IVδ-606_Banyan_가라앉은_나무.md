@@ -293,7 +293,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Banyan record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Banyan (N-IVδ-606 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Tree formed from sorrow deliberately buried beneath performance and masks. Held at Zone C, Mask Market. The Tree is visible only through reflections and transparent floors.

@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of Never Discharged, not ordinary e
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Never Discharged record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Never Discharged (O-IIβ-911 [WT]) is logged as a Time-Body manifestation expressing Weight. Held at SECTOR-O-911.
 
@@ -278,7 +278,7 @@ The entity does not rage. It does not weep. It persists — body and weight, pat
 
 **Common Name:** Never Discharged
 
-**Containment Status:** Contained — SECTOR-O-911 
+**Containment Status:** Contained — SECTOR-O-911
 
 **Comprehension Level:** 2 — Basic
 

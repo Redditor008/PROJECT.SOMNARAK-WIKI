@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Cenotaph record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Cenotaph (N-IVδ-525 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Bridge formed from a promise to protect someone who had already been lost. Held at Zone D, Echo Gardens. Its form changes with the movement of nearby sorrow.

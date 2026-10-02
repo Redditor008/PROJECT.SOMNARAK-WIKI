@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Harbinger record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Harbinger (N-IIIβ-155 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight. The Shadow formed from fear of collection. Held at Zone C, Collector's Row — ambient. It follows debtors throughout Collector's Row.

@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Weeping Willow record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Weeping Willow (C-IIIγ-140 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Willow formed from the sorrow of endings. Held at SECTOR-D-02, Echo Gardens. Its leaves fall even without wind.

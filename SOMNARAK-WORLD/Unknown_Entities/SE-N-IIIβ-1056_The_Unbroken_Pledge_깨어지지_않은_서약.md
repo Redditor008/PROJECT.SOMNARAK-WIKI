@@ -91,12 +91,12 @@ When an operative bearing the entity is deployed alongside younger scouts, the c
 
 ## Eyewitness Testimony
 
-> *"I didn't run because I was brave. I ran because my knees shook and his didn't. He gave me his half of the coin and told me to buy a cup of barley soup in the Upper Tier. I bought the soup forty years ago, but every time I swallow bread, I taste that tarnished copper. The silk around my neck isn't killing me—it's just keeping me from lying to myself."*  
+> *"I didn't run because I was brave. I ran because my knees shook and his didn't. He gave me his half of the coin and told me to buy a cup of barley soup in the Upper Tier. I bought the soup forty years ago, but every time I swallow bread, I taste that tarnished copper. The silk around my neck isn't killing me—it's just keeping me from lying to myself."*
 > — Veteran Scout Min-Seok, Zone D Sanatorium, Year 4,236
 
 ---
 
-**Document ID:** `SE-N-IIIβ-1056`  
-**Classification:** Inner Sorrow Anomaly Dossier  
-**Author:** R.D. Psychological Containment Cadre  
+**Document ID:** `SE-N-IIIβ-1056`
+**Classification:** Inner Sorrow Anomaly Dossier
+**Author:** R.D. Psychological Containment Cadre
 **Date:** Year 4,238 — Dawn Initiative

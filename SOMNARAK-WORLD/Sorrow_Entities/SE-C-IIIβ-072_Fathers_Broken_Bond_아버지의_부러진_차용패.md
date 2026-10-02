@@ -135,7 +135,7 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Fathers Broken Bond record.)
+> **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
 
@@ -190,7 +190,7 @@ The escalation pattern is specific to Father's Broken Bond: it is not a generic 
 **Activation reporting order (Father's Broken Bond):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Sump Diver's Flail
@@ -277,7 +277,7 @@ M.A.W. extracted from this relic carries the fury of the indebted underclass. It
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Fathers Broken Bond record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Reclaimed from the burned archives of the Concourse Indenture Ministry. The brass shows severe pitting consistent with high-molarity industrial solvent immersion.

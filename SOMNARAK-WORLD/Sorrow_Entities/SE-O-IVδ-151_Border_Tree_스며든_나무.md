@@ -293,7 +293,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Border Tree record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Border Tree (O-IVδ-151 [GP]) is logged as a Place-Lament manifestation expressing Grudge. The Tree formed from the grief of borders that never stopped moving. Held at Zone E, Border region. The Tree grows through political and emotional boundaries rather than soil alone.

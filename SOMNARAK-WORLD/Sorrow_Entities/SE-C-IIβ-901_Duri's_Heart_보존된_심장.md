@@ -160,9 +160,9 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Duri's Heart record.)
-> **This Relic is Capable of Operative Alteration** (Duri's Heart record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Duri's Heart record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Physical contact and intentional interaction.
 
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of Duri's Heart, not ordinary equip
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Duri's Heart record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Duri's Heart (C-IIβ-901 [WO]) is logged as a Object-Body manifestation expressing Weight. Held at SECTOR-C-901.
 
@@ -358,7 +358,7 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 
 **Common Name:** Duri's Heart
 
-**Containment Status:** Contained — SECTOR-C-901 
+**Containment Status:** Contained — SECTOR-C-901
 
 **Comprehension Level:** 2 — Basic
 

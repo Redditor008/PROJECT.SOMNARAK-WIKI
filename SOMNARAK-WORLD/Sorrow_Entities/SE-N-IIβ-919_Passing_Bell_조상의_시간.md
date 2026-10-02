@@ -246,7 +246,7 @@ Each M.A.W. piece is a conditional extension of Passing Bell, not ordinary equip
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Passing Bell record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Passing Bell (N-IIβ-919 [WT]) is logged as a Time-Spirit manifestation expressing Weight. Held at SECTOR-N-919.
 
@@ -301,7 +301,7 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 
 **Common Name:** Passing Bell
 
-**Containment Status:** Contained — SECTOR-N-919 
+**Containment Status:** Contained — SECTOR-N-919
 
 **Comprehension Level:** 2 — Basic
 

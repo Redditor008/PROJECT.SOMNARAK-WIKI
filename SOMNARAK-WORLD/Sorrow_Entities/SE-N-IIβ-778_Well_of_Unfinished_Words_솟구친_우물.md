@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Well of Unfinished Words.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. The well overflows rather than escapes, and the trigger is neglect rather than failed suppression.
+- Viderehan and Ferrehan are the only valid approaches; the well cannot be consoled or confronted.
+- Observation reveals the grief embedded in the water. Endurance requires remaining and listening without interruption.
+- The liquid climbs rather than falls and the surrounding walls lean toward it. Structural survey of the border ground is repeated after every overflow.
+- Yield depends on grief spoken into it since the last extraction, so silent intervals leave nothing to recover and raise the overflow risk at the same time.
 
 ## Combat Record
 ### Core Stat Line
@@ -149,7 +150,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Well of Unfinished Words record.)
+> **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -301,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Well of Unfinished Words record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Well of Unfinished Words (N-IIβ-778 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Well formed from mourning that had no witness. Held at Zone E, Border region. It is most active at border funerals and departures.

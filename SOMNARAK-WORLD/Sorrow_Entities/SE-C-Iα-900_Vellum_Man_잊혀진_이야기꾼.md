@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of Vellum Man, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Vellum Man record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Vellum Man (C-Iα-900 [LS]) is logged as a Subject-Tale manifestation expressing Lament. Held at SECTOR-C-900.
 
@@ -302,7 +302,7 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 
 **Common Name:** Vellum Man
 
-**Containment Status:** Contained — SECTOR-C-900 
+**Containment Status:** Contained — SECTOR-C-900
 
 **Comprehension Level:** 1 — Trace
 

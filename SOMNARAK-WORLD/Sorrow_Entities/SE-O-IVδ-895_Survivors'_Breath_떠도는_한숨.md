@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Survivors' Breath record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Survivors' Breath (O-IVδ-895 [VS]) is logged as a Subject-Spirit manifestation expressing Void. The Sigh formed from exhaustion that could not become rest. Held at Zone B, Old Lament. It is strongest after breaches and long patrols.

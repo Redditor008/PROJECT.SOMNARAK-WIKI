@@ -149,9 +149,9 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Tear Too Small to Honor record.)
-> **This Relic is Capable of Operative Alteration** (Tear Too Small to Honor record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Tear Too Small to Honor record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Touch.
 
@@ -301,7 +301,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Tear Too Small to Honor record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Tear Too Small to Honor (N-Iα-785 [O]) is logged as a Object-Void manifestation expressing Lament. The Tear formed from sorrow collapsed beneath shame. Held at Zone D, Echo Gardens. It is most active around visitors who hide their tears.

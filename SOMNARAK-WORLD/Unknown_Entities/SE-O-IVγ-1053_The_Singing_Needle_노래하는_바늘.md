@@ -91,12 +91,12 @@ Acoustic dampening tests demonstrate that when an operative sings an inverted co
 
 ## Eyewitness Testimony
 
-> *"You don't hear it with your ears first. You feel it in your teeth. Your molars begin to vibrate, then your sternum starts buzzing like a trapped hornet. By the time you realize the wind has stopped and only the needle is singing, your nose is already bleeding onto your snowshoes."*  
+> *"You don't hear it with your ears first. You feel it in your teeth. Your molars begin to vibrate, then your sternum starts buzzing like a trapped hornet. By the time you realize the wind has stopped and only the needle is singing, your nose is already bleeding onto your snowshoes."*
 > — Expedition Scout Ha-Eun, Northern Vanguard Cadre, Year 4,237
 
 ---
 
-**Document ID:** `SE-O-IVγ-1053`  
-**Classification:** Outside Sorrow Anomaly Dossier  
-**Author:** Northern Frontier Telemetry Division  
+**Document ID:** `SE-O-IVγ-1053`
+**Classification:** Outside Sorrow Anomaly Dossier
+**Author:** Northern Frontier Telemetry Division
 **Date:** Year 4,238 — Dawn Initiative

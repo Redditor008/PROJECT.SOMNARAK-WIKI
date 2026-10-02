@@ -233,7 +233,7 @@ Each M.A.W. piece is a conditional extension of Cracked Flesh, not ordinary equi
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Cracked Flesh record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Cracked Flesh (C-IIIγ-921 [GH]) is logged as a Hazard-Body manifestation expressing Grudge. Held at SECTOR-C-921.
 

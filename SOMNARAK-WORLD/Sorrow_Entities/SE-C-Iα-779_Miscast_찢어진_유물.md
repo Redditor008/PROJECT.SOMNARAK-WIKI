@@ -150,9 +150,9 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Miscast record.)
-> **This Relic is Capable of Operative Alteration** (Miscast record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Miscast record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Arranging the fragments in their former order.
 
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Miscast record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Miscast (C-Iα-779 [GO]) is logged as a Object-Weight manifestation expressing Grudge. The Relic formed from an object destroyed before its work was complete. Held at Zone D, Forge District. The pieces move along Forge District Han-currents.

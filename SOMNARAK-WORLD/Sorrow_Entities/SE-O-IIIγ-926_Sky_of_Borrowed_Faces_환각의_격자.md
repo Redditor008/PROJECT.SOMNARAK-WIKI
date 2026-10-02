@@ -246,7 +246,7 @@ Each M.A.W. piece is a conditional extension of Sky of Borrowed Faces, not ordin
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Sky of Borrowed Faces record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Sky of Borrowed Faces (O-IIIγ-926 [LH]) is logged as a Hazard-Phantasmal manifestation expressing Lament. Held at SECTOR-O-926.
 
@@ -301,7 +301,7 @@ The entity does not rage. It does not weep. It persists — phantasmal and lamen
 
 **Common Name:** Sky of Borrowed Faces
 
-**Containment Status:** Contained — SECTOR-O-926 
+**Containment Status:** Contained — SECTOR-O-926
 
 **Comprehension Level:** 3 — Advanced
 

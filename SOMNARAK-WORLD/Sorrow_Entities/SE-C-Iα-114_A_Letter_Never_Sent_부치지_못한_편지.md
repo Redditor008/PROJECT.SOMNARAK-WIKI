@@ -136,7 +136,7 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (A Letter Never Sent record.)
+> **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
 
@@ -191,7 +191,7 @@ The escalation pattern is specific to A Letter Never Sent: it is not a generic b
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Archive Stiletto
@@ -278,7 +278,7 @@ M.A.W. extracted from single-use relics represents the lingering memory of the h
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (A Letter Never Sent record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Catalogued as a discrete Object manifestation expressing acute municipal Lament. Recovered from the deep substructure of Sector-A-04, preserved within an airtight lead canister behind the collapsed passenger terminal blast gates.

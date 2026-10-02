@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of Backward Hour, not ordinary equi
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Backward Hour record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Backward Hour (C-IIIγ-913 [GT]) is logged as a Time-Grudge manifestation expressing Grudge. Held at SECTOR-C-913.
 
@@ -302,7 +302,7 @@ The entity does not rage. It does not weep. It persists — grudge and grudge, p
 
 **Common Name:** Backward Hour
 
-**Containment Status:** Contained — SECTOR-C-913 
+**Containment Status:** Contained — SECTOR-C-913
 
 **Comprehension Level:** 3 — Advanced
 

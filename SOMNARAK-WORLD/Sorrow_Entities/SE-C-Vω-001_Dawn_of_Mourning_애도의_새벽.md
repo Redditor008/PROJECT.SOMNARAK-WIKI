@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Dawn of Mourning record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Dawn of Mourning (C-Vω-001 [LS]) is logged as a Subject-Body manifestation expressing All four — Lament, Grudge, Void, Weight. The Dawn is the catastrophic historical form of the Kind Healer. In the current cycle, the twelfth blessing produced The Hand of Hope instead. Held at Never contained; forms through the Kind Healer transformation chain. Manifested three times in recorded history; it did not manifest in the current cycle.

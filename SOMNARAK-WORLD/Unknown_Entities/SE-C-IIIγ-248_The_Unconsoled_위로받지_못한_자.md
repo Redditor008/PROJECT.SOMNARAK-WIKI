@@ -232,7 +232,7 @@ The extracted equipment reflects the same unresolved pressure as The Unconsoled.
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Unconsoled record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The subject is a translucent elder, sexless with age, face permanently wet, clad in the rough Han-woven robes of the earliest settlers. Its weeping produces no sound; witnesses report hearing their own oldest grief spoken in a voice they cannot place. Tears evaporate before reaching the ground. The figure is slow, seated more often than standing, and drifts toward the Alpha Tree's roots.

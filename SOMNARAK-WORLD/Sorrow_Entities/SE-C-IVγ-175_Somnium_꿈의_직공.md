@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Somnium record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Somnium (C-IVγ-175 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The Weaver formed from dreams abandoned before they could be lived. Held at SECTOR-A-01, near Dream Gates. It is visible only partially outside the Dream layer.

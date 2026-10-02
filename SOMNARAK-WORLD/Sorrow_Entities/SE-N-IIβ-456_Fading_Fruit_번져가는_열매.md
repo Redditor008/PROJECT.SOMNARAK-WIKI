@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Fading Fruit.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. The grove expands its footprint rather than escaping, and the trigger is activation rather than containment failure.
+- Viderehan and Ferrehan are the only valid approaches; a place cannot be emotionally engaged or confronted.
+- Observation reveals what each debtor wanted before the fruit faded. Endurance requires remaining near denied hope without reaching for it.
+- Fruit taken from the branch fades before it reaches the mouth. No sample has survived transit to analysis, and the empty stems are the only recoverable material.
+- The warm, bitter ground expands measurably whenever a debtor is drawn in, which makes yield dependent on how many are admitted rather than on cycle length.
 
 ## Combat Record
 ### Core Stat Line
@@ -269,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Fading Fruit record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Fading Fruit (N-IIβ-456 [N]) is logged as a Place-Grudge manifestation expressing Grudge. The Fruit formed from desire made impossible by debt. Held at Zone C, Collector's Row. Fruit fades before reaching maturity.

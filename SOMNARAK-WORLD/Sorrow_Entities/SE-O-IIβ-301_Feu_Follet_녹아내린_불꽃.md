@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Feu Follet record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Feu Follet (O-IIβ-301 [LS]) is logged as a Subject-Mind manifestation expressing Lament. The Flame formed from a Desolate survivor's memory of warmth after everyone else was gone. Held at Zone C, Mask Market. It manifests in the minds of people wearing masks.

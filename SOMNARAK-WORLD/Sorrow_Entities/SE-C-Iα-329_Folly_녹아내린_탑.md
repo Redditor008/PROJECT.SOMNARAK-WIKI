@@ -150,9 +150,9 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Folly record.)
-> **This Relic is Capable of Operative Alteration** (Folly record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Folly record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Attempts to complete the abandoned plan.
 
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Folly record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Folly (C-Iα-329 [VO]) is logged as a Object-Grudge manifestation expressing Void. The Tower formed from potential that never became architecture. Held at Zone E, Border region. It melts without heat.

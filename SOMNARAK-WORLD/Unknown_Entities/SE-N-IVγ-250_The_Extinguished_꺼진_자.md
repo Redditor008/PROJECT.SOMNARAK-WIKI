@@ -233,7 +233,7 @@ The extracted equipment reflects the same unresolved pressure as The Extinguishe
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Extinguished record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The subject is a humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges faintly gold, core gone cold and crimson. It shifts color: gold at the extremities (what it was), crimson-black at the heart (what losing it made it). Frost follows where it walks, and the frost spells, in Old Somnarak, the same word at every pause: *again?* The figure ignores the hopeless and walks past them. It engages only Hope-signatures.

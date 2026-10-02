@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Aegis record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Aegis (C-IVδ-200 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Guardian formed from a warrior's vow to protect the Gate until the city no longer needed it. Held at SECTOR-E-01, Zone E — guards the Exile's Gate. It has guarded the Gate for longer than current records.

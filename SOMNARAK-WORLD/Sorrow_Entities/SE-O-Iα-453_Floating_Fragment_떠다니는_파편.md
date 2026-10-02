@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Floating Fragment record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Floating Fragment (O-Iα-453 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The Fragment formed from a cry that ended while its sorrow continued. Held at Zone C, Collector's Row. The sound is older than the current Collector's Row.

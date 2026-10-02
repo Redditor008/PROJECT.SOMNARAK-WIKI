@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Mirror of Soaking.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. The mirror rises during periods of concentrated rage and subsides on its own rather than escaping.
+- Viderehan and Ferrehan are the only valid approaches; the surface cannot be engaged emotionally or confronted.
+- Observation reveals the event that created the anger. Endurance forces the worker to remain before their own rage.
+- The surface reflects no face, only the anger beneath it, and glows red when approached by a worker suppressing their own. That glow is the assignment screen.
+- Yield is drawn from the reflected anger, so workers who have genuinely resolved their own produce the lowest returns on this row.
 
 ## Combat Record
 ### Core Stat Line
@@ -149,9 +150,9 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Mirror of Soaking record.)
-> **This Relic is Capable of Operative Alteration** (Mirror of Soaking record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Mirror of Soaking record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Direct gaze or touching the reflective surface.
 
@@ -301,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Mirror of Soaking record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Mirror of Soaking (N-IIβ-801 [GO]) is logged as a Object-Void manifestation expressing Grudge. The Mirror formed from rage that could not be spoken safely. Held at Zone C, Collector's Row. Appears in Collector's Row where suppressed debt anger is concentrated.

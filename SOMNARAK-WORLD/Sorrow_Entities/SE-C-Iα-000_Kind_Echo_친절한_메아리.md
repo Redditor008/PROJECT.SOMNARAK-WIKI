@@ -176,7 +176,7 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. The Standard Training M.A.W. set is issued to all new R.D. personnel.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. The Standard Training M.A.W. set is issued to all new R.D. personnel.
 > *(Archival Note: The complete quadripartite codex suite for Kind Echo is cataloged under formal registry ID `SE-1001` in `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1001_The_Kind_Echo/` to resolve the zero-index registry collision).*
 
 ### M.A.W. Weapon — Pneumatic Training Carbine
@@ -267,7 +267,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Kind Echo record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject-Lament, Residue coherence, Minor potency. The gentlest entity in the R.D. registry. Designated 000; permanently assigned to the Training Containment Unit, SECTOR-D-01. Warm to the touch. Does not attack.

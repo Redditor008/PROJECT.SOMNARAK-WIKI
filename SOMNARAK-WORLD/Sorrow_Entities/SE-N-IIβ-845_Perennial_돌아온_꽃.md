@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Perennial.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies in the ordinary sense. Perennial is crushed and returns rather than being contained once and escaping once.
+- Viderehan and Ferrehan are the only valid approaches despite its mobility; the bloom has no mind to engage or to confront.
+- Observation reveals the settlement's cycles of return and loss. Endurance tests whether the worker can stand beneath karmic weight.
+- Crushing is not disposal. The patch regrows from the same floor plate regardless of how thoroughly it is destroyed, and spore release follows each regrowth.
+- Yield is taken at the moment of regrowth rather than from the standing bloom, which inverts the usual extraction schedule for this class.
 
 ## Combat Record
 ### Core Stat Line
@@ -291,7 +292,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Perennial record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Perennial (N-IIβ-845 [WP]) is logged as a Place-Void manifestation expressing Weight. The Flower formed from a place that was repeatedly abandoned. Held at The Desolate — mobile. The flowers sing faintly during the Sorrow Tide.

@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of Once Upon, not ordinary equipmen
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Once Upon record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Once Upon (O-IIIγ-920 [LT]) is logged as a Time-Tale manifestation expressing Lament. Held at SECTOR-O-920.
 
@@ -278,7 +278,7 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 
 **Common Name:** Once Upon
 
-**Containment Status:** Contained — SECTOR-O-920 
+**Containment Status:** Contained — SECTOR-O-920
 
 **Comprehension Level:** 3 — Advanced
 

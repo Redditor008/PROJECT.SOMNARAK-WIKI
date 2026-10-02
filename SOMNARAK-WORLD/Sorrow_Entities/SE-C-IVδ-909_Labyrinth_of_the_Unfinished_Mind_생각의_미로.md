@@ -226,7 +226,7 @@ Each M.A.W. piece is a conditional extension of Labyrinth of the Unfinished Mind
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Labyrinth of the Unfinished Mind record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Labyrinth of the Unfinished Mind (C-IVδ-909 [VP]) is logged as a Place-Mind manifestation expressing Void. Held at SECTOR-C-909.
 
@@ -281,7 +281,7 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 
 **Common Name:** Labyrinth of the Unfinished Mind
 
-**Containment Status:** Contained — SECTOR-C-909 
+**Containment Status:** Contained — SECTOR-C-909
 
 **Comprehension Level:** 4 — Deep
 

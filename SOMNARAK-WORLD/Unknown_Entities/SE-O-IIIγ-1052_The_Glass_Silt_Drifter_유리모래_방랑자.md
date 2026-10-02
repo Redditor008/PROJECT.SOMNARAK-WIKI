@@ -92,12 +92,12 @@ Caravan vanguards observe that the entity possesses no hostility toward pedestri
 
 ## Eyewitness Testimony
 
-> *"We were three days out from Corner 1, engines running hot under the dual suns. That was when the red shimmer started matching our speed. You could hear it over the roar of our six boilers—a high, dry hiss like hot iron quenching in vinegar. It didn't want our cargo. It just wanted to know if we were running to someone, or running from something."*  
+> *"We were three days out from Corner 1, engines running hot under the dual suns. That was when the red shimmer started matching our speed. You could hear it over the roar of our six boilers—a high, dry hiss like hot iron quenching in vinegar. It didn't want our cargo. It just wanted to know if we were running to someone, or running from something."*
 > — Master Driver Eun-Seok, Horizon Caravan  [지평선대]  , Year 4,235
 
 ---
 
-**Document ID:** `SE-O-IIIγ-1052`  
-**Classification:** Outside Sorrow Anomaly Dossier  
-**Author:** Horizon Caravan Survey Cadre  
+**Document ID:** `SE-O-IIIγ-1052`
+**Classification:** Outside Sorrow Anomaly Dossier
+**Author:** Horizon Caravan Survey Cadre
 **Date:** Year 4,238 — Dawn Initiative

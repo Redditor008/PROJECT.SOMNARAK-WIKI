@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Harvest Beyond the Gate.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. The ground spreads beneath the gate rather than the entity escaping through it.
+- Viderehan and Ferrehan are the only valid approaches; the site cannot be engaged emotionally or confronted.
+- Observation reveals the desire inside each fruit. Endurance tests whether the worker can remain near an impossible return.
+- Every fruit melts on contact, so inventory is maintained by count and position only. Nothing has ever been removed from the site intact.
+- Yield rises with the number of exiles the site has drawn, and falls to nothing during periods when no one approaches the gate.
 
 ## Combat Record
 ### Core Stat Line
@@ -275,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Harvest Beyond the Gate record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Harvest Beyond the Gate (N-IIβ-627 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Fruit formed from longing that became resentment. Held at Zone E, Exile's Gate vicinity. Fruit melts without heat.

@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of Allhallow, not ordinary equipmen
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Allhallow record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Allhallow (O-IIIγ-916 [LT]) is logged as a Time-Phantasmal manifestation expressing Lament. Held at SECTOR-O-916.
 
@@ -278,7 +278,7 @@ The entity does not rage. It does not weep. It persists — phantasmal and lamen
 
 **Common Name:** Allhallow
 
-**Containment Status:** Contained — SECTOR-O-916 
+**Containment Status:** Contained — SECTOR-O-916
 
 **Comprehension Level:** 3 — Advanced
 

@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Restless Gap record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Restless Gap (C-IVδ-250 [WS]) is logged as a Subject-Void manifestation expressing Weight. The Trace formed from a life broken into disconnected pieces. Held at Zone D, Mantle Commons. The entity creates discontinuity rather than ordinary destruction.

@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Smothering Mother record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Smothering Mother (N-IVδ-005 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Mother formed from a mother — Soojin (수진), a Zone B laborer — whose two children were swallowed by the Han. Held at SECTOR-D-01, Zone D — contained. The Mother has never intentionally harmed anyone; she holds and does not squeeze.

@@ -246,7 +246,7 @@ Each M.A.W. piece carries the loop's central cost: detachment from the self. The
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Repeated Survivor record.) Several entries are recovered fragments of the entity's own loop-journal.
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.  Several entries are recovered fragments of the entity's own loop-journal.
 
 **Entry 1 — Containment Description**
 The Repeated Survivor (`N-IVδ-902 [VS]`) is an R.D. field agent who began to remember the Absolvohan's loops — an impossibility for non-Echo-Core personnel. Across thousands of iterations, the remembering emptied them: identity dissolved, the world became a stage, and only the performance remained. Subject-Body, Void expression. Cannot be permanently ended within a single cycle.

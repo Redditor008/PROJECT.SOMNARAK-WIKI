@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Sorrow Storm record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Sorrow Storm (C-Vγ-320 [D]) is logged as a Place-Weight manifestation expressing Weight. The Storm formed from sorrow accumulating beyond the city's ability to release it. Held at All zones — periodic phenomenon. The Storm follows major city-wide grief events.

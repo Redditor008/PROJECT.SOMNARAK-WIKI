@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Forgotten Soul record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Forgotten Soul (O-IIIγ-233 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Soul formed from a person forgotten before their death was fully mourned. Held at Zone B, Old Lament. The face changes when a false name is offered.

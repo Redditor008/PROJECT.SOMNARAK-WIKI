@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Holdout record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Holdout (C-IIβ-240 [GP]) is logged as a Place-Weight manifestation expressing Grudge. The Ruin formed from a place destroyed while someone still believed it could be saved. Held at Zone A, Alpha Tree vault. It appears only when someone remembers the destroyed site.

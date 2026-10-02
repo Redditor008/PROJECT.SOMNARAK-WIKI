@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Relic of a Thousand Owners record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Relic of a Thousand Owners (O-IVδ-792 [O]) is logged as a Subject-Phantasmal manifestation expressing Lament. The Relic formed from an object carried through many exiles. Held at Zone E, Exile's Gate vicinity. The Relic changes form near the Exile's Gate.

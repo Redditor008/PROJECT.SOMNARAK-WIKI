@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Pent record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Pent (N-IVδ-821 [D]) is logged as a Place-Grudge manifestation expressing Grudge. The Sigh formed from a breath erased before it could be released. Held at Zone B, Old Lament — ambient. It is strongest after long shifts.

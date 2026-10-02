@@ -247,7 +247,7 @@ Each M.A.W. piece is a conditional extension of Unwaking Block, not ordinary equ
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Unwaking Block record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Unwaking Block (N-IIIγ-908 [LP]) is logged as a Place-Dream manifestation expressing Lament. Held at SECTOR-N-908.
 
@@ -302,7 +302,7 @@ The entity does not rage. It does not weep. It persists — dream and lament, pa
 
 **Common Name:** Unwaking Block
 
-**Containment Status:** Contained — SECTOR-N-908 
+**Containment Status:** Contained — SECTOR-N-908
 
 **Comprehension Level:** 3 — Advanced
 

@@ -269,7 +269,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Forgotten Soldier record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Forgotten Soldier (N-IIβ-033 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge. The Soldier formed from a border soldier — real name erased from the Archive — who served the Zone E perimeter for twenty years without incident. Held at SECTOR-B-02, Zone B — contained corridor 7-C. The Soldier patrols a fixed route and never abandons his post.

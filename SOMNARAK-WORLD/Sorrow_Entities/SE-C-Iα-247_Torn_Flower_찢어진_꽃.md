@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Torn Flower record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Torn Flower (C-Iα-247 [O]) is logged as a Subject-Lament manifestation expressing Grudge. The Flower formed from a promise broken while someone was still waiting. Held at Zone B, Old Lament — ambient. It appears in damaged memorials.

@@ -270,7 +270,7 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Mewgical Girl record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Mewgical Girl (`N-IVδ-901 [MH]`) is a two-meter magical-girl doll — Subject-Body — bonded to a separate Subject-Spirit (Shu Shu), forming a Hybrid entity of Mixed expression. Cat ears, cat tail, pink costume, golden cat-paw staff. Two coherent identities speak through one mouth. Mobile; last observed near the Maw perimeter, Zone B. No permanent containment chamber exists.

@@ -155,7 +155,7 @@ The gauge response is only meaningful in context. The Foam Flood is recorded as 
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Foam Flood record.)
+> **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Foam Flood record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Foam Flood (C-IIIγ-948 [LO]) is logged as an Object-Spirit manifestation expressing Lament. The entity is a metre-tall carving of a black dragon in unknown white stone, with glowing white eyes, fixed in the Dry Riverbed Vault, SECTOR-C-07, Zone C. A hand laid upon it shares its long longing to fly; channeling past 90 seconds is forbidden. It grows sadder each time it is shared.

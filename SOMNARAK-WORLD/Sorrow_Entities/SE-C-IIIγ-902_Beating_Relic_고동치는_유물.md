@@ -143,9 +143,9 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Beating Relic record.)
-> **This Relic is Capable of Operative Alteration** (Beating Relic record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Beating Relic record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** The relic is gripped in an operator's bare hand.
 
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of Beating Relic, not ordinary equi
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Beating Relic record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Beating Relic (C-IIIγ-902 [GO]) is logged as a Object-Body manifestation expressing Grudge. Held at SECTOR-C-902.
 
@@ -316,7 +316,7 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 
 **Common Name:** Beating Relic
 
-**Containment Status:** Contained — SECTOR-C-902 
+**Containment Status:** Contained — SECTOR-C-902
 
 **Comprehension Level:** 3 — Advanced
 

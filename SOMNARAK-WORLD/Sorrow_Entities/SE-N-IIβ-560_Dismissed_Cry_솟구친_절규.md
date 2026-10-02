@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Dismissed Cry.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No breach counter applies. The crystal expands its stored volume rather than escaping containment.
+- Viderehan and Ferrehan are the only valid approaches; the scream cannot be consoled or confronted.
+- Observation reveals the injustice behind the scream. Endurance tests whether the worker can remain with anger without repeating it.
+- It produces no ordinary sound. Personnel register the scream as pressure behind the eyes, and acoustic instruments record nothing at all.
+- Tears soften the crystal surface and release a portion of the stored anger, which is the only condition under which yield can be extracted safely.
 
 ## Combat Record
 ### Core Stat Line
@@ -149,9 +150,9 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Dismissed Cry record.)
-> **This Relic is Capable of Operative Alteration** (Dismissed Cry record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Dismissed Cry record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Touch or vocal aggression nearby.
 
@@ -301,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Dismissed Cry record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Dismissed Cry (N-IIβ-560 [D]) is logged as a Object-Grudge manifestation expressing Grudge. The Scream formed from anger that had no safe voice. Held at The Desolate, near The Scar. It produces pressure rather than sound.

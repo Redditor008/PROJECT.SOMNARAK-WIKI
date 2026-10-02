@@ -223,7 +223,7 @@ Each M.A.W. piece is a conditional extension of Once Told, not ordinary equipmen
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Once Told record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Once Told (O-IVδ-930 [LH]) is logged as a Hazard-Tale manifestation expressing Lament. Held at SECTOR-O-930.
 
@@ -278,7 +278,7 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 
 **Common Name:** Once Told
 
-**Containment Status:** Contained — SECTOR-O-930 
+**Containment Status:** Contained — SECTOR-O-930
 
 **Comprehension Level:** 4 — Deep
 

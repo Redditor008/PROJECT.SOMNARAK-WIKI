@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Floating Well record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Floating Well (C-IIIγ-448 [O]) is logged as a Subject-Weight manifestation expressing Grudge. The Well formed from sorrow that could not be grounded. Held at Zone D, Forge District. It floats because its sorrow has no ground.

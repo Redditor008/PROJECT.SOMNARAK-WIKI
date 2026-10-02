@@ -202,9 +202,9 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Driftglass record.)
-> **This Relic is Capable of Operative Alteration** (Driftglass record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Driftglass record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** This Major (γ)
 
@@ -350,7 +350,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Driftglass record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Driftglass (O-IIIγ-914 [N]) is logged as a Object-Lament manifestation expressing Lament. The Soul formed from an Outside Sorrow traveler who never found a place to rest. Held at Zone A, Alpha Tree. It follows no physical map.

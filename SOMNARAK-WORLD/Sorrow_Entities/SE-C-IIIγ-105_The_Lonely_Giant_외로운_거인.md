@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Lonely Giant record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Lonely Giant (C-IIIγ-105 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Giant formed from the sorrow of people who felt too large, too different, or too much for the world. Held at Zone D — wanders, semi-contained. The Giant has never intentionally harmed anyone.

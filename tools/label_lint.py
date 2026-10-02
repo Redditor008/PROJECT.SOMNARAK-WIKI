@@ -10,6 +10,7 @@ import sys
 #   R3 BARE_CODE_TAG     - a bare [SE-...] tag appended to text (NOT a link)
 #   R5 CALLOUT_SELF_NAME - an Entry callout decorated with the entity's own name
 #   R6 WORKTYPE_SELF_NAME - a Work Type label decorated with the entity's own name
+#   R7 RECORD_SUFFIX_SELF_NAME - a '(<Name> record.)' suffix on shared furniture
 #   R4 LABEL_NOT_ALLOWED - a table label outside the fixed vocabulary
 #
 # R3 scans every line including table cells. The original V6-1 sweep only
@@ -171,6 +172,13 @@ P_WORKTYPE_DECOR = re.compile(
     r"\*\*(" + "|".join(WORK_TYPES) + r")\s*\(([^)]+)\)\*\*")
 
 
+# R7: "(<Entity Name> record.)" appended to Relic capability callouts and to the
+# Story Log preamble. The sentences it trails are identical in every dossier;
+# the name is there to make shared furniture look authored. Same V5-12 pattern
+# as R5/R6, fourth syntactic position.
+P_RECORD_DECOR = re.compile(r"\(([^)]+?) record\.\)")
+
+
 def audit_file(path):
     """Return a list of violation strings for one dossier."""
     name, code = entity_identity(path)
@@ -202,6 +210,14 @@ def audit_file(path):
                 errors.append(
                     f"{path}:{idx} -> [WORKTYPE_SELF_NAME] Work Type label "
                     f"'{m.group(0)}' is decorated with the entity's own name")
+
+        # R7: a "(<Name> record.)" suffix on otherwise shared furniture.
+        for m in P_RECORD_DECOR.finditer(line):
+            inner = m.group(1).strip()
+            if inner == name or inner in name or name in inner:
+                errors.append(
+                    f"{path}:{idx} -> [RECORD_SUFFIX_SELF_NAME] suffix "
+                    f"'{m.group(0)}' decorates shared text with the entity's own name")
 
         stripped = line.strip()
         if not stripped.startswith('|'):

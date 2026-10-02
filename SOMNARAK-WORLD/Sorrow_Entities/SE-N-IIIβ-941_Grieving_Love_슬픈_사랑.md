@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Grieving Love record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Grieving Love (N-IIIβ-941 [LS]) is logged as a Subject-Body manifestation expressing Lament. The entity formed when an apothecary, Sooah, fell into a vat of concentrated Han she was distilling as a cure for her dying beloved. Held at the Drowned Apothecary, SECTOR-D-03, Zone D. She drifts, weeps without wetting the floor, and reaches for any offered warmth.

@@ -160,7 +160,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Thinking Engine record.)
+> **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of Thinking Engine, not ordinary eq
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Thinking Engine record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Thinking Engine (C-IIIγ-904 [LO]) is logged as a Object-Mind manifestation expressing Lament. Held at SECTOR-C-904.
 
@@ -333,7 +333,7 @@ Now it sits in a containment cell on Floor 4, covered in dials that turn on thei
 
 **Common Name:** Thinking Engine
 
-**Containment Status:** Contained — SECTOR-C-904 
+**Containment Status:** Contained — SECTOR-C-904
 
 **Comprehension Level:** 3 — Advanced
 

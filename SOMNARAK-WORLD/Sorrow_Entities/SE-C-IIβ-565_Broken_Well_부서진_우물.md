@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Broken Well record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Broken Well (C-IIβ-565 [D]) is logged as a Subject-Phantasmal manifestation expressing Grudge. The Well formed from a mother's grief after failing to protect her child. Held at Zone B, Old Lament. It appears around broken wells and collapsed foundations.

@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Wrath Flame record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Wrath Flame (O-IIIβ-120 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Flame formed from the rage of the six factions that fought in the Occlusihan. Held at The Desolate, near The Scar. It has never attacked a respectful visitor.

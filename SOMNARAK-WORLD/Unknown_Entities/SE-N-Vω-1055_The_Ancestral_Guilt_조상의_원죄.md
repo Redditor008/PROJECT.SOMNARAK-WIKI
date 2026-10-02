@@ -92,12 +92,12 @@ Interviews with affected personnel reveal that the entity does not demand money;
 
 ## Eyewitness Testimony
 
-> *"My family didn't own land. We owned two hand-drills and a debt ledger dating back to the third cycle of the First Consolihan War. When that thing stood up in the crypt, thirty feet tall and smelling of wet lampblack, I didn't see a monster. I saw every tax notice my father ever hid under his mattress. It looked down at me and spoke with his voice: 'You haven't paid either, have you?'"*  
+> *"My family didn't own land. We owned two hand-drills and a debt ledger dating back to the third cycle of the First Consolihan War. When that thing stood up in the crypt, thirty feet tall and smelling of wet lampblack, I didn't see a monster. I saw every tax notice my father ever hid under his mattress. It looked down at me and spoke with his voice: 'You haven't paid either, have you?'"*
 > — Auditor Jin-Soo, Collector Bureau  [수거국]  , Year 4,236
 
 ---
 
-**Document ID:** `SE-N-Vω-1055`  
-**Classification:** Inner Sorrow Sovereign Dossier  
-**Author:** R.D. Sovereign Containment Bureau  
+**Document ID:** `SE-N-Vω-1055`
+**Classification:** Inner Sorrow Sovereign Dossier
+**Author:** R.D. Sovereign Containment Bureau
 **Date:** Year 4,238 — Dawn Initiative

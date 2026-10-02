@@ -224,7 +224,7 @@ Each M.A.W. piece is a conditional extension of Dawn That Forgot, not ordinary e
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Dawn That Forgot record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Dawn That Forgot (N-IIIγ-917 [VT]) is logged as a Time-Dream manifestation expressing Void. Held at SECTOR-N-917.
 
@@ -279,7 +279,7 @@ The entity does not rage. It does not weep. It persists — dream and void, pati
 
 **Common Name:** Dawn That Forgot
 
-**Containment Status:** Contained — SECTOR-N-917 
+**Containment Status:** Contained — SECTOR-N-917
 
 **Comprehension Level:** 3 — Advanced
 

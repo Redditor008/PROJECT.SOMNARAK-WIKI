@@ -224,7 +224,7 @@ Each M.A.W. piece is a conditional extension of Ninety Seconds, not ordinary equ
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Ninety Seconds record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Ninety Seconds (C-IVδ-918 [VT]) is logged as a Time-Mind manifestation expressing Void. Held at SECTOR-C-918.
 
@@ -279,7 +279,7 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 
 **Common Name:** Ninety Seconds
 
-**Containment Status:** Contained — SECTOR-C-918 
+**Containment Status:** Contained — SECTOR-C-918
 
 **Comprehension Level:** 4 — Deep
 

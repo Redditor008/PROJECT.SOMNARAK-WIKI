@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Debt Eater record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Debt Eater (C-IIIβ-014 [VS]) is logged as a Subject-Body manifestation expressing Void. The Debt Eater crystallized from the collective refusal of early Zone B citizens to pay debts imposed by the Collectors. Held at SECTOR-C-01, Zone C — Collector use; contained. Flerehan calms no part of its function, but Viderehan and Ferrehan reduce its gauge.

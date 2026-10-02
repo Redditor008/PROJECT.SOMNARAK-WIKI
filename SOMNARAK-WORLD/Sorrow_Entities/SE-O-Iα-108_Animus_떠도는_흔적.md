@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Animus record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Animus (O-Iα-108 [GS]) is logged as a Subject-Spirit manifestation expressing Grudge. The Trace formed from rage that outlived its original reason. Held at Zone D, Mantle Commons. The Trace's fury is older than any identified witness.

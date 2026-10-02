@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Owed record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Owed (C-IIIγ-180 [WP]) is logged as a Place-Weight manifestation expressing Weight. The Wall formed from unpaid obligations accumulated across Somnarak. Held at SECTOR-C-01, Collector's Row. The Wall grows with city-wide debt accumulation.

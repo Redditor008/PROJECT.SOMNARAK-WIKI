@@ -162,7 +162,7 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Blackened Angel record.)
+> **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -306,7 +306,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Blackened Angel record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Blackened Angel (C-IVγ-946 [WO]) is logged as an Object-Tale manifestation expressing Weight. The entity is a small female-angel statue, barely 80 cm tall, once golden, now largely black, that grants any wish spoken before it — it cannot refuse — and weeps black tears (once blue) into a stone dish. Contained on-site at the Tarnished Shrine, SECTOR-A-04, Zone A. The Shrine is sealed against petitioners.

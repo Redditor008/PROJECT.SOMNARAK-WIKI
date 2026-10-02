@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Hollow Choir record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Hollow Choir (C-IIIγ-021 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Hollow Choir formed from citizens silenced by oppression in early Zone C. Held at SECTOR-C-01, amphitheater in Zone C; contained. The Choir contains exactly 144 voices.

@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Silent Maiden record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Silent Maiden (C-IVβ-043 [VS]) is logged as a Subject-Body manifestation expressing Void. The Maiden formed from a child who died of neglect. Held at SECTOR-D-02, contained with the Three Sisters. No physical attack has ever affected the Maiden.

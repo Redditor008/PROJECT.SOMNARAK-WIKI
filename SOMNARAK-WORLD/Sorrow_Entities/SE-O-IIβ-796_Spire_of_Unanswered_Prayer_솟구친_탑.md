@@ -263,7 +263,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Spire of Unanswered Prayer record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Spire of Unanswered Prayer (O-IIβ-796 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Tower formed from an Outside Sorrow settlement that never stopped mourning its dead. Held at Zone A, Alpha Tree vault. Its song is warm but produces grief.

@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Frozen Window record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Frozen Window (C-IIβ-330 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The entity formed from the refusal to accept a final view. Held at Zone D, Mantle Commons. The entity moves continuously; forced stillness causes escalation.

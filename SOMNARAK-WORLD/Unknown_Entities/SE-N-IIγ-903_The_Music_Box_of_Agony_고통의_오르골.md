@@ -199,7 +199,7 @@ Each M.A.W. piece carries the lullaby's central cost: the vanishing of the self.
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Music Box of Agony record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Music Box of Agony (`N-IIγ-903 [VO]`) is a 25 × 15 cm music box — pink lining, black top, white bottom — with a small weeping figurine atop its post. Object-Void. It plays a lullaby that should have ended centuries ago and never has. Contained in the SECTOR-D-02 acoustic-isolation vault; lid sealed between observations.

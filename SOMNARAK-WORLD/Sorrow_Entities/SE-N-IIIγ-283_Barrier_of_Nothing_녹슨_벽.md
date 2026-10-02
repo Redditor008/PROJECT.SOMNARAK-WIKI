@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Barrier of Nothing record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Barrier of Nothing (N-IIIγ-283 [WS]) is logged as a Subject-Dream manifestation expressing Weight. The Wall formed from the sorrow of people who were separated by exclusion. Held at Zone E, Exile's Gate vicinity. It manifests most strongly near the Exile's Gate.

@@ -224,7 +224,7 @@ Each M.A.W. piece is a conditional extension of Hatred Above, not ordinary equip
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Hatred Above record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Hatred Above (C-IVδ-923 [GH]) is logged as a Hazard-Grudge manifestation expressing Grudge. Held at SECTOR-C-923.
 
@@ -279,7 +279,7 @@ The entity does not rage. It does not weep. It persists — grudge and grudge, p
 
 **Common Name:** Hatred Above
 
-**Containment Status:** Contained — SECTOR-C-923 
+**Containment Status:** Contained — SECTOR-C-923
 
 **Comprehension Level:** 4 — Deep
 

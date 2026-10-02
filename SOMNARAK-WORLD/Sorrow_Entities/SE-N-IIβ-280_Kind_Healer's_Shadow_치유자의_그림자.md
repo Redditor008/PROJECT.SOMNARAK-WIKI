@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Kind Healer's Shadow record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Kind Healer's Shadow (N-IIβ-280 [LS]) is logged as a Subject-Phantasmal manifestation expressing Lament. The Shadow formed from compassion left behind by healers who died. Held at Zone D, Mantle Commons — ambient. It follows the most emotionally wounded person, not always the most visibly injured.

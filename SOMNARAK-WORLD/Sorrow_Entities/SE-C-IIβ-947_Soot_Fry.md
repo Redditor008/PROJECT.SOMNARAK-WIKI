@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Soot Fry record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Soot Fry (C-IIβ-947 [WS]) is logged as a Subject-Body manifestation expressing Weight. The entity is a 2.2 m featureless white Han-crystal fish that rests as a 20 cm black silhouette in a metre-wide Han puddle; it lunges to full size when prey enters the water and drags it under. Contained on-site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and feeding deepens the hunger.

@@ -143,6 +143,16 @@ class TestLabelLinter(unittest.TestCase):
         self.assertIsNotNone(m)
         self.assertEqual(m.group(2), "Tears")
 
+    def test_record_suffix_self_name_caught(self):
+        # Fourth position for the V5-12 pattern: 477 of these decorated the
+        # Relic callouts and the Story Log preamble, which are identical text.
+        self.assertIn("RECORD_SUFFIX_SELF_NAME", self.codes(self.BAD))
+
+    def test_record_suffix_without_self_name_is_ignored(self):
+        m = self.lint.P_RECORD_DECOR.search("(Collector's Row record.)")
+        self.assertIsNotNone(m)
+        self.assertEqual(m.group(1), "Collector's Row")
+
     def test_unknown_label_caught(self):
         self.assertIn("LABEL_NOT_ALLOWED", self.codes(self.BAD))
 

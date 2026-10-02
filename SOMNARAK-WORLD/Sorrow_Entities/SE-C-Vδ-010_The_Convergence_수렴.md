@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Convergence record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Convergence (C-Vδ-010 [WS]) is logged as a Subject-Body — fusion of the Three Birds manifestation expressing Weight. The Convergence is not born from one sorrow. It is the completed shape of witnessing, judgment, and protection without mercy. Held at Forms only when Entities 031–033 breach simultaneously. Formed exactly seven times in recorded history before the current cycle.

@@ -39,10 +39,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Glass Elsewhere.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3, and both valid approaches lower the gauge. This is one of the few rows where a correctly chosen cycle cannot worsen the position.
+- Pressure is void and phantasmal. The breach type is Expansion, so failure spreads influence outward rather than releasing a body.
+- Sustained observation makes the phantasmal pressure legible. Sustained presence settles the void pressure gradually. Neither rewards speed.
+- The surface reflects rooms that no longer exist and the faces of the Fractured. Personnel who recognise someone in it are withdrawn from the row permanently.
+- Yield scales with observation time rather than with the number of cycles, so one long assignment outperforms several short ones.
 
 ## Combat Record
 ### Core Stat Line
@@ -163,7 +164,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Glass Elsewhere record.)
+> **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -279,7 +280,7 @@ Each M.A.W. piece is a conditional extension of Glass Elsewhere, not ordinary eq
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Glass Elsewhere record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Glass Elsewhere (N-IIβ-903 [VO]) is logged as a Object-Phantasmal manifestation expressing Void. Held at SECTOR-N-903.
 
@@ -334,7 +335,7 @@ The entity does not rage. It does not weep. It persists — phantasmal and void,
 
 **Common Name:** Glass Elsewhere
 
-**Containment Status:** Contained — SECTOR-N-903 
+**Containment Status:** Contained — SECTOR-N-903
 
 **Comprehension Level:** 2 — Basic
 

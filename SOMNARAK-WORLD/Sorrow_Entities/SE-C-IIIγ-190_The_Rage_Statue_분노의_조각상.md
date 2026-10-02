@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Rage Statue record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Rage Statue (C-IIIγ-190 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The Statue formed from rage that was never allowed to act. Held at SECTOR-B-01, Zone B. It has never moved physically.

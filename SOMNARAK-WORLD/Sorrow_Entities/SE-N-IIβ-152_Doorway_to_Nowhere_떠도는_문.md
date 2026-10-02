@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Doorway to Nowhere record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Doorway to Nowhere (N-IIβ-152 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The Door formed from people who left home without knowing whether they could return. Held at Zone A, Alpha Tree. It appears near old thresholds and sealed rooms.

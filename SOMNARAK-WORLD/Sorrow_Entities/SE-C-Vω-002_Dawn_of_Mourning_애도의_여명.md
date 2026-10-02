@@ -237,7 +237,7 @@ Dawn of Mourning operates by rules that no other entity follows. It does not hav
 *Stigmas are granted at random by Dawn of Mourning upon a successful work, not manufactured.*
 ## 관찰 기록 (Observation Log)
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Dawn of Mourning record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 | Observation Amount | Log | Method |
 |---|---|---|

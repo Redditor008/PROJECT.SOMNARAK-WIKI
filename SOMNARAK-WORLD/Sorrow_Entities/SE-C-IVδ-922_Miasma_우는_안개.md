@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of Miasma, not ordinary equipment. 
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Miasma record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Miasma (C-IVδ-922 [LH]) is logged as a Hazard-Lament manifestation expressing Lament. Held at SECTOR-C-922.
 
@@ -304,7 +304,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 
 **Common Name:** Miasma
 
-**Containment Status:** Contained — SECTOR-C-922 
+**Containment Status:** Contained — SECTOR-C-922
 
 **Comprehension Level:** 4 — Deep
 

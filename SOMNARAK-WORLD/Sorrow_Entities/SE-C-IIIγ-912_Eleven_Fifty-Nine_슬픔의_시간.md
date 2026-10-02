@@ -224,7 +224,7 @@ Each M.A.W. piece is a conditional extension of Eleven Fifty-Nine, not ordinary 
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Eleven Fifty-Nine record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Eleven Fifty-Nine (C-IIIγ-912 [LT]) is logged as a Time-Lament manifestation expressing Lament. Held at SECTOR-C-912.
 
@@ -279,7 +279,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 
 **Common Name:** Eleven Fifty-Nine
 
-**Containment Status:** Contained — SECTOR-C-912 
+**Containment Status:** Contained — SECTOR-C-912
 
 **Comprehension Level:** 3 — Advanced
 

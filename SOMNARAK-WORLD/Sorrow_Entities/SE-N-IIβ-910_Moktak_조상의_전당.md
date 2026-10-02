@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Moktak.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3, with both valid approaches lowering the gauge. The hall rewards patience rather than intervention.
+- Pressure combines weight and spirit, and the breach type is Expansion; influence spreads beyond the hall rather than anything leaving it.
+- Observation makes the spirit pressure legible. Presence settles the weight pressure, but only if the worker remains through the full dusk interval.
+- The figures appear only at dusk and resume conversations that ended centuries ago. Work scheduled outside that window records no activity and no gauge movement.
+- Yield is available only during the dusk manifestation, which caps extraction at one cycle per day regardless of staffing.
 
 ## Combat Record
 ### Core Stat Line
@@ -223,7 +224,7 @@ Each M.A.W. piece is a conditional extension of Moktak, not ordinary equipment. 
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Moktak record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Moktak (N-IIβ-910 [WP]) is logged as a Place-Spirit manifestation expressing Weight. Held at SECTOR-N-910.
 
@@ -278,7 +279,7 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 
 **Common Name:** Moktak
 
-**Containment Status:** Contained — SECTOR-N-910 
+**Containment Status:** Contained — SECTOR-N-910
 
 **Comprehension Level:** 2 — Basic
 

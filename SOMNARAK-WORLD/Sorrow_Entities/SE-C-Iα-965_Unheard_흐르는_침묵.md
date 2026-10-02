@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Unheard record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Unheard (C-Iα-965 [N]) is logged as a Subject-Weight manifestation expressing Grudge. The entity formed from a city that stopped listening to its own final words. Held at Zone C, Collector's Row. The entity is the final entry in the Codex's current sequence.

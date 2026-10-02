@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Carrying Nothing record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Carrying Nothing (C-IIβ-357 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The entity formed from a burden that was removed without being resolved. Held at Zone A, Alpha Tree vault. It stands near sealed archives and forgotten vaults.

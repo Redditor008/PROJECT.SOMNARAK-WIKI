@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Bridge to Nowhere record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Bridge to Nowhere (C-IVδ-260 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Bridge formed from a remembered crossing. Held at Zone D, Echo Gardens. The Bridge sings during formation.

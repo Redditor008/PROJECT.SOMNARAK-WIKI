@@ -224,7 +224,7 @@ Each M.A.W. piece is a conditional extension of Sorrow Mass, not ordinary equipm
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Sorrow Mass record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Sorrow Mass (C-Vω-925 [WH]) is logged as a Hazard-Weight manifestation expressing Weight. Held at SECTOR-C-925.
 

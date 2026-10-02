@@ -135,7 +135,7 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (The Last Warmth of Forty-Two record.)
+> **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
 
@@ -190,7 +190,7 @@ The escalation pattern is specific to The Last Warmth of Forty-Two: it is not a 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Glacial Outrider Lance
@@ -277,7 +277,7 @@ Equipment derived from this relic embodies supreme collective solidarity. It bec
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Last Warmth of Forty-Two record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Discovered in the wreckage of an Outrider Crawler in the Sector 09 Glacial Rift, held within the calcified gauntlets of Captain Yeon-Woo. Thermal cameras revealed the vial remained at a steady 36.5 degrees Celsius despite being surrounded by minus sixty-degree ice.

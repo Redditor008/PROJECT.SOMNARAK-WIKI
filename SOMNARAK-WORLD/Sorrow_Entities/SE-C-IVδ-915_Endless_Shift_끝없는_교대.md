@@ -226,7 +226,7 @@ Each M.A.W. piece is a conditional extension of Endless Shift, not ordinary equi
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Endless Shift record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Endless Shift (C-IVδ-915 [WT]) is logged as a Time-Weight manifestation expressing Weight. Held at SECTOR-C-915.
 
@@ -281,7 +281,7 @@ The entity does not rage. It does not weep. It persists — weight and weight, p
 
 **Common Name:** Endless Shift
 
-**Containment Status:** Contained — SECTOR-C-915 
+**Containment Status:** Contained — SECTOR-C-915
 
 **Comprehension Level:** 4 — Deep
 

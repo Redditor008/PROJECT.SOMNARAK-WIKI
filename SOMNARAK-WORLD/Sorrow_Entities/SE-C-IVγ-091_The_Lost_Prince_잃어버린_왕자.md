@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Lost Prince record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Lost Prince (C-IVγ-091 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Prince formed from abandonment. Held at SECTOR-D-02, Echo Gardens — contained. The Prince asks the same questions to every visitor.

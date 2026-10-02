@@ -14,5 +14,8 @@
 |---|---|---|
 | **Flerehan (Bad Label Tag)** | Softens. | Decrease |
 
+> **This Relic can Benefit the Facility** (Bad Label Tag record.)
+
+
 
 Decorated callout header.

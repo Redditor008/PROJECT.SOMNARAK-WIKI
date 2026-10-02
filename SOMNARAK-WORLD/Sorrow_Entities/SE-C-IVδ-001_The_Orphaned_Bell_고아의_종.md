@@ -220,7 +220,7 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (The Orphaned Bell record.)
+> **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
@@ -375,7 +375,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Orphaned Bell record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Orphaned Bell (C-IVδ-001 [LO]) is logged as a Object-Lament manifestation expressing Lament. The bell formed during the westward expansion of Zone B. Hundreds of children were displaced: some were lost, some forgotten, and some vanished in the chaos. The collective grief of parents who never found them crystallized into the bell. Held at SECTOR-B-01 — special tower in Zone B; contained. First Sorrow Entity formally classified by the R.D. as IV-δ-001.

@@ -293,7 +293,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Homeless Sorrow record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Homeless Sorrow (O-IIβ-119 [VP]) is logged as a Place-Grudge manifestation expressing Void. The Shadow formed from sorrow that had nowhere to settle. Held at Zone B, Old Lament. The Shadow is strongest in abandoned rooms.

@@ -246,7 +246,7 @@ Each M.A.W. piece is a conditional extension of Weighted Silence, not ordinary e
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Weighted Silence record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Weighted Silence (O-IIIγ-924 [VH]) is logged as a Hazard-Void manifestation expressing Void. Held at SECTOR-O-924.
 
@@ -301,7 +301,7 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 
 **Common Name:** Weighted Silence
 
-**Containment Status:** Contained — SECTOR-O-924 
+**Containment Status:** Contained — SECTOR-O-924
 
 **Comprehension Level:** 3 — Advanced
 

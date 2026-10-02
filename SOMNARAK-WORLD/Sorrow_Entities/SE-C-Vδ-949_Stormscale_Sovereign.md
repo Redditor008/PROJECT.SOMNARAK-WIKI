@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Stormscale Sovereign record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 The Stormscale Sovereign (C-Vδ-949 [MS]) is logged as a Subject-Spirit manifestation expressing Mixed (all four sorrows). The entity is the transformation-apex of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948): a vast black-and-white flood dragon, manifest once in the historical record, currently Latent. It is held non-manifest solely by the enforced separation of its two halves. Reunion is forbidden.

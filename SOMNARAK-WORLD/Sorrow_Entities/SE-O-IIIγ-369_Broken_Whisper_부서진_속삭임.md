@@ -149,9 +149,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Broken Whisper record.)
-> **This Relic is Capable of Operative Alteration** (Broken Whisper record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Broken Whisper record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Holding the object and speaking a name into it.
 
@@ -297,7 +297,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Broken Whisper record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Broken Whisper (O-IIIγ-369 [LO]) is logged as a Object-Weight manifestation expressing Lament. The object formed from words interrupted before they could be heard. Held at Zone B, deep tunnels. The object floats along underground sorrow currents.

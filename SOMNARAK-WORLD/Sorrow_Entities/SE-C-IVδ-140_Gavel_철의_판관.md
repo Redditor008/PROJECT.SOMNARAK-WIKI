@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Gavel record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Gavel (C-IVδ-140 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Judge formed from the sorrow of people subjected to impartial systems that were never truly fair. Held at SECTOR-C-01, Collector's Row. It watches without visible eyes.

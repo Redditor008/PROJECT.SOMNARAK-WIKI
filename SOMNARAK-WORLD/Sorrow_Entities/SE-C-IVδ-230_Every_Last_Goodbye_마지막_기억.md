@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Every Last Goodbye record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Every Last Goodbye (C-IVδ-230 [VS]) is logged as a Subject-Void manifestation expressing Void. The entity formed from final moments that had no witness. Held at SECTOR-A-01, Alpha Tree deep vault. It holds every recorded death and many unrecorded ones.

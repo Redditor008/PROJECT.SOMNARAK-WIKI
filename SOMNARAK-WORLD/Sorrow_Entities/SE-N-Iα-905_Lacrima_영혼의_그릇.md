@@ -165,9 +165,9 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Lacrima record.)
-> **This Relic is Capable of Operative Alteration** (Lacrima record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Lacrima record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Physical contact and intentional interaction.
 
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of Lacrima, not ordinary equipment.
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Lacrima record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Lacrima (N-Iα-905 [VO]) is logged as a Object-Spirit manifestation expressing Void. Held at SECTOR-N-905.
 
@@ -361,7 +361,7 @@ The entity does not rage. It does not weep. It persists — spirit and void, pat
 
 **Common Name:** Lacrima
 
-**Containment Status:** Contained — SECTOR-N-905 
+**Containment Status:** Contained — SECTOR-N-905
 
 **Comprehension Level:** 1 — Trace
 

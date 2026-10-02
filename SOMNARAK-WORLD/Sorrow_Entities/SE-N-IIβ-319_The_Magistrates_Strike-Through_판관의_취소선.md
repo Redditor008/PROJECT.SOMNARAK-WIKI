@@ -136,7 +136,7 @@ Operatives assigned to Ferrehan must wear silk-lined gloves. If bare skin contac
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (The Magistrates Strike-Through record.)
+> **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
 
@@ -191,7 +191,7 @@ The escalation pattern is specific to The Magistrate's Strike-Through: it is not
 **Activation reporting order (The Magistrate's Strike-Through):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.  
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 > *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
 
 ### M.A.W. Weapon — The Nullifying Stylus
@@ -278,7 +278,7 @@ M.A.W. drawn from this entity embodies bureaucratic erasure. It protects by maki
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (The Magistrates Strike-Through record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Recovered from the High Magistrate's private chambers on Floor 6, sealed within a cedar box marked with the wax crest of the Cancelled Registry. The mineral exhibits zero radiometric decay and actively absorbs ambient acoustic waves.

@@ -225,7 +225,7 @@ Each M.A.W. piece is a conditional extension of Amnesia, not ordinary equipment.
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Amnesia record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Amnesia (O-IIβ-914 [VT]) is logged as a Time-Void manifestation expressing Void. Held at SECTOR-O-914.
 
@@ -280,7 +280,7 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 
 **Common Name:** Amnesia
 
-**Containment Status:** Contained — SECTOR-O-914 
+**Containment Status:** Contained — SECTOR-O-914
 
 **Comprehension Level:** 2 — Basic
 

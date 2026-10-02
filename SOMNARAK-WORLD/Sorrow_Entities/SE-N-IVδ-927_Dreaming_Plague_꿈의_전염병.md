@@ -246,7 +246,7 @@ Each M.A.W. piece is a conditional extension of Dreaming Plague, not ordinary eq
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Dreaming Plague record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Dreaming Plague (N-IVδ-927 [VH]) is logged as a Hazard-Dream manifestation expressing Void. Held at SECTOR-N-927.
 
@@ -301,7 +301,7 @@ The entity does not rage. It does not weep. It persists — dream and void, pati
 
 **Common Name:** Dreaming Plague
 
-**Containment Status:** Contained — SECTOR-N-927 
+**Containment Status:** Contained — SECTOR-N-927
 
 **Comprehension Level:** 4 — Deep
 

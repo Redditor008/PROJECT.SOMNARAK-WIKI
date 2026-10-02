@@ -224,7 +224,7 @@ Each M.A.W. piece is a conditional extension of Breathing Stone, not ordinary eq
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Breathing Stone record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Breathing Stone (C-IVδ-907 [WP]) is logged as a Place-Body manifestation expressing Weight. Held at SECTOR-C-907.
 
@@ -279,7 +279,7 @@ The entity does not rage. It does not weep. It persists — body and weight, pat
 
 **Common Name:** Breathing Stone
 
-**Containment Status:** Contained — SECTOR-C-907 
+**Containment Status:** Contained — SECTOR-C-907
 
 **Comprehension Level:** 4 — Deep
 

@@ -150,9 +150,9 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Pall record.)
-> **This Relic is Capable of Operative Alteration** (Pall record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Pall record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Placing the Veil over the face.
 
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Pall record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Pall (C-IIβ-280 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Veil formed from sorrow people used to hide their tears. Held at Zone D, Echo Gardens. It becomes heavier near unexpressed grief.

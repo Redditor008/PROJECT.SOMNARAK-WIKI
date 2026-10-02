@@ -150,9 +150,9 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility** (Chain of Memories record.)
-> **This Relic is Capable of Operative Alteration** (Chain of Memories record.)
-> **This Relic Extracts Personal Resilience upon Extended Use** (Chain of Memories record.)
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
 **Activation Trigger:** Touching a link while naming its owner.
 
@@ -296,7 +296,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Chain of Memories record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Chain of Memories (N-IIIβ-200 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Chain formed from memories passed through families and communities. Held at SECTOR-C-01, Collector's Row. The Chain grows when a memory is deliberately preserved.

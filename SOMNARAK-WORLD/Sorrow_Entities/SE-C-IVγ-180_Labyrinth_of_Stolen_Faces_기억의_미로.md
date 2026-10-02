@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Labyrinth of Stolen Faces record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Labyrinth of Stolen Faces (C-IVγ-180 [VP]) is logged as a Place-Void manifestation expressing Void. The Maze formed from confusion between memory, dream, and reality. Held at SECTOR-B-02, beneath Old Lament. Walls are made from memories rather than stone.

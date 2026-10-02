@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of Lethe, not ordinary equipment. T
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Lethe record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Lethe (C-IIIγ-928 [VH]) is logged as a Hazard-Mind manifestation expressing Void. Held at SECTOR-C-928.
 
@@ -306,7 +306,7 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 
 **Common Name:** Lethe
 
-**Containment Status:** Contained — SECTOR-C-928 
+**Containment Status:** Contained — SECTOR-C-928
 
 **Comprehension Level:** 3 — Advanced
 

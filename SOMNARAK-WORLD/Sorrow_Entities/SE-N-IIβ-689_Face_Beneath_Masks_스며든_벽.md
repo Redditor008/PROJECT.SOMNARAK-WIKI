@@ -38,10 +38,11 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Face Beneath Masks.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Threshold 3. Each failed cycle thickens the wall, and the third produces a Transform-class breach rather than an escape.
+- Pressure is identity-class and has no physical surface; the entity blocks memories rather than corridors.
+- Allowing a feeling through cracks it open and lowers the gauge. Confrontation thickens it, which is why aggression is barred on this row.
+- Workers are screened for undisclosed grief before assignment. The entity spreads along whatever the worker is hiding, and a concealed boundary gives it purchase.
+- Yield is recovered from the memories it releases when it cracks, so cycles that end with the wall intact return nothing.
 
 ## Combat Record
 ### Core Stat Line
@@ -263,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
-> Progressive declassified records. Each entry unlocks at a higher Comprehension Level. (Face Beneath Masks record.)
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
 Face Beneath Masks (N-IIβ-689 [VS]) is logged as a Subject-Mind manifestation expressing Void. The Wall formed from a person's need to hide from everyone, including the self. Held at Zone C, Mask Market. It spreads through shared identity anxiety.
