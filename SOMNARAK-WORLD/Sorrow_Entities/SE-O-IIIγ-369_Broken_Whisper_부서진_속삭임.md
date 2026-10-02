@@ -39,10 +39,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Broken Whisper.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A successful cycle settles the fragments and shortens the whispering for a time. Nothing is completed by it. The sentences were cut off in the tunnels and they stay cut off; a cycle that appears to have finished one has produced a finding, not a result.
+- No count is listed for this holding and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire activation mechanism, and the figure here is 75%; where a count does exist in the archive it runs down with failed cycles on any role at all — Subject, Object, Place or Relic — and this file has none to run.
+- The 16–22 Han-Energy yield is average for the band and the exposure is unusual in kind rather than in degree. What this holding costs is recall: operators leave with somebody else's last words in their memory, filed by their own mind as something they themselves once said.
+- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. The source is a shattered object and extraction takes a shard of it, which means every piece in this set is itself a fragment of something interrupted and behaves accordingly.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Broken Whisper's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **Tension:** The team logs the object's position against the tunnel current map, notes that the two will not agree, and sets the transcription order before approaching — who writes, who times, who says nothing. Nobody speaks a name within hearing of it during this phase, including their own.
+2. **Clash:** Viderehan and Ferrehan are worked while the fragments come, and the transcription rule holds throughout: each fragment is written as heard, on its own line, and nothing is joined to anything. The gauge is read against the transcript rather than against the room, since this entity's agitation shows up as fragments arriving faster than they can be written down separately.
+3. **Resolution:** The cycle closes when the Sorrow Gauge falls below 25% and the transcript has been filed as a list with its breaks intact — which on this holding means the team left without having made sense of anything.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- Broken Whisper’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Broken Whisper's dossier.
+- The effects compound with duration, and the compounding is quiet. The longer a worker listens the more strongly the fragments cohere in their head, until half-words they transcribed separately have become, without any decision being taken, a single remembered sentence. Nobody reports this, because by then it does not feel like a symptom. It feels like having understood.
+- Each M.A.W. activation debits the wielder past what the grade ledger records. The pieces drawn from this source take composure, recollection and somatic steadiness in the ordinary way, and take one thing besides: the user's confidence about which of the things they remember being told were ever said to them.
+- Without resolution the sorrow does not disperse — it transforms, which is the breach type on the classification. The fragments stop drifting apart and begin arriving in sequence, and personnel in the tunnel find themselves listening to something that is finally making sense, which is the single worst condition this holding can be in.
 
 ## Appearance
 **Physical Form:** A fractured crystal object that emits broken fragments of whispers. It appears to float without purpose in underground Han currents.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
 - **Primary marker:** A fractured crystal object that emits broken fragments of whispers. It appears to float without purpose in underground Han currents.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Drifts in the underground Han currents without apparent direction; log the position against the tunnel current map every cycle and record the discrepancy, which is constant, unexplained, and not to be speculated about in the log.
 - **Element signature:** Lament
 - **Registered location:** Zone B, deep tunnels
 
@@ -116,18 +116,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A fractured crystal object that emits broken fragments of whispers. It appears to float without purpose in underground Han currents. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Drifts in the underground Han currents without apparent direction; log the position against the tunnel current map every cycle and record the discrepancy, which is constant, unexplained, and not to be speculated about in the log. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Identification is not optional and is done against the object, not the sound. The designation, the manifestation and the fracture count must agree before Work begins; the whispers are not an identifying marker and have never been consistent between cycles. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the object and the sound as two separate instruments. For the object: the number of visible fracture planes, the overall dimension across the longest axis, the colour of the light in the fractures, and the position against the current map. For the sound: every fragment transcribed as heard, one to a line, in the order received, with the gaps left as gaps. Fragments are never joined, never punctuated into sentences, and never marked with an editorial symbol to indicate where they broke — the break is the record, and the instruction exists because an early Warden once joined them in good faith and produced something that read as a single voice. Note also which fragments carried a name and whether the name belongs to anyone on the station rolls. Do not write 'eerie'. Write the half-word.
 
 ## Origin
 - **Formation:** The object formed from words interrupted before they could be heard.
 - **The Sorrow:** The burden of unfinished pleas and voices broken by fear.
 - **The Event:** Messages from the deep tunnels were silenced by collapse and Han pressure. Their fragments crystallized into the object.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Whoever was sending from the deep tunnels when the rock came down, and the operators at the receiving stations who logged the loss of signal in the ordinary way and then worked their watches to the end. The senders cannot be named; the fragments are appeals rather than reports and carry no identifying detail. The operators can be, in most cases, from the surviving shift books, and they are listed at the back of the commissioning file.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Broken Whisper is recorded as an Object/Place with Object-Weight manifestation and Lament elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Read it in the transcript. A falling gauge presents as spacing — longer gaps between fragments, fewer overlapping voices, the whispering retreating toward the crystal. The pressure is absorbed and the source is untouched; the sentences are no nearer finishing than they were. A rising gauge presents as coherence. Fragments begin arriving in a plausible order, the half-words start completing each other, and the transcriber finds the work getting easier. That is the warning and it arrives disguised as progress. If the entity does something the file does not record, write it down before discussing it with anybody, because this is the one holding where comparing notes verbally is itself an intervention — two people agreeing on what they heard will produce a sentence neither of them transcribed.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -173,7 +173,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
 | **Risk** | The listener may mistake another person's final words for their own memory. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic answers only while it is held, and it answers only to a name spoken into it. It does not replace scheduled work; containment remains Viderehan and Ferrehan. One standing restriction applies to the activation itself: the name spoken must belong to someone the operator is not grieving, which is checked before issue and is the reason the issue is logged rather than merely authorised.
 
 ### Log and Method
 
@@ -188,7 +188,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 The escalation pattern is specific to Broken Whisper: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish the perimeter at the transcription distance, then verify whether the event is an activation, a channel surge, or an expansion, and clear unshielded personnel from the tunnel in the direction the current is running. Enforce the recorded protocol, and enforce the transcription rule with it: during an event the fragments arrive faster and the temptation to summarise is strongest, and a summary made under pressure is the single most common way this holding has escalated. No unlisted Work Type is improvised. Nothing is spoken into the object by anyone during a response.
 
 ### Detailed Activation Record
 
@@ -201,7 +201,7 @@ The escalation pattern is specific to Broken Whisper: it is not a generic breach
 | **Risk** | Major (γ) Object-Weight producing Lament pressure; The listener may mistake another person's final words for their own memory. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** name spoken → who spoke it and in what relation to them → first visible change in the fractures → the message returned, transcribed whole and attributed to nobody → duration until understood or forgotten → management condition. The fourth field carries a standing caution printed beside it: a complete emotional message from this object is still somebody's last words, and the listener's mind will file it as a memory of their own unless the attribution line is written at the time. Viderehan and Ferrehan remain the only valid Work Types.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -220,9 +220,9 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Broken Whisper's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — composure, willpower, and the ability to leave a thing unfinished. The strike carries the source's signature, and targets report hearing the beginning of a sentence at the moment of impact.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the grief of an appeal that was never heard. Prolonged use causes involuntary weeping, typically mid-sentence and typically while making a routine report.
 
 ### M.A.W. Suit — Broken Whisper's Shroud
 
@@ -238,9 +238,9 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Broken Whisper's kind of pressure.
+**Ability:** Grants resistance to Lament pressure, shielding the Mind against the particular weight of interruption. It does not shield against the content of what is heard, which arrives as speech rather than as pressure and is unaffected by any resistance rating.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small joys, and finds conversation effortful in a specific way: they stop finishing their own sentences, and stop noticing that they have stopped.
 
 ### M.A.W. Stigma — Broken Whisper's Bell
 
@@ -250,17 +250,17 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat while this piece's source entity is the subject of the cycle, and nothing at all on any other holding
 
 **Ability:** Carries a spoken message through walls and tunnels.
 
 **Cost:** The wearer loses the ability to hear ordinary whispers for a time.
 
-*Stigmas are granted at random by Broken Whisper upon a successful work, not manufactured.*
+*A Stigma from this source is given, never made. It emerges during a successful cycle at the entity's own disposition, unbidden and unrepeatable, and no procedure or stated probability obliges it.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Broken Whisper's element. No protocol produces Stigmas. They emerge from Broken Whisper's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; used against its grain the cost arrives immediately and personally, and the sorrow carried in the piece can wake — which on this set presents as half-heard speech at the edge of hearing and the certainty that someone was about to say something. No protocol produces a Stigma. They emerge from the source's own disposition during a cycle, unbidden and unrepeatable.
 
 ### Field Use Record
 
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are separate axes and the grade only measures the first. An efficient piece from this source can still leave its wielder Fractured, hollowed, or carrying a stranger's last words as a private recollection. Read both columns, and authorise on the second.
 
 ## 관찰 기록 (Observation Log)
 
@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Holding the object and speaking a name into it. Effect: Returns one broken whisper as a complete emotional message. Duration: The message lasts until understood or forgotten. Risk: The listener may mistake another person's final words for their own memory. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Broken Whisper's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Observe with one transcriber, one timekeeper, and nobody conferring. Record the first audible fragment, the first emotional response and what prompted it, the first measurable change in the tunnel, and the condition that ended the watch. The entity's appearance is its history made visible rather than a forecast of behaviour: a shattered crystal full of half-sentences is what an unheard appeal looks like once it has set, and it predicts nothing. The examination of the fragments for operational detail about the collapse has been done and yielded none — the voices were not reporting anything, they were asking for something — and that finding is kept at the front of the file so that no observer repeats the exercise expecting a different result.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -302,10 +302,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Whisper (O-IIIγ-369 [LO]) is logged as a Object-Weight manifestation expressing Lament. The object formed from words interrupted before they could be heard. Held at Zone B, deep tunnels. The object floats along underground sorrow currents.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Deep Tunnel Transcription Log, Year 4238>**
 No complete message has been recovered without human interpretation.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counselor's Note on Borrowed Last Words>**
 The burden of unfinished pleas and voices broken by fear.
 
 **Entry 4 — <Containment Notice>**
@@ -341,12 +341,12 @@ The tunnel is full of almost-words. A syllable touches your ear, breaks, and fal
 
 Broken Whisper does not exist in isolation. Its recorded relationships with The Hollow Choir, The Whispering Walls, The Orphaned Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Solo baselines first; without them an interaction study here is two transcripts and a hypothesis. The relations on file all concern voices that were stopped or never arrived, so the question to settle is whether the fragments begin to complete each other across the pair — whether a half-word from this object is finished by the other presence, and whether the transcript starts reading as dialogue. Log the activating distance, duration, gauge change on both sides, operational impact, and whether separation ends it. Each interaction is a fresh experiment: identical conditions in this tunnel have produced different results in consecutive cycles.
 
 
 ### Entity Interaction Record
 
-Broken Whisper must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Broken Whisper must be assessed as one of a group of sorrows made from speech that did not arrive, rather than as a solitary object drifting in the deep tunnels. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that only shows under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -354,7 +354,7 @@ Broken Whisper must be assessed as part of an entity network, not as an isolated
 | **The Whispering Walls** | The Walls repeat its broken fragments. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Orphaned Bell** | Resonates when a fragment contains a child's name. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring them into range along the tunnel rather than across it, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the passage, and whatever persists after separation. The field this holding adds is the transcript comparison: the two fragment lists, kept separate, never interleaved, with the timings against each.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -401,9 +401,9 @@ Some sorrows mourn the dead. Broken Whisper mourns their last words — the mess
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Treat the record as a starting point and the tunnel as the authority, and notice what the whole file is organised around, which is a refusal to finish things. Fragments are not joined. Breaks are not marked. The current discrepancy is recorded and not explained. The signal logs are reproduced with their incomplete lines intact. None of that is fastidiousness; it is the containment measure, and it runs directly against what an archive is for. Every person posted here arrives trained to resolve, collate and summarise, and is required to stop doing so at the one holding where those habits are the hazard. The pressure to produce a readable account of the collapse has come up three times and been declined three times, and the declines are filed together with the drafts that prompted them. Where the entity contradicts this file, trust the entity and log the discrepancy; preserve the contradiction rather than normalising it into something that reads as a single voice.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any transformation, Sorrow Tide, Ordeal, activation, or unusual interaction, verify the four pillars — gauge, seal, personnel, position — and add the two this holding needs: the transcript, checked for joined fragments, and the issue log for any name spoken into the object. Joined fragments are treated as an environmental finding about the pressure in the room, never as carelessness by the transcriber, because the entity's method is to make the joining feel like comprehension. Any operator who has begun recalling a returned message as their own experience is referred to the counselor the same day, and the referral is not a mark against them.
 ## Warden Record
 
 ### Fragments That Never Complete
@@ -433,9 +433,9 @@ What the object holds is appeal rather than information, and the file states thi
 
 - **Classification detail:** Broken Whisper is an Object/Place with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone B, deep tunnels.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the incompleteness. Several things in the deep tunnels whisper; this is the fractured crystal whose fragments never resolve into a sentence and whose drift does not match the current running past it.
+- **Record detail:** Whisper-form and voice-form entities recur throughout the archive and several share this one's element and zone. Confirm the designation and the manifestation before a cycle is booked, because the instructions diverge at exactly the point that matters here — whether what is heard may be written down as continuous speech.
+- **Containment detail:** Sealed does not mean silent, and in a tunnel system it barely means enclosed. The whispers carry further along the passages than the resonance figures predict and are reported as clearer near walls that hold older grief, so the practical boundary of this holding is the geology rather than the door. Personnel working unrelated tasks two junctions away have filed fragments. Those filings are kept with the holding, in list form, like every other.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-369
