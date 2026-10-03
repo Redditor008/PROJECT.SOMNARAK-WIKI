@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Stranded Between Two Shores's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The session is worked from both tunnel mouths at once and never from one. Flerehan weeps with it and lowers the span; Ferrehan holds a worker in place until the sobbing subsides; Pugnahan cracks it and floods the tunnel, and is logged as a failure rather than an option. No part of the work involves getting to the other side.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen between the sobs and name both shores**.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Stranded Between Two Shores reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- The risk does not accumulate with minutes. It accumulates with one-sided working. A team that occupies a single mouth for an hour has sunk the span further than a team that occupies both for a shift, and the depth log is the only record that shows this clearly.
+- The requiem, the shroud and the chain are all made from a crossing that was interrupted at the midpoint. Each activation borrows a measure of that interruption and the operator keeps it. The recorded cost is not grief. It is that the operator begins leaving conversations, journeys and meals at the halfway mark without deciding to.
+- If both shores are not named, the span does not rupture. It descends. Each unresolved session leaves it lower in the tunnel than it was, no recorded intervention has raised it, and the archive's working assumption is that the descent has no floor.
 
 ## Appearance
 **Primary Form:** A weeping bridge-shaped figure descending through the tunnels. Its arches resemble ribs and its surface is wet with crystallized tears.
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A weeping bridge-shaped figure descending through the tunnels. Its arches resemble ribs and its surface is wet with crystallized tears.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Fixed in plan and moving in depth: it occupies the same stretch of tunnel it always has and sits a measurable distance lower each quarter. Record the depth against the tunnel datum at entry and exit. The figure is the entity's state; everything else in this section is description.
 - **Element signature:** Lament
 - **Registered location:** Zone B, deep tunnels
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; the archive holds four bridge-shaped records and the handling differs completely between them. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the arches, which are curved like ribs, and the surface, which is wet with crystallised tears that do not dry at any humidity. Record the span's depth and the width of the gap it arches over — there is no gap; the tunnel floor beneath it is continuous and has been surveyed four times to confirm it.
 
 ## Origin
 - **Formation:** The Bridge formed from crossings interrupted by catastrophe.
 - **The Sorrow:** The grief of journeys ended between one shore and another.
 - **The Event:** A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Families separated mid-crossing by the surge, counted as thirty-one on the near side and twenty-six on the far. The Keepers' record lists both columns and the archive prints the count of both deliberately, since a version of this file that gives one number is the condition the entity is made of.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who couldn't repair. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored. Expanded origin context: The Director's annotation: 'This sorrow is not anomalous. It is representative. The Lament at Zone B, deep tunnels is the same grief, the same refusal, the same wound. The Subject is what happens when the city stops pretending it doesn't hurt.'
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Stranded Between Two Shores is recorded as a Subject with Subject-Lament manifestation and Lament elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** A falling reading under Flerehan or Ferrehan means a worker stayed at one mouth while a colleague stayed at the other and the two of them could hear each other. Stability under Viderehan is correct. The reading rises when the tunnel is worked from one end, when one side's names are read out without the other's, and when anybody attempts the crossing.
 ## Breach Behavior
 
 > *"Stranded Between Two Shores has broken free. Collapses under anyone who crosses."*
@@ -153,17 +153,17 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | Stranded Between Two Shores pulses with concentrated force, cracking the walls around it. It collapses under anyone who crosses. |
+| **Movement** | It does not leave the tunnel and does not pursue. It collapses under anyone who steps onto it, re-forms within the hour, and sits lower afterwards. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Secondary Effect** | Everyone in the tunnel hears voices from the far mouth, and the far mouth hears theirs; neither set of voices belongs to the living teams. |
+| **First Target** | Whoever is standing nearest the midpoint. |
+| **Escalation** | Drain rises by 5 for each further attempt to cross, and does not rise while both mouths are held and nobody moves. |
 
 ### Escalation Notes
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Hold both mouths and send nobody across. Sealing one end is the one measure that has made an incident longer, and the standing order is that a team which cannot staff both ends does not open the tunnel at all.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% each time a worker sets foot on the span — it gives way beneath them by design, and the fall is survivable. It falls 10% for each pair of personnel holding opposite mouths in voice contact, and the single recorded closure was reached without anyone crossing.
 
 ## M.A.W. Equipment
 
@@ -182,13 +182,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A line of up to three, which in this tunnel means a file of people strung out along its length — the formation the work is explicitly arranged to avoid.
+**Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is the specificity of the grief: the third target reports sorrow without a subject.
+**Damage Application:** Record the strike and the pooling separately. The Lament lands once; the weight in the chest continues for the rest of the shift, and reports that give a single figure are understating the recovery time by hours.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Stranded Between Two Shores's lament signature in the strike.
+**Ability:** Lament damage to the mind. The requiem carries the entity's signature — a journey stopped at the midpoint — and what it opens in a target is the certainty that they will not finish whatever they are currently doing.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the entity's unwept grief and weeps involuntarily, most often at the point of arriving somewhere.
 
 ### M.A.W. Suit — The Crossing Shroud
 
@@ -204,9 +204,9 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Stranded Between Two Shores's kind of pressure.
+**Ability:** Turns Lament aside from the mind, which is the only pressure here. The shroud is what allows a worker to hold a tunnel mouth for a full shift while the sobbing continues.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small pleasures and reports arrivals — home, the end of a rotation — as having no particular feeling attached.
 
 ### M.A.W. Stigma — The Crossing Chain
 
@@ -216,13 +216,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to work against this entity, and nothing in the rest of the Zone B tunnel system.
 
 **Ability:** Creates a temporary bridge across physical or emotional gaps.
 
 **Cost:** The wearer feels the grief of everyone who crosses.
 
-*Stigmas are granted at random by Stranded Between Two Shores upon a successful work, not manufactured.*
+*The chain is not manufactured. It is given to a worker who held one mouth while somebody else held the other, and is given to both of them or to neither; there is no record of a single chain being issued.*
 
 ### M.A.W. Use Notes
 
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade tells you how hard a piece hits and nothing this post needs. What the table cannot show is that chains are issued in pairs and that their bearers report hearing the other bearer's breathing at distance for some weeks afterwards, which the medical office has recorded without explaining.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Stranded Between Two Shores's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Record the first sign, which is cold rain-smell in a dry tunnel; the first sensation, which is the need to get to the other end; the depth at entry and exit; whether both mouths were held and by whom; and the condition that ends the encounter, which is both shores named aloud in the same session. Record the names in both columns.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -267,17 +267,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Stranded Between Two Shores (C-IVδ-823 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Bridge formed from crossings interrupted by catastrophe. Held at Zone B, deep tunnels. The Bridge appears in deep tunnels and during heavy Sorrow Tide activity.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Extends through tunnels and appears over emotional gaps. Personnel feel separated from people they love. It carries voices from both sides of a separation.
+**Entry 2 — <Crossing List, Both Columns>**
+Near side, thirty-one names. Far side, twenty-six. The list is reproduced in the Keepers' hand with the two columns side by side and a ruled line between them, and the compiler's note explains the format: the first list made after the surge recorded only the twenty-six, because the twenty-six were the ones nobody could account for and the thirty-one had walked home. It was in use for nine years. The span's recorded descent over those nine years is greater than its descent over the thirty since the second column was added.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of journeys ended between one shore and another.
+**Entry 3 — <Statement of a Worker Who Held the Far Mouth>**
+"You can hear them from your end and I can hear mine, and about forty minutes in you stop being able to tell which voices are the ones you are supposed to be listening for. What I was told to do was keep talking to Hadhi so he could hear me, which felt stupid for the first hour and did not after that. The span came up four centimetres. Nobody told me it could come up. I have read the file twice since and it is not in there, so I am putting it here."
 
 **Entry 4 — <Containment Notice>**
 Management: Listen between the sobs and name both shores. Work response — Flerehan: Weeps with the worker and lowers its span. (Decrease); Pugnahan: The bridge cracks and the tunnel fills with tears. (Increase); Viderehan: Shows the people who tried to cross. (Stable); Ferrehan: Requires the worker to remain while the sobs subside. (Decrease). The tunnel floor becomes wet without measurable liquid.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who couldn't repair. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored. Expanded origin context: The Director's annotation: 'This sorrow is not anomalous. It is representative. The Lament at Zone B, deep tunnels is the same grief, the same refusal, the same wound. The Subject is what happens when the city stops pretending it doesn't hurt.'
+**Entry 5 — <Director's Memo, Eyes Only: On Not Sending Anyone Across>**
+The counter on this record is 1. There is no learning curve available: the first crossing is the breach, and every proposal to test the span under load has been refused on that basis rather than on grounds of risk to the volunteer. What is harder to hold is the rest of it. Two teams, two mouths, a full shift of talking across a tunnel to somebody you cannot reach — it reads as an unproductive use of eight people, and it has been queried in budget review three times. The answer given each time is the depth log, which is the only document in this facility where doing nothing in pairs is visibly better than doing something alone.
 
 **Threat rating:** Low. A bridge that sank mid-crossing, families split. Effect: proximity induces the grief of journeys ended between one shore and another, with the families divided by the crossing, and a sorrow that pools in the chest.
 
@@ -308,12 +308,12 @@ The tunnel opens into a span over darkness. The Bridge weeps from its arches, an
 
 Stranded Between Two Shores does not exist in isolation. Its recorded relationships with I Alone Crossed, The Undersong, The Sorrow River should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Record it alone first and from both mouths, since a single-mouth baseline is not a baseline of this entity. In shared conditions record the depth throughout, whether the voices changed in number, and whether any voice was heard from one end and not the other — the last has happened twice and both occasions preceded a quarter of unusually rapid descent.
 
 
 ### Entity Interaction Record
 
-Stranded Between Two Shores must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+It is filed with the Zone B tunnel records, which between them hold most of what the surge interrupted. The relationships below are what the archive will support. They are not alliances; they are what one collapse left in one stretch of ground, and in proximity each makes the others harder to work from a single side.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -321,7 +321,7 @@ Stranded Between Two Shores must be assessed as part of an entity network, not a
 | **The Undersong** | Carries calls from one shore to the other. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Sorrow River** | Its tears flow toward the underground River. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Both-mouth solo baseline first, then the shared encounter: depth before, during and after, voices counted at each mouth separately, how long the descent rate stayed altered once the other entity withdrew, and whether voice contact between the two teams was maintained throughout. A session in which contact lapsed is logged and discarded.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -367,9 +367,9 @@ Some sorrows mourn arrival. Stranded Between Two Shores mourns the in-between �
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map and the territory is a tunnel with two ends. Every figure here follows from how many of them were occupied. The counter is 1, which means the first crossing is the breach; there is no margin here and no second attempt to learn from.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any breach, any Sorrow Tide, and any quarterly depth survey that shows a descent greater than the preceding quarter — the last unconditionally, with the shift rosters for the quarter attached, since the descent rate has tracked single-mouth working every time it has been checked.
 ## Apex Record
 
 ### The Gap Survey
@@ -411,9 +411,9 @@ Contact with the survivors' association is made once a year by the commander in 
 
 - **Classification detail:** Stranded Between Two Shores is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone B, deep tunnels.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the arches and the water. Several records in these tunnels are described as bridges; this is the one with ribbed arches, a permanently wet surface, and no gap underneath it.
+- **Record detail:** Check the designation before approach. The archive holds four bridge-shaped records and they are managed in four different ways; this is the one worked from both ends at once by two teams who never meet.
+- **Containment detail:** Containment holds the tunnel, not the separation. The span descends between sessions with the tunnel sealed, and the containment reading is the depth against the datum rather than the state of either door.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-823
