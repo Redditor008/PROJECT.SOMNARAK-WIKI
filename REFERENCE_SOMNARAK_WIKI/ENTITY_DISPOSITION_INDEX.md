@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **115** |
-| Pending — no disposition-bearing line found by scan | 188 |
+| **Classified here, with a quoted line of evidence** | **116** |
+| Pending — no disposition-bearing line found by scan | 187 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 115 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 116 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 188 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 187 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -120,6 +120,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Flowing Seed | `SE-N-IIIγ-628` | Neutral | Travels by Alpha Tree roots and plants itself in personnel; weight burden on F01 staff and ground. No recorded effect on the Alpha Tree in four generations and no interaction that suppresses or releases another SE; the Sorrow Seed slows it rather than the reverse. |
 | Life Behind Glass | `SE-N-Iα-518` | Neutral | Holds workers at the pane past the end of their shift (mean 8.8 min and rising) — a cost to F01 rostering only. Cannot be opened, cannot move, and the Memory Rain shortens rather than lengthens its holds; no SE's containment turns on it. |
 | Weight of Silence | `SE-N-IIα-285` | Neutral | Ambient load on F01 personnel in the Mantle Commons (31 outlined per watch, rising); incorporeal, no reach, no recorded injury. Amplifies nothing and suppresses nothing — the Hollow Echo pairing carries speech outward, which assists no entity's containment or breach. |
+| Forgotten Shadow | `SE-N-IIβ-453` | Neutral | Follows one F01 worker at a fixed distance and drains composure while it does; no injury on record and it settles when the worker is rotated out. The Wandering Trace extends its song, which assists no breach; it neither suppresses nor releases any other SE. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |

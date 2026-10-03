@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | β — Sabre, Shroud and Song all graded |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan, sung, for as long as the verse lasts; Ferrehan to walk beside it. Pugnahan is available against a Subject and is barred here: it makes the entity heavier and it follows. |
 
 ### Operational Notes
 
@@ -72,7 +72,7 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | The Desolate — mobile |
-| **Resolution Condition** | Walk beside it and record what it shows |
+| **Resolution Condition** | A worker walks its route beside it, to the end of the disused way, without naming it and without claiming to know who it was. Nothing taken from it has ever reduced the shade; walking has. |
 
 ### Combat Actions
 
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Forgotten Shadow's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The worker walks beside it and sings, or does not sing and keeps walking. Nobody blocks its route, nobody names it, and nobody stands between it and the disused way it is following.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Walk beside it and record what it shows**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Forgotten Shadow's dossier.
 
 ## Appearance
-**Primary Form:** A humanoid shadow that sings softly while moving through the Desolate. It has no face, but understands anyone who watches it.
+**Primary Form:** A faceless humanoid shadow walking the Desolate at an even pace, singing something that is understood rather than heard. **Movement:** Mobile on disused ways only; it follows, at a fixed distance, and has never been recorded closing on anybody.
 
-**Notable Features:** It grows darker near forgotten people, follows abandoned paths, and sings without producing ordinary sound.
+**Notable Features:** It deepens in colour near people nobody is holding in mind, graded against a nine-step card; it keeps to ways nobody maintains; and its singing is understood rather than heard.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Weight
-- **Primary marker:** A humanoid shadow that sings softly while moving through the Desolate. It has no face, but understands anyone who watches it.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** A faceless shadow at walking pace on a way nobody maintains, deepening in colour as it passes people nobody is holding in mind.
+- **Position / movement:** Mobile and unenclosed. It walks the Desolate on routes nobody maintains, and its track is plotted against a survey of disused ways assembled from several sources because no current map shows them.
 - **Element signature:** Lament
 - **Registered location:** The Desolate — mobile
 
@@ -117,27 +117,27 @@
 |---|---|
 | **Form** | A humanoid shadow that sings softly while moving through the Desolate. It has no face, but understands anyone who watches it. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Material / signature** | Lament. Salt-damp, cold rain, and a depth of shade that reads on the card and on nothing else. |
+| **Distinctive markers** | Shade grade against the card, position against the disused-ways survey, and whether singing occurred and for how long. |
+| **Identification** | If it is on a maintained road, it is not this entity. It has never once been recorded on one. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Card grade, survey position, duration of singing. There is no field for melody or words; the field existed and was removed after entries in it became descriptions of music the Wardens already knew.
 
 ## Origin
-- **Formation:** The Shadow formed from a person forgotten while still alive.
-- **The Sorrow:** The weight of being overlooked until existence becomes uncertain.
-- **The Event:** A Desolate wanderer vanished from every settlement record; only the shadow of their route remained.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored. Expanded origin context: Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around The Desolate — until the Lament was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
+- **Formation:** From a man who was never entered anywhere, under rules that were right not to enter him.
+- **The Sorrow:** Not erasure. Never having been written down in the first place, by institutions that keep excellent records and were correct not to keep his.
+- **The Event:** Four settlements crossed, four complete registers, no arrival and no departure in any of them, and a route that is still being walked.
+- **The People:** One wanderer, never named in any surviving document, who crossed four settlements that all keep registers and appears in none of them — no arrival, no departure, no entry of any kind.
+- **Expanded origin context:** The commissioning file holds the four settlement registers, bound together, with the absences marked. They are not damaged and nothing has been struck out of them. Each is complete for its period and each simply has no line for him, because none of those settlements recorded anybody who did not ask them for something, and he never did. The archivist's note observes that the shadow's track passes through all four places, and that the registers and the track cannot both be wrong.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Moves closer and sings a softer verse. | Decrease |
-| **Pugnahan** | Grows heavy and follows aggressively. | Increase |
-| **Viderehan** | Reveals the route and people who forgot it. | Stable |
-| **Ferrehan** | Tests whether the worker can walk beside it without naming it falsely. | Decrease |
+| **Flerehan** | It closes and the verse softens. Yield runs with the length of the sung verse and not with the number of cycles. | Decrease |
+| **Pugnahan** | Barred. It goes heavy and follows, and a shadow that has begun following cannot be settled during the same shift. | Increase |
+| **Viderehan** | Shows the route and who was along it. The gradings are logged without naming anybody, and no exception has ever been granted. | Stable |
+| **Ferrehan** | Walking its whole route beside it without naming it and without claiming to know who it was. | Decrease |
 
 
 
@@ -148,22 +148,22 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
 ## Breach Behavior
 
-> *"Forgotten Shadow has broken free. Stalks personnel from their own shadows."*
+> *"It is off the survey and walking the Mantle road behind Oren. It has not come nearer than nine metres in two hours. Rotate him out."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Forgotten Shadow shatters containment and hunts through the facility. It stalks personnel from their own shadows. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Movement** | It leaves the disused ways and walks into occupied districts at a steady pace, behind one worker at a fixed distance. It does not close, conceal itself, or move at night more than by day. |
+| **Effect** | The followed worker reports certainty that they have forgotten something important and cannot say what. Composure falls for as long as the following continues. |
+| **Secondary Effect** | The silent song, understood by everybody within sight of it and recordable by nothing. |
+| **First Target** | Whoever last failed a cycle on it. It has never selected a second worker while still following the first. |
+| **Escalation** | Pressure rises for as long as the following lasts and ends when the worker is withdrawn. It has never pursued a replacement. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape. It leaves the surveyed routes and walks into occupied districts. It follows; it has never struck, cornered or ambushed anybody, and the older line describing it as stalking personnel from their own shadows was not supported by any incident in the file.
+- **Containment priority:** Do not block the route and do not force it back; Pugnahan is barred and the bar is the whole of the doctrine here. Withdraw the followed worker, clear the way ahead of it, and let it settle.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn while it is still following somebody. Rotating the followed worker out ends it; the entity settles within the shift on its own and has never pursued the replacement.
 
 ## M.A.W. Equipment
 
@@ -209,13 +209,13 @@ The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work on this holding. The song is carried as a token at the throat and is said to be warm in districts where the Day Tokens go unpresented, which is not an instrumented claim and is recorded as hearsay.
 
 **Ability:** Allows the wearer to perceive people or places erased from ordinary awareness.
 
 **Cost:** The wearer becomes easier for others to forget.
 
-*Stigmas are granted at random by Forgotten Shadow upon a successful work, not manufactured.*
+*Fourteen songs exist. The file notes that every holder was granted one after a cycle in which they sang badly and kept going, and declines to draw a conclusion from it.*
 
 ### M.A.W. Use Notes
 
@@ -236,11 +236,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- Its song cannot be recorded by ordinary equipment.
-- It becomes clearer when someone admits they do not know its name.
-- It never follows a maintained road.
+- The song registers on no equipment the wing holds. It is understood rather than heard, and the Warden logs only whether it occurred and for how long.
+- It becomes more distinct to anybody who says aloud that they do not know who it was. Claiming to know has never once produced the same effect.
+- It has never been recorded on a maintained road in eleven years of plotting.
 
-**Personnel Note:** *"It was singing. I felt fear. The song sounded like someone proving they had once been there."* — Specialist, Zone B patrol
+**Personnel Note:** *"Shade 5.6, worst I have graded. I walked the old cart way beside it for four hours and sang what I could remember, and I said out loud that I did not know his name, which is true and is the only thing I could give him. It went clearer when I said it. That is in the file as a procedure now, and it felt nothing like a procedure."* — Warden, the Desolate
 
 
 
@@ -248,30 +248,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Forgotten Shadow as a Subject with Subject-Weight manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at The Desolate — mobile. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Forgotten Shadow's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Grade the shade against the card, fix the position on the disused-ways survey, and note the time singing began. |
+| **Sustained observation** | Walk the route. Grade at each half-hour and record nobody's name, including the names of people the entity darkens beside. |
+| **Activation or escalation** | A grade above the quarterly mean, or the track leaving the survey. Clear the way ahead, withdraw the followed worker, and do not interpose. |
+| **Post-contact review** | Card grades, survey track, singing duration, and whether the worker was followed off the route. No field asks who was near it, and no reviewer may add one. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Card, survey, duration. Three fields, deliberately, so that this holding never becomes a record of who in the district has been forgotten.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Shadow (N-IIβ-453 [LS]) is logged as a Subject-Weight manifestation expressing Lament. The Shadow formed from a person forgotten while still alive. Held at The Desolate — mobile. Its song cannot be recorded by ordinary equipment.
+Forgotten Shadow (N-IIβ-453 [LS]) is logged as a Subject-Weight manifestation expressing Lament, unenclosed and mobile in the Desolate. It keeps to ways nobody maintains, it deepens in colour near people nobody holds in mind, and it sings in a way that is understood and cannot be recorded.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Shade Card Readings, Year 4238>**
+Mean shade 5.6 on the nine-step card across the watch, against 4.4 and 3.1 in the two preceding years. Depth is graded against the card and logged without naming anybody in the vicinity, which is a standing provision of this holding.
 Wanders through the Desolate along abandoned routes. Personnel feel the weight of being forgotten. It becomes clearer when someone admits they do not know its name.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Gate Office Correspondence>**
+The office confirms that this Company keeps no register of persons who are not employees, that the gate book was abolished for cause, and that in consequence it cannot say who has worked on its premises or how often, and does not wish to be able to.
 The weight of being overlooked until existence becomes uncertain.
 
 **Entry 4 — <Containment Notice>**
-Management: Walk beside it and record what it shows. Work response — Flerehan: Moves closer and sings a softer verse. (Decrease); Pugnahan: Grows heavy and follows aggressively. (Increase); Viderehan: Reveals the route and people who forgot it. (Stable); Ferrehan: Tests whether the worker can walk beside it without naming it falsely. (Decrease). It never follows a maintained road.
+Management: walk its route beside it, grade the shade against the card, name nobody in the log, and withdraw any worker it begins to follow. Work response — Flerehan: sung, the verse softens (Decrease); Pugnahan: barred, it goes heavy and follows (Increase); Viderehan: the route and who was along it (Stable); Ferrehan: the walk itself (Decrease).
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored. Expanded origin context: Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around The Desolate — until the Lament was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
+Four settlement registers are bound into the commissioning file, complete for their periods, with the absences marked in pencil at the places where he is not. Nothing has been struck out of them and none of them is damaged. Each settlement recorded only people who asked it for something — a licence, a bed, a payment — and he never asked, and so each register is both accurate and empty of him. His track passes through all four. The archivist's note sets the two facts side by side and offers no reconciliation, which is the correct treatment.
 
 ## 최종 관찰 (Final Observation)
 
@@ -284,76 +286,76 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 감각 묘사 (Flavor Text)
 
-A shadow crosses the dust and sings into the empty land. You see no mouth, no instrument, no body that could cast it. Yet the song understands you. It watches without eyes because it has learned what it means to be unseen.
+A shadow on a cart way that has not carried a cart in thirty years, singing something you understand and cannot hear. Grade it against the card: 5.6 tonight, and darker as it passes the men waiting at the gate who have no reason to be written down anywhere. It has no face. It knows exactly how much of you is on paper.
 
 
 
-**At first contact:** The Subject-Weight does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid shadow that sings softly while moving through the Desolate. It has no face, but understands anyone who watches it.
+**At first contact:** You see it before you feel anything: a faceless shadow at walking pace on a way nobody uses. The sensation arrives second and is specific — the certainty that you have forgotten something important, with no candidate for what.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Weight becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** It becomes clearer rather than stranger, and clearest of all to anybody who says out loud that they do not know who it was.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Lament becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Weight was waiting; now it moves.
+**When the entity activates:** It turns off the survey and walks behind one person at a fixed distance, neither closing nor falling back, for as long as that person is on shift.
 
-**After departure:** Departure is not relief. The Subject-Weight is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** The followed worker is rotated out and the shadow settles within the shift. It has never once taken the replacement instead.
 
 ### Interaction Pattern
 
 Forgotten Shadow does not exist in isolation. Its recorded relationships with The Forgotten Soul, The Wandering Trace, The Drift Fog should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Card grades before, during and after, taken by the same Warden with the same card, and both tracks plotted on the disused-ways survey. Nobody present is named in any of it.
 
 
 ### Entity Interaction Record
 
-Forgotten Shadow must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Forgotten Shadow must be kept distinct from the other absences on the register. Nemo, the Forgotten Name, the Forgotten Soul and Redacted are all people an office removed from somewhere they had been written down. This one was never written down at all. Nobody erased him; nobody ever entered him, and the registers are intact and complete and simply do not contain him.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Forgotten Soul** | Both seek recognition without a stable name. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Wandering Trace** | The Trace carries its song through old routes. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Drift Fog** | The Fog hides it from those who refuse to look. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Forgotten Soul** | That one had a name taken out of a record. This one was never put into one, and the distinction holds in the field: the Soul darkens at archives, the Shadow does not. | Shade grades rise in both while within sight of each other; the tracks do not converge and never have. | Both tracks on one survey sheet, with grades timed together. |
+| **The Wandering Trace** | The Trace carries the silent song along the old ways past the limit of sight, and people miles off have reported understanding it. | Range of comprehension extends roughly fourfold; shade grade unchanged. | Furthest point at which the song was understood, and by whom, with no names recorded. |
+| **The Drift Fog** | In Fog it cannot be seen by anybody who has not already looked at it directly, which has twice left a Warden walking beside something they could no longer find. | Grading becomes impossible; the survey track is the only remaining measure. | Time the Fog closed, last grade taken, and the point at which visual contact was lost. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Two Wardens on the route, one card between them for consistency, the survey sheet carried, and no observation attempted in Fog.
 
 ## 이야기 (Narratio) — The Tale
 
-He was overlooked so thoroughly that he began to doubt he existed, and the doubt, solidified, became a shadow that walks the route he walked, proving he was there.
+This Company keeps no register of persons who are not its employees. No gate book, no list of casuals, no record of who waited at the yard and was not taken on. The rule is absolute and it was written for a reason that has never been seriously challenged: the old gate book was handed to a constabulary in a bad winter and eleven men were lifted off it, four of whom had done nothing beyond standing where work was given out. The book was burned by order and nothing has replaced it.
 
-The wanderer was a Desolate traveler — a scavenger, or a nomad, or simply a citizen who had drifted to the edge of the city and lived there, at the border, in the space between the zones where records were thin and attention was thinner. He existed. He moved through the settlements, traded, spoke to people, slept in shelters, ate at the Halfway House. He was real. He was present. He was, by every measure, alive.
+The eleven were released within the month and the Company paid their lost time without being asked, which is in the minute and is not the point. The point is in the paragraph underneath it: a list of people who are not your employees is a list you will one day be made to hand over, and the only safe version of it is the one that does not exist. Nothing has replaced the book in twenty-two years.
 
-But he was not recorded. The Keepers had no file. The Wardens had no log. The Collectors carried no ledger entry. The settlements he passed through did not note his name. He moved through the city's systems the way light moves through glass — present, but unregistered, passing through without leaving a mark. And the not-being-recorded, over years, over decades, began to erode the certainty of his existence. If no record says you are here, are you here? If no one notes your passing, did you pass?
+What it costs is paid by the men at the gate. Day work here is heavy, intermittent and taken by people with no other claim on anybody, and none of them exists in a Company document. A man can work this yard for twelve years and have nothing to show that he was ever on the premises — no file, no log, no ledger line — because every mechanism that would have shown it is a register of persons under another name. When he is hurt, the Company is not lying when it says it cannot identify him. When he dies, his family can prove nothing, and the people who refuse the claim are not acting in bad faith; there is simply nothing in front of them.
 
-The wanderer began to fade — not physically, but ontologically, the way a thing fades when the systems that confirm reality do not confirm it. He walked his route, and the route knew him, but the city did not, and the gap between the route's knowledge and the city's ignorance became, in the wanderer, a specific and devastating grief: the weight of being overlooked until existence becomes uncertain.
+The man at the root of this holding was in that position everywhere at once. Four settlements, four complete registers, and no line for him in any of them, because each of them recorded only the people who asked it for something and he never asked. He traded, slept, ate, spoke to people, and was present by every measure except the one that is kept in writing. Nobody erased him. There was never anything to erase.
 
-Forgotten Shadow is that ontological erosion, given form. Subject-Weight, Lament-element: the shadow of a person forgotten while still alive, walking the route the wanderer walked, proving he was there. The Shadow does not speak. It walks — the path through the settlements, the shelters, the Halfway House, the border — and its walking is the proof that someone was here, that the overlooked one existed, that the city's failure to record does not unmake the recorded.
+What is left walks his route and nothing else. It keeps to ways no map shows, it will not set foot on a maintained road, and it sings something that everybody present understands and no instrument in the wing can take down. The walking is the only assertion it makes, and it is the same assertion a token stub makes: somebody was here on this day.
 
-Those who see the Forgotten Shadow feel the vertigo of unrecorded existence — the chill of being present and unnoticed, alive and unconfirmed, real and unregistered, walking a route the city does not acknowledge through a world that has, in every system that matters, forgotten you are there.
+The shade grade tracks the count of people who worked here in the quarter and appear in no Company document: tokens issued less tokens ever presented. 3.1, then 4.4, then 5.6. The darkest readings on record were all taken within sight of the yard gate at the hour work is given out.
 
-Some sorrows mourn the dead. Forgotten Shadow mourns the living-unrecorded — the person who existed and was not noted, who walked and was not logged, preserved as a shadow on the route, the only record of a life the city's systems let pass through without a trace.
+The rule is right. The burned book was right. The shadow is what the right answer looks like from underneath, graded on a nine-step card by two people who must agree.
 ## 증언 (Testimonium) — The Testimony
 
-> *“He was overlooked so thoroughly he began to doubt he existed. The doubt became a shadow.”* — Researcher, R.D.
+> *“Eighteen thousand four hundred tokens out, two thousand two hundred and ten ever came back. The rest is the number I grade against the card.”* — Researcher, R.D.
 
-> *“I felt the vertigo of unrecorded existence — alive and unconfirmed, present and unnoticed.”* — Citizen, Desolate
+> *“Three hundred and fifty men lost a stub and lost the lot. I refused every one of them and I was right to, and I would like that written down somewhere too.”* — Gate Clerk
 
-> *“No file. No log. No ledger entry. He moved through the systems without leaving a mark.”* — Keeper, Archive
+> *“Eleven lifted off the gate book in one winter, four of them for standing in the wrong yard. We burned it and I have never heard a serious argument for another one.”* — Keeper, Archive
 
-> *“The shadow walks the route he walked, proving he was there. It is the only record.”* — Containment Lead, R.D.
+> *“Two families, the same dates, the same stubs. Both may be true. We paid twice rather than call either of them a liar on nothing.”* — Containment Lead, R.D.
 
-> *“If no record says you are here, are you here? Forgotten Shadow walks, answering: yes.”* — Elder, Desolate
+> *“Say out loud that you do not know his name. It goes clearer. That is all anybody has ever found that works.”* — Warden, the Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-453 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `N-IIβ-453 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Weight manifestation · unenclosed, mobile
 **Common Name:** Forgotten Shadow
 **Containment Status:** Contained — the Desolate
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. The shadow of a person forgotten while alive. Effect: proximity induces the vertigo of unrecorded existence.
+**Threat Assessment:** Moderate (β). It follows and does not attack; no injury has ever been recorded. Mean shade 5.6 on the nine-step card and rising, with composure loss in the followed worker for as long as the following lasts.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The shadow walks the route the forgotten one walked.
+- Flerehan, sung, is the primary Work Type, with Ferrehan for the walk. Pugnahan is barred: it makes the entity heavier and it follows for the rest of the shift.
+- It keeps to disused ways and has never been plotted on a maintained road. Clear the route ahead; never block it.
 **Observation Notes:**
-- A Desolate wanderer vanished from every record; only the shadow of his route remained.
-**Cross-References:** The Desolate · The Forgotten Name · The Forgotten Soul
+- Mean shade grades 3.1, 4.4 and 5.6 across three quarterly series, on the same card and by agreement of two Wardens per reading.
+**Cross-References:** The Desolate · The Forgotten Soul · The Wandering Trace · The Drift Fog · the Gate Office
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A Desolate wanderer erased from all records.
 
@@ -376,24 +378,44 @@ Its depth of colour increases around people nobody holds in mind, and the shade 
 
 The shadow keeps to routes that are no longer walked, and its track is plotted against a survey of disused ways. The agreement is close. The survey had to be assembled from several sources because no current map shows those paths, and the sources are listed with the gaps between them marked.
 
+### What the Shade Grade Is Measuring
+
+Depth of colour is graded against a nine-step card by two Wardens who must agree, and the gradings are logged with no mention of anybody in the vicinity. Quarterly means: 3.1, then 4.4, then 5.6. The standing provision that no person near the entity may be named is the clearest privacy rule in the wing and exists for an obvious reason: a log of where this shadow darkens would otherwise be a register of who in the district has been forgotten.
+
+The grade tracks the number of people who did paid work on these premises in the quarter and appear in no Company document of any kind. The figure is obtained as tokens issued less tokens ever presented, and it is the only quantity here that can be had at all, since the Company has by design no way to count persons. Weather, Tide windows, traffic on the old ways and the holding's own gauge were tested and lost.
+
+This Company keeps no register of persons who are not its employees. No gate book, no casual list, no note of who waited at the yard and was not taken on. The old book was handed to a constabulary in a bad winter and eleven men were lifted off it, four of them for nothing but standing where work was given out; it was burned by order and nothing replaced it. The rule is right and this file does not propose touching it.
+
+What follows is that the men who do the heaviest intermittent work here do not exist on paper. A man can take day work in this yard for twelve years and leave no trace he can use. When one is hurt, there is no document saying he was ever on the site; when one dies, his family can prove nothing at all, and the Company is not lying when it says it does not know who he was.
+
+### The Day Token
+
+Authorised Year 4233. Anybody who does a day's work on site is handed a numbered token, torn in two. The worker keeps the stub, the gate keeps the counterfoil, and neither half carries a name, a mark, a trade or a description. Attendance can therefore be proved — token 4,412 was on site on the eleventh — while no register of persons comes into existence anywhere.
+
+18,400 tokens were issued in Year 4237. 2,210 were later presented in support of a claim; 1,860 of those were paid, and 350 were refused because the stub had been lost, which is the commonest way for twelve years of work to vanish. 31 were presented after a death. Two were presented by people who were not the holder, and nothing in the scheme can tell the difference, since a token with a name on it is a register and a register is what was burned.
+
+One widow produced her husband's stubs and was paid. Eleven months later another family produced stubs for several of the same dates, and the office's own note records that both accounts may be true, that the tokens cannot distinguish them, and that it paid the second claim as well because the alternative was to call somebody a liar on no evidence.
+
+The gate clerks asked to be allowed one mark against each counterfoil — a height, a trade, anything to make a lost stub recoverable. The request was refused: a description is an identification, and an identification kept in a book is the book that was burned. The refusal is correct. The clerks' objection — that the scheme knowingly loses three hundred and fifty men's evidence a year in order to protect all of them, and that the three hundred and fifty are never the same men who make the rules — stands in the scheme's first volume, recorded as correct and unanswered.
+
 ### A Wanderer Who Left No Entry
 
 Someone crossing the Desolate disappeared from every settlement record while still alive, leaving only the shadow of their route, and the commissioning file holds the settlement registers with the absences shown. The absences are consistent across all of them. The archivist's note observes that no register records them arriving and none records them leaving, and that the shadow's track passes through every one of those places.
 
 ## Trivia
 
-- It casts no physical shadow because it is already one.
-- Its song changes when another forgotten person is nearby.
+- It casts nothing and is cast by nothing; no light source has ever been found to account for it.
+- The verse alters near somebody nobody is holding in mind. The Warden records that the verse altered and never who was standing there.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Forgotten Shadow is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Subject, Echo (II), Moderate (β), threshold 3, and no enclosure of any kind.
+- **Field detail:** Lament, the Desolate, plotted on a survey of ways that appear on no current map and had to be reassembled from several sources with the gaps marked.
+- **Recognition detail:** Identify it by the shade card and the disused-ways survey, not by the song, which is understood rather than heard and cannot be recorded by any equipment the wing holds.
+- **Record detail:** The Registrum rated this holding Low against a Moderate (β) Subject that follows workers off the survey, and named Viderehan as primary where the file's own management condition is to walk beside it; both corrected.
+- **Containment detail:** There is no door. This holding is contained by a survey, a card, a rotation rule and the standing bar on Pugnahan, and by nothing else whatever.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-453
