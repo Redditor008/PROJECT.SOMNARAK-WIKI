@@ -32,10 +32,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan or Ferrehan from the permitted path, perimeter only, nothing put back and nothing tidied. |
 
 ### Operational Notes
 
@@ -118,8 +118,8 @@
 |---|---|
 | **Form** | A ruin-shaped object of red-black crystal, preserving the outline of a beloved place. |
 | **Position / movement** | Fixed, and defensive rather than inert; record the position of its mass relative to the empty interior and to the approach, since it will place itself between the two. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | Grudge. Red-black crystal, char, and a surface heat taken by instrument and never by hand, the heat being the entity's answer rather than its condition. |
+| **Distinctive markers** | An outline exact enough that personnel have called the walls original and meant it. There is not one brick of the house in it. |
 | **Identification** | Check the designation, the element and the manifestation against the file, and verify the outline against the standing architectural record before Work begins; if any detail contradicts, do not proceed. |
 
 **Appearance protocol:** Measure the outline, because the outline is the thing. Take the wall runs, the door apertures, the ceiling heights and the room divisions at the marked stations, and check each against the standing architectural record; a discrepancy in either direction is the most significant observation this holding can produce and is reported the same day. Record the colour of the crystal at three points and the surface temperature by instrument, never by hand, since the heat is the entity's response rather than its condition. Note the smell of char, which is constant. Note what the mass is standing between. The crystal contains no material from the original house — not one brick — and the protocol says so where an observer will read it, because the resemblance is exact enough that personnel have described the walls as original and been sincere.
@@ -139,8 +139,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows the love and failure behind the structure. | Stable |
-| **Ferrehan** | Tests whether the worker can remain without rebuilding. | Decrease |
+| **Viderehan** | The love and the failure show together and cannot be separated, which is the whole of what the caretaker's file says too. | Stable |
+| **Ferrehan** | The worker stands in the margin of a house built for people who are not coming and puts nothing right, which is harder than it reads and is the only work that lowers the gauge. | Decrease |
 
 
 ### Operational Work Notes
@@ -282,11 +282,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It responds to love more than anger.
-- False reconstruction causes violent collapse.
-- It preserves places rather than objects.
+- Anger in the margin does nothing measurable; affection directed at the place moves the readings every time, which is the finding the holding is built on.
+- Anything built in the image of the house provokes the heat, and the section of outline lost in the reaction never returns.
+- It holds a place and not its contents: no furniture, no fittings, nothing portable, and no object recovered from the site has ever been part of it.
 
-**Personnel Note:** *"I felt sorrow. The Ruin was not angry that the home was gone; it was angry that I tried to make the ruin look like a home."* — Researcher, R.D.
+**Personnel Note:** *"It was not angry that the home was gone. It was angry that I tried to make the ruin look like a home. I had moved one stone off the path to see the wall run better, and that was enough to count."* — Researcher, R.D., Zone C margin
 
 
 
@@ -295,9 +295,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Conservatory as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone C, Mask Market. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Wall runs, door apertures, ceiling heights and room divisions at the fourteen marked stations, each checked against the standing architectural record. A discrepancy in either direction is reported the same day. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Attempting to reconstruct the remembered structure. Effect: Rebuilds one room for a short time. Duration: Until the memory can no longer support the form. Risk: The reconstructed room may consume the observer's present identity. Tool Use Profile — I-Relic Operational. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Conservatory's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | Outline check before and after, margin temperature by instrument throughout, what the mass was standing between, and whether any worker reported seeing the house rather than the shape of it. |
 
 **Observation method:** Observe from the permitted path, by instrument where the margin is hot, and record the first visible sign, the first emotional response and what prompted it, the first measurable change in the outline, and the condition that ended the watch. The path is itself an observation worth restating: it was established over a long period as the line the ruin does not defend, and it exists by the entity's tolerance rather than the facility's design and could be withdrawn without notice. The entity's appearance is its history made visible rather than a guide to behaviour — a house kept perfectly as the shape of its own ending is what preservation looks like when it is pursued past the point the structure could bear.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -357,9 +357,9 @@ Conservatory must be assessed as one of a group of sorrows attached to lost plac
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Frozen Ruin** | Both protect absent homes. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Folly** | Shares the grief of impossible restoration. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Broken Mirror** | Reflects the former inhabitants. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Frozen Ruin** | Two masses standing between an empty interior and whoever approaches. | Never brought together. Both are defensive and both place themselves, and the wing's assessment is that two such placements in one radius would close the permitted path — which exists by this entity's tolerance and not by any design of ours. | The assessment, the path survey it rests on, and the standing refusal. |
+| **Folly** | Both are made of a restoration that could not be done. | Compared on paper and once in the margin, at the path's furthest station, for eleven minutes. Margin temperature rose by a degree and a half and the outline did not move. The entry is kept for the negative: resemblance is the trigger here, and another grief is not a resemblance. | The eleven-minute series, the outline check either side, and the conclusion stated as a negative. |
+| **The Broken Mirror** | The Mirror shows the people who lived there. | Prohibited, and the prohibition is the clearest in the file. The household is what the ruin stands between the world and; a reflection of them inside the radius is the house made to resemble itself with the people in it, and no reading would be worth what it would cost. | The prohibition, its reasoning, and the review minute at which it was last restated. |
 
 **Interaction procedure:** Baseline both parties alone, bring the second to the margin along the permitted path and no closer, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the heat boundary, and whatever persists after separation. The field this holding adds is the outline check, run before and after, since the only lasting evidence of an interaction here would be a wall in a different place.
 
@@ -391,22 +391,22 @@ Some sorrows are about neglect. Conservatory is about devotion — the love so f
 > *“The caretaker overloaded the structure to save it. The saving killed it.”* — Mender, Zone A
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-852 [N]` · Grudge · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-852 [N]` · Inner origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Object-Grudge manifestation · I-Relic (Indumentum)
 **Common Name:** Conservatory
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Critical (δ). It does not pursue, does not spread, and has never injured anybody who stayed on the permitted path. The grade is the trigger — resemblance, including a memory of the house — and the fact that what it loses when it reacts does not come back.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Viderehan and Ferrehan only, from the permitted path. The ruin cannot be consoled and cannot be confronted, and nobody has ever tried either.
+- Keep the margin clear of combustible material, walked weekly. Stand down any worker who reports a memory of the house that day; the memory is the exposure, and the stand-down is logged as routine rotation.
+- Nothing is rebuilt, replaced, straightened or tidied inside the radius. Plans within it are read by the wing before the municipal office issues consent, on one ground only.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- One caretaker who overloaded a Han structure trying to keep the place, and a household who had already gone. The engineer's finding that her method was sound and would have held at a smaller margin remains in the file after two attempts to strike it.
+- Thirty-one plans read, four objected to, all four amended and built without incident, none appealed. One permanent loss of outline: 2.3 metres of wall run in the east range.
+- Yield falls permanently with every section of outline lost, so extraction is capped against the structure rather than the cycle and the cap only ever moves downward.
+**Cross-References:** The outline survey and its fourteen stations · the east range loss and the naming consent that preceded it · the remit of the wing's architectural objection · the letters with no force and the six naming notices since · the municipal office's objection to them · the Memory Archive's lodged surveys
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A caretaker whose love for a place was the thing that brought it down.
 
 ### Registry Addendum
 
@@ -443,10 +443,42 @@ The destroyed building's name is used in the file throughout, in preference to t
 
 Architectural objections are sent to the municipal office and to the applicant at the same time, in the same words, and the applicant is given the ruin's file reference so that they can read the basis for the finding themselves. The simultaneous disclosure was not required and was adopted by the first commander on the view that an applicant whose plans are refused by a facility they cannot see into will assume the worst and will usually be right to. Four objections have been issued under the arrangement and none has been appealed.
 
+### What the Outline Survey Measures
+
+Fourteen marked stations, surveyed on the cycle, each wall run and aperture checked against the standing architectural record. The outline is the instrument, and for nineteen years it held at every station without a single discrepancy in either direction.
+
+It is not intact now. **Two point three metres of wall run in the east range** were lost in one reaction and have not come back. Nothing in the holding's experience suggests they will; the yield cap moved down with them, as it does, and the cap has never once moved the other way.
+
+The margin temperature is the fast reading and the outline is the slow one. Heat answers within a minute of a resemblance entering the radius and settles again. The outline answers once, permanently, and only when the resemblance was real enough.
+
+### A Consultee May Only Give the Ground It Has
+
+The wing is a consultee on building consent inside the radius, and its objection is confined to one ground: whether the proposal reproduces the destroyed building. That limit is correct and the file defends it without reservation. A consultee that may object on whatever ground it thinks best is not a consultee, it is a second planning authority nobody appointed, and the archive holds the period when facility objections were open-ended and were used to clear ground the facility found inconvenient.
+
+**Thirty-one plans read. Four objected to. All four amended, all four built, none appealed.** The arrangement works, and the four architects accepted the findings once they were explained.
+
+Then a proposal came in for a parcel at the edge of the radius. The building had nothing in common with the house — different footprint, different height, different everything — and it was to be given the lost house's name.
+
+A name is not a structure. There was no ground. The wing's remit is resemblance in the built form, the proposal did not resemble the built form, and an objection entered on any other basis would have been an objection the wing had no power to make and the applicant had every right to have struck. Consent issued. The file is explicit that the municipal office did nothing wrong and the applicant did nothing wrong.
+
+The east range went in the week the new sign was raised, and the entity's own record is the only place that connects the two events, since nothing in the consent file is permitted to.
+
+### The Letter With No Force
+
+What the wing has done since is small, and the file does not oversell it.
+
+It cannot widen the ground. It has not applied to, and the refusal it would receive is printed in the file in advance: a remit extended by one holding's hard case is a remit extended for every holding, and the next facility to ask will have a worse case and a better argument.
+
+So the wing writes a letter instead. Where a proposal inside the radius would carry the house's name, the commander writes to the applicant personally, states that **the wing has no objection and no power to make one**, and describes what is in the margin and what happened in the east range. The letter carries no force whatsoever, requires nothing, and says so in its second line.
+
+The municipal office now copies the wing on naming notices as a courtesy, which it is not obliged to do and may stop at any time. **Six notices since. Two letters written. One name changed, voluntarily, by an applicant who wrote back to say they had not known.**
+
+The office's objection to the practice is on the file and is right. A consultee that writes privately to applicants about matters outside its remit is applying pressure without accountability: there is nothing to appeal, nothing on the public record, and an applicant who complies has been moved by a body that had no standing to move them. The minute reads **correct, and the wing has not stopped**. That last clause was added by the office and the wing agreed to its wording.
+
 ## Trivia
 
-- It contains no actual building material from the original home.
-- Its red crystal burns when a false memory is introduced.
+- Not one brick of the original stands in it, a fact printed where observers will read it because the resemblance is good enough to fool people who know better.
+- The crystal heats when a memory of the house is brought into the radius, which is why a worker who reports one is stood down the same day.
 
 
 

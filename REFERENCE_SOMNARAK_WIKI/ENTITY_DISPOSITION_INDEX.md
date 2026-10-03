@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **170** |
-| Pending — no disposition-bearing line found by scan | 133 |
+| **Classified here, with a quoted line of evidence** | **171** |
+| Pending — no disposition-bearing line found by scan | 132 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 170 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 171 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 133 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 132 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -171,6 +171,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Sleeping Shard | `SE-N-IVδ-611` | Corrupt breach `First Target`: *"Whoever in range most wants to stop feeling something."* It never moves, has never woken in the life of the holding, and has no interface with the facility at all. The Frozen Sigh pairing settles both gauges rather than aiding either, the Frozen Shard pairing has never been run, and the Loom merely makes its dreams legible further off. It costs F01 an unfixable funding ranking, not containment. Neutral. |
 | Home to No One Who Knew Me | `SE-N-IVδ-641` | Nineteen appearances in twenty-two years, never approached, never removed, never injurious; the witness-confusion effect clears within the shift. The Broken Mirror pairing is formally excluded by the wing, the Market Stall coincidences were refused as evidence, and the Orphaned Bell merely sounds beforehand in eleven of nineteen cases without being aided. It consumes watch hours and a strained disclosure heading, and assists no entity. Neutral. |
 | Pent | `SE-N-IVδ-821` | Expansion trigger: *"Exhaustion hidden as strength."* It has no seal, no vessel and no pursuit, and the one intervention that lowers its pressure is rest taken in company. The Crumbling Saint approach is refused outright by the wing, the Sleeping Sigh link failed the wing own evidential standard over nine years, and the Whispering Walls report rests on two accounts a year apart and nothing since. It costs F01 watch hours and an unanswerable wall-lean trend, and aids no entity. Neutral. |
+| Conservatory | `SE-N-IVδ-852` | Stationary, non-pursuing, and has injured nobody who stayed on the permitted path; its activation only ever rebuilds one room briefly and costs it outline permanently. The Broken Mirror pairing is prohibited by the wing, the Frozen Ruin pairing refused, and the Folly comparison moved the margin by a degree and a half without moving the outline. It consumes architectural-review capacity and a remit the wing cannot widen, while aiding no entity. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
