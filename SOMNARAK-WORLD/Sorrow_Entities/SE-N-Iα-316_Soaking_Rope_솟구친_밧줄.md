@@ -31,17 +31,17 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | α · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan, one worker, and nothing said that commits anybody to coming back. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Soaking Rope.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A good cycle slackens the line and lowers the pressure for a while. Nothing is untied, nothing is resolved, and the attitude of holding-out returns by the next observation.
+- Threshold 4, and the count runs down on promises. Each undertaking given inside the radius takes one, whoever gives it and whoever it is given to; the fourth brings the Corrupt event.
+- Yield is low and steady at 10–14, drawn from the tension rather than from the work, so a well-run cycle and a poor one return almost the same figure.
+- Extraction is authorised separately and takes fibre, never tension. Every piece in the set holds its shape as though something were pulling on the other end of it.
 
 ## Combat Record
 ### Core Stat Line
@@ -115,9 +115,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | An empty rope-shaped figure that watches from the edge of consciousness. It has no visible hands or face. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | It hangs taut in the attitude of being held out to somebody and moves neither toward an observer nor away. Record the bearing of the free end and whether anybody present was waiting on news. |
+| **Material / signature** | Grudge. Wet hemp, fever-cold, char, and a tension with nothing at either end to account for it. |
+| **Distinctive markers** | One end only. Several bound and knotted holdings sit in this wing; this is the one that is taut with nothing at the far side of it. |
 | **Identification** | Check the entity against its file before work or contact: designation, element, manifestation, and registered location. If one of them contradicts what is in front of you, do not proceed. |
 
 **Appearance protocol:** Record the line itself: how taut, how wet, how far the free end extends, and where it points. There is no second end, and that is to be confirmed at each observation rather than assumed from the file. Note the fibre, which is hemp and has never been recorded dry, and note whether the shape loosened at any point — loosening is the only visible response this entity gives.
@@ -133,10 +133,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The rope loosens and becomes visible. | Decrease |
-| **Pugnahan** | It tightens around thought and spreads anger. | Increase |
-| **Viderehan** | Reveals the promise that was withdrawn. | Stable |
-| **Ferrehan** | Tests whether the worker can wait without binding themselves. | Decrease |
+| **Flerehan** | The line goes slack and the whole figure becomes easier to see rather than harder, which is the one unambiguous success signal in the chamber. | Decrease |
+| **Pugnahan** | It tightens around thought without touching anybody, and the anger that spreads is the worker's own, arriving a little before they notice it. | Increase |
+| **Viderehan** | The promise surfaces as it was made: meant at the time, by somebody who intended to return and did not get to. | Stable |
+| **Ferrehan** | The worker waits beside it without taking the wait on, which is a distinction most people cannot hold for a full cycle and nobody can explain afterwards. | Decrease |
 
 
 
@@ -239,9 +239,9 @@ Each piece is a conditional extension of the Rope rather than ordinary equipment
 
 **R.D. Comprehension Level:** 1 — Initial
 
-- It is perceived more clearly by people waiting for someone.
-- It binds emotionally but never physically.
-- It becomes calm when waiting ends honestly.
+- Visibility tracks the observer: people with somebody outstanding see it plainly, and people with nobody have reported an empty chamber.
+- Nothing has ever been touched, marked or restrained by it, in any account, including the breach events.
+- It settles when a wait is ended out loud and truthfully, and does not settle when the same words are said as a procedure.
 
 **Personnel Note:** *"It was watching. I felt longing. The rope had no other end, but I had spent years holding it."* — Researcher, R.D.
 
@@ -252,9 +252,9 @@ Each piece is a conditional extension of the Rope rather than ordinary equipment
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Soaking Rope as a Subject with Subject-Void manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone A, Alpha Tree. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Soaking Rope's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Tension, wetness, the length of the free end and the bearing it points along, taken at fixed intervals. Slackening is the only visible answer the entity gives and it is the one reading that matters. |
+| **Activation or escalation** | A second person in the room discovering they are waiting for somebody. That is the whole of the escalation, and from there it takes one more person each turn. |
+| **Post-contact review** | Tension and bearing at open and close, every undertaking given inside the radius with its wording, and the count against the threshold. Observers are asked for the name they thought of and may decline; declines are logged as declines. |
 
 **Observation method:** Record the first sign, which is usually a sensation at the wrist with nothing touching it; the moment the observer notices they are thinking of one specific absent person; and the condition that ends the encounter, which is a wait being named rather than a gauge falling. Observers are asked for the name they thought of and may decline. Declines are logged as declines and nothing further is asked.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -291,13 +291,13 @@ You feel a rope around your wrist, but nothing touches you. The other end disapp
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Grudge pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. An empty rope-shaped figure that watches from the edge of consciousness. It has no visible hands or face.
+**At first contact:** A pressure at the wrist with nothing touching it, and then the particular person. Workers almost never notice the rope first; they notice that they have started thinking about somebody who has not arrived.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Grudge has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** The waiting stops feeling like yours. It becomes a general condition of the room, the way cold is, and the line in front of you begins to seem like an ordinary object somebody has simply left held out.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Grudge pressure spikes — not gradually but like a door slamming open. The Subject-Void shifts from presence to action.
+**When the entity activates:** Nothing moves and nothing tightens visibly. Everybody in the radius acquires somebody to wait for, one more person each turn, and the drain follows the number holding it rather than the clock.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Grudge in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The pressure at the wrist goes. The name does not, for a day or so, and workers are told to expect that and are not asked who it was.
 
 ### Interaction Pattern
 
@@ -312,9 +312,9 @@ The Rope sits in a group of entities that are all, in different ways, still expe
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Vanished Rope** | Shares the grief of missing connections. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Wandering Chain** | Both bind expectations to absence. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Lost Prince** | Resonates with unanswered waiting. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Vanished Rope** | Two severed connections in the same shape. | They do not reinforce. The pair reads lower than either alone — the only instance in this wing of two grieving objects settling one another — and the wing has deliberately not turned it into a procedure, a settled Rope being a cheaper outcome than an answered one. | Both gauge series, the pair reading against both solo baselines, and the decision not to repeat it with its reasons. |
+| **The Wandering Chain** | Both tie an expectation to somebody absent. | Catalogued separately, under different management, and confused with this holding in the field at least once. No pairing has been run; the entry exists to keep the two apart on paper, which is where the confusion happened. | The standing identification note and the incident that produced it. |
+| **The Lost Prince** | Two unanswered waits, in step. | The waiting synchronises and carries to personnel at the perimeter who are not part of the work at all. Twice the Rope kept the new attitude after separation, both times a shift of a few degrees in the bearing of the free end, and neither has reverted. | Bearing before and after, the perimeter reports, and the two permanent changes with their dates. |
 
 **Interaction procedure:** Solo baseline first. Then the shared encounter: the distance at which the first change appears, what altered in the line's tension, how long it held, and whether the Rope returned to its original attitude after separation or kept the new one. It has kept the new one twice, and on both occasions the change was a few degrees of direction.
 
@@ -346,32 +346,70 @@ Some sorrows mourn a parent. Soaking Rope mourns the waiting — the child's fai
 > *“The rope learned to hold on alone. The parent never came. The rope still holds.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-316 [D]` · Grudge · Subject-Void manifestation
+**Classification:** Sorrow Entity — `N-Iα-316 [D]` · Inner origin · Residue (I) coherence · Minor (α) potency · Grudge · Subject-Void manifestation
 **Common Name:** Soaking Rope
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Minor (α) at threshold 4. It has never touched anybody and the Corrupt event imposes expectation rather than harm. The grade is low and the holding is not: what it works on is the commonest thing any member of staff brings to a shift.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Flerehan and Ferrehan slacken the line; Pugnahan tightens it around thought and raises the gauge; Viderehan shows the promise and moves nothing.
+- Give no undertakings inside the radius, including the ordinary ones. *I'll be back in a minute* counts, counts against the threshold, and is the commonest way this holding reaches three.
+- Do not seal and wait it out; a sealed zone is a room of people expecting a door to open. End the waits aloud, one at a time, beginning with the response team's own.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- A child who waited and a parent who meant the promise when they made it. Neither is named. The Keeper recorded that the child was still waiting on the day of the testimony and did not go back a second time.
+- Thirty-one off-duty dream reports in four years, two of which preceded a gauge movement. None of the thirty-one is in the operational log, because none of them was made on duty.
+- The fibre is hemp and has never been recorded dry. There is no second end, and its absence is confirmed at each observation rather than assumed from this file.
+**Cross-References:** The tension and bearing series · the thirty-one dream reports and the two that preceded movement · the rule that an off-duty experience is not an observation · the unofficial page and the counsellors' objection to it · the Vanished Rope settling result
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A child holding a rope, waiting for a parent whose promise the world did not allow to be kept.
 
 ### Registry Addendum
 
 **Operational interpretation:** This file describes something that cannot be handled, only answered. Every figure in it — gauge, resistance, yield — is in practice a measurement of personnel, since the Rope does nothing unprompted and responds only to what the people in the room are already carrying. Read the management line first and the statistics second, and treat disagreement between them as evidence about the team rather than about the entity.
 
 **Review requirement:** Re-verify after any Sorrow Tide, after any breach in Zone A, and after any change of personnel on the post — the last of these more often than the others, because this entity's readings move with whoever is standing in front of it. A review that produces a different baseline has not found an error; it has found a different worker. Reviews are not to be used to question a worker's fitness.
+## Tether Record
+
+### The Line and the Bearing
+
+Two numbers are taken at every observation: how taut the line is, and the compass bearing the free end points along. Everything else in the chamber is description.
+
+Tension is the fast reading. It slackens under Flerehan and Ferrehan, returns to its held-out attitude by the next observation, and has never once gone fully loose. Bearing is the slow one. It has moved twice in the holding's history, a few degrees each time, on both occasions after a pairing with the Lost Prince, and neither movement has reverted. The file states what that means and nothing more: the rope is now held out toward a slightly different place than it was, and nobody knows what is in that direction.
+
+The threshold is 4 and the count runs down on undertakings. Every promise spoken inside the radius takes one — to a colleague, into a handset, to the entity itself — and the wing's own incident series shows the commonest wording by a wide margin is *I'll be back in a minute*. Three of the four recorded Corrupt events were reached that way, by people with no intention of promising anything.
+
+### Who the Worker Is Thinking About
+
+The readings here are a measurement of the people in the room. The entity does nothing unprompted; it answers what the staff are already carrying, and the single best predictor of a difficult cycle is that somebody on the team has an outstanding wait of their own.
+
+The wing knows this and may not use it.
+
+Nothing about a worker's private life may be recorded, held, or taken into account in rostering or assessment. That rule is not a nicety and the file defends it in full: a facility that collects who its staff are waiting for has built a register of everybody's weak point, and the register will eventually be read by somebody who is not a counsellor. The archive contains the period when supervisors kept such notes informally. Nobody wants it back.
+
+So the observation form asks for the name the observer thought of, and prints beside the field that the worker may decline. Declines are logged as declines and nothing further is asked, ever, by anybody. The rostering office cannot see any of it and is not told who should not be sent.
+
+### What Happens Off Duty Is Not an Observation
+
+The chamber's only early-warning signal arrives in people's sleep.
+
+Staff on adjacent rotations dream of somebody arriving. **Thirty-one such reports in four years. Two of them preceded a movement in the gauge** by less than a shift, which is better than anything the instruments in this wing have ever managed here and is also, on twenty-nine misses, very nearly worthless.
+
+None of the thirty-one is in the operational log. An operational record contains observations made on duty, by a person who was working, at a time and place the facility can state. That is what makes a log auditable, and it is also what keeps the facility out of its workers' lives: an institution entitled to enter what its staff dreamt is an institution with no boundary at all.
+
+Both halves of that are correct and they cost the holding its only forecast. The wing cannot requisition the reports, cannot roster against them, and cannot cite them in a review. What it does instead is receive them, because people keep offering them anyway, out of conscientiousness, on their own time, with no credit and no protection attached.
+
+### The Unofficial Page
+
+The page exists, and the file would rather say so than pretend the reports evaporate.
+
+It is held by the duty counsellor and not by any supervisor. Entries carry a date and nothing else — no name, no rotation, no indication of who dreamt what. It has no status, is cited nowhere, and cannot be used to justify or refuse anything. The one operational use it is put to is negative and deniable: a worker who offers a report is not rostered to the chamber on the following shift, which the rostering office can arrange without being told why, because a roster does not have to give reasons.
+
+The counsellors' objection is standing and has not been answered. An informal channel that everybody uses is a duty requirement without any of the protections of one: there is no overtime on it, no right to decline it, no record that would support a worker who was later disadvantaged for what they said, and the people most likely to keep offering are the conscientious ones who are already carrying the most. The minute reads **correct in principle; the alternative is worse and is also correct**. Nothing has been added to it in four years.
+
 ## Trivia
 
-- It has no second end.
-- It watches without eyes because it exists in expectation.
+- There is no second end at any observation, which the protocol requires be confirmed each time rather than carried forward from the file.
+- It has no eyes and is reported as watching by nearly everybody, which the file records as a description of the sensation and not as a claim about the entity.
 
 
 
