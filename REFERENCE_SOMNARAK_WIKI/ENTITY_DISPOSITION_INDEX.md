@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **92** |
-| Pending — no disposition-bearing line found by scan | 211 |
+| **Classified here, with a quoted line of evidence** | **93** |
+| Pending — no disposition-bearing line found by scan | 210 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 92 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 93 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 211 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 210 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -97,6 +97,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Survivors' Breath | `SE-O-IVδ-895` | *"A completed cycle settles the Sigh around the worker and quiets it for a time. Nothing is resolved by this."* |
 | Crucible | `SE-C-IIIβ-275` | Resolution: *"Cool the anger through naming and controlled work."* A furnace that became conscious, and stayed in its forge. |
 | The Debt Chain | `SE-N-IIIβ-160` | *"In sixteen years it has bound nobody, moved nowhere, and injured two people, both of them surveyors who exceeded the contact limit."* It cannot be moved and the gallery admits nothing but surveyors, so no pairing has ever been run; a Year 4232 proposal to bring the Debt Scale in was refused. Its effect runs onto this facility's own lending rules rather than onto other entities. Neutral. |
+| Deadline | `SE-N-IIIβ-156` | Neutral | Fifteen years fixed on a bracket: pursued nobody, moved nowhere, one injury (a worker who broke its own face). It counts a date and does not collect; its interval tracks the claims registry's time-bar list, a facility-internal clerical series, and has never tracked collection visits, the Collectors' calling schedule or debt outstanding. The only cross-entity proposal on file (Debt Scale, Y4233) was refused and never run; the Debt Wall pairing is disproved on the Wall's own survey. Neither aids F01 nor assists any entity to breach. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
