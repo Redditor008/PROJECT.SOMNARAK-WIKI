@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan, one entrant, once in a cycle, with nothing said that is not meant. |
 
 ### Operational Notes
 
@@ -117,8 +117,8 @@
 |---|---|
 | **Form** | A figure made from one enormous cracked tear, appearing in dreams as a person whose face cannot stay whole. |
 | **Position / movement** | Manifests within the dream layer rather than in the vault, walking and self-directed; record posture, the distance it holds from the entrant, and whether it approached or was approached, since only one of those is permitted. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | Lament. Salt-damp, cold rain, a fracture running across a face that will not settle, and a tone instrumentation cannot place and suppression equipment does not touch. |
+| **Distinctive markers** | A figure always about to run that never does, weeping without producing anything at all. The absence of fluid is recorded as a finding, not left unmentioned. |
 | **Identification** | The designation is the first filter and the entrant's own observation is the second; confirm both agree before the layer is opened. |
 
 **Appearance protocol:** Record the figure as it presents in the layer: height, the degree of fracture across the face, how long any arrangement of the features holds before it slips, the distance maintained, and the posture, which is most often that of someone part-way through speaking. The weeping produces nothing — no fluid, no residue, no trace — so there is nothing to collect and nothing to sample, and that absence is recorded as a finding rather than left unmentioned. Record the sound separately from the figure: its tone, its tempo, whether it is continuous, and whether it resembles the transcriptions held in the file. Instrumentation does not locate the source and suppression equipment does not touch it, and both of those remain true at every reading.
@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The figure becomes clearer and the sound softens. | Decrease |
-| **Pugnahan** | The dream cracks and the crying intensifies. | Increase |
-| **Viderehan** | Reveals the original loss beneath the sound. | Stable |
-| **Ferrehan** | Tests whether the worker can remain through the entire lament. | Decrease |
+| **Flerehan** | The fracture slows, the features hold an arrangement longer, and the tone softens toward something a listener could follow. | Decrease |
+| **Pugnahan** | The dream cracks across and the crying rises; the entrant is woken by the monitor rather than ending the entry themselves. | Increase |
+| **Viderehan** | The loss underneath the sound surfaces — one death, one unfinished form — and nothing moves, because looking at it is not work. | Stable |
+| **Ferrehan** | The entrant stays to the end of the lament without filling the silences, and the lament has no end, so the cycle closes on the clock. | Decrease |
 
 
 
@@ -240,11 +240,11 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The crying has no measurable acoustic source.
-- The figure fractures when exposed to false comfort.
-- It is more active near liquid-memory entities.
+- The crying has no acoustic source any instrument in the vault can place, and staff who have never entered the layer hear it from no particular direction.
+- It comes apart when it is comforted dishonestly, which has happened twice, both times recorded by the worker responsible and neither time requested.
+- Activity rises near liquid-memory holdings, measured as fracture rate rather than as volume, which is the only comparison the vault's logs support.
 
-**Personnel Note:** *"It was glowing. I felt loss. The sound was older than every record in the vault, but it still sounded like someone waiting for an answer."* — Specialist, Zone C patrol
+**Personnel Note:** *"The sound was older than every record in the vault and it still sounded like someone waiting for an answer. I nearly told it that it would be all right. I have thought about that sentence every day since, and I did not say it."* — Dream worker, Zone A, Alpha Tree vault
 
 
 
@@ -253,9 +253,9 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Broken Tear as a Subject with Subject-Dream manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Broken Tear's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | The degree of fracture, how long any arrangement of the features holds before it slips, the tone and tempo of the sound, and the distance maintained. Clarity is the success signal here; quiet is not. |
+| **Activation or escalation** | Eloquence. The entrant starts finding the right things to say and they land, which is the most dangerous condition in the chamber and the one that precedes the figure coming apart. |
+| **Post-contact review** | Written before the entrant speaks to anybody, because the layer's sorrow is persuasive and shared accounts converge fast. Anything hearable as a promise is logged as an exposure event against the holding, never as a fault. |
 
 **Observation method:** Observe from inside the layer, as the entrant, since there is no outside view of it. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the fracture or the tone, and the condition that ended the entry. The entity's appearance is its history made visible rather than a guide to behaviour: a figure made of one tear, whose face cannot stay whole, is what a grief looks like when it has gone on longer than the person grieving. Two instructions are specific to this holding. Nothing is promised, including the implication of a promise, and the entrant records anything they said that could be heard as one. And the entrant writes their account before speaking to anyone, because the layer's sorrow is persuasive and a shared account converges fast.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -315,9 +315,9 @@ Broken Tear must be assessed as one of a group of sorrows left unfinished by a d
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Frozen Tear** | Both preserve grief that cannot flow normally. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Echo** | The Echo carries the crying beyond the vault. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Soaking Shard** | Their liquid memories merge in dreams. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Frozen Tear** | Both hold a grief that cannot flow. | Rejection, consistently. Three attempts at a shared layer, three withdrawals inside two minutes, the withdrawal in each case by this entity. The counsellors have refused a fourth and the refusal stands without expiry. | The three withdrawal times, the refusal, and the condition that produced it. |
+| **The Hollow Echo** | The Echo carries the crying past the vault wall. | Documented on the Echo's side rather than this one: the sound arrives in corridors it has no path to, and the vault seal holds throughout. Nothing crosses but the lament, and this entity's own readings do not move. | Corridor reports with times, the Echo's log, and the seal check that follows each one. |
+| **The Soaking Shard** | Liquid memory meeting a grief with no liquid in it. | Two layered entries, both ended early by the entrant, both reporting that the sound acquired words that were not in either transcription. Neither entrant could repeat them on waking. Not arranged again. | Both accounts written before conferring, the early-termination times, and the gauge series from each side. |
 
 **Interaction procedure:** Baseline both parties alone, and admit the second to the layer only with the counselors' agreement, since a second presence doubles an exposure that is already capped at one entry. Log the first shared change with its distance, duration and trigger, the gauge movement on each side, and whatever persists after the entrant wakes. The field this holding adds is the sound, described independently by each observer before any of them confer.
 
@@ -347,22 +347,22 @@ Some sorrows mourn a loss. Broken Tear mourns the mourning itself — the grief 
 > *“A grief that consumed the mourner and continued alone.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-517 [LS]` · Lament · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IVδ-517 [LS]` · Inner origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Dream manifestation
 **Common Name:** Broken Tear
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Critical (δ) at threshold 1, and the figure does not recover its shape between cycles. An Escape breach floods corridors faster than personnel move, which is why the response is a flood plan and not a suppression action.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Flerehan and Ferrehan lower the gauge; Pugnahan cracks the dream and raises it; Viderehan shows the loss beneath the sound and moves nothing.
+- Nobody enters the layer twice within a cycle, however well the first entry went, and the roster is checked against that rule by a second person before every booking.
+- Do not defend routes. Surrender floors in the published order, muster by elevation, and assume the ground level is already lost.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- One mourner who died part-way through a lament. The reconstruction reaches no conclusion and three offers to complete it have been declined, each refusal reproduced with the date changed.
+- Rehearsed annually from the top of the floor downward. The front reaches the ground level in four minutes and the sixth floor in nineteen; the figures have moved by seconds in eleven years.
+- The weeping yields no fluid, no residue and no trace, so there is nothing to sample; the set is drawn from the sound and the cold alone.
+**Cross-References:** The published order of surrender and its seven annual re-justifications · the low rooms' seat at the rehearsal review · the safety office's objection to publication · the two musicological transcriptions, both incomplete and disagreeing · the counsellors' finding on cumulative exposure
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A mourner who wept a lament they did not finish, and died part-way through it.
 
 ### Registry Addendum
 
@@ -399,10 +399,36 @@ During a breach it fills corridors with sorrow and the sorrow moves faster than 
 
 The trained pool is larger than the chamber's workload requires and is maintained at that size deliberately, so that the single-entry rule can be honoured without the chamber ever going unstaffed. Keeping people trained for a layer they will enter once in a cycle is expensive and the expense is itemized openly in the wing's return rather than absorbed into general training. It has been queried twice. The answer given both times sets the cost against the counselors' finding on cumulative exposure and attaches the finding in full, and on both occasions the query was withdrawn without further correspondence.
 
+### What the Rehearsal Clock Measures
+
+The flood plan is rehearsed once a year from the top of the floor downward, and what the rehearsal produces is a clock.
+
+**The front reaches the ground level in four minutes. The second floor at seven. The sixth, which is the last, at nineteen.** Those figures have moved by seconds in eleven years of rehearsal, which is the single most reliable number in this file and the reason the response is a weather plan rather than a containment action. Nothing in the corridor can be suppressed; there is no solid thing in a flood of sorrow to put a tool against.
+
+The clock is what makes the order of surrender decidable in advance. It is also what makes it unarguable afterwards: a floor given up at the published minute was given up on the plan, and a floor held past it was held by somebody improvising.
+
+### The Order of Surrender Is Fixed
+
+An evacuation sequence is set in advance by the structure and is not varied for who happens to be standing in it.
+
+That rule is correct and the file will not argue with it. A plan that can be re-ordered in the moment is not a plan: the person re-ordering it is working from what they can see, the front moves faster than they can see, and the two occasions in the archive where a sequence was varied mid-event both ended with people moving toward the thing they were escaping. The order here runs from the lowest elevation upward, it is published in full, and it is rehearsed exactly as written.
+
+What follows from it is plain and the wing states it plainly. **The low rooms go first.** They are the vault's cold reading rooms, they sit at the lowest elevation for an unrelated and perfectly good reason, and they are staffed largely by clerical and archival personnel who are not containment staff, did not choose a hazard post, and are on the ground level because that is where the documents have to be kept.
+
+They know. The order is published, their floor is named first in it, and the wing decided long ago that publishing it was better than the alternative, which is a plan the people it is worst for have not read.
+
+### The Low Rooms and Their Seat at the Review
+
+Relocation was offered to all twenty-two low-room posts. **Nine accepted.** The remaining thirteen declined for the same reason each time, which is that the work cannot move — the documents require the temperature the low rooms have, and a reading room on the fourth floor is not a reading room.
+
+So the wing gave them the only thing it had left to give, which is standing. The low rooms hold a seat at the annual rehearsal review, and the seat carries one power: it can require the order of surrender to be re-justified from the clock, in open session, in front of them. The power has been used **seven times in eleven years**. The order has changed once, in Year 4231, by one floor, after the low rooms pointed out that a stair closure had made the published sequence slower than the plan it was printed in.
+
+The safety office's objection is on the file and is not frivolous. It holds that publishing a surrender order damages the people named first in it to no operational purpose, and that an order which must be re-justified annually in front of an interested party will eventually be varied to suit the party rather than the clock — which is precisely the failure the fixed sequence exists to prevent. The objection is minuted as **correct in principle** and the wing has not answered it. It has only noted, each year, that the one change ever made was made on the clock's own evidence, and that the people who found the error were the people standing in the water.
+
 ## Trivia
 
-- Its crying predates the vault containing it.
-- It has never shed a physical tear.
+- The lament's style went out of use long enough ago that it survives in no living practice, and the dating is by form because no record of it exists.
+- No fluid has ever been produced, which spares the chamber all sample work and leaves the entire record resting on what entrants report.
 
 
 
