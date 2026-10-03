@@ -34,15 +34,15 @@
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan at the rail. Ferrehan also lowers the gauge and is restricted, because accepting healing advances the blessing tally. Pugnahan is pointless and prohibited. |
 
 ### Operational Notes
 
-- The Healer treats injuries it has not been shown and does so correctly.
-- Work settles it. The treatment behaviour is unchanged, and no cycle has caused it to decline a presented injury.
-- Four ignored conditions are required to escalate it, which is the widest margin in the containment block.
-- Personnel do not present minor injuries to it. The record shows the behaviour is reliable, and that reliability is the hazard.
-- Extraction is authorized apart from the work cycle.
+- It treats injuries nobody has shown it. It finds them, it is not mistaken about them, and the file has no account of how.
+- Work settles it and changes nothing about the treating. In sixty years it has never once declined an injury put in front of it.
+- The threshold is four, the widest margin in the block, and the margin is not a comfort: nothing it does while escalating looks like escalation.
+- No minor injury is ever presented. The behaviour is wholly reliable and the reliability is the hazard, because every treatment is a blessing and every blessing moves the tally.
+- Extraction is separately authorised, taken from the chamber floor rather than the hands, and never during a treatment.
 
 ## Combat Record
 ### Core Stat Line
@@ -66,7 +66,7 @@
 |---|---|
 | **Battle Length** | Short — 10 turns |
 | **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) — Barely formed, passive |
+| **Coherence** | Residue (I) — passive, cooperative, and no more formed now than at registration |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Kind Healer's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** No blow is struck here. The engagement is Flerehan at the rail with the blessing tally called aloud after every exchange, and the tally is what ends it, not the gauge.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not attack. Guide it gently back and prevent unauthorized contact**.
 
 ### Consequences
@@ -98,19 +98,19 @@
 - An unresolved encounter never simply ends; it transforms. The Kind Healer executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
-**Primary Form:** A gentle humanoid figure made of soft, glowing Han-crystal. Its hands are warm and faintly luminous.
+**Primary Form:** A soft humanoid shape of lit Han-crystal, the surface pliant like skin stretched over a lamp. **Hands:** warm to the touch and brighter than the rest of it, and the brightness increases as it works.
 
 **Notable Features:**
-- Heals minor wounds and soothes physical and emotional pain.
-- Absorbs the pain it removes.
+- Closes minor wounds and lifts pain of both kinds, completely and at once.
+- It does not dispose of what it lifts. It takes it in, and it is visibly worse afterwards for a measurable period.
 - Current cycle status: **12 of 12**; the twelfth blessing produced **The Hand of Hope**, not The Dawn of Mourning.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** A gentle humanoid figure made of soft, glowing Han-crystal. Its hands are warm and faintly luminous.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** The approach. It walks toward an injury it has not been told about, which is how the Row knows it is this holding and not something wearing its shape.
+- **Position / movement:** Walks the chamber unhurriedly and goes toward anybody favouring a limb. Distance is logged from the rail, and the rail is where personnel stay.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-B-02, Zone B — contained
 
@@ -118,35 +118,35 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A gentle humanoid figure made of soft, glowing Han-crystal. Its hands are warm and faintly luminous. |
+| **Form** | A humanoid of warm lit crystal, roughly adult height, with hands that glow more strongly than the body. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Heals minor wounds and soothes physical and emotional pain. Absorbs the pain it removes. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Material / signature** | Lament. Comfort-warm crystal, cold rain on old cloth, a steady low light, and the shudder that follows every treatment. |
+| **Distinctive markers** | Shudder length in seconds, blessing tally, hand brightness, and the direction it walks when somebody in the room is hurt. |
+| **Identification** | Stand at the rail with no injury on you. If it comes toward you anyway, somebody in the room is hurt and has not said so. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Hand brightness against the chamber lamp, distance from the rail, direction of travel, and the shudder timed from the moment contact breaks.
 
 ## Origin
-- **Formation:** The Healer formed from the compassion of a woman who walked Zone B tending the wounded, sick, and Fractured.
-- **The Sorrow:** The sorrow of a healer who could not save everyone and carried the pain of every person she failed to reach.
-- **The Event:** The woman died after a life of giving comfort. Her compassion crystallized into a figure that continues healing others while remaining unable to heal itself.
-- **The People:** The unnamed healer and all those she treated.
-- **Expanded origin context:** Containment records trace the entity back to SECTOR-B-02, Zone B, where the Lament first reached the density required for crystallization. The Subject is the wound's exoskeleton — the city's grief grown solid. It will not heal. It can only be held.
+- **Formation:** From a woman who walked Zone B for forty-one years tending the hurt, the sick and the Fractured, and who filed every report.
+- **The Sorrow:** Not failure. Being the person who notices, in a system where a condition exists only once somebody else has noticed it.
+- **The Event:** She died in her forty-second year of service. The first document in the archive concerning her own condition is the one recording that she had stopped.
+- **The People:** One unnamed woman of Zone B, and the 9,300-odd people named in the reports she filed about them.
+- **Expanded origin context:** The Welfare Office holds her work in bulk and holds nothing about her. Four thousand one hundred and six reports in her hand, every one about somebody else, every one properly made out, a great many of them the only reason the person named in them was ever treated at all. Against her own name: an engagement record, a pay line, forty-one years of attendance, and a death entry. No report. This is not an omission and nobody failed in a duty — a worker may not report their own condition, and in forty-one years of walking Zone B nobody who could have filed one about her happened to look.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Comforts the worker and absorbs their grief. | Decrease |
-| **Pugnahan** (Confrontation) | Becomes confused; it does not understand aggression. | Stable |
-| **Viderehan** (Observation) | Allows transparent study. | Stable |
-| **Ferrehan** (Endurance) | Offers healing; accepting it reduces the gauge but increases blessing risk. | Decrease |
+| **Flerehan** (Tears) | It attends to the worker and draws the grief out of them, and it keeps what it draws. | Decrease |
+| **Pugnahan** (Confrontation) | It does not recognise the act. It stops, waits, and then checks the aggressor for injury. Prohibited as pointless and as cruel. | Stable |
+| **Viderehan** (Observation) | It makes no objection to being studied and alters nothing while it is. Gauge holds. | Stable |
+| **Ferrehan** (Endurance) | It offers. Accepting lowers the gauge and advances the tally, so acceptance is authorised by name, in writing, one case at a time. | Decrease |
 
 ### Special Behaviors
-- Every blessing advances the transformation chain.
+- Every blessing moves the chain forward by one and nothing moves it back.
 - At twelve blessings, the current cycle produced **The Hand of Hope**.
 - The Dawn of Mourning remains the catastrophic historical transformation path.
-- It does not understand why it is contained and seeks wounded personnel during a breach.
+- It has no notion of why it is held, and on breach it goes looking for the injured rather than for anybody in particular.
 
 
 
@@ -172,17 +172,17 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Kind Healer shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Movement** | It walks out and moves through the facility at an unhurried pace, going where the injured are. It pursues nobody and has never struck anybody. |
+| **Effect** | Weeping becomes audible wherever it has passed, and personnel describe the will to keep working draining away over hours. |
+| **Secondary Effect** | Sorrow settling as weight in the chest, worst in those who have been treated and who report guilt alongside it. |
+| **First Target** | The nearest injured person, every time. Uninjured personnel are ignored entirely until they are not uninjured. |
+| **Escalation** | Composure drain rises by 5 each interval, and the blessing tally rises with every person it reaches, which is the part that matters. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape. It leaves the chamber and moves through the facility at walking pace, looking for the injured.
+- **Containment priority:** Move the injured out of its path and clear a route back to the chamber. Do not strike it: Pugnahan is prohibited here, it does not understand being attacked, and every person it reaches on the way advances the tally.
+- **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more each interval. It falls when the injured are moved out of its path, which is the whole of the response and is harder than it reads.
 
 ## M.A.W. Equipment
 
@@ -203,7 +203,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** The multiplier applies to the strike and to each Tick separately, and both are logged against the wielder's own Mind figure as well as the target's, because this archetype takes its toll inward.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Kind Healer's lament signature in the strike.
 
@@ -235,13 +235,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat, and for about a day the wearer notices, without looking for it, which of the people around them is in pain and has not said so.
 
 **Ability:** Heals minor wounds through touch.
 
 **Cost:** The wearer absorbs the pain being healed; the ache never fully fades.
 
-*Stigmas are granted at random by The Kind Healer upon a successful work, not manufactured.*
+*Fourteen touches exist. Each was formed at an authorised treatment and given to the attendant who timed the shudder afterwards, never to the person who was healed.*
 
 ### M.A.W. Use Notes
 
@@ -262,13 +262,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
-- The Healer has completed twelve blessings in the current cycle and transformed into The Hand of Hope.
-- Healing is genuine, but the entity visibly shudders as it absorbs each pain.
-- Violence produces confusion rather than aggression.
-- The blessing count must be monitored continuously.
+- Twelve of twelve in the current cycle, and the twelfth resolved as The Hand of Hope rather than the other branch.
+- The healing is real and complete. What follows it is a shudder that begins when contact breaks and is timed by the attendant.
+- Violence produces no aggression at all, only a pause and then an examination of whoever delivered it.
+- The tally is called aloud, logged by two people, and reconciled at every shift change without exception.
 
 **Personnel Note:**
-> *"The Healer closed my broken arm instantly. Then it shuddered as if the break had moved inside its own body. I have never felt so guilty about being healed."* — Specialist Haneulash Yoon, Zone B containment team
+> *"Six point eight seconds. I timed it myself, with my arm whole again and the thing in front of me shaking like the break had gone somewhere. Nobody takes it off her. There is no office for that. I filed my return on the colleague I was allotted and wrote nothing seen, same as everyone."* — Specialist Haneulash Yoon, Zone B containment team
 
 
 
@@ -276,30 +276,31 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Kind Healer as a Subject with Subject-Body manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B — contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Every blessing advances the transformation chain. - At twelve blessings, the current cycle produced The Hand of Hope. - The Dawn of Mourning remains the catastrophic historical transformation path. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In The Kind Healer's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Tally confirmed and countersigned before entry, rail distance set, hand brightness noted against the lamp. |
+| **Sustained observation** | The shudder is timed at every authorised treatment and has lengthened at each annual return: 3.4, 5.1, 6.8 seconds. The healing itself is as quick and as complete as it ever was. |
+| **Activation or escalation** | A shudder beyond the series, or any movement toward a person who has not declared an injury. Clear that person from the chamber first. |
+| **Post-contact review** | Shudder length, tally reconciliation, and a written return from each attendant on the condition of the others — never on their own. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** A stopwatch, a chamber lamp of fixed output, two tally keepers who do not confer, and the Welfare Office return on unreported service to set the shudder against.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Kind Healer (C-Iα-071 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Healer formed from the compassion of a woman who walked Zone B tending the wounded, sick, and Fractured. Held at SECTOR-B-02, Zone B — contained. The Healer has completed twelve blessings in the current cycle and transformed into The Hand of Hope.
+The Kind Healer (C-Iα-071 [LS]) is logged as a Subject-Body manifestation expressing Lament, held at SECTOR-B-02 in Zone B. It finds injuries it has not been shown, closes them completely, keeps what it has taken, and shudders longer afterwards at every annual return. The Healer has completed twelve blessings in the current cycle and transformed into The Hand of Hope.
 
-**Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
-Moves gently through the facility seeking wounded personnel. Heals personnel while absorbing their pain; each blessing advances transformation. Healing is genuine, but the entity visibly shudders as it absorbs each pain.
+**Entry 2 — <Zone B Containment Watch, Year 4238>**
+Shudder timed at 6.8 seconds across the nine authorised treatments of the year, after 5.1 and 3.4. Tally at twelve of twelve, reconciled at every shift change. It continues to walk toward unreported injuries, which remains the only reliable detector of them the wing possesses.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Welfare Office, standing rule>**
+No person may make a report concerning their own condition. A worker's injury, illness, exhaustion or unfitness enters the record when another person observes it and files it. A statement by the affected worker about themselves is not received and is not admissible.
 The sorrow of a healer who could not save everyone and carried the pain of every person she failed to reach.
 
 **Entry 4 — <Containment Notice>**
-Management: Do not attack. Guide it gently back and prevent unauthorized contact.  Violence produces confusion rather than aggression.
+Management: do not strike it, call the tally aloud, keep the injured behind the rail, authorise every acceptance of healing by name and in writing, and guide it back on foot.  Violence produces confusion rather than aggression.
 
 **Entry 5 — <Archive Note>**
-Containment records trace the crystallization to this location — the sorrow grew patient and specific until it became a presence that cannot be removed, only held.
+The crystallization is traced to Zone B and the Office's own holdings explain the density better than the survey does. Four thousand one hundred and six reports in one hand, all of them about other people, accumulated across forty-one years in a district where a condition does not exist until somebody else writes it down. The entity that came out of it treats what nobody has mentioned, and keeps it.
 
 ## 최종 관찰 (Final Observation)
 
@@ -328,22 +329,22 @@ It approaches as if you are the most important person in the world. Its hands fi
 
 The Kind Healer does not exist in isolation. Its recorded relationships with The Smothering Mother, The Orphaned Bell, The Forgotten Soldier, The Frozen Veil, The Hollow Choir should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Tally reconciled before and after by both keepers, shudder timed at every contact, and no pairing run at all with any holding that can produce an injury.
 
 
 ### Entity Interaction Record
 
-The Kind Healer must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Kind Healer must be kept distinct from the holdings it is often filed beside. Unheard keeps words that were said and had no standing; this one keeps a condition nobody else happened to look at, which is why its figure is a shudder length and not a radius. Its own chain — Blessing Giver, Apostle Maker, and the two twelfth-blessing outcomes — is a separate matter from its interactions and must not be read as one.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Smothering Mother** | Shares a silent understanding of protection. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Orphaned Bell** | Cannot heal the Bell; its sorrow is too deep. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Soldier** | Cannot heal him; duty is not a wound. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Frozen Veil** | Refuses to approach; warmth cannot penetrate the cold. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Choir** | Listens and absorbs their sorrow song by song. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Smothering Mother** | The two keep station together and neither interferes with the other. Personnel between them find themselves unable to leave the space, gently and completely. | Movement restriction without force. Four pairings, four cases of personnel detained for the duration. | Record who was held and for how long. Pairings run only with a Warden outside the space holding the door. |
+| **The Orphaned Bell** | It attends the Bell and can do nothing with it. It stays regardless, for the whole of the pairing, and shudders without having treated anything. | No change in either gauge; the shudder occurs anyway and runs long. | Time the shudder. It is the only recorded instance of the response without a treatment. |
+| **The Forgotten Soldier** | It examines the Soldier thoroughly and finds nothing to treat. The Soldier remains at attention throughout and neither holding alters. | Null result, repeated four times. The examination takes longer each time. | Record the duration of the examination, which is the only figure that moves. |
+| **The Frozen Veil** | It will not approach. This is the only thing in the archive it has ever declined to go toward, and it declines at a consistent four metres. | Stand-off at four metres, every time, with hand brightness falling while the Veil is present. | Measure the stand-off and the brightness. Do not force the approach. |
+| **The Hollow Choir** | It takes the Choir's sorrow in, one voice at a time, and the Choir quietens as it goes. The shudder runs continuously for the whole of the pairing. | The Choir improves measurably and this holding does not recover for several days. | Not to be repeated without medical standby. Three pairings, three multi-day recoveries. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline shudder, pairing at the rail, tally called at every contact, and an immediate separation order the moment it begins treating the other holding.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -373,18 +374,18 @@ Some sorrows are about receiving harm. The Kind Healer's sorrow is about failing
 > *“The holiest life can end in a radiant and perfect hollow.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-071 [LS]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-Iα-071 [LS]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Subject-Body manifestation
 **Common Name:** The Kind Healer
 **Containment Status:** Contained — Zone B
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Healer tends the city’s abandoned. She cannot heal herself. Effect: proximity induces compassion paired with the weight of failure.
+**Comprehension Level:** 4 — Mastered
+**Threat Assessment:** Minor (α) as it stands, and the tier is about this stage only: the transformation chain above it is graded separately and the twelfth blessing has gone both ways in the archive's history. Proximity induces compassion and the weight of what the compassion costs.
 **Containment & Handling Procedures:**
-- Flerehan is the only valid Work Type.
-- The Healer’s compassion is genuine but costs her remaining identity.
+- Flerehan is the primary Work Type. Ferrehan also lowers the gauge and is restricted because acceptance advances the tally; Pugnahan is prohibited.
+- The compassion is genuine and it is not free; what it lifts off a worker it holds, and the holding is visible for seconds afterwards.
 **Observation Notes:**
-- A woman who tended the poorest for a lifetime; could not save them all.
-- Her compassion crystallized; she continues healing but cannot heal herself.
-**Cross-References:** Zone B · The Hollow Saint · The Kind Healer’s Shadow · The Dawn of Mourning
+- A woman who tended Zone B for forty-one years and filed 4,106 reports, all of them about other people.
+- Her condition appears nowhere in the Office's holdings. The first document about it is the entry recording her death.
+**Cross-References:** Zone B · The Hollow Saint · The Kind Healer’s Shadow · The Dawn of Mourning · The Hand of Hope · the Welfare Office rule against self-report · the Looking Round
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** An unnamed woman of Zone B.
 
@@ -393,6 +394,26 @@ Some sorrows are about receiving harm. The Kind Healer's sorrow is about failing
 **Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Care Record
+
+### Timing the Shudder
+
+Nine treatments were authorised last year, which is the whole of the sample and is why the figure is taken to a tenth of a second. The attendant starts the watch the instant contact breaks and stops it when the shaking stops: 6.8 seconds, after 5.1 and 3.4. Nothing else about the holding has altered. The healing is instantaneous and total, the hands are as bright, the tally is reconciled twice a shift, and the chain above it has not moved since the twelfth blessing resolved. The figure tracks no containment variable at all. It tracks one line in the Welfare Office's annual return: workers who completed ten years of service without once being the subject of a report by anybody.
+
+No person here may report their own condition. If a worker is hurt, ill, exhausted or unfit, that fact enters the record when somebody else sees it and writes it down, and a statement by the worker about themselves is not received. The rule is not callousness and the first volume is blunt about where it came from. Self-reporting was the instrument of the worst decade in the Office's history: men were required to account for their own fitness and were dismissed on their own words; officers took a worker's description of his back and read it back to him as evidence of malingering; in the Year 4192 proceedings, forty-one workers signed accounts of their own conditions that were used, verbatim, to deny every one of their claims. A person cannot be condemned out of their own mouth if their own mouth is inadmissible. Nobody who has read the 4192 file wants self-report back.
+
+Its consequence is that a condition exists only if somebody looked. For most people, most of the time, somebody does. For the person whose whole function is looking at others, there is a gap in the middle of the system shaped exactly like her: she files, and files, and is never filed about, and nothing in the procedure is capable of noticing that. The Office has 4,106 reports in one woman's hand covering forty-one years of Zone B, and against her own name an engagement record, a pay line, an attendance run and a death entry. No duty was breached. Everybody did exactly what they were supposed to do.
+
+### The Looking Round
+
+Instituted Year 4233. Each person on the establishment is allotted, by lot and re-drawn annually, one other person. Once a week they must look at that person and file one line: either what has changed about them, or that nothing has. The return is compulsory, it is one line, and it may not be based on asking.
+
+Year 4237: 52,000 names in the draw; 2,704,000 weekly returns due and 2,611,900 filed; 94 per cent reading *nothing seen*; 1,106 returns that led to a treatment the worker had not themselves mentioned; 2,206 people who nevertheless completed ten years with no report of any kind against their name, which is the figure the Zone B watch sets the shudder against; and 611 allotments in which the watcher was themselves absent, sick or dead for most of the year, the lot having no means of knowing.
+
+The costs are set out at the head of the return. Allocation is by lot because allocation by acquaintance would put the duty in the hands of exactly the people a worker most wants not to be reported by, so most watchers are strangers from other wards who could not tell a change if they saw one, and 94 per cent of the corpus says so in as many words. The watcher may not ask. A question invites a self-report, a self-report is inadmissible, and an answer given with a foreman in the doorway is the 4192 proceedings all over again. And the duty is distributed perfectly evenly, which means it is nobody's in particular: 92,100 returns simply were not filed last year and the Office prosecuted none of them, because prosecuting would make the looking a discipline matter and a discipline matter is not a thing anybody does kindly.
+
+The watchers asked for one question. Four words — *are you all right* — and permission to write down the answer. Refused, and the refusal is right in the way that the worst of these refusals are always right: the answer is a self-report however it is obtained, and the moment it is written down it can be read back to the person who gave it, which is precisely what was done to forty-one men in 4192. The watchers' application stands in the Year 4236 return, recorded as correct and unanswered: that this Company stopped taking people's own word about themselves so that their own word could never again be used to ruin them, and has thereby arranged that a woman may walk a district for forty-one years, write four thousand reports about other people's pain, and leave behind no record of her own except the one that says she stopped.
+
 ## Trivia
 
 - The Healer cannot heal itself.
@@ -404,8 +425,8 @@ Some sorrows are about receiving harm. The Kind Healer's sorrow is about failing
 
 - **Classification detail:** The Kind Healer is a Subject with Residue (I) — Barely formed, passive coherence and Minor (α) — Low danger; transformation risk catastrophic potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-B-02, Zone B — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A soft humanoid of warm Han-crystal, hands faintly lit, moving unhurriedly toward anybody who is hurt. Comfort-warm to stand near; salt-damp and cold rain on old cloth in the air.
+- **Record detail:** The Registrum read Entity (IV) and Major (γ) against a Residue (I), Minor (α) header and gave Comprehension Level 3 against 4 — Mastered. It named Flerehan the only valid Work Type where Ferrehan also lowers the gauge. The breach quotation claimed indiscriminate hunting against a Special Behaviour that records it seeking the wounded, and the escalation notes prescribed forcing it back through Pugnahan, which this holding does not understand and which the standing order forbids. Entry 2 was dated `Year 4232+1778`, an unreduced arithmetic string. All corrected. The transformation chain and the current 12 of 12 status are untouched.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
