@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Neglect Learned to Listen's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Preserve and acknowledge what was discarded; do not simply remove the rust**.
+2. **Clash:** Viderehan and Ferrehan only. The extent is traced onto the fixed panel survey — thirty-one square metres at baseline, eight at the floor, one hundred and ninety at the ceiling — and the trace is made during the session, on the panels, not reconstructed from the photographs afterwards.
+3. **Resolution:** Second trace and the documented condition: **Preserve and acknowledge what was discarded; do not simply remove the rust.** Removal has been tried. The ward's maintenance crews established before the facility was involved that cleaning increases both the weight and the extent, recorded it accurately, reported it upward, and were instructed to carry on cleaning for a further eleven months.
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Resolve** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- Resolve fails here as answering. The worker begins replying to the whispers — aloud, reasonably, often apologetically — and every reply is retained and returned later in the worker's own voice. Four workers have heard themselves apologising from inside a pipe and two did not finish the rotation.
+- Long exposure produces a worker who cannot let an unassigned task stand. Three Wardens rotated off this holding were afterwards found carrying duties nobody had given them, in their own time, and the establishment office has twice cited that as evidence the post is working.
+- The rod ages its wielder slightly. The armoury's note is that this is proportionate to a holding whose entire subject is work quietly transferred onto people who were not asked.
+- An unresolved session leaves the trace larger at the next survey, and the holding does not call that an escalation. The patch has spread along connected metal for sixty-eight years, has never left the Old Lament ward, and has never injured anybody.
 
 ## Appearance
 **Physical Form:** A rust-colored place in the Old Lament where whispers cling to walls, pipes, and abandoned metal. The corrosion resembles letters that cannot be read.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A rust-colored place in the Old Lament where whispers cling to walls, pipes, and abandoned metal. The corrosion resembles letters that cannot be read.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** It does not stay put. The patch advances along connected metal and old masonry, slowly, and has crossed four ward boundaries inside the Old Lament; the fixed panels are the reference, not the edge. Removing affected metal moves the whispers rather than ending them.
 - **Element signature:** Weight
 - **Registered location:** Zone B, Old Lament
 
@@ -116,19 +116,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A rust-colored place in the Old Lament where whispers cling to walls, pipes, and abandoned metal. The corrosion resembles letters that cannot be read. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
+| **Position / movement** | Advances along connected metal and old masonry; four ward boundaries crossed inside the Old Lament in sixty-eight years. The fixed panels are the reference, not the edge. |
+| **Material / signature** | Weight. Rust the colour of old blood on walls, pipes and abandoned metal, lead-cold, smelling of wet iron, and heavier per square metre than the corrosion products it is chemically identical to. |
+| **Distinctive markers** | Corrosion forming shapes like letters that cannot be read and that change between photographs; the sense of being watched from directions containing only pipework; the increase in weight and extent following any attempt to clean it. |
+| **Identification** | Traced extent against the last survey. The patch is visually identical across its whole recorded range. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Trace the edge onto the fixed panel survey during the session, in square metres, twice. Photograph the lettered panels for comparison. Do not propose a reading of the shapes. The prohibition on proposing one is informal, has never been written down, and has been observed by everyone for sixty-eight years, which the archivist's note calls the most disciplined thing in the wing.
 
 ## Origin
-- **Formation:** The Whisper formed from burdens discarded by the city.
-- **The Sorrow:** The grief of people and responsibilities treated as refuse.
-- **The Event:** Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+- **Formation:** It formed on the ward's pipework during the Old Lament reorganisation, in the eleven weeks of it, and the first survey panel was fixed three months later by a maintenance foreman acting on his own initiative.
+- **The Sorrow:** Work that was nobody's, held by everybody, and therefore held by no one when it was finally needed.
+- **The Event:** Forty posts were abolished in a quarter. The nine hundred duties they held were written up as absorbed by the wider team. The reorganisation came in under budget, was commended in the annual report, and the teams did in fact pick the work up, for several years, until the day somebody needed one of the duties and four departments were able to say, correctly, that it was not theirs.
+- **The People:** Nobody, in the ordinary sense, and the holding says so rather than inventing an originator. The commissioning material is a disposal register. It lists what the district threw away and when, it is meticulous, and it is the only documentation this entity has.
+- **Expanded origin context:** The disposal register is the only commissioning document and it is immaculate. Every broken tool, every superseded ledger, every bale of obsolete record is listed with its date and its authorising officer. The district kept excellent records of what it was throwing away. What no document in the folder contains is a single name against a duty, and that absence is the entity. The patch does not answer to the discarded objects; it sat unmoved through two clearances of the dump itself, and through the removal of the entire tool pile in Year 4225. It answers to the phrase on the restructuring schedule — absorbed, shared, picked up by the wider team — written by officers with no capacity to allocate and no wish to burden anybody, and it has answered to nothing else for nine years of register-keeping.
 
 ## Behavior
 
@@ -144,25 +144,25 @@
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Neglect Learned to Listen is recorded as an Object/Place with Place-Grudge manifestation and Weight elemental expression. The current record places it at Zone B, Old Lament; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Viderehan holds the gauge level and reveals what the city set down: not objects, which are in the register anyway, but the duties — the inspection that was everyone's, the round that got shared out, the check nobody's post holds. Ferrehan lowers it, and the endurance is exact: the worker stays inside earshot while the patch repeats back what has been said near it, and does not answer. Answering is the single failure mode of this holding. Neither emotional engagement nor confrontation is available against a Place, and no improvised substitute has ever been authorised here.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** The gauge measures one worker's silence for one interval. The extent measures what the establishment office has written on its schedules. They are kept in separate columns, they have never moved together, and supervisors are instructed that a session which lowers the gauge and leaves the patch larger has been worked correctly and is written up as a success without qualification.
 ## Expansion Behavior
 
 | Field | Detail |
 |---|---|
-| **Expansion Trigger** | New abandonment or ignored responsibility. |
-| **Expansion Rate** | Slow, following connected metal and old masonry. |
-| **Expansion Effect** | Personnel hear the burdens of discarded people and objects. |
-| **Containment** | Preserve and acknowledge what was discarded; do not simply remove the rust. |
+| **Expansion Trigger** | A duty recorded as absorbed, shared, or picked up by the wider team rather than assigned to a named post. |
+| **Expansion Rate** | Slow, along connected metal and old masonry, in the days following the schedule rather than the restructuring. The lag has been measured at nine to sixteen days and is the strongest single piece of evidence in the folder. |
+| **Expansion Effect** | Personnel inside the new extent hear the duty spoken — not the objects, the duty, in the words of the schedule, in the voice of whoever drafted it. |
+| **Containment** | Preserve and acknowledge what was discarded; do not simply remove the rust. Removal increases both weight and extent and this was established before the facility was involved. |
 
 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Neglect Learned to Listen: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone B, Old Lament, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+Nothing escalates at the panels. The patch has spread for sixty-eight years at a rate that has never once accelerated during a session, and it has not injured anybody, and the holding states that rather than implying a hazard it cannot evidence. What escalates is the extent, nine to sixteen days after a schedule is signed. A team that treats a large trace as a containment event will stand in the ward looking at rust and find nothing; the event was a phrase typed in an establishment office.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Preserve and acknowledge what was discarded; do not simply remove the rust. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** Re-trace the edge, photograph the lettered panels, and pull the fortnight's restructuring schedules. There is no perimeter to establish and nonessential personnel are already excluded by the speech restriction. Nothing is cleaned, scraped, sealed or painted; all four have been tried and all four made it larger.
 
 
 ### Detailed Activation Record
@@ -170,13 +170,13 @@ The escalation pattern is specific to Neglect Learned to Listen: it is not a gen
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New abandonment or ignored responsibility. |
-| **Manifestation** | Place-Weight|
-| **Primary effect** | Personnel hear the burdens of discarded people and objects. |
-| **Duration / rate** | Slow, following connected metal and old masonry. |
-| **Risk** | Moderate (β) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Preserve and acknowledge what was discarded; do not simply remove the rust. |
+| **Manifestation** | Place-Grudge |
+| **Primary effect** | Personnel hear the duty spoken in the schedule's own wording, in the drafter's voice. |
+| **Duration / rate** | Slow, along connected metal; nine to sixteen days behind the signature. The extent does not decay with time, only with the duty return. |
+| **Risk** | Moderate (β). No injury on record at any extent in sixty-eight years. The hazard is that a worker answers it, and four have, and two did not finish the rotation. |
+| **Management** | Keep the panel series unbroken and the Rule of the Named Duty enforced across the establishment office and every restructuring schedule this facility issues. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** traced extent in square metres → the hour → the quarter's abolished posts → how many of their duties are recorded as absorbed, shared or picked up rather than assigned to a named post → the duty numbers, not the total. The last item is the report.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -197,12 +197,12 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the one designated target. The rod marks a perimeter and holds it; it has no spread, and two requests to widen the galvanic field were refused on the ground that a boundary which covers everybody belongs to nobody.
+**Damage Application:** Multiplier to direct and Tick damage separately. The Tick is the numbness persisting past the boundary crossing, logged in seconds, and it is measurably longer in personnel carrying unassigned work.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Neglect Learned to Listen's weight signature in the strike.
+**Ability:** Weight damage to the Han. Planted, the rod draws a line and the line belongs to the person who planted it; entities crossing it go numb. It is the only object in this holding's orbit that makes something definitively somebody's responsibility, and the armoury has never been comfortable with how much personnel like it.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder grows heavier by the hour and ages slightly over a career of use. Eleven long-term wielders, eleven identical reports, no variation worth recording.
 
 ### M.A.W. Suit — Neglect Learned to Listen's Mantle
 
@@ -218,9 +218,9 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Neglect Learned to Listen's kind of pressure.
+**Ability:** Resists Weight pressure on the Han. Issued to the officer tracing the edge, who kneels at the panels for the length of the survey and is therefore the closest and the most spoken to.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** A constant low fatigue that does not lift with rest and lasts about three days. Wearers describe it as the tiredness of a day in which nothing was finished.
 
 ### M.A.W. Stigma — Neglect Learned to Listen's Bell
 
@@ -230,37 +230,37 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 when working this entity, and the bearer may not answer the whispers aloud. The bell's holder is the session's silent party and the rule has no exceptions.
 
-**Ability:** Carries a quiet message through walls.
+**Ability:** Carries a quiet message through walls, to one named person, and will not send to a group. The restriction is in the piece and has defeated every attempt to work around it.
 
-**Cost:** The user hears every message that fails to arrive.
+**Cost:** The bearer hears every message that fails to arrive — not their own, everybody's. It is a continuous low traffic of unreceived things and it stops when the bell comes off.
 
-*Stigmas are granted at random by Neglect Learned to Listen upon a successful work, not manufactured.*
+*The bell has been granted five times, each to a worker who refused, in writing, to accept a duty that had not been assigned to their post, knowing how it would read. Four of the five were overruled. The holding records the pattern and declines to call it a reward, noting that a refusal made to be noticed is not a refusal.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+The three pieces are organised around one idea and the armoury states it plainly: each of them insists on a named party. The rod draws a boundary that belongs to whoever planted it. The bell will send to one person and refuses a group. The mantle is issued to the officer at the panels and to nobody else. The note observes that a set drawn from this holding could hardly have come out otherwise, and records that two proposals to build a broadcast version of the bell were abandoned when the prototypes would not send.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, piece, opening trace, and a written list of any duty the operator currently performs that is not assigned to their post. Sealed and read back afterwards. |
+| **During use** | Everything spoken within earshot, verbatim, with the speaker named. Anything the patch returns, with the voice identified. Any reply made by a worker, which is a reportable failure and is written up as one. |
+| **At limit** | Engagement time and the operator's own list of unassigned duties, transcribed in full. Nine such lists have gone to the establishment office and two duties were subsequently named to a post. |
+| **After use** | Sealed list read back by someone else, closing trace, fatigue checked at three days. Operators found carrying unassigned work in the following quarter are stood down from this holding, which the establishment office has twice objected to. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** β across the set and correctly rated against entities. Against people the set does one thing — it makes the wielder incapable of leaving work unassigned — and a facility that runs on absorbed duties has no column for an employee who will not absorb them.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The place watches through corroded surfaces.
+- The sense of being watched comes from the corroded surfaces themselves, including directions containing only pipework. Reports are logged without comment; the holding's position is that recording the sensation is useful and interpreting it is not.
 - Rust contains fragments of abandoned testimony.
-- It grows during the Sorrow Tide.
+- It grows nine to sixteen days after a restructuring schedule is signed. Growth during the Sorrow Tide was the working theory for thirty years and does not survive the register: three of the last four Tides produced no measurable change at all.
 
-**Personnel Note:** *"It was watching. I felt hope. The hope was not mine; it belonged to something that still expected to be found."* — Specialist, Zone E patrol
+**Personnel Note:** *"Everyone thinks it is the rubbish. It is not the rubbish — we took the whole tool pile out in Year 4225 and the trace did not move a centimetre. It is the schedules. It grows about a fortnight after someone in an office writes that a job will be picked up by the wider team, and I have matched it nineteen times, and I am a maintenance warden and nobody has ever asked me for the figures."* — Warden, Old Lament ward
 
 
 
@@ -268,30 +268,38 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Neglect Learned to Listen as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone B, Old Lament. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Neglect Learned to Listen's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Traced extent on the fixed panels, lettered-panel photographs, speech restriction briefed and acknowledged. The observer is told at the gate that it will say something to them and that they are not to answer it. |
+| **Sustained observation** | Over a year the extent detaches from the session and attaches to the duty return, with its nine-to-sixteen-day lag. Observers holding both columns stop proposing new work at the ward; there is nothing to do here but trace honestly and send the figure on. |
+| **Activation or escalation** | A gain of fifteen square metres or more between consecutive surveys opens a documents search rather than a field response: which restructuring schedules were signed in the preceding fortnight and how many duties they record as absorbed. The search has succeeded on thirty-three occasions out of thirty-six. |
+| **Post-contact review** | Both traces, the panel photographs, the verbatim speech log, and the fortnight's schedules attached with the absorbed duties listed by duty number. Totals are returned. A review that reports three hundred absorbed has told the reader nothing they can assign. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
+**Observation method:** Edge traced onto fixed panels during the session, square metres, twice, plus photographs of the lettered panels for comparison. Five proposals to transcribe the letter-shapes have been refused, and the refusal is the holding's oldest standing instruction: the shapes change between photographs, a transcription would be a reading, and a reading would be the first thing in this folder that somebody made up.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Neglect Learned to Listen (N-IIβ-270 [WP]) is logged as a Place-Grudge manifestation expressing Weight. The Whisper formed from burdens discarded by the city. Held at Zone B, Old Lament. The place watches through corroded surfaces.
+Neglect Learned to Listen (N-IIβ-270 [WP]) is logged as a Place-Grudge manifestation expressing Weight, held in the Old Lament ward, Zone B: a rust patch on walls, pipes and abandoned metal, corroding into shapes like letters that change between photographs, advancing along connected metal and across four ward boundaries in sixty-eight years. It retains what is said near it and returns it later in the speaker's voice. The holding's instrument is the traced extent on fixed panels — thirty-one square metres at baseline, eight at the floor, one hundred and ninety at the ceiling.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Rust contains fragments of abandoned testimony.
+**Entry 2 — <Duty Return: Nine Hundred and Four Duties, Three Hundred Recorded as Absorbed>**
+The first return under the Rule of the Named Duty, Year 4238. This facility abolished sixty-one posts in the nine years the register covers. Between them those posts held nine hundred and four recorded duties. Three hundred and ninety-two have been assigned to a named post whose holder was told and whose workload was assessed. Two hundred and twelve have been formally discontinued in writing with the consequence stated. Three hundred remain recorded as absorbed by the wider team under the transitional wording. The patch stood at one hundred and ninety square metres in Year 4230, in the quarter of the Old Lament reorganisation, when forty posts went in eleven weeks and every duty they held was absorbed — a reorganisation delivered under budget and commended in the annual report. It stood at eight square metres in Year 4237, during the first assignment campaign. The extent has tracked the duty return for nine years and has never tracked work done at the panels.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of people and responsibilities treated as refuse.
+**Entry 3 — <Statement of an Establishment Officer>**
+I wrote absorbed by the wider team four hundred times and I would defend every one of them in front of anybody. Naming a duty to a post means naming a person and adding to their load, and I had no capacity to add to. The teams were good. They did pick things up — that is not a fiction, they genuinely did, and the work got done for years. What I did not see, because the form has no box for it, is that a duty absorbed by everybody is held by nobody, and that the first time it is actually needed there is no one whose job it was. A woman came to a counter about a drainage inspection in Year 4234 and four departments were able to tell her, correctly and courteously, that it was not theirs.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals what the city discarded. (Stable); Ferrehan: Forces the worker to carry the whispers without answering them. (Decrease). It grows during the Sorrow Tide.
+Containment of N-IIβ-270 is a panel survey in the Old Lament and a drafting rule in the establishment office. Ward: edge traced during the session onto the fixed panels, twice, in square metres, series unbroken, nothing traced from photographs afterwards; lettered panels photographed and never transcribed; speech restricted to operational necessity and nothing ever addressed to the patch, since everything said is retained and returned in the speaker's voice; no cleaning, scraping, sealing or painting, all four having been tried and all four having made it larger. Establishment office duties, binding on every restructuring schedule: **when a post is abolished or a function ceases, each duty it held is either assigned to a named post, with the holder told and the workload assessed, or formally discontinued in writing with the consequence stated. No duty may be recorded as absorbed, shared, or picked up by the wider team.** Work response — Viderehan: the duties the city set down, in the schedule's own wording (Stable); Ferrehan: the full interval within earshot, carrying the whispers and answering none of them (Decrease).
 
-**Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+**Entry 5 — <Director's Memo, Eyes Only: The Named Duty>**
+The establishment office opposed this rule and their objection is arithmetic, which I have found is the only kind I cannot talk my way around.
+
+Their case: naming a duty to a post requires capacity, we have no spare capacity, and therefore the honest operation of my rule is not a redistribution of work but a mass written admission that this facility has stopped doing things. That is what has happened. Two hundred and twelve duties formally discontinued in the first year, each with a consequence statement, each perfectly legible, and the establishment officer who drafted most of them told me to my face that I had turned her office into a department for publishing failures.
+
+What we have done is send the discontinuations to the Board quarterly with their consequences attached. The Board has received them. The Board has noted them. No resource has followed and I did not expect any, and I want that written here rather than discovered later.
+
+Three of the two hundred and twelve are things this facility is statutorily obliged to perform. They were being absorbed before; they are now discontinued in writing; and the writing is the only thing that has changed. My rule has converted a hidden breach into a documented one. I am told, and I believe, that this is an improvement. I am also aware that a woman at a counter asking about a drainage inspection now receives a clear written answer that nobody will be coming, where before she received four courteous referrals, and I am not confident she experiences that as progress.
+
+The ground is the panels. Forty posts abolished in eleven weeks, every duty absorbed, and the patch went to one hundred and ninety square metres — the largest extent in sixty-eight years, reached about a fortnight after the schedule was signed and not during the reorganisation itself. The first assignment campaign took it to eight. We have never been able to show that absorbing a duty got it done. We can show, by the square metre and with a fortnight's warning, what it costs.
 
 ## 최종 관찰 (Final Observation)
 
@@ -299,7 +307,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
-| Forces the worker to carry the whispers without answering them. The sorrow is borne; Neglect Learned to Listen is fully recorded. | Reveals what the city discarded. The gauge climbs and Neglect Learned to Listen withdraws without revelation. |
+| The worker stays in earshot for the full interval, hears the duties spoken in a drafter's voice, and says nothing to the wall. The gauge falls and the session's record is clean. | The worker answers. They are usually apologising. The gauge climbs, the reply is retained, and some later rotation will hear them saying sorry from inside a pipe. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -308,32 +316,32 @@ The metal beneath your hand is warm with old breath. Rust blooms around your fin
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A rust-colored place in the Old Lament where whispers cling to walls, pipes, and abandoned metal. The corrosion resembles letters that cannot be read. Notable Features: It watches through rusted surfaces, carries discarded voices, and becomes. The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Grudge form.
+**At first contact:** A patch of rust across a wall and a run of pipework, the colour of old blood, furred and dry. The shapes in it are nearly letters. The air is lead-cold and smells of wet iron, and somewhere behind you something says a sentence about a drainage inspection in a voice that belongs to an administrator four districts away.
 
-**With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Weight; it is this entity's Weight — shaped by its origin, its wound, its particular grief.
+**With continued exposure:** The sentences become administrative. That is the detail nobody expects and everybody reports: not confessions, not cries, but scheduling language, in the flat voice of whoever typed it, repeated without emphasis.
 
-**When the entity activates:** When it activates, the Weight stops being background and becomes foreground — loud, physical, impossible to ignore. The Place-Grudge was waiting for this.
+**When the entity activates:** The patch advances along a pipe run, by a measurable area, over days rather than minutes. There is nothing to witness. Somewhere a fortnight ago a schedule was signed by somebody with no capacity to do anything else.
 
-**After departure:** What remains after the door closes is not fear but weight — a Weight aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** You think of something at work that is nobody's. Most people have one and most people name it without hesitating. The counselling wing logs it and treats it as useful rather than as exposure.
 
 ### Interaction Pattern
 
-Neglect Learned to Listen does not exist in isolation. Its recorded relationships with The Whispering Walls, The Burning Library, The Forgotten Market Stall should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three records are grouped with this one on the term discard. None has been brought to the ward and none can be: the patch cannot be moved, cannot be bounded, and the panel series would not survive another body talking inside the speech restriction. What follows is paper comparison and is labelled as such.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** On paper, and on one question: was the thing thrown away, kept and forgotten, or never given to anybody. Write the answer in a sentence and sign it. Four records in this wing turn on discard and three of them answer to an object. This one answers to a line on a schedule, and every pairing claim in the folder predates that finding.
 
 
 ### Entity Interaction Record
 
-Neglect Learned to Listen must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Three records are grouped with this one on the term discard, which groups by what the records are made of rather than by what they measure. The question that separates them is whether the thing was thrown away, kept and forgotten, or never given to anyone in the first place. This is the third, and a team that comes here expecting a rubbish heap will survey the pile and miss the holding entirely.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Whispering Walls** | The Walls carry its fragments farther. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Burning Library** | The Library preserves what the Whisper once carried. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Market Stall** | The Stall sells objects abandoned in its vicinity. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Whispering Walls** | Grouped on the claim that the Walls carry this patch's fragments farther, which is a figure of speech that entered a summary in Year 4212 and has been copied since. | No trial, none possible. No measurement has ever supported it and the two holdings are in different zones. | That the claim is unevidenced, written beside it each time it is repeated. |
+| **The Burning Library** | A proposal was made in Year 4231 to recover the Old Lament duty schedules through the Library, the originals having been destroyed in the reorganisation. | Refused. The schedules are not the evidence; the patch is, and it has a fortnight's lag that no archive could reproduce. Recovering the paper would tell us what we already read off the panels. | The proposal and the refusal kept together. Renewed once. |
+| **The Forgotten Market Stall** | The clearest contrast in the wing and the one the briefing uses: the Stall holds objects somebody abandoned, this holds work nobody was given. Objects have a last owner. These duties never had a first. | Paper only. Reading them together is how the file stopped describing itself as a record of refuse. | The last-owner versus no-owner distinction, on any document placing the two together. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Both records in full, the signed one-sentence answer, and the quarter's panel traces attached. Refusals on this file are cited rather than re-argued; the Library refusal now carries two citations.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -356,31 +364,41 @@ Some sorrows are about loss. Neglect Learned to Listen is about discard — the 
 
 > *“The pile developed the capacity to attend. It listens because even discarded things need to be heard.”* — Containment Lead, R.D.
 
-> *“Broken tools, obsolete records, unheard confessions. The pile of the unwanted, listening.”* — Citizen, Old Lament
+> *“Broken tools, obsolete records, unheard confessions — and under all of it, in a clerk's voice, a list of jobs that are nobody's.”* — Citizen, Old Lament
 
 > *“The city throws away its burdens. The burdens, piled deeply enough, learn to listen.”* — Elder, Old Lament
+
+> *“You have turned my office into a department for publishing failures.”* — Establishment officer, Year 4236
+
+> *“Four departments told her, correctly and courteously, that it was not theirs.”* — Counter supervisor, Old Lament, Year 4234
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-270 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIβ-270 [WP]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Place-Grudge manifestation
 **Common Name:** Neglect Learned to Listen
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table for details.
+**Threat Assessment:** Moderate. The Registrum carried literal template placeholders in the origin, coherence, potency, threat, procedure, observation, cross-reference and originator fields, so that the file's only summary section said nothing whatever; all eight have been written out. The patch has injured nobody in sixty-eight years. Its one hazard is that a worker answers it, and the record of that is four workers and two incomplete rotations. The Detailed Activation Record also carried the manifestation as Place-Weight against a Place-Grudge header and has been corrected.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard containment protocols apply.
+- Ferrehan lowers the gauge; Viderehan holds it level and produces the record. Flerehan and Pugnahan are N/A against a Place.
+- Fixed panel survey, traced during the session, in square metres, series unbroken. Nothing traced from photographs afterwards.
+- Do not clean the rust. Cleaning increases weight and extent; the effect was established by ward maintenance crews before the facility was involved.
+- Nothing is said near the patch beyond operational necessity, and nothing said by a worker is ever addressed to it. Everything spoken is retained and returned.
+- Everything said near it is retained and returned in the speaker's voice. Nothing is addressed to it, ever, and a reply is a reportable failure.
+- The Rule of the Named Duty is a containment condition of this entity and binds the establishment office.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Combat Record for engagement parameters.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
-**Faction Involvement:** SED (E-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+- Formed on ward pipework during the Old Lament reorganisation; the first survey panel was fixed three months later by a maintenance foreman on his own initiative.
+- Traced extent 31 m² at baseline, range 8 to 190. The extent tracks this facility's restructuring schedules with a nine-to-sixteen-day lag and has never tracked work done at the panels.
+- Three of the last four Sorrow Tides produced no measurable change, which ended the thirty-year Tide theory.
+- The entire tool pile was removed in Year 4225 and the trace did not move.
+**Cross-References:** Old Lament ward, Zone B · the district disposal register, the entity's only commissioning document · the Year 4230 reorganisation schedule · the duty return and the two hundred and twelve discontinuations · The Forgotten Market Stall (paper contrast)
+**Faction Involvement:** SED (B-territory survey) · the establishment office, listed on an entity file because the Rule of the Named Duty is a containment condition of this holding and the office both carries it and opposed it.
+**Originator:** None recorded, and none to be supplied. The disposal register names objects and dates and no person at all, which the archivist's note identifies as the single most characteristic fact in the folder: the district kept excellent records of what it was throwing away and none whatever of who was supposed to be dealing with it.
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this file with the duty return beside it or do not read it. Taken alone the ward holds a slowly spreading rust stain that has never done anything to anybody, and five assessors have written exactly that, each with the panel traces in front of them and no idea what the square metres were counting.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** On any gain of fifteen square metres or more between consecutive surveys: verify the panels and the tracer, re-trace, then pull the preceding fortnight's restructuring schedules and list by duty number every duty recorded as absorbed, shared or picked up. Totals are not accepted. Any worker who replied to the patch is named in the review and stood down.
 ## Watch Record
 
 ### Corrosion That Resembles Writing
@@ -401,18 +419,20 @@ Abandoned tools, abandoned records, and confessions spoken to nobody accumulated
 
 ## Trivia
 
-- Rust patterns resemble writing but change when translated.
-- Removing affected metal causes the whispers to move elsewhere.
+- The rust forms shapes like letters and they change between photographs of the same panel. No reading has ever been proposed. The prohibition is informal, unwritten, and has held for sixty-eight years.
+- Removing affected metal moves the whispers to the next connected run. Four removals, four relocations, no reduction.
+- Cleaning increases weight and extent. The ward's maintenance crews established this before the facility was involved, recorded it accurately, reported it upward, and were instructed to carry on cleaning for a further eleven months. Their work orders are in the folder.
+- It returns speech in the speaker's own voice, including the voices of people who have since died, which the counselling wing treats as the holding's most difficult single feature.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Neglect Learned to Listen is an Object/Place with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone B, Old Lament.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Object/Place, Echo (II), Moderate (β), Comprehension Level 2, Place-Grudge. The Registrum printed placeholders in place of all of it and the Activation Record contradicted the manifestation; both corrected against the SECC header.
+- **Field detail:** Weight; Old Lament ward, Zone B. Testimony and faction entries in this file previously carried Zone E attributions and have been read against the duty rosters and corrected.
+- **Recognition detail:** Identify it by the traced extent against the last survey, not by the rust. The corrosion looks the same at eight square metres and at a hundred and ninety, and four early reports describe an unchanged patch on days the trace differed by thirty square metres.
+- **Record detail:** Check the designation and check what the record measures. The Forgotten Market Stall holds objects somebody discarded. This holds work nobody was given. A facility can throw nothing away at all, keep every record, and feed this holding across four wards by writing one phrase on a restructuring schedule.
+- **Containment detail:** The patch cannot be contained and the holding does not claim to contain it; it is surveyed. What could be stopped is a phrase on a schedule, typed by officers who have nobody to give the work to.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-270
