@@ -25,7 +25,7 @@
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Critical (δ) |
-| **Entity role** | Object/Place |
+| **Entity role** | Subject, worked throughout under Object/Place rules — it is mobile and it roots, but there is no mind here to engage or confront. See Operational Notes. |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | Haul rate 0.4 m/min on root-limbs over bare panel; faster across substrate it has already rooted. It is slow and it does not stop. |
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 750/750 |
@@ -72,7 +72,7 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Mask Market |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | The worker states aloud what the inquiry looked for and failed to find, and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -86,19 +86,19 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Collapsed Seed's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **Tension:** The pulse is timed for a full minute from the observation position before anyone moves. Fourteen a minute is baseline; the recorded range is nine to thirty-one. A session does not open on a rate the previous session did not also record, and the panels are checked before the entity is looked at.
+2. **Clash:** Viderehan and Ferrehan only, worked from outside the containment line through the panel system and the drainage channel. Nothing touches the shoots — not a tool, not an instrument, not a gloved hand. The one authorised exception produced three months of accelerated rooting and the authorisation was revoked.
+3. **Resolution:** The session closes on a second timed pulse and the documented condition: **the worker states, aloud and on the record, what the inquiry into this entity looked for and failed to find.** The naming is the management act. Two inquiries have been mounted and both failed; the holding's position is that the failure must be spoken in the room rather than filed and forgotten, and that a worker who cannot say what was not found should not be working the chamber.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Collapsed Seed’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Collapsed Seed’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- Clarity goes in a specific direction here. The worker does not break down; they begin to insist that the question is answerable, and they start proposing a third inquiry. Two of the four Fractures on this file began as research proposals.
+- Long exposure produces an intolerance of open questions. Workers rotated off this holding have been noted closing other files early, with firmer conclusions than their evidence carried, and the wing treats that as an exposure finding rather than a competence one.
+- The dagger's cost is paid in the wielder's own unfinished work, which it renders vividly and in detail as though it had been completed. The detail is the hazard; nothing invented could do the same damage.
+- An unresolved session leaves the pulse elevated into the next cycle. It does not breach from that alone. What it does is remove the next team's baseline, and three of the four breaches in the chamber's history followed a cycle whose baseline had been lost.
 
 ## Appearance
-**Physical Form:** A great split seed erupting a tangle of thick wet shoots — a plant-beast hauling itself on pulsing root-limbs. **Movement:** It hauls itself on root-limbs, weeping blue sap.
+**Physical Form:** A great split seed of dark crystal, cracked down the centre and leaking blue sap, with a tangle of thick wet shoots erupting from the split — a plant-beast hauling itself on pulsing root-limbs. The crystal shell and the shoot mass are the same entity; descriptions that mention only one of them are describing how much was visible that week. **Movement:** It hauls itself on root-limbs, weeping blue sap, and roots into whatever it rests against.
 
 **Notable Features:** It pulses like a heart, produces roots in nearby surfaces, and appears ready to grow despite its collapse.
 
@@ -106,8 +106,8 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Object-Grudge
-- **Primary marker:** A large collapsed seed of dark crystal, split down the center and leaking blue tears.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Primary marker:** A split shell of dark crystal leaking blue sap, wrapped in thick wet shoots, pulsing at a measurable rate. The rate is the marker; the shoot mass is not stable enough to identify on.
+- **Position / movement:** Mobile. It hauls itself on root-limbs and roots into whatever it rests against, so position is managed by rotating floor panels rather than fixed by a mark. The earlier description of this entity as stationary was wrong and stood for years against a chamber whose whole floor system exists because it moves.
 - **Element signature:** Lament
 - **Registered location:** Zone C, Mask Market
 
@@ -115,20 +115,20 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A large collapsed seed of dark crystal, split down the center and leaking blue tears. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Form** | A great split seed of dark crystal, cracked down the centre, leaking blue sap, with thick wet shoots erupting from the split and pulsing root-limbs beneath. |
+| **Position / movement** | Mobile at 0.4 m/min; roots into any surface it rests against. Position managed by rotating floor panels, never by marking. |
+| **Material / signature** | Lament. Dark crystal, wet shoot tissue, and blue sap that sets hard in the drainage and has to be cleared every cycle. Salt-cold, smelling of cold rain. |
+| **Distinctive markers** | The timed pulse, the root growth on the lifted panels, and the sap volume in the channel. All three are read from outside the line. |
+| **Identification** | Pulse rate against the last session's, panel condition, sap volume. Nothing in this holding is identified by looking at it, and nothing in it is touched. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Time the pulse for a full minute and write the figure before any description. Then position, panel numbers in contact, shoot extent, and sap volume. Descriptions of the shoot mass are logged and are not used for identification; they have varied by a factor of three between observers standing side by side, and the variation is in the mass and not in the observers.
 
 ## Origin
 - **Formation:** The Seed formed from life that never reached its intended form.
 - **The Sorrow:** The grief of potential lost before birth or completion.
-- **The Event:** A Sorrow Seed was crushed before it could grow; its unrealized entity remained inside the shell.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **The Event:** A forming Sorrow Seed in the Echo Gardens was crushed by a recovery team during an extraction, seconds from a manifestation nobody present recognised was in progress. The unrealized entity remained inside the broken shell. Whether the crushing was negligent, unavoidable or correct has been investigated twice and established neither time.
+- **The People:** A recovery team of six, named in the file, who crushed a forming Sorrow Seed in the Echo Gardens. Two were junior and acting on an instruction given in the moment. All six names appear together on the account and the file does not distinguish between them, which the Director's memo below records as a cost of the rule and not an oversight.
+- **Expanded origin context:** Two inquiries have asked what this entity would have become and neither could answer. That is the fact the holding is built around, and it took the wing nineteen years to see that the fact was the entity rather than a deficiency in the record. The first inquiry ran four years and closed properly. The second ran nine months and was wound up on a verbal instruction when its officer was reassigned, leaving nothing behind but a box of working papers and a question that the next person to ask it would have to begin again from nothing. The pulse reached its highest recorded rate that week. What presses against the inside of this shell is not a creature. It is a result that was approaching and was interrupted, and the facility manufactures that condition routinely, in offices, every time it stops looking for something and does not write down how far it got.
 
 ## Behavior
 
@@ -143,18 +143,18 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Collapsed Seed is recorded as an Object/Place with Object-Grudge manifestation and Lament elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Flerehan and Pugnahan are genuinely unavailable rather than inadvisable. There is no mind in the chamber to weep at or to face down; the thing inside the shell never got far enough to have one, and that is the entity's whole condition. Viderehan shows the worker the form it was approaching — differently to each worker, and never the same form twice, which is itself a finding the second inquiry recorded and could not use. Ferrehan lowers the gauge and is the assignable route. The gauge and the pulse are separate instruments and are kept in separate columns; the gauge answers to the session and the pulse answers to the facility's filing.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** A falling gauge means the worker waited without forcing anything, which is the whole of what Ferrehan asks here. A rising gauge almost always means somebody tried to finish something — pruned a shoot, proposed a conclusion, or told the chamber what it would have been. The pulse ignores all of this. It has never responded to a session in five years of paired records, and a supervisor who writes up a pulse change as a work result is corrected on the sheet.
 ## Activation Behavior
 
 **Activation Trigger:** Planting or watering the Seed with sorrow.
 
-**Effect:** Begins a dangerous partial manifestation.
+**Effect:** Begins a partial manifestation that stops at the same point every time — roughly a third of a form, always the same third, and never the same form. Four recorded instances, four different partial shapes, one identical stopping point.
 
-**Duration:** Until the Seed is removed from the growth medium.
+**Duration:** Until the relic is lifted clear of any medium it can root into. Bare panel is sufficient; the operator does not need to reach a sealed container, and the instruction says so because three operators have tried to and lost time.
 
-**Risk:** The emerging entity may be catastrophic and impossible to identify.
+**Risk:** Whatever emerges cannot be identified, including afterwards, including from recordings. Two inquiries have tried. The hazard is therefore not that it is catastrophic but that nothing learned from it can be carried to the next occasion.
 
 ### Tool Use Profile — I-Relic
 
@@ -163,28 +163,28 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
-| **Primary Effect** | Begins a dangerous partial manifestation. |
-| **Duration** | Until the Seed is removed from the growth medium. |
+| **Primary Effect** | Partial manifestation, consistently arrested at the same point, never the same form twice. |
+| **Duration** | Until lifted clear of any rootable medium. Bare panel is sufficient. |
 | **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
-| **Risk** | The emerging entity may be catastrophic and impossible to identify. |
+| **Risk** | Unidentifiable in the moment and unidentifiable on review; nothing learned transfers to the next occurrence. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic is not carried into the chamber and never has been. It is worked in the panel store, against lifted root material, by the inspector on duty, and the authorisation to take it past the containment line has been sought four times and refused four times.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Collapsed Seed lies still until it is taken up — a thing of blue grief, whole and waiting. | When the relic is equipped, it activates: begins a dangerous partial manifestation. |
-| 1 Minute | It was drawn from the quiet sorrows carried inside — the kind never spoken aloud. | The effect lasts until the Seed is removed from the growth medium, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: begins a dangerous partial manifestation. The Lament of it seeps into the bearer. | The emerging entity may be catastrophic and impossible to identify. |
-| 3 Minutes | Every grief it touches, it remembers; and it has a long memory. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | The seed in the handle warms against the palm and the warmth is uneven, as though something inside it were turning over. | The partial manifestation begins at once. It is small, it is about a third formed, and it is already stopping. |
+| 1 Minute | The form holds at its stopping point and does not advance. Operators consistently describe wanting to help it the rest of the way. | Arrest confirmed. Log the shape now; it will not be the shape next time and no recording has ever preserved it usefully. |
+| 2 Minutes | The wielder begins to narrate what it would have been. The narration is confident, detailed, and differs completely between wielders. | Stop the narration and write down that it occurred. Do not write down its content; four such accounts were filed before that instruction existed and they have confused the record ever since. |
+| 3 Minutes | The wielder's own abandoned work surfaces, finished, specific, and correct down to detail they had forgotten supplying. | Lift clear. The surfacing does not stop on its own and has never stopped at three minutes in any recorded use. |
+| After | It can be set down and is never quite released. Wielders file fewer proposals for a season afterwards, measurably, and the armoury treats the drop as the real cost of the piece. | Record the wielder's proposal count for two quarters. This is the only M.A.W. in the wing with an administrative follow-up. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Collapsed Seed: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone C, Mask Market, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+Escalation here is a rate change and nothing else, and the rate changes before anything visible does. Three of the four breaches in the chamber's history were preceded by shifts recorded hours in advance; one was not, and the protocol states that in the same paragraph rather than in a footnote, because a warning indicator that is right three times in four will be trusted four times in four unless the file prevents it.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** Time the pulse, check the panel runs, seal them, lay stored substrate across the exit line and let the rooting exhaust itself into it. Do not improvise Flerehan or Pugnahan; neither exists on this holding and the one occasion a responder attempted Pugnahan is why the instruction is now in bold on the chamber door.
 
 
 ### Detailed Activation Record
@@ -192,13 +192,13 @@ The escalation pattern is specific to Collapsed Seed: it is not a generic breach
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Planting or watering the Seed with sorrow. |
-| **Manifestation** | Object-Lament|
-| **Primary effect** | Begins a dangerous partial manifestation. |
-| **Duration / rate** | Until the Seed is removed from the growth medium. |
-| **Risk** | The emerging entity may be catastrophic and impossible to identify. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Manifestation** | Object-Grudge |
+| **Primary effect** | Partial manifestation arrested at a consistent point; the form differs every time. |
+| **Duration / rate** | Until lifted clear of rootable medium; onset within seconds, arrest within a minute. |
+| **Risk** | Unidentifiable in the moment and unidentifiable on review; nothing learned transfers to the next occurrence. |
+| **Management** | Lift clear, log the partial form in full even though it will not recur, and file the observation under the Rule of the Negative Finding. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** pulse rate, timed → panel condition → visible change at the split → sap volume → what inquiry anywhere in the facility was wound up that week and whether it filed. The last item is not optional and is the one that gets left off.
 ## Breach Behavior
 
 > *"Collapsed Seed has broken free. Plants itself in personnel, growing within."*
@@ -207,16 +207,16 @@ The escalation pattern is specific to Collapsed Seed: it is not a generic breach
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | Collapsed Seed breaks loose and charges, thrashing. It plants itself in personnel, growing within. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Effect** | The air fills with audible weeping. Responders report it as coming from inside the shell rather than from the shoots, which is not possible from the geometry and is reported anyway, every time. |
+| **Secondary Effect** | A specific and locatable urge to finish something — a sentence, a task, a report left open years ago. Responders can name theirs. |
+| **First Target** | The nearest rootable surface, which in a corridor is usually a person's boots and not a person. It is not hunting; it is looking for substrate, and the distinction has saved lives and must not be mistaken for safety. |
+| **Escalation** | Clarity drain increases by 5 per turn while it is unrooted. Once it roots, the drain stops and the growth begins, and the second phase is the dangerous one. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape. It charges, it thrashes, and it plants itself in personnel and grows there, which is the only recorded instance in the wing of an entity using a worker as a medium rather than a target.
+- **Containment priority:** Panels, drainage and distance. Pugnahan is not available on this holding — there is no mind here to confront and the row says so — and an earlier edition of this entry nonetheless instructed responders to force it back through Pugnahan. That instruction was obeyed once. Containment is re-established by sealing the panel runs and letting the rooting exhaust itself against stored substrate laid down for the purpose.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn. The gauge is not the figure to watch during an incident; the pulse is, because it falls when the entity has found a surface it can root into and that is when the charging stops.
 
 ## M.A.W. Equipment
 
@@ -238,7 +238,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Collapsed Seed's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder is shown their own abandoned work, completed, in full detail. Involuntary weeping is listed in older ledgers as the cost and is not; it is a symptom, and the armoury note asks that the distinction be respected because the real cost does not present at the time.
 
 ### M.A.W. Suit — Collapsed Seed Shroud
 
@@ -256,7 +256,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Collapsed Seed's kind of pressure.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer stops beginning things. Not finishing — beginning. Three long-term wearers filed no new proposal of any kind during their term and all three described the period afterwards as restful.
 
 ### M.A.W. Stigma — Collapsed Seed Core
 
@@ -272,22 +272,22 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Cost:** The growth feeds on the user's memories of future possibilities.
 
-*Stigmas are granted at random by Collapsed Seed upon a successful work, not manufactured.*
+*The core-stone has been granted four times, and on each occasion the recipient had, that quarter, filed a written report on something they had looked for and failed to find. The holding records the pattern without claiming to understand it and without putting it forward as an incentive.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Collapsed Seed's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+All three pieces are δ-grade, all three are held in the panel store rather than the armoury proper, and none of the three has ever been taken past the containment line. They share one property that the ledger records and does not explain: each of them acts on things the user did not finish. The dagger shows them finished, the shroud removes the wish to start anything, and the core-stone grows a shelter out of the user's remaining sense of what is still possible. The wing's note is that this is the most coherent M.A.W. set it holds and the least useful in the field.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, piece, the day's pulse rate, and a list of every inquiry or report the operator currently has open and unfinished. The list is kept and compared two quarters later. |
+| **During use** | Time engaged, the arrest point of any partial form, and the fact — not the content — of any narration by the wielder about what it would have become. |
+| **At limit** | Total engagement and the moment the wielder's own unfinished work surfaced, which is the true limit and arrives before the clock does. |
+| **After use** | Lift clear, confirm no rooting on the bench, and open the two-quarter proposal count. An operator whose count falls to zero is rotated off the set. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** δ-grade and correctly rated against entities. Against a wielder the figures mean nothing, because the cost of this set is measured in proposals not written over the following six months, and the wing has had to build an administrative count to see it at all.
 
 ## 관찰 기록 (Observation Log)
 
@@ -297,7 +297,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Its tears never stop.
 - It must not be planted under any circumstances.
 
-**Personnel Note:** *"It was glowing. I felt loss. The Seed was mourning a creature that had never been born."* — Specialist, Zone E patrol
+**Personnel Note:** *"Everyone says it is mourning something that was never born. I worked the panels for six years and I do not think it is mourning at all. I think it is still trying, at the same rate, every minute, and has been since the day the shell broke, and the reason the chamber is unbearable is not grief. It is watching something continue to attempt a thing that cannot be completed, and knowing the second inquiry was closed by a note nobody kept."* — Panel Inspector, Zone C
 
 
 
@@ -305,32 +305,40 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Collapsed Seed as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone C, Mask Market. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Planting or watering the Seed with sorrow. Effect: Begins a dangerous partial manifestation. Duration: Until the Seed is removed from the growth medium. Risk: The emerging entity may be catastrophic and impossible to identify. Tool Use Profile — I-Relic Operational. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Collapsed Seed's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Timed pulse, panel numbers in contact, sap volume. The observer is told before entering the gallery that they will want to describe the shoots and that the description will not be used. |
+| **Sustained observation** | Over a year the pulse separates cleanly from the work and attaches to the facility's discontinued-inquiry returns. Observers who have held both columns stop asking what the entity wants and start asking who stopped looking for what that quarter. |
+| **Activation or escalation** | Any rate shift triggers a panel check and then a visual inspection, in that order. The ordering is deliberate: the panels show what has already happened and the inspection shows what is happening, and the baseline must exist before anyone looks. |
+| **Post-contact review** | Two timed rates, panel register updated, sap volume, and the quarter's discontinued-inquiry return attached. A review that omits the return is returned to the team, and it is omitted more often than any other field on the form. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** A full timed minute, by hand, from the observation position, twice a session. Counting for thirty seconds and doubling has been tried and produces a figure that drifts; the rate is not regular enough across short intervals and is extremely regular across long ones, which is itself in the file as a finding nobody has explained.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Collapsed Seed (N-IVδ-315 [LO]) is logged as a Object-Grudge manifestation expressing Lament. The Seed formed from life that never reached its intended form. Held at Zone C, Mask Market. The Seed is not dormant; it is waiting inside a collapsed form.
+Collapsed Seed (N-IVδ-315 [LO]) is logged as an Object-Grudge manifestation expressing Lament, held at Zone C, Mask Market, and worked entirely from outside the containment line through a rotating floor-panel system and a sealed drainage channel. Nothing touches the shoots. The holding's instrument is a hand-timed pulse count, twice a session: fourteen a minute at baseline, nine at the recorded floor, thirty-one at the peak.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Its tears never stop.
+**Entry 2 — <Register Return: Two Hundred Eleven Inquiries Discontinued, Thirty-One With a Report>**
+The first full return under the Rule of the Negative Finding, Year 4238. Two hundred and eleven inquiries, reviews, investigations and research programmes were discontinued across the facility that year. Thirty-one filed a report setting out the method used, the ground covered, and the reason for stopping. One hundred and eighty stopped without one: funding moved, the officer was reassigned, the question went quiet. The pulse stood at its recorded peak of thirty-one a minute in Year 4233, in the week the second inquiry into this entity's potential form was wound up on a verbal instruction with nothing written down. It reached its floor of nine in Year 4236, the quarter both Seed inquiries were reconstructed from working papers and filed in full, methods included, indexed by the ground they had covered rather than by their own names. The pulse has tracked the quarterly return for five consecutive years and the correlation is now the strongest the wing holds on any entity.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of potential lost before birth or completion.
+**Entry 3 — <Statement of a Researcher Who Filed a Negative Report>**
+It took eleven weeks to write and it says that I found nothing. I want that understood: eleven weeks to document a failure that took four years to produce. Everyone told me it was a waste and I agreed with them for most of it. What changed my mind was a woman in the Gardens who had given testimony to the first inquiry in 4219 and had never been told what became of it, and when I sent her the index entry she wrote back to ask whether her account had been any use. It had not. I had to write and tell her that her account was not sufficient to establish anything, which is the single worst letter I have ever sent, and she replied that she would rather know that than keep wondering. The rule makes us send those letters. I think the rule is right and I would not like to be asked to defend it to her face.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Shows the entity it might have become. (Stable); Ferrehan: Tests whether the worker can wait without forcing growth. (Decrease). It must not be planted under any circumstances.
+Containment of N-IVδ-315 has a chamber half and a facility half. Chamber: hand-timed pulse twice a session, panel rotation on schedule with every lifted panel numbered and stored, sap to sealed containment, and an absolute contact prohibition covering tools, instruments and protective equipment alike. It must not be planted under any circumstances and must not be pruned, concluded, or completed. Facility, owned by the Research Directorate and binding on every officer who may close a line of work: **an inquiry, review or research programme that is discontinued shall file a report of its method, the ground it covered, the material it found insufficient, and the reason it stopped — permanently retained, indexed by the ground covered and not by the inquiry's name, and sent to anyone who gave testimony to it.** Work response — Viderehan: shows the entity it might have become, differently each time (Stable); Ferrehan: tests whether the worker can wait without forcing growth (Decrease). Flerehan and Pugnahan do not apply and are not to be improvised.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+**Entry 5 — <Director's Memo, Eyes Only: The Rule of the Negative Finding>**
+Research opposed this and the objection was sound. A permanent, indexed archive of everything this facility has failed to determine is a map of our limits, legible to anyone who can read an index, and it will be read by people who do not wish us well. Worse, they argued, officers who know that stopping creates a document will avoid opening lines of work they are not confident of finishing, and the facility will become incurious in the exact way it can least afford.
 
-**Threat rating:** Per entity classification. See SECC Classification table for details.
+We answered the second point and not the first. A negative report may not be cited in any officer's assessment, and the index is organised by ground covered rather than by the name of the inquiry or its author, so that what it maps is questions and not people. The first point stands. We have accepted that the facility's limits are now written down.
+
+What I want recorded, because it is the part that will be forgotten, is the cost that falls on people who cannot object to it. The rule requires that anyone who gave testimony to a discontinued inquiry be told that it was discontinued and why. That means writing to a woman in the Echo Gardens who sat with an investigator for two days in 4219 and telling her that what she gave was not sufficient to establish anything. We have sent ninety-one such letters. Four recipients replied. One of them said she would rather know, and I have read that line more times than is useful.
+
+And the names. The recovery team's account is attached to its failure permanently, all six names together, two of them junior and acting on an instruction given to them in the moment by someone senior. The rule does not distinguish between them and I have not been able to draft a version that does without creating a door that every officer will eventually walk through. So it stands, and it is unjust to two people, and the injustice is in this paragraph so that nobody can later claim it was not noticed.
+
+The ground for signing it is narrow and I will state it plainly. Twice we have asked what this entity would have become. Twice we stopped. The second time we left nothing behind, and the pulse in that chamber went to thirty-one, and anyone who asks the question a third time will start from the beginning because we could not be bothered to write down how far we got.
+
+**Threat rating:** Critical (δ). Boss encounter, Severe difficulty, 750 gauge, and a breach profile in which it plants itself in personnel and grows there. The rating is not softened by the fact that it has no intent; nothing in this chamber intends anything, and that has never reduced what it does.
 
 ## 최종 관찰 (Final Observation)
 
@@ -338,7 +346,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
-| Tests whether the worker can wait without forcing growth. The sorrow is witnessed; Collapsed Seed is fully recorded. | Shows the entity it might have become. The gauge climbs and Collapsed Seed withdraws without revelation. |
+| The worker waits, and says aloud that they do not know what it would have been, and does not fill the silence. The gauge falls and the session closes clean. | The worker answers the question. They mean it kindly and the answer is always confident and always different from the last worker's. The gauge climbs and the chamber keeps the real answer, which is that there is not one. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -347,32 +355,32 @@ The Seed lies split open like a heart pressed into the ground. Blue tears run fr
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A large collapsed seed of dark crystal, split down the center and leaking blue tears. Notable Features: It pulses like a heart, produces roots in nearby surfaces, and appears ready to grow despite its collapse. Identification. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Object-Grudge form.
+**At first contact:** A split shell of dark crystal leaking blue sap, wet shoots erupting from the crack, root-limbs beneath it, and a pulse you can see from the gallery before you can time it. The chamber smells of cold rain. It appears, to every observer without exception, to be about to grow.
 
-**With continued exposure:** With time the Object-Grudge becomes less a presence and more a climate — the Lament is no longer an event but an environment, something you exist inside rather than encounter.
+**With continued exposure:** The appearance of imminence does not fade and does not resolve. Hour after hour it is about to grow. Panel inspectors describe the sixth hour as the hard one, and the thing they describe is not dread but impatience, which the counselors have had to explain to three separate cohorts is the exposure and not a character flaw.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Planting or watering the Seed with sorrow. Effect: Begins a dangerous partial manifestation. Duration: Until the Seed is removed from the growth medium. Risk: The emerging entity may be catastrophic and impossible to identify. Tool Use Profile — I-Relic Operational. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Something begins to come out of the split, gets about a third of the way, and stops. It has done this four times and stopped at the same point each time, and been a different shape each time, and nobody who has watched it has been able to say afterwards what they saw.
 
-**After departure:** The containment boundary holds the Object-Grudge, but not the memory. Lament residue settles into the bones like Han into the city's foundations.
+**After departure:** You go back to your own desk and find the file you stopped working on, and you do not reopen it, and you also do not put it away.
 
 ### Interaction Pattern
 
-Collapsed Seed does not exist in isolation. Its recorded relationships with The Sorrow Seed, The Kind Healer, The Echo Gardens should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three records sit near this one, all of them from the Echo Gardens, and the proximity is geographic as much as thematic. None has been brought to the chamber and none will be, because a pairing trial would require lifting the contact prohibition and the prohibition is the entire holding. What follows is paper comparison, which on this file is not a limitation anybody apologises for.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Read both records in full and write one sentence stating what each entity is doing to time: holding a thing before it happens, after it happened, or while it happens. This file has found that the three Gardens records divide cleanly on that question and on nothing else, and the division has been more useful than nine years of thematic grouping. Where a proximity trial is nevertheless proposed, it goes to the Sentinel of record with both refusals attached and the contact prohibition quoted in full.
 
 
 ### Entity Interaction Record
 
-Collapsed Seed must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Three records are read beside this one and all three concern growth, which has made the grouping comfortable and unhelpful. The operative distinction is that this entity is not growing and is not dying; it is held at the moment before a result, which is the condition the facility's own discontinued inquiries are held in. Pairing trials have been proposed twice. Both were refused on the ground that bringing another entity into the chamber would require the contact prohibition to be lifted, and the prohibition is the holding.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Sorrow Seed** | The smaller Seed attempts to root near it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | Refuses to approach the possible manifestation. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Echo Gardens** | Garden growth responds to its tears. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Sorrow Seed** | The same object class at an earlier stage — a seed still accumulating, which this one was until a recovery team broke it. The relationship is a before and an after, documented on both sides. | Untested and untestable. A trial would require bringing an intact seed within rooting distance of the thing that happens when one is crushed. | The refusal, and the reason, on every renewed proposal, so that the reasoning does not have to be rebuilt by whoever asks next. |
+| **The Kind Healer** | Will not approach, which is recorded as the Healer's behaviour and not as this entity's effect. The distinction took two years to establish and is the only evidenced line in this table. | Observed withdrawal at a consistent distance across eleven occasions. No effect on the pulse in any of them. | That the withdrawal is the Healer's and is not to be cited as suppression by this entity. |
+| **The Echo Gardens** | The site it was taken from. Garden growth near the original crush site has been surveyed annually since the recovery and shows nothing unusual, which disappointed two inquiries and is recorded because it disappointed them. | No measurable interaction at distance. The sap has never been introduced to Garden soil and the authorisation to try has not been sought. | The annual Garden survey filed beside this record, including the years it found nothing. Especially those. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Both records in full, the time-sentence written out and signed, and the quarter's pulse log attached. Refusals are cited rather than re-argued, and both refusals on this file now carry two citations each.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -400,26 +408,31 @@ Some sorrows mourn what existed. Collapsed Seed mourns what almost existed — t
 > *“The seed was seconds from emergence. The crushing denied it. The denial is the sorrow.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-315 [LO]` · Per classification origin · Per classification coherence · Per classification potency · Lament · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-315 [LO]` · Inner origin · Entity (IV) coherence · Critical (δ) potency · Lament · Object-Grudge manifestation
 **Common Name:** Collapsed Seed
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table for details.
+**Threat Assessment:** Critical. It is slow, it has no intent, it has killed, and it grows inside what it reaches. Treat the absence of intent as a fact about the entity and not as a margin of safety.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard containment protocols apply.
+- Viderehan shows the entity it might have become and holds the gauge level; Ferrehan tests whether the worker can wait without forcing growth and lowers it. Flerehan and Pugnahan are not available and must not be improvised during an incident.
+- Absolute contact prohibition: no tool, instrument or protective equipment touches the shoots. Chamber serviced from the panel system and the drainage channel only.
+- Panel rotation on schedule; every lifted panel numbered by date and position and stored, never destroyed. Store inspected quarterly for growth; there has been none, and the inspection continues because the inertness is the finding.
+- Pulse timed by hand for a full minute, twice a session.
+- Do not prune, conclude, or complete anything in this chamber.
+- The Rule of the Negative Finding is a containment condition of this entity and binds the whole facility.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Combat Record for engagement parameters.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+- Formed when a recovery team crushed a forming Sorrow Seed in the Echo Gardens. Two inquiries into what it would have become; neither answered; both reports retained in full with their methods.
+- Pulse 14/min baseline, range 9 to 31. Rate tracks the facility's quarterly return of discontinued inquiries, not the chamber's work.
+- Three of four breaches were preceded by rate shifts recorded hours ahead. One was not.
+**Cross-References:** Echo Gardens · The Sorrow Seed · The Kind Healer · the recovery team's account, Year 4211 · Inquiry I (4215–4219, closed with report) · Inquiry II (4233, wound up on a verbal instruction, reconstructed 4236)
 **Faction Involvement:** SED (E-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A recovery team of six in the Echo Gardens, named in the file, whose account of the crushing is defensive, self-serving, and the only account that exists. The archivist's annotation asks the reader to hold both of those facts at once rather than choosing between them.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record contains two unanswered questions and keeps them both open on purpose. What the entity would have become is unanswered because two inquiries established that it cannot be answered from the material. Whether the crushing was negligent is unanswered because the only account is the one written by the people who did it. Neither gap is an error in the file and neither is to be closed by a reader with a reasonable guess, which is precisely what this chamber invites every worker in it to do.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach or activation: re-time the pulse, lift and number every panel in the affected run, confirm the drainage has not set, and pull the quarter's discontinued-inquiry return. If the incident itself produced an inquiry that was then dropped, that inquiry files under the rule like any other, and the review is not closed until it has.
 ## Apex Record
 
 ### Rooting
@@ -452,18 +465,19 @@ The panel store is kept at a stable temperature and is inspected quarterly, and 
 
 ## Trivia
 
-- Its exact potential form is unknown.
-- The Seed's tears are warmer than ordinary Han-crystal.
+- Its exact potential form is unknown, has been investigated twice, and both inquiry reports are retained in full including their methods, so that a third attempt does not re-walk the ground.
+- The sap is warmer than ordinary Han-crystal and sets hard in the drainage within a cycle. Nothing harmful has ever been found in it; it is handled cautiously on principle, because it comes out of a thing that is grieving.
+- The panel store runs to many pages in a dozen hands and has twice been called excessive in review. It was retained both times as the only non-destructive record of the entity's growth that exists.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Collapsed Seed is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone C, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Registered as a Subject, Entity (IV), Critical (δ), and worked under Object/Place rules because there is no mind here to engage. The derived cells that called it stationary have been corrected against a chamber whose entire floor system exists because it moves.
+- **Field detail:** Lament, Zone C, Mask Market, in a panelled chamber serviced from outside the line. Taken from the Echo Gardens in Year 4211 and never returned there.
+- **Recognition detail:** Identify it by the pulse and the panels, not by the shape. The shell is dark crystal, split, leaking blue sap, and wrapped in thick wet shoots that keep erupting through the split regardless of pruning; descriptions of it vary with how much of the shoot mass is visible that week, which is why the holding identifies on a timed rate instead.
+- **Record detail:** Check the designation, and check which absence you are working. The archive holds two records about things missing from its own files and they are opposites. Pandora's Jar concerns what was taken out — destructions written down as counts instead of descriptions. This concerns what was never put in — inquiries abandoned without their method, so the ground has to be walked again by whoever asks next. One is a subtraction. The other is a gap that was never filled.
+- **Containment detail:** Half of this containment is a floor and a drain. The other half is a filing instruction enforced by the Research Directorate on officers who will never see the chamber, and the chamber's own indicator is the only evidence that the instruction is being obeyed.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-315
