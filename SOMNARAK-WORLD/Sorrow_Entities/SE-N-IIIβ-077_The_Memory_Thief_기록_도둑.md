@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A small, shadowy figure that moves too fast to see directly, with no stable face — only a blur where features should be. Bloodless-cold, it smells of ash; it takes memories as it passes, leaving small gaps the victim never notices. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement** | Fast and evasive — constant low lateral movement; it never holds still and never closes on anybody. |
 | **Location** | SECTOR-C-01, Collector's Row — contained |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · β (Moderate) |
+| **Tool / M.A.W. grade** | β · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan, two observers minimum, baseline page on file before the first watch. |
 
 ### Operational Notes
 
-- The Thief takes recollections and leaves the structure of them intact, so the loss is noticed late or not at all.
-- A cycle reduces the rate of taking. Nothing taken has been returned by any session.
-- Three ignored conditions escalate it. Escalation presents as crews disagreeing about the content of the current shift.
-- Session notes are written contemporaneously and sealed in the room, then compared at the desk rather than recalled.
-- Extraction is a separate risk event under its own authorization.
+- It takes the particular and leaves the frame: you know you had a sister, you know you saw her face daily, and the face is gone. Of 318 confirmed losses only 31 were noticed by the person before the page was read back to them.
+- A worked cycle slows the rate and recovers nothing. Nineteen memories have come back in the whole record and all nineteen were traded for, not worked for.
+- Three ignored conditions escalate it, and the escalation looks like a crew arguing about what happened an hour ago rather than like a breach.
+- Notes are written in the room, sealed in the room, and compared at the desk. No report on this holding is ever written from recollection.
+- Extraction is authorised separately and never against a watch, and the extracting party files baseline pages like everybody else.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Memory Thief's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** It does not fight and has never been struck. A contact is two observers at an angle holding a peripheral fix while it works the room; the encounter is scored afterwards at the infirmary, against a sealed page, by somebody who was not there.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Corner and contain it; negotiate the return of memories when possible**.
 
 ### Consequences
@@ -98,7 +98,7 @@
 - When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
 
 ## Appearance
-**Primary Form:** A small, shadowy figure that moves quickly and is difficult to see directly. It has no stable face.
+**Primary Form:** A small shadowy figure, always in motion, with a blur where a face should be. **Sighting:** it resolves at the edge of vision and dissolves under a direct look, which is a property of the entity and not of the observer.
 
 **Notable Features:**
 - Reaches into a person's mind and removes small memories.
@@ -110,7 +110,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A small, shadowy figure that moves quickly and is difficult to see directly. It has no stable face.
-- **Position / movement:** Primary Form: A small, shadowy figure that moves quickly and is difficult to see directly.
+- **Position / movement:** Fast, low and lateral, never still, and never resolvable by a sustained look. A fix requires two observers at an angle; one observer produces nothing at all.
 - **Element signature:** Void
 - **Registered location:** SECTOR-C-01, Collector's Row — contained
 
@@ -118,34 +118,34 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A small, shadowy figure that moves quickly and is difficult to see directly. It has no stable face. |
-| **Position / movement** | Primary Form: A small, shadowy figure that moves quickly and is difficult to see directly. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Form** | Child-height, dark, featureless, quick; no two fixes have ever produced the same outline. |
+| **Position / movement** | Continuous movement around the room's edge; it passes personnel rather than approaching them, and leaves when unattended. |
+| **Material / signature** | Void. Bloodless cold, ash on the air, no sound of footfall, and a small gap left where a particular used to be. |
 | **Distinctive markers** | Reaches into a person's mind and removes small memories. Keeps stolen memories in a hidden stash. Flees rather than fights when discovered. |
-| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
+| **Identification** | If it is only there when you are not looking at it, it is this one. Nothing else on the Row behaves that way. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Record positions from peripheral sighting only, timed, from two angles, and plot the fixes rather than describing the figure. Note the cold, the ash smell, the height against the door frame, and the direction of travel on exit. Do not attempt a face; there is no stable one, and watches have been lost to people trying.
 
 ## Origin
-- **Formation:** The Thief formed from the fear of forgetting in a city where memory is currency.
-- **The Sorrow:** Anxiety that a face, name, or cherished moment may disappear without warning.
-- **The Event:** Citizens watched memories become debt, evidence, and trade. Their fear of losing them crystallized into a creature that steals what they fear losing.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity's origin is not a mystery; it is a diagnosis. The sorrow concentrated at SECTOR-C-01, Collector's Row until the Void became structural — load-bearing, permanent, woven into the Subject the way the Weeping is woven into the city. You do not remove it. You contain it.
+- **Formation:** From a market that priced memory and a population afraid of losing the memories the market priced at nothing.
+- **The Sorrow:** Not forgetting. Being told, accurately and with arithmetic, what the forgotten thing was worth.
+- **The Event:** Memory became debt, evidence and trade on Collector's Row, the schedules fixed what each kind was worth, and the fear of losing the cheap kind settled into something that takes exactly that kind.
+- **The People:** Citizens of Collector's Row who lived in a market that bought memory and priced the ordinary kind at almost nothing.
+- **Expanded origin context:** Compensation for an injury at work is paid at market valuation, assessed against the published exchange schedules, and never at the figure the claimant puts on it. The rule is sound: a loss valued by the person who suffered it is unauditable, and the Year 4151 claims scandal — eleven hundred self-valued submissions, a third of them honest, no instrument capable of telling which — is what produced the schedule in the first place. Memory in this city is property, so a taken memory is a property loss, so a property loss is valued at market. The schedules price faces, names, routes and ordinary afternoons at the bottom of the table, because that is what they trade for. This entity takes exactly that class and nothing else. Three hundred and eighteen confirmed losses over the life of the holding have produced a correctly computed total of forty-one Echoes in compensation, which is less than the cost of the paper the claims were filed on.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Offers a stolen memory in exchange. | Decrease |
-| **Pugnahan** (Confrontation) | Flees quickly and hides. | Stable |
-| **Viderehan** (Observation) | Can be tracked to its memory stash. | Stable |
-| **Ferrehan** (Endurance) | Steals a memory; calm non-reaction reduces its interest. | Decrease |
+| **Flerehan** (Tears) | It offers something it has taken, and the offer is genuine — the exchanges that follow are the only recoveries on record. | Decrease |
+| **Pugnahan** (Confrontation) | It leaves. The gauge does not move and the watch is wasted; this has been tried eleven times and worked none of them. | Stable |
+| **Viderehan** (Observation) | Its track can be followed for a time and has never led anywhere; the stash is not findable and looking for it is prohibited. | Stable |
+| **Ferrehan** (Endurance) | It takes something, and a worker who does not react loses its interest; the cost of the cycle is paid in advance and in kind. | Decrease |
 
 ### Special Behaviors
-- Prefers small memories: faces, names, routes, and ordinary moments.
-- It is curious about memories of people who have already been forgotten.
-- It may return memories if offered a memory of equal emotional weight.
+- It takes faces, names, routes and ordinary afternoons, which are the four lines at the bottom of the Row's schedule.
+- It shows particular interest in memories of people nobody else remembers, and these are the ones it has never traded back.
+- It trades for weight rather than price, and has accepted every offer that cost the person making it.
 
 
 
@@ -160,18 +160,18 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
-| **Movement** | The Memory Thief expands beyond containment like a spreading tide. It steals memories from everyone it passes. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **Breach Type** | Transform — the room's record of itself alters; the entity does not. |
+| **Movement** | It leaves by the nearest unattended opening at speed and takes from everybody on the way out. It does not seek anybody and has never doubled back. |
+| **Effect** | Particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in. |
+| **Secondary Effect** | Crews stop agreeing about the last hour, which is how a loose Thief is usually detected at all. |
+| **First Target** | Nobody in particular. Everyone on its path loses something small; people two metres off the path lose nothing. |
+| **Escalation** | Clarity drain rises 5 a turn while it is loose and stops the moment it is attended to; it has never had to be suppressed by force. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Attend it. Put two observers in the room and the movement stops being a breach; there is nothing to seal and nothing to subdue.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn while it is loose. It falls 10% for every memory an exchange recovers, which is the only downward movement recorded, and the exchanges that worked were all conducted by the person who had lost the memory.
 
 ## M.A.W. Equipment
 
@@ -232,7 +232,7 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 
 **Cost:** Others forget that the wearer was present, even when no theft occurred.
 
-*Stigmas are granted at random by The Memory Thief upon a successful work, not manufactured.*
+*The Shadow Cloak is not manufactured and not issued. It has been granted six times, all six to Wardens whose baseline page came back from the infirmary unchanged, which the wing records without comment and does not use as a target.*
 
 ### M.A.W. Use Notes
 
@@ -253,13 +253,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- The Thief is quick, elusive, and non-confrontational.
-- It has never breached through force; it simply slips away when unattended.
-- Activity increases during the Sorrow Tide.
-- Personnel report emotional changes after long exposure: greater empathy and less detachment.
+- It is quick, hard to see and has never confronted anybody in the life of the holding.
+- It has never breached by force. It leaves when nobody is watching, which is a containment problem of a kind the wing is not equipped for.
+- Fix rates roughly double through a Tide and the confirmed-loss rate does not change, which nobody has explained.
+- Long-posted Wardens become noticeably protective of other people's small particulars and conspicuously careless with their own.
 
 **Personnel Note:**
-> *"I lost the memory of my sister's face. The Thief returned it only after I gave it the memory of the day I first learned her name."* — Specialist Hanul Grey, Collector's Row
+> *"I lost my sister's face and the schedule valued it at three Echoes, which was correct — that is what a face trades for on the Row. I got it back by giving up the day I learned her name, which the same schedule prices higher. The Thief took the trade anyway. It does not read the schedule."* — Specialist Hanul Grey, Collector's Row
 
 
 
@@ -267,30 +267,30 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Memory Thief as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-C-01, Collector's Row — contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Prefers small memories: faces, names, routes, and ordinary moments. - It is curious about memories of people who have already been forgotten. - It may return memories if offered. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In The Memory Thief's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Two observers set at an angle, fixes logged by time, nobody looking at it directly. A watch does not open below two observers. |
+| **Sustained observation** | Fix rate per watch, direction of travel, time in the room, and the sealed page comparison afterwards. Nothing a Warden remembers about a watch is treated as a measurement. |
+| **Activation or escalation** | Crews disagreeing about the content of the current shift. That is the escalation signal here, and it is the third ignored condition that produces it. |
+| **Post-contact review** | Contemporaneous notes sealed in the room, compared at the desk, never reconstructed from memory; then the infirmary comparison, which may take a fortnight and is not hurried. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
+**Observation method:** Two-angle peripheral fixes with times, the direction of travel on exit, and the baseline page comparison afterwards at the infirmary. The page is the measurement; everything recorded in the room is only the context for it.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Memory Thief (N-IIIβ-077 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The Thief formed from the fear of forgetting in a city where memory is currency. Held at SECTOR-C-01, Collector's Row — contained. The Thief is quick, elusive, and non-confrontational.
+The Memory Thief (N-IIIβ-077 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void, held at SECTOR-C-01 on Collector's Row. It is small, fast, faceless and non-confrontational. It takes small memories, keeps them somewhere nobody has found, and gives them back only in trade.
 
-**Entry 2 — <Excerpt from Field Log, Year 4229>**
-Moves rapidly through corridors and personnel groups. Removes small memories from staff without immediate physical signs. It has never breached through force; it simply slips away when unattended.
+**Entry 2 — <Infirmary Return: Baseline Page Comparisons>**
+Confirmed losses over the life of the holding: 318, every one of them a face, a name, a route or an ordinary afternoon. Large memories: none taken, ever. Losses noticed by the worker before the page comparison: 31 of 318. The remaining 287 were discovered by a clerk reading a sealed page back to somebody who did not know anything was gone.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-Anxiety that a face, name, or cherished moment may disappear without warning.
+**Entry 3 — <Compensation Office, Schedule Extract>**
+Assessed at market against the Collector's Row schedules, as required. A face: 3 Echoes. A given name: 2. A walked route: 1. An ordinary afternoon: unpriced, and therefore nil. Total paid across 318 confirmed losses: 41 Echoes. Every assessment in this file is arithmetically correct and the office stands by all of them.
 
 **Entry 4 — <Containment Notice>**
-Management: Corner and contain it; negotiate the return of memories when possible.  Activity increases during the Sorrow Tide.
+Management: do not corner it and do not negotiate on anybody's behalf. An exchange is made by the person who lost the memory, in person, with a witness, and what is offered is recorded by description and never by price. The schedules stay out of the room.
 
 **Entry 5 — <Archive Note>**
-The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this location, permanent as the Weeping, and the entity is its exoskeleton.
+The origin is a diagnosis rather than a mystery: a market that priced memory, a population that feared losing what the market valued least, and a Void that became load-bearing at the point where those two met. The entity is the exoskeleton of that arrangement, and the arrangement is still running three floors up.
 
 ## 최종 관찰 (Final Observation)
 
@@ -307,7 +307,7 @@ You feel a gap before you see the figure. A name vanishes from the edge of thoug
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A small, shadowy figure that moves quickly and is difficult to see directly. It has no stable face. The first sensation is always Void — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** Cold without a draught, ash on the air, and something small moving at the edge of your sight that is not there when you turn your head. It does not approach you and it does not avoid you. It passes, and it is the passing that costs.
 
 **With continued exposure:** The Subject-Phantasmal settles into a presence you learn to hold — not comfortably, but recognisably. The Void pressure stops being an assault and becomes a climate: something you move within rather than against.
 
@@ -317,23 +317,23 @@ You feel a gap before you see the figure. A name vanishes from the edge of thoug
 
 ### Interaction Pattern
 
-The Memory Thief does not exist in isolation. Its recorded relationships with The Forgotten Soldier, The Grieving Colossus, The Kind Healer, The Memory Weaver should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Four relationships, two of them transits nobody arranged, one refused by the other party, and one session that produced a negative finding the wing has used three times since. What is recorded below is fixes and pages, because this holding leaves no mark on a room.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Solo fixes first, in pairs, across several watches, because the figure's track is the only stable thing about it. In a shared space log the fix rate, the direction of travel, whether the other holding is approached or avoided, and — afterwards — every participant's baseline comparison. The last column is the one that has changed a conclusion here; the room never shows the loss.
 
 
 ### Entity Interaction Record
 
-The Memory Thief must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Each row carries its own measurement and none of them is comparable to another, which is stated here rather than disguised by a common column. The one figure that recurs is the baseline comparison, and it is the figure that decides whether a session was harmless.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Forgotten Soldier** | The Soldier salutes the Thief, honoring what has been lost. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Colossus** | Pauses near the Thief and listens. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | Approaches but cannot heal a missing memory. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Weaver** | The Weaver considers the Thief a minor collector and refuses to trade with it. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Forgotten Soldier** | The Soldier salutes the Thief, honouring what has been lost. | Corridor transit, once. The Thief held still for the only recorded time — eleven seconds, both observers agree — and took nothing from anybody present. Unarrangeable; the Soldier cannot be ordered to do it again. | The two fixes, the eleven seconds, and all four baseline comparisons, which came back unchanged. |
+| **The Grieving Colossus** | Pauses near the Thief and listens. | Observed twice at distance. Fix rate halves while the Colossus is in the district and returns afterwards; no effect on the loss rate either way. | Fix rates, Colossus transit times, and the loss rate stated as unchanged. |
+| **The Kind Healer** | Approaches but cannot heal a missing memory. | One session, arranged, and the only one the counsellors requested. Nothing was restored. The finding written up was that an absence is not a wound and will not close, and it is cited in the wing's refusal of three subsequent proposals. | The session note and the three refusals that cite it. |
+| **The Memory Weaver** | The Weaver treats it as a minor collector and will not trade. | Refused from the other side, which is rare enough to be worth the row. The wing has not pressed it: a trade between the two would be an exchange nobody present could describe afterwards, and the Weaver's refusal saves the facility from having to write that prohibition itself. | The Weaver's refusal, noted at each annual review. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Two-angle fixes throughout, times, the withdrawal bearing, and sealed page comparisons for everybody present, filed when the infirmary returns them. Nothing is written up from recollection, on this holding, for reasons the holding makes obvious.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -354,7 +354,7 @@ Some sorrows are about losing memory. The Memory Thief is about the fear of losi
 
 > *“It steals what you fear losing most. Briefly. Then returns it. The demonstration is the sorrow.”* — Researcher, R.D.
 
-> *“I felt a face vanish from my mind. Then it returned. The relief was worse than the loss.”* — Citizen, Zone A
+> *“I felt a face go out of my head on the Row. The office paid me three Echoes for it and the sum was correct.”* — Citizen, Collector's Row
 
 > *“The fear of forgetting, crystallized into a creature that proves the fear is justified.”* — Keeper, Archive
 
@@ -363,18 +363,18 @@ Some sorrows are about losing memory. The Memory Thief is about the fear of losi
 > *“In a city where memory is currency, the Thief demonstrates how easily it can be taken.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-077 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIIβ-077 [VS]` · Inner origin · Fragment (III) coherence · Moderate (β) potency · Void · Subject-Phantasmal manifestation
 **Common Name:** The Memory Thief
-**Containment Status:** Contained — Zone A
+**Containment Status:** Contained — SECTOR-C-01, Collector's Row; baseline pages sealed with the infirmary, stash location unknown and not searched for
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. Steals what you fear losing, briefly, then returns it. Effect: proximity induces the terror of forgotten faces.
+**Threat Assessment:** Moderate (β). No injuries, no force, no pursuit. It keeps what it takes — the stash has never been found — and returns a memory only in exchange for one the person offers freely.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The Thief demonstrates; it does not keep.
+- Flerehan and Ferrehan move the gauge; Viderehan tracks it and changes nothing. Pugnahan makes it leave and is the one approach that guarantees a wasted watch.
+- It keeps. Nothing has ever been recovered except by exchange, and searching for the stash is prohibited — the searches that were run produced no stash and several Wardens who could not say what they had been looking for.
 **Observation Notes:**
-- Formed from the fear of forgetting in a city where memory is currency.
-**Cross-References:** Zone A · The Archive · The Keepers · The Memory Weaver
-**Originator:** Citizens who feared losing memories to the Han or the system.
+- 318 confirmed losses, 41 Echoes paid, 23 exchanges attempted and 19 successful; in all 19 the item given up was priced above the item recovered.
+**Cross-References:** The Collector's Row exchange schedules, held with the commissioning material · the Year 4151 claims scandal and the valuation rule it produced · the Year 4231 irreplaceability petition, refused · the baseline-page procedure and its witnessed destruction
+**Originator:** Citizens of a market that bought memory, afraid of losing the memories that market would not pay for.
 
 ### Registry Addendum
 
@@ -399,6 +399,36 @@ Taken memories are kept somewhere, and the containment file is explicit that the
 
 It formed from the fear of forgetting in a city where remembering is tradable, and the commissioning material includes the Collector's Row exchange schedules of the period rather than any narrative account. The schedules list what a memory was worth. They are dry and they are the point, and the archivist's note observes that the entity steals exactly the class of memory the schedules priced lowest. Baseline pages are destroyed when a Warden leaves the posting, unread, in that Warden's presence. The destruction is witnessed and the witness signs that the page was not opened. Several departing Wardens have asked to read their own page first and the request has been granted in every instance, which the file notes is the only part of the procedure that was never debated.
 
+### What the Baseline Pages Are Measuring
+
+Every Warden writes a page before their first watch: small particulars of their own choosing, their own wording, sealed and held by the infirmary. They describe writing it as the worst hour of the posting, because choosing which small things you would want to be told you had lost is not an hour anybody enjoys.
+
+The page is the only instrument here. Nothing in the room registers a theft; the figure takes the particular and leaves the frame intact, so the worker keeps the shape of the memory and loses its contents without a gap appearing anywhere they can feel.
+
+**Three hundred and eighteen confirmed losses** over the life of the holding. Every one a face, a given name, a walked route or an ordinary afternoon. No large memory has ever been taken, from anybody, at any point in the record. **Thirty-one** of the 318 were noticed by the worker first. The other **287** were found by a clerk reading a sealed page back to someone who had no idea anything had gone.
+
+The pages are destroyed, unread, when a Warden leaves the posting, in that Warden's presence, witnessed and signed for. Departing Wardens may ask to read their own page before it burns, and every such request has been granted. The file notes that this is the only part of the procedure nobody ever argued about.
+
+### Valued at Market
+
+A taken memory is a property loss. In this city that is not a metaphor: memory is bought and sold on Collector's Row and the exchange publishes schedules.
+
+Compensation for a property loss is assessed at market valuation, against the published schedules, and never at the figure the claimant puts on it. The rule is right. Until Year 4151 claims were self-valued; eleven hundred submissions came in that year, perhaps a third of them honest, and the office had no instrument capable of distinguishing which third. Self-valuation turned compensation into a competition in articulacy and the schedule ended it.
+
+The schedule prices a face at 3 Echoes, a given name at 2, a walked route at 1, and an ordinary afternoon at nothing at all, because that is what they fetch. This entity takes those four categories and no others. **Across 318 confirmed losses the office has correctly computed and paid 41 Echoes**, which is less than the cost of the paper the claims were filed on, and every assessment in the ledger is arithmetically sound.
+
+In Year 4231 the Wardens petitioned for a flat irreplaceability payment: one fixed sum per confirmed loss, regardless of schedule value. It was refused, and the grounds are not money. A payment not anchored to an external market has to be set by somebody, and the somebody would be this facility — which would mean F01 deciding what a face is worth, publishing that decision, and becoming the second exchange on Collector's Row. The thing in the cell at SECTOR-C-01 is what the first exchange produced. The petition is in the Year 4232 return, marked *correct in principle, no action available*, and it has been re-tabled twice.
+
+### The Unpriced Exchange
+
+It gives memories back. Not for work, not for pressure, not for anything the facility can authorise: for another memory, offered freely, of equal weight.
+
+The standing order has three parts and each exists because of an attempt to do this the facility's way. The exchange is made **by the person who lost the memory**, in person — a Warden once offered a memory on a colleague's behalf and the Thief did not respond at all. There is **a witness**, because an exchange made alone cannot afterwards be described by the only person who was there. And what is given up is recorded **by description, never by price**; the Row's schedules are kept physically out of the room, on the instruction of the commander who wrote the order.
+
+**Twenty-three exchanges attempted. Nineteen successful.** In all nineteen, the schedules price the memory given up *above* the memory recovered. Specialist Grey gave up the day she learned her sister's name — a named moment, which the schedules price well — to recover the face, worth three Echoes. By market she lost on the trade. By the only measure that moved the entity, she paid exactly right.
+
+The wing has written the obvious conclusion down once and declined to build anything on it: the Thief does not read the schedule, and it is the only party to this arrangement that does not.
+
 ## Trivia
 
 - It prefers memories that seem insignificant until they are gone.
@@ -410,8 +440,8 @@ It formed from the fear of forgetting in a city where remembering is tradable, a
 
 - **Classification detail:** The Memory Thief is a Subject with Fragment (III) — Curious and sneaky coherence and Moderate (β) — Manageable potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-C-01, Collector's Row — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Small, fast, faceless, visible only at the edge of sight, cold and ash-smelling, and gone the moment you look straight at it.
+- **Record detail:** Other holdings in this archive remove or withhold things. This one takes property — memory is property here, with a published price — and the injury it causes is fully recognised, correctly valued and worth almost nothing. Confirm the designation N-IIIβ-077 before reading any of this across to an entity that erases rather than takes.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
