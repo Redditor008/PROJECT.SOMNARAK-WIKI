@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **40** |
-| Pending — no disposition-bearing line found by scan | 263 |
+| **Classified here, with a quoted line of evidence** | **41** |
+| Pending — no disposition-bearing line found by scan | 262 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 40 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 41 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 263 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 262 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -77,6 +77,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Echo Compass | `SE-C-IIIβ-016` | *"A successful cycle quiets the needle for a shift. The entity is unchanged by this, and the next operative will see their own heading."* |
 | Survivors' Breath | `SE-O-IVδ-895` | *"A completed cycle settles the Sigh around the worker and quiets it for a time. Nothing is resolved by this."* |
 | Crucible | `SE-C-IIIβ-275` | Resolution: *"Cool the anger through naming and controlled work."* A furnace that became conscious, and stayed in its forge. |
+| Friendless Bridge | `SE-N-IIβ-488` | *"It propagates through documents. The span extends into whatever ledger, roll or family record connects two people who have not spoken."* It spreads through F01's paperwork and through nothing else; the audit office logs sightings as a relationship finding, not a containment breach. |
 | Torpor | `SE-N-IVδ-157` | *"If no guarded rest is established, the area does not rupture. It widens."* Expansion follows the facility's own overrun rotations; it costs ground and roster honesty, and touches nothing else held nearby. |
 | Mourning a Life I Never Lived | `SE-N-Iα-519` | *"The glaive reaches one target. The absence does not spread through a party."* Breach growth is measured in centimetres against intentions spoken aloud; it consumes floor and roster discipline, no seals. |
 | Gavel | `SE-C-IVδ-140` | Breach `Movement`: *"It goes to the room where a decision is being made about somebody who is not in it. It stands there."* Containment priority is *"Adjourn, then hold the hearing."* It costs F01 its procedure and nothing structural. |
