@@ -30,19 +30,19 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · — |
+| **Activation threshold** | 2 — two conditions ignored; escalation is the same process faster, never a new behaviour |
+| **Tool / M.A.W. grade** | γ · Maul, Mantle, Stigma — all three graded, two issued and one given |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan from the surveyed route; Viderehan to record what it took on for others; Ferrehan under cap and witness only. Pugnahan prohibited — it accelerates the shedding. |
 
 ### Operational Notes
 
-- The entity is degrading continuously and has not yet reached any endpoint, in a process now measured in sessions rather than hours.
-- Work slows the degradation. It has never reversed it, and the rate returns to baseline between shifts.
-- The margin is two conditions. Escalation is an acceleration of the same process rather than a new behaviour.
-- Burden pressure accrues in crews who observe the acceleration directly; viewing time is capped and logged.
-- Extraction is authorized apart from the work cycle.
+- It degrades continuously and has reached no endpoint in the life of the holding. The process is measured by the weekly field survey, in metres at the pegs and cubic metres by the quarter.
+- Work slows the shedding for a shift and has never reversed it; the rate returns to baseline before the next survey. Nothing the wing does moves the quarterly figure.
+- Two ignored conditions is the margin. Escalation is acceleration — more material, faster, into the same suspended field — and never a new behaviour.
+- Viewing time at the field edge is capped and logged, and the cap is enforced by the supervisor's clock rather than by request.
+- Nothing has ever been recovered from inside the suspended field, and no authorization to try has been issued since Year 4221.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Deteriorata's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Flerehan from the surveyed route, outside the suspended field. Ferrehan only under the cap and only with a second worker watching, because what it transfers in a Ferrehan stand is load, and load is the thing this holding screens its people for. Pugnahan accelerates the shedding and is not applied.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not repair or reinforce it; acknowledge the right to rest**.
 
 ### Consequences
@@ -100,14 +100,14 @@
 ## Appearance
 **Primary Form:** A saint-like humanoid made of cracking stone and dark Han-crystal. Pieces crumble from its body but never reach the floor.
 
-**Notable Features:** It carries its own collapse, kneels beneath invisible weight, and accepts decay without resistance.
+**Notable Features:** It kneels, it sheds, and the shed material does not land — it stops at an elevation the chamber survey has measured and the engineers cannot account for. It resists nothing, including demolition of its own debris, which has never been attempted twice.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** A saint-like humanoid made of cracking stone and dark Han-crystal. Pieces crumble from its body but never reach the floor.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** A kneeling figure of cracked stone and dark Han-crystal inside a standing cloud of its own debris, held above the floor at a surveyed elevation.
+- **Position / movement:** Kneeling, in the posture of bearing, inside its own suspended debris. It can walk and does so slowly; in the chamber it has not risen in eleven years. Record the field's edge against the weekly survey pegs, not the figure's posture.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-B-02, Zone B
 
@@ -117,53 +117,53 @@
 |---|---|
 | **Form** | A saint-like humanoid made of cracking stone and dark Han-crystal. Pieces crumble from its body but never reach the floor. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Material / signature** | Weight. Cracking stone sheathed in dark Han-crystal, lead-cold, wet stone; a 621-class load the weight-discipline crews feel in the knees before the instruments read it. |
+| **Distinctive markers** | The suspended debris field, the survey pegs, and the kneeling posture that has not altered in eleven years. |
+| **Identification** | If anything it has shed is on the floor, you are not in this chamber. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Field edge at each peg, elevation of the lowest suspended fragment, load reading, and the posture, which does not change and is recorded anyway. Do not describe the face; four reports in one week read it four ways and all four are in the file.
 
 ## Origin
-- **Formation:** The Saint formed from the grief of a person who spent a lifetime holding others together while slowly falling apart.
-- **The Sorrow:** The burden of being treated as strong until collapse became inevitable.
-- **The Event:** A healer and spiritual guide continued bearing the city's suffering until their body and identity became stone.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around SECTOR-B-02, Zone B — until the Weight was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
+- **Formation:** From work that everybody relied on and nobody wrote down.
+- **The Sorrow:** Not exhaustion. The particular position of having carried a district for decades in a way that appears, in every record that survives, to be nothing at all.
+- **The Event:** A healer of Zone C took on what the district brought her, outside any duty anybody had assigned her, until her body and her identity had been replaced by the function.
+- **The People:** A healer and counselor of Zone C, named in the commissioning file, and the several hundred people of her district whose names appear in her own appointment book and nowhere in any record of what she did for them.
+- **Expanded origin context:** Her appointment book survives and is the commissioning file's principal document: several hundred names, most of them repeatedly, across thirty-one years. No office assigned her any of it, no register recorded it, and when she stopped, the district's own account of what happened is that a woman became unwell. The archivist's note sets the book beside the district's health returns for the same period, which show nothing unusual whatsoever, and leaves the two documents to say it.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Cracks close briefly when sorrow is shared. | Decrease |
-| **Pugnahan** | Crumbling accelerates and fragments become heavy. | Increase |
-| **Viderehan** | Reveals the burdens it accepted for others. | Stable |
-| **Ferrehan** | Transfers a portion of its weight to the worker. | Decrease |
+| **Flerehan** | The cracks close while the worker speaks, and open again after. | Decrease |
+| **Pugnahan** | Shedding accelerates and the suspended fragments gain weight. Prohibited. | Increase |
+| **Viderehan** | It gives one thing it took on for somebody else, and whose it was. Never its own name. | Stable |
+| **Ferrehan** | A measured portion of its load passes to the worker. Capped, witnessed, logged by name. | Decrease |
 
 
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Deteriorata is recorded as a Subject with Subject-Body manifestation and Weight elemental expression. The current record places it at SECTOR-B-02, Zone B; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Behavior table contains the holding's own trap and the wing states it here rather than leaving it to be discovered: Ferrehan brings the gauge down by moving load onto a worker, and a worker who silently accepts load is precisely what the counselors screen for on this file. Ferrehan is therefore capped and witnessed, and a crew that reports a good Ferrehan cycle is asked who carried what.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A good cycle is a survey entered, a route re-walked around the new edge, a Ferrehan stand within the cap, and every worker out of the chamber on the clock without having asked to be. The last is the one the supervisors actually watch.
 ## Breach Behavior
 
-> *"Deteriorata has broken free. Hunts personnel indiscriminately."*
+> *"It is out of the chamber and moving west. It is not chasing anybody. Get the shoring forward of it."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Deteriorata shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
-| **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
-| **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **Movement** | It walks out slowly and kneels where it stops, still shedding, carrying the suspended field with it. It has never pursued a worker; the earlier hunting entry contradicted both the Apex Record and every incident report on file. |
+| **Effect** | The architecture takes the load: floors buckle, walls bow inward, and every step along its path becomes effort. |
+| **Secondary Effect** | Workers in the zone stop asking for relief, and keep working, and do it well. |
+| **First Target** | No target. The building is what is under attack, and the building is what the response defends. |
+| **Escalation** | Each cycle free, the load rises and the Resolve drain increases by 5. It ends when the shoring holds and the wing has not collapsed, not when the entity is struck. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — the entity leaves the chamber, slowly, still kneeling where it stops. It has never pursued anybody. What escapes with it is the load: floors buckle and walls bow along whatever path it takes.
+- **Containment priority:** No assault. Pugnahan is prohibited in breach as in the chamber. Shoring crews forward, load paths checked continuously, no massing of personnel anywhere the engineers have not cleared, and the Maul in the shoring commander's hands as an engineering tool.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while the wing is still standing under it; it falls when a worker in the zone states aloud a thing they have been carrying that is not in their duties.
 
 ## M.A.W. Equipment
 
@@ -184,7 +184,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Armoury figures, transcribed. The Maul is the shoring commander's tool on this holding and has never been swung at the entity; doctrine is explicit that there is no assault here.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Deteriorata's weight signature in the strike.
 
@@ -216,13 +216,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the wearer's survey and shoring work on this holding; no measured effect elsewhere.
 
 **Ability:** Grants a minor boon tied to Deteriorata's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer moves a little slower.
 
-*Stigmas are granted at random by Deteriorata upon a successful work, not manufactured.*
+*The stigma is given, not issued, and only to a worker who has been ordered out of the chamber on the clock and has gone without arguing. Nine exist.*
 
 ### M.A.W. Use Notes
 
@@ -242,11 +242,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The Saint's fragments vanish before touching the ground.
-- It becomes more active during the Sorrow Tide.
-- Personnel feel fear before understanding that the Saint is not attacking.
+- Its fragments do not vanish. They stop, at a measured elevation, and stay: the suspended field is surveyed weekly and has grown every quarter on record.
+- Tide activity has been tested across eleven Tides and shows no effect on the shedding rate. The belief persists in the wing and is wrong.
+- Quarterly field growth: 31 cubic metres this year, against 24 and 19 in the two preceding years.
 
-**Personnel Note:** *"It was waiting. I felt fear. Then I saw that it was afraid of becoming unnecessary."* — Specialist, Zone E patrol
+**Personnel Note:** *"Thirty-one cubic metres. I walked the new route at the north pegs and then I went and read the Carried Load Return for my own crew, which is a thing we only started doing last year, and four of the six had written down work that is not theirs and never has been. Mine said none, which is what I wrote, and my supervisor crossed it out and wrote what I actually do."* — Surveyor, SECTOR-B-02
 
 
 
@@ -254,30 +254,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Deteriorata as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Deteriorata's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer walks the surveyed route, reads the field edge at each peg, and confirms the lowest suspended fragment's elevation before anything else happens. |
+| **Sustained observation** | Load readings and shed rate across the session, with the viewing cap enforced on the supervisor's clock. Nobody asks to be relieved on this holding; they are sent. |
+| **Activation or escalation** | Escalation is the same process faster. Record the shed rate, re-survey the edge, pull the routes back, and send the engineers in front of anybody else. |
+| **Post-contact review** | Field growth, Ferrehan load transferred and to whom, clock compliance, and the saint-drift screen for every worker who was in the chamber. The screen is conversational and the supervisor acts on the first presentation. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Pegs, elevation, load, clock. Four readings, and the only one that has ever moved for a reason outside the chamber is the first.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Deteriorata (C-IVγ-130 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Saint formed from the grief of a person who spent a lifetime holding others together while slowly falling apart. Held at SECTOR-B-02, Zone B. The Saint's fragments vanish before touching the ground.
+Deteriorata (C-IVγ-130 [WS]) is logged as a Subject-Body manifestation expressing Weight, held at SECTOR-B-02, Zone B, with entry routes surveyed weekly around a suspended debris field that grows. It kneels, sheds continuously, and nothing it sheds has ever reached the floor.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Walks slowly through Zone B while shedding stone. Personnel feel the weight of every responsibility they have accepted. It becomes more active during the Sorrow Tide.
+**Entry 2 — <Excerpt from Weekly Field Survey, Year 4238>**
+Suspended field advanced 0.9 m at the north pegs and 0.4 m at the east; quarterly growth 31 cubic metres against 24 and 19 in the two preceding years. Entry routes re-surveyed around the new edge. Nothing has ever been recovered from inside the field.
+Field growth has never responded to anything done inside the chamber: not shorter sessions, not the instrumented year, not the two attempts at clearing the lower edge, both abandoned.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The burden of being treated as strong until collapse became inevitable.
+**Entry 3 — <Excerpt from Saint-Drift Screen, Zone B>**
+Second presentation this quarter. The Warden was performing faultlessly and was stood down under the supervisor's unappealable authority. Asked what she had been carrying, she listed four duties belonging to other posts and was surprised to be asked, having assumed, she said, that everybody already knew.
+Supervisor's note appended: the stand-down is not a judgement on performance and is not recorded as one, which she was told at commissioning and told again monthly, and which she did not believe until it was her turn.
 
 **Entry 4 — <Containment Notice>**
-Management: Do not repair or reinforce it; acknowledge the right to rest. Work response — Flerehan: Cracks close briefly when sorrow is shared. (Decrease); Pugnahan: Crumbling accelerates and fragments become heavy. (Increase); Viderehan: Reveals the burdens it accepted for others. (Stable); Ferrehan: Transfers a portion of its weight to the worker. (Decrease). Personnel feel fear before understanding that the Saint is not attacking.
+Management: do not repair, reinforce, prop or clear it; every repair is an instruction to continue. Work response — Flerehan: the cracks close while the worker speaks (Decrease); Pugnahan: shedding accelerates, prohibited (Increase); Viderehan: one burden it took on for somebody else, and whose (Stable); Ferrehan: a measured portion of load to the worker, capped, witnessed, logged by name (Decrease). Relief is ordered on the clock and never requested.
 
 **Entry 5 — <Archive Note>**
-The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
+Her appointment book is held with the district's health returns for the same thirty-one years, bound together on the order of the second commander, on the grounds that the book is a record of an enormous quantity of work and the returns are the official record of the same period, and that the two documents are only useful in each other's company.
 
 ## 최종 관찰 (Final Observation)
 
@@ -294,7 +296,7 @@ Stone cracks with the sound of a held breath. The Saint kneels, and the room bec
 
 
 
-**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A saint-like humanoid made of cracking stone and dark Han-crystal. Pieces crumble from its body but never reach the floor.
+**At first contact:** The load arrives before anything else — the knees register it before the instruments do. Then the figure, kneeling, sheathed in dark crystal, shedding steadily; and the debris, hanging in the air where it stopped, a chamber's worth of it, close enough to the route that the surveyor walks you round the long way.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Body becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 
@@ -306,71 +308,77 @@ Stone cracks with the sound of a held breath. The Saint kneels, and the room bec
 
 Deteriorata does not exist in isolation. Its recorded relationships with The Grieving Colossus, The Kind Healer, The Cracked Hourglass should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** The question here is always the field: whether it grew faster, slower or not at all while the other file was near, measured at the same pegs by the same surveyor within the same hour. All three related files concern burden, which is exactly why the briefing on this holding is given on the differences: a crew that arrives intending to relieve this entity will try to clear its field, and clearing its field has been attempted twice and abandoned twice.
 
 
 ### Entity Interaction Record
 
-Deteriorata must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Deteriorata must be assessed against the files it resembles and is not. The Grieving Colossus holds grief that was never mourned; this holds work that was never recorded. The Kind Healer gives relief; this one was the relief, for a district, for decades. The Cracked Hourglass is a term running out. The distinction decides whether a crew arrives intending to help it, which is the one intention this holding cannot accommodate.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Grieving Colossus** | Shares the weight of the unmourned. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | Attempts to comfort but cannot restore it. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Cracked Hourglass** | Both embody time and burden running out. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Grieving Colossus** | Adjacent and distinct: the Colossus holds grief that was never mourned; this holds work that was never recorded. No transfer between them has ever been observed. | Field growth unchanged across two proximities; both entities' load readings unchanged. | Peg readings before and after, taken within the hour, by the same surveyor. |
+| **The Kind Healer** | The Healer works on it and nothing happens, which is the most-cited finding in the wing and the most misread: it is not that this entity cannot be helped, but that nothing offered inside the chamber has ever reached what is wrong. | Gauge fell during both attempts and the field grew at its ordinary rate throughout. | Gauge, growth, and what precisely was offered — in the Healer's words, not the observer's. |
+| **The Cracked Hourglass** | Superficially paired and not: the Hourglass runs out; this one does not run out, has reached no endpoint in the life of the holding, and shows no sign of one. | No measurable interaction in three proximities. | Elevation of the lowest fragment, which is the only figure that would move if an endpoint existed. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Peg the field before the other file arrives and again after it leaves, both readings signed, and re-walk the entry route regardless of what the readings say.
 
 ## 이야기 (Narratio) — The Tale
 
-They called her strong, and she was strong, and the strength, called upon past its limit, turned her to stone.
+This Company does not record what its people do for each other, and it stopped on purpose.
 
-She was the one everyone leaned on. The healer, the counselor, the woman who held the district together with her hands and her patience and her refusal, whatever the cost, to let anyone around her fall. The sick came to her. The grieving came to her. The indebted, the Fracturing, the lost — all of them came, because she was strong, and the strong are given, in Somnarak, the burden of everyone else's weakness.
+For six years mutual assistance was logged and counted. It became a currency inside a month. Workers helped where it scored and declined where it did not, three wings stopped covering for each other entirely outside the metric, and the counselors' judgement — unchallenged since — was that scoring kindness had destroyed more of it than any workload ever had. So the logging was abolished. A worker's record shows the duties of their post, and what they do beyond it is theirs, unmeasured, uncounted, and free.
 
-She did not refuse. That was her nature, and her sorrow: she could not refuse, because refusing would have meant letting someone fall, and she had decided, long ago, that she would not be the one who let people fall. So she bore it. The district's sickness. The district's grief. The district's debt and despair and slow, chronic collapse — all of it funneled to her, because she was the strong one, and the strong one absorbs.
+The consequence is that the people who hold a wing together hold it invisibly. Their work is real, everybody relies on it, and it is nowhere: not in the staffing model, not in the workload returns, not in the file that gets read when they finally fail. When one of them goes down, the record shows an ordinary post with an ordinary load and a person who could not manage it, and the honest conclusion available from the paperwork is that the fault was theirs.
 
-The city praised her. The citizens called her a saint. And the praise was, in its way, the trap — because once you are called strong, you are not permitted to be weak. Once you are the one who holds, you are not allowed to set the holding down. The expectations hardened around her like a cast, and she could not, without betraying everyone who depended on her, admit that she was, beneath the strength, crumbling.
+The founding case is in the commissioning file and consists of two documents. One is a healer's appointment book: several hundred names, most of them more than once, across thirty-one years, no office having assigned her any of it. The other is the district's official health return for the same period, which records nothing unusual at all. Both are accurate. Only one of them describes what happened.
 
-She crumbled slowly. The strength held, because it had to, but the substance beneath it eroded — the way a pillar holds the roof while the stone inside it turns to sand. By the time anyone noticed, it was too late. The saint who had held the district for decades was, internally, already stone: her body calcified by the weight she had borne, her identity petrified into the role of the strong one, her self replaced entirely by the function she served.
+She eroded the way a pillar does, from the inside, holding the roof the whole time. By the time the district noticed, what remained was a woman who had been wholly replaced by the function, and the district's own account of it is that she became unwell.
 
-Deteriorata is that petrified strength. Subject-Body, Weight-element: the figure of a person treated as strong until collapse became inevitable, preserved in stone at the moment of the collapse. She does not move. She cannot — the strength that held everyone else has, at last, held her, permanently, in the posture of bearing.
+Deteriorata is Subject-Body, Weight: the posture of bearing, kneeling, shedding continuously, and holding every fragment it has ever let go exactly where it fell. It can walk. In the chamber it has not risen in eleven years.
 
-Those who come near the Deteriorata feel the burden of being the strong one — the exhaustion of holding, the terror of setting it down, the slow internal erosion of a self that was never allowed to be weak, turned to stone by the very praise that called it strong.
+What the chamber has measured since the first survey is the field: the suspended debris that never lands, pegged, walked and entered weekly, growing every quarter without exception — 19 cubic metres, 24, 31. The growth runs with the quantity of work being done in this facility by people whose posts do not include it; it has been tested against the shed rate, the Tides, the chamber's load readings, the wing's headcount and the number of sessions worked, and none of those fit.
 
-Some sorrows are about weakness. Deteriorata is about strength — the strength that was demanded until it consumed the one who provided it, the saint who held everyone and was held by no one, preserved now in stone, still bearing, because no one ever told her she was allowed to stop.
+Some sorrows are about weakness. This one is about work nobody wrote down, and it has been accumulating ours in a field above the floor at thirty-one cubic metres a year.
 ## 증언 (Testimonium) — The Testimony
 
-> *“They called her strong. The strength, called upon past its limit, turned her to stone.”* — Keeper, Archive
+> *“Thirty-one cubic metres, and eleven hundred people in this facility doing other people's duties with nothing anywhere to say so. I can survey the first. I had to be told the second.”* — Surveyor, SECTOR-B-02
 
-> *“I felt the burden of being the one everyone leans on.”* — Citizen, Zone C
+> *“We counted kindness for six years and destroyed it. I ended the counting and I would end it again.”* — Counseling Office, submission of Year 4230
 
-> *“She held the district for decades. No one held her.”* — Researcher, R.D.
+> *“Her book has three hundred and forty names in it. The district's health return for those years records nothing at all. Both are correct.”* — Archivist, commissioning file
 
-> *“The expectations hardened around her like a cast. She could not be weak.”* — Containment Lead, R.D.
+> *“My supervisor crossed out my return and wrote what I actually do. I was angry for a week and then I read it again.”* — Warden, Zone B
 
-> *“The strong one’s sorrow: consumed by the very praise that called her strong.”* — Mender, Zone C
+> *“I countersigned honestly that I had relied on a junior for a year, which was true, and I was demoted for failing to report a staffing gap. The finding was correct. I resigned.”* — Former supervisor, Year 4237
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-130` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-130 [WS]` · City Sorrow (도한) origin · Entity (IV) coherence, self-aware, crumbling, accepting · Major (γ) potency · Weight · Subject-Body manifestation. The designation previously appeared here without its [WS] tag.
 **Common Name:** Deteriorata
-**Containment Status:** Contained — Zone C
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Saint is petrified, turned to stone by being treated as strong. Effect: proximity induces the burden of being the strong one.
+**Containment Status:** Contained — SECTOR-B-02, Zone B; routes surveyed weekly around the suspended field, viewing capped on the supervisor's clock. The earlier Zone C entry contradicted the SECC header and is the originating district, not the holding.
+**Comprehension Level:** 2 — Basic, per the SECC header; the earlier Advanced entry contradicted it.
+**Threat Assessment:** Major (γ), corrected from the earlier Low entry. It has never pursued or struck anybody and resists nothing. The documented harms are structural — buckled floors and bowed walls along any path it takes in breach — and saint-drift, in which a worker begins absorbing load silently and declining relief, which is why relief here is ordered rather than requested.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type.
-- The Saint cannot move; she is stone.
+- Flerehan is primary. Ferrehan is capped, witnessed and logged by name, because what it transfers is load and silent load-bearing is the condition this holding screens for; the earlier entry naming Ferrehan primary sat badly against the file's own counseling regime. Pugnahan is prohibited.
+- It can move and has: it walks slowly, has left the chamber twice, and kneels wherever it stops. The earlier line calling it immobile contradicted the Movement field, the breach record and Entry 2.
+- Nothing it has shed may be cleared, propped, repaired or reinforced; every repair is an instruction to continue.
+- Field surveyed weekly at the pegs; entry routes re-walked around the new edge before any session.
+- Relief is ordered on the clock, never requested, and the clock is handed over physically at shift change.
+- The Carried Load Return is a containment condition of this holding and binds every post in this facility.
 **Observation Notes:**
-- Formed from a woman who held everyone and was held by no one.
-- The strength consumed her.
-**Cross-References:** Zone C · The Hollow Saint · The Kind Healer
+- Quarterly field growth 31 cubic metres, against 24 and 19 in the two preceding years; growth has never responded to anything done inside the chamber.
+- Growth runs with the volume of work done in this facility by people whose posts do not include it; tested against shed rate, Sorrow Tides, load readings, headcount and session count, none of which fit.
+- Eleven Tides tested: no effect on the shedding rate, contrary to settled belief in the wing.
+- Nothing has ever been recovered from inside the field, and no authorization to try has been issued since Year 4221.
+**Cross-References:** SECTOR-B-02, Zone B · the weekly field survey and the peg book · the healer's appointment book bound with the Zone C health returns · the saint-drift screen and the unappealable stand-down authority · the relief clock and the hand-over ritual · the oversized shoring timber exception · the Counseling Office submission of Year 4230 · the Y4237 Carried Load Return: 9,400 returns, 1,106 workers found carrying other posts' duties, 214 posts created or reallocated, 61 inflated returns with 9 disciplined, measurable falls in informal assistance in four wings, one supervisor demoted on her own honest countersignature and resigned · The Grieving Colossus · The Kind Healer · The Cracked Hourglass
 **Faction Involvement:** SED (E-territory exploration)
-**Originator:** A healer and counselor of Zone C.
+**Originator:** A healer and counselor of Zone C, whose thirty-one years of work exist in her own appointment book and in no record kept by anybody else.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this file with the peg book and the facility's Carried Load Returns beside it. Read alone it is a kneeling figure that has injured nobody and makes rubble that will not fall, which is what two assessors concluded, each with decades of survey figures and no notion of what the figures were filling with.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** On quarterly growth above 25 cubic metres, or any saint-drift presentation: pull the wing's Carried Load Returns before the next survey and name each worker carrying duties outside their post, the post those duties belong to, who relies on them, and what has been done about it. Totals are not accepted, and a nil return from a worker is not accepted without the supervisor's countersignature.
 ## Apex Record
 
 ### What Never Reaches the Floor
@@ -385,6 +393,16 @@ Its origin is a healer who bore the city's suffering until body and identity bec
 
 Its breach loads the architecture directly. The floor buckles, the walls bow inward, and every step becomes effort as an oppressive mass makes breathing feel like lifting. Response is a structural operation conducted under combat conditions: shoring crews forward, load paths checked continuously, and a strict prohibition on massing personnel anywhere the engineers have not cleared. The Saint's Maul is carried by the shoring commander, and the holding's doctrine is explicit that the Maul is a tool of the engineering effort rather than a weapon of an assault. There is no assault. Deteriorata is not suppressed by being struck; it is outlasted by a wing that refuses to collapse under it, which means the engagement is won by crews who shore faster than the mass bows. Veterans describe the work as arguing with gravity on behalf of a building. The entity, meanwhile, continues kneeling, continues crumbling, and continues holding every fragment it has ever shed exactly where it fell.
 
+### What The Field Is Filling With
+
+The survey predates the question by a long way. Pegs were driven in the containment's first year so that the engineers could route entry around the suspended debris, and the field has been walked weekly ever since because a route that is not re-walked is a route that is wrong. The quarterly volume was a by-product, reported upward as a housekeeping figure, rising. In Year 4236, the first year of the Carried Load Returns, an analyst compiling the wing's staffing model put the growth series against the volume of work being done in this facility by people whose posts do not include it. The two move together. The growth fails against shed rate, Sorrow Tides, chamber load readings, headcount and session count, all of which are in the same book and all of which have been tried.
+
+Nothing in the existing Record is overturned. The shed material still does not land and still cannot be cleared; the saint-drift screen still runs and the stand-down is still unappealable; the relief clock still runs below the point at which any strain is measurable, and is still handed over by hand after the watch in which both supervisors thought the other had it; the timber is still cut oversized and stored in the wing. The correlation is between a surveyor's pegs and a stack of countersigned returns, and it requires nothing from the entity at all.
+
+What it costs is the comfort of the abolition. Ending the logging of mutual help was right: six years of scoring turned it into a currency and three wings stopped helping outside the metric, and the Counseling Office's judgement has never been answered on its own ground. The chamber's position is narrower: that what was abolished was the counting, not the carrying, and that eleven hundred people in this facility are doing work that exists only in the field above our floor.
+
+The operational consequence lies outside the chamber. Nothing done here has ever slowed the growth — not shorter sessions, not the instrumented year, not either attempt at clearing the lower edge. The only thing that has moved alongside it is the Carried Load Return: every quarter, each worker names in one line what they did that their post does not cover, and each supervisor countersigns what they relied on, and both go into the staffing model and the worker's record. In Year 4237 that produced 9,400 returns, identified 1,106 people carrying other posts' duties, and created or reallocated 214 posts. It also recreated the thing the abolition was protecting: sixty-one returns were inflated and nine workers disciplined, informal assistance fell measurably in four wings in the first year, and one supervisor who countersigned honestly that she had relied on a junior for a year was demoted for failing to report a staffing gap — correctly, on the finding — and resigned. The file records those beside the growth series, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+
 ### The Relief That Must Be Ordered
 
 Standard doctrine lets a Warden call for relief. On this holding the relief is ordered, on a clock, whether or not it is requested — the only file in the wing where the request pathway is formally disabled. The reason is the saint-drift the counselors screen for: personnel who begin modelling the entity's acceptance of load stop asking for things, and a request-based relief system quietly stops relieving precisely the people it exists for. Supervisors therefore carry the clock and the authority, and Wardens are briefed at commissioning that being sent out of the chamber is not a judgement on their performance and will not be recorded as one. The briefing is repeated monthly, because the briefing is also what drifts. The clock has been shortened twice in the holding's history and never lengthened. Its current interval is set below the point at which any measured strain appears, which the wing's own analysts have described as inefficient and which the commanders have declined to revisit, on the grounds that the efficiency being protected is the ability to notice, and that this entity's whole lesson is how quietly that ability goes.
@@ -395,18 +413,18 @@ Shoring timber for the holding is cut oversized and stored inside the wing rathe
 
 ## Trivia
 
-- Its falling fragments disappear before impact.
-- It is called a saint by personnel who have never asked what it sacrificed.
+- Its fragments do not disappear; they stop above the floor and stay there. The field is surveyed weekly and has grown every quarter in the holding's history.
+- It is called a saint by personnel who have never read the appointment book, which is held in this wing and which anybody may ask to see.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Deteriorata is a Subject with Entity (IV) — Self-aware, crumbling, accepting coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is SECTOR-B-02, Zone B.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Subject, Entity (IV) coherence — self-aware, crumbling, accepting — Major (γ) potency, Comprehension Level 2, Subject-Body. The Registrum carried Comprehension Level 3 against this header; corrected.
+- **Field detail:** Weight; SECTOR-B-02, Zone B. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded γ pieces, and the Registrum placed the holding in Zone C, which is where the originator worked and not where the entity is; both corrected.
+- **Recognition detail:** Identify it by the suspended field and the kneeling posture, never by the face, which is stone and has been read four different ways in four reports filed in one week.
+- **Record detail:** Not to be confused with The Hollow Saint, which the Registrum cross-referenced in place of this file's actual neighbours; corrected.
+- **Containment detail:** A line of pegs, a route that moves every week, a clock that is handed over by hand, and a one-line return in every worker's file about the work their post does not cover.
 ## Document Information
 
 **Document ID:** SE-C-IVγ-130
