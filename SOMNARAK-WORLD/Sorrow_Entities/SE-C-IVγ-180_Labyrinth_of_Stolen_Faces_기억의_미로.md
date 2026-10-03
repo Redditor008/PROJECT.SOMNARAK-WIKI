@@ -40,7 +40,7 @@
 
 - The passages beneath Old Lament do not close, and the survey of them has never twice produced the same plan.
 - Work stabilises a route for the length of a shift. The plan is not fixed by this, and no route has survived to a second session.
-- Viderehan and Ferrehan are the valid approaches to the site.
+- Viderehan and Ferrehan are the only approaches. There is nothing in here to weep with and nothing to confront — the walls are other people's lives and none of them answer.
 - No breach counter applies. Crews lay physical line from the entrance and recover it on exit; a route not on the line is not a route.
 - Extraction is authorized apart from the work cycle and is never attempted off the line.
 
@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Labyrinth of Stolen Faces's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The work is navigation. Viderehan reads the memory architecture from a fixed position and holds the reading steady; Ferrehan requires the worker to keep moving without a map that stays true between corridors. The rule that governs both is that the route is taken from the written anchor and never from recollection.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Maintain a memory anchor and limit exploration time**.
 
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Labyrinth of Stolen Faces’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Labyrinth of Stolen Faces executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time inside is capped for a reason, but the hazard is recall rather than duration. The walls rearrange on every act of remembering or forgetting, so a team that spends twenty minutes reminiscing has moved the maze further than a team that spends two hours walking it in silence.
+- The lens, the veil and the key are all made from lives that could not be placed. Each activation borrows a measure of that displacement and the operator keeps it. The recorded cost is not amnesia. It is that the operator's certainties and their guesses begin to feel identical from the inside.
+- An unresolved session leaves the maze larger and the team's anchors spent. Nothing transforms; the corridors simply hold the shape the last visitor's memory gave them, and the next team's written route no longer matches the ground.
 
 ## Appearance
 **Physical Form:** A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
 - **Primary marker:** A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The entrance is fixed beneath Old Lament; everything past it is not. Record the anchor point, the depth reached in corridor counts rather than metres, and the number of rearrangements observed. A corridor that has not changed during a session is to be reported, because it is unusual.
 - **Element signature:** Void
 - **Registered location:** SECTOR-B-02, beneath Old Lament
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; the undercroft holds more than one record that stores memory, and this is the one that must never be navigated from recall. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the walls as contents, not as surfaces. They are translucent, they flicker with faces and half-scenes, and the scenes are not the visitor's unless the visitor supplies them. Note any face recognised by anyone present, note who recognised it, and do not ask them to describe it further inside the structure.
 
 ## Origin
 - **Formation:** The Maze formed from confusion between memory, dream, and reality.
 - **The Sorrow:** The fear of not knowing which parts of one's history are true.
 - **The Event:** Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Nobody identifiable. The lives stored here cannot be matched to any roll the Keepers hold, and the archive's position is that this is the entity's content rather than a gap in the research — a maze of people no record claims. The faces are catalogued by count and not by name.
 - **Expanded origin context:** The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this effect as "Sorrow Resonance" — the entity's sorrow resonates with the viewer's own hidden grief. Containment procedures require personnel to rotate every 72 hours. Extended exposure causes vivid dreams — dreams of lives never lived, of losses never mourned. The dreams fade.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Labyrinth of Stolen Faces is recorded as an Object/Place with Place-Void manifestation and Void elemental expression. The current record places it at SECTOR-B-02, beneath Old Lament; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling reading under Ferrehan means the team kept moving on the written route while the geometry changed around them. Stability under Viderehan is correct. The reading rises whenever somebody navigates by recollection — and it rises identically whether the recollection was accurate or false, which is the finding personnel find hardest to accept.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -162,7 +162,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Void form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Void and located at SECTOR-B-02, beneath Old Lament, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Maintain a memory anchor and limit exploration time. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** hold the entrance, confirm the event is an expansion rather than an activation, account for every person inside by anchor card rather than by name — the cards are numbered and the names are not reliable at depth — and apply this condition: Maintain a memory anchor and limit exploration time. Do not use an unlisted Work Type as an improvised countermeasure.
 
 
 ### Detailed Activation Record
@@ -176,7 +176,7 @@ The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a gen
 | **Risk** | Major (γ) Object/Place producing Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Maintain a memory anchor and limit exploration time. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** corridor count at the deepest point → rearrangements observed and what preceded each → every memory spoken aloud inside → anchors spent → the reading. The third field is the cause and is to be recorded verbatim; paraphrase has been shown to lose the trigger.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -194,13 +194,13 @@ The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a gen
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A line of up to three. The lens carries down a corridor, which is the only direction anything travels in here.
+**Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is specificity: the third target loses a general impression rather than a particular thing.
+**Damage Application:** Record the strike and the loss separately. The Void lands once; what goes missing is noticed hours later, usually by somebody else, and the delay is why the usage log requires a countersignature at end of shift.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Labyrinth of Stolen Faces's void signature in the strike.
+**Ability:** Void damage to the soul — to identity and memory rather than the body. The lens carries the maze's own confusion and what it opens in a target is doubt about which of their recollections they were present for.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small nameless memories with each use and cannot report the loss, since what is gone leaves no outline.
 
 ### M.A.W. Suit — The Maze Veil
 
@@ -216,9 +216,9 @@ The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a gen
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Labyrinth of Stolen Faces's kind of pressure.
+**Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to stand in a corridor made of someone else's life and remain certain of their own.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves, and reports it most often as their own history sounding like something they were told.
 
 ### M.A.W. Stigma — The Maze Key
 
@@ -228,13 +228,13 @@ The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a gen
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to work against the Labyrinth itself, and nothing in the rest of the Old Lament undercroft.
 
 **Ability:** Always points toward the wearer's own memories.
 
 **Cost:** It cannot distinguish a painful memory from a safe exit.
 
-*Stigmas are granted at random by Labyrinth of Stolen Faces upon a successful work, not manufactured.*
+*The key is not manufactured. The maze gives one to a worker who reached the anchor point by following the written route past a corridor they recognised, and has given none to a worker who followed a recognition.*
 
 ### M.A.W. Use Notes
 
@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grades describe extraction stability rather than human safety, and the gap is wide here. What the table cannot show is that the key's bearers navigate the facility itself by written notes afterwards — corridors they have walked for years — and that none of them has been able to say when they stopped trusting the route.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Labyrinth of Stolen Faces's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Record the first sign, which is ash-smell at the entrance; the first sensation, which is recognition of a corridor you have not walked; the corridor count at entry, turnaround and exit; every memory spoken inside; and the condition that ends the encounter, which is the team returning to the anchor point on the written route within the time limit. Record the time limit and whether it was kept.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -279,11 +279,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Labyrinth of Stolen Faces (C-IVγ-180 [VP]) is logged as a Place-Void manifestation expressing Void. The Maze formed from confusion between memory, dream, and reality. Held at SECTOR-B-02, beneath Old Lament. Walls are made from memories rather than stone.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-No two routes remain identical.
+**Entry 2 — <Survey Attempt: Why There Is No Map>**
+Three survey teams, three methods. Chalk marks: found intact and in the wrong order on the return leg. Measured line paid out from the entrance: recovered in full, two hundred and forty metres, having passed through eleven corridors on the way in and four on the way out. Sequential photography: the images disagree with each other and each is internally consistent. The surveys are kept because they establish the one usable fact — the entrance does not move, and everything is reported as a count of corridors from it.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The fear of not knowing which parts of one's history are true.
+**Entry 3 — <Statement of a Worker Who Recognised a Corridor>**
+"It was the hallway outside my grandmother's rooms, down to the chip out of the skirting. I know that hallway. I also know it was demolished before I was posted here, so there is no version of this where the maze is showing me something it could have got from the building. I stayed on the card. Seventeen corridors in, left, left, back. The whole way out I was aware that if I had turned where I wanted to turn I would have been going somewhere real, and that is the part I would like the next person to be warned about. It is not trying to trick you. It is offering you something accurate."
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the memory architecture. (Stable); Ferrehan: Tests whether the worker can continue without a stable map. (Decrease). The Maze contains lives absent from the Archive.
@@ -318,12 +318,12 @@ The walls move like water. A face appears in one surface, a battlefield in anoth
 
 Labyrinth of Stolen Faces does not exist in isolation. Its recorded relationships with The Memory Weaver, The Memory Lake, The Forgotten Name should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline it from the fixed entrance only, since any interior baseline describes a configuration that no longer exists. In shared conditions record whether the wall contents changed character, whether any face appeared twice, and whether the corridor count to the anchor altered while the other entity was present.
 
 
 ### Entity Interaction Record
 
-Labyrinth of Stolen Faces must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Labyrinth is filed with the undercroft records beneath Old Lament, several of which concern memory that has come loose from a person. The relationships below are what the archive will support. They are not alliances; they are what collected under one district, and in proximity each makes the others' contents harder to attribute.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -331,7 +331,7 @@ Labyrinth of Stolen Faces must be assessed as part of an entity network, not as 
 | **The Memory Lake** | The Lake supplies memories to the lower walls. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Forgotten Name** | Names fade most quickly inside the Maze. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Entrance baseline first, then the shared encounter: corridor count to the anchor before and after, rearrangements per hour, how long the altered rate persisted once the other entity withdrew, and the number of memories spoken aloud by personnel. Without the last figure the series is not comparable.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -378,9 +378,9 @@ Some sorrows mourn forgetting. Labyrinth of Stolen Faces mourns the opposite —
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this as a structure that is written by its visitors rather than as a hostile place. Every figure here follows from what personnel remembered out loud. The percentage is the whole mechanism; there is no counter to exhaust, and an unentered maze does not change shape.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any session that overran its time limit, and after any worker reports recognising a face — the last unconditionally, with that worker stood down from interior rotation pending review, which is a precaution and is not to be recorded as a finding against them.
 ## Apex Record
 
 ### Walls That Read the Visitor
@@ -416,9 +416,9 @@ Line length is set at the start of each cycle by a joint determination between t
 
 - **Classification detail:** Labyrinth of Stolen Faces is an Object/Place with Entity (IV) — Self-aware, labyrinthine, trapping coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-B-02, beneath Old Lament.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the walls. Several structures are catalogued beneath Old Lament; this is the one whose walls are translucent, hold faces, and move when somebody remembers something.
+- **Record detail:** Check the designation before entry. More than one undercroft record stores memory, and they differ on the decisive point — this one must be navigated from paper, not from recall.
+- **Containment detail:** The entity does not need to breach to be dangerous. It rearranges whenever anybody inside remembers anything, including personnel who entered to check the seals, and the containment reading is the corridor count to the anchor rather than the state of the entrance.
 ## Document Information
 
 **Document ID:** SE-C-IVγ-180
