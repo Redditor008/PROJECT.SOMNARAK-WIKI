@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | — · α (Minor) |
+| **Tool / M.A.W. grade** | α · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Sit down, within sight and outside reach, for the whole cycle. Pugnahan is available, has been used once, and the entry for it is a warning. |
 
 ### Operational Notes
 
@@ -66,7 +66,7 @@
 |---|---|
 | **Battle Length** | Short — 10 turns |
 | **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) — Barely formed, passive |
+| **Coherence** | Residue (I) — barely formed, and formed out of an absence of entries rather than an event |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
@@ -98,7 +98,7 @@
 - Without resolution the Child leaves. It does not attack, having almost nothing to attack with; it escapes containment and moves through the facility looking for somewhere to sit, and the retrieval problem is that it becomes less visible the less attention is paid to it, so a facility searching distractedly cannot find it at all.
 
 ## Appearance
-**Primary Form:** A small, translucent child barely visible at the edge of sight. The Child makes no sound and often sits in corners or beneath garden structures.
+**Primary Form:** A small, translucent child, half-flesh and half-light, visible only at the edge of sight and apparent at under three meters to anybody not looking for it. **Posture:** seated, low, in a corner or beneath a garden structure; it stands only to move.
 
 **Notable Features:**
 - Does not speak, cry, or produce audible movement.
@@ -109,7 +109,7 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** A small, translucent child barely visible at the edge of sight. The Child makes no sound and often sits in corners or beneath garden structures.
+- **Primary marker:** A faint seated child-shape at the periphery of vision that is lost the moment it is looked at directly.
 - **Position / movement:** Mobile on foot and self-directed within the Gardens; record posture, the corner or structure it has chosen, and the distance at which it was first seen — noting that the distance is a property of the observer's attention as much as of the Child's position.
 - **Element signature:** Void
 - **Registered location:** SECTOR-D-02, Echo Gardens — contained
@@ -127,25 +127,25 @@
 **Appearance protocol:** Observe at the edge of sight and record from there, because a direct look loses the position entirely and the position is the observation. Note the height, the degree of translucency, the posture — it sits more often than it stands — the chosen corner or garden structure, and the distance at which it first became apparent. Record silence as a positive finding rather than as nothing to report: no speech, no crying, no audible movement, confirmed each watch. Note any reaching motion toward a member of the watch, with the name of the person reached toward and what they had just done. Visibility is the measurement that matters here and it varies with attention rather than with light, so the watch logs how many people were present and whether any of them were looking.
 
 ## Origin
-- **Formation:** The Child formed from children whose voices were never heard.
-- **The Sorrow:** Neglect—the grief of words dismissed, cries overlooked, and existence treated as absence.
-- **The Event:** Countless children were ignored by families, systems, and the city until their silence became a presence.
-- **The People:** Unnamed unheard children of Somnarak.
-- **Expanded origin context:** The archive cross-references this entity's sorrow with SECTOR-D-02, Echo Gardens — the same Han density, the same Void signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
+- **Formation:** From children who were fed, housed, enrolled, marked present every day, and spoken to by nobody.
+- **The Sorrow:** Not cruelty. A perfectly compliant childhood: every column on the roll correctly filled in, and no column for the thing that was missing.
+- **The Event:** No event. An accumulation across districts and generations, which is why the entity is a composite and why no name attaches to it.
+- **The People:** Children of Somnarak who appear in the city's records only as attendance marks, and the assessors who were forbidden to write down anything else about them.
+- **Expanded origin context:** The Welfare and Schools Office records attendance. It records that a child was present, fed, housed and enrolled, and it records nothing else, because the test it replaced asked assessors to judge whether a child was properly attended to — an opinion, which between Year 4176 and Year 4188 removed 1,140 children from households on an inspector's view of a kitchen and returned 970 of them after appeal. The attendance test cannot be aimed at a family, cannot be argued with, and cannot be wrong. It also cannot see a child who is present every day and attended to by nobody, and there is no column in which such a child differs from any other.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Reaches for the worker, seeking acknowledgment. | Decrease |
-| **Pugnahan** (Confrontation) | Flinches and retreats further into silence. | Stable |
-| **Viderehan** (Observation) | Allows observation; its silence communicates neglect. | Stable |
-| **Ferrehan** (Endurance) | Sits in silence for hours, asking the worker to remain present. | Decrease |
+| **Flerehan** (Tears) | Reaches toward the worker and stops short of contact, every time, without exception. | Decrease |
+| **Pugnahan** (Confrontation) | Flinches, fades, and is not seen again that watch. The gauge does not move; the holding simply stops. | Stable |
+| **Viderehan** (Observation) | Permitted, from the edge of sight only. A direct look loses the position. | Stable |
+| **Ferrehan** (Endurance) | It sits for the whole interval and the worker sits with it. This is the holding's principal work and it looks like nothing. | Decrease |
 
 ### Special Behaviors
-- It responds to presence more than speech.
-- It may sit beside someone who is grieving without touching them.
-- Activity increases during the Sorrow Tide.
+- Speech changes nothing either way. Somebody sitting down changes everything.
+- It has placed itself beside a grieving worker nine times and touched none of them.
+- Through a Tide it is easier to see and sits in the open rather than in corners.
 
 
 
@@ -161,17 +161,17 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Silent Child shatters containment and hunts through the facility. It moves toward adults who might protect it. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
-| **Escalation** | Each turn free, Clarity drain +5 until suppressed. |
+| **Movement** | It walks out. Nothing is shattered, nothing is hunted; it moves at under a meter a second toward whichever adult is sitting still, and sits down near them. |
+| **Effect** | Wherever it settles, colour and sound thin out, and personnel describe the room afterwards as one they had not registered being in. |
+| **Secondary Effect** | Personnel in the affected space are overlooked by their own colleagues: missed in handovers, left off counts, spoken past. |
+| **First Target** | Whoever is seated and not talking. Not the nearest, and not the one whose sorrow matches its origin; both readings were in this file and both are contradicted by all four logged breaches. |
+| **Escalation** | Clarity drain rises 5 per interval, and it becomes harder to see in proportion to how distractedly it is being looked for. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Breach type:** Escape, in the narrowest sense the register has: it leaves the Gardens and goes looking for somewhere else to sit down.
 - **Containment priority:** The standing instruction for an Escape-type breach reads physical suppression required; it is assigned by breach type across the whole register, and at this holding it governs nothing that anyone has ever had cause to do. The Child is Residue-grade, has injured no one, and is recovered by a worker sitting down in the corridor it has chosen and remaining there until it becomes visible again. Physical suppression of this entity is not authorised at this site without a Director's signature, and the ground stated for that requirement is the holding's own: it would be the original injury repeated by people who had read the dossier.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per interval, and has fallen without intervention on every occasion that somebody sat down in the corridor.
 
 ## M.A.W. Equipment
 
@@ -250,16 +250,16 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 **Stat interpretation:** Grade measures output and says nothing about cost, and an α rating is the most misread figure in the equipment file. A Minor-grade piece from this source takes very little per use and is therefore used constantly, which is how its wielders accumulate a charge that a δ-grade item would have billed in one visible instalment. Read both columns and authorise on the second; the low number is the hazard here, not the reassurance.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial. The grade has not moved in eleven years and the wing has stopped proposing that it should. Everything about the holding is known; what is not known is why the distance at which it first becomes apparent is shorter at every annual measurement.
 
 **Key Observations:**
-- The Child has never attacked personnel.
-- It becomes more present during the Sorrow Tide.
-- Longer observation increases empathy and reduces detachment.
-- The most successful work consists of sitting nearby without trying to fix it.
+- No attack in eleven years, and the combat actions on file were derived from pressure readings rather than from anything it has done.
+- It is at its most visible during a Tide, which is the only period in which the watch is doubled rather than shortened.
+- Workers who sit the full watch report caring more and coping worse, in that order, and the counseling referral rate for this holding is the highest in the wing.
+- Every successful cycle on record consists of a person sitting still and achieving nothing visible.
 
 **Personnel Note:**
-> *"The Child did not need an answer. It needed proof that someone would remain after it became quiet."* — Specialist Haneulash Yoon, Echo Gardens
+> *"Two point eight meters. I had to be inside three meters of it before I knew it was there, and last year it was four. Nobody did anything to it. The city just got better at not looking."* — Specialist Haneulash Yoon, Echo Gardens
 
 
 
@@ -267,10 +267,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Silent Child as a Subject with Subject-Body manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-D-02, Echo Gardens — contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - It responds to presence more than speech. - It may sit beside someone who is grieving without touching them. - Activity increases during the Sorrow Tide. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Silent Child's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Where it is sitting, how far off it was when the observer first registered it, how many people are present, and whether any of them are looking directly at it. |
+| **Sustained observation** | The distance at which it first becomes apparent, measured annually from a fixed mark by two observers who do not confer: 6.0 m, then 4.2 m, now 2.8 m. Everything else about the holding has held steady. |
+| **Activation or escalation** | A first-apparent distance under the current annual figure, or the Child leaving the Gardens. Neither is urgent and both are reported the same day. |
+| **Post-contact review** | Seated minutes, the first-apparent distance, whether it reached, toward whom, and what that person had just done. A watch that reports nothing is asked how long anybody spent sitting down. |
 
 **Observation method:** Observe seated, at the periphery of vision, for the full watch. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in visibility or position, and the condition that ended the watch. The entity's appearance is its history made visible rather than a guide to behaviour: a child who makes no sound, sits in corners, and disappears when unattended is what neglect looks like when it has been done to enough children for long enough. Two instructions are specific to this holding. Nothing is demanded of it — no speech, no approach, no response — and the watch records what it chose to do rather than what it was asked. And a worker it reaches toward stays where they are and does not touch it, which is the hardest line in the protocol and the one the counselors see people about.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -278,19 +278,19 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Silent Child (N-Iα-025 [VS]) is logged as a Subject-Body manifestation expressing Void. The Child formed from children whose voices were never heard. Held at SECTOR-D-02, Echo Gardens — contained. The Child has never attacked personnel.
+The Silent Child (N-Iα-025 [VS]) is logged as a Subject-Body manifestation expressing Void, held in the Echo Gardens at SECTOR-D-02. It formed from children who were present on every roll and attended to by nobody. It has never attacked anyone, and it is harder to see each year.
 
 **Entry 2 — <Excerpt from Field Log, Year 4227>**
 Wanders silently, choosing corners, doorways, and unoccupied seats. Nearby personnel feel the weight of being unheard and may lose the ability to speak above a whisper. It becomes more present during the Sorrow Tide.
 
 **Entry 3 — <Counselor's Note on Workers Who Wanted to Pick It Up>**
-Neglect—the grief of words dismissed, cries overlooked, and existence treated as absence.
+They all want to pick it up. Every one of them, and the protocol forbids it, and the reason the protocol forbids it is sound and is no comfort at all to the person sitting on the ground with their hands in their lap. What I tell them is this: the impulse is the thing the children did not get, and having it is not a failure of discipline. We record the exposure against the holding and not against the worker for that reason. Nobody has been disciplined here and nobody will be.
 
 **Entry 4 — <Containment Notice>**
-Management: Sit beside the Child and share silence. Do not demand speech.  Longer observation increases empathy and reduces detachment.
+Management: sit beside it, share the silence, demand nothing, and log the minutes. The logging is not administrative tidiness — an unlogged hour of this work is indistinguishable from an hour of the thing that made it.  Longer observation increases empathy and reduces detachment.
 
 **Entry 5 — <Archive Note>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+The Office's annual return carries a line it has published without comment since Year 4192: children recorded present at every attendance and named in no other entry in the year. Year 4237: 41,600. The figure has risen every year the Gardens have held this entity, and the first-apparent distance has shortened in the same years. The Archive states the correlation and declines to state a mechanism.
 
 ## 최종 관찰 (Final Observation)
 
@@ -307,7 +307,7 @@ Silence presses against your ears, but it is not empty. A small translucent figu
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A small, translucent child barely visible at the edge of sight. The Child makes no sound and often sits in corners or beneath garden structures. The space does not become generic; it shifts in the specific register of Void.
+**At first contact:** Nothing announces it. The Gardens are as they were, the air does not change, and the Void here presses on nothing — then a worker who has sat down for long enough registers that there has been a small seated figure at the edge of their vision for some while, inside three meters, and that they cannot say how long. Looking straight at it ends the sighting.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 
@@ -328,11 +328,11 @@ The Child must be assessed as one of a group of sorrows made by people being ove
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Kind Healer** | Approaches but cannot heal what is not a wound. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Choir** | Sings when the Child is near, giving silence a counterpoint. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Colossus** | Pauses nearby and listens. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Smothering Mother** | Holds the Child gently without forcing it to remain. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Orphaned Bell** | The Child sits near the Bell, listening for a name. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Kind Healer** | Comes to it, finds nothing to treat, and stays anyway — which is the only thing that has ever worked here and the Healer arrived at it unaided. | First-apparent distance lengthens for several days afterwards; both gauges fall slightly. | Record the arrival, the time the Healer remained after finding nothing, and the distance on the following week. |
+| **The Hollow Choir** | Sings while it sits, and it neither joins nor leaves. | The clearest sightings the holding has: during the singing it is visible at six meters to everybody present. | Record the sighting distance during the song and at thirty minutes after, when it reverts. |
+| **The Grieving Colossus** | Stops where it is and listens to a thing that makes no sound, for as long as the Child remains. | Recognition without contact. The Child moves closer to it than to any other entity on the register. | Record the distance it closes to, which is the only occasion on which it approaches rather than being approached. |
+| **The Smothering Mother** | She holds it, and she opens the hold herself after about four minutes — the only grip she has ever released unprompted. | Both gauges fall. Her reach interval lengthens for roughly a week. The Child is visible at distance for the rest of that day. | Record the duration, who ended it, and both holdings' figures for the following seven days. |
+| **The Orphaned Bell** | Sits as near the Bell as it is permitted to and remains for the whole tolling, which is the longest it stays in one place unprompted. | No gauge movement on either side. Personnel present consistently report expecting the Bell to name it. | Record the duration and the expectation, which is logged because every witness has had it. |
 
 **Interaction procedure:** Baseline both parties alone, introduce the second slowly and from outside the Child's chosen corner, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, and whatever persists after separation. The field this holding adds is visibility, recorded at fixed intervals by each observer separately and never agreed between them before being written down.
 
@@ -344,13 +344,13 @@ The children of Somnarak are not always heard. The city is busy. The systems are
 
 The overlooked children did not vanish. They were present — in the home, in the street, in the school — but their presence was not registered. They spoke and were not heard. They cried and were not answered. They existed and were not noticed, the way furniture exists, the way walls exist, present but unattended, there but not attended to.
 
-The accumulated neglect — the collective sorrow of countless children whose words were dismissed and whose cries were overlooked and whose existence was treated as absence — sank into the city the way all accumulated sorrow sinks, and the Weeping gave it a form that fit its nature: a child. The Silent Child is Subject-Body, Void-element: the figure of the overlooked, the child-shaped presence that walks among the citizens who never noticed the children in life, quiet, present, unregistered, exactly as the children were.
+None of it was against the rules. Every one of those children was marked present by somebody doing their job properly, under a test that was written to stop children being taken away on an inspector's opinion of their mother's kitchen, and that test has never once been used to take a child wrongly. It also cannot see this. The accumulation sank the way accumulations do and the Weeping gave it the shape of what it was made from: Subject-Body, Void-element, a child sitting in a corner, correctly accounted for.
 
 The Silent Child does not demand attention. That is the sorrow — the child has been overlooked so thoroughly that even as an entity, the child does not ask to be seen. The child simply exists, quietly, the way the overlooked children existed, waiting, still, for the attention that did not come in life and that the entity, faithfully, does not demand.
 
 Those who come near the The Silent Child feel the specific grief of existence-as-absence — the ache of being present and unregistered, of speaking and being unheard, of being a child in a city too busy and too burdened to notice the children who are right there, waiting, quiet, overlooked.
 
-Some sorrows mourn neglect. The Silent Child is made of it — the accumulated overlooking of countless children, crystallized into a presence that is, paradoxically, the shape of an absence, a child-entity that walks silently among citizens who, even now, do not notice.
+Some sorrows mourn neglect. This one is the record of a system that was mended correctly and left a hole exactly the shape of a quiet child: present, fed, housed, enrolled, compliant in every column, and spoken to by nobody. It is two point eight meters now. It was six.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The children were overlooked so thoroughly their silence became a presence.”* — Keeper, Archive
@@ -364,28 +364,60 @@ Some sorrows mourn neglect. The Silent Child is made of it — the accumulated o
 > *“The accumulated neglect of countless children, crystallized into a presence.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-Iα-025 [VS]` · Void · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-Iα-025 [VS]` · Nation origin · Residue (I) coherence · Minor (α) potency · Void · Subject-Body manifestation
 **Common Name:** The Silent Child
 **Containment Status:** Contained — SECTOR-D-02, Echo Gardens — contained
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Minor (α). No injury, no pursuit, nothing it can do to a person that a person is not already doing. The hazard is a worker who stops thinking their own voice is necessary, which lifts within a shift of leaving the Gardens, and a watch that reports the site quiet when the site is not quiet.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Flerehan and Ferrehan, both conducted seated, both from the periphery of vision. Nothing is demanded of it and nobody closes the distance.
+- Corners and the space beneath garden structures are left open, swept and unlit. Groundskeeping has closed them off twice and been reversed twice.
+- A worker reached toward stays where they are and does not touch it. This is the hardest line in the protocol and the one the counselors see people about.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** See Origin section — ‘The People’ field.
+- First-apparent distance, by annual measurement: 6.0 m, then 4.2 m, now 2.8 m.
+- Seated minutes are logged per watch. An hour of the work and an hour of neglect produce identical rooms and are distinguished by nothing except the log.
+- It has sat beside a grieving worker without touching them on nine occasions. Each time it was the worker who stood up first.
+**Cross-References:** The Kind Healer · The Hollow Choir · The Grieving Colossus · The Smothering Mother · The Orphaned Bell · the attendance rule · the Noticed Column
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Originator:** No single person. An accumulation: children present on every roll, in every district, named in no other entry in any year of their childhood.
 
 ### Registry Addendum
 
 **Operational interpretation:** Read this layer against the classification, the Combat Record and the equipment profile before acting on any entry, and then read the suppression condition, which is six words long and is the only thing that works. Sit beside the Child and share silence; do not demand speech. The difficulty is not that it is hard but that it is not recognisable as labour. A completed cycle consists of a worker sitting on the ground in a garden for ten turns, saying nothing, achieving nothing visible, and leaving. The task sheet says so in those words so that nobody logs it as an idle shift, and the yield figures are entered alongside it for the same reason. The economics here are inverted and worth stating plainly: the per-cycle yield is small, the threshold of 4 permits a great many cycles, and the result is a holding that produces steadily while looking, to anyone reading the roster from outside, like a posting where nothing happens. That appearance has been raised at review twice. Both times the answer was the Trivia line: its silence is not an absence of communication, it is the record of communication denied. Where the entity contradicts this record, trust the entity and preserve the contradiction.
 
 **Review requirement:** After any breach, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, re-verify the gauge, the exposure log, the Child's location and its visibility before work resumes, and check the activation count, which stands at 4 and runs down one step per failed or refused cycle regardless of where the gauge sits. Three further items apply here. Sitting time is logged per watch in minutes, because it is the work and an unlogged hour of it looks identical to an hour of neglect. Any instance of a worker demanding speech, closing distance, or attempting contact is recorded against the holding as an exposure event and never against the individual, since the impulse to comfort a child is not a disciplinary matter. And activity rises during a Sorrow Tide, so the watch is doubled rather than shortened, with both members seated and neither of them talking.
+## Garden Record
+
+### What the First-Apparent Distance Is Measuring
+
+Two point eight meters. It was four point two, and before that six. The figure is taken once a year from a fixed mark by two observers who walk the same line separately and do not confer before writing: the distance at which the Child first becomes apparent to someone who is not looking for it. The watch holds everything else constant — the hour, the weather, the lighting, the number of people in the Gardens — because all four were suspected at one time or another and all four have been ruled out.
+
+It tracks one published figure. The Welfare and Schools Office return carries a line it has printed without comment since Year 4192: children recorded present at every attendance and named in no other entry in the year. No welfare entry, no incident, no commendation, no complaint, no illness, no visit — present, every day, and otherwise blank. Year 4237: 41,600. It has risen every year of the holding, and the distance has shortened in the same years.
+
+The Office records attendance because attendance is a fact. What it replaced was an assessment of whether a child was properly attended to, which is an opinion, and between Year 4176 and Year 4188 that opinion removed 1,140 children from their households on inspectors' views of kitchens, sleeping arrangements and mothers' demeanours; 970 were returned on appeal, after an average of fourteen months away. The attendance test cannot be aimed at a family, cannot be coloured by what an inspector thinks of them, and has never taken a child wrongly. It is the single best-drafted instrument in the Office's book.
+
+It has one hole, and the hole cannot be closed with another column, because every column that would close it is an opinion about a child. A child who is present, fed, housed, enrolled and spoken to by nobody is, in the city's records, a child with a perfect attendance mark. There are 41,600 of them in the current return. There is something sitting under a bench in the Echo Gardens that is made out of the ones before them, and every year you have to stand closer to it before you notice it is there.
+
+### The Noticed Column
+
+Instituted Year 4221, after the Gardens' own submission and a longer one from the teaching service. The attendance roll carries an optional final column. A teacher, warden or assessor may write in it, at the end of the day, one line about one child they actually spoke to: what the child said, what they were doing, what they wanted. Nothing more than a line, and not every day — one child, one line.
+
+The column makes no finding. It cannot: that is the point and it is printed at the head of the page. A Noticed Column entry carries no assessment of care, cannot be cited in any proceeding, cannot support a removal or resist one, and is not evidence of anything. It is indexed by the day and by the writer, never by the child, because an index by child is a file of opinions about a child, which is precisely the instrument the attendance test was written to abolish.
+
+Year 4237: 61,400 lines written; 0 cited in proceedings; 0 retrievable by a child's name; 0 read by any office as a matter of course. The writing is done unpaid at the end of a shift. Writers are asked not to tell the child they have written it, because a child who knows will perform and the line will stop being true. And the one thing a writer may never do is go back through the days looking for a particular child, since the index does not permit it and the prohibition is the column's whole safety.
+
+The teaching service asked, in Year 4229, for the column to be indexed by name — not to found a case, only so that a child with no line in three years could be seen to have none. Refused, and correctly: a retrievable record of who was noticed is a retrievable record of who was not, and that is a finding about a household made out of teachers' spare minutes, which is the 4176 inspectorate rebuilt from the bottom. The submission stands in the Year 4230 return, recorded as correct and unanswered.
+
+### Reading the Column
+
+What the Gardens do with it is the holding's only management act and it was approved in Year 4231 after being performed unofficially for two years before that.
+
+Once a month the watch obtains the current bundle — the lines, in day order, by writer, with the children's names struck out by the Office before release, since they are not retrievable and the Gardens are not an exception to that. A worker sits in the usual place, at the usual distance, and reads them aloud. Ordinary lines. *Asked me where the birds go in winter. Wanted to show me a stone. Told me about her brother. Stayed behind to help and would not say why.*
+
+The gauge falls, by eight to fifteen points, and holds for about three weeks. The first-apparent distance does not change, in any month, in seven years of doing it, and the file says so plainly rather than explaining it. The Child becomes visible while the reading goes on and sits nearer than at any other time. It has never reached toward the reader.
+
+The standing note for new workers is three lines. The names are struck out and will stay struck out. Do not stop reading when it comes closer. And do not look for a line that might be about it, because there is no such line and there never was — that is what it is.
+
 ## Trivia
 
 - The Child becomes more visible when someone sits with it and less visible when ignored.
