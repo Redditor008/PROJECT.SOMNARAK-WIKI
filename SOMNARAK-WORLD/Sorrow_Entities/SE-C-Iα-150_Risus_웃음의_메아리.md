@@ -40,7 +40,7 @@
 
 - The laughter in the Commons is ambient and has no source; it does not respond to personnel entering or leaving.
 - A cycle lowers the volume for a shift. The entity is unchanged, and the laughter resumes at its logged level.
-- Viderehan and Ferrehan are the valid approaches to the site.
+- Viderehan and Ferrehan are the only approaches. There is nobody to weep with and nothing to confront: the Commons holds a sound and the people who made it are four thousand years dead.
 - There is no breach counter. The audible field widens through the Commons, and its boundary is confirmed by instrument.
 - Extraction is a separate authorization and carries the same auditory exposure.
 
@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Risus's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The team works inside the sound rather than toward it. Viderehan shows the people and the moment the laughter came from and holds the reading steady. Ferrehan keeps the laughter going around the worker until they can hear the sadness inside it, which takes between forty minutes and two hours and cannot be hurried.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Let the laughter and grief coexist; do not suppress the sound**.
 
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Risus’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Risus executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time is not the risk. Contribution is. The Echo is a collection, and anything laughed in the Commons is taken into it and kept — personnel on long rotations are audibly present in the loop, and the file records the first recognised staff laugh as having entered it nineteen years ago.
+- The requiem, the shroud and the bell are all made from joy that outlived the people having it. Each activation borrows a measure of that brightness and the operator keeps it. The recorded cost is not sadness. It is that the operator hears every laugh they are part of as something that will be kept after everyone present is gone.
+- An unresolved session does not transform the entity. It leaves the loop one laugh longer. Nothing is ever removed from it, no recorded intervention has shortened it, and the only quantity the wing can actually manage is how much of its own staff goes in.
 
 ## Appearance
 **Physical Form:** A sound rather than a body: distant laughter that arrives warm, then becomes quietly sad.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Lament
 - **Primary marker:** A sound rather than a body: distant laughter that arrives warm, then becomes quietly sad.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Ambient and drifting; there is no source to locate and the attempt to locate one is the commonest error on this post. Record where the sound is loudest, where it thins, and whether the loud region has moved since the last survey. Directional equipment has produced four contradictory bearings in one session.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Mantle Commons — ambient
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; Zone D holds more than one ambient record, and this is the one where locating the source is itself the error. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** There is nothing to see and the entry is the sound itself. Record how the laughter arrives — warm, bright, at conversational distance — and how long it takes to thin into grief, which is the only timing in this file that matters. Note how many distinct voices can be separated out, and whether any of them is recognised by anyone present.
 
 ## Origin
 - **Formation:** The Echo formed from laughter preserved after happiness had ended.
 - **The Sorrow:** The grief of remembering joy after the person or moment that created it is gone.
 - **The Event:** Laughter from a vanished community remained in the Commons and crystallized as an ambient voice.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A community of the Mantle Commons who are not otherwise recorded. Nothing of them survives except the laughter, which means the Keepers' record has their voices and not their names — the inverse of almost every other file in this wing, and the reason Viderehan is worked here at all.
 - **Expanded origin context:** The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply... be near it. The R.D. has noted this behavior and classified it as "Sorrow Seeking" — the act of seeking out sorrow not to escape it, but to understand it. The entity does not encourage this behavior. It simply exists. And in its existence.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Risus is recorded as an Object/Place with Lament manifestation and Lament elemental expression. The current record places it at Zone D, Mantle Commons — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling reading under Ferrehan means a worker stayed until the sound turned and did not treat the turn as the unpleasant part. Stability under Viderehan is correct and complete. The reading rises when the sound is pursued, recorded for identification, suppressed, or talked over — and it rises most when somebody laughs along with it.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -162,7 +162,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 The escalation pattern is specific to Risus: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone D, Mantle Commons — ambient, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Let the laughter and grief coexist; do not suppress the sound. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** establish the perimeter at the Commons entrances, confirm the event is an expansion rather than an activation, withdraw personnel who are not rostered to listen — off-duty staff first, since they are the likeliest to laugh — and apply this condition: Let the laughter and grief coexist; do not suppress the sound. Do not use an unlisted Work Type as an improvised countermeasure.
 
 
 ### Detailed Activation Record
@@ -176,7 +176,7 @@ The escalation pattern is specific to Risus: it is not a generic breach event. P
 | **Risk** | Minor (α) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Let the laughter and grief coexist; do not suppress the sound. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** how many voices were distinguishable → whether any was recognised and by whom → the interval between the laughter arriving and turning → laughter contributed by personnel during the session → the reading. The fourth field is the one the wing manages against; the others are description.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -195,12 +195,12 @@ The escalation pattern is specific to Risus: it is not a generic breach event. P
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The requiem reaches one listener, which is how this entity has always worked — a sound that arrives for one person at a time regardless of how many are standing in the Commons.
+**Damage Application:** Record the strike and the aftertone separately. The lament lands once; the inability to enjoy company persists for the rest of the shift, and reports that merge them understate how long the worker stays apart from the team.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Risus's lament signature in the strike.
+**Ability:** Lament damage to the mind. The requiem carries the Echo's signature — joy heard from outside, after the fact — and what it opens in a target is the sense that the good hour they are in is already over.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the Echo's unwept grief and weeps involuntarily, most often immediately after laughing.
 
 ### M.A.W. Suit — The Laughter Shroud
 
@@ -216,9 +216,9 @@ The escalation pattern is specific to Risus: it is not a generic breach event. P
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Risus's kind of pressure.
+**Ability:** Turns Lament aside from the mind, which is the only pressure here. The shroud is what lets a worker stay for a full turn of the sound without leaving at the point it goes sad.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small pleasures, and reports it first as other people's jokes arriving as information.
 
 ### M.A.W. Stigma — The Laughter Bell
 
@@ -228,13 +228,13 @@ The escalation pattern is specific to Risus: it is not a generic breach event. P
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against Risus itself, and nothing elsewhere in the Commons.
 
 **Ability:** Creates a brief field of genuine emotional relief.
 
 **Cost:** The relief ends by replaying a memory of what has been lost.
 
-*Stigmas are granted at random by Risus upon a successful work, not manufactured.*
+*The bell is not manufactured. Risus gives one to a worker who heard their own laugh in the loop and stayed in the room, and has given none to anyone who went looking for the source.*
 
 ### M.A.W. Use Notes
 
@@ -249,7 +249,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grades describe extraction stability rather than human safety, and both are marginal here. Nothing on this post is settled by equipment. What the table cannot show is that the bell rings faintly whenever its wearer laughs, anywhere in the facility, and that most wearers stop within a month.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Risus's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Record the first sign, which is laughter at a distance that does not resolve as you approach; the first sensation, which is pleasure; the interval before the sound turns; every laugh contributed by the team; and the condition that ends the encounter, which is a worker hearing the grief inside the sound without needing it explained. Record the interval in minutes.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -279,11 +279,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Risus (C-Iα-150 [LO]) is logged as a Lament manifestation expressing Lament. The Echo formed from laughter preserved after happiness had ended. Held at Zone D, Mantle Commons — ambient. The sound is strongest in Mantle Commons at dusk.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-It carries no physical vibration detectable by instruments.
+**Entry 2 — <Commons Survey: Voices Separated and Counted>**
+Voices separable at the first survey: between forty and sixty, the range reflecting the limits of the method rather than any change in the sound. Voices separable at the most recent: between forty and sixty, plus eleven identified as facility personnel, of whom four are still employed here. No voice has ever left the loop. The survey's standing note is that the count is not the measurement — the eleven are, and they are the only part of this entity the facility is responsible for.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of remembering joy after the person or moment that created it is gone.
+**Entry 3 — <Statement of a Worker Who Heard Herself>**
+"It was the laugh I do when something is not funny and I am being kind about it. I knew it straight away. What I was not ready for is that it is in there with all of them, so it goes bright and then it goes sad with the rest, and that is going to keep happening in that room for as long as the room is there. I stayed. The shroud helps. I would not describe it as distressing, exactly. I have just stopped being casual about where I laugh, and so has everyone I told."
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the people and moment behind the laughter. (Stable); Ferrehan: Continues around the worker until they can hear sadness in joy. (Decrease). Personnel report rage when they expect joy and hear sorrow instead.
@@ -318,12 +318,12 @@ You hear laughter around the corner. It is warm, familiar, and impossible. When 
 
 Risus does not exist in isolation. Its recorded relationships with The Hollow Choir, The Kind Healer, Silence We Forgot We Made should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline it across a full turn of the sound rather than a fixed interval, because a sample taken during the bright phase describes a different entity. In shared conditions record whether the laughter thinned sooner, whether any new voice entered the loop, and whether the other entity produced any response at all — two have, and neither response has been explained.
 
 
 ### Entity Interaction Record
 
-Risus must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Risus is filed with the Zone D records that are made of leftovers rather than of people. The relationships below are what the archive will support. They are not alliances; they are what the Commons kept, and in proximity each makes the others sound more like company than they are.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -331,7 +331,7 @@ Risus must be assessed as part of an entity network, not as an isolated profile.
 | **The Kind Healer** | The Healer's presence makes the laughter genuinely warm for a moment. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **Silence We Forgot We Made** | The Echo fills silences left after laughter ended. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Full-turn solo baseline first, then the shared encounter: voice count before and after, the interval to the turn, how long the loop stayed altered once the other entity withdrew, and whether any personnel laughed during the overlap. The last field invalidates the measurement if it is not recorded, because a contributed laugh changes the loop permanently.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -372,14 +372,14 @@ Some sorrows mourn the dead. Risus mourns the happy — the community that was, 
 **Observation Notes:**
 - Formed from a vanished community’s real joy, which the Weeping could not dissolve.
 **Cross-References:** Zone D · The Consolihan
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED, whose Zone D survey covers the Commons approaches, and UCD, who hold the Fray-adjacent reports in which the laughter was first logged as a hazard rather than as a remnant.
 **Originator:** A vanished community of the Commons.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this as a collection rather than as an entity with intentions. Every figure follows from what has been put into the loop. The percentage is the whole mechanism; there is no counter to exhaust, and an empty Commons produces no movement in either direction.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any change to Commons access, and after any session in which a worker recognised a voice — the last unconditionally, and with the recognising worker's rotation reviewed, because the recognitions have clustered in a small number of people and nobody has established why.
 ## Trivia
 
 - Audio instruments record silence even while personnel hear laughter.
@@ -391,9 +391,9 @@ Some sorrows mourn the dead. Risus mourns the happy — the community that was, 
 
 - **Classification detail:** Risus is an Object/Place with Residue (I) — Barely formed, ambient coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone D, Mantle Commons — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the turn. Several ambient records are catalogued in Zone D; this is the one that arrives as laughter and becomes grief without changing volume, and instruments register no vibration at any point.
+- **Record detail:** Check the designation before entry. More than one Commons record is a sound, and they are managed oppositely — this one is not to be chased, suppressed, or joined.
+- **Containment detail:** The entity does not need to breach to grow. The loop lengthens whenever anybody laughs in the Commons, including personnel passing through off duty, and the containment reading is the voice count rather than the state of the access doors.
 ## Document Information
 
 **Document ID:** SE-C-Iα-150
