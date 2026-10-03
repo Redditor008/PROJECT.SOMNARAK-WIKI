@@ -35,15 +35,15 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Ferrehan at the rim as the standing work; Viderehan only by a rostered observer, in pairs, with the record written before the chamber is left. Wardens on watch do not look in at all. |
 
 ### Operational Notes
 
-- The well beneath the Grand Archive returns what was put into it, in the voice of whoever put it there.
-- A cycle quiets the returns for a shift. Nothing recorded has emptied the well or changed what it holds.
-- Observation and endurance are the only valid approaches; Viderehan and Ferrehan are both effective at the rim.
-- There is no breach counter. Remembrance expands, and the limit of the expansion is measured from the archive floor each session.
-- Extraction draws on the residue at the rim and is authorized apart from the work cycle.
+- The shaft gives back what settled into it, in the voice of whoever it came from, including voices nobody at this facility can identify.
+- A clean cycle quiets the returns for one shift. Nothing in the record has lowered the level or altered what the shaft holds.
+- Viderehan and Ferrehan only, both at the rim. Nobody descends; the shaft has never been entered and the two attempts to do so were refused by the Archive before they reached the chamber.
+- No breach counter. The level is gauged from the archive floor every watch, and the annual rise is the only number this holding reports upward.
+- Residue is lifted from the rim stone under separate authorisation, never from the liquid, and never by anybody who has looked in that month.
 
 ## Combat Record
 ### Core Stat Line
@@ -67,7 +67,7 @@
 |---|---|
 | **Battle Length** | Long — 20 turns |
 | **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Deep and patient |
+| **Coherence** | Fragment (III) — patient; it does not act within an encounter so much as outlast it |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
@@ -88,7 +88,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Remembrance's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Viderehan at the rim by a rostered worker, never by the Warden on watch, and never alone. Ferrehan is holding position beside an open cover for the stated interval. Everything seen is written down in the chamber before anybody leaves it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Seal access and permit only supervised viewing**.
 
 ### Consequences
@@ -101,14 +101,14 @@
 ## Appearance
 **Physical Form:** A deep well filled with liquid memory rather than water. Its surface reflects the viewer's past.
 
-**Notable Features:** It shows every moment, choice, regret, and absence; the liquid is dark, warm, and still.
+**Notable Features:** It shows what was done and what was not done with the same weight. The liquid is dark, blood-warm, and has never once been seen to move.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
 - **Primary marker:** A deep well filled with liquid memory rather than water. Its surface reflects the viewer's past.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed in the shaft beneath the Archive. The level is gauged against the shaft scale every watch and has risen 7, 11 and 16 millimetres across three annual series.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, beneath the Grand Archive
 
@@ -118,17 +118,17 @@
 |---|---|
 | **Form** | A deep well filled with liquid memory rather than water. Its surface reflects the viewer's past. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Material / signature** | Void. Cold worn rim stone, a surface with no sheen, ash-sweetness, and numbness in the hand held above it. |
+| **Distinctive markers** | A level that rises without inflow, a surface that does not move, and a dropped stone that rings in a voice rather than a note. |
+| **Identification** | Drop the stone with the cover closed. If it rings, you have the right shaft and you should not open the cover alone. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Level, temperature, surface state, and the stone's ring. Four readings, three of them takeable through a closed cover, which is how the watch is designed.
 
 ## Origin
-- **Formation:** The Well formed from memories flowing downward through Somnarak's foundations.
-- **The Sorrow:** The weight of every life being remembered by no one person.
-- **The Event:** Accumulated memories passed beneath the Archive until they collected into a well.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **Formation:** From recollection that had nowhere to be kept, draining down through the foundations to the lowest place that would hold it.
+- **The Sorrow:** Not forgetting. The absence of anyone whose business it was to remember — a city full of lives that were recorded everywhere and gathered nowhere.
+- **The Event:** Nothing happened. The accumulation was noticed in the Archive's seventh decade, when a clerk measured the shaft against a plan and found it full.
+- **The People:** Nobody in particular, which is the entity. The memories in the shaft belong to people who are not being mourned by any living person and who cannot be assembled into names.
 - **Expanded origin context:** The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this effect as "Sorrow Resonance" — the entity's sorrow resonates with the viewer's own hidden grief. Containment procedures require personnel to rotate every 72 hours. Extended exposure causes vivid dreams — dreams of lives never lived, of losses never mourned. The dreams fade upon waking, but the feeling remains — a weight on.
 
 ## Behavior
@@ -139,8 +139,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Displays the viewer's history in full. | Stable |
-| **Ferrehan** | Forces the worker to remain with difficult memories. | Decrease |
+| **Viderehan** | The observer's own past, entire and in order, including the parts they had arranged not to have. Gauge does not move. | Stable |
+| **Ferrehan** | Holding position at an open cover for the stated interval without looking down. The interval is short and nobody has ever asked for it to be longer. | Decrease |
 
 
 ### Operational Work Notes
@@ -154,13 +154,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
-**Activation Trigger:** Lowering a bronze bucket or sensor probe into the memory shaft.
+**Activation Trigger:** Breaking the surface with the bronze probe on its winch line.
 
-**Effect:** Dredges submerged recollections from the city's past, granting +15 Clarity and revealing enemy elemental weaknesses.
+**Effect:** Raises recollection belonging to the city rather than to the channeler: layouts, routes, names of streets that have been renamed twice, and the weak point of whatever the facility is presently fighting.
 
-**Duration:** Continuous while the winch is held.
+**Duration:** While the winch is held open. The line is held by hand and never cleated, so that letting go closes the channel.
 
-**Risk:** The well extracts living memories in exchange; the channeler temporarily forgets recent operational briefings.
+**Risk:** It takes a live memory for every one it gives. The channeler loses recent working knowledge first — briefings, orders, the names of people they were told about that morning.
 
 ### Tool Use Profile — O-Relic
 
@@ -168,13 +168,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
-| **Activation** | Lowering a bronze bucket or sensor probe into the memory shaft. |
-| **Primary Effect** | Dredges submerged recollections from the city's past, granting +15 Clarity and revealing enemy elemental weaknesses. |
-| **Duration** | Continuous while the winch is held. |
+| **Activation** | Breaking the surface with the bronze probe. |
+| **Primary Effect** | City recollection raised to the rim: routes, layouts, old names, and present weaknesses. |
+| **Duration** | While the line is held by hand. It is never cleated. |
 | **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
-| **Risk** | The well extracts living memories in exchange; the channeler temporarily forgets recent operational briefings. |
+| **Risk** | A live memory taken for each one given, working knowledge first. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** The channel is held by one person who does nothing else, with a second present whose only duty is to call the time. A channel left untended vents into the chamber within a minute.
 
 ### Log and Method
 
@@ -189,20 +189,20 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 The escalation pattern is specific to Remembrance: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, beneath the Grand Archive, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Close the cover, clear the chamber, gauge the level, and send for the Archive's own watchkeeper before anything else is attempted. There is no perimeter here that matters; the shaft is the perimeter.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Lowering a bronze bucket or sensor probe into the memory shaft. |
+| **Trigger** | Breaking the surface with the bronze probe. |
 | **Manifestation** | Place-Void |
-| **Primary effect** | Dredges submerged recollections from the city's past, granting +15 Clarity and revealing enemy elemental weaknesses. |
-| **Duration / rate** | Continuous while the winch is held. |
-| **Risk** | Major (γ) Place-Void producing Void pressure; The well extracts living memories in exchange; the channeler temporarily forgets recent operational briefings. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Primary effect** | City recollection at the rim, in exchange for the channeler's own. |
+| **Duration / rate** | While the line is held; level rises 16 millimetres a year regardless. |
+| **Risk** | Major (γ) Place-Void producing Void pressure. Working knowledge lost on the exchange, and accurate recollection surfaced in observers who had spent years arranging not to have it. |
+| **Management** | Closed cover, paired observation, no descent, level gauged each watch, the Archive's own watchkeeper notified of every opening, and the record written in the chamber. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** level against the shaft scale → surface state by sound → temperature → who looked in and for how long → what they surfaced with → whether it was written in the chamber. The last field is the one most often left blank and the one the review reads first.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -224,7 +224,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Armoury figures, transcribed. Nothing here strikes anybody; the Reel's listed value describes the shock of a channel closing badly.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Remembrance's void signature in the strike.
 
@@ -256,13 +256,13 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat, and the wearer's own recollections hold their emotional weight unchanged for about a day, which is the only rest this holding offers anybody.
 
 **Ability:** Stores one memory for later replay.
 
 **Cost:** The stored memory becomes emotionally heavier each time it is replayed.
 
-*Stigmas are granted at random by Remembrance upon a successful work, not manufactured.*
+*Four flasks exist. Three were granted to workers who closed a channel early and wrote down why; the fourth to a Warden who went forty years without once looking in, and who did not want it.*
 
 ### M.A.W. Use Notes
 
@@ -280,13 +280,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced. The level is high because the mechanism is understood completely, not because the holding is safe.
 
-- The Well contains liquid memory from every period of Somnarak.
-- It does not judge what it shows.
-- Extended viewing can cause identity crisis and emotional overload.
+- The shaft holds recollection from every period the Archive covers and from some it does not.
+- It shows what was not done with exactly the weight it gives what was.
+- Viewing beyond the interval produces accurate recollection the observer cannot put back, which is not the same thing as a hallucination and is not treated as one.
 
-**Personnel Note:** *"It showed me every choice I had made and every choice I had avoided. I left knowing my history was heavier than my body."* — Keeper, Zone A
+**Personnel Note:** *"I looked for the permitted interval and wrote it down in the chamber as you are made to. What I wrote was true and none of it was new. The difficulty is that I am the only person who has ever had it all in one place, and when I go it goes. That, I think, is the thing in the shaft."* — Keeper, Grand Archive
 
 
 
@@ -294,27 +294,27 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Remembrance as an Object/Place with Place-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-A-01, beneath the Grand Archive. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Remembrance's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Cover closed. Stone dropped, ring confirmed, level gauged, temperature read, Archive watchkeeper notified. |
+| **Sustained observation** | Paired, timed, at the rim. The second observer's sole duty is the clock and the cover; they do not look down and are relieved if they do. |
+| **Activation or escalation** | A level above the gauged series, or a surface that moves. Close the cover, clear the chamber, and send for the watchkeeper. |
+| **Post-contact review** | Level, temperature, interval actually looked, and the written record, which is made in the chamber and not afterwards. An account written outside the chamber is not accepted, for reasons the holding makes obvious. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Gauge, thermometer, stone, clock, and a pen that does not leave the chamber.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Remembrance (C-IIIγ-115 [VP]) is logged as a Place-Void manifestation expressing Void. The Well formed from memories flowing downward through Somnarak's foundations. Held at SECTOR-A-01, beneath the Grand Archive. The Well contains liquid memory from every period of Somnarak.
+Remembrance (C-IIIγ-115 [VP]) is logged as a Place-Void manifestation expressing Void, in the shaft beneath the Grand Archive. It holds recollection with no owner living, it rises without inflow, and it returns what is in it in the voice it arrived in.
 
-**Entry 2 — <It Does Not Judge>**
-It does not judge what it shows.
+**Entry 2 — <Shaft Gauge Series, Year 4238>**
+Level up 16 millimetres on the year, after 11 and 7. No inflow identified. Temperature unchanged to the instrument's limit across the whole series; surface motion nil.
 
-**Entry 3 — <Remembered by No One>**
-The weight of every life being remembered by no one person.
+**Entry 3 — <Registry Office Correspondence>**
+The office confirms that this Company keeps no record indexed by person. Files are opened for incidents, machines, posts and places, never for human beings, and no document exists from which any individual's service here could be assembled.
 
 **Entry 4 — <Remaining With the Memory>**
-Work response — Viderehan: Displays the viewer's history in full. (Stable); Ferrehan: Forces the worker to remain with difficult memories. (Decrease). Extended viewing can cause identity crisis and emotional overload.
+Management: cover closed, no descent, paired observation at the rim, the Warden on watch never looking in, the record written in the chamber, and the level gauged every watch. Work response — Viderehan: the observer's own past, entire (Stable); Ferrehan: position held at an open cover without looking (Decrease). Flerehan and Pugnahan do not apply to a Place.
 
 **Entry 5 — <Not Quite Present>**
 The well returns the past of whoever leans over it, and it does not restrict itself to the past that person came looking for. Observers have surfaced with recollections that were accurate, verifiable, and their own, and that they had spent years arranging not to have. Clarity rises; so does the cost of it. Nobody draws from the well alone, and what is drawn is written down before the observer leaves the chamber.
@@ -346,20 +346,20 @@ The Well is darker than water and warmer than stone. When you look down, the sur
 
 Remembrance does not exist in isolation. Its recorded relationships with The Memory Weaver, The Broken Mirror, Silence We Forgot We Made should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Level and temperature before, during and after, with the cover closed throughout wherever the pairing permits it. No observer who has looked into the shaft that month takes part in a pairing, and the Archive's watchkeeper attends every one.
 
 
 ### Entity Interaction Record
 
-Remembrance must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Remembrance must be kept distinct from the other memory holdings. The Memory Maze loses people inside their own recollection; this one holds recollection that has no owner left to lose. The distinction decides whether the Archive's watchkeeper is called to an observation or not.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Weaver** | The Weaver seeks memories that reach the Well. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Broken Mirror** | The Mirror reflects memories sealed by the Well. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Silence We Forgot We Made** | The Well contains words never spoken. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Memory Weaver** | It works toward the shaft and will take from the rim residue if the residue is left out. | Level unchanged; residue weight falls measurably between gauges. | Weigh the rim residue at the start and end of every session the Weaver is within the sector. |
+| **The Broken Mirror** | Brought within the chamber it shows what the shaft holds, to anybody, cover closed. This is the single most dangerous arrangement recorded here and it is prohibited. | One instance, under authority, lasting eleven seconds; three observers present and all three wrote in the chamber. | The prohibition and its date. No further record is to be generated. |
+| **Silence We Forgot We Made** | The dropped stone does not ring while that holding is in the sector. It is the only recorded condition that silences the ring. | Ring absent; level and temperature unaffected. | Drop the stone at fixed intervals and log the ring as present or absent, nothing more. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Instruments only, cover closed, watchkeeper present, record written in the chamber by whoever took the reading.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -391,19 +391,19 @@ Some sorrows mourn the dead. Remembrance mourns the unremembered — the lives t
 
 **Classification:** Sorrow Entity — `C-IIIγ-115 [VP]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Place-Void manifestation
 **Common Name:** Remembrance
-**Containment Status:** Contained — beneath the Grand Archive
+**Containment Status:** Contained — SECTOR-A-01 shaft, beneath the Grand Archive; cover closed, no descent
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Well is a shaft of unclaimed memories.
+**Threat Assessment:** Major (γ). Accurate and unreturnable recollection in anyone who looks, loss of working knowledge in anyone who channels, and a level rising 16 millimetres a year with no identified inflow.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- Limit descent to 15 minutes.
-- The Well is growing; monitor for overflow.
+- Ferrehan is the standing Work Type at the rim. Viderehan is performed only by rostered observers in pairs, and never by the Warden on watch, who does not look in under any circumstances.
+- Nobody descends. Two proposals to do so were refused by the Archive before reaching the chamber, and the refusals are filed here.
+- The level rises: 7, 11 and 16 millimetres across three annual series. At the present rate the shaft has rather more than a century, and the figure is reported upward every year regardless.
 **Observation Notes:**
-- Formed from memories unclaimed by any rememberer.
-- The Well holds lives no one remembers.
-**Cross-References:** The Grand Archive · The Keepers · The Memory Maze
+- Temperature and surface motion unchanged across the entire instrument series. Only the level moves.
+- A dropped stone rings in a voice. The voices have never been matched to anybody in the Archive's rolls, and the Archive has looked.
+**Cross-References:** The Grand Archive · the Archive watchkeeper · The Keepers · The Memory Maze · The Memory Weaver · The Broken Mirror · the Registry Office
 **Faction Involvement:** Wound Walkers (Fracture-relevant)
-**Originator:** Collective; citizens whose memories sank unclaimed.
+**Originator:** Nobody identifiable · recollection with no surviving claimant
 
 ### Registry Addendum
 
@@ -424,6 +424,24 @@ The liquid does not move, does not cool, and does not evaporate, and the three c
 
 The memories that collected beneath the Archive belong to people nobody is still mourning, and this is the containment's actual subject. The file holds the Archive's own account of how the accumulation occurred and the point at which it was noticed. The Warden's commissioning material includes it, and the note attached records that the memories arrived because there was nowhere else for them to go.
 
+### What the Level Is Measuring
+
+The gauge against the shaft scale is the only figure this holding reports upward: 7 millimetres in the first annual series, 11 in the second, 16 in the third, with no inflow found and temperature and surface motion dead flat across the whole run. The rise has been held against the Archive's intake, against burials in the quarter, against the city's register of deaths. It matches none of them. It matches the number of people who ended their service with this Company in that year and left no Service Leaf behind them.
+
+This Company keeps no record indexed by a person. Files are opened for incidents, for machines, for posts and for places, and never for a human being; there is no personnel file, no conduct file, no service file, and a clerk who begins one is dismissed for it. The rule was made for cause and the cause is not disputed. Personal files were used to keep men out of work across the whole district, a supervisor's three-word note followed a fitter for twenty-two years, and the worst of them were accurate — which was the part that could not be argued with. The Registry was rebuilt by subject in Year 4221 and nobody proposes going back.
+
+Its consequence is that no working life at this Company exists anywhere as one thing. Forty years of a man's work sits scattered across a thousand subject files, under the name of the machine he tended and the stair he repaired and the fire he put out, and under no name of his own. He cannot be thanked by record, cannot prove he was here, and cannot be remembered by the institution in any form, because the institution has no shape in which a person fits. What is beneath the Archive is that: recollection with no claimant, draining to the lowest place that will hold it.
+
+### The Service Leaf
+
+Authorised Year 4233. On discharge, or on death, one sheet may be compiled for a worker: dates in and out, posts held, nothing else. No conduct, no assessment, no reason for leaving. The clerk assembles it from crew rosters, hands it to the worker or to a nominated person, and the Company retains no copy — the leaf belongs to the worker and exists nowhere else.
+
+Year 4237: 1,702 discharges, 1,203 leaves issued. 499 were not. Of those, 402 could not be compiled at all, because the rosters are kept by crew and not by name and a short-service worker leaves no trace in them that a clerk can follow. 61 leaves were issued for the dead to a nominated person. 12 were refused because no nomination existed and the Company is not permitted to go looking for a relative.
+
+The costs are plain. A document with no retained copy cannot be checked, and two forged leaves are known to have been presented to other employers; the Company was asked to confirm them and could not, which is the system working as designed and did nothing for the honest men standing behind those two in the queue. The compiling clerk must read a worker's whole service across the wards to write the leaf, which is the personal file the rule forbids, assembled by hand for a day and carried out of the office in a clerk's head. And the 402 are exactly the people the scheme was meant for: the casual, the short-served, the ones with nobody to nominate.
+
+The clerks asked for a stub — a line kept in the office recording that a leaf was issued, to whom and when, so that a forgery could be answered. It was refused, and refused correctly: a series of stubs in date order, naming people, is a personal index, and a personal index is the thing that was abolished. Their objection stands in the Registry's first volume, recorded as correct and unanswered: that the Company has made it impossible to keep a file on a man in order to stop that file being used against him, and has thereby made it impossible to say that he was ever here, and that the shaft under the Archive has risen every year since.
+
 ### The Closed Cover
 
 The cover is lifted only for the inspection and is closed by the Warden who opened it, never by the relief. The rule exists so that no cover is ever left open across a handover, a situation that has arisen once, lasted a few minutes, and produced the standing instruction the following day.
@@ -441,8 +459,8 @@ The inspection itself takes only a few minutes and consists of confirming that t
 
 - **Classification detail:** Remembrance is an Object/Place with Fragment (III) — Deep and patient coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-A-01, beneath the Grand Archive.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A level that rises without inflow, a surface that does not move, and a dropped stone that rings in a voice. All three can be established with the cover closed.
+- **Record detail:** The Registrum rated a Major (γ) holding Low, named Viderehan as primary without saying who may perform it, and carried a descent limit against a containment in which nobody descends at all. All three corrected here.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
