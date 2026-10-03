@@ -32,18 +32,18 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
+| **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- The Loom is threaded with dreams that were never had, and the work on it advances between inspections.
-- A cycle halts the advance for a shift. Nothing woven has been unpicked, and the pattern is unchanged by a clean outcome.
-- Viderehan and Ferrehan are the valid approaches to the object.
-- There is no breach counter. The influenced radius near the Gates widens, and its edge is marked at every session rather than carried over.
-- Residue is recovered from the frame under separate authorization.
+- The warp is made of futures nobody started, and the work on it is further along at every inspection than it was at the last.
+- A cycle stops the shuttle for a shift. Nothing woven has ever come undone, and a clean outcome leaves the pattern exactly where it was.
+- Ferrehan is the working approach and Viderehan the recording one; both are run to a clock, never to the worker's own sense of how they are.
+- No breach counter. The influenced radius near the Gates widens, and its edge is re-marked from scratch at every session because a carried-over mark has twice been wrong by several metres.
+- Residue is recovered from the frame under separate authorisation, from the beam and never from the weave; the distinction is the painted line and is not discretionary.
 
 ## Combat Record
 ### Core Stat Line
@@ -67,7 +67,7 @@
 |---|---|
 | **Battle Length** | Long — 20 turns |
 | **Threat Role** | Major encounter |
-| **Coherence** | Entity (IV) — Self-aware, creative, manipulative |
+| **Coherence** | Entity (IV) — self-directed, inventive, and accurate about people it has never met |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
@@ -99,16 +99,16 @@
 - If the resolution condition is not fulfilled, Loom of Unlived Dreams reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
-**Physical Form:** A massive loom made from crystallized Dream-stuff. Its threads weave without a visible operator.
+**Physical Form:** A loom of crystallised Dream-stuff, taller than the chamber's doorway, pale and cold to the hand. **Operation:** the shed opens, the shuttle crosses and the beam takes up, continuously, with nothing driving any of it.
 
-**Notable Features:** It creates beautiful realities, hides sorrow inside pleasant dreams, and never produces the same dream twice.
+**Notable Features:** What it makes is genuinely beautiful and not a disguise, the sorrow is inside the pleasantness rather than behind it, and no output has ever been repeated.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Dream
-- **Primary marker:** A massive loom made from crystallized Dream-stuff. Its threads weave without a visible operator.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Primary marker:** A shuttle crossing a warp with no hand on it and no power to the frame, at a rate that has not varied in a century.
+- **Position / movement:** The frame is fixed and the weave is not. Record the shuttle's rate, the finished length on the beam, and the painted boundary's condition.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-A-01, near Dream Gates
 
@@ -118,18 +118,18 @@
 |---|---|
 | **Form** | A massive loom made from crystallized Dream-stuff. Its threads weave without a visible operator. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Material / signature** | Lament. Pale crystal, salt-damp cold, cold rain on the air, and the sound of a shuttle crossing with nothing behind it. |
+| **Distinctive markers** | Finished length on the beam, shuttle rate, radius edge, and whether any worker has described themselves as feeling well. |
+| **Identification** | Watch the shuttle for a minute. Nothing else in the wing runs with no hand on it and no power to it. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Measure the finished length against the last entry, time the shuttle over fifty passes, walk and re-mark the radius edge, and check the painted boundary for wear before anybody goes near the frame.
 
 ## Origin
-- **Formation:** The Loom formed from dreams abandoned before they could become lives.
-- **The Sorrow:** The grief of imagined futures that were beautiful enough to feel real.
-- **The Event:** Weavers gathered discarded dreams near the Gate, and the dreams began weaving themselves into a machine.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Formation:** From futures that were worked toward for years and never confirmed to exist, in a system that plans in numbers and may not name a person.
+- **The Sorrow:** Not disappointment. Having been right about what you were building toward, and never having been in a position to be told so.
+- **The Event:** Dream-weavers gathered what people had set down near the Gate, and what they gathered began working a frame of its own without anybody at it.
+- **The People:** Citizens who set their dreams down near the Gate — not robbed of them and not refused them, merely never able to establish that the thing they were working toward was going to exist.
+- **Expanded origin context:** The material was set down rather than taken, and the file is deliberate about keeping that visible. These were people who qualified, waited, and did the preparatory years for posts that the establishment plan listed as numbers and never as anybody's. Nobody promised them anything, because nobody is permitted to: a plan that names a person is a plan that can be traded, and the Office abolished named plans for reasons that fill a volume. So they worked toward a figure on a board that could fall to zero between one quarter and the next, without notice and without anybody being told, since telling a particular person their number had gone would be identifying them as a candidate. When the figures moved, nothing had been broken, because nothing had ever been said. They put the dream down and went on with the work in front of them. The Lament collected near the Gate in the shape of what they had been preparing for.
 
 ## Behavior
 
@@ -139,8 +139,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the dreamer's hidden desire. | Stable |
-| **Ferrehan** | Keeps the worker inside an unfinished dream. | Decrease |
+| **Viderehan** | What the observer was preparing for, in full, as though it had happened. Gauge holds. | Stable |
+| **Ferrehan** | Remaining inside a future that is not finished and will not finish, for the length of the timed interval. | Decrease |
 
 
 ### Operational Work Notes
@@ -154,13 +154,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
-**Activation Trigger:** Touching a thread or entering a Dream Chamber nearby.
+**Activation Trigger:** Contact with the weave, or entry to any Dream Chamber inside the marked radius.
 
-**Effect:** Weaves a dream into a temporary reality.
+**Effect:** A future is woven out as a temporary reality, complete and inhabitable, lasting as long as its source does.
 
-**Duration:** Until the dream's emotional source is exhausted.
+**Duration:** For as long as the future being woven has anything left to draw on; the shortest on record ran four minutes and the longest the better part of a day.
 
-**Risk:** The dreamer may refuse to return to waking life.
+**Risk:** The dreamer may decline to come back, and the decline is lucid rather than confused; two refusals in the file were argued, at length, by people who knew exactly where they were.
 
 ### Tool Use Profile — O-Relic
 
@@ -169,10 +169,10 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
 | **Activation** | Touching a thread or entering a Dream Chamber nearby. |
-| **Primary Effect** | Weaves a dream into a temporary reality. |
-| **Duration** | Until the dream's emotional source is exhausted. |
+| **Primary Effect** | A whole future rendered inhabitable for a time — complete, pleasant, and accurate to what the person was preparing for. |
+| **Duration** | Until its source runs out. The clock ends the exposure; the dreamer never does. |
 | **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
-| **Risk** | The dreamer may refuse to return to waking life. |
+| **Risk** | A lucid refusal to come back. Two are in the file and both were argued coherently by people who knew where they were. |
 
 **Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
@@ -197,9 +197,9 @@ The escalation pattern is specific to Loom of Unlived Dreams: it is not a generi
 |---|---|
 | **Trigger** | Touching a thread or entering a Dream Chamber nearby. |
 | **Manifestation** | Object-Dream |
-| **Primary effect** | Weaves a dream into a temporary reality. |
-| **Duration / rate** | Until the dream's emotional source is exhausted. |
-| **Risk** | Major (γ) Object-Dream producing Lament pressure; The dreamer may refuse to return to waking life. |
+| **Primary effect** | A temporary reality woven from what the person was preparing for, indistinguishable from the thing itself while it holds. |
+| **Duration / rate** | Runs until the source is spent; the timed rotation ends the watch well before that. |
+| **Risk** | Major (γ) Object-Dream producing Lament pressure; the dreamer may lucidly decline to come back, and supervisors disregard the dreamer's own view of their condition. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (The Dream Weaver’s Loom):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
@@ -222,7 +222,7 @@ The escalation pattern is specific to Loom of Unlived Dreams: it is not a generi
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** The multiplier applies to the strike and to each Tick separately. The Requiem's bearer is rostered against the clock and not against their own assessment, in keeping with the standing instruction on this holding.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Loom of Unlived Dreams's lament signature in the strike.
 
@@ -254,13 +254,13 @@ The escalation pattern is specific to Loom of Unlived Dreams: it is not a generi
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat, and for about a day the wearer can see, in any room, what it was intended to become before the plan for it changed. Wearers describe the effect as pleasant, which is the warning.
 
 **Ability:** Weaves one controlled illusion.
 
 **Cost:** The user contributes a personal memory to the dream.
 
-*Stigmas are granted at random by Loom of Unlived Dreams upon a successful work, not manufactured.*
+*Fourteen shuttles exist. Each was taken from the beam at the end of a finished length, never cut from the weave, and each is issued with the timed-rotation rule attached to it in writing.*
 
 ### M.A.W. Use Notes
 
@@ -278,13 +278,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced. The grade is high on the strength of the sealed-pair archive rather than on any understanding of the mechanism: a century of looking has not found what drives the frame, and the wing's position is that a method which produces reliable evidence of an unexplained thing is still an advanced record.
 
-- The Loom responds to desire more than touch.
-- Dreams produced by it can affect physical rooms.
-- It becomes dangerously active during Dream Bleed.
+- It answers to what a person was preparing for far more reliably than to any contact with the frame.
+- Its weavings have altered four physical rooms on record, each adjacent to the frame and each restored when the weaving ended.
+- Through a Dream Bleed the shuttle rate roughly trebles and the radius edge has to be re-marked twice a shift.
 
-**Personnel Note:** *"It did nothing when I entered. That was its power. The Loom waited for me to bring the dream it wanted to weave."* — Specialist, Zone C patrol
+**Personnel Note:** *"Eighty-eight metres on the beam. It did nothing at all when I came in — it waited for me to bring it something, and what I brought was the thing I did the three years' course for in 4229. The post numbers for that grade went to zero in 4231. Nobody told me, because nobody is allowed to tell anybody."* — Specialist, Dream Gates watch, SECTOR-A-01
 
 
 
@@ -292,23 +292,25 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Loom of Unlived Dreams as an Object/Place with Object-Dream manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-A-01, near Dream Gates. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching a thread or entering a Dream Chamber nearby. Effect: Weaves a dream into a temporary reality. Duration: Until the dream's emotional source is exhausted. Risk: The dreamer may refuse to return to waking life. Tool Use Profile — O-Relic. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Loom of Unlived Dreams's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Finished length, shuttle rate, radius edge, and two sealed Viderehan accounts taken at opposite faces of the frame. |
+| **Sustained observation** | The finished length is measured at each return and has grown every time: 40, 61, 88 metres. Shuttle rate, frame, radius and conduct are unchanged throughout. |
+| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching a thread or entering a Dream Chamber nearby. Effect: a future is woven out as temporary reality. Duration: until its source is spent. Risk: a lucid refusal to return. Tool Use Profile — O-Relic. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Post-contact review** | Length, rate, radius, and the two sealed accounts handed unopened to a clerk outside the discipline. A worker's own report that they are fine is recorded and given no weight. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** A measure along the beam, a count of shuttle passes, a walked radius, two sealed accounts, and the Establishment Office return on courses completed for posts since reduced to zero, which is the figure the length is read against.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Loom of Unlived Dreams (C-IVγ-176 [LO]) is logged as a Object-Dream manifestation expressing Lament. The Loom formed from dreams abandoned before they could become lives. Held at SECTOR-A-01, near Dream Gates. The Loom responds to desire more than touch.
+Loom of Unlived Dreams (C-IVγ-176 [LO]) is logged as an Object-Dream manifestation expressing Lament, held at SECTOR-A-01 beside the Dream Gates. Nothing drives it that anybody has found, it answers to what people were preparing for, and the finished cloth on its beam is longer at every annual return.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Dream Gates Watch, SECTOR-A-01, Year 4238>**
+Finished length on the beam at 88 metres, against 61 and 40 at the preceding returns. Shuttle rate unchanged. No operator found. Dreams produced in the period affected four physical rooms, all of them adjacent to the frame and all restored on separation.
 Dreams produced by it can affect physical rooms.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Establishment Office, standing rule>**
+The establishment plan is made in posts and numbers. No plan, forecast, succession schedule or development projection may name a person or be capable of identifying one, and no person may be told that any future post is intended for them.
 The grief of imagined futures that were beautiful enough to feel real.
 
 **Entry 4 — <Containment Notice>**
@@ -332,11 +334,11 @@ Threads hang in the air, each one a possible life. The Loom does not move until 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A massive loom made from crystallized Dream-stuff. Its threads weave without a visible operator. Notable Features: It creates beautiful realities, hides sorrow inside pleasant dreams, and never produces the same dream twice. Identification Profile: The record. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Object-Dream form.
+**At first contact:** What registers first is the sound — a shuttle crossing, steadily, in a chamber with nobody in it — and then the pale crystal frame and the finished cloth on the beam. The air is salt-damp and smells of cold rain. The painted line on the floor is checked before anybody steps past it.
 
 **With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Dream is teaching you its sorrow.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touching a thread or entering a Dream Chamber nearby. Effect: Weaves a dream into a temporary reality. Duration: Until the dream's emotional source is exhausted. Risk: The dreamer may refuse to return to waking life. Tool Use Profile — O-Relic. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touching a thread or entering a Dream Chamber nearby. Effect: a future woven out and made briefly inhabitable. Duration: until the source is spent. Risk: the dreamer declines to come back. Tool Use Profile — O-Relic. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
 
 **After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
 
@@ -344,18 +346,18 @@ Threads hang in the air, each one a possible life. The Loom does not move until 
 
 Loom of Unlived Dreams does not exist in isolation. Its recorded relationships with The Weaver of Dreams, The Dream Fragment, The Memory Weaver should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish this frame's own finished length, shuttle rate and radius across several sessions with no second holding present, then introduce the other and measure all three again, in sealed pairs, with the beams of both holdings recorded by crews who do not confer.
 
 
 ### Entity Interaction Record
 
-Loom of Unlived Dreams must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Loom of Unlived Dreams must be distinguished from the dream holdings around it. The Dream Fragment keeps pieces of dreams that were had; this one keeps whole futures that were never started, which is why its figure is a length of finished cloth and not a count of sleepers.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Weaver of Dreams** | The Weaver uses the Loom to shape dream entities. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Dream Fragment** | Abandoned fragments become thread. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Weaver** | Trades memories for dream material. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Weaver of Dreams** | The Weaver works at this frame and is the only thing that has ever been observed to direct it. The shuttle rate falls to a third and the output becomes repeatable, which it never otherwise is. | Repeatability — the single exception to the holding's defining property. | Record the rate and seal the pairs as usual. Liaison authorisation is required and has been granted four times. |
+| **The Dream Fragment** | Fragments drawn into the warp become thread within hours and cannot be recovered afterwards. The finished length jumps by a measurable amount each time. | Length up; the Fragment holding diminished permanently by the same material. | Measure before and after. The liaison office refuses this pairing on the standing ground that the material is somebody's. |
+| **The Memory Weaver** | A trade, conducted without either holding being asked: memory goes one way and dream-stuff the other, and both beams grow. | Both holdings gain; the wing gains nothing and cannot stop it except by separation. | Record both lengths. Separation is ordered at the first exchange and has been needed twice. |
 
 **Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -390,18 +392,18 @@ Some sorrows mourn what was lost. Loom of Unlived Dreams mourns what was dreamed
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-IVγ-176` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Object-Dream manifestation
-**Common Name:** The Dream Weaver’s Loom
-**Containment Status:** Contained — Dream Gates
+**Common Name:** Loom of Unlived Dreams (earlier designation: The Dream Weaver's Loom)
+**Containment Status:** Contained — SECTOR-A-01, beside the Dream Gates
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Loom weaves itself from abandoned dreams. Effect: viewers see their own unlived futures in the fabric.
+**Threat Assessment:** Major (γ). It threatens nobody and two people have declined to leave it. Effect: a worker is shown, accurately and beautifully, the life they prepared for and did not get.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The Loom operates autonomously; do not interfere with the weaving.
+- Ferrehan is the primary Work Type, run to a clock; Viderehan is the recording approach and is taken in sealed pairs.
+- The frame may be touched and the weave may not. The boundary is painted on the floor and is repainted on a fixed cycle.
 **Observation Notes:**
-- Formed from discarded dreams gathered near the Dream Gates.
-- The cloth grows with every abandoned future.
-**Cross-References:** Dream Gates · The Dream Fragment · The Weaver of Dreams
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+- Formed from futures set down near the Dream Gates by people who were never told whether they existed.
+- Eighty-eight metres on the beam, against sixty-one and forty; the length has never once been found shorter.
+**Cross-References:** Dream Gates · The Dream Fragment · The Weaver of Dreams · The Memory Weaver · the Establishment Office rule against named plans · the Numbers Posted
+**Faction Involvement:** SED (A-territory exploration) · UCD (Fray-adjacent zone) · Dream Gate liaison office (authorisation holder)
 **Originator:** Citizens who abandoned their dreams.
 
 ### Registry Addendum
@@ -433,10 +435,28 @@ The sealed-pair method has produced an archive nobody designed. Because disagree
 
 Boundary paint for the floor line is mixed on site from the wing's own stock rather than drawn from stores, because the commercial formulation weathered unevenly under the frame's light and produced an edge that two crews read differently on the same shift. The site mixture is matched against a retained sample at every repainting, and the sample is stored in the same cabinet as the sealed accounts. Crews repaint on a fixed cycle whether or not the line has faded, which the quartermaster has queried once and not since.
 
+### What the Finished Length Is Measuring
+
+Eighty-eight metres on the beam, after sixty-one and forty. The length is measured along the finished cloth at each annual return by two crews who do not confer, and the figure has never been found shorter than the one before it. Nothing else about the holding moves: the shuttle rate is constant, the frame is inert to every test, the radius edge sits where it has always sat. The length does not track the Tide, the Bleed or the traffic through the Gates, all of which have been set against it. It tracks one line in the Establishment Office's annual return: persons who completed a qualifying course for a post whose planned number had since been reduced to nil.
+
+This Company plans in posts and never in people. The establishment is forecast as figures by grade and function, and no plan, schedule or projection may name a person or be capable of identifying one. The rule is one of the oldest the Office has and the reason is written at the front of the volume. Named plans were property. The succession lists of the 4190s were traded between wing heads, and being on one was worth more than competence and could be taken away by anybody who disliked you; the Year 4196 review found 211 named successors, 170 of whom never took the post, and found that everybody not on a list had stopped trying within the year. Anonymous numbers cannot be traded, cannot be used as patronage, and cannot be withdrawn as punishment, because nobody has one.
+
+Its consequence is that a person can work toward a future for a decade and never be in a position to learn whether it exists. The figure for a grade stands at eleven in one quarter and nil in the next, posted on a board, with no notice and no explanation and nobody told — telling a particular person their number has gone would mark them as a candidate, and a marked candidate is a named plan by implication. When the figures move, nothing is broken. No promise was made, so none is owed; no expectation was created, so none is disappointed; there is no document anywhere recording that anybody was going anywhere. The people simply put the thing down and get on with the work in front of them. Near the Dream Gates there is a frame weaving what they put down, and the cloth is longer every year.
+
+### The Numbers Posted
+
+Instituted Year 4218. The establishment plan is published on the wing boards every quarter: posts by grade and function, intended counts for the next three years, with every name, initial and identifying detail removed. Anyone may read it and work out their own position from it.
+
+Year 4237: 4 publications; 1,970 posts listed across all grades; 611 figures altered between one quarter and the next, 143 of them to nil; 0 persons notified of any change affecting a course they had begun; and 2,289 people who finished a qualifying course for a post whose number had gone, which is the figure the Gate watch sets the beam against.
+
+The costs are on the board itself, in the standing note at the foot. The numbers are not commitments and are said so plainly: a figure is an intention and an intention may be revised at any time by anybody with authority over the establishment, without notice given to anyone. Reading them is a skill — the plan is laid out by function code, and the clerks who grew up in the offices extract their chances from it in a minute while the people it most concerns stand in front of it and cannot tell which column is theirs. And a number says nothing about whether you, specifically, are in any way in contention, because saying that would be naming.
+
+The wing clerks asked for one thing. Where a number falls to nil, let the people who have already started the course for it be told — not promised anything, not preferred, simply told the thing they are working toward has gone. Refused, and the refusal is correct on the Office's own reasoning: to tell those particular people is to identify them as the candidates for that post, identification is a named plan by another route, and a named plan is the 4190s lists with the names in pencil. The submission stands in the Year 4226 return, recorded as correct and unanswered. The Dream Gates watch keeps a copy in the beam book, beside the length: we stopped naming anybody's future so that nobody's future could be owned by somebody else, and there is eighty-eight metres of cloth at SECTOR-A-01 woven out of what people prepared for in the dark.
+
 ## Trivia
 
-- The Loom's threads vanish when their dreamer accepts waking reality.
-- It has no operator, but behaves as if it understands every visitor.
+- A thread goes out of the warp when its dreamer settles for the life they have, and the beam does not shorten when it does.
+- No operator has been found in a century, and it has never once woven a visitor the wrong future.
 
 
 
@@ -444,8 +464,8 @@ Boundary paint for the floor line is mixed on site from the wing's own stock rat
 
 - **Classification detail:** Loom of Unlived Dreams is an Object/Place with Entity (IV) — Self-aware, creative, manipulative coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-A-01, near Dream Gates.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A loom of pale crystallised Dream-stuff, cold and salt-damp, cold rain on the air, with the shuttle crossing to no hand and a painted line on the floor between the frame and the weave.
+- **Record detail:** The Registrum rated this holding Low against a Major (γ) header, gave its common name as The Dream Weaver's Loom — an earlier designation, retained here as an alias and not as the entry — named Viderehan the primary Work Type where Viderehan holds the gauge and Ferrehan lowers it, and placed the faction interest in D-territory against a SECTOR-A-01 header; the personnel note was attributed to a Zone C patrol. The M.A.W. grade was blank against three γ pieces, and the classification line omitted the [LO] tag. All corrected. The Apex Record, the sealed-pair method, the painted boundary and the liaison authorisation are untouched.
 - **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
