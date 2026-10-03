@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | Granted pieces · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan first, Ferrehan to hold. Viderehan is stable and safe. Pugnahan is barred: the table records it as an Increase and the bar has a written reason. |
 
 ### Operational Notes
 
-- One fruit remains and does not fall, ripen further, or spoil on the Market stand.
-- A cycle steadies it. The fruit is unchanged, and no session has altered its condition in either direction.
-- The margin is three conditions. Escalation presents as the fruit appearing within reach of whoever is nearest.
-- Personnel are briefed that the impulse to take it is the entity acting, not appetite, and the impulse is logged when it occurs.
-- Extraction is a separate risk event and is never a reward for a clean shift.
+- One fruit remains on the Market stand. It has not fallen, ripened further or spoiled in the whole period of record.
+- A clean cycle settles the gauge and leaves the fruit exactly as it was. No session in the series has changed its condition either way.
+- The threshold is three. Escalation presents as the fruit being within reach of whoever is nearest, which it was not a moment earlier.
+- Personnel are told in the brief that the urge to take it is the holding working and not a failing of theirs, and that logging the urge is required and carries no consequence.
+- Extraction is a separate authorised event. It is never granted as a reward for a good session, for the obvious reason.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Last Fruit's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Flerehan or Ferrehan, from behind cover, with the seed-mouth graded against the standard card every two minutes. Pugnahan raises the gauge here and is barred; the bar is recorded with its reason in the Registrum.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the desire; do not promise to fulfill it**.
 
 ### Consequences
@@ -104,14 +104,14 @@
 
 **Movement and Posture:** It lurches and drags itself on its root-limbs toward any denied desire, core pulsing hotter as it nears.
 
-**Notable Features:** It glows near denied desire, sheds sparks shaped like seeds, and asks to be held despite the heat.
+**Notable Features:** The core brightens near a refusal, the shed sparks are seed-shaped and count out at roughly forty a minute, and it offers itself to be held while being too hot to hold.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A humanoid figure shaped from a burning fruit, with a bright red core and a skin that chars without being consumed.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It drags itself on four smouldering root-limbs toward whatever has most recently been refused to somebody, not toward the nearest person. Bearing, not distance, is the reading that matters.
 - **Element signature:** Grudge
 - **Registered location:** Zone C, Mask Market
 
@@ -121,27 +121,27 @@
 |---|---|
 | **Form** | A humanoid figure shaped from a burning fruit, with a bright red core and a skin that chars without being consumed. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Material / signature** | Grudge. Cracked crimson rind, a core at card-grade 2 to 5, char and overripe sweetness, fever-hot at two paces. |
+| **Distinctive markers** | Four root-limbs that smoulder without burning away, seed-shaped sparks that vanish before landing, and a bearing that ignores the nearest body. |
+| **Identification** | If it is coming toward you rather than past you, somebody has refused you something recently and you should say so before continuing. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Card grade of the seed-mouth, bearing in degrees, spark count per minute, and the distance at which the fruit became reachable. Four numbers, all takeable from cover.
 
 ## Origin
-- **Formation:** The entity formed from desire denied until it became anger.
-- **The Sorrow:** The grief of wanting something simple and being taught that wanting was shameful.
-- **The Event:** A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **Formation:** From a want that had nowhere to be said, held until it caught.
+- **The Sorrow:** Not the refusal. The lesson drawn from it — that having asked at all was the disgraceful part.
+- **The Event:** A child asked for the final fruit of a dying tree, was refused for a sound reason, and was told not to ask for things. The longing caught the following winter.
+- **The People:** One household in the Mask Market quarter, a failing tree, and a child who was refused its last fruit for a reason the file preserves.
+- **Expanded origin context:** The commissioning file is domestic and thin: a household inventory, a note about a failing tree, and a season's accounts showing why the last fruit was being kept. The reason is good and the file preserves it deliberately, so that no reader can dispose of the thing by deciding the parents were cruel. They were not. The archivist's note observes that the only harsh line in the whole bundle is a marginal one in the mother's hand, reading *he is not to ask again*.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Fire dims and the fruit's warmth becomes gentle. | Decrease |
-| **Pugnahan** | Sparks burst outward and the figure burns brighter. | Increase |
-| **Viderehan** | Reveals the desire beneath the anger. | Stable |
-| **Ferrehan** | Tests whether the worker can remain near what they want but cannot have. | Decrease |
+| **Flerehan** | The core drops two grades on the card and the heat becomes bearable at a pace. | Decrease |
+| **Pugnahan** | Sparks out in every direction and the core goes past card grade 5. Barred, with the reason recorded: it is the only Work Type here that has ever cost a ward its stores. | Increase |
+| **Viderehan** | The want underneath, stated plainly and usually small. Gauge does not move. | Stable |
+| **Ferrehan** | Standing near the reachable fruit for the duration and not taking it. The log entry afterwards is the work, not the standing. | Decrease |
 
 
 
@@ -152,20 +152,20 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Breach Behavior
 
-> *"Last Fruit has broken free. Hunts personnel indiscriminately."*
+> *"Last Fruit is out of the Market stand and moving on a bearing. It is not hunting anybody. Find what has just been refused and you will find it there first."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Last Fruit shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | Whoever is holding back a want. It glows near denied desire and moves toward the strongest it can detect. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Movement** | It leaves the holding and drags itself along a bearing set by the most recent refusal in the building. It passes people who are in its way without touching them. |
+| **Effect** | Heat outward in a widening ring, taking resilience from everyone inside it regardless of what they want or do not want. |
+| **Secondary Effect** | Seed-sparks settle on barrier material and take; a barrier that has taken sparks fails from the inside within the hour. |
+| **First Target** | The strongest unspoken want in range, which in practice means whoever has most recently insisted they need nothing. |
+| **Escalation** | Drain rises by 5 for every settled spark rather than with time; a sweep that takes the sparks holds the figure flat. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Breach type:** Escape — it leaves the holding and moves through the facility on a bearing set by denial rather than by sight. It does not hunt; it arrives where something has just been refused.
 - **Containment priority:** Sweep and quench the sparks before engaging the body. The breach propagates through what it sheds, not through what it is.
 - **Sorrow Gauge on breach:** Opens at 35% and rises 10% for each shed seed-spark that settles and takes, rather than per turn.
 
@@ -188,7 +188,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Armoury figures, transcribed. The Fang burns rather than cuts and its listed value is a scorch rating, not an edge rating.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Last Fruit's grudge signature in the strike.
 
@@ -220,13 +220,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat, and the wearer notices unmet need in others about a day before the ward's clerks do.
 
 **Ability:** Converts suppressed desire into brief physical strength.
 
 **Cost:** The wearer feels desire as heat whenever it is denied.
 
-*Stigmas are granted at random by Last Fruit upon a successful work, not manufactured.*
+*Eleven seed-charms exist. Nine were granted on sessions where the Warden left without taking the fruit that was placed within reach; the other two were granted on sessions where the Warden took it and said so in the log.*
 
 ### M.A.W. Use Notes
 
@@ -246,11 +246,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It glows near concealed wants.
-- Sparks become seeds that vanish before touching the ground.
-- It responds to honest acknowledgment more than acquisition.
+- The core brightens near a want that has not been said aloud, and not at all near one that has.
+- The sparks are seed-shaped and go out a hand's breadth above the floor. Counted and never recovered.
+- Saying the want out loud drops the grade. Being given the thing does not.
 
-**Personnel Note:** *"It was glowing. I felt hope. Then I realized the hope was not that I would get what I wanted, but that wanting it might be allowed."* — Specialist, Zone D patrol
+**Personnel Note:** *"Grade 4 and coming on a bearing straight past me. I worked out afterwards it was going to the stores hatch, where a woman had just been told the boots she had were the boots the schedule issued. She had not asked for others. There is no way to ask. That is the whole of it, I think."* — Warden, Zone C, Mask Market
 
 
 
@@ -258,30 +258,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Last Fruit as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone C, Mask Market. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Last Fruit's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Cover established, standard card in hand, first grade and first bearing recorded before anything else. |
+| **Sustained observation** | Grade and bearing every two minutes, spark count each minute, and the time the fruit first came within reach. |
+| **Activation or escalation** | Grade past 5, or a bearing that leaves the holding. Sweep and quench the sparks first; the body can be left alone while that is done. |
+| **Post-contact review** | Final grade, total sparks, whether the fruit was taken, and every logged urge. The urges are counted and nobody is spoken to about them. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Grade, bearing, sparks, reach. Everything else in the report is context for those four.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Last Fruit (C-IIβ-777 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The entity formed from desire denied until it became anger. Held at Zone C, Mask Market. It glows near concealed wants.
+Last Fruit (C-IIβ-777 [GS]) is logged as a Subject-Body manifestation expressing Grudge, held at the Mask Market stand in Zone C. It burns and is never used up, it travels on refusals rather than on sight, and it brightens around people who have said they want nothing.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Walks through the Mask Market seeking someone who will accept it. Personnel feel intense desire turning into resentment. Sparks become seeds that vanish before touching the ground.
+**Entry 2 — <Market Stand Watch Sheet, Year 4238>**
+It crossed the Mask Market on a straight bearing to a stall where a man had just been told the price. Seed-mouth graded 4 on the card. Sparks shed and counted: forty-one. None germinated; none reached the ground.
+Crossed the Market on a bearing to a stall where a price had just been refused. Forty-one sparks counted, none landing.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Stores Office Correspondence>**
+The office confirms that no application may be made to this Company for anything. Every entitlement issues automatically from the roll by schedule, no worker may ask for an item, a transfer, a relief payment or an exception, and the office accordingly holds no record of anything any worker has ever wanted.
 The grief of wanting something simple and being taught that wanting was shameful.
 
 **Entry 4 — <Containment Notice>**
-Management: Name the desire; do not promise to fulfill it. Work response — Flerehan: Fire dims and the fruit's warmth becomes gentle. (Decrease); Pugnahan: Sparks burst outward and the figure burns brighter. (Increase); Viderehan: Reveals the desire beneath the anger. (Stable); Ferrehan: Tests whether the worker can remain near what they want but cannot have. (Decrease). It responds to honest acknowledgment more than acquisition.
+Management: name the want and promise nothing. Grade from cover, count the sparks, sweep them before engaging the body. Work response — Flerehan: two grades down (Decrease); Viderehan: the want stated plainly (Stable); Ferrehan: standing near the reachable fruit and logging the urge (Decrease). Pugnahan is barred for cause and is not to be attempted at any gauge.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The household inventory, the note on the failing tree, and the accounts showing why the fruit was being kept. Three documents, none of them unkind, and a single line in the margin telling a child not to ask again. The Keepers hold that the line, and not the refusal, is the whole of the origin, and they have never been able to make the holding contradict them.
 
 ## 최종 관찰 (Final Observation)
 
@@ -310,20 +312,20 @@ The figure smells of fruit and smoke. Its red core glows through the market mask
 
 Last Fruit does not exist in isolation. Its recorded relationships with The Happy Mask, The Sorrow Seed, The Angry Maiden should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Grade and bearing taken on both parties separately first, then together, from two covered positions at right angles. Spark counts are kept apart and compared only after the session, so that neither observer adjusts to the other's figure.
 
 
 ### Entity Interaction Record
 
-Last Fruit must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Last Fruit must be kept distinct from the other appetite and refusal files. The Sorrow Seed is about what grows from what is buried; this one is about what was never planted, because nobody was permitted to ask for it. The distinction decides which ward's clerks are asked to attend an observation.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Happy Mask** | Its false smile intensifies the Fruit's heat. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sorrow Seed** | The sparks attempt to root beside the Seed. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Angry Maiden** | Shares anger born from denied need. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Happy Mask** | A worn Mask puts the core up two grades within a minute, the Mask being the fullest form of saying you want nothing. | Grade 4 to 5 while the Mask is worn; immediate drop when it is removed. | Grade before, during and after removal, to the second. |
+| **The Sorrow Seed** | Sparks reach the ground near the Seed instead of going out, and sit there, and still do not germinate. | The only recorded condition under which a spark lands. Eleven landed in the trial; none took. | Count landed sparks separately from shed ones and keep the bed under observation for a full season. |
+| **The Angry Maiden** | Both are made of a want that was refused, and the Maiden can carry heat away from this holding across a distance. | Core drops while the Maiden's own condition worsens measurably. Pairing is not authorised and the single observed instance was accidental. | Record the Maiden's state as the primary figure; this holding's grade is the secondary. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Two observers, two covered positions, independent figures, compared only afterwards and never reconciled into one number.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -353,20 +355,20 @@ Some sorrows are about what was taken. Last Fruit is about what was wanted and f
 > *“A child was told his hunger was a crime. The hunger became the Last Fruit.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-777` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IIβ-777 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Body manifestation
 **Common Name:** Last Fruit
-**Containment Status:** Contained — Zone B
+**Containment Status:** Contained — Zone C, Mask Market stand
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. The entity burns with denied desire. Effect: proximity induces rage from shamed wanting.
+**Threat Assessment:** Moderate (β). Resilience loss in a ring, barrier failure from settled sparks, and lasting shame in personnel who logged an urge and expected a consequence that never came.
 **Containment & Handling Procedures:**
-- Pugnahan is the primary Work Type.
-- The fruit burns eternally; do not attempt to extinguish.
+- Flerehan is the primary Work Type, with Ferrehan to hold and Viderehan for record. Pugnahan is barred: the Behavior table records it as an Increase and the one authorised attempt cost a ward its stores.
+- Do not attempt to quench the core. Quench the shed sparks, which is a different operation and the one that works.
 **Observation Notes:**
-- A child was forbidden a fruit; the denied desire ignited.
-- The fruit is forever out of reach, forever burning.
-**Cross-References:** Zone B · The Giltong · The Rage Statue
+- Seed-mouth graded 2 to 5 on the standard card, from cover, at two-minute intervals.
+- The fruit is within reach whenever the threshold is crossed, and that is the hazard, not the heat.
+**Cross-References:** Zone C, Mask Market · The Happy Mask · The Sorrow Seed · The Angry Maiden · the Stores Office
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
-**Originator:** A Zone B child shamed for wanting.
+**Originator:** A Mask Market household · a child told not to ask again
 
 ### Registry Addendum
 
@@ -387,6 +389,24 @@ Its skin burns and flakes continuously and is never used up, shedding sparks sha
 
 Movement is toward refused desire rather than toward people, which means the holding's protocol concerns what personnel want rather than where they stand. Wardens are not asked to disclose anything. They are told the mechanism and left to manage themselves, and the file states that an earlier version requiring declaration was withdrawn as intrusive and unworkable.
 
+### What the Card Grade Is Measuring
+
+The seed-mouth is graded against the standard card from cover, at two-minute intervals, and the grade runs 2 to 5. The series has been held against most of the obvious candidates and matches none of them: not the number of people present, not their hunger, not the ward's stores level. It matches the count of entitlements that fell due in the building that day and were issued to workers who had not known they were owed them.
+
+Nobody applies for anything at this Company. There are no application forms, no requests, no petitions and no exceptions procedure. Everything a worker is owed issues automatically from the roll on a schedule — boots, relief payments, ward transfers, the lot — and a supervisor who accepts a request is in breach of standing instruction. The rule was made for cause. Under the old system the articulate got the better boots, relief went to whoever asked most often, and a man who asked had put his need on a supervisor's desk, where it stayed. The schedule ended all three at a stroke and nobody here wants it back.
+
+Its consequence is that a want the schedule did not foresee has nowhere in the world to go. It cannot be made, refused, recorded or appealed, because there is no instrument by which a worker may want something at this Company. The clerks are not unkind; they have nothing to receive. And so the thing goes unsaid, and the file's oldest observation — that the core burns hottest beside a person who has just insisted they need nothing — is a description of the stores hatch at eleven in the morning.
+
+### The Short List
+
+Authorised Year 4235. Once a quarter every ward posts a list of things its people were observed to need and the schedule does not issue. The lines are written by stores clerks, nurses and gate staff from what they saw. No names appear, no worker writes a line, and nothing on the list is a request.
+
+Year 4237: 404 lines posted. 97 were taken into the schedule and now issue automatically to everybody in the relevant class. 211 were marked *cannot*, with the reason. 96 could not be classified and were carried forward, which is where most of them still are.
+
+It costs. Being written down as needing something is a judgement passed on a worker by a clerk who was watching them, and no worker consented to it. Two wards' lists were lifted and read as performance data on the supervisors, which was stopped, but only after the quarter. A dyer recognised herself in a line about a woman working in boots two sizes too large, and resigned inside a week; she had told nobody, and the line was accurate, and the Company has no answer to what happened to her. And the 211 *cannot* lines, posted with their reasons, amount to a published inventory of things it is futile to want, which some wards now read aloud at the start of the quarter.
+
+The nursing staff asked for one change: a sealed box at the ward door into which a worker could drop an unsigned line of their own. It was refused, and refused correctly — an unsigned line asking for something is an application, applications are precisely what was abolished, and a box that receives them would be rebuilt into a queue within a year. Their written objection stands in the scheme's first volume: that the Company has abolished asking in order to be fair, and has produced a place where the only person who may say what you need is somebody who is watching you, and that the thing at the Market stand burns on exactly that arrangement. It is recorded as correct and has not been answered.
+
 ### The Last Fruit
 
 A child was refused the final fruit of a dying tree and the longing caught, and the commissioning material is domestic and slight — a household, a tree, a season of failure. The refusal was not cruel. The archivist's note is explicit on this point, observing that the fruit was being kept for a reason and that the file includes the reason so the reader cannot make the easy judgment.
@@ -402,8 +422,8 @@ A child was refused the final fruit of a dying tree and the longing caught, and 
 
 - **Classification detail:** Last Fruit is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone C, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Seed-mouth brightness graded against the standard card from cover, and the bearing it drags itself along. Both are recorded from a concealed position; this is the only holding in the wing where the observation point is specified as hidden.
+- **Record detail:** The Registrum had the holding at Zone B against a Zone C, Mask Market header, named Pugnahan as the primary Work Type against its own table's Increase, and left the M.A.W. grade blank against three graded β pieces. All corrected here.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

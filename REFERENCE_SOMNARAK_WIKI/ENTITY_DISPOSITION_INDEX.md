@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **119** |
-| Pending — no disposition-bearing line found by scan | 184 |
+| **Classified here, with a quoted line of evidence** | **120** |
+| Pending — no disposition-bearing line found by scan | 183 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 119 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 120 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 184 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 183 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -124,6 +124,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Vanished Tree | `SE-C-Iα-622` | Neutral | Anger directed at the erasure rather than at persons; no injury in eleven years and the shade costs F01 only survey time and one fenced parcel. The Whispering Walls pairing yields information rather than assisting any breach, and no other SE's containment depends on it. |
 | Thralldom | `SE-O-Iα-754` | Neutral | Binds F01 personnel when restrained and otherwise passes; marks thresholds and wounds nobody who stands aside. It withdraws from the Smothering Mother rather than aiding her, and no containment elsewhere turns on it. |
 | Patina | `SE-C-IVδ-222` | Neutral | Takes border ground irreversibly and loads F01 personnel with inherited grievance, but it is fixed, unenclosed and reaches no other holding. The Inherited Debt's ledger becomes unreadable inside its front — an obstruction to F01, not an assistance to that entity. |
+| Last Fruit | `SE-C-IIβ-777` | Neutral | Breaches on a bearing set by refusals and drains resilience in a ring, but reaches no other holding; near the Sorrow Seed its sparks land and still fail to germinate, and its one observed pairing with the Angry Maiden worsened that entity's condition rather than aiding it. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
