@@ -32,18 +32,18 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan at the case, Ferrehan inside the field. No contact under any authority; the prohibition is the containment and has never been waived. |
 
 ### Operational Notes
 
-- The Tear does not melt and does not form condensation, whatever the enclosure temperature.
-- Work settles the object for a shift. It is not warmed or altered by a successful cycle.
-- Only Viderehan and Ferrehan apply to the object, and both are logged as effective at the case.
-- No breach counter applies. The cold field widens through the Gardens, and its edge is marked physically at every session rather than estimated from the previous reading.
-- Extraction draws from the field edge under separate authorization.
+- It neither melts nor sweats at any enclosure temperature the Gardens can produce, and the Gardens have tried the full range.
+- A cycle settles it for a shift. No session has warmed it, cooled it, dimmed it or altered its outline by any measure the file keeps.
+- Viderehan and Ferrehan only, both at the case, both effective, neither requiring anybody to lay a hand on it.
+- No breach counter. The field widens through the Gardens and its edge is walked and pegged at every session, never estimated from the last figure.
+- Extraction takes material from the field edge under separate authority, and never from the case, the plinth or the tear.
 
 ## Combat Record
 ### Core Stat Line
@@ -67,7 +67,7 @@
 |---|---|
 | **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats melting, never melting |
+| **Coherence** | Echo (II) — the same four readings, taken the same way, for thirty years |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
@@ -88,7 +88,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Frozen Tear's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Nobody touches it. Viderehan is conducted at the case with the drawing for reference; Ferrehan is sitting inside the field for the interval without reaching for it. The field edge is walked and marked physically before either begins.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
@@ -99,16 +99,16 @@
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Frozen Tear's dossier.
 
 ## Appearance
-**Physical Form:** A single tear frozen into dark blue crystal. It remains warm despite its frozen state.
+**Physical Form:** A single tear frozen into dark blue crystal, about the size of a fist. **Temperature:** warm to the hand through cloth, with no heat source any instrument can find.
 
-**Notable Features:** It glows faintly, never melts, and draws visitors who sit beside it without touching.
+**Notable Features:** A small steady light, an outline unchanged since the opening drawing, and a bench full of people who come to sit near it and do not touch it.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
-- **Primary marker:** A single tear frozen into dark blue crystal. It remains warm despite its frozen state.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Primary marker:** A fist-sized drop of dark blue crystal, lit from inside, suspended without support and warm where it ought to be cold.
+- **Position / movement:** Suspended and still in its case, and it has not moved in the whole record. What moves is the edge of the field around it: 4.1, 5.6 and 7.2 metres across three annual surveys.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-D-02, Echo Gardens
 
@@ -116,20 +116,20 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A single tear frozen into dark blue crystal. It remains warm despite its frozen state. |
+| **Form** | A fist-sized drop of dark blue crystal, suspended without support, lit faintly from inside and warm to a cloth. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Material / signature** | Lament. Dark blue crystal, salt-damp to the cloth, cold rain on old cloth, a faint internal light best read at night. |
+| **Distinctive markers** | Warmth without a source, light without variation, and a field edge that is further out every year. |
+| **Identification** | If it is cold, it is not this. Everything about this holding is the wrong way round and the warmth is the first of it. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Radius, glow, warmth, outline. Four readings each watch, three of which have never moved and one of which has moved every year.
 
 ## Origin
-- **Formation:** The Tear formed from sorrow too deep to flow.
-- **The Sorrow:** The grief of someone unable to cry despite having lost everything.
-- **The Event:** A mourner's first and only tear froze before it could fall.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** Personnel who work with the entity consistently report changes in their personal lives. They become more contemplative. They call their families more often. They sit in silence longer. They weep at unexpected moments — not from sadness, but from a sudden awareness of life's fragility. The entity does not cause these changes directly. Its presence simply... opens a door. A door that most people keep shut. The door to their own sorrow. The entity does not push anyone through. It simply shows them the door is there.
+- **Formation:** From grief that had no permitted outward form and therefore took none.
+- **The Sorrow:** Not an inability to feel. An inability to let it be seen, in a place where being seen to feel is the one thing nobody is allowed to respond to.
+- **The Event:** A mourner produced one tear across ten years and three deaths, and it hardened on the lower lid before it fell.
+- **The People:** One unnamed Zone B citizen who lost a mother, a husband and a daughter inside a decade and did not weep for any of them. The file could support a plausible identification and declines to make one.
+- **Expanded origin context:** The commissioning record is four lines: a windowsill in Zone B, a date, the fact of three deaths, and the name of the constable who found it and did not know what he was looking at. Personnel who work the holding report the same change afterwards, and the file records it plainly because it is relevant: they sit with people longer, they ask fewer questions, and several report weeping for the first time in years. The holding is not held to cause this. It permits it, which here is a different thing and the whole of the matter.
 
 ## Behavior
 
@@ -139,8 +139,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the instant the tear crystallized. | Stable |
-| **Ferrehan** | Tests whether the worker can sit beside grief without touching it. | Decrease |
+| **Viderehan** | The moment itself: a room, a sill, a face that has stopped trying. Gauge does not move. | Stable |
+| **Ferrehan** | Sitting inside the field for the interval without reaching for it. Most Wardens describe this as the easiest posting in the wing and the hardest to leave. | Decrease |
 
 
 ### Operational Work Notes
@@ -154,13 +154,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
 
-**Activation Trigger:** None required; proximity is sufficient.
+**Activation Trigger:** None. Being inside the field is sufficient and nothing need be done at all.
 
-**Effect:** Creates a quiet field where emotional distress can be acknowledged.
+**Effect:** Inside the radius, distress is simply allowed to be present. It is not soothed, suppressed or treated as a lapse of composure.
 
-**Duration:** Until the visitor leaves.
+**Duration:** As long as the person stays, and by every account a little while after.
 
-**Risk:** Direct touch may overwhelm the visitor with the original grief.
+**Risk:** Contact delivers the originator's grief entire. No authorised worker has touched it; the two unauthorised instances are in the sealed counselling series.
 
 ### Tool Use Profile — I-Relic
 
@@ -168,13 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | None required; proximity is sufficient. |
-| **Primary Effect** | Creates a quiet field where emotional distress can be acknowledged. |
-| **Duration** | Until the visitor leaves. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
-| **Risk** | Direct touch may overwhelm the visitor with the original grief. |
+| **Activation** | None. Proximity alone. |
+| **Primary Effect** | A radius in which grief is permitted to be visible without consequence. |
+| **Duration** | While the person remains, plus a short carry-over. |
+| **Termination / Return** | Theoretical. The relic profile assumes an operative who has equipped it, and nobody ever has; the class entry is retained for completeness and flagged as untested. |
+| **Risk** | Contact transfers the full original grief. Untested under authority and not to be tested. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The field works at a distance, which is fortunate, because the relic protocol for this class requires carrying it and the standing order forbids touching it. Where the two conflict the standing order governs.
 
 ### Log and Method
 
@@ -189,20 +189,20 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 The escalation pattern is specific to Frozen Tear: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-D-02, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Walk the field edge, mark it, compare it to the last mark, and notify the Gardens ward if it has moved. There is no perimeter to establish; the field is the perimeter and it is wider than it was.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | None required; proximity is sufficient. |
+| **Trigger** | Proximity. |
 | **Manifestation** | Object-Lament |
-| **Primary effect** | Creates a quiet field where emotional distress can be acknowledged. |
-| **Duration / rate** | Until the visitor leaves. |
-| **Risk** | Moderate (β) Object-Lament producing Lament pressure; Direct touch may overwhelm the visitor with the original grief. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Primary effect** | Permission, inside a radius of 7.2 metres and widening. |
+| **Duration / rate** | While the person stays; the radius grows about a metre and a half a year. |
+| **Risk** | Moderate (β) Object-Lament producing Lament pressure. Contact delivers the originator's grief whole; proximity surfaces the visitor's own. |
+| **Management** | No contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** field radius → glow against the card → warmth by hand through cloth → form against the drawing → bench occupancy for the shift. The first figure is the only one that has ever changed.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -252,13 +252,13 @@ The escalation pattern is specific to Frozen Tear: it is not a generic breach ev
 
 **Slot:** Chest / Brooch
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat, and the bearer can sit with somebody who is weeping without the urge to fix it, for about a day.
 
 **Ability:** Increases resistance to emotional attacks and slows close-range attackers.
 
 **Cost:** The wearer becomes more easily moved to tears.
 
-*Stigmas are granted at random by Frozen Tear upon a successful work, not manufactured.*
+*Six brooches exist and none of them was granted for a work result. All six went to Wardens at the end of a Consolihan watch, which is the only occasion this holding has ever given anything to anybody.*
 
 ### M.A.W. Use Notes
 
@@ -279,11 +279,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It is one of the most visited minor entities in the Gardens.
-- No authorized worker has touched it.
-- It remains warm without a measurable heat source.
+- The most visited holding in the Gardens by a wide margin, and the only one with a bench inside the field.
+- Not once, in the whole record. The prohibition has never been waived and has twice been refused to Directors.
+- Warm through cloth at every watch, with no source any instrument has found in three decades of looking.
 
-**Personnel Note:** *"It was watching. I felt rage. I was angry that something so small could hold a sorrow larger than mine."* — Researcher, R.D.
+**Personnel Note:** *"Radius at seven point two, bench occupied the whole shift. A fitter sat down at the ninth hour and cried for about forty minutes and nobody asked him anything, because nobody may. He went back to work. Under the rules that is the entire assistance this Company is permitted to render him, and it is more than his ward could have given him."* — Warden, Echo Gardens
 
 
 
@@ -291,30 +291,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Frozen Tear as an Object/Place with Object-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-D-02, Echo Gardens. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: None required; proximity is sufficient. Effect: Creates a quiet field where emotional distress can be acknowledged. Duration: Until the visitor leaves. Risk: Direct touch may overwhelm the visitor with the original grief. Tool Use Profile — I-Relic Operational Rule: The. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Frozen Tear's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Field edge walked and pegged, radius recorded against the last mark, glow and warmth and outline taken at the case. |
+| **Sustained observation** | Hourly readings at the case and nothing at all recorded about the bench, which is the ward's condition and is kept. |
+| **Activation or escalation** | A radius beyond the series, or any change in glow, warmth or outline. Peg the new edge, notify the ward, and do not clear the bench. |
+| **Post-contact review** | Radius, the three constants, and the Warden's own state at the close. Nothing about any visitor appears in the post-contact record, by arrangement and without exception. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** A tape, a card, a cloth and the opening drawing. The hardest instruction in the method is the one about not writing down what the people on the bench are doing.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Frozen Tear (C-IIβ-102 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Tear formed from sorrow too deep to flow. Held at SECTOR-D-02, Echo Gardens. It is one of the most visited minor entities in the Gardens.
+Frozen Tear (C-IIβ-102 [LO]) is logged as an Object-Lament manifestation expressing Lament, on open memorial display in the Echo Gardens at SECTOR-D-02. It is warm, it does not melt, it has never been touched, and the field of permission around it is wider every year.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Gardens Field Survey, Year 4238>**
+Field edge marked at 7.2 metres, against 5.6 and 4.1 in the two preceding surveys. Glow unchanged against the card. Warmth unchanged. Form unchanged against the opening drawing. No authorised worker has touched it in the whole of the record.
 No authorized worker has touched it.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Works Office Correspondence>**
+The office confirms that no worker may be stood down, reassigned or sent home on account of their emotional state; that fitness for duty is determined by measured work alone; and that a supervisor who acts on a worker's demeanour is in breach whatever their motive.
 The grief of someone unable to cry despite having lost everything.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals the instant the tear crystallized. (Stable); Ferrehan: Tests whether the worker can sit beside grief without touching it. (Decrease). It remains warm without a measurable heat source.
+Management: no contact under any authority, field edge pegged each session, the bench left unwatched and unrecorded, names never taken. Work response — Viderehan: the moment of crystallisation (Stable); Ferrehan: sitting inside the field without reaching (Decrease). Flerehan and Pugnahan do not apply to an Object.
 
 **Entry 5 — <Archive Note>**
-The tear is warm, and that is the first thing anyone says about it. Held long enough it begins to weep — real tears, salt, in a volume greater than its own — and the field it opens is not sedative but permissive: distress inside the radius is allowed to be present without being treated as a failure of composure. Personnel ask to be assigned here. The Department grants the requests and logs them, because a queue for a containment post is itself a finding.
+The warmth is what everybody mentions first. The weeping is second-hand: the only accounts of it come from the two unauthorised contacts, both of whom describe salt tears in a volume greater than the crystal itself, and both of those accounts are in the sealed series. What the Gardens can attest is the field, which is permissive rather than sedative — grief inside the radius is allowed to be present without being read as a failure of composure. Personnel ask to be posted here. The Department grants the requests and keeps the count, because a waiting list for a containment post is itself a finding about everywhere else.
 
 ## 최종 관찰 (Final Observation)
 
@@ -331,7 +333,7 @@ The Tear is smaller than a raindrop and looks like a jewel. You sit beside it an
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A single tear frozen into dark blue crystal. It remains warm despite its frozen state. Notable Features: It glows faintly, never melts, and draws visitors who sit beside it without touching. Identification Profile: The record classifies. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Object-Lament form.
+**At first contact:** A bead of dark blue glass on a plinth, smaller than expected, with a bench in front of it and somebody on the bench. The warmth is the detail that fixes it — a hand through cloth meets something like a held coin, in a case the Gardens keep at ambient and have never heated.
 
 **With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
 
@@ -343,20 +345,20 @@ The Tear is smaller than a raindrop and looks like a jewel. You sit beside it an
 
 Frozen Tear does not exist in isolation. Its recorded relationships with The Weeping Statue, The Frozen Shard, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Radius pegged before and after by the same Warden with the same tape, and the bench closed for the duration of any pairing, which the ward agreed to once and has never been asked to agree to again.
 
 
 ### Entity Interaction Record
 
-Frozen Tear must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Frozen Tear must be kept distinct from the other Echo Gardens holdings. The Weeping Statue produces grief for anybody standing near it; this one produces permission, which is a different article and is why the bench is here and not there.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Weeping Statue** | The Statue weeps around it without touching it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Frozen Shard** | Both preserve sorrow in crystal. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The First Tear** | Resonates with the origin of all tears. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Weeping Statue** | The Statue weeps harder in the field and its water stops short of the case by about a hand's breadth, every time, with no barrier present. | Statue output up by half; radius unchanged; the gap has been measured at 90 to 110 millimetres on eleven occasions. | Measure the gap and the output. Do not attempt to close the gap. |
+| **The Frozen Shard** | Both hold grief in crystal and the resemblance is the whole of it; placed together neither alters by any reading the file keeps. | No change in radius, glow, warmth or outline. The clearest negative in the Gardens series. | Record the four constants for both and note the absence of any effect. |
+| **The First Tear** | Held to be kin. The radius here extends to the Gardens wall while that holding is in the sector and returns to the pegged mark within a day of its leaving. | Largest movement on record: 7.2 metres to the full enclosure, twice. No other reading changes. | Peg the edge daily through the attendance and for three days after. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** One tape, one Warden, the same pegs, and the bench empty. Figures are compared at the Gardens office afterwards.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -392,17 +394,17 @@ Some sorrows are too deep for tears. Frozen Tear is what they become instead.
 **Common Name:** Frozen Tear
 **Containment Status:** Open memorial display — Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Minimal direct danger. No Fractures recorded. Prolonged proximity surfaces a viewer’s own unwept grief. Effect is passive and emotional.
+**Threat Assessment:** Minimal (β) in direct terms. No Fracture on record and no injury except by contact, which has happened twice and never under authority. Prolonged proximity surfaces the visitor's own unwept grief, which is what the bench is for.
 **Containment & Handling Procedures:**
-- Do not touch. Contact violates the entity’s memorial nature.
-- Limit unsupervised exposure to 30 minutes; rotate personnel.
-- Flerehan is the only valid Work Type.
-- On the Consolihan, assign an additional Keeper to monitor brightness.
+- Do not touch it. Contact delivers the originator's grief entire, and the prohibition has been refused to two Directors who asked.
+- Rotate the watch at thirty minutes. The limit applies to Wardens on duty and expressly not to anybody sitting on the bench.
+- Viderehan and Ferrehan are the valid Work Types. Flerehan is unavailable: this is an Object, and the earlier entry naming it stood uncorrected for several cycles.
+- Assign a second Keeper on the Consolihan — not for the glow, which does not vary, but for the bench, which is full from the first hour to the last.
 **Observation Notes:**
-- Found on a Zone B windowsill after its originator’s death.
-- Brightness tracks the city’s collective grief; peaks during the Consolihan.
-- Warm to the touch (grief-warm, not Han-warm). Has never melted.
-**Cross-References:** Echo Gardens · The Weeping · The Orphaned Bell (Consolihan resonance) · The First Tear (possible kinship)
+- Found on a Zone B windowsill after the originator's death, by a constable who recorded it as a glass bead.
+- Glow, warmth and outline are unvarying across every series the holding keeps. The older claim that brightness tracks collective grief is not supported by the night card and is withdrawn here.
+- Field radius 4.1, 5.6 and 7.2 metres across three annual surveys. It is the only figure here that moves, and it moves outward.
+**Cross-References:** Echo Gardens · The Weeping · The Orphaned Bell (Consolihan resonance) · The First Tear (possible kinship) · The Weeping Statue · the Works Office · the Open Bench arrangement
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** Unnamed Zone B citizen; lost mother, husband, and daughter within a decade.
 
@@ -425,6 +427,24 @@ Visitors come and sit near it without touching, and the holding permits this und
 
 It gives a small steady light that is easiest to see at night, and the night watch logs its intensity against a card. The readings have not varied. The archivist's note observes that this containment produces three unvarying series and that their constancy is the reason the holding is rated as it is.
 
+### What the Field Radius Is Measuring
+
+Three of this holding's four readings have never moved: the glow against the night card, the warmth through cloth, the outline against the opening drawing. The fourth is the field edge, pegged at every session, and it stands at 7.2 metres after 5.6 and 4.1. Set against the Gardens' visitor numbers, the Consolihan calendar and the ward's own grief returns it matches nothing. It matches the number of workers who were seen weeping at their posts in the year and were, entirely correctly, left alone.
+
+No worker at this Company may be stood down on account of their state. Fitness is determined by measured work — errors, test results, the output of the post — and a supervisor who removes somebody from duty because they seem upset is in breach of standing instruction whatever they meant by it. The rule was made for cause and the cause is on the record in detail. *He seemed in no condition* cost a woman in the dye house eleven weeks' pay and a permanent reputation; the removals fell overwhelmingly on the recently bereaved, who were then unable to afford the burial; and judging a man by his demeanour turned out, when the figures were run, to mean judging him by whether his face was easy to read. Nobody wants it back and this file does not argue for it.
+
+Its consequence is that visible distress now produces no response of any kind, because every available response would be an act taken on demeanour. A man may weep at his bench for a week and nobody may ask, offer, reassign or refer; to do so is to have judged him. Help arrives when the work fails, which is to say after the damage, and the Company is quite correct that the alternative was worse. The thing in the Echo Gardens is a tear that did not fall, and its field of permission has widened by three metres in three years.
+
+### The Open Bench
+
+Authorised Year 4232. A bench stands inside the field, in the Gardens, and any worker may sit on it during working hours, paid, for as long as they need. No record is made. No names are taken. No referral follows. The Warden on duty does not watch the bench and is forbidden to write anything about it, which was the ward's condition and was accepted without negotiation.
+
+Year 4237: occupied for 61 per cent of all shift hours, an estimated 9,400 sittings — counted by a weight plate under the seat, because counting people would require looking at them. Referrals generated: none, by design. Two wards declined to release workers on the ground that attendance at the bench is not a duty, which is true and is in the ordinance.
+
+The costs are real and the Gardens staff list them without complaint. Because no record exists there is no evidence the bench works, and three applications for a second bench in the Forge District have been refused for want of data, which is the scheme's own doing. The journey comes out of the worker's ward cover, so the wards that can spare nobody send nobody. And nobody can be told, in person, that the bench is there, because telling a particular worker is a remark about that worker's condition — so the people who most need it are precisely the people who must work out for themselves that they need it.
+
+The Gardens staff asked for the smallest thing: leave to mention the bench to an individual who looked as though they could use it. Refused, and refused correctly — a remark on a person's state is the thing the ordinance abolished, and an instruction permitting the kind version would permit the other kind within a year. Their objection stands in the arrangement's first volume, recorded as correct and unanswered: that this Company stopped judging its workers by their faces so that no one could be punished for grief, and has thereby arranged that no one may be helped for it either, and that the only mercy left in the system is a bench in a garden that nobody is allowed to recommend.
+
 ### The Tear That Did Not Fall
 
 Someone who had lost everything found they could not cry and the single tear froze before it fell, and the commissioning record is slight — a mourner, a date, the fact. No name survives. The file does not reconstruct one and the archivist's note explains that the material would support a plausible identification and that a plausible identification is not the same as a correct one.
@@ -440,8 +460,8 @@ Someone who had lost everything found they could not cry and the single tear fro
 
 - **Classification detail:** Frozen Tear is an Object/Place with Echo (II) — Repeats melting, never melting coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-D-02, Echo Gardens.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A fist-sized tear of dark blue crystal, warm rather than cold, faintly lit, suspended and still, smelling of cold rain on old cloth.
+- **Record detail:** The Registrum named Flerehan as the only valid Work Type for an Object that cannot be worked through Flerehan at all, and claimed the glow tracks collective grief against three unvarying night series; both corrected. The M.A.W. grade was blank against β pieces, and the I-Relic profile describes equipping an object nobody has ever touched — recorded here as theoretical.
 - **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
