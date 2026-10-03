@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | α — Fang, Plate and Pendant all graded |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan where an account is read aloud, Ferrehan to hold the edge of the shade. Pugnahan is available against a Subject and is barred here: it burns along the roots and widens the outline. |
 
 ### Operational Notes
 
-- The Tree is absent from the Border site and continues to cast shade there.
-- A cycle reduces the shade. The absence is unchanged, and no survey has located the Tree itself.
-- Four ignored conditions escalate it, and escalation presents as the shade extending beyond its logged outline.
-- Structural pressure is recorded in the ground beneath the shade; the outline is staked at every session.
-- Extraction is authorized apart from the work cycle and is never a reward for a clean shift.
+- No tree stands at the Border site and the shade is there every day, 690 square metres of it at the last stake.
+- A cycle thins the shade for a shift. The absence is unchanged and eleven years of survey have not located the body that casts it.
+- Threshold 4. The count runs down on ignored conditions and escalation shows as shade crossing the stakes, which is why the stakes are driven before the work and not after.
+- Ground pressure is read beneath the shade at marked points. The outline is staked at every session and the stakes are dated, which has turned the stake store into the only continuous record of the site.
+- Extraction is separately authorised and is never granted as a reward for a clean shift, a provision added after a Warden asked for one.
 
 ## Combat Record
 ### Core Stat Line
@@ -72,7 +72,7 @@
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Border region |
-| **Resolution Condition** | Preserve the history; do not force the Tree to remain |
+| **Resolution Condition** | Something that stood there is named aloud at the edge of the shade by somebody who was told it by a person who lived there. The outline has never contracted; on four occasions it has stopped growing for a season. |
 
 ### Combat Actions
 
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Vanished Tree's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The outline is staked before anything else happens, and no worker who declared the Border district on their own application is on the party. The shade is worked from outside its edge; nobody stands in it to argue with it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Preserve the history; do not force the Tree to remain**.
 
 ### Consequences
@@ -100,14 +100,14 @@
 ## Appearance
 **Physical Form:** A tree-beast forever half-fading, trunk and branch-arms blinking in and out as it lurches on vanishing root-legs. **Movement:** It lurches unsteadily, parts of it winking out as it goes.
 
-**Notable Features:** It sings without sound, carries erased histories, and becomes visible only when someone searches for it.
+**Notable Features:** It becomes visible to anybody actively looking for the settlement and to nobody else. It carries street layouts no surviving map holds, and it is clearest in the presence of an old sheet.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A fading tree-shaped figure that weeps while its branches disappear.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Mobile and unlocated. The shade stands at the Border site and the tree casting it does not; no survey in eleven years has found the body that belongs to the outline.
 - **Element signature:** Grudge
 - **Registered location:** Zone E, Border region
 
@@ -117,27 +117,27 @@
 |---|---|
 | **Form** | A fading tree-shaped figure that weeps while its branches disappear. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Material / signature** | Grudge. Pale wood, fever-cold, the smell of char, and an outline of shade that does not answer to the sun. |
+| **Distinctive markers** | Staked shade area against the previous year, ground pressure at the marked points, and whether any part of the figure is visible to the party at all. |
+| **Identification** | If the shade matches the sun, it is not this holding and the session is cancelled. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Stake the outline, measure the area, read the ground, and note who could see the figure and who could not. The last field varies between members of the same party and is recorded without comment.
 
 ## Origin
-- **Formation:** The Tree formed from a place erased by the city's expansion.
-- **The Sorrow:** The grief of losing a home so completely that even the land denies it existed.
-- **The Event:** A settlement was removed from maps and memory; the tree remained as a fading witness.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **Formation:** From ground that was cleared properly and then written down nowhere.
+- **The Sorrow:** Not the eviction, which was paid for. The afterwards: four hundred people whose street names exist in no document any institution holds.
+- **The Event:** A frontier settlement resettled, its ground returned to survey as open land, and one tree left standing that is no longer there and still casts shade.
+- **The People:** A frontier settlement of some four hundred, resettled and then unrecorded, whose street names survive in nobody's map and in six hundred and eleven voluntary accounts.
+- **Expanded origin context:** The commissioning file holds the resettlement schedule, the compensation receipts and the revised survey sheet. All three are in order. The receipts are signed, the sums are not ungenerous, and the sheet is accurate: it shows open ground, because open ground is what was there when it was drawn. Nothing in the bundle is false and nothing in it records that anybody lived there. The archivist's note observes that this is what a correct record of an erasure looks like.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Branches return and the tree weeps gently. | Decrease |
-| **Pugnahan** | It burns along the disappearing roots. | Increase |
-| **Viderehan** | Reveals the erased settlement. | Stable |
-| **Ferrehan** | Tests whether the worker can remain as it fades. | Decrease |
+| **Flerehan** | Branches return while an account of the place is read aloud, and go again when the reading stops. | Decrease |
+| **Pugnahan** | Barred. It burns along the roots and the outline is larger at the next stake, every time it has been tried. | Increase |
+| **Viderehan** | Streets, plots and doorways of the settlement, visible to whoever is actively looking for them. | Stable |
+| **Ferrehan** | Holding the edge of the shade for a full session while the figure thins, without stepping in and without calling it back. | Decrease |
 
 
 
@@ -148,22 +148,22 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Breach Behavior
 
-> *"Vanished Tree has broken free. Extends roots through the floor, entangling personnel."*
+> *"The shade is nine metres past the stakes and moving toward the resettlement road. Nothing is chasing anybody. Get the accounts and get somebody reading."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Vanished Tree bursts free and crawls or slithers in search of prey. It extends roots through the floor, entangling personnel. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Movement** | The shade travels outward along the lines of the old streets, at walking pace, and the figure is glimpsed at its edge. It has never closed on a person and has never been recorded between a worker and their way out. |
+| **Effect** | Resilience falls in everybody inside the outline. The anger is directed at the erasure and not at the people standing in it, which does not make it lighter to stand in. |
+| **Secondary Effect** | Scorching along root lines under the surface; stakes char from below and have to be redriven. |
+| **First Target** | Nobody. The shade goes where the settlement was, in the order the streets ran, and whoever is standing there is incidental. |
+| **Escalation** | The outline widens each turn and the ground pressure rises with it. Reading an account aloud at the edge has halted the widening four times out of four. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape. The shade extends past its staked outline and travels; the entity itself has never been seen to pursue anybody, and the older line describing it as hunting prey and entangling personnel is contradicted by every incident in the file.
+- **Containment priority:** Do not suppress and do not force it back; Pugnahan widens the outline. Stake the new edge, clear the resettlement road, and get an account read aloud at the boundary.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn while the outline is being re-staked over the entity's objection. Reading an account aloud at the edge has flattened it on each of the four occasions it was tried.
 
 ## M.A.W. Equipment
 
@@ -211,13 +211,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work on this holding. The pendant is cut from a stake replaced at the outline and carries the date it was drawn, which is the only thing about this holding that is allowed to be a keepsake.
 
 **Ability:** Reveals erased routes and settlements.
 
 **Cost:** The wearer feels every place they cannot restore.
 
-*Stigmas are granted at random by Vanished Tree upon a successful work, not manufactured.*
+*Nine pendants exist. Each was granted after a session in which the Warden recorded the shade as larger than the previous stake and said so, which has not always been the comfortable thing to write.*
 
 ### M.A.W. Use Notes
 
@@ -236,13 +236,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial. It has not risen, and the standing note explains why: raising it would require a survey party that includes somebody who lived there, and that party cannot lawfully be assembled.
 
-- It fades when no one is looking.
-- It becomes clearer near old maps.
-- Its rage is directed at erasure rather than people.
+- It is visible only to somebody actively looking for the settlement, and two members of the same party routinely disagree about whether it is there.
+- It sharpens near old survey sheets. Since superseded sheets are not kept, the sheets used here are borrowed from private hands and returned the same day.
+- The anger is at the erasure. In eleven years it has injured nobody, including the four Wardens who stood inside the outline against instruction.
 
-**Personnel Note:** *"I felt grief. The Tree was disappearing, but it wanted a record more than rescue."* — Specialist, Zone B patrol
+**Personnel Note:** *"Six hundred and ninety square metres, and I could not see the tree at all. Lun could. I read out a page of somebody's account — a bakery, a pump, a lane called Cooper's — and the branches came back for as long as I was reading, and then they went. We are not allowed to put any of that on the sheet."* — Warden, Border region
 
 
 
@@ -250,30 +250,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Vanished Tree as a Subject with Subject-Lament manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone E, Border region. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Vanished Tree's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Drive the stakes, measure the area against last year's, read the ground at the marked points, and record who can see the figure. |
+| **Sustained observation** | Work from outside the edge. Nobody enters the outline, and nobody is asked whether they knew the district, since the party is composed precisely of people who did not. |
+| **Activation or escalation** | Shade across the stakes, or ground pressure above the marked range. Re-stake, clear the resettlement road, and begin reading an account aloud at the boundary. |
+| **Post-contact review** | Area, pressure, stake condition, and which account was read and by whom. The accounts are returned to the clerk the same day and no copy is retained at the site. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Stake, measure, read the ground, read a page aloud. The fourth is a measurement here and is logged with the other three.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Vanished Tree (C-Iα-622 [D]) is logged as a Subject-Lament manifestation expressing Grudge. The Tree formed from a place erased by the city's expansion. Held at Zone E, Border region. It fades when no one is looking.
+Vanished Tree (C-Iα-622 [D]) is logged as a Subject-Lament manifestation expressing Grudge, at the Border region in Zone E, where a resettled frontier settlement stood. No tree is present. The shade is, 690 square metres of it, and it does not follow the sun.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Stake Survey, Year 4238>**
+Shaded area 690 square metres at the annual stake, against 530 and 410 in the two preceding years. Nothing stands above it. The outline does not follow the sun and has never once agreed with it.
 Wanders along the Border and old settlement paths. Personnel feel rage at deliberate forgetting. It becomes clearer near old maps.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Survey Office Correspondence>**
+The office confirms that no worker may be assigned to a site they have a personal connection to, that the rule admits no exception and is not waivable by a manager, and that in consequence no survey party sent to the Border region has ever contained a person who could name what stood on it.
 The grief of losing a home so completely that even the land denies it existed.
 
 **Entry 4 — <Containment Notice>**
-Management: Preserve the history; do not force the Tree to remain. Work response — Flerehan: Branches return and the tree weeps gently. (Decrease); Pugnahan: It burns along the disappearing roots. (Increase); Viderehan: Reveals the erased settlement. (Stable); Ferrehan: Tests whether the worker can remain as it fades. (Decrease). Its rage is directed at erasure rather than people.
+Management: stake the outline every session and date the stakes, work from outside the edge, read an account aloud when the shade crosses the line, and never attempt to hold the figure in place. Work response — Flerehan: reading aloud (Decrease); Pugnahan: barred, it burns the roots (Increase); Viderehan: the streets become legible (Stable); Ferrehan: holding the edge while it thins (Decrease).
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The bundle in the commissioning file is complete and correct: a resettlement schedule, four hundred compensation receipts signed and witnessed, and a revised survey sheet showing open ground. Every document in it is accurate. Taken together they record a lawful clearance of a place and contain no statement that the place existed, because none of them is the kind of document that says such a thing. The archivist's note sets out that nobody falsified anything, and that the erasure was accomplished entirely by correct paperwork.
 
 ## 최종 관찰 (Final Observation)
 
@@ -286,74 +288,74 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 감각 묘사 (Flavor Text)
 
-A tree appears at the edge of the Border and loses a branch when you blink. Its roots hold roads no map remembers. It does not ask you to bring it back. It asks you to admit that the city erased something that had once been alive.
+There is no tree. There are stakes in a field, six hundred and ninety square metres of shade between them, and a shape at the edge of it that half your party can see. It is not asking to be put back. It is standing over the lines of streets that nobody is allowed to tell you the names of.
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Grudge pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. its registered form.
+**At first contact:** Cold at the edge of the shade, char on the air, and the immediate oddity that the dark on the ground has nothing above it. Half the party sees a pale half-faded tree. The other half sees a field.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Grudge has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** The ground starts to make sense. A hard line under the grass is a lane; a soft rectangle is a floor. Nobody taught you that and it is not on any sheet you are carrying.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Grudge pressure spikes — not gradually but like a door slamming open. The Subject-Lament shifts from presence to action.
+**When the entity activates:** The shade crosses a stake. That is the whole of the signal, and it is why the stakes are driven first.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Grudge in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** You take the measurements back and the outline is bigger than last year's. Nothing else about the site has changed and nothing else about it will.
 
 ### Interaction Pattern
 
 Vanished Tree does not exist in isolation. Its recorded relationships with The Forgotten Tree, The Returning Tree, The Whispering Walls should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Stake both outlines on the same sheet, measure both areas in the same session, and record which members of the party can see which figure. Visibility differs by person here and that difference is data.
 
 
 ### Entity Interaction Record
 
-Vanished Tree must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Vanished Tree must be kept distinct from the erasure files that concern people. Nemo, the Forgotten Soul, the Forgotten Shadow and Redacted are all about a person missing from a record. This one is about ground: a place that was resettled lawfully, compensated properly, and then simply not written down again, and the sorrow in it is held by land rather than by anybody's name.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Forgotten Tree** | Both preserve erased places. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Returning Tree** | Carries memories of homes that returned changed. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Whispering Walls** | The Walls repeat its lost settlement. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Forgotten Tree** | Both stand over ground that is no longer written down; that one keeps its body and loses its place, this one keeps its place and has lost its body. | Both outlines grow faster in the seasons the two are surveyed together; neither shade has ever reached the other. | Both areas on one sheet, with the gap between the outlines measured each year. |
+| **The Returning Tree** | It holds places that came back altered. This one holds a place that did not come back, and the figure is at its most solid in its presence. | Visibility rises to the whole party, the only condition under which that has happened. | Who could see the figure, before and during, by name and without interpretation. |
+| **The Whispering Walls** | The Walls give back street names, in voices that are not the Warden's, and three of those names have since been confirmed against a private account. | Shade area unchanged; the only recorded information gain at this holding. | Transcribe the names as heard and send them to the clerk, never to the survey office. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Two Wardens, one tape between them, stakes dated and left standing, and no pairing arranged on a day when the resettlement road is in use.
 
 ## 이야기 (Narratio) — The Tale
 
-The settlement was erased from the maps, and the land denies it existed, and one tree, fading, is the only witness.
+No worker at this Company may be assigned to a site they have a personal connection to. The rule is absolute, it cannot be waived by a manager, and it is right.
 
-The settlement was small — a frontier community, citizens who built homes at the city's edge, lived there for generations, and were erased. Not demolished — erased. The maps were redrawn without the settlement. The records were edited to remove its name. The land itself, the Keepers suspect, was Han-treated to dissolve the physical evidence. The settlement was not destroyed. It was denied. The city removed not just the settlement but the fact of the settlement, as if it had never been.
+It was written after a clearance in which men were set to pull down the street they had grown up on, because they were local, because they knew the ground, and because it was convenient. Two of them never worked again. Nobody now has to demolish their own district, dig out their own flooded workings, or carry what is left of a neighbour out of a shaft they played in as a child. The rule has not been seriously questioned in forty years and is not questioned here.
 
-One tree remained. A tree that had stood at the settlement's center — old, deep-rooted, resistant to the Han-treatment that dissolved everything else. The tree could not be erased, and so it was left, standing alone in a field where the maps showed nothing and the records were silent.
+What follows from it is that the people who know a place are the only people who may not work on it. Every survey party sent to the Border region is composed, by operation of the rule, of people who cannot name a single thing that stood there. They measure accurately. They write down what is in front of them, which is open ground, and their sheets are correct and are the only sheets there are.
 
-Vanished Tree is that witness. Subject-Lament, Grudge-element: the last evidence of a settlement the city denied, fading, because even the tree cannot hold out forever against the Han's slow dissolution. The Tree stands — barely, its leaves thinning, its trunk softening — and it is the only thing that contradicts the official record, the only voice that says: people lived here. A community existed. The city erased it.
+The settlement here was cleared lawfully and paid for properly. There was no conspiracy, no edited map, no treated ground. There was a resettlement schedule, four hundred signed receipts, and a revised sheet showing open land — and then nobody with any reason to write the place down again, and nobody permitted to go back and do it.
 
-Those who come near the Vanished Tree feel the specific grief of a denial so complete that even the land participates — the horror of a home erased so thoroughly that the ground denies it, the maps show nothing, the records are silent, and the only witness is a single fading tree, contradicting, with its presence, the city's claim that this place was never a place.
+The staked area tracks the number of worked sites in the quarter from which every person with direct knowledge of the ground was barred by the rule. The survey office derives it by matching crew lists against the district each worker declared on their own application, and the match has held for six years. Weather, sun angle, soil, traffic on the resettlement road and the holding's own gauge were tested and lost.
 
-Some sorrows mourn what was destroyed. Vanished Tree mourns what was denied — the settlement erased from memory, from maps, from the land, preserved in a single fading tree that is the only thing left to say the people were here, and that is itself, slowly, being dissolved, so that soon the witness will be gone, and the denial will be complete.
+The rule protects people from being made to unmake their own lives. The shade is what it costs, in square metres, measured by people who are not allowed to know what they are standing on.
 ## 증언 (Testimonium) — The Testimony
 
-> *“The maps say the settlement never existed. The tree contradicts them.”* — Researcher, R.D.
+> *“The sheet is right. Open ground, properly surveyed. That is how it was done.”* — Researcher, R.D.
 
-> *“I stood beside it and felt the horror of a home erased so completely that the land denies it.”* — Citizen, Desolate
+> *“Four hundred and ten square metres, then five hundred and thirty, then six hundred and ninety. I have driven the stakes for all three.”* — Warden, Border region
 
-> *“The last witness of a denied settlement, fading, because even the tree cannot hold out forever.”* — Keeper, Archive
+> *“Six hundred and eleven accounts. A hundred and eighty of them name a structure that is on no map we hold. I may not alter one line of any map with any of it.”* — Keeper, Archive
 
-> *“People lived here. A community existed. The city erased it from maps, records, and memory.”* — Containment Lead, R.D.
+> *“Two men were made to pull down their own street because they knew the ground. That is why the rule exists and I would not change a word of it.”* — Containment Lead, R.D.
 
-> *“Soon the witness will be gone, and the denial will be complete.”* — Elder, Desolate
+> *“I gave my account and then I had to be told, politely, by a decent young clerk, that nothing on any map would change. She was right. She had to say it to my face.”* — Former resident
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-622 [D]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-622 [D]` · City origin · Residue (I) coherence · Minor (α) potency · Grudge · Subject-Lament manifestation
 **Common Name:** Vanished Tree
-**Containment Status:** Contained — the Desolate
-**Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. A tree contradicting the maps. Effect: proximity induces the horror of a home the land denies existed.
+**Containment Status:** Contained — Zone E, Border region; staked outline, no enclosure
+**Comprehension Level:** 1 — Initial
+**Threat Assessment:** Minor (α). No injury in eleven years, including four Wardens who stood inside the outline against instruction. Shaded area 690 square metres and rising annually; resilience loss inside the outline; root-line scorching that chars the stakes from below.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The tree is fading; eventually the last witness will be gone.
+- Flerehan, with an account read aloud, is the primary Work Type; Ferrehan holds the edge. Pugnahan is barred and the bar is evidenced at every stake.
+- Stake the outline every session and date the stakes. The stake store is the only continuous record of this ground.
 **Observation Notes:**
-- A settlement erased from maps, records, and the land itself.
-**Cross-References:** The Desolate · The Vanished Seed
+- Shaded area 410, 530 and 690 square metres across three annual stakes, with nothing standing above it in any of them.
+**Cross-References:** Zone E, Border region · The Forgotten Tree · The Returning Tree · The Whispering Walls · the Survey Office
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A settlement removed from every record and map.
 
@@ -362,20 +364,42 @@ Some sorrows mourn what was destroyed. Vanished Tree mourns what was denied — 
 **Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Survey Record
+
+### What the Staked Area Is Measuring
+
+Two Wardens drive the stakes, measure the shade between them, and date every stake they leave standing. Annual figures: 410 square metres, then 530, then 690. Nothing stands above any of it. The outline does not follow the sun, does not thin with cloud, and has never contracted; on four occasions it has stopped growing for a season, each time after an account of the place was read aloud at its edge.
+
+The area tracks the number of worked sites in the quarter from which every person with direct knowledge of the ground was barred. The survey office derives the figure by matching crew lists against the district each worker declared on their own application — self-declared, never checked, and the only basis available. The match has held for six years. Sun angle, soil condition, weather, traffic on the resettlement road and the holding's own gauge were all tested against the series and lost.
+
+Assignment to a site a worker has a personal connection to is prohibited outright, and no manager holds a power to waive it. It was written after a clearance in which local men were set to pull down the street they grew up on, because they knew the ground and it was convenient; two of them never worked again. Nobody now has to demolish their own district or dig a neighbour out of a shaft they played in as a child. The rule is right and nothing in this file argues otherwise.
+
+Its consequence is that the only people who can say what stood on a site are the only people forbidden to be on it. Every party sent to the Border region consists of people who cannot name one thing that was there. Their sheets are accurate. They show open ground, which is what is in front of them, and they are the only sheets the Company has or will ever have.
+
+### The Outside Account
+
+Authorised Year 4234. A clerk from another district — never from the one in question, and never a surveyor — takes a voluntary statement from any former resident who wishes to give one. It is testimony, not evidence. It is kept in full, it is never used to correct a survey sheet, and it may not be quoted back to anybody as a finding of fact.
+
+2,400 invitations were issued in Year 4237 and 611 accounts were taken. 180 of them name a structure that appears on no map the Company holds. 12 contradict one another about the same street, and all 12 are kept as given, uncorrected, since the scheme has no mechanism for deciding between two people's memories and no business acquiring one. 3 accounts identified a burial ground; work on that parcel stopped the same week and has not resumed.
+
+The costs are real and were not all foreseen. Giving an account puts a person's name on a list of former residents, which is a list, and two accounts were later produced in a compensation hearing against the interests of the people who gave them — the rule binds the Company and not a tribunal. The parcel where the burial ground was found is now fenced, and nine families who told the clerk about it cannot get onto the ground they told her about. And the clerk's standing instruction is to say, to each person's face, that nothing on any map will change because of what they have just said.
+
+The clerks asked that one former resident be permitted to accompany each survey party as a guide. It was refused, and correctly: that is the precise thing the connection rule forbids, and an exception would be operated by a manager deciding who counts as connected enough, which restores the discretion the rule exists to remove. The clerks' objection — that the Company has built a careful, honest machine for collecting what people know and a second, equally careful machine for ensuring it can never be written down — stands in the scheme's first volume, recorded as correct and unanswered.
+
 ## Trivia
 
-- Its final branches vanish after a successful record entry.
-- It cannot be recreated from a copy of the record.
+- Branches return while an account is read aloud and go again when the reading stops; there is no entry anybody can make that keeps them.
+- Reading a copied account produces nothing. It has only ever responded to an account taken down from somebody who lived there.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Vanished Tree is a Subject with Residue (I) coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone E, Border region.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Subject, Residue (I), Minor (α), threshold 4, unenclosed and surveyed once a year.
+- **Field detail:** Grudge, Zone E Border region, 690 square metres of shade and no tree.
+- **Recognition detail:** Identify it by the staked outline and the absence above it. A tree seen fading at the Border is this entity only if the shade below it does not match the sun.
+- **Record detail:** The Registrum carried Entity (IV) coherence, Major (γ) potency, Comprehension Level 2 and a Desolate location against a Residue (I) Minor (α) holding in the Zone E Border region at Level 1; all four corrected.
+- **Containment detail:** There is no body to hold and no door to shut. Containment here is a tape, dated stakes, a barred Work Type, and a clerk two districts away holding six hundred and eleven accounts nobody may act on.
 ## Document Information
 
 **Document ID:** SE-C-Iα-622
