@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | Granted pieces · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Sound, do not enter. Viderehan and Ferrehan from the bank on a sealed grief-line, double-escorted, with the reading logged at the station it was taken from. |
 
 ### Operational Notes
 
-- The River runs through the weight register rather than through any channel the survey can map, and it does not freeze or fall.
-- Work slows the flow for a shift. The River is not diminished, and nothing committed to it has been recovered downstream or anywhere else.
-- Viderehan and Ferrehan are the valid approaches to the site.
-- There is no breach counter. The banks are staked at every session, and crews work from the bank rather than the water under standing order.
-- Extraction draws from bank residue and is authorized separately; entry to the flow is not an extraction method.
+- It runs below every channel the survey can map, does not freeze, and does not answer to weather. It falls only on completed mourning and rises on everything else.
+- A cycle slows the flow for a shift and diminishes nothing. Nothing committed to the water has ever been recovered, downstream or anywhere, and the doctrine is that what the River has received is received.
+- Viderehan and Ferrehan only, from the bank. Entry is not a method, not an extraction route, and not authorised at any gauge.
+- No breach counter. The grief-line is re-sounded continuously and the banks staked every session; the standing order is older than the Directorate's seal.
+- Extraction takes bank residue under separate authority. The Extraction Hall taps the ward-flows far downstream and never the source, and no Director has amended that.
 
 ## Combat Record
 ### Core Stat Line
@@ -66,7 +66,7 @@
 |---|---|
 | **Battle Length** | Long — 20 turns |
 | **Threat Role** | Major encounter |
-| **Coherence** | Sovereign (V) — Autonomous, flowing, eternal |
+| **Coherence** | Sovereign (V) — it is not contained, worked or answered; it is sounded |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 4 — Mastered |
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Black River's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** From the bank, on a line, double-escorted. Viderehan reads the tone and the depth; Ferrehan is holding position at open water for the stated interval. No work type has ever returned a clean report from within arm's reach of the water and none is authorised.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Impossible. Access is sealed and the River is monitored**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Black River's dossier.
 
 ## Appearance
-**Physical Form:** A vast underground river of black liquid sorrow. It flows beneath the city like blood through veins.
+**Physical Form:** A vast underground river of black liquid sorrow, running under the whole city the way blood runs under skin. **Movement:** slow, dense, bankless, always toward the Weeping.
 
-**Notable Features:** It carries the grief of Somnarak, produces no ordinary reflection, and feeds many Sorrow Entities.
+**Notable Features:** It carries the city's grief undiluted, throws back no reflection of any kind, and feeds — by the Directorate's own cosmology — every entity in this catalogue.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
-- **Primary marker:** A vast underground river of black liquid sorrow. It flows beneath the city like blood through veins.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Primary marker:** Black water with no reflection in it, no bank the survey can reach, and a tone that arrives through the teeth rather than the ear.
+- **Position / movement:** It flows and the channels move; the grief-line, not the channel, is what the survey holds. Record depth, tone, temperature at the line, and the station from which the sounding was taken.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-A-01, beneath the Alpha Tree — The Weeping
 
@@ -117,18 +117,18 @@
 |---|---|
 | **Form** | A vast underground river of black liquid sorrow. It flows beneath the city like blood through veins. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Material / signature** | Weight. Black, dense, lead-cold, wet stone, and a tone felt through bone at the listening bell. |
+| **Distinctive markers** | No reflection, no bank, no bottom within the line's reach, and a temperature that does not change with the season. |
+| **Identification** | If the line comes up dry and cold from water you can hear, you are at the River and you should be on the gantry. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Grief-line elevation, tone, temperature, and the taste of the line. The readers' vocabulary is strange and no Warden has ever overruled it, because nothing else has ever predicted a vigil.
 
 ## Origin
-- **Formation:** The River is considered the source of Han and the origin of all Sorrow Entities.
-- **The Sorrow:** The accumulated grief of every person who has lived and died in Somnarak.
-- **The Event:** Unknown. The River predates the city and may be older than Han's structural form.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this effect as "Sorrow Resonance" — the entity's sorrow resonates with the viewer's own hidden grief. Containment procedures require personnel to rotate every 72 hours. Extended exposure causes vivid dreams — dreams of lives never lived, of losses never mourned.
+- **Formation:** Not formed. Already present, and underneath everything that was built afterwards.
+- **The Sorrow:** The city's grief, undiluted and unforgotten, with the unmourned portion of it standing highest.
+- **The Event:** None recorded. The River predates the city, the Consolihan, and possibly Han's structural form; the archive's oldest line about it was written in an unknown hand.
+- **The People:** Everybody who has lived and died in Somnarak, which is why the file names nobody. The readers hold that the River sorts what it receives and the instruments have never confirmed it.
+- **Expanded origin context:** There is no commissioning file, because nothing commissioned it. What the archive holds instead is the first surveyor's shaft report, three Wardens' observation notes from the strata beneath it, and an undated line in an unknown hand recording that the River rose and eleven new sorrows were found in the wards by evening. Personnel posted here report grief that is specific, detailed and not their own; rotation is every seventy-two hours and is not negotiable.
 
 ## Behavior
 
@@ -140,8 +140,8 @@ The River does not respond to Work Types in the conventional sense.
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the grief carried through its currents. | Stable |
-| **Ferrehan** | Tests whether the worker can remain near total sorrow. | Decrease |
+| **Viderehan** | What the current is carrying, in detail, to a worker on the bank. Generous to witnesses. Gauge does not move. | Stable |
+| **Ferrehan** | Holding position at open water for the interval, on a line, with an escort who does not speak. | Decrease |
 
 
 ### Operational Work Notes
@@ -153,10 +153,10 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 | Field | Detail |
 |---|---|
-| **Expansion Trigger** | Increase in city-wide grief and Han flow. |
-| **Expansion Rate** | Continuous but immeasurable; channels change underground. |
-| **Expansion Effect** | Feeds new structures and entities above. |
-| **Containment** | Impossible. Access is sealed and the River is monitored. |
+| **Expansion Trigger** | A rise in the city's unmourned portion. Mourning completed by someone who knew the dead lowers it; nothing else does. |
+| **Expansion Rate** | The channels are unmappable, but the grief-line is not: 240, 310 and 418 millimetres across three annual surveys. |
+| **Expansion Effect** | Foundations that met code when raised are found anchored below the line. Four basements were bought and sealed this year; none has ever been condemned. |
+| **Containment** | None exists and none is attempted. The shafts are sealed, the stations listen, and the posture is absolute non-interference. |
 
 
 
@@ -164,21 +164,21 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 The escalation pattern is specific to Black River: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at SECTOR-A-01, beneath the Alpha Tree — The Weeping, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Impossible. Access is sealed and the River is monitored. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** Do not pump; it returns angrier. Do not speak into it; it answers in the voices of the dead. Hold position, bring to mind one person you have mourned properly, and mean it — the Drowning Vigil doctrine, written during the Vigil, which is why it reads the way it does.
 
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Increase in city-wide grief and Han flow. |
+| **Trigger** | A rise in the unmourned portion of the city's grief. |
 | **Manifestation** | Place-Weight|
-| **Primary effect** | Feeds new structures and entities above. |
-| **Duration / rate** | Continuous but immeasurable; channels change underground. |
-| **Risk** | Major (γ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Impossible. Access is sealed and the River is monitored. |
+| **Primary effect** | The grief-line rises and the structures above it do not move. |
+| **Duration / rate** | Continuous. 418 millimetres on the year and accelerating. |
+| **Risk** | Major (γ) Place-Weight producing Weight pressure. Personnel receive the grief of strangers, whole and specific, and some of them cannot put it down afterwards. |
+| **Management** | Soundings from the gantry, the station network, the dowsing rite, and the grief-line seal on every foundation in the city. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** grief-line elevation → tone at the listening bell → temperature of the line → which tributaries have gone quiet → ward-flow colour → whether any sealed vault has sounded back. The last field has been blank since the first sounding and the readers check it first.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -198,7 +198,7 @@ The escalation pattern is specific to Black River: it is not a generic breach ev
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Armoury figures, transcribed. The Maul's listed value is the weight it adds to a blow, not anything the River does to anybody.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Black River's weight signature in the strike.
 
@@ -230,13 +230,13 @@ The escalation pattern is specific to Black River: it is not a generic breach ev
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat, and the bearer can hold position in mass grief without going to pieces. Senior Wardens call the piece the Drowned Coin and will not give it up.
 
 **Ability:** Absorbs sorrow from the surrounding environment.
 
 **Cost:** The stone becomes heavier with every sorrow absorbed.
 
-*Stigmas are granted at random by Black River upon a successful work, not manufactured.*
+*The Coin is granted by the River and not made. Every bearer dreams the deaths of strangers, nightly, without exception, and the Directorate quietly doubles their counselling allocation rather than asking any of them to surrender it.*
 
 ### M.A.W. Use Notes
 
@@ -256,11 +256,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 4 — Mastered
 
-- The River is the suspected source of all Han.
-- Its sound is felt through bone rather than heard.
-- It carries grief from every district and feeds the city above.
+- Suspected source of all Han, and the only holding in the catalogue the Directorate has never scheduled a single work cycle against.
+- The tone is felt in the teeth. It passes ear defence and does not register on acoustic instruments at all.
+- It takes from every district, by channels the dowsers find and the maps do not, and gives nothing back that anybody has retrieved.
 
-**Personnel Note:** *"It was singing. I felt rage. The River was not angry at me; it was carrying the anger of everyone who had ever been unable to leave."* — Specialist, Zone B patrol
+**Personnel Note:** *"Line at four hundred and eighteen. I stood the interval and what came up through my boots was a woman's whole afternoon — her kitchen, her sister's name, the row they had. I never met her. The crew logged the time and the gauge and wrote the one line they always write, and then we went up for tea, and that is the job."* — Reader, Deep Vault station
 
 
 
@@ -268,27 +268,29 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Black River as an Object/Place with Place-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-A-01, beneath the Alpha Tree — The Weeping. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. The River does not respond to. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Black River's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Station logged, line down, depth and tone taken, temperature read, escort in position on the gantry. |
+| **Sustained observation** | Readings at fixed intervals from the bank only, with the taste of the line noted in the reader's own words and not corrected by anybody. |
+| **Activation or escalation** | A tributary gone silent, standing water in a corridor, or a vault that sounds back. Seal the shaft, ring the bell, wake the senior Warden. |
+| **Post-contact review** | Depth, tone, temperature, grief-line movement, and the counselling referral for anybody who came up carrying somebody else's afternoon. The referral is automatic and is not a judgement. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** A weighted line, a listening bell, a thermometer, and a reader selected for hearing and retired early for dreams.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Black River (C-Vγ-225 [WP]) is logged as a Place-Weight manifestation expressing Weight. The River is considered the source of Han and the origin of all Sorrow Entities. Held at SECTOR-A-01, beneath the Alpha Tree — The Weeping. The River is the suspected source of all Han.
+Black River (C-Vγ-225 [WP]) is logged as a Place-Weight manifestation expressing Weight, running beneath the whole city and surfacing at the Weeping. It is sounded and never entered, it rises with the city's unmourned dead, and it is the only holding against which no work cycle has ever been scheduled.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Grief-Line Survey, Year 4238>**
+The line rose 418 millimetres this year, after 310 and 240. Four basements bought and sealed. Tone unchanged at every station; no tributary reported silent; no vault sounded back.
 Its sound is felt through bone rather than heard.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Mourning Office Correspondence>**
+The office confirms that no person may mourn on another's behalf in this city, that no institution — the Directorate included — may mourn at all, and that a death therefore stands unmourned unless somebody who actually knew the dead undertakes it personally.
 The accumulated grief of every person who has lived and died in Somnarak.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals the grief carried through its currents. (Stable); Ferrehan: Tests whether the worker can remain near total sorrow. (Decrease). It carries grief from every district and feeds the city above.
+Management: sound from the gantry, never enter, re-sound the grief-line continuously, seal every foundation against it, investigate any tributary that falls silent. Work response — Viderehan: what the current carries (Stable); Ferrehan: position held at open water on a line (Decrease). Flerehan and Pugnahan do not apply to a Place and have never been attempted here.
 
 **Entry 5 — <Archive Note>**
 The river runs under the city and does not rise, fall, or answer to weather; it is fed by something other than rain. Soundings put the channel deeper than the Alpha Tree's roots and have never found a bank. Survey crews work from the gantry on a line and never from a boat — a rule written after the only crossing attempt, which succeeded. The crew came back in good health and all four gave the same account of how long it had taken. The account was wrong by nine days.
@@ -308,7 +310,7 @@ You descend beneath the Alpha Tree and hear the River with your bones. The liqui
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A vast underground river of black liquid sorrow. It flows beneath the city like blood through veins. Notable Features: It carries the grief of Somnarak, produces no ordinary reflection, and feeds many Sorrow Entities. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Weight form.
+**At first contact:** You hear it in the jaw before anything else — a low tone with no acoustic reading at all. Then the line comes up cold and dry from water you can plainly hear moving. The first sensation is Weight: not sadness, but load, as though something had been added to what you were already carrying.
 
 **With continued exposure:** Sustained contact reveals the entity's rhythm — the Weight pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
 
@@ -320,21 +322,21 @@ You descend beneath the Alpha Tree and hear the River with your bones. The liqui
 
 Black River does not exist in isolation. Its recorded relationships with The Maw, The Sorrow Fountain, The Grieving Colossus, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Measure the tributary, not the River. Take the other party's figures before and after at its own holding, and take depth, tone and temperature here at the same hours. In the whole series the River's readings have never once moved for anything standing beside it.
 
 
 ### Entity Interaction Record
 
-Black River must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Black River must not be read as one more holding in a network. Every other entity in this catalogue is, by the Directorate's own cosmology, a tributary of this water; the interactions below are recorded as flows into it, and no reading taken at the River has ever been changed by what is standing beside it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Maw** | The Maw's foundation draws from the River. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sorrow Fountain** | The Fountain's tears flow toward it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Colossus** | Its tears join the River's current. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The First Tear** | The First Tear is considered an upstream origin. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Maw** | Its foundation sits below the grief-line and draws; the survey has four sealed basements on that single account. | The Maw strengthens measurably; the River's own readings do not move. | Grief-line elevation beneath the Maw, re-sounded quarterly, and the seal register. |
+| **The Sorrow Fountain** | A mapped tributary. The flow has been dye-traced from the Fountain's basin to two listening stations. | Fountain output falls when the line rises; the readers treat the pair as one gauge. | Dye trace annually, log both figures on the same sheet. |
+| **The Grieving Colossus** | Another tributary, and the largest single one measured. Its weeping accounts for roughly a tenth of the annual rise. | No effect on tone. The contribution is volume and nothing else. | Weep-rate at the Colossus against station depth, monthly. |
+| **The First Tear** | Held to be upstream of everything, including this. The claim is doctrinal, has never been instrumented, and the Directorate has declined three proposals to test it. | None measurable. | Record the proposals and their refusals; take no reading. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Readings at the tributary and readings at the station, same hours, different crews, compared on one sheet at the survey office.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -364,18 +366,18 @@ Some sorrows are about human loss. Black River is about loss itself — the grie
 > *“The city draws on it. The city fears it. The city cannot escape it. The River flows beneath everything.”* — Elder, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vγ-225 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-Vγ-225 [WP]` · City origin · Sovereign (V) coherence · Major (γ) potency · Weight · Place-Weight manifestation
 **Common Name:** Black River
 **Containment Status:** Uncontained — beneath the entire city
-**Comprehension Level:** 5 — Sovereign
-**Threat Assessment:** Catastrophic (potential). The source of all entities. Pre-human geological grief. Effect: proximity induces planetary-scale sorrow.
+**Comprehension Level:** 4 — Mastered
+**Threat Assessment:** Major (γ) as worked, catastrophic in potential and never tested. Personnel receive the specific grief of strangers; the grief-line rises 418 millimetres a year; the city stands above it by arrangement rather than by right.
 **Containment & Handling Procedures:**
-- Classified. Director-only access.
+- Sounding only, from the gantry, on a line. Entry has been refused at every level since the single crossing, and the crossing's four-man crew came back agreeing on a duration that was wrong by nine days.
 - The River flows beneath everything; it cannot be contained.
 - The city is built on it; the River feeds the Alpha Tree.
 **Observation Notes:**
-- The source of all Sorrow Entities; older than the city.
-- The Weeping is the River’s surfacing.
+- Grief-line elevation 240, 310 and 418 millimetres across three annual surveys. The only number in this file that moves.
+- No sealed vault has ever sounded back. The readers check that field before they check any other.
 **Cross-References:** The Weeping · The First Tear · The Alpha Tree · The Maw · All Sorrow Entities
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** The planet Mugenhan; the River predates humanity.
@@ -437,6 +439,24 @@ The grief-line is the most important elevation in Somnarak, and it appears on no
 
 The sealed vaults are the line's open secret. Beneath the oldest districts lie chambers the city built before it understood what it was building over — cellars, cisterns, burial crypts — now drowned in black water up to their ceilings. The Directorate maps every one, monitors every one, and opens none. Dive teams were proposed once, in the early years, by a commander who did not yet understand the River. The proposal was denied with a single-line ruling that has become doctrine: what the River has received is received. The vaults are sounded from above, their tones logged alongside the tributaries, and their silence — so far unbroken — is counted among the city's blessings. If a vault ever sounds back, the readers have standing orders: seal the shaft, ring the bell, and wake the senior Warden. Whatever the River wants to return, the city will receive standing up.
 
+### The Unmourned
+
+The grief-line rises with every unmourned death and falls, fractionally and measurably, with every mourning actually completed. The survey's figures are 240 millimetres, then 310, then 418, and the rise is now steeper than the readers' own projections allowed for. Set against the city's death registers the match is exact in one place only: the line tracks the count of deaths in the year for which no person could be found who had known the dead.
+
+No one in this city may mourn on another's behalf. Proxy mourning is void, paid mourners are prohibited, the guild funerals were wound up in Year 4219, and no institution — the Directorate emphatically included — may mourn at all. The rule was made for cause and the cause was ugly. Families were billed for performances of a grief they were too exhausted to perform themselves; the ward that mourned collectively was the ward in which no individual ever did; and the phrase *the department has mourned him* appears in four surviving case files as the sentence that closed an investigation. Mourning was made personal, unpurchasable and non-transferable in a single ordinance, and nobody has proposed repealing it.
+
+Its consequence is that a death nobody living properly knew cannot be mourned by anyone, at all, ever. There is no office that may do it, no sum that may buy it, no neighbour who may stand in. The grief simply goes down, through the burial grounds and the memorial steps and the drains and the small habits the survey office calls tributaries, into the black water under the foundations. The River does not judge the ordinance. It only rises.
+
+### The Acquaintance Search
+
+Authorised Year 4230. Where a death is recorded with no mourner, the survey office searches for one living person who genuinely knew the dead — not kin, not an office, not a volunteer — and tells them so. It may state the fact and nothing more. It may not ask, encourage, thank, or follow up, because any of those would make the mourning something performed for the Directorate rather than for the person, and the Directorate has established, three times, that the River does not accept it when it is.
+
+Year 4237: 1,140 deaths recorded with no mourner. 603 searches produced a named acquaintance. 288 of those people undertook the mourning. 315 declined or did not reply. And in 537 cases the office could find nobody at all — nobody living who had known them well enough to grieve them honestly — which is the figure the grief-line has been following.
+
+What it costs falls on people who never signed anything. Being told that you are the last person who knew somebody is a weight placed deliberately on a stranger's afternoon, and two of this year's 288 are in sealed counselling. The search runs on records indexed by subject rather than by person, so it finds the long-served and the settled and misses the casual, the transient and the lately arrived — exactly the people most likely to die unknown. And a decline is counted. No name is attached to the count, but the person who declined knows which number they are, and the readers have met several who could not stop thinking about it.
+
+The readers asked for the obvious remedy: let the Directorate mourn the 537, formally, once a year, in whatever manner the ordinance could be amended to permit. It was refused, and the refusal is not merely doctrinal. It was tried, under authority, on three occasions before the ordinance, and on all three the line did not move by a single millimetre — the only instrumented proof the archive holds that institutional grief is not grief. The readers' objection stands in the survey office's first volume, recorded as correct and unanswered: that the city forbade proxy mourning so that no one's grief could be bought, delegated or faked, and has thereby arranged that five hundred and thirty-seven people a year go down into the water unmourned by anybody, and that the foundations of Somnarak are being lifted, measurably, by the difference.
+
 ### The Sounding Prayer
 
 The readers say it before every descent of the line, and the Directorate — which authorizes no prayers — authorizes this one as procedure: River beneath, keep what you keep. We measure only the surface. We mourn only the named. What is sealed stays sealed, what flows flows past, and what we owe, we pay in grief honestly mourned. The line goes down. The bell stays silent. The city stands. So far, the River has accepted the terms. The readers log every sounding, the gauges hold their levels, and the black water keeps its own counsel beneath the foundations — which is, all parties agree, exactly where it belongs.
@@ -456,8 +476,8 @@ The sounding lines wear out. Lowered and raised through stone and black water fo
 
 - **Classification detail:** Black River is an Object/Place with Sovereign (V) — Autonomous, flowing, eternal coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-A-01, beneath the Alpha Tree — The Weeping.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A tone felt in the teeth and not in the ear, a line that comes up cold and dry, and a depth greater than the instrument lowered to find it.
+- **Record detail:** The Registrum carried Critical (δ) potency and a Comprehension Level of 5 against a Major (γ), Level 4 header; both corrected. The granted stigma is filed as the River Stone and known to the readers as the Drowned Coin; both names are recorded here so the two records can be matched.
 - **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
