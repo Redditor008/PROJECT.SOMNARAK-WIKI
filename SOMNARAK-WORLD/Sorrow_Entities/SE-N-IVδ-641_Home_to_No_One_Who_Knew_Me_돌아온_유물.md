@@ -32,10 +32,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Record it, cordon it, brief the district afterwards, and do nothing to the object. |
 
 ### Operational Notes
 
@@ -118,8 +118,8 @@
 |---|---|
 | **Form** | A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms. |
 | **Position / movement** | Appears and departs without pattern or precursor; record the street, the exact position, the time of first sighting and the time of loss, and treat the interval since the last appearance as the holding's primary variable. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | Grudge. Black, fever-hot, smelling of char, with a crimson fire that sits somewhere inside whatever the object currently is. |
+| **Distinctive markers** | The light and nothing else. A watch member who can say what the object is has described their own history and is relieved on that ground. |
 | **Identification** | Identification is not optional and is made on the light; the SECC code, the manifestation and the crimson inner fire must align before anything is recorded as an appearance, and the form field stays marked unidentified. |
 
 **Appearance protocol:** Record the light, not the shape. The relic shifts between object forms and holds none of them, so the identifying feature is the crimson fire inside it: log the colour, the depth at which it appears to sit within the object, whether it pulses, and the heat, which is fever-hot and reads on an instrument at a distance it should not. The form is recorded in a separate field and is marked unidentified by default, because the watch is trained on the light alone — a dozen reference images, all of different objects, all showing the same glow from within. The earlier approach of cataloguing observed forms was found to be actively misleading, with watch members looking for a shape from the list and failing to register an unlisted one. That catalogue is kept as a record of what has been seen and is marked across its face as not an identification aid.
@@ -139,8 +139,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows the routes and hands through which it passed. | Stable |
-| **Ferrehan** | Remains present while the worker bears uncertainty. | Decrease |
+| **Viderehan** | The routes and the hands it passed through surface in order, none of them attached to a name the archive can confirm. | Stable |
+| **Ferrehan** | It stays while the worker holds the uncertainty without resolving it, which on this holding means not deciding what the object is. | Decrease |
 
 
 ### Operational Work Notes
@@ -280,12 +280,12 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The Relic appears without a consistent schedule.
-- It glows during the Sorrow Tide.
-- Personnel report confusion between an object's former and current identity.
-- It has never been successfully removed from the Old Lament.
+- There is no schedule, no precursor and no interval: nineteen appearances in twenty-two years, the shortest gap forty-one days and the longest six years.
+- It glows through a Sorrow Tide without appearing any more often, the Tide having no recorded effect on the interval at all.
+- Witnesses become uncertain about unrelated things — their route, their reason for being in the street, whether they had already spoken to someone — and it clears within the shift.
+- Nobody has tried to remove it since the holding opened, and the file records that as a decision rather than as a failure.
 
-**Personnel Note:** *"It returned glowing. I felt confusion because I remembered owning it, but no one else remembered me."* — Specialist, Zone B patrol
+**Personnel Note:** *"It came back glowing and for a while I was certain I had owned it. Nobody else in the street remembered me either, which is the part of the shift I had to read off my own task sheet afterwards."* — Watch member, Zone B, Old Lament
 
 
 
@@ -294,9 +294,9 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Home to No One Who Knew Me as an Object/Place with Object-Void manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | The light: its colour, the depth it appears to sit at, whether it pulses, and the heat, which reads on an instrument at a distance it should not. The form goes in a separate field and is marked unidentified by default. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or recognition by someone who remembers it. Effect: Returns a lost object or memory to its previous location briefly. Duration: Until the returned thing is acknowledged or forgotten again. Risk: The user may confuse return with restoration and lose. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Home to No One Who Knew Me's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | Each task sheet collected and compared with what the holder says afterwards, discrepancies logged as exposure and never as unreliability, and the interval since the last appearance entered in the log before anybody goes off shift. |
 
 **Observation method:** Observe in pairs, from the standing district watch, with a written task sheet that a second person signed before entry. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the street, and the condition that ended the appearance. The task sheet is part of the method rather than administration: a worker who cannot recall why they are in the district reads what they wrote down before they entered it, and the second signature exists because an early sheet was found to have been amended by the worker during an episode. The entity's appearance is its history made visible rather than a guide to behaviour — a thing that keeps coming back to a street that has no record of it is what belonging looks like once it has stopped being mutual.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -354,9 +354,9 @@ This relic must be assessed as one of a group of sorrows made from return rather
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Forgotten Market Stall** | The Stall offers objects from the Relic's missing history. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Broken Mirror** | Reflects the Relic's former owners. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Orphaned Bell** | Tolls when the Relic returns. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Forgotten Market Stall** | The Stall puts out objects from the history this relic lost. | Twice coincident, both times by accident rather than arrangement. On each occasion the Stall's goods matched forms in the retired catalogue, and on each occasion the archivists declined to treat the match as evidence of anything, the catalogue being marked across its face as not an identification aid. | Both coincidences with times, the goods listed, and the archivists' refusal with its reasons. |
+| **The Broken Mirror** | The Mirror shows people who once held it. | Never arranged and formally excluded from the watch's standing options. A reflected owner would be a face the witness would afterwards be certain of, and certainty is the condition this holding removes people from duty for. | The exclusion, its reasoning, and the review at which it was last restated. |
+| **The Orphaned Bell** | The Bell sounds when it comes back. | Eleven of the nineteen appearances were preceded by the Bell, by between two and forty minutes. It is the closest thing to a precursor on file and the wing has refused to call it one, eight appearances having come with no bell at all. | Bell times against first-sighting times for all nineteen, including the eight blanks. |
 
 **Interaction procedure:** Baseline both parties separately, bring the second no nearer than the cordon, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the street, and whatever persists after separation. The field this holding adds is the witness record: who was present, what each of them thought the object was, and whether any two agreed.
 
@@ -386,22 +386,22 @@ Some sorrows mourn a home. Home to No One Who Knew Me mourns the return — the 
 > *“The artifact belongs, now, nowhere. The place it belonged to became a different place.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-641 [GO]` · Grudge · Object-Void manifestation
+**Classification:** Sorrow Entity — `N-IVδ-641 [GO]` · Inner origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Object-Void manifestation · I-Relic (Indumentum)
 **Common Name:** Home to No One Who Knew Me
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Critical (δ). It has injured nobody, is never approached and has never been removed from the district. The grade is the witness effect and the fact that there is no interval, no precursor and nothing anybody can do about either.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Viderehan and Ferrehan only. It is an object; there is nothing to weep with and nothing to confront, and neither approach has ever been attempted here.
+- Nothing is done to it. It is not approached, handled, moved, marked or contained. The watch records and keeps others back, and that is the whole of the posting.
+- On an appearance: cordon at distance, two watch members, written task sheets countersigned before entry, and relief for anybody who reports the relic as recognisable.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- Nobody who can be named. Whoever carried it out, whoever lost or hid or destroyed it, and whoever lived on the street it returned to are all beyond the record.
+- Nineteen appearances in twenty-two years, intervals from forty-one days to six years, at roughly eleven thousand four hundred watch hours per appearance.
+- Yield is drawn from the crimson inner fire, is highest at reappearance and falls until the next absence; nothing is taken from the object, which has never been touched.
+**Cross-References:** The appearance log and its watch-hour series · the hazard-notice heading and the nineteen district briefings issued under it · the disclosure office's standing objection · the honesty line and the association's power to stop the briefings · the site-history findings and where they are held
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** An artifact carried out of the city, lost, and returned to a district that had changed past recognising it.
 
 ### Registry Addendum
 
@@ -438,10 +438,40 @@ The Old Lament's residents know about the relic. The wing briefs the district as
 
 District watch duty is paired with unrelated work in the Old Lament so that nobody is rostered to wait and nothing else, and the pairing is arranged so that the second task can be abandoned instantly without consequence. Finding tasks that meet that condition is harder than it sounds and the roster office maintains a standing list of them. The list is short, is reviewed each cycle, and has been added to twice in the holding's operation. Both additions came from watch members who had found something useful to do and said so.
 
+### What the Appearance Log Costs to Keep
+
+**Nineteen appearances in twenty-two years.** The shortest interval is forty-one days, the longest is six years, and the series has no structure anybody has found in it. The Orphaned Bell preceded eleven of the nineteen by between two and forty minutes and preceded eight of them not at all, which is why the wing has declined to describe the Bell as a precursor.
+
+The other figure in the log is the one nobody quotes in review: a standing district watch, maintained without interruption, works out at roughly **eleven thousand four hundred watch hours per appearance**. That is the price of a posting whose function is to be present in case something happens, in a district with no end date and no expectation of activity.
+
+The wing does not argue that the watch is efficient. It argues that there is no version of this holding without it, since the only alternative to being there when it returns is finding out afterwards from whoever was.
+
+### An Institution May Only Say Things for the Reasons It Is Allowed to Say Them
+
+F01 may inform an adjacent population about a containment matter where the matter bears on that population's safety. That is the whole of the permission, and it is the right permission. Without it, containment information leaves the facility whenever an officer judges that somebody ought to know, which is how a disclosure schedule stops existing.
+
+The district association wants something else. What they want — minuted at the first meeting and never revised — is to be told, because the object belongs to the district whether or not the district remembers it, and because they would rather hear it from the facility than from one another. That is not a safety interest. It is a better interest than a safety interest, and it is not one the facility is permitted to act on.
+
+So the nineteen briefings have each gone out under the **hazard notice to adjacent population** heading, which requires a stated hazard. The hazard stated is the witness-confusion effect. It is real, it is accurately described, and it is not within a mile of why forty to sixty residents attend. In twenty-two years the wing has recorded **four questions about the confusion effect** and several hundred about what used to stand where the relic appeared.
+
+Nothing here is a breach of the rule. Every notice is lawful and every hazard in them is true. The file's point is narrower and worse: the only honest relationship this holding has with anybody is carried inside a heading that does not describe it, and if a commander declined to sign the next one, there is no ground on which the district could ask for it back.
+
+### The Heading, the Honesty Line, and the Association's Switch
+
+Three measures, all within the wing's own gift, none of them a remedy.
+
+Each notice opens with a line the wing wrote itself and has never been asked to remove. It states the heading the notice is issued under, states that the hazard section is the part the facility is required to give, and states that the rest is given because the association asked for it and may stop whenever the facility's permission is read more strictly. Residents have described this line, in the association's own minutes, as the reason they trust the rest of the page.
+
+The association holds the only switch. They may end the briefings by saying so once, in writing, without giving a reason, and nobody at the facility may ask for one or ask them to reconsider. The power has existed for nineteen briefings and has not been used.
+
+And the archivists' site-history findings — what stood where, before — are handed to the association in writing as the association's own document, and lodged in the open archive on the same day. The duplication is deliberate. It means the facility is not the only holder of the one thing in this file the district actually came for, and that a future decision to stop the briefings cannot take the history back with it.
+
+The disclosure office's objection is standing, annual, and correct. A safety heading used for nineteen notices that are not about safety is a heading losing its meaning, and the day a real hazard notice goes to the Old Lament, the Old Lament will read it as the history talk. The minute records the objection as **correct, and no alternative heading exists**. The wing has added nothing to that in twenty-two years.
+
 ## Trivia
 
-- The Relic's form changes according to the history remembered by the observer.
-- It may return an object without returning the person who owned it.
+- The form follows the observer's own history, which is why two witnesses to the same appearance have almost never described the same object.
+- What comes back is the thing, never the people, and the district it comes back to has no record of either.
 
 
 
