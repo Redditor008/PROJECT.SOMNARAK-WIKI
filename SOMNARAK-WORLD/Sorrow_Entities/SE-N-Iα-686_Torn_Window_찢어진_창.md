@@ -168,10 +168,10 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Touch or direct gaze. |
-| **Primary Effect** | Shows one former occupant's memory of the window. |
-| **Duration** | Until the viewer looks away. |
+| **Primary Effect** | Shows the room beyond as it stood when the length was last walked, people included. |
+| **Duration** | Until the viewer looks away, which in every recorded case required a second person. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
-| **Risk** | The viewer may mistake a borrowed room for personal history. |
+| **Risk** | The viewer may file a shift they never worked; four have. |
 
 **Operational Rule:** The relic functions only while mounted on the bearer and cannot be carried out of the tunnel network; beyond the last worked length it shows nothing at all. It cannot replace the patrol round, and the holding's standing warning is that it was twice treated as a substitute for one.
 
@@ -179,10 +179,10 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Torn Window rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Torn Window activates its primary resonance: Shows one former occupant's memory of the window. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of seeing the same place through too many losses; the bearer begins perceiving echoes of a tunnel window was touched by generations of workers until each person's departure remained in the glass. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 10 Seconds | Torn Window rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Torn Window activates its primary resonance: the room beyond as it stood when the length was last walked. Grants +10% resistance to Grudge damage while equipped. |
+| 30 Seconds | The artifact was born from the grief of seeing the same place through too many losses; the bearer begins perceiving the changeover at the old turn, crews going up and crews going down, none of them looking out. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Torn Window begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Torn Window too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The viewer may mistake a borrowed room for personal history. |
+| 2 Minutes | To wear Torn Window too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer leaves the tunnel believing they worked the shift they were shown. |
 
 ### Escalation Notes
 
@@ -196,9 +196,9 @@ The escalation pattern is specific to Torn Window: it is not a generic breach ev
 |---|---|
 | **Trigger** | Touch or direct gaze. |
 | **Manifestation** | Object-Lament |
-| **Primary effect** | Shows one former occupant's memory of the window. |
-| **Duration / rate** | Until the viewer looks away. |
-| **Risk** | Minor (α) Object-Lament producing Grudge pressure; The viewer may mistake a borrowed room for personal history. |
+| **Primary effect** | Shows the room beyond as it stood when the length was last walked, people included. |
+| **Duration / rate** | Until the viewer looks away; no viewing on record has been ended by the viewer. |
+| **Risk** | Minor (α) Object-Lament producing Grudge pressure; the borrowed room is remembered as the viewer's own. |
 | **Management** | Count the hands at each inspection and walk the disused lengths on a published round; the count has fallen in exactly the eleven weeks the full round was walked. |
 
 **Activation reporting order:** hands counted → room shown → whether that room is still walked → who touched the glass and whether they logged it → duration of the viewing → the patrol sheet. Object and Place entities use Viderehan and Ferrehan only.
@@ -291,7 +291,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Torn Window as an Object/Place with Object-Lament manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, deep tunnels. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or direct gaze. Effect: Shows one former occupant's memory of the window. Duration: Until the viewer looks away. Risk: The viewer may mistake a borrowed room for personal history. Tool Use Profile — I-Relic Operational Rule: The relic remains. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or direct gaze. Effect: the room beyond as it stood when the length was last walked. Duration: until a second person ends the viewing. Risk: the borrowed shift is filed as the viewer's own. The relic functions only while mounted and only inside the worked network. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Torn Window's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the hand count on arrival, the room shown, whether that length is still on the round, who ended the viewing, and the patrol sheet for the week. The condition that ends the encounter is the second person's intervention. Do not read the entity's surface as a face; it has not shown one.
@@ -333,7 +333,7 @@ The window is broken, but the view beyond it is perfect. A hand touches the glas
 
 **With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Grudge; it is this entity's Grudge — shaped by its origin, its wound, its particular grief.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or direct gaze. Effect: Shows one former occupant's memory of the window. Duration: Until the viewer looks away. Risk: The viewer may mistake a borrowed room for personal history. Tool Use Profile — I-Relic Operational Rule: The relic remains. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or direct gaze. Effect: the room beyond as it stood when the length was last walked. Duration: until a second person ends the viewing. Risk: the borrowed shift is filed as the viewer's own. The relic functions only while mounted and only inside the worked network. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
 
 **After departure:** What remains after the door closes is not fear but weight — a Grudge aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
 
