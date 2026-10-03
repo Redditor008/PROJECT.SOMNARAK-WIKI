@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A sleeping humanoid built from the ruins of an Outside Sorrow settlement — broken timber, collapsed stone, and ash fused into the shape of a resting person. Salt-damp, it smells of cold rain; it weeps without waking, beneath its own rubble. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Recumbent — it has never risen, never walked and never pursued; the breach classification is the register's, not the holding's. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan, quietly, with the names read at the close. Any response that requires an alarm, a klaxon or a raised voice is counter-indicated here and makes the situation worse by its own mechanism. |
 
 ### Operational Notes
 
@@ -97,16 +97,16 @@
 - Failure here has one specific meaning: it wakes. What follows is recorded in the breach section and has never been observed, because the threshold has never been reached — and personnel should treat an unobserved breach protocol as an untested one rather than as a reassurance.
 
 ## Appearance
-**Primary Form:** A sleeping humanoid made from the ruins of an Outside Sorrow settlement. It weeps while resting beneath broken structures.
+**Primary Form:** A sleeping humanoid built out of the ruins of a struck-off Outside Sorrow settlement — broken timber, collapsed stone and ash fused into a resting body. **Respiration:** ten to twelve a minute, unvarying across the whole record, and the first thing measured on every entry.
 
-**Notable Features:** It does not wake when attacked, its dreams rebuild ruins, and its tears flow into memory.
+**Notable Features:** Force does not rouse it; its dreaming puts the settlement's buildings back up around it; and its tears go to the Memory Archive under a transfer the Archive asked for.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
-- **Primary marker:** A sleeping humanoid made from the ruins of an Outside Sorrow settlement. It weeps while resting beneath broken structures.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** A recumbent figure of fused timber, stone and ash in the posture of someone asleep, breathing, with water standing on the stone around the face.
+- **Position / movement:** Recumbent and never once observed to rise. Record limb position, any change of posture between cycles, and the rate and depth of breathing, which is the only movement reliably present.
 - **Element signature:** Lament
 - **Registered location:** Zone B, Old Lament — ambient
 
@@ -114,29 +114,29 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A sleeping humanoid made from the ruins of an Outside Sorrow settlement. It weeps while resting beneath broken structures. |
+| **Form** | A recumbent figure of fused ruin-material, weeping without waking. |
 | **Position / movement** | Lies among the Old Lament rubble in the posture of a person asleep and has never been observed to rise; record the position of the limbs, any change in posture between cycles, and the rate of breathing, which is the only movement reliably present. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Material / signature** | Lament. Salt-damp timber and stone, cold rain on the air, standing water around the face, and a sound floor lower than the rest of Zone B. |
+| **Distinctive markers** | Breathing rate, limb position, water on the stone, the sound floor on arrival, and the count of standing structures that are not on any plan. |
+| **Identification** | Take the breathing rate. Anything in the Old Lament that is not breathing between ten and twelve to the minute is one of the other Lament holdings, not this one. |
 
 **Appearance protocol:** Record the figure, then record the buildings. The figure is straightforward — the position of each limb, the materials visible in the body, the moisture on the stone, the rate and depth of breathing, and whether it is weeping. The buildings are the part the standard protocol has no field for and the part that matters: this entity's dreams temporarily restore destroyed structures, which means some of the standing architecture in the Old Lament is sustained by the sleep of the thing lying in the middle of it. Survey the surrounding structures each cycle against the pre-collapse plans and mark which are present that should not be. That list is a map of what disappears if it ever wakes, and personnel are entitled to know whether they are standing on it.
 
 ## Origin
-- **Formation:** The Ruin formed from a settlement that died while its survivors continued mourning.
-- **The Sorrow:** The exhaustion of grieving a place that can no longer be restored.
-- **The Event:** An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent.
+- **Formation:** From a settlement that was destroyed and then struck off, and from the one person left to mourn a place the register no longer admits existed.
+- **The Sorrow:** Not that the place cannot be rebuilt. That it cannot be returned to, registered, addressed or claimed as anybody's origin, by a rule that is right.
+- **The Event:** A surge took the settlement. The ground was condemned and the place struck off in the following season. The survivor reached the Desolate relief station, was entered as having no registered origin, declined shelter and lay down.
 - **The People:** An entire Outside Sorrow settlement, and one survivor of it. The settlement is in the body; the survivor is the sleeper. The record does not name either, and the resolution condition requires the dead to be acknowledged, which the facility is therefore doing by count rather than by name.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Expanded origin context:** The settlement is not merely gone. It is **struck off**: condemned ground, removed from the register of places, and therefore unbuildable, unresettlable and unusable as anybody's origin. No permit may issue for it, no relief is payable to its address, and nobody living may be registered there. The relief officer who received the survivor wrote the origin field as *no registered origin*, which was the only entry the form permitted, and which is why the Desolate register records one arrival from nowhere. The rule is not cruelty and was not aimed at these people: resettlement of condemned ground killed 3,900 returning people in the twenty years before the striking-off power existed, in surges on sites that had already surged once. It is sound. It is also why there is no address in the city at which this settlement can be said to have been.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The figure sleeps more peacefully and the ruins settle. | Decrease |
-| **Pugnahan** | The dream shifts into a destructive collapse. | Increase |
-| **Viderehan** | Reveals the settlement's final day. | Stable |
-| **Ferrehan** | Tests whether the worker can remain near sleeping grief. | Decrease |
+| **Flerehan** | Breathing deepens and slows, the rubble settles audibly, and the gauge falls further than any other work moves it. | Decrease |
+| **Pugnahan** | The dream turns to collapse, and the collapse lands first on the structures the dream is holding up. Prohibited. | Increase |
+| **Viderehan** | Gives the settlement's final day in detail, including buildings no plan records. The gauge does not move; the district archive receives the material. | Stable |
+| **Ferrehan** | Twenty-four intervals beside something that does nothing, with the worker's own urge to act as the entire pressure. | Decrease |
 
 
 
@@ -147,20 +147,20 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Reading the response:** Flerehan brings the gauge down and the figure sleeps more peacefully as the ruins settle — grief shared quietly is the one thing this holding has ever been observed to accept. Ferrehan brings it down by endurance: the test is whether the worker can remain near sleeping grief, which sounds undemanding and is not, because nothing happens for twenty-four turns and the pressure is entirely the worker's own urge to do something. Viderehan holds level and shows the settlement's final day, which is valuable for the record and changes nothing here. Pugnahan raises the gauge and turns the dream into a collapse, and personnel should understand what that means literally: the structures around them are partly dreamed, and the dream is where the damage lands first.
 ## Breach Behavior
 
-> *"Repose has broken free. Collapses the facility structure around it."*
+> *"Repose is stirring. It has not risen. Stop everything that makes a noise and get the names read."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Repose breaks free and stalks the corridors on foot. It collapses the facility structure around it. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | It does not rise and does not walk. What moves is the dream, outward through the structures it has been holding up, and what follows the dream is the collapse of whatever it stops holding. |
+| **Effect** | Cold grief in waves, draining composure, strongest in personnel standing inside a dreamed building at the time. |
+| **Secondary Effect** | A keening that is not from the figure's mouth but from the timber and stone of the body, and which registers on the acoustic log before anyone hears it. |
+| **First Target** | No target. The propagation is structural and follows the survey list, which is why personnel are told in advance which buildings they are standing in. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Breach type:** Escape in the register's classification only. Nothing has ever left: the figure has never risen, and what propagates in a breach is the dream, through the structures the dream is holding up.
 - **Containment priority:** Silence and acknowledgement, and nothing else. The standard response is counter-indicated at every point: Pugnahan turns the dream destructive, a Warden detail moving at speed through rubble is the loudest thing the Old Lament will hear that week, and sealing corridors around a holding whose dreams are holding those corridors up is self-defeating. Reduce noise to the established floor, stand personnel still, and have someone read the count of the settlement's dead aloud, quietly. The management condition is three instructions and all three are about volume.
 - **Sorrow Gauge on breach:** Indexed to sound and to acknowledgement. Rises 10% for every alarm, klaxon, powered tool or raised voice within the Old Lament, measured at the figure rather than at the source. Falls 10% each time the settlement's dead are acknowledged aloud below the sound floor. A silent response holds it level; a conventional emergency response — which is loud by design — drives it up faster than anything the entity does.
 
@@ -185,7 +185,7 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 **Attack Pattern:** Skewer
 **Target Coverage:** A single projected line of astral light through up to three targets, cast along the disc's orbital edge.
 **Falloff Rule:** 100% at the first target, 70% at the second and 50% at the third, as the beam is diffused along its path.
-**Damage Application:** Score the beam once, then score the lingering illumination again on each following turn while the target remains lit; the two resolve as separate events against the same resistance.
+**Damage Application:** Score the beam once, then score the lingering illumination separately on each following interval while the target remains lit; the disc is not carried into the Old Lament under any circumstances, since the mounting rings are audible when they turn.
 
 **Ability:** A hovering bronze disc of constellations and revolving calendar rings that throws blue astral light along its edges, showing sorrow entities that cannot otherwise be seen — and, with the rings aligned, standing as a shield against elemental fire.
 
@@ -247,7 +247,7 @@ Each piece remains part of the Ruin, and the set is built for watching over rath
 - Its dreams alter nearby architecture.
 - It is calmest when mourned quietly.
 
-**Personnel Note:** *"It felt grief. The Ruin was sleeping because waking would require remembering the collapse all at once."* — Specialist, Zone D patrol
+**Personnel Note:** *"Fifty-six buildings standing in the Old Lament that are not on any plan and were not there when I started. It is dreaming them back faster every year, and the Office struck the place off in Year 4186, and those two facts are the same fact."* — Specialist, Zone D patrol
 
 
 
@@ -255,10 +255,10 @@ Each piece remains part of the Ruin, and the set is built for watching over rath
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Repose as a Subject with Subject-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Repose's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Sound floor on arrival, breathing rate, limb position, and which of the dreamed buildings the approach party has just walked through. |
+| **Sustained observation** | Standing structures present in the Old Lament that appear on no plan, surveyed against the pre-collapse drawings by two parties who do not confer: 29, then 41, now 56. Breathing, posture and position are unchanged throughout. |
+| **Activation or escalation** | Any change in the breathing, or a structure on the survey that was standing last cycle and is not standing now. Both stop the cycle where it is. |
+| **Post-contact review** | The acoustic log, the survey, the breathing trace, and each worker's dream of the following night, collected the next day because this holding delivers in sleep and a debrief on the walk back captures none of it. |
 
 **Observation method:** Take three records every cycle and keep them separate. The acoustic record: the sound floor on arrival, every event above it, and the figure's breathing throughout. The structural record: which surrounding buildings are standing, checked against the pre-collapse plans. The personnel record: what each worker dreamed the following night, collected the next day rather than at debrief, because this entity's effects arrive in sleep and a debrief taken on the walk back will capture none of them. Workers are told in advance that they will be asked.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -266,21 +266,22 @@ Each piece remains part of the Ruin, and the set is built for watching over rath
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Repose (O-IVδ-844 [N]) is logged as a Subject-Lament manifestation expressing Lament. The Ruin formed from a settlement that died while its survivors continued mourning. Held at Zone B, Old Lament — ambient. It has never fully awakened.
+Repose (O-IVδ-844 [N]) is logged as a Subject-Lament manifestation expressing Lament, lying in the Old Lament at Zone B, ambient and uncelled. It formed from a settlement that was destroyed and then struck off the register of places. It has never woken, never risen, and never been roused by force, and fifty-six buildings in the surrounding ruin are standing because it is dreaming them.
 
 **Entry 2 — <Acoustic Survey, Old Lament>**
-Its dreams spread through Old Lament and nearby ruins. Personnel relive collapse and feel the ground becoming unsafe. Its dreams alter nearby architecture.
+Sound floor across the Old Lament is eleven decibels under the Zone B average and the difference is not accounted for by the discipline alone. Personnel relive a collapse that is not theirs and report the ground as unsafe, which is not figurative; the survey lists 56 structures standing that no plan contains, and personnel are told which of them they are working inside.
 
 **Entry 3 — <Dream Log, Collected Next Day>**
-The exhaustion of grieving a place that can no longer be restored.
+Four of six workers dreamed the same street, which none of them has seen, and two of them drew it. The drawings agree with each other and with a plate from the photographic series taken eleven years ago. The wing's note on the entry says only that the material was forwarded to the district archive and that the workers were told it had been.
 
 **Entry 4 — <Containment Notice>**
-Management: Do not wake it; reduce noise and acknowledge the dead. Work response — Flerehan: The figure sleeps more peacefully and the ruins settle. (Decrease); Pugnahan: The dream shifts into a destructive collapse. (Increase); Viderehan: Reveals the settlement's final day. (Stable); Ferrehan: Tests whether the worker can remain near sleeping grief. (Decrease). It is calmest when mourned quietly.
+Management: do not wake it, hold the sound floor, and read the settlement's dead aloud — by name from the Struck Register where names exist, and by count for the remainder, who are 1,100 of them. Work response — Flerehan: The figure sleeps more peacefully and the ruins settle. (Decrease); Pugnahan: The dream shifts into a destructive collapse. (Increase); Viderehan: Reveals the settlement's final day. (Stable); Ferrehan: Tests whether the worker can remain near sleeping grief. (Decrease). It is calmest when mourned quietly.
 
 **Entry 5 — <Structural Dependency Note, Unresolved>**
+The standing-structure survey now runs to 56 buildings present in the Old Lament that appear on no plan and belong to a settlement the Reconstruction Office struck off in Year 4186. It was 41 at the last review and 29 at the one before. The count tracks the Office's own return of struck-off settlements, which stands at 1,480 and has never gone down, because a striking-off is not reversible. This note is unresolved in the sense that the wing cannot say what the facility is standing on. It is not unresolved in the sense of being unclear.
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
-**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat rating:** Critical (δ). It has never woken, never risen and never pursued anybody, and the grade is carried entirely by what the Old Lament is resting on. Effect: the exhaustion of mourning something that cannot be restored, delivered to personnel in their sleep the night after exposure rather than in the room.
 
 ## 최종 관찰 (Final Observation)
 
@@ -297,7 +298,7 @@ Broken stone rises around a sleeping figure. Its breathing shifts the ruins like
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Lament resolve into something you can name. A sleeping humanoid made from the ruins of an Outside Sorrow settlement. It weeps while resting beneath broken structures.
+**At first contact:** The Old Lament is quieter than it should be, which workers notice before anything else, and the quiet is partly discipline and partly the place. The figure is where it was: lying among the rubble, built out of it, breathing at eleven to the minute, wet around the face. Nothing acknowledges an arrival. Nothing has ever acknowledged an arrival.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Lament that the entity embodies. Understanding it does not make it easier.
 
@@ -309,7 +310,7 @@ Broken stone rises around a sleeping figure. Its breathing shifts the ruins like
 
 Repose does not exist in isolation. Its recorded relationships with The Broken Ruin, Fading Ruin, The Sleeping Wall should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish the solo baseline across several quiet cycles — breathing rate, posture, the standing structure survey — before any second holding is brought near, and note that the Old Lament is ambient rather than partitioned, so some interactions have already been running for years without being recorded as such. The variable specific to this entity is noise: any holding that produces sound, movement or alarm is interacting with it continuously regardless of distance. Log separation, duration, gauge movement, the acoustic record, and whether the dream-sustained structures altered during contact. The last of these has moved twice and both occasions were attributed to something else at the time.
+**Interaction method:** Baseline across several quiet cycles — breathing, posture, the standing-structure survey — before anything is brought near, and note that the Old Lament is ambient rather than partitioned, so several interactions have been running for years without being recorded as such. The variable here is noise: any holding that produces sound, movement or alarm is interacting with this one continuously, at any distance. Log the acoustic record and the survey; the survey has moved twice and both movements were attributed to something else at the time.
 
 
 ### Entity Interaction Record
@@ -318,27 +319,27 @@ This holding lies ambient in the Old Lament rather than in a cell, among a numbe
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Broken Ruin** | Shares the memory of destroyed settlements. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Fading Ruin** | Carries its fragments into waking space. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sleeping Wall** | Both protect sorrow through sleep. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Broken Ruin** | Holds the same kind of memory and holds it awake. Material from this one's dreaming has twice matched the Broken Ruin's independently, which is the only external corroboration the dream series has. | Information exposure, both ways, with no gauge movement on either side. | Record the matched items by plate number, and send both accounts to the district archive unreconciled. |
+| **Fading Ruin** | Takes dreamed material out into waking space, where it persists for some hours instead of vanishing with the dream. | The only route by which anything from this holding has left it. Two structures on the survey began this way and have stood since. | Record which material crossed, how long it held, and whether it is still standing at the next survey. |
+| **The Sleeping Wall** | Both sleep and neither acknowledges the other in any session; the Wall's boundary does not form here and the figure's breathing does not alter. | A null, recorded six times. The wing keeps running it because the two are catalogued as a pair and the pairing has never earned the description. | Record the null and the breathing trace, and note that no boundary was formed. |
 
-**Interaction procedure:** Record the separation at first response, the duration, the gauge movement, the figure's breathing throughout, the peak sound level reached, and the structural survey before and after. Whether the effect persists is assessed on the buildings, which are the only part of this encounter that keeps a record by itself.
+**Interaction procedure:** Separation at first response, duration, gauge, breathing throughout, peak sound level, and the structural survey before and after. The buildings are the only part of the encounter that keeps its own record, which is also the reason the survey is taken by two parties who do not confer.
 
 ## 이야기 (Narratio) — The Tale
 
 The settlement collapsed, and the last survivor, unable to restore it and unable to stop mourning, lay down with the ruin and slept, and the sleeping, accepting both the grief and the ruin, became permanent.
 
-The settlement was in the path of an Outside Sorrow surge — the wild Han, the Desolate's catastrophe, the force that consumes settlements and scatters their inhabitants. The settlement collapsed. The structures fell. The community was destroyed. And the last survivor — the one who had been outside when the surge hit, the one who returned to find everything gone — carried the ruin.
+A surge took the settlement: the wild Han, the Desolate's ordinary catastrophe. The structures came down, the community was destroyed, and one person who had been away that morning walked back into it. What happened next is the part the Testimonium leaves out. A survey party came, found the ground unsafe in the way ground is unsafe after it has surged once, and the Reconstruction Office struck the settlement off — condemned, removed from the register of places, no permit to issue, no relief payable to the address, nobody to be registered as living there and nobody to be recorded as coming from there.
 
-The survivor mourned. Not briefly — exhaustively, the way a person mourns when the mourning is all that remains, when the thing mourned is everything and the mourner has nothing else. The survivor sat in the ruins. The survivor tended the wreckage. The survivor tried, futilely, to restore what the surge had destroyed — a wall here, a doorway there, the gestures of someone who cannot accept that the restoration is impossible. And the trying, sustained past the point of reason, past the point of physical capacity, exhausted the survivor past the point of waking.
+The striking-off is a good power and the figures behind it are not arguable: in the twenty years before it existed, 3,900 people died returning to ground that had already surged, rebuilding on it because it was theirs and nobody could stop them. Since the power, that number is nine. It saved thousands of lives and it is the reason the survivor could not go back, could not rebuild a wall or a doorway, could not be given an address, and could not write the settlement's name in the origin field of any form in the city. The relief register has her as an arrival from nowhere. She asked to be allowed to sleep.
 
-The survivor slept. Not metaphorically — the survivor, unable to restore the ruin and unable to stop mourning, lay down beside the wreckage and slept, and the sleep, accepting both the grief and the ruin, became permanent.
+So she slept, beside a ruin she was forbidden to repair, in a place that was no longer a place. And the dreaming did what she was not allowed to do: it put the buildings back up. Twenty-nine of them, then forty-one, now fifty-six, standing in the Old Lament, on no plan, accurate to a settlement the register says never continued to exist.
 
 Repose is Subject-Lament: the figure of a settlement's last survivor, sleeping beside the ruin — the exhaustion of grieving a place that cannot be restored, preserved as a sleep that holds both the sorrow and the thing the sorrow is for. The Ruin sleeps because the mourner sleeps — because the grief was so total, so sustained, so beyond what a person can carry while waking, that the only option was the sleep that holds the weight the waking cannot.
 
-Those who come near the Repose feel the specific exhaustion of unresolvable grief — the fatigue of mourning something that cannot be fixed, of carrying a sorrow whose object is permanently destroyed, of the specific, bone-deep weariness that comes from grieving past the point of endurance and finding, in the sleep, the only rest the grief will allow.
+Those who come near feel the exhaustion of mourning a thing that has been correctly abolished: no site to stand on, no address to grieve at, no origin to claim, and no fault anywhere in the chain. Workers report the fatigue the following night rather than in the room, which the wing has stopped trying to explain and simply collects.
 
-Some sorrows mourn a place. Repose mourns the inability to stop — the grief so sustained it required sleep, the ruin so total it could not be left, the survivor who lay down beside the wreckage and slept because waking, for a grief this complete, was no longer possible.
+Some sorrows mourn a place. This one mourns a place the city struck off its register for good reasons, and goes on rebuilding it in its sleep, accurately, year after year, in a district that is quietly learning to stand on the result.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The last survivor could not restore the ruin and could not stop mourning. She lay down beside it and slept.”* — Keeper, Archive
@@ -352,22 +353,22 @@ Some sorrows mourn a place. Repose mourns the inability to stop — the grief so
 > *“The exhaustion of unresolvable grief. Waking was no longer possible.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-844 [N]` · Lament · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `O-IVδ-844 [N]` · Outside origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Lament manifestation
 **Common Name:** Repose
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Critical (δ). Facility-threatening by dependency rather than by aggression: the Old Lament is partly held up by this entity's dreaming, the activation threshold is 1, and there is no recorded recovery procedure for the one event the whole protocol exists to prevent.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Flerehan is the primary work and Ferrehan the alternate, both conducted below the sound floor by the smallest practicable party. Pugnahan turns the dream destructive and is prohibited.
+- There is no cell and there will not be one, because building it would make the noise. Containment is the sound discipline, the names read aloud, and nothing heavy being dropped in the Old Lament.
+- The standing-structure survey is taken every cycle against the pre-collapse plans and lists what would go if it ever woke. Personnel working in those buildings are told which ones they are.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- Structures standing that are not on any plan: 29, then 41, now 56.
+- Breathing has held between ten and twelve to the minute throughout the record. It is the first reading taken and the last.
+- Extraction is by hand, without powered tools, by the smallest party that can do it, and is abandoned at the first change in the breathing.
+**Cross-References:** The Broken Ruin · Fading Ruin · The Sleeping Wall · the Memory Archive transfer · the striking-off power · the Struck Register
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** The last survivor of a struck-off Outside Sorrow settlement, recorded once in the Desolate relief register as an arrival with no registered origin, who declined shelter and asked to be allowed to sleep.
 
 ### Registry Addendum
 
@@ -405,6 +406,34 @@ Observation is conducted without light where possible, using the gallery's low s
 Architectural detail recovered from the dreaming is passed to the district's own archive rather than retained by the facility, in the same way the Archive receives the fluid, and the transfers are made as the material is confirmed rather than held for an annual return. Two buildings documented this way had no surviving record anywhere before the dreams produced them. The district archive's acknowledgements are kept in the file and are longer than the transmittals they answer, which the wing's archivist has noted is the only correspondence in the holding where the other party writes more than the facility does.
 
 Confirmations from district sources are entered against the relevant photographic plate rather than in a separate schedule, so that the dream and the evidence for it sit on the same page. The practice makes the photographic series slow to consult and was adopted anyway, on the archivist's argument that a reader should not be able to look at the reconstructions without also seeing which of them turned out to be true.
+
+### What the Standing-Structure Count Is Measuring
+
+Fifty-six. It was forty-one, and before that twenty-nine. The survey is walked each cycle against the pre-collapse plans by two parties who do not confer, and it counts the buildings standing in the Old Lament that appear on no plan and belong to a settlement that has not existed for fifty-two years. Nothing else about the holding moves: breathing between ten and twelve, the same posture, the same position, the same figure.
+
+It tracks the Reconstruction Office's return of **struck-off settlements**: 1,480 of them, none ever restored, because a striking-off cannot be reversed. A site is struck off when a survey finds the ground unsafe — which, after a surge, it generally is — and the consequences are total. No permit may issue for the site. No relief is payable to the address. No person may be registered as living there, and no person may enter the place in an origin field, because an origin field names registered places only.
+
+The power is right and the arithmetic is not close. In the twenty years before it existed, 3,900 people died going back: returning to their own ground, rebuilding on it, and being taken by the second surge that the survey had predicted and had no means of preventing. Since the power, nine. Every clerk who refuses a permit for a struck site is saving a life they will never meet, and the Office knows exactly how many.
+
+Its consequence is a class of grief with nowhere to be. The dead of a struck settlement have no burial ground that can be maintained, since maintenance requires access and access requires a permit. The survivors have no address at which to be from, and their records read *no registered origin*, which is accurate. And the thing lying in the middle of the Old Lament, which was the last of them, spends its sleep putting the buildings back up at a rate that rises every year the struck-off return rises. The facility has been building on the result for two decades without writing it down as a risk, which is the admission that stands in the Registry Addendum.
+
+### The Struck Register
+
+Instituted Year 4194, after a petition from the Desolate relief officers and three successive Reconstruction Office returns recommending it.
+
+It is a commemorative register and nothing else. It records every struck-off settlement by its former name, with its site reference, the date of striking, and such of its dead as can be established. It confers nothing and the first page says so: it is not evidence of title, grants no right of access, supports no permit application, cannot establish an origin, and cannot be cited in any proceeding about land. A name in the Struck Register is a name in a book.
+
+Year 4237: 1,480 settlements; 212,000 names; 0 sites restored; 0 permits issued on the strength of an entry; 870 applications to have a struck settlement entered as a person's registered origin, all refused. The entries are compiled from relief registers, muster rolls and whatever the survivors brought with them, which for most settlements is very little; this one has 411 names against an estimated 1,511 dead.
+
+The relief officers asked, in Year 4212, for the one concession that would have cost nothing on its face: that a struck settlement's name be permitted in the origin field, marked historic, so that a person could at least be recorded as coming from somewhere. Refused, and the reasoning holds. A place that can be named in a register of persons is a place the registers acknowledge; an acknowledged place attracts applications, claims and eventually permits; and the whole force of a striking-off is that the site has been removed from every system that could let anybody back onto it. The officers' submission stands in the Year 4213 return, recorded as correct and unanswered, and the wing keeps a copy in the observation gallery.
+
+### From Count to Names
+
+The management condition has always required that the settlement's dead be acknowledged aloud, and for eleven years the facility did it by count, because the file held no names. The Struck Register was consulted in Year 4229 by a specialist who had been reading it for an unrelated reason, and it had 411 of them.
+
+The practice since: at the close of every cycle the worker reads the 411 names aloud, below the sound floor, in the order the Register prints them, and then states the remainder — *and one thousand one hundred more, not recorded* — which is the part the wing insisted on keeping. The reading takes about forty minutes. The gauge falls nine to sixteen points and holds for several weeks. The breathing does not change. The standing-structure count does not change.
+
+Three instructions. Read every name; a part-read list has produced a change in the breathing on the one occasion it was tried, and the cycle was abandoned. Say the remainder aloud and do not round it. And do not read from a copy made in the chamber: the Register's own printing is carried in and carried out again, because a facility transcript of those names would be a facility record of a struck settlement, and the wing has declined, in writing, to create one.
 
 ## Trivia
 
