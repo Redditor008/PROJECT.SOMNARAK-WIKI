@@ -88,8 +88,8 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Frozen Fury's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** There is nothing to fight and nothing to move; the fragment weighs what a building weighs. The team reads the edge glow in the dark bay against the step wedge, works Viderehan and Ferrehan only, and states aloud at the start of the cycle who cleared the district. That sentence is part of the procedure and is minuted.
+3. **Resolution:** The cycle ends when the luminance reading agrees twice, the week's district paperwork is attached, and the margin of original ground has been swept by hand. There is no suppression step. The fragment has never harmed anybody and the holding has twice refused to pretend otherwise in order to justify its budget.
 
 ### Consequences
 
@@ -108,7 +108,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Immovable. It is not fixed in place by containment; it simply cannot be moved, and the two attempts are recorded in the engineering file. What varies is the luminance along the fracture edges, read in darkness against a step wedge at one metre, and that reading is the record.
 - **Element signature:** Void
 - **Registered location:** Zone C, Collector's Row
 
@@ -117,19 +117,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Immovable; two attempts are on record and neither shifted it. Only the edge luminance varies. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Identification** | Verify against the SECC code before work or contact begins; the markers are the absence of any interior temperature and the heatless crimson glow at the fracture edges. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Kill the bay lights and read the fracture edges against the step wedge at one metre; the glow is crimson, silent, and gives no heat, and the reading is meaningless in any other condition. Log the dimensions, the interior temperature, which no instrument returns a value for, and the state of the margin of original ground.
 
 ## Origin
 - **Formation:** The Ruin formed from a place emptied by institutional violence.
 - **The Sorrow:** The rage of a home destroyed while its residents were still being blamed for its loss.
 - **The Event:** A Collector-controlled district was cleared and frozen in memory after its residents disappeared.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+- **The People:** The residents of the cleared district, held in an open register compiled from municipal rolls, tenancy records and family submissions. It is incomplete and says so on its first page. Submissions are added without verification where verification is impossible, the standing instruction being that the burden of proof will not fall on the families of people the city failed to write down properly.
+- **Expanded origin context:** The district was cleared over nine days by Collector contractors acting under a Row warrant, and the residents are unaccounted for. The municipal entry for the clearance, which is the only official account, runs to one sentence and is written without an agent: the district was vacated and the structures came down. Both halves are true. Neither names anybody, and the subsequent tenancy notes describe the former residents as having abandoned their premises, which on the dates given they could not have done. The fragment is what was left standing at the corner of the ninth day.
 
 ## Behavior
 
@@ -147,7 +147,7 @@
 
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Frozen Fury is recorded as an Object/Place with Object-Grudge manifestation and Void elemental expression. The current record places it at Zone C, Collector's Row; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** A falling reading means the week's paperwork named an agent. Stability under Viderehan is correct. The edges brighten on documents that describe the district as vacated, abandoned, or emptied with nobody doing the emptying, and the two brightest readings on record both followed entries that were, grammatically, entirely proper.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -160,7 +160,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Duration:** Until contact ends.
 
-**Risk:** The worker may become emotionally fixed in the ruin's final moment.
+**Risk:** The worker may become fixed in the ninth day; four have been withdrawn from the rota for it and all four returned.
 
 ### Tool Use Profile — I-Relic
 
@@ -172,24 +172,24 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Primary Effect** | Displays the lives and injustice attached to the structure. |
 | **Duration** | Until contact ends. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
-| **Risk** | The worker may become emotionally fixed in the ruin's final moment. |
+| **Risk** | The bearer remains in the final hour of the clearance and reports it in the present tense. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The lens functions only while mounted on the bearer and only inside the bay; carried past the margin of original ground it shows an empty street. It cannot replace scheduled Work Types, and no worker may use it in place of reading the register, which three have attempted.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Frozen Fury rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Frozen Fury activates its primary resonance: Displays the lives and injustice attached to the structure. Grants +10% resistance to Void damage while equipped. |
-| 30 Seconds | The artifact was born from the rage of a home destroyed while its residents were still being blamed for its loss; the bearer begins perceiving echoes of a collector-controlled district was cleared and frozen in memory after its residents disappeared. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the rage of a home destroyed while its residents were still being blamed for its loss; the bearer begins perceiving the ninth day of the clearance from inside a doorway that no longer exists. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Frozen Fury begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Frozen Fury too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may become emotionally fixed in the ruin's final moment. |
+| 2 Minutes | To wear Frozen Fury too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer continues to describe the clearance as happening now. |
 
 ### Escalation Notes
 
 The escalation pattern is specific to Frozen Fury: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Read the edge luminance, attach the week's clearance and tenancy paperwork from the district, note any document that assigns the loss to the people who suffered it, and sweep the margin. There is no perimeter to establish; the fragment has never extended past the bay floor.
 
 ### Detailed Activation Record
 
@@ -199,10 +199,10 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 | **Manifestation** | Object-Grudge |
 | **Primary effect** | Displays the lives and injustice attached to the structure. |
 | **Duration / rate** | Until contact ends. |
-| **Risk** | Critical (δ) Object-Grudge producing Void pressure; The worker may become emotionally fixed in the ruin's final moment. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Risk** | Critical (δ) Object-Grudge producing Void pressure; the bearer is fixed in the ninth day and speaks of it as current. |
+| **Management** | Read the edges weekly, and ensure every clearance entry filed by this facility names the party that carried out the clearance, in the active voice. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** edge luminance → who touched it or attempted to move it → what was shown and whose lives were in it → the week's district documents and how each phrased the cause → the state of the margin. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -221,12 +221,12 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** Primary 100% → first pierced target 70% → second 50%; the lens is a line weapon and the holding notes that it was designed to be aimed down a street.
+**Damage Application:** Apply the multiplier to direct and Tick damage separately. Log the Tick against the bearer as well as the target, since this one is paid in both directions.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Frozen Fury's void signature in the strike.
+**Ability:** Void damage to the soul. The lens shows the target the street as it stood and the street as it was left, in that order, and the damage is done between the two images.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small, nameless memories, beginning with the names of streets they grew up on.
 
 ### M.A.W. Suit — Frozen Fury Veil
 
@@ -242,9 +242,9 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Frozen Fury's kind of pressure.
+**Ability:** Turns Void aside from the soul. The suit is what allows a worker to stand in the bay through a full reading without being fixed in the final moment of the clearance.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves, and reads official language with an accuracy that colleagues find difficult.
 
 ### M.A.W. Stigma — Frozen Fury Bracelet
 
@@ -254,13 +254,13 @@ The escalation pattern is specific to Frozen Fury: it is not a generic breach ev
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to work against the Frozen Fury itself, and nothing elsewhere on Collector's Row.
 
 **Ability:** Makes the wearer nearly invisible to emotional attacks.
 
 **Cost:** The wearer absorbs sorrow whenever they calm another person.
 
-*Stigmas are granted at random by Frozen Fury upon a successful work, not manufactured.*
+*The stigma is not manufactured. It is given to a worker who named the agent of the clearance in a document that did not require it, and has never been given for a reading alone.*
 
 ### M.A.W. Use Notes
 
@@ -294,10 +294,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Frozen Fury as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone C, Collector's Row. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or attempts to move the ruin. Effect: Displays the lives and injustice attached to the structure. Duration: Until contact ends. Risk: The worker may become emotionally fixed in the ruin's final moment. Tool Use Profile — I-Relic Operational Rule: At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or attempts to move the ruin. Effect: Displays the lives and injustice attached to the structure. Duration: Until contact ends. Risk: the bearer is fixed in the ninth day. The lens works only inside the bay. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Frozen Fury's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Record the edge luminance before and after, the week's district documents with the phrasing of each, who entered the bay and what they said at the start of the cycle, and the state of the margin. The condition that ends the encounter is the second reading agreeing. Appearance is diagnosis, not prediction.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -305,17 +305,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Frozen Fury (C-IVδ-668 [O]) is logged as a Object-Grudge manifestation expressing Void. The Ruin formed from a place emptied by institutional violence. Held at Zone C, Collector's Row. It is not physically movable.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-It responds strongly to Collector activity.
+**Entry 2 — <District Return: Eighty-Seven Documents, Nineteen With an Agent>**
+Documents filed in the district in 4238 describing the clearance or its aftermath: eighty-seven. Naming the party that carried it out: nineteen. Written without an agent — vacated, abandoned, emptied, lost — sixty-eight. Edge luminance, read in darkness against the step wedge: lowest in the fortnight following the wing's nineteenth letter, which was copied to the municipal registry and compelled a correction; highest in the week the tenancy notes were reissued in tidied language. The fragment did not move, warm, or crack in either fortnight. Nothing about it is dramatic.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The rage of a home destroyed while its residents were still being blamed for its loss.
+**Entry 3 — <Statement of a Specialist Who Made Contact>**
+"I touched it, which I was not supposed to do, and I was in a doorway on the ninth day. What I want on the record is not the fear. It is that I was furious and the fury was not mine and it was completely reasonable. I came out of it and went and read the municipal entry, which I had read before and thought nothing of, and it says the district was vacated. Somebody vacated it. There is a person who signed something, and a crew who were paid, and a Row office that issued a warrant, and the sentence has none of them in it, and I had read that sentence four times without noticing."
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the history beneath the ruin. (Stable); Ferrehan: Tests whether the worker can remain among absent lives. (Decrease). Personnel feel rage before fear.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+**Entry 5 — <Director's Memo, Eyes Only: On Writing in the Active Voice>**
+This facility now writes clearances in the active voice. Every entry it files naming a cleared district must name the party that cleared it and the warrant under which they acted, and the quarterly list is published. The Directorate's objection is recorded and is not a matter of squeamishness: the parties to be named are Collector houses this facility negotiates with weekly, over salvage rights, over access to the Row, over the recovery of people who are still alive, and naming them in a published document costs this facility leverage it uses on behalf of the living. That objection has never been answered. It was overruled on the single ground that the fragment's reading has fallen exactly nineteen times in two centuries, each time against a sentence with a subject in it, and that the wing cannot hold a place in custody while writing it up in the language that emptied it. The correspondence to the Collector offices continues. Four pages have come back, three of them acknowledgments of receipt, and the wing has stopped expecting an answer and has not stopped writing, on the view that a sequence of unanswered letters is itself a record and will outlast the people currently declining to answer them.
 
 **Threat rating:** Moderate. The Ruin rages in cold stasis. Effect: proximity induces fury of the wrongly blamed.
 
@@ -338,7 +338,7 @@ The ruin sits in the Collector's Row like a piece of winter. Its walls are broke
 
 **With continued exposure:** With time the Object-Grudge becomes less a presence and more a climate — the Void is no longer an event but an environment, something you exist inside rather than encounter.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or attempts to move the ruin. Effect: Displays the lives and injustice attached to the structure. Duration: Until contact ends. Risk: The worker may become emotionally fixed in the ruin's final moment. Tool Use Profile — I-Relic Operational Rule: The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or attempts to move the ruin. Effect: Displays the lives and injustice attached to the structure. Duration: Until contact ends. Risk: the bearer is fixed in the ninth day. The lens works only inside the bay. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
 
 **After departure:** The containment boundary holds the Object-Grudge, but not the memory. Void residue settles into the bones like Han into the city's foundations.
 
@@ -346,12 +346,12 @@ The ruin sits in the Collector's Row like a piece of winter. Its walls are broke
 
 Frozen Fury does not exist in isolation. Its recorded relationships with The Vanished Ruin, The Debt Wall, The Broken Mirror should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Document it alone first, with the district's paperwork alongside, since that is the variable. In shared conditions log the edge luminance and whether the other record altered it; nothing in the wing has yet lowered it, and the holding records that the only measure that has ever lowered it is a sentence with a subject in it.
 
 
 ### Entity Interaction Record
 
-Frozen Fury must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+It is filed with the Collector's Row records. The relationships below are what the archive will support. They are not alliances; each is a record of something the Row did to people who had no standing to object, and in proximity this one's edges brighten and nothing else changes.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -401,7 +401,7 @@ Some sorrows mourn destruction. Frozen Fury mourns the injustice heaped on the d
 - A Collector-cleared district, frozen in memory, residents blamed for the loss.
 **Cross-References:** Zone B · The Collectors · The debt system
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** Residents of a Collector-cleared district.
+**Originator:** The residents of the cleared district, held in the open register described in the Origin section. The register is incomplete, the incompleteness is stated on its first page rather than at the back, and the archive considers the poor record-keeping of the clearance to be part of the account rather than a footnote to it.
 
 ### Registry Addendum
 
@@ -449,8 +449,8 @@ The bay's floor was poured around the fragment rather than under it, leaving the
 
 - **Classification detail:** Frozen Fury is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone C, Collector's Row.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it by the temperature and the edges. It is a slice of a building in black crystal, cold in a bay that sits under Forge heat, with no measurable interior temperature, and its fracture edges carry a silent crimson glow that gives off no heat at all and can only be read in darkness.
+- **Record detail:** Check the designation before approach. The Row holds several records of what was done there, and they differ in what they ask of the reader — the Floating Fragment requires that a missing-person file stay open, while this requires that a document name who emptied the district, which is a different sentence and a more expensive one.
 - **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

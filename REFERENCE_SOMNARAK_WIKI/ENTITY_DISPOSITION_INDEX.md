@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **66** |
-| Pending — no disposition-bearing line found by scan | 237 |
+| **Classified here, with a quoted line of evidence** | **67** |
+| Pending — no disposition-bearing line found by scan | 236 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 66 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 67 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 237 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 236 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -77,6 +77,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Echo Compass | `SE-C-IIIβ-016` | *"A successful cycle quiets the needle for a shift. The entity is unchanged by this, and the next operative will see their own heading."* |
 | Survivors' Breath | `SE-O-IVδ-895` | *"A completed cycle settles the Sigh around the worker and quiets it for a time. Nothing is resolved by this."* |
 | Crucible | `SE-C-IIIβ-275` | Resolution: *"Cool the anger through naming and controlled work."* A furnace that became conscious, and stayed in its forge. |
+| Frozen Fury | `SE-C-IVδ-668` | *"The fragment has never harmed anybody and the holding has twice refused to pretend otherwise in order to justify its budget."* Immovable, bounded by the bay floor; in proximity to other Row records *"this one's edges brighten and nothing else changes."* Neutral. |
 | Mourner's Bloom | `SE-C-Iα-330` | *"has never damaged a wall or a door"*; on breach it walks to the nearest grieving person and takes one moment. In Echo Gardens joint sessions *"this entity has taken nothing"* — no effect on other entities either way. Neutral. |
 | Seething Tundra | `SE-C-Iα-884` | Inert: *"the shard has never been warmer than the room"*; the only recorded harm is eleven misattributed angers. In Echo Gardens joint sessions *"the tear count has risen in every joint session"* — it absorbs, it does not assist. Neutral. |
 | Door to Nowhere | `SE-O-IIβ-922` | *"the door is not an exit and treating it as one is the only way it has ever caused harm"*; it appears, is logged, and withdraws. With the Exile's Gate the handle rises sixty centimetres higher — resonance recorded, no assistance to any breach. Neutral. |
