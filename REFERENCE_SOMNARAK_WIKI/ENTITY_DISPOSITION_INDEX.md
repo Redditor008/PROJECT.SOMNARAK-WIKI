@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **156** |
-| Pending — no disposition-bearing line found by scan | 147 |
+| **Classified here, with a quoted line of evidence** | **157** |
+| Pending — no disposition-bearing line found by scan | 146 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 156 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 157 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 147 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 146 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -157,6 +157,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Sleeping Weight | `SE-C-IVδ-357` | Breach `Movement`: *"None. It does not rise, does not walk and does not pursue; the breach is the load leaving the chamber upward through the rock."* The one arranged pairing, with The Crumbling Saint, moved only its own floor — *"The Saint's own load did not move; the lower-tunnel floor rose 0.11 standard"* — and the second was refused as an unmodelled load question. It costs the wing an hour a notice, 3,100 notices a year and the ground above it; it reaches no seal and assists no holding. Neutral. |
 | Restless Gap | `SE-C-IVδ-250` | Breach `Movement`: *"It intensifies where it stands and the warped zone grows outward. It does not pursue; in forty years nothing in the record has it approach a person who was not already inside the bend."* The Memory Weaver trial made every exit score in the gallery worse and produced the rule the holding runs on; the Memory Well accident briefly reduced its own bend and nothing else. It consumes sequence baselines and cordon personnel; it reaches no seal and strengthens no other holding. Neutral. |
 | Rift | `SE-C-IVδ-193` | Expansion `Effect`: *"Open rooms divide functionally. People on opposite sides cannot address each other without an argument neither of them started."* It has no breach counter, no pursuit and no injuries in 132 years; the Breach adjacency cost it 0.4 metres of onset rather than the reverse, and the Rusted Wall pairing has been refused twice. It takes ground and cross-line communication from an inhabited district; it assists no holding and reaches no seal. Neutral. |
+| Quagmire | `SE-O-IVδ-168` | Activation `Trigger`: *"New routes destroyed without witness"* — the mass rises with kilometres of road removed from the maps (14.2 → 22.4 tonnes against 2,300 km) and never falls below a previous reading. It has no breach counter, has injured one person in its record, and its two measured pairings cost itself a four-minute bearing swing and eleven unmatched gaits. It consumes survey effort, ground and clerical capacity in Zone A; it aids no holding and touches no seal. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
