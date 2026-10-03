@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A sleeping humanoid carved of black weight-crystal, lying beneath the tunnels, eyes closed, weeping quietly in its sleep. Lead-heavy and cold, it smells of wet stone; it has never woken, and no one is sure it can. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Recumbent — it has not changed posture in the holding's record and has never stood. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan, with the words said at the ladder foot first. Pugnahan is valid on paper and prohibited in practice by standing order. |
 
 ### Operational Notes
 
@@ -71,8 +71,8 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone B, deep tunnels |
-| **Resolution Condition** | Do not wake it; distribute the burden among a team |
+| **Battlefield** | Zone B, lower tunnel, nine hundred metres in, beneath the unfinished works |
+| **Resolution Condition** | Say the words at the ladder foot; do not wake it; do not touch the structure above it |
 
 ### Combat Actions
 
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Sleeping Weight's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The crew works from the ladder foot outward, calling the load reading at each station as they pass it. Pugnahan is listed as valid and has been used twice in the holding's history; both occasions are the two highest readings on record and both are cited in the standing order against a third.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not wake it; distribute the burden among a team**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - An unresolved encounter never simply ends; it transforms. Sleeping Weight executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
-**Primary Form:** A sleeping humanoid figure made of black weight-crystal. It lies beneath the tunnels, weeping in its sleep.
+**Primary Form:** A man-shaped figure of black weight-crystal lying on its side in the lower tunnel, braced as if under a beam that is not there, weeping without waking. **Posture:** unchanged across every photograph the holding has taken of it.
 
-**Notable Features:** Its dreams increase gravity, its tears fall upward, and it awakens when responsibility is denied.
+**Notable Features:** Its sleep sets the local load; its tears leave the face upward; and the only thing that has ever moved the figure is somebody denying, within its hearing, that the collapse was anyone's doing but his.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
-- **Primary marker:** A sleeping humanoid figure made of black weight-crystal. It lies beneath the tunnels, weeping in its sleep.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** A recumbent figure of black weight-crystal beneath the lower tunnel, braced as though under a beam, weeping without waking.
+- **Position / movement:** Recumbent and stationary. It has not changed posture in the holding's entire record, and the only movement logged is the slow rise and fall of the chest.
 - **Element signature:** Weight
 - **Registered location:** Zone B, deep tunnels
 
@@ -115,29 +115,29 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A sleeping humanoid figure made of black weight-crystal. It lies beneath the tunnels, weeping in its sleep. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Form** | A recumbent figure of black weight-crystal, braced under nothing, weeping in its sleep nine hundred metres into the lower tunnel. |
+| **Position / movement** | Fixed. Position against the nine stations is recorded each session and has not altered. |
+| **Material / signature** | Weight. Black crystal, lead-cold, wet stone on the air, and a measurable load gradient that begins at the ladder. |
+| **Distinctive markers** | The bracing posture, the upward tears against the ceiling tray, and the station readings — nothing else in Zone B alters the local load at all. |
+| **Identification** | If the rungs are getting heavier, it is this one. No other holding in the tunnels is heavy on the way down. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the posture against the fixed photographs, the depth of the chest's rise, and the load at the nine stations in the order they are passed. The posture has never changed; recording it unchanged is the finding, and a crew that reports nothing has reported the most important thing in the file.
 
 ## Origin
-- **Formation:** The Weight formed from responsibility carried unconsciously.
-- **The Sorrow:** The grief of doing what must be done without receiving recognition or rest.
-- **The Event:** A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+- **Formation:** From a duty that was lawfully ended and never communicated to the person carrying it.
+- **The Sorrow:** Not sacrifice, and not thanklessness. Release that was served and never received: he was let go at 04:12 and has been holding ever since.
+- **The Event:** The Year 4228 collapse in the lower tunnel. Twenty-nine of thirty-one evacuated; the foreman lived; the thirtieth held the main support nine hundred metres in, under a stand-down notice that had been posted at the head frame and deemed served on him.
+- **The People:** Thirty-one workers on the shift, twenty-nine evacuated, one foreman who gave the order and one who did not come out. The stand-down notice was posted at the head frame at 04:12 and is recorded as served on all thirty-one.
+- **Expanded origin context:** He was released. That is the part of the file nobody reads correctly. At 04:12 the foreman posted the stand-down at the head frame, and under the Year 4190 works instrument a notice posted at the registered place is served on everyone attached to the works, whether or not they are in a position to read it. He was under the beam, nine hundred metres in, holding a support for people who were already out. On the record he was released from duty at 04:12 and remained of his own choosing, and the inquiry — correct on the instrument — found the duty discharged and nobody at fault. He did not know. That is the whole of this entity: a man who was let go and was never told, still holding, still certain the collapse is his.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Remains asleep and its weight becomes gentler. | Decrease |
-| **Pugnahan** | The tunnel grows heavier and the figure stirs. | Increase |
-| **Viderehan** | Shows the task it never believed was complete. | Stable |
-| **Ferrehan** | Tests the worker beneath increasing pressure. | Decrease |
+| **Flerehan** | The sleep deepens and the load at every station eases, by between 0.04 and 0.09 standard. | Decrease |
+| **Pugnahan** | Twice attempted. Both sessions are the highest readings in the record and both are named in the order against a third. | Increase |
+| **Viderehan** | Shows the support as he last had it, and the tunnel behind him already empty. | Stable |
+| **Ferrehan** | The worker stands under the measured load for the full interval and is not permitted to brace against anything. | Decrease |
 
 
 
@@ -148,22 +148,22 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Breach Behavior
 
-> *"Sleeping Weight has broken free. Hunts personnel indiscriminately."*
+> *"Load at station one is off the sheet. He has not moved. Nobody is being hunted — get the works above cleared."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Sleeping Weight breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
-| **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | None. It does not rise, does not walk and does not pursue; the breach is the load leaving the chamber upward through the rock. |
+| **Effect** | Load rises everywhere above him at once, heaviest directly overhead, where the unfinished works stand. |
+| **Secondary Effect** | Personnel at every level report a duty they are failing to discharge and cannot name. Reports come in from people who have never been in the tunnel. |
+| **First Target** | Nobody. There is no target in this holding's record and the response card is drawn from that absence: clear the works, do not deploy wardens into the tunnel. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape in classification only. It does not leave and has never stood up; what escapes the chamber is the load, which rises through the rock and reaches the works above as weight.
+- **Containment priority:** Clear the works above, then send one person to the ladder foot to say the words. Physical suppression has been tried twice and is the reason the order exists.
+- **Sorrow Gauge on breach:** Opens at 40% and climbs 10% an interval while the load is unanswered. It falls only when somebody at the ladder foot says the words aloud, which is the one intervention in this holding with a measured effect.
 
 ## M.A.W. Equipment
 
@@ -199,9 +199,9 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Allows the wearer to bear immense pressure.
+**Ability:** The wearer carries the measured load without bracing, which is the whole requirement of Ferrehan in this holding.
 
-**Cost:** The wearer cannot recognize when responsibility has ended.
+**Cost:** The wearer cannot tell when a duty of theirs has ended. Supervisors are required to tell them in words, on a schedule, which is the Second Service applied to the suit.
 
 ### M.A.W. Stigma — The Resting Charm
 
@@ -217,7 +217,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Cost:** The bearer moves a little slower.
 
-*Stigmas are granted at random by Sleeping Weight upon a successful work, not manufactured.*
+*The Resting Charm is not issued from stores. It appears in a bearer's pocket after a session in which the words were said and the load fell, and never after one in which they were not.*
 
 ### M.A.W. Use Notes
 
@@ -238,11 +238,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It has never fully awakened.
-- Its dreams alter local gravity.
-- Personnel report longing after exposure, often longing for rest.
+- It has never woken, and the question of whether it can has been left open in the file for ten years.
+- The local load tracks the depth of its sleep: 1.31, then 1.44, then 1.62 standard at the ladder foot across the three surveys.
+- Personnel come up with the same question and most ask somebody before the shift ends: did they get out.
 
-**Personnel Note:** *"It was glowing in the dark. I felt longing—not for the weight, but for the right to sleep beneath it."* — Specialist, Zone B patrol
+**Personnel Note:** *"You say it at the ladder before you go down — the others got out, the works above you was never yours to finish. It feels foolish the first week. Then you watch the station reading drop while you are still talking and you stop finding it foolish."* — Specialist, Zone B patrol
 
 
 
@@ -250,32 +250,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Sleeping Weight as a Subject with Subject-Lament manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone B, deep tunnels. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Sleeping Weight's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The words said at the ladder foot, the incoming load at all nine stations, the posture against the photographs, and the chest's rate. In that order, before approach. |
+| **Sustained observation** | Load at the nine stations, read in passing order, against the chest's rate. Deeper sleep pulls harder; the relation is reliable in direction and has never been reduced to a formula. |
+| **Activation or escalation** | A station reading above the floor figure, or the chest's rate slowing. Either ends the session: the crew states the reading, climbs, and does not return that day. |
+| **Post-contact review** | Outgoing load against incoming, the words as they were actually said and by whom, the tray level, and each worker's answer to the standing question: what duty of your own did you think about down there. The answers are kept and are not read by supervisors. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Load at all nine stations with the time of each reading, the chest's rate, the exact words said at the ladder foot and by whom, and the load again on the way out. The outgoing figure against the incoming one is the session's whole result.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sleeping Weight (C-IVδ-357 [WS]) is logged as a Subject-Lament manifestation expressing Weight. The Weight formed from responsibility carried unconsciously. Held at Zone B, deep tunnels. It has never fully awakened.
+Sleeping Weight (C-IVδ-357 [WS]) is logged as a Subject-Lament manifestation expressing Weight, held in the deep tunnels of Zone B beneath an unfinished works. It has never woken, has never stood, and has never pursued anybody. Its load is measured continuously at nine fixed stations and is the only thing about it that moves.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Its influence rises through the deep tunnels. Personnel feel every duty they have accepted as physical weight. Its dreams alter local gravity.
+**Entry 2 — <Excerpt from Station Returns, Zone B Lower>**
+Ambient load at the ladder foot, in multiples of standard, at the three surveys of record: 1.31, then 1.44, then 1.62. The rise tracks the deemed-service register rather than the calendar; the station sheets and the register's quarterly return have been plotted against each other for nine years and the correspondence has not failed.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of doing what must be done without receiving recognition or rest.
+**Entry 3 — <Excerpt from Counseling Log, Zone B>**
+He keeps asking whether they got out. Not in words — nothing down there is in words — but every worker comes up with the same question in their mouth and most of them ask it of somebody before the end of the shift. The answer is yes. Twenty-nine of thirty-one, and the thirtieth was the foreman, who lived. Saying it out loud is the treatment and also the containment procedure, which is a coincidence the wing has stopped apologising for.
 
 **Entry 4 — <Containment Notice>**
-Management: Do not wake it; distribute the burden among a team. Work response — Flerehan: Remains asleep and its weight becomes gentler. (Decrease); Pugnahan: The tunnel grows heavier and the figure stirs. (Increase); Viderehan: Shows the task it never believed was complete. (Stable); Ferrehan: Tests the worker beneath increasing pressure. (Decrease). Personnel report longing after exposure, often longing for rest.
+Management: say the words at the ladder foot, every crew, every descent, before approach; do not wake it; do not work the structure above it; rotate off after one day. Work response — Flerehan: the sleep deepens and the load eases. (Decrease); Pugnahan: the load spikes and the figure stirs — twice attempted, never again. (Increase); Viderehan: shows the support he was holding and the empty tunnel behind it. (Stable); Ferrehan: the worker stands under the measured load for the full interval. (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+The Second Service is not a gesture and I will not have it minuted as one. Every notice this facility issues to its own people is served twice — posted, which is lawful, and then said to the person by somebody who stays until they answer. It costs us an hour a notice and three thousand one hundred notices a year and I have read every objection to the cost. The register downstairs holds seven thousand four hundred people who were lawfully told and never knew. One of them is in the lower tunnel and the floor is at 1.62.
 
-**Threat rating:** Low. A worker braced beneath a beam, eternally holding. Effect: proximity induces the exhaustion of unrewarded duty.
+**Threat rating:** Critical (δ). It has injured nobody and will not; the grade is load. At 1.62 standard the works above are inside their margin and the margin is not large, and the rating is an engineering figure rather than a judgement about intent.
 
 ## 최종 관찰 (Final Observation)
 
@@ -292,7 +292,7 @@ The tunnel slopes downward toward a sleeping figure. Every step becomes harder. 
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Weight always changes a room. Then the Subject-Lament resolves: A sleeping humanoid figure made of black weight-crystal. It lies beneath the tunnels, weeping in its sleep.
+**At first contact:** The descent does it before you see anything. Each rung is heavier than the last, and the heaviness is not fear — the crew checks, every time, and it is not fear. Then the lamps reach him: a man-shaped thing of black crystal lying braced on his side under nothing at all, weeping steadily, asleep. Nobody has ever described the first sight of him as frightening. The reports all use the word *tired*.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Weight is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 
@@ -302,26 +302,26 @@ The tunnel slopes downward toward a sleeping figure. Every step becomes harder. 
 
 ### Interaction Pattern
 
-Sleeping Weight does not exist in isolation. Its recorded relationships with The Crumbling Saint, The Sleeping Relic, The Grieving Colossus should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Only one of the three recorded relationships has been tested deliberately, and the wing has declined to test a second. In this holding the variable is load and the record is station sheets; anything an interaction does here is visible as a number before it is visible as behaviour, and the number is the report.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Three uncontested sessions of station readings before any second entity is brought within the lower tunnel, because load is the only variable here and a confused baseline cannot be recovered. Then separation, the direction of the load gradient, and whether the other holding's presence changes the chest's rate. The last of those is the measurement specific to this entity and the only one that has ever predicted anything.
 
 
 ### Entity Interaction Record
 
-Sleeping Weight must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Three relationships are on record: one tested, one observed without arrangement, one refused. The refusal is as much a part of the file as the trial, and the reasons given for it are kept with the station sheets rather than in correspondence.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Crumbling Saint** | Shares the grief of endless responsibility. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sleeping Relic** | Both remain dormant around unfinished duties. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Colossus** | Its steps cause the Weight to stir. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Crumbling Saint** | Shares the grief of endless responsibility. | Tested once at ninety metres. The Saint's own load did not move; the lower-tunnel floor rose 0.11 standard and took four days to come back. | Station sheets at every reading, the chest's rate, and days to baseline. |
+| **The Sleeping Relic** | Both remain dormant around unfinished duties. | Untested and not scheduled. Two dormant holdings in one tunnel is a load question the engineers have declined to model. | The refusal and its reasons, per the Zone B standing order. |
+| **The Grieving Colossus** | Its steps cause the Weight to stir. | Observed, never arranged: the chest's rate quickens for the duration of a Colossus transit above ground and settles afterward. No reading has exceeded the floor figure. | Transit times logged against station sheets by the duty engineer. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Station sheets before, during and after; separation at first response; the words said at the ladder foot regardless of what else the session is testing; and the outgoing load against the incoming. No session in this holding is written up without the pair of load figures, whatever else it was for.
 
 ## 이야기 (Narratio) — The Tale
 
-He held the beam, and the others fled, and no one came back, and he died still holding it, still believing the collapse was his fault.
+He was released at 04:12, and the notice was posted at the head frame, and he was nine hundred metres away under the support, and he died holding it.
 
 The tunnel was failing — the supports weakening, the Han seeping through the walls, the structure groaning in the way that structures groan before they give. The workers knew. The foreman ordered an evacuation. And one worker — not the foreman, not the leader, just a worker, strong, dutiful, the kind who does not leave until the job is done — wedged himself beneath the main beam and held it, bracing the failing support with his body while the others ran.
 
@@ -349,19 +349,19 @@ Some sorrows are about sacrifice. Sleeping Weight is about unrecognized sacrific
 > *“He never received the news that the others were safe. He could have let go. He did not know.”* — Elder, Tunnels
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-357 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `C-IVδ-357 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight · Subject-Lament manifestation
 **Common Name:** Sleeping Weight
-**Containment Status:** Contained — Zone D (tunnels)
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. A worker braced beneath a beam, eternally holding. Effect: proximity induces the exhaustion of unrewarded duty.
+**Containment Status:** Contained — Zone B, lower tunnel, beneath the unfinished Rusted Pillar works
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Critical (δ). Nobody has been injured by this entity in the whole of its record and nobody is expected to be. The grade is carried by the load on the works above, which rises with the deemed-service register and has risen at every survey.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type.
-- The worker sleeps; the holding continues in sleep.
+- Ferrehan and Flerehan. Pugnahan is listed as valid, was used twice, and produced the two highest readings in the record.
+- The words are said aloud at the ladder foot by every person descending, including instrument staff, before approach.
 **Observation Notes:**
-- A worker held a beam for others to escape; died holding, unretrieved.
-**Cross-References:** Zone D tunnels · The Rusted Pillar
+- He was released at 04:12 by a notice posted at the head frame and deemed served on him. He was nine hundred metres in, under the support, and did not know.
+**Cross-References:** The Rusted Pillar works survey series · the Year 4190 works instrument · the deemed-service register · the Tunnels Benevolent Fund submission, Year 4231 · the Second Service return
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
-**Originator:** A tunnel worker who held a collapsing beam.
+**Originator:** A tunnel worker, thirtieth of thirty-one on the shift, lawfully released from duty at 04:12 and never told.
 
 ### Registry Addendum
 
@@ -394,10 +394,40 @@ Tears leave the sleeper's face moving upward and collect against the tunnel ceil
 
 A painted line marks the distance at which the sleeper's respiration becomes audible rather than instrumental, and crossing it requires a named authorization from the shift supervisor for each individual crossing. Beyond the line the weeping is clearly a person's. Personnel who have worked past it describe the difference as the whole difference in the posting, and the supervisors who grant the authorizations grant fewer of them than the protocol permits. No supervisor has been asked to account for the shortfall, and the file notes that none is expected to be.
 
+### What the Floor Reading Is Measuring
+
+1.31, then 1.44, now 1.62 multiples of standard load at the ladder foot, across the three surveys of record. The figure is read at nine fixed stations on the way in and again on the way out, and the pair of readings is the session's result.
+
+The rise does not track the calendar, the Tide, or anything the holding does. It tracks the **deemed-service register**: notices lawfully served by posting on persons who were not in a position to read them. The register stands at 7,400 and has never been reduced, because there is no mechanism in the instrument for reducing it.
+
+Deemed service is sound and the file says so plainly. A notice must take effect at a definite moment or nothing can ever be concluded; actual receipt can rarely be proved and can always be denied; and a rule requiring proof of receipt hands every outcome to whoever is hardest to find. Before the Year 4190 works instrument, tunnel inquiries ran an average of fourteen years on the service question alone and 2,600 claims lapsed unheard while they ran. After it, eleven months. Nobody who has read both figures proposes going back, and the Benevolent Fund — which brought the Year 4231 submission — says so in its own first paragraph.
+
+And the consequence is a man nine hundred metres underground holding a support for people who were already out, lawfully released, correctly recorded, never told. The inquiry found the duty discharged and nobody at fault, which was the right finding on the instrument and is also, read from the lower tunnel, a sentence of considerable weight. Seven thousand four hundred entries stand on the register. The floor is at 1.62.
+
+### The Deemed Service
+
+What the register holds is not an error rate. Every entry in it is a notice correctly served.
+
+The instrument's rule is three lines long. A notice affecting a works is served when it is posted at the registered place of the works. Service is effective on posting. Non-receipt is not a ground for setting aside anything done in reliance on service — and that last line is the one that does the work, because without it any decision could be unwound years later by a person saying they never saw the board.
+
+The Tunnels Benevolent Fund asked, in Year 4231, for the narrowest amendment anyone has put to the Office: that where a person is known not to have received a notice *and is known to have died in reliance on not receiving it*, a representative be sent to the next of kin to say, in person, that the deceased had been released and did not know. No compensation. No reopening of the finding. Words, delivered once, to a named family.
+
+Refused, and the refusal is correct. A personal re-service distinguishes between people who were deemed served, and a distinction of that kind is evidence about when the duty ended, and when the duty ended is the only live question in every unresolved claim in the series — 311 of them at the time, with a combined exposure the Office set out in an annexe. The Fund's submission is filed in the Year 4232 return and marked *correct in principle, no action*. It has not been answered since, and the wing keeps a copy at the ladder foot in a frame, where every crew passes it.
+
+### The Second Service
+
+The management line for this holding read *do not wake it; distribute the burden among a team* for six years, which asked a crew to share something that is not transferable and told them nothing about what to do.
+
+What replaced it was drafted in the wing and costs the wing money. Every notice this facility issues to its own staff — rotation, release, discharge from a duty, end of a watch — is served twice. Posted, which is lawful and discharges the obligation. Then said, by a named person who goes to the recipient, speaks the words, waits for an answer in the recipient's own voice, and records who answered. An hour a notice, 3,100 notices a year, and a standing line in the budget that has survived four reviews.
+
+The monthly return of the Second Service is read aloud at the ladder foot before descent, after the words. The gauge falls while it is being read, every time, and falls further on months with no outstanding notices than on months with any. The wing noticed this in the second year and has not published it, on the grounds that a figure which rewards the practice would eventually be managed rather than met.
+
+Three things the practice will not do, each written into it deliberately. It is not retrospective, and the 7,400 remain 7,400. It is not extended to contractors, because the Office's view is that doing so would be an assumption of the duty and the wing's counsel agrees. And nobody is ever told that the Second Service is for the thing in the tunnel. They are told it is because people should be told. Both are true, and the wing has decided which one goes in the letter.
+
 ## Trivia
 
-- Its tears rise instead of falling.
-- It responds to shared responsibility more than to rest alone.
+- Tears leave the face upward and collect in the ceiling tray, which is emptied by hand and has never been relocated.
+- It responds to being told, out loud, that the duty ended — and to nothing else that has been tried.
 
 
 
@@ -405,9 +435,9 @@ A painted line marks the distance at which the sleeper's respiration becomes aud
 
 - **Classification detail:** Sleeping Weight is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone B, deep tunnels.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** The rungs get heavier on the way down. That is the identification; nothing else in the tunnels does it.
+- **Record detail:** Four Zone B holdings are described in their files as burdens. This one is distinguished by what it is holding: not a debt, not a load given to it, but a support that was released at 04:12 by a notice it never received.
+- **Containment detail:** It has never moved and the floor reading has risen at every survey. Containment here limits nothing; it measures, clears the ground above, and sends somebody down to speak.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-357
