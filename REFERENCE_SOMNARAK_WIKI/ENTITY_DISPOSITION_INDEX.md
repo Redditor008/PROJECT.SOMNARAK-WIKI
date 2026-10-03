@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **97** |
-| Pending — no disposition-bearing line found by scan | 206 |
+| **Classified here, with a quoted line of evidence** | **98** |
+| Pending — no disposition-bearing line found by scan | 205 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 97 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 98 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 206 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 205 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -102,6 +102,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Midnight Choir | `SE-C-IIβ-245` | Neutral | Sixty-one years of nightly attendance in a fixed ninety-four-metre corridor: audible field never exceeded, nobody injured or held, no breach, three silencing attempts all survived without retaliation. It sings whether or not anyone is present and has never acted on, assisted or impeded another entity; the two paper pairings are unevidenced and the one proposal to introduce another holding's sound (Singing Stone, Y4233) was refused and never run. Yields F01 a verbatim record only. |
 | Unsaid Blossoms | `SE-C-IIβ-100` | Neutral | Fifty-two years at a fixed grave: boundary unmoved in fifty-two annual surveys, nobody injured or held, no breach, no spread, and the grave itself empty since the Y4209 exhumation. It blooms and sheds whether or not anyone attends, closes on a raised voice, and has never acted on another entity; the Whispering Walls pairing is untestable in principle, the Weeping Statue siting proposal (Y4231) was refused. Yields F01 a daily count and a store it has undertaken never to read. |
 | Apnea | `SE-N-IVδ-159` | Neutral | Twenty-four years standing in a chamber built around the room where it was found: no sound, no movement inside containment, crack pattern unaltered. Three breaches, all at a walking 1.26 m/s, none violent, none fatal, each closed by personnel withdrawing on foot; it has never pursued, cornered or struck. Injuries recorded are flat periods of 1–19 days in its own observers. No cross-entity effect measured; the one combined-shift proposal (Border Lead, Y4230) was refused and never run. Neither assists F01 nor any other entity. |
+| Memory Lake | `SE-C-IVγ-270` | Neutral | Fixed basin under the Echo Gardens; no entry has ever been permitted and nothing has ever been recovered from it. It has injured nobody and held nobody — the documented harm is a flattening that arrives through silence at the stations, managed by pairing and rotation. No transfer to the municipal groundwater detected in sixteen years of joint monitoring; the one cross-entity test (Echo Gardens root transfer, Y4232) was refused and the Memory Weaver pairing is untestable in principle. It receives; it does not act. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
