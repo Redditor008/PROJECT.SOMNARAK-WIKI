@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **154** |
-| Pending — no disposition-bearing line found by scan | 149 |
+| **Classified here, with a quoted line of evidence** | **155** |
+| Pending — no disposition-bearing line found by scan | 148 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 154 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 155 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 149 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 148 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -49,6 +49,7 @@ Dangerous, but the facility is better off with them in it.
 | Weighting Bird | `SE-C-IIIγ-032` | Same trio. Separately: *"the Grudge expression is why Flerehan calms this one where the same approach agitates others in the same block"* — it is the block's low-cost work assignment. **Conditional.** |
 | The Guarding Bird | `SE-C-IIIγ-033` | Same trio, re-evidenced after the file's rewrite: Interaction Record, The Observing Bird — *"With the Weighting Bird also present, all three sing together and the facility quietens — the trio effect, which requires all three and has never been produced by any pair."* The Smothering Mother row still reads *"Recognizes a fellow protector and reaches toward it. Creates or reinforces a defensive boundary"*, now qualified: the joined boundary restricts movement for everybody inside it, so the benefit is to containment and not to personnel. **Conditional** — on the trio, never on the bird alone. |
 | The Silent Child | `SE-N-Iα-025` | Interaction Record, The Smothering Mother: *"She holds it, and she opens the hold herself after about four minutes — the only grip she has ever released unprompted"* — *"Her reach interval lengthens for roughly a week."* It measurably slackens a Negative δ-grade holding and the effect is one-directional. **Conditional** — only in the Mother's presence; alone it suppresses nothing, attacks nobody, and the Kind Healer and Orphaned Bell pairings move neither gauge. |
+| The Forgotten Soldier | `SE-N-IIβ-033` | Interaction Record, The Maw: *"Observed during a Maw expansion: he placed himself on its edge and held, and the expansion's leading face did not pass him for nine hours. Not repeatable on request and never requested."* He is a β-grade Echo whose breaches destroy doors and frames and approach nobody — *"in every logged breach he has passed personnel without altering course"* — and whose one measured cross-entity effect is holding the edge of a catalogued Negative. **Conditional** — it has never been arranged, cannot be ordered, and the facility has no mechanism for asking. |
 | The Last Warmth of Forty-Two | `SE-O-IVδ-515` | Interaction Record, The Frozen Shard: *"The ice on the shard melts slightly; temperature stabilizes in both rooms. Reduces work difficulty by 1 tier."* |
 | A Letter Never Sent | `SE-C-Iα-114` | Interaction Record, Survivor's Span: *"Calms both entities; reduces work difficulty."* Resolution Condition holds a *"single-use emergency benediction"* — a Positive that can be spent exactly once. |
 | The Magistrate's Strike-Through | `SE-N-IIβ-319` | Interaction Record, The Debt Scale: *"Stabilizes both entities during routine shifts; lowers work difficulty."* |

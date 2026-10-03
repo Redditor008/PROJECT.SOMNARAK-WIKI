@@ -31,17 +31,17 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · β (Moderate) |
+| **Tool / M.A.W. grade** | β · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan, with the words available to anybody present and required of nobody. |
 
 ### Operational Notes
 
-- Threshold of 3 leaves two failed cycles of margin; the third failure produces a direct breach attempt rather than the gradual escalation seen elsewhere in this class.
+- Threshold of 3. Two watches may pass unacknowledged; the third arms a direct breach attempt, and the window the three watches occupy has shortened from 31 days to 16.
 - Pressure is physical and structural. Containment damage concentrates on doors and load-bearing frames rather than on personnel.
-- The salute is the reliable de-escalation. Workers who return it record a falling gauge; workers who ignore it record no change at all.
-- Confrontation does not defeat the entity so much as satisfy it. It attacks until acknowledgment is given, then stops regardless of damage dealt or received.
+- The salute is the reliable de-escalation, and only when undirected. Workers who choose the words record a falling gauge; workers reading them from an instruction record nothing, which was established by trial rather than by argument.
+- Confrontation satisfies rather than defeats him. He stops at acknowledgement, mid-exchange, whatever the state of either side — logged eleven times, never once otherwise.
 - Yield is highest on cycles that end in acknowledgment rather than suppression; suppressed cycles return roughly half the Han-Energy.
 
 ## Combat Record
@@ -66,7 +66,7 @@
 |---|---|
 | **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats a single pattern: seeking acknowledgment |
+| **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Forgotten Soldier's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is no clash in this holding unless somebody starts one. The crew stands the interval, the words are said or not said by whoever is there, and the gauge is read before and after. Pugnahan ends every session it is used in and returns half the yield.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns**.
 
 ### Consequences
@@ -98,7 +98,7 @@
 - Failure to achieve resolution triggers Forgotten Soldier’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
 
 ## Appearance
-**Primary Form:** A translucent, flickering warrior in armor from an unidentified ancient era. He stands perfectly at attention and carries no visible weapon unless provoked.
+**Primary Form:** A half-phased warrior in pre-Structuring plate, at attention, unarmed unless struck at. **Facing:** toward the old Zone E boundary line, checked against the survey and found to agree.
 
 **Notable Features:**
 - The armor dates to the Pre-Structuring era, more than 4,000 years old.
@@ -109,8 +109,8 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
-- **Primary marker:** A translucent, flickering warrior in armor from an unidentified ancient era. He stands perfectly at attention and carries no visible weapon unless provoked.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** A half-phased warrior in pre-Structuring plate, at attention, weaponless, facing the old Zone E boundary line rather than the room.
+- **Position / movement:** Eighteen hours at attention on the same spot, six hours patrolling a fixed route in corridor 7-C. Bearing and facing are logged each watch and have never varied.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-02, Zone B — contained corridor 7-C
 
@@ -118,34 +118,34 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A translucent, flickering warrior in armor from an unidentified ancient era. He stands perfectly at attention and carries no visible weapon unless provoked. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Form** | A flickering armoured figure, half solid and half light, standing a watch that ended before the present record began. |
+| **Position / movement** | Eighteen hours at attention, six on a fixed route; facing logged every watch and never once changed. |
+| **Material / signature** | Grudge. Cold off the plate, old smoke on the air, and a face that has never resolved in any light the facility has tried. |
 | **Distinctive markers** | The armor dates to the Pre-Structuring era, more than 4,000 years old. His erased history appears as a clean gap in memory records. He salutes anyone who says, “I remember you.”. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Identification** | Pre-Structuring plate, at attention, facing a wall. Nothing else in Zone B stands a post. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the facing against the old boundary bearing, the solidity of the plate, whether the face has resolved at all this watch, and the time and speaker of any salute. The facing has not moved in the holding's record; recording it unmoved is the finding.
 
 ## Origin
-- **Formation:** The Soldier formed from a border soldier — real name erased from the Archive — who served the Zone E perimeter for twenty years without incident.
-- **The Sorrow:** A lifetime of sacrifice made invisible, and the weight of being forgotten by the very city he defended.
-- **The Event:** He was brave, loyal, and devoted — twenty years guarding the border. Then the city erased him: his name removed from the rolls, his service struck from the records, his sacrifice unacknowledged. He was a hero no one honored. The Crack began as a cold spot in his heart and spread over five years — from heart to mind, from mind to memory, from memory to identity — until he crystallized into a phantom warrior who stands at attention, waiting for someone to say: *"I remember you."*
-- **The People:** The forgotten soldier, the city that erased his service, and the comrades who never spoke his name.
-- **Expanded origin context:** Field records confirm: the sorrow that birthed this entity was not singular. It accumulated over years around SECTOR-B-02, Zone B, thickening like Han-crystal until the Grudge pressure reached critical mass and the Subject crystallized out of it. The wound is geological — it goes deeper than any single event.
+- **Formation:** From twenty years of closed-posting perimeter service, correctly recorded and lawfully unnameable.
+- **The Sorrow:** Not ingratitude. A service that is known, filed and sealed, and an acknowledgement that cannot lawfully be made because making it would identify the people still standing where he stood.
+- **The Event:** Twenty years on the Zone E line, then a clean deletion from the public rolls under the Year 4164 security instrument — correct, careful, and permanent, because the schedule it protects still has fifty-eight living names on it. He was told nothing, because telling him would have been disclosure too. The Crack opened as a cold spot and took five years to reach his identity, and what crystallized stands at attention waiting for one sentence that nobody is obliged to say and anybody may.
+- **The People:** One soldier, 3,100 names on the sealed schedule, 58 of them living, and the comrades who could not speak his name without committing an offence under the same instrument.
+- **Expanded origin context:** The removal was lawful and remains lawful, and the reason is not shameful. The Zone E perimeter watch of that period was a closed posting: its members' names were entered on a sealed schedule and struck from the public rolls under the Year 4164 security instrument, because a published list of who had held that line is also a list of which families on the far side are connected to it. Fifty-eight people covered by the same instrument are still alive. The instrument has no expiry for that reason, and no mechanism for restoring a name, because a restoration is a disclosure: to say *this one was removed* is to say the removals exist and to narrow every remaining name by one. So his twenty years cannot be acknowledged by the city that holds the record of them. Three thousand one hundred names stand on the sealed schedule. None has ever come off it.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Salutes, acknowledging the worker's grief. | Decrease |
-| **Pugnahan** (Confrontation) | Attacks, forcing acknowledgment through violence. | Increase |
-| **Viderehan** (Observation) | Stands at attention and permits study of his armor and era. | Stable |
-| **Ferrehan** (Endurance) | Stands guard over the worker; enduring his presence reduces distress. | Decrease |
+| **Flerehan** (Tears) | He salutes, and the gauge falls between 4 and 7 points. The fall does not occur if the worker was directed to speak. | Decrease |
+| **Pugnahan** (Confrontation) | He fights until acknowledged and then stops where he stands. Yield halves and the corridor frames are replaced. | Increase |
+| **Viderehan** (Observation) | He permits the plate to be examined, including by outside specialists, and does not alter his facing to make it easier. | Stable |
+| **Ferrehan** (Endurance) | He takes up a position between the worker and the corridor mouth and stands the interval with them. | Decrease |
 
 ### Special Behaviors
-- Stands at attention 18 hours each day and patrols the same route for the remaining six.
-- Never attacks without provocation or deliberate ignoring.
-- Acknowledgment produces a temporary surge of duty and purpose in the witness.
+- Eighteen hours at attention, six on the route, every day in the record, with no variation of either figure.
+- He has never struck first. Deliberate ignoring counts as provocation and the watch book says so in the first line.
+- Whoever says the words carries a sense of purpose for several days afterwards, which the counselors monitor and have declined to call a benefit.
 
 
 
@@ -156,21 +156,21 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
 ## Breach Behavior
 
-> *"Forgotten Soldier has broken free. Attacks anyone who violates its sense of duty."*
+> *"He is out of 7-C. He is in the east doorway facing the old line. Nobody engage — somebody go and speak to him."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Forgotten Soldier shatters containment and hunts through the facility. It attacks anyone who violates its sense of duty. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
+| **Movement** | He leaves the corridor and walks to the nearest doorway facing the old boundary, and stands in it. Doors and frames are destroyed on the way; personnel are not approached. |
+| **Effect** | Grudge pressure along the route he takes, heaviest in the doorway he chooses, falling off sharply to either side. |
+| **Secondary Effect** | Structural. Doors, frames and anything load-bearing on the bearing he is walking; four frames in the last event, no injuries in any event on file. |
+| **First Target** | Nobody. In every logged breach he has passed personnel without altering course, including personnel who ran. |
 | **Escalation** | Each turn free, Resilience drain +5 until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
+- **Breach type:** Escape — he leaves the corridor and walks. It is not a hunt: on every logged occasion he has gone to the nearest door that faces the old boundary and stood in it.
+- **Containment priority:** Send one person to say the words. Physical suppression has been authorised twice, worked both times, and cost eleven frames and a broken arm against a procedure that costs a sentence.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment
@@ -225,7 +225,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Cost:** The wielder experiences the Soldier's frustration—the anger of being forgotten.
 
-*Stigmas are granted at random by Forgotten Soldier upon a successful work, not manufactured.*
+*The Duty Charm is not issued and cannot be requested. It turns up after a watch in which somebody said the words without being told to, and never after one in which the words were read from an instruction.*
 
 ### M.A.W. Use Notes
 
@@ -247,13 +247,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
-- The Soldier patrols a fixed route and never abandons his post.
-- He salutes only when the words “I remember you” are spoken.
-- His armor's craftsmanship has no known modern equivalent.
-- Personnel who acknowledge him report a heightened sense of purpose lasting several days.
+- The route and the hours have not varied once, and the facing agrees with the surveyed line of a boundary that was abolished before the present record.
+- The salute follows the words, and only when the speaker chose to say them.
+- The plate has been examined by four outside specialists whose names and disagreements are printed in full in the file.
+- Those who speak report a sense of purpose for several days; the counselors track it and decline to describe it as a benefit of the posting.
 
 **Personnel Note:**
-> *"I said the words. The Soldier saluted me. For a moment I felt like I mattered—like someone would remember me too."* — Specialist Hanul Grey, Zone B night patrol
+> *"Nobody tells you to say it. That is the whole of the posting, really — you stand there and you work out that you are allowed to say it and that nobody will record whether you did. Then you say it, and he salutes, and you understand why the order was withdrawn."* — Specialist Hanul Grey, Zone B night patrol
 
 
 
@@ -262,29 +262,29 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Forgotten Soldier as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B — contained corridor 7-C. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Stands at attention 18 hours each day and patrols the same route for the remaining six. - Never attacks without provocation or deliberate ignoring. - Acknowledgment produces a temporary. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Facing against the old boundary bearing, eighteen hours at attention and six on the route, and the days elapsed since the last undirected acknowledgement. The last of those is the operative number. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Forgotten Soldier's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Facing, bearing and solidity at the start of the watch; the interval since the last acknowledgement, in days; the time and speaker of any salute, with a note of whether the speaker was directed to speak; and the gauge before and after. The directed/undirected note is the measurement this holding exists to produce.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Soldier (N-IIβ-033 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge. The Soldier formed from a border soldier — real name erased from the Archive — who served the Zone E perimeter for twenty years without incident. Held at SECTOR-B-02, Zone B — contained corridor 7-C. The Soldier patrols a fixed route and never abandons his post.
+Forgotten Soldier (N-IIβ-033 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge, standing in corridor 7-C of SECTOR-B-02 facing a boundary line that is no longer anybody's responsibility. He was a closed-posting perimeter soldier for twenty years. His name is on a sealed schedule and cannot be taken off it.
 
-**Entry 2 — <Excerpt from Field Log, Year 4221>**
-Walks through the facility, approaching personnel and standing before them. Those who acknowledge him feel duty and purpose; those who ignore him feel crushing guilt. He salutes only when the words “I remember you” are spoken.
+**Entry 2 — <Excerpt from Watch Returns, Corridor 7-C>**
+Tolerated interval before the gauge crosses: 31 days, then 22, now 16. The interval is the number of days he can go unacknowledged before the third-failure condition arms, and it has shortened at every review. It tracks the sealed schedule's quarterly return and nothing else the watch has been able to find.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-A lifetime of sacrifice made invisible, and the weight of being forgotten by the very city he defended.
+**Entry 3 — <Note from the Warden's Book, Corridor 7-C>**
+Twenty years on a line, and the record of it is correct, complete, and closed. Nobody lied about him. Nobody lost his file. His file is in a cabinet two districts from here with a seal on it, and the seal is there to keep fifty-eight other people alive.
 
 **Entry 4 — <Containment Notice>**
-Management: Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns.  His armor's craftsmanship has no known modern equivalent.
+Management: say the words if you mean to — *I remember you* — and never because you were told to. The words are not in the standing instructions and the Year 4231 trial that put them there is why. Work response — Flerehan: he salutes and the gauge falls. (Decrease); Pugnahan: he attacks until acknowledged, then stops, whatever the damage. (Increase); Viderehan: he stands and permits the plate to be studied. (Stable); Ferrehan: he stands guard over the worker for the interval. (Decrease).
 
 **Entry 5 — <Archive Note>**
-Field analysis confirms the sorrow accumulated over cycles at this location until the Han reached critical density and the entity crystallized.
+The gap in the rolls was made carefully by somebody competent, under an instrument that was correct then and is correct now. The surrounding entries are undamaged. The archivist's note says the care is the worst thing about the document and the file has never softened the sentence.
 
 ## 최종 관찰 (Final Observation)
 
@@ -301,7 +301,7 @@ He stands in the corridor's shadow, translucent and ancient, with eyes fixed on 
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Grudge pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Phantasmal resolve into something you can name. A translucent, flickering warrior in armor from an unidentified ancient era. He stands perfectly at attention and carries no visible weapon unless provoked.
+**At first contact:** He is already at attention when you come round the corner, and he is not looking at you. The plate is pre-Structuring, half-lit, and the face does not resolve. Nothing happens. Nothing will happen, for sixteen days, and then something will. Most people say the words within a minute of arriving and cannot afterwards explain why they did.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Grudge that the entity embodies. Understanding it does not make it easier.
 
@@ -311,24 +311,24 @@ He stands in the corridor's shadow, translucent and ancient, with eyes fixed on 
 
 ### Interaction Pattern
 
-Forgotten Soldier does not exist in isolation. Its recorded relationships with The Orphaned Bell, The Hollow Choir, The Kind Healer, The Memory Weaver, The Maw should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Five relationships are on record and only one was arranged by anybody. Two of them — the Bell and the Choir — are the only cases in which something other than a person has reset his interval, and both are logged with the Office because one of them involves saying his name.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Three uncontested watches of facing, interval and gauge before any second entity is brought into 7-C, because the interval is the variable and a disturbed interval takes a season to re-establish. Then separation, whether the facing changes, and the measurement specific to this holding: whether the other entity's presence counts as acknowledgement. Twice it has.
 
 
 ### Entity Interaction Record
 
-Forgotten Soldier must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The entries below are kept in the words of the watch that observed them. Where another holding's file disagrees, both versions are printed; the wing's position is that a corridor watch book is a better record of what happened in the corridor than a summary written afterwards by somebody who was not standing in it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Orphaned Bell** | Stands at attention when the Bell tolls. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Choir** | The Choir sings his forgotten name; he salutes. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | Cannot heal him; duty is not a wound. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Weaver** | Possesses his missing memories but refuses to return them. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Maw** | Guards The Maw's perimeter, protecting what is already lost. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Orphaned Bell** | Stands at attention when the Bell tolls. | Observed, not arranged. The toll resets his interval as an undirected acknowledgement would, which is one of the two cases on file of something other than a person counting. | Toll times against the interval clock, facing, and gauge at both ends. |
+| **The Hollow Choir** | The Choir sings his forgotten name; he salutes. | The second case. It is also the only occasion on which his name has been uttered since the instrument, and the Office has been formally notified each time, as the instrument requires. | The notification, the gauge, and the interval reset. |
+| **The Kind Healer** | Cannot heal him; duty is not a wound. | Attempted once and abandoned by the Healer's own withdrawal; the gauge did not move in either direction, which is the only null result of its kind in that entity's record. | Both files' entries, kept in agreement by annual exchange. |
+| **The Memory Weaver** | Possesses his missing memories but refuses to return them. | Not to be attempted. A transfer would restore what the instrument exists to keep closed, and the wing's counsel has advised that the facility would be the discloser. | The advice, filed with the chamber order. |
+| **The Maw** | Guards The Maw's perimeter, protecting what is already lost. | Observed during a Maw expansion: he placed himself on its edge and held, and the expansion's leading face did not pass him for nine hours. Not repeatable on request and never requested. | Timed positions, the Maw's own survey, and who gave no order. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Facing and bearing before and after, the interval reset or not reset, every utterance logged with its speaker and whether the speaker was directed, and the gauge at both ends. A session here is written up from the watch book, which is kept in the corridor and signed by the person who was standing in it.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -356,20 +356,20 @@ Some sorrows mourn the fallen. Forgotten Soldier mourns the edited — the sacri
 > *“The sacrifice erased because remembering it would mean remembering what he died for.”* — Elder, The Scar
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIβ-033 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIβ-033 [GS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Phantasmal manifestation
 **Common Name:** Forgotten Soldier
 **Containment Status:** Contained — SECTOR-B-02, Zone B — contained corridor 7-C
 **Comprehension Level:** 4 — Mastered
-**Threat Assessment:** Per entity classification. See SECC Classification table for details.
+**Threat Assessment:** Moderate (β). He has never injured anybody who did not strike him first or ignore him deliberately, and he stops the moment he is acknowledged, regardless of the state of the fight. The grade is for doors and frames.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard containment protocols apply.
+- Flerehan and Ferrehan. Pugnahan works, in the sense that being fought is a form of being noticed, and the yield is halved and the doors are replaced.
+- Nothing in the standing instructions requires anybody to speak to him. That omission is deliberate, was tested once, and was restored.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Combat Record for engagement parameters.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+- Closed-posting perimeter soldier, twenty years, struck from the public rolls under the Year 4164 security instrument. Fifty-eight people covered by the same instrument are living.
+- Tolerated interval 31 → 22 → 16 days. Acknowledgements are logged with the speaker's name and whether they were directed to speak.
+**Cross-References:** The Year 4164 security instrument · the sealed schedule quarterly return · the Year 4229 Families Association application · the Year 4231 standing-instruction trial · the corridor 7-C watch book
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A perimeter soldier of a closed posting, correctly recorded, lawfully unnameable, and still facing the line.
 
 ### Registry Addendum
 
@@ -394,10 +394,40 @@ He returns a salute to anyone who tells him they remember him, and the occurrenc
 
 His name was removed, his service deleted, and his twenty years at the Zone E perimeter erased, and the commissioning file holds the rolls with the gap in them. The gap is clean and deliberate. The archivist's note observes that the surrounding entries are intact, that the deletion was done carefully by someone competent, and that the care is the most disturbing feature of the document.
 
+### What the Interval Is Measuring
+
+Thirty-one days, then twenty-two, now sixteen. The interval is the number of days he will stand unacknowledged before the third-failure condition arms, and it is taken from the watch book rather than from any instrument: three watches, logged, with the date of the last undirected acknowledgement written at the top of each page.
+
+It has shortened at every review and it does not track the Tide, the roster, or the number of people in the corridor. It tracks the quarterly return of the **sealed schedule** — the register of names removed from the public rolls under the Year 4164 security instrument. The schedule stands at 3,100. Fifty-eight of them are living. Nothing has ever come off it.
+
+The instrument is a good instrument and the file argues its case rather than conceding it. A list of who held a closed posting is a list of which households on the far side are connected to one; the Year 4158 compromise, before the instrument, cost eleven serving members and an unrecorded number of their relatives, and the inquiry that followed recommended exactly the mechanism now in force. Removal is permanent because a removal that can be reversed is a removal that can be queried, and a query answered either way narrows the schedule by one. Even confirming that a given name was removed is disclosure. The Office cannot acknowledge him. It cannot say that there is anything to acknowledge.
+
+So the city's record of his twenty years is complete, accurate, correctly filed, and sealed in a cabinet two districts away, and the acknowledgement he is waiting for is not missing. It is prohibited, for the sake of fifty-eight people who are still standing where he stood.
+
+### The Closed Removal
+
+What the families receive is a form of words, and the words are chosen so as to disclose nothing: *service cannot be confirmed*. Not denied. Not disputed. Unconfirmable.
+
+The consequences follow from that one phrase. No service pension, which is payable only on confirmed service. No name on any memorial, municipal or regimental, since every memorial is compiled from the rolls. No burial honours. No standing to apply for the review that unconfirmed cases are otherwise entitled to, because the review would require the Office to look at the schedule and say what it found. And no explanation, ever, to anybody, because an explanation is the disclosure the instrument exists to prevent.
+
+In Year 4229 the Soldiers' Families Association applied for something small enough that the wing expected it to succeed: a *sealed acknowledgement* — a letter, written now, confirming service, held unopened by the Office, to be delivered to the family in fifty years when the postings it protects are historical.
+
+Refused, and the refusal is right, which the Association's own counsel conceded in the hearing. A sealed letter with a name and a date on it is an index of the schedule, held in a building that can be entered, by an Office that can be compelled; the instrument has no expiry because the risk it covers runs down the generations and the fifty-year horizon is a guess; and an acknowledgement that exists in order to be opened later is an acknowledgement, with all the disclosure that entails, merely postponed. The application is in the Year 4230 return, marked *correct in principle, no action*, and it is the only document about him that the wing has been permitted to copy. The copy is in the corridor, in the watch book, at the front.
+
+### The Unordered Word
+
+The management line for this holding is one sentence long and the important half of it is a prohibition on the facility, not on the entity: say the words if you mean them, and never because you were told to.
+
+It was tested. In Year 4231 a wing officer, reasoning that a reliable de-escalation should not be left to chance, wrote *acknowledge the entity on entry* into the standing instructions for corridor 7-C. Compliance was total. The gauge stopped responding for eleven weeks — not reduced, not reversed; the salutes continued and the gauge simply ignored them — and the tolerated interval contracted by five days over the same period and did not come back. The instruction was withdrawn, the withdrawal minute is two lines, and the second line reads: *an order to remember is a roster entry, and he has had enough of those.*
+
+Since the withdrawal the watch book has recorded every acknowledgement with the speaker's name and a single marking: directed, or not. Nobody is assessed on it. Supervisors do not see the page. Over a recent year, 214 acknowledgements were logged and 3 were marked directed — all three by new staff who had misread the file — and the gauge data for those three sit in the same table as the rest, unremarked, because the wing decided early that it would not make an example of anybody for being helpful in the wrong way.
+
+The practice has never been written up for the archive's management guidance and the Warden's stated reason for that is the only thing in the file that reads like an argument: the moment it becomes best practice somewhere, it becomes an instruction somewhere, and then it stops working there too.
+
 ## Trivia
 
-- He salutes no one who does not speak the words.
-- The Soldier's missing memories may be held by The Memory Weaver.
+- No words, no salute, and no exception in four decades of watch books.
+- The Memory Weaver holds what he cannot remember and will not return it; the refusal is on the Weaver's own record, not inferred from his.
 
 
 
@@ -405,8 +435,8 @@ His name was removed, his service deleted, and his twenty years at the Zone E pe
 
 - **Classification detail:** Forgotten Soldier is a Subject with Echo (II) — Repeats a single pattern: seeking acknowledgment coherence and Moderate (β) — Manageable potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-02, Zone B — contained corridor 7-C.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** The plate, the facing, and the stillness. If it is standing a post nobody set, it is this one.
+- **Record detail:** Four holdings in this archive are soldiers or servants of a duty. This one is distinguished by the fact that his record is complete, accurate and sealed: nothing about him was lost, destroyed or disputed, and the acknowledgement he waits for is unlawful rather than unavailable.
 - **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
