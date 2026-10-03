@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **89** |
-| Pending — no disposition-bearing line found by scan | 214 |
+| **Classified here, with a quoted line of evidence** | **90** |
+| Pending — no disposition-bearing line found by scan | 213 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 89 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 90 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 214 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 213 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -65,6 +65,7 @@ Lethal to the people working them; inert toward everything else in the building.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| Forgotten Name | `SE-N-IIα-215` | *"In eighteen years it has injured nobody, taken nothing, and done no damage of any kind."* Ambient across a district of eleven thousand people and never sealed; the only recorded escalation is a count on a slate. Three entities are grouped with it by memory and none has ever been tested against it; a Year 4229 proposal to pair it with the Whispering Walls was refused on the holding's own evidence. Neutral. |
 | Doorway to Nowhere | `SE-N-IIβ-152` | *"It has never breached, has injured nobody who did not force the handle, and has walked the same corridors for twenty-seven years without once approaching an exterior wall."* No proximity trial has been run; a Year 4231 proposal to walk it along the Lost Prince's route was refused twice, and the four rooms matched to the Returning Tree's register are unexplained and involved no movement of either holding. Its effect runs onto this facility's own drafting practice. Neutral. |
 | Fading Fruit | `SE-N-IIβ-456` | *"It has never breached, has injured nobody, and has widened and withdrawn four times each in thirty-one years with nobody intervening."* Its one measured cross-entity relationship, nine seasons charted against the Debt Clock, is a clean negative: the two series move independently. A proximity trial with the Burning Fruit was refused in Year 4225 and the Debt Wall claim rests on an unevidenced summary line. Its effect runs onto this facility's own payment practice. Neutral. |
 | The Inherited Debt | `SE-N-IVβ-019` | *"It has never physically breached in nineteen years. What has left the chamber is knowledge, carried out in sitters' heads, which no boundary addresses."* The one proximity trial ever run, with the Kind Healer in Year 4226, is recorded as a null: the ledger ran normally and the gauge did not move. A proposal to bring the Hollow Choir to the chamber was refused and not renewed. Its effect runs onto this facility's own ledger practice. Neutral. |
