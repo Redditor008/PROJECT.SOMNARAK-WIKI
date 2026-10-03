@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **76** |
-| Pending — no disposition-bearing line found by scan | 227 |
+| **Classified here, with a quoted line of evidence** | **77** |
+| Pending — no disposition-bearing line found by scan | 226 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 76 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 77 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 227 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 226 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -65,6 +65,7 @@ Lethal to the people working them; inert toward everything else in the building.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| Miscast | `SE-C-Iα-779` | *"In fifty-one years the fragments have not left the mount volume, not struck anything, and not injured anybody."* Residue (I), Minor (α), drift confined to the mount; no pairing has ever been staged and the one proposal was refused to protect the optical series. Its effect runs onto this facility's own certification register and reaches no other holding. Neutral. |
 | Hollowcast | `SE-N-IIβ-426` | *"It does not pursue, has never pursued, and earlier editions of this row asserted that it hunted on no evidence whatsoever."* Mobile and it approaches people, but no injury in sixty years except in reply to being told it is whole, and the only structural damage on record is to its own casing mounts after authorised Pugnahan. No pairing has ever been staged and no other holding is affected either way. Neutral. |
 | Lacrima | `SE-N-Iα-905` | *"There is no recorded instance of this entity selecting, approaching, or harming a person."* Residue (I), Minor (α), fixed on its plinth for sixty-one years; its three expansions were a widening lid gap that reached the end of one corridor and were each ended by re-seating the lid by hand. It touches no other holding in either direction. Neutral. |
 | Bridge of the Unchosen | `SE-N-IIIγ-874` | *"Nothing at this site has ever had to be contained."* Fixed, bodiless, no recorded harm to anyone standing beside it in sixty years, and no trial with another holding is even possible — the probe series cannot survive an interruption. Its one measurable effect runs onto F01's own review boards and touches no other containment either way. Neutral. |

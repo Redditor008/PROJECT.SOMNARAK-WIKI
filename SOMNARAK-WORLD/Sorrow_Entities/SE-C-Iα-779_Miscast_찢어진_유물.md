@@ -88,15 +88,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Miscast's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** Viderehan and Ferrehan only, from the mount side. The optical bench takes the gap between the two largest fragments at the closest point of their approach, in millimetres, twice a session. Eleven millimetres is baseline. The recorded range is one to eighty-eight.
+3. **Resolution:** Second reading, mount load-check, and the session closed. There is no suppression condition on this holding and the file says so rather than printing one: the fragments have never been brought together and the containment does not attempt it.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resilience** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Miscast’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Miscast’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- Resilience fails here as impatience. The worker begins willing the pieces together, then helping, then reaching, and a hand inside the drift has three times carried a fragment a few centimetres and widened the gap for the rest of the quarter.
+- Long exposure produces a worker who cannot leave a job half-finished, at the holding or anywhere else. Four Wardens rotated off this post were afterwards found working unpaid hours to close out tasks nobody had asked them to take.
+- The sundial resists every completed action, which is the cost and is also, the armoury notes, an unusually honest piece of design: the set is drawn from a thing that was never finished and it will not help you finish anything.
+- An unresolved session leaves the gap wider at the next reading and the holding does not call that an escalation. The fragments have not left the mount volume, not struck anything, and not injured a person in the fifty-one years of record.
 
 ## Appearance
 **Physical Form:** A broken relic split into several floating metal pieces. The fragments pull toward one another but never reconnect.
@@ -108,7 +108,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
 - **Primary marker:** A broken relic split into several floating metal pieces. The fragments pull toward one another but never reconnect.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The fragments drift continuously within the mount volume and have never left it. They pull toward one another and stop short, by a measurable distance, every time. The drift is the normal state; a still fragment is the anomaly and has been seen twice.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Forge District
 
@@ -117,19 +117,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A broken relic split into several floating metal pieces. The fragments pull toward one another but never reconnect. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Position / movement** | Continuous drift within the mount volume, never leaving it. The fragments approach and stop short every time, by a distance that is the holding's only instrument. |
+| **Material / signature** | Grudge. Corroded forge-metal, fever-cold, smelling of char, and never rusting further in fifty-one years inside a heat district — four metallurgical surveys, four identical findings, all filed in full. |
+| **Distinctive markers** | The gap, which is the wound and the instrument both; the scrape of metal on metal in open air with no contact behind it; the approach that stops short at the same distance every time. The pieces themselves are unremarkable offcuts of a competent casting. |
+| **Identification** | Gap reading against the last session's. The fragments are visually identical across the whole recorded range. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Gap between the two largest fragments at the closest point of approach, optically, in millimetres, twice a session. Count the approaches in the interval and log how many stopped short, which is all of them and has been all of them since the first reading. No hand enters the mount volume; three fragments have been displaced by a reaching worker and each displacement cost the quarter's series.
 
 ## Origin
-- **Formation:** The Relic formed from an object destroyed before its work was complete.
-- **The Sorrow:** The grief of being made for a purpose and broken before fulfilling it.
-- **The Event:** A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **Formation:** It formed at the mount in the Forge District in the ninth month of the Year 4229 re-skilling intake, from the fragments of an artifact that had been in storage, unremarkable, for sixteen years before that.
+- **The Sorrow:** Being prepared properly, at cost, by people who did the work, and then never called for.
+- **The Event:** A Han extraction failed and the artifact came apart. The investigation found a casting fault and also found that the object had performed correctly in every trial it was given — it was cast wrong and it worked. The fault report was closed as immaterial, which it was. The artifact was never commissioned for the function it was made for, and the order that would have called for it was not placed.
+- **The People:** The forge-workers of Zone D who shaped the artifact over eleven weeks, named in the commissioning roll, and the four hundred of them re-certified in Year 4229 against forty available posts. The holding treats those as one group because the record does.
+- **Expanded origin context:** Nothing in the commissioning file is a failure. The forging was meticulous, the trials passed, the casting fault was found and correctly judged immaterial, and the workers who shaped the thing over eleven weeks were paid, thanked and re-engaged. The holding does not answer to the destruction and never has; the gap sat unmoved through the extraction inquiry and through both subsequent chamber collapses in the same bay. It answers to certificates this facility has issued and not called on — to the qualification that stays live, year after year, for a holder it will never post. It widened through the nine months of the re-skilling programme, which was the proudest thing the district did that decade, and it has answered to nothing else in nine years of register-keeping.
 
 ## Behavior
 
@@ -145,9 +145,9 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Miscast is recorded as an Object/Place with Object-Weight manifestation and Grudge elemental expression. The current record places it at Zone D, Forge District; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Viderehan holds the gauge level and shows the worker what the artifact was for, in detail, including the specification language it was ordered against. Ferrehan lowers it, and the endurance it tests is exact: the worker watches the pieces approach and stop short, repeatedly, for the length of the interval, and does nothing. Flerehan and Pugnahan are N/A against an object, and the Registrum's claim that Pugnahan was the primary Work Type here was both impossible and, for an unknown period, the only instruction a hurried reader would have found.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** The gauge measures one worker's patience for one interval. The gap measures what the certification register has been doing. They are kept in separate columns, they have never moved together, and the standing instruction to supervisors is that a session which lowers the gauge and leaves the gap wider has been worked correctly and is written up as a success without qualification.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -156,11 +156,11 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Activation Trigger:** Arranging the fragments in their former order.
 
-**Effect:** Recreates the Relic's incomplete function for a short time.
+**Effect:** The fragments hold their arrangement and the artifact does, briefly, what it was made to do. It works. It has always worked, in every trial, which is the finding the whole file turns on.
 
-**Duration:** Until the pieces separate again.
+**Duration:** Until the pieces separate, which they do, every time, without exception, in between four and nine seconds.
 
-**Risk:** The user inherits the frustration of the failed purpose.
+**Risk:** The user inherits the frustration, and it is not frustration at a failure. It is the specific anger of having been ready.
 
 ### Tool Use Profile — I-Relic
 
@@ -169,27 +169,27 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Arranging the fragments in their former order. |
-| **Primary Effect** | Recreates the Relic's incomplete function for a short time. |
-| **Duration** | Until the pieces separate again. |
+| **Primary Effect** | The intended function, performed correctly, for four to nine seconds. |
+| **Duration** | Four to nine seconds. The separation has never been prevented. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
-| **Risk** | The user inherits the frustration of the failed purpose. |
+| **Risk** | Inherited frustration — specifically, the anger of readiness that was never called on. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic is issued to the officer chairing a postings board, for the sitting, and returned the same day. It has no field application and has never been issued for one; the four requests to take it outside a board sitting are in the folder with their refusals.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Miscast rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Miscast activates its primary resonance: Recreates the Relic's incomplete function for a short time. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of being made for a purpose and broken before fulfilling it; the bearer begins perceiving echoes of a forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Miscast begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Miscast too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user inherits the frustration of the failed purpose. |
+| 10 Seconds | The fragments settle into their order in the bearer's hands without being arranged. | They will do this for anyone. The arrangement is not a skill and the holding has twice corrected training material that implied it was. |
+| 30 Seconds | The bearer understands what the artifact was for, exactly, in the specification language it was ordered against. | Have them write it down before anything else. Fourteen bearers have written it and the fourteen accounts agree, which is the strongest evidence in the folder that the intention is in the metal. |
+| 1 Minute | The bearer begins listing their own preparations that were never called on. They are specific and they are long. | 5 Grudge damage every 15 seconds past the minute. Let them finish the list and keep it; three boards have reversed a decision on the strength of one. |
+| 2 Minutes | The bearer stops distinguishing the artifact's readiness from their own. | Remove the relic. Expect unpaid overtime for about a fortnight and log it; the pattern is well established and the counselling wing treats it as the expected outcome rather than as a reaction. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Miscast: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone D, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
+Nothing escalates at the mount. In fifty-one years the fragments have not left the mount volume, not struck anything, and not injured anybody, and the holding states that rather than implying a hazard it cannot evidence. What escalates is the gap, and the gap escalates in a training office. A team that treats a wide reading as a containment event will stand at the bench watching metal drift and find nothing; the event was a certificate signed and filed.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Re-read the gap, load-check the mount, and pull the quarter's certification register. There is no perimeter to establish. The fragments stay in the mount volume and the event that produced the reading happened in a training office.
 
 ### Detailed Activation Record
 
@@ -197,12 +197,12 @@ The escalation pattern is specific to Miscast: it is not a generic breach event.
 |---|---|
 | **Trigger** | Arranging the fragments in their former order. |
 | **Manifestation** | Object-Weight |
-| **Primary effect** | Recreates the Relic's incomplete function for a short time. |
-| **Duration / rate** | Until the pieces separate again. |
-| **Risk** | Minor (α) Object-Weight producing Grudge pressure; The user inherits the frustration of the failed purpose. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Primary effect** | Correct performance of the intended function, four to nine seconds, then separation. |
+| **Duration / rate** | Indefinite at the holding; the gap does not decay with time, only with the certification register. |
+| **Risk** | Minor (α). No physical hazard on record at any gap width in fifty-one years. The cost is carried by wielders afterwards, in unpaid hours. |
+| **Management** | Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** gap between the two largest fragments → the hour → the quarter's certifications → how many passed twelve months with no posting and no written lapse → the count, and the names where the register holds them. The last item is the report.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -223,12 +223,12 @@ The dial casts a sharp, artificial shadow that rotates independently of actual o
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the one designated target. The shadow-beam does not spread and the armoury has refused two requests to widen it, on the ground that a thing cast for one purpose should not be asked to serve two.
+**Damage Application:** Multiplier to direct and Tick damage separately. The Tick is the target's own unfinished work surfacing, and it runs measurably longer in personnel holding a live certificate that has never been used.
 
-**Ability:** Strikes become stronger against damaged or unfinished structures.
+**Ability:** Strikes land harder against anything incomplete — a part-built wall, a half-made tool, a structure under repair. Against finished work it is the weakest weapon in the armoury and is issued on that understanding.
 
-**Cost:** The weapon resists every completed action.
+**Cost:** It resists every completed action. The wielder's follow-through drags on anything they are about to finish, and the drag is strongest on the last movement of a task.
 
 ### M.A.W. Suit — The Torn Plate
 
@@ -244,9 +244,9 @@ The dial casts a sharp, artificial shadow that rotates independently of actual o
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Miscast's kind of pressure.
+**Ability:** Resists Grudge pressure. Issued to the bench officer, who stands closest to the drift for the longest and may not step back during a reading.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes dull and the wearer becomes slow to volunteer. It passes within the day and is logged because two wearers did not report a fault they had seen.
 
 ### M.A.W. Stigma — The Torn Charm
 
@@ -256,37 +256,37 @@ The dial casts a sharp, artificial shadow that rotates independently of actual o
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 when working this entity, and the bearer takes the optical reading rather than the mount check. The charm's holder is the one person in the room who must not touch anything.
 
-**Ability:** Grants a minor boon tied to Miscast's sorrow; the effect mirrors the entity's nature.
+**Ability:** The charm pulls, faintly and continuously, toward whatever in the room is unfinished. It cannot be aimed, has no strength worth measuring, and is used by three Wardens as a way of finding what they have left undone.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer's temper shortens, specifically and only toward people who waste prepared work. Colleagues describe it as fair and unpleasant in equal measure.
 
-*Stigmas are granted at random by Miscast upon a successful work, not manufactured.*
+*The charm has been granted four times, each to a worker who closed a session with the gap wider than they found it and wrote that down without softening it. The holding records the pattern and has declined to call it a reward, noting that the entity is the last thing in the archive anyone should learn to please.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Miscast's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+The three pieces are drawn from a thing that was ready and never used, and all three behave accordingly: the sundial will not help you finish, the plate makes you slow to put yourself forward, the charm points at whatever you have left undone. The armoury's note is unusually blunt. It says that this is the only set in the wing that does not pretend to be an advantage, and that its chief use is to make a board member uncomfortable for the length of a sitting.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, piece, the session's opening gap, and a written list of anything the operator has prepared this year that was not called on. The list is sealed and read back afterwards. |
+| **During use** | Seconds of held arrangement, the function as the bearer describes it, and whether their account matches the fourteen on file. Disagreement would be the most important result this holding could produce and has not occurred. |
+| **At limit** | Engagement time and the bearer's own list of uncalled preparations, transcribed in full and kept. Boards have acted on three of them. |
+| **After use** | Sealed list read back by someone else, closing gap, mount load-check. Unpaid overtime in the following fortnight is logged as an expected outcome and not as a reaction. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** α across the set, correctly rated, and the rating is honest about how little these pieces do. What they do to a wielder is make them unable to let prepared work go unused, and a facility that certifies four hundred people against forty posts has no column for that.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial. Fifty-one years of record have not raised it, and the file states the reason plainly: the holding is completely understood and the understanding is of one line. There is nothing further to learn here and the level reflects the entity, not the effort.
 
-- The pieces move along Forge District Han-currents.
-- It becomes more active near broken tools.
+- The pieces drift on Forge District Han-currents and have never left the mount volume. Two still fragments have been recorded in fifty-one years and both resumed within the hour.
+- It is more active near broken tools and markedly more active near unused new ones. The second observation took thirty years to make because nobody thought to put an unissued tool on the bench.
 - Personnel report emptiness when the pieces fail to reconnect.
 
-**Personnel Note:** *"It was moving. I felt emptiness. The pieces were trying to become useful again, but usefulness was the thing that had broken them."* — Specialist, Zone B patrol
+**Personnel Note:** *"Nothing broke it. That is what took me so long. The casting was wrong and the thing worked anyway, every trial, and then the order never came. It is not angry about being smashed. It is angry about the fourteen years it sat in a store cupboard in working order, and the register says it has a point."* — Warden, Forge District mount
 
 
 
@@ -294,30 +294,38 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Miscast as an Object/Place with Object-Weight manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone D, Forge District. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Arranging the fragments in their former order. Effect: Recreates the Relic's incomplete function for a short time. Duration: Until the pieces separate again. Risk: The user inherits the frustration of the failed purpose. Tool Use Profile — I-Relic Operational Rule: At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Miscast's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Gap at the bench, drift count, approaches that stopped short. The observer is warned at the gate that they will want to push the pieces together and that three people have, and what it cost the series each time. |
+| **Sustained observation** | Over a year the gap detaches from the session and attaches to the certification register. Observers who hold both columns stop proposing new work at the mount; there is nothing to do here but read the bench honestly and send the figure on. |
+| **Activation or escalation** | A widening of eight millimetres or more between consecutive readings opens a documents search rather than a field response: how many certificates passed twelve months that fortnight with no posting and no written lapse. The search has succeeded on nineteen occasions out of twenty-one. |
+| **Post-contact review** | Both gap readings, the approach count, the mount load, and the fortnight's certification figures attached with the unposted names listed rather than totalled. Three reviews gave a total instead of names and all three were returned. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Optical bench, two largest fragments, closest point of approach, millimetres, twice a session. Three proposals to average the gap across all fragments have been refused on the same ground: an average smooths the stop-short, and the stop-short is the only thing this holding has ever had to say.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Miscast (C-Iα-779 [GO]) is logged as a Object-Weight manifestation expressing Grudge. The Relic formed from an object destroyed before its work was complete. Held at Zone D, Forge District. The pieces move along Forge District Han-currents.
+Miscast (C-Iα-779 [GO]) is logged as an Object-Weight manifestation expressing Grudge, held at a mount in the Forge District, Zone D: several corroded metal fragments drifting on the bay's Han-currents, approaching one another continuously and stopping short every time. The artifact they came from was cast with a fault, performed correctly in every trial it was given, and was never commissioned for the function it was made for. The holding's instrument is the gap between the two largest fragments — eleven millimetres at baseline, one at the floor, eighty-eight at the ceiling.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-It becomes more active near broken tools.
+**Entry 2 — <Qualification Return: Four Hundred and Eighty-Seven Live Certificates, Two Hundred and Nine Posted>**
+The first return under the Rule of the Honoured Qualification, Year 4238. This facility held four hundred and eighty-seven live certifications at the start of the year. Two hundred and nine were acted on by a posting that used them. Two hundred and seventy-eight passed twelve months unposted; of those, ninety-three were formally lapsed in writing with the ground stated, and one hundred and eighty-five holders elected to keep theirs live. The gap stood at eighty-eight millimetres in Year 4229, in the nine months of the Forge re-skilling programme, which certified four hundred workers against forty posts and was reported at the time as the most successful training intake in the district's history. It stood at one millimetre in Year 4237, the quarter the ninety-three were lapsed and the two hundred and nine posted. The gap has tracked the certification register for nine years and has never tracked work done at the mount.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of being made for a purpose and broken before fulfilling it.
+**Entry 3 — <Statement of a Forge Instructor>**
+I taught the re-skilling intake. Four hundred of them, eleven weeks each, and they were good — they worked evenings, they bought their own files, one of them walked in from the outer quarter every morning because the tram fare would have come out of what he was sending home. Every one of them passed. I signed every certificate and I meant every signature. There were forty posts. I knew there were forty posts in the second week and I said nothing, because the funding was awarded on completions and because I told myself a qualification is a thing a man keeps. He keeps it. That is what I said, and it is true, and I have watched men keep theirs for nine years now. The certificate does not expire. That is the part I was proud of.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals its former function. (Stable); Ferrehan: Tests the worker's patience with repeated failed reunions. (Decrease). Personnel report emptiness when the pieces fail to reconnect.
+Containment of C-Iα-779 is an optical bench at the mount and a filing rule in the training office. Mount: gap read twice a session between the two largest fragments at the closest point of approach, series unbroken; no hand inside the mount volume at any time, the prohibition protecting the reading rather than the personnel; mount load-checked every session, since the structural pressure is logged at the mount and not in the object; no suppression condition, and none to be invented. Training office and postings board duties: **a certification issued by this facility must, within twelve months, be either acted on by a posting that uses it, or formally lapsed in writing with the ground stated and the holder told to their face.** A holder may elect once, in writing, to keep a certificate live, renewable annually, each renewal requiring the facility to state afresh and in writing that it has no posting for them. Work response — Viderehan: the former function, in its specification language (Stable); Ferrehan: the approaches that stop short, watched for the full interval, without intervening (Decrease).
 
-**Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+**Entry 5 — <Director's Memo, Eyes Only: The Honoured Qualification>**
+Three hundred and ten certificate holders petitioned against this rule and they are the people it was written for, so their objection goes first.
+
+Their case is simple and I have no answer to the shape of it. A qualification is a thing a person earned. Lapsing it takes away something they were given for work they actually did, and it takes it away in a letter, with a ground stated, which is worse than letting it sit. One petitioner wrote that she had held hers eleven years, that she knew perfectly well no posting was coming, and that there was a difference between a door nobody opens and a door somebody comes and locks in front of you. I have read that sentence more times than I would like to admit.
+
+What we have done is to let them choose. A holder may elect to keep the certificate live. The election is annual, and each renewal obliges this facility to write to them and say, in plain words, that we have no posting for them and expect none. One hundred and eighty-five have elected. One hundred and eighty-five letters went out this year saying still nothing, and the welfare reports on what those letters do are in the folder and I have not answered them and do not intend to pretend I can.
+
+I want the re-skilling programme named in this memo because the comfortable version of this story has it as the villain and it was not. Four hundred workers, eleven weeks each, taught properly by an instructor who signed every certificate and meant it. They passed. They were good. There were forty posts, and everybody involved knew it by the second week, and the thing we did with that knowledge was keep teaching, because the alternative was telling three hundred and sixty people not to bother.
+
+The ground is the bench. Nine months of that programme took the gap to eighty-eight millimetres, the widest in fifty-one years. Ninety-three lapses and two hundred and nine postings took it to one. We have never been able to show that a live unused certificate comforted anybody who held one. We can show, to the millimetre, what it keeps apart.
 
 ## 최종 관찰 (Final Observation)
 
@@ -325,7 +333,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
-| Tests the worker's patience with repeated failed reunions. The sorrow is named; Miscast is fully recorded. | Reveals its former function. The gauge climbs and Miscast withdraws without revelation. |
+| The worker watches the approaches stop short for the full interval and does not reach in. The gauge falls, the gap holds, and the record of the former function is clean. | The worker reaches in. They always mean to help. The gauge climbs, the fragment carries a few centimetres off its drift, and the quarter's series is void. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -334,32 +342,32 @@ Metal scrapes against metal in the air. A relic tries to become whole and fails 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A broken relic split into several floating metal pieces. The fragments pull toward one another but never reconnect. Notable Features: It moves without being carried, burns with suppressed rage, and retains the weight of its former. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Object-Weight form.
+**At first contact:** Several pieces of corroded forge-metal hanging in the air at chest height, drifting, turning, coming together and stopping a finger's width short. There is a scrape of metal on metal that has no contact behind it. The pieces are not impressive. They are offcuts, and they are plainly trying to be a tool.
 
-**With continued exposure:** With time the Object-Weight becomes less a presence and more a climate — the Grudge is no longer an event but an environment, something you exist inside rather than encounter.
+**With continued exposure:** You begin to see that the stop is not a failure of the approach. The approach is exact. It stops at the same distance each time, and after an hour at the bench the precision is the thing you cannot get out of your head.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Arranging the fragments in their former order. Effect: Recreates the Relic's incomplete function for a short time. Duration: Until the pieces separate again. Risk: The user inherits the frustration of the failed purpose. Tool Use Profile — I-Relic Operational Rule: The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The pieces hold their order and the thing works. For four to nine seconds it does, correctly and without difficulty, what it was made to do. Then it comes apart, and everyone in the room has now seen that there was never anything wrong with it.
 
-**After departure:** The containment boundary holds the Object-Weight, but not the memory. Grudge residue settles into the bones like Han into the city's foundations.
+**After departure:** You go back and look at something you trained for and were never asked to do. Most people have one. The counselling wing logs it and treats it as useful rather than as exposure.
 
 ### Interaction Pattern
 
-Miscast does not exist in isolation. Its recorded relationships with Pandora's Jar, The Burning Library, The Broken Promise should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three records are grouped with this one. None has been brought to the mount and none can be: the optical series cannot survive a second drifting body in the bay volume, and the one staging proposal was refused on that ground in Year 4219. What follows is paper comparison and is labelled as such throughout.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** On paper, and on one question: was the thing destroyed, did it fail, or was it never sent for. Write the answer in a sentence and sign it. Four records in this wing turn on incompletion and three of them answer to an event. This one answers to an absence of one, and every pairing claim in the folder was written by somebody who had not made the distinction.
 
 
 ### Entity Interaction Record
 
-Miscast must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Three records are grouped with this one on the term incompletion, which is the archive's weakest grouping habit and has never predicted anything here. The question that separates them is whether the record is about something that failed, something that was destroyed, or something that was ready and never called on. This is the third, and the distinction is not a nicety: a team arriving expecting a failure will test the fragments for a fault and will find, as four assessments have found, that there is not one.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **Pandora's Jar** | Both preserve objects lost before completion. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Burning Library** | May contain its original purpose. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Broken Promise** | Resonates with unfinished functions. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **Pandora's Jar** | Grouped on objects lost before completion. The Jar holds things this facility destroyed and logged as counts; nothing here was destroyed by anybody, and the artifact worked. Subtraction against non-arrival. | No trial, none permitted. The shared-preservation claim rests on a single Year 4214 summary line with no measurement behind it. | That the claim is unevidenced, written beside it each time it is repeated. |
+| **The Burning Library** | A proposal was made in Year 4222 to search the Library for the unplaced commissioning order, on the theory that recovering it would settle the holding. | Refused. The order is not lost — the draft is in this folder, unsigned, with its costing attached. Nothing needs recovering; it needs placing, and nobody will place it. | The proposal and the refusal kept together. It has been renewed once. |
+| **The Broken Promise** | The closest record in the wing and the most instructive contrast: a promise is broken by somebody, and this was broken by nobody. Reading them together is how the file arrived at the formulation that the entity is angry about readiness and not about harm. | Paper only. | The broken-by-somebody versus broken-by-nobody distinction, on any document placing the two together. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Both records in full, the signed one-sentence answer, and the quarter's optical series attached. Refusals on this file are cited rather than re-argued; the Library refusal now carries two citations.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -386,42 +394,53 @@ Some sorrows mourn destruction. Miscast mourns incompletion — the artifact for
 
 > *“Fragments carrying the purpose of the thing they were meant to be, unable to fulfill it.”* — Forge Worker
 
-> *“The rage of incompletion — purpose unfulfilled, function never performed.”* — Elder, Forge District
+> *“The rage of incompletion. Not of breaking — of never being sent for.”* — Elder, Forge District
+
+> *“I signed four hundred certificates and I meant every one. There were forty posts and I knew in the second week.”* — Instructor, Year 4229 re-skilling intake
+
+> *“A door nobody opens is not the same as a door somebody comes and locks in front of you.”* — Certificate holder, eleven years, petition of Year 4236
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-779 [GO]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Object-Weight manifestation
+**Classification:** Sorrow Entity — `C-Iα-779 [GO]` · City origin · Residue (I) coherence · Minor (α) potency · Grudge · Object-Weight manifestation
 **Common Name:** Miscast
-**Containment Status:** Contained — Forge District
-**Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. Fragments of a shattered artifact. Effect: proximity induces the rage of purpose denied by destruction.
+**Containment Status:** Contained — Zone D, Forge District, bay mount
+**Comprehension Level:** 1 — Initial
+**Threat Assessment:** Minor. The Registrum carried this holding as Echo (II), Moderate (β) at Comprehension Level 2 against a SECC header of Residue (I), Minor (α) and Level 1, and named Pugnahan as the primary Work Type on an Object entity, where Pugnahan is N/A and cannot be performed at all. All four errors have been corrected. The effect is the rage of readiness never called on, which is not the rage of destruction and should not be briefed as it.
 **Containment & Handling Procedures:**
-- Pugnahan is the primary Work Type.
-- Each fragment holds the full intention of the whole.
+- Ferrehan lowers the gauge; Viderehan holds it level and produces the record. Flerehan and Pugnahan are N/A against an Object and no edition of this file should have said otherwise.
+- Optical bench, two largest fragments, closest approach, millimetres, twice a session, series unbroken.
+- No hand inside the mount volume. Three displacements on record, each costing a quarter's readings.
+- Mount load-checked every session; structural pressure is logged at the mount, not in the object.
+- The Rule of the Honoured Qualification is a containment condition of this entity and binds the training office and the postings board.
 **Observation Notes:**
-- A Forge artifact destroyed during a failed extraction; the purpose survived.
-**Cross-References:** Forge District · The Rage Forge
-**Faction Involvement:** SED (D-territory exploration)
-**Originator:** Forge-workers of Zone D.
+- A Forge artifact cast with a fault that performed correctly in every trial, held in store sixteen years, destroyed in a failed extraction, and never commissioned for the function it was made for.
+- Gap 11 mm at baseline, range 1 to 88. The gap tracks this facility's certification register and has never tracked work done at the mount.
+- Fourteen bearers have independently described the intended function in matching terms. No contradiction has ever been recorded between them.
+**Cross-References:** Forge District bay mount, Zone D · The Rage Forge (paper pair; failure versus never-called-on) · the Year 4229 re-skilling intake file · the certification register and the one hundred and eighty-five annual letters
+**Faction Involvement:** SED (D-territory exploration) · the training office and the postings board, both listed because the Rule of the Honoured Qualification is a containment condition of this holding and neither of them asked for it.
+**Originator:** The forge-workers of Zone D who shaped the artifact over eleven weeks, named in the commissioning roll. They were paid, thanked and re-engaged, and the holding records that because it is true and because it is not a mitigation.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this file with the certification register beside it or do not read it. Taken alone the mount is a drifting heap of offcuts that has never done anything, and four assessors have said so in writing, each with the optical series in front of them and no idea what the millimetres were counting.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** On any widening of eight millimetres or more between consecutive readings: verify the bench and the fragment identification, re-read, then pull the fortnight's certifications and list by name every holder who passed twelve months with no posting and no written lapse. Totals are not accepted. After any displacement, declare the quarter's series void in the review itself rather than in a footnote.
 ## Trivia
 
-- It moves toward broken objects but ignores intact replacements.
-- The fragments never rust despite prolonged exposure to Forge heat.
+- It drifts toward broken objects and ignores intact replacements, and it is most active of all near a new tool that has never been issued. That last observation took thirty years to make because nobody had thought to put an unissued tool on the bench.
+- The fragments have not rusted further in fifty-one years inside a heat district. Four metallurgical surveys, four identical findings, all filed in full because their dullness is the point.
+- The casting fault is documented, real, and immaterial. The artifact passed every trial it was given. The file keeps the fault report at the front so that no reader can reach the entity believing it is about a thing that failed.
+- The order that would have commissioned the function was drafted, costed and never placed. The draft is in the folder, unsigned, with the costing attached.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Miscast is an Object/Place with Residue (I) coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone D, Forge District.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Object/Place, Residue (I), Minor (α), Comprehension Level 1. The Registrum disagreed with the SECC header on coherence, potency, level and Work Type for an unknown period and has been corrected against it.
+- **Field detail:** Grudge; Forge District bay mount, Zone D. Testimony in this file previously carried a Zone B attribution and has been read against the duty rosters and corrected.
+- **Recognition detail:** Identify it by the gap against the last reading, not by the drift. The fragments look identical at one millimetre and at eighty-eight, and three early reports describe an unchanged holding on days the bench recorded a forty-millimetre difference.
+- **Record detail:** Check the designation and check what the record is about. This is not a record of a thing that broke. The casting fault is real, documented, and irrelevant; the object functions. It is a record of a purpose that was prepared properly, at cost, by people who did the work, and then never called for.
+- **Containment detail:** The fragments are contained and have never tested it. What is not contained is a signature in a training office, and the people who sign there are doing good work for people who deserve it.
 ## Document Information
 
 **Document ID:** SE-C-Iα-779
