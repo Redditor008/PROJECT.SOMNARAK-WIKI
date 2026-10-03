@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **54** |
-| Pending — no disposition-bearing line found by scan | 249 |
+| **Classified here, with a quoted line of evidence** | **55** |
+| Pending — no disposition-bearing line found by scan | 248 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 54 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 55 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 249 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 248 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -77,6 +77,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Echo Compass | `SE-C-IIIβ-016` | *"A successful cycle quiets the needle for a shift. The entity is unchanged by this, and the next operative will see their own heading."* |
 | Survivors' Breath | `SE-O-IVδ-895` | *"A completed cycle settles the Sigh around the worker and quiets it for a time. Nothing is resolved by this."* |
 | Crucible | `SE-C-IIIβ-275` | Resolution: *"Cool the anger through naming and controlled work."* A furnace that became conscious, and stayed in its forge. |
+| Driftglass | `SE-O-IIIγ-914` | *"Nothing in the archive leads it."* It drifts the Alpha Tree vaults, costs escort hours and a standing order for rock salt, and has never been recorded affecting another contained record. |
 | Homeless Sorrow | `SE-O-IIβ-119` | *"It does not leave the district, it has never been recorded outside Old Lament, and it returns on its own when the room is available again."* It costs F01 one heated room and some shift time; it reaches no other containment. |
 | Apocrypha | `SE-O-Iα-340` | *"Nothing here spreads between people."* It sits beside abandoned camps in the Desolate, costs expedition time and effects-office discipline, and touches no other containment. |
 | Hums | `SE-C-IIβ-048` | *"The stone has never been hostile… it is the only record in the district that hands anything back."* It gives the district its songs returned and suppresses nothing; the cost is register upkeep. Benign in effect, but it does not act against other entities, so Neutral rather than Positive. |
