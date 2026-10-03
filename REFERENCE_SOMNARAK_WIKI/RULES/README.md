@@ -25,9 +25,10 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-17`](R-17_SHORTHAND_AND_WORKING_AGREEMENTS.md) | Shorthand and Working Agreements |
 | [`R-18`](R-18_BATCH_VERSUS_CAREFUL.md) | Divide Every Defect Set Into Batch-Short and Careful-Detail |
 | [`R-19`](R-19_DISPOSITION_CLASSES.md) | Disposition classes: Positive, Neutral, Negative — effect on Facility 01, kept separate from threat rating |
+| [`R-20`](R-20_ONE_FIXED_DENOMINATOR.md) | One Fixed Denominator, With Bands as Side Figures |
 
 ## Precedence
 
-`R-13` governs whether work continues. `R-14` governs what counts as a defect. `R-15` governs when a fix is finished. Everything else is subordinate to those three.
+`R-20` governs how progress is counted and binds `R-16`. `R-13` governs whether work continues. `R-14` governs what counts as a defect. `R-15` governs when a fix is finished. Everything else is subordinate to those three.
 
 A rule is added here the moment it is stated. Nothing is kept only in conversation.
