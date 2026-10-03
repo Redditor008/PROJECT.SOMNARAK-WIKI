@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **72** |
-| Pending — no disposition-bearing line found by scan | 231 |
+| **Classified here, with a quoted line of evidence** | **73** |
+| Pending — no disposition-bearing line found by scan | 230 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 72 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 73 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 231 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 230 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -65,6 +65,7 @@ Lethal to the people working them; inert toward everything else in the building.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| Hollow Echo | `SE-N-IIα-125` | *"No body, no pursuit, no recorded act of aggression in the holding's history, and one expansion in two centuries which ended when somebody spoke to it."* The one pairing trial produced a temporary lengthening of its interval and no effect on the other holding; attendance by The Kind Healer reduced its pressure rather than the reverse. Neutral. |
 | Collapsed Seed | `SE-N-IVδ-315` | *"It is not hunting; it is looking for substrate, and the distinction has saved lives and must not be mistaken for safety."* Breaches by rooting into personnel and growing there; no recorded effect on any other containment. The one neighbouring entity that withdraws from it does so by its own behaviour, explicitly recorded so it cannot be cited as suppression. Neutral. |
 | Cenotaph | `SE-N-IVδ-525` | Breach is a span laid across a corridor: *"It does not chase; it lies across the route and gives way under whoever crosses alone."* It takes on a duty nobody gave it and affects no other containment. |
 | Homecoming Tree | `SE-C-Iα-869` | A site that walks. Breach *"records this as escape only because there is no other category for a place that leaves"* — it relocates to the next failed homecoming and interferes with nothing en route. |

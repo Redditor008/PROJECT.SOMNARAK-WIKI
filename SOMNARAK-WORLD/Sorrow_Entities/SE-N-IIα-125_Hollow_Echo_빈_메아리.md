@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Hollow Echo's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Answer: “I hear you.” Never promise help you cannot provide**.
+1. **Tension:** The Warden times three consecutive intervals between repetitions before anyone speaks. Forty-one seconds is baseline; the recorded range is nine to two hundred and twenty. Nobody addresses the enclosure until the three figures are on the sheet, because a voice that has been answered cannot be timed clean again that session.
+2. **Clash:** Flerehan and Ferrehan lower the gauge; Pugnahan makes the call distant without stopping it and moves nothing. Speech into the enclosure is scripted and single-pass — one line, read, not improvised — and the script exists because workers who improvise begin promising things.
+3. **Resolution:** The session closes on the documented condition: **Answer: “I hear you.” Never promise help you cannot provide.** Four words, and the second half of the instruction is the hard half. Wardens are permitted to answer and are not required to, and the permission is deliberate: making it a duty would mean ordering somebody to respond to a call for help they cannot act on.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Composure** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Hollow Echo’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Hollow Echo’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- Composure does not shatter here; it erodes by subtraction. The worker produces fewer names on request, then fewer, and the loss is painless and unnoticed from the inside. The name check at the door is run on the way out as well as the way in and the two lists are compared by somebody who was not inside.
+- Recovery from the name loss is complete and takes about a day. What does not recover as reliably is the worker's willingness to answer anything. Three Wardens rotated off this holding were afterwards noted leaving routine correspondence unreplied, and the counselors treat that as exposure.
+- The Echo Stone is silent until used, and in its silence the wearer hears calls that are not the entity's. They are their own: requests they received and did not answer. The piece is accordingly not issued to anyone in a supervisory role.
+- An unresolved session leaves the interval shortened into the next watch. It does not breach from that alone. The entity has never injured anyone and has never been observed to try; what it does is make a chamber in which nobody can remember their colleagues' names.
 
 ## Appearance
 **Primary Form:** A voice without a stable body. At times a faint translucent outline appears, but the sound is present everywhere and nowhere.
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A voice without a stable body. At times a faint translucent outline appears, but the sound is present everywhere and nowhere.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** No position. The sound fills the enclosure at even volume with no source and no falloff, which has been checked by observers placed apart and confirmed every time. The faint outline that occasionally appears does not correspond to the voice and is held in the file as a separate phenomenon pending anything that would join them.
 - **Element signature:** Void
 - **Registered location:** Zone D, Echo Gardens — ambient
 
@@ -116,19 +116,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A voice without a stable body. At times a faint translucent outline appears, but the sound is present everywhere and nowhere. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Position / movement** | Ambient and sourceless; even volume across the whole enclosure. Posture and distance are not recorded because they do not exist. |
+| **Material / signature** | Void, presenting as sound alone. Bloodless-cold, smelling faintly of ash. Even volume throughout the enclosure, no source, no falloff, no echo of its own against the walls. |
+| **Distinctive markers** | One word, unvarying. A measurable interval between repetitions. A reply to acknowledgment, once, and then the calling resumes. |
+| **Identification** | Three timed intervals against the last watch's. Nothing in this holding is identified by sight, and the outline is specifically excluded from identification by standing order. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Three timed intervals, by hand, before speech. Then: the wording, which has never varied; the volume at four fixed points; whether the outline was present and where. Do not log impressions of the voice's age, sex or distress. Four hundred such impressions are held in the early file, they disagree completely, and they were the reason it took nine years to notice that the intervals were regular.
 
 ## Origin
 - **Formation:** The Echo formed from calls for help that went unanswered.
 - **The Sorrow:** The despair of asking for rescue and learning that no one was coming.
-- **The Event:** People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the entity's effect on nearby Sorrow Entities — gauges rise faster, breaches occur more frequently, containment becomes more difficult. The entity is not hostile. It is simply... heavy. Its sorrow bleeds into everything around it, contaminating the facility's emotional atmosphere.
+- **The Event:** People called from rubble, from Han overflows, and from the Fracture margins, over decades rather than on one date. The response logs show the calls received and the decisions taken, with times. The archivist's note states that the decisions were defensible on the information available, and that the information available is in the file so a reader can judge for themselves.
+- **The People:** Citizens who called from rubble, from Han overflows, and from Fracture zones, and were not reached. They are not individually identifiable from the voice. They are individually identifiable from the response logs, which survive in full, and the holding's commissioning material is those logs rather than any account of the entity.
+- **Expanded origin context:** Nothing in the commissioning material describes a failure. That is what took the wing so long. Every decision in the response logs was taken by somebody with less information than the file now has, under pressure, and most of them were the right decision; the Zone B collapse could not have been reached in the first week by any crew the facility could have put on it. What the logs do not contain, anywhere, is a single instance of the facility telling a caller that nobody was coming. The calls were received, assessed, and left open, on a doctrine that is written down in those same logs and is still good doctrine: do not promise what you cannot deliver. Held open, they were never refused. Never refused, they went on being made. The enclosure in the Gardens is what two centuries of calls that were neither answered nor ended sound like when they stop being separate.
 
 ## Behavior
 
@@ -143,27 +143,27 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Hollow Echo is recorded as a Subject with Subject-Phantasmal manifestation and Void elemental expression. The current record places it at Zone D, Echo Gardens — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Both Work Types that lower the gauge here do so by the worker staying rather than by the worker doing: Flerehan pauses the call, Ferrehan simply tests whether the listening continues. Neither resolves anything and the file does not pretend they do. Pugnahan is the instructive one — it makes the call quieter and more distant and does not stop it, which is precisely the operational history of this entity's origin and the reason confrontation was removed from the standing order in Year 4221.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** The gauge reports the session and the interval reports the facility's correspondence, and they are kept in separate columns because they have never once moved together. A watch that answers the enclosure will see the gauge drop and the interval unchanged. A quarter in which the Directorate closes out two hundred outstanding requests in writing will see the interval lengthen by a minute with no work done at the Gardens at all.
 ## Breach Behavior
 
-> *"Hollow Echo has broken free. Hunts personnel indiscriminately."*
+> *"Hollow Echo has expanded past the enclosure. It is not pursuing anyone. It is louder, and it is in more places, and the names are going."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Hollow Echo expands beyond containment like a spreading tide. It hunts personnel indiscriminately. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **Movement** | Expansion rather than escape: the even volume occupies a larger space. It does not pursue, has never pursued, and the word *hunts* appeared in this row for nine years against a Minor-potency ambient voice with no body and no recorded act of aggression. |
+| **Effect** | Names stop being available. Not identity wholesale — names: colleagues, streets, the worker's own, in roughly that order, and returning in reverse over about a day. |
+| **Secondary Effect** | A reluctance to reply to anything, which outlasts the name loss by weeks and is the effect the counselors actually watch for. |
+| **First Target** | Nobody. The expansion has no front and no direction; everyone inside the enlarged volume is affected equally and simultaneously, and the response doctrine is built around that rather than around interception. |
+| **Escalation** | Clarity drain increases by 5 per turn while the volume is growing. It stops growing when the enclosure is answered, and the single recorded expansion ended that way in under four minutes. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Answer it. One Warden, the scripted line, read aloud into the enlarged volume. This is the only entity in the wing whose suppression condition is a sentence, and the Directorate has twice attempted to replace it with a physical measure and twice withdrawn the proposal.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn, and the figure is close to meaningless on this holding. The interval is the instrument. During the single recorded expansion it fell to nine seconds and stayed there until the enclosure was answered.
 
 ## M.A.W. Equipment
 
@@ -183,9 +183,9 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Hollow Echo's void signature in the strike.
+**Ability:** Deals Void damage to the Soul. The spear's harmonics carry a single question into the target's hearing and hold it there, and the target must answer it aloud before the sound will stop. The question is always one they have already been asked by someone else.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses the memory of having been asked. Not the answer, not the person — the asking. Over a term of use they become someone who is certain nobody ever came to them for anything.
 
 ### M.A.W. Suit — The Echo Veil
 
@@ -201,9 +201,9 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Hollow Echo's kind of pressure.
+**Ability:** Grants resistance to Void damage. The veil keeps the wearer's own name and their colleagues' names available under pressure, which is the single thing this enclosure takes, and it does nothing else at all.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves and, more usefully for the ledger, becomes unreachable. Messages reach them late. People stop trying.
 
 ### M.A.W. Stigma — The Echo Stone
 
@@ -213,28 +213,28 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 when working this entity, and the holder must carry the current response return for their own wing into the enclosure. It is not read aloud; it is carried.
 
 **Ability:** Amplifies the user's voice across great distances.
 
 **Cost:** The wearer hears unanswered calls whenever the stone is silent.
 
-*Stigmas are granted at random by Hollow Echo upon a successful work, not manufactured.*
+*The stone has been granted eleven times and the holding has published the pattern because it is unambiguous: every recipient had, that quarter, refused a request in plain words and signed the refusal. None had granted one. The wing does not offer this as an incentive and has declined twice to list it as one.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Hollow Echo's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+The set is α-grade and the armoury keeps it for teaching rather than for use. Laid out together the three pieces state the holding's whole problem in order: the spear forces an answer out of somebody, the veil preserves the names an unanswered call takes, and the stone makes the wearer hear the requests they themselves left open. Cohorts are walked past them on their first day and asked to say which one they would rather carry. Most say the veil. The instructors record the answer and do not comment on it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, piece, the watch's three timed intervals, and the operator's own count of outstanding requests they have not answered. The count is taken on trust and is never checked. |
+| **During use** | Time engaged, the question the spear carried, whether the target answered it aloud, and how long they took. |
+| **At limit** | Total engagement and the operator's name list, taken aloud at the limit and compared against the one taken at the door. |
+| **After use** | Name list compared by somebody who was not inside. Discrepancies are expected, recover within a day, and are logged as exposure rather than as injury. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** α-grade across the set and correctly rated. The damage these pieces do is trivial. The cost is that each of them, in a different way, makes the wielder aware of an obligation they have not discharged, and the wing has never found a way to put that on a table of resistances.
 
 ## 관찰 기록 (Observation Log)
 
@@ -244,7 +244,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It responds to acknowledgment but continues calling afterward.
 - Exposure causes emotional distress rather than direct harm.
 
-**Personnel Note:** *"It was waiting. I felt weight. I answered once, and the voice said thank you before calling again."* — Specialist, Zone C patrol
+**Personnel Note:** *"It says thank you. That is the detail nobody prepares you for and the one I would put at the top of the briefing card. You expect to be accused and you are thanked, once, immediately, and then it goes back to calling, because being heard was never what it was asking for."* — Warden, Echo Gardens enclosure
 
 
 
@@ -252,30 +252,36 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Hollow Echo as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone D, Echo Gardens — ambient. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Hollow Echo's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Three timed intervals and the name check at the door. The observer is told, before entering, that they will want to answer it and that answering is permitted and is not expected of them. |
+| **Sustained observation** | Across a year the interval detaches from the watch entirely and attaches to the facility's response returns. Observers who have held both columns stop asking what the voice wants; it has only ever asked for one thing and the question is what we did about it. |
+| **Activation or escalation** | Four ignored conditions are required, which makes this the slowest counter in the wing. Escalation presents as a reply that does not match what was said — the only departure from the single unvarying word ever recorded, and the sole reason the enclosure is staffed at all. |
+| **Post-contact review** | Intervals at open and close, the name lists compared, whether the enclosure was answered and by whom, and the quarter's response return attached. The last is the field that gets left off and the only one that explains the first. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Time three intervals by hand before speaking and three after. The instrument proposed in Year 4234 would have timed continuously and was declined, on the ground that a Warden who is counting is a Warden who is listening, and that this is the one holding in the wing where listening is the containment and not a means to it.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hollow Echo (N-IIα-125 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void. The Echo formed from calls for help that went unanswered. Held at Zone D, Echo Gardens — ambient. The Echo is ambient and has no confirmed physical body.
+Hollow Echo (N-IIα-125 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void, held ambient in an enclosure in the Echo Gardens, Zone D. There is no body and no source; the sound sits at even volume throughout the enclosure. It repeats one request for help in unvarying wording, and the holding's instrument is the interval between repetitions: forty-one seconds at baseline, nine at the floor, two hundred and twenty at the ceiling.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Voice travels through gardens, walls, and open air. Personnel feel the patient despair of an unanswered plea. It responds to acknowledgment but continues calling afterward.
+**Entry 2 — <Response Return: Six Hundred Thirteen Requests, Two Hundred Twelve Answered Either Way>**
+The first full return under the Rule of the Plain Refusal, Year 4238. Six hundred and thirteen requests for assistance reached this facility from outside it that year: subsidence in Zone B, a Fracture margin in the eastern allotments, four separate requests from the same family in the Gardens. Two hundred and twelve were answered either way — ninety-one granted, one hundred and twenty-one refused in words, to the person who asked, with the ground stated. Four hundred and one were left open. Not declined; left. The interval in the enclosure stood at its recorded floor of nine seconds in Year 4230, through the eleven weeks after the Zone B collapse, during which this facility received two hundred and forty calls and answered none of them in either direction while it decided what it could do. It stood at its recorded ceiling of two hundred and twenty seconds in the quarter the register opened and four years of outstanding requests were closed out in writing, most of them with a refusal. The Warden on that watch recorded the figure three times because she did not believe it.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The despair of asking for rescue and learning that no one was coming.
+**Entry 3 — <Statement of a Warden Who Answered>**
+I am allowed to answer and I am not required to, and for two years I did not. I had read the standing order and I agreed with it: say nothing you cannot stand behind. Then I was given the Zone B file to read before a hearing and I found that in the eleven weeks after the collapse we had told two hundred and forty people nothing at all, and that most of them had kept calling the whole time, and that a few had stopped. So I answered it. I said, we are not coming, and I am sorry, and I hear you. The interval went from eleven seconds to forty-four before the end of my watch. It did not say thank you. It said thank you the next time I answered, and that is in the log, and I have never known what to do with it.
 
 **Entry 4 — <Containment Notice>**
-Management: Answer: “I hear you.” Never promise help you cannot provide. Work response — Flerehan: Pauses and responds to the worker's tears. (Decrease); Pugnahan: The call becomes distant but does not stop. (Stable); Viderehan: Reveals fragments of the places from which it called. (Stable); Ferrehan: Continues calling while testing whether the worker will keep listening. (Decrease). Exposure causes emotional distress rather than direct harm.
+Containment of N-IIα-125 is a timekeeping duty at the Gardens and a correspondence duty everywhere else. Enclosure: three timed intervals at open and close; speech scripted and single-pass; answering permitted and never required; name check at the door on the way out as well as in, compared by somebody who was not inside. Facility, owned by the Directorate and binding on every office that receives a request from outside these walls: **a request for assistance that will not be granted shall be refused in plain words, to the person who made it, within thirty days, with the ground stated, and shall not be phrased so as to leave the question open.** A refusal may be reversed later and the reversal recorded; a request may not be left standing. Work response — Flerehan: pauses the call (Decrease); Pugnahan: the call becomes distant and does not stop (Stable); Viderehan: shows fragments of the places it called from (Stable); Ferrehan: it keeps calling and tests whether the worker keeps listening (Decrease). Management: answer, *I hear you*, and promise nothing you cannot provide.
 
-**Entry 5 — <Archive Note>**
-There is nothing in the chamber. The echo is present throughout it at an even volume, with no source and no falloff, repeating a grief that cannot be attributed to anyone — and the longer a worker stands in it, the fewer names they can produce on request. Recovery is complete and takes about a day. The name check at the door is performed on the way out as well as on the way in, and the two lists are compared by somebody who was not inside.
+**Entry 5 — <Director's Memo, Eyes Only: The Plain Refusal>**
+Operations and Legal both opposed this and their papers say the same thing from two directions. A plain refusal is a decision not to help, in writing, signed, dated, and discoverable; it will be produced at every subsequent inquiry and read back to us by people who know what happened afterwards and we do not. And a refusal forecloses. Half the assistance this facility has ever rendered was rendered late, by someone who found a way when the original answer would have been no, and a rule that requires the no to be said will stop those from happening.
+
+The second point we have answered: a refusal may be reversed at any time and the reversal is recorded with the same weight, and the standing form carries a line saying so. The first we have not answered and I do not propose to pretend otherwise. We are choosing to create a permanent record of our own refusals, and we are doing it knowing what that record will be used for.
+
+The cost I will not have minuted away is the one that falls outside. One hundred and twenty-one people were told in plain words this year that this facility was not coming. Some of those letters went to the Fracture margins, where the request had been outstanding four years and the household had rebuilt its whole arrangement around the possibility that we might. One of them wrote back to ask whether the answer would have been different if they had asked differently. It would not have been. I had the reply drafted three times and sent the plainest one.
+
+The ground for the rule is in the enclosure and is measurable to the second. For eleven weeks after the Zone B collapse this facility told two hundred and forty people nothing, carefully, out of a doctrine I would still defend in any room: do not promise what you cannot deliver. The interval in the Gardens went to nine seconds and stayed there. We had not lied to anybody. We had simply left two hundred and forty people holding a question, and it turns out that a question held open does not decay, and that this is not a metaphor, and that there is a thing in Zone D which has been counting.
 
 ## 최종 관찰 (Final Observation)
 
@@ -283,7 +289,7 @@ There is nothing in the chamber. The echo is present throughout it at an even vo
 
 | Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
-| Pauses and responds to the worker's tears. The sorrow is seen clearly; Hollow Echo is fully recorded. | The call becomes distant but does not stop. The gauge climbs and Hollow Echo withdraws without revelation. |
+| The worker says the two things and nothing else: that they hear it, and that nobody is coming. The call pauses. It says thank you. Then it resumes, and the interval is longer, and that is the whole of what success looks like here. | The worker says that help is on its way, or that they will see what can be done, or anything with a future tense in it. The call goes distant and quiet, which reads as calm on the sheet and is not. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -292,32 +298,32 @@ You hear “Help” from behind you. When you turn, the gardens are empty. The c
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Phantasmal resolve into something you can name. A voice without a stable body. At times a faint translucent outline appears, but the sound is present everywhere and nowhere.
+**At first contact:** A voice, one word, at conversational volume, from no direction. It is not frantic. It has been calling long enough that the desperation has worn down into patience, and the patience is the part that is difficult. There may be a faint translucent outline somewhere in the enclosure; it is not where the voice is and it is not the voice.
 
-**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Void that the entity embodies. Understanding it does not make it easier.
+**With continued exposure:** You begin counting with it without deciding to. Wardens in their second year report that they know the interval has shortened before the watch is timed, and the holding permits the report and does not accept it in place of a figure.
 
-**When the entity activates:** When it activates, you understand why the containment protocols exist. The Void that was merely present becomes active, directed, purposeful — the Subject-Phantasmal was holding back, and now it isn't.
+**When the entity activates:** It says something other than the word. This has happened four times in the holding's history and all four are transcribed in the file. Nothing else about the enclosure changes — same volume, same evenness, no outline — and the shift in wording is the entire event.
 
-**After departure:** The containment boundary holds the Subject-Phantasmal, but not the memory. Void residue settles into the bones like Han into the city's foundations.
+**After departure:** You stand at the door and give your list of names to somebody who was not inside. Most of them are there. You go home, and the ones that are missing come back overnight, and for about a week afterwards you answer your correspondence the day it arrives.
 
 ### Interaction Pattern
 
-Hollow Echo does not exist in isolation. Its recorded relationships with The Silent Scream, The Whispering Walls, The Kind Healer should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three records are grouped with this one on the strength of sound, which is the weakest grouping criterion the wing uses and the one it keeps falling back on. Only one of the three has ever been brought near the enclosure, and the result of that is below. The other two are paper comparisons and the file says so rather than implying evidence it does not have.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline first and baseline here means intervals, three at minimum, on a watch with nothing else happening. Then state in one sentence what each entity is made of: what was said, what was not said back, or what was heard by the wrong person. The three records in this group divide on that question and on nothing else, and the division was worth nine years of grouping them by sound.
 
 
 ### Entity Interaction Record
 
-Hollow Echo must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Three records are read beside this one and all three concern voices that are not heard, which has produced a grouping nobody checks. The distinction that holds up is between an entity made of what was said and an entity made of what was not said back. This one is the second kind, and that is also what separates it from the Drowned Echo on the other side of the wing.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Silent Scream** | Both are unheard pleas in different forms. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Whispering Walls** | The Walls carry the call through structures. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | The Healer approaches but cannot answer every call. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Silent Scream** | Grouped as unheard pleas and separated on the only question that matters: that one was never uttered, this one was uttered and never answered. A plea nobody made and a plea nobody returned are different objects and need different instructions. | Paper only. No trial proposed and none expected. | The distinction, written out, on any document that places the two together. |
+| **The Whispering Walls** | Carry sound through structure, which makes them a plausible transmission route and the reason the enclosure's walls were surveyed in Year 4226. They are not connected. The survey found nothing and is filed in full. | No measurable interaction. The volume in the enclosure is unaffected by anything happening in the Walls' holding, checked across two years. | The survey, cited rather than repeated, whenever the transmission question is raised again. It has been raised three times. |
+| **The Kind Healer** | The only trial ever run here. The Healer approached, attended, and could not answer, and the interval lengthened by nineteen seconds and then returned to baseline within the hour. | A real but temporary reduction. The wing's conclusion, recorded against some resistance, is that attendance is not an answer and that the entity can tell the difference. | The nineteen seconds, the hour, and the conclusion, kept together. The first figure has twice been quoted without the second. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Three intervals before, three during, three after, and the quarter's response return attached. Where a trial produces a change that reverts within the watch, the reversion is recorded in the same sentence as the change, because this file has already been misquoted once by someone reading only the first half.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -345,26 +351,31 @@ Some sorrows are about being trapped. Hollow Echo is about being unheard — the
 > *“The silence where the response should have been is the hollow that gives the Echo its nature.”* — Warden, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIα-125 [VS]` · Per classification origin · Per classification coherence · Per classification potency · Void · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `N-IIα-125 [VS]` · Inner origin · Echo (II) coherence · Minor (α) potency · Void · Subject-Phantasmal manifestation
 **Common Name:** Hollow Echo
 **Containment Status:** Contained — Zone D, Echo Gardens — ambient
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Per entity classification. See SECC Classification table for details.
+**Threat Assessment:** Minor. No body, no pursuit, no recorded act of aggression in the holding's history, and one expansion in two centuries which ended when somebody spoke to it. The harm it does is the temporary loss of names and a longer-lasting reluctance to reply to anything, both of which are occupational and both of which recover.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard containment protocols apply.
+- Flerehan pauses the call and lowers the gauge; Ferrehan lowers it by the worker simply continuing to listen. Pugnahan makes the call distant and changes nothing; Viderehan shows fragments of the places it called from and holds steady.
+- Three timed intervals at the open and close of every watch, by hand, by the Warden on duty.
+- Speech into the enclosure is scripted and single-pass. Answering is permitted; it is not a duty and will not be made one.
+- Name check at the door, in and out, compared by somebody who did not enter.
+- Never use a future tense in the enclosure.
+- The Rule of the Plain Refusal is a containment condition of this entity and binds every office of the facility that receives a request from outside it.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Combat Record for engagement parameters.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+- Formed from calls for rescue that were received, assessed, and left open — not refused — over decades. Commissioning material is the response logs themselves.
+- Interval 41 s at baseline; floor 9 s (Year 4230, the eleven weeks after the Zone B collapse); ceiling 220 s (Year 4236, the quarter four years of outstanding requests were closed out in writing).
+- Interval tracks the facility's response returns and has never responded to work done at the enclosure.
+**Cross-References:** Echo Gardens enclosure · Zone B collapse response logs, Year 4230 · the Fracture margin requests · The Whispering Walls wall survey, Year 4226 · The Kind Healer trial · the Drowned Echo, for contrast and not for comparison
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** Citizens of Zone B, the Han overflows and the Fracture margins who called and were not reached. Named individually nowhere in this file and named individually throughout the response logs, which are reproduced in full.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The enclosure is half the file and the Directorate's correspondence registry is the other half, and of the two the registry is the one that moves the needle. A reader who takes only the Gardens half away will conclude that this entity is inert and well understood, which is true of the enclosure and false of the holding.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any expansion or any departure from the single word: transcribe what was said, verbatim, before anything else; re-time three intervals; run the name check on everyone who was in the volume; and pull the quarter's response return. All four of the recorded departures were transcribed late and two of them are reconstructions, which is why the transcription is now the first item and not the last.
 ## Watch Record
 
 ### It Says One Word
@@ -385,18 +396,19 @@ People called from rubble, from overflows, and from Fracture zones, and nobody c
 
 ## Trivia
 
-- The Echo's voice is heard more clearly by people who have once called for help.
-- It says “Thank you” only after direct acknowledgment.
+- The Echo's voice is heard more clearly by people who have once called for help themselves. This is reported consistently enough that the wing records it and has never been able to test it.
+- It says *thank you* only after direct acknowledgment, once, and then resumes calling. It has never said it twice in a watch and has never failed to say it.
+- The enclosure is acoustically ordinary in every other respect. A dropped tool echoes normally. Only the voice has no falloff.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Hollow Echo is a Subject with Echo (II) — Repeats calling out coherence and Minor (α) — Low danger potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone D, Echo Gardens — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Subject, Echo (II), Minor (α), Comprehension Level 1. The Registrum carried placeholder text in four fields for an unknown period and has been filled from the SECC header; nothing in the entity changed, only the record of it.
+- **Field detail:** Void, Zone D, Echo Gardens, ambient throughout a single enclosure and never recorded outside it except during the one expansion.
+- **Recognition detail:** There is nothing to recognise by sight and the faint outline is not it. Identify by the interval: a single repeated request for help, unvarying in wording, at a measurable and strikingly regular spacing. The regularity is the measurement and the file holds that a containment does not need more instrumentation than its subject offers.
+- **Record detail:** Check the designation, and do not read this as the Drowned Echo. That record turns on calls closed administratively — a file marked resolved with no word to the caller, which is a clerical act. This turns on calls never answered in either direction, left open on purpose, by people being careful not to promise what they could not deliver. One is carelessness with a record. The other is caution with a sentence, and it is the more defensible of the two and has cost more.
+- **Containment detail:** The enclosure holds the sound and holds it well. What it cannot hold is the condition that feeds it, which is generated in offices, by people being careful, for reasons that are mostly good.
 ## Document Information
 
 **Document ID:** SE-N-IIα-125
