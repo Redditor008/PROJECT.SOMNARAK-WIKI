@@ -384,7 +384,7 @@ Depth of colour is graded against a nine-step card by two Wardens who must agree
 
 The grade tracks the number of people who did paid work on these premises in the quarter and appear in no Company document of any kind. The figure is obtained as tokens issued less tokens ever presented, and it is the only quantity here that can be had at all, since the Company has by design no way to count persons. Weather, Tide windows, traffic on the old ways and the holding's own gauge were tested and lost.
 
-This Company keeps no register of persons who are not its employees. No gate book, no casual list, no note of who waited at the yard and was not taken on. The old book was handed to a constabulary in a bad winter and eleven men were lifted off it, four of them for nothing but standing where work was given out; it was burned by order and nothing replaced it. The rule is right and this file does not propose touching it.
+No register of non-employees is kept anywhere in this Company, and none may be started without an order of the Board. No gate book, no casual list, no note of who waited at the yard and was not taken on. The old book was handed to a constabulary in a bad winter and eleven men were lifted off it, four of them for nothing but standing where work was given out; it was burned by order and nothing replaced it. The rule is right and this file does not propose touching it.
 
 What follows is that the men who do the heaviest intermittent work here do not exist on paper. A man can take day work in this yard for twelve years and leave no trace he can use. When one is hurt, there is no document saying he was ever on the site; when one dies, his family can prove nothing at all, and the Company is not lying when it says it does not know who he was.
 

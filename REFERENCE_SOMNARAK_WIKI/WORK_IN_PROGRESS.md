@@ -11,10 +11,10 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Measure | Value |
 |---|---|
 | Dossier body lines | 28931 |
-| Lines shared by 30+ dossiers | 2072 |
-| **Headline** | **7.19%** |
+| Lines shared by 30+ dossiers | 1889 |
+| **Headline** | **6.53%** |
 | Dossiers in the measured archive | 291 |
-| **Dossiers rewritten (fixed counter)** | **130 / 291** |
+| **Dossiers rewritten (fixed counter)** | **140 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 
 ## Workstream 1 — De-boilerplate (open)
@@ -31,8 +31,8 @@ These say where the remaining damage sits and which file to open next. A fall in
 |---|---|
 | at 20+ shared lines | 0 |
 | at 15+ shared lines | 0 |
-| at 10+ shared lines | 128 |
-| at 1+ shared lines | 239 |
+| at 10+ shared lines | 112 |
+| at 1+ shared lines | 229 |
 
 ### Next targets, in order
 
