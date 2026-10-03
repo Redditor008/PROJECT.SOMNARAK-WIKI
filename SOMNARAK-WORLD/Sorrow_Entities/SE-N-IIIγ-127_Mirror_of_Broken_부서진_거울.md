@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan. Pugnahan fractures the dream into hostile reflections and is prohibited; Viderehan is run for record only. |
 
 ### Operational Notes
 
-- The Mirror near the Exile's Gate shows the viewer as they were before an event the viewer cannot place.
-- A cycle settles the surface. The image is unchanged, and no session has produced a current reflection.
-- Two ignored conditions escalate it. Escalation presents as the image advancing toward the present.
-- Burden pressure acts on personnel who recognise the earlier state; viewing is single-pass and recorded.
-- Extraction is authorized apart from the work cycle and is never a reward for a clean shift.
+- Near the Gate it returns the viewer as they were before something the viewer cannot date and has never been able to name.
+- A cycle quietens the shards and alters nothing in them. No session in the file has produced a reflection of the person as they are now.
+- The threshold is two. Escalation shows as the reflected self moving forward in time toward the viewer, which is the one change personnel are instructed to report at once.
+- The pressure falls on anybody who recognises the earlier self. Viewing is single-pass, logged by name, and not repeated for the same Warden in the same posting.
+- Extraction is separately authorised, taken from shed shard rather than from the figure, and is never granted as a reward for a clean shift.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Mirror of Broken's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is nothing to engage. The exposure is a dream and the work is done afterwards, in a room, with an account taken voluntarily and the volunteering written down beside it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish a present identity without denying the former one**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - An unresolved encounter never simply ends; it transforms. Mirror of Broken executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
-**Primary Form:** A dreamlike figure formed from broken mirror shards and black weight. Each shard reflects a different self.
+**Primary Form:** A figure that holds together without ever settling — broken mirror fused into black weight-crystal, every shard carrying a different version of whoever is in front of it. **Shape:** never twice the same, and never once the shape of the viewer.
 
-**Notable Features:** It watches silently, appears in Exile dreams, and shows identities split by exile and regret.
+**Notable Features:** It watches and does nothing else, it is met in the dreams of exiles rather than in the chamber, and every self it shows is one somebody stopped being in order to get through the Gate.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Dream
-- **Primary marker:** A dreamlike figure formed from broken mirror shards and black weight. Each shard reflects a different self.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** Shards that disagree. No two return the same person, and none returns the person standing there.
+- **Position / movement:** Fixed to the Gate's vicinity and shapeless within it. Record the number of distinct faces and nothing about any of them.
 - **Element signature:** Weight
 - **Registered location:** Zone E, Exile's Gate vicinity
 
@@ -115,29 +115,29 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A dreamlike figure formed from broken mirror shards and black weight. Each shard reflects a different self. |
+| **Form** | Mirror fragments set in black weight-crystal, assembled differently at every sighting. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Material / signature** | Weight. Lead-cold glass, edges that look sharp and are, wet stone on the air, and a pressure that makes breathing feel like lifting. |
+| **Distinctive markers** | The count of distinct faces, and nothing whatever about their content. |
+| **Identification** | Count the faces. One face is a mirror; eleven is this holding. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Number of distinct faces, whether any face advanced toward the present, the dreamer's own words on waking, and the fact of their volunteering. No face is described, by standing order, because a description would put a Warden's interior on a shelf.
 
 ## Origin
-- **Formation:** The entity formed from a self divided by leaving home.
-- **The Sorrow:** The weight of becoming someone else in order to survive.
-- **The Event:** An exile saw their former identity break in the Gate's reflection; the fragments became a dream figure.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** An exile once stood before the Gate and found that the reflection had no single face. One shard showed the person who had entered the city years ago. Another showed the person who had learned to survive inside it. A third showed the stranger who would walk beyond the Gate. The exile tried to break the mirror, believing one reflection had to be false.
+- **Formation:** From a person who changed themselves in order to get through, in a system that keeps no account of who anybody was before.
+- **The Sorrow:** Not regret at having changed. Having changed, survived it, and finding that the earlier person is not something the record is capable of holding.
+- **The Event:** One passage through the Exile's Gate, logged as an outward row that was never matched to the inward row made years earlier under another standing.
+- **The People:** One exile, in the Gate's passage records as two rows that were never matched, and everybody since who has had to become someone else to get through.
+- **Expanded origin context:** The Gate's passage records for the period are intact and they are halves. An inward row exists for a person who entered under one standing; an outward row exists for a person who left under another; nothing in the system joins them, because standing does not survive a break and the Company holds only what a person is now. Neither row is wrong. Neither mentions the other. The exile who walked out was, on the record, a person of some months' standing with no history, and the one who had walked in years earlier had simply ceased to be anything the Office could look up. They tried to break the mirror at the Gate on the understanding that one of the three faces had to be the false one. All three were true and none of them was current, which is the only category the record has.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Shards turn toward the worker's grief. | Decrease |
-| **Pugnahan** | The dream fractures into hostile reflections. | Increase |
-| **Viderehan** | Shows the selves the worker abandoned. | Stable |
-| **Ferrehan** | Tests whether the worker can remain without choosing one self. | Decrease |
+| **Flerehan** | Every shard turns away from the body and toward the grief, which Wardens describe as being looked past rather than looked at. | Decrease |
+| **Pugnahan** | The dream breaks into selves that are hostile to the viewer and to each other. Prohibited. | Increase |
+| **Viderehan** | The selves the worker stopped being, in order, with the dates missing. Gauge holds. | Stable |
+| **Ferrehan** | Staying in front of all of them for the interval without electing one as the real one. | Decrease |
 
 
 
@@ -148,22 +148,22 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Breach Behavior
 
-> *"Mirror of Broken has broken free. Shows personnel their worst selves, breaking their resolve."*
+> *"Mirror of Broken has gone past the Gate vicinity. It is not chasing anybody. Everyone asleep in the affected sections is in it."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | Mirror of Broken pulses with concentrated force, cracking the walls around it. It shows personnel their worst selves, breaking their resolve. |
-| **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
-| **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **Movement** | It does not travel. The affected zone enlarges and the dreams inside it fill with selves the dreamers had finished with. |
+| **Effect** | Burden across the whole affected zone: the floor reads as uphill in every direction and every step is work. |
+| **Secondary Effect** | A weight on the chest that turns breathing into an action somebody has to decide to take. |
+| **First Target** | Whoever is asleep. It has never acted on a waking person and the breach record contains no exception. |
+| **Escalation** | Resolve drain rises by 5 each interval, and the face count rises with it; fourteen were recorded during the single breach in the file. |
 
 ### Escalation Notes
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Wake everybody in the affected sections and keep them awake. Sealing does nothing — the perimeter is sleep, not a wall — and the only lever anybody has is that it cannot reach a person who is not asleep.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each former self a person in the affected zone denies aloud. It falls 10% when somebody names a self they used to be without arguing that it was the real one. Silence holds it.
 
 ## M.A.W. Equipment
 
@@ -186,7 +186,7 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** The multiplier applies to the strike and to each Tick separately, and the prism must be held by the same bearer throughout an engagement; three bearers in sequence produced three incompatible after-action accounts of the same minute.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Mirror of Broken's weight signature in the strike.
 
@@ -218,13 +218,13 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat, and for about a day the wearer can recall, with unusual precision, a version of themselves they had stopped being able to picture. Several wearers have asked for the piece back and the request is always refused.
 
 **Ability:** Anchors the wearer between conflicting identities.
 
 **Cost:** The wearer feels the weight of every self they abandoned.
 
-*Stigmas are granted at random by Mirror of Broken upon a successful work, not manufactured.*
+*Nine reflections exist. Each was cut from a shard that had stopped returning a face, and each is issued with the standing order that its bearer never describe what they see in it to anybody, including a counsellor.*
 
 ### M.A.W. Use Notes
 
@@ -244,11 +244,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It manifests most strongly near the Exile's Gate.
-- Its reflections are dreams, not ordinary images.
-- Personnel feel fear after seeing selves they cannot reconcile.
+- Strongest within sight of the Exile's Gate and weaker with every hundred metres from it; nothing has ever been recorded beyond the Zone E boundary.
+- The reflections are dreamt, not seen. No glass, lens or plate has ever captured one, and the holding is invisible to every instrument the wing has pointed at it.
+- Fear afterwards rather than during, and it attaches to the selves that cannot be made to agree rather than to the figure.
 
-**Personnel Note:** *"It was watching. I felt fear. The mirror did not ask me to choose between who I was and who I became. It showed me that both had survived."* — Specialist, Zone D patrol
+**Personnel Note:** *"Eleven faces. It did not ask me to pick one, which is the part that undid me — the Office has only ever had room for the one I am this year, and that thing in the Gate had all of them standing there at once and treated every one as still in existence."* — Specialist, Exile's Gate watch, Zone E
 
 
 
@@ -256,27 +256,29 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Mirror of Broken as a Subject with Subject-Dream manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone E, Exile's Gate vicinity. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Mirror of Broken's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Face count, distance from the Gate, the dreamer's own words taken on waking, and whether the account was volunteered. |
+| **Sustained observation** | The face count is returned annually and has risen each time: four, seven, eleven. Its conduct, position and effect are otherwise identical across the whole series. |
+| **Activation or escalation** | A face that has moved toward the present, or a count above the series. Both are reported the same shift and neither is left to the next return. |
+| **Post-contact review** | Count, distance, the volunteered account, and the counsellor's note. Nobody is asked a second time; the rule was written by a Warden who was. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** A tally of faces, a distance from the Gate, voluntary accounts collected in the morning, and the Standing Office return on re-entries carrying no prior standing to set the count against.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Mirror of Broken (N-IIIγ-127 [WS]) is logged as a Subject-Dream manifestation expressing Weight. The entity formed from a self divided by leaving home. Held at Zone E, Exile's Gate vicinity. It manifests most strongly near the Exile's Gate.
+Mirror of Broken (N-IIIγ-127 [WS]) is logged as a Subject-Dream manifestation expressing Weight, in the vicinity of the Exile's Gate in Zone E. It is met in sleep, it has never acted on anybody, and the number of selves it holds at once is greater at every annual return.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Exile's Gate Watch, Year 4238>**
+Eleven distinct faces counted at the last return, against seven and four. Content not recorded, by standing order. Dream-side accounts volunteered by nine of the eleven dreamers; two declined and were not asked again.
 Spreads through dreams and Gate reflections. Personnel feel divided between city-self and exile-self. Its reflections are dreams, not ordinary images.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Standing Office, standing rule>**
+A person is assessed on their present standing. Service, grade, qualification and conduct attach to a continuous standing and do not survive a break in it; nothing a person was before their current entry is carried forward, cited, or taken into account.
 The weight of becoming someone else in order to survive.
 
 **Entry 4 — <Containment Notice>**
-Management: Establish a present identity without denying the former one. Work response — Flerehan: Shards turn toward the worker's grief. (Decrease); Pugnahan: The dream fractures into hostile reflections. (Increase); Viderehan: Shows the selves the worker abandoned. (Stable); Ferrehan: Tests whether the worker can remain without choosing one self. (Decrease). Personnel feel fear after seeing selves they cannot reconcile.
+Management: let the earlier selves stand. The gauge rises on denial and falls when somebody names a person they used to be without arguing about which one was real. Work response — Flerehan: Shards turn toward the worker's grief. (Decrease); Pugnahan: The dream fractures into hostile reflections. (Increase); Viderehan: Shows the selves the worker abandoned. (Stable); Ferrehan: Tests whether the worker can remain without choosing one self. (Decrease). Personnel feel fear after seeing selves they cannot reconcile.
 
 **Entry 5 — <Archive Note>**
 An exile once stood before the Gate and found that the reflection had no single face. One shard showed the person who had entered the city years ago. Another showed the person who had learned to survive inside it. A third showed the stranger who would walk back out through the Gate if the exile stayed much longer. None of the three agreed to be the reflection. The shards have turned toward grief rather than toward the body standing in front of them ever since, and personnel leave the chamber carrying an oppressive mass that makes breathing feel like lifting.
@@ -308,20 +310,20 @@ The shards float around a figure with no single face. One reflection belongs to 
 
 Mirror of Broken does not exist in isolation. Its recorded relationships with The Exile's Gate, The Empty Mask, Silence We Forgot We Made should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish this holding's own face count across several nights with no second holding present, then introduce the other and count again from the same watch, at the same distance from the Gate, with every account volunteered and none merged into another.
 
 
 ### Entity Interaction Record
 
-Mirror of Broken must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Mirror of Broken must be distinguished from the identity holdings it is filed beside. The Empty Mask concerns being taken for somebody else; this one concerns having been somebody else, provably, in a system that holds only who you are today — which is why its figure is a count of faces rather than anything about a face.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Exile's Gate** | The Gate provides its central divided reflection. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Empty Mask** | Both question identity and recognition. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Silence We Forgot We Made** | Holds the name abandoned at exile. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Exile's Gate** | The Gate supplies the division itself: an inward row and an outward row for one person, with nothing in the system joining them. Face counts taken at the Gate run roughly double those taken a hundred metres off. | Count doubled; no other change. | Record the count against the distance. The passage records are consulted but never matched up, matching being outside anybody's authority. |
+| **The Empty Mask** | Opposite problems in one corridor: the Mask is taken for somebody it is not, this holding is nobody it has been. Dreamers exposed to both report selves wearing faces that are not theirs. | Count rises; the accounts become unusable and are filed unedited. | Record both counts. No reconciliation is attempted and none is permitted. |
+| **Silence We Forgot We Made** | That holding keeps the name left behind at the Gate; this one keeps the people who went on without it. Together they produce, in dreams, a self with a name attached — the only such report in the file. | One dreamer; one account; one withdrawal from the posting. | Not repeated. The account is held unedited and is not quoted, here or anywhere. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Face counts before and after from the same watch, distance from the Gate logged throughout, accounts taken voluntarily in the morning, and no dreamer used twice.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -349,17 +351,17 @@ Some sorrows mourn a home. Mirror of Broken mourns a self — the identity shatt
 > *“Crossing the Gate is a change of identity, not just location. The Gate showed him the change.”* — Elder, Gate District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-127 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-127 [WS]` · Inner origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Dream manifestation
 **Common Name:** Mirror of Broken
-**Containment Status:** Contained — the Desolate (near Gate)
+**Containment Status:** Contained — Zone E, within sight of the Exile's Gate
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. Fragments of an identity shattered at the Gate. Effect: proximity induces the vertigo of a self divided by leaving.
+**Threat Assessment:** Major (γ). It never acts and it cannot be sealed out, because the way in is sleep; a breach takes a whole section's dreamers at once. Effect: the vertigo of a self that was changed in order to get through.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The fragments drift; do not attempt reassembly.
+- Flerehan is the primary Work Type and Ferrehan the alternate. Viderehan is run for record. Pugnahan is prohibited.
+- Do not attempt to reassemble the shards, and do not describe what any of them showed. Both prohibitions are standing orders with reasons attached.
 **Observation Notes:**
-- An exile’s identity broke in the Gate’s reflection.
-**Cross-References:** The Gate · Doorway to Nowhere · Anonym
+- An exile's standing ended at the Gate and a new one began there, and the record holds no line connecting the two.
+**Cross-References:** The Exile's Gate · Doorway to Nowhere · Anonym · The Empty Mask · the Standing Office rule on present standing · the Two Dates
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** An exile crossing the Gate.
 
@@ -386,10 +388,28 @@ It does not act. It observes, and the observation is the entire effect, which th
 
 What it carries is the cost of changing in order to survive leaving, and the commissioning material holds the Gate's own passage records for the relevant period — names going out, with the entries made on the way in beside them where both exist. Many have only one half. The archivist's note observes that the incomplete rows are the majority and that this is the condition the entity is made of. Accounts are held unedited, including the ones that contradict each other, and no attempt has been made to reconcile them. The file states that reconciliation would require deciding whose dream was accurate, which is not a question the archive is equipped to answer.
 
+### What the Face Count Is Measuring
+
+Eleven distinct faces, after seven and four. The count is taken by the Gate watch from voluntary accounts, and the content of no face is written down — that prohibition is a standing order with its reason printed under it, which is that a described face would put a Warden's interior on a shelf in the archive. The count is all there is, and it is enough to see that it climbs. Nothing else about the holding has altered: it is in the same vicinity, it acts on nobody, it is met only in sleep. The number does not follow the Tide, the Gate's traffic or the size of the watch. It follows one line in the Standing Office's annual return: persons re-entering the establishment with no prior standing carried forward.
+
+A person at this Company is their present standing and nothing else. Service, grade, qualification and conduct attach to a continuous standing, and a break in it ends them: whoever comes back comes back as new. The rule is not cruelty and the Office's first volume is clear about what it was for. When history was carried, it was carried permanently and selectively. A grading given to a man of twenty was read against him at fifty by officers who had never met him. Families accumulated standing and the children of clerks were clerks. The Year 4188 review found 1,440 people whose current work was rated below their recorded past and 300 whose past kept them in posts they could no longer do. Holding only the present self abolished all of that in one sentence. Nobody is followed. Nobody inherits. Nobody is marked at twenty for life.
+
+Its consequence is that the earlier person is not denied, disbelieved or struck out — there is simply no field in which they can exist. A person who changed in order to get through the Gate cannot show that the earlier one was ever there, and a person of thirty years' standing who breaks for a season loses every year of it, not by anybody's decision but by the shape of the record. The Gate's own books hold the condition in miniature: inward rows and outward rows, made under different standings, by the same people, that nothing in the system is able to join. The archivist's note observes that the unpaired rows are the majority. There is a figure in Zone E assembled from eleven selves, all true, none current.
+
+### The Two Dates
+
+Instituted Year 4223. On request, the Gate issues a person a card bearing two dates: the date of their earliest recorded passage inward, and the date their present standing began. Nothing between, nothing about either, no grade, no service, no conduct. Two dates and the Gate numbers.
+
+Year 4237: 9,870 cards issued; 0 entitlements conferred; 0 proceedings in which a card was admissible; 15,400 requests that could not be met because only one half of the pair exists in the books, which is 61 per cent of those asked for; and 4,480 persons re-entered with no prior standing carried, which is the figure the Gate watch sets the face count against. Asking for a card is itself recorded nowhere, which is unusual among these schemes and was fought for.
+
+The costs are set out on the back of the card. Two dates are not a history and cannot be made into one: the gap between them is the whole of a life at this Company and the card is silent across all of it, deliberately, because a card that said anything about what a person was would be prior standing in a pocket. The card proves no service and supports no claim. And for most people it cannot be issued at all, since the inward row was made under a standing that has since lapsed and lapsed standings are not indexed by person. A man may know perfectly well he came through in 4209 and be unable to be told so.
+
+The Gate clerks asked for one line. Not a grade, not conduct — one line of plain fact, where the books support it, saying what the person did before. Refused, and the refusal is correct on the Office's own reasoning: a line about what somebody was is prior standing, prior standing is what followed 1,440 people in 4188, and a line that may be written for some people is a line whose absence speaks about the rest. Their submission stands in the Year 4231 return, recorded as correct and unanswered. The Gate watch keeps it inside the lid of the tally box, under the day's count: we hold only who a person is now, so that nothing anybody was can ever be used against them, and there is something out by the Gate tonight holding eleven people who all used to be somebody and are not on file anywhere.
+
 ## Trivia
 
-- It has no single original face.
-- Its shards become heavier when the viewer denies a former self.
+- There is no original face. Eleven were counted at the last return and no two of them agree.
+- The shards gain weight measurably when a viewer denies a self they used to be, and lose it when one is named without being argued over.
 
 
 
@@ -397,8 +417,8 @@ What it carries is the cost of changing in order to survive leaving, and the com
 
 - **Classification detail:** Mirror of Broken is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone E, Exile's Gate vicinity.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A figure of broken mirror and black crystal that is never the same shape twice, lead-cold, sharp to be near, with wet stone on the air and a different self in every shard.
+- **Record detail:** The Registrum recorded Echo (II) coherence and Moderate (β) potency against a Fragment (III), Major (γ) header, rated the holding Low on the same line, named Viderehan the primary Work Type where Flerehan and Ferrehan move the gauge, and placed the containment in the Desolate while the header gives Zone E, Exile's Gate vicinity; the personnel note was attributed to a Zone D patrol. The breach rows described cracking walls and a nearest-personnel target on a holding that works in sleep and does not act. The M.A.W. grade was blank against three γ pieces. All corrected. The Warden Record, the prohibition on describing faces and the Gate passage material are untouched.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
