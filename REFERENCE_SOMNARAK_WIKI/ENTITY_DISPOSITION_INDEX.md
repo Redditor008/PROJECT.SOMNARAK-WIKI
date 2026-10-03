@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **83** |
-| Pending — no disposition-bearing line found by scan | 220 |
+| **Classified here, with a quoted line of evidence** | **84** |
+| Pending — no disposition-bearing line found by scan | 219 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 83 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 84 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 220 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 219 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -65,6 +65,7 @@ Lethal to the people working them; inert toward everything else in the building.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| Unrung | `SE-C-IIβ-170` | *"It has never sounded, never moved and never breached, and nobody has been injured at the plinth."* Its one recorded activation opened a sealed door and delivered a warning to the three people present and to nobody else; the only cross-entity relationship that is measured is a soundless resonance with the Orphaned Bell logged as observed and unexplained, and a standing proposal to use it as an approach warning for the Sorrow Gate was refused twice. Its effect runs onto this facility's own warnings practice. Neutral. |
 | Anger Underfoot | `SE-C-Iα-175` | *"In a hundred and ten years the trace has injured nobody, has crossed no dwelling threshold, and has never left the Commons."* No pairing has ever been observed, the Wandering Trace carriage claim is unevidenced, and the Year 4230 proposal to let it reach the Garden of Thorns was refused. Its effect runs onto this facility's own complaints practice and reaches no other holding. Neutral. |
 | Unwitnessed | `SE-C-Iα-236` | *"In four hundred years there has been no injury, no spread beyond the outline, and no recorded approach by the entity toward anything."* No pairing has ever been observed and none ever will be — it cannot be moved and any personnel on the ground end the manifestation within four seconds, which is why the two proposals for a standing Scar Walker watch were refused. It neither suppresses other entities nor assists them. Neutral. |
 | Aphonia | `SE-N-IIβ-170` | *"In forty-one years it has not struck anybody, not pursued anybody, and not left the ward it was first recorded in."* Breaches end when somebody speaks to it, never by suppression; the one joint observation was abandoned at eleven minutes with no transfer observed, and the proposal to amplify its cry through the Hollow Choir was refused twice. It neither suppresses other entities nor assists them. Neutral. |
