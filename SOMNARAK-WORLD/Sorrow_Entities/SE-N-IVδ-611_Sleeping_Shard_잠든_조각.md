@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan, sitting beside the grief rather than reaching for it, and nothing said in the first person. |
 
 ### Operational Notes
 
@@ -116,9 +116,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes shape inside dreams. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | It floats unsupported at a constant chest height and drifts. Where it has come to rest and the angle of the curl are both recorded, and neither is corrected. |
+| **Material / signature** | Void. Pale crystal, bloodless cold, ash, and weeping that is liquid only while it is close to the Dream layer. |
+| **Distinctive markers** | It carries the shard rather than being carried by it, and it is asleep. Those two together separate it from every other crystal holding in the wing. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins; if one of them does not, stop there. |
 
 **Appearance protocol:** Record the body and the shard separately: the figure changes shape while it dreams and the crystal does not. Log the weeping — whether it is running, how far it travels before it stops being liquid, and at what distance from the Dream layer that happens. Scale, posture and the attitude of the curl move before anything else does.
@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It sleeps more peacefully and its tears slow. | Decrease |
-| **Pugnahan** | The dream fractures and the Shard wakes angrily. | Increase |
-| **Viderehan** | Reveals the memory beneath its sleep. | Stable |
-| **Ferrehan** | Tests whether the worker can remain without waking it. | Decrease |
+| **Flerehan** | The sleep quietens and the tears slow — a change of degree measured against the start of the shift, never against the file. | Decrease |
+| **Pugnahan** | The dream fractures and it wakes angrily, which is the one state nobody in the wing has a second plan for. | Increase |
+| **Viderehan** | The memory under the sleep becomes available and is not read. The wing has declined three proposals to establish its content, each refused in the same paragraph. | Stable |
+| **Ferrehan** | The worker stays beside it without reaching for the grief, which is the hardest discipline in the wing because it unteaches what dream work otherwise trains. | Decrease |
 
 
 
@@ -240,11 +240,11 @@ Each piece is a conditional extension of the Shard rather than ordinary equipmen
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It has never fully awakened.
-- Its dreams are visible to personnel near the Gate.
-- Its tears contain no liquid outside the Dream layer.
+- It has never woken in the life of the holding, and the briefing was rewritten after the last waking event so that it would not happen again.
+- Staff on the far side of the Gate report the dream's contents without entering the chamber, which is how the seal's rating came to be written down honestly.
+- The tears cease to be liquid at a fixed distance from the layer, and that distance is the one measurement in the chamber that has never varied.
 
-**Personnel Note:** *"I felt longing. The Shard was asleep because waking would make the grief real again."* — Specialist, Zone B patrol
+**Personnel Note:** *"I felt longing with nothing attached to it. The Shard is asleep because waking would make the grief real again, and we are paid by the tear, which is a thing I try not to think about on shift."* — Dream worker, Zone E, Exile's Gate
 
 
 
@@ -253,9 +253,9 @@ Each piece is a conditional extension of the Shard rather than ordinary equipmen
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Sleeping Shard as a Subject with Subject-Lament manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone E, Exile's Gate vicinity. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Sleeping Shard's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Tear rate in the layer, the distance at which the weeping stops being liquid, the resting height, and where in the chamber it has drifted to. The crystal does not change; the body around it does. |
+| **Activation or escalation** | Any disturbance of the sleep: a voice in the chamber, a light brought close, a hand laid on the crystal. Each is a step up, and the threshold is 1. |
+| **Post-contact review** | Tear rate at open and close, the shape report in the entrant's own words, the drift position, and the cycle's return — which falls as the work improves and is booked under the care heading for that reason. |
 
 **Observation method:** Record the first sign, which near the Gate is often the observer's own dream from the previous night turning up in the chamber; the first sensation, which is longing with nothing attached to it; the first environmental change, which is the tears ceasing to be liquid at a measurable distance; and the condition that ends the encounter, which is either the anchor being set or the sleep being broken.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -315,9 +315,9 @@ The Shard belongs to a set of entities that have each put a grief somewhere it c
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Frozen Shard** | Both preserve sorrow in crystal. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Dream Weaver's Loom** | The Loom weaves its sleeping dreams. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Frozen Sigh** | Shares grief suppressed into sleep. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Frozen Shard** | Both keep a sorrow inside crystal. | A separate record under separate management, confused with this one in requisitions more than once. No pairing has ever been run; the two have only been compared on paper, and the comparison concluded that the method is shared and nothing else is. | The paper comparison and the standing requisition warning, reissued each year. |
+| **The Dream Weaver's Loom** | The Loom takes up the sleeping dreams and works them. | With the Loom in range the dreams become legible from considerably further off and the tears travel further before they stop being liquid. The effect persisted into the following shift on two occasions, which is why separation does not close the record here. | Legibility distance, tear travel, drift pattern before and after, and the following shift's readings. |
+| **The Frozen Sigh** | A grief put into sleep, by a different method, with the same intention. | The two settle each other and both gauges fall, which is the only pairing in this file with a benign result. It is still not arranged as a procedure: a settled Shard is a cheap outcome and a cheap outcome here is exactly what the wing has agreed not to pursue. | Both gauge series, the distance of first change, and the decision not to repeat it, with its reasons. |
 
 **Interaction procedure:** Solo baseline first, then the pairing: the distance at which the first change appears, what altered in the sleep or the weeping, how long it lasted, and whether the Shard returned to its prior drift after separation. Separation does not close the record here. Twice the Shard has gone on showing the other entity's influence into the following shift.
 
@@ -347,22 +347,22 @@ Some sorrows are about feeling. Sleeping Shard is about the refusal to feel — 
 > *“The choice that seemed like mercy and became a prison.”* — Mender, Dream Gates
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-611 [N]` · Void · Subject-Lament manifestation
+**Classification:** Sorrow Entity — `N-IVδ-611 [N]` · Inner origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Lament manifestation
 **Common Name:** Sleeping Shard
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Critical (δ) at threshold 1. It has never woken in the life of the holding and there is no interface between it and the facility at all; the grade is the Corrupt radius and the fact that the only contingency for a waking is to leave.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Flerehan and Ferrehan quieten the sleep and slow the tears; Pugnahan fractures the dream and wakes it; Viderehan shows the memory underneath and moves nothing.
+- Never claim the sorrow. Do not say you understand, do not offer a comparable loss, and do not describe the grief in the first person. Drift is logged, never corrected.
+- Do not force a waking. Set the anchor first, quieten the zone second, withdraw radially from wherever you are standing, and accept a slow recovery of the radius.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- One exile at the Gate who asked to stop feeling and to keep knowing why. The petition is recorded in those words; no name was entered, and that season's exile roll is among the ones Zone E never recovered.
+- One hundred and forty-two cycles last year at a mean return of 9.4 Han-Energy, against 24 in Year 4231 when wakings were frequent. The chamber ranks last of the eleven holdings in Zone E.
+- Extraction draws from the tears, which stop being liquid at a measurable distance from the Dream layer. Nothing has ever been taken from the crystal and nothing can be.
+**Cross-References:** The tear-rate series and the chamber's return ranking · the care-cycle heading and the Year 4229 assessment instruction · the finance office's standing objection to exempted holdings · the three declined research proposals on the memory's content · the radial withdrawal drill
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** An exile who asked for an end to the pain with the reason for it left intact, and was granted exactly that and no more.
 
 ### Registry Addendum
 
@@ -399,10 +399,40 @@ In a corrupt event it intensifies in place rather than moving, warping the zone 
 
 The room holds nothing but the observation position and the door, and the emptiness has twice been reported by visiting inspectors as a deficiency in fit-out. The response prepared for such findings is kept in the file and is reused verbatim: there is no interface between the entity and the facility, equipment installed in the room would monitor an empty volume, and a chamber furnished to satisfy an inspection would be furnished for the inspection. Both inspectors accepted it. The second asked that the response be attached to their report, and it was.
 
+### What the Tear Count Measures
+
+The chamber's return comes from the tears. The tears slow when the work goes well. Both halves of that have been true since the holding opened and the arithmetic is not complicated.
+
+**One hundred and forty-two cycles last year, mean return 9.4 Han-Energy.** In Year 4231, when the briefing was still wrong and wakings were frequent, the mean was 24. The tear rate is logged in the layer at open and close of every cycle, and the series runs downward across eleven years in near-perfect step with the improvement in the briefing.
+
+By the only measure the facility applies to holdings, this chamber has been getting worse for a decade. By every measure the people who work it recognise, it has been getting better, and the two statements describe the same series of numbers.
+
+The chamber now ranks **last of the eleven holdings in Zone E** for return per cycle. It ranked fourth when the work was done badly.
+
+### Funding Follows the Measured Return
+
+Establishment, equipment and training hours are allocated on measured output. That is the right rule and the file says so without qualification: the alternative is allocation by advocacy, where the wings with the most persuasive commanders get the people, and the archive contains enough of that era to make the case for itself.
+
+The rule requires a measure that is uniform across holdings, and the measure is Han-Energy returned per cycle. It cannot be anything else. A measure that varied by holding would be eleven measures, and eleven measures are none.
+
+What that produces here is exact and unfixable. A holding whose output is inversely related to the quality of its care is funded worst precisely when it is run best, and the workers who are best at this chamber are the ones whose cycle sheets show the smallest numbers. There is no fraud in it and nobody is being cheated; the measure is doing what it was designed to do, to a case it was not designed for.
+
+The wing has not applied to have the measure changed. The application would be refused, correctly, and the file states the reason it would be refused rather than pretending to a grievance.
+
+### The Unreturned Heading
+
+What the wing could do, it did inside its own authority, and it amounts to protecting the workers rather than the budget.
+
+Cycles here are booked under a separate heading — **care cycles** — which carries no return figure at all and is reported as a count rather than a yield. The chamber's Han-Energy still goes into the Zone E total, because concealing it would be a fraud on the allocation; what the heading does is stop the chamber's per-cycle figure from appearing beside the other ten on the comparison sheet, where it reads as a failure and is not one.
+
+And a standing instruction, issued in **Year 4229**, bars any supervisor from citing this chamber's return in a personnel assessment. It was issued because seven workers had already had it cited against them, two of whom had asked to be moved. None since. Of the seven, five are still in the wing and four of those are still rostered here.
+
+The finance office objects, re-tables the objection annually, and is right to. A holding lifted out of the comparison is a holding nobody can compare; exemptions are easy to justify one at a time and the second is always easier than the first; and a measure with carve-outs in it has stopped being a measure and become a negotiation. The minute reads **correct, and no answer is offered**. The wing's only recorded reply, entered once and never expanded, is that it would rather be unable to compare this chamber than be able to compare it and have the answer be wrong.
+
 ## Trivia
 
-- Its physical body is a dream made solid.
-- It becomes active when someone tries to wake it by force.
+- The body is the dream's own product and changes shape only inside the layer, which is the only evidence available that the dream is still running.
+- A forced waking is the single action it answers, and it is the one thing the chamber exists to prevent.
 
 
 
