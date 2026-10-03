@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan, walked alongside. Pugnahan adds the worker's anger to the entity's mass and is prohibited outside a breach. |
 
 ### Operational Notes
 
-- The entity moves through deep storage marking days that do not correspond to the facility calendar.
-- A cycle slows the marking. The sequence is not corrected, and no session has aligned it with any record in the Archive.
-- One ignored condition escalates it. There is no margin, and the pre-entry check is performed against a printed date.
-- Burden pressure accrues in personnel who attempt to reconcile the two calendars in the room; reconciliation is prohibited on site.
-- Extraction is a separate risk event under its own authorization.
+- It walks the long chamber marking days that match no facility calendar. They are not arbitrary: every date checked against the civil record has been a real one.
+- Work slows the marking and never alters the sequence. Four attempts to bring it into register with the Archive's chronology failed, and the fourth is written up as a caution against a fifth.
+- Threshold 1. The pre-entry check is made against a printed date held outside the chamber, because workers who have been inside for an hour cannot reliably state what day it is.
+- Reconciling the two calendars in the room is prohibited. Personnel who try accrue burden pressure fast, and the prohibition was written after an archivist spent a shift trying and had to be walked out.
+- Extraction is authorised separately, carries its own risk entry, and is not scheduled within a fortnight of an opening date.
 
 ## Combat Record
 ### Core Stat Line
@@ -66,7 +66,7 @@
 |---|---|
 | **Battle Length** | Long — 24 turns |
 | **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) — Ancient and weary |
+| **Coherence** | Entity (IV) — ancient, weary, and wholly without a grievance it can name |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Walking Calendar's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The crew walks the long chamber alongside it at its own pace, takes the traverse tally and the date count, and does not argue with it about history, including when it is wrong.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Archive the truth; do not erase or excuse it**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - If the resolution condition is not fulfilled, Walking Calendar reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
-**Primary Form:** An ancient figure draped in layers of stone, calendars, and worn city records. Each step adds another year to its body.
+**Primary Form:** A bowed ancient figure under fused layers of stone slabs, old calendars and worn city records, gaining a year of apparent age with every step it takes. **Gait:** lead-slow, unvarying in direction, never stopping at either end of the run.
 
-**Notable Features:** It carries historical shame, sings in dates, and grows heavier when the city denies its past.
+**Notable Features:** It sings in dates rather than words; it grows heavier when a truth is erased; and it is heaviest in the fortnight either side of a seal expiring.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** An ancient figure draped in layers of stone, calendars, and worn city records. Each step adds another year to its body.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** A continuous tonal song made of years in sequence, audible through the chamber door before anything is visible.
+- **Position / movement:** Walks the straight run end to end without stopping. Record traverses on the chalk board and the distinct dates heard in the song.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-A-01, Alpha Tree deep storage
 
@@ -115,29 +115,29 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An ancient figure draped in layers of stone, calendars, and worn city records. Each step adds another year to its body. |
+| **Form** | A bowed figure of fused slabs, calendars and city records, ageing by a year per step. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Material / signature** | Weight. Wet stone and dust, a measurable load on the suit before the figure is in view, and a voice like stone on stone. |
+| **Distinctive markers** | Traverse tally, distinct dates in the song, suit load at the door, and whether any date in the session has been heard before. |
+| **Identification** | Take three dates from the song and check them against the civil record outside. If none of them is real, this is not the Calendar. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the suit load at the door, the traverse count, the date count and the first three dates heard, and note any date that recurs within a watch — recurrence has preceded every gauge excursion the holding has logged.
 
 ## Origin
-- **Formation:** The entity formed from the accumulated years of unacknowledged history.
-- **The Sorrow:** The weight of every generation that inherited the city's crimes.
-- **The Event:** Centuries of erased records and repeated failures settled into a single ancient body.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored. Expanded origin context: The Director's annotation: 'This sorrow is not anomalous. It is representative. The Weight at SECTOR-A-01, Alpha Tree deep storage is the same grief, the same refusal, the same wound. The Subject is what happens when the city stops pretending it doesn't hurt.'
+- **Formation:** From history that was never hidden and never arrived: deposited, sealed to term, and opened on time to nobody.
+- **The Sorrow:** Inheriting a thing you cannot be guilty of, cannot discharge, and cannot have explained to you by anybody who was there.
+- **The Event:** No event. Ninety-year terms running out in sequence, year after year, each opening correct, each one too late to be answered.
+- **The People:** Nobody in particular, which is the entity's whole character: every generation that inherited the city's crimes and no generation that committed them.
+- **Expanded origin context:** The city destroys no records. Since the Year 4140 instrument everything deposited is sealed for a fixed term and opens automatically when the term runs, and no officer anywhere has the power to close an item permanently. The reform ended a century in which a Keeper's signature could put a thing beyond daylight forever, and it has never been reversed, and nobody seriously proposes reversing it. Ninety years, counted not from the harm but from the day the papers reached the vault. The arithmetic is the entity: a thing done in Year 4100, deposited in Year 4147 when the department was wound up, opens in Year 4237 to a city in which every person it concerns, every person it harmed, and every person who might have answered for it is dead.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Sings a softer chronology and lowers its burden. | Decrease |
-| **Pugnahan** | Adds the worker's anger to its weight. | Increase |
-| **Viderehan** | Reveals hidden history by date and consequence. | Stable |
-| **Ferrehan** | Tests whether the worker can remain beneath historical weight. | Decrease |
+| **Flerehan** | The chronology softens — the same dates, carried differently — and the load on the chamber drops. | Decrease |
+| **Pugnahan** | Takes the worker's anger and adds it to the body as mass. Literally: the suit load rises during the exchange. | Increase |
+| **Viderehan** | Gives date and consequence, never account. Transcripts go sealed to the municipal record office under the Pyre instrument. | Stable |
+| **Ferrehan** | The worker walks the full run beside it and does not leave early. Its burden eases; theirs does not. | Decrease |
 
 
 
@@ -148,22 +148,22 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Breach Behavior
 
-> *"Walking Calendar has broken free. Hunts personnel indiscriminately."*
+> *"Walking Calendar is pulsing. It has not left the run. Get the shoring in and let it finish."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | Walking Calendar pulses with concentrated force, cracking the walls around it. It hunts personnel indiscriminately. |
-| **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
-| **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | It stays where it is and pulses, cracking the walls around it. It does not pursue, has never pursued, and cannot catch anybody walking away from it. |
+| **Effect** | Floors buckle, walls bow inward, and every step in the sector costs what three should. |
+| **Secondary Effect** | Breathing becomes lifting, and personnel two corridors out report the same sensation at a third of the strength. |
+| **First Target** | No target. The pulse is radial and indifferent; what it damages is structure, and what injures people is structure coming down. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per interval unaddressed, and rises faster in the weeks either side of an opening date.
 
 ## M.A.W. Equipment
 
@@ -184,7 +184,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** The multiplier applies to direct damage and to Tick damage separately, and the Tick here is cumulative age rather than bleeding — a shoring lead who carries the Maul through two breaches is stood down for a season by standing order.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Walking Calendar's weight signature in the strike.
 
@@ -222,7 +222,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Cost:** The bearer moves a little slower.
 
-*Stigmas are granted at random by Walking Calendar upon a successful work, not manufactured.*
+*Nine Stigmas have come from this holding, each one after a cycle in which the worker read an opening list aloud and finished it. Workers who stopped partway through have never received one, which the extraction wing records without comment.*
 
 ### M.A.W. Use Notes
 
@@ -240,13 +240,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced. The mechanism is understood: it walks, it accumulates, it sings dates, and the dates are real. What has not been established is why the count of distinct dates rises in a year when no additional history occurs.
 
-- The entity's weight increases during anniversaries of historical tragedies.
-- Its singing is composed of dates rather than melodies.
-- Personnel exposed for long periods lose awareness of the present.
+- Mass rises on the anniversaries, and rises higher on an opening date than on any anniversary.
+- The song is years in sequence. Every date checked against the civil record has been real; 2,219 distinct ones were recorded last year.
+- Past about four hours, personnel lose the present: asked the date on exit, long-watch workers give a year from the song.
 
-**Personnel Note:** *"It was singing. I felt fear. Every date in the song was a year the city claimed to have learned from and did not."* — Specialist, Zone D patrol
+**Personnel Note:** *"Two thousand two hundred and nineteen dates this year. Nothing new happened — those are seals running out on time, the way the instrument promised. It is singing a list of things the city is finally allowed to say, to nobody who was there."* — Specialist, Zone D patrol
 
 
 
@@ -254,32 +254,33 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Walking Calendar as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-A-01, Alpha Tree deep storage. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Walking Calendar's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Suit load at the door, the position of the figure in the run, the first three dates heard, and the date printed on the check sheet outside. |
+| **Sustained observation** | Distinct dates in the song, counted over the year by two listeners writing separately: 1,118, then 1,604, now 2,219. The traverse count and the gait are unchanged across the same period. |
+| **Activation or escalation** | A date repeating within one watch, or a traverse count above the 600 baseline. Shoring crews stand to on either. |
+| **Post-contact review** | Both listeners' date sheets, filed unreconciled; the traverse tally; the suit load; and the worker's own statement of what day they believe it is, taken before they are told. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Walk the run with it, chalk the traverses, and take down the dates. Two listeners work each watch and write separately, because the song is tonal and a single ear reconciles what it hears to what it expects.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Walking Calendar (C-IVδ-220 [WS]) is logged as a Subject-Body manifestation expressing Weight. The entity formed from the accumulated years of unacknowledged history. Held at SECTOR-A-01, Alpha Tree deep storage. The entity's weight increases during anniversaries of historical tragedies.
+Walking Calendar (C-IVδ-220 [WS]) is logged as a Subject-Body manifestation expressing Weight, held in the long chamber at SECTOR-A-01, Alpha Tree deep storage. It walks a straight run, gains a year of apparent age with every step, and sings real dates in sequence. Its mass peaks on the days sealed records open.
 
 **Entry 2 — <Excerpt from Field Log, Year 4218>**
-Walks through Alpha Tree storage and historical districts. Personnel feel centuries of shame and responsibility at once. Its singing is composed of dates rather than melodies.
+Walks the run end to end, roughly six hundred traverses a season, never stopping at either wall. Personnel in the chamber carry centuries of responsibility at once and none of it is theirs. The song is dates. Somebody on the first watch thought to write them down, and that is now the second instrument of the holding.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counseling Log, long-chamber watch rotation>**
+They come out of the long chamber wanting to be told whose fault it is. There is no answer to give them. The dates in the song are real, the harms behind them are real, and every person who could have been asked about any of it has been dead for a century; that is not a failure of the file, it is the shape of the thing. What I tell them is that inherited weight is not personal guilt and that the two feel identical from inside. Most of them know. Knowing is not the part that helps.
 The weight of every generation that inherited the city's crimes.
 
 **Entry 4 — <Containment Notice>**
-Management: Archive the truth; do not erase or excuse it. Work response — Flerehan: Sings a softer chronology and lowers its burden. (Decrease); Pugnahan: Adds the worker's anger to its weight. (Increase); Viderehan: Reveals hidden history by date and consequence. (Stable); Ferrehan: Tests whether the worker can remain beneath historical weight. (Decrease). Personnel exposed for long periods lose awareness of the present.
+Management: read the current opening list aloud in the chamber, in full, to the end. The previous instruction — archive the truth, neither erase nor excuse it — described a thing no worker in the room could do and no officer had ever been asked to do. Work response — Flerehan: Sings a softer chronology and lowers its burden. (Decrease); Pugnahan: Adds the worker's anger to its weight. (Increase); Viderehan: Reveals hidden history by date and consequence. (Stable); Ferrehan: Tests whether the worker can remain beneath historical weight. (Decrease). Personnel exposed for long periods lose awareness of the present.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored. Expanded origin context: The Director's annotation: 'This sorrow is not anomalous. It is representative. The Weight at SECTOR-A-01, Alpha Tree deep storage is the same grief, the same refusal, the same wound. The Subject is what happens when the city stops pretending it doesn't hurt.'
+I have had the date sheets checked against the record office's expiry schedule and they match to within the year. The thing in the long chamber is singing our opening list. Not the history we hid — we hid nothing, that is the point and it is the Directorate's one honest boast — the history we scheduled. Ninety years from deposit, automatic, no officer able to stop it, and by the time the door comes open there is nobody left to put a question to and nobody left who was owed an answer. We did not lie. We dated the truth past everybody it belonged to. Do not circulate this. I am aware of what that instruction looks like at the bottom of this particular memo.
 
-**Threat rating:** Low. An impossibly old figure carrying centuries of inherited guilt. Effect: proximity induces the burden of inherited crime, every generation's share of it at once, as an oppressive mass that makes breathing feel like lifting.
+**Threat rating:** Critical (δ). A slow, non-pursuing body whose mass rises with its own movement and whose breach buckles floors and bows walls. Effect: proximity loads the worker with inherited complicity, every generation's share at once, as an oppressive mass that makes breathing feel like lifting.
 
 ## 최종 관찰 (Final Observation)
 
@@ -296,7 +297,7 @@ An ancient figure crosses the vault, dragging years behind it like chains. Dates
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Weight pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. An ancient figure draped in layers of stone, calendars, and worn city records. Each step adds another year to its body.
+**At first contact:** The door of the long chamber opens on a room that is heavier than the corridor, measurably — suits read it before people do. It is at the far end and already walking, and it does not alter course, hurry, or acknowledge the door. The song arrives before the figure resolves, and it is not a melody: it is a sequence of years, sung in order, in a voice like stone moving on stone.
 
 **With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Weight has a history here, and prolonged exposure makes that history legible.
 
@@ -308,36 +309,36 @@ An ancient figure crosses the vault, dragging years behind it like chains. Dates
 
 Walking Calendar does not exist in isolation. Its recorded relationships with The Broken Clock, The Burning Library, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline alone, then pair — and with this holding the measurement that matters is not distance but the song. Record whether the date sequence changes in the other entity's presence, whether any date repeats, and whether the count rises during the session. The Burning Library pairing is the only one that has ever shortened it.
 
 
 ### Entity Interaction Record
 
-Walking Calendar must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Walking Calendar's pairings are all with holdings that carry time or records, which is not a coincidence of the register but a consequence of how it was catalogued: it was filed by what it sings. The wing notes the selection bias in every report and has never been able to correct it, because nothing outside that group reacts to it at all.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Broken Clock** | Both carry distorted time. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Burning Library** | The Library contains records the Weight carries. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The First Tear** | The Weight's history reaches back toward the First Sorrow. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Broken Clock** | Both hold time wrongly and in opposite directions: the Clock stops it, the Calendar accumulates it. Neither acknowledges the other in any session. | No measurable effect on either side in nine pairings, which the wing continues to find more interesting than a result. | Record the date count and the Clock's reading; file the null as a null and schedule the next one. |
+| **The Burning Library** | The song shortens in the Library's presence — fewer distinct dates, repeated more often — and recovers over about a week. | The only reduction in the date count ever observed. The wing has declined to use it as a management measure, on the ground that it is burning the record to quiet the witness. | Record the count hourly during and daily for a week after, and attach the refusal note to every request to repeat it. |
+| **The First Tear** | In the First Tear's presence the song runs backwards for a time, and the earliest dates it reaches predate the city's own founding record by some margin. | Information exposure. The transcripts go sealed to the record office unread, under the Pyre instrument, and the wing does not keep a copy. | Record the duration of the reversal and the earliest date reached. Nothing else from this pairing is retained here. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Both parties baselined alone, both date counts taken before and after, and the song transcribed by two listeners who do not confer. Sessions are scheduled away from opening dates, since within a fortnight of one the holding's own figures are not comparable to anything.
 
 ## 이야기 (Narratio) — The Tale
 
 The city's history is heavy, and the heaviness, accumulated across every generation, settled into a single body, and the body is old beyond old.
 
-Somnarak has a history, and the history is mostly crimes. The Cheongula. The edited records. The suppressed truths. The convenient demolitions, the silenced witnesses, the generations of citizens who inherited, at birth, a share of a guilt they did not earn and could not, by any act of their own, discharge. The city does not acknowledge this history. The Council edits it. The Keepers seal it. The citizens are raised inside a narrative that omits the worst of what the city has done, and the omission does not lighten the weight — it only makes the weight unnameable.
+Somnarak has a history and the history is mostly crimes. The Cheongula. The convenient demolitions. The silenced witnesses. What the city does with that history is the part people get wrong, because the city does not hide it. Since Year 4140 nothing deposited may be destroyed and nothing may be closed forever: every item is sealed for a fixed term and opens by itself when the term runs out, and no Keeper, Councillor or Director has the power to stop it. That instrument was won against a century of permanent seals and it is the best thing in the city's statute book. The term is ninety years, and it runs from the day the item was deposited.
 
-Every generation inherits. The children of Somnarak are born into a debt that is not financial — a debt of complicity, of living in a city built on the thousand, of benefiting, however marginally, from systems that consumed the powerless to sustain the powerful. The children did not choose this. The children cannot refuse it. The inheritance is automatic, the way all inheritance in Somnarak is automatic: you are born, you owe, you carry.
+Ninety years is two lifetimes of the people who were in the room. A thing done in Year 4100 and deposited when its department was wound up in Year 4147 becomes public in Year 4237, and on that morning the Office prints it, posts it on the board at the hall, and enters it in the annual list of openings. Everybody named in it is dead. Everybody harmed by it is dead. Nobody can be asked a question, nobody can answer one, nobody can apologise and nobody can refuse to. The item is open. It is entirely open. There is no one for it to be open to.
 
-The accumulated years of unacknowledged history — centuries of erased records, repeated failures, inherited guilt — did what all accumulation does in Somnarak. It settled. It sank. It compressed, the way sediment compresses into stone, until the weight of every generation that ever inherited the city's crimes became a single mass, and the mass became a body, and the body was impossibly, unbearably old.
+So the children inherit a debt nobody is withholding from them. They can read it. It is posted. What they cannot do is have it explained, answered, apologised for or set down, because the schedule that guarantees the opening also guarantees that the opening arrives after the last person it concerns. Two thousand two hundred and nineteen items came open last year. The accumulation did what accumulation does here: it settled, it compressed, it became a mass, and the mass became a body of fused slabs and old calendars, impossibly old, walking.
 
 Walking Calendar is that body. Subject-Body, Weight-element: a figure aged by every unacknowledged year of the city's history, carrying the accumulated weight of every generation that inherited a guilt it could not name or resolve. The figure does not accuse. It simply is old — older than any individual, carrying in its posture the bowed heaviness of centuries of inherited complicity.
 
-Those who come near the Walking Calendar feel the burden of history — the specific heaviness of living in a city whose crimes you inherited and cannot discharge, whose record you did not write but must carry, whose weight settles on you at birth and does not lighten, because the city will not acknowledge what it has done, and an unacknowledged weight is a weight that cannot be set down.
+Those who come near feel the particular heaviness of a debt that is fully disclosed and wholly unanswerable: a record you did not write, may read in full, and can do nothing with. Workers say the song is the worst part, and what they mean is that it is a list of dates on which the city told the truth exactly as promised, on time, into an empty room.
 
-Some sorrows are personal. Walking Calendar is historical — the accumulated guilt of generations, settled into a single ancient body, the physical shape of a city's refusal to confess its past, carried by every citizen who inherits the crimes and the silence together.
+Some sorrows are personal. This one is a schedule. It is not the shape of a city refusing to confess; the city confesses, in writing, annually, and keeps its word. It is the shape of a confession dated past everybody who was owed it, and it gets a year heavier every time it takes a step.
 ## 증언 (Testimonium) — The Testimony
 
 > *“It is older than any individual. It carries the accumulated weight of every generation.”* — Keeper, Archive
@@ -355,13 +356,13 @@ Some sorrows are personal. Walking Calendar is historical — the accumulated gu
 **Common Name:** Walking Calendar
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. An impossibly old figure carrying centuries of inherited guilt. Effect: proximity induces the burden of unacknowledged history.
+**Threat Assessment:** Critical (δ). Facility-threatening by mass and by breach, with no pursuit anywhere in the record. Effect: proximity loads the worker with a history they inherited, cannot discharge, and cannot have answered.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type.
-- The figure does not move or speak.
+- Ferrehan is the primary Work Type and Flerehan the alternate; both are worked walking, at its pace, the length of the run.
+- The figure walks continuously and sings continuously. It does not speak, and no cycle has ever produced a word from it that was not a year.
 **Observation Notes:**
-- Formed from centuries of erased records and inherited complicity.
-- The figure is bowed with the weight of generations.
+- Formed from records that were never erased: deposited, sealed for ninety years, opened on schedule to an empty hall.
+- Mass is a function of movement, not of time. It is heaviest after a long walk and in the fortnight either side of an opening date.
 **Cross-References:** Zone A · The Council · The Cheongula · The Maw
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
 **Originator:** Every generation that inherited the city’s crimes.
@@ -399,6 +400,36 @@ The chamber was rebuilt once, early, from a square room into a straight run, and
 
 Traverse counts are kept by hand on a tally board at the chamber's end wall, chalked by the watch and transcribed at handover. Mechanical counters were installed twice and removed twice, both times because the Calendar's pace varies in ways a counter records and a person notices. The chalk stays.
 
+### What the Date Count Is Measuring
+
+Two thousand two hundred and nineteen distinct dates in the last year, against 1,604 the year before and 1,118 the year before that. The count is the holding's second instrument, after the traverse tally and separately kept: two listeners write the song down independently for the whole watch, the sheets are filed unreconciled, and the year's distinct dates are counted once at the turn of the year by somebody who sat none of the watches.
+
+Nothing new happens in those years. No history is added to the city between one count and the next, and the wing has made that point in writing each time the figure has been queried. The count tracks the municipal record office's own schedule of expiries: items whose ninety-year seal runs out and which open automatically on the appointed day. Last year's schedule carried 2,219 of them. The two figures have matched to within eleven for seven consecutive years, and the wing records the match and offers no mechanism, in keeping with the Denial Makes It Heavier discipline.
+
+The instrument behind the schedule is the best law the city has. Before Year 4140 a Keeper could seal an item permanently on a signature, and did: the 4139 commission found 31,000 items closed without term, of which 8,400 had no recorded reason and 2,900 no recorded signatory. The reform abolished the power outright. Nothing may be destroyed, nothing may be closed forever, every deposit carries a fixed term, and the term runs without anybody's permission or attention. No administration since has touched it and no administration has wanted to.
+
+The term is ninety years and it runs from deposit. That is the arithmetic the Calendar sings. The harm is done, the item is written, the department falls in, the papers go down to the vault forty years later, and ninety years after that the city keeps its promise in full — posts the thing on a public board, prints it in the annual list, withholds nothing — on a morning when there is nobody alive who did it, nobody alive it was done to, and nobody alive who could be asked why. The entity in the long chamber is a hundred and thirty years of kept promises, and it weighs more every year because the promises keep being kept.
+
+### The Early Opening Petition
+
+Instituted Year 4203, after representations from the burial guilds and from this wing. Any person may petition for an item's seal to be lifted before its term, on showing a personal connection to the matter and on the Office being satisfied that no living person named in the item would be exposed by it.
+
+The petitioner cannot make that second showing, because the item is sealed and they cannot know who is named in it. The Office makes the check itself, and may not disclose what it found — not the names, not the number of names, not whether the refusal turned on a living person at all. A refusal is therefore a single word, and has to be.
+
+Year 4237: 14,211 petitions lodged since institution; 411 granted; a median of six years to determination; 0 petitioners told what the check turned up; and 1,330 petitioners who died between lodging and determination. The attendance is unpaid, the connection must be stated aloud at a public counter, and a petition lapses if it is not renewed every third year, which means stating it again.
+
+The record office's archivists asked, in Year 4218, for one narrow relaxation: where every person named in an item is demonstrably dead, that the item open at once, term or no term. Refused, and correctly. Establishing that everybody named is dead means searching the living for namesakes and descendants, a wrong determination cannot be undone once the thing is published, and an officer empowered to judge an item ripe is an officer empowered to judge it unripe — which is the signature power the 4140 instrument was written to destroy. The archivists' submission stands in the Year 4219 return, recorded as correct and unanswered, and the wing keeps a copy on the chalk-board wall at the end of the run.
+
+### The Opening List
+
+The management condition was rewritten in Year 4231. For thirteen years before that the file required the worker to *archive the truth and neither erase nor excuse it*, which is not an act available to anybody who works here and was logged as unperformed on every cycle.
+
+What replaced it: on the first watch after each annual opening, a worker takes the record office's published list into the long chamber and reads it aloud, walking the run alongside the entity at its pace, to the end. Item number, deposit date, opening date, one-line description. No commentary, no apology, nothing added — the list as printed, because the list as printed is what the city actually did.
+
+It takes between nine and fourteen hours depending on the year's total, which is why the watch is doubled and why the reading is the only cycle at this holding permitted to run past a shift. The gauge falls twelve to twenty points and stays down for about a season. The traverse count is unaffected. The date count is unaffected, every year, and the file says so without explaining it.
+
+Three standing instructions govern the reading. Do not stop before the end; a part-read list has twice produced a gauge excursion where no reading at all produces none. Do not editorialise, including on the items that deserve it. And if the Calendar begins singing the list back, keep reading — it sings the same dates at a different pace, the two sequences do not stay together, and the worker's job is their own list.
+
 ## Trivia
 
 - It becomes heavier when a truth is deliberately erased.
@@ -410,8 +441,8 @@ Traverse counts are kept by hand on a tally board at the chamber's end wall, cha
 
 - **Classification detail:** Walking Calendar is a Subject with Entity (IV) — Ancient and weary coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-A-01, Alpha Tree deep storage.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A bowed figure under fused slabs, calendars and city records, walking a straight line at the pace of an old man, singing years in order.
+- **Record detail:** The Registrum rated the entity Low on a Critical (δ) line and stated that the figure does not move or speak, against a file in which it walks continuously and sings; both are corrected. The breach rows claiming indiscriminate hunting are corrected against the Pulsing in Place doctrine, which the Apex Record settled years ago and which the breach table had never been brought into line with. The Origin and Entry 5 paragraphs carried a Collector story belonging to another holding, twice, with a duplicated heading inside one of them. The Apex Record, the traverse tally, the long chamber and the parallel record-office log are preserved and extended.
 - **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
