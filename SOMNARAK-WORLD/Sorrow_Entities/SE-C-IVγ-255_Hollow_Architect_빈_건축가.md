@@ -30,19 +30,19 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · — |
+| **Activation threshold** | Continuous — it is always building; there is no count to run down |
+| **Tool / M.A.W. grade** | γ · Maul, Mantle, Compass — all three graded and all three issued |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan from the marked line; Viderehan to record an intention. Pugnahan prohibited — it answers confrontation by enclosing the worker. |
 
 ### Operational Notes
 
-- The Architect continues to design, and the drawings describe a building that the survey cannot place anywhere in Old Lament.
-- A cycle interrupts the drawing. The work resumes from the same line, and nothing already drawn has been altered by a session.
-- Two ignored conditions escalate it. Escalation presents as the drawings beginning to describe the room the crew is standing in.
-- Drawings are collected by instrument and are not read in the enclosure; reading is done at the Old Lament desk.
-- Extraction is a separate risk event under its own authorization.
+- The Architect continues to design, and most of what it draws corresponds to nothing the survey can place. Two drawings correspond to districts that exist, built by other hands to other drawings; flagged by the liaison office in Year 4229 and unexplained since.
+- A work cycle interrupts the drawing. It resumes from the same line afterwards, and nothing already drawn has ever been altered by a session.
+- Escalation presents as the drawings beginning to describe the room the crew is standing in. It is not a count of ignored conditions; it has followed an attempt to finish a structure every time it has occurred, and nothing else.
+- Drawings are not collected and cannot be: the crystal shows something different to each observer and to each exposure. What is collected is the intention, spoken by the entity under Viderehan and written down at the Old Lament desk by two recorders independently.
+- Extraction from a completed enclosure goes through the floor, takes between four and nine hours, and has been needed three times. The Maul is held by the extraction lead for that and for nothing else.
 
 ## Combat Record
 ### Core Stat Line
@@ -53,7 +53,7 @@
 |---|---|
 | **Speed** | 2.30 m/s |
 | **Resistance** | 40% against Weight pressure; 30% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold** | Sorrow Gauge ≥ 75%, or any attempt to complete a structure |
 | **Sorrow Gauge [HP]** | 690/690 |
 | **Han Pressure [ATK]** | 14–32 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
@@ -70,9 +70,9 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan prohibited on this holding. |
 | **Battlefield** | Zone B, Old Lament |
-| **Resolution Condition** | Do not complete or destroy the structures; document their purpose |
+| **Resolution Condition** | Do not finish anything it has started. Record the intention it shows you, clear the structure on schedule, and do not apologise to it. |
 
 ### Combat Actions
 
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Hollow Architect's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The crew works from the marked line with Flerehan and Ferrehan only. Pugnahan is prohibited on this holding: its confrontation response is to enclose, and an enclosed worker is a floor extraction measured in hours. Tonnage accruing during the cycle is logged by the clearing tally, not estimated.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not complete or destroy the structures; document their purpose**.
 
 ### Consequences
@@ -100,14 +100,14 @@
 ## Appearance
 **Primary Form:** A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished.
 
-**Notable Features:** Its body is empty, its plans change when observed, and it constructs spaces for people who will never arrive.
+**Notable Features:** The interior is empty — confirmed by survey, not by entry. The plans change under observation and have never been copied. The structures are competent to the point where they stop, and none has ever had a roof.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** Rolled plans of dark crystal and a half-raised structure that gains courses between cycles and never gains a roof.
+- **Position / movement:** Upright, walking, working; it crosses the chamber on its own business and has never approached the marked line. Record where it is drawing, not where it is standing.
 - **Element signature:** Weight
 - **Registered location:** Zone B, Old Lament
 
@@ -117,53 +117,53 @@
 |---|---|
 | **Form** | A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
+| **Material / signature** | Weight. Lead-cold, damp, wet stone and old dust; the chamber's floor load reading rises while it works and settles within the hour after clearing. |
+| **Distinctive markers** | The rolled dark-crystal plans, the accruing half-built structure, and the absence of any roof on anything it has ever raised. |
+| **Identification** | Three towers are filed within two codes of this one. Read the designation, not the silhouette. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Record what it is building, how far the structure has advanced since the last cycle, and where the marked line sits relative to the near wall of the work. Do not record the drawings; two observers will not agree and the disagreement has no information in it.
 
 ## Origin
-- **Formation:** The Architect formed from the sorrow of building for a future that never came.
-- **The Sorrow:** The burden of creation without completion, occupancy, or recognition.
-- **The Event:** An architect designed districts for a population lost before construction finished. The unfinished work became a person.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply... be near it. The R.D. has noted this behavior and classified it as "Sorrow Seeking" — the act of seeking out sorrow not to escape it, but to understand it. The entity does not encourage this behavior. It simply exists. And in its existence.
+- **Formation:** From a commission completed in full and never used.
+- **The Sorrow:** Not failure. The work was good and it was finished. What it never got was an occupant, a client, or a line in anybody's record saying it had been done.
+- **The Event:** The expansion was designed, the population it was designed for did not arrive, the commission was closed, and the drawings were withdrawn unissued. The designer went on drawing.
+- **The People:** A population the city expected and did not get. The municipal census note attached to the annual review names what is known of them and has lengthened four times as records were recovered.
+- **Expanded origin context:** Personnel come to the viewing line off-shift and have done for years. Asked why, they give answers that amount to watching something being made. The wing no longer discourages it and no longer calls it Sorrow Seeking; the counselors' position is that the staff who come are disproportionately those from cancelled programmes, and that what they are watching is not the entity.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Pauses construction and accepts shared grief. | Decrease |
-| **Pugnahan** | Builds defensive walls around the worker. | Increase |
-| **Viderehan** | Shows the intended future of each structure. | Stable |
-| **Ferrehan** | Tests whether the worker can remain in an unfinished space. | Decrease |
+| **Flerehan** | Pauses, and stays paused while the worker speaks. It does not answer. | Decrease |
+| **Pugnahan** | Encloses the worker in a structure raised around them. Prohibited. | Increase |
+| **Viderehan** | States what the structure was for — who would have lived there, and in which room. Stable across observers. | Stable |
+| **Ferrehan** | The long stand inside unfinished work. The gauge falls; the counselors watch the worker. | Decrease |
 
 
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Hollow Architect is recorded as a Subject with Subject-Body manifestation and Weight elemental expression. The current record places it at Zone B, Old Lament; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The gauge on this file is the least informative number in the holding. Flerehan and Ferrehan both bring it down reliably and neither does anything the wing would call progress; the entity resumes from the same line the moment the cycle ends. What the supervisors actually read is the counseling screen and the cycle tonnage, in that order.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** A good cycle on this file is one in which an intention was recorded, the worker came off the line talking about the entity rather than about themselves, and the tonnage was weighed out without comment. Two of the three are observations about the worker. That is deliberate.
 ## Breach Behavior
 
-> *"Hollow Architect has broken free. Hunts personnel indiscriminately."*
+> *"It is out. It is building in the east corridor. Nobody is to stand in front of the work."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Hollow Architect tears loose and pursues personnel with deliberate steps. It hunts personnel indiscriminately. |
-| **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **Movement** | It walks out and keeps building where it arrives. It has never pursued anybody; the danger is standing in the footprint of what it is raising. |
+| **Effect** | Weight pressure across the corridor; structure accrues around anything stationary. |
+| **Secondary Effect** | Enclosure. Walls complete faster than a worker who has frozen will move. |
+| **First Target** | No target. The first casualty is whoever stops moving inside the work. |
+| **Escalation** | Each cycle free, the structure extends further and the Resolve drain rises by 5. It ends when a worker speaks to it from outside the walls. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — it leaves the chamber and continues building in the corridor it has reached. In the three recorded escapes it pursued nobody and enclosed two workers who stood still in its line of work.
+- **Containment priority:** Do not force it. Pugnahan is prohibited in breach as in the chamber. Clear the corridor ahead of the work, hold the line, and talk it back; three escapes, three recoveries, no suppression used.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% each cycle it is left to build; falls only when a worker speaks to it from outside the structure.
 
 ## M.A.W. Equipment
 
@@ -181,9 +181,9 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Hollow Architect's weight signature in the strike.
+**Ability:** Breaks raised structure. In holding doctrine it is a floor tool for extraction and has no offensive role at all.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder carries weight for days afterwards and tires early. Two extraction leads have handed it back.
 
 ### M.A.W. Suit — The Architect's Mantle
 
@@ -199,9 +199,9 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Hollow Architect's kind of pressure.
+**Ability:** Holds off the chamber's Weight pressure long enough to work a full Ferrehan stand.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** A low constant fatigue that does not clear on rest days.
 
 ### M.A.W. Stigma — The Architect's Compass
 
@@ -211,17 +211,17 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the wearer's survey and drafting work on this holding; no effect on any other file.
 
-**Ability:** Reveals the intended structure beneath damaged buildings.
+**Ability:** Shows what a damaged building was meant to be. The liaison office uses it on municipal surveys and has never been refused.
 
-**Cost:** The user feels every future the building failed to hold.
+**Cost:** The wearer feels what the building was for, including the buildings they live and work in.
 
-*Stigmas are granted at random by Hollow Architect upon a successful work, not manufactured.*
+*The Compass is issued by the entity, not manufactured, and only to a worker who has recorded an intention it showed them. Eleven exist. The liaison office holds the register.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+The three pieces of this holding are issued against three different jobs: the Maul to the extraction lead, the Mantle to whoever is standing the Ferrehan watch, the Compass to the liaison office. None is carried on patrol. The Compass is the only one the entity gives rather than the armoury, and it has given eleven.
 
 ### Field Use Record
 
@@ -236,13 +236,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced. The plans cannot be read; the intentions can, and they are stable across observers.
 
-- Every structure lacks one essential element.
-- The Architect never enters a completed room.
-- Its plans contain districts absent from current maps.
+- Every structure stops short of a roof. Walls, floors, stairs, doors and window openings are completed; nothing has ever been covered.
+- It has never stepped inside anything finished, including the chamber's own service alcove, which it walks around.
+- Cycle tonnage is weighed at every clearing and recorded against a cumulative total now reported in tons by the quartermaster's office.
 
-**Personnel Note:** *"It was quiet. I felt weight. The Architect showed me a city designed for people who had already become ghosts."* — Specialist, Zone C patrol
+**Personnel Note:** *"It told me which room the eldest daughter would have had, and which window. I wrote it down twice because that is the rule. Then I went and looked at the tally board, because the tonnage that quarter was the highest it had ever been, and I already knew what we had cancelled."* — Recorder, Old Lament desk
 
 
 
@@ -250,27 +250,29 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Hollow Architect as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone B, Old Lament. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Hollow Architect's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer stands at the marked line and logs what is under construction, how far it has advanced since the last cycle, and the chamber's floor load reading. |
+| **Sustained observation** | Intentions are taken under Viderehan and written by two recorders independently. Where the two accounts differ, both are filed; neither is reconciled. |
+| **Activation or escalation** | Escalation on this file means the drawings turning to describe the present room. It follows an attempt to finish something. The team withdraws to the line, clears the footprint, and logs who touched what. |
+| **Post-contact review** | Cycle tonnage, intentions recorded, and the counseling screen for every worker who was on the line. The screen is conversational and the supervisor acts on the first presentation, not the third. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
+**Observation method:** Tonnage, advance since last cycle, intentions taken, floor load, and the vocabulary the worker uses about their own job on the way out. The last of those is the one that has stood workers down.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hollow Architect (C-IVγ-255 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Architect formed from the sorrow of building for a future that never came. Held at Zone B, Old Lament. Every structure lacks one essential element.
+Hollow Architect (C-IVγ-255 [WS]) is logged as a Subject-Body manifestation expressing Weight, held at Zone B, Old Lament, behind a marked line and no door. It builds continuously and nothing it raises is ever roofed. The holding's standing instruction is that nothing it starts may be finished by anybody.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Walks through Old Lament, building as it moves. Unfinished rooms and structures appear around personnel. The Architect never enters a completed room.
+**Entry 2 — <Excerpt from Clearing Crew Tally, Year 4238>**
+Cycle total 61 tons, against 44 the previous cycle and 39 the one before. Cleared without ceremony per briefing. The crew notes, as the briefing requires them to note it, that nothing cleared had a roof.
+Advance east wall, two courses, no cover. It walked around the service alcove again rather than through it, as it has every cycle on record. Quartermaster notified; collection as scheduled.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The burden of creation without completion, occupancy, or recognition.
+**Entry 3 — <Excerpt from Futility Transfer Screen, Old Lament>**
+Futility transfer, fourth presentation this year. The worker described his own duties in the entity's vocabulary — unfinished, unoccupied, unrecognized — and was stood down the same shift, which is the rule. He had been on the file nine weeks. He asked whether his own last four years of survey work existed anywhere, and the counselor could not tell him that it did.
+Recommend the standing note be read into the next supervisors' briefing: this holding does not injure the people who work it. It gives them a vocabulary, and they take it home and apply it to themselves.
 
 **Entry 4 — <Containment Notice>**
-Management: Do not complete or destroy the structures; document their purpose. Work response — Flerehan: Pauses construction and accepts shared grief. (Decrease); Pugnahan: Builds defensive walls around the worker. (Increase); Viderehan: Shows the intended future of each structure. (Stable); Ferrehan: Tests whether the worker can remain in an unfinished space. (Decrease). Its plans contain districts absent from current maps.
+Management: do not finish anything it has started; clear on schedule without ceremony; Pugnahan prohibited. Work response — Flerehan: pauses while spoken to, does not answer (Decrease); Pugnahan: encloses the worker (Increase, prohibited); Viderehan: states what the structure was for (Stable); Ferrehan: the long stand inside unfinished work (Decrease). Cycle tonnage is weighed at every clearing and entered on the cumulative tally.
 
 **Entry 5 — <Archive Note>**
 The Architect works without rest and finishes nothing. Its plans are legible, the dark crystal they are drawn on is sound, and the structures it raises are competent up to the point where they stop. Staff gather at the viewing line to watch it build and have been asked why. The answers collected are consistent and unhelpful, amounting to the observation that something is being made. Nothing it has raised has yet had a roof.
@@ -290,7 +292,7 @@ The Architect draws a line and a wall rises. It draws another and a door appears
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished. The first sensation is always Weight — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** The floor load reading moves before you see anything. Then the figure, upright and working, hollow where a body would be, and a wall going up in front of it that already has a door opening and no cover. The Weight arrives as the lead-cold damp of wet stone. It does not look up.
 
 **With continued exposure:** The Subject-Body settles into a presence you learn to hold — not comfortably, but recognisably. The Weight pressure stops being an assault and becomes a climate: something you move within rather than against.
 
@@ -302,69 +304,74 @@ The Architect draws a line and a wall rises. It draws another and a door appears
 
 Hollow Architect does not exist in isolation. Its recorded relationships with The Melting Tower, The Grieving Colossus, The Broken Promise should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Record what each one builds, or held, or withdrew, before recording anything about the pair. On this holding the useful question is never whether the two resonate; it is whether the structure in the chamber changed shape while the other file was near, and in which direction the roofline went. The three related files are kept apart on this holding for a specific reason: all three concern buildings, and the wing has twice assigned a crew on the strength of the resemblance and had them apply the wrong Work Type.
 
 
 ### Entity Interaction Record
 
-Hollow Architect must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Hollow Architect must be assessed against the files it resembles rather than the files it is filed near. The Melting Tower holds architecture that failed after occupation; this holds architecture that was never occupied. The Broken Promise holds an undertaking withdrawn; this holds an undertaking completed in full and never used. The distinction decides which Work Type is prohibited, and getting it wrong is how the two floor extractions of Year 4236 happened.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Melting Tower** | Both preserve unfinished architecture. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Colossus** | Its tears provide construction material. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Broken Promise** | The Architect builds around promises never delivered. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Melting Tower** | Opposed, not kindred: the Tower holds a building that failed after it was lived in; this holds buildings nobody ever entered. | Cycle tonnage in the chamber fell in both recorded proximities and the structure stopped advancing until separation. | Tonnage, advance since last cycle, and whether any structure was roofed. |
+| **The Grieving Colossus** | The Colossus's residue has twice been found set into cleared material from this chamber; the transfer route has never been observed. | Cleared tonnage ran heavy and the crew reported the material wet. Quartermaster's return flagged both quarters. | Composition of cleared material, weight, and whether the transfer was witnessed by anybody at all. |
+| **The Broken Promise** | Adjacent but distinct: a promise withdrawn before performance against work performed in full and never issued. The liaison office keeps the distinction in writing because crews conflate them. | No measurable interaction in four recorded proximities. The resemblance is clerical, and it is the resemblance that causes the incidents. | Which file the crew believed they were working, and which Work Type they prepared. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Name the file you are working before you brief, out loud, with its designation. Two of the three incidents on this holding began with a crew that could have told you the right procedure for the file they thought they were on.
 
 ## 이야기 (Narratio) — The Tale
 
-He designed districts for a people who vanished before the building began, and the unbuilt districts became a person, and the person is hollow.
+Work is cancelled all the time, and when it is, this Company stops it the same day. That rule is not cruelty; it is the opposite.
 
-The architect was a visionary — one of the order that shapes Somnarak, that draws the lines of zones and the placement of Han-lamps and the geometry of the districts the city spreads into. He was given a commission: design the next expansion, a new district for a population the city expected, the citizens who would, in the future, fill the new zone and make it live.
+A programme that is no longer needed costs money, people and years for every week it is allowed to run on, and the places that let cancelled work drift are the places where a surveyor spends four more years on a district nobody will build because nobody has the nerve to tell her. So: cancellation is immediate, the file closes, the output is withdrawn unissued, and the staff go to work that is wanted. Two hundred and fourteen programmes closed that way last year, cleanly, with no drift and no waste.
 
-He designed it completely. The streets. The tenements. The gathering places, the Han-channels, the small parks where the future citizens would, he imagined, sit and rest. He drew every line with the future in mind — every doorway sized for the people who would walk through it, every window placed for the light the future families would wake to. The design was his finest work. It was a district built for lives not yet lived, ready, waiting, for the population that would fill it.
+Withdrawn unissued has a second meaning that nobody wrote down on purpose. Work that is never issued is never attributed. It does not appear in the archive, it carries no name, and for the purposes of appraisal it is deemed not to have been produced. The surveyor who spent four years on the district is correctly spared a fifth, and ends the fifth year with a record that shows four years of nothing.
 
-The population never came. The expected citizens vanished — to the Han, to the Fractures, to whatever quiet mechanism thins the city's numbers. The district was never built. The design remained — complete, perfect, unpopulated, a map of a place for people who no longer existed.
+The founding case is the one the file is named for. An architect of the order designed the next expansion in full — streets, tenements, Han-channels, the parks, every doorway sized for somebody and every window placed for the light a particular family would wake to. The population it was designed for did not arrive. The commission closed the same day, properly. The drawings were withdrawn unissued.
 
-The architect could not stop designing. The work had been his purpose, and the purpose, severed from its object, did not end — it continued, design without construction, creation without completion, the architect drawing and redrawing a district for a population that would never occupy it. The sorrow of it — building for a future that never came, creation without occupancy or recognition — sank into him, and the Weeping gave it form. Hollow Architect: Subject-Body, Weight-element, a figure of a man still designing, still drawing lines for lives that will never be lived, hollow at the center where the purpose was supposed to be filled by the people who never arrived.
+He went on drawing, and what the Weeping took up was not failure — the work was finished and it was good — but the particular hollow of having made something complete that no record anywhere says you made. Hollow Architect: Subject-Body, Weight, empty where the occupant was meant to go, and empty again where the attribution was.
 
-Those who come near the Hollow Architect feel the burden of creation without completion — the exhaustion of work done for an audience that never materialized, of a life spent building for a future that dissolved before the building could begin.
+What the chamber has measured, cycle on cycle for as long as the tally has been kept, is tonnage. It rises in the quarters this Company cancels most and writes the output off as not produced. Sixty-one tons against forty-four against thirty-nine, in the quarter the liaison office closed thirty-one programmes. It has been tested against the construction season, against the Gardens' cycles, against staff numbers in the wing and against the chamber's own temperature, and only the cancellation register fits.
 
-Some sorrows mourn what was destroyed. Hollow Architect mourns what was never occupied — the district designed in full and built in none, the doorways drawn for people who vanished, the windows placed for light no one would ever wake to, preserved in a figure who designs, still, endlessly, a home for a family the city lost before the foundation was laid.
+Some sorrows mourn what was destroyed. This one weighs what was never credited, by the ton, on a tally board the quartermaster reads and nobody else did for ninety years.
 ## 증언 (Testimonium) — The Testimony
 
-> *“He designed a district for people who vanished before construction began.”* — Keeper, Archive
+> *“Sixty-one tons. We closed thirty-one programmes that quarter. I am not saying it is the same thing. I am saying I can put the two columns on one page.”* — Quartermaster, Old Lament
 
-> *“The unbuilt district, imagined in full, became a person. The person is hollow.”* — Researcher, R.D.
+> *“Immediate cancellation is right. I wrote the rule. I would write it again tomorrow.”* — Programme Office, submission of Year 4233
 
-> *“Creation without completion. Design without occupancy. That is the sorrow.”* — Containment Lead, R.D.
+> *“Deemed not to have been produced. Four years. The words are in the appraisal manual and I had never read them until they were about me.”* — Surveyor, Zone B
 
-> *“I felt the exhaustion of work done for an audience that never materialized.”* — Citizen, Zone A
+> *“It showed me a room and whose it was. Then it went back to the same line it had been on. It does not need me to have been there.”* — Recorder, Old Lament desk
 
-> *“Doorways drawn for people who disappeared. Windows placed for light no one will wake to.”* — Elder, Architects' Order
+> *“My name is on a drawing of a thing that was never built. It is the only one of mine in the archive. That is not nothing and I will not pretend it is.”* — Engineer, issued under the Issued Record
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-255 [WS]` · City origin · Entity (IV) coherence · Major (γ) potency · Weight · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-255 [WS]` · City Sorrow (도한) origin · Entity (IV) coherence, self-aware, building, never finishing · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** Hollow Architect
-**Containment Status:** Contained — Zone A
+**Containment Status:** Contained — Zone B, Old Lament, behind a marked line and no door; cleared on a fixed cycle and weighed out. The earlier Zone A entry contradicted the SECC header and has been corrected.
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Architect designs endlessly for a population that never existed. Effect: proximity induces the burden of creation without completion.
+**Threat Assessment:** Major (γ), corrected from the earlier Low entry. It has never pursued anybody and has injured nobody directly. The documented harms are enclosure — three floor extractions of four to nine hours, following Pugnahan or an attempt to finish a structure — and futility transfer, in which a worker begins using the entity's vocabulary about their own duties. The second is why this file screens conversationally at every post-contact review.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The Architect does not stop designing.
+- Ferrehan is primary — the long stand inside unfinished work — with Flerehan beside it and Viderehan used to take an intention. The earlier entry naming Viderehan primary has been corrected against the Behavior table. Pugnahan is prohibited.
+- Nothing it has started may be finished by anybody, including by accident. The three escalations on record all followed completion attempts.
+- Clearing is on a fixed cycle, brisk, unexamined, and weighed. Crews are instructed not to look at what they are taking down and are forbidden to apologise to the entity aloud.
+- The Issued Record is a containment condition of this holding and binds every programme this Company cancels.
+- Intentions are written by two recorders independently and filed unreconciled.
 **Observation Notes:**
-- Designed a district for people who vanished before construction.
-- The blueprints outlived the architect.
-**Cross-References:** Zone A · The Torn Tower · The Architects’ Order
+- Cycle tonnage logged at every clearing; cumulative total reported annually in tons. Advances fall in the quarters with the most programmes closed and their output deemed not produced.
+- The plans cannot be copied or photographed and no two observers agree on them; the intentions it speaks under Viderehan are stable across observers and are what the liaison volume holds.
+- Two recorded intentions correspond to districts that exist, built by other hands to other drawings. Flagged Year 4229, unexplained.
+- Nothing it raises is roofed, and it will not enter a finished room.
+**Cross-References:** Zone B, Old Lament · the Old Lament desk intention volume and the two-recorder rule · the clearing tally and the cumulative tonnage return · the Year 4229 liaison flag on the two existing districts · the Architects' Order · the municipal census note attached to the annual review · the Programme Office submission of Year 4233 · the Y4237 Issued Record return: 214 cancellations, 198 issued, 7 carrying uncorrected faults and 2 cited in claims against the Company, 31 removal requests of which 9 refused, and one issued drawing built badly by an outside hand with three dead
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
-**Originator:** An architect of the order that shapes Somnarak.
+**Originator:** An architect of the order that shapes Somnarak, whose finest commission was closed properly, withdrawn unissued, and attributed to nobody.
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this file with the clearing tally and the Company's cancellation register beside it. Read alone it is a quiet holding that has hurt nobody and builds rubbish by the ton, and that is exactly how four successive assessors read it, each with ninety years of tonnage figures available and no reason to ask what the figures were rising with.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** On any cycle tonnage above fifty tons, or any futility-transfer presentation: pull the quarter's cancellation register before the next clearing and name each closed programme, its duration, the staff assigned, and whether their output was issued, withdrawn, or deemed not produced. Totals are not accepted. Every worker on the line in the period is named with the date of their screen.
 ## Apex Record
 
 ### Plans That Change When Read
@@ -379,6 +386,16 @@ It constructs continuously and nothing is ever finished. The chamber accumulates
 
 Its confrontation response is to build defensive walls around the worker, and the response is the reason Pugnahan is prohibited on the file in the strongest terms available. The walls are real, rise quickly, and are constructed with the same indifference as everything else it makes — the enclosed worker is not a target but a site. Extraction from a completed enclosure has been necessary three times and has succeeded three times, each time through the floor, each time slowly. The Architect's Maul is held by the extraction lead for precisely this contingency and has no offensive role in the holding's doctrine at all.
 
+### What The Tonnage Is Actually Weighing
+
+The tally was begun as a quartermaster's housekeeping measure and kept for ninety years because the wing's first commander ordered it kept: somebody should be able to say how much was built, since nobody will be able to say what for. It was never set beside anything. In Year 4231 a clerk reconciling the quartermaster's annual return against the Programme Office's cancellation register — the two documents reach the same desk in the same week each year — noticed that the heavy quarters were the quarters with the most programmes closed and their output withdrawn unissued. The pairing has held in every year since and fails against the construction season, against staff numbers in the wing, against the Gardens' cycles and against the chamber's own temperature, all of which have been tried.
+
+Nothing in the existing Record is disturbed by this. The plans still cannot be read and the intentions still can; the clearing is still brisk and still unexamined; Pugnahan is still prohibited and the Maul is still a floor tool; the census note still goes into the annual review. The correlation is two columns of our own arithmetic, one weighed in tons and one counted in closed programmes, and it requires nobody to attribute anything to the entity.
+
+What it costs is the comfort of the clearing instruction. Crews are told not to look at what they are taking down, and the instruction is sound — thoughtful crews do worse than brisk ones. But the reason the wing added the prohibition on apologising aloud was that crews kept doing it unprompted, in different teams, without discussing it, and the wing's own note says the impulse is decent. The clerk's reconciliation gives that impulse an object it did not have before, and the object is not in the chamber.
+
+The operational consequence lies entirely outside the holding. Nothing done at the line has ever moved the tonnage — not longer Ferrehan stands, not the two years of floor-load instrumentation, not the liaison volume. The only thing that has ever moved with it is a rule written in the Programme Office: that on cancellation the work is issued once, unbuilt, attributed by name, lodged in the city archive and in the record of every person who made it, with a statement that it was not built and why. The Issued Record has cost this Company seven cancelled designs carrying faults that were never corrected because the programme died before review, two of them cited in claims; thirty-one workers asking for their names to be taken off, nine of whom were refused because another named person objected; and one engineer whose issued drawing was taken up by an outside builder, built badly, and killed three people, who cannot now be disclaimed and cannot now get work. The file records that and the tonnage in the same paragraph, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+
 ### The Population That Was Lost
 
 Its origin is an architect who designed districts for a population lost before construction finished, and the holding's annual review includes a census note from the municipal office recording what is known of that population. The note is brief and has grown slightly over the years as records have been recovered. Nobody has proposed discontinuing it. The wing's position, stated once in the file and not repeated because it has not needed repeating, is that the entity is a sorrow about absent occupants, and that a containment which never mentions the occupants has misunderstood what it is holding.
@@ -391,18 +408,18 @@ Cleared material is weighed out and recorded against the chamber's cumulative to
 
 ## Trivia
 
-- Its plans contain districts that never existed.
-- It is most active when new construction begins nearby.
+- Most of what it draws corresponds to nothing on any map, but not all of it: two recorded intentions describe districts that exist and were built by other hands, flagged in Year 4229 and never explained.
+- Construction nearby makes no measurable difference to the tally. The quarters that do are the ones in which this Company closed the most programmes and issued none of the work.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Hollow Architect is a Subject with Entity (IV) — Self-aware, building, never finishing coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone B, Old Lament.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Subject, Entity (IV) coherence — the file's phrase is building, never finishing, and the stations would add that it finishes everything except the roof — Major (γ) potency, Comprehension Level 3, Subject-Body.
+- **Field detail:** Weight; Zone B, Old Lament. The Operational Parameters line carried the M.A.W. grade as a pair of em dashes against three graded γ pieces, and gave an activation threshold of 2 against a continuous builder; both corrected.
+- **Recognition detail:** Identify it by the crystal plans and the accruing structure, never by posture. It has no face to read and the counselors would prefer nobody tried.
+- **Record detail:** Not to be confused with The Melting Tower (architecture that failed after occupation) or The Torn Tower (a single structure, not a designer). The Registrum previously cross-referenced The Torn Tower in error; corrected.
+- **Containment detail:** There is no door — a marked line, a clearing schedule, a prohibition on finishing anything, and a rule in another building that puts a name on work nobody built.
 ## Document Information
 
 **Document ID:** SE-C-IVγ-255
