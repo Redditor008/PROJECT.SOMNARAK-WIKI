@@ -86,7 +86,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Drowned Echo's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The work is answering. Flerehan is saying aloud that the call was heard and lowers the reading; Ferrehan is staying on the slate until the cry's interval lengthens; Pugnahan is shouting back into the memory and raises it. Nothing is promised. The one forbidden act is to answer with a rescue the team does not intend to attempt.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Use air, voice anchors, and calm acknowledgment; do not shout into the memory**.
 
 ### Consequences
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Mind
 - **Primary marker:** A submerged presence in consciousness, perceived as a voice beneath dark water. It has no physical body.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It has no body and no position to record. Record instead the interval between cries — the voice repeats, and the gap between repetitions is the reading. Nineteen seconds is the longest on file and four the shortest, measured on a slate by the Warden, since no instrument has ever captured the sound.
 - **Element signature:** Lament
 - **Registered location:** Zone B, deep tunnels
 
@@ -115,19 +115,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A submerged presence in consciousness, perceived as a voice beneath dark water. It has no physical body. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | No body and no position; it occupies the communication circuit and is located by where the cry is heard. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Identification** | Verify against the SECC code before work or contact begins; there is no physical marker, and the identification rests on the interval, the submerged quality of nearby speech, and the absence of any instrument reading but pressure. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** There is no surface to log. Record the perceived depth of the voice, the interval between cries to the second, whether the cry is one voice or several, and the point at which speech between personnel begins to sound submerged, measured in metres from the board. Use the slate. Specific language only; the entity is not 'unsettling', it is a four-second interval.
 
 ## Origin
 - **Formation:** The Echo formed from voices lost beneath Han floods.
 - **The Sorrow:** The grief of speaking while knowing no one above the surface can hear.
 - **The Event:** A tunnel inundation drowned workers and trapped their last calls beneath the city.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **The People:** Thirty-one tunnel workers of the lower cut, listed in full. The commissioning file holds the shift list compiled for payroll that morning, which is complete and accurate for a reason that has nothing to do with rescue, and is the only record of who was below.
+- **Expanded origin context:** The lower cut flooded in under four minutes and the surface board recorded calls from below for two hours and forty minutes afterwards. The log for that morning survives. Against each call there is a time of receipt and an empty acknowledgement column, because the standing instruction was that no acknowledgement be sent until a rescue decision had been taken, and the rescue decision was taken at the end of the second hour. The instruction was not malicious and was not even unreasonable; it existed so that nobody below would be given false hope. Thirty-one people therefore called for two hours and forty minutes into a board that was listening and said nothing.
 
 ## Behavior
 
@@ -144,25 +144,25 @@
 
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Drowned Echo is recorded as a Subject with Subject-Mind manifestation and Lament elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** A lengthening interval means the calls were answered — this cycle's, and the ones in the tunnel log. Stability under Viderehan is correct. The interval shortens on shouting, on silence at the board, and on any call anywhere in the system closed out without an acknowledgement entry, whether or not a rescue was possible.
 ## Breach Behavior
 
-> *"Drowned Echo has broken free. Hunts personnel indiscriminately."*
+> *"It is in the comms room. It has been in the comms room since the fourth hour and it is still calling."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Drowned Echo seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Movement** | It travels along the tunnel communication circuit rather than through the air, and arrives wherever calls are received. It has never been recorded in a room without a handset. |
+| **Effect** | Every open channel carries the cry at its current interval, and operators cannot distinguish it from a live call; three real calls were logged as the entity during the second event. |
+| **Secondary Effect** | Personnel in the room feel the pressure of speaking underwater and write rather than talk, which is the standing practice anyway. |
+| **First Target** | The duty operator, and only the duty operator. It has never addressed anybody who was not at the board. |
+| **Escalation** | The interval halves each turn the board goes unanswered and resets to baseline the turn an operator speaks into the channel, whatever they say. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Do not clear the comms room and do not close the circuit; the one closure on record shortened the interval to four seconds and it stayed there for nine days. Keep a named operator at the board and have them acknowledge every call, including the entity's.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each distress call in the tunnel system closed without a logged acknowledgement — not without a rescue, without an acknowledgement. It falls 10% for each call acknowledged in the log by a named operator, including those where the acknowledgement recorded that nobody would be coming.
 
 ## M.A.W. Equipment
 
@@ -184,7 +184,7 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Drowned Echo's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder weeps involuntarily, and can no longer leave a question unanswered in conversation, which colleagues report as exhausting.
 
 ### M.A.W. Suit — The Drowned Shroud
 
@@ -200,9 +200,9 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Drowned Echo's kind of pressure.
+**Ability:** Turns Lament aside from the mind, which is the only register this entity occupies. The suit is what lets a Warden stay in the tunnel long enough to hear the interval lengthen.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to minor joys, and hears their own speech as if it were coming from the next room.
 
 ### M.A.W. Stigma — The Drowned Bell
 
@@ -212,13 +212,13 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against the Drowned Echo itself, and nothing elsewhere in the deep tunnels.
 
 **Ability:** Carries a voice through submerged or sealed spaces.
 
 **Cost:** The wearer hears calls from people who cannot be reached.
 
-*Stigmas are granted at random by Drowned Echo upon a successful work, not manufactured.*
+*The stigma is not manufactured. It is given to a Warden who answered the call without offering anything, and has never been given to one who told it that help was on the way.*
 
 ### M.A.W. Use Notes
 
@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Drowned Echo's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Record the interval on arrival, the interval on leaving, the number of calls acknowledged in the tunnel log that week, and the condition that ends the encounter, which is the shift and not the voice. The voice has never stopped. Appearance is diagnosis, not prediction.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -264,17 +264,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Drowned Echo (O-IIβ-378 [LS]) is logged as a Subject-Mind manifestation expressing Lament. The Echo formed from voices lost beneath Han floods. Held at Zone B, deep tunnels. The Echo is strongest in deep tunnels and flooded chambers.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Spreads through the minds of personnel near deep water. Subjects feel submerged and cannot speak clearly. Instruments record pressure but not speech.
+**Entry 2 — <Board Return: Four Hundred and Seven Calls, One Hundred and Seventeen Unacknowledged>**
+Distress calls logged in the tunnel system in 4238: four hundred and seven. Acknowledged by a named operator within the interval: two hundred and ninety. Closed with the acknowledgement column empty: one hundred and seventeen, of which ninety-one were resolved without incident and the caller came up unaided. Mean cry interval across the year: eleven seconds, against four in the fortnight following the Low Cut review, during which the board was unmanned overnight by decision. Instruments recorded pressure throughout and no sound at all.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of speaking while knowing no one above the surface can hear.
+**Entry 3 — <Statement of the Operator Who Said Nobody Is Coming>**
+"I said the words I was told to say. I said we have your call, we know where you are, nobody is coming tonight. I thought I would be sick saying it. The interval went from six seconds to fifteen before I had finished the sentence and I sat there for the rest of the shift listening to it get further apart. What I want recorded is that I did not comfort it and I did not lie to it, and that those are two different things and only one of them is in the procedure."
 
 **Entry 4 — <Containment Notice>**
 Management: Use air, voice anchors, and calm acknowledgment; do not shout into the memory. Work response — Flerehan: The water recedes slightly and the voice rises. (Decrease); Pugnahan: Pressure increases and the voice sinks. (Increase); Viderehan: Shows fragments of the flooded tunnel. (Stable); Ferrehan: Tests whether the worker can breathe through the memory. (Decrease). Personnel wake from exposure afraid of ordinary water.
 
-**Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+**Entry 5 — <Archive Note: The Ninety-Second Rule>**
+The tunnel communications standard was rewritten after this holding was commissioned. Every call now receives an acknowledgement from a named operator within ninety seconds, and the acknowledgement states what will happen, including when the answer is that no attempt will be made. The objection raised at the time is recorded and was serious: an acknowledgement in the log is an admission, in writing, timed and signed, that this Company knew somebody was below and decided against going down. The Company's own advocates opposed the change on exactly that ground and were overruled by the containment office, which is not an outcome this archive can recall happening before or since. The reasoning is recorded plainly: the thirty-one were listened to for two hours and forty minutes and told nothing, and the record of this entity is the sound they made during that time.
 
 ## 최종 관찰 (Final Observation)
 
@@ -303,12 +303,12 @@ Your ears fill with water though your clothes remain dry. A voice speaks beneath
 
 Drowned Echo does not exist in isolation. Its recorded relationships with The Hollow Echo, The Sunken Bridge, The Sorrow River should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish it alone first, with the week's acknowledgement figures collected alongside, since those are the variable. In shared conditions log the interval, the number of distinct voices, and whether the other record answered anything — the Hollow Echo preserves unanswered calls and does not return them, and the interval shortens throughout joint sessions without exception.
 
 
 ### Entity Interaction Record
 
-Drowned Echo must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+It is filed with the deep tunnel records. The relationships below are what the archive will support. They are not alliances; each is a record of something that was said and not received, and in proximity the interval between cries shortens by about a third.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -359,7 +359,7 @@ Some sorrows mourn the drowned. Drowned Echo mourns the calling — the voices t
 - See M.A.W. Equipment section for extraction risk.
 **Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (D-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** The thirty-one of the lower cut, named in the payroll list reproduced in the Origin section. The archive uses that list and no other, and notes in the folder why a payroll document is the most reliable thing it holds.
 
 ### Registry Addendum
 
@@ -395,8 +395,8 @@ An inundation drowned workers and their last calls stayed beneath the city, and 
 
 - **Classification detail:** Drowned Echo is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone B, deep tunnels.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** There is nothing in the room to identify. Verification is by self-report taken on leaving: a voice perceived from beneath a dark surface, speech between personnel acquiring an underwater quality, and pressure arriving where words should be. The weakness of this evidence is stated at the front of the folder and the holding has never claimed any other kind.
+- **Record detail:** Check the designation before approach. The archive holds more than one record of the deep tunnels, and they differ on what the containment requires — Stranded Between Two Shores requires that both ends of a working be staffed, while this one requires only that a call be marked as heard, and the second is cheap where the first is not.
 - **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
