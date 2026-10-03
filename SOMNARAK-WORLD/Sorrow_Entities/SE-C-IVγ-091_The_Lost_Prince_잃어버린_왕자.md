@@ -87,14 +87,14 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Lost Prince's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Flerehan and Ferrehan are the working approaches; Pugnahan is a failure mode and the table above says why — he recoils, expecting it to happen again. The worker sits with him, lets him ask, and answers the one question he asks with the truth, which is that nobody knows where that person went.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen to the story and remain present; do not promise the absent person will return**.
 
 ### Consequences
 
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Clarity** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks The Lost Prince’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
+- Contact length is not the risk. Turnover is. The counter moves down when a member of the Echo Gardens rotation leaves the post for good without telling him, and it has moved on transfers, promotions and two retirements, none of which anyone thought to mention to a contained entity.
+- The crown pieces are all made from questions that were never answered. Each activation borrows a measure of that waiting and the operator keeps it. The recorded cost is not sadness. It is that the operator cannot leave a room without explaining where they are going, including rooms containing nobody.
 - Without timely resolution, The Lost Prince defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -110,7 +110,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A translucent child-like figure wearing a small crown made from crystallized tears. He flickers while wandering and asks where the person who left him has gone.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** He wanders his enclosure continuously and stops at the gate when he hears the rotation change. Record where he is at the start of the session, where he is at the end, and whether he approached the gate during a handover — that last is logged on every sheet and is the figure the post is actually managed by.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-D-02, Echo Gardens — contained
 
@@ -122,15 +122,15 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Repeats the questions: “Where did they go?” Does not attack unless frightened. Remains hopeful despite centuries of waiting. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; the Gardens hold more than one record about somebody who did not come back, and this is the one that asks. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the figure — child-height, half flesh and half light, flickering at the edges, wearing a small crown of crystallised tears. Record whether the crown is complete; it loses a point each time the counter moves and the points do not grow back. Do not record him as distressed unless he is; he is usually conversational.
 
 ## Origin
 - **Formation:** The Prince formed from abandonment.
 - **The Sorrow:** The grief of a bond broken without explanation and a love that left no ending.
 - **The Event:** Someone departed from a child-like figure without returning or explaining. The unanswered questions crystallized into the Prince.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One adult who left and did not come back, unnamed in every surviving document. The Keepers hold no departure record, no note and no explanation, and the archive's position is that the absence of a reason is the entity rather than a deficiency in the research.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -153,7 +153,7 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Lost Prince is recorded as a Subject with Subject-Body manifestation and Lament elemental expression. The current record places it at SECTOR-D-02, Echo Gardens — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** A falling reading under Flerehan or Ferrehan means a worker stayed for the time they said they would stay and then left having said they were leaving. Stability under Viderehan is correct. The reading rises on reassurance — on anybody telling him that the person is coming back, that they would have had a good reason, or that he will understand when he is older.
 ## Breach Behavior
 
 > *"The Lost Prince has broken free. Searches for the person who lost him."*
@@ -161,16 +161,16 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Lost Prince shatters containment and hunts through the facility. It searches for the person who lost him. |
+| **Movement** | He walks out and searches, at a child's pace, room by room, and has never passed a door without looking inside it. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
-| **Escalation** | Each turn free, Composure drain +5 until suppressed. |
+| **Secondary Effect** | Everyone he has asked finds themselves unable to leave the room without announcing it, for several hours afterwards. |
+| **First Target** | Whoever worked most closely with the person who left the rotation. |
+| **Escalation** | Drain rises by 5 each time somebody answers him with a reassurance, and not at all for the time he spends walking. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
+- **Breach type:** Escape. He leaves the Gardens and moves through the facility at a child's walking pace, asking the same question of everyone he meets.
+- **Containment priority:** Do not suppress. Confrontation raises the reading by the approach table's own figures, and the two recorded Warden deployments both ended with a longer incident and a crown point lost. Send the person he is looking for, if they are still employed here, to tell him they are not coming back.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment
@@ -190,13 +190,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A line of up to three, which on this post means a corridor of people who have all stopped to look at him.
+**Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is the specificity: the third reports general guilt rather than guilt about anyone.
+**Damage Application:** Record the strike and the residue separately. The Lament lands once; the compulsion to account for one's whereabouts continues through the shift and is the part supervisors notice first.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Lost Prince's lament signature in the strike.
+**Ability:** Lament damage to the mind. The crown-wrought blade carries his signature — a question with no answer behind it — and what it opens in a target is the memory of somebody they stopped visiting.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries his unwept grief and weeps involuntarily, most often while writing a handover note.
 
 ### M.A.W. Suit — The Crown of Shroud
 
@@ -212,9 +212,9 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Lost Prince's kind of pressure.
+**Ability:** Turns Lament aside from the mind, which is the only pressure here. The shroud is what allows a worker to sit through a full session of the same question without answering it with something kind and false.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small pleasures, and reports children's voices elsewhere in the facility as unusually loud.
 
 ### M.A.W. Stigma — The Crown of Tears
 
@@ -224,13 +224,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to work against the Lost Prince himself, and nothing elsewhere in the Echo Gardens.
 
 **Ability:** Reveals bonds, attachments, broken links, and emotional connections between people.
 
 **Cost:** Every broken bond appears to the wearer as their own loss.
 
-*Stigmas are granted at random by The Lost Prince upon a successful work, not manufactured.*
+*The crown of tears is not manufactured. He gives one to a worker who told him they were leaving the post for good and said so to his face, and has given none to anyone who simply stopped appearing on the rota.*
 
 ### M.A.W. Use Notes
 
@@ -245,7 +245,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety. What the table cannot show is that bearers of the crown of tears write unusually long handover notes and are, by the medical office's count, the least likely group in the facility to accept a transfer without working their full notice.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Lost Prince's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record the first sign, which is a child's voice at conversational volume from an enclosure that should be empty of speech; the first sensation, which is the urge to promise something; his position at the gate during any handover; the state of the crown; and the condition that ends the encounter, which is the worker leaving after saying that they are leaving. Record the words used.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -278,17 +278,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Lost Prince (C-IVγ-091 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Prince formed from abandonment. Held at SECTOR-D-02, Echo Gardens — contained. The Prince asks the same questions to every visitor.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Influence radiates through nearby personnel as the Prince searches. Personnel feel intense attachment, abandonment, and longing. It has never attacked without first being frightened.
+**Entry 2 — <Echo Gardens Rotation Book, Leavers>**
+Forty-one people have left this post permanently since the enclosure was built. Thirty-eight of those departures are recorded in the rotation book with a date and nothing else; the person worked their last shift and did not come back, which is how a rotation book works and is not a criticism of anybody. Three are annotated "told him". The counter has moved down on departures of the first kind and has not moved on any of the three.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of a bond broken without explanation and a love that left no ending.
+**Entry 3 — <Statement of a Worker Who Said Goodbye>**
+"I felt ridiculous. I had my transfer papers in my coat and I sat on the bench and said I am going to Zone B on the fourteenth and I am not coming back, and you did not do anything wrong. He asked where Zone B was. I told him. He asked if it was far and I said yes. Then he went and sat down somewhere else, which the file will record as no change in behaviour, and which was not nothing — he stopped waiting at the gate for me on the days I was not rostered, because he knew I was not coming."
 
 **Entry 4 — <Containment Notice>**
 Management: Listen to the story and remain present; do not promise the absent person will return.  Honest answers produce more stability than comforting lies.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+This office now requires an exit interview with a contained entity, and is aware of how that reads. The requirement is one conversation, before the last shift, in which the departing worker tells the Lost Prince that they are leaving, where they are going, and that it is not his doing. Three have been held and the counter has not moved on any of them; thirty-eight silent departures preceded them and the counter moved on each. Personnel who find the conversation absurd are not required to believe in it, only to have it. Personnel who find it upsetting may have a colleague present. Nobody is to delegate it, because a message passed on is the thing we are trying to stop doing to him.
 
 ## 최종 관찰 (Final Observation)
 
@@ -317,12 +317,12 @@ He is small enough to carry and old enough to have waited forever. The crown on 
 
 The Lost Prince does not exist in isolation. Its recorded relationships with The Smothering Mother, The Silent Child, The Orphaned Bell, The Kind Healer, The Echo of Kindness should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish him alone first, across at least one handover, since the handover is the variable. In shared conditions log the counter, the crown, approaches to the gate, the first mutual reaction and the distance at which it occurs, and whether any of it persists after the other record is withdrawn. Note that he responds to the staff rather than to the other entity, and that this has made every shared session here harder to interpret than it looks.
 
 
 ### Entity Interaction Record
 
-The Lost Prince must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+He is filed with the Echo Gardens records, which are otherwise structures and ground. The relationships below are what the archive will support. They are not alliances; they are what the Gardens hold, and he is the only one of them that notices when the staff change.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -332,7 +332,7 @@ The Lost Prince must be assessed as part of an entity network, not as an isolate
 | **The Kind Healer** | Comforts him but cannot heal abandonment. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Echo of Kindness** | Draws his hope and makes him reach toward it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baseline first, then the shared encounter: counter at each stage, crown points intact, approaches to the gate per hour, how long any elevated rate persisted once the other entity withdrew, and the number of rotation changes during the period. Sessions spanning a posting change are logged separately and not averaged in.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -374,14 +374,14 @@ Some sorrows mourn a loss. The Lost Prince mourns an absence of explanation — 
 - Formed from a bond broken without explanation.
 - The questions are universal; everyone has been left.
 **Cross-References:** Zone D · The Ember Child · The Orphaned Bell
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED, whose Zone D survey covers the Gardens, and UCD, who hold the Fray-adjacent reports in which a child's voice was logged for three years as an acoustic artefact.
 **Originator:** A child-figure abandoned without explanation.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Treat this as a record of a departure without explanation rather than of a dangerous child. Every figure here follows from how this facility manages its own leavers. The counter is 2 and it runs down on silent departures; a stable rotation moves nothing.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any breach, any Sorrow Tide, and any permanent change to the Echo Gardens rotation — the last unconditionally and in advance where possible, since the measure that works has to be carried out before the person goes. The review confirms that the leaving was said, not that it was approved.
 ## Apex Record
 
 ### The Three Questions
@@ -415,9 +415,9 @@ The announcement protocol has one exception, written in by the counselors and te
 
 - **Classification detail:** The Lost Prince is a Subject with Entity (IV) — Self-aware, wandering, seeking coherence and Major (γ) — High danger potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-D-02, Echo Gardens — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify him by the crown and the question. Several figures are catalogued in the Gardens; this is the child-height one, half light, wearing crystallised tears, who asks where somebody has gone and waits for the answer.
+- **Record detail:** Check the designation before approach. More than one Gardens record concerns someone who did not come back, and they are handled oppositely — this one is to be told the truth and never comforted.
+- **Containment detail:** Do not equate containment with inactivity. He is active during every handover, whether or not anybody enters the enclosure, and the containment reading is the crown and the counter rather than the state of the gate.
 ## Document Information
 
 **Document ID:** SE-C-IVγ-091
