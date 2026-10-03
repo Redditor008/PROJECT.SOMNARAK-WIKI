@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Non-Organic — An emptiness shaped like a person, split clean by a jagged vertical tear — no visible material, only a bent-space silhouette that warps the air around it. Lead-cold, it smells of wet stone; you see it most in what it distorts behind it. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Walking — it crosses the gallery on no fixed path, and its position is derived from the bend rather than observed. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan, worked from outside the bend with the counselor on the line. Pugnahan is valid on paper and prohibited by chamber order. |
 
 ### Operational Notes
 
-- The Gap in the Commons does not close and does not widen, holding dimensions that have been constant across the record.
-- A cycle quiets it. The dimensions are unchanged, and nothing has been passed through it in either direction by any session.
-- One ignored condition is enough to escalate it. There is no margin, and the approach is authorized individually.
-- Burden pressure accumulates in personnel who look into the Gap directly; viewing is indirect and timed from outside.
-- Recovery of the implement is a separate authorization.
+- The tear's dimensions have been constant across the record. The entity's position has not: it walks the gallery, and the track is derived from three stations because it cannot be watched.
+- A good cycle quiets it and returns nothing. Nothing has been passed through the tear in either direction, and no session has recovered a single ordered account of the life behind it.
+- One missed day-book reading is enough to escalate it. Approach is authorised individually and the authorisation names the worker, not the post.
+- Sequence loss accumulates in anyone in the gallery, whether or not they look at it. Timed indirect viewing reduces the rate and does not stop it.
+- The exit screen is administered by a counselor who holds the baseline and shows it to nobody, including the worker.
 
 ## Combat Record
 ### Core Stat Line
@@ -72,7 +72,7 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone D, Mantle Commons |
-| **Resolution Condition** | Use memory anchors and reconstruct the person's history without inventing missing pieces |
+| **Resolution Condition** | Each worker anchors on their own day book; nothing missing is supplied, by anybody, for any reason |
 
 ### Combat Actions
 
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Restless Gap's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The crew works from outside the bend, with the sequence card in hand and the counselor on the line. Flerehan and Ferrehan are the usable pair; Pugnahan tears the space further and is prohibited by the chamber order rather than by preference.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Use memory anchors and reconstruct the person's history without inventing missing pieces**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Restless Gap's dossier.
 
 ## Appearance
-**Primary Form:** An emptiness shaped like a person, split by a jagged vertical tear. It carries no visible material but bends the space around it.
+**Primary Form:** A person-shaped emptiness with a jagged vertical tear down it, carrying no material and registering only as a bend in whatever lies behind it. **Track:** it walks, on no path the survey has been able to predict.
 
-**Notable Features:** It removes the sense of continuity from nearby memories and leaves gaps in personal histories.
+**Notable Features:** It takes nothing away. It cuts the order out of what people already hold, so that a life becomes a heap of true facts about somebody with your name.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Void
-- **Primary marker:** An emptiness shaped like a person, split by a jagged vertical tear. It carries no visible material but bends the space around it.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** A person-shaped emptiness split by a jagged vertical tear, visible only as the bend it puts in whatever lies behind it.
+- **Position / movement:** It walks. Position is derived from the bend at three survey stations rather than seen directly, and the derived track has never been a straight line.
 - **Element signature:** Weight
 - **Registered location:** Zone D, Mantle Commons
 
@@ -115,29 +115,29 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An emptiness shaped like a person, split by a jagged vertical tear. It carries no visible material but bends the space around it. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Form** | A person-shaped absence, torn vertically, present to the instruments only as a measurable bend. |
+| **Position / movement** | Derived from three stations each session; recorded as a track, never as a sighting. |
+| **Material / signature** | Weight. No surface, no sound, no temperature — only the bend, and the exit scores afterwards. |
+| **Distinctive markers** | The vertical tear and its angle, the bend magnitude, and the fact that nobody can repeat their own description of it twice. |
+| **Identification** | If you cannot afterwards say what you saw, and the gallery line behind it is bent, it is this one. No other Commons holding costs the observer the account. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the bend at all three stations with times, the derived position, the tear's angle, and — immediately, before leaving the gallery — what you believe you saw, in your own words. The last is required because workers lose the account within minutes and the loss of it is itself the reading.
 
 ## Origin
-- **Formation:** The Trace formed from a life broken into disconnected pieces.
-- **The Sorrow:** The weight of surviving while no longer feeling connected to one's own past.
-- **The Event:** A citizen's memories were fractured by repeated Han exposure; the remaining trace became a person-shaped absence.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+- **Formation:** From a working life that no record was ever required to hold, remembered by one man who then lost the order of it.
+- **The Sorrow:** Not forgetting. Being required to prove a past with the faculty the injury removed, and failing honestly.
+- **The Event:** Chronic low-dose exposure across contractor intervals that nobody was obliged to register. The claim was not established, the injury was logged as of unknown origin, and 23,400 person-years of channel work stand on the same register with no continuous record behind them.
+- **The People:** One man, a channel maintainer on contractor shifts, whose work is attested by colleagues and by no continuous record. There is no register of the people who worked those intervals, which is the reason this entity exists.
+- **Expanded origin context:** He could not prove his own past, and the rule that stopped him is a good rule. A fact is established by record; where there is no record there is no established fact; and the burden lies on the claimant, because the alternative — accepting assertion — was tried and produced the Year 4176 collapse of the exposure scheme, in which 19,000 unverifiable claims exhausted the fund in eleven months and the genuinely injured were paid nothing. His exposures fell in contractor intervals that nobody was required to register. So his case was *not established*, which does not mean disbelieved, and his memory loss was recorded as of unknown origin. He was also, by then, the only witness to his own working life, and the thing his claim needed him to remember was the thing the exposure had taken. The file states this plainly: the proof the scheme required of him was the proof his injury had destroyed.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Reaches toward the worker through the tear. | Decrease |
-| **Pugnahan** | Space around it tears and grows heavier. | Increase |
-| **Viderehan** | Shows fragments of the life that was divided. | Stable |
-| **Ferrehan** | Tests whether the worker can endure discontinuity. | Decrease |
+| **Flerehan** | It reaches through the tear toward the worker — the only behaviour on file that resembles intention, and the file declines to say whether it is. | Decrease |
+| **Pugnahan** | The space tears further and the load rises with it. Prohibited by chamber order, not by preference. | Increase |
+| **Viderehan** | Fragments of the divided life, in no order and never twice in the same order. | Stable |
+| **Ferrehan** | The worker holds their own sequence aloud against the pressure for the full interval, from the day book. | Decrease |
 
 
 
@@ -148,22 +148,22 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
 ## Breach Behavior
 
-> *"Restless Gap has broken free. Hunts personnel indiscriminately."*
+> *"The bend is past station three. It is not chasing anyone — widen the cordon and get the sequence cards out."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | Restless Gap intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
-| **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | It intensifies where it stands and the warped zone grows outward. It does not pursue; in forty years nothing in the record has it approach a person who was not already inside the bend. |
+| **Effect** | Pressure through the whole warped volume at once, heaviest at the tear, and sequence loss at a multiple of the chamber rate. |
+| **Secondary Effect** | Responders lose the order of the engagement while it is happening. Cordon logs are therefore timed by a clerk outside the radius who is never relieved by anyone who has been inside it. |
+| **First Target** | There is no target. The warping takes whoever the radius reaches, and the response is a cordon problem rather than a protection problem. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Corrupt — the zone warps outward from where it stands. Nothing is pursued; the hazard reaches people by growing, not by travelling.
+- **Containment priority:** Cordon at increasing radius, sequence cards at the line at fixed intervals, and withdraw any responder whose score slips regardless of how the event is going. Four complete rotations is the record and none was waived.
+- **Sorrow Gauge on breach:** Opens at 40% and climbs 10% an interval. It falls when a responder at the cordon reads their own day book aloud from the entry before the event — not a facility record, their own.
 
 ## M.A.W. Equipment
 
@@ -186,7 +186,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Direct and Tick are scored separately against the same resistance, and the Tick is the one that matters here: the pressure is cumulative and the responder does not notice it, which is why withdrawal is decided by the sequence card and not by the responder.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Restless Gap's weight signature in the strike.
 
@@ -224,7 +224,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Cost:** The wearer cannot leave an anchored location without emotional pain.
 
-*Stigmas are granted at random by Restless Gap upon a successful work, not manufactured.*
+*The Trace Charm is not issued. It is found in a pocket after a session in which the worker's own continuous account survived the chamber intact, and in no other circumstance.*
 
 ### M.A.W. Use Notes
 
@@ -244,11 +244,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The entity creates discontinuity rather than ordinary destruction.
-- Personnel report longing for memories they cannot identify.
-- It becomes more active during the Sorrow Tide.
+- It destroys nothing. It removes order, which the medical office classes as a loss and the claims office does not.
+- Personnel come out wanting a memory they cannot name, which the counselors read as the sequence trying to close around a gap.
+- Through a Tide the exit scores roughly double and the bend does not change, which is the clearest evidence that the two readings measure different things.
 
-**Personnel Note:** *"It was quiet. I felt longing. I wanted to remember the missing part, but the Trace taught me that an empty space is not permission to invent."* — Specialist, Zone B patrol
+**Personnel Note:** *"I came out certain of everything I had seen and could not put any of it in order. The counselor asked me which came first, the transfer or my sister's wedding, and I did not know, and that is a thing I have known my whole life."* — Specialist, Zone D patrol
 
 
 
@@ -257,31 +257,31 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Restless Gap as a Subject with Subject-Void manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone D, Mantle Commons. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Bend magnitude at three stations against the derived track, and the exit sequence score against each worker's own baseline. The second is the sensitive instrument and the one the chamber order is written around. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Restless Gap's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Bend readings at three stations with times, derived position, the worker's own account written in the gallery before leaving, the exit sequence card, and the counselor's score against baseline. The score against baseline is the session's result; everything else is supporting.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Restless Gap (C-IVδ-250 [WS]) is logged as a Subject-Void manifestation expressing Weight. The Trace formed from a life broken into disconnected pieces. Held at Zone D, Mantle Commons. The entity creates discontinuity rather than ordinary destruction.
+Restless Gap (C-IVδ-250 [WS]) is logged as a Subject-Void manifestation expressing Weight, walking the Mantle Commons gallery in Zone D. It does not erase what people know. It severs the order of it, and the holding is measured by how far out of order the people who work it come.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Moves through Mantle Commons, leaving gaps in memory. Personnel lose continuity between thoughts, places, and identities. Personnel report longing for memories they cannot identify.
+**Entry 2 — <Excerpt from Gallery Station Returns, Zone D>**
+It walks the gallery on no fixed path. Personnel keep every fact and lose the thread between facts; the exit screen measures the loss in events misplaced out of twelve, and the median has gone 2, then 4, then 7 across the three annual baselines.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The weight of surviving while no longer feeling connected to one's own past.
+**Entry 3 — <Exit Screen Debrief, Counselor's Note>**
+They all describe the same thing and none of them can describe it twice the same way. You still have your life. You cannot say what order it happened in, and a life out of order is a pile of facts about a stranger who has your name.
 
 **Entry 4 — <Containment Notice>**
-Management: Use memory anchors and reconstruct the person's history without inventing missing pieces. Work response — Flerehan: Reaches toward the worker through the tear. (Decrease); Pugnahan: Space around it tears and grows heavier. (Increase); Viderehan: Shows fragments of the life that was divided. (Stable); Ferrehan: Tests whether the worker can endure discontinuity. (Decrease). It becomes more active during the Sorrow Tide.
+Management: every worker carries a day book — their own continuous account, in their own hand, countersigned — and reads from it at the gallery door and again at the cordon if there is one. Do not supply the anchor; the facility's own records do not work and the attempt is logged as having been tried. Work response — Flerehan: it reaches through the tear and the gauge falls. (Decrease); Pugnahan: the space tears further and grows heavier — prohibited. (Increase); Viderehan: fragments of the divided life, in no order. (Stable); Ferrehan: the worker holds their own sequence against the pressure for the full interval. (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+The Commons claimants' representative asked for one thing in Year 4233 and I am minuting my refusal in full, because it was a good application and it will come again. She asked that our sequence baselines be admissible in exposure claims. We hold, for 1,100 workers, the only continuous attested record of their own lives that exists anywhere. I refused. The baseline works because it is not evidence — because nobody can be helped or harmed by it, workers answer it honestly, and the moment it becomes a document in a claim it becomes a document people prepare for. I would be trading the instrument that protects them for the evidence that might compensate a few of them. I am not certain I was right. I am certain the reasoning is sound, and those are different things.
 
-**Threat rating:** Low. A person-shaped gap from Han-fractured memories. Effect: proximity induces the disconnection from one’s own past.
+**Threat rating:** Critical (δ). Nobody has been killed or physically injured here. The grade is carried by the sequence loss, which is cumulative, undetectable by the person it is happening to, and in four recorded cases permanent.
 
 ## 최종 관찰 (Final Observation)
 
@@ -298,7 +298,7 @@ The figure stands in the Commons, and the room forgets how its corners connect. 
 
 
 
-**At first contact:** The Subject-Void does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. An emptiness shaped like a person, split by a jagged vertical tear. It carries no visible material but bends the space around it.
+**At first contact:** Nothing announces it. The gallery behind it is slightly wrong — a line that should run straight is bent around a person-shaped nothing with a tear down it — and you will see this clearly and be unable to describe it ten minutes later. Write it down in the gallery. Every protocol in this holding exists because of what happens between the gallery and the stairs.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Void becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 
@@ -308,26 +308,26 @@ The figure stands in the Commons, and the room forgets how its corners connect. 
 
 ### Interaction Pattern
 
-Restless Gap does not exist in isolation. Its recorded relationships with The Memory Weaver, Silence We Forgot We Made, The Memory Well should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+One trial, one refusal, one accident. The trial produced the rule this entire holding is managed under, the refusal has been made twice on the same reasoning, and the accident has never been reproduced and is recorded as unexplained rather than quietly dropped.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Three uncontested sessions of bend readings and exit scores before any second entity is brought into the Commons, because the sequence baseline is the control and a contaminated baseline cannot be rebuilt — the worker only has one. Then separation, bend magnitude, and the measurement specific to this holding: whether the other entity's presence changes the exit score for workers who never approached the tear.
 
 
 ### Entity Interaction Record
 
-Restless Gap must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Interaction work here is priced in exit cards, and the people who pay are the workers whose baselines are spent. The wing's standing position is that a baseline is a worker's property in everything but name and is not to be consumed for a reading somebody merely wants.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Weaver** | Attempts to weave its gaps closed. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Silence We Forgot We Made** | Shares the pain of missing continuity. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Well** | Reflects its separated fragments. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Memory Weaver** | Attempts to weave its gaps closed. | Tested once at sixty metres. The Weaver supplied order the Gap had not held; the exit scores of everyone present worsened, and the session is the origin of the rule against supplying anybody's missing pieces. | Exit cards for all present, the Weaver's own reading, and days to baseline. |
+| **Silence We Forgot We Made** | Shares the pain of missing continuity. | Untested and refused twice. Two holdings that both act on what is absent cannot be told apart in the readings, and a session that cannot be attributed is not worth its exit cards. | The refusal and its reasons, kept with the station sheets. |
+| **The Memory Well** | Reflects its separated fragments. | Observed once during an unrelated transfer: the Well returned fragments in an order, the Gap's bend fell by a fifth for eleven minutes, and nobody has been able to repeat it. | Bend magnitude at one-minute intervals, transfer times, and the Well's own return log. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Bend readings before, during and after; exit sequence cards for everyone present including instrument staff and the counselor; and the gallery accounts, written in the gallery, collected before anybody climbs the stairs. Sessions in this holding are written up from the cards, because the participants' recollections of them are not reliable and the file says so.
 
 ## 이야기 (Narratio) — The Tale
 
-The Han took his memories in pieces, and the pieces, scattered, would not reconnect, and what remained of him walked out of the exposure as a gap.
+The Han took the order of his life, and the scheme asked him to prove the order of his life, and what walked out of that hearing was a gap.
 
 The citizen was a worker — a tunnel laborer, or a Han-channel maintainer, someone whose job required proximity to the raw Han that flows beneath the city. The exposure was chronic. Not the sudden, consuming exposure that Fractures — the slow, accumulating kind, the dose-by-dose contamination that does not kill but erodes. His memories began to thin. A name here. A face there. The texture of a particular afternoon. The reason he had married his wife. The memories did not vanish all at once. They tore — came loose in fragments, disconnected, the continuity of a life breaking into pieces that no longer fit together.
 
@@ -353,18 +353,18 @@ Some sorrows are about losing memory. Restless Gap is about losing continuity �
 
 **Classification:** Sorrow Entity — `C-IVδ-250 [WS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight · Subject-Void manifestation
 **Common Name:** Restless Gap
-**Containment Status:** Contained — Zone B
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. A person-shaped gap from Han-fractured memories. Effect: proximity induces the disconnection from one’s own past.
+**Containment Status:** Contained — Zone D, Mantle Commons gallery
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Critical (δ). No deaths and no injuries in the whole record. The grade is sequence loss: cumulative, invisible to the person suffering it, and permanent in four cases.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The Trace walks; do not attempt to anchor it.
+- Flerehan and Ferrehan. Viderehan is informative and expensive; Pugnahan is prohibited by chamber order.
+- Day book at the gallery door, gallery account before the stairs, sequence card at exit, counselor's score against baseline.
 **Observation Notes:**
-- A citizen’s memories were fractured by Han exposure.
-- The fragments float free, disconnected.
-**Cross-References:** Zone B · The Memory Maze · The Frozen Echo
+- A channel maintainer's exposures fell in contractor intervals nobody was required to register; his claim was not established and his injury was recorded as of unknown origin.
+- The facts remain. The order does not. He was the only witness to his own working life.
+**Cross-References:** The Mantle Commons gallery survey · the Year 4176 exposure-scheme collapse · the unestablished service register · the Year 4233 admissibility application · the day book countersignature index
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
-**Originator:** A tunnel worker whose memories were fractured by Han exposure.
+**Originator:** A Han-channel maintainer whose working intervals were never registered and who could not, afterwards, remember them in order.
 
 ### Registry Addendum
 
@@ -399,10 +399,42 @@ The chronological screen is administered by a counselor who holds the worker's b
 
 Baselines are stored with the medical record rather than the personnel file, so that a worker's sequence results cannot be read by anyone making assignment decisions. The separation was requested by the counselors at the outset and has never been tested, because nobody has asked.
 
+### What the Sequence Score Is Measuring
+
+Events misplaced out of twelve, on the exit card, median across everyone who entered the gallery that year: 2, then 4, then 7. The card is mundane by design — a posting, a birthday, a move, a colleague leaving — and it is scored only for order.
+
+The median does not track hours in the chamber, proximity, or the bend. It tracks the **register of unestablished service**: intervals of real work on the municipal Han channels for which no continuous record was ever required. The register stands at 23,400 person-years. No claim has ever been founded on any part of it.
+
+The rule that produces the register is a good rule, and the file sets out why at length rather than conceding it in a clause. A fact is established by record. Absence of record is absence of established fact. The burden sits with the claimant. The alternative was tried: the Year 4176 exposure scheme accepted attested assertion, 19,000 unverifiable claims exhausted the fund in eleven months, and the people with real injuries and real documents were paid nothing at all. Every officer in this file's chain has read that history. So has the claimants' representative, who cites it herself.
+
+What it produces, applied to one man, is the thing in the gallery. His exposures fell in contractor intervals nobody was obliged to register; his claim was not established, which is not the same as disbelieved; his injury went into the record as of unknown origin. And the proof the scheme required of him — a working life, in order — was the exact faculty the exposure had taken. He was the only witness to his own case and the injury was the loss of his ability to testify.
+
+### Not Established
+
+*Not established* is the term of art and the file uses it without softening. It means the tribunal reached no view. It is not a finding of dishonesty and cannot be cited as one, and the Office's guidance is emphatic on that point, which is a kindness of a sort.
+
+The consequences are not kind. No compensation. No entry in the exposure series, so the interval does not appear in the statistics the channels are regulated by. No standing to request the medical review that is automatic for established cases. And no route back: the register is closed to applications founded on recollection alone, for the reason the 4176 collapse supplies.
+
+Against that sits a document the wing holds and cannot use. For 1,100 workers on this file, the counselors' annual baselines are the only continuous, dated, attested account of their own lives in existence anywhere — better than the municipal record, better than anything the claimants could assemble.
+
+In Year 4233 the Commons claimants' representative applied for the baselines to be admissible in exposure claims. The wing refused, and the refusal is correct for a reason that does not improve with familiarity. The baseline is honest because it is inert: nobody can be paid or denied or reassigned on it, so workers answer it without preparing. Make it evidence and it becomes a document people prepare, and the instrument that detects the injury stops detecting anything. The application is filed in the Year 4234 return, marked *correct in principle, no action*, and the Director's minute on it ends with a line the wing has never removed: *I am not certain I was right; I am certain the reasoning is sound, and those are different things.*
+
+This is a separate question from the one the file elsewhere calls untested — whether baselines are kept out of assignment decisions. That separation has never been challenged. This one was, once, properly, and lost.
+
+### The Day Book
+
+The management line read *use memory anchors and reconstruct the person's history without inventing missing pieces*, and the first half of it was wrong in a way that took the wing six years and one bad session to see. Facility-issued anchors do not work here. The Memory Weaver trial, at sixty metres, supplied order the Gap had not held, and the exit scores of everyone in the gallery got worse.
+
+The day book is not a facility record. Every worker on the file keeps one: their own continuous account, in their own hand, dated, each page countersigned by a colleague who was there. The wing retains only the countersignature index — names and dates, no content — and the book itself stays with the worker and leaves with them when they leave.
+
+It is read at the gallery door before descent and again at the cordon during an event, from the entry before the event began. The gauge falls when it is read and does not fall when a facility record is read in its place, which was tested deliberately, twice, and logged both times.
+
+Three things about it that the wing considers load-bearing. The countersignature is a colleague, never a supervisor, because the book must not be an instrument of assessment. Nothing in it may be filled in afterwards from anyone else's account, which is the surviving half of the old management line and the only rule here that has never once been relaxed. And the books are honoured on departure: a worker leaving the facility takes the only continuous record of those years with them, which is precisely what the man in the gallery never had, and the wing is aware that it is paying this debt to the wrong people.
+
 ## Trivia
 
-- It does not erase memories deliberately; it breaks the links between them.
-- Its tear is visible only when the observer has a stable memory anchor.
+- It breaks links, not contents. Every worker who has failed the screen could still state every fact on it.
+- The tear is visible only to an observer holding a stable anchor, which in practice means a worker reading from their own day book.
 
 
 
@@ -410,9 +442,9 @@ Baselines are stored with the medical record rather than the personnel file, so 
 
 - **Classification detail:** Restless Gap is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone D, Mantle Commons.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** The bend, the tear's angle, and the account you cannot repeat. Emotional impressions are the least reliable thing you will bring out of that gallery.
+- **Record detail:** Six holdings in this archive are described as gaps in a record. This one is not a record that was destroyed, lost, weeded or sealed. It is a record that was never required to be made, about work that was really done, by a man whose injury removed his standing to say so.
+- **Containment detail:** The gallery door stops nothing measurable. Exit scores slip for clerks on the floor above, which is why the day book is issued facility-wide and not only to the chamber crews.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-250
