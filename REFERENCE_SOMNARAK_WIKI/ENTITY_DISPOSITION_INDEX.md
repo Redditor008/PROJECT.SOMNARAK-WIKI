@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **141** |
-| Pending — no disposition-bearing line found by scan | 162 |
+| **Classified here, with a quoted line of evidence** | **142** |
+| Pending — no disposition-bearing line found by scan | 161 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 141 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 142 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 162 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 161 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -144,6 +144,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Kind Healer | `SE-C-Iα-071` | Neutral | At this stage it strikes nobody and pursues nobody, seeking only the injured; it treats F01 personnel and takes their pain into itself, which helps the Company no more than it helps anything else. It quietens The Hollow Choir at its own multi-day cost. Its chain — Blessing Giver, Apostle Maker, and the Dawn of Mourning branch — is classified separately. |
 | Yggdrasil Wound | `SE-O-Iα-973` | Neutral | It targets nobody — *"Nobody. It is going nowhere in particular and both halves are going there separately"* — and reaches only staff carrying an unresolved conflict of their own. It aids no entity: the one Memory Well pairing widened its own cleft permanently, and its overlap with The Torn Trace shares a roster rather than any capability. |
 | Panopticon | `SE-C-IIβ-235` | Neutral | It records everything and acts on none of it — *"Everything is taken in and nothing is ever returned. There is no verdict, no reaction and no consequence of any kind."* It drives The Observing Bird out of its sections rather than aiding it, and the one holding that made use of its observations, The Weighting Bird, did so unassisted. |
+| The Lonely Giant | `SE-C-IIIγ-105` | Neutral | It harms F01 only by mass — *"Not one intentional harm in the whole record, breaches included"* — and takes no interest in personnel even off its route. It suppresses nothing and assists nothing: the Smothering Mother pairing raises her gauge while leaving his unmoved, and the Forgotten Soldier's salute shortens his walk without either gaining capability. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
