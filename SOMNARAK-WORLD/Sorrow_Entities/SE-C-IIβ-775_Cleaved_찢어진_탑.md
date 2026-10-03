@@ -30,19 +30,19 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Activation threshold** | 3 — counts down; the third ignored condition breaches it |
+| **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan to lower the gauge. Pugnahan is barred: confrontation splits it further and takes the walls with it. |
 
 ### Operational Notes
 
-- The division is clean and the entity is unimpaired by it, which is the finding personnel most often fail to log.
-- Work settles both halves. No cycle has rejoined them, and neither half has been recorded as dominant.
-- Three ignored conditions escalate it. Escalation is simultaneous across both halves rather than beginning in one.
-- Void expression erodes the operative's certainty about which half was addressed; instructions are logged with the half identified by position.
-- Extraction is a separate authorization and carries the same ambiguity.
+- The split runs the full height and the entity is in no way impaired by it. New personnel log it as damage and it is not damage.
+- A cycle settles both halves together. Nothing has rejoined them and neither half leads the other by any measure the watch keeps.
+- The threshold stands at three and runs down. Escalation arrives in both halves at once, which is the standing argument against treating them as two things.
+- Void erodes the operative's certainty about which half was worked. Halves are named by position — street side, wall side — and never by appearance.
+- Extraction is separately authorised and inherits the same ambiguity; the yield is booked against the scheme number, not the holding.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Cleaved's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The team works the half it names first and states the name aloud, because the Void expression will have removed any memory of which half was addressed before the cycle ends. Position, not appearance, is the only reliable label.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not complete the structure; document what was intended and lost**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - Without timely resolution, Cleaved defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
-**Primary Form:** A tall burning figure whose body resembles a tower split vertically. Its upper half leans toward an impossible skyline.
+**Primary Form:** A tall figure built like a tower cloven down its vertical axis, stone-flesh on one side of the seam and live fire on the other. **Movement:** it walks, upright and unhurried, and it has never once pursued anybody.
 
-**Notable Features:** It moves through old streets, carries the memory of a failed construction, and burns with unrealized potential.
+**Notable Features:** A constant lean toward a bearing nothing in the district matches, a fire that no instrument reads as heat, and a height that is different at every survey.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
-- **Primary marker:** A tall burning figure whose body resembles a tower split vertically. Its upper half leans toward an impossible skyline.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** The seam. A clean vertical division from crown to base, burning along its whole length, with the upper half inclined off true by a constant angle.
+- **Position / movement:** Walks upright along the footprint of the abandoned works, keeping to streets that existed when the project began. Measured height 31, 44 and 58 metres across three surveys.
 - **Element signature:** Void
 - **Registered location:** Zone B, Old Lament
 
@@ -115,29 +115,29 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A tall burning figure whose body resembles a tower split vertically. Its upper half leans toward an impossible skyline. |
+| **Form** | A cloven tower in the shape of a man, stone-flesh against live fire along the seam, the crown carried off true toward a fixed bearing. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Material / signature** | Void. Stone-flesh braided with flame, bloodless-cold against fever-hot, ash and char, and no thermal reading at all. |
+| **Distinctive markers** | Lean bearing, seam, and measured height. The first two are constant and the third is not. |
+| **Identification** | If it is burning and the air is cold, it is this. Every other tall thing in the Old Lament gives off heat. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Height by theodolite from the fixed station, lean bearing by compass, seam continuity by eye. Three figures a survey, taken in that order and taken from the street.
 
 ## Origin
-- **Formation:** The Tower formed from a structure that was never completed.
-- **The Sorrow:** The grief of a future promised by architecture but never built.
-- **The Event:** A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+- **Formation:** From a scheme that was neither built nor abandoned, and has spent a century in the gap between the two.
+- **The Sorrow:** Not the loss of the building. The impossibility of mourning it, since on the register the building is still coming.
+- **The Event:** The architect and the crews were gone from the site inside a week. The works was suspended the following month and the suspension has never been lifted or ended.
+- **The People:** An architect, two foremen and roughly four hundred contracted labourers, none of whom was ever formally released from the scheme. They remain on the works register as assigned.
+- **Expanded origin context:** The scheme was approved in the ordinary way, begun in the ordinary way, and stopped when the architect and the crews went missing from the site inside a single week. Nothing after that was ordinary. The works was not cancelled, because this Company does not cancel; it was suspended, and the suspension is still in force. The register entry is open. The commitment stands. The drawings are complete, competent and buildable, and a later structural assessment in the same folder confirms the tower would have held. What walks the Old Lament is not a ruin. A ruin would require the thing to have ended.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Its flame lowers and unfinished rooms become visible. | Decrease |
-| **Pugnahan** | It splits further and burns through nearby walls. | Increase |
-| **Viderehan** | Reveals the planned building and the people who would have lived there. | Stable |
-| **Ferrehan** | Forces the worker to endure the feeling of almost-arrival. | Decrease |
+| **Flerehan** | The seam fire drops and the interior shows through: landings, a stair turn, rooms at heights there is no floor for. | Decrease |
+| **Pugnahan** | The seam opens wider and the fire takes the nearest party wall. Barred since the second cycle and the bar has held. | Increase |
+| **Viderehan** | The tower as drawn, tenanted, with faces at the windows at heights that were never poured. Gauge does not move. | Stable |
+| **Ferrehan** | Standing in it for the interval. Workers describe arriving somewhere repeatedly and never once getting there. | Decrease |
 
 
 
@@ -153,17 +153,17 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Cleaved breaks free and stalks the corridors on foot. It topples, crushing corridors. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | Whichever structure stands tallest in its path. It moves toward skylines rather than toward people, and personnel are struck incidentally. |
-| **Escalation** | Each turn free, Clarity drain +5 until suppressed. |
+| **Movement** | It leaves on foot at a walking pace and goes to the tallest standing structure within reach, then leans on it until it comes down. |
+| **Effect** | Clarity drain. Personnel lose the names of what they are looking at some minutes before they lose anything else. |
+| **Secondary Effect** | The numbness spreads outward from the lean and takes faces last, which is the only warning the sequence offers. |
+| **First Target** | The tallest thing on its route. It goes for skylines and not for people; every casualty on the record was underneath something. |
+| **Escalation** | Clarity drain rises by 5 for every interval it remains out, and the drain does not fall when it stops. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Evacuate upper floors along its route and leave the street clear. Suppression at ground level cannot reach the half that is leaning.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each structure it leans against, since the lean is what propagates it.
+- **Breach type:** Escape. It leaves on foot and goes to the tallest structure within reach, which is why the route is predictable and the casualties are incidental.
+- **Containment priority:** Clear the upper floors on the route and leave the street open. Ground-level suppression cannot reach the leaning half, and Pugnahan is barred here as it is everywhere else in this file.
+- **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more for each structure it leans on. The lean is the mechanism; distance from walls is the whole of the mitigation.
 
 ## M.A.W. Equipment
 
@@ -184,7 +184,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** The Lens applies Void as a clarity drain rather than a wound: targets lose the names of what they are looking at before they lose anything else. Suits are rated against the armoury bands, and no band above Normal has been issued for this piece.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Cleaved's void signature in the strike.
 
@@ -216,13 +216,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat, and the wearer can hold two incompatible versions of a plan in mind at once without distress for about a day.
 
 **Ability:** Stabilizes damaged structures and reveals hidden architectural weaknesses.
 
 **Cost:** The user feels every abandoned plan connected to the structure.
 
-*Stigmas are granted at random by Cleaved upon a successful work, not manufactured.*
+*Eleven keystones exist. Every one was cut from the foundation stone of a works that was suspended and never resumed, and the scheme number is on the reverse of each.*
 
 ### M.A.W. Use Notes
 
@@ -242,11 +242,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It moves along the footprint of the abandoned tower.
-- Its flames are emotional rather than physical.
-- Personnel report emptiness after seeing the intended building.
+- Its route follows the footprint and the approach streets of the suspended works, and nothing built since.
+- The fire reads on no instrument the Department owns. Eleven have been tried and all eleven are listed in the watch file.
+- Personnel who see the tower tenanted report emptiness afterwards, and several have asked whether the scheme might yet be resumed.
 
-**Personnel Note:** *"It was moving. I felt emptiness. The Tower did not show a ruin; it showed a future that had never earned the right to become memory."* — Researcher, R.D.
+**Personnel Note:** *"Fifty-eight metres this survey. It showed me the ninth floor with washing out on it. I checked the roll afterwards and the scheme is still open, which means that washing is not a memory, it is a forecast, and I do not know what to write in the box."* — Surveyor, Old Lament watch
 
 
 
@@ -254,30 +254,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Cleaved as a Subject with Subject-Grudge manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone B, Old Lament. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Cleaved's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Height from the fixed station, lean bearing by compass, route traced against the period street plan. |
+| **Sustained observation** | The bearing and the seam hold across every sighting. Only the height moves, and it has moved outward at every survey taken. |
+| **Activation or escalation** | A departure from the period route, or any lean against a standing building. Clear the upper floors first and the street second. |
+| **Post-contact review** | Height, bearing, route, and the clarity test for every operative who stood inside the fire. The last of these is the one that gets skipped. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** A theodolite, a compass, a period street plan from the year of approval, and the current nil-return figure from the works register to set against the height.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Cleaved (C-IIβ-775 [VS]) is logged as a Subject-Grudge manifestation expressing Void. The Tower formed from a structure that was never completed. Held at Zone B, Old Lament. It moves along the footprint of the abandoned tower.
+Cleaved (C-IIβ-775 [VS]) is logged as a Subject-Grudge manifestation expressing Void, in the Old Lament at Zone B. It walks the footprint of a scheme that was suspended and never cancelled, and it is taller at every survey.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Old Lament Street Survey, Year 4238>**
+Subject measured at 58 metres against 44 and 31 in the two preceding surveys. Route unchanged and still confined to pre-project streets. Lean bearing unchanged and still in agreement with the drawn orientation of the unbuilt tower.
 Moves through the Old Lament as a walking vertical shadow. Personnel see futures that were never built and feel their loss. Its flames are emotional rather than physical.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Works Register Office, extract>**
+No approved scheme at this Company may be cancelled. Where a scheme cannot continue it is suspended; the register entry remains open, the assignments remain in force, and the undertaking to the district stands until the works is completed.
 The grief of a future promised by architecture but never built.
 
 **Entry 4 — <Containment Notice>**
-Management: Do not complete the structure; document what was intended and lost. Work response — Flerehan: Its flame lowers and unfinished rooms become visible. (Decrease); Pugnahan: It splits further and burns through nearby walls. (Increase); Viderehan: Reveals the planned building and the people who would have lived there. (Stable); Ferrehan: Forces the worker to endure the feeling of almost-arrival. (Decrease). Personnel report emptiness after seeing the intended building.
+Management: do not build any part of the design, do not demolish the foundation, and record the scheme's standing on the register at every survey. Work response — Flerehan: Its flame lowers and unfinished rooms become visible. (Decrease); Pugnahan: It splits further and burns through nearby walls. (Increase); Viderehan: Reveals the planned building and the people who would have lived there. (Stable); Ferrehan: Forces the worker to endure the feeling of almost-arrival. (Decrease). Personnel report emptiness after seeing the intended building.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+The works folder is the fullest in the Old Lament series and the most useless. It holds the approval, the drawings, the structural assessment, the labour roll with four hundred and eleven names, the orders for stone that was delivered and never laid, and the suspension notice, which is one line long and has no date of expiry on it because the form does not provide for one. The folder holds no closure document, no final account and no notice to the crews, for the same reason in each case: there is nothing to close. The scheme is live. It has been live for longer than most of the people on the roll were alive.
 
 ## 최종 관찰 (Final Observation)
 
@@ -294,7 +296,7 @@ The skyline tears open above the Old Lament. A tower walks where no tower could 
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Grudge, pressing or releasing like a tide. Then the form resolves: A tall burning figure whose body resembles a tower split vertically. Its upper half leans toward an impossible skyline. The space does not become generic; it shifts in the specific register of Void.
+**At first contact:** You see the fire before the figure and you feel no heat from it, and that is the moment the encounter turns. Then the seam resolves, crown to base, and the upper half is carried over at an angle toward nothing — no building stands on that bearing and none ever has.
 
 **With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
 
@@ -306,20 +308,20 @@ The skyline tears open above the Old Lament. A tower walks where no tower could 
 
 Cleaved does not exist in isolation. Its recorded relationships with The Crumbling Saint, The Returning Tree, The Broken Promise should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Height and bearing taken before the pairing and again after, from the same station, by the same surveyor, with the street cleared of anything tall enough to lean on.
 
 
 ### Entity Interaction Record
 
-Cleaved must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Cleaved must be kept distinct from the other unfinished-architecture holdings. The Hollow Architect preserves the man who drew the thing; this one preserves the scheme as an administrative object, which is why its height tracks a register and not a memory.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Crumbling Saint** | Shares the sorrow of structures failing beneath weight. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Returning Tree** | Roots through the Tower's abandoned foundation. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Broken Promise** | Both preserve futures promised but never delivered. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Crumbling Saint** | The Saint's collapse rate halves in its presence and the seam fire climbs. Both hold failures of structure, from opposite ends. | Saint stabilises for the duration; this holding gains four to six metres and keeps them. | Measure the Saint's rate and this one's height before and after. The gain has never reversed. |
+| **The Returning Tree** | The Tree roots into the open foundation and the holding neither prevents it nor reacts to it. Nine seasons of this and no reading has moved. | Nil on every measure. The foundation is now substantially occupied by root. | Photograph the foundation; record the height as usual and expect no change. |
+| **The Broken Promise** | The closest thing to a kinship in the file, and the dangerous one: in proximity the seam opens along its whole length and the fire crosses to the other holding. | Largest escalation recorded here — gauge 40 to 85 per cent in under an hour, twice. | Do not pair them again without Director authority. The two occasions are both in the sealed series. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline survey, pairing at no less than forty metres, continuous height reading, and an immediate separation order on any seam movement.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -351,16 +353,16 @@ Some sorrows mourn what was destroyed. Cleaved mourns what was never finished �
 
 **Classification:** Sorrow Entity — `C-IIβ-775` · City origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Grudge manifestation
 **Common Name:** Cleaved
-**Containment Status:** Contained — Zone A
+**Containment Status:** Contained in place — Zone B, Old Lament. The earlier Zone A entry was a transcription error carried for several cycles.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. The unbuilt tower appears as a flicker. Effect: viewers see the complete tower, then the skeleton. Disorienting.
+**Threat Assessment:** Moderate (β). It breaches, it walks, it brings down whatever it leans on, and it drains clarity at a rising rate while out. Viewers also see the tower complete and then the skeleton, which is disorienting and is the least of it.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The flicker is unpredictable; do not rely on what you see.
+- Flerehan is the primary Work Type; Ferrehan is the alternate. Viderehan holds the gauge level and is used for record only.
+- Do not trust the height you remember. Take it from the station and write it down before you look away.
 **Observation Notes:**
-- An architect’s design, abandoned, given form.
-- The tower flickers between built and unbuilt.
-**Cross-References:** Zone A · The Hollow Architect · The Alpha Tree
+- An architect's design, suspended rather than abandoned, and given form by the difference.
+- Measured heights: 31, 44 and 58 metres across three annual surveys. Lean bearing and seam unchanged throughout.
+**Cross-References:** Zone B, Old Lament · The Hollow Architect · The Alpha Tree · The Broken Promise · the works register · the Honest Register return
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** An architect and workers who vanished mid-construction.
 
@@ -383,6 +385,24 @@ The figure walks the oldest part of the district and keeps to streets that exist
 
 Its fire corresponds to unrealised potential rather than to heat, and no thermal measurement has produced anything. The attempts are listed. The file keeps them because the absence of heat in a visibly burning figure is the detail new personnel most often disbelieve, and a list of instruments that found nothing is more persuasive than an assurance.
 
+### What the Height Is Measuring
+
+Two of this holding's three figures never move: the lean bearing, which agrees with the drawn orientation of the unbuilt tower, and the seam, which runs the full vertical. The third is the height, taken by theodolite from a fixed station in the Old Lament, and it stands at 58 metres after 44 and 31. It does not track the tower's design height, which was 71 and has never been reached. It does not track the district's population, its grief returns, or the weather. Set against the works register it resolves at once: it is proportional to the number of approved schemes carrying a returned resumption probability of nil that remain, in law, live.
+
+This Company does not cancel anything. A scheme that cannot continue is suspended; the register entry stays open, the assignments stay in force, and the undertaking given to the district stands until the works is completed. The rule was bought with blood and the file says so. Cancellation used to be same-day: crews paid off at the gate, trenches left open, a district told on a Thursday that the thing it had been promised had never really been promised. Worse, a cancelled works vanished from the record entirely, which let the Company deny the promise afterwards, and it did, repeatedly, and the denials are in the first volume. Nobody wants it back.
+
+What follows is that no works here is ever finished with. One thousand one hundred and forty-seven schemes stand suspended. Thirty-eight have resumed in a decade. Eight hundred and six carry a nil return and all eight hundred and six are live. Fourteen thousand two hundred people are nominally assigned to works that will not be built, and because the works is not dead there is nothing to grieve, nothing to close, no final account and no release. The Old Lament has a figure in it that gets taller every year, leaning at a skyline the register insists is still coming.
+
+### The Honest Register
+
+Instituted Year 4231. Once a year the register office returns, against every suspended scheme, a plain statement of the probability that it will resume: a figure, a date, and nothing else. It cancels nothing — it has no power to — but it is published, and it is sent to every person on every affected roll.
+
+Year 4237 return: 1,147 suspended schemes; 38 resumptions in ten years; 806 schemes returned at nil; 14,200 personnel assigned to them. The Old Lament tower is scheme 775 and its return has read nil for ninety-one consecutive years.
+
+The costs are heavy and the office does not pretend otherwise. A nil return tells a crew in one line that their working life went into something that will not exist, while leaving them assigned to it, still obliged, still unable to be redeployed, since redeployment would require the scheme to close and schemes do not close. The clerks who compile the figures are the ones who hand them over; four have asked to be moved off the work and all four were moved. And the return is advisory, so a district reading nil has been told its promise is worthless by the same office that is forbidden to withdraw it.
+
+The compilers asked for one change: that a nil return, twice confirmed, be allowed to close a scheme. Refused, and refused for a reason the file states fairly — a power to close on a probability is a power to cancel by arithmetic, and the Company spent a century earning the rule that forbids it. Their objection stands in the Year 4235 return, recorded as correct and unanswered: that this Company abolished cancellation so that no promise could ever be quietly withdrawn, and has thereby arranged that eight hundred and six promises it knows to be dead must be kept alive forever, with fourteen thousand people still attached to them and no one permitted to mourn a single one.
+
 ### The Project That Stopped
 
 The tower ceased when its architect and workers disappeared and the city was left with the drawings, and the commissioning file holds those drawings complete. They are competent and buildable. The archivist's note observes that the plans contain no flaw anyone has found, that the structure could have stood, and that the file includes a structural assessment confirming it because the question is always asked.
@@ -398,8 +418,8 @@ The tower ceased when its architect and workers disappeared and the city was lef
 
 - **Classification detail:** Cleaved is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone B, Old Lament.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A tall figure built like a tower split cleanly down its vertical axis, burning along the seam without heat, the upper half inclined toward a bearing nothing in the district matches.
+- **Record detail:** The Registrum placed the holding at Zone A and rated it Low as a flicker, against a Zone B subject that breaches, topples corridors and drains clarity; both corrected. The M.A.W. grade was blank against three β pieces, and Viderehan was named primary where only Flerehan and Ferrehan lower the gauge.
 - **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
