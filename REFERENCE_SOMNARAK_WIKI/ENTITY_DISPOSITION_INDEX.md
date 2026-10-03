@@ -166,7 +166,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Bridge to Nowhere | `SE-C-IVδ-260` | *"Left unaddressed, the Bridge does not rupture or roam. It lengthens."* Growth is measured in span over empty ground; it takes corridor space and the Gardens roster, and interferes with no other containment. |
 | Well of Unfinished Words | `SE-N-IIβ-778` | *"The sceptre reaches one listener. Grief from this entity does not carry to the rest of the party… it addresses one person at a time, and always the one who is listening."* It waits, and it costs the facility scheduling, nothing else. |
 | Dismissed Cry | `SE-N-IIβ-560` | A grievance that was filed as noise. *"The urn reaches one target. The pressure does not spread to the rest of the party… it is heard by one person at a time or by nobody."* It damages the record-keeping around it and no other containment. |
-| Torn Flower | `SE-C-Iα-247` | Breach `Movement`: *"shatters containment and hunts through the facility. It releases spores that infest personnel."* Violently hostile — **and still Neutral**, because the spores take personnel, not seals. The clearest illustration that danger and disposition are different axes. |
+| Torn Flower | `SE-C-Iα-247` | Breach `Movement`: *"It leaves the site at walking pace, keeping to cracks and old mortar, shedding spore along the route. It does not pursue; personnel ahead of it are at risk from the spore and not from the entity."* Re-evidenced at the Year 4238 clean, which replaced the older pursuit language with the measured record. Still **Neutral**: the spore takes masonry and costs personnel a day, and nothing it sheds reaches a seal or assists another holding. |
 
 ---
 
@@ -197,7 +197,7 @@ Three of the eleven Negatives qualify by the identical mechanism — *"Collapses
 around it"* — and three more by being a stage in, or the terminus of, a transformation chain. F01's
 containment is architectural and sequential, so the entities that endanger it are the ones that take
 the architecture down or convert the staff, not the ones that are strongest in a room. That is also
-why `SE-C-Iα-247 Torn Flower`, which actively hunts personnel through the corridors, sits in Neutral.
+why `SE-C-Iα-247 Torn Flower`, which walks out of its site and seeds the corridors behind it, sits in Neutral.
 
 ## Maintenance
 
