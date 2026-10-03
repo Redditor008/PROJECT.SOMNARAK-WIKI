@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A wall-shaped absence in the Old Lament — not a wall, but the place where one should be, felt as pressure and seen as a faint vertical distortion in the air. Lead-cold, it smells of wet stone; you walk around it though nothing is there. |
-| **Movement** | Stationary — a place or zone; spreads rather than moves. |
+| **Movement** | Fixed to its line, which widens rather than travels; two surveyed shifts of position in 132 years. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan and Ferrehan from the marked station, perpendicular, with the history stated aloud first. No work across the line under any authority. |
 
 ### Operational Notes
 
-- The Rift is ambient in Old Lament rather than located, and its edges are not consistent between sessions.
-- Work narrows it for a shift. It reopens to its logged extent, and no cycle has closed any part of it permanently.
-- Viderehan and Ferrehan are the valid approaches to the site.
-- There is no breach counter. Crews lay physical line from the entry point, and any route not on the line is treated as outside containment.
-- Extraction is a separate authorization and is never attempted off the line.
+- The line itself is exact and quarterly surveyed; what is inconsistent is its onset, which is 5.2 metres on a perpendicular approach and effectively absent along its length.
+- A good session narrows the onset for a shift. It returns to the logged figure by the next survey, and no session in 132 years has shortened the line by a metre.
+- Viderehan and Ferrehan only, and both are worked from one side; paired work across the line is prohibited rather than discouraged.
+- There is no breach counter. Crews lay physical line from the marked station on a perpendicular bearing, and any route off it is outside containment, because a crew that loses the perpendicular stops being able to find the holding.
+- Nothing may be constructed on, across or within the stated distance of the line, and the municipal office is bound by the same instruction by agreement rather than by authority.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Rift's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is nothing to clash with. The crew holds the perpendicular approach from the marked station, states the history at the line, and reads the onset distance; the only way to make this holding worse in a session is to work across the line instead of along one side of it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the history of the boundary before crossing**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - If the resolution condition is not fulfilled, Rift reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
-**Physical Form:** A wall-shaped absence in the Old Lament. The missing wall is felt as pressure and seen as a vertical distortion in the air.
+**Physical Form:** A wall-shaped absence along a surveyed line in the Old Lament — pressure on a perpendicular approach, a faint vertical bend in the air, and nothing on the floor. **Extent:** onset at 5.2 metres and rising at every review.
 
-**Notable Features:** It divides spaces that are physically open, carries the weight of former barriers, and cannot be rebuilt.
+**Notable Features:** It divides open rooms functionally rather than symbolically, it cannot be built on, and it strengthens in the quarter after anybody publicly denies that the district was ever divided.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A wall-shaped absence in the Old Lament. The missing wall is felt as pressure and seen as a vertical distortion in the air.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed to a line that no longer has a structure on it. The line has shifted twice in the file's history, both times detected by quarterly survey and never by anybody standing there.
 - **Element signature:** Weight
 - **Registered location:** Zone B, Old Lament — ambient
 
@@ -115,20 +115,20 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A wall-shaped absence in the Old Lament. The missing wall is felt as pressure and seen as a vertical distortion in the air. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Form** | An absence in the shape of a wall, on a line last occupied by masonry in Year 4106. |
+| **Position / movement** | Fixed to the surveyed line; position re-shot quarterly from fixed stations and twice found to have moved. |
+| **Material / signature** | Weight. No material at all: a bend in the air, a pressure front at a measurable distance, and a floor that reads as ordinary to every instrument the wing owns. |
+| **Distinctive markers** | The onset distance on a perpendicular approach, the bend in the air above an empty floor, and the fact that two people either side of it cannot comfortably speak to each other. |
+| **Identification** | If the floor is clear and you have stopped walking, it is this one. Nothing else in the Old Lament stops people who can see that there is nothing there. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the onset distance from the marked station, the bearing of the line against the last quarterly shot, the bend in the air where it is visible, and which side of the line every person stood on. Write the figure before writing the impression; on this holding the impressions have been wrong in both directions and the figures never have.
 
 ## Origin
-- **Formation:** The Wall formed from a boundary removed without healing the separation it caused.
-- **The Sorrow:** The grief of discovering that removing a barrier does not reunite the people it divided.
-- **The Event:** A district wall was demolished after generations of separation, leaving the old division alive in memory.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+- **Formation:** From a boundary lawfully removed, and a division lawfully prohibited from being recorded afterwards.
+- **The Sorrow:** Not the wall. The discovery that the division survived it, and that the law which ended the division also ended the possibility of measuring what survived.
+- **The Event:** The wall stood from Year 3972 and came down in Year 4106 with the amalgamation instrument. The halves became one district in law the same day. Nothing else about them changed, and nothing may be recorded as having failed to change.
+- **The People:** Both halves of one district, amalgamated in Year 4106, legally a single community since and demonstrably not one. The survey that shows this is lawful only because an outsider draws the old line on it.
+- **Expanded origin context:** The division cannot be recorded, and the rule that forbids recording it is the right rule. On amalgamation the former halves ceased to exist in law: no municipal record may classify a resident by which side they come from, no service may be allocated by former side, and no claim may be founded on it. That is how you stop a division — you stop administering it, because a category that is counted is a category that is funded, staffed, complained about and inherited, and the Year 4098 re-registration showed exactly that, with 14,000 people declaring a side on a form that merely asked. So the Office may not measure what persists, and what persists is everything: where people shop, who they marry, which school they choose, which side of a street with no sides they walk on. The wall is unrecordable and undeniable at once, and the line in the Old Lament is where those two facts meet.
 
 ## Behavior
 
@@ -138,8 +138,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals what the wall separated and protected. | Stable |
-| **Ferrehan** | Tests whether the worker can cross without denying the division. | Decrease |
+| **Viderehan** | Shows what the wall separated and what it protected; the two lists are different and the difference is the holding's most-cited record. | Stable |
+| **Ferrehan** | The worker crosses having stated the history, which is the only crossing the gauge responds to. | Decrease |
 
 
 ### Operational Work Notes
@@ -151,10 +151,10 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 | Field | Detail |
 |---|---|
-| **Expansion Trigger** | New separation treated as if it never happened. |
-| **Expansion Rate** | Slow through neighboring buildings. |
-| **Expansion Effect** | Open rooms feel divided and movement becomes emotionally difficult. |
-| **Containment** | Name the history of the boundary before crossing. |
+| **Expansion Trigger** | A public statement that the district was never divided. Nine such statements, nine rises in the following quarter. |
+| **Expansion Rate** | Slow and cumulative, measured as onset distance rather than length: 2.1, then 3.4, now 5.2 metres. |
+| **Expansion Effect** | Open rooms divide functionally. People on opposite sides cannot address each other without an argument neither of them started. |
+| **Containment** | State the dates and the fact of the division at the marked station, then cross. The statement is the whole of the procedure. |
 
 
 
@@ -162,21 +162,21 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 The escalation pattern is specific to Rift: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone B, Old Lament — ambient, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Name the history of the boundary before crossing. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** stop work across the line and move both parties to one side, read the onset distance from the marked station, withdraw anybody not needed, and state the history at the line — built in Year 3972, demolished in Year 4106, two halves, one district. Nothing is to be built on the line, and no unlisted Work Type is to be improvised here; there is nobody in this holding for Flerehan or Pugnahan to reach.
 
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | New separation treated as if it never happened. |
-| **Manifestation** | Place-Weight|
-| **Primary effect** | Open rooms feel divided and movement becomes emotionally difficult. |
-| **Duration / rate** | Slow through neighboring buildings. |
+| **Trigger** | Any assertion, in public or in a municipal document, that there was never a division here. |
+| **Manifestation** | Place-Grudge |
+| **Primary effect** | Functional division of open space, and the loss of ordinary speech across the line. |
+| **Duration / rate** | Continuous. Onset widens between surveys and has never narrowed between them. |
 | **Risk** | Critical (δ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Name the history of the boundary before crossing. |
+| **Management** | The crossing statement at the marked station: two dates, two halves, one district. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** onset distance from the marked station → bearing of the line against the last survey → which side each worker was on → the statement made and by whom → effect on cross-line communication → duration. Viderehan and Ferrehan only, and the Viderehan work is mostly a record of the staff rather than of the entity.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -196,7 +196,7 @@ The escalation pattern is specific to Rift: it is not a generic breach event. Pe
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Direct and Tick are scored separately against the same resistance. Neither is the real cost here; the maul exists for the wing's own reassurance and has been drawn on this holding twice, both times by people who later wrote that they had nothing to swing it at.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Rift's weight signature in the strike.
 
@@ -234,7 +234,7 @@ The escalation pattern is specific to Rift: it is not a generic breach event. Pe
 
 **Cost:** The bearer moves a little slower.
 
-*Stigmas are granted at random by Rift upon a successful work, not manufactured.*
+*The Wall's Charm is not issued. It is found after a session in which the history was stated in full and the crossing was made anyway, and never after a session in which the line was merely surveyed.*
 
 ### M.A.W. Use Notes
 
@@ -254,11 +254,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The Wall has no physical material.
-- Its pressure increases when people deny the district's history.
-- Personnel report weight when crossing its empty line.
+- There is no material on the line and every instrument the wing owns reads the floor as ordinary floor.
+- Onset rises in the quarter after a public denial of the division — nine for nine, with no counter-example.
+- Crossing without stating the history is heavy; crossing after stating it is eleven metres of floor, as one researcher put it.
 
-**Personnel Note:** *"It was watching. I felt grief. The Wall was gone, but the wound had not been demolished with it."* — Researcher, Zone B patrol
+**Personnel Note:** *"I said the dates out loud at the station and felt ridiculous, and then I crossed and it was eleven metres of ordinary floor. The man with me would not say them. He got four metres and came back. Same floor."* — Researcher, Zone B patrol
 
 
 
@@ -267,31 +267,31 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Rift as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Onset distance quarter by quarter — 2.1, 3.4, 5.2 metres — with the bearing and the record of who crossed, who stated the history, and who turned back. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Rift's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Onset distance on a perpendicular approach from the marked station, bearing against the last quarterly shot, the statement and its speaker, how each worker routes afterwards without being told to, and whether any work was attempted across the line. The onset distance is the session's number.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Rift (C-IVδ-193 [WP]) is logged as a Place-Grudge manifestation expressing Weight. The Wall formed from a boundary removed without healing the separation it caused. Held at Zone B, Old Lament — ambient. The Wall has no physical material.
+Rift (C-IVδ-193 [WP]) is logged as a Place-Grudge manifestation expressing Weight, ambient along a line in the Old Lament of Zone B where a district wall stood for 134 years. There is no material on the line and nothing can be built on it. The holding is surveyed rather than contained.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Its pressure increases when people deny the district's history.
+**Entry 2 — <Excerpt from Quarterly Survey Return, Old Lament>**
+Perpendicular onset distance, measured from the marked station: 2.1 metres, then 3.4, now 5.2. The line's bearing is unchanged since the second shift. Onset rises in the quarter following any public statement that the district was never divided, and the wing has logged nine such statements and nine such rises.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of discovering that removing a barrier does not reunite the people it divided.
+**Entry 3 — <Excerpt from District Community Survey, Independent>**
+Transactions, marriages and school enrolments remaining within the former half: 94 per cent at amalgamation, 93 per cent at the last survey, 132 years apart. The researcher who draws the old line onto the data is not a municipal officer, which is the only reason the figure may lawfully exist at all.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals what the wall separated and protected. (Stable); Ferrehan: Tests whether the worker can cross without denying the division. (Decrease). Personnel report weight when crossing its empty line.
+Management: state the history at the marked station before crossing — built Year 3972, demolished Year 4106, two halves, one district — and do not work across the line. Work response — Viderehan: shows what the wall separated and what it protected, which are not the same list. (Stable); Ferrehan: the worker crosses without denying that there was a division. (Decrease). Flerehan and Pugnahan are unavailable; there is no subject here.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+We are keeping the crossing statements. The Office has asked us twice to stop, politely, and the Office is right in law: our log records what people say about the old sides, and a record of the old sides is the thing the amalgamation exists to prevent. I have read their letter and I cannot fault a line of it. We are keeping them anyway, they are held outside the municipal series, no copy goes to the district, and the responsibility for that decision is mine and is minuted here so that it is not anybody else's.
 
-**Threat rating:** Low. An invisible wall dividing a district that demolished its physical wall. Effect: crossing the boundary induces old division without its cause, and the discovery that removing a barrier does not reunite the people it divided.
+**Threat rating:** Critical (δ). Nobody has been injured here in 132 years and the maul has never been used on anything. The grade is for ground: the line cannot be built on, cannot be worked across, and has widened from 2.1 to 5.2 metres of onset.
 
 ## 최종 관찰 (Final Observation)
 
@@ -308,7 +308,7 @@ You enter a room and stop at a line no one drew. Air presses against your chest.
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A wall-shaped absence in the Old Lament. The missing wall is felt as pressure and seen as a vertical distortion in the air. Notable Features: It divides spaces that are physically open, carries the weight of. The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Grudge form.
+**At first contact:** You stop before you know why. There is a vertical bend in the air over a floor with nothing on it, and your chest meets pressure at a distance the station will have predicted to within a few centimetres. Approach perpendicular or you will not find it at all; crews walking the line's length have missed it entirely and written the holding up as quiet.
 
 **With continued exposure:** Time in the containment zone moves differently. The Weight pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Grudge is teaching you its sorrow.
 
@@ -318,26 +318,26 @@ You enter a room and stop at a line no one drew. Air presses against your chest.
 
 ### Interaction Pattern
 
-Rift does not exist in isolation. Its recorded relationships with The Rusted Wall, Breach, The Vanished Tower should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The Old Lament is ambient and holds several records at once, so interaction here is a question of what happens in a district rather than what happens in a room. One adjacency, one observed cost, one standing refusal; nothing in this holding's record has ever been arranged on purpose.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Three uncontested quarters of onset distance and bearing before any second entity is brought into the Old Lament, which is an ambient district holding several Lament records and not a chamber. Then separation, onset change, and the measurement specific to this line: whether the other entity's presence makes cross-line communication easier or harder, because that is the axis this holding acts on and the gauge is slower than it is.
 
 
 ### Entity Interaction Record
 
-Rift must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Each row below is kept with its survey sheets, because the only reliable evidence of anything happening to this holding is a number taken a quarter later from a fixed station. Impressions from the floor have been wrong about this line in both directions.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Rusted Wall** | Both preserve divided communities. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Breach** | Shares the grief of failed protection. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Vanished Tower** | The old structure once stood beside the boundary. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Rusted Wall** | Both preserve divided communities. | Untested and refused. The Rusted Wall still stands; bringing a wall that exists to a line that cannot be built on is a question the wing has declined twice to ask. | The refusals and their reasons, in the chamber order. |
+| **Breach** | Shares the grief of failed protection. | Observed at distance during an unrelated Old Lament event: onset here rose 0.4 metres for two days and did not return to its previous figure. The only recorded instance of another holding costing this one ground. | Onset at twelve-hour intervals, both holdings' survey sheets, and the figure it settled at. |
+| **The Vanished Tower** | The old structure once stood beside the boundary. | Historical adjacency only. Both are absences on the same pre-amalgamation map and neither has ever registered the other; the row is kept because removing it would cost the archive the map reference. | The map, and the fact of no observed effect, restated at each annual review. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Onset and bearing before and after, which side every person stood on throughout, the statements made, any attempt at cross-line work and its result, and the survey re-shot the following quarter rather than the same day. The line has moved twice and both movements were found by survey weeks later.
 
 ## 이야기 (Narratio) — The Tale
 
-They tore the wall down to reunite the district, and the district, divided for so long, could not be reunited, and the wall, gone, remained.
+They took the wall down, and they made it unlawful to count the two sides, and the second of those is why the line is still there.
 
 The wall had stood for generations — a boundary through the middle of a district, built in some forgotten conflict, maintained through habit, dividing neighbor from neighbor for so long that neither side remembered why the wall was there, only that it was, and that the people on the other side were, by tradition, the other side. The wall was ugly. The wall was inconvenient. The wall made the district smaller for everyone. And so, in a rare act of civic improvement, the Council ordered it demolished.
 
@@ -354,28 +354,28 @@ Some sorrows are about barriers built. Rift is about a barrier removed — the w
 
 > *“They tore it down. The division moved inside.”* — Keeper, Archive
 
-> *“The wall is gone. The wall is there. I feel it every time I cross the street.”* — Citizen, Zone C
+> *“The wall is gone. The wall is there. I feel it every time I cross the street.”* — Citizen, Zone B
 
 > *“Removing a barrier does not reunite the people it divided.”* — Researcher, R.D.
 
 > *“Centuries of separation, outlasting the structure that enforced it.”* — Containment Lead, R.D.
 
-> *“Some walls, demolished, simply move inside.”* — Elder, Zone C
+> *“Some walls, demolished, simply move inside.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-IVδ-193 [WP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Weight · Place-Grudge manifestation
 **Common Name:** Rift
-**Containment Status:** Uncontained — Zone C
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. An invisible wall dividing a district that demolished its physical wall. Effect: crossing the boundary induces old suspicion.
+**Containment Status:** Uncontained — Zone B, Old Lament, ambient along the surveyed line
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Critical (δ). No injuries, no pursuit, no breach counter. The grade reflects permanent loss of use: a surveyed line through an inhabited district that cannot be built on, cannot be worked across, and has widened at every review.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type.
-- The wall is invisible but felt; document crossing effects.
+- Viderehan and Ferrehan. The Viderehan record is largely a record of how staff move around a line that is not there.
+- State the history at the marked station before crossing. Approach perpendicular. Never work across the line; use a relay well clear of it.
 **Observation Notes:**
-- The wall was demolished but the division moved inside the people.
-**Cross-References:** Zone C · The Debt Wall · The Spreading Wall
+- Onset distance 2.1 → 3.4 → 5.2 metres. Within-former-half share of marriages, trade and schooling: 94 per cent at amalgamation, 93 per cent 132 years later.
+**Cross-References:** The Year 4106 amalgamation instrument · the Year 4098 re-registration episode · the independent district community survey series · the Year 4231 community board application · the Old Lament quarterly survey
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** Citizens separated by a wall for generations.
+**Originator:** Two halves of one district, lawfully made a single community in Year 4106 and lawfully prevented, since, from being counted as two.
 
 ### Registry Addendum
 
@@ -408,10 +408,42 @@ Its sorrow is the discovery that removing a barrier does not reunite the people 
 
 New workers walk through the line once. The orientation officers do not warn them and the file does not treat the omission as negligence, because every substitute has been tried — described, diagrammed, marked more heavily — and none produces the recognition that walking through produces. What a worker reports afterward is consistent and difficult to paraphrase: not an obstruction, but the sensation of having gone somewhere they were not previously. After that the worker routes around it, permanently, without being asked. The orientation officers log the crossing and the time, and the log shows that nobody in the holding's history has required a second one.
 
+### What the Onset Distance Is Measuring
+
+2.1 metres, then 3.4, now 5.2. The figure is the distance at which the pressure begins on a perpendicular approach from the marked station, re-shot quarterly by two parties who do not confer. It is not the length of the line, which has never changed, and it is not the line's position, which has shifted twice in 132 years and both times was found by survey rather than by anybody standing on it.
+
+What it tracks is not a thing the municipal Office is permitted to hold. The independent district survey — lawful because the researcher who maps it onto the pre-amalgamation line is not a municipal officer — reports the share of marriages, trade and school enrolments that stay within a former half: **94 per cent in Year 4106, 93 per cent at the last return**. One point, across thirteen decades, since the wall came down.
+
+The onset rises in the quarter after any public assertion that the district was never divided. Nine such assertions are logged, nine rises followed, and the wing has stopped describing the correlation as provisional.
+
+### The Amalgamation
+
+The Year 4106 instrument did three things, and all three are defensible.
+
+It made the halves one district, which they are. It abolished the former halves in law, so that no municipal record may classify a resident by which side they come from. And it barred allocation or claim by former side, so that no service, grant or appointment may be directed at one half as a half.
+
+The reasoning is not administrative convenience. A category that is recorded is a category that is administered: funded, staffed, complained about, defended, and inherited by people who were born after the thing that made it. The Year 4098 re-registration is the archive's proof — a form that merely *asked*, with no consequence attached, and 14,000 residents declared a side, several thousand of them for the first time in their lives. The instrument's drafters had that episode in front of them. They concluded that the only way to stop administering a division is to stop recording it, and nothing in 132 years has shown them to be wrong about the mechanism.
+
+What it costs is the remedy. The poorer half is still the poorer half; the Office cannot say so in a document, cannot allocate against it, and cannot commission the survey that would demonstrate it. Allocation runs on street-level need, which is lawful, honest, and incapable of being aimed at a pattern it may not name. In 132 years there have been **no remedial allocations** directed at the division, because there is no lawful way to direct one.
+
+In Year 4231 the district community board applied for a time-limited exception: a historic-division dataset, collected for ten years, for the single purpose of measuring the gap. Refused, and the refusal is correct — a dataset that defines people by the old sides re-creates the categories, the 4098 episode shows people will fill it in, and ten years of lawful counting produces a constituency for an eleventh. The application sits in the Year 4232 return, marked *correct in principle, no action*. The board has not withdrawn it and has not been answered.
+
+### The Crossing Statement
+
+The management line is six words long in the old notice — *name the history of the boundary* — and the wing has made it exact, because a vague instruction here produces a vague statement and the gauge can tell the difference.
+
+At the marked station, before crossing, the worker says: built in Year 3972, demolished in Year 4106, two halves, one district. Then they cross, perpendicular. Workers who say it describe the crossing as unremarkable floor. Workers who decline turn back, most of them around four metres, which is where the onset was two surveys ago and is not where it is now.
+
+The statements are logged with the speaker's name, and this is where the holding stops being tidy. A log of what people say about the old sides is a record of the old sides, held by a body that works for the facility, in the district the instrument covers. The Office has written twice asking the wing to stop. The Office is right in law and the wing's own counsel agrees with the Office.
+
+The wing keeps them anyway. They are held outside the municipal series, no copy goes to the district, and the Director's minute takes the responsibility by name rather than filing it under policy. The minute is four lines and the last of them is the only defence the file offers: *the instrument forbids the city to remember this, for reasons I accept; it does not oblige the line to forget, and the line is what I am responsible for.*
+
+The archive prints the Office's letters immediately after the minute, in full, without reply.
+
 ## Trivia
 
-- It appears only where a former boundary was removed.
-- It may divide a room without affecting its physical layout.
+- Every holding of this kind in the archive sits on a boundary that was taken away, never on one still standing.
+- It divides rooms that are completely open, and the division shows in who can talk to whom rather than in where anyone can walk.
 
 
 
@@ -419,9 +451,9 @@ New workers walk through the line once. The orientation officers do not warn the
 
 - **Classification detail:** Rift is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone B, Old Lament — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Onset distance, bend in the air, empty floor. The emotional reading is real and arrives after the pressure, never before it.
+- **Record detail:** Several holdings in this archive turn on a record that is absent. This one is not a record destroyed, nor a record nobody was required to make: the record here is *forbidden*, lawfully and for good reason, and the holding sits in the Old Lament alongside records that fail in entirely different ways. Check the designation before treating any of them as this one.
+- **Containment detail:** There is nothing to seal. The holding is a surveyed line in an inhabited district, and the only containment instrument that has ever worked on it is a sentence said out loud at a station.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-193
