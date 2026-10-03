@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **129** |
-| Pending — no disposition-bearing line found by scan | 174 |
+| **Classified here, with a quoted line of evidence** | **130** |
+| Pending — no disposition-bearing line found by scan | 173 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 129 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 130 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 174 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 173 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -133,6 +133,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Frozen Tear | `SE-C-IIβ-102` | Neutral | *"Minimal (β) in direct terms. No Fracture on record and no injury except by contact"* — it has never breached and cannot be worked by Flerehan or Pugnahan at all. It assists no other entity: paired with The Frozen Shard it produces *"the clearest negative in the Gardens series"*, and its only effect on F01 is a bench nobody is allowed to recommend. |
 | Cleaved | `SE-C-IIβ-775` | Neutral | Breaches and *"goes for skylines and not for people"*, bringing down structures without assisting anything: its only recorded escalation of another entity is The Broken Promise, and it is equally recorded as halving The Crumbling Saint's collapse rate. No F01 benefit, no sustained aid to other entities. |
 | Rem | `SE-C-IIβ-135` | Neutral | *"No breach on record and no breach counter"*; it restores +20 Composure to personnel who sleep in its drift, which benefits workers but suppresses nothing. Against other entities it is inert or obstructive — The Memory Weaver fails on it seven times out of seven and loses output doing so. |
+| Floating Tree | `SE-N-IIIγ-585` | Neutral | Breaches by descending and *"roots personnel to the floor"*, but aids nothing: it holds station rather than acting when near The Returning Tree, never completes contact with The Spreading Root, and its only recorded interaction effect runs the other way — The Grieving Colossus lifts it and shrinks its reach. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
