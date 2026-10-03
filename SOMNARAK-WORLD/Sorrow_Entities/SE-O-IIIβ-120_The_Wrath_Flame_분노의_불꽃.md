@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A core of dark crimson fire that is not fire: it beats like an exposed heart, organic and slow, ringed in charred metal and fused growth. Its heat feels like held anger. It never fully stops moving. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement** | Walking patrol — a fixed route through the Scar across all six former faction boundaries, held to within a few metres between passes. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,17 +31,17 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | β · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Acknowledge the dead, then work Flerehan or Ferrehan. Nothing else in this file has ever lowered the gauge. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Wrath Flame.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A worked cycle lowers the pressure for a time and changes nothing about the war. The Flame is not diminished by work and has never been reduced by it.
+- Three ignored conditions escalate it, and in practice the condition is always the same one: somebody crossed the Scar as though nothing had happened there.
+- Yield does not vary with seniority or equipment. It varies with bearing, which is not a quantity the parameters table can carry and is the reason the conduct brief outranks it.
+- Extraction is a separate authorisation and is never run in the anniversary week, when the incident rate historically triples.
 
 ## Combat Record
 ### Core Stat Line
@@ -115,9 +115,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid flame walking on two legs, burning with crimson fury. It carries no weapon but its fire behaves like one. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | On the route, always; it has never been met off it. Posture matters more than distance — walking is safe at two metres, halted is not safe at twenty. |
+| **Material / signature** | Grudge. Dark crimson at the core, beating slowly like something organic, ringed in charred metal and fused growth; the heat reads as held anger rather than as temperature. |
+| **Distinctive markers** | A humanoid fire that walks, carries nothing, keeps a mapped route, and halts before it acts. |
 | **Identification** | Check the entity against its file before work or contact: designation, element, manifestation, and registered location. If any one of them contradicts what is in front of you, do not proceed. |
 
 **Appearance protocol:** Record the fire before the figure: colour at the core, colour at the edge, how far the heat carries, and whether it is beating or steady. The Flame signals that it is about to act by standing still, which is the reverse of what personnel expect and the detail most often missing from reports. Write down what the fire did and what you did immediately before it.
@@ -133,10 +133,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Fire dims in recognition of shared grief. | Decrease |
-| **Pugnahan** | Attacks with concentrated heat. | Increase |
-| **Viderehan** | Shows flashes of the six factions and the battle. | Stable |
-| **Ferrehan** | Tests the worker by burning nearby without striking. | Decrease |
+| **Flerehan** | The fire dims when grief is named aloud, and dims further if the names used are the factions' own rather than the facility's shorthand. | Decrease |
+| **Pugnahan** | Concentrated heat at the person whose bearing read as contempt, and at nobody else standing beside them. | Increase |
+| **Viderehan** | Flashes of six formations and one field, never a victor, never an account of why. | Stable |
+| **Ferrehan** | It burns alongside the worker without touching them for the length of the cycle, which is a test of composure and is scored as one. | Decrease |
 
 
 
@@ -152,16 +152,16 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | The Wrath Flame intensifies in place, warping the containment zone outward. It ignites personnel with sorrow-fire. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Movement** | It halts and intensifies where it stands; the zone warps outward around it. It does not leave the route even in breach, which is the single most useful fact in this file. |
+| **Effect** | Resilience burns off everyone inside the warped zone, whether or not they were party to the offence. |
+| **Secondary Effect** | Barriers fail from the inside out; the Desolate has no structure here worth the name, which is the other reason conduct is the containment. |
+| **First Target** | Whoever showed contempt. Not the nearest, not the newest, and not the one who gave the order — the one who made the gesture, every time on record. |
+| **Escalation** | Drain rises 5 a turn until the dead are acknowledged by somebody present. It has never been ended by force and force has not been attempted since Year 4201. |
 
 ### Escalation Notes
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
+- **Containment priority:** Acknowledge first, endure second, seal only if both fail. A seal on an entity that answers conduct reads as the facility walking away from the subject, and the one time it was tried the zone held and the gauge did not fall for eleven days.
 - **Sorrow Gauge on breach:** Begins wherever the last disrespect left it and climbs for as long as the breach is watched rather than addressed. Acknowledgement of the dead, spoken aloud by anyone present — including the breach team — drops it by ten points, and the drop holds only so long as nobody laughs.
 
 ## M.A.W. Equipment
@@ -243,9 +243,9 @@ Each piece is a conditional extension of the Flame rather than ordinary equipmen
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It has never attacked a respectful visitor.
-- The Flame patrols the same rift repeatedly.
-- It becomes active during the Sorrow Tide.
+- It has never attacked anybody who acknowledged the dead, in 47 incidents and 311 logged salutes.
+- The route is stable to within a few metres between passes and drifts seasonally by under a metre; the drift is the file's most reliable index of anything.
+- Tides raise the patrol rate and shorten the interval between passes; they do not change what it will accept as acknowledgement.
 
 **Personnel Note:** *"It was singing. I felt sorrow. The song was a military march with no army left to follow it."* — Researcher, R.D.
 
@@ -255,10 +255,10 @@ Each piece is a conditional extension of the Flame rather than ordinary equipmen
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Wrath Flame as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at The Desolate, near The Scar. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In The Wrath Flame's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Light on the dust before the figure is in it. Note where on the mapped route the meeting occurred, which way it was facing, and what the first person present did. |
+| **Sustained observation** | Position on the mapped route, bearing, core and edge colour, heat distance, and whether the figure is beating or steady. Standing still is the warning sign, not the reassurance. |
+| **Activation or escalation** | It stops walking. That is the whole of the warning, it is the reverse of what personnel expect, and it is the detail most often missing from reports written afterwards. |
+| **Post-contact review** | What was said, by whom, in what words, and what the fire did next. The review may not be used to assign fault for an encounter that ended in heat; the wing wrote that instruction after the second one that was. |
 
 **Observation method:** Record the first sign, which is light on the dust before the figure is in it; the first sensation, which reads as held anger rather than as temperature; and the condition that ends the encounter, which is almost always a gesture made by a person rather than a change in the entity. Note who made it.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -316,9 +316,9 @@ The Flame is one of several things still carrying the Occlusihan at the Scar, an
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Scar Walker** | Shares patrol duty and Occlusihan rage. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Soldier** | Salutes the Flame. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Orphaned Bell** | Its fire dims when the Bell tolls. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Scar Walker** | Shares the patrol and the same war. | They overlap on the eastern leg for roughly forty minutes a pass and both gauges read lower throughout. Nobody arranged it and nobody can end it; it is the only standing arrangement at the Scar that costs the facility nothing. | Overlap times, both gauges, and the point at which each rejoins its own route. |
+| **The Forgotten Soldier** | Salutes the Flame, and the salute is returned. | Recorded twice. On both occasions the Flame halted — the warning posture — and then returned the gesture instead of acting, which is the only time halting has resolved without heat or acknowledgement from a person. | The exchange, the halt duration, and both holdings' books, filed together. |
+| **The Orphaned Bell** | Its fire dims on the toll and does not recover until the sound has gone. | Measured across two cycles with inconsistent results: the dimming lasted nine minutes in the first and nineteen in the second, with no change in distance or weather. Unexplained, and printed as unexplained. | Toll time, distance, dimming duration, and the discrepancy restated each cycle. |
 
 **Interaction procedure:** Baseline first, then the shared encounter: the distance at which the change begins, what changed — heat, route, bearing, sound — how long it held, and whether the Flame rejoined its patrol at the point it left it. That last item is what distinguishes a passing interaction from a lasting one.
 
@@ -350,22 +350,22 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 > *“The flame has burned for four thousand years because the dead have never been mourned.”* — Elder, The Scar
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIβ-120 [GS]` · Grudge · Subject-Body manifestation
+**Classification:** Sorrow Entity — `O-IIIβ-120 [GS]` · Outside origin · Fragment (III) coherence · Moderate (β) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Wrath Flame
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Moderate (β). Fourteen heat incidents in the year before the returns were posted at the approach; two in the year after. It has never attacked a visitor who acknowledged the dead, and the salute log is longer than the incident log.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Flerehan and Ferrehan. Pugnahan is valid and feeds it; every heat incident on file began with an approach the Flame read as disrespect.
+- Conduct, not distance. Personnel are briefed on bearing rather than on an exclusion zone, and the patrol map and the six burial returns are posted at the approach.
+- Do not seal first. Acknowledgement of the dead, spoken by anybody present including the breach team, drops the gauge ten points, and the drop holds only while nobody laughs.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- Six factions fought at the Scar, all six were destroyed by the war they fought, and none outlived its own dead long enough to bury them properly.
+- Salutes returned by the Flame, logged with the exact words used: 311. Heat incidents: 47 across the life of the holding. Both are kept in the same book.
+- Extraction is authorised separately and is never scheduled against the anniversary week, by standing instruction of the wing.
+**Cross-References:** The six burial returns, posted unreconciled at the approach · the Year 4233 application to make the observance a duty, refused · the patrol map and its seasonal drift · the Scar Walker's shared route
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** The dead of the Occlusihan at the Scar, counted six incompatible ways and buried by nobody.
 
 ### Registry Addendum
 
@@ -390,10 +390,42 @@ It carries no weapon and its flame responds to disrespect rather than to proximi
 
 The dead of the Occlusihan fighting at The Scar were not properly mourned and their anger remained, and the commissioning file holds the burial returns from all six factions where they survive. They are incomplete in different ways and the file does not reconcile them. The archivist's note observes that reconciling them would require deciding which faction's count of its own dead to prefer, and that the facility has no standing to do that. Each return is reproduced in the form in which it was received, in its own hand and its own arrangement, with no attempt to impose a common layout. Where a faction kept no written count at all, the file says so on a page of its own rather than omitting the faction from the sequence.
 
+### What the Two Logs Are Measuring
+
+Salutes and incidents are kept in one book, by the archivist's instruction, because an entity that does two things should not be filed as though it did one.
+
+Three hundred and eleven salutes returned, each logged with the exact words the person used. Forty-seven heat incidents across the life of the holding. Every one of the 47 began with a gesture the Flame read as contempt, and in every one the fire went to the person who made it and to nobody standing beside them.
+
+The series that matters sits across a single year. In the twelve months before the six burial returns were posted at the approach: **fourteen** heat incidents. In the twelve months after: **two**. Nothing else changed — same route, same patrol rate, same brief, same seasonal drift of under a metre. What changed is that people arriving at the Scar could read, before they walked onto it, how many had died there and in whose hand the count was kept.
+
+Anniversary weeks remain the exception. The incident rate triples in that week and has done every year on record, which is why extraction is never scheduled against it.
+
+### No Party to That War
+
+The facility cannot hold a commemoration of the Occlusihan, and the rule is right even though it is the direct cause of this holding's existence.
+
+A commemoration requires a list of the dead. There are six lists. They are incomplete in different ways, they disagree about the same ground, and one faction kept no written count at all. To hold a service, F01 would have to settle whose roll is authoritative and in what order the six are named — which is to adjudicate, eighty years late, a dispute that killed everyone qualified to argue it. A facility that was not party to a war has no standing to decide whose dead it is counting, and the attempt in Year 4194 to produce a reconciled roll ended with the work abandoned and the draft sealed, on the advice of the officer who had been asked to prefer one return over another and declined in writing.
+
+So the dead of the Scar are not mourned by the institution that keeps the ground. They are mourned, when they are mourned, by individual workers making gestures nobody ordered, on their own account, in their own words, and the file records those words because they are the only containment instrument that has ever worked.
+
+In Year 4233 the Wardens applied to have the anniversary observance entered as a duty with a named post. Refused. A duty is a facility act; a facility act is the commemoration the wing may not hold; and a named post would have to be told whose dead to name first. The application is in the Year 4234 return, marked *correct in principle, no action available*. The Warden who has walked the route on every anniversary for nineteen years does so as a private person, cannot be replaced when she goes, and the file says so plainly rather than pretending a successor will be found.
+
+### Posted as a Hazard Briefing
+
+What the facility could do, it did, and it is honest in this file about the device it used.
+
+All six burial returns are posted at the approach to the Scar, beside the patrol map. Each is reproduced in the hand and arrangement in which it was received, unreconciled, with no common layout imposed. The faction that kept no count has a page of its own, blank except for the statement that no count was kept. Nothing is totalled. Nothing is ordered by size, date or allegiance; the six hang in the order the archive received them, which is the only sequence that implies nothing.
+
+The posting is authorised as a **hazard briefing**, not as a memorial, and the authorisation is sound on its own terms: this entity's containment is conduct, conduct depends on personnel knowing what happened on the ground they are crossing, and a briefing that keeps fourteen incidents down to two is a safety document by any measure the wing applies to any other holding.
+
+The device is recorded as a device. The minute authorising it states that the wing is aware the posting does what a commemoration would do, that it is not a commemoration, that nobody is named and nothing is honoured, and that the facility has no standing to go one step further than this and will not.
+
+Personnel are not instructed to read the returns and are not asked afterwards whether they did. The salute log suggests that most of them do.
+
 ## Trivia
 
-- The Flame's fire is emotional rather than conventional heat.
-- Its patrol route crosses all six former faction boundaries.
+- The heat is conduct-reactive and not thermal in any ordinary sense; instruments read it low and skin reads it high.
+- The route crosses all six former faction boundaries and favours none of them, which is more than the burial returns manage.
 
 
 
