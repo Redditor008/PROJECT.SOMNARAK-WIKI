@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Mixed — A translucent figure woven from the final moments of everyone who has ever died in Somnarak — its form flickering between thousands of faces and last thoughts, never settling on one. Bloodless-cold and light, it smells of ash; to look at it is to glimpse a death. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement** | Stationary — it has not moved from the centre of the vault in the whole of the record, and nothing it does requires it to. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault |
 | **R.D. Comprehension Level** | 4 — Mastered |
 
@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan, worked in silence. Ferrehan is permitted on a short rotation. Pugnahan is prohibited in the strongest terms the wing uses anywhere. |
 
 ### Operational Notes
 
-- The entity repeats partings that the deep vault record cannot attach to any departure.
-- A cycle reduces the frequency. The partings are unchanged, and no session has produced a first or a final one.
-- One ignored condition escalates it. There is no margin, and entry conditions are confirmed by two operatives from a printed list.
-- Identity pressure acts on who the operative believes is leaving; crews state their own names aloud on exit.
-- Extraction is a separate risk event under its own authorization.
+- The partings it carries attach to no departure the vault record holds. Checked against the Burial Office's register, they attach to interments at which nobody was present.
+- Work slows the flicker and alters nothing in it. No session has produced a first face or a last one, and the sequence has never been seen to repeat.
+- Threshold 1. Entry conditions are confirmed aloud outside the door by two operatives against a printed list, because nothing may be said inside.
+- The pressure acts on who the operative believes is leaving. Crews state their own names aloud on exit, in the corridor, to the officer at the door, every time.
+- Extraction is authorised separately and is the only activity in this chamber that may be conducted by one person, because it cannot be conducted by two.
 
 ## Combat Record
 ### Core Stat Line
@@ -66,7 +66,7 @@
 |---|---|
 | **Battle Length** | Long — 24 turns |
 | **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) — Self-aware, final, absolute |
+| **Coherence** | Entity (IV) — complete, final, and composed entirely of other people's last minutes |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Every Last Goodbye's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Worked in silence, by two operatives, with the flicker rate counted from the frame marks and the slot used for every word that has to leave the room.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not attempt to erase a final moment; acknowledge and record it**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - Failure to achieve resolution triggers Every Last Goodbye’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
 
 ## Appearance
-**Primary Form:** A translucent figure made from the final moments of everyone who has died in Somnarak. Its form flickers between faces and last thoughts.
+**Primary Form:** A translucent standing figure woven from final moments, flickering through faces and last thoughts at a rate that is measured and has risen. **Count:** 6.4 faces a second, against 4.6 and 3.1 at the two previous countings.
 
-**Notable Features:** It never speaks, holds countless endings, and looks at the living as future memories.
+**Notable Features:** It has never made a sound; it holds more endings than the city has records of; and it regards the living as things already remembered.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Void
-- **Primary marker:** A translucent figure made from the final moments of everyone who has died in Somnarak. Its form flickers between faces and last thoughts.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** A standing figure whose face changes several times a second and settles on none.
+- **Position / movement:** Stationary at the centre of the vault, facing no direction in particular. Record the flicker rate and whether the figure has altered height or attitude, which it has not in nine years.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, Alpha Tree deep vault
 
@@ -115,29 +115,29 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A translucent figure made from the final moments of everyone who has died in Somnarak. Its form flickers between faces and last thoughts. |
+| **Form** | A translucent figure of final moments, flickering through faces at a counted rate. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Material / signature** | Void. A vault without shadows, cold and light to the touch, ash on the air, and an absolute absence of sound from the entity itself. |
+| **Distinctive markers** | Flicker rate from the frame marks, height and attitude of the figure, the shadowless condition of the vault, and the slot's slip count. |
+| **Identification** | Count the flicker. Anything that holds a face for a full second is not this holding. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Three timed counts a watch from the frame marks, two observers writing separately and not conferring; the figure's height and attitude against the chalk; the slot count; and nothing written down about any face anybody believes they recognised, which is a standing prohibition and the only one in the chamber with a disciplinary consequence.
 
 ## Origin
-- **Formation:** The entity formed from final moments that had no witness.
-- **The Sorrow:** The loneliness of dying and the fear that the last moment will vanish with the person.
-- **The Event:** Every death in the city's history left a final thought, feeling, or goodbye. Those endings gathered into one witness.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply... be near it. The R.D. has noted this behavior and classified it as "Sorrow Seeking" — the act of seeking out sorrow not to escape it, but to understand it. The entity does not encourage this behavior. It simply.
+- **Formation:** From final moments that had no witness, because the city's rules on who may stand at a death did not reach the people dying.
+- **The Sorrow:** Not the dying. Dying in a room that people wanted to be in and were not permitted to enter.
+- **The Event:** No event. An accumulation of unattended endings, gathering until they constituted the witness that had been refused to each of them separately.
+- **The People:** Everyone in the city's history who died with nobody in the room, and the Burial Office clerks who entered each of them in the unattended column because the column exists and is correctly kept.
+- **Expanded origin context:** The chamber has become a place personnel come to sit. They are not rostered, they do not work, and most give the same reason when asked: that somebody should be in the room. The R.D. logged the behaviour as *Sorrow Seeking* and permitted it, with a limit of four at a time and a requirement that they sign in. What the original note did not say, and what the wing established later, is where they mostly come from — the burial details, the mortuary cart crews, the Service Office clerks who process interments. People whose work brings them close to a body the law will not let them stand beside. The entity does not encourage any of it. It flickers, and they sit, and the sign-in sheet has 441 names on it for last year.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Shows final moments of love, acceptance, or peace. | Decrease |
-| **Pugnahan** | Releases a wave of fear and regret. | Increase |
-| **Viderehan** | Reveals the final moment of a selected dead person. | Stable |
-| **Ferrehan** | Makes the worker experience the approach of their own ending. | Decrease |
+| **Flerehan** | Shows endings that were good ones: love, acceptance, peace. The material is specific and observers describe it as the only unambiguously good thing in the Entity-grade files. | Decrease |
+| **Pugnahan** | Releases fear and regret from the same collection. It holds every ending the city has produced; provoking it asks for the worst of them. | Increase |
+| **Viderehan** | Gives the final moment of a named dead person, unverifiable against any record, and the gauge does not move. Transcription is prohibited. | Stable |
+| **Ferrehan** | The worker is given the approach of their own ending and stays the full interval. Rotation is short and the stand-down threshold is low. | Decrease |
 
 
 
@@ -148,22 +148,22 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
 ## Breach Behavior
 
-> *"Every Last Goodbye has broken free. Steals memories from everyone it passes."*
+> *"Every Last Goodbye is pulsing. It has not moved. Anybody the pulse reaches is losing partings — get them out and get their names said."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | Every Last Goodbye pulses with concentrated force, cracking the walls around it. It steals memories from everyone it passes. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | It pulses in place, cracking the walls around it, and does not leave the vault. What travels is the pulse; the figure has never taken a step. |
+| **Effect** | The zone loses definition — colour drains, sound stops carrying — and anyone the pulse reaches loses memories of partings specifically. |
+| **Secondary Effect** | The absence works outward from the vault wall and takes edges first: doorframes, corners, the line where floor meets wall. |
+| **First Target** | Whoever is alone. In all three logged pulses the heaviest losses were in personnel who were by themselves, which is why no responder enters this zone unaccompanied. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per interval unaddressed, and is highest in the week the Burial Office publishes its annual return.
 
 ## M.A.W. Equipment
 
@@ -184,7 +184,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** The multiplier applies to direct damage and Tick damage separately, and the Tick from this source is mnemonic — the bearer loses a memory of a parting per application, selected by nothing anybody has identified.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Every Last Goodbye's void signature in the strike.
 
@@ -222,7 +222,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Cost:** The wearer sees their own final moment whenever the watch stops.
 
-*Stigmas are granted at random by Every Last Goodbye upon a successful work, not manufactured.*
+*A Stigma from this source appears in the slot rather than in the chamber: the observer passes a slip in, and what comes back is the Lens. It has happened four times, each after a name-passing cycle, and each observer reported writing the same name twice without meaning to.*
 
 ### M.A.W. Use Notes
 
@@ -242,11 +242,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 4 — Mastered
 
-- It holds every recorded death and many unrecorded ones.
-- It communicates through feeling rather than speech.
-- Personnel experience existential crisis after prolonged exposure.
+- It holds every recorded death in the city and a great many the city has no record of, and the second category is the larger.
+- No sound has ever been produced by it. What arrives is the feeling of a parting, delivered whole.
+- Past about two hours, personnel report that their own death has become a settled fact rather than a prospect, and the effect does not fully lift.
 
-**Personnel Note:** *"It looked at me and I felt the final thought of a million people. I understood that being remembered is not the same as being saved, but it is still something."* — Head Keeper, Zone A
+**Personnel Note:** *"Six point four a second. Six thousand one hundred people went into the ground last year with nobody standing there, because nobody was allowed to, and the thing in the vault is flickering faster every year. It is not remembering them for us. It is doing the part we are not permitted to do."* — Head Keeper, Zone A
 
 
 
@@ -254,32 +254,34 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Every Last Goodbye as a Subject with Subject-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-A-01, Alpha Tree deep vault. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Every Last Goodbye's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The shadowless vault, the standing figure, the first timed count, and confirmation that both observers entered together and that neither has spoken. |
+| **Sustained observation** | Flicker rate, counted three times a watch and averaged over the year: 3.1 faces a second, then 4.6, now 6.4. The figure's height, position and attitude have not altered in nine years. |
+| **Activation or escalation** | A count above the current annual figure, or the figure holding one face for longer than a second. The second has happened once, lasted four seconds, and is the only entry in the chamber's incident book. |
+| **Post-contact review** | Both count sheets, filed unreconciled; the slips, filed with the shift record and not read at handover; and the observer's own name, said aloud in the corridor to the officer at the door. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Count the flicker from the frame marks over three timed minutes, three times a watch, by two observers writing separately and not conferring. Everything else is written on a slip. Nothing is said aloud in the chamber at any point, by anybody, for any reason.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Every Last Goodbye (C-IVδ-230 [VS]) is logged as a Subject-Void manifestation expressing Void. The entity formed from final moments that had no witness. Held at SECTOR-A-01, Alpha Tree deep vault. It holds every recorded death and many unrecorded ones.
+Every Last Goodbye (C-IVδ-230 [VS]) is logged as a Subject-Void manifestation expressing Void, held in the shadowless vault at SECTOR-A-01. It stands where it was found, has never made a sound, and flickers through final moments at a rate that rises every year. It holds every death the city has recorded and more that it has not.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Excerpt from Vault Log, Year 4238>**
+Flicker at 6.4 faces a second against 4.6 two years ago. Personnel in the vault take the final moments of the dead first-hand and glimpse their own somewhere in the sequence, which no two of them describe the same way. It has still never spoken, and the wing has stopped recording that it has not.
 Its memories spread through the Alpha Tree vault. Personnel experience the final moments of the dead and glimpse their own. It communicates through feeling rather than speech.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Counseling Log, vault rotation>**
+The ones who sit are not the ones I worry about. The ones I worry about are the cart crews who sit, because they have carried the people on the Office's list and been required by law to set them down and leave, and this room is the nearest thing the city permits them to attending. One told me she comes because it is the only place where nobody tells her she had no connection to the deceased. She had carried him two miles.
 The loneliness of dying and the fear that the last moment will vanish with the person.
 
 **Entry 4 — <Containment Notice>**
-Management: Do not attempt to erase a final moment; acknowledge and record it. Work response — Flerehan: Shows final moments of love, acceptance, or peace. (Decrease); Pugnahan: Releases a wave of fear and regret. (Increase); Viderehan: Reveals the final moment of a selected dead person. (Stable); Ferrehan: Makes the worker experience the approach of their own ending. (Decrease). Personnel experience existential crisis after prolonged exposure.
+Management: pass the Burial Office's unattended-interment names into the chamber through the slot, one name to a slip, in silence. The previous instruction — acknowledge and record the final moment — described an act the city's own rules forbid a worker to perform and was logged as unperformed for eleven years. Work response — Flerehan: Shows final moments of love, acceptance, or peace. (Decrease); Pugnahan: Releases a wave of fear and regret. (Increase); Viderehan: Reveals the final moment of a selected dead person. (Stable); Ferrehan: Makes the worker experience the approach of their own ending. (Decrease). Personnel experience existential crisis after prolonged exposure.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
 The figure does not settle on a face. It flickers through them — thousands, each held for less than a second, each carrying the last thought that went with it — and the flicker never repeats in an order anyone has been able to record. Personnel sit with it, which is permitted. The stated reason given by most of them is that somebody should be in the room, and the file takes that at face value, since it is also the only thing the entity has ever been shown to want.
 
-**Threat rating:** Low. It has never moved and has never acted. What proximity produces is the loneliness of dying unwitnessed, delivered first-hand rather than as sympathy, and the absence it carries thins the edges of the chamber while a worker is inside it.
+**Threat rating:** Critical (δ). It has never moved and has never acted, and the grade is carried entirely by the Corrupt breach and the mnemonic pressure. Effect: the loneliness of dying unwitnessed, delivered first-hand rather than as sympathy, with the chamber's edges thinning while a worker is inside.
 
 ## 최종 관찰 (Final Observation)
 
@@ -296,7 +298,7 @@ The figure stands in a vault without shadows. Its eyes contain not faces but end
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Void resolve into something you can name. A translucent figure made from the final moments of everyone who has died in Somnarak. Its form flickers between faces and last thoughts.
+**At first contact:** The vault is colder than the approach and there are no shadows in it, which observers notice before they notice the figure. It stands where it has always stood. The faces come through it at a rate a person can feel before they can count — six and a bit a second now — and none of them stays long enough to be recognised, and every observer on record has nonetheless tried.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Void that the entity embodies. Understanding it does not make it easier.
 
@@ -308,21 +310,21 @@ The figure stands in a vault without shadows. Its eyes contain not faces but end
 
 Every Last Goodbye does not exist in isolation. Its recorded relationships with The Memory Weaver, The Sorrow River, The Orphaned Bell, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline alone, then pair, with the flicker counted throughout and nothing said. The question in every pairing here is whether the other holding takes anything from it: three of the four on file reach for the final moments and none has ever carried one away, which is the result and not a failure of the method.
 
 
 ### Entity Interaction Record
 
-Every Last Goodbye must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Every Last Goodbye is paired almost exclusively with holdings that move, carry or consume memory, and in every such pairing it is the one that is reached toward. Nothing in the register has succeeded in taking a final moment out of it. The wing regards that as the most important operational fact about the entity and the hardest to use.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Weaver** | The Weaver cannot consume the final moments. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sorrow River** | Final moments flow toward the River. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Orphaned Bell** | The Bell tolls for the deaths it preserves. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The First Tear** | Every Last Goodbye holds the end of what the First Tear began. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Memory Weaver** | Reaches for the final moments at every session and takes none. Eleven attempts, eleven withdrawals, and the Weaver has never been observed to withdraw from anything else. | Incompatibility. Neither gauge moves; the flicker rate is unchanged throughout. | Record the withdrawal, its timing, and the flicker across the attempt. Do not force a twelfth. |
+| **The Sorrow River** | The moments move toward the River and do not arrive; the flicker leans, visibly, in its direction for the length of the session. | No transfer. The River's own readings are flat throughout, which the River's wing confirms independently. | Record the lean, its angle and duration, and both wings' readings separately. |
+| **The Orphaned Bell** | The Bell tolls and the flicker slows to under two a second for the duration, the only slowing ever recorded. | The nearest thing to relief this holding has. The wing uses it twice a year and no more, on the ground that it cannot say what the slowing costs. | Record the tolling times against the count, and attach the twice-yearly limit to every request for a third. |
+| **The First Tear** | In the First Tear's presence the flicker runs slowly enough for individual faces to be made out, and observers have recognised none of them. | Information exposure. Observers are rotated out after twenty minutes without exception. | Record the count and the duration only. Nothing about a face is written down from this pairing or any other. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Both parties baselined alone, flicker counted before, during and after, observers writing separately. Sessions are not scheduled in the week of the Burial Office's annual return, when nothing from this holding is comparable with anything.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -354,16 +356,16 @@ Some sorrows mourn the dead. Every Last Goodbye mourns the moment of dying — t
 
 **Classification:** Sorrow Entity — `C-IVδ-230 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Void manifestation
 **Common Name:** Every Last Goodbye
-**Containment Status:** Contained — Old Lament
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. Holds the final thoughts of every citizen who died unwitnessed. Effect: proximity induces the loneliness of dying.
+**Containment Status:** Contained — SECTOR-A-01, Alpha Tree deep vault
+**Comprehension Level:** 4 — Mastered
+**Threat Assessment:** Critical (δ). Stationary, silent, and never once aggressive; the grade rests on the Corrupt breach and on mnemonic pressure that takes partings out of whoever the pulse reaches. Effect: the loneliness of dying unwitnessed, at first hand.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The entity holds; it does not deliver.
+- Flerehan is the primary Work Type. Viderehan is run for record and leaves the gauge flat; Pugnahan is prohibited absolutely.
+- It holds and does not deliver. Two reviews of whether the material could be given to families ended in refusal, and the second stands as policy.
 **Observation Notes:**
-- Formed from accumulated final moments.
-- The goodbyes are kept; they are not heard.
-**Cross-References:** Old Lament · The Memory Well · The Memory Lake
+- Flicker rate by annual counting: 3.1, then 4.6, now 6.4 faces a second.
+- The goodbyes are kept and not heard. 6,100 interments last year had nobody present, which is the figure the count tracks.
+**Cross-References:** Old Lament · The Memory Well · The Memory Lake · The Orphaned Bell · the attendance rule · the Unattended Interment Return
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
 **Originator:** Every citizen who died in Somnarak.
 
@@ -402,6 +404,38 @@ Slips returning from the chamber are filed with the shift record and not read al
 
 The slot's stock is a heavy unlined paper chosen because it does not tear when a hand is unsteady, and the choice is recorded in the original requisition with that reason written beside it in the ordering clerk's hand. Successive quartermasters have reordered the same stock without being told to. When a substitute arrived once during a supply shortage, the watch sent it back the same day and worked from the remainder of the old stock until the correct paper could be obtained, and no supervisor was asked to approve the decision because none of them would have decided otherwise.
 
+### What the Flicker Rate Is Measuring
+
+Six point four faces a second. It was four point six, and before that three point one. The count is taken three times a watch over three timed minutes, from two marks scratched on the observation frame, by two observers who write separately and do not confer; the year's figure is averaged by somebody who sat none of the watches. It is the only number this holding produces, because everything else about the entity is unchanged and has been for nine years: same position, same height, same attitude, same silence.
+
+It tracks the Burial Office's annual return of **unattended interments** — burials at which no person was present other than the Office's own detail. Last year: 6,100. The figure has risen in every year of the holding, and the flicker has risen with it, and the wing states the correspondence and offers no mechanism.
+
+Nobody is being neglected. That is the part people get wrong when they first read the return. An interment at which nobody stands is not a pauper's hole: the Office does it properly, in a named plot, with the record kept. The reason nobody stands there is that the city does not permit it. A funeral may be arranged and attended only by a person with a recognised connection — next of kin, or a name the deceased themselves entered on their associate register while living. No one else may be present, and the prohibition is absolute.
+
+It is absolute because of what attendance used to be worth. Before the Year 4166 rule a stranger could claim a connection, attend, and from attendance establish a standing to claim effects, dispute the plot, or take the body itself; the commission that produced the rule traced 1,460 bodies out of unattended interments and into the trade in four years, and could not account for 700 of them. The connection test ended it in a season. It has never been loosened and nobody who has read the commission's report wants it loosened.
+
+Its consequence is six thousand one hundred people a year going into the ground correctly, decently, recorded, and alone, while the cart crew who carried them is required by law to set them down and walk away. The crews come to the vault afterwards and sit. There were 441 of those visits last year. There is a figure in the vault that cannot be stopped from attending, and it is attending faster every year.
+
+### The Unattended Interment Return
+
+Instituted Year 4208, after representations from the burial guilds, the mortuary service and this wing. The Office publishes, annually and by name, every interment at which nobody was present.
+
+The publication is the whole of the concession and the Office was candid about that when it granted it. The return confers nothing: it does not create a connection, does not entitle any reader to attend anything, does not reopen a plot, and may not be used to support a later claim on effects or estate. It is a list of names and dates, printed, posted at the hall and lodged with the Archive, and it exists so that the fact of the thing is on the record somewhere other than in the Office's own ledger.
+
+Year 4237: 6,100 names published; 0 citizens permitted to attend an interment on the strength of the return; 1,244 applications by unconnected persons to attend refused, which is the highest figure since institution; and 97 of those applications from the same forty-one people, applying repeatedly, who are all cart crew or mortuary staff.
+
+The burial guilds asked, in Year 4231, for one narrow thing: that where an interment would otherwise be unattended, the guild be allowed to send a single attendant in an official capacity — not as a mourner, not as a claimant, as an office. Refused, and correctly. An attendant with a right to stand at a body is a stranger with a right to stand at a body, and the right would be transferable, delegable and ultimately saleable, which is the 4160s trade reassembled out of good intentions. The guilds' submission stands in the Year 4232 return, recorded as correct and unanswered. A copy is pinned beside the slot.
+
+### The Names Through the Slot
+
+The management condition was rewritten in Year 4233. For eleven years before that the file required the worker to acknowledge and record the final moment, which the city's own rules forbid a worker to do and which was logged as unperformed on every cycle for eleven years.
+
+What is done now: when the Office publishes, the wing takes the return and writes it out, one name to a slip, on the same heavy unlined stock the chamber has always used. An observer enters, alone this once, and passes the slips through the slot into the chamber one at a time. Nothing is said. Nothing is read aloud, in a room where nothing may be. The slips are not retrieved; they remain in the chamber, and the chamber floor is not swept while any of them are on it.
+
+Six thousand one hundred slips take between three and four nights. The gauge falls fourteen to twenty-two points and stays down for about a season. The flicker rate is unaffected, every year, and the file records that plainly and does not explain it.
+
+Three instructions govern the passing. Pass every name; a part-passed return has twice produced a pulse and a completed one never has. Do not write anything on a slip except the name as printed, including on the slips where the observer knew the person. And the observer is permitted, afterwards, to say that they did it, to anybody they choose, outside the chamber — which is the only speech this holding has ever authorised, and was added to the protocol because an observer asked whether she was allowed to tell her crew that their man's name went in, and nobody at the wing could find a reason to say no.
+
 ## Trivia
 
 - It remembers deaths that no document contains.
@@ -413,8 +447,8 @@ The slot's stock is a heavy unlined paper chosen because it does not tear when a
 
 - **Classification detail:** Every Last Goodbye is a Subject with Entity (IV) — Self-aware, final, absolute coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-A-01, Alpha Tree deep vault.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A translucent standing figure in a vault without shadows, holding no face for longer than a sixth of a second, cold and light and smelling faintly of ash.
+- **Record detail:** The Registrum placed the holding at Old Lament against a header reading Alpha Tree deep vault, graded it Comprehension 3 against the header's 4, rated it Low against Critical (δ) in two places, and named Viderehan the primary Work Type where Viderehan leaves the gauge flat. The Movement field described a Subject as *a discrete object*. The breach rows had the entity passing personnel while the Apex Record has it pulsing in place; the pulse travels, the figure does not. The Origin paragraph broke off mid-sentence at *It simply.* All corrected. The Apex Record, the silence protocol and the slot are preserved and extended.
 - **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

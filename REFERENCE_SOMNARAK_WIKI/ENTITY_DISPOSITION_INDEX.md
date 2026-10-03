@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **149** |
-| Pending — no disposition-bearing line found by scan | 154 |
+| **Classified here, with a quoted line of evidence** | **150** |
+| Pending — no disposition-bearing line found by scan | 153 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 149 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 150 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 154 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 153 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -151,6 +151,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Loom of Unlived Dreams | `SE-C-IVγ-176` | Neutral | It threatens no one and suppresses nothing, but it is not harmless to other holdings either: fragments drawn into its warp are *"consumed and cannot be recovered afterwards"*, diminishing The Dream Fragment, while its exchange with The Memory Weaver grows both beams and gives F01 nothing. Its hazard is confined to whoever enters the marked radius. |
 | Drowned Roots | `SE-C-IIβ-997` | Neutral | Its breach selects by covering, not by person — *"It reaches for masked faces specifically and passes the uncovered by"* — and the remedy is to uncover. It aids nothing: The Forgotten Soldier's salute is the only thing that slows it, The Rage Statue registers no effect in six pairings, and it caught the Masked Dancer in none. |
 | Walking Calendar | `SE-C-IVδ-220` | Neutral | Its breach is radial and targetless — *"It does not pursue, has never pursued, and cannot catch anybody walking away from it"* — and harms F01 only through structure coming down. It assists no entity: the Broken Clock pairing returns *"no measurable effect on either side in nine pairings"*, and in the Burning Library pairing the effect runs the other way, the Library shortening the Calendar's song rather than the Calendar aiding it. |
+| Every Last Goodbye | `SE-C-IVδ-230` | Neutral | Stationary, silent, never aggressive: *"It pulses in place, cracking the walls around it, and does not leave the vault."* Its breach costs F01 memories of partings, but it aids no entity and nothing can take anything from it — the Memory Weaver *"reaches for the final moments at every session and takes none"* (eleven attempts, eleven withdrawals), and the Sorrow River pairing transfers nothing in either direction. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
