@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Breach's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is nothing in the room; the wall is inside the worker. Flerehan widens the cracks gently and lowers the reading; Ferrehan requires the worker to keep working after the sense of safety has gone, which is the whole of the duty. Pugnahan collapses it into their thoughts and is logged as a failure, not an option.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish realistic anchors; do not promise perfect safety**.
 
 ### Consequences
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Mind
 - **Primary marker:** A wall-shaped presence inside consciousness, cracked and leaning. It appears as a collapsing boundary between one thought and the next.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It does not occupy the Gardens; it occupies whoever is in them. Record the sector, the personnel present, and the interval between the sensation of being watched and any movement in the gauge — that interval is the withdrawal window and is between two and nine minutes.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Echo Gardens
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; more than one Gardens record concerns a protection that failed, and this is the one that worsens on being promised it will not happen again. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** There is nothing to photograph. Record the watching interval in minutes, the sector, and the exact wording of any assurance given before the gauge moved — verbatim, including who it was given to. Observers are not to characterise the wall they feel; the descriptions vary, the mechanism does not.
 
 ## Origin
 - **Formation:** The Wall formed from protection that failed.
 - **The Sorrow:** The grief of believing a barrier would hold and discovering that the danger was already inside.
 - **The Event:** A protective wall collapsed during an Echo overflow, leaving survivors unable to trust any boundary.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The households behind the Echo Gardens wall, who were told it would hold and who were not wrong to believe it — it had held for sixty years. The Keepers hold the maintenance record, which is exemplary, and the overflow report, which concludes that nothing was neglected and the wall failed anyway.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Breach is recorded as a Subject with Subject-Mind manifestation and Lament elemental expression. The current record places it at Zone D, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** A falling reading means a risk was stated plainly with its real likelihood and nobody was comforted about it. Stability under Viderehan is correct. The reading rises on assurance, and rises whether the assurance was true, routine, or kindly meant — the maintenance record of the original wall was accurate as well.
 ## Breach Behavior
 
 > *"Breach has broken free. Expands, crushing corridors shut."*
@@ -153,17 +153,17 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Breach expands beyond containment like a spreading tide. It expands, crushing corridors shut. |
+| **Movement** | Nothing moves and no corridor closes. It extends from mind to mind along the line of people who have been told that everything is in hand. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Secondary Effect** | Every barrier in the sector — doors, rails, procedures — is experienced as decorative for the duration. |
+| **First Target** | Whoever last assured somebody else that a thing was safe. |
+| **Escalation** | Drain rises by 5 for each further assurance issued while it is loose, and does not rise during a silence or an honest briefing. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Do not reassure anybody. Pugnahan collapses it inward by the approach table's own figures, and the two longest incidents on file both began with a supervisor telling an affected team that the sector was secure. Brief the actual risk, state what is not known, and withdraw within the watching interval.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each assurance of safety given while it is loose — a corridor called secure, a worker told they will be fine, a notice stating that a thing cannot happen. It falls 10% for each briefing that states a risk with its actual likelihood, and both closures on file were reached in a muster room rather than at the site.
 
 ## M.A.W. Equipment
 
@@ -184,13 +184,13 @@ The pike's length holds large sorrow entities at bay outside claw reach. The tat
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A line of up to three, which here means a chain of people who have been reassured in turn by the one in front of them.
+**Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is the specificity: the third loses confidence in nothing in particular and reports it as nerves.
+**Damage Application:** Record the strike and the residue separately. The Lament lands once; the inability to treat any barrier as holding continues for days and is what stops people using lifts.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Breach's lament signature in the strike.
+**Ability:** Lament damage to the mind. The pike carries the record's signature — a boundary that was maintained properly and failed regardless — and what it opens in a target is every precaution they have relied on without checking.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries its unwept grief and weeps involuntarily, most often while signing a safety certificate.
 
 ### M.A.W. Suit — The Fallen Barrier
 
@@ -218,13 +218,13 @@ The pike's length holds large sorrow entities at bay outside claw reach. The tat
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to work against Breach itself, and nothing elsewhere in the Echo Gardens.
 
-**Ability:** Grants a minor boon tied to Breach's sorrow; the effect mirrors the entity's nature.
+**Ability:** The charm prevents its bearer from being reassured. Statements that something is certainly safe are heard as the words they are, without the comfort attaching, which personnel describe as unpleasant and which has twice resulted in a work stoppage that was afterwards found to be justified.
 
 **Cost:** The bearer weeps in their sleep.
 
-*Stigmas are granted at random by Breach upon a successful work, not manufactured.*
+*The fallen charm is not manufactured. Breach gives one to a worker who told a team what could go wrong before they went in, and has given none to anybody who told them not to worry.*
 
 ### M.A.W. Use Notes
 
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Breach's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Record the first sign, which is the sense of being observed with nothing present; the first sensation, which is the loss of confidence in a barrier; the watching interval; every assurance issued in the sector that shift; and the condition that ends the encounter, which is withdrawal inside the interval. Late withdrawals are logged as breaches, not as long sessions.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -269,17 +269,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Breach (N-IVδ-339 [LS]) is logged as a Subject-Mind manifestation expressing Lament. The Wall formed from protection that failed. Held at Zone D, Echo Gardens. It watches personnel through their sense of security.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Spreads through consciousness as collapsing boundaries. Personnel lose trust in rooms, doors, and protective procedures. It is more active after containment failures.
+**Entry 2 — <Maintenance Record of a Wall That Did Not Fail Through Neglect>**
+Sixty-one years of wall maintenance records, inspected after the fact by three separate offices. Scheduled inspections completed: all of them. Defects found and remedied: nineteen. Defects found and deferred: none. Load rating at the time of failure: within tolerance for the overflow that destroyed it, by a margin of eleven per cent. The reviewing engineer's final line is quoted in full because the file has never been able to improve on it: there is nothing here anyone should have done differently, and the wall is still down.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of believing a barrier would hold and discovering that the danger was already inside.
+**Entry 3 — <Statement of a Supervisor Who Said the Corridor Was Secure>**
+"I said the corridor was secure. It was secure; I had checked it myself twenty minutes before and I would check it the same way tomorrow. Three of my people were on the floor within a minute of me saying it. What I want recorded is that I am not being asked to stop checking. I am being asked to stop telling them it is fine, and I do not yet know how to send people into a sector without saying that, because it is the only sentence that gets anybody through a door."
 
 **Entry 4 — <Containment Notice>**
 Management: Establish realistic anchors; do not promise perfect safety. Work response — Flerehan: Cracks widen gently and reveal the fear beneath. (Decrease); Pugnahan: The wall collapses into the worker's thoughts. (Increase); Viderehan: Shows the protection and the moment it failed. (Stable); Ferrehan: Tests the worker's ability to remain after safety disappears. (Decrease). Personnel report fear even in secure rooms.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+**Entry 5 — <Director's Memo, Eyes Only: On the Sentences We Are No Longer Permitted to Say>**
+The briefing standard for this sector was rewritten in consequence of this record and is set out here in full, since it is the containment measure. State what the hazard is. State the likelihood in figures where figures exist and say so where they do not. State what has been done and what that does not cover. Do not say that a sector is safe, that a precaution is sufficient, or that something cannot happen. Personnel have objected that this makes the briefings frightening and the objection is accepted: they are frightening, attendance has not fallen, and the gauge has. The Directorate records its own position plainly. We would rather send people in afraid and informed than confident on our word, because our word is what this entity is made of.
 
 **Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
@@ -310,12 +310,12 @@ A wall stands inside your mind. It has already fallen, but the dust has not sett
 
 Breach does not exist in isolation. Its recorded relationships with The Rusted Wall, The Frozen Veil, The Crumbling Saint should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish it alone first, with the sector's safety communications collected for the same period, because those are the variable. In shared conditions log the watching interval, the personnel affected and in what order, and whether the other record prompted anybody to offer reassurance — which is the commonest way a joint session goes wrong.
 
 
 ### Entity Interaction Record
 
-Breach must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Breach is filed with the Echo Gardens records, which are mostly structures and this one is the belief that was held about a structure. The relationships below are what the archive will support. They are not alliances; they are one overflow's consequences, and in proximity each makes the others' assurances harder to issue honestly.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -366,7 +366,7 @@ Some sorrows are about the danger. Breach is about the failed protection — the
 - See M.A.W. Equipment section for extraction risk.
 **Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** The households behind the Echo Gardens wall, collectively; the overflow report names them as residents and apportions no fault, which is the finding this record is built on.
 
 ### Registry Addendum
 
@@ -414,8 +414,8 @@ Names on the exposure register are never removed, including after transfer, reti
 
 - **Classification detail:** Breach is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone D, Echo Gardens.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** There is nothing to see. Identify it by the sequence: the sensation of being watched for several minutes with nothing present, then the loss of the feeling that anything is holding. Several Gardens records are invisible; this is the one that arrives as a lean in the mind.
+- **Record detail:** Check the designation before approach. More than one Gardens record concerns a failed protection, and they differ on the decisive point — this one is made worse by every promise that it will not happen again.
 - **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
