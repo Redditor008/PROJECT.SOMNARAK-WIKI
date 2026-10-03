@@ -73,7 +73,7 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Collector's Row |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | The anger displayed is attributed in writing to the condition that caused it rather than to the person carrying it, and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -88,15 +88,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Mirror of Soaking's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** The team works in front of the surface rather than against it. Viderehan shows the event the anger came from and holds the reading steady; Ferrehan requires the worker to stand before their own fury without disowning it. The height the Mirror has risen to is the instrument, and it is read at the start and the end.
+3. **Resolution:** The session closes when the anger displayed has been attributed in writing to the condition that produced it rather than to the temperament of whoever is carrying it, and the reading falls below 25%. A session that ends with a note describing a worker as difficult has not closed; it has contributed.
 
 ### Consequences
 
 - If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Mirror of Soaking reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Exposure is not the mechanism. Attribution is. The Mirror rises further whenever anger in its vicinity is written up as a quality of the angry person, and it has risen during shifts when nobody was in the chamber at all, tracking notes made elsewhere in the sector.
+- The brazier, the plate and the lens all carry the same thing out of the Row: rage that was never allowed a hearing. Each activation borrows a measure of it and the operator keeps it. The recorded cost is not a temper. It is that the operator can no longer be told they are overreacting without knowing exactly what the phrase is for.
+- If the attribution is not corrected, the Mirror does not revert or retaliate. It stands higher. Each unresolved session leaves more of it out of the ground, and nothing in the record has ever put any of it back except the written correction.
 
 ## Appearance
 **Physical Form:** A mirror that rises from the ground during periods of concentrated rage. Its surface reflects no face, only the anger beneath it.
@@ -120,15 +120,15 @@
 | **Position / movement** | Physical Form: A mirror that rises from the ground during periods of concentrated rage. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; the Row holds more than one record made of anger, and this is the one that is made worse by being soothed. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the height above floor level in centimetres before anything else — that figure is the entity's state and everything else is description. Note the glow, which deepens toward red in the presence of somebody holding anger in, and note that the surface returns no face at any angle. Personnel are not to be asked what they see in it.
 
 ## Origin
 - **Formation:** The Mirror formed from rage that could not be spoken safely.
 - **The Sorrow:** The grief of injustice left unnamed and anger treated as unacceptable.
 - **The Event:** Citizens swallowed rage under debt and order until suppressed anger became a reflective object.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Citizens of the Row who were in debt and therefore required to be civil. The Keepers' record holds the collection schedules and no complaints, because complaining was a breach of terms, and the file notes that the absence of complaints was treated at the time as evidence of satisfaction.
 - **Expanded origin context:** Collectors called anger disorder and demanded gratitude from people whose debts grew no matter how much they paid. The citizens swallowed their words until the unspoken rage became heavier than the ledgers. One night, a mirror rose through the floor of Collector's Row. Its surface reflected no face. It showed clenched hands, swallowed accusations, and the first moment each viewer had decided that injustice was ordinary.
 
 ## Behavior
@@ -147,7 +147,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Mirror of Soaking is recorded as an Object/Place with Object-Void manifestation and Grudge elemental expression. The current record places it at Zone C, Collector's Row; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** A falling reading under Ferrehan means a worker stood in front of their own anger and neither performed it nor denied having it. Stability under Viderehan is correct. The reading rises when anger in the chamber is explained by reference to the person feeling it — their nerves, their history, their attitude — and this is true regardless of whether the explanation is accurate.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -174,7 +174,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | Emotional escalation and projection of rage onto nearby people. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while carried and cannot substitute for a scheduled Work Type. Containment of this record is a documentary measure; nothing carried into the chamber has ever altered the height.
 
 ### Log and Method
 
@@ -189,7 +189,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 The escalation pattern is specific to Mirror of Soaking: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Secure the perimeter, confirm the event is an activation rather than a surge from the Row's own rage conditions, withdraw personnel who are subject to open conduct notes — they read highest — and then satisfy the management condition, which is a written reattribution of the anger to its cause. Report the height before and after the entry is filed.
 
 ### Detailed Activation Record
 
@@ -202,7 +202,7 @@ The escalation pattern is specific to Mirror of Soaking: it is not a generic bre
 | **Risk** | Moderate (β) Object-Void producing Grudge pressure; Emotional escalation and projection of rage onto nearby people. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** height at arrival → who in the vicinity is holding anger in → the depth of the glow → any conduct note made on that person in the preceding fortnight → height at close. The conduct-note field is in the order because it has predicted the reading more reliably than anything observed in the room.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -223,8 +223,8 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The brazier reaches one target. The Grudge does not spread across a party, which matches the entity: it shows one person's anger at a time and pools the rest out of sight.
+**Damage Application:** Record the strike and the residue separately. The Grudge lands once; the sense of having been dismissed persists through the shift, and the counselling log is the place it surfaces.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Mirror of Soaking's grudge signature in the strike.
 
@@ -244,9 +244,9 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Mirror of Soaking's kind of pressure.
+**Ability:** Turns Grudge aside from the body, which is the only damage this record delivers. The plate is what allows a worker to stand in front of the surface for a full session without stepping out of its line.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes dull, and the wearer becomes slow to answer provocation — which on this post reads as composure and is not.
 
 ### M.A.W. Stigma — The Rage Lens
 
@@ -256,13 +256,13 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against the Mirror itself, and nothing against the other Collector's Row records.
 
 **Ability:** Reveals hidden anger and the object of its grievance.
 
 **Cost:** The wearer hears anger in every neutral statement.
 
-*Stigmas are granted at random by Mirror of Soaking upon a successful work, not manufactured.*
+*The lens is not manufactured. The Mirror gives one to a worker who wrote down what the anger was about, and has given none to a worker who calmed a colleague down.*
 
 ### M.A.W. Use Notes
 
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade tells you how hard a piece hits and nothing a supervisor needs here. What the table cannot show is that the lens makes its wearer able to see which anger in a room belongs to the room, and that three wearers have used it to rewrite conduct notes they had previously signed.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -299,7 +299,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Direct gaze or touching the reflective surface. Effect: Displays hidden anger and its original injustice. Duration: Until the viewer looks away. Risk: Emotional escalation and projection of rage onto nearby people. Tool Use Profile — I-Relic Operational Rule: The relic. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Mirror of Soaking's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Record the first sign, which is char-smell at floor level; the first sensation, which is irritation arriving before any cause; the height at entry and exit; who present was holding something in; and the condition that ends the encounter, which is the anger being attributed in writing to its cause. Record the file reference of that entry.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -307,11 +307,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Mirror of Soaking (N-IIβ-801 [GO]) is logged as a Object-Void manifestation expressing Grudge. The Mirror formed from rage that could not be spoken safely. Held at Zone C, Collector's Row. Appears in Collector's Row where suppressed debt anger is concentrated.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-The surface shows no physical reflection.
+**Entry 2 — <Collection Terms, Row: The Civility Clause>**
+Clause nine, printed on every schedule issued in the district: the debtor shall conduct himself civilly toward the collecting officer, and any discourtesy shall be recorded and may be taken into account in the scheduling of further terms. The clause is four lines long. The schedules run to eleven pages. In the eleven years the terms were in force, discourtesy was recorded against two hundred and sixteen people and the officers' conduct was recorded against none, there being no column for it.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of injustice left unnamed and anger treated as unacceptable.
+**Entry 3 — <Conduct Note, Withdrawn>**
+Original entry: "Hostile and difficult in handover; recommend review of suitability for Row rotation." Withdrawn six days later, with the following substituted at the author's request: "Was angry in handover, having been assigned the same chamber for the fourth consecutive rotation after requesting relief twice in writing. The anger was about the roster. I have corrected this note because the first version described her and the second describes what happened." The Mirror was logged at thirty-one centimetres when the first note was filed and at nineteen the day after the second.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the event that created the anger. (Stable); Ferrehan: Forces the worker to remain before their own rage. (Decrease). It glows during the Sorrow Tide.
@@ -346,12 +346,12 @@ The mirror rises through the floor wet with red light. You look into it and see 
 
 Mirror of Soaking does not exist in isolation. Its recorded relationships with The Weighting Bird, The Broken Mirror, The Rage Cage should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline it alone and with personnel under open conduct notes present, since that is the variable it responds to. In shared conditions record the height throughout, the depth of the glow, and whether the surface returned anything other than anger — it never has, and a report that it did would be the most important line in this file.
 
 
 ### Entity Interaction Record
 
-Mirror of Soaking must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Mirror is filed with the Collector's Row records, which are mostly about what was owed and this one is about what was not allowed to be said. The relationships below are what the archive will support. They are not alliances; they are the terms and the people held to them, and in proximity the Row's paperwork reads differently.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -359,7 +359,7 @@ Mirror of Soaking must be assessed as part of an entity network, not as an isola
 | **The Broken Mirror** | Both reveal truths the viewer has hidden. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Rage Cage** | Resonates with crystallized injustice. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baseline first, then the shared encounter: height before, during and after, glow depth, how long an elevated height persisted once the other record was withdrawn, and the number of personnel present carrying open notes. Sessions without that count are not comparable.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -393,20 +393,20 @@ Some sorrows are about grief. Mirror of Soaking is about rage — the anger swal
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Refer to the Work Type responses in the Behavior section, and note that two of the four are unavailable, which is standard for an Object/Place record and not a gap in the file.
 - Standard containment protocols apply.
 **Observation Notes:**
 - See Origin section for formation details.
 - See Combat Record for engagement parameters.
 **Cross-References:** See entity’s interaction record and cross-references in the full file.
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** The debtors of Collector's Row collectively; the schedules name them individually and the file does not single one out, because the civility clause applied to all of them equally.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map and the territory is the paperwork. Every figure here follows from how somebody's anger was written down. The percentage is the whole mechanism; there is no counter to exhaust, and the height does not fall with time.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any surge on the Row, and after any conduct note is raised anywhere in the facility describing a worker as angry, hostile or difficult — the last unconditionally, because the Mirror has responded to notes filed three sectors away. The review examines the wording of the note, not the conduct it describes.
 ## Watch Record
 
 ### It Rises From the Ground
@@ -436,9 +436,9 @@ Collectors treated rage as a defect and asked gratitude from people whose debts 
 
 - **Classification detail:** Mirror of Soaking is an Object/Place with Echo (II) — Repeats reflecting anger coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone C, Collector's Row.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the surface. Several reflective records are catalogued; this is the one that rises out of the floor, glows toward red near somebody holding something in, and gives back no face.
+- **Record detail:** Check the designation before approach. More than one Row record involves anger, and they want opposite handling — this one is not to be calmed.
+- **Containment detail:** Containment holds the object, not the suppression. The Mirror rises in a sealed and empty chamber whenever the sector writes anger up as temperament, and the containment reading is the height mark on the wall rather than the state of the door.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-801

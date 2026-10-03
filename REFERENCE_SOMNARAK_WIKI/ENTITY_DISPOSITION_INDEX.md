@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **43** |
-| Pending — no disposition-bearing line found by scan | 260 |
+| **Classified here, with a quoted line of evidence** | **44** |
+| Pending — no disposition-bearing line found by scan | 259 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 43 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 44 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 260 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 259 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -77,6 +77,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Echo Compass | `SE-C-IIIβ-016` | *"A successful cycle quiets the needle for a shift. The entity is unchanged by this, and the next operative will see their own heading."* |
 | Survivors' Breath | `SE-O-IVδ-895` | *"A completed cycle settles the Sigh around the worker and quiets it for a time. Nothing is resolved by this."* |
 | Crucible | `SE-C-IIIβ-275` | Resolution: *"Cool the anger through naming and controlled work."* A furnace that became conscious, and stayed in its forge. |
+| Mirror of Soaking | `SE-N-IIβ-801` | *"The Mirror rises in a sealed and empty chamber whenever the sector writes anger up as temperament."* It responds to F01's conduct notes and affects no other containment; the cost is to the facility's paperwork and to the people described in it. |
 | Labyrinth of Stolen Faces | `SE-C-IVγ-180` | *"It rearranges whenever anybody inside remembers anything, including personnel who entered to check the seals."* The hazard is confined to people who go in; it reaches nothing outside its own entrance. |
 | Risus | `SE-C-Iα-150` | *"The requiem reaches one listener… a sound that arrives for one person at a time regardless of how many are standing in the Commons."* It collects laughter, including the facility's own, and affects no other containment. |
 | Friendless Bridge | `SE-N-IIβ-488` | *"It propagates through documents. The span extends into whatever ledger, roll or family record connects two people who have not spoken."* It spreads through F01's paperwork and through nothing else; the audit office logs sightings as a relationship finding, not a containment breach. |
