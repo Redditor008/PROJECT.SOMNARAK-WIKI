@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Shelter, account for personnel, and keep the channels running. Viderehan from the ring and Ferrehan under ballast are the only approaches; there is nothing here to confront or to comfort. |
 
 ### Operational Notes
 
-- The Storm is periodic and crosses all zones; it is not contained anywhere and is not expected to be.
-- Work reduces the severity of a passage. It does not prevent the next one, and the period has not shifted across the record.
-- Viderehan and Ferrehan are the valid approaches where the Storm is stationary enough to be worked at all.
-- There is no breach counter. The standing order during a passage is shelter and accounting for personnel, not containment.
-- Extraction is authorized apart from the work cycle and is never attempted during a passage.
+- Periodic, citywide, and uncontained by design. No structure the Directorate has built has ever held a wall off anything.
+- Work takes the edge off a passage and does nothing to the next one. The interval between walls is the same figure it was sixty years ago.
+- Viderehan is read from the observatory ring. Ferrehan is worked inside the perimeter on heavy ballast anchors, by crews who recite the pressure aloud.
+- No counter exists and none is possible. During a passage the order is shelter, roll-call and the discharge channels; containment is not among the options.
+- Extraction is separately authorised, taken from the crystalline rainfall after a wall clears, and never once during one.
 
 ## Combat Record
 ### Core Stat Line
@@ -66,7 +66,7 @@
 |---|---|
 | **Battle Length** | Long — 20 turns |
 | **Threat Role** | Major encounter |
-| **Coherence** | Sovereign (V) — Autonomous and destructive |
+| **Coherence** | Sovereign (V) — answers to nothing, forms on its own schedule, ends without transition |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Sorrow Storm's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is no clash under the wall. Crews work earthed and ballasted, call the ring pressure aloud at the quarter-hour, and log their own heart rates beside the dials so that dread and weight can be told apart.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge sorrow and shelter until the Storm passes**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - An unresolved encounter never simply ends; it transforms. Sorrow Storm executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
-**Physical Form:** A city-wide storm of concentrated Han, with black clouds, crystalline rain, and pressure that bends structures.
+**Physical Form:** A ceiling of compressed Han over the whole city: cloud dark enough to need lamps at noon, rain that falls as dark crystal and stains stone. **Pressure:** it bends walls out of true and makes every joint in every structure groan.
 
-**Notable Features:** It forms from unprocessed grief, agitates entities, and leaves the air temporarily clearer after passing.
+**Notable Features:** It does not add weight so much as multiply it — every other holding in the city grows harder to keep — and when it clears, the air is measurably lighter for a season.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
-- **Primary marker:** A city-wide storm of concentrated Han, with black clouds, crystalline rain, and pressure that bends structures.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Primary marker:** The ring pressure, days before anything is visible. By the time the wall can be seen it has been forming for most of a week.
+- **Position / movement:** It does not travel. It forms where the pressure has been falling and spreads along connected Han flows until it stops; the boundary is logged, never a position.
 - **Element signature:** Weight
 - **Registered location:** All zones — periodic phenomenon
 
@@ -115,20 +115,20 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A city-wide storm of concentrated Han, with black clouds, crystalline rain, and pressure that bends structures. |
+| **Form** | A static storm-wall across every zone at once, with crystal rain beneath it and a continuous structural groan under that. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Material / signature** | Weight. Lead-heavy air, wet stone, dark crystal underfoot, and the joints of the city complaining audibly in every district. |
+| **Distinctive markers** | Ring pressure, River gauge, boundary of the affected zone, and the number of other holdings that have begun to stir. |
+| **Identification** | Read the ring, not the sky. One station is no station; the false-clear taught that at a price the wall inscription still records. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Quarter-hour pressure across the full ring, the sounding line in the shaft, the boundary walked and marked, and the crews' own heart rates logged beside the dials.
 
 ## Origin
-- **Formation:** The Storm formed from sorrow accumulating beyond the city's ability to release it.
-- **The Sorrow:** The city's grief compressed into a destructive weather system.
-- **The Event:** Han built through years of suppressed mourning until it broke across every zone as a storm.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+- **Formation:** From grief that had no channel to go down, accumulating cycle on cycle until it rose.
+- **The Sorrow:** Not grief the city refused. Grief the city funded channels for and then made ineligible, four relationships at a time.
+- **The Event:** Years of undischarged Han rising past the vents until it formed a ceiling over every zone at once and stayed there.
+- **The People:** Everybody in the city who lost somebody the schedule of recognised loss does not list.
+- **Expanded origin context:** The Clear-Day Compact rests on one proposition the pressure tapes have never contradicted: grief that is discharged does not accumulate, and grief that accumulates becomes weather. The channels are real and they are generously funded — observances, counselling throughput, the night crews' testimony logs, the census readings at the grounds. Access to all of them runs through a schedule of recognised relationships, and the schedule lists four. The storm-wall is not made of the city's grief. It is made of the fraction of the city's grief that could not be put into a channel because the person who died was the wrong person to have loved.
 
 ## Behavior
 
@@ -138,16 +138,16 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Atmospheric storm phenomena cannot be emotionally engaged through Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Macro-environmental storm forces cannot be physically confronted through Pugnahan. | N/A |
-| **Viderehan** | Remote acoustic observation and barometric frequency monitoring from reinforced bunkers. | Stable |
-| **Ferrehan** | Direct physical endurance inside the storm perimeter under heavy ballast anchors. | Decrease |
+| **Viderehan** | Barometers in triplicate, gauge tapes running continuously, and the sounding line in the shaft, all read from the ring. Gauge holds. | Stable |
+| **Ferrehan** | Standing it out inside the perimeter on ballast anchors, earthed, calling figures aloud at intervals. It is the only thing that moves the gauge and it moves it a little. | Decrease |
 
 ### Storm Environmental Progression
 
 | Condition | Response | Gauge Change |
 |---|---|---|
-| **The Storm arrives** | Buildings crack and entities become agitated. | Increase |
-| **The Storm passes** | Devastation remains but ambient sorrow decreases. | Decrease |
-| **Caught in the Storm** | Personnel experience overwhelming grief and weight. | Severe |
+| **The Storm arrives** | Masonry cracks along existing lines and every other holding in the city becomes harder to keep. | Increase |
+| **The Storm passes** | The damage stays and the ambient weight drops sharply, for a season, measurably. | Decrease |
+| **Caught in the Storm** | Grief and physical weight together, sufficient to stop a crew where it stands. Casualties are recorded as exposure, not injury. | Severe |
 
 ### Operational Work Notes
 
@@ -158,10 +158,10 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 | Field | Detail |
 |---|---|
-| **Expansion Trigger** | Unprocessed city-wide sorrow. |
-| **Expansion Rate** | Rapid across connected Han flows. |
-| **Expansion Effect** | Structural damage, Fracture risk, and emotional overload. |
-| **Containment** | Acknowledge sorrow and shelter until the Storm passes. |
+| **Expansion Trigger** | Undischarged grief past the vents' capacity, measured as falling ring pressure over days. |
+| **Expansion Rate** | Rapid along connected Han flows; a wall reaches every zone within a watch of forming. |
+| **Expansion Effect** | Structural damage, mass Fracture risk, and the agitation of every other holding in the city. |
+| **Containment** | None available. Shelter, roll-call, keep the channels open, and wait it out. |
 
 
 
@@ -169,21 +169,21 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 The escalation pattern is specific to Sorrow Storm: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at All zones — periodic phenomenon, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Acknowledge sorrow and shelter until the Storm passes. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** confirm the fall across the ring, sound the sirens, shelter by floor, account for personnel by name, and keep every channel running through the passage. Nothing improvised has ever helped and two attempts are in the casualty record.
 
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Unprocessed city-wide sorrow. |
-| **Manifestation** | Subject-Weight|
-| **Primary effect** | Structural damage, Fracture risk, and emotional overload. |
-| **Duration / rate** | Rapid across connected Han flows. |
+| **Trigger** | Ring pressure falling below the standing minimum for three consecutive quarter-hours. |
+| **Manifestation** | Place-Weight |
+| **Primary effect** | Structural damage citywide, Fracture risk in the wards, and every contained holding pressing harder on its own containment. |
+| **Duration / rate** | Onset within a watch; duration from one night to nine days, and in the named season, weeks. |
 | **Risk** | Major (γ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Acknowledge sorrow and shelter until the Storm passes. |
+| **Management** | Shelter by floor, account for every person by name, maintain the discharge channels throughout, and resume in stages on the ring's word. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** ring pressure → first structural groan → boundary of the affected zone → personnel accounted for → duration → shelter and discharge. Confirm across the ring before any figure is reported upward; one station is no station.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -230,13 +230,13 @@ The escalation pattern is specific to Sorrow Storm: it is not a generic breach e
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat, and the bearer reads falling pressure as information rather than as dread, which is the only condition under which anybody works a wall and keeps thinking.
 
 **Ability:** Grants a minor boon tied to Sorrow Storm's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer moves a little slower.
 
-*Stigmas are granted at random by Sorrow Storm upon a successful work, not manufactured.*
+*Twenty-two charms exist, each struck from a barometer that failed on Storm duty. They are issued by the ring and not by the Directorate, and every one carries its instrument's final reading on the back.*
 
 ### M.A.W. Use Notes
 
@@ -257,11 +257,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The Storm follows major city-wide grief events.
-- It can cross the Veil temporarily.
-- Afterward, new Sorrow Entities may crystallize.
+- Walls follow citywide grief events, with a lag of days that the ring reads as falling pressure.
+- It crosses the Veil temporarily. Twice in the current record, both times briefly, both times logged by instrument rather than by sight.
+- New holdings crystallize in the months after a wall, reliably enough that the survey teams are rostered in advance.
 
-**Personnel Note:** *"It was mourning. I felt loss. The Storm did not attack the city; it released what the city had refused to carry openly."* — Researcher, R.D.
+**Personnel Note:** *"Four eighty-eight. I logged it at the quarter-hour with my hand shaking and the ring confirmed inside a minute. People talk about the sky being angry. It is not angry. It is a column of everything we were not entitled to put down, standing over us where we left it."* — Reader, pressure observatory ring
 
 
 
@@ -269,30 +269,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Sorrow Storm as an Object/Place with Place-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at All zones — periodic phenomenon. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. The Storm does not respond to. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Sorrow Storm's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Ring pressure at the quarter-hour, River gauge, sounding line, and the boundary as walked. |
+| **Sustained observation** | The standing minimum is returned each cycle and has fallen every time: 612, 547, 488 on the ring scale. The period between walls has not shifted at all. |
+| **Activation or escalation** | Three consecutive quarter-hours below the standing minimum. Sound and shelter on the numbers; do not wait for the sky to confirm them. |
+| **Post-contact review** | Tapes to the pressure archive whole, structural survey by district, roll-call reconciled by name, and the stirring of every other holding recorded for the same window. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** The ring, the River gauges, the sounding line, the crews' own pulses, and the Observance Office return on refused applications to set the minimum against.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sorrow Storm (C-Vγ-320 [D]) is logged as a Place-Weight manifestation expressing Weight. The Storm formed from sorrow accumulating beyond the city's ability to release it. Held at All zones — periodic phenomenon. The Storm follows major city-wide grief events.
+Sorrow Storm (C-Vγ-320 [D]) is logged as a Place-Weight manifestation expressing Weight, citywide and periodic. It is an accumulation rather than a presence: it forms where grief has gone undischarged, it multiplies the weight of everything else the city is holding, and its standing minimum is lower at every return. The Storm follows major city-wide grief events.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Pressure Observatory Ring, Year 4238>**
+Standing minimum 488 on the ring scale, after 547 and 612. Lower is worse. The reading is confirmed across the ring and against the River gauges before it is reported, by the rule the false-clear left behind. It can cross the Veil temporarily and has done so twice in the current record.
 It can cross the Veil temporarily.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Observance Office, schedule of recognised loss>**
+Access to the discharge channels follows the schedule: spouse, parent, child, sibling. No officer may extend it, abridge it, or inquire into any other relationship for the purpose of granting access.
 The city's grief compressed into a destructive weather system.
 
 **Entry 4 — <Containment Notice>**
-Afterward, new Sorrow Entities may crystallize.
+Management: shelter by floor, account for every person by name, keep the channels running through the passage, resume in stages on the ring's word, and roster the survey teams in advance — new holdings crystallize in the months after a wall.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+The archive keeps the walls by duration and tonnage and admits in the margin that the Storm keeps no records of its own. The Observance Office keeps better ones. Its annual return on applications refused for want of a listed relationship runs the length of the pressure tapes and declines in exactly the same direction, and the ring has read the two series side by side since the named season without ever being asked to.
 
 ## 최종 관찰 (Final Observation)
 
@@ -321,20 +323,20 @@ The sky darkens with no weather behind it. Han falls like black rain, and every 
 
 Sorrow Storm does not exist in isolation. Its recorded relationships with The Sorrow Tide, The Maw, The Grieving Colossus should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Ring pressure before, throughout and after, confirmed across all stations, with the other holding's own watch logging in parallel and neither crew reading the other's figures until both are filed.
 
 
 ### Entity Interaction Record
 
-Sorrow Storm must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Sorrow Storm must be assessed as an accumulation rather than a presence, and its pairings read accordingly: nothing here is an alliance, because the Storm is not a party to anything. The Tide, The Maw and the Colossus each alter what the city is holding, and what the city is holding is the whole of this entity.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Sorrow Tide** | The Tide can precede or intensify the Storm. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Maw** | The Maw's expansion may trigger a Storm. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Colossus** | Its tears join the Storm's rain. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Sorrow Tide** | A Tide running in the week before a wall deepens it: the minimum falls further and the passage runs longer. Eleven of the last fourteen walls followed a Tide. | Measurable worsening on both counts, every time. | The ring reads the Tide calendar as a forecasting input. It is the only predictive instrument the file has. |
+| **The Maw** | A Maw expansion is followed by a wall within the cycle in every recorded instance. The grief it produces has nowhere to go and the pressure records the fact within days. | Reliable precursor; the ring goes to continuous reading on any Maw report. | Log the interval between expansion and onset. It has shortened twice. |
+| **The Grieving Colossus** | It weeps through a passage and its water is found in the crystal rain afterwards, chemically distinct and in quantity. The Colossus's own gauge falls for weeks. | The only holding the archive records as being improved by a wall. | Sample the rainfall by district and report the distribution to the Colossus watch. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Continuous ring reading, parallel logs from both watches, boundary walked daily, and no pairing ever arranged deliberately — every entry in this table was observed, not scheduled.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -365,18 +367,18 @@ Some sorrows are gradual. Sorrow Storm is sudden — the accumulated suppressed 
 > *“The catastrophic release of what the Veil kept down.”* — Elder, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vγ-320 [D]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-Vγ-320 [D]` · City origin · Sovereign (V) coherence · Major (γ) potency · Weight · Place-Weight manifestation
 **Common Name:** Sorrow Storm
 **Containment Status:** Uncontained — citywide (periodic catastrophe)
-**Comprehension Level:** 5 — Sovereign
-**Threat Assessment:** Catastrophic (when it occurs). The Storm is the city’s suppressed grief breaking as weather. All entities breach; citizens Fracture en masse.
+**Comprehension Level:** 2 — Basic. The grade is low against a Sovereign because sixty years of instruments have produced a reliable warning and no mechanism whatever.
+**Threat Assessment:** Major (γ), with citywide consequence when a wall forms: structures damaged, Fracture in the wards, and every other holding pressing harder on its own containment at once.
 **Containment & Handling Procedures:**
-- Maintain mourning cycles to prevent accumulation.
-- When the Storm breaks, invoke emergency protocols.
-- The Storm is the failure of the Tide’s rhythm.
+- Keep the discharge channels running to capacity in clear weather. The tapes show the effect and the Compact is funded on it.
+- On three quarter-hours below the minimum: sirens, shelter by floor, roll-call by name, staged resumption on the ring's word.
+- It is not a failure of the Tide. It is the arithmetic of what the channels were never permitted to take.
 **Observation Notes:**
-- Han built through years of suppressed mourning, breaking as a storm.
-**Cross-References:** The Sorrow Tide · The Weeping · The Veil · The Consolihan
+- Years of grief outside the schedule of recognised loss, accumulating with nowhere to be put down.
+**Cross-References:** The Sorrow Tide · The Weeping · The Veil · The Consolihan · the pressure archive · the schedule of recognised loss · the Open Observance
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** The city itself; accumulated suppressed grief.
 
@@ -437,6 +439,24 @@ Between storms, the city keeps a compact with the sky — a standing program of 
 
 The siren practice is the compact's audible signature. On the first day of every cycle, at noon, every Storm siren in the city sounds once — a single tone, held, released — and every resident stops, faces the nearest shelter marker, and counts the seconds until the all-clear. Children learn the count before they learn the reason. Visitors are briefed at the gates. The practice serves readiness, of course, but the storm crews insist it serves something older: a demonstration, performed for the sky itself, that the city remembers the wall, maintains the channels, and stands ready. Whether the Storm attends the practice is unknowable. The pressure tapes show, with comforting regularity, a fractional easing in the days after each sounding — as if the sky, reminded that the city keeps its accounts, consents to wait a little longer before collecting.
 
+### The Schedule of Recognised Loss
+
+The Clear-Day Compact is the Directorate's best idea and the pressure tapes vindicate it: seasons of faithful discharge show lower peaks, shorter walls, longer clears. Everything the Compact describes is real. The observances are held, the counselling hours are funded past what the budget comfortably bears, the night crews' testimony logs are read, the census readings at the grounds are kept.
+
+Access to all of it runs through the schedule. Spouse, parent, child, sibling. Four relationships, and no officer may extend the list, abridge it, or inquire into any other connection for the purpose of granting access. The reason is in the Observance Office's first volume and it is not a bad one. Before the schedule, discharge was granted at an officer's discretion, and discretion meant the liked got three weeks and the disliked got a shift off, and what a man received for burying his wife depended on whether his foreman thought well of him. Grief leave became a patronage currency; two officers were dismissed for trading it and a third was never caught. A fixed list cannot be bargained with, cannot be withheld as punishment, and cannot be made to depend on whether anybody approves of you. Nobody who worked under the discretionary system wants it back.
+
+Its consequence is arithmetical and the Office does not dispute it. The friend of forty years is not on the list. The person you lived with and never married is not on the list. Her children are not on the list. The colleague who pulled you out of a flooded gallery is not on the list. The old woman you nursed for six years because there was nobody else is not on the list. Each of those losses is a grief with no channel to go down, and the Compact's own premise says precisely what happens to a grief with no channel: it does not disperse, it accumulates, and what accumulates rises. The ring has been reading the Office's refusal return alongside its own tapes since the named season. The two series decline together and nobody at the observatories regards that as a coincidence.
+
+### The Open Observance
+
+Instituted Year 4231, as an addition to the siren practice. After the all-clear, a second tone is sounded — lower, shorter, unmistakable. For the length of it, any person who is mourning anybody may stand where they are at the nearest shelter marker. They state nothing. They are not asked who, or how, or what the relationship was. The street counts, the count goes to the pressure archive, and nothing else happens at all.
+
+Year 4237: four soundings; 61,400 people stood; 0 names taken; 0 relationships recorded; 0 entitlements of any kind conferred; 4,477 applications refused in the same year for want of a listed relationship, which is the figure the ring sets the standing minimum against; and a fractional easing in the tapes in the days after each sounding, consistent since 4231 and still unexplained.
+
+The costs are stated at the foot of the practice notice, where the Office puts everything it cannot fix. Standing is public and the street has memories: a worker who stands is seen standing by their foreman, and the Office's own survey found 3,100 people who said they had wanted to stand and had not. The tone lasts under a minute. And the count is anonymous by design, which means it is useless as evidence — when the Directorate asked for a breakdown to support widening the schedule, the Office refused, because a breakdown is a list of mourners and their relationships and that is the discretionary system walking back in with a clipboard.
+
+The observatory readers made the application themselves, which is unusual for instrument staff and is recorded as such. They asked that the standing count be made admissible, in aggregate, as evidence for extending the schedule, on the straightforward ground that their own tapes already treat it as data. Refused, and the refusal holds: evidence must be examinable, an examinable count is a count that can be broken down, and a count that can be broken down ends with an officer deciding whose grief was real. The readers' submission is bound into the Year 4234 return, recorded as correct and unanswered, in the hand of a reader who had stood at a marker herself that noon. Its last line is quoted on the ring and nowhere else: the sky keeps accounts, and it collects in weather, and it has never once consulted the schedule.
+
 ### The Barometer Shrine
 
 The oldest pressure observatory keeps a shrine the engineers built without permission and the Directorate maintains without comment: a wall of retired barometers, every instrument that ever failed on Storm duty, mounted with its final reading preserved and its service record inscribed beneath. There are hundreds. Dials cracked by pressure past their stops. Needles bent against the pin. One famous instrument whose glass blew out during the named season and whose needle was never found — mounted empty, honored equally. New readers are brought to the shrine on their first day and told the rule the wall teaches: instruments die so that crews do not have to. Trust the ring, never the tower — and when the wall claims another dial, mount it with the others, inscribe what it taught, and requisition its replacement without grief. The shrine grows by a few instruments every season. The readers consider each addition a casualty survived rather than equipment lost, and they are right. Every dial on that wall died reading pressure no crew should have had to feel. The city stands under clear skies today because the shrine's dead measured the weight of every wall that ever pressed it.
@@ -456,8 +476,8 @@ The barometer shrine reserves one empty mount — finished wood, polished glass,
 
 - **Classification detail:** Sorrow Storm is an Object/Place with Sovereign (V) — Autonomous and destructive coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is All zones — periodic phenomenon.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A static ceiling of black cloud that is not weather, crystalline rain that stains stone, and a falling ring pressure that preceded all of it by days.
+- **Record detail:** The Registrum read Critical (δ) against a Major (γ) header and gave Comprehension Level 5 — Sovereign against 2 — Basic; the Detailed Activation Record gave the manifestation as Subject-Weight against Place-Weight everywhere else, and its cell was missing its closing pipe. The M.A.W. grade was blank against three γ pieces. Entry 5 carried an Architect's story belonging to another file. All corrected. The 488 figure is the ring scale, on which 1,000 is a clear day and lower is worse; the Sovereign Chronicle, the observatory doctrine and the Clear-Day Compact are untouched.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
