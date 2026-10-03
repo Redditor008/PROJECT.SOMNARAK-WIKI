@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **79** |
-| Pending — no disposition-bearing line found by scan | 224 |
+| **Classified here, with a quoted line of evidence** | **80** |
+| Pending — no disposition-bearing line found by scan | 223 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 79 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 80 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 224 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 223 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -65,6 +65,7 @@ Lethal to the people working them; inert toward everything else in the building.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| Aphonia | `SE-N-IIβ-170` | *"In forty-one years it has not struck anybody, not pursued anybody, and not left the ward it was first recorded in."* Breaches end when somebody speaks to it, never by suppression; the one joint observation was abandoned at eleven minutes with no transfer observed, and the proposal to amplify its cry through the Hollow Choir was refused twice. It neither suppresses other entities nor assists them. Neutral. |
 | Neglect Learned to Listen | `SE-N-IIβ-270` | *"The patch has spread for sixty-eight years at a rate that has never once accelerated during a session, and it has not injured anybody."* It cannot be brought near another holding, the Whispering Walls claim is unevidenced, and the one proposal involving another entity was refused. Its effect runs onto this facility's own restructuring schedules and reaches no other containment. Neutral. |
 | Clapperless | `SE-C-IIβ-340` | *"In sixty-four years the bell has not moved, not sounded, not been found altered against its opening drawing, and not injured anyone."* Its soundless resonance with the Orphaned Bell at forty metres moves neither instrument, and the one proposal to turn its passage effect against the sealed Sorrow Gate was refused because the bell takes no instruction. It helps nothing and opens nothing for anything else. Neutral. |
 | Miscast | `SE-C-Iα-779` | *"In fifty-one years the fragments have not left the mount volume, not struck anything, and not injured anybody."* Residue (I), Minor (α), drift confined to the mount; no pairing has ever been staged and the one proposal was refused to protect the optical series. Its effect runs onto this facility's own certification register and reaches no other holding. Neutral. |

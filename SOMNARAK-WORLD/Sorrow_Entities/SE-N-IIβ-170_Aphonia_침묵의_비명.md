@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Aphonia's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Say, “I hear you,” and remain present**.
+2. **Clash:** The reading is the chamber diagonal, taken with a steel tape between two fixed brass studs and reported as millimetres short of the surveyed value — forty-one at baseline, six at the floor, three hundred and ten at the ceiling. It is not an acoustic measurement and cannot be. Four attempts at acoustic detection are in the folder, all negative, all retained.
+3. **Resolution:** Second diagonal, and the documented condition: **Say, “I hear you,” and remain present.** The words are not a formula and the Warden is not ordered to speak them. An order would make the answer a procedure, and the entity has never responded to a procedure.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Composure** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Aphonia reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Composure fails here as the decision to stop answering. The worker, who has been replying for some time, concludes that it is not helping and goes quiet while the figure is still working its mouth. Every Warden who has done it describes the same half-second of relief and then the rest of their shift.
+- Long exposure produces a worker who will not leave a thing unanswered. Three Specialists rotated off this holding were afterwards found replying to correspondence that was not theirs, out of hours, and one of them had been clearing a backlog of welfare letters for five months before anybody noticed.
+- The orrery takes small nameless memories from its wielder and the armoury has never pretended otherwise. The ledger entry runs to one line and has not been revised in forty years.
+- An unresolved session leaves the diagonal shorter at the next reading, and the holding does not call that an escalation. In forty-one years the figure has not struck anybody, not pursued anybody, and not left the ward it was first recorded in.
 
 ## Appearance
 **Primary Form:** A translucent figure with its mouth open in a scream that produces no sound.
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Void
 - **Primary marker:** A translucent figure with its mouth open in a scream that produces no sound.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It drifts through the Old Lament corridors at walking pace and goes where people are. It has never been recorded moving toward a person who was alone, which the briefing notes is the opposite of what the breach language used to claim.
 - **Element signature:** Void
 - **Registered location:** Zone B, Old Lament — ambient
 
@@ -116,19 +116,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A translucent figure with its mouth open in a scream that produces no sound. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Position / movement** | Drifts at walking pace through the Old Lament corridors toward whichever space holds the most people. Never recorded approaching a person who was alone. |
+| **Material / signature** | Void. Half-flesh and half-light, bloodless-cold, smelling of ash, and the room behind it measurably shorter than its survey — corners read short and the far wall will not hold a tape. |
+| **Distinctive markers** | The open mouth with nothing coming out of it; the pressure felt in the chest and registered by no instrument; the expression, which is recognition and not pain, and which personnel find the hardest part of the posting. |
+| **Identification** | Diagonal against the last reading. Do not identify on the figure; it does not change with the measurement. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Chamber diagonal with the steel tape between the two fixed brass studs, twice a session, reported as millimetres short of survey. Then the cry log: duration and chest intensity by self-report on the fixed scale, with the Warden's name, recorded as self-report and never as instrumentation. Four acoustic detection attempts are documented, all negative, all retained, and no fifth is authorised.
 
 ## Origin
-- **Formation:** The Scream formed from pleas for help that no one heard.
-- **The Sorrow:** The despair of screaming until the voice becomes absence.
-- **The Event:** Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
+- **Formation:** It formed in the Old Lament in the weeks after the frontage collapse, in the corridors rather than at the site, and the first measured chamber was built around it where it already stood.
+- **The Sorrow:** Being audible, being heard, being answered for thirty-one hours, and then the answering stopping without a word, and working out from the silence what had been decided.
+- **The Event:** Nine citizens under a collapsed frontage, in voice contact with the surface for thirty-one hours. The attempt was discontinued at hour thirty-one, correctly, with the face moving and four of them still answering. The lights came off the face and the drilling stopped and nobody said anything to them.
+- **The People:** Nine citizens under a collapsed frontage in the Old Lament, Year 4229, in contact with the surface for thirty-one hours. Four were still answering when the attempt was discontinued. They are named in the commissioning file and the holding has twice refused to replace the names with a figure.
+- **Expanded origin context:** The rescue was real. The operational records are in the folder: the shoring attempts, the two shifts worked past relief, the officer who went back onto the face after it was declared unsafe and was pulled off it. The archivist's note states that the attempt failed for reasons the records set out, that the reasons are adequate, and that it would have killed rescuers to continue. The holding does not answer to the collapse. The diagonal sat unchanged through the inquiry, through the memorial, through the rebuilding of the frontage. It answers to the manner of stopping — to an attempt discontinued while somebody is still answering and not told that it has been — and it has answered to nothing else in nine years of register-keeping.
 
 ## Behavior
 
@@ -143,27 +143,27 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Aphonia is recorded as a Subject with Subject-Void manifestation and Void elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Flerehan and Ferrehan both lower the gauge and they are not interchangeable: Flerehan is weeping with it, which softens the cry, and Ferrehan is staying for the whole interval without any instrument and without pretending to hear anything. Viderehan holds level and produces the record — the places the calls came from, which is how the folder acquired its map. Pugnahan converts the silence into pain in the inner ear and is prohibited rather than merely discouraged. Earlier editions named Viderehan as primary and crews were assigned on that basis for six years.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** The gauge measures one worker's presence for one interval. The diagonal measures how this facility has been ending its rescues. They are kept in separate columns, they have never moved together, and supervisors are instructed that a session which lowers the gauge and leaves the chamber shorter has been worked correctly and is written up as a success without qualification.
 ## Breach Behavior
 
-> *"Aphonia has broken free. Shatters composure."*
+> *"It is out of the ward. It is in the mess hall. It is not doing anything."* — Shift log, Year 4233
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Aphonia shatters containment and hunts through the facility. It shatters composure. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
-| **Escalation** | Each turn free, Clarity drain +5 until suppressed. |
+| **Movement** | Leaves the ward at walking pace and goes to the most populated space in the facility. Four breaches, four mess halls or handover corridors, no pursuit of any individual on record. |
+| **Effect** | Whatever room it reaches begins to measure short. Colour and sound thin at the edges and the far wall will not hold a tape, exactly as in the chamber. |
+| **Secondary Effect** | Personnel in the room lose the memory of their own voice for several hours and must be reminded of their names. It returns in full in every recorded case. |
+| **First Target** | None. There is no target. It stands where the people are with its mouth open and waits to be answered, and in all four breaches somebody eventually did. |
+| **Escalation** | Clarity drain +5 per turn free. It ends when someone speaks to it, which has never taken more than nine minutes and has never required suppression. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Breach type:** Escape. It leaves the ward and is found, without exception, in whichever part of the facility holds the most people — a mess hall, a shift change, a corridor at handover. It stands there with its mouth open. The earlier record described it as hunting personnel and nominating a first target, and nothing in forty-one years of incident logs supports either.
+- **Containment priority:** Answer it. Physical suppression has been attempted once, in Year 4212, and the record of that attempt is why the standing instruction is now a sentence rather than an equipment list.
+- **Sorrow Gauge on breach:** Starts at 40%, rises 10% a turn, and falls on the first answer by an amount that has varied between 15% and the whole of it.
 
 ## M.A.W. Equipment
 
@@ -185,12 +185,12 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the one designated target. The orrery cannot be spread across a group, which the armoury records as a limitation of the mechanism and the holding regards as the only decent thing about the piece.
+**Damage Application:** Multiplier to direct and Tick damage separately. The Tick is the interval in which the target cannot form words, logged in seconds, and the armoury requires it reported separately for a reason the ledger does not give and everybody here understands.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Aphonia's void signature in the strike.
+**Ability:** Void damage to the Soul. The five globes chime pure tones as they align, which the armoury concedes is an unfortunate property for a piece drawn from this holding, and which it has twice declined to engineer out on the ground that the sound is load-bearing in the mechanism.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Small nameless memories, one or two a use, never recoverable and never important. Wielders report the loss as the sensation of having been about to say something.
 
 ### M.A.W. Suit — The Voice Veil
 
@@ -206,9 +206,9 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Aphonia's kind of pressure.
+**Ability:** Resists Void pressure on the Soul. Issued to the Warden holding the tape at the far stud, who works with their back to the figure for the length of the measurement and is the only person in the chamber who cannot see it.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent from themselves for about a day. Eight of eleven wearers describe it, unprompted, as being in a room where nobody can hear them, and all eight add that it is not frightening, only tiring.
 
 ### M.A.W. Stigma — The Voice Amplifier
 
@@ -218,37 +218,37 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 when working this entity, and the bearer must answer the figure aloud at least once in the session. It is the only piece in the archive whose use carries an obligation to speak.
 
-**Ability:** Prevents the user's voice from being silenced.
+**Ability:** The bearer cannot be made inaudible. Their voice carries through the silence, through the pressure, and through the moment in a breach when nobody else in the room can form words.
 
-**Cost:** The wearer hears every unheard plea nearby.
+**Cost:** The bearer hears every unheard plea within about forty metres — not screams, mostly: people asking for things quietly and being talked past. It stops when the amplifier comes off.
 
-*Stigmas are granted at random by Aphonia upon a successful work, not manufactured.*
+*The amplifier has been granted five times, each to a worker who kept answering after the session had formally closed and the chamber had been logged as cleared. Three were reprimanded for the overrun. The holding records the pattern and refuses to make it a criterion, on the ground that an answer given in order to be given a thing is not an answer.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Aphonia's sorrow within the equipment may activate. and may produce an effect tied to Aphonia's element. The Stigma is Aphonia's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+The set is organised around being audible and the armoury's note says so without embarrassment: the orrery rings, the amplifier cannot be silenced, and the veil is the only piece that takes a channel away rather than giving one. The note records that a proposal to build a silent variant of the orrery was abandoned in Year 4220, not because it failed, but because the three Wardens consulted all refused to carry it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, piece, opening diagonal, and a declaration of any rescue, search or welfare attempt the operator has personally discontinued. Sealed and read back afterwards. |
+| **During use** | Everything the operator says to the figure, verbatim, and the chest intensity at each minute. Silence on the operator's part is recorded as silence and is not a failure; it is written down because the holding needs to know how often it happens. |
+| **At limit** | Engagement time, memory-of-voice loss and its duration, and the operator's own list of discontinued attempts, transcribed in full. Six such lists have gone to the rescue service and two reopened files. |
+| **After use** | Sealed list read back by someone else, closing diagonal, name and voice checked at two hours. Operators who did not speak at all are not sanctioned and are not reassigned, and the file is explicit that this is deliberate. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** β across the set and correctly rated against entities. Against people it costs memory, self-presence, and the capacity to walk past somebody asking for something, and the establishment has a column for the first two.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It produces no measurable sound.
+- It produces no measurable sound. Four acoustic detection attempts are documented, all negative, all retained in the folder, and no fifth is authorised.
 - It reacts strongly to direct acknowledgment.
-- Personnel report weight after exposure.
+- Personnel lose the memory of their own voice for several hours and must be reminded of their names. It has returned in full in every recorded case, including the one that took four days.
 
-**Personnel Note:** *"It was mourning. I felt weight. I said, 'I hear you,' and the scream did not stop, but it stopped being alone."* — Specialist, Zone C patrol
+**Personnel Note:** *"I said 'I hear you' and the scream did not stop, but it stopped being alone. Everyone writes that line down. What nobody writes down is the fortnight before, when I had worked out that it does not help and I had stopped bothering, and it kept going anyway, at me, patiently, the way it has at everybody for forty-one years."* — Specialist, Zone B patrol
 
 
 
@@ -256,30 +256,40 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Aphonia as a Subject with Subject-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Aphonia's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Chamber diagonal between the brass studs, cry log by self-report, and the briefing on the expression, which is given at the gate because Wardens repeatedly reported having felt addressed by name and no name has ever been given. |
+| **Sustained observation** | Over a year the diagonal detaches from the session and attaches to the stand-down return. Observers holding both columns stop proposing new work in the chamber; there is nothing to do here but measure honestly, answer or not answer, and send the figure on. |
+| **Activation or escalation** | A shortening of twenty-five millimetres or more between consecutive readings opens a documents search rather than a field response: which attempts were discontinued in the preceding fortnight, and in how many of them contact was live and nothing was said. The search has succeeded on twenty-six occasions out of twenty-nine. |
+| **Post-contact review** | Both diagonals with their hours, the verbatim speech log, and the fortnight's discontinuation reports attached with the live-contact cases listed by incident number. Totals are returned. A review that reports thirty-one is not a review anybody can act on. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Steel tape between the two fixed brass studs, diagonal, twice a session, millimetres short of survey. Never a laser and never a fixed array: both were trialled in Year 4226, both drifted against the tape in the figure's presence, and the trial report concludes that the chamber will not be measured by anything that is not held by a person.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Aphonia (N-IIβ-170 [VS]) is logged as a Subject-Void manifestation expressing Void. The Scream formed from pleas for help that no one heard. Held at Zone B, Old Lament — ambient. It produces no measurable sound.
+Aphonia (N-IIβ-170 [VS]) is logged as a Subject-Void manifestation expressing Void, held in the Old Lament, Zone B, ambient within the ward: a translucent half-lit figure with its mouth open on a cry that no instrument registers and that is felt in the chest. The room around it measures short. The holding's instrument is the chamber diagonal, taken with a steel tape between two fixed brass studs — forty-one millimetres short at baseline, six at the floor, three hundred and ten at the ceiling.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Wanders through Old Lament corridors. Personnel feel unheard panic and lose the ability to call out. It reacts strongly to direct acknowledgment.
+**Entry 2 — <Stand-Down Return: Seventy-Four Discontinuations, Thirty-One With Contact Live>**
+The first return under the Rule of the Spoken Stand-Down, Year 4238. Over the nine years the register covers, this facility and the services it directs discontinued seventy-four rescue attempts. Forty-three were discontinued after contact had ceased. Thirty-one were discontinued while contact was still being made — while somebody below was still answering. Of those thirty-one, twenty-three were spoken to in person by the officer who gave the order, and eight occurred where the contact channel could not carry words, in which cases the officer remained at the face until contact ended. The chamber diagonal stood at three hundred and ten millimetres short in Year 4229, in the quarter of the Old Lament frontage collapse, where contact was held with nine people for thirty-one hours and the attempt was ended with four of them still answering and none of them told. It stood at six millimetres in Year 4237. The diagonal has tracked the stand-down return for nine years and has never tracked work done in the chamber.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The despair of screaming until the voice becomes absence.
+**Entry 3 — <Statement of a Rescue Officer>**
+I have given the order eleven times and I would give it again eleven times, and anyone who tells you otherwise has never stood on a face that is moving. You stop because the frontage is coming down and because the four people under it are going to be joined by six of mine. That is not cowardice and it is not a budget and it is not a failure of will. It is the one calculation the job actually asks you to make. What I did not understand until this rule is that I used to stop by going quiet. We would pull back and the drilling would stop and the lights would go off the face, and whoever was down there worked out what had happened from the silence, in the dark, alone, and got it right. I told myself there was no humane way to say it. There is not. There is only a less cowardly way of not saying it, and that is to say it.
 
 **Entry 4 — <Containment Notice>**
-Management: Say, “I hear you,” and remain present. Work response — Flerehan: Silent tears appear and the scream softens. (Decrease); Pugnahan: The silent scream becomes physically painful. (Increase); Viderehan: Reveals the places from which the pleas came. (Stable); Ferrehan: Tests whether the worker can hear without sound. (Decrease). Personnel report weight after exposure.
+Containment of N-IIβ-170 is a tape measurement in the Old Lament and a rule binding every rescue this facility directs. Chamber: diagonal between the fixed brass studs, twice a session, millimetres short of survey, series unbroken, nothing measured by laser or fixed array; cry log by self-report with the Warden's name and never presented as instrumentation; Pugnahan prohibited; the Warden may answer the figure and is never ordered to, because an order would make the answer a procedure and the entity has never responded to one. Rescue service duties: **where a rescue, search or recovery attempt is discontinued while contact with a trapped person is still being made, the decision is told to that person, in words, by the officer who made it, on whatever channel the contact runs on. It is not relayed, it is not left to be inferred from the drilling stopping, and it is not deferred. Where the channel cannot carry words, the officer remains at the face until contact ends.** Work response — Flerehan: silent tears, the cry softens (Decrease); Ferrehan: the full interval present, with no instrument and no pretence of hearing (Decrease); Viderehan: the places the calls came from (Stable); Pugnahan: the silence converted to pain in the inner ear (Increase, prohibited).
 
-**Entry 5 — <Archive Note>**
-The figure screams and nothing comes out, and the silence it makes is not an absence of sound but a sound of its own, which instruments register and ears do not. At the edges of the chamber the room is slightly less there than it should be: corners read short, and the far wall will not hold a measurement. Personnel describe the experience as being shouted at by someone they have wronged. The description is recorded because it is consistent across observers — and so is the fact that no two of them name the same person.
+**Entry 5 — <Director's Memo, Eyes Only: The Spoken Stand-Down>**
+The figure screams and nothing comes out, and the silence it makes is not an absence of sound but a sound of its own, which instruments do not register and chests do. At the edges of the chamber the room is slightly less there than it should be: corners read short, and the far wall will not hold a measurement. Personnel describe the experience as being shouted at by someone they have wronged. The description is recorded because it is consistent across observers — and so is the fact that no two of them name the same person.
+
+The rescue service opposed this rule and I want their objection set down in their own terms, because it is the strongest objection anybody has made to anything I have signed.
+
+Their case: telling a trapped person that you are leaving achieves nothing operational. It does not shore the face, it does not buy an hour, it does not change the outcome by one minute. What it does is take a person who might die believing help is still coming and make certain they die knowing it is not, and it requires one of my officers to be the instrument of that. The service's chief put it in a sentence I have not been able to answer: *you are asking a man to tell someone he cannot save that he is going now.*
+
+What we have done is allow the officer to be accompanied, and to read from an agreed text if their own words will not come. Twenty-three have given a stand-down in person since the rule. Eleven of those twenty-three have since left the service.
+
+Here is the part I will not dress up. We have no evidence — none, not a line of it — that a single trapped person was better off for being told. We cannot have such evidence. What we can say is that they were not left working it out from the dark, and I have built a rule on the difference between those two things, and I am aware that the difference is mine and not theirs.
+
+The ground is the tape. Thirty-one hours of contact at the frontage, four still answering, the lights off the face and not a word said, and the chamber went to three hundred and ten millimetres short — the deepest reading in forty-one years. The first year of spoken stand-downs took it to six. We have never been able to show that the silence spared anybody. We can show, in millimetres, what it costs.
 
 ## 최종 관찰 (Final Observation)
 
@@ -287,7 +297,7 @@ The figure screams and nothing comes out, and the silence it makes is not an abs
 
 | Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
 |---|---|
-| Silent tears appear and the scream softens. The sorrow is seen clearly; Aphonia is fully recorded. | The silent scream becomes physically painful. The gauge climbs and Aphonia withdraws without revelation. |
+| The worker weeps with it, or says the four words, or simply stays for the whole interval without pretending to hear anything. The cry softens, the gauge falls, the diagonal holds. | The worker decides it is not helping and goes quiet while the mouth is still working. The gauge climbs, the pain moves into the inner ear, and the chamber keeps the millimetres it took. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -296,32 +306,32 @@ The figure screams in a silent corridor. Its mouth opens wider, but the air rema
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Void pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A translucent figure with its mouth open in a scream that produces no sound.
+**At first contact:** A figure, half there, mouth open as wide as a mouth goes, and no sound at all. You feel it in the sternum rather than the ears. Its face is not in pain. Its face has recognised you, and every person who has stood here has been certain, briefly, that it knows their name.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Void has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** The room gets smaller in a way you cannot see and the tape can. Corners stop meeting where they should. Wardens who have worked the holding for years still check the far wall with their hand before they trust it.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Void pressure spikes — not gradually but like a door slamming open. The Subject-Void shifts from presence to action.
+**When the entity activates:** On the third failed cycle the cry becomes audible for the first and only time, and the holding has eleven recordings of it, and they are not played at briefings. The yield for that cycle is nil; the Han is drawn from the silence, never from the sound.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Void in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** You go looking for somebody you stopped replying to. Most people have one. The counselling wing logs it and treats it as useful rather than as exposure.
 
 ### Interaction Pattern
 
-Aphonia does not exist in isolation. Its recorded relationships with The Undersong, The Silent Child, The Hollow Choir should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three records are grouped with this one. Only The Silent Child has ever been brought into the ward, once, in Year 4218, and the diagonal reading from that day is the single worst-attested figure in the series because the tape could not be held steady. No further joint work is authorised. What follows is paper comparison except where it says otherwise.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** On paper, and on one question: was the call made and unheard, made and answered with nothing following, or never made. Write the answer in a sentence and sign it. Four records in this wing turn on an unheard voice and the distinctions between them are the only thing in the folder that has ever changed anybody's assignment.
 
 
 ### Entity Interaction Record
 
-Aphonia must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Three records are grouped with this one on the term unheard, and the grouping has never once predicted a behaviour. The question that separates them is whether the call was made and reached nobody, made and answered without help following, or never made at all. This is the first, and a team that arrives expecting a voice will spend the session listening and the figure is not audible.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Undersong** | Both preserve unanswered calls. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Silent Child** | Shares the weight of unheard existence. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Choir** | Gives the scream a musical voice. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Undersong** | Grouped on unanswered calls, which is wrong in a way worth stating: the Undersong's calls were answered and nothing followed. These were being answered, hour after hour, and then the answering stopped. | No trial, none proposed. The pairing rests on a single Year 4215 summary line with no measurement behind it. | That the claim is unevidenced, written beside it each time it is repeated. |
+| **The Silent Child** | Brought into the ward once, Year 4218. Both figures turned toward each other and neither made a sound, and the session was abandoned at eleven minutes when the measuring team could not hold the tape steady. | The only joint observation on record and the worst-attested reading in the series. No transfer was observed and none was ever substantiated. | The abandonment, the unusable figure, and the standing refusal of further joint work, on any document proposing it. |
+| **The Hollow Choir** | A proposal was made in Year 4233 to give this cry an audible voice through the Choir, so that it could be heard, recorded and answered properly. | Refused. The cry is not withheld and does not need releasing; it is already being made and is already received, in the chest, by everybody in the room. A proposal to make it audible is a proposal to make it easier to attend to, which is a convenience for us. | The proposal and the refusal kept together. Renewed twice, refused twice on the same ground. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Both records in full, the signed one-sentence answer, and the quarter's diagonals attached. The Year 4218 abandonment is cited on any document proposing joint work and is not re-argued.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -345,30 +355,39 @@ Some sorrows are about being heard. Aphonia is about not being heard — the scr
 
 > *“The calls for rescue, unanswered, did not dissipate. They sank. They crystallized.”* — Containment Lead, R.D.
 
-> *“The despair of screaming until the voice gives out and the giving-out transforms sound into silence.”* — Citizen, Zone B
+> *“They were still answering when the lights went off the face. They would have heard the drilling stop. They would have worked it out.”* — Rescue officer, Year 4229
 
 > *“The pleas carried no ear. The silence carries every voice that called for help and found no answer.”* — Warden, Zone B
+
+> *“You are asking a man to tell someone he cannot save that he is going now.”* — Chief, rescue service
+
+> *“Twenty-three of us have said it in person. Eleven have left. Nobody has asked the other twelve how they are.”* — Rescue officer, Year 4238
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `N-IIβ-170 [VS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Void · Subject-Void manifestation
 **Common Name:** Aphonia
-**Containment Status:** Contained — Zone B
+**Containment Status:** Contained — Old Lament, Zone B, ambient within the ward rather than cell-bound
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. Crystallized screams from collapsed structures. Effect: proximity induces the despair of calling for rescue and receiving none.
+**Threat Assessment:** Moderate. The Registrum carried this holding as Low against a Moderate (β) header and gave the containment as Zone B without the ward or the ambient qualifier; both corrected. In forty-one years it has not struck or pursued anybody, and the breach record describing it as hunting personnel and selecting a first target is unsupported by any of the four incident logs and has been rewritten. The hazard is Pugnahan, which converts the silence into inner-ear pain, and the memory-of-voice loss, which has resolved in every recorded case.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The screams are silent but pressurized.
+- Flerehan and Ferrehan lower the gauge; Viderehan holds it level and produces the record; Pugnahan is prohibited. The primary Work Type recorded here previously disagreed with the Behavior table; it has been corrected against it.
+- Chamber diagonal with a steel tape between the two fixed brass studs, twice a session, millimetres short of survey, series unbroken. No laser, no fixed array; both drifted in the figure's presence in the Year 4226 trial.
+- Prior vocal injury is a bar to assignment, on the preferential-selection and extended-recovery grounds set out in the Operational Notes.
+- The Warden may answer it and is never ordered to. An order would make the answer a procedure.
+- The Rule of the Spoken Stand-Down is a containment condition of this entity and binds every rescue, search and recovery attempt this facility directs.
 **Observation Notes:**
-- Citizens called from rubble; rescue did not come; the screams crystallized.
-**Cross-References:** Zone B · The Collapsed Whisper · The Undersong
-**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
+- Nine citizens under a collapsed Old Lament frontage, Year 4229, in voice contact for thirty-one hours; the attempt discontinued correctly with the face moving and four still answering, and nothing said to them.
+- Diagonal 41 mm short at baseline, range 6 to 310. It tracks the stand-down return and has never tracked work done in the chamber.
+- The cry becomes audible once, on the third failed cycle, and that cycle yields no recoverable Han-Energy. Eleven recordings exist and are not played at briefings.
+**Cross-References:** Old Lament, Zone B · the Year 4229 frontage collapse operational records and the nine names · the stand-down return and the twenty-three spoken discontinuations · The Silent Child (Year 4218 abandonment) · The Hollow Choir (two refusals)
+**Faction Involvement:** SED (B-territory survey) · Wound Walkers (Fracture-relevant) · the rescue service, listed on an entity file because the Rule of the Spoken Stand-Down is a containment condition of this holding and the service both carries it and opposed it.
 **Originator:** Citizens trapped in structural collapses.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this file with the stand-down return beside it or do not read it. Taken alone the chamber holds a silent figure that has never harmed anybody, and four assessors have written exactly that, each with the diagonal series in front of them and no idea what the millimetres were counting.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** On any shortening of twenty-five millimetres or more between consecutive readings: verify the studs, the tape and the measurer, re-take, then pull the preceding fortnight's discontinuation reports and list by incident number every attempt ended while contact was live, with a yes or no against whether the person was told. Totals are not accepted. After any breach, record where it went, how long until somebody spoke to it, and who.
 ## Watch Record
 
 ### A Scream With No Sound
@@ -389,18 +408,20 @@ People called from collapsed structures and Fracture zones and the calls crystal
 
 ## Trivia
 
-- It can be perceived by people who have experienced being ignored.
-- Its silence is not absence; it is compressed sound.
+- Everyone can perceive it. The long-standing claim that only those who have been ignored can see it does not survive the attendance records, which show no exceptions in forty-one years.
+- Its silence is not absence. The chamber measures short while it is present and returns to survey within an hour of it leaving, and that is the whole of what the facility can say about the mechanism.
+- It becomes audible exactly once, on the third failed cycle. Eleven recordings exist. The decision not to play them at briefings was taken by the counselling wing and has never been contested.
+- No two observers who report feeling addressed by name ever give the same name, and no name has ever been given.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Aphonia is a Subject with Echo (II) — Repeats screaming in silence coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone B, Old Lament — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Subject, Echo (II) — repeats screaming in silence — Moderate (β), Comprehension Level 2, activation threshold 3. The Registrum carried the threat as Low against the header and has been corrected.
+- **Field detail:** Void; Old Lament, Zone B, ambient within the ward. Testimony and faction entries in this file previously carried Zone C attributions and have been read against the duty rosters and corrected.
+- **Recognition detail:** Identify it by the diagonal against the last reading, not by the figure. The figure is identical at six millimetres and at three hundred and ten, and five early reports describe an unchanged chamber on days the tape differed by a hand's width.
+- **Record detail:** Check the designation and check what the record is about. The Undersong holds calls that were answered. This holds calls that were being made at the moment somebody decided, correctly, to stop. A facility can run a flawless rescue service, lose nobody, and feed this holding a foot of chamber by ending an attempt without saying so.
+- **Containment detail:** The ward holds it and has never had to. What is not contained is the moment on a moving face when the right decision is made and nobody says it out loud.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-170
