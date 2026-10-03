@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **111** |
-| Pending — no disposition-bearing line found by scan | 192 |
+| **Classified here, with a quoted line of evidence** | **112** |
+| Pending — no disposition-bearing line found by scan | 191 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 111 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 112 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 192 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 191 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -116,6 +116,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Double Mouth | `SE-C-IIβ-716` | Neutral | No physical contact in twenty years of record, in containment or in breach; it spreads into Commons conversation and touches no one. It neither suppresses nor assists: four proximities with The Broken Whisper transferred nothing and left the burning share at 59–62, the Whispering Gallery amplified both tones without altering the count or adding content, and the single Iron Judge trial — whose demand for evidence functions as contradiction — drove the share to 94 and was discontinued, with no effect on the Judge. Harm to F01 is listeners finishing its half-heard phrases and lodging accurate unprovable complaints across the sector. |
 | Carrying Nothing | `SE-C-IIβ-357` | Neutral | Motionless until approached and has never pursued anybody; in both escapes it took up position beside other sealed records and stood exactly as it stands in the vault. It neither suppresses nor assists: two proximities with The Memory Lock produced no resonance and are entered as a nil result, three with The Empty Mask produced no compounding of either instrument, and the single Memory Well trial — authorised specifically to see whether the Well could return any item from the sealing schedule — produced nothing at all. Harm to F01 is accurate wrongness in its own Wardens and, after a breach, whole wings comparing schedules and finding real removals they can do nothing about. |
 | Crucible | `SE-C-IIIβ-275` | Neutral | A fixed Place that has attacked nobody; its harms are structural — a cold floor at 74 °C and rising, two wall events, burns to channellers, and objects made unattended from material a shift left behind. It neither suppresses nor assists: four proximities with The Soaking Shadow produced no transfer in either direction and are entered as a nil result against the old claim that the Shadow feeds on it, three with The Broken Promise produced nothing on the anvil, and the two supervised Architect sessions each produced an unordered second object from offcuts, which suspended authorised use. |
+| Pall | `SE-C-IIβ-280` | Neutral | Dulls colour and sound through a growing volume (180→310 m³) and flattens affect in personnel working near it; has injured nobody and suppresses no other entity. Dulling does not reach another holding's extent and no containment of any other SE depends on it. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
