@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **104** |
-| Pending — no disposition-bearing line found by scan | 199 |
+| **Classified here, with a quoted line of evidence** | **105** |
+| Pending — no disposition-bearing line found by scan | 198 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 104 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 105 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 199 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 198 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -109,6 +109,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Vanity Asleep | `SE-N-IIIγ-954` | Neutral | Stationary, asleep, and never woken: it has never approached, touched or injured anybody, and both corrupt events ended in speech with no suppression. It neither suppresses nor assists other entities — the Broken Mirror proximity produced the book's only nil displacement, the Frozen Veil only flattened the tone of three reports, and the Forgotten Silence arrivals had no operational effect. Harm to F01 is confined to the watch's own certainty that something unwritten is held about them. |
 | Harbinger | `SE-N-IIIβ-155` | Neutral | Has never made contact, spoken, or been observed to act in any watch book; the distance is held by the entity and closes without ever reaching the subject. Three studies looking for an effect on neighbouring holdings — faster gauges, more frequent breaches, degraded containment — all returned nil, and the Debt Eater test showed it indifferent to the extinction of the obligation itself. Harm to F01 is social: an obligation made legible to a whole room except its subject. |
 | Deteriorata | `SE-C-IVγ-130` | Neutral | Kneels, sheds, and resists nothing; it has never pursued or struck a worker, and even in its two escapes it walked and knelt where it stopped. It neither suppresses nor assists other entities — no transfer to the Grieving Colossus in two proximities, no interaction with the Cracked Hourglass in three, and the Kind Healer's two attempts changed the gauge without touching the field. Harm to F01 is structural load and saint-drift among its own watch. |
+| Cold Burn | `SE-C-IVδ-505` | Neutral | Walks a fixed round and builds toward what it guards; it has never pursued a worker who kept looking at it, and both escapes ended in the same rounds performed elsewhere. It neither suppresses nor assists: the Guarding Bird's boundary formed normally beside it, three proximities with the Hollow Knight produced no transfer, and the single Empty Mask trial left the shift log untouched. Harm to F01 is cold-reading burns on its own watch and uninstructed personnel drifting into checks nobody assigned them. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
