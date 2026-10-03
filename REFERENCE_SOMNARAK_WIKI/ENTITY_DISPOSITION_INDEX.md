@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **164** |
-| Pending — no disposition-bearing line found by scan | 139 |
+| **Classified here, with a quoted line of evidence** | **165** |
+| Pending — no disposition-bearing line found by scan | 138 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 164 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 165 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 139 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 138 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -165,6 +165,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Memory Thief | `SE-N-IIIβ-077` | Breach `First Target`: *"Nobody in particular. Everyone on its path loses something small; people two metres off the path lose nothing."* It has never injured, pursued or resisted anybody in 318 confirmed losses, and it reaches no seal; the Memory Weaver refuses to trade with it and the Forgotten Soldier transit stopped it dead. It costs F01 small memories, roster time and 41 Echoes of correctly computed compensation while assisting no entity. Neutral. |
 | The Wrath Flame | `SE-O-IIIβ-120` | Breach `First Target`: *"Whoever showed contempt. Not the nearest, not the newest, and not the one who gave the order — the one who made the gesture, every time on record."* It keeps a fixed patrol even in breach, has never attacked anyone who acknowledged the dead, and reaches no seal. Its two standing pairings — the Scar Walker overlap and the Orphaned Bell toll — lower its own readings rather than aiding either; it costs F01 personnel resilience and conduct discipline alone. Neutral. |
 | Dormant Monolith | `SE-N-IVδ-909` | Breach `First Target`: *"Whoever in the facility has gone longest without being relieved."* Its drain rises on refused relief and falls when relief is accepted; it has never fully woken, injured nobody and reaches no seal. The Sleeping Weight and Crumbling Saint pairings are refused or unrepeated and move its own shadow rather than aiding them. It costs F01 rota discipline and fourteen accountability exceptions while assisting no entity. Neutral. |
+| Relic Waiting for Its Maker | `SE-O-IIIγ-651` | Place-Grudge holding that has never woken, never injured anybody and has never been breached out of; the relic has not stirred in the life of the holding. The Final Door pairing is prohibited by the wing itself and the Silence We Forgot We Made session produced no response at any plumb station, so it assists no entity. Its cost to F01 is disclosure harm to three of its own workers, not containment loss. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
