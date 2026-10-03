@@ -73,7 +73,7 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-01, Mask Market |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | Appearance requirements are suspended across the district and the mask's longest silence lengthens, with the Sorrow Gauge below 25% |
 
 ### Combat Actions
 
@@ -88,14 +88,14 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Laughing Mask's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** Nobody wears it and nobody laughs at it. Viderehan shows the face behind the laughter and holds the reading steady; Ferrehan is a matter of staying in the room while it laughs, which it will do for the whole session and has done for nine hours. The team is instructed not to smile politely at it, which personnel find harder than the nine hours.
+3. **Resolution:** The session closes when the longest unbroken silence of the day exceeds the previous week's best and the reading falls below 25%. Silence is the measurement here. A session ending with the mask still laughing at its arrival volume has not closed, whatever else was achieved.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Composure**, funneling cognitive instability back into the Sorrow Gauge.
-- Laughing Mask’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
+- The effect does not intensify with duration. It intensifies with mandated cheer. The reading rises for every shift worked anywhere in the district under an instruction to appear pleasant — the Market's trading rules, the facility's own front-counter standard — and it does not distinguish between a rule enforced and a rule merely in force.
+- The lens, the veil and the facade are all made from a performance that outlasted the performer. Each activation borrows a measure of it and the operator keeps it. The recorded cost is not false cheer. It is that the operator's face continues to do the right thing after they have stopped meaning it, and that colleagues report them as being in good spirits throughout.
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Laughing Mask's dossier.
 
 ## Appearance
@@ -108,7 +108,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A bright mask that laughs continuously. Its smile is wide, but its eyeholes are dark and wet.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** It hangs where it was hung and has never been found anywhere else. Record its position, the volume of the laughter against the standard meter, and the longest silence observed during the session. The last figure is the one the post is managed by and is frequently zero.
 - **Element signature:** Void
 - **Registered location:** SECTOR-C-01, Mask Market
 
@@ -120,15 +120,15 @@
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; this district holds records on both faces of the same habit, and this is the one that is worn. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the lacquer, the fixed smile, and the eyeholes, which are wet and which the Market's own conservators have twice tried to attribute to condensation. Record whether the laughter is in a voice anyone present recognises. Do not put it on, do not hold it up to a face, and do not photograph it being held up to a face.
 
 ## Origin
 - **Formation:** The Mask formed from happiness performed after joy had disappeared.
 - **The Sorrow:** The grief of laughing so others would not know you were hurting.
 - **The Event:** A performer continued entertaining the Mask Market after losing everyone they loved. The laughter became an object.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One performer of the Mask Market who lost their household and kept working the arcade, because the arcade paid daily and grief did not. The Keepers hold three seasons of their takings, which rose. Nothing else about them survives, including their name, which the archive notes is consistent with a person who was known by a face that was not theirs.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who repaired too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## Behavior
@@ -147,7 +147,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Laughing Mask is recorded as an Object/Place with Object-Void manifestation and Void elemental expression. The current record places it at SECTOR-C-01, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A falling reading means somebody laughed in the chamber at something that was actually funny, and the mask stopped — it always stops, briefly, and the length of the stop is the result. Stability under Viderehan is correct. The reading rises on courtesy laughter, on cheerful service, and on any worker told to put a better face on it.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -174,7 +174,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
 | **Risk** | The wearer cannot stop laughing to express grief. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while carried and cannot replace a scheduled Work Type. It is not to be worn under any circumstances, including demonstration, training and conservation work; the prohibition is absolute because the activation trigger is wearing, and the file has no observation of what follows because nobody has been permitted to produce one.
 
 ### Log and Method
 
@@ -189,7 +189,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 The escalation pattern is specific to Laughing Mask: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-C-01, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Secure the arcade bay, confirm the event is an expansion rather than an activation, clear unshielded personnel — beginning with anybody on front-of-house duty, who read highest — and then satisfy the management condition, which is the suspension of appearance requirements across the district for the duration. Report the suspension order's reference number.
 
 ### Detailed Activation Record
 
@@ -202,7 +202,7 @@ The escalation pattern is specific to Laughing Mask: it is not a generic breach 
 | **Risk** | Moderate (β) Object-Void producing Void pressure; The wearer cannot stop laughing to express grief. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** laughter volume at arrival → voices imitated and whether any was recognised → appearance requirements in force in the district that day → the longest silence and what produced it → the reading. The third field is obtained from the Market office and is not to be estimated by the team.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -219,9 +219,9 @@ The escalation pattern is specific to Laughing Mask: it is not a generic breach 
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Laughing Mask's void signature in the strike.
+**Ability:** Void damage to the soul — to identity rather than the body. The lens carries the Mask's signature, which is a face maintained past the point of meaning it, and what it opens in a target is the question of which of their expressions are theirs.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small nameless memories with each use, and loses first the memory of what they were like before the posting.
 
 ### M.A.W. Suit — The Laughter Veil
 
@@ -237,9 +237,9 @@ The escalation pattern is specific to Laughing Mask: it is not a generic breach 
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Laughing Mask's kind of pressure.
+**Ability:** Turns Void aside from the soul, which is the only pressure here. The veil lets a worker sit through a full session of imitated laughter without their own face joining in.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves, and reports catching their own reflection being pleasant at nobody.
 
 ### M.A.W. Stigma — The Laughter Facade
 
@@ -249,13 +249,13 @@ The escalation pattern is specific to Laughing Mask: it is not a generic breach 
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against the Laughing Mask itself, and nothing elsewhere in the Mask Market.
 
 **Ability:** Conceals emotional distress behind convincing laughter.
 
 **Cost:** The wearer hears their own laughter after the mask is removed.
 
-*Stigmas are granted at random by Laughing Mask upon a successful work, not manufactured.*
+*The facade is not manufactured. The Mask gives one to a worker who told a trader the truth about a bad day across a counter, and has given none to anybody who was polite about it.*
 
 ### M.A.W. Use Notes
 
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are separate axes and here the cost is social. What the grades cannot show is that the facade's bearers stop being able to produce a courtesy smile, that four have been the subject of complaints from the public, and that all four complaints were upheld.
 
 ## 관찰 기록 (Observation Log)
 
@@ -293,7 +293,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Wearing the mask or laughing near it. Effect: Produces an appearance of effortless happiness. Duration: Until removed by another person. Risk: The wearer cannot stop laughing to express grief. Tool Use Profile — I-Relic Operational Rule: The relic remains active. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Laughing Mask's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Record the first sign, which is laughter from an unoccupied bay; the first sensation, which is the impulse to smile back at an object; the volume at entry and exit; every voice imitated; and the condition that ends the encounter, which is the scheduled end of the session. Record the longest silence and what preceded it, in that order.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -301,17 +301,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Laughing Mask (C-IIβ-210 [VO]) is logged as a Object-Void manifestation expressing Void. The Mask formed from happiness performed after joy had disappeared. Held at SECTOR-C-01, Mask Market. It imitates the laughter of people nearby.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Genuine laughter makes it briefly quiet.
+**Entry 2 — <Silence Log: Every Time It Stopped>**
+Four hundred and six recorded stops in twenty-two years, with duration and cause. Longest: eleven seconds, during a dispute between two conservators in which one of them said something unintentionally funny about the other's handwriting. Second longest: nine seconds, a dropped tray. The log's cause column contains no entry reading applause, no entry reading joke told, and three entries reading courtesy laughter, duration zero — those three are retained specifically to show that it does not count.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of laughing so others would not know you were hurting.
+**Entry 3 — <Statement of a Counter Clerk, Mask Market>**
+"We are told to greet, smile, thank. It is in the stall licence, it is four words long, and I have never once thought about it as a rule — it is just the job. Your people asked me to work a day without it and I could not do it. Not would not. I served about sixty customers and I smiled at all of them and I only noticed afterwards, from your sheet, that I had. The mask was quieter on that day anyway, which I do not understand and nor, when I asked, did you."
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the face behind the laughter. (Stable); Ferrehan: Laughs for hours, testing whether the worker can remain present. (Decrease). Personnel report peace before recognizing the laughter as forced.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who repaired too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+The management condition obliges this facility to ask the Market to suspend its own trading courtesies, and the Market is not ours to instruct. The traders' association has agreed twice, for four hours each time, and declined on five further occasions in terms this office considers reasonable: people come to the arcade to be treated nicely, and a district that stops doing it loses the day's takings to the next district along. The cost of containment here is therefore borne by people who do not work for us and who get nothing from the arrangement. Until that is resolved the reading will go on rising, and this office will go on asking, and no supervisor is to describe the refusals as obstruction.
 
 ## 최종 관찰 (Final Observation)
 
@@ -340,12 +340,12 @@ The Mask laughs before you touch it. The sound is bright enough to make the room
 
 Laughing Mask does not exist in isolation. Its recorded relationships with The Happy Mask, The Echo of Laughter, The Masked Dancer should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Alone first, then together, with the district's trading state recorded in both cases. In shared conditions log volume throughout, voices imitated, the longest silence, and whether the other record altered what the Mask was imitating — it has twice begun imitating a voice that nobody present could place.
 
 
 ### Entity Interaction Record
 
-Laughing Mask must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Mask is filed with the Mask Market records and it is the district's surface where the others are its underside. The relationships below are what the archive will support. They are not alliances; they are one trade's two halves, and in proximity each makes the other's measurement harder to read during opening hours.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -353,7 +353,7 @@ Laughing Mask must be assessed as part of an entity network, not as an isolated 
 | **The Echo of Laughter** | The Echo supplies memories beneath the laughter. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Masked Dancer** | The Dancer performs while the Mask laughs. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baseline first, then the shared encounter: volume before, during and after, longest silence at each stage, how long any change persisted once the other record was withdrawn, and the appearance requirements in force. Sessions run on closure days are logged separately, since the district is a different place when nobody is being served.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -400,9 +400,9 @@ Some sorrows weep. Laughing Mask laughs — and the laughing is the sorrow, pres
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Treat this as a record of cheerfulness required rather than of a cursed object. Every figure here follows from what the district obliges its people to look like. The percentage is the whole mechanism; there is no counter to exhaust, and a bay with nobody serving in it produces no movement either way.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any expansion, and after any appearance or demeanour standard is issued, renewed or tightened anywhere in the district — the last unconditionally, including standards issued by the Market's own traders' association, over which this facility has no authority and which it is nonetheless required to log.
 ## Watch Record
 
 ### It Laughs and Weeps Together
@@ -432,9 +432,9 @@ Someone went on entertaining the Mask Market after losing everyone, and the comm
 
 - **Classification detail:** Laughing Mask is an Object/Place with Echo (II) — Repeats laughing coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-C-01, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the eyeholes. Several masks are catalogued in this arcade; this is the one that laughs continuously, imitates voices, and weeps from the eyeholes while it does it.
+- **Record detail:** Check the designation before approach. This district holds records on both faces of the same habit — one took the grief underground, and this one is what was put on top of it.
+- **Containment detail:** Sealed does not mean silent, and here it is meant literally: the laughter is audible from the adjoining bays with the case shut. The containment reading is the longest silence rather than the state of the case.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-210

@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **50** |
-| Pending — no disposition-bearing line found by scan | 253 |
+| **Classified here, with a quoted line of evidence** | **51** |
+| Pending — no disposition-bearing line found by scan | 252 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 50 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 51 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 253 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 252 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -77,6 +77,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Echo Compass | `SE-C-IIIβ-016` | *"A successful cycle quiets the needle for a shift. The entity is unchanged by this, and the next operative will see their own heading."* |
 | Survivors' Breath | `SE-O-IVδ-895` | *"A completed cycle settles the Sigh around the worker and quiets it for a time. Nothing is resolved by this."* |
 | Crucible | `SE-C-IIIβ-275` | Resolution: *"Cool the anger through naming and controlled work."* A furnace that became conscious, and stayed in its forge. |
+| Laughing Mask | `SE-C-IIβ-210` | *"A bay with nobody serving in it produces no movement either way."* It feeds on district trading courtesies rather than on F01 operations, and reaches no other containment; the cost falls mostly on Market traders. |
 | The Frozen Veil | `SE-C-IVδ-103` | *"The nearest person, chosen by distance only; it has never shown a preference."* It drains F01 personnel and reaches no other containment; its documented cost is to the roster — *"if we select our people for this duty by what they have lost, we have begun to hold a register of our staff's griefs and to deploy it."* |
 | First Tear | `SE-C-Vδ-290` | *"There is no response to work… the Tear has not attacked anyone."* It neither suppresses nor assists anything; its only cost to F01 is the observation rota — *"the single largest standing commitment of personnel in this facility"* — which is a price, not a disposition. |
 | Banyan | `SE-N-IVδ-606` | *"It does not charge and does not surface. The root mass spreads under the floor, fastest beneath whichever stall has gone quiet."* The cost is one district's floor and its silence; no other containment is reached. |
