@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **86** |
-| Pending — no disposition-bearing line found by scan | 217 |
+| **Classified here, with a quoted line of evidence** | **87** |
+| Pending — no disposition-bearing line found by scan | 216 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 86 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 87 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 217 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 216 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -65,6 +65,7 @@ Lethal to the people working them; inert toward everything else in the building.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| The Inherited Debt | `SE-N-IVβ-019` | *"It has never physically breached in nineteen years. What has left the chamber is knowledge, carried out in sitters' heads, which no boundary addresses."* The one proximity trial ever run, with the Kind Healer in Year 4226, is recorded as a null: the ledger ran normally and the gauge did not move. A proposal to bring the Hollow Choir to the chamber was refused and not renewed. Its effect runs onto this facility's own ledger practice. Neutral. |
 | Bulwark | `SE-N-Iα-459` | *"It has never moved, opened, woken or injured anybody in thirty years, and the lot stands open behind a working barrack."* No proximity trial has ever been run against another entity and none is scheduled; all three recorded relationships rest on summary lines with no measurement, one proposal having been withdrawn by its own author. Its effect runs onto this facility's own welfare practice and reaches no other holding. Neutral. |
 | Sky of Borrowed Faces | `SE-O-IIIγ-926` | *"It has never breached, has never injured anybody, and has expanded and withdrawn four times each without anybody intervening."* No cross-entity relationship is recorded for it at all — the file carries no interaction table — and the only series it moves against is this facility's own use of likenesses from its identification register. It neither suppresses other entities nor assists them. Neutral. |
 | Unrung | `SE-C-IIβ-170` | *"It has never sounded, never moved and never breached, and nobody has been injured at the plinth."* Its one recorded activation opened a sealed door and delivered a warning to the three people present and to nobody else; the only cross-entity relationship that is measured is a soundless resonance with the Orphaned Bell logged as observed and unexplained, and a standing proposal to use it as an approach warning for the Sorrow Gate was refused twice. Its effect runs onto this facility's own warnings practice. Neutral. |
