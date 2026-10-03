@@ -51,7 +51,7 @@ Dangerous, but the facility is better off with them in it.
 | The Last Warmth of Forty-Two | `SE-O-IVδ-515` | Interaction Record, The Frozen Shard: *"The ice on the shard melts slightly; temperature stabilizes in both rooms. Reduces work difficulty by 1 tier."* |
 | A Letter Never Sent | `SE-C-Iα-114` | Interaction Record, Survivor's Span: *"Calms both entities; reduces work difficulty."* Resolution Condition holds a *"single-use emergency benediction"* — a Positive that can be spent exactly once. |
 | The Magistrate's Strike-Through | `SE-N-IIβ-319` | Interaction Record, The Debt Scale: *"Stabilizes both entities during routine shifts; lowers work difficulty."* |
-| The Grieving Maiden | `SE-C-IVβ-041` | Containment priority: *"Reunite the three before anything else. Suppressing her alone raises the gauge on all three."* Positive **only as part of the reunited set**; isolated, she is a three-way amplifier. |
+| The Grieving Maiden | `SE-C-IVβ-041` | Containment priority: *"Reunite the three before anything else. Suppressing her alone raises the gauge on all three."* Re-evidenced at the whole-file clean: the Angry Maiden row now reads *"every metre of separation shows as weeping here and as load there, within the same hour"* — *"the three-way amplification the containment priority exists to prevent"* — while the Silent Maiden pairing *"ease each other measurably, with nothing transferring in either direction."* Positive **only as part of the reunited set**; isolated, she is a three-way amplifier. |
 
 **Pattern.** Every Positive in the archive so far is Positive *in company*. Not one of them suppresses
 anything on its own — the mechanism is always a pairing or a trio, and separating the pair is what turns

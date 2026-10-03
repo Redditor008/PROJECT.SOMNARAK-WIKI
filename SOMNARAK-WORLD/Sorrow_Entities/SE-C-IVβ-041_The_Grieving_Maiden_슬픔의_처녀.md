@@ -34,15 +34,15 @@
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan, worked short and rotated on a timer. Pugnahan is prohibited as cruel and useless; sister-distance is held at zero at all times. |
 
 ### Operational Notes
 
-- The Maiden grieves continuously and does not respond to the presence of personnel in the enclosure.
-- Work lowers the pressure in the room. The grief is unchanged, and no cycle has drawn a response from her.
-- Three ignored conditions escalate her. Because she is held with the other two Sisters, escalation is logged against the group rather than the individual.
-- Emotional pressure reaches observers before the gauge moves; crews are rotated on a timer rather than on reading.
-- Extraction is authorized apart from the work cycle.
+- She weeps without pause and takes no notice of anybody entering. Sixty years of the file record no reaction to arrival of any kind.
+- Work takes the pressure out of the room and leaves the grief exactly where it was. No cycle has ever drawn a response directed at the worker.
+- The threshold is three, and it is logged against the Sisters as a set, because nothing that happens to one of them stays with one of them.
+- The pressure reaches the observer well before the gauge shows anything, so crews come out on the clock and not on a number.
+- Extraction is separately authorised and is drawn from the sump, never from the body or the chamber floor.
 
 ## Combat Record
 ### Core Stat Line
@@ -66,7 +66,7 @@
 |---|---|
 | **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
-| **Coherence** | Entity (IV) — Self-aware, gentle, sad |
+| **Coherence** | Entity (IV) — aware of the room, indifferent to it, fluent on one subject only |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Grieving Maiden's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Nothing is struck. The crew works in counted pairs, answers the three-minute verbal check, and reads the sump figure before the chamber gauge, because the sump moves first.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share her grief and acknowledge the loss; never command her to stop**.
 
 ### Consequences
@@ -98,19 +98,19 @@
 - An unresolved encounter never simply ends; it transforms. The Grieving Maiden executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
-**Primary Form:** A translucent young woman made of crystallized tears. She weeps continuously and moves slowly.
+**Primary Form:** A young woman, warm and alive to every field test, hair plastered and dress soaked as though she has stood out in years of rain. **Assay:** the Research wing's term for the body is crystallized tear-matter, which is what it analyses as and not what it feels like; the header records the field presentation and both descriptions stand.
 
 **Notable Features:**
-- Must remain near her two sister entities.
-- Her tears intensify when she is separated from them.
-- She speaks most clearly about the child she lost.
+- She is held with the other two Sisters and the arrangement is not negotiable.
+- Every metre of separation shows in the weeping first and in the sump within hours.
+- The only subject she is fluent on is the child, and she is fluent on it every single time.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** A translucent young woman made of crystallized tears. She weeps continuously and moves slowly.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** Continuous weeping with no pause of any length, in a body that is warm, breathing and indifferent to the room.
+- **Position / movement:** Stands or walks slowly within the enclosure and orients, always, toward her sisters' side of the corridor. Sister-distance is logged before posture.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-D-02, contained with the Three Sisters
 
@@ -118,33 +118,33 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A translucent young woman made of crystallized tears. She weeps continuously and moves slowly. |
+| **Form** | A woman's figure, soaked through, moving slowly and only toward her sisters' side of the corridor. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Must remain near her two sister entities. Her tears intensify when she is separated from them. She speaks most clearly about the child she lost. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Material / signature** | Lament. Warm damp skin, cold rain on old cloth, continuous low weeping, and standing water that has to be drained. |
+| **Distinctive markers** | Sister-distance, sump volume, and whether the story she is telling has reached the illness yet. |
+| **Identification** | Check the corridor. If the other two are not within sister-range, whatever you are looking at has already been moved and the ledger will show it by evening. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Sister-distance in metres, sump reading, chamber humidity, and the point in the story at which the Warden entered.
 
 ## Origin
-- **Formation:** The Maiden formed from a parent whose child died of illness.
-- **The Sorrow:** Helpless grief—the knowledge that love could not prevent a child's death.
-- **The Event:** The child died after an illness the Maiden could not stop. Her mourning became a body made from tears.
-- **The People:** The unnamed mother and her lost child; the Three Sisters share linked grief.
-- **Expanded origin context:** Containment records trace the entity back to SECTOR-D-02, contained with the Three Sisters, where the Lament first reached the density required for crystallization. The Subject is the wound's exoskeleton — the city's grief grown solid. It will not heal. It can only be held.
+- **Formation:** From a mother who was given every provision the schedule allows, took all of it, and was still grieving on the closing date.
+- **The Sorrow:** Not grief that was denied. Grief that was properly provided for, correctly concluded, and did not stop when the provision did.
+- **The Event:** A child died of an illness nobody could have halted. The mother mourned through the full established period, the file was marked concluded on the day it fell due, and she went on.
+- **The People:** One unnamed mother, one child who is named only inside the chamber, and the two Sisters whose losses were blamed and unasked-after respectively.
+- **Expanded origin context:** Her grief file is a model of its kind and the Office has produced it at three inquiries as an example of the system working. Notification within the day. The full period granted without application. Counselling hours taken in full, observance attended, the grounds visited on the appointed date, position held open and returned to. Every entitlement delivered, nothing withheld, no officer's discretion anywhere near it. On the closing date the file was marked concluded and the entitlements ended, which is the rule and is the whole protection the rule offers. Eleven subsequent applications in respect of the same loss were received over nineteen years and all eleven were refused as the schedule requires. The Lament reached crystallization density in SECTOR-D-02 at some point in that nineteen years. Nobody failed her at any stage of it.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Weeps with the worker in shared grief. | Decrease |
-| **Pugnahan** (Confrontation) | Recoils and cannot bear aggression. | Stable |
-| **Viderehan** (Observation) | Tells the story of her child and helplessness. | Stable |
-| **Ferrehan** (Endurance) | Sits silently beside the worker. | Decrease |
+| **Flerehan** (Tears) | She weeps with the worker, and the worker carries the weight of it out of the chamber afterwards — a transfer the counsellors measure and the roster respects. | Decrease |
+| **Pugnahan** (Confrontation) | She recoils and nothing moves. Prohibited: it is cruel and it is useless, in that order. | Stable |
+| **Viderehan** (Observation) | The illness, the weeks of it, the name, in the same words every time and told as if for the first time. Gauge holds. | Stable |
+| **Ferrehan** (Endurance) | She sits beside the worker and says nothing for the whole interval. Most Wardens find this the harder of the two. | Decrease |
 
 ### Group Behavior
-- Must remain near the other Two Sisters.
-- Work with one Sister affects the emotional state of all three.
+- Sister-range is maintained at all times and any order that would breach it needs three watch commanders' signatures.
+- Work done on one Sister shows in all three within the shift, in both directions.
 
 
 
@@ -160,15 +160,15 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Grieving Maiden shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
+| **Movement** | She breaks the chamber and moves through the facility toward her sisters. The archive's *indiscriminate* means she makes no distinction between persons, not that she is looking for any: she goes through what is in the way. |
+| **Effect** | The weeping fills the sealed sections and the will to keep working goes out of people who are nowhere near her. |
+| **Secondary Effect** | Sorrow settling in the chest as physical weight; responders describe stopping as a reasonable idea rather than a failure, which is the dangerous part. |
 | **First Target** | Whoever stands between her and her sisters. She moves toward them, not toward personnel. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Escalation** | Composure drain rises by 5 each interval and the sump in her chamber runs over within the hour. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Breach type:** Escape. She leaves the chamber on foot and keeps going until she reaches the other two.
 - **Containment priority:** Reunite the three before anything else. Suppressing her alone raises the gauge on all three.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 15% for every metre of separation from the other two Maidens.
 
@@ -191,7 +191,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** The multiplier applies to the strike and to each Tick separately, and bearers of this archetype are rostered on the shortened breach clock whether or not they have been in contact.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Grieving Maiden's lament signature in the strike.
 
@@ -223,13 +223,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat, and the wearer keeps, for about a day, the name of anybody they are told about once, which is the one kindness this holding has ever been recorded accepting.
 
 **Ability:** Absorbs sorrow and protects the wearer from emotional damage.
 
 **Cost:** The veil weeps constantly, keeping the wearer's face wet and grief visible.
 
-*Stigmas are granted at random by The Grieving Maiden upon a successful work, not manufactured.*
+*Nineteen veils exist. Each was formed in the chamber at a sister-distance reading of zero, and none has ever been issued to a Warden who had not sat the full Viderehan and heard the story to its end.*
 
 ### M.A.W. Use Notes
 
@@ -247,16 +247,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial. The grade is low and the holding is well understood; what keeps it at 1 is that nobody has accounted for the volume, and a wing that cannot say where the water comes from does not claim a higher grade.
 
 **Key Observations:**
-- Separation from the Three Sisters causes rapid distress.
-- Activity increases during the Sorrow Tide.
-- Flerehan and Ferrehan are the safest work types.
-- The Maiden has never displayed intentional hostility.
+- Separation from the other two produces distress within minutes and standing water within hours.
+- Through a Tide the weeping deepens and the sump figure roughly doubles; the sister-distance is checked hourly instead of twice a shift.
+- Flerehan and Ferrehan are both safe and both costly to the worker; the roster, not the gauge, decides how long either runs.
+- No act of hostility in the whole record, breaches included. Injuries sustained near her have all been incidental to her route.
 
 **Personnel Note:**
-> *"She told me the child's name, then forgot she had told me. I remembered it for her. For one moment, her tears became quiet."* — Specialist Haneulash Yoon, Zone D
+> *"She told me the name and five minutes later told me again, and I said it back to her the second time, and the weeping went quiet for about four seconds. Seventy-seven litres a day. Her file has been closed for nineteen years and it was closed correctly and I have read it twice."* — Specialist Haneulash Yoon, Zone D
 
 
 
@@ -264,30 +264,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Grieving Maiden as a Subject with Subject-Body manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-D-02, contained with the Three Sisters. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Group Behavior - Must remain near the other Two Sisters. - Work with one Sister affects the emotional state of all three. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In The Grieving Maiden's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Sister-distance confirmed at zero, sump read and signed, humidity logged, entry timed against the story. |
+| **Sustained observation** | Sump volume twice daily against sister-distance, both signed by the watch commander. The annual means run 41, 58, 77 litres; the body, the weeping and the story are unchanged throughout. |
+| **Activation or escalation** | A sump figure above trend, which leads the gauge by four to nine hours. Check the corridor first: it is almost always a sister who has been moved. |
+| **Post-contact review** | Sump, sister-distance, counsellor's note on every worker who took Flerehan, and the point in the story at which the watch ended. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** A sump gauge read twice daily, a corridor measurement, a timer for the rotation, and the Observance Office return on refused repeat applications to set the volume against.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Grieving Maiden (C-IVβ-041 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Maiden formed from a parent whose child died of illness. Held at SECTOR-D-02, contained with the Three Sisters. Separation from the Three Sisters causes rapid distress.
+The Grieving Maiden (C-IVβ-041 [LS]) is logged as a Subject-Body manifestation expressing Lament, held on the Sisters' corridor at SECTOR-D-02. She weeps without pause, she has never been hostile to anybody, and the water her chamber produces is greater at every annual return. The Maiden formed from a parent whose child died of illness. Held at SECTOR-D-02, contained with the Three Sisters. Separation from the Three Sisters causes rapid distress.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Echo Gardens Sister Watch, Year 4238>**
+Sump mean 77 litres a day, after 58 and 41. Sister-distance held at zero throughout the year. Gauge steady on its 515 baseline except during the maintenance transfer of the third quarter, when the sump led the gauge by six hours exactly as the ledger predicts.
 Walks slowly through the facility while weeping. Personnel experience the overwhelming grief of losing a child. Activity increases during the Sorrow Tide.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Observance Office, standing rule>**
+Grief provision runs for the established period and then concludes. On the closing date the file is marked concluded, the entitlements end, the matter is not reopened, and no further application in respect of the same loss is received.
 Helpless grief—the knowledge that love could not prevent a child's death.
 
 **Entry 4 — <Containment Notice>**
 Management: Share her grief and acknowledge the loss; never command her to stop.  Flerehan and Ferrehan are the safest work types.
 
 **Entry 5 — <Archive Note>**
-Containment records trace the crystallization to this location — the sorrow grew patient and specific until it became a presence that cannot be removed, only held.
+The crystallization is traced to the Sisters' corridor, and the Office's own file explains the density better than the survey does. A grief provided for in full, concluded on its proper date, and continuing for nineteen years afterward in a system that has no category for continuing. The entity that came out of it tells the same story every time she is asked and has never once been asked twice by the same person out of anything but duty.
 
 ## 최종 관찰 (Final Observation)
 
@@ -316,22 +318,22 @@ The air grows heavy with unshed tears. A young woman appears, translucent and pa
 
 The Grieving Maiden does not exist in isolation. Its recorded relationships with The Smothering Mother, The Kind Healer, The Grieving Colossus, The Angry Maiden, The Silent Maiden should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Sump and sister-distance before, hourly during and after, with the other two Sisters' watches logging in parallel and no pairing permitted that requires any of the three to leave the corridor.
 
 
 ### Entity Interaction Record
 
-The Grieving Maiden must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Grieving Maiden must be read as one address of a three-address problem, and distinguished from the sister she is most often confused with. The Silent Maiden keeps a loss nobody may ask after; this one keeps a loss that was asked after, provided for, and closed on schedule, which is why her instrument is a volume and hers is a radius.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Smothering Mother** | Reaches for the Maiden, recognizing maternal grief. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | Approaches but cannot heal a death. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Colossus** | Pauses and listens. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Angry Maiden** | Shares linked grief, but anger rises when separation occurs. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Silent Maiden** | Remains near her, completing the Three Sisters. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Smothering Mother** | The Mother reaches for her and she does not move away, which is the only approach in the file she permits. Nothing passes between them and the sump rises in both chambers. | Volume up in two holdings at once, for days. | Record both sumps. Pairings are limited to one a cycle on the drainage crews' own objection, which was upheld. |
+| **The Kind Healer** | The Healer attends her at length and finds nothing it can treat; a death is not an injury. It stays anyway and shudders without having healed anything. | No gauge movement either side. The Healer's own recovery takes days. | Time the Healer's shudder. Do not repeat without its wing's consent. |
+| **The Grieving Colossus** | The Colossus stops and listens to the story through to the end, every time, and does not move until she has finished. | Her gauge falls eight to ten points and holds low for about a fortnight. The Colossus is unchanged. | The longest-lasting reduction on the holding. Record the gauge daily for two weeks. |
+| **The Angry Maiden** | Linked at all times and worst when parted: every metre of separation shows as weeping here and as load there, within the same hour. | The three-way amplification the containment priority exists to prevent. | Sister-distance hourly, both sumps, and an immediate return order on any reading above zero. |
+| **The Silent Maiden** | She stays close and the two of them ease each other measurably, with nothing transferring in either direction. | Both gauges down; the sump figure falls to its lowest recorded values while they are in contact. | Record both. This pairing is maintained as standing practice, not run as an experiment. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline sump and sister-distance, pairing on the corridor only, hourly readings from all three chambers, and an immediate halt on any reading that breaks sister-range.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -364,16 +366,16 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 **Classification:** Sorrow Entity — `C-IVβ-041` · City origin · Entity (IV) coherence · Moderate (β) potency · Lament · Subject-Body manifestation
 **Common Name:** The Grieving Maiden
 **Containment Status:** Contained — with the Three Sisters, Echo Gardens
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Maiden weeps continuously. She does not attack. Effect: personnel feel helpless parental grief.
+**Comprehension Level:** 1 — Initial
+**Threat Assessment:** Moderate (β). She has never attacked anybody and she will walk through a wall and the people standing at it to reach her sisters. Effect: personnel carry a mother's helplessness out of the chamber with them.
 **Containment & Handling Procedures:**
-- Flerehan is the only valid Work Type.
-- The mother’s presence calms the Maiden.
-- Maintain Three Sisters proximity.
+- Flerehan is the primary Work Type and Ferrehan the alternate; both are rotated on a timer. Pugnahan is prohibited.
+- She is the mother. What quietens her, for a few seconds at a time, is hearing the child's name said back to her.
+- Sister-range at zero, twice-daily sump readings, and three commanders' signatures before anything moves.
 **Observation Notes:**
-- Born from a child who died of illness.
-- The first of the Three Sisters.
-**Cross-References:** The Angry Maiden · The Silent Maiden · The Echo Gardens
+- Born from a mother whose grief file was granted in full, concluded on its proper date, and reopened eleven times without success.
+- First of the Three Sisters: the loss that was mourned, against one that was blamed and one that was never asked after.
+**Cross-References:** The Angry Maiden · The Silent Maiden · The Echo Gardens · the drainage ledger · the schedule's closing date · the Continued Entry series
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** A mother who lost a child to illness.
 
@@ -400,6 +402,24 @@ Her escape profile is unusual among the mobile entities because the danger is am
 
 The weeping produces volume, and the volume is measured. Her chamber drains into a dedicated sump with its own gauge, and the daily figure is entered in the drainage ledger alongside the sister-distance reading and the watch commander's name. The ledger began as plumbing paperwork and became the holding's most predictive instrument: the volume rises before the gauge does, reliably, by something between four and nine hours. Watch commanders read the sump before they read the chamber. The correlation has been tested against every separation incident in the file and has never failed to lead. What the ledger cannot do is explain itself — the Research wing's position is that the body is finite, that the tears come from somewhere, and that nobody has yet accounted for the arithmetic. The drainage crews, who empty the sump and have the least theoretical interest in the question, are the ones who raised it. Their note in the file is a single line asking where it is all coming from, and it has been answered by four separate studies, none conclusively. The ledger is kept anyway, twice daily, because a predictive instrument nobody understands is still a predictive instrument, and because the crews who keep it have earned the right to go on asking.
 
+### What the Sump Is Measuring
+
+Seventy-seven litres a day, after fifty-eight and forty-one. The ledger is kept twice daily by the drainage crews, signed by the watch commander, and set beside the sister-distance reading on the same page. Nothing else about the holding has moved: the sisters have not been parted since the maintenance transfer, the body is the body, the story is the same story in the same words. The volume does not track the Tide, the rota or the chamber humidity, all three of which have been tested against it. It tracks one line in the Observance Office's annual return: applications in respect of a loss whose file has already been concluded, refused as the schedule requires.
+
+Grief here is provided for generously and it ends on a date. Notification the same day, the full established period without anybody having to ask for it, counselling hours, the observance, the visit to the grounds, the position held open and returned to. Then the closing date arrives, the file is marked concluded, and the matter is not reopened. The closing date is not meanness. It is the thing that makes the rest of it safe to accept. When provision ran open-ended, it ran at an officer's discretion, and discretion meant *she is still grieving* written in a margin and read out at every promotion board for nine years; it meant leave with no return date and a post quietly filled; it meant 1,740 documented cases, in one decade, of people who took what they were offered and never worked again. A fixed period cannot be stretched to manage somebody out of the establishment. Everybody who has read the margin notes agrees it had to go.
+
+Its consequence is that the system has no category for *still*. After the date, the loss is a concluded matter, and a concluded matter cannot be grieved at the Company — not because anybody forbids the feeling, but because every channel through which grief reaches this institution runs off a live file. A woman may be treated impeccably, take every provision in the schedule, return to her post on the appointed day, and then stand for nineteen years in a condition the record has no field for. Eleven times she asked. Eleven times the clerk was right to refuse. Somewhere in those nineteen years the Lament in SECTOR-D-02 reached the density at which it stops being a feeling and starts being a thing with a chamber and a sump gauge.
+
+### The Continued Entry
+
+Instituted Year 4229. Once a year, on a date of their own choosing fixed at the outset and never changed, a person whose grief file has been concluded may add one line to it. One line, in their own hand, about the loss. It is stamped received, bound into the closed series, and that is the whole of it: it reopens nothing, triggers nothing, entitles the writer to nothing, and is read by no one.
+
+Year 4237: 4,312 entries received; 0 read; 0 files reopened; 0 entitlements conferred; 1,986 further applications refused in respect of concluded losses, which is the figure the Sisters' watch sets the sump against; 740 people who missed their fixed date and lost the year, there being no substitute date, because a date that moves is a matter that is still live and a matter that is still live is the margin note all over again.
+
+The costs are printed on the form. The clerk may not acknowledge the entry beyond stamping it, may not comment, and may not read it in the writer's presence, so the transaction is a person handing a stranger the most important sentence of their year and watching it go into a box. The series is sealed by the same rule that keeps it safe: unread means unusable, and unusable means it can never be produced at a board to show that somebody has not got over something. And nothing accumulates. A person may write nineteen lines across nineteen years and there is no point at which nineteen lines becomes a case, because the files they are bound into are closed, and closed is the protection.
+
+The registry clerks asked to be allowed to read them. Not to act — only to read, and to report themes in aggregate, numbers only, no names, on the ground that four thousand sentences a year is the best evidence the Office will ever hold about what the schedule does not cover. Refused, and the refusal is correct in the way these refusals always are: a read entry is correspondence, correspondence is a live matter, and a live matter is exactly the thing that was once written in a margin and used against people for nine years at a time. Their submission stands in the Year 4232 return, recorded as correct and unanswered, filed by a clerk who stamps the entries and has written nineteen of her own. The last line of it is the one the drainage crews have pinned above the sump gauge: we closed the files so that nobody could be held open, and the water has to go somewhere.
+
 ## Trivia
 
 - Her tears form no Echoes; they dissolve before crystallizing.
@@ -411,8 +431,8 @@ The weeping produces volume, and the volume is measured. Her chamber drains into
 
 - **Classification detail:** The Grieving Maiden is a Subject with Entity (IV) — Self-aware, gentle, sad coherence and Moderate (β) — Manageable potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-D-02, contained with the Three Sisters.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A young woman weeping without pause, warm to stand near, hair and dress soaked through, cold rain on old cloth in the air, and a sump gauge outside the door that is never at zero.
+- **Record detail:** The Registrum gave Comprehension Level 3 against a header of 1 — Initial, named Flerehan the only valid Work Type where Ferrehan also lowers the gauge, and carried a handling line stating that the mother's presence calms the Maiden — she is the mother. The Appearance block described a translucent figure of crystallized tears against a header reading Organic, warm and alive; both are now stated as what they are, the field presentation and the assay. The breach quotation's *indiscriminate* is reconciled against the First Target row rather than deleted. All corrected. The Apex Record, the 515 baseline and the containment priority on reuniting the three are untouched; the disposition index quotes that line and it stands word for word.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
