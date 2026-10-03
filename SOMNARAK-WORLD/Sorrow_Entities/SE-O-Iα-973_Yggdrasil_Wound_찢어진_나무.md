@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan, worked by a rostered perceiver with a grounding partner. Pugnahan is prohibited: it demands one account, and the demand is the injury. |
 
 ### Operational Notes
 
@@ -99,14 +99,14 @@
 ## Appearance
 **Physical Form:** A tree-beast split crown-to-root, each half a lurching creature dragging itself on half a root-system. **Movement:** Both halves crawl in different directions, straining to part.
 
-**Notable Features:** It contains no leaves, its roots grow through memory, and its warmth suggests something alive within the absence.
+**Notable Features:** No leaves anywhere on it, roots that run through recollection rather than soil, and a warmth in the cleft that rises whenever a memory is denied in its presence.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Mind
 - **Primary marker:** A tree-shaped presence split from crown to root, perceived inside consciousness as a warm empty space.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Not spatial in the contained state. It is where the observer is, and the only repeatable distance in the file is the one between its own two halves.
 - **Element signature:** Void
 - **Registered location:** Zone B, deep tunnels
 
@@ -116,9 +116,9 @@
 |---|---|
 | **Form** | A tree-shaped presence split from crown to root, perceived inside consciousness as a warm empty space. |
 | **Position / movement** | Two halves of one tree-beast, each dragging itself on half a root-system, moving independently and never far apart; the file records the entity as perceived mentally, and the distance between the halves is the only spatial measurement that has proved repeatable. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Material / signature** | Void. Ash on the air, pale wood in the breaching state, a glow in the tear, and a warmth that is indexed to denial rather than to the tunnel. |
+| **Distinctive markers** | Cleft width at crown and at root, steadiness of the glow, reported warmth per observer, and the list of who could see it. |
+| **Identification** | Ask the detail what they can see. If everybody can see it, it is not this and the tunnel has a different problem. |
 
 ### Appearance States
 
@@ -136,20 +136,20 @@ This entity is recorded in two distinct states, and the SECC Classification abov
 **Appearance protocol:** Declare the state first, then record within it. In the **Non-Breach Appearance**, log the cleft width at crown and at root, whether the glow within it is steady or pulsing, and the temperature reported by each observer — warmth here is not ambient but indexed to denial. Then record a fact the standard protocol has no field for: who could see it. The Tree cannot be perceived by anyone without an unresolved memory conflict, so the list of observers is not a staffing note. It is a finding about those people, it is generated involuntarily, and it must be handled as welfare material rather than circulated with the survey. In the **Breaching Appearance**, the cleft and the warmth are still the primary readings and are now instrument-measurable, and the observer list must still be taken — because the thing crossing the tunnel remains invisible to personnel with nothing unresolved, who will record only the floor opening and the walls giving way.
 
 ## Origin
-- **Formation:** The Tree formed from a mind divided by loss.
-- **The Sorrow:** The grief of a person whose identity split around an event they could not survive remembering.
-- **The Event:** A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence.
+- **Formation:** From a mind that could not settle on one account of an event and was never going to be permitted to.
+- **The Sorrow:** Not forgetting and not lying. Having said two irreconcilable things, once each, truthfully, and being accompanied by both of them for the rest of a life.
+- **The Event:** A collapse in the Zone B deep tunnels that took every other man on the shift. He gave his account twice, four days apart, and the two accounts cannot both be true.
 - **The People:** One man who survived a collapse that took everyone else and kept a single memory of it, around which the rest of him divided. The record does not say what the memory was. It says he could not survive remembering it and did not stop.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+- **Expanded origin context:** His file is two inches thick and entirely in order. The first statement was taken at the tunnel head while he was still being dug out, and places him at the face when the roof went. The second was taken four days later in a ward bed and places him at the stair, forty metres back, where the others had sent him for timber. Both are signed. Neither can be withdrawn, because nothing on a file at this Company is ever withdrawn, amended or struck out. He asked eleven times across nine years for one of them to be taken off, specifying each time that he did not know which, and the Office refused eleven times, correctly. He worked the tunnels for another six years with both of himself on the record and then stopped appearing anywhere except in this one.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The split closes slightly and roots become visible. | Decrease |
-| **Pugnahan** | The tree tears further through the worker's thoughts. | Increase |
-| **Viderehan** | Shows the memory held on each side of the split. | Stable |
-| **Ferrehan** | Tests whether the worker can remain between both memories. | Decrease |
+| **Flerehan** | The cleft narrows by a centimetre or two and the root-system comes into view on both halves at once. | Decrease |
+| **Pugnahan** | Prohibited. The tear widens through the worker's own recollection, and two of the three logged attempts ended the Warden's service. | Increase |
+| **Viderehan** | The face on one side and the stair on the other, held simultaneously, with no indication which is the true one. Gauge holds. | Stable |
+| **Ferrehan** | Staying put between the two accounts for the interval: not choosing, not reconciling, not deciding. Remaining. | Decrease |
 
 
 
@@ -160,18 +160,18 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Reading the response:** Flerehan brings the gauge down and the split closes slightly as the roots become visible — grief shared with it reduces the gap, which is as close to treatment as this holding permits. Ferrehan also brings it down, and the test is exact: whether the worker can remain between both memories. Not choose between them, not reconcile them, not decide which is true. Remain. Viderehan holds level and shows what is held on each side of the split, which is informative and leaves the gap unchanged. Pugnahan raises the gauge and tears the tree further through the worker's own thoughts, because confrontation demands a single account and the demand for a single account is the injury. The management condition states the whole of it: ground the worker, and permit both memories to remain.
 ## Breach Behavior
 
-> *"Torn Tree has broken free. Extends roots through the floor, entangling personnel."*
+> *"Yggdrasil Wound — logged for sixty years as Torn Tree — has crossed into the breaching state. Roots through the floor at the junction."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **State change** | The entity leaves the Non-Breach Appearance and enters the Breaching Appearance: what was perceived inside consciousness acquires wood, weight and roots. |
-| **Movement** | Yggdrasil Wound rampages on its limbs, crashing through walls. It extends roots through the floor, entangling personnel. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
+| **Movement** | Both halves lurch through the tunnels in different directions, straining apart, bringing down walls between them and putting roots through the floor. |
+| **Effect** | Clarity drains: personnel lose the order of their own recollections first and the content of them second. |
+| **Secondary Effect** | A numbness spreading outward in which names and faces go, starting with the ones the affected person has most recently argued about. |
 | **Retained non-breach mechanic** | The perception gate persists. Physical manifestation does not make the entity visible to everyone; personnel with no unresolved memory conflict perceive the damage and not the cause. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **First Target** | Nobody. It is going nowhere in particular and both halves are going there separately; personnel are caught between them. |
+| **Escalation** | Clarity drain rises by 5 each interval, and the cleft widens measurably with every statement contradicted in the tunnel. |
 
 ### Escalation Notes
 
@@ -253,7 +253,7 @@ Each piece remains part of the Tree, and the set is organised around holding two
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial. The grade will not rise while the instrument is a roster of people: everything known about this holding was perceived by staff who qualified to perceive it by being in trouble of their own, and the wing declines to claim a higher grade on evidence collected that way.
 
 - The Tree is perceived mentally rather than physically.
 - Its warmth increases when a memory is denied.
@@ -290,7 +290,7 @@ The grief of a person whose identity split around an event they could not surviv
 Management: Ground the worker and permit both memories to remain. Work response — Flerehan: The split closes slightly and roots become visible. (Decrease); Pugnahan: The tree tears further through the worker's thoughts. (Increase); Viderehan: Shows the memory held on each side of the split. (Stable); Ferrehan: Tests whether the worker can remain between both memories. (Decrease). Personnel report grief after the presence fades.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+The collapse schedule names him once. His own file names him twice and disagrees with itself about where he was standing, because both statements were taken properly, signed properly, and are therefore permanent. The Records Office has produced the file at two inquiries as a demonstration that the archive cannot be laundered, which is true, and is the reason the Zone B watch reads the cleft against the Office's annual return on accompanying variants.
 
 ## 최종 관찰 (Final Observation)
 
@@ -328,9 +328,9 @@ The Tree moves through the Zone B deep tunnels and is perceived rather than enco
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Torn Trace** | Both divide identity without destroying it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Tree** | Shares warmth within emptiness. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Well** | Draws conflicting memories from its surface. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Torn Trace** | Both divide an identity and neither finishes the job. Observers who can perceive one can perceive the other, every time, which is the only instance of the gate running in parallel. | Cleft unchanged; the perception rosters of the two holdings are effectively one list. | Record the roster overlap. Welfare material, not survey material. |
+| **The Hollow Tree** | Two absences of different kinds: one a cavity nothing ever filled, one a tear between two things that are both there. The warmth transfers; the emptiness does not. | Cleft warmth rises in the perceivers while the Hollow Tree's acoustic rings are unchanged. | Record warmth per observer and the Gardens ring readings side by side. |
+| **The Memory Well** | The Well brings contradictory recollections up out of whoever is present, which widens the cleft within the hour. The one pairing attempted added four centimetres and none of it came back. | Permanent widening. The prohibition is absolute and dates from that pairing. | Not to be repeated. The cleft series is annotated at that year for anybody reading the trend. |
 
 **Interaction procedure:** Record which observers perceived the encounter and which did not, the separation, the duration, the gauge movement, the cleft width throughout, and each observer's account written independently of the others. Discrepancies between accounts are retained in full.
 
@@ -364,28 +364,48 @@ Some sorrows mourn a loss. Yggdrasil Wound mourns the tearing — the mind split
 **Common Name:** Yggdrasil Wound
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Minor (α) contained, and materially worse breached, when the floor opens for personnel who cannot see what opened it. The danger is not the entity's intent — it has none recorded — but the perception gate: the people best placed to respond are the people least able to perceive the thing they are responding to.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Flerehan closes the cleft slightly and is the nearest thing to treatment permitted here; Ferrehan holds the worker between both memories without asking them to choose. Pugnahan is prohibited, demanding as it does a single account.
+- No door is relevant. The measures are the perception roster, the grounding-partner rule, and the standing instruction that both accounts stay on the record and neither is struck.
+- At count zero it acquires wood, weight and roots, and the transition has never reversed. Do not seal the tunnel; there is nothing in it to seal in.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** See Origin section — ‘The People’ field.
+- Formed from one tunnel worker who survived a collapse that took everyone else, kept a single memory of it, and gave two mutually exclusive accounts of that memory, both of which remain on his file because nothing on a file is ever removed.
+- Cleft width at crown: 11, 17, 24 centimetres across the three annual returns. Warmth indexed to denial throughout; the roster of those who can perceive it turns over by roughly a third a year.
+- Extraction is performed in perception, by an operative who by definition carries an unresolved conflict, with a grounding partner present and never within a week of a bereavement or a disciplinary finding.
+**Cross-References:** Zone B deep tunnels · The Torn Trace · The Memory Well · the perception roster · the Records Office rule against amendment · the Later Statement series
+**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (identity-division relevant)
+**Originator:** A tunnel worker of Zone B, named in the collapse schedule and in no other document that agrees with itself.
 
 ### Registry Addendum
 
 **Operational interpretation:** Two descriptions in this file appear to disagree and do not. The classification records the Tree as incorporeal with no vessel, perceived mentally rather than physically; the breach record describes it rampaging on its limbs, crashing through walls and extending roots through the floor. Both are accurate, and they are accurate at different times — the Appearance States table above sets out the Non-Breach and Breaching forms as a single mechanic with two readings rather than as a contradiction to be argued over. Personnel should take three consequences from that. The classification table describes the contained state only, and is not a description of what a response team will meet. The state change is one-way on the current record, so the Non-Breach protocols are preparation and not a fallback. And the perception gate survives the transition, which means a breach here produces two incompatible but equally honest accounts from the same corridor — one of an entity, one of a building failing. Both are filed, as they are for every other reading taken against this holding, and the disagreement between them is not an error to be resolved on the way back.
 
 **Review requirement:** After any incident, verify the gauge, the activation count, the cleft width and the personnel exposure log — and review the perception roster against the previous one. A worker newly able to perceive the Tree, and a worker who has stopped being able to, are both findings, and the second is not automatically good news; it may mean a conflict has been resolved, or it may mean it has been buried. Neither conclusion is drawn from the roster alone and neither is recorded as a performance matter.
+## Statement Record
+
+### What the Cleft Is Measuring
+
+Eleven centimetres at the crown, then seventeen, then twenty-four. The reading is taken by the rostered perceivers, in their own words, with a grounding partner keeping the time and writing down everything said, and no instrument has ever registered the gap in the contained state. The warmth is indexed to denial and the glow is sometimes steady and sometimes not, but the width is the figure the watch keeps. It does not follow the Tide, the tunnel works programme or the turnover of the roster, all three of which have been tested against it. It follows one line in the Records Office annual return: files carrying two or more mutually exclusive statements made by the same person about the same event.
+
+Nothing at this Company is ever taken off a file. A statement, once given, stands: it cannot be withdrawn, amended, superseded, redacted or struck out, and a correction is added beside the thing it corrects rather than in place of it. The rule is the archive's spine and the Office defends it without apology. Amendment was how the record used to be laundered. Officers took a man's account, read it back wrong, and had him sign the corrected version; the original went in the stove. In the Year 4203 proceedings, 212 statements were found to have been amended after the fact in the same three hands, and not one of the men who gave them could prove what he had originally said, because the only copy had been improved. An append-only archive cannot be improved. Everything anybody ever did to the record is still visible in it, which is the entire protection, and nobody who has read the 4203 findings proposes giving it up.
+
+Its consequence is that a person is permanently accompanied by everything they ever said, including the things they said while concussed, bereaved, frightened or being dug out of a tunnel. There is no mechanism of any kind for being wrong once. A man who gave one account at the tunnel head and a different one four days later in a ward bed is, in the Company's record and for ever, two men who cannot both exist, and the record is right to keep both, and he had to go on being both for the remaining six years of his service. The cleft in the Zone B deep tunnels is twenty-four centimetres across at the crown and is wider at every return.
+
+### The Later Statement
+
+Instituted Year 4226. A person may at any time add a further account of any matter on their file. It is placed physically at the front, ahead of everything earlier, stamped with its date and flagged as the most recent. Nothing is removed. The earlier statements follow it, in order, exactly as they always did.
+
+Year 4237: 18,744 later statements filed; 0 removals; 0 seals; 6,207 instances in which an officer, considering a matter, relied on an earlier statement rather than the most recent, which is lawful and is not recorded as an irregularity; and 4,912 files still carrying two or more mutually exclusive accounts by the same person, which is the figure the Zone B watch sets the cleft against.
+
+The costs are set out in the Office's own standing note. Being first in the file is not the same as being believed: the later statement is read first and the earlier one is read next, by the same officer, in the same sitting, and any officer may prefer whichever they find more convincing. Filing one is itself evidence — a person who corrects themselves has, on the face of the file, now said two things, and the Office records 1,300 people a year who begin a later statement and do not lodge it for exactly that reason. And the series grows: a man who revises three times is accompanied by four of himself, all current, all permanent.
+
+The registry clerks asked for a seal. Not deletion — they were explicit that deletion is unthinkable — but the power to seal a statement taken from somebody concussed, bereaved or still underground, so that it remains on the file and can only be opened on an order. Refused, and the refusal is right in the way that costs the most: a seal is a judgement about which of a person's words count, the judgement belongs to an officer, and an officer deciding which account to keep closed is the Year 4203 stove with a better lock on it. Their submission stands in the Year 4230 return, recorded as correct and unanswered. It is quoted on the perception roster's cover sheet, where the Zone B watch put it: we made the record permanent so that nobody could ever be rewritten, and some men cannot be two things at once for thirty years and stay one man.
+
 ## Trivia
 
-- Its warmth comes from the space between conflicting memories.
-- It cannot be perceived by people with no unresolved memory conflict.
+- The warmth is in the cleft itself, between the two accounts, and it rises the moment either one is denied.
+- Nobody without an unresolved conflict of their own has ever perceived it, in either state, under any instrument.
 
 
 
@@ -394,7 +414,7 @@ Some sorrows mourn a loss. Yggdrasil Wound mourns the tearing — the mind split
 - **Classification detail:** Yggdrasil Wound is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone B, deep tunnels.
 - **Recognition detail:** Identify by the cleft. A tree-beast split crown to root, the two halves dragging separately, with a glow in the tear between them and a warmth that does not match the tunnel air.
-- **Record detail:** The deep tunnels hold several Void residues formed from divided or interrupted identity; confirm the designation O-Iα-973 and the Subject-Mind manifestation before applying this file to any of them.
+- **Record detail:** The deep tunnels hold several Void residues formed from divided or interrupted identity; confirm the designation O-Iα-973 and the Subject-Mind manifestation before applying this file to any of them. Distinguish it also from the holdings it sounds like: Melting Rope keeps an attachment one side stopped renewing, while this one keeps two statements that cannot both be true and cannot either of them be taken off a file. Corrected at the whole-file clean: a stub Registrum that referred the reader to other sections instead of recording anything, an Origin paragraph belonging to a singer in another file, a faction line placing a Zone B holding in D-territory, and a blank M.A.W. grade against three α pieces. The breach quotation's *Torn Tree* is retained as the earlier designation and labelled.
 - **Containment detail:** No door is relevant to this holding. It is perceived rather than located, and it reaches only those carrying an unresolved conflict of their own — which means the containment boundary is drawn through the staff, not around the tunnels, and that it moves as people's lives do. The practical measures are the perception roster, the grounding-partner rule, and a standing instruction that both accounts stay on the record.
 ## Document Information
 
