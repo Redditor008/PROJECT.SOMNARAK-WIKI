@@ -213,7 +213,7 @@ The ones that cost F01 containment, not just personnel.
 | Dreaming Ruin | `SE-N-IIIγ-505` | *"It builds, on the bearing it was facing when it broke, and whatever stands on that bearing stops being a wall where the lost house had a doorway."* Two partition incidents, Year 4229 and Year 4233, each left a neighbouring holding open for several minutes. It has never attacked a person; the rating rests on the walls, not on aggression. |
 | Repose | `SE-O-IVδ-844` | *"Repose has broken free. Collapses the facility structure around it."* |
 | Ephemera | `SE-O-Iα-189` | *"Ephemera has broken free. Collapses the facility structure around it."* |
-| The Smothering Mother | `SE-N-IVδ-005` | *"Breaks free and moves through the facility seeking 'children' to protect. Grabs personnel and holds them. The held feel perfectly safe."* Interaction Record: *"Holds the Child gently — the only entity she embraces without pulling."* She removes responders from the board during somebody else's incident. |
+| The Smothering Mother | `SE-N-IVδ-005` | *"Breaks free and moves through the facility seeking 'children' to protect. Grabs personnel and holds them. The held feel perfectly safe."* Interaction Record, re-evidenced after the file's rewrite: *"Holds the Child and does not close the hold — the single occasion in the record of a grip she opens herself"*, and the Orphaned Bell row, where the tolling is the only reliable suppression of her reach and the wing has declined to use it. She removes responders from the board during somebody else's incident, and the breach response diverts the floor's smallest personnel by name before anything else is attended to. |
 
 ---
 

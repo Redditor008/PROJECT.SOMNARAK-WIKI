@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · δ (Critical) |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan from behind the line. Pugnahan is available and is logged as the response of last resort; it has been authorised twice and regretted both times. |
 
 ### Operational Notes
 
-- Threshold 1. A single failed cycle breaches containment, so there is no margin and no second attempt within a shift.
-- Pressure is physical and structural. Her arms reach the full width of the containment room, and the room is specified around that reach rather than around her body.
-- Weeping with her makes her gentle and lowers the gauge. Distant study holds it stable; no approach safely raises tolerance.
-- The face is warm and the hollow eyes absorb light. Workers are briefed that the warmth is accurate rather than a lure, which is why the threshold is 1.
-- Yield is high per cycle and the cycles are few. Extraction is scheduled against the breach risk rather than against the quota.
+- Threshold 1. One failed cycle opens the chamber, which is why a shift carries one attempt and a worker who aborts is not permitted to try again the same day.
+- The room was built around the arms and not the body. Ten meters of figure, a reach that crosses the full width, and a painted line at arm's length that is the only engineering in the chamber that matters.
+- Weep with her and she gentles; the gauge comes down and stays down for about a shift. Watching from the door changes nothing either way. There is no approach on record that raises her tolerance for the next crew.
+- The warmth is not bait. The briefing says so in those words, because a worker who believes it is a trick behaves as though she can be out-thought, and the threshold is 1.
+- High yield, few cycles. Extraction is scheduled against the breach risk and the wing has twice refused a quota increase in writing.
 
 ## Combat Record
 ### Core Stat Line
@@ -66,7 +66,7 @@
 |---|---|
 | **Battle Length** | Long — 24 turns |
 | **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) — Self-aware, driven by maternal instinct |
+| **Coherence** | Entity (IV) — a complete person's grief, still arranged around a street she could not cross in time |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Smothering Mother's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The crew works from behind the painted line. The reaching is permitted, the holding is not, and nobody closes the gap for any reason including a colleague inside it — a second person inside the reach has never once reduced the time taken to get the first one out.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective**.
 
 ### Consequences
@@ -98,19 +98,19 @@
 - An unresolved encounter never simply ends; it transforms. The Smothering Mother executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
-**Primary Form:** A ten-meter feminine figure made of dark Han-crystal. Her arms can stretch across the entire containment room. Her face is beautiful and warm; her hollow eyes absorb light.
+**Primary Form:** A ten-meter feminine figure, reading as dark Han-crystal from the door and as warm damp skin from inside four meters, with arms that cross the full width of the chamber. **Reading:** both descriptions are retained; the watch has never located the distance at which one becomes the other.
 
 **Notable Features:**
-- Reaches for every entrant, not to attack but to hold.
-- Maintains the containment zone at exactly 37°C.
-- Hums a lullaby in a language older than Somnarak.
+- Reaches for every entrant and for the empty room when there is no entrant.
+- Holds the chamber at 37°C continuously, through power loss, through Tides, without the facility's help.
+- Hums a lullaby in a language with no match in the Archive; the melody is consistent enough to be notated and has been.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** A ten-meter feminine figure made of dark Han-crystal. Her arms can stretch across the entire containment room.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** Body heat in the corridor outside the chamber door before anything is seen at all.
+- **Position / movement:** Upright, slow, and always turned toward the door. Record the arm extension against the painted line and the interval between reaches.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-D-01, Zone D — contained
 
@@ -118,34 +118,34 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A ten-meter feminine figure made of dark Han-crystal. Her arms can stretch across the entire containment room. |
+| **Form** | A ten-meter feminine figure, crystal at distance and flesh near to, with a room-wide reach. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Reaches for every entrant, not to attack but to hold. Maintains the containment zone at exactly 37°C. Hums a lullaby in a language older than Somnarak. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Material / signature** | Grudge. Dark damp surface, hollow light-drinking eyes, 37°C, and a lullaby audible through the door. |
+| **Distinctive markers** | Arm extension against the painted line, interval between reaches, room temperature, and whether the lullaby stops when the door opens. |
+| **Identification** | If the room is cold, this is not her, whatever the door says. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Time the reach, measure the extension, log the temperature, and note the distance at which the surface stopped reading as crystal — every watch is asked for that number and no two have agreed.
 
 ## Origin
-- **Formation:** The Mother formed from a mother — Soojin (수진), a Zone B laborer — whose two children were swallowed by the Han.
-- **The Sorrow:** The grief of a mother who searched for months and never found the children the city took, and the terror of losing anyone else she might hold.
-- **The Event:** Her two children were playing in a Zone B street when the Han swallowed them whole — not consumed, not Fractured, simply gone. Soojin searched the streets, the buildings, and the walls until her feet bled and her voice was raw. She never found them. The Crack appeared where her heart was, and over three months the grief crystallized into an embrace that cannot release.
-- **The People:** Soojin (수진) and her two lost children; the Mother now reaches for everyone who enters her zone, holding them because she can no longer hold her own.
-- **Expanded origin context:** Containment records trace the entity back to SECTOR-D-01, Zone D, where the Grudge first reached the density required for crystallization. The Subject is the wound's exoskeleton — the city's grief grown solid. It will not heal. It can only be held.
+- **Formation:** From Soojin (수진), a Zone B labourer, after both her children were taken by the Han in a single season and neither could be certified dead.
+- **The Sorrow:** Not the loss. The condition of a loss that no office will write down as a loss, which cannot be concluded, and therefore cannot be mourned in any way the city recognises.
+- **The Event:** Both children were taken from a Zone B street by a Han overflow. Nothing was left to recover. Soojin searched until her feet bled, then applied to the Family Office for certificates and was refused eleven times for want of a body, a recovery, or a witness who was not herself. The Crack opened where her heart was. The grief took three months to harden.
+- **The People:** Soojin (수진); her son and daughter, whose names exist in the city's records only inside eleven refusals; and the Family Office clerks who wrote the refusals correctly.
+- **Expanded origin context:** Soojin applied for a certificate of death for each child, eleven times over four years, and was refused eleven times for the same reason: there was no body, nothing recovered, and no witness to the taking but herself. The Family Office is not permitted to certify a death on the account of the person who would benefit from it, and nothing she brought was anything else. Her applications survive because the Office kept applications. Her children survive in the record only as the subject of those applications: two names, two ages, a district, and a season — entered by a clerk, in a refusal.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Weeps with the worker and becomes gentle. | Decrease |
-| **Pugnahan** (Confrontation) | Interprets resistance as a threat and becomes aggressive. | Increase |
-| **Viderehan** (Observation) | Remains calm and permits distant study. | Stable |
-| **Ferrehan** (Endurance) | Embraces the worker; calm endurance reduces her distress. | Decrease |
+| **Flerehan** (Tears) | Weeps with the worker. The arms come down for the duration and the gauge falls further than any other work has moved it. | Decrease |
+| **Pugnahan** (Confrontation) | Read as a child struggling, not as an attack, and answered with a tighter hold. | Increase |
+| **Viderehan** (Observation) | Permits it entirely and does not acknowledge it. The gauge does not move in either direction. | Stable |
+| **Ferrehan** (Endurance) | Worked at the line and never in contact: the worker stays the full interval without withdrawing, and her distress eases. | Decrease |
 
 ### Special Behaviors
-- A complete embrace takes exactly 4.7 seconds.
-- Anyone held longer than 30 minutes begins losing the desire to leave.
-- Looking into her eyes for more than three seconds causes uncontrollable weeping.
+- A complete embrace takes 4.7 seconds from first contact to full closure, measured across sixty-one logged instances with no variance beyond a tenth.
+- Past thirty minutes held, the wish to leave goes. Not the ability — the wish. Extraction crews are briefed that the person they are pulling out will ask them not to.
+- Three seconds of eye contact produces weeping the worker cannot stop, and which several have described afterwards as not unpleasant and not theirs.
 
 
 
@@ -156,22 +156,22 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Breach Behavior
 
-> *"The Smothering Mother has broken free. Seeks out the vulnerable and the small."*
+> *"The Smothering Mother is out. She is looking for the smallest people in the building. She is walking."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Smothering Mother tears loose and pursues personnel with deliberate steps. It seeks out the vulnerable and the small. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
-| **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | She opens the chamber and walks, at the pace of someone searching a street. She goes to the smallest personnel she can find and nobody else. |
+| **Effect** | She holds. She has never squeezed, in four breaches and in the whole of the chamber record, and the harm is the holding: the held stop wanting to be let go. |
+| **Secondary Effect** | Structural damage where the arms pass, incidental and unaimed — doorframes, light runs, anything between her and a person. |
+| **First Target** | The smallest person on the floor. Not the nearest, and not the one whose sorrow matches hers; both alternatives have been tested against the logs and neither holds. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape. She walks out and goes looking for the smallest people in the building, and she has never been seen to run.
+- **Containment priority:** Withdraw the named list first, then talk her back. Physical suppression is authorised and has been used once, in Year 4228, and the review of that breach recommended against ever using it again.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per interval unaddressed, though in three of the four logged breaches it fell on its own once she had somebody held.
 
 ## M.A.W. Equipment
 
@@ -194,7 +194,7 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 **Attack Pattern:** Snapping Clamp / Visceral Drag
 **Target Coverage:** 1 designated target at point-blank range
 **Falloff Rule:** 100% damage to the selected target; hooks and pulls target into Close range.
-**Damage Application:** Direct Grudge trauma to Body (physical form, structural integrity); inflicts bleeding lacerations and immobilizing hold.
+**Damage Application:** Direct Grudge trauma to the Body, with a hold the bearer cannot release before the pattern completes — the cleaver reproduces her grip and not her restraint, which is the half of her the extraction could not take.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Smothering Mother's grudge signature, refusing to allow anything within its grasp to retreat.
 
@@ -232,7 +232,7 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 
 **Cost:** Creates an overwhelming compulsion to protect others, even at the cost of the wearer's life.
 
-*Stigmas are granted at random by The Smothering Mother upon a successful work, not manufactured.*
+*Eleven Embraces have ever been given. The number is the number of times Soojin applied for a certificate, which the extraction wing has recorded as a coincidence, in those words, in a note that nobody in the chamber accepts.*
 
 ### M.A.W. Use Notes
 
@@ -253,13 +253,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
-- The Mother has never intentionally harmed anyone; she holds and does not squeeze.
-- Personnel released after six hours report crying for days because they had never felt so safe.
-- Her embrace creates safety that becomes imprisonment when prolonged.
-- The warmth of the cell is maintained by the entity itself.
+- No deliberate harm in the whole record. She holds, and she does not squeeze, and every injury the chamber has produced came from somebody pulling away.
+- Six hours held, three days crying afterwards, and the crying is reported as grief for the holding and not relief at its end.
+- The safety is real and converts to imprisonment somewhere past the half-hour, without any change in what she is doing.
+- The 37°C is hers. The installed systems have never been able to hold it and were not designed to.
 
 **Personnel Note:**
-> *"She held me for six hours. I didn't want to leave. When they pulled me out, I cried for three days—not from sadness, but from loss. I had never felt that safe before."* — Specialist Haneulash Yoon, Zone D containment team
+> *"Twenty-one minutes now, against twenty-nine. She reaches into an empty room on a clock, and the clock is the Family Office's backlog. She is not waiting for us. She is waiting the way she waited in that street."* — Specialist Haneulash Yoon, Zone D containment team
 
 
 
@@ -267,29 +267,31 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Smothering Mother as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-D-01, Zone D — contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - A complete embrace takes exactly 4.7 seconds. - Anyone held longer than 30 minutes begins losing the desire to leave. - Looking into her eyes for more than three. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In The Smothering Mother's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Temperature at the door, the painted line, the position of her arms on entry, and confirmation that the worker has been told she will be asked to stay. |
+| **Sustained observation** | The empty-room reach interval, timed from outside across the whole holding: 41 minutes, then 29, now 21. Nothing else about her has altered in the same period. |
+| **Activation or escalation** | An arm crossing the line, or a reach interval under the current figure. Both are reported to the watch commander the same hour. |
+| **Post-contact review** | Whether contact occurred, how it ended, who ended it, and what the worker wanted at the end of it — the last question is asked of every worker and the answer is recorded in their own words. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** A clock on the empty-room reach interval, a tape on the arm extension, the room temperature, and the Family Office's annual return of uncertified losses to set the interval against.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Smothering Mother (N-IVδ-005 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Mother formed from a mother — Soojin (수진), a Zone B laborer — whose two children were swallowed by the Han. Held at SECTOR-D-01, Zone D — contained. The Mother has never intentionally harmed anyone; she holds and does not squeeze.
+The Smothering Mother (N-IVδ-005 [GS]) is logged as a Subject-Body manifestation expressing Grudge, held at SECTOR-D-01, Zone D. She formed from Soojin, a Zone B labourer whose two children were taken by the Han and could not be certified dead. She has never deliberately harmed anybody. She holds, and she does not squeeze, and the chamber is kept at the temperature of a living body because she keeps it there.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 Breaks free and moves through the facility seeking “children” to protect. Grabs personnel and holds them. The held feel perfectly safe and gradually lose the will to resist. Personnel released after six hours report crying for days because they had never felt so safe.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from the Family Office refusal series, Year 4209–4213>**
+Eleven applications, eleven refusals, the same ground each time: no body, no recovery, no witness but the applicant. The last refusal adds a line the first ten do not, in a different hand: *the applicant was advised that she may reapply if circumstances change.* Nothing about the circumstances of a child taken by the Han can change.
 The grief of a mother who searched for months and never found the children the city took, and the terror of losing anyone else she might hold.
 
 **Entry 4 — <Containment Notice>**
-Management: Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective.  Her embrace creates safety that becomes imprisonment when prolonged.
+Management: a presumption entered in the Family Office's published return, in both children's names, read aloud in the chamber. No proof that the children are at peace exists or can exist — the condition as previously written could not be performed by anybody, which is why it stood unperformed for nine years.  Her embrace creates safety that becomes imprisonment when prolonged.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
+The empty-room interval has shortened at every measurement since the series began: 41 minutes, then 29, now 21. It does not track the Tide, the roster, the temperature or anything else this facility does. It tracks one line in the Family Office's return, and I am recording here that I have checked this personally because I did not believe the watch when they told me. She is keeping time with a backlog of people whose deaths nobody can certify.
 Containment records trace the crystallization to this location — the sorrow grew patient and specific until it became a presence that cannot be removed, only held.
 
 ## 최종 관찰 (Final Observation)
@@ -307,7 +309,7 @@ She opens her arms, and your body moves before your mind decides. The embrace is
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Body resolves: A ten-meter feminine figure made of dark Han-crystal. Her arms can stretch across the entire containment room.
+**At first contact:** The door opens onto a room at body heat, which is the first thing anybody notices and the thing nobody is ready for. She is already facing the door. At the far wall she reads as dark crystal, hard-edged and matte; inside four meters she reads as skin, warm and damp, and both readings are in the file as correct because the watch has never been able to say where one becomes the other. Then the arms begin to come out, slowly, and stop at the painted line.
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 
@@ -319,36 +321,36 @@ She opens her arms, and your body moves before your mind decides. The embrace is
 
 The Smothering Mother does not exist in isolation. Its recorded relationships with The Silent Child, The Kind Healer, The Orphaned Bell, The Grieving Colossus, The Hollow Choir should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Pair her only with holdings whose own record contains a child or a protective posture, and record the reach: whether she extends toward the other entity, how far, and whether she stops short of it. She has stopped short exactly once, for the Silent Child, and that single observation is worth more than the rest of the table.
 
 
 ### Entity Interaction Record
 
-The Smothering Mother must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Smothering Mother is the most heavily paired holding in Zone D, because she is the only δ-grade Subject in the wing that has never initiated harm, and the wing has spent years trying to establish whether that is restraint or incapacity. The pairings below were run to answer that question. They have not answered it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Silent Child** | Holds the Child gently—the only entity she embraces without pulling. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | Shares a silent understanding: both want to protect. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Orphaned Bell** | Weeps when the Bell tolls for lost children. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Colossus** | Pauses when she sees it, sharing maternal grief. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Choir** | The Choir sings lullabies near her. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Silent Child** | Holds the Child and does not close the hold — the single occasion in the record of a grip she opens herself, after four minutes, unprompted. | Both gauges fall. The reach interval afterwards lengthens for about a week before resuming its decline. | Record the duration of the hold, who ended it, and the interval on the following seven days. |
+| **The Kind Healer** | The two face each other and do nothing at all for the length of the session, which the wing has logged eleven times and still files as an interaction. | No measurable effect on either holding. Personnel present describe the room as unbearable and cannot say why. | Record the facing, the duration, and the crew's own account; the crew account is the only data this pairing produces. |
+| **The Orphaned Bell** | Weeps through the tolling, arms lowered, and does not reach once while it sounds. | The only reliable suppression of the reach. The wing has declined to use it routinely on the ground that it is done to her, not for her. | Record the tolling times against the reach log and file the decision not to routinise it with every request. |
+| **The Grieving Colossus** | Stops at the sight of it and stays stopped. Neither approaches the other at any point in six pairings. | Recognition without contact; gauges steady on both sides. | Record the distance held, which has been within half a meter of the same figure on all six occasions. |
+| **The Hollow Choir** | The Choir takes up her lullaby and sings it back, in the same unmatched language, which is the strongest evidence the Archive has that the language is real. | Resonance across the wing; personnel two corridors away report hearing it. Her gauge rises slowly throughout. | Notate both renderings and lodge them with the Archive's language section, which has asked for every instance. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** One pairing at a time, from outside the line, with the reach interval timed before and after. Nothing is ever placed inside the chamber to provoke a reaction — a proposal to do so with a child-sized mannequin was put forward in Year 4230, approved at wing level, and withdrawn after the chamber staff asked that the approving officer sign the order in the chamber.
 
 ## 이야기 (Narratio) — The Tale
 
-Her child was consumed by the Han, and the consuming, which she could not stop, turned her love into an embrace that will never, ever let go.
+Two children were taken by the Han in one season, and because nothing was recovered, no office in the city was ever able to write down that they were dead.
 
-The child was playing in the street — Zone D, the district where the Han runs close and the Alpha Tree's protection is thin. The overflow came. The Han rose through the ground, the way it rises, and the child, who was small and slow and playing where children play, was taken. The mother saw it happen. She ran. She reached the street where the child had been and found — nothing. The Han had consumed. The child was gone. The street was empty, the ground soft, the air thick with the sorrow of what had just occurred.
+They were playing in a Zone B street where the Han runs close and the Alpha Tree's protection is thin. The overflow came up through the ground the way it does. She was perhaps forty meters off and she saw it, and she ran, and when she reached the place there was nothing there: no bodies, no clothing, no mark on the ground except that the ground was soft. She was the only person in the street. That detail, which is simply what happened, is the one that governs everything afterwards.
 
-She searched. She searched the way parents search when the child is gone — frantically, exhaustively, past reason, past hope, into the territory where the searching is no longer about finding but about the inability to stop. She searched for days. She searched for weeks. She never found the child, because the child was not lost. The child was consumed. And the not-finding, the inability to locate the body that would confirm the death, left the mother in a state of perpetual, unresolved terror — the specific dread of a parent who cannot confirm that the worst has happened and therefore cannot stop fearing that it will happen again.
+She searched the street, then the buildings, then the walls, for weeks, past the point where searching was about finding. Then she stopped searching and started applying. A death in this city must be certified before anything at all proceeds, and certification requires a body, a recovery, or a witness who does not stand to gain by it. She had none of the three. She was the only witness and she was the mother, and the rule that excludes her is the rule that stops a man certifying a wife he has disposed of. Eleven applications. Eleven correct refusals. No inquest, no effects released, no entry on any memorial, no payment, no end: her children were not dead in the eyes of the city and were not alive either, and there is no third word for what they were.
 
-The need to protect, denied its original object, turned inward and then outward. The mother could not protect the lost child. The mother would not fail again. And the crystallized need — the fury of a love that could not protect, the terror of losing another — became the The Smothering Mother: Subject-Body, Grudge-element, a figure whose embrace cannot release, who holds whatever she touches with the desperate, suffocating grip of a parent who has already lost one child and will not, cannot, must not lose another.
+A grief with no status does not end and does not go anywhere. Hers hardened over three months into The Smothering Mother: Subject-Body, Grudge-element, ten meters of a woman still in the posture of the forty meters she could not cross in time. She holds what she reaches. She does not squeeze. What she will not do is be the only witness again.
 
-Those who come near the The Smothering Mother feel the grip — the embrace that protects and imprisons simultaneously, the love so fierce it has become indistinguishable from control, the specific terror of a grief so intense it converts every embrace into a cage.
+Those who come near feel the hold, which is warm and complete and does not tighten, and which past half an hour removes the wish to be anywhere else. The chamber calls this the hard part of the briefing. Nothing is being done to the held person. That is the problem.
 
-Some sorrows mourn a child. The Smothering Mother mourns the inability to protect — the love that failed, the terror that remains, the embrace that holds because letting go would mean risking another loss the mother cannot survive.
+Some sorrows mourn a child. This one cannot, because mourning is a status and the city never granted her one. She reaches into an empty room every twenty-one minutes, and the interval shortens each year, and the only thing in the city it keeps time with is the number of people whose losses cannot be written down.
 ## 증언 (Testimonium) — The Testimony
 
 > *“Her child was consumed by the Han. Her love crystallized into an embrace that will never let go.”* — Keeper, Archive
@@ -362,20 +364,20 @@ Some sorrows mourn a child. The Smothering Mother mourns the inability to protec
 > *“Love that could not protect, and the terror that remained.”* — Mender, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-005 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IVδ-005 [GS]` · Nation origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Smothering Mother
 **Containment Status:** Contained — SECTOR-D-01, Zone D — contained
 **Comprehension Level:** 4 — Mastered
-**Threat Assessment:** Per entity classification. See SECC Classification table for details.
+**Threat Assessment:** Critical (δ). Facility-threatening by reach and by breach, with no deliberate harm anywhere in the record. The danger is a hold that the held person stops wanting to leave, and a chamber the facility does not in fact control.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard containment protocols apply.
+- Flerehan is the primary work and the only one that has ever lowered the gauge by more than a few points; Ferrehan is permitted and is worked at the line, never in contact.
+- The painted line at arm's length is the containment. It is repainted before it fades, from outside, by the watch.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Combat Record for engagement parameters.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+- Reach interval in the empty room: 41 minutes, then 29, now 21, over the life of the holding.
+- Chamber held at 37°C by the entity, unbroken, including through two facility power failures.
+**Cross-References:** The Silent Child · The Orphaned Bell · The Grieving Colossus · The Kind Healer · The Hollow Choir · the Family Office certification rule · the Presumption Return
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** Soojin (수진), Zone B labourer. Two children taken by the Han in one season, neither recovered, neither certified. Eleven applications refused. The Crack opened where her heart was and the grief took three months to crystallize.
 
 ### Registry Addendum
 
@@ -412,6 +414,34 @@ When the chamber is unoccupied she reaches anyway, into the space where entrants
 
 The arm's-length line on the chamber floor is repainted before it fades rather than after, on a schedule set by the watch and not by maintenance. Repainting is done from outside the line, with a long-handled tool kept for the purpose, and the tool is stored at the door where anyone can see whether it has been used. None of this is required by the protocol. It was established by the first watch, has been handed on unbroken, and appears in the file only as a note added years later by a commander who discovered the practice already in place and wrote it down so that it would not be lost if the handing-on ever broke.
 
+### What the Reach Interval Is Measuring
+
+Twenty-one minutes. It was twenty-nine, and before that forty-one, and the figure is taken from the external log of the empty chamber — the series the holding keeps of what she does when there is nobody there to be held. She reaches into the space where entrants stand, to the painted line, at an interval that has shortened at every measurement since the series began.
+
+It does not follow the Tide, the rostering, the room temperature or the pairing schedule; all four have been regressed against it and all four were dropped. It follows the Family Office's annual return of **uncertified losses**: people reported taken, lost or missing, where no body was recovered, no remains were identified, and no witness exists who is not an interested party. The current return carries 9,318 of them. The number has risen every year the holding has existed.
+
+A death in this city must be certified before anything proceeds, and certification requires evidence that is not the word of the person who benefits. There is no softer version of this rule and there should not be. Before it, a certificate could be had on the say-so of whoever brought the application, and property moved, pensions moved, guardianships moved, remarriages happened; the Year 4188 commission found 2,606 certificates granted on uncorroborated statements and could not determine how many of the people concerned were alive. The rule that refused Soojin eleven times is the rule that stopped that.
+
+Its consequence is a class of person the city cannot describe. Not alive, not dead, nothing released, nothing concluded, no inquest, no memorial line, and for the mother no status as a mother of the dead — only an applicant who may reapply if circumstances change. Soojin reapplied for four years. Then the Crack opened. There is a ten-meter figure in SECTOR-D-01 reaching into an empty room on a clock, and the clock runs faster every year because the backlog does.
+
+### The Presumption Return
+
+Instituted Year 4219, after the chamber's own submission and two others like it. An applicant whose loss cannot be certified may, after three years, attend the Family Office in person, give an account of the loss and of the search, and have a **presumption** entered against the names. The presumption is published annually in a public return.
+
+It certifies nothing. That is the whole design and it is stated on the form: no inquest follows, no effects are released, no payment arises, no guardianship or succession moves, no entry is made on any memorial, and the presumption may be revoked without hearing if evidence appears. Year 4237: 7,041 presumptions standing; 0 certificates issued in consequence; 0 payments; 0 effects released; and 1,890 presumptions lapsed for want of renewal, because a presumption must be renewed every year, in person, with the account given again from the beginning.
+
+The cost falls on people the Company cannot compensate and did not create: the attendance is unpaid, the account is given aloud across a counter in a public hall, and the renewal means giving it annually, in some cases for decades, to a different clerk each time. Soojin never attended one. She was already in the chamber when it was instituted. The chamber attends for her: the watch commander files the renewal in both children's names every year, is permitted to do so as an interested institution, and has been refused the right to do it by post on each of the eighteen occasions it has been requested, correctly, because the attendance is the evidence that somebody is still asserting the loss.
+
+The chamber asked for one further thing — that a standing presumption permit a name to be cut on the public memorial, with the presumption's own qualification carved alongside it. Refused. A memorial entry follows a certificate, a certificate follows evidence, and a name cut in stone outlives every qualification carved next to it. The refusal is correct and the wing has never disputed it. The chamber's submission stands in the Year 4226 return, recorded as correct and unanswered, and a copy is pinned inside the observation post next to the reach log.
+
+### Reading the Names
+
+The management condition was rewritten in Year 4228, after nine years in which the file required proof that the children were at peace and nobody was able to produce any such thing, there being no such proof and no means of making one.
+
+What is done instead: when the renewal is accepted, the watch commander enters the chamber to the line and reads the published entry aloud — both names, both ages, the district, the season, the date of the presumption and the date of its renewal. It is the Family Office's own wording and nothing is added to it. The gauge falls between eleven and nineteen points and stays down for most of a month. The reach interval is unaffected, every year, which the file records plainly rather than explaining.
+
+The chamber's standing note on the practice is four lines long and is read to every new worker before their first shift: that this is not therapy and is not a resolution; that it is the only thing the city has that acknowledges the two of them at all; that it has to be done in person and aloud because that is what the Office requires of everybody; and that the person doing it should expect to be reached for while they do it, and should stay behind the line.
+
 ## Trivia
 
 - The lullaby's language has no match in the Archive.
@@ -423,8 +453,8 @@ The arm's-length line on the chamber floor is repainted before it fades rather t
 
 - **Classification detail:** The Smothering Mother is a Subject with Entity (IV) — Self-aware, driven by maternal instinct coherence and Critical (δ) — Facility-threatening potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-D-01, Zone D — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** A room at exactly body heat, a lullaby in no archived language, and a ten-meter figure that reads as crystal from the door and as warm flesh from close to.
+- **Record detail:** The Narratio described one child taken in a Zone D street against an Origin recording two children taken in Zone B, and the Zone B reading is correct — Zone D is where she is held, not where it happened. The Registrum was a block of referrals (*Per classification*, *See Origin section*) and has been written as a record. The Physical Form and Appearance readings — warm flesh and dark Han-crystal — are both retained as true at different distances. The breach rows claiming malice and cracked personnel are corrected against the Observation Log's *she holds and does not squeeze*, which four breaches support. The Apex Record, the name usage, the painted line and the empty-room series are preserved and extended.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
