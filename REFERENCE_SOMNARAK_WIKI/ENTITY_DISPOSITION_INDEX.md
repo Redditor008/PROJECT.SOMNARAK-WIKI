@@ -108,7 +108,7 @@ The ones that cost F01 containment, not just personnel.
 | The Maw | `SE-C-IVω-001` | Resolution Condition: *"No true containment is possible. Architects reinforce the perimeter while Taeho negotiates with the thousand."* Role: *"Object/Place (Transforms to Breaching Subject upon Breach)."* It holds a jurisdiction rather than a chamber. |
 | The Convergence | `SE-C-Vδ-010` | *"Three containment operations were running simultaneously — three birds, three facilities, three sets of..."* An entity assembled out of other facilities' entities. |
 | The Final Door | `SE-C-Vδ-111` | Timed escalation: *"The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels."* |
-| Sorrow Gate | `SE-C-IVδ-252` | Carries the same reversal clause — a channel into the building that fills from the far side. |
+| Sorrow Gate | `SE-C-IVδ-252` | Carries the same reversal clause — a channel into the building that fills from the far side. Now evidenced directly: *"three other records in this vault have altered their own behaviour during periods of elevated temperature here, which is the whole of the archive's case for the classification this Gate carries."* |
 | Dreaming Ruin | `SE-N-IIIγ-505` | Breach line: *"Dreaming Ruin has broken free. Collapses the facility structure around it."* Structural collapse is how every other chamber on the level opens. |
 | Repose | `SE-O-IVδ-844` | *"Repose has broken free. Collapses the facility structure around it."* |
 | Ephemera | `SE-O-Iα-189` | *"Ephemera has broken free. Collapses the facility structure around it."* |
