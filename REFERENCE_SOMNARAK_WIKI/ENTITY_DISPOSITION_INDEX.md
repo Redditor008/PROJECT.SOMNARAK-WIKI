@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **82** |
-| Pending — no disposition-bearing line found by scan | 221 |
+| **Classified here, with a quoted line of evidence** | **83** |
+| Pending — no disposition-bearing line found by scan | 220 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 82 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 83 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 221 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 220 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -138,6 +138,7 @@ The ones that cost F01 containment, not just personnel.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| The Angry Maiden | `SE-C-IVβ-042` | *"Her load leads both her sisters within a short interval, every recorded time, with no instance of the reverse."* She has never breached and has never injured anybody, but a bad watch here is a bad week in the Three Sisters enclosure: escalation in this holding reliably raises the Sorrow Gauges of two other contained entities, and the facility works her first and hardest for that reason alone. Negative. |
 | Sorrow Tide | `SE-C-Vγ-260` | Trivia: *"It is the primary trigger for many entity activity changes."* Containment: *"Impossible; use Tide shelters and shared mourning protocols."* The archive-wide amplifier — dozens of dossiers carry a "becomes more active during the Sorrow Tide" line, and this is what they are pointing at. |
 | Apostle Maker | `SE-C-Iα-071c` | Registry note: *"Stage 3 of the Kind Healer transformation chain. The entity actively seeks the remaining blessed personnel and completes their conversion. This stage is the point of no return."* Breach type: *"the entity physically escapes and actively hunts the marked."* It converts the facility's own staff into the next stage of itself. |
 | Dawn of Mourning | `SE-C-Vω-001` / `-002` | *"What the Kind Healer becomes when the transformation chain completes not in hope but in grief"*; the terminal state of that chain, with *"no Hope remains"*. The counterpart entry notes it and the Hand of Hope are *"the only pair of entities in the SECC codex that are explicitly designed as counterparts."* |

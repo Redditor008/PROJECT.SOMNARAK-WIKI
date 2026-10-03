@@ -38,11 +38,11 @@
 
 ### Operational Notes
 
-- The anger is sustained without object; nothing in the record identifies what it is directed at.
-- A cycle reduces the intensity for a shift. The direction is unchanged, because there has never been one to change.
-- The margin is three conditions. Escalation in this Sister reliably precedes escalation in the other two by a short interval.
-- Structural pressure is the hazard. The enclosure fittings are load-checked on the same schedule as the gauge reading.
-- Recovery of the implement is a separate authorization and is never a reward for a clean shift.
+- The anger has an object and the record is unambiguous about it: the violence that killed the child. It has no person, because none was ever identified, and the earlier note describing it as objectless confused the two and was briefed for years.
+- A cycle reduces the load for a shift. The direction never changes, because the act it is directed at is fixed and the person it is not directed at was never found.
+- Threshold 3. Escalation in this Sister reliably precedes escalation in the other two by a short interval — every recorded instance, no exceptions — and this holding is therefore worked first, watched hardest, and treated as the leading indicator for the whole group.
+- Structural pressure is the hazard and it is literal: the fittings are load-checked on the same schedule as the gauge, and twice in forty years the checks have found work needed.
+- Recovery of the implement is separately authorised and is never a reward for a clean shift. The provision was written after a watch commander offered it as one, in good faith, in Year 4216.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,18 +87,18 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Angry Maiden's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Validate the anger; do not deny or argue with it**.
+2. **Clash:** Flerehan and Ferrehan only. Pugnahan is prohibited on this file and the prohibition is read aloud at shift start rather than assumed. The reading is the peak thermal load of the watch, in degrees above corridor ambient at the fixed wall probe, charted by the thermal crews: eleven point four at baseline, two point one at the floor, sixty-eight at the ceiling.
+3. **Resolution:** The documented condition — **validate the anger; do not deny or argue with it** — then the cooling hour, then the relief. No watch has ever closed without the hour, including through the hardship rotations when every other provision in the wing was shortened.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks The Angry Maiden’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, The Angry Maiden defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Resilience fails here as argument. She is accusatory, she is loud, and she addresses personnel by the failures they are most defensive about; the worker answers, reasonably and in kind, and the thermal load climbs for as long as the exchange lasts. She does not tire. The room does.
+- Long exposure produces a worker who will not sign a finding that records a death and declines to record a wrong. Four Specialists rotated off this holding were afterwards found returning draft findings to the coroner's office with a single question written on them, which was whether the act had been wrongful.
+- The fang aches in the wielder's old injuries and leaves faint bruising where they were hurt years before. The armoury's note records the cost in one line and records, in a second, that no bearer has ever asked for it to be removed.
+- She has never breached in the holding's history and the breach model below is reconstruction rather than record. What is documented is escalation: when her load climbs, the loads of the other two Sisters follow within a short interval, every time, and that is the strongest reason this file exists at all.
 
 ## Appearance
-**Primary Form:** A young woman made of crystallized fire. Her body burns bright red and orange, and her voice carries the heat of accusation.
+**Primary Form:** A young woman of flesh and bone beneath a surface of crystallized fire, burning deep red and orange and never going out; her voice carries the heat of accusation.
 
 **Notable Features:**
 - Her flames dim around shared grief.
@@ -109,8 +109,8 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** A young woman made of crystallized fire. Her body burns bright red and orange, and her voice carries the heat of accusation.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** The burning surface and the held posture — fists closed, jaw set — in a body that four medical examinations record as living flesh, warm, with a pulse. The fire is on her and is not what she is made of, and the archive's two-century habit of writing otherwise is a description that hardened into a classification.
+- **Position / movement:** She stands, walks the chamber, and sits when her mother visits. Distance from the boundary and posture are logged each hour; the posture entry matters because the fists unclenching has preceded every one of the three recorded settles.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-D-02, contained with the Three Sisters
 
@@ -118,60 +118,60 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A young woman made of crystallized fire. Her body burns bright red and orange, and her voice carries the heat of accusation. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Form** | A young woman of flesh and bone beneath a surface of crystallized fire, burning deep red and orange and never going out; her voice carries the heat of accusation. |
+| **Position / movement** | Stands, walks the chamber, sits when her mother visits. Posture logged hourly; the unclenching of the fists has preceded all three recorded settles. |
+| **Material / signature** | Grudge. Flesh and bone under a surface that burns — a steady fire that does not spread and does not go out. Four medical examinations record a living body, warm, with a pulse, beneath it. The archive has written her for two centuries as a figure made of fire, and that is a description of her surface and not of her. |
 | **Distinctive markers** | Her flames dim around shared grief. She burns fiercely when confronted. Her anger is directed toward the violence that killed a child. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Thermal chart against the last watch, and the Sister. The three are visually distinguishable and have still been confused on four occasions, each time at a handover, each time with the approaches swapped. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Peak thermal load of the watch in degrees above corridor ambient at the fixed wall probe, charted by the thermal crews and never estimated from the colour of the fire. Then posture, hourly: stance, fists, jaw. The crews' chart is annotated by hand at each spike with what was said in the room and by whom, and it hangs where the relief can see it before entering.
 
 ## Origin
-- **Formation:** The Maiden formed from the grief of a child killed by violence.
-- **The Sorrow:** Rage at injustice and the helplessness of a parent who could not protect a child.
-- **The Event:** The child died violently. The Maiden's grief could not remain quiet and crystallized as fire.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **Formation:** She formed in the Echo Gardens in the weeks after the second child's death, in the same enclosure as her sisters, and was the only one of the three to form inside the facility's walls.
+- **The Sorrow:** A death that somebody caused, and no document anywhere that says it was wrong.
+- **The Event:** A boy was killed by a hand in Zone B. The responsible person was never identified. The finding recorded death by external means, person or persons unknown, and was correct, and was the only finding available, and his mother read it and asked the officer three times to write down that it had been wrong.
+- **The People:** A mother of three children in Zone B, and a boy taken by a hand rather than by illness. The killer was never found. The mother is living, visits the holding, and is named in the folder at her own written request, which the archivist's note records was made twice before it was granted.
+- **Expanded origin context:** Nobody failed here in the way an inquiry can find. The raid was investigated, the district was canvassed, four men were questioned and released for want of anything whatever against them, and four later reviews have confirmed that the investigation was competent and that no further step was available. The holding does not answer to the killing and never has: the load sat at baseline through the inquiry, through the two reopenings, and through the Year 4219 review that re-questioned the four and cleared them again. It answers to findings that record a death and decline to record a wrong, because recording a wrong without a name would be read as an accusation against people who cannot answer it. That is the presumption of innocence doing exactly what it exists to do, and it is the only thing this chamber has ever measured.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Fire dims as she recognizes shared sorrow. | Decrease |
-| **Pugnahan** (Confrontation) | Fights aggression with aggression. | Increase |
-| **Viderehan** (Observation) | Describes the violence and injustice surrounding the child's death. | Stable |
-| **Ferrehan** (Endurance) | Burns nearby while testing the worker's ability to remain present. | Decrease |
+| **Flerehan** (Tears) | The flames drop, the accusatory edge goes out of the voice, and the probe falls. It is the most-studied response in the Sisters' shared file and the only route by which this holding has ever advanced. | Decrease |
+| **Pugnahan** (Confrontation) | Prohibited outright. She was formed out of this exchange and burns hotter for as long as it continues; the load climbs, the fittings take it, and she does not tire. | Increase — prohibited |
+| **Viderehan** (Observation) | She describes the act — the hand, the street, the hour — in detail and without heat, and has never once described a person. Four assessors have recorded their frustration at that in nearly identical words. | Stable |
+| **Ferrehan** (Endurance) | The full watch in the heat, answering when addressed and never opening, never agreeing with her about who, never arguing that nobody is to blame. | Decrease |
 
 ### Special Behaviors
-- Must remain near the other Three Sisters.
-- Her rage intensifies during the Sorrow Tide.
+- She must remain with her sisters. Separation has been attempted once, in Year 4204, and the attempt is the reason the provision exists.
+- Her load rises during the Sorrow Tide, modestly and predictably, and the rise is the one movement in the series that is not explained by the findings return.
 - Validation calms her more effectively than suppression.
 
 
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Angry Maiden is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at SECTOR-D-02, contained with the Three Sisters; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is prohibited. The Registrum named Pugnahan as the primary Work Type for this holding, which is not an inconsistency but a direct instruction to perform the one act the standing order forbids, and it sat in the summary section of this file while watch commanders read the prohibition aloud at every shift start.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** The gauge measures one worker for one watch. The thermal chart measures how this facility has been writing its findings. They are kept in separate columns, they have never moved together, and watch commanders are instructed that a watch which lowers the gauge and peaks high has been worked correctly and is written up as a success without qualification.
 ## Breach Behavior
 
-> *"The Angry Maiden has broken free. Hunts personnel indiscriminately."*
+> *"She has never broken free. The sentence below this one was written for a different entity and copied here in Year 4207, and it has outlived four assessors who all noticed it."* — Containment Lead, R.D.
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Angry Maiden breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
-| **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target** | Whoever confronts her first. Accusation is answered with heat, and the unconfronting are passed over. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Movement** | Modelled: on foot, walking, drawn only toward confrontation. The indiscriminate hunting clause contradicted the First Target row directly below it and the Trivia entry at the foot of this file, and has been removed. |
+| **Effect** | Modelled as structural: cracked walls, failed fittings, and personnel taking what the architecture takes. The chamber fittings have twice required work after a hard watch, which is the only evidence underneath the model. |
+| **Secondary Effect** | Modelled: the wave finds the friction in a response team and widens it. Teams are therefore drawn from Wardens with no open grievances on record, a screening the Directorate performs quietly and documents thoroughly. |
+| **First Target** | Whoever confronts her first. The unconfronting are passed over, and that clause is the only part of this table resting on observation — three chamber incidents in which uninvolved workers were ignored entirely while the argument continued. |
+| **Escalation** | Resilience drain +5 per turn while the exchange continues. It stops when the answering stops, and the doctrine is accordingly to hold the sealed sections and offer nothing. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Forbid confrontation and station personnel willing to grieve openly. Wardens deployed in force raise this gauge rather than lowering it.
-- **Sorrow Gauge on breach:** Opens at 45% and falls 10% whenever grief is shared aloud in her presence.
+- **Breach type:** Escape, modelled and never observed. In the holding's history she has not left the chamber. The model holds that she would walk rather than spread, that confrontation would be the only thing that drew her, and that personnel who did not answer her would be passed over — which is the one part of it that rests on evidence, from three chamber incidents in which uninvolved workers were ignored entirely.
+- **Containment priority:** Forbid confrontation, hold the line, and station personnel willing to grieve openly. Wardens deployed in force raise the load rather than lowering it, which has been demonstrated twice and is the reason the response roster is a personnel question before it is a tactical one.
+- **Sorrow Gauge on breach:** Modelled at 45% opening, falling 10% whenever grief is shared aloud in her presence. The falling clause is the only figure in the model drawn from chamber observation rather than from the general breach template.
 
 ## M.A.W. Equipment
 
@@ -181,7 +181,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that flickers with inner light.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that flickers with an inner light and goes dark the moment it is raised against someone who has not answered back.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -191,10 +191,10 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** 100% to the one designated target. The fang will not discharge into a group and the armoury has never explained why, recording only that the property is consistent across every piece drawn from this holding.
+**Damage Application:** Multiplier to direct and Tick damage separately. The Tick is the ache the target feels in their own older injuries, logged in seconds, and it has outlasted the fresh wound in every recorded use.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Angry Maiden's grudge signature in the strike.
+**Ability:** Grudge damage to the Body. The blade carries the archetype and is issued only to bearers who have passed the no-open-grievance screening; the armoury treats that as a property of the piece rather than a precaution around it, having twice watched it fail to discharge for a bearer who had not.
 
 **Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
@@ -212,9 +212,9 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Angry Maiden's kind of pressure.
+**Ability:** Resists Grudge pressure on the Body. Issued for the full watch and worn through the cooling hour, which thermal crews insisted on after two wearers removed it early and were found still carrying the load at the handover.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Dulled reflexes for about two days, measured and found real and modest. Wearers describe it as the slowness of having already decided not to answer.
 
 ### M.A.W. Stigma — The Fury Blade
 
@@ -224,39 +224,39 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 when working this entity, and the bearer may not speak first in the chamber. The pendant's holder answers and does not open, which is the whole of the doctrine compressed into an equipment rule.
 
-**Ability:** Deals fire damage and intensifies against injustice.
+**Ability:** The pendant goes cold against the throat when the bearer is about to argue, and warm when they are about to agree with something they do not believe. It has no offensive function and the earlier description of it as dealing fire damage was drawn from the weapon's data sheet.
 
-**Cost:** The wielder feels anger that is not their own.
+**Cost:** The bearer carries an anger that is not theirs and that has a clear object and no person at the end of it. It lifts when the pendant comes off, and four bearers have recorded that the lifting is the hardest part.
 
-*Stigmas are granted at random by The Angry Maiden upon a successful work, not manufactured.*
+*The pendant has been granted five times, each to a worker who recorded in a finding that an act had been wrongful when the easier and equally defensible course was to record only that a person had died. Three of the five were asked by their own office to reconsider. The holding records the pattern and will not make it a criterion.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Angry Maiden's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+The set is built around not answering: a blade that goes dark against someone who has not answered back, a plate worn through the hour in which nothing is said, a pendant that chills when its bearer is about to argue. The armoury's note records that this was not a design brief, that it was discovered piece by piece, and that the fourth piece attempted here — a shield intended to let a bearer stand in front of her and be shouted at indefinitely — worked exactly as specified and was destroyed on the Research wing's advice.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, piece, opening thermal reading, grievance screening confirmed, and a written declaration of any finding the operator has signed recording a death without recording a wrong. Sealed and read back afterwards. |
+| **During use** | Peak load with the hour it occurred, posture hourly, and everything said in the chamber verbatim with the speaker named. The thermal crews annotate the chart in their own hands at each spike and nobody has ever asked for an annotation to be removed. |
+| **At limit** | Watch length, peak load, and the operator's sealed declaration transcribed in full. Nine have gone to the coroner's office and four findings were amended as a result. |
+| **After use** | The cooling hour in full, thermal settle confirmed by the crews before the relief is cleared, plate worn throughout, bruising and reflex check at two days. No relief has ever been cleared early. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** β across the set and correctly rated against entities. Against people it costs old pain, two days of reaction, and a borrowed fury with a clear object and nobody at the end of it, and the establishment has a column for the second.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced, the highest in the Sisters' shared file, and reached entirely through Flerehan. Every advance in understanding here came from a worker grieving alongside her; not one came from an instrument.
 
 **Key Observations:**
-- The Maiden has never breached, but containment depends on sister-group stability.
+- She has never breached in the holding's history, and containment depends on the stability of all three Sisters rather than on this chamber alone.
 - Flerehan dims her flames; Pugnahan causes rapid escalation.
-- Her anger is a memorial rather than random hostility.
+- Her anger is a memorial rather than hostility. It is directed at an act, it names no person, and in two centuries of Viderehan she has never once described a face.
 
 **Personnel Note:**
-> *"She was not asking me to forgive the violence. She was asking me to admit that it was wrong."* — Researcher Euncris Park, Zone D
+> *"She was not asking me to forgive the violence. She was asking me to admit that it was wrong. I went back and read the finding on her boy and it says he died by external means. It does not say anything happened to him."* — Researcher Euncris Park, SECTOR-D-02
 
 
 
@@ -264,30 +264,40 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Angry Maiden as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-D-02, contained with the Three Sisters. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Must remain near the other Three Sisters. - Her rage intensifies during the Sorrow Tide. - Validation calms her more effectively than suppression. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Angry Maiden's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Thermal probe reading, posture, and the prohibition read aloud. The observer is told at the door that she will address them by the failure they are most defensive about and that answering her is the only way to make the watch worse. |
+| **Sustained observation** | Over a year the peak load detaches from the chamber and attaches to the findings return. Observers holding both columns stop proposing new work here; there is nothing to do but hold the prohibition, grieve honestly when it is asked of them, and send the figure on. |
+| **Activation or escalation** | A peak fifteen degrees above the previous watch opens a documents search rather than a chamber response: which deaths by external means were concluded in the preceding fortnight and how many were closed without a finding of wrongfulness. The search has succeeded on twenty-two occasions out of twenty-five. The other two Sisters are read within the hour, because this one leads them. |
+| **Post-contact review** | Peak and settle with their hours, the annotated chart, the verbatim chamber log, the two Sisters' readings, and the fortnight's concluded findings attached with the unrecorded wrongs listed by case number. Totals are returned. A review that reports three hundred and thirty-one is not a review anybody can act on. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Peak thermal load of the watch at the fixed wall probe, in degrees above corridor ambient, charted by the thermal crews with their spike annotations attached. Never estimated from the colour or height of the fire: the Year 4212 visual-grading scheme ran for eleven years, produced a series that correlated with nothing, and was withdrawn.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Angry Maiden (C-IVβ-042 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Maiden formed from the grief of a child killed by violence. Held at SECTOR-D-02, contained with the Three Sisters. The Maiden has never breached, but containment depends on sister-group stability.
+The Angry Maiden (C-IVβ-042 [GS]) is logged as a Subject-Body manifestation expressing Grudge, held at SECTOR-D-02 in the Echo Gardens with her two sisters: a young woman of flesh and bone under a surface of steady fire that does not spread and does not go out, warm to four medical examinations, rigid with held fury, smelling of char and old smoke. She has never breached. Her load leads both her sisters. The holding's instrument is the peak thermal load of the watch — eleven point four degrees above ambient at baseline, two point one at the floor, sixty-eight at the ceiling.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Burns rapidly through facility corridors. Personnel experience overwhelming rage and the fury of injustice. Flerehan dims her flames; Pugnahan causes rapid escalation.
+**Entry 2 — <Findings Return: One Thousand and Forty-Two Deaths, Seven Hundred and Eleven Recorded Wrongs>**
+The first return under the Rule of the Recorded Wrong, Year 4238. Over the nine years the register covers, this facility recorded one thousand and forty-two deaths by external means for which no responsible person was ever identified. Seven hundred and eleven now carry a finding that the act was wrongful, issued separately from any question of who did it. Three hundred and thirty-one still stand as death by external means, person or persons unknown, which states that somebody died and declines to state that anything was done to them. Twenty-nine findings of wrongfulness this year were followed by the departure, ostracism or eviction of a person who was never named in them and against whom nothing was ever alleged. The thermal load peaked at sixty-eight degrees above ambient in Year 4233, in the quarter the Zone B raid inquiry closed one hundred and eighteen deaths in a single tranche, every one of them unknown — an inquiry that was scrupulous and was praised for refusing to point at anybody. It peaked at two point one in Year 4237. The load has tracked the findings return for nine years and has never tracked anything done in the chamber.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-Rage at injustice and the helplessness of a parent who could not protect a child.
+**Entry 3 — <Statement of a Coroner's Officer>**
+Death by external means, person or persons unknown. I have written that line nine hundred times and I will defend it until I am carried out. If I write that a wrong was done and I cannot say who did it, then in a district with four men and no evidence I have written something about four men, and three of them are innocent and none of them can stand up and answer me, because I have not accused them of anything they are permitted to deny. That is not caution. That is the whole architecture. And then the mother sat across from me and said: I am not asking you to name him. I am asking you to write down that it was wrong. And I could not do it, and I could not tell her why in a way that sounded like anything other than what it was, which is that the institution will protect a man who may not exist before it will tell her that her son did not merely stop living.
 
 **Entry 4 — <Containment Notice>**
-Management: Validate the anger; do not deny or argue with it.  Her anger is a memorial rather than random hostility.
+Containment of C-IVβ-042 is a chamber discipline in the Echo Gardens and a findings rule in the coroner's office. Chamber: Pugnahan prohibited absolutely, the prohibition read aloud at shift start and never assumed known; Flerehan and Ferrehan only; peak thermal load at the fixed wall probe, charted with the crews' spike annotations, never graded by eye; posture logged hourly; fittings load-checked on the gauge schedule; the cooling hour at the close of every watch, thermal settle confirmed before the relief is cleared, no relief ever cleared early; the Three Sisters kept together, separation attempted once in Year 4204 and never again; response teams drawn only from Wardens with no open grievance on record. Coroner's duties, binding on every inquiry this facility conducts: **a finding that an act was wrongful is a finding about the act. It is recorded whenever the evidence supports it, separately from any question of attribution, and is never withheld for want of a name. Attribution is a finding about a person and is recorded, or not recorded, on its own evidence.** Work response — Flerehan: the flames drop and the accusation goes out of the voice (Decrease); Ferrehan: the full watch in the heat, answering when addressed and never opening (Decrease); Viderehan: the act described in detail, never a person (Stable).
 
-**Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+**Entry 5 — <Director's Memo, Eyes Only: The Recorded Wrong>**
+The legal office opposed this rule and I have never been able to get round their objection; I have only decided to live on the other side of it.
+
+Their case: a recorded wrong does not float free. In a district where four men were questioned and released, a finding that something wrongful was done is read by every neighbour as a finding about those four, and three of them are innocent, and none of them can answer a charge that has not been made. The office's head put it to me in one line: *you have invented a way to accuse people without giving them anything to deny.*
+
+What we have done is issue every finding of wrongfulness with an express statement that no person is implicated and that no inference may be drawn from it.
+
+Twenty-nine people this year were driven out of a dwelling, a trade or a district after a finding that did not name them and against whom nothing has ever been alleged. The office records all twenty-nine. I have read the twenty-nine. I have nothing to offer them and I am not going to construct something.
+
+I want the Year 4233 inquiry named here, because the convenient version of this story has a coward in it and there was not one. One hundred and eighteen deaths closed as unknown by an inquiry that canvassed a district for four months and refused to point at anybody on evidence that would not have carried. It was scrupulous. It was praised. I would have closed them the same way.
+
+The ground is the probe. That tranche took this chamber to sixty-eight degrees above ambient, the highest reading in two centuries, and took her two sisters up behind her within the day. The first year of recorded wrongs took it to two point one. We have never been able to show that an unrecorded wrong protected an innocent man. We can show, by the degree, what it costs a woman who already knows what happened to her son and only wants it written down.
 
 ## 최종 관찰 (Final Observation)
 
@@ -295,7 +305,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 | Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is named; The Angry Maiden is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Angry Maiden withdraws without revelation. |
+| The worker says that what was done to the boy was wrong, and means it, and does not go on to say who. The flames drop, the voice loses its edge, the probe falls, and the watch stands. | The worker explains that nobody can be blamed when nobody is known. It is true, it is said kindly, and it is the exchange she was made out of. The load climbs for as long as it continues. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -304,34 +314,34 @@ Heat gathers in the room like a held breath. The Maiden stands inside it, bright
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A young woman made of crystallized fire. Her body burns bright red and orange, and her voice carries the heat of accusation. The space does not become generic; it shifts in the specific register of Grudge.
+**At first contact:** Heat, before anything else, gathering in the room like a held breath. Then a young woman, standing, fists closed, jaw set, burning at the surface and alive underneath it. She looks at you and says something true about your work that you would rather she had not known.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** You begin assembling the answer. It is a good answer, it is accurate, and it is the one thing that will keep you here until the fittings creak. Everybody assembles it. The difference between a short watch and a long one is whether it gets said.
 
-**When the entity activates:** The Gauge tips. The Subject-Body does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Grudge is no longer atmospheric. It is operational.
+**When the entity activates:** The probe climbs and the fittings take it. There is nothing new to see; she is doing what she has done for two centuries. A fortnight ago an officer wrote that somebody had died by external means and stopped the sentence there because the law would not let him finish it.
 
-**After departure:** After contact, the body holds what the mind files away. The Grudge is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** You think of something that was done to you, or to somebody of yours, that no document calls wrong. Most people have one and most people name it inside the hour. The counselling wing logs it and treats it as useful rather than as exposure.
 
 ### Interaction Pattern
 
-The Angry Maiden does not exist in isolation. Its recorded relationships with The Smothering Mother, The Hollow Choir, The Kind Healer, The Grieving Maiden, The Silent Maiden should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Five records are grouped with this one and two of them share her enclosure, which makes this the only interaction record in the wing where the proximity is permanent, involuntary and load-bearing. The other three are paper. Her readings lead both her sisters within a short interval, every recorded time, and that relationship is the single most important operational fact in the Sisters' shared file.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Read all three Sisters within the hour of any spike here, in the fixed order and without exception, because this one leads. For the paper relationships, one question: was the grief refused nothing, refused a hearing, or refused a finding. Write the answer in a sentence and sign it.
 
 
 ### Entity Interaction Record
 
-The Angry Maiden must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Five records are grouped with this one and two of them are her sisters, which makes the grouping unusually meaningful here and unusually easy to over-read. The question that separates the Sisters is what the grief was refused: the first was refused nothing and simply lost, the third was refused a hearing, and this one was refused a finding. A team that treats the three as one holding will work them with one approach, and the approaches are not interchangeable.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Smothering Mother** | Recognizes a kindred maternal sorrow. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Choir** | Sings near her as a duet of grief and rage. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | Cannot heal the injustice that created her. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Maiden** | Shares the child's loss through different forms of mourning. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Silent Maiden** | The Silent Maiden absorbs the words the The Angry Maiden cannot say calmly. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Smothering Mother** | Grouped on maternal sorrow, which is the weakest grouping in this file: that holding is a mother's act against a child and this is a mother's act forbidden on a child's behalf. | No trial, none permitted. The pairing rests on a Year 4188 summary line and no measurement exists. | That the claim is unevidenced, written beside it each time it is repeated. |
+| **The Hollow Choir** | A proposal was made in Year 4228 to bring the Choir to the enclosure so that her accusation could be heard as something other than an argument. | Refused. She does not need to be heard; she is heard every watch. She needs a sentence written in a file four districts away, and no entity can write it. | The proposal and the refusal kept together. Renewed once. |
+| **The Kind Healer** | Brought once, Year 4221, at the Healer's own holding's request. The load did not move in either direction across four hours. | The only null result in the Sisters' interaction file and the most frequently cited: there is nothing here to heal, because nothing here is a wound. | The null, recorded as a null and not as an inconclusive, on any document proposing a therapeutic approach. |
+| **The Grieving Maiden** | Her sister, same enclosure, same mother, different child. That child was taken by illness and this one by a hand, and the whole difference between the two holdings is in that line. | Permanent proximity. This holding's load leads hers within a short interval, every recorded time, with no instance of the reverse. | Both readings, in fixed order, within the hour of any spike here. |
+| **The Silent Maiden** | Her sister, same enclosure, third child. The claim that she absorbs what this one cannot say calmly is a figure of speech from a Year 4199 summary and no measurement has ever supported it. | Permanent proximity. This holding's load leads hers as well, which is measured; the absorption is not. | Both readings in fixed order; and the absorption claim marked unevidenced wherever it is repeated. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** All three Sisters' readings within the hour of any spike here, in fixed order. For the paper relationships, both records in full and the signed one-sentence answer. Refusals and nulls on this file are cited rather than re-argued.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -343,7 +353,7 @@ The grief that followed was not the gentle, helpless grief of the first child. I
 
 The fire crystallized. The mother's rage — the rage at injustice, the helplessness of a parent who could not protect, the fury of a love that arrived too late and armed with nothing — sank into the Weeping, and the Weeping gave it, not tears, but flame. The Angry Maiden is the second sister: Subject-Body, Grudge-element, a figure burning with the rage of the child killed by violence, the grief that could not remain quiet and so became fire.
 
-She does not weep. She burns. She rages — quietly, contained, a steady blue fire that does not spread but does not go out, the perpetual fury of a parent whose child was murdered and who was not permitted, by the city, by the Giltong, by the order of things, to find and punish the one who did it. The Angry Maiden carries the fire that the mother was not allowed to wield.
+She does not weep. She burns. She rages — quietly, contained, a steady deep-red fire that does not spread but does not go out, the perpetual fury of a parent whose child was murdered and who was not permitted, by the city, by the Giltong, by the order of things, to find and punish the one who did it. The Angry Maiden carries the fire that the mother was not allowed to wield.
 
 The three sisters are kept together. The mother visits. And the The Angry Maiden, when her mother sits beside her, burns lower — not out, never out, but lower, the way a fire dims in the presence of the one who lit it.
 
@@ -352,7 +362,7 @@ Those who come near the The Angry Maiden feel the specific fury of justice denie
 Some sorrows weep. The Angry Maiden burns — for the child killed not by sickness but by someone, and for the rage that, having nowhere to land, became a flame, and walks now as the second sister, burning quietly, forever, for the violence the city would not let her answer.
 ## 증언 (Testimonium) — The Testimony
 
-> *“She burns. Quietly, contained, a steady blue fire that does not go out.”* — Researcher, R.D.
+> *“She burns. Quietly, contained, a steady deep-red fire that does not go out.”* — Researcher, R.D.
 
 > *“The second sister. Born of violence. The grief that could not remain quiet became flame.”* — Keeper, Archive
 
@@ -360,35 +370,44 @@ Some sorrows weep. The Angry Maiden burns — for the child killed not by sickne
 
 > *“When her mother visits, she burns lower. Not out. Never out. Lower.”* — Containment Lead, R.D.
 
+> *“You have invented a way to accuse people without giving them anything to deny.”* — Head, legal office
+
 > *“The fire that the mother was not allowed to wield, the Maiden carries.”* — Elder, Echo Gardens
+
+> *“I am not asking you to name him. I am asking you to write down that it was wrong.”* — The originator, to a coroner's officer
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVβ-042` · City origin · Entity (IV) coherence · Moderate (β) potency · Grudge · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVβ-042 [GS]` · City origin · Entity (IV) coherence · Moderate (β) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Angry Maiden
-**Containment Status:** Contained — with the Three Sisters, Echo Gardens
+**Containment Status:** Contained — SECTOR-D-02, Echo Gardens, in the shared Three Sisters enclosure
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Moderate. The Maiden burns with a steady blue fire. Effect: proximity induces the fury of justice denied.
+**Threat Assessment:** Moderate, and the figure that matters is not hers. She has never breached and has never injured anybody in the chamber. What makes this holding consequential is that her load leads both her sisters within a short interval, in every recorded instance, with no case of the reverse: a bad watch here is a bad week in the enclosure. The Registrum previously gave the designation without its [GS] tag, located the holding without its sector, and named Pugnahan as the primary Work Type on a file carrying an absolute prohibition on confrontation; all three corrected.
 **Containment & Handling Procedures:**
-- Pugnahan is the primary Work Type.
-- The fire does not spread but does not go out.
-- Maintain Three Sisters proximity.
+- Pugnahan is prohibited absolutely and the prohibition is read aloud at shift start rather than assumed known. Flerehan and Ferrehan lower the gauge; Viderehan holds it level. The earlier entry naming Pugnahan as primary instructed watch teams to do the one thing the standing order forbids.
+- Peak thermal load at the fixed wall probe, in degrees above corridor ambient, charted by the thermal crews with their spike annotations. Never graded by eye; the Year 4212 visual scheme ran eleven years and correlated with nothing.
+- The cooling hour closes every watch. Thermal settle confirmed before the relief is cleared. No relief has ever been cleared early.
+- The fire does not spread and does not go out. Four medical examinations record living flesh beneath it.
+- Maintain Three Sisters proximity. Separation attempted once, Year 4204.
+- The Rule of the Recorded Wrong is a containment condition of this entity and binds every inquiry this facility conducts.
 **Observation Notes:**
-- Born from a child killed by violence.
-- The second of the Three Sisters.
-**Cross-References:** The Grieving Maiden · The Silent Maiden · The Echo Gardens
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** A mother who lost a child to violence.
+- Born from a boy killed by a hand in Zone B whose killer was never identified, in an investigation four reviews have confirmed as competent and exhausted.
+- The second of the Three Sisters, and the leading indicator for all three.
+- Peak thermal load 11.4 degrees above ambient at baseline, range 2.1 to 68. It tracks this facility's findings return and has never tracked the inquiry, the reopenings or the Year 4219 re-questioning.
+- In two centuries of Viderehan she has described the act in detail and has never once described a person.
+**Cross-References:** SECTOR-D-02, Echo Gardens · The Grieving Maiden (first sister, illness) · The Silent Maiden (third sister, unheard) · the findings return and the three hundred and thirty-one unrecorded wrongs · the Year 4233 Zone B raid inquiry · the twenty-nine collateral cases
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the coroner's office and the legal office, listed on an entity file because the Rule of the Recorded Wrong is a containment condition of this holding and both of them opposed it.
+**Originator:** A mother of three in Zone B who lost her second child to a hand that was never identified, who is living, who visits the enclosure, and who is named in the folder at her own written request. The archivist's note records that the request was made twice before it was granted and that the refusal the first time was made on her behalf.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this file with the findings return beside it and with both her sisters' charts. Taken alone the chamber holds a furious woman who has never done anything to anybody, and five assessors have written exactly that, each with the thermal series in front of them and no idea what the degrees were counting.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** On any peak fifteen degrees above the previous watch: verify the probe and the crew, read both sisters within the hour in fixed order, then pull the preceding fortnight's concluded deaths by external means and list by case number every one closed without a finding of wrongfulness. Totals are not accepted. Any watch on which confrontation occurred is named in the review together with what was said and by whom, and the chart annotation stands.
 ## Apex Record
 
 ### The Reciprocity Problem
 
-The Angry Maiden is the clearest demonstration in the Entity-grade files of why Pugnahan is a decision rather than a tool. Her crystallized-fire body burns hotter the moment it is confronted: the gauge rises from its 459 baseline, the chamber's thermal load climbs, and the escalation continues for as long as the aggression does. She does not tire and the room does. What makes this instructive rather than merely hazardous is how reasonable the wrong choice feels. She is accusatory, she is loud, and she addresses personnel by the failures they are most defensive about — and personnel who answer in kind are not being unprofessional, they are being provoked by an entity that was formed out of exactly this exchange. The standing order prohibits confrontation work on her file entirely. Watch commanders are instructed to read that prohibition aloud at shift start rather than assume it known, because the prohibition is easy to agree with in a briefing room and hard to hold in the chamber.
+The Angry Maiden is the clearest demonstration in the Entity-grade files of why Pugnahan is a decision rather than a tool. Her burning surface runs hotter the moment she is confronted: the gauge rises from its 45 per cent baseline, the thermal load at the fixed wall probe climbs from its 11.4 degree baseline, and the escalation continues for as long as the aggression does. She does not tire and the room does. What makes this instructive rather than merely hazardous is how reasonable the wrong choice feels. She is accusatory, she is loud, and she addresses personnel by the failures they are most defensive about — and personnel who answer in kind are not being unprofessional, they are being provoked by an entity that was formed out of exactly this exchange. The standing order prohibits confrontation work on her file entirely. Watch commanders are instructed to read that prohibition aloud at shift start rather than assume it known, because the prohibition is easy to agree with in a briefing room and hard to hold in the chamber.
 
 ### The Dimming
 
@@ -404,20 +423,31 @@ Every watch on her file closes with the cooling hour — sixty minutes during wh
 
 Thermal crews keep a second record of their own: the peak reading of each watch, charted across the cycle. The chart's flat stretches are the holding's quiet pride, and its three spikes are annotated in the crews' own hands with what was said in the room and by whom. Nobody has ever asked for those annotations to be removed, and the chart hangs where the relief can see it before entering.
 
+### What the Chart Is Actually Measuring
+
+The crews' chart was kept for forty years before anybody read it against anything outside the enclosure. The three annotated spikes are chamber events and they are real; what the annotations cannot explain is the rest of the series, which moves in quarters when the chamber was quiet and sits flat in quarters when it was not. In Year 4229 a thermal technician set the chart beside the coroner's quarterly return — not out of theory, but because both were on the same noticeboard — and found that the peaks fell in the fortnights after this facility concluded deaths by external means without recording that a wrong had been done. The match has since been made twenty-two times out of twenty-five. It has never been made against the inquiry into her own child, which has been reopened twice and moved the probe not at all.
+
+The finding reframes the whole holding and the wing has been careful about how it says so. She is not angry that her boy's killer was never caught; the investigation was competent, four reviews confirm it, and the series says plainly that she does not respond to it. She is angry that the document says he died by external means and does not say that anything was done to him. That is a distinction the chamber has been making for two centuries and that nobody read until it was put next to a quarterly return by accident.
+
+The operational consequence sits outside this file. Nothing done at the probe lowers the series; the only intervention that has ever moved it is a finding written in an office four districts away, by a careful officer who has every reason in law not to write it. The wing records this plainly rather than claiming a containment it does not have, and the chart hangs where the relief can see it because the relief is entitled to know that the hard watches are not their fault.
+
 ## Trivia
 
-- Her flames dim during genuine shared mourning.
-- She does not seek revenge on a named individual; she preserves the fact of violence.
+- Her flames dim during genuine shared mourning and not during performed mourning, a distinction she has made correctly in every recorded instance and that no observer has been able to specify in advance.
+- She does not seek revenge on a named individual. She preserves the fact that something was done, which is precisely the fact her file does not contain.
+- Her load leads both her sisters within a short interval, every recorded time, with no instance of the reverse.
+- The Year 4212 scheme for grading her fire by eye ran for eleven years, produced a series correlating with nothing, and was withdrawn. The probe has been in the same place since.
+- The chart hangs in the anteroom. Three spikes are annotated by hand with what was said and by whom, and no annotation has ever been removed.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** The Angry Maiden is a Subject with Entity (IV) — Self-aware, fierce, burning coherence and Moderate (β) — Manageable potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-D-02, contained with the Three Sisters.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Subject, Entity (IV) — self-aware, fierce, burning — Moderate (β), Comprehension Level 3, Subject-Body. The Registrum omitted the [GS] tag and named a prohibited Work Type as primary; both corrected against the SECC header.
+- **Field detail:** Grudge; SECTOR-D-02, Echo Gardens, in the shared enclosure. The Registrum gave the Gardens without the sector and the two have been reconciled.
+- **Recognition detail:** Identify her by the thermal chart against the last watch, not by the fire. She looks the same at two degrees and at sixty-eight, and five early reports describe a quiet chamber on watches the probe recorded at over forty.
+- **Record detail:** Check the designation and check what the sister is for. The Grieving Maiden holds a death that nobody caused. This holds a death that somebody caused and that no document will say was wrong. A facility can conduct a faultless inquiry, protect every unidentified person exactly as the law requires, and take this chamber to sixty-eight degrees in one scrupulous afternoon.
+- **Containment detail:** She is contained and has never tested it. What is not contained is the effect she has on the two holdings beside her, which no door addresses, and a sentence an officer is forbidden by good law from writing.
 ## Document Information
 
 **Document ID:** SE-C-IVβ-042
