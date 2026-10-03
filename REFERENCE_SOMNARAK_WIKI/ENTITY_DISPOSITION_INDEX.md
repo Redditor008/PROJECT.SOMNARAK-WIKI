@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **62** |
-| Pending — no disposition-bearing line found by scan | 241 |
+| **Classified here, with a quoted line of evidence** | **63** |
+| Pending — no disposition-bearing line found by scan | 240 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 62 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 63 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 241 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 240 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -77,6 +77,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Echo Compass | `SE-C-IIIβ-016` | *"A successful cycle quiets the needle for a shift. The entity is unchanged by this, and the next operative will see their own heading."* |
 | Survivors' Breath | `SE-O-IVδ-895` | *"A completed cycle settles the Sigh around the worker and quiets it for a time. Nothing is resolved by this."* |
 | Crucible | `SE-C-IIIβ-275` | Resolution: *"Cool the anger through naming and controlled work."* A furnace that became conscious, and stayed in its forge. |
+| Torn Window | `SE-N-Iα-686` | *"no breach counter and no recorded hostile act"*; the only harm on record is four workers filing a shift they never worked. With three neighbouring records *"the hand count has never fallen"* — resonance, not assistance. Neutral. |
 | Corrosion Dream | `SE-O-IIIγ-915` | *"No person. It goes to the plan chest."* Breach oxidises drawings and estimates but harms nobody; with the Sunken Bridge *"the water fraction rises in both figures at once"* — resonance recorded, no breach assistance. Conditional note kept on the paired rise, classification Neutral. |
 | Drowned Echo | `SE-O-IIβ-378` | *"It has never addressed anybody who was not at the board."* On breach it occupies the comms circuit and real calls get logged as the entity — *"three real calls were logged as the entity during the second event"* — degrading F01's response capacity, with no recorded effect on another entity. Conditional note kept, classification Neutral on present evidence. |
 | Forgotten Soul | `SE-O-IIIγ-233` | *"It has never pursued anybody and has never changed direction to meet a person."* On breach it walks to the registry hall and written names fade near it — *"twice it has not"* returned — which damages F01's records without any recorded benefit to another entity. Conditional note kept, classification Neutral on present evidence. |
