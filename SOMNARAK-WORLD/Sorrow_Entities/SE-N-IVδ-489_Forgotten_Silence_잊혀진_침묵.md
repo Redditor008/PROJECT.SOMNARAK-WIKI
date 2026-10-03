@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan, by a volunteer, written up inside the chamber. |
 
 ### Operational Notes
 
@@ -116,9 +116,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dreamlike figure formed from luminous silence. Its outline glows faintly, but no face can be held in memory. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | It holds its position and is easier to see from the edge of the room than from in front of it. Posture never changes and is not worth recording; brightness is. |
+| **Material / signature** | Lament. Faint light with no source, salt-damp, cold rain, and sound from nearby arriving as though from much further off. |
+| **Distinctive markers** | A glowing outline and a face nobody has described twice. A confident facial description is grounds to re-check the designation, not to record the face. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins; if one of them does not, stop there. |
 
 **Appearance protocol:** Record the light. Brightness rises with the number of unspoken things in the room and is the only reading this entity reliably gives. The face cannot be held in memory and must not be described from recollection after leaving the chamber — write it down inside, or leave the field empty and say so.
@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Glows brighter and shares the worker's unspoken grief. | Decrease |
-| **Pugnahan** | Withdraws into dream-space. | Stable |
-| **Viderehan** | Shows the moment a silence was created. | Stable |
-| **Ferrehan** | Remains beside the worker until they can endure not knowing. | Decrease |
+| **Flerehan** | It brightens and takes something the worker has never said aloud to anybody. The gauge falls and the worker has one fewer of those than they came in with. | Decrease |
+| **Pugnahan** | It withdraws into dream-space without hostility, which is also what it does to a worker who arrives with nothing to give. | Stable |
+| **Viderehan** | It shows the moment a silence was made — somebody deciding, reasonably, on the day, not to say a thing. | Stable |
+| **Ferrehan** | It stays beside the worker until they can bear not knowing what they gave it, which is the only cycle that does not deplete them. | Decrease |
 
 
 
@@ -240,11 +240,11 @@ Each piece is a conditional extension of the entity rather than ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The entity glows during the Sorrow Tide.
-- It cannot be recorded reliably by audio equipment.
-- Personnel report feeling weight rather than fear.
+- It glows through a Sorrow Tide and the brightness does not track the Tide; it tracks the number of people in the chamber and what they have not said.
+- Audio equipment returns ambient noise only, on every attempt, with every instrument the wing owns, including two borrowed for the purpose.
+- Workers describe weight rather than fear, and describe it the same way whether it is their first cycle or their ninth.
 
-**Personnel Note:** *"It was glowing in the corner. I understood what it wanted before I knew what I had forgotten."* — Specialist, Zone E patrol
+**Personnel Note:** *"It was glowing in the corner. I understood what it wanted before I knew what I had forgotten. I gave it the thing I have never told my brother, and the gauge came down eleven points, and the cycle sheet says routine."* — Specialist, Zone C, Mask Market
 
 
 
@@ -253,9 +253,9 @@ Each piece is a conditional extension of the entity rather than ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Forgotten Silence as a Subject with Subject-Dream manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone C, Mask Market. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Forgotten Silence's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Outline brightness at fixed intervals, how many people are in the chamber, and how many of them have spoken since entering. Brightness answers to the room, not to the figure, which does not move at all. |
+| **Activation or escalation** | The outline brightening with nobody new in the room. Threshold is 1, and the margin is thinner than that because a worker cannot reliably recall whether the previous cycle happened. |
+| **Post-contact review** | Written inside the chamber before exit: brightness at entry and exit, gauge movement, what ended the encounter, and the worker's own count of cycles to date. The debrief form has no field for the face and no field for what was given. |
 
 **Observation method:** Record the first sign, which for most observers was a dream the night before rather than anything in the chamber; the first sensation, which is nearby sound going distant without getting quieter; the brightness of the outline at entry and at exit; and the condition that ends the encounter, which is a truth being named by somebody — not necessarily the one the entity was holding.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -315,9 +315,9 @@ The entity belongs to a group of records concerned with what was not said, and i
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hollow Choir** | The Choir becomes quiet near it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Silent Child** | Shares a silence that feels acknowledged rather than empty. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Soldier** | Receives a silent salute. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Hollow Choir** | The Choir goes quiet near it. | Four transits past the chamber mouth, the Choir silent in all four, the outline dimming slightly in all four. It is the only recorded condition under which brightness falls without anybody saying anything. | Transit times, the Choir's own log, and brightness at thirty-second intervals. |
+| **The Silent Child** | A silence that reads as acknowledged rather than empty. | Compared on paper only, and the wing's note is worth keeping in front of anybody rostered here: that holding wants to be spoken to and this one wants to be told something, and workers who confuse the two bring the wrong thing into the chamber. | The note, restated at each roster briefing, with both files attached. |
+| **The Forgotten Soldier** | A silent salute, returned. | Observed once, in a corridor, by two workers who recorded it independently and in nearly the same words. Neither gauge moved. The entry is kept because it is the only exchange on file in which this entity gave something instead of taking it. | Both independent accounts, unedited, and the flat gauge series from each side. |
 
 **Interaction procedure:** Solo baselines first, then the pairing: the distance at which the outline changes, the direction of the change, how long it holds, and what was spoken in the chamber during the overlap. The last of those is the field most often left blank, and it is the one that explains the readings.
 
@@ -347,22 +347,22 @@ Some sorrows are about truth suppressed. Forgotten Silence is about suppression 
 > *“A people who have been quiet so long they no longer know they are quiet.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-489 [LS]` · Lament · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IVδ-489 [LS]` · Inner origin · Entity (IV) coherence · Critical (δ) potency · Lament · Subject-Dream manifestation
 **Common Name:** Forgotten Silence
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Critical (δ) at threshold 1. The physical danger is low and the figure has never pursued anybody. The grade reflects what a cycle costs the worker, which is not a quantity any instrument in this wing can read, and the fact that recall degrades within minutes of leaving the perimeter.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Flerehan and Ferrehan lower the gauge; Pugnahan makes it withdraw into dream-space and ends the cycle; Viderehan shows the making of a silence and moves nothing.
+- Written logs are completed inside the chamber. Nothing is reconstructed from memory outside the perimeter, and a field left blank with a note is preferred to a field filled in afterwards.
+- In a breach, do not order silence in the affected zone. Debrief the response team before deployment, not after, and have them say aloud what they are carrying in.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement:** SED (E-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+- A city that set truths aside one at a time. No community is named because no community decided it, and the originators are recorded only as everyone present who said nothing.
+- Thirty-one workers rostered since the chamber opened. First-cycle yield averages 26 Han-Energy; by a worker's fifth it averages 11, and nineteen of the thirty-one have reached nil.
+- Extraction is authorised separately and is never attached to a good cycle. The set draws on the sound effect rather than on the figure, which has never been touched.
+**Cross-References:** The depletion series and its nineteen nil entries · the volunteers-only posting and the ninth-cycle ceiling · the staffing office's standing objection to both · the shape-of-the-absence archive and the archivist's covering note · the six hand signals and the rejected seventh
+**Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
+**Originator:** Everyone who was present and said nothing, over a period the Keepers cannot bound.
 
 ### Registry Addendum
 
@@ -401,10 +401,38 @@ The hand signals are taught by the people who use them rather than by a trainer,
 
 The six have not changed. A seventh was proposed and rejected, and the rejection note records that the proposal was sound and that the number was the point.
 
+### What the Depletion Series Measures
+
+Thirty-one workers have been rostered to this chamber since it opened. The series the wing keeps is their individual yield, cycle by cycle, and it falls in every case.
+
+**First cycle: 26 Han-Energy on average. Fifth: 11. Ninth: 4.** Nineteen of the thirty-one have reached nil — the figure withdraws into dream-space, no gauge movement occurs, and the sheet is written up honestly as *no work occurred*. The wing's phrase for this is exhaustion of material and the phrase is exact. A Flerehan cycle here requires something the worker has never said aloud to anyone, and nobody has an unlimited supply.
+
+The series is not a performance measure and the roster sheet says so at the head of every page. It cannot be, because a worker's position on it depends entirely on how much they came in carrying, and the wing has no way of knowing that and no business finding out.
+
+### The Work Order Cannot Say What the Work Is
+
+An order to work must state what the worker is required to do. That is the rule the whole establishment is built on and it is a protection: nobody can be directed to do a thing their order does not name, nobody can be marked down for refusing it, and hazard pay attaches to duties that are written down in the schedule of duties.
+
+No order for this post can be written. *Bring something you have never told anyone* is not a duty; it cannot be specified in advance, it cannot be checked afterwards, and it cannot be refused on a ground the refuser would be willing to state. So the order that issues says **Flerehan cycle, N-IVδ-489, one worker**, and the cycle sheet comes back marked routine, and the schedule of duties contains nothing that corresponds to what actually happened in the chamber.
+
+Everything downstream follows from that. There is no hazard band for it. There is no entry on the personnel file, because the entry would have to describe the consideration and the consideration is the thing the worker gave up the ability to keep. A worker who has reached nil is simply a worker whose cycles stopped yielding, and nothing in the record distinguishes them from one who was reassigned.
+
+The file does not propose that the specification rule be relaxed. It is the right rule and the wing would not want to work under any other. What the file does is state, in the one place it can, that the holding runs on a consideration F01 is structurally unable to name, schedule, or pay for.
+
+### Volunteers Only, Nine Cycles, and the Objection
+
+Two measures, both within the wing's own authority, both inadequate, both kept.
+
+The post is **volunteers only**. It is posted once in the wing's own notices and never re-solicited, and the notice carries the depletion series and the sentence that most workers who serve here stop yielding within nine cycles. Nobody is asked twice, nobody is asked privately, and a supervisor who mentions the post to an individual is in breach of the posting instruction.
+
+A worker is taken off the roster at **nine cycles** whether or not they have reached nil, and the removal enters the record as *ceiling reached*, with no reason, no assessment and no note of what their last readings were. The ceiling has been reached fourteen times. Three of those workers asked to continue and were refused, and one of the refusals is in this file at the worker's own request, with their comment, which is that the ceiling was the first thing anybody had done about it.
+
+The staffing office's standing objection is correct and the wing has not answered it. A post that is volunteers-only and capped at nine is a post whose rotation pool is larger than the establishment can supply, so the cap is met by borrowing hours from other posts across Zone C — which means the cost of protecting the volunteers is carried, in small unrecorded amounts, by workers who never volunteered for anything and were never told what they were covering. The objection is re-tabled at every roster review. It is minuted each time as **correct, no remedy available at establishment**, and the wing continues to apply the ceiling.
+
 ## Trivia
 
-- Its outline is brighter when a nearby person is withholding a truth.
-- Audio records contain only ambient noise during its manifestation.
+- Brightness rises with every unspoken thing carried into the room and falls when one of them is named, by anybody, to anybody.
+- The sound effect is the only property the M.A.W. set could be drawn from, the figure itself never having been touched.
 
 
 
