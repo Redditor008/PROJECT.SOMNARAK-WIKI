@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Apocrypha's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is nothing in the outline to work against. Viderehan shows fragments of a purpose the archive cannot complete; Ferrehan is a matter of standing in weatherless cold without obtaining an answer, which teams report as the hardest endurance posting in the Desolate rota. Nothing is dug, lifted or thawed.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark the site and speak the farewell that was missed**.
 
 ### Consequences
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
 - **Primary marker:** A frozen patch of Desolate ground containing the outline of an unknown relic. Frost forms around empty space rather than an object.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** It is stationary and it is not always in the same place. The outline has been surveyed at nine separate sites, always beside a camp that was abandoned rather than struck, and it does not travel between them in any observed way. Record the grid reference, the distance to the nearest abandoned camp, and the outline's dimensions, which never change.
 - **Element signature:** Void
 - **Registered location:** The Desolate — mobile
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; more than one Desolate record concerns the effects of the dead, and this is the one that asks what an object meant rather than what it was. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Photograph the outline against a scale and record its dimensions, which have been identical at all nine sites. Record the frost pattern, which forms in the air around the empty space and not on the ground. Record the distance to the nearest abandoned camp. Do not sketch a reconstruction of the object; four have been produced over the years and all four are kept in a sealed appendix as examples of what not to file.
 
 ## Origin
 - **Formation:** The Relic formed from an object lost before its owner could say farewell.
 - **The Sorrow:** The emptiness of an object whose meaning was never explained.
 - **The Event:** A traveler froze in the Desolate while carrying a relic no one else could identify.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One traveller, frozen in the Desolate while carrying something nobody else could name. The Keepers hold the recovery report and the kit list. The kit list has an entry reading one object, unidentified, retained — and that entry, rather than the body or the cold, is what this record is made of.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Apocrypha is recorded as an Object/Place with Place-Void manifestation and Void elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** A falling reading means the site was marked and the farewell spoken, or that an item of unclaimed property was given a meaning in the effects file. Stability under Viderehan is correct. The reading rises with each object entered as unidentified and left at that, and it has risen during expeditions in which this record was not visited at all.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -173,7 +173,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
 | **Risk** | Body temperature drops rapidly; continuing past 60 seconds causes immediate hypothermia. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** The relics require continuous concentration and open conduits, and an untended channel destabilises the field. Note that the activation trigger for this record is a reading from the frost-covered vellum: the equipment is not what starts anything here, and a team that carries no relic and reads nothing has never recorded an activation. Leaving a channel untended causes escalating field instability.
 
 ### Log and Method
 
@@ -188,7 +188,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 The escalation pattern is specific to Apocrypha: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at The Desolate — mobile, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Secure the approach, confirm the event is an expansion rather than an activation, withdraw personnel who are carrying recovered effects — they read highest and routinely do not know they are carrying them — and then satisfy the management condition, which is the marking of the site and the spoken farewell. Report who spoke and what was said.
 
 ### Detailed Activation Record
 
@@ -201,7 +201,7 @@ The escalation pattern is specific to Apocrypha: it is not a generic breach even
 | **Risk** | Minor (α) Place-Void producing Void pressure; Body temperature drops rapidly; continuing past 60 seconds causes immediate hypothermia. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** grid reference and distance to the nearest abandoned camp → outline dimensions → unclaimed effects held by the expedition office at the time → what was marked and what was spoken → the reading. The third field is obtained from the effects office before departure and not reconstructed afterwards.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -222,12 +222,12 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The lance reaches one target. Nothing here spreads between people, which is consistent with a record built on a single man's single unexplained possession.
+**Damage Application:** Record the strike and the residue separately. The Void lands once; the sense that one's own belongings would be meaningless to anybody else persists for the remainder of the expedition and is the figure the debrief should carry.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Apocrypha's void signature in the strike.
+**Ability:** Void damage to the soul — to identity rather than the body. The lance carries the record's signature, which is an object whose meaning died with its owner, and what it opens in a target is the question of what they would be reduced to on a kit list.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small nameless memories with each use, and loses first their reasons for keeping things.
 
 ### M.A.W. Suit — Apocrypha Veil
 
@@ -243,9 +243,9 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Apocrypha's kind of pressure.
+**Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to stand at the outline for a full session and still own their own belongings afterwards.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves, and reports their possessions as objects they are looking after for somebody.
 
 ### M.A.W. Stigma — Apocrypha Shard
 
@@ -255,13 +255,13 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against Apocrypha itself, and nothing elsewhere in the Desolate.
 
 **Ability:** Preserves one unfinished message.
 
 **Cost:** The wearer hears every farewell left unsaid nearby.
 
-*Stigmas are granted at random by Apocrypha upon a successful work, not manufactured.*
+*The shard is not manufactured. Apocrypha gives one to a worker who wrote down what a dead colleague's possession meant to them, and has given none to anybody who catalogued one as unidentified.*
 
 ### M.A.W. Use Notes
 
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Apocrypha's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
+**Observation method:** Record the first sign, which is cold without weather; the first sensation, which is the certainty that you have forgotten to say something; the outline's dimensions; the unclaimed effects carried by the party; and the condition that ends the encounter, which is the marking and the farewell. Record the words spoken, not a summary of them.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -306,17 +306,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Apocrypha (O-Iα-340 [VP]) is logged as a Place-Void manifestation expressing Void. The Relic formed from an object lost before its owner could say farewell. Held at The Desolate — mobile. The Relic has no confirmed physical core.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-It moves along abandoned routes.
+**Entry 2 — <Effects Office Return: Unidentified Property of the Dead>**
+Items held by the expedition effects office as unidentified property of the dead: one hundred and twelve. Returned to a family in the last decade: nine. Entered with a note of what the object meant to the person — written by anyone who knew them, in any words, however uncertain — thirty-one. The remaining seventy-two are catalogued by material, dimension and weight. The outline's surveyed dimensions have never changed. The number of sites it has appeared at has risen by one in each of the last four years.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The emptiness of an object whose meaning was never explained.
+**Entry 3 — <Statement of a Worker Who Wrote the Note Anyway>**
+"It is a bent spoon with the handle wrapped in wire. There is no story to it that anybody can give you. What I put in the file in the end was that he carried it for eleven years, that he would not eat with anything else, and that he got annoyed when people asked. That is not an identification and I know it is not. The frost had drawn back about a hand's width by the time I came out, and I want to be clear that I did not learn anything about the spoon."
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows fragments of the relic's unknown purpose. (Stable); Ferrehan: Tests whether the worker can remain in the cold without answers. (Decrease). Personnel feel rage after prolonged silence at the site.
 
-**Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+**Entry 5 — <Archive Note: On the Field We Did Not Have>**
+The catalogue of this facility is built to establish what a thing is. For one hundred and twelve objects it cannot, and the standing instruction since the fourth site appeared is that it is to stop trying. An entry reading unidentified is complete by the catalogue's own standards and is, by the only measurement available here, the entry that makes the record worse. What is required instead is the smaller and less respectable field: what it meant to the person who had it, written by whoever knew them, with no requirement that the account be verifiable, consistent, or more than one sentence long. Where nobody is left who knew them, the field is to record that, by name and date, and not to be left blank. A blank is what the Desolate already has.
 
 ## 최종 관찰 (Final Observation)
 
@@ -345,12 +345,12 @@ Frost gathers around an empty shape. You know something should be there, but no 
 
 Apocrypha does not exist in isolation. Its recorded relationships with Pandora's Jar, Sealed Rage, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish it alone first and at a single site, since the nine sites have never been shown to be the same thing by any method other than the outline's dimensions. In shared conditions log the frost extent, the outline, and whether the other record altered position relative to the abandoned camp. Nothing is to be moved between sites for comparison.
 
 
 ### Entity Interaction Record
 
-Apocrypha must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Apocrypha is filed with the Desolate records, which are mostly things the cold kept. The relationships below are what the archive will support. They are not alliances; they are what is left beside abandoned routes, and in proximity each makes the others harder to tell apart from ordinary lost property.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -401,7 +401,7 @@ Some sorrows mourn a carrier. Apocrypha mourns the unexplained — the object wh
 - See M.A.W. Equipment section for extraction risk.
 **Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** One traveller, unnamed in every surviving document; the recovery report identifies the body by route and date, which is how the Desolate identifies most of them.
 
 ### Registry Addendum
 
@@ -419,8 +419,8 @@ Some sorrows mourn a carrier. Apocrypha mourns the unexplained — the object wh
 
 - **Classification detail:** Apocrypha is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Void, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it by the frost. Several frozen sites are catalogued in the Desolate; this is the one where the frost forms around an empty outline rather than on anything solid, and the outline is of an object nobody has identified.
+- **Record detail:** Check the designation before approach. More than one Desolate record involves the effects of the dead, and they differ on the decisive point — this one is eased by saying what an object meant and not by establishing what it was.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
