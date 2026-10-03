@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan, one observer, relief issued as an order at the end of it. |
 
 ### Operational Notes
 
@@ -116,9 +116,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A pillar-shaped presence sleeping inside consciousness. Its surface is pale and its shadow reaches into forgotten rooms. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | It does not stand in the room. Position is where in the observer's own thinking the pillar is, and how far behind that the shadow runs. |
+| **Material / signature** | Void. A pale column seen without eyes, bloodless cold, ash, and weight with no source for it. |
+| **Distinctive markers** | Colleagues standing beside the observer see nothing whatsoever, which is the fastest way to confirm the identification. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the wrong entity is the wrong sorrow, and with this one the error is not visible from outside the worker. |
 
 **Appearance protocol:** There is nothing to photograph. Record the pale surface as the observer describes it, the depth the shadow reaches, and the rooms it reaches into — forgotten rooms, usually the observer's own. Note that the recollections brought back from them belong to no one on the roster. Those are logged verbatim and not acted upon.
@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The Pillar softens and allows grief to pass. | Decrease |
-| **Pugnahan** | It rises through the worker's thoughts. | Increase |
-| **Viderehan** | Reveals the duties holding the worker in place. | Stable |
-| **Ferrehan** | Tests whether the worker can rest beneath responsibility. | Decrease |
+| **Flerehan** | The pillar softens and lets something through; nothing is discharged and the worker notices the difference at the next shift. | Decrease |
+| **Pugnahan** | It rises, without hostility and without stopping, because the approach reads as an attempt to put the duties down. | Increase |
+| **Viderehan** | It lists the duties holding the worker in place, accurately, including the ones they had genuinely lost. | Stable |
+| **Ferrehan** | The worker rests while still under the obligation, which is the hardest thing this file asks of anybody and is the only cycle that reliably works. | Decrease |
 
 
 
@@ -236,11 +236,11 @@ Each piece is a conditional extension of the Pillar rather than ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It has never fully awakened.
-- Its shadow grows when the worker refuses rest.
-- Personnel report emptiness after contact.
+- It has never fully woken in the life of the holding, and the threshold for waking is one refused relief.
+- Shadow depth tracks declined reliefs and not hours worked; the correlation with hours is flat and has been tested twice.
+- Workers describe emptiness and then, on questioning, describe it as a full room they are not allowed to leave.
 
-**Personnel Note:** *"I felt emptiness. The Pillar was not empty; it was full of duties that had never been allowed to end."* — Specialist, Zone B patrol
+**Personnel Note:** *"I felt emptiness. The Pillar was not empty; it was full of duties that had never been allowed to end. Mine were in there. I had not thought about two of them in years and they were exactly where I left them."* — Specialist, Zone E, Border post
 
 
 
@@ -248,10 +248,10 @@ Each piece is a conditional extension of the Pillar rather than ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Dormant Monolith as a Subject with Subject-Mind manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone E, Border region. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Dormant Monolith's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer becomes aware of an obligation they had not thought about that day. That is the first sign and it precedes any sense of the pillar at all. |
+| **Sustained observation** | Shadow depth at entry and exit, which forgotten rooms it reached, and whether the observer afterwards reported an obligation they had not reported before. All three in the observer's own words, none of them standardised. |
+| **Activation or escalation** | A relief declined, by anybody in the region. Elapsed hours do not enter the calculation and never have; the variable is refusal, not fatigue. |
+| **Post-contact review** | Shadow depth, rooms reached, obligations returned, and whether the encounter ended because the observer was relieved or because the observer decided to stop. Those two endings are logged differently and counted separately. |
 
 **Observation method:** Record the first sign, which is the observer becoming aware of an obligation they had not thought about that day; the first sensation, which is weight without a source; the extent of the shadow at entry and exit; and the condition that ends the encounter, which is the observer being relieved. Observations that end because the observer decided to stop are logged differently and counted separately.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -273,7 +273,7 @@ Management: Ground the worker and establish a rotation of duty. Work response �
 **Entry 5 — <Rotation Order, Border Region>**
 No post in the Border region is held by one worker for more than four consecutive shifts, and relief is issued as an order so that no one has to ask for it. Where a duty cannot be divided, it is written down in full and countersigned by a second worker, who thereby holds it jointly whether or not it is ever called on. The rota is kept with the containment documents and is amended under the same authority. A worker who declines relief is relieved regardless, and the decline is not recorded against them.
 
-**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat rating:** Critical (δ) at threshold 1 — one refusal wakes it. It has injured nobody and has never fully woken. The grade is that its reach is the duty rota of an entire region and that the facility's own staffing practice is the thing that feeds it.
 
 ## 최종 관찰 (Final Observation)
 
@@ -300,7 +300,7 @@ A pillar rises inside your mind, holding up a ceiling no one else can see. You a
 
 ### Interaction Pattern
 
-Dormant Monolith does not exist in isolation. Its recorded relationships with The Sleeping Weight, The Crumbling Saint, The Forgotten Soldier should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Pairings here are read inside one person, which is why only one of the three below was arranged and why the other two are kept as observations rather than as studies. The measurable is shadow depth; the meaningful is what the observer afterwards admits they are carrying.
 
 **Interaction method:** Baseline the Pillar with one observer at a time and never with two, since the readings are taken inside a person and two observers produce two entities' worth of record. When another entity is brought into proximity, the change appears in the shadow's depth rather than in the surface. Record which forgotten rooms it reaches and whether they were reachable before.
 
@@ -311,9 +311,9 @@ The Pillar belongs with the records concerned with obligations that outlived the
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Sleeping Weight** | Shares unconscious responsibility. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Crumbling Saint** | Both carry duties beyond endurance. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Soldier** | Recognizes duty without release. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Sleeping Weight** | Shares unconscious responsibility. | The deepest shadow reading on file was taken while the Weight's wing was in a deemed-service cycle, and the observer reported three returned obligations rather than the usual nought or one. Not repeated and not to be arranged. | Shadow depth, the Weight's cycle dates, and the obligations returned, listed by the observer. |
+| **The Crumbling Saint** | Both carry duties beyond endurance. | Compared on paper only. The wing's position is that two obligation-class holdings in one observer would produce a reading nobody could attribute to either, and the position has been restated at every review since Year 4219. | The position, restated, with both files' shadow series attached. |
+| **The Forgotten Soldier** | Recognises duty without release. | Observed once during a corridor transit. The observer's shadow held steady for the duration, which is the only recorded instance of it neither deepening nor retreating during a pairing, and the observer afterwards declined relief and was relieved anyway. | Shadow depth at one-minute intervals, the transit times, and the relief order executed over the decline. |
 
 **Interaction procedure:** One observer, solo baseline, then the pairing: the depth of the shadow at first and last contact, which rooms it reached, how long the change held, and whether the observer afterwards reported an obligation they had not reported before. The last field is the one that has changed the file, and it is the one most often left blank.
 
@@ -345,22 +345,22 @@ Some sorrows are about duty. Dormant Monolith is about duty that consumed the du
 > *“Obligation that consumed the oblige-bearer. The mind became a load-bearing structure.”* — Elder, Zone D
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-909 [N]` · Void · Subject-Mind manifestation
+**Classification:** Sorrow Entity — `N-IVδ-909 [N]` · Inner origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Mind manifestation
 **Common Name:** Dormant Monolith
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Critical (δ). No injuries, no pursuit, nothing to seal. The grade is reach and sensitivity: it stands in whichever mind is holding a duty that cannot be put down, and the threshold is one.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Flerehan and Ferrehan let things through and lower the gauge. Pugnahan reads as an attempt to set the duties down and raises it; Viderehan only lists them.
+- The rota is the containment. No Border post is held by one worker for more than four consecutive shifts, relief is issued as an order so nobody has to ask, and a declined relief is executed anyway and not recorded against the worker.
+- In a transform event, muster by name at fixed points in the fixed non-alphabetical order, read from the list by somebody holding it. A gap in the count then names a place as well as a person.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- One border worker who held a position for decades because other people needed them to. The duties are listed in full; the people they were owed to are not, because by the time the record was taken nobody could name them.
+- Reliefs issued in the Border region last year: 2,900. Declined and executed over the decline: 410. Of those, 280 came from the nine posts with a single qualified holder.
+- Administrative time granted for a returned obligation is not charged to leave, not entered on the personnel file, and approved by the counsellor rather than the supervisor.
+**Cross-References:** The Border region rotation order · the indivisible-duty schedule and its fourteen entries · the accounting office's standing objection to joint holding · the Year 4176 single-point accountability finding · the family's volunteered submission, reproduced unedited
 **Faction Involvement:** SED (E-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A border worker whose obligations outlived everyone who remembered asking for them.
 
 ### Registry Addendum
 
@@ -397,10 +397,42 @@ In a transform event it passes through structure and fills corridors, and nothin
 
 Time granted to deal with a returned obligation is not charged against leave, is not recorded in the personnel file, and is approved by the counselor rather than by the worker's supervisor. All three provisions were insisted on by the counselors when the offer was established and all three were resisted by the personnel office, whose objections are bound in the file alongside the commander's decision. The decision is one paragraph. It holds that the facility caused the recollection, that the worker did not ask for it, and that an institution which hands somebody back a debt should not then make them account for the afternoon.
 
+### What the Relief Log Is Measuring
+
+The Border region issued **2,900 reliefs** last year. **Four hundred and ten** were declined by the worker and executed over the decline, as the rotation order requires.
+
+Shadow depth tracks the 410. It does not track hours on post, shift length, or time since leave; both attempts to correlate it with elapsed time produced flat lines and both are retained in the file with their working. The variable is refusal.
+
+**Two hundred and eighty of the 410 declines came from nine posts** — the nine in the region that have a single qualified holder. Those nine people decline relief at roughly eleven times the rate of everybody else, and the reason they give, consistently, is the true one: the post is relieved, and the work is still theirs when they come back.
+
+The entity has never fully woken. The threshold is one refusal. That those two statements are both true is the holding's central mystery and the file does not pretend to resolve it; the standing hypothesis, labelled as a hypothesis, is that a relief executed over a decline counts for something even when the worker did not want it.
+
+### One Duty, One Named Holder
+
+The rota can move a person. It cannot divide a responsibility, and the rule that stops it is a good one.
+
+Every duty in the facility has exactly one named holder. Shared responsibility is not responsibility: in Year 4176 a containment check was held jointly by three officers, each of whom believed one of the others had done it that night, and the finding afterwards — that no individual had failed and that the arrangement had — is the finding that produced the single-holder rule across all six wings. It has prevented a great deal since. The accounting office is its custodian and defends it at every review, correctly.
+
+What it means here is that relief is a posting measure and not a release. The worker goes home at the end of the fourth shift and the duty stays named after them on the schedule, which is precisely the condition this entity stands in: a responsibility that is yours whether or not you are at work, with nobody else permitted to hold it.
+
+The nine single-holder posts are the acute case and the facility cannot train its way out of them quickly; two require certifications that take four years, and one requires a working knowledge of a border dialect that the region has three speakers of. The file does not propose a remedy it cannot fund, and says so.
+
+### The Indivisible Schedule
+
+The one exception the wing has, it uses carefully and defends honestly.
+
+Where a duty in the Border region is listed on the **indivisible schedule**, it is written down in full and countersigned by a second worker, who thereby holds it jointly whether or not it is ever called on. The schedule has fourteen entries. An application to add a fifteenth takes about seven months and is opposed, as a matter of course, by the accounting office.
+
+The opposition is correct and the file prints it rather than burying it. Every joint holding weakens the ability to say afterwards who failed, and the office's standing submission points out — accurately — that the wing is trading a measure of accountability for a measure of sleep, that it is doing so on the basis of a shadow depth nobody outside this chamber can read, and that fourteen exceptions is how a rule becomes a practice. The submission is answered, each time, by a commander's paragraph that concedes every point and grants the entry anyway.
+
+What the countersignature does not do is lift anything. The duty is not transferred, nothing is discharged, and the first holder's name stays on it. A worker who asks what the second signature is actually for is told the truth, which is that it exists so that there is a second person who knows, and that knowing is the whole of the relief available.
+
+The rota is amended under containment authority and audited on the containment schedule, alongside the physical seals in the rest of the wing. This is not a formality. It is the only containment document in the archive that works by telling people to go home, and the audit is the only thing standing between it and the ordinary erosion that happens to any rule written in favour of rest.
+
 ## Trivia
 
-- It appears only to people with unresolved responsibilities.
-- Its shadow is visible even when the worker's eyes are closed.
+- Nobody without an unresolved obligation has ever seen it, in any account from any entrant across the whole record.
+- Closing the eyes does not affect the shadow, which is how the first observer established that the pillar was not in the room.
 
 
 
