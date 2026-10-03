@@ -12,7 +12,7 @@
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
-| **Manifestation** | Subject-Lament |
+| **Manifestation** | Place-Lament |
 | **Physical Form** | Non-Organic — It has no body at all; what manifests is a voice — low, unhurried, speaking two or three words of comfort — that arrives from just behind the listener's shoulder where no one stands. Sometimes a faint warmth like exhaled breath accompanies the words; that is the closest it comes to a form. |
 | **Movement** | Mobile — drifts or flows through the area. |
 | **Location** | Zone D, Mantle Commons — ambient |
@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | Granted pieces · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan to count and transcribe; Ferrehan to sit in the Commons and accept one. Flerehan and Pugnahan do not apply to a Place and have never been attempted. |
 
 ### Operational Notes
 
-- The Echo returns kindnesses that were offered in the Commons, in the voice of whoever offered them.
-- Work lowers the frequency of returns for a shift. The entity is unchanged, and nothing returned has been new.
-- Viderehan and Ferrehan are the valid approaches to the site.
-- No breach counter applies. The carrying field widens, and personnel who recognise their own voice are withdrawn from the rotation.
-- Residue recovery at the Commons wall is separately authorized and is never a reward for a clean shift.
+- It returns kindnesses offered in the Commons, in the voice of the person who offered them, to whoever happens to be standing there.
+- A cycle lowers the frequency for a shift. Nothing returned has ever been new; every return matches an act somebody actually performed.
+- Viderehan and Ferrehan only, both conducted sitting down, both in the Commons itself. There is nowhere else to conduct them.
+- No breach counter. The carrying field widens slowly; any Warden who recognises their own voice in a return is withdrawn from the rotation that day, without inquiry.
+- Wall residue is recovered under separate authority and never as a reward for a clean shift, for reasons the Commons staff consider too obvious to write down and which are written down anyway.
 
 ## Combat Record
 ### Core Stat Line
@@ -66,7 +66,7 @@
 |---|---|
 | **Battle Length** | Short — 10 turns |
 | **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) — Barely formed, ambient |
+| **Coherence** | Residue (I) — ambient, and thinner every year it is counted |
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Echo of Kindness's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is nothing to engage. Viderehan counts returns and transcribes them; Ferrehan is sitting in the Commons and letting one be said to you. The second is the work and most Wardens find it the harder of the two.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **No containment required; preserve the conditions that form it**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - If the resolution condition is not fulfilled, Echo of Kindness reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
-**Physical Form:** A warm voice carried through the air, speaking brief words of kindness. It has no body.
+**Physical Form:** A voice and nothing else — low, unhurried, two or three words, arriving from just behind the shoulder. **Accompaniment:** a faint warmth like exhaled breath, which is as close to a body as the holding comes.
 
-**Notable Features:** It appears after small compassionate acts, fades quickly, and leaves warmth after the sound ends.
+**Notable Features:** It follows small kindnesses rather than grief, it is gone inside two seconds, and the warmth outlasts the words by a little.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Lament
-- **Primary marker:** A warm voice carried through the air, speaking brief words of kindness. It has no body.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Primary marker:** Comfort spoken at conversational distance behind you in a voice you may or may not recognise, with no one in the room positioned to have said it.
+- **Position / movement:** No body and no position. The voice arrives from behind the right shoulder of whoever is nearest, at about a pace, and is gone. Record the bearing it came from and the distance to the nearest person who could have spoken.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Mantle Commons — ambient
 
@@ -117,18 +117,18 @@
 |---|---|
 | **Form** | A warm voice carried through the air, speaking brief words of kindness. It has no body. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Material / signature** | Lament. No colour, no mass, no instrument reading at all: a voice, a warmth, and an absence where the speaker should be. |
+| **Distinctive markers** | Brevity, kindness, and the bearing — always behind, always the right shoulder, always about a pace. |
+| **Identification** | If it asked you for anything, it was not this. This one has never once asked for anything. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Count, bearing, words verbatim, voice identified or not. Four fields, and a fifth the Commons staff added themselves: whether the hearer was willing to say out loud what they had heard.
 
 ## Origin
-- **Formation:** The Echo formed from kindness that became rare enough to crystallize.
-- **The Sorrow:** The grief of a city where compassion is treated as exceptional.
-- **The Event:** Countless small acts—food shared, doors held, wounds tended—gathered into a voice.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this effect as "Sorrow Resonance" — the entity's sorrow resonates with the viewer's own hidden grief. Containment procedures require personnel to rotate every 72 hours. Extended exposure causes vivid dreams — dreams of lives never lived, of losses never mourned. The dreams fade upon waking, but the feeling remains — a.
+- **Formation:** From kindness becoming rare enough to be remarkable, and then rare enough to settle.
+- **The Sorrow:** Not cruelty. A city sensible enough to have arranged care properly, and to have made the unarranged kind into a breach of the rules.
+- **The Event:** Forty years of small unrecorded acts in one square — food shared, doors held, wounds bound at the wall — gathering into a voice that gives them back.
+- **The People:** Nobody in particular and several thousand in general — the Mantle Commons over about forty years, in the ordinary course of sharing food and holding doors.
+- **Expanded origin context:** There is no commissioning file. What the Commons staff keep instead is a count book begun by a stallholder, forty-one years of it, recording every return she heard and who she thought it was. The book is unscientific, unauthorised, and the best record the archive holds of this holding; the Keepers took a copy and left her the original. Her last entries note that the voices had begun to be ones she no longer recognised, and that there were fewer of them.
 
 ## Behavior
 
@@ -138,8 +138,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the act that formed the Echo. | Stable |
-| **Ferrehan** | Remains nearby while the worker accepts comfort. | Decrease |
+| **Viderehan** | The act behind the return: who did it, for whom, and whether anybody ever knew. Gauge does not move. | Stable |
+| **Ferrehan** | Remaining in the Commons and allowing a kindness to be said to you without deflecting it. Several Wardens have asked to be excused this and have been. | Decrease |
 
 
 ### Operational Work Notes
@@ -151,10 +151,10 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 | Field | Detail |
 |---|---|
-| **Expansion Trigger** | Repeated compassionate acts in the same community. |
-| **Expansion Rate** | Slow through Mantle Commons. |
-| **Expansion Effect** | The voice reaches more people and supports emotional stability. |
-| **Containment** | No containment required; preserve the conditions that form it. |
+| **Expansion Trigger** | Unrostered kindness, repeated in the same square by the same people. Nothing else has ever triggered it. |
+| **Expansion Rate** | Slow, and currently negative. The carrying field has contracted in each of the last three surveys. |
+| **Expansion Effect** | More people hear it and fewer people need the counsellors; the Commons ward's referral rate is the lowest in the district and has been for a decade. |
+| **Containment** | None required. The whole protocol is to preserve the conditions that make it, and this Company's own rules are the principal threat to those conditions. |
 
 
 
@@ -162,21 +162,21 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 The escalation pattern is specific to Echo of Kindness: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone D, Mantle Commons — ambient, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: No containment required; preserve the conditions that form it. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** There is no response. Count, transcribe, withdraw anybody who heard their own voice, and report the monthly figure to the Commons ward whether it is good news or not. It has not been good news for three years.
 
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Repeated compassionate acts in the same community. |
-| **Manifestation** | Object-Lament|
-| **Primary effect** | The voice reaches more people and supports emotional stability. |
-| **Duration / rate** | Slow through Mantle Commons. |
-| **Risk** | Minor (α) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | No containment required; preserve the conditions that form it. |
+| **Trigger** | Freely given help, repeated, in one place. |
+| **Manifestation** | Place-Lament |
+| **Primary effect** | Comfort delivered to whoever is standing there, costing them nothing. |
+| **Duration / rate** | Twenty-nine returns a month and falling; two seconds each. |
+| **Risk** | Minor (α) Place-Lament producing Lament pressure. Unexpected weeping in exposed personnel, and a documented reluctance to report having been comforted. |
+| **Management** | Count, transcribe, rotate, and defend the conditions. There is nothing else to manage. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** return count → voice identified or not → words transcribed → whether the original act was rostered or freely given → the hearer's own account on the day. The last field is the one that is usually missing and the only one that cannot be reconstructed.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -225,13 +225,13 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat, and the bearer hears the returns about a second before anybody else in the room does.
 
 **Ability:** Calms people near the wearer.
 
 **Cost:** The wearer feels every kindness that was refused nearby.
 
-*Stigmas are granted at random by Echo of Kindness upon a successful work, not manufactured.*
+*Four stones exist. All four were granted to Wardens who heard their own voice come back at them and reported it the same day, which is the thing the rotation exists to catch and the thing almost nobody does.*
 
 ### M.A.W. Use Notes
 
@@ -250,13 +250,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial
+**R.D. Comprehension Level:** 1 — Initial. Nothing here resists study; there is simply very little to study, and less of it every year.
 
-- It appears after kindness rather than grief alone.
-- Its words are short and direct.
-- It is one of the few entities that produces comfort without an immediate cost.
+- It follows kindness. Grief alone has never produced a single return in the whole count book.
+- Two or three words. Never specific enough to be information, never vague enough to be mistaken for comfort in general.
+- It is one of three holdings in the archive that gives a worker something and takes nothing, and the only one of the three still in operation.
 
-**Personnel Note:** *"It was waiting. I felt weight. The kindness did not remove the weight; it made it possible to carry."* — Specialist, Zone D patrol
+**Personnel Note:** *"Twenty-nine a month. It said *you did well today* behind my shoulder and I knew the voice — a fitter who died in my second year, who used to carry my box up the stair when my hands were bad, which was against the rules then and is against the rules now. I did not write it up until the Thursday. Nobody writes these up on the day."* — Warden, Mantle Commons
 
 
 
@@ -264,27 +264,29 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Echo of Kindness as an Object/Place with Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Mantle Commons — ambient. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Echo of Kindness's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Seated position taken in the Commons, count book open, time noted, nobody speaking. |
+| **Sustained observation** | Each return logged with its bearing, its words and the hearer's name. Voice identification is offered, never pressed, and recorded as uncertain by default. |
+| **Activation or escalation** | There is no escalation on record. The event this holding produces is the opposite one, and the monthly count is how it is detected. |
+| **Post-contact review** | Monthly count against the series, voices identified, and whether each hearer reported on the day or afterwards. The reconstructed accounts are always gentler than the spoken ones and are marked as reconstructions. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** A bench, a count book, and a willingness to be spoken kindly to by nobody. The third requirement is the one that disqualifies most candidates.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Echo of Kindness (C-Iα-240 [LO]) is logged as a Lament manifestation expressing Lament. The Echo formed from kindness that became rare enough to crystallize. Held at Zone D, Mantle Commons — ambient. It appears after kindness rather than grief alone.
+Echo of Kindness (C-Iα-240 [LO]) is logged as a Place-Lament manifestation expressing Lament, ambient in the Mantle Commons of Zone D. It returns freely given kindnesses in the voice of whoever gave them, it has never harmed anybody, and it is getting quieter every year.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Commons Count Sheet, Year 4238>**
+Twenty-nine returns a month, mean, against forty-four and sixty-one in the two preceding series. Voice identified in nine cases. No return in the whole year followed an act performed under roster.
 Its words are short and direct.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Works Office Correspondence>**
+The office confirms that no worker of this Company may do anything for another worker outside the roster: no covering, no swapping, no lending of tools, no standing in, no carrying of another's task for any reason. All assistance is rostered, and unrostered assistance is an infraction whatever its motive.
 The grief of a city where compassion is treated as exceptional.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals the act that formed the Echo. (Stable); Ferrehan: Remains nearby while the worker accepts comfort. (Decrease). It is one of the few entities that produces comfort without an immediate cost.
+Management: count, transcribe, rotate out anybody who hears their own voice, and report the monthly figure unaltered. Work response — Viderehan: the act behind the return (Stable); Ferrehan: accepting the comfort without deflecting it (Decrease). Flerehan and Pugnahan do not apply to a Place.
 
 **Entry 5 — <Archive Note>**
 Two or three words arrive from just behind the shoulder, unhurried and kind, and there is nobody there. The content is always comfort, and it has never been specific enough to count as information. Workers who hear it tend not to report it on the day. That is the only operational difficulty the entity has produced: the log ends up reconstructed afterwards, and the reconstruction is always gentler than the account given in person.
@@ -316,20 +318,20 @@ A voice speaks from the air: you matter, sit down, I see you. The words are ordi
 
 Echo of Kindness does not exist in isolation. Its recorded relationships with The Hollow Echo, The Kind Healer, The Silent Child should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Counts kept on the same sheet and on the same days, with the other party's figures taken by its own staff. Nothing is brought into the Commons for a pairing; the square is left exactly as the people who use it keep it.
 
 
 ### Entity Interaction Record
 
-Echo of Kindness must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Echo of Kindness must be kept distinct from the other voice holdings. The Hollow Echo gives back what was shouted into it; this one gives back only what was given away, and gives back nothing at all for anything done to order. The distinction is the entire finding of the Commons series.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hollow Echo** | Answers calls with acknowledgment rather than rescue. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | Strengthens the Healer's gentleness. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Silent Child** | Makes the Child more visible. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Hollow Echo** | It returns what was shouted; this one returns what was given. Placed in the same square they do not interfere and the counts stay separable, which is how the pair was told apart in the first place. | Both counts unchanged. The Hollow Echo repeats; this one does not repeat anything that was not freely done. | Keep two tallies on one sheet and mark which column each utterance belongs in. |
+| **The Kind Healer** | Returns rise sharply while the Healer is working in the square — forty-one in the month of the last attendance — and fall back within a fortnight of its leaving. | The largest single movement in the series. The Healer is unaffected and the effect does not persist. | Count daily through the attendance and for a fortnight after. |
+| **The Silent Child** | The Child is easier to see in the Commons than anywhere else, and the returns heard near it are addressed to the Child rather than to the Warden. | Visibility up; six returns in the series were comfort spoken to somebody who is not personnel. | Transcribe the words and record plainly who they were for. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Two tallies, one sheet, daily through the pairing and a fortnight after, with the square left in the hands of the people who live round it.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -361,19 +363,19 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 > *“The Echo does not comfort. It reminds us that comfort was once ordinary.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-240 [LP]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Place-Lament manifestation
+**Classification:** Sorrow Entity — `C-Iα-240 [LO]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Place-Lament manifestation
 **Common Name:** Echo of Kindness
 **Containment Status:** Ambient — Zone D, Mantle Commons
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Minimal. Non-hostile. The Echo is ambient sound; it does not attack or breach. Effect is emotional: induces contemplation and unexpected weeping in exposed personnel.
+**Threat Assessment:** Minimal (α). Non-hostile, no breach mechanism, no injury in the whole record. Effect is emotional: unexpected weeping, and a marked reluctance in personnel to report having been comforted.
 **Containment & Handling Procedures:**
-- No containment required. The Echo is ambient and cannot be localized.
-- Rotate personnel through the Commons to limit cumulative exposure.
-- Flerehan is the only Work Type that produces consistent data.
+- No containment. The holding cannot be localised, moved, sealed or deliberately produced, and nothing is to be attempted on any of those lines.
+- Rotate the watch, and withdraw for the day anybody who hears their own voice come back. Neither measure is disciplinary and both are recorded as not disciplinary.
+- Viderehan produces the count; Ferrehan produces the only reliable account of what the words do to a person. Flerehan is unavailable here: this is a Place.
 **Observation Notes:**
-- Crystallized from accumulated small acts of kindness in the Commons.
-- Intensifies during the Consolihan. Fades to baseline on ordinary days.
-**Cross-References:** Mantle Commons · The Consolihan · The Veil (causal factor)
+- Twenty-nine returns a month, after forty-four and sixty-one. The Commons count book, kept by a stallholder for forty-one years, is the longest series the archive holds on any entity.
+- Rises during the Consolihan and falls back. No return in three years has followed an act performed under roster.
+**Cross-References:** Mantle Commons · The Consolihan · The Veil (causal factor) · The Hollow Echo · The Kind Healer · The Silent Child · the Works Office · the Spare Hand roster
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** Collective; no single originator. Formed from the accumulated kindness of Zone D citizens.
 
@@ -382,6 +384,26 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 **Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Commons Record
+
+### What the Return Count Is Measuring
+
+The count book records every return heard in the square: 61 a month, then 44, then 29. The series is the longest the archive holds on any entity, it was begun by a stallholder rather than by the Directorate, and its decline is the plainest fact about this holding. Set against the obvious candidates — footfall in the Commons, the ward's population, the Consolihan calendar — it matches none of them. It matches the number of acts of assistance performed in the district outside the roster, which is to say the number of infractions of the Works Office's own standing instruction.
+
+No worker of this Company may do anything for another worker off the roster. No covering a shift, no swapping an hour, no lending a tool, no standing in while somebody sits down, no carrying another man's load because his hands are bad. Assistance is rostered or it is an infraction, whatever the motive, and the motive is explicitly immaterial. The rule was made for cause and the cause was serious. Favours created debts, and the men who gave the most favours ended up owning crews; the swap network put four fixers in effective control of a whole district's shifts; and twice the Company could not say who had actually been standing on a stair when it failed, because the man on the sheet had quietly been covered by somebody else. Nobody here wants the fixers back.
+
+Its consequence is that it is no longer possible to be kind at this Company without committing an infraction. Every small decency the Commons was built out of — the box carried up the stair, the half hour taken off somebody's shift while they got themselves together — is now, precisely, an unrostered act of assistance. The Company did not forbid kindness. It forbade the unrecorded, and kindness turned out to live almost entirely in there. The voice in the square has been getting quieter at about fifteen returns a year since the instruction was issued, and the stallholder's last entries say she no longer recognises the voices, because the people whose kindnesses it is still giving back are mostly dead.
+
+### The Spare Hand
+
+Authorised Year 4235. Every ward carries one rostered spare on every shift: a named worker, paid, whose only duty is to be available to help whoever needs helping. Assignment is by rota and never by request, so that no one owes anybody anything and no fixer can form.
+
+Year 4237: 212 wards, 14,600 spare-shifts, 9,100 calls answered at a mean response of seven minutes. 2,300 shifts in which the spare was never called at all. 418 occasions on which a spare was used, improperly, to do a supervisor's clerical work; all 418 were stopped and none was punished.
+
+The costs are real and the Commons staff are the ones who record them. A rostered kindness is not experienced as kindness: the people helped describe it, almost without exception, as service — correct, prompt, and addressed to nobody. Needing the spare is visible, because calls are logged by ward and crews can count, and the wards with the highest call rates are the wards that are watched. In the hard quarter two wards quietly stopped rostering a spare at all and nobody noticed for five months. And nothing a spare does can ever be meant for a particular person, because the moment it is meant for them it is a favour again.
+
+The charge hands asked for the narrowest possible exception: that a worker might once a shift ask a named colleague for help, logged, with reciprocity expressly forbidden. It was refused, and the refusal is correct — a logged request to a named person is a favour with paperwork, the debt forms exactly as it always did, and within a year the names being asked would be the same four names. Their objection stands in the scheme's first volume, recorded as correct and unanswered: that this Company abolished the favour in order to free its workers from each other, and has thereby arranged that the only help available is help that nobody chose to give, and that the thing in the Mantle Commons has nothing left to repeat.
+
 ## Trivia
 
 - It forms from kindness, not happiness.
@@ -393,8 +415,8 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 
 - **Classification detail:** Echo of Kindness is an Object/Place with Residue (I) — Barely formed, ambient coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone D, Mantle Commons — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Two or three unhurried words of comfort from just behind the shoulder, with a warmth like breath and nobody standing there.
+- **Record detail:** The file carried four different manifestation labels — Subject-Lament, Lament, Object-Lament, Place-Lament — and two designation tags, `[LO]` and `[LP]`. Standardised here to Place-Lament and `[LO]`. The Registrum also named Flerehan as the only Work Type producing consistent data, against a Place that cannot be worked through Flerehan at all.
 - **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
