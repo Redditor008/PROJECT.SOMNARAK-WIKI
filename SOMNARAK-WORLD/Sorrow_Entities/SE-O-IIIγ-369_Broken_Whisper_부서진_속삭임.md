@@ -32,10 +32,10 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan or Ferrehan, one transcriber, no conferring, nothing joined. |
 
 ### Operational Notes
 
@@ -117,8 +117,8 @@
 |---|---|
 | **Form** | A fractured crystal object that emits broken fragments of whispers. It appears to float without purpose in underground Han currents. |
 | **Position / movement** | Drifts in the underground Han currents without apparent direction; log the position against the tunnel current map every cycle and record the discrepancy, which is constant, unexplained, and not to be speculated about in the log. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | Lament. Fractured crystal, salt-cold, cold rain, light moving in the fracture planes, and half-words arriving out of order. |
+| **Distinctive markers** | The fracture count and the drift that does not match the current running past it. The whispers are not an identifying marker and never repeat. |
 | **Identification** | Identification is not optional and is done against the object, not the sound. The designation, the manifestation and the fracture count must agree before Work begins; the whispers are not an identifying marker and have never been consistent between cycles. |
 
 **Appearance protocol:** Record the object and the sound as two separate instruments. For the object: the number of visible fracture planes, the overall dimension across the longest axis, the colour of the light in the fractures, and the position against the current map. For the sound: every fragment transcribed as heard, one to a line, in the order received, with the gaps left as gaps. Fragments are never joined, never punctuated into sentences, and never marked with an editorial symbol to indicate where they broke — the break is the record, and the instruction exists because an early Warden once joined them in good faith and produced something that read as a single voice. Note also which fragments carried a name and whether the name belongs to anyone on the station rolls. Do not write 'eerie'. Write the half-word.
@@ -138,8 +138,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Fragments can be assembled into partial histories. | Stable |
-| **Ferrehan** | Continues whispering until the worker can bear incompletion. | Decrease |
+| **Viderehan** | Fragments arrive and can be set beside one another, never joined; what results is a list and not a history. | Stable |
+| **Ferrehan** | The whispering continues until the worker can sit with a sentence that will not finish, which is the single discipline this holding teaches and the hardest thing it asks. | Decrease |
 
 
 ### Operational Work Notes
@@ -277,11 +277,11 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The object floats along underground sorrow currents.
-- No complete message has been recovered without human interpretation.
-- It responds positively to patient listening.
+- It floats in the underground Han currents and does not follow them; the discrepancy is logged every cycle and has never been explained.
+- No complete message exists in the record. Every apparently complete one was assembled by a listener, and each is filed as a finding about the listener.
+- Patient listening lengthens the gaps between fragments and draws the whispering back toward the crystal, which is the only settling this holding produces.
 
-**Personnel Note:** *"It was standing in the dark, but its voice was falling. I felt hope because even a broken whisper still tried to reach someone."* — Researcher Euncris Park
+**Personnel Note:** *"Its voice was falling and it was still trying to reach somebody. I wrote down eleven half-words and not one of them was a sentence, and I have kept two of them for four years as though they were mine."* — Researcher Euncris Park, Zone B, deep tunnels
 
 
 
@@ -290,9 +290,9 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Broken Whisper as an Object/Place with Object-Weight manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone B, deep tunnels. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Two instruments kept apart: the object — fracture planes, longest axis, the colour in the fractures, position against the current map — and the sound, transcribed one fragment to a line with the gaps intact. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Holding the object and speaking a name into it. Effect: Returns one broken whisper as a complete emotional message. Duration: The message lasts until understood or forgotten. Risk: The listener may mistake another person's final words for their own memory. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Broken Whisper's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | The transcript checked for joined fragments, the issue log for any name spoken into the object, and a same-day counsellor referral for any operator who has begun recalling a returned message as their own. Neither check is a mark against anybody. |
 
 **Observation method:** Observe with one transcriber, one timekeeper, and nobody conferring. Record the first audible fragment, the first emotional response and what prompted it, the first measurable change in the tunnel, and the condition that ended the watch. The entity's appearance is its history made visible rather than a forecast of behaviour: a shattered crystal full of half-sentences is what an unheard appeal looks like once it has set, and it predicts nothing. The examination of the fragments for operational detail about the collapse has been done and yielded none — the voices were not reporting anything, they were asking for something — and that finding is kept at the front of the file so that no observer repeats the exercise expecting a different result.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -350,9 +350,9 @@ Broken Whisper must be assessed as one of a group of sorrows made from speech th
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hollow Choir** | The Choir supplies missing harmonics. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Whispering Walls** | The Walls repeat its broken fragments. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Orphaned Bell** | Resonates when a fragment contains a child's name. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Hollow Choir** | The Choir fills in the harmonics this object is missing. | Attempted twice along the tunnel and stopped both times inside ten minutes. Transcripts began reading as continuous speech, which is the one outcome this holding treats as failure however good it sounds. Not to be attempted again without commander's authority. | Both part-transcripts, kept separate, with the termination times and the reason stated as failure. |
+| **The Whispering Walls** | The Walls give the fragments back. | Returned fragments arrive altered in length about a third of the time, and the alteration is always toward completeness. The wing treats every Wall-returned fragment as a second-hand account and lists it apart from the direct transcript, never within it. | The two lists side by side, the return delay, and the proportion altered. |
+| **The Orphaned Bell** | The Bell sounds when a fragment carries a child's name. | Recorded nineteen times, against sixty-one names heard in total. The wing has never used the Bell to decide whether a name was a child's, since a holding that identifies the dead by what another holding does when it hears them is doing the joining by proxy. | Bell times against the transcript lines, and the standing refusal to treat the Bell as evidence of anything about the name. |
 
 **Interaction procedure:** Baseline both parties alone, bring them into range along the tunnel rather than across it, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the passage, and whatever persists after separation. The field this holding adds is the transcript comparison: the two fragment lists, kept separate, never interleaved, with the timings against each.
 
@@ -382,22 +382,22 @@ Some sorrows mourn the dead. Broken Whisper mourns their last words — the mess
 > *“The last words of workers who died in the dark, preserved as fragments.”* — Elder, Tunnels
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IIIγ-369 [LO]` · Lament · Object-Weight manifestation
+**Classification:** Sorrow Entity — `O-IIIγ-369 [LO]` · Outside origin · Fragment (III) coherence · Major (γ) potency · Lament · Object-Weight manifestation · I-Relic (Indumentum)
 **Common Name:** Broken Whisper
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Major (γ). It does not pursue, does not spread and has never injured anybody. The grade is recall: operators leave with somebody else's last words in their memory, filed by their own mind as something they once said themselves.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Viderehan and Ferrehan only. There is nothing here to weep with and nothing to confront; the object is a shattered thing in a current.
+- One transcriber, one timekeeper, nobody conferring. Fragments are written one to a line, as heard, in the order received, with the gaps left as gaps.
+- Never join fragments, never punctuate them into sentences, never mark where they broke. A joined transcript is logged as an environmental finding about the room, never as carelessness.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- Whoever was sending from the deep tunnels when the rock came down. The fragments are appeals rather than reports and carry no identifying detail; the receiving operators are named where the shift books survive.
+- Eleven thousand four hundred fragments in four hundred and twelve separate lists over twenty-six years, mean length 2.1 words, longest nine. Sixty-one distinct names heard, twelve of them on the surviving rolls.
+- Extraction takes a shard of a shattered object, so every piece in this set is itself a fragment of something interrupted and behaves accordingly.
+**Cross-References:** The four hundred and twelve unmerged fragment lists · the rule against reconciling independent accounts · the thirty-four family enquiries and the nine unselected readings · the counsellors' objection to them · the three refused requests for a readable account of the collapse
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** Voices cut off mid-appeal under falling rock, still trying to finish.
 
 ### Registry Addendum
 
@@ -422,10 +422,38 @@ Messages from the deep tunnels were cut off by falling rock and Han pressure, an
 
 What the object holds is appeal rather than information, and the file states this at the front to shape how a reader approaches the transcripts. The distinction has practical weight: the fragments have been examined for operational detail about the collapse and yielded none, the examination having concluded that the voices were not reporting anything but asking for something. The receiving stations are named and their operators are named where the shift books survive, which is in most cases. The operators recorded the loss of signal in the ordinary way and continued their watch to its end. Their names are listed at the back.
 
+### What the Fragment Lists Measure
+
+**Eleven thousand four hundred fragments, in four hundred and twelve lists, over twenty-six years.** Mean length 2.1 words. Longest ever recorded, nine. The lists are never merged, and that is the holding's central fact rather than an administrative preference.
+
+**Sixty-one distinct names have been heard. Twelve of them appear on the surviving station rolls.** The wing has never written to a family on the strength of those twelve, and the reason is in the method: a name arriving in a fragment is a sound this object made, not a sender identified, and the distance between those two things is the whole of what went wrong in the tunnels.
+
+Nothing in the series trends. Fragment rate rises near older walls and falls after a settled cycle; it has not changed across twenty-six years in any way the wing will stand behind. The one number that moves is the count of lists, which goes up by about sixteen a year and will go on doing so for as long as anybody listens.
+
+### Accounts Are Never Reconciled
+
+Where two people record the same event independently, both records stand and neither is corrected against the other. The facility does not hold reconciliation meetings, does not produce an agreed version, and does not permit one account to be amended because another disagrees with it.
+
+The rule is right and the archive contains the reason. There was a period of collective debriefing in which teams produced a single agreed account of each incident, and the accounts from that period are all internally consistent, all beautifully written, and all worthless — every one of them records what the most senior person in the room remembered, and the dissenting detail that would have shown the pattern is in none of them.
+
+Here the rule is also, by accident, the containment measure. Two transcribers comparing notes aloud will between them produce a sentence neither of them wrote down, and the entity is at its most convincing precisely when the fragments begin to complete each other. *Do not confer* is the only instruction in this file that protects both the record and the person.
+
+What it costs is the answer to the only question anybody outside the facility has ever asked of this holding. **Thirty-four enquiries in twenty-six years**, all from families of people lost in the collapse, all asking a version of the same thing: is anything of theirs in it. To answer, somebody would have to match fragments to a sender — joining, interpretation, reconciliation, all three — and produce for a grieving person a sentence that no record supports and that they would have no way of checking. The wing will not do it, the rule forbids it, and the refusal is correct.
+
+### The Unselected Reading
+
+What the wing offers instead is the thing itself, unarranged, and it does not pretend this is generous.
+
+An enquirer may read the lists. All of them, in full, in the order they were transcribed, with a counsellor present and as much time as they want. Nothing is selected, nothing is highlighted, no fragment is brought to their attention and none is withheld. The wing's letter says plainly why: a selection would be the facility telling them which words were their person's, and the facility does not know.
+
+**Nine of the thirty-four have taken it up.** Two reported afterwards that they had recognised something. Both recognitions are recorded as theirs — entered in the file under their own name as a statement they made, not as a finding of the wing, and not cross-referenced to any transcript line.
+
+The counsellors' objection is standing and is the sharpest in the file. Handing a bereaved person eleven thousand unsorted half-words transfers the interpretive burden from the institution, which is trained for it and insured against being wrong, to the person least able to carry it and most likely to find what they are looking for. They are right. The wing's only recorded reply is that the alternative is doing the joining on that person's behalf and being wrong in a way they could never discover, and that between those two it has chosen the one where the error, if it happens, at least belongs to the person it is about.
+
 ## Trivia
 
-- Its whispers are clearer near walls containing older grief.
-- It produces hope because it continues despite being broken.
+- Clarity rises near walls holding older grief, so the practical boundary of the holding is the geology rather than the door.
+- Workers consistently report hope rather than dread, and the file keeps that reported as it was given without endorsing the reading.
 
 
 
