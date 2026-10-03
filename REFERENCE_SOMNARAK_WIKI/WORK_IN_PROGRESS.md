@@ -10,26 +10,25 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 
 | Measure | Value |
 |---|---|
-| Dossier body lines | 28149 |
-| Lines shared by 30+ dossiers | 3299 |
-| **Headline** | **11.72%** |
-| Dossiers still at 20+ shared lines | 1 |
-| Dossiers fully cleaned | 90 |
+| Dossier body lines | 28151 |
+| Lines shared by 30+ dossiers | 3281 |
+| **Headline** | **11.66%** |
+| Dossiers still at 15+ shared lines | 85 |
+| Dossiers fully cleaned | 91 |
 | Unfinished-text breaks outstanding | 0 |
 
 ## Workstream 1 — De-boilerplate (open)
 
 Whole-file rewriting of the worst-affected dossiers, one file per turn, bespoke per entity. Rules `R-02`, `R-04`, `R-05`, `R-14`, `R-15` all bind here.
 
-**Progress: 7 / 8 on the 20+ band** (the 30+ band closed at 73 / 73 and the 25+ band at 10 / 10; 90 whole-file cleans in total). Headline trajectory 34.3% → 11.72%.
+**Progress: 0 / 85 on the 15+ band** (the 30+ band closed at 73 / 73, the 25+ band at 10 / 10, the 20+ band at 8 / 8; 91 whole-file cleans in total). Headline trajectory 34.3% → 11.66%.
 
 ### Next targets, in order
 
-The 30+ and 25+ bands are both closed. The campaign now works the 20+ band: 1 files remain.
+The 30+, 25+ and 20+ bands are all closed (0 files remain at 20+). The campaign now works the 15+ band: 85 files.
 
 | Shared lines | Dossier |
 |---|---|
-| 20 | `SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md` |
 | 19 | `SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md` |
 | 19 | `SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md` |
 | 19 | `SE-C-Iα-329_Folly_녹아내린_탑.md` |
@@ -37,6 +36,7 @@ The 30+ and 25+ bands are both closed. The campaign now works the 20+ band: 1 fi
 | 18 | `SE-N-IIα-125_Hollow_Echo_빈_메아리.md` |
 | 18 | `SE-N-IIIγ-874_Bridge_of_the_Unchosen_얼어붙은_다리.md` |
 | 18 | `SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md` |
+| 18 | `SE-N-IIIγ-184_Redacted_잊혀진_나무.md` |
 
 Re-rank after every clean. Files drop into the top band as global counts shift; the queue is never carried over from a previous turn without re-measuring.
 
@@ -46,7 +46,7 @@ Every cleaned file keeps 9–13 lines of genuine cross-reference furniture (`**C
 
 ### Completed cleans
 
-Fallow 50→12, Shard 49→9, Ephemera 48→12, Border Tree 48→11, Tear 48→11, Glass 48→12, Portcullis 47→11, Thralldom 47→12, Aphasia 47→12, Forgotten Tear 47→12, Anonym 47→12, Welcome Haven 47→11, Survivors' Breath 47→10, Quagmire 47→10, Yggdrasil Wound 46→13, Repose 46→11, Grasp 46→10, Uprooted 46→11, Sleeping Tree 46→10, Frozen Mirror 45→11, Heirloom 45→9, Spire 45→10, Memory Chain 45→10, Feu Follet 45→10, Broken Whisper 45→9, Ember Phoenix 44→10, Broken Fragment 44→9, Brume 44→11, Myrmidon 44→9, Broken Ruin 44→11, Errant 43→11, Atlas 43→11, Animus 43→10, Conservatory 43→9, Home to No One 43→9, Broken Door 42→10, Tower Erased Overnight 42→9, Relic Waiting for Its Maker 42→9, Exiles' Wall 41→10, Protest No One Remembers 41→10, Pent 41→9, The Silent Child 39→11, Broken Tear 39→10, Relic of a Thousand Owners 38→9, The Wrath Flame 38→10, Soaking Rope 38→11, Sleeping Shard 38→9, Forgotten Silence 38→9, Spreading Root 37→9, Dormant Monolith 37→9, Scar Walker 36→10, Homecoming Tree 36→1, Cenotaph 35→0, Dismissed Cry 35→0, Well of Unfinished Words 34→0, Bridge to Nowhere 33→0, Perennial 33→0, The Vanished Rope 33→1, Candela 33→1, Gavel 33→1, Mourning a Life I Never Lived 32→1, Torpor 32→1, Friendless Bridge 32→0, Risus 32→1, Labyrinth of Stolen Faces 32→1, Mirror of Soaking 31→0, Swallowed Fury 31→1, Stranded Between Two Shores 31→0, Sorrow Gate 31→1, The Lost Prince 31→1, Banyan 30→8 (residual is the standing cross-reference furniture), First Tear 30→0, The Frozen Veil 30→0, Laughing Mask 29→0, Hums 29→1, Apocrypha 28→10 and Homeless Sorrow 28→9 Driftglass 27→8 and Sehnsucht 27→8 and Breach 26→7 and Floating Fragment 25→10 and Neverlast 25→11 and Forgotten Soul 25→11 and Drowned Echo 24→8 and Corrosion Dream 24→9 and Torn Window 24→9 and Door to Nowhere 23→8 and Seething Tundra 21→4 and Mourner's Bloom 21→2 and Frozen Fury 21→0 (residual in the others is the standing cross-reference furniture).
+Fallow 50→12, Shard 49→9, Ephemera 48→12, Border Tree 48→11, Tear 48→11, Glass 48→12, Portcullis 47→11, Thralldom 47→12, Aphasia 47→12, Forgotten Tear 47→12, Anonym 47→12, Welcome Haven 47→11, Survivors' Breath 47→10, Quagmire 47→10, Yggdrasil Wound 46→13, Repose 46→11, Grasp 46→10, Uprooted 46→11, Sleeping Tree 46→10, Frozen Mirror 45→11, Heirloom 45→9, Spire 45→10, Memory Chain 45→10, Feu Follet 45→10, Broken Whisper 45→9, Ember Phoenix 44→10, Broken Fragment 44→9, Brume 44→11, Myrmidon 44→9, Broken Ruin 44→11, Errant 43→11, Atlas 43→11, Animus 43→10, Conservatory 43→9, Home to No One 43→9, Broken Door 42→10, Tower Erased Overnight 42→9, Relic Waiting for Its Maker 42→9, Exiles' Wall 41→10, Protest No One Remembers 41→10, Pent 41→9, The Silent Child 39→11, Broken Tear 39→10, Relic of a Thousand Owners 38→9, The Wrath Flame 38→10, Soaking Rope 38→11, Sleeping Shard 38→9, Forgotten Silence 38→9, Spreading Root 37→9, Dormant Monolith 37→9, Scar Walker 36→10, Homecoming Tree 36→1, Cenotaph 35→0, Dismissed Cry 35→0, Well of Unfinished Words 34→0, Bridge to Nowhere 33→0, Perennial 33→0, The Vanished Rope 33→1, Candela 33→1, Gavel 33→1, Mourning a Life I Never Lived 32→1, Torpor 32→1, Friendless Bridge 32→0, Risus 32→1, Labyrinth of Stolen Faces 32→1, Mirror of Soaking 31→0, Swallowed Fury 31→1, Stranded Between Two Shores 31→0, Sorrow Gate 31→1, The Lost Prince 31→1, Banyan 30→8 (residual is the standing cross-reference furniture), First Tear 30→0, The Frozen Veil 30→0, Laughing Mask 29→0, Hums 29→1, Apocrypha 28→10 and Homeless Sorrow 28→9 Driftglass 27→8 and Sehnsucht 27→8 and Breach 26→7 and Floating Fragment 25→10 and Neverlast 25→11 and Forgotten Soul 25→11 and Drowned Echo 24→8 and Corrosion Dream 24→9 and Torn Window 24→9 and Door to Nowhere 23→8 and Seething Tundra 21→4 and Mourner's Bloom 21→2 and Frozen Fury 21→0 and Absent Landmark 20→2 (residual in the others is the standing cross-reference furniture).
 
 ## Workstream 2 — Unfinished text (closed on both scans)
 
