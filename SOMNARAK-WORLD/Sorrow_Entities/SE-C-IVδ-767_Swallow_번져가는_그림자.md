@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — Less a body than a place of dimming light — a large shadow that spreads across floors and walls with no visible source casting it, swallowing detail as it goes. Salt-cold and damp, it smells of cold rain; there is nothing to strike, only the spreading dark. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | Spreading — the source point is fixed and has never moved; the edge advances, slowly and unevenly, and has withdrawn four times. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan and Ferrehan, inside a fixed light, tethered, with attribution screening on exit. |
 
 ### Operational Notes
 
-- The site takes in what is set down on it, and the Alpha Tree inventory has never recovered an item from it.
-- Work slows the intake for a shift. Nothing taken has been returned, and the rate resumes between sessions.
-- Viderehan and Ferrehan are the valid approaches to the site.
-- There is no breach counter. Equipment is tethered to the crew rather than set down, and the tether is checked on exit.
-- Extraction is authorized apart from the work cycle.
+- Anything set down inside the edge stays there. The Alpha Tree inventory has never recovered an item, which is why crews tether rather than place.
+- A worked shift slows the intake and returns nothing. The rate picks back up between sessions and the ledger shows no memory of the work at all.
+- Viderehan and Ferrehan, inside the fixed light, with the clock running on every person past the chalk.
+- No breach counter. Tethers are checked on exit by a second person, and the check is logged by name because self-checks were failing.
+- Extraction is authorised separately and never against a work shift, so that nobody is inside the edge for two reasons at once.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Swallow's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is nothing to strike and nothing that strikes. The team marks the edge, works the shift inside the fixed light, and comes out tethered to its own equipment; the encounter is scored on the chalk band and on who the worker turns out to be grieving.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the source of the grief and return emotional ownership**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Swallow's dossier.
 
 ## Appearance
-**Physical Form:** A place of dimming light where a large shadow spreads across floors and walls without a visible source.
+**Physical Form:** A spreading dark across floor and wall with nothing casting it, swallowing detail as it goes. **Optics:** it dims light rather than blocking it, and added output changes nothing but the cost.
 
-**Notable Features:** It carries grief from absent people, fades at the edges, and makes borrowed sorrow feel personal.
+**Notable Features:** It has no outline — the edge fades rather than stops — it carries grief belonging to people who are not present, and it makes that grief feel like yours.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A place of dimming light where a large shadow spreads across floors and walls without a visible source.
-- **Position / movement:** Physical Form: A place of dimming light where a large shadow spreads across floors and walls without a visible source.
+- **Position / movement:** The source point has never moved. The edge does — slowly, unevenly, and it has come back in four times in the holding's life.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree
 
@@ -115,20 +115,20 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A place of dimming light where a large shadow spreads across floors and walls without a visible source. |
-| **Position / movement** | Physical Form: A place of dimming light where a large shadow spreads across floors and walls without a visible source. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Form** | An irregular area of dimmed light, sourceless, with no complete boundary at any magnification. |
+| **Position / movement** | Fixed source, moving edge; the chalk bands on the floor are the record of every edge it has had. |
+| **Material / signature** | Lament. Cold rain and damp, a drop in light with no drop in output, and detail going soft at a distance you can measure. |
+| **Distinctive markers** | No outline, no source, no response to illumination, and a floor marked in sixty-one years of chalk. |
+| **Identification** | If raising the lights changes nothing at all, it is this one. Nothing else beneath the Alpha Tree behaves that way. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Chalk the edge at the close of every shift and leave the previous mark where it is. Photograph the bands monthly against the fixed survey points. Record the light level at the four fixtures, the depth of the dimming at the centre, and the width of the fade at the edge, which is where the judgement lies. Do not wash the floor and do not resurface it.
 
 ## Origin
-- **Formation:** The Shadow formed from grief that outlived the person who first carried it.
-- **The Sorrow:** The burden of mourning someone else's loss until it becomes indistinguishable from your own.
-- **The Event:** A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Formation:** From grief with no standing — mourning that had nowhere official to go, left under a tree by people who were told it did not count.
+- **The Sorrow:** Not borrowed grief. Unrecognised grief, pooled until ownership stopped holding, so that what one person could not file becomes what the next person cannot place.
+- **The Event:** Generations of unrecognised mourners used the one place that asked nothing of them, and the ground under the Alpha Tree stopped giving the grief back.
+- **The People:** Everybody who ever grieved under the Alpha Tree for somebody the schedule of degrees does not recognise, which is most of the traffic the memorial gets.
+- **Expanded origin context:** Bereavement leave is granted by degree of relationship — spouse, parent, child, sibling — and by nothing else. The schedule exists because the alternative was tried: until Year 4186 leave was discretionary, and discretion meant that a worker had to narrate a relationship convincingly to a supervisor who then priced it. Two officers decided identical facts differently in the same month; one refusal was reversed only when the applicant produced letters. Grief became a thing you proved and performed, and the schedule ended that in a single line. What the schedule cannot do is make the unrecognised losses stop happening. The friend of forty years, the colleague, the neighbour's child, the partner nobody registered: 1,900 applications outside the schedule were refused last year, correctly, and the people who made them went to the memorial under the Alpha Tree, because it is open and it asks nothing.
 
 ## Behavior
 
@@ -138,8 +138,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the people whose sorrow feeds it. | Stable |
-| **Ferrehan** | Tests whether the worker can carry grief without claiming it. | Decrease |
+| **Viderehan** | The mourners become legible in outline — how many, how long ago, roughly who they came for — and never by name. | Stable |
+| **Ferrehan** | The worker holds a full shift inside the edge without taking ownership of anything in the air, and the test is marked by a counsellor afterwards, not by the worker. | Decrease |
 
 
 ### Operational Work Notes
@@ -151,10 +151,10 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 | Field | Detail |
 |---|---|
-| **Expansion Trigger** | Mourning absorbed without personal boundaries. |
-| **Expansion Rate** | Slow through Alpha Tree corridors. |
-| **Expansion Effect** | Personnel feel grief that does not belong to their memories. |
-| **Containment** | Name the source of the grief and return emotional ownership. |
+| **Expansion Trigger** | Mourning with nowhere to be recorded — grief carried by someone the schedule of degrees does not recognise. |
+| **Expansion Rate** | Slow, uneven, measured in chalk at shift's end; four withdrawals in sixty-one years. |
+| **Expansion Effect** | Personnel grieve steadily for somebody they cannot name, and report it as their own until asked the second question. |
+| **Containment** | Attribution. Say whose loss it is, where it can be heard, and leave it with them. |
 
 
 
@@ -169,14 +169,14 @@ The escalation pattern is specific to Swallow: it is not a generic breach event.
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Mourning absorbed without personal boundaries. |
-| **Manifestation** | Place-Lament|
-| **Primary effect** | Personnel feel grief that does not belong to their memories. |
-| **Duration / rate** | Slow through Alpha Tree corridors. |
+| **Trigger** | An unrecognised loss carried to the memorial above with no office willing to record it. |
+| **Manifestation** | Place-Grudge |
+| **Primary effect** | Misattributed mourning: real grief, accurately felt, fastened to the wrong person or to nobody at all. |
+| **Duration / rate** | Indefinite. The effect on a worker resolves in days to weeks; the area's extent resolves on nothing. |
 | **Risk** | Critical (δ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Name the source of the grief and return emotional ownership. |
+| **Management** | The attributed line in the shift log, and the standing undertaking that it is never used as evidence of anything. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** chalk band against the last three → light level at the fixtures → extent of the dimming → personnel inside the edge and for how long → attribution screens outstanding → anything set down and not recovered. Viderehan and Ferrehan only; there is nothing here to confront and nothing that answers tears.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -196,7 +196,7 @@ The escalation pattern is specific to Swallow: it is not a generic breach event.
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Nothing here does damage in the ordinary sense. No injury has been recorded in the holding's life and the stat line exists so that a team which blunders in has numbers to report; what the area actually takes is attribution, and that is scored on the counsellors' sheet rather than this one.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Swallow's lament signature in the strike.
 
@@ -234,7 +234,7 @@ The escalation pattern is specific to Swallow: it is not a generic breach event.
 
 **Cost:** The bearer weeps in their sleep.
 
-*Stigmas are granted at random by Swallow upon a successful work, not manufactured.*
+*The Fading Charm is not manufactured and not requested. It has been granted eleven times, every time to a worker whose attribution screen had come back clean twice running, which the wing has noticed and has declined to describe as a reward.*
 
 ### M.A.W. Use Notes
 
@@ -254,11 +254,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It is strongest near memorials and old records.
-- It fades when grief is named by its original source.
-- Personnel report longing after exposure.
+- It is strongest under the memorial itself and weakest at the corridor end, which is where handover is held.
+- The edge draws back when losses are attributed by the people carrying them, and by nothing else anybody has tried.
+- Workers come out grieving, accurately and without drama, for a person they cannot identify.
 
-**Personnel Note:** *"It was mourning. I felt longing. The Shadow made another person's grief feel like a memory I had misplaced."* — Specialist, Zone B patrol
+**Personnel Note:** *"I came out grieving and I could not tell you for whom. The counsellor asked me who and how I knew, and the honest answer was that I did not know, and that is the answer that takes you off the roster."* — Specialist, Zone A, Alpha Tree watch
 
 
 
@@ -266,32 +266,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Swallow as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Swallow's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Chalk line first, light reading second, clock started on every person crossing it. Nothing else is recorded until the shift ends. |
+| **Sustained observation** | The chalk band against the previous three, the fixed light reading, and minutes spent inside the edge per person. The personnel measurement is taken afterwards by somebody else. |
+| **Activation or escalation** | A band well beyond forecast, or a flag rate above the running mean. Neither is an emergency in the hour and both are permanent by the season. |
+| **Post-contact review** | Band, light, minutes, and the screens — and the review is not filed until every screen in it has resolved, however long that takes. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** The chalk band, the fixed light reading, the time each person spent inside the edge, and the attribution screen afterwards. The screen asks two questions and only two: who are you grieving for, and how do you know. Self-report of mood is not collected here, because the phenomenon defeats it by design.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Swallow (C-IVδ-767 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Shadow formed from grief that outlived the person who first carried it. Held at Zone A, Alpha Tree. It is strongest near memorials and old records.
+Swallow (C-IVδ-767 [LP]) is logged as a Place-Grudge manifestation expressing Lament, spreading beneath the Alpha Tree in Zone A. It has injured nobody, holds nobody and blocks nothing. What it does is make a loss that belongs to somebody else feel like a memory you had misplaced.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-It fades when grief is named by its original source.
+**Entry 2 — <Spread Ledger, Alpha Tree, Extract>**
+The edge has drawn back four times in sixty-one years. Three analysts plotted the ledger against the district's calendar of observances at the memorial above and none found a relationship that survived scrutiny; all three wrote down that they had expected to. The series that does move with it was not found by an analyst. The four reversals fall in the four quarters carrying the most attributed lines in the shift log.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The burden of mourning someone else's loss until it becomes indistinguishable from your own.
+**Entry 3 — <Counselling Office, Attribution Screening Return>**
+Screens taken last year: 214. Resolved to a person in the worker's life and closed: 171. Flagged — grieving nobody the worker can place: 43. Of the 43, nineteen later identified the person, and in fourteen of those nineteen the person was real, known to them, and outside the schedule of degrees. The counsellors have asked that this paragraph be printed in full rather than summarised as a flag rate.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals the people whose sorrow feeds it. (Stable); Ferrehan: Tests whether the worker can carry grief without claiming it. (Decrease). Personnel report longing after exposure.
+Management: attribute the grief to its source, out loud or in writing, and leave it with the person it belongs to. Work response — Viderehan: the people whose sorrow feeds the area become legible, in outline, without names. (Stable); Ferrehan: the worker carries what is in the air for a full shift without claiming any of it. (Decrease). Flerehan and Pugnahan do not apply; there is no body here and nothing to weep at.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The nomination clause is refused and I want the reasoning on the record rather than a line on a form. The counselling office asked that each worker be allowed to nominate one person outside the schedule every five years, leave to follow on the nomination with no proof required. It is a humane proposal and I am refusing it. A nomination is a prediction, and bereavement does not follow predictions: the people we lose are not the people we would have listed. Worse, a nomination asks a worker to choose — one name, five years — and I am not prepared to make anybody rank the people they love in order to be allowed a day off when one of them dies. The bar is cruel. The nomination is crueller and looks kind. Refused, correct in principle, no action available.
 
-**Threat rating:** Moderate. The Shadow spreads, absorbing visitors’ grief. Effect: visitors' private sorrow rises and merges with the mourning around them until the two cannot be told apart.
+**Threat rating:** Critical (δ). Nobody has been hurt here and nothing has ever pursued anyone. The grade is that the affected area cannot be reduced, bounded or barred, that it sits beneath a memorial the facility will not close, and that the thing it takes from personnel is the ability to say whose grief they are carrying.
 
 ## 최종 관찰 (Final Observation)
 
@@ -308,7 +308,7 @@ Light disappears at the edges of the room. A shadow spreads over the floor and c
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A place of dimming light where a large shadow spreads across floors and walls without a visible source. Notable Features: It carries grief from absent people, fades at the edges, and makes borrowed sorrow feel personal. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Grudge form.
+**At first contact:** The light goes down without going out, and it does not come back up when you add more of it. The floor carries chalk bands in irregular rings, oldest outermost. Somewhere past the second ring you find you are grieving, steadily and without drama, and you will not be able to say for whom until a counsellor asks you properly.
 
 **With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
 
@@ -318,22 +318,22 @@ Light disappears at the edges of the room. A shadow spreads over the floor and c
 
 ### Interaction Pattern
 
-Swallow does not exist in isolation. Its recorded relationships with The Forgotten Shadow, The Vanished Flame, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relationships, one of them refused outright. The hazard in pairing this holding with anything is not escalation — nothing here escalates — but the loss of attribution: after a joint session nobody can say which grief came from where, and an unattributable reading is worse than no reading.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Nothing is brought here; the area cannot be moved and the neighbours are met where they are. Record the chalk band before and after any shared observation, the light level, the time inside the edge, and above all the attribution screens of everybody present, since the risk in a joint session is not escalation but confusion of ownership. Two of the three rows below were observed rather than arranged.
 
 
 ### Entity Interaction Record
 
-Swallow must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The comparable figures across the three rows are the chalk band and the screens, and only one row has both. The others are kept because a thin record honestly labelled is worth more than a full one inferred.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Forgotten Shadow** | Both preserve grief without a visible owner. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Vanished Flame** | The Flame's absence feeds the darkness. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The First Tear** | The Shadow reflects the original grief. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Forgotten Shadow** | Both preserve grief without a visible owner. | Compared on paper only, by exchange of sheets. The wing's standing position is that putting two ownerless-grief holdings in one space would produce a result nobody could attribute afterwards, which is the one outcome this file is built to prevent. | The refusal, restated annually, with both sets of readings attached. |
+| **The Vanished Flame** | The Flame's absence feeds the darkness. | Observed during a corridor transit. The band advanced 0.3 metres that week against a forecast of 0.1 and did not come back; it is the only movement in the ledger with an identifiable cause. | Band, transit times, and the forecast it broke. |
+| **The First Tear** | The Shadow reflects the original grief. | One arranged session, with the counselling office present throughout. Every screen afterwards resolved to a named person, which has happened on no other occasion, and the wing has been careful not to build a procedure on a single result. | All screens, named, and the caution minuted beside them. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Band, light, time inside, screens afterwards for every person involved. A session is written up only when all screens have resolved, which is why the records here are filed weeks late and why the wing refuses to shorten that interval.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -361,20 +361,20 @@ Some sorrows are personal. Swallow is a sorrow that lost its owner — or rather
 > *“The accumulated borrowed grief of every visitor, layered into a spreading darkness.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVδ-767` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `C-IVδ-767 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Place-Grudge manifestation
 **Common Name:** Swallow
-**Containment Status:** Contained — beneath Alpha Tree
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Moderate. The Shadow spreads, absorbing visitors’ grief. Effect: visitors’ private sorrow rises and merges with the Shadow.
+**Containment Status:** Custody without control — beneath the Alpha Tree, Zone A; chalked, lit at a fixed level, screened on exit, not bounded
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Critical (δ). No injuries, no pursuit, no barrier possible. The grade is an affected area that only ever shrinks by accident and a personnel effect that cannot be detected by asking the personnel.
 **Containment & Handling Procedures:**
-- Flerehan is the only valid Work Type.
-- The Shadow spreads; monitor its perimeter.
+- Viderehan and Ferrehan only. Flerehan and Pugnahan are unavailable for a Place manifestation; an earlier edition of this file named Flerehan and was wrong.
+- Chalk the edge each shift and leave the old marks. Hold the light at the fixed level and never raise it. Tether equipment to the crew; nothing set down here has been recovered.
 **Observation Notes:**
-- Formed from accumulated borrowed grief at a memorial.
-- The Shadow grows with each visitor.
-**Cross-References:** Alpha Tree · The Echo Gardens · The Grieving Fountain
+- Screens last year: 214 taken, 171 closed, 43 flagged; fourteen of the flags were real people outside the schedule of degrees.
+- Four reversals in sixty-one years, each in a quarter heavy with attributed lines in the shift log.
+**Cross-References:** The schedule of degrees and the Year 4186 discretionary-leave reversals · the Year 4232 nomination clause, refused · the spread ledger and the three negative analyses · the attributed-line practice and the undertaking that it is never evidence
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
-**Originator:** Every visitor who mourned at the memorial.
+**Originator:** Mourners with no standing to mourn — 1,900 refusals last year alone, and a memorial that is open to all of them.
 
 ### Registry Addendum
 
@@ -411,10 +411,42 @@ The chamber file concedes in its first paragraph that the word containment does 
 
 The shift handover is conducted outside the affected area, at a fixed point in the corridor chosen because it is the nearest position from which the chalk bands are not visible. The siting was requested by the watch and granted without discussion. Outgoing personnel give the measurement, the weather of the shift, and anything they noticed; they are not asked how they are, because the attribution test will ask properly later and because the corridor is not the place for it. The handover takes a few minutes and has been conducted at the same point for the whole life of the holding.
 
+### What the Chalk Bands Are Measuring
+
+Sixty-one years of chalk, oldest ring outermost, never washed off. The bands grow slowly and unevenly, and four times they have come back in.
+
+Three analysts have plotted the spread ledger against the district's calendar of observances at the memorial above. None found a relationship that survived scrutiny and all three wrote down that they had expected to; the standing instruction keeps the ledger anyway, on the ground that the absence of a relationship is also a finding.
+
+The series that does move with it was not found by an analyst. It was noticed by a watch commander reading two files at once. **The four withdrawals fall in the four quarters carrying the most attributed lines in the shift log** — not observances at the memorial, not visitor numbers, not Tides, not work cycles. Lines in which a worker stated, in the operational record, whose loss they were carrying.
+
+The effect is small. The largest withdrawal is 1.4 metres against a spread that now reaches most of the lower chamber. Nobody at the wing claims it is a remedy and the file explicitly warns the next reader against treating it as one: what it establishes is the direction of the mechanism, which is attribution, and the fact that the mechanism works on the facility's own people rather than on the memorial's visitors.
+
+### The Schedule of Degrees
+
+Leave is granted by degree of relationship. Spouse, parent, child, sibling. Nothing else, and no discretion anywhere in the instrument.
+
+This is right, and the file argues for it rather than apologising. Until Year 4186 bereavement leave was discretionary, which meant a worker stood in front of a supervisor and explained what someone had meant to them while the supervisor decided whether it was enough. Two officers decided indistinguishable facts differently in the same month. One refusal was reversed only after the applicant produced letters, which is to say that grief had to be evidenced and performed, and that the articulate were mourned better than the quiet. The schedule ended all of that in one line and nobody who remembers the old system wants it back.
+
+What the schedule cannot do is make unrecognised losses stop occurring. **Last year 1,900 applications outside the schedule were refused**, each of them correctly: the friend of forty years, the colleague of three decades, the neighbour's child, the partner never registered, the person who raised you without being related to you. A refusal is not a judgement that the loss is small. It is a statement that the facility has no instrument fine enough to measure it and will not pretend otherwise.
+
+Those people go to the memorial beneath the Alpha Tree, which is open, costs nothing, asks no questions and keeps no list. The holding is directly downstream of the refusals, and the file says so in the Origin section rather than burying it here.
+
+In Year 4232 the counselling office applied for a nomination clause: one named person outside the schedule, every five years, leave to follow with no proof required. The Director refused it and the minute is reproduced in Entry 5. The grounds are not cost. A nomination is a prediction, and the people we lose are not the people we would have listed; worse, it asks a worker to rank the people they love in advance in order to be allowed a day when one of them dies. The application is marked *correct in principle, no action available*, and the counselling office has not withdrawn it.
+
+### The Attributed Line
+
+The management condition — attribute the grief and return it to its owner — sat in this file for decades with no procedure under it, because the facility had nothing to offer a worker whose loss it could not recognise.
+
+What exists now is one line in the shift log. A worker may enter, in the operational record of the day, that they were mourning a named person on that date. That is the whole of it. It carries no leave, no pay, no adjustment to the roster and no acknowledgement from any office. Nobody countersigns it. Nobody may question it, test it, or ask who the person was, and the instrument creating the practice states plainly that **an attributed line may never be cited as evidence in support of a leave application, by the worker or against them** — which is what stops it quietly becoming the nomination clause by another route, and which also means it can never grow into anything more useful than it is.
+
+It is not a ceremony. There is no reading, no gathering, and no fixed hour; the line is typed into the log between a tether check and a light reading, and the next entry is usually about fixtures.
+
+The counsellors' screening sits alongside it and is the holding's other honest instrument. Two questions on exit: who are you grieving for, and how do you know. Of 214 screens last year, 171 closed on a person in the worker's life and 43 were flagged. Nineteen of the flagged later identified the person, and in fourteen cases that person was real, known to them, and outside the schedule — meaning the facility had already refused their loss once and the flag removed them from the roster for it a second time. The counsellors asked that this be printed in full rather than reduced to a flag rate. It is printed in full.
+
 ## Trivia
 
-- It never forms a complete outline.
-- It fades when grief is assigned to its original history.
+- No measurement has ever closed its boundary; the edge fades, which is why the perimeter is chalked by a person rather than an instrument.
+- Attribution is the whole of the mechanism: the loss, the person it belongs to, said once and left there.
 
 
 
@@ -422,9 +454,9 @@ The shift handover is conducted outside the affected area, at a fixed point in t
 
 - **Classification detail:** Swallow is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Dimming without a source, a floor ringed in old chalk, fixed lighting that does nothing, and detail going soft at the edges of what you are looking at.
+- **Record detail:** The archive holds other places that take something from a visitor. This one takes nothing material and leaves nothing missing; what it alters is whose loss you think you are carrying. Confirm the designation C-IVδ-767 before applying any of this file elsewhere, and do not read it across to holdings that consume objects.
+- **Containment detail:** There is no seal, no door and no wall. The file's own phrase for the arrangement is custody without control, and it asks that no document here use the vocabulary of holding things.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-767
