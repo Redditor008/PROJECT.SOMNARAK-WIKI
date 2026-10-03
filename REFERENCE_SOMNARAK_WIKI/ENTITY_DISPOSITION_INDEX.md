@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **94** |
-| Pending — no disposition-bearing line found by scan | 209 |
+| **Classified here, with a quoted line of evidence** | **95** |
+| Pending — no disposition-bearing line found by scan | 208 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 94 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 95 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 209 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 208 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -99,6 +99,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Debt Chain | `SE-N-IIIβ-160` | *"In sixteen years it has bound nobody, moved nowhere, and injured two people, both of them surveyors who exceeded the contact limit."* It cannot be moved and the gallery admits nothing but surveyors, so no pairing has ever been run; a Year 4232 proposal to bring the Debt Scale in was refused. Its effect runs onto this facility's own lending rules rather than onto other entities. Neutral. |
 | Deadline | `SE-N-IIIβ-156` | Neutral | Fifteen years fixed on a bracket: pursued nobody, moved nowhere, one injury (a worker who broke its own face). It counts a date and does not collect; its interval tracks the claims registry's time-bar list, a facility-internal clerical series, and has never tracked collection visits, the Collectors' calling schedule or debt outstanding. The only cross-entity proposal on file (Debt Scale, Y4233) was refused and never run; the Debt Wall pairing is disproved on the Wall's own survey. Neither aids F01 nor assists any entity to breach. |
 | Sorrow Seed | `SE-C-Iα-300` | Neutral | Two hundred and sixty years in a bare Garden bed: no germination, no breach, no injury, nobody bound. It travels 4–31 cm a night toward whichever duty roster holds the most untaken bereavement leave and stops at any obstruction; the one boundary event (Y4229) was eleven days of stillness against a wall. The claim that it would grow into a new entity is an untested two-century-old inference, deliberately never tested, and so is not evidence of assistance to any breaching entity. Confers no advantage on F01 beyond a payroll correlation F01 itself paid for. |
+| Midnight Choir | `SE-C-IIβ-245` | Neutral | Sixty-one years of nightly attendance in a fixed ninety-four-metre corridor: audible field never exceeded, nobody injured or held, no breach, three silencing attempts all survived without retaliation. It sings whether or not anyone is present and has never acted on, assisted or impeded another entity; the two paper pairings are unevidenced and the one proposal to introduce another holding's sound (Singing Stone, Y4233) was refused and never run. Yields F01 a verbatim record only. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
