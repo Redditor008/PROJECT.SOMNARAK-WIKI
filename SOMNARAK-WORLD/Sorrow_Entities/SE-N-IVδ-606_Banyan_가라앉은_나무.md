@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Banyan's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The work is done standing on the Market floor with the roots underneath it. Viderehan reads the lives buried below and holds steady; Ferrehan keeps the worker above the submerged roots until they stop stepping back from the weeping face in the crystal. Nothing is dug up and nothing is sealed.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Allow honest expression; do not seal the roots again**.
 
 ### Consequences
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A tree submerged beneath the floor of the Mask Market, visible through translucent crystal and reflections. Its branches rise into rooms that do not contain it.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** It moves, but only downward and sideways beneath the floor; in thirty years it has not come up through the crystal and the file does not assume it cannot. Record the depth of the root mass against the Market datum and the area of floor it underlies. Both figures only grow.
 - **Element signature:** Lament
 - **Registered location:** Zone C, Mask Market
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; this district holds more than one record beneath the floor, and this is the one that must not be sealed. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** There is nothing above the floor to measure, so the entry is taken through the crystal: the depth of the root mass, the area it underlies, and the position of the weeping face, which is usually beneath the south arcade and has been found beneath occupied stalls four times. Photograph through the floor; do not lift a panel to get a better view.
 
 ## Origin
 - **Formation:** The Tree formed from sorrow deliberately buried beneath performance and masks.
 - **The Sorrow:** The grief of a community that hid its true pain until the ground became its only witness.
 - **The Event:** Citizens buried personal records beneath the Market; the buried grief rooted and grew below the masks.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The traders and families of the Mask Market, who kept their grief off the floor because the floor was where business was done, and who buried the written evidence of it in a pit below the south arcade. The Keepers hold the pit's manifest. It lists eleven hundred documents and no names.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Banyan is recorded as an Object/Place with Place-Grudge manifestation and Lament elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** A falling reading means something was said aloud on the floor, in front of people, that would normally have been kept off it. Stability under Viderehan is correct. The reading rises when a document is withdrawn from display, when a stall goes quiet after bad news, and when the facility conducts its own work here out of trading hours — the last being avoidable and still, by the log, the commonest single cause.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -161,7 +161,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 The escalation pattern is specific to Banyan: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone C, Mask Market, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Allow honest expression; do not seal the roots again. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** clear the floor of trade rather than of people, confirm the event is an expansion of the root mass rather than an activation, keep personnel above the crystal and off the arcade stair, and apply this condition: Allow honest expression; do not seal the roots again. Do not use an unlisted Work Type as an improvised countermeasure.
 
 
 ### Detailed Activation Record
@@ -175,7 +175,7 @@ The escalation pattern is specific to Banyan: it is not a generic breach event. 
 | **Risk** | Critical (δ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Allow honest expression; do not seal the roots again. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** depth and spread of the root mass → what was concealed above it in the preceding week, including anything withdrawn from display → what was read aloud on the floor, and by whom → the response in the crystal → the reading. The second and third fields are the mechanism; the rest is description.
 ## Breach Behavior
 
 > *"Banyan has broken free. Extends roots through the floor, entangling personnel."*
@@ -183,17 +183,17 @@ The escalation pattern is specific to Banyan: it is not a generic breach event. 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Banyan breaks loose and charges, thrashing. It extends roots through the floor, entangling personnel. |
+| **Movement** | It does not charge and does not surface. The root mass spreads under the floor, fastest beneath whichever stall has gone quiet. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Secondary Effect** | Everyone standing over the spread finds themselves unable to say anything personal aloud, and notices only afterwards. |
+| **First Target** | Whoever on the floor is carrying something they have told nobody. |
+| **Escalation** | Drain rises by 5 for each thing concealed above while it is loose, and falls back a step whenever something is said out loud on the floor. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape, in the sense that the root mass passes beyond the Market boundary. Nothing comes up and nothing pursues; the breach is a measurement taken outside the line on the plan.
+- **Containment priority:** Do not seal the roots. Pugnahan is unavailable against an Object/Place record and the one attempt to cap the arcade pit in crystal preceded the largest single quarter of growth on file. Open the floor to speech instead: the reading has fallen during trading hours and has never fallen during a closure.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each document removed from public display anywhere in the district while it is loose. It falls 10% for each entry from the buried manifest read aloud on the Market floor, and both recorded closures were reached by reading, with no cutting and no sealing.
 
 ## M.A.W. Equipment
 
@@ -214,13 +214,13 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A line of up to three — in practice a row of people standing over the same stretch of root.
+**Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is attribution: the third target feels the grief without any sense of whose it is.
+**Damage Application:** Record the strike and the residue separately. The Lament lands once; the reluctance to say anything personal aloud continues for the rest of the shift, which is the half that matters on this post.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Banyan's lament signature in the strike.
+**Ability:** Lament damage to the mind. The harpoon carries the Banyan's signature — grief kept out of sight of the people it concerned — and what it opens in a target is everything they have decided not to mention this year.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries its unwept grief and weeps involuntarily, most often in public and mid-sentence.
 
 ### M.A.W. Suit — The Sunken Shroud
 
@@ -236,9 +236,9 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Banyan's kind of pressure.
+**Ability:** Turns Lament aside from the mind, which is the only pressure here. The shroud lets a worker stand over the root mass for a full session and still speak normally.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small pleasures, and finds the Market's noise — which is mostly cheerful — difficult to be in.
 
 ### M.A.W. Stigma — The Sunken Root
 
@@ -248,13 +248,13 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to work against the Banyan itself, and nothing elsewhere under the Mask Market.
 
 **Ability:** Reveals hidden emotional roots beneath a person's public identity.
 
 **Cost:** The wearer becomes unable to maintain a false expression.
 
-*Stigmas are granted at random by Banyan upon a successful work, not manufactured.*
+*The sunken root is not manufactured. The Banyan gives one to a worker who read something true aloud on the floor with traders listening, and has given none to a worker who read it to the record alone.*
 
 ### M.A.W. Use Notes
 
@@ -291,7 +291,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Banyan's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
+**Observation method:** Record the first sign, which is cold rain-smell rising through a dry floor; the first sensation, which is reluctance to mention anything about yourself; the depth and spread at entry and exit; what was read aloud and who heard it; and the condition that ends the encounter, which is the floor returning to ordinary trade with the reading lower than it started. Do not read the face in the crystal as an expression directed at anyone.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -299,17 +299,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Banyan (N-IVδ-606 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Tree formed from sorrow deliberately buried beneath performance and masks. Held at Zone C, Mask Market. The Tree is visible only through reflections and transparent floors.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-It grows during the Sorrow Tide.
+**Entry 2 — <Pit Manifest, South Arcade: Eleven Hundred Documents>**
+Eleven hundred and four documents, listed by type and not by author: three hundred and ninety letters, two hundred and twelve medical notes, a hundred and seventy-one accounts of a death, ninety-eight dismissals, and the remainder uncategorised. The manifest's final line, in the same hand as the rest, reads: none of this is to be read on the floor. It is the only instruction the community left, it has been obeyed for four generations, and the depth log is the record of obeying it.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of a community that hid its true pain until the ground became its only witness.
+**Entry 3 — <Statement of a Trader Who Read One Out>**
+"Your people asked for a volunteer from the Market and I did it because nobody else would stand up. It was a letter about a man's son and it was four lines long. I read it at my own stall with the arcade open and about thirty people listening, and I will tell you that two of them walked off and one of them cried and the rest bought things afterwards the same as always. Your instrument said the roots came up eight centimetres. Mine says I have lived here forty years and that was the first time anyone said anything true on that floor."
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the hidden lives beneath the district. (Stable); Ferrehan: Keeps the worker above the submerged roots until they endure. (Decrease). Mask Market masks crack when the Tree is disturbed.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+**Entry 5 — <Director's Memo, Eyes Only: On Reading Other People's Grief in Public>**
+The management condition requires this facility to read, aloud and in a public market, documents that the people who wrote them explicitly asked should never be read there. That is the objection and it is not answered by the measurement, so it is answered here instead. The readings are done by Market residents and never by facility staff; no document naming a living person is read; the manifest lists no authors and no attempt is to be made to identify any; and any family that asks for a document to be withdrawn from the rota has it withdrawn, without appeal and without the request being recorded. Within those limits the roots retreat. Outside them this office would be doing to the district exactly what the district did to itself, with better instruments.
 
 **Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
@@ -340,12 +340,12 @@ The floor becomes dark with water that is not water. Roots press upward beneath 
 
 Banyan does not exist in isolation. Its recorded relationships with The Empty Mask, The Happy Mask, The Garden of Thorns should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish it alone first, across a full trading day rather than a session, since the variable is what the district does and not what the team does. In shared conditions log the depth and spread throughout, whether the root mass moved toward the other record, and what the Market was doing at the time — open, closed, or cleared on this facility's instructions.
 
 
 ### Entity Interaction Record
 
-Banyan must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Banyan is filed with the Mask Market records, which are mostly about what the district shows and this one is about what it put underground. The relationships below are what the archive will support. They are not alliances; they are one district's two halves, and in proximity the others are harder to work without the floor being cleared.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -398,7 +398,7 @@ Some sorrows are about hiding. Banyan is about the hidden that grew — the buri
 - See M.A.W. Equipment section for extraction risk.
 **Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** The Mask Market community collectively. No individual is named in the manifest, by the community's own decision at the time of burial, and the archive has preserved that decision rather than reversing it.
 
 ### Registry Addendum
 
@@ -446,8 +446,8 @@ The stall-siting map is held by the Market's own committee and the facility keep
 
 - **Classification detail:** Banyan is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone C, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it through the floor. Several records lie under this district; this is the waterlogged one with branch-arms and a weeping face pressing up against the underside of the crystal.
+- **Record detail:** Check the designation before work. More than one record in this archive responds to documents, and they require opposite handling — this one is fed by concealment and eased by publication.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
