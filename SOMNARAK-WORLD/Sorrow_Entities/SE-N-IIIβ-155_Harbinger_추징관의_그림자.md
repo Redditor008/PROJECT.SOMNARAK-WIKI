@@ -30,19 +30,19 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Activation threshold** | 3 — three unacted announcements; the fourth has never been reached, because the interval has always closed first |
+| **Tool / M.A.W. grade** | β · Maul, Step, Charm — all three graded, two issued and one given |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Ferrehan alongside the subject's ordinary duties, with Flerehan; Viderehan to read the balance and its origin. Pugnahan not applied — it thickens. |
 
 ### Operational Notes
 
-- The Harbinger arrives on Collector's Row before the collection it announces, and the announcement has always been accurate.
-- Work delays the arrival. It has never prevented the collection, and no session has produced a false announcement.
-- The margin is three conditions. Escalation is a shortening of the interval between announcement and collection.
-- Burden pressure acts on personnel named in an announcement; they are removed from the rotation until the interval has passed.
-- Extraction is authorized apart from the work cycle.
+- It arrives before the collection it announces. In the whole of the record the announcement has been accurate every time and early every time; nothing it has announced has failed to happen.
+- Work lengthens the interval and has never prevented a collection. No session has produced a false announcement, which the wing regards as the most unpleasant finding in the file.
+- Three unacted announcements is the margin. Escalation is the interval shortening — the gap between the announcement and the thing announced closing until there is no usable warning left in it.
+- Personnel named in an announcement come off the rotation until the interval has passed, and are told that they have been named, which is the only place in this facility where that rule holds.
+- There is nothing to extract. It has never touched anybody and the distance is maintained by the entity, not by the watch.
 
 ## Combat Record
 ### Core Stat Line
@@ -53,7 +53,7 @@
 |---|---|
 | **Speed** | 1.80 m/s |
 | **Resistance** | 30% against Weight pressure; 20% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Activation threshold** | Sorrow Gauge ≥ 60%, or a third announcement left unacted |
 | **Sorrow Gauge [HP]** | 418/418 |
 | **Han Pressure [ATK]** | 7–17 per hit · Weight |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
@@ -70,9 +70,9 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan is listed and is not used on this holding. |
 | **Battlefield** | Zone C, Collector's Row — ambient |
-| **Resolution Condition** | Review and acknowledge the debt; force cannot remove the Shadow |
+| **Resolution Condition** | Tell the subject, in full and to their face, what is pending against them. Force has never moved it and nothing else has. |
 
 ### Combat Actions
 
@@ -100,14 +100,14 @@
 ## Appearance
 **Primary Form:** A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light.
 
-**Notable Features:** It follows the balance of debt rather than a person's physical location and never touches its subject.
+**Notable Features:** It follows the obligation, not the address — it can stand where its subject used to live and find them again without tracking them. It has never made contact. The distance closes as the obligation ages.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
-- **Primary marker:** A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** A collector's silhouette with no caster, standing behind its subject at a measured distance and legible only in the fixed mirrors.
+- **Position / movement:** Behind the subject, at a distance that closes as the obligation ages. It is never in front of anybody. Record the distance in metres from the mirror line, not an impression of where it seemed to be.
 - **Element signature:** Weight
 - **Registered location:** Zone C, Collector's Row — ambient
 
@@ -117,53 +117,53 @@
 |---|---|
 | **Form** | A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Material / signature** | Weight. Lead-cold and wet stone; a human-shaped absence cast by nothing, legible only at the edge of sight or in the fixed mirrors. |
+| **Distinctive markers** | The coat it is not wearing is the usual report: observers describe a collector's silhouette, and no two describe the same coat. |
+| **Identification** | If you can look at it directly, it is not this file. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Distance in metres from the mirror line, the subject's ledger balance from the Collectors' column, the mirror cleaning entry, and the date of the announcement if one has been made. Four fields, on one sheet, side by side.
 
 ## Origin
-- **Formation:** The Shadow formed from fear of collection.
-- **The Sorrow:** Anxiety over owing something that cannot be paid and the dread of the Collector's arrival.
-- **The Event:** Generations of citizens lived under ledgers and deadlines until the idea of collection became a silent companion.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the entity's effect on nearby Sorrow Entities — gauges rise faster, breaches occur more frequently, containment becomes more difficult. The entity is not hostile. It is simply... heavy. Its sorrow bleeds into everything around it, contaminating the facility's emotional atmosphere.
+- **Formation:** From the interval between a decision and its delivery.
+- **The Sorrow:** Not the collection. The stretch of ordinary days a person goes on living through while somebody who has already decided has not yet said so.
+- **The Event:** Generations of notices served on the day they took effect, by offices that had settled the matter weeks earlier and saw no kindness in saying so sooner.
+- **The People:** No single originator. The commissioning file is paperwork: deadlines, notices, standard forms, archived in the order they arrived and never re-sorted.
+- **Expanded origin context:** The air near a followed subject is colder and no instrument has ever registered it. Three studies looked for an effect on neighbouring holdings — faster gauges, more frequent breaches, degraded containment — and all three returned nil, which the wing records plainly because the opposite is widely believed in this facility and is not true. What it does is social: it makes an obligation legible to everybody in a room except the person carrying it. Three transfer requests out of the debt offices last year came from colleagues of a followed worker, on grounds that were, in all three, that they could see what was coming and he had not been told.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Remains close, acknowledging shared burden. | Decrease |
-| **Pugnahan** | Becomes denser and harder to escape. | Increase |
-| **Viderehan** | Reveals the debt balance and its origin. | Stable |
-| **Ferrehan** | Follows patiently while the worker continues daily duties. | Decrease |
+| **Flerehan** | It stays at the distance it holds and the distance stops closing for the cycle. | Decrease |
+| **Pugnahan** | It thickens and the interval shortens. Not used. | Increase |
+| **Viderehan** | It gives the balance and where it came from — never the date, which is the only thing a subject ever asks for. | Stable |
+| **Ferrehan** | The worker goes about their ordinary duties with it behind them, for a full shift, logged. | Decrease |
 
 
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Harbinger is recorded as a Subject with Subject-Phantasmal manifestation and Weight elemental expression. The current record places it at Zone C, Collector's Row — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The gauge on this holding is a poor instrument and the wing has said so for decades. The figure that is read is the distance series: metres between the entity and its subject, taken from the fixed mirrors at each watch, closing across the life of an obligation, non-monotonic, and kept on one sheet beside the Collectors' ledger column because separating the two columns destroys the only thing the sheet is for.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** A good cycle is a distance that did not close, a sheet with both columns on it, and a subject who asked to see their own series and was shown it inside the hour. The last of those is a right in the standing order, written in after a subject asked and was refused.
 ## Breach Behavior
 
-> *"Harbinger has broken free. Seeks out the indebted and the burdened."*
+> *"It is loose on the Row. It is behind four people at once. Nobody is to turn around and somebody go and tell them."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
-| **Movement** | Harbinger seeps through the walls, filling every corridor. It seeks out the indebted and the burdened. |
-| **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
-| **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **Breach Type** | Transform — the interval itself alters; it is the announcement that changes, not the entity. |
+| **Movement** | It attaches behind several subjects at once and holds station on each. It does not seep, does not fill corridors, and does not seek anybody out: it is already where the obligation is. The earlier entry describing it flooding the facility has been struck. |
+| **Effect** | Every intervals shortens at once. Announcements that stood at weeks stand at days, across the whole Row. |
+| **Secondary Effect** | Workers can see which of their colleagues are being followed, and the colleagues cannot. |
+| **First Target** | No target. It stands behind whoever has something pending against them that nobody has said out loud. |
+| **Escalation** | Each cycle unaddressed, the intervals shorten further and the Resolve drain rises by 5. It ends when each followed subject is told what is pending. |
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Transform — what changes is the warning, not the room. Two events on record, both ended by telling people, neither by suppression.
+- **Containment priority:** Do not apply Pugnahan, which shortens the interval further. Identify every followed subject from the mirrors and have a named officer tell each of them, in person, what is pending.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while unaddressed; it falls when the subject is told, aloud and in full, what is pending against them.
 
 ## M.A.W. Equipment
 
@@ -183,12 +183,12 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** Single target only. The maul has never been swung at this entity, which has no body to strike and has never closed with anybody.
+**Damage Application:** Armoury figures, transcribed. Untested on this holding and expected to remain so.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Harbinger's weight signature in the strike.
+**Ability:** Breaks Weight-dense material. On this holding it is kept for the mirror frames and the Row's fabric and has never been swung at anything living or otherwise.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder carries weight for days and tires early; two have handed it back inside a month.
 
 ### M.A.W. Suit — The Shadow Step
 
@@ -204,9 +204,9 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Allows silent movement and brief shadow-like concealment.
+**Ability:** The wearer moves unheard and is briefly hard to place in a room — useful on the Row, where the watch is kept by not being noticed.
 
-**Cost:** The wearer becomes difficult for others to notice or remember.
+**Cost:** People forget the wearer was present. Three have been left off duty rosters by supervisors who had spoken to them that morning.
 
 ### M.A.W. Stigma — The Shadow Charm
 
@@ -216,17 +216,17 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the bearer's work on this holding; no measured effect elsewhere in the wing.
 
-**Ability:** Grants a minor boon tied to Harbinger's sorrow; the effect mirrors the entity's nature.
+**Ability:** The bearer knows, standing in a room, which people in it have something pending against them. Not what, and not when.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer slows, and stops in doorways, and is late to things they were early for.
 
-*Stigmas are granted at random by Harbinger upon a successful work, not manufactured.*
+*The charm is given, not issued, and only to a worker who has shown a subject their own distance series when asked. Four exist.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Harbinger's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+The maul belongs to the mirror frames and the step to the watch. The charm is the exception: four exist, each given to a worker who had shown a subject their own distance series when asked, and none to anybody who has shown one unasked.
 
 ### Field Use Record
 
@@ -242,11 +242,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It follows debtors throughout Collector's Row.
-- It is not physically hostile.
-- Progress toward repayment does not affect it until the balance changes.
+- It follows the obligation rather than the person; it has been found at addresses its subject left years earlier and has never lost one.
+- It has never made contact, in any watch book, with any subject. The distance is held by the entity.
+- Distance is measured at every watch from the fixed mirrors and plotted across the life of an obligation; it closes, not steadily, with two or three lengthening intervals in a typical series.
 
-**Personnel Note:** *"It was glowing in the alley. I felt hope. The hope was not freedom; it was the possibility that a balance could be seen clearly."* — Specialist, Zone D patrol
+**Personnel Note:** *"Two point four metres, down from eleven in nine weeks. I showed him the sheet because he asked and the standing order says I must. He looked at it for a long time and then he asked me what the decision was and when it would come, and I did not know, and the office that did know was not going to tell him until the day."* — Warden, Collector's Row
 
 
 
@@ -254,30 +254,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Harbinger as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone C, Collector's Row — ambient. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Harbinger's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer takes the distance from the fixed mirrors, enters the Collectors' ledger figure in the adjacent column, and confirms the mirrors were cleaned on schedule. |
+| **Sustained observation** | The series is built watch by watch and belongs to the subject as much as to the file: it is shown on request, inside the hour, without the subject having to give a reason. |
+| **Activation or escalation** | Escalation is the interval shortening. Record the announcement date, the date of the thing announced, and the gap in days, and send somebody to tell the subject. |
+| **Post-contact review** | Distance, ledger balance, interval in days, and whether the subject has been told. The last column is answered yes or no and has never been allowed a third option. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Mirrors, metres, ledger, days. The sheet has had the same four columns since the containment's first year, and every proposed improvement to it has begun by separating them.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Harbinger (N-IIIβ-155 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight. The Shadow formed from fear of collection. Held at Zone C, Collector's Row — ambient. It follows debtors throughout Collector's Row.
+Harbinger (N-IIIβ-155 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight, semi-contained on Collector's Row, where it is watched through fixed mirrors rather than held. It follows obligations, keeps a distance that closes as they age, has never touched anybody, and announces collections before they occur, accurately, every time.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Spreads by attaching to personnel with heavy debt. Subjects feel watched and carry constant anxiety. It is not physically hostile.
+**Entry 2 — <Excerpt from Distance Series, Subject 41, Year 4238>**
+Opening distance 11.2 m, closing to 2.4 m across nine weeks, non-monotonic, two intervals in which it lengthened. Shown to the subject on request, which is a right in the standing order and not a courtesy.
+Series for subjects 38 to 44 attached. Mirror cleaning entries complete for the quarter; the one missed cleaning in the file produced a reported disappearance and cost two days.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-Anxiety over owing something that cannot be paid and the dread of the Collector's arrival.
+**Entry 3 — <Excerpt from Debt Office Transfer Request>**
+Third request this year from colleagues of a followed worker rather than from the worker. The grounds given are identical in all three and are not unkind: they can see what is coming for him and he has not been told.
+Filed by the Row warden, there being no counselor on the Row. The worker's question is recorded verbatim because it is the same question every followed subject asks and the file has no answer to it: not how much, and not why. When.
 
 **Entry 4 — <Containment Notice>**
-Management: Review and acknowledge the debt; force cannot remove the Shadow. Work response — Flerehan: Remains close, acknowledging shared burden. (Decrease); Pugnahan: Becomes denser and harder to escape. (Increase); Viderehan: Reveals the debt balance and its origin. (Stable); Ferrehan: Follows patiently while the worker continues daily duties. (Decrease). Progress toward repayment does not affect it until the balance changes.
+Management: tell the subject what is pending against them, in person and in full. Work response — Flerehan: the distance stops closing for the cycle (Decrease); Pugnahan: it thickens and the interval shortens, not used (Increase); Viderehan: the balance and its origin, never the date (Stable); Ferrehan: a full shift of ordinary duties with it behind the worker (Decrease). Distance series shown to the subject on request as of right.
 
 **Entry 5 — <Archive Note>**
-The shadow attaches to a debtor and holds a fixed distance, and it cannot be faced — it is behind whoever turns, in every attempt on record. It does not speak and has never been observed to act. What it does is make the debt visible to everyone in the room except the person carrying it, and the problem that creates is social rather than physical. Three transfers out of the debt offices last year were requested by colleagues of the person being followed.
+The distance is not fixed; that was the first year's error and it stood in this file for eighty years. It closes as the obligation ages, and the series is the containment's principal output. The rest of the earlier note stands: it does not speak, has never been observed to act, and makes an obligation visible to everybody in a room except the person carrying it. Three transfers out of the debt offices last year were requested by colleagues of a followed worker, and all three gave the same reason.
 
 ## 최종 관찰 (Final Observation)
 
@@ -294,7 +296,7 @@ You feel cold between your shoulders. When you turn, there is nothing. When you 
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Weight pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Phantasmal resolve into something you can name. A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light.
+**At first contact:** Nothing, if you are facing the right way. The Weight arrives first — lead-cold, wet stone — and then the mirror shows a man-shaped absence standing behind you at a distance somebody will shortly write down in metres. Turning does not help and has never helped anybody.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Weight that the entity embodies. Understanding it does not make it easier.
 
@@ -306,66 +308,71 @@ You feel cold between your shoulders. When you turn, there is nothing. When you 
 
 Harbinger does not exist in isolation. Its recorded relationships with The Inherited Debt, The Debt Eater, The Debt Clock should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** The question is always the series: whether the distance closed faster, slower, or not at all while the other file was near, measured from the same mirrors by the same tape. Joint events on the Row are briefed on what separates the debt files, because a crew that has read the wrong one arrives looking for a balance.
 
 
 ### Entity Interaction Record
 
-Harbinger must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Harbinger must be assessed against the other debt files and kept distinct from them. The Inherited Debt is a balance passed down; the Debt Eater removes balances; the Debt Clock counts a term. This one carries no balance, removes nothing and counts nothing: it is the interval between a decision being taken about a person and that person being told.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Inherited Debt** | The Inherited Debt gives it a family history. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Debt Eater** | The Eater can remove debt but not the Shadow's memory of it. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Debt Clock** | Both count the approach of collection. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Inherited Debt** | Distinct: the Inherited Debt is a balance that descends; this one carries no balance at all and is indifferent to whose name is on the ledger. | In two proximities the series did not alter by a measurable amount in either direction. | Distance before and after, and the ledger column, which is the field crews expect to move and which does not. |
+| **The Debt Eater** | The clearest test on the file: the Eater has twice extinguished an obligation outright, and on both occasions this entity remained in place and the distance went on closing. | No change to the series. The finding is retained because it defeats the intuitive reading of the whole holding. | Date the obligation was extinguished, and the three subsequent distance readings. |
+| **The Debt Clock** | Superficially the same mechanism and not: the Clock counts a published term; this one stands in an interval nobody has published. | No interaction recorded in four proximities. The Row keeps the entry because the resemblance is what causes the misbriefings. | Which file the crew believed they were working, and whether the Clock's term was displayed. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Take a mirror reading before the other file arrives and another after it leaves, both signed. Nothing else on this holding is worth recording during a joint event, and the Row has twice had to say so in writing to crews who wanted to try facing it while another file held its attention.
 
 ## 이야기 (Narratio) — The Tale
 
-Generations lived under ledgers and deadlines, and the idea of collection, constant and inescapable, became a companion — silent, patient, always at the door.
+This Company does not tell a worker that it is considering something against them. It tells them when it has decided.
 
-The debt system does not merely collect. It anticipates. Every citizen of Somnarak who owes — and every citizen owes — lives in the knowledge that the Collectors are coming. Not today, perhaps. Not tomorrow. But coming. The knock is scheduled. The ledger is open. And between one collection and the next, the debtor exists in the shadow of the next one — the dread, low and chronic, of the approach that is always approaching and never, while the debt stands, finished.
+The reasoning is not cruelty and the evidence for it is real. A worker told in advance that dismissal, demotion, recovery of overpayment or transfer is being considered spends the whole interval unable to work, unable to sleep, and unable to do one single thing about an outcome that is not in their hands. Two decades of exit interviews said the waiting was worse than the result. So the Company serves adverse decisions once they are final, in person, with effect from that day, and the interval of dread is abolished by the simple method of not telling anybody there is one.
 
-The dread, shared across generations, accumulated. Not the debt itself — the debt is recorded, tracked, managed by the Collectors' systems. The dread: the anxiety of owing what cannot be paid, the constant awareness of the deadline, the silent certainty that the knock is coming and the knock will not be the last knock and the debt will not, in any debtor's lifetime, be fully discharged. This dread — the shadow cast by the debt, the fear that walks beside every citizen who owes — sank into the city the way all accumulated sorrow sinks, and the Weeping gave it a shape that matched its nature: a shadow.
+What is abolished is the warning, not the interval. The interval goes on existing — forty-one days, on the current average, between a file being opened on a person and that person learning of it — and they go on living in it: paying rent they will not be able to pay next month, standing surety for a brother, telling their children they will be at the thing on the ninth. The decision is already taken. Everyone in the office knows. The subject goes about their ordinary duties with it behind them, and the only party to the arrangement who cannot see it is the one it is about.
 
-Harbinger is Subject-Phantasmal, Weight-element: the figure of the dread itself, detached from any specific collection, walking beside every debtor in the city. It does not collect. It accompanies — the way dread accompanies, the way the knowledge of the approaching knock accompanies, silently, patiently, at the door that has not yet been knocked on but will be.
+Harbinger is Subject-Phantasmal, Weight: not the collection and not the debt, but that interval, standing behind the person who is in it. It does not collect, does not speak and does not act. It takes up position, holds a distance, and closes.
 
-Those who come near the Shadow feel the chronic anxiety of the indebted — the specific, grinding dread of knowing that the collection is coming and the debt cannot be paid and the knock will arrive on schedule and there is nothing, between now and the knock, that will make the debt smaller or the knock not come.
+What the Row has measured, since the containment's first year, is distance: metres from the fixed mirrors to the entity, logged at every watch, plotted across the life of an obligation. Eleven point two down to two point four across nine weeks, not steadily, with intervals that lengthen. The series closes faster in the quarters when this Company has the most decisions standing against people who have not been told; it does not move with the Collectors' ledger totals, the Row's traffic, the season, or the age of the debts themselves, all of which sit in the same sheet and have all been tried.
 
-Some sorrows are about the debt. Harbinger is about the dread of the debt — the companion that every debtor carries, the shadow at the door, the patient, silent, inescapable presence of the collection that is always coming and never far enough away to forget.
+Some sorrows are about the debt. This one is about the days between somebody deciding and somebody being told, and it has been standing a measurable distance behind our own people for as long as we have been sparing them the news.
 ## 증언 (Testimonium) — The Testimony
 
-> *“The dread of the approaching knock, silent, patient, always at the door.”* — Keeper, Archive
+> *“Two point four metres. Four hundred and sixty open files nobody has mentioned to anybody. Those are the two numbers that move together and I have been putting them on one sheet for eleven years.”* — Warden, Collector's Row
 
-> *“I felt the chronic anxiety of the indebted — the grinding knowledge that collection is coming.”* — Citizen, Zone B
+> *“Warning people in advance is a cruelty dressed as a courtesy. Twenty years of exit interviews say so and nobody in that wing has produced one line against it.”* — Personnel Office, submission of Year 4228
 
-> *“The shadow walks beside every debtor. It does not collect. It accompanies.”* — Researcher, R.D.
+> *“I could see it behind him for six weeks. He could not. We all went on having lunch with him.”* — Clerk, debt offices
 
-> *“The idea of collection, so constant it became a companion.”* — Containment Lead, R.D.
+> *“Forty-one days. That is the average interval, and we knew it to the day before we ever told a single person they were in one.”* — Records analysis, Year 4236
 
-> *“The dread detached from any specific collection, walking with every citizen who owes.”* — Elder, Zone B
+> *“They notified me, and then they cleared me, and by then I had already taken the dockside job. I do not say they were wrong to tell me. I say I would rather they had been quicker.”* — Former Agent, statement of Year 4237
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIβ-155 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Phantasmal manifestation
-**Common Name:** The Debt Collector’s Shadow
-**Containment Status:** Semi-contained — Zone C (follows debtors)
+**Classification:** Sorrow Entity — `N-IIIβ-155 [WS]` · Inner Sorrow (내한) origin · Fragment (III) coherence, relentless and patient · Moderate (β) potency · Weight · Subject-Phantasmal manifestation. The earlier Echo (II) entry contradicted the SECC header.
+**Common Name:** Harbinger. Older sheets, including Battle Phase 2 of this file, call it The Debt Collector's Shadow; both names refer to this holding and the designation governs.
+**Containment Status:** Semi-contained — Zone C, Collector's Row, ambient; watched through fixed mirrors on a cleaning schedule, never approached, never faced. It follows obligations and cannot be held in a room.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. The dread of collection as a companion. Effect: proximity induces chronic anxiety of the approaching knock.
+**Threat Assessment:** Moderate (β). It has never touched anybody, never spoken and never been observed to act, and three studies looking for an effect on neighbouring holdings returned nil. The documented harms are social — an obligation made legible to a whole room except its subject, and three transfer requests last year from colleagues rather than from the followed worker — and the closing interval, which removes whatever warning a person might otherwise have had.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The shadow follows; it cannot be dispersed.
+- Ferrehan is primary — the ordinary shift worked with it behind you — with Flerehan beside it; Viderehan takes the balance and its origin. The earlier entry naming Viderehan primary has been corrected against the Behavior table. Pugnahan is not applied.
+- It is never faced, approached, or photographed; the watch is kept in the fixed mirrors, which are cleaned on a logged schedule.
+- The distance series belongs to the subject: shown on request, inside the hour, no reason required.
+- Personnel named in an announcement are told that they have been named and come off the rotation until the interval passes.
+- The Standing Notice is a containment condition of this holding and binds every adverse decision this facility opens against a worker.
 **Observation Notes:**
-- Formed from generations of citizens living under ledgers and deadlines.
-**Cross-References:** Zone C · The Collectors · The Debt Clock · The debt system
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** Every citizen who lived under the debt system.
+- Distance measured at every watch from the fixed mirrors and plotted across each obligation; closes non-monotonically, with two or three lengthening intervals in a typical series.
+- Closure runs faster in the quarters with the most undisclosed decisions standing against personnel; tested against ledger totals, Row traffic, season and debt age, none of which fit.
+- Announcements have been accurate and early in every instance on record; none has ever proved false.
+**Cross-References:** Collector's Row, Zone C · the four-column position sheet and the first-year format rule · the distance series and the right of inspection · the mirror cleaning log · the three debt-office transfer requests of Y4237 · the Personnel Office submission of Year 4228 · the Year 4236 records analysis establishing the 41-day mean interval · the Y4237 Standing Notice return: 3,114 notices, 2,402 closed with no action, 77 resignations before any decision of which 29 would have been cleared, 11 record destructions and 3 prosecutions, one cleared Agent dead eight weeks into the work he took instead · The Inherited Debt · The Debt Eater · The Debt Clock
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the Collectors' offices, who supply the ledger column on the position sheet and have never asked to see what it is set beside
+**Originator:** Every office that settled a person's case on a Tuesday and served it on them a month later, and considered the month a mercy.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this file with the position sheets and the facility's open adverse-decision register beside it. Read alone it is a harmless shadow that has never laid a finger on anybody, which is what two assessors concluded with eighty years of distance series in front of them and no access to the register.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** On any series closing below three metres, or any interval under seven days: pull the facility's open adverse-decision register before the next watch and name each file with the subject, the date it was opened, the expected date of decision, and whether the subject has been told. Totals are not accepted and the last column takes two answers only.
 ## Warden Record
 
 ### Following the Balance
@@ -380,24 +387,34 @@ It does not make contact and has never been recorded doing so, maintaining a dis
 
 It can be seen only from the corner of the eye or in reflected light, so the watch is kept with mirrors placed at fixed points rather than by looking. The mirrors are cleaned on a schedule and the schedule is logged, a triviality that is recorded because a missed cleaning once produced a report of disappearance that cost two days.
 
+### What The Distance Is Measuring
+
+The sheet is older than the measurement. Position and ledger balance were put side by side in the containment's first year so that a Warden could show the entity was following an obligation and not a man, and the distance column was added because a Warden with a mirror and a tape will measure things. For eighty years the series was a curiosity, reported upward as evidence that the entity was behaving as described. In Year 4234 a Row warden who had been refused sight of her own personnel file set the closure rates against the facility's register of open adverse decisions — the register exists, it is complete, and it is not disclosable to the people in it — and the two moved together. They have moved together every year since, and the series fails against ledger totals, Row traffic, season, and the age of the obligations.
+
+Nothing in the existing Record is disturbed. It still follows the balance and not the address; it still has never made contact and the distance is still held by the entity rather than the watch; the mirrors are still cleaned on schedule and the schedule is still logged, after the missed cleaning that cost two days; the series is still shown to any subject who asks, which remains a right and not a courtesy. The pairing is a Warden's tape against a register in another building.
+
+What it costs is the decency of the silence. Not telling people is defensible and was defended, by people who had read two decades of exit interviews saying the waiting was the worst part. The Row's position is narrower: that the interval is there whether or not we mention it, that forty-one days is the mean and we have known it to the day since Year 4236, and that the only person in the building who cannot see the shape standing behind a man is the man.
+
+The operational consequence lies entirely off the Row. Nothing done at the mirrors has ever slowed a closure — not Ferrehan, not longer watches, not the two instrumented years. The only thing that has ever moved with it is the Standing Notice: every worker against whom an adverse decision is being considered is told, on the day the file is opened, in writing, what it concerns and when it is expected to conclude, even though most of them will come to nothing. In Year 4237 that issued 3,114 notices, of which 2,402 ended in no action at all — two thousand four hundred and two people who spent a mean forty-one days in a dread they would otherwise never have known about. Seventy-seven resigned before any decision was taken, and twenty-nine of those would have been cleared; one of the twenty-nine took dockside work instead and was killed there eight weeks later. Eleven subjects destroyed records after being notified and three were prosecuted for it. The file records those beside the distance series, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+
 ### The Companion
 
 Generations lived under ledgers until the idea of collection became something that walked beside people, and the file documents the ordinariness of that rather than any single case. The material is routine: deadlines, notices, the standard forms. The archivist's note says the entity was made by paperwork and that the commissioning file is accordingly a file of paperwork, which was the only honest way to assemble it. Sheets are archived in their original order and have never been re-sorted.
 
 ## Trivia
 
-- The Shadow is visible most clearly near unpaid ledgers.
-- It disappears briefly when a debtor makes a truthful payment.
+- It is visible only at the edge of sight or in the fixed mirrors, wherever it happens to be standing; the old line about unpaid ledgers described the sheet, not the entity.
+- Payment does not affect it. Nothing in any series has ever responded to a payment, which the Observation Log has said for ninety years and the Trivia line contradicted.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Harbinger is a Subject with Fragment (III) — Relentless and patient coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone C, Collector's Row — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Subject, Fragment (III) coherence — relentless and patient is the file's phrase and the Row would say only that it is punctual — Moderate (β) potency, Comprehension Level 2, Subject-Phantasmal. The Registrum carried Echo (II) against this header; corrected.
+- **Field detail:** Weight; Zone C, Collector's Row, ambient. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded β pieces; corrected. The threshold of 3 is retained: it is three unacted announcements, and the fourth has never been reached.
+- **Recognition detail:** Identify it in the fixed mirrors, never by turning. Every attempt on record to face it has found it behind the person turning.
+- **Record detail:** Four debt files sit in this index and are confused constantly. Read the designation. This is the one that is not about money.
+- **Containment detail:** There is no cell. Mirrors, a tape, a four-column sheet, a right of inspection, and a rule in the personnel office about telling people on the day the file is opened.
 ## Document Information
 
 **Document ID:** SE-N-IIIβ-155
