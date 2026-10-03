@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **125** |
-| Pending — no disposition-bearing line found by scan | 178 |
+| **Classified here, with a quoted line of evidence** | **126** |
+| Pending — no disposition-bearing line found by scan | 177 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 125 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 126 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 178 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 177 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -129,6 +129,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Aphasia | `SE-O-Iα-720` | Neutral | Cannot be sealed and corrupts F01's transcripts, but injures nobody and reaches no other holding: against The Broken Whisper it produces no effect at all, and the benefit it takes from The Rusted Soul runs one way only. |
 | Broken Compass | `SE-C-IIβ-290` | Neutral | Costs F01 its survey bearings across a widening radius and three withdrawn maps, but it is cradled, unmoving and aids nothing: inside The Drift Fog it produces no directional record at all, and the information it gives up about The Wandering Door does not survive separation. |
 | Echo of Kindness | `SE-C-Iα-240` | Neutral | *"Non-hostile, no breach mechanism, no injury in the whole record."* It comforts personnel and suppresses nothing; near The Silent Child it raises that entity's visibility rather than shielding it, and the Kind Healer pairing leaves the Healer unaffected. Beneficial to individual workers, immaterial to containment either way. |
+| Holdout | `SE-C-IIβ-240` | Neutral | Raises vault load and unsettles adjoining holdings, but has never breached and assists nothing: its walls *"will hold a line that Breach cannot cross"* while a Warden remembers them — an obstruction to another entity — and its rooms and The Vanished Tower's have never once exchanged. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |

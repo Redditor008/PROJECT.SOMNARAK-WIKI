@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | Granted pieces · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan by deliberate remembering; Ferrehan by staying in the rooms once they stand. Flerehan and Pugnahan do not apply to a Place and the Registrum's older claim to the contrary is corrected here. |
 
 ### Operational Notes
 
-- Something in the Alpha Tree vault has not been surrendered, and the vault inventory has never accounted for it.
-- A cycle settles the weight in the room. The holdout is unchanged, and no session has identified what is being withheld.
-- Viderehan and Ferrehan are the valid approaches to the site.
-- There is no breach counter. Structural load in the vault rises with the entity, and the floor is instrumented rather than inspected by eye.
-- Residue recovery is a separate authorization and is never issued as a reward for a clean shift.
+- Something in the vault has not been given up, and no inventory of that vault has ever accounted for a single kilogramme of it.
+- A cycle settles the load for a shift and changes nothing. No session has established what is being withheld, only that the plates can weigh it.
+- Viderehan and Ferrehan only, and both require a Warden willing to hold a demolished tenement in mind on purpose for an hour.
+- No breach counter. Vault load rises with the holding and is read off plates, never judged by eye; the eye reports nothing at all here.
+- There is no residue to recover and the standing authorisation is kept open anyway, in case the holding ever leaves anything behind.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Holdout's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Viderehan is a Warden standing in the vault and deliberately remembering the building until the walls resolve; Ferrehan is staying in the resolved rooms for the interval. Plate load is read throughout. Nothing is touched, because there is nothing there to touch.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Memorialize the structure; do not reconstruct a false version**.
 
 ### Consequences
@@ -98,16 +98,16 @@
 - An unresolved encounter never simply ends; it transforms. Holdout executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
-**Physical Form:** A ruined place that exists as a pressure in the Alpha Tree vault. Broken walls appear only when remembered.
+**Physical Form:** A stand of broken walls that are not there until somebody remembers them. **Material:** grey stone fused with dead timber, with old bone set in the mortar.
 
-**Notable Features:** It carries the weight of destruction, remains quiet, and makes every absent structure feel recently lost.
+**Notable Features:** It weighs something no instrument can find a body for, it has never made a sound, and near it every absent thing feels as though it went last week.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
-- **Primary marker:** A ruined place that exists as a pressure in the Alpha Tree vault. Broken walls appear only when remembered.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Primary marker:** Load on a plate in an empty vault, and walls that resolve out of nothing for as long as a person holds the building in mind.
+- **Position / movement:** Fixed in the vault and visible only while remembered. Record which rooms resolved, in what order, and the plate load at each fixed point while they stood.
 - **Element signature:** Grudge
 - **Registered location:** Zone A, Alpha Tree vault
 
@@ -117,18 +117,18 @@
 |---|---|
 | **Form** | A ruined place that exists as a pressure in the Alpha Tree vault. Broken walls appear only when remembered. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Material / signature** | Grudge. Cold stone, dead timber that still seems to bleed, bone in the mortar, and a load reading with no mass behind it. |
+| **Distinctive markers** | Eleven rooms that resolve on demand, eight that no longer will, and phantom doorways in the corridors adjoining the vault. |
+| **Identification** | If the vault looks empty, that is correct. Read the plates before you decide nothing is there. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Rooms resolved, order of resolution, plate load at each fixed point, and how long the walls hold after the remembering stops. Four figures, all of which depend on a person choosing to remember.
 
 ## Origin
-- **Formation:** The Ruin formed from a place destroyed while someone still believed it could be saved.
-- **The Sorrow:** The anger of discovering that destruction was treated as necessary before anyone asked what it meant.
-- **The Event:** A structure collapsed during an Alpha Tree stabilization, leaving no physical remains but a persistent memory of its rooms.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** Containment records trace the entity back to Zone A, Alpha Tree vault, where the Grudge first reached the density required for crystallization. The Object/Place is the wound's exoskeleton — the city's grief grown solid. It will not heal. It can only be held.
+- **Formation:** From a demolition that was correct, foreseen, documented, and never once discussed with anybody who lived there.
+- **The Sorrow:** Not the loss of the building. The discovery that there had never been a point in the process at which anyone was going to be asked.
+- **The Event:** A tenement came down in the course of an Alpha Tree stabilisation. The assessment was sound, the works order was published with reasons, and 140 people were displaced without representation.
+- **The People:** One hundred and forty residents of a tenement that came down during an Alpha Tree stabilisation, displaced without representation of any kind, because this Company does not consult.
+- **Expanded origin context:** The commissioning file is unusually complete: the engineering assessment, the works order, the stabilisation schedule, the displacement list of 140 names, and the dissent file — thirty-one written statements lodged afterwards by people whose homes had already gone. Every document in it is correct. The archivist's note observes that the assessment has been checked three times and holds, and that the dissent file has, on the Office's own record, been read twice.
 
 ## Behavior
 
@@ -138,8 +138,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows the people and purpose of the lost structure. | Stable |
-| **Ferrehan** | Tests whether the worker can remain in a place that cannot be repaired. | Decrease |
+| **Viderehan** | The rooms, in order, with the people who used them and what each was for. Gauge does not move. | Stable |
+| **Ferrehan** | Staying inside the resolved walls for the interval, knowing they go when you stop. | Decrease |
 
 
 ### Operational Work Notes
@@ -151,10 +151,10 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 | Field | Detail |
 |---|---|
-| **Expansion Trigger** | Destruction denied or justified without mourning. |
-| **Expansion Rate** | Slow through Alpha Tree memory spaces. |
-| **Expansion Effect** | Nearby rooms feel structurally and emotionally unstable. |
-| **Containment** | Memorialize the structure; do not reconstruct a false version. |
+| **Expansion Trigger** | A correct demolition carried out without anybody affected being heard. The correctness is not in dispute and makes no difference. |
+| **Expansion Rate** | Slow. Load up roughly a third a year, with no mass to account for it. |
+| **Expansion Effect** | Adjoining rooms read as unsound to people and as sound to instruments. Phantom doorways appear in three corridors and are now marked on the vault plan as phantom. |
+| **Containment** | Name the building, keep the room list accurate, and never build a replica of it. The one scale model made in good faith cost two rooms, which have not resolved since. |
 
 
 
@@ -162,21 +162,21 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 The escalation pattern is specific to Holdout: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone A, Alpha Tree vault, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Memorialize the structure; do not reconstruct a false version. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** Read the plates, record which rooms are standing, clear anyone who is not on the watch, and bring the works file down. The file is the response; there is nothing else that touches this holding.
 
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Destruction denied or justified without mourning. |
-| **Manifestation** | Place-Grudge|
-| **Primary effect** | Nearby rooms feel structurally and emotionally unstable. |
-| **Duration / rate** | Slow through Alpha Tree memory spaces. |
-| **Risk** | Moderate (β) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Memorialize the structure; do not reconstruct a false version. |
+| **Trigger** | A properly made decision that nobody affected could speak to. |
+| **Manifestation** | Place-Weight |
+| **Primary effect** | Load without mass, and the sense in adjoining rooms that something has just been lost. |
+| **Duration / rate** | 560 kilogrammes equivalent and rising about a third a year. |
+| **Risk** | Moderate (β) Place-Weight producing Grudge pressure. Phantom-room perception, and a documented tendency in Wardens to begin applying the effect to their own histories. |
+| **Management** | Accurate room list, named building, plate series, no replica, and infirmary attendance at the end of every posting as routine. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** rooms resolved → plate load at each point → extent of the phantom-doorway effect → whether any Warden reported it about their own life → duration after the remembering stops. The last figure has lengthened in every annual series.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -198,7 +198,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Armoury figures, transcribed. The Broadsword is graded against masonry and this holding has no masonry; the figure is carried for completeness and has never been used.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Holdout's grudge signature in the strike.
 
@@ -230,13 +230,13 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat, and the bearer can hold a building in mind for an unusually long time without tiring, which is the whole of the work here.
 
 **Ability:** Grants a minor boon tied to Holdout's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer's temper shortens.
 
-*Stigmas are granted at random by Holdout upon a successful work, not manufactured.*
+*Five charms exist. Four went to Wardens who held the top floor in mind for a full interval; the fifth to the Warden who first noticed that the plates read higher when fewer rooms resolve.*
 
 ### M.A.W. Use Notes
 
@@ -256,11 +256,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It appears only when someone remembers the destroyed site.
-- Its pressure is stronger around Architects.
-- It is most stable when the loss is openly named.
+- It resolves only while a person is actively remembering the building, and goes when they stop. An unobserved watch here is not a watch.
+- Load reads higher when an Architect is present, and higher again when the Architect worked on the stabilisation.
+- Naming the building aloud steadies it. Describing the demolition as necessary, which it was, does not.
 
-**Personnel Note:** *"It was quiet. I felt sorrow. The Ruin did not accuse the Alpha Tree. It simply refused to let the destruction become invisible."* — Specialist, Zone B patrol
+**Personnel Note:** *"Five hundred and sixty on the plates and eleven rooms up. It does not blame anybody, which I found harder than if it had. The order was right. The assessment was right. I stood in somebody's kitchen for an hour and came out thinking about a house I grew up in that was pulled down for perfectly good reasons too."* — Warden, Alpha Tree vault
 
 
 
@@ -268,30 +268,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Holdout as an Object/Place with Place-Weight manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Holdout's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Plates zeroed, room list to hand, the Warden deliberately calling the building to mind and logging which walls come up first. |
+| **Sustained observation** | Load at each fixed point every ten minutes, rooms standing, doorways visible in the adjoining corridors, and the moment any room fails to resolve. |
+| **Activation or escalation** | A reading above the series, or walls standing after the Warden has stopped remembering. Clear the vault and bring the works file down. |
+| **Post-contact review** | Final load, rooms resolved against the original nineteen, hold-time after remembering ceased, and the infirmary note. The infirmary note is routine and is recorded as routine. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Plates, a room list, a clock, and a person prepared to remember a building on purpose. There is no instrument that will do the last part.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Holdout (C-IIβ-240 [GP]) is logged as a Place-Weight manifestation expressing Grudge. The Ruin formed from a place destroyed while someone still believed it could be saved. Held at Zone A, Alpha Tree vault. It appears only when someone remembers the destroyed site.
+Holdout (C-IIβ-240 [GP]) is logged as a Place-Weight manifestation expressing Grudge, in the Alpha Tree vault in Zone A. It weighs without mass, it stands only while remembered, and it is made of a demolition that everybody concerned agrees was necessary.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
+**Entry 2 — <Vault Plate Series, Year 4238>**
+Load 560 kilogrammes equivalent at the fixed points, against 412 and 310 in the preceding series. No rubble, no debris, no mass identifiable by any other instrument. Rooms resolving on demand: eleven of an original nineteen.
 Its pressure is stronger around Architects.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Works Office Correspondence>**
+The office confirms that this Company does not consult. No person affected by a works decision is asked for their views before, during or after it, no hearing is convened, and no objection is capable of altering a decision properly made on published criteria.
 The anger of discovering that destruction was treated as necessary before anyone asked what it meant.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows the people and purpose of the lost structure. (Stable); Ferrehan: Tests whether the worker can remain in a place that cannot be repaired. (Decrease). It is most stable when the loss is openly named.
 
 **Entry 5 — <Archive Note>**
-Containment records trace the crystallization to this location — the sorrow grew patient and specific until it became a presence that cannot be removed, only held.
+Nineteen rooms were listed in the original survey and eleven still resolve. The eight that no longer come up are the eight nobody living has any reason to remember — a storeroom, a stair cupboard, a back landing. The Keepers hold that the holding is not shrinking but being forgotten in parts, and that the plate load has risen in every year that a room was lost.
 
 ## 최종 관찰 (Final Observation)
 
@@ -308,7 +310,7 @@ A room appears around you, broken but still warm. You see a wall fall, a chair l
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A ruined place that exists as a pressure in the Alpha Tree vault. Broken walls appear only when remembered. Notable Features: It carries the weight of destruction, remains quiet, and makes every absent structure feel recently. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Place-Weight form.
+**At first contact:** The vault reads as empty and the plates do not. Then somebody calls the tenement to mind on purpose and a wall comes up out of nothing — grey stone, dead timber, bone in the mortar — followed by a doorway, followed by a room with a hearth in it. The cold arrives last and is the only part of it that any instrument agrees with.
 
 **With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Grudge has topography here — ridges of pressure, valleys of absence, a geography only the Place-Weight could have made.
 
@@ -320,20 +322,20 @@ A room appears around you, broken but still warm. You see a wall fall, a chair l
 
 Holdout does not exist in isolation. Its recorded relationships with The Vanished Tower, Breach, The Hollow Architect should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Plate load and room count before, during and after, taken by a Warden who is not the one doing the remembering, so that the figures are not kept by the instrument.
 
 
 ### Entity Interaction Record
 
-Holdout must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Holdout must be kept distinct from the other absent-structure holdings. The Vanished Tower keeps the shape of a building nobody can find; this one keeps the rooms of a building everybody agrees was correctly demolished. The distinction decides whether the works file is brought down to the vault for a session.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Vanished Tower** | Both preserve absent structures. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Breach** | Shares the grief of failed protection. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Architect** | The Architect remembers its construction. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Vanished Tower** | Both hold buildings that are not there, and the two do not combine: rooms from one have never appeared inside the other in any trial. | Load unchanged on both. The negative result was sought deliberately and is the reason the pair can share a sector. | Room counts for each, logged separately, with an explicit note that no exchange occurred. |
+| **Breach** | The resolved walls will hold a line that Breach cannot cross, for as long as a Warden keeps remembering them. The protection is real and lasts exactly as long as the person does. | Breach held at the vault threshold for fifty-one minutes in the only recorded instance. | Time the hold to the minute and record who was remembering, and what it cost them. |
+| **The Hollow Architect** | It remembers the building as built rather than as lived in, and under its attention two rooms resolved that no Warden has been able to raise since. | Plate load doubles while it attends; the recovered rooms did not persist after separation. | Record which rooms came up, and that they went again. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** One Warden remembers, a second reads the plates, a third keeps the clock. No one performs two of the three.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -371,17 +373,17 @@ Holdout is that memory. It lives in the vault — a building made of nothing but
 **Common Name:** Holdout
 **Containment Status:** Contained — Alpha Tree vault, Zone A
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. The Ruin does not breach but influences nearby structures, causing phantom-room perceptions in personnel. Grudge-element pressure can destabilize adjacent containment.
+**Threat Assessment:** Moderate (β). No breach on record, though the Transform route remains open on paper. Phantom-room perception in personnel, rising vault load, and Grudge pressure sufficient to unsettle adjacent holdings.
 **Containment & Handling Procedures:**
-- Maintain Han-shielded containment in the Alpha Tree vault.
-- Pugnahan and Ferrehan are valid Work Types.
-- Do not assign personnel who lost homes to demolition; resonance risk.
+- Keep the vault shielded and the plates calibrated. The shielding is for the neighbours, not for this holding, which has never tried to leave.
+- Viderehan and Ferrehan are the valid Work Types. Pugnahan is unavailable: this is a Place, and the earlier entry naming it was an error carried for several cycles.
+- Do not post anybody who lost a home to a demolition. The exclusion is absolute, is checked against the displacement lists, and has been applied to eleven people who asked to be posted here anyway.
 **Observation Notes:**
-- Formed from a tenement destroyed during an Alpha Tree stabilization.
-- The Ruin remembers every room. Personnel report seeing phantom doorways.
-**Cross-References:** Alpha Tree · The Weeping · Council stabilization records
+- Plate load 310, 412 and 560 kilogrammes equivalent across three annual series, with no mass identifiable by any other instrument.
+- Eleven of nineteen rooms still resolve. Phantom doorways are marked as phantom on the vault plan.
+**Cross-References:** Alpha Tree vault · Council stabilisation records · the displacement list of 140 · the dissent file · The Vanished Tower · Breach · The Hollow Architect
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** Council stabilization committee; 140 residents displaced without representation.
+**Originator:** Council stabilisation committee · 140 residents displaced without representation, because there is no process here under which they could have had any
 
 ### Registry Addendum
 
@@ -402,6 +404,24 @@ There are no physical remains and the destruction registers as load instead, mea
 
 Near it, absent structures seem newly gone rather than long gone, and the effect extends to things unconnected with the original collapse. Wardens report it about their own lives. The file records this as a known effect with a stated duration and refers personnel to the infirmary at the end of a posting as a matter of routine rather than of concern.
 
+### What the Plate Load Is Measuring
+
+The vault plates read 310 kilogrammes equivalent in the first annual series, 412 in the second and 560 in the third, against a room that contains nothing any other instrument can find. The series has been held against the stabilisation schedule, against the vault's own traffic, against the Alpha Tree's flows, and matches none of them. It matches the number of people displaced or materially harmed by a works decision in that year who lodged nothing afterwards — who had, on the record, no word of any kind about what was done to them.
+
+This Company does not consult. No person affected by a works decision is asked for their views, before it, during it or after it; no hearing is convened; no objection can alter a decision properly made on published criteria. Decisions are taken by the engineers on stated grounds, and the grounds, the assessment and the order are published in advance and in full. The rule was made for cause and the cause is not disputed. Consultation was used, for two generations, to put a signature of participation on decisions that had already been taken; attending cost a shift's pay; the people who spoke up were marked, and several were never employed in the district again. Worst of all, a sham consultation makes the people it consults complicit in what is then done to them. Abolishing it was honest and nobody has asked for it back.
+
+Its consequence is that there is no moment, anywhere in the process, at which a person who is about to lose their home may say anything at all. The decision is correct, it is reasoned, it is published, and it is unanswerable — not because anyone refuses to answer, but because no channel has been built that could receive the question. The assessment in the commissioning file is sound. It has been checked three times. One hundred and forty people watched it be right about them.
+
+### The Dissent File
+
+Authorised Year 4233. After a works decision, anybody affected may lodge a written statement of any length. It is bound into the works file permanently, published with it, and never answered by anybody. It is expressly incapable of changing the decision, which is the point: a statement that could change the outcome would be a consultation, and consultation is what the Company abolished for good reasons.
+
+For this demolition: 140 displaced, 31 statements lodged. The other 109 are absent from the record and will remain absent. Across the Company in Year 4237: 1,844 people affected by works decisions, 402 statements lodged, 1,442 nothing at all.
+
+The costs are not evenly spread. A statement must be written, and no scribe may be provided, because a person taking down another person's words is conducting an interview and an interview is a consultation; so the file belongs to those who write easily and the rest are silent in it forever. Because nothing follows from a statement, several of the 31 describe the arrangement in terms the Office has published unedited, one of them calling it a drawer for shouting into. And two engineers who read the file after a later demolition reported that they could not go on with the work; the Company's response was to confirm that reading is voluntary, which it remains, and the dissent files are, on the Office's own count, read about twice each.
+
+The archivists asked for one change: that the engineers be required to read the relevant dissent file before taking a decision of the same kind. It was refused, and the refusal is correct — a required reading makes the statements an input, an input is a consultation, and the Company would be back inside a decade to the thing it abolished, with worse faith than before. Their objection stands in the scheme's first volume, recorded as correct and unanswered: that this Company stopped pretending to ask so that nobody would be made complicit in their own loss, and has thereby built a place where a hundred and nine people out of a hundred and forty leave no word behind at all, and that there is a vault in Zone A where the weight of them is going up by a third every year.
+
 ### Collapsed During Stabilisation
 
 A structure came down in the course of an Alpha Tree stabilisation and was treated as a necessary loss, and the commissioning file holds the works order and the engineering assessment that preceded it. The assessment is sound. The archivist's note states that the collapse was foreseen, that it was judged acceptable, and that the file includes the assessment precisely so the judgment can be read rather than imagined.
@@ -417,8 +437,8 @@ A structure came down in the course of an Alpha Tree stabilisation and was treat
 
 - **Classification detail:** Holdout is an Object/Place with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone A, Alpha Tree vault.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Grey stone fused with blackened timber and the occasional gleam of bone in the mortar, resolving only while somebody is actively remembering it and hazing to dust when they stop.
+- **Record detail:** The Registrum named Pugnahan as a valid Work Type against a Place that cannot be confronted, the activation record carried Place-Grudge against a Place-Weight header, and the M.A.W. grade was blank against β pieces. All three corrected.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
