@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Swallowed Fury's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Flerehan and Ferrehan are the working approaches and Pugnahan is logged as a failure mode rather than an option — confrontation feeds it, and the table says so in the row above. The worker weeps if they can, or stays near it if they cannot, and nobody present is to steady anybody.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Permit tears and name the loss; do not suppress the anger**.
 
 ### Consequences
 
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
-- Swallowed Fury’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Swallowed Fury's dossier.
+- The effect does not intensify with duration. It intensifies with interruption. Every instance of a person being stopped mid-grief in the Forge District moves the counter down one, whether the stopping was an order, a kindness, or a hand on the shoulder that meant enough now.
+- The fang, the plate and the ember are all made from a tear that was not permitted to fall. Each activation borrows a measure of that denial and the operator keeps it. The recorded cost is not rage. It is that the operator becomes unable to cry in front of anybody, including in circumstances where everyone else does.
+- Left unresolved the sorrow does not disperse; it stays at the level the last interruption set and waits. The archive notes that the entity has never escalated during a shift in which somebody wept uninterrupted, including shifts where the weeping went on a long time and work stopped.
 
 ## Appearance
 **Primary Form:** A faint ghostly figure shaped like a tear that has begun to burn. It appears and disappears around the Forge District.
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A faint ghostly figure shaped like a tear that has begun to burn. It appears and disappears around the Forge District.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It appears and vanishes around the Forge District without crossing the space between, and it is not reliably where it was a minute ago. Record each appearance against the people present rather than against a position on the plan: it is the attendance that predicts it.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Forge District
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; the district holds more than one record made of denied feeling, and this is the one that goes after the person who did the denying. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the figure — translucent, tear-shaped, burning at the point where it would have fallen — and record what it leaves, which is a brief crimson mark and no moisture at all. The absence of moisture is the identifying feature and is to be stated positively in the log rather than left out.
 
 ## Origin
 - **Formation:** The entity formed from a tear that was erased before it could fall.
 - **The Sorrow:** The fury of grief denied before it became visible.
 - **The Event:** A worker was ordered not to cry after a loss. The tear disappeared, but the anger remained.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One forge worker, ordered not to cry on the floor after a death in his shift, who complied. The Keepers' record holds the order, which was issued for safety reasons that the archive accepts were sound, and the name of the supervisor who issued it, which the archive declines to publish for the reason given in the memo below.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
 ## Behavior
@@ -145,7 +145,7 @@
 
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Swallowed Fury is recorded as a Subject with Subject-Phantasmal manifestation and Grudge elemental expression. The current record places it at Zone D, Forge District; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A falling reading under Flerehan means the worker wept and was left to it. Ferrehan falls on proximity alone — the entity accepts company and does not require composure. The reading rises when somebody is calmed, steadied, or thanked for holding it together, and rises fastest when the person doing the calming means well.
 ## Breach Behavior
 
 > *"Swallowed Fury has broken free. Floods corridors with corrosive sorrow."*
@@ -153,17 +153,17 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Swallowed Fury shatters containment and hunts through the facility. It floods corridors with corrosive sorrow. |
+| **Movement** | It does not travel. It stops appearing in the chamber and starts appearing on the forge floor, one place at a time, closest to whoever last told somebody to stop. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
-| **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Secondary Effect** | Everyone within sight of it finds they cannot cry, including those who want to, for as long as it is present. |
+| **First Target** | Not the person grieving. The person who stopped them. |
+| **Escalation** | Drain rises by 5 for each further interruption while it is loose, and does not rise at all for time spent present in a room where somebody is allowed to weep. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape. It leaves containment and moves through the Forge District, and what it is looking for is not the person grieving.
+- **Containment priority:** Do not force it back through Pugnahan; confrontation raises the reading, as the approach table states, and two of the three longest incidents began with a Warden deployment. Clear the floor of everyone except personnel willing to let a colleague cry in front of them, and wait.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each person stopped mid-grief while it is loose. It falls 10% each time somebody weeps in its presence and is not interrupted, and two incidents on record have closed that way with no suppression applied at all.
 
 ## M.A.W. Equipment
 
@@ -183,8 +183,8 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The fang reaches one target. The fury does not travel along a line of personnel, which is consistent with the entity: it has only ever wanted one person's attention at a time.
+**Damage Application:** Record the strike and the aftermath separately. The Grudge lands once; the inability to express the resulting grief persists for the remainder of the shift, and that is the half the counselling log receives.
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Swallowed Fury's grudge signature in the strike.
 
@@ -204,9 +204,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Swallowed Fury's kind of pressure.
+**Ability:** Turns Grudge aside from the body, which is the only damage this entity delivers. The plate is what allows a worker to stand near it through a long approach without needing to be composed.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes dull, and the wearer's face stops showing what they are feeling, which on this post is the precise shape of the problem.
 
 ### M.A.W. Stigma — Swallowed Fury's Ember
 
@@ -216,17 +216,17 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against Swallowed Fury itself, and nothing elsewhere in the Forge District.
 
 **Ability:** Converts suppressed emotion into a brief burst of strength.
 
 **Cost:** The wearer loses the ability to hide their grief.
 
-*Stigmas are granted at random by Swallowed Fury upon a successful work, not manufactured.*
+*The ember is not manufactured. Swallowed Fury gives one to a worker who cried in front of it and did not apologise afterwards, and has given none to a worker who held it in until the session closed.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Swallowed Fury's element. No protocol produces Stigmas. They emerge from Swallowed Fury's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece is a conditional extension of the entity rather than ordinary equipment, and the condition is that the bearer does not suppress themselves. Carried by somebody who weeps when they need to, the fang and the plate hold to grade. Carried by somebody who does not, the cost scales and the Grudge in them becomes active, which here means heat under the breastbone and a temper the bearer cannot source. The ember is given, not issued.
 
 ### Field Use Record
 
@@ -237,7 +237,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are separate axes and the gap matters here. The fang and the plate are ordinary. What the grades cannot show is that the ember's bearers weep easily and in public afterwards, that several have been written up for it, and that the write-ups have each been followed by an appearance.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -259,7 +259,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Swallowed Fury's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Record the first sign, which is char-smell with no heat source; the first sensation, which is grief for something that is not yours; every appearance against the people present; every instance of somebody being steadied; and the condition that ends the encounter, which is a person weeping and nobody intervening. Record how long the weeping lasted and who stayed.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -267,17 +267,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Swallowed Fury (C-Iα-683 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge. The entity formed from a tear that was erased before it could fall. Held at Zone D, Forge District. It appears near workers who suppress visible emotion.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Drifts through Forge District corridors and vents. Personnel experience anger beneath suppressed grief. It glows during the Sorrow Tide.
+**Entry 2 — <Forge District Appearance Log, Against Attendance>**
+Sixty-one appearances logged over two years. Correlation with location: none; it has been seen in every bay including the ones that were empty. Correlation with time of day: none. Correlation with an instruction to compose oneself issued in the preceding four hours: fifty-four of sixty-one, and of the remaining seven, five followed a shift in which a bereaved worker was sent home early rather than allowed to stay. The log's compiler added one line at the end: the entity is not tracking grief. It is tracking us.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The fury of grief denied before it became visible.
+**Entry 3 — <Statement of a Supervisor Who Stopped Someone>**
+"I told him to take a minute outside because there was a crucible coming off the line and he was two metres from it. I would say the same thing again tomorrow. It appeared before he reached the door. I want it on the record that I understand both halves of this: the instruction was correct, and the instruction is what called it. Nobody has told me what I am supposed to do with that, and I have asked three times. In the meantime I say it anyway, because the alternative is a man standing next to a crucible and not seeing it."
 
 **Entry 4 — <Containment Notice>**
 Management: Permit tears and name the loss; do not suppress the anger. Work response — Flerehan: Becomes clearer and less hostile. (Decrease); Pugnahan: Burns with borrowed fury. (Increase); Viderehan: Reveals the loss that produced the tear. (Stable); Ferrehan: Waits while the worker remains near it. (Decrease). It produces confusion because the original tear is missing.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The supervisor who issued the original order is named in the Keepers' record and will not be named here. The order was correct — there was molten stock on the floor and a man who could not see it — and the entity exists anyway, which is the uncomfortable finding this file is built on. Publishing the name would convert a structural fact into a person's fault, and the facility would then manage the person. What is required instead is a place to go: from this quarter every forge bay is to have a designated room, within thirty seconds' walk, where a worker may weep without leaving their shift and without being followed. The Directorate accepts that this is an expense and that it is the only measure here that has ever lowered the counter.
 
 ## 최종 관찰 (Final Observation)
 
@@ -306,12 +306,12 @@ A red spark hangs in the air where a tear should have fallen. It trembles, burns
 
 Swallowed Fury does not exist in isolation. Its recorded relationships with The Weeping Statue, The Angry Maiden, Sealed Rage should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Alone first, then together, and in both cases the team roster is part of the measurement. In shared conditions record appearances per hour, whether the figure burned brighter, how long it remained visible, and every intervention made by personnel on each other — the last is the variable and is routinely left out of first drafts.
 
 
 ### Entity Interaction Record
 
-Swallowed Fury must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Swallowed Fury is filed with the Forge District records, several of which come from the same decade of shift orders. The relationships below are what the archive will support. They are not alliances; they are what the floor rules produced, and in proximity each makes the others more likely to appear during a handover.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -319,7 +319,7 @@ Swallowed Fury must be assessed as part of an entity network, not as an isolated
 | **The Angry Maiden** | Resonates with her preserved rage. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **Sealed Rage** | Its heat cracks the Shard without melting it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baseline first, then the shared encounter: appearances before, during and after, the counter at each point, how long activity continued once the other entity withdrew, and the number of interruptions made by personnel. Sessions missing the interruption count are not entered in the series, because the figure they would be compared against is the interruption count.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -360,14 +360,14 @@ Some sorrows weep. Swallowed Fury rages — for the tear ordered away and the fu
 **Observation Notes:**
 - A worker was ordered not to cry; the tear vanished; the anger stayed.
 **Cross-References:** Zone D · The Rage Statue · The Rage Cage
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED, whose Zone D survey covers the Forge approaches, and UCD, who hold the Fray-adjacent reports in which the first appearances were recorded as equipment faults.
 **Originator:** A worker ordered to suppress grief.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Treat this as a record of grief that was stopped rather than of an angry entity. Every figure here follows from something a colleague did with good intentions. The counter is the mechanism and it runs down on interruptions; a quiet shift with weeping in it moves nothing in the wrong direction.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any breach, any Sorrow Tide, and any shift on which a worker was instructed to compose themselves anywhere in the district — the last unconditionally, including instructions given for safety on the forge floor, which remain correct instructions and still move the counter. The review records the instruction; it does not overturn it.
 ## Trivia
 
 - The entity produces no liquid.
@@ -379,9 +379,9 @@ Some sorrows weep. Swallowed Fury rages — for the tear ordered away and the fu
 
 - **Classification detail:** Swallowed Fury is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone D, Forge District.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the mark. Several phantasmal records appear in Zone D; this is the tear-shaped one that burns, leaves a crimson mark and leaves nothing wet.
+- **Record detail:** Check the designation before approach. More than one Grudge record in this facility is made of anger that was not allowed out, and they are handled oppositely — this one is not to be confronted and not to be soothed.
+- **Containment detail:** Sealed does not mean silent. It appears on the forge floor while its chamber is shut whenever somebody out there is told to pull themselves together, and the containment reading is the appearance log rather than the state of the seal.
 ## Document Information
 
 **Document ID:** SE-C-Iα-683

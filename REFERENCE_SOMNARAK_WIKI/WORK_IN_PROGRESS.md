@@ -11,23 +11,22 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Measure | Value |
 |---|---|
 | Dossier body lines | 28126 |
-| Lines shared by 30+ dossiers | 5036 |
-| **Headline** | **17.91%** |
-| Dossiers still at 30+ shared lines | 21 |
-| Dossiers fully cleaned | 66 |
+| Lines shared by 30+ dossiers | 4948 |
+| **Headline** | **17.59%** |
+| Dossiers still at 30+ shared lines | 20 |
+| Dossiers fully cleaned | 67 |
 | Unfinished-text breaks outstanding | 0 |
 
 ## Workstream 1 — De-boilerplate (open)
 
 Whole-file rewriting of the worst-affected dossiers, one file per turn, bespoke per entity. Rules `R-02`, `R-04`, `R-05`, `R-14`, `R-15` all bind here.
 
-**Progress: 66 / 87.** Headline trajectory 34.3% → 17.91%.
+**Progress: 67 / 87.** Headline trajectory 34.3% → 17.59%.
 
 ### Next targets, in order
 
 | Shared lines | Dossier |
 |---|---|
-| 31 | `SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md` |
 | 31 | `SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md` |
 | 31 | `SE-C-IVδ-252_Sorrow_Gate_슬픔의_문.md` |
 | 31 | `SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md` |
@@ -35,6 +34,7 @@ Whole-file rewriting of the worst-affected dossiers, one file per turn, bespoke 
 | 31 | `SE-C-IIβ-210_Laughing_Mask_웃는_가면.md` |
 | 30 | `SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md` |
 | 30 | `SE-N-IVδ-606_Banyan_가라앉은_나무.md` |
+| 30 | `SE-N-IIβ-170_Aphonia_침묵의_비명.md` |
 
 Re-rank after every clean. Files drop into the top band as global counts shift; the queue is never carried over from a previous turn without re-measuring.
 
@@ -44,7 +44,7 @@ Every cleaned file keeps 9–13 lines of genuine cross-reference furniture (`**C
 
 ### Completed cleans
 
-Fallow 50→12, Shard 49→9, Ephemera 48→12, Border Tree 48→11, Tear 48→11, Glass 48→12, Portcullis 47→11, Thralldom 47→12, Aphasia 47→12, Forgotten Tear 47→12, Anonym 47→12, Welcome Haven 47→11, Survivors' Breath 47→10, Quagmire 47→10, Yggdrasil Wound 46→13, Repose 46→11, Grasp 46→10, Uprooted 46→11, Sleeping Tree 46→10, Frozen Mirror 45→11, Heirloom 45→9, Spire 45→10, Memory Chain 45→10, Feu Follet 45→10, Broken Whisper 45→9, Ember Phoenix 44→10, Broken Fragment 44→9, Brume 44→11, Myrmidon 44→9, Broken Ruin 44→11, Errant 43→11, Atlas 43→11, Animus 43→10, Conservatory 43→9, Home to No One 43→9, Broken Door 42→10, Tower Erased Overnight 42→9, Relic Waiting for Its Maker 42→9, Exiles' Wall 41→10, Protest No One Remembers 41→10, Pent 41→9, The Silent Child 39→11, Broken Tear 39→10, Relic of a Thousand Owners 38→9, The Wrath Flame 38→10, Soaking Rope 38→11, Sleeping Shard 38→9, Forgotten Silence 38→9, Spreading Root 37→9, Dormant Monolith 37→9, Scar Walker 36→10, Homecoming Tree 36→1, Cenotaph 35→0, Dismissed Cry 35→0, Well of Unfinished Words 34→0, Bridge to Nowhere 33→0, Perennial 33→0, The Vanished Rope 33→1, Candela 33→1, Gavel 33→1, Mourning a Life I Never Lived 32→1, Torpor 32→1, Friendless Bridge 32→0, Risus 32→1, Labyrinth of Stolen Faces 32→1, Mirror of Soaking 31→0.
+Fallow 50→12, Shard 49→9, Ephemera 48→12, Border Tree 48→11, Tear 48→11, Glass 48→12, Portcullis 47→11, Thralldom 47→12, Aphasia 47→12, Forgotten Tear 47→12, Anonym 47→12, Welcome Haven 47→11, Survivors' Breath 47→10, Quagmire 47→10, Yggdrasil Wound 46→13, Repose 46→11, Grasp 46→10, Uprooted 46→11, Sleeping Tree 46→10, Frozen Mirror 45→11, Heirloom 45→9, Spire 45→10, Memory Chain 45→10, Feu Follet 45→10, Broken Whisper 45→9, Ember Phoenix 44→10, Broken Fragment 44→9, Brume 44→11, Myrmidon 44→9, Broken Ruin 44→11, Errant 43→11, Atlas 43→11, Animus 43→10, Conservatory 43→9, Home to No One 43→9, Broken Door 42→10, Tower Erased Overnight 42→9, Relic Waiting for Its Maker 42→9, Exiles' Wall 41→10, Protest No One Remembers 41→10, Pent 41→9, The Silent Child 39→11, Broken Tear 39→10, Relic of a Thousand Owners 38→9, The Wrath Flame 38→10, Soaking Rope 38→11, Sleeping Shard 38→9, Forgotten Silence 38→9, Spreading Root 37→9, Dormant Monolith 37→9, Scar Walker 36→10, Homecoming Tree 36→1, Cenotaph 35→0, Dismissed Cry 35→0, Well of Unfinished Words 34→0, Bridge to Nowhere 33→0, Perennial 33→0, The Vanished Rope 33→1, Candela 33→1, Gavel 33→1, Mourning a Life I Never Lived 32→1, Torpor 32→1, Friendless Bridge 32→0, Risus 32→1, Labyrinth of Stolen Faces 32→1, Mirror of Soaking 31→0, Swallowed Fury 31→1.
 
 ## Workstream 2 — Unfinished text (closed on both scans)
 
