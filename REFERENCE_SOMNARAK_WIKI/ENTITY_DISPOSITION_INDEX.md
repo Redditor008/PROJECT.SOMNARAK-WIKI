@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **133** |
-| Pending — no disposition-bearing line found by scan | 170 |
+| **Classified here, with a quoted line of evidence** | **134** |
+| Pending — no disposition-bearing line found by scan | 169 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 133 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 134 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 170 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 169 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -137,6 +137,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Soaking Shadow | `SE-N-IIIγ-308` | Neutral | It *"takes the hostility and keeps it"* and returns nothing except a single-recipient discharge onto F01 operatives twice on record — harmful but not aid to anything. Reverberant feeds it and gains nothing; The Angry Maiden's presence shrinks its outline. No suppression of other entities, no benefit to F01. |
 | Aegis | `SE-C-IVδ-200` | Neutral | A δ guardian that *"has never obstructed a single person leaving"* and strikes only inbound movement, including F01 personnel re-entering by the wrong route. It aids no entity — five pairings with The Forgotten Soldier produced *"the wing's clearest null result"* — and suppresses none. |
 | The Silent Maiden | `SE-C-IVβ-043` | Neutral | Her breach erases names and faces from F01 responders, but she pursues no one — *"she cannot be struck, moved, provoked or hurt"* and reaches only toward those who acknowledge her. She aids no entity: The Smothering Mother's approach is the one she has never answered, and her pairing with The Grieving Maiden eases both without transferring anything. |
+| Harvest Beyond the Gate | `SE-N-IIβ-627` | Neutral | A Place that *"has never injured anybody"*, cannot breach and cannot be entered; it draws exiles and gives them nothing, since every fruit is lost at contact. Paired with The Returning Fruit and The Forgotten Shadow it produced no change in either holding, so it neither suppresses nor assists. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
