@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A translucent figure, half-light and half-flesh, that weeps as it walks without pause — its face changing whenever someone tries to remember it. Salt-damp and faintly warm, it smells of cold rain; a soul no one can keep in mind. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Continuous — walks without pause and has never been recorded at rest. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -86,7 +86,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Forgotten Soul's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The work is walking with it. Flerehan is keeping pace and lowers the reading; Ferrehan is staying alongside past the end of the shift; Pugnahan is obstruction and raises it, and it has never struck anyone who did not first stand in its way. No worker may offer a name, including a borrowed one, including in kindness.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not invent a name; remain present and record what is known**.
 
 ### Consequences
@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A translucent figure that weeps while walking continuously. Its face changes whenever someone tries to remember it.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Never at rest. Record the route as a track rather than a position, and record the metres walked between the start and end of the watch — that figure is the reading, and it runs from about nine hundred metres on a quiet cycle to over four thousand.
 - **Element signature:** Lament
 - **Registered location:** Zone B, Old Lament
 
@@ -118,16 +118,16 @@
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Identification** | Verify the gait and track against the SECC code before work or contact begins; a Fragment and a Sovereign can look similar in poor lighting, and the face is not usable for this purpose. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Do not attempt a facial description; the features reorganise during the attempt and the forty-one descriptions on file agree on nothing. Record gait, pace, height, the list to the left, and the brightness, which rises when somebody admits aloud that they do not know who this was. Photograph the track, not the face.
 
 ## Origin
 - **Formation:** The Soul formed from a person forgotten before their death was fully mourned.
 - **The Sorrow:** The grief of having one's existence erased while the body and memory continue searching.
 - **The Event:** A citizen disappeared from every record and every relationship, leaving only an unclaimed sorrow in the Old Lament.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **The People:** One citizen of Old Lament, unnamed and unnameable. The commissioning file holds every enquiry made about them at the time: a landlord's note, an unpaid account, a query from a trade society. Not one was made by someone who knew them, and the archive has concluded that the originating person cannot be identified and has recorded that conclusion rather than a blank.
+- **Expanded origin context:** The district tells this one as a story about a Collector who took too much, which the commissioning file does not support and the archive retains only as evidence of how the gap gets filled. What the file holds is an absence: a tenancy that ended without notice, an account left unpaid, a trade society writing to an address where nobody answered. No relative, no colleague, no friend appears anywhere in it. The archive's position is that the story was invented because three documents felt insufficient, and that inventing it is the same act the containment forbids.
 
 ## Behavior
 
@@ -144,25 +144,25 @@
 
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Forgotten Soul is recorded as a Subject with Subject-Lament manifestation and Lament elemental expression. The current record places it at Zone B, Old Lament; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** A falling reading means somebody walked with it and nobody supplied it with anything. Stability under Viderehan is correct. The reading rises on obstruction, on any name offered to it, and on the week's returns wherever an unidentified person was absorbed into a total instead of being counted on their own.
 ## Breach Behavior
 
-> *"Forgotten Soul has broken free. Hunts personnel indiscriminately."*
+> *"It is not loose. It is simply further along the corridor than the boundary is."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | Forgotten Soul pulses with concentrated force, cracking the walls around it. It hunts personnel indiscriminately. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Movement** | It walks, at the same unhurried pace it keeps inside containment, and passes through the boundary without damaging it. It has never pursued anybody and has never changed direction to meet a person. |
+| **Effect** | Along the route, written names fade from paper for as long as the figure is within about ten metres; the ink returns within the hour, and twice it has not. |
+| **Secondary Effect** | Personnel on the route briefly cannot recall the name of one colleague each, always a different one, always recovered. |
+| **First Target** | Nobody. The route runs to the registry hall in every recorded event, and the figure has twice been found standing at the index drawers, which is the only time it has been observed not walking. |
+| **Escalation** | Pace increases by a fifth each turn that nobody walks with it, and returns to baseline the turn somebody does. Obstruction is the single recorded cause of injury. |
 
 ### Escalation Notes
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Do not block the route and do not seal ahead of it; every injury on record followed an obstruction, and the entity's approach table lists confrontation as an increase. Walk with it, keep the registry hall staffed, and leave the index drawers open.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each unidentified person folded into a total anywhere in the facility's returns that week — counted as "and others", merged into a round figure, or left off because there was no name to put. It falls 10% for each such person given a numbered line of their own, and that is the whole of the arithmetic.
 
 ## M.A.W. Equipment
 
@@ -182,9 +182,9 @@ The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Opera
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Forgotten Soul's lament signature in the strike.
+**Ability:** Lament damage to the mind. What it opens in a target is the recollection of every person they have ever counted without naming, which for most Wardens is a longer list than they expect.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder weeps involuntarily, and stops being able to read a casualty total without working out who is inside the round number.
 
 ### M.A.W. Suit — The Soul Shroud
 
@@ -200,9 +200,9 @@ The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Opera
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Forgotten Soul's kind of pressure.
+**Ability:** Turns Lament aside from the mind. The suit is what lets a Warden walk the full track beside the figure without reaching for something to call it.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to minor joys, and begins to find their own name sounding arbitrary when spoken.
 
 ### M.A.W. Stigma — The Soul Thread
 
@@ -212,13 +212,13 @@ The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Opera
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to work against the Forgotten Soul itself, and nothing elsewhere in Old Lament.
 
 **Ability:** Keeps a fading identity connected to the living.
 
 **Cost:** The wearer hears the forgotten person's grief during sleep.
 
-*Stigmas are granted at random by Forgotten Soul upon a successful work, not manufactured.*
+*The stigma is not manufactured. It is given to a Warden who walked the track without naming the figure, and has never been given to one who used a working label for it in the log.*
 
 ### M.A.W. Use Notes
 
@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Forgotten Soul's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Record the metres walked, the track overlaid on the cycle sheet, the brightness at each recognition, and the registry returns for that week, which are the variable. Record the condition that ends the encounter, which is always the Warden's shift and never the figure's. Appearance is diagnosis, not prediction.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -264,17 +264,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Forgotten Soul (O-IIIγ-233 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Soul formed from a person forgotten before their death was fully mourned. Held at Zone B, Old Lament. The face changes when a false name is offered.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Walks endlessly through Old Lament corridors. Personnel feel grief for a person they cannot identify. It becomes calmer when uncertainty is honestly acknowledged.
+**Entry 2 — <Registry Return: Two Hundred and Six, Ninety-Four Named>**
+Unidentified persons appearing in facility returns for 4238: two hundred and six. Entered on a numbered line of their own: ninety-four. Absorbed into a total, recorded as "and others", or omitted because no name could be attached: one hundred and twelve. Track length averaged nine hundred and forty metres per watch in the four weeks with the fewest absorptions and three thousand eight hundred in the four with the most. The correlation has been put to the registry three times. The registry's reply, reproduced here in full, is that a numbered line for a person with no name is an empty line.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of having one's existence erased while the body and memory continue searching.
+**Entry 3 — <Statement of the Warden Who Walked the Double>**
+"I walked the whole of a double with it and I kept wanting to call it something. Not a real name — just something to put in the log so the log would read properly. Friend, or the walker, or the gentleman. I wrote down the pace and the turns instead and by the fourth hour I understood that the urge was not kindness, it was tidiness. It brightened once, when I said out loud that I did not know who it had been and that nobody did. That was the whole of what I was able to give it and the gauge moved further on that than on anything else I did."
 
 **Entry 4 — <Containment Notice>**
 Management: Do not invent a name; remain present and record what is known. Work response — Flerehan: Slows and reaches toward the worker. (Decrease); Pugnahan: Walks faster and weeps more intensely. (Increase); Viderehan: Shows fragments of an identity no record preserves. (Stable); Ferrehan: Tests whether the worker will keep walking beside it. (Decrease). It has never attacked without being obstructed.
 
-**Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+**Entry 5 — <Archive Note: The Published Count>**
+The facility's returns now carry a separate published figure for persons who could not be identified, broken out from every total rather than folded into one, with a numbered line held for each. The registry opposed this and its objection is recorded: the lines are empty, they cannot be audited, and publishing the count tells the districts exactly how many people this Company handles and cannot name. All three points are correct. The count is published quarterly regardless, and the figure for 4238 was two hundred and six. The archive adds only that the three documents in the commissioning file total eleven lines, that eleven lines is the entire surviving trace of a person who walked and breathed, and that the containment condition follows from that and not from sentiment.
 
 ## 최종 관찰 (Final Observation)
 
@@ -303,12 +303,12 @@ A figure walks through the Old Lament, crying softly. You try to remember its fa
 
 Forgotten Soul does not exist in isolation. Its recorded relationships with The Forgotten Name, The Whispering Gallery, The Orphaned Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish it alone first, with the week's unidentified-person counts collected alongside. In shared conditions log the track length, the brightness, and whether the other record returned anything of the identity — the Gallery holds fragments of a life and has never yet matched one to this figure, which is itself recorded as a result and not as a failure.
 
 
 ### Entity Interaction Record
 
-Forgotten Soul must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+It is filed with the Old Lament records of the unaccounted. The relationships below are what the archive will support. They are not alliances; all three concern an identity that no longer has anybody to hold it, and in proximity the track lengthens rather than shortens.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -359,7 +359,7 @@ Some sorrows mourn the dead. Forgotten Soul mourns the living-erased — the cit
 - See M.A.W. Equipment section for extraction risk.
 **Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** Unidentifiable, and recorded as such. The three enquiries in the commissioning file are reproduced in full in the Origin section; the archive has declined to assign a working designation to the person behind them.
 
 ### Registry Addendum
 
@@ -395,8 +395,8 @@ A citizen vanished from every record and every relationship, leaving an unclaime
 
 - **Classification detail:** Forgotten Soul is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone B, Old Lament.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it by the walk, never by the face. The features reorganise under any attempt to recall them, but the gait, the pace and the slight list to the left have been consistent in every record, and no Warden has ever mistaken the figure for anything else.
+- **Record detail:** Check the designation before approach. The archive holds several records of things nobody claimed, and they differ on what is owed — the Apocrypha requires that the meaning of an object be written down, while this one forbids supplying anything at all and asks only that the person be counted separately.
 - **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
