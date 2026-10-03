@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A vast library of true wood shelves and paper books, perpetually wrapped in fire that illuminates the pages without ever consuming them — the flames alive, flickering crimson, heating without burning. Fever-hot, it smells of char and old paper; the books turn themselves. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement** | Fixed — a place; it does not move, and the fire expands rather than travelling. |
 | **Location** | SECTOR-B-02, Zone B — contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · δ (Critical) |
+| **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan and Ferrehan, one observer, one written question of their own. Any approach that resembles an inventory closes the stacks for the session. |
 
 ### Operational Notes
 
-- The Pyre burns without fuel and consumes nothing placed into it, including material that would burn anywhere else in the facility.
-- Work banks the burn for a shift. The Pyre is not diminished, and nothing committed to it has ever been recovered or destroyed.
-- Viderehan and Ferrehan are the valid approaches to the site.
-- No breach counter applies. The heat field expands through Zone B, and its boundary is instrumented because it cannot be judged by skin.
-- Residue recovery is a separate authorization.
+- It burns without fuel and consumes nothing, including material that burns readily everywhere else in the facility; this has been tested with the record office present.
+- A good session banks the burn for a shift and takes nothing away. Nothing placed in the fire has ever been recovered, and nothing has ever been destroyed in it either.
+- Viderehan and Ferrehan, worked by one observer at a time, each carrying a question they wrote themselves.
+- No breach counter. The heat field expands through Zone B on hostile intent, and its boundary is instrumented because the skin reads it wrongly in both directions.
+- Transcription and deposit are a separate authorisation, run by clerks on the same rotation cap as the readers.
 
 ## Combat Record
 ### Core Stat Line
@@ -66,7 +66,7 @@
 |---|---|
 | **Battle Length** | Long — 24 turns |
 | **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) — Self-aware, protective of knowledge |
+| **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Pyre of Truths's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is no exchange to win. The observer enters with one written question, reads what the flames permit, and comes out; the session's measure is pages permitted, and a team that arrives with a list reads nothing at all.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Approach with curiosity rather than possession or destruction**.
 
 ### Consequences
@@ -98,7 +98,7 @@
 - If the resolution condition is not fulfilled, Pyre of Truths reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
-**Physical Form:** A vast library perpetually surrounded by fire. The flames illuminate books without consuming them.
+**Physical Form:** A library of true wood and paper standing inside a continuous fire that lights the pages and consumes nothing. **Thermal:** the survey reads a large fire transferring no heat to anything it touches.
 
 **Notable Features:**
 - Contains censored histories and records absent from the Archive.
@@ -110,7 +110,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A vast library perpetually surrounded by fire. The flames illuminate books without consuming them.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed. The stacks have never altered their plan; what changes between sessions is which shelves the fire will let anybody reach.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-02, Zone B — contained
 
@@ -118,20 +118,20 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A vast library perpetually surrounded by fire. The flames illuminate books without consuming them. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Form** | Stacks in open flame, the books turning themselves, nothing charred anywhere in the chamber. |
+| **Position / movement** | Fixed; the plan of the stacks is unchanged since classification, and only the accessible shelves vary. |
+| **Material / signature** | Grudge. Crimson flame that illuminates rather than burns, char and old paper on the air, fever-heat on the face and none on the hand. |
 | **Distinctive markers** | Contains censored histories and records absent from the Archive. Flames respond to the visitor's intent. Books can be read only while the fire permits it. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | A fire that has been burning for decades with nothing burnt. No other holding in Zone B looks remotely like it. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Photograph the shelf faces open at the start of the session and again at its end, and record which bays the fire admitted and which it closed. Measure the heat at the instrumented boundary rather than reporting how it felt; on this holding the face and the hand disagree and both are wrong. Note the flame colour at the stack faces, the rate at which the books turn, and the exact wording of the question that was carried in.
 
 ## Origin
-- **Formation:** The Library formed from knowledge that was censored, forbidden, or erased.
-- **The Sorrow:** The grief of truths suppressed and stories denied the right to exist.
-- **The Event:** Keepers and authorities removed records from public history. The unspoken knowledge gathered in one structure and ignited.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **Formation:** From records removed from public history, gathered in one structure and lit.
+- **The Sorrow:** Not suppression. Knowledge that is complete, accurate, readable and permanently unusable, because nothing in these stacks can say where it came from.
+- **The Event:** Decades of removals under Council direction. The removed material did not disperse; it accumulated, in one place, and caught.
+- **The People:** Keepers and Council officers who removed records from public history, several of whom are themselves documented in the stacks, and 2,600 named persons whose histories sit in deposits that no office may cite.
+- **Expanded origin context:** Everything in these stacks is true and none of it may be used, and the rule that produces that is the rule which keeps the Archive worth reading. A historical record is admitted to the public Archive only with a documented provenance — where it was made, who held it, how it arrived — because an archive that accepts unprovenanced material is an archive a forger can write. The Year 4120 charter is the proof: one undocumented founding instrument, admitted on its apparent age, and 400 derived works withdrawn over the following decade. The books here have no provenance of any kind. They are not acquisitions; they appear. So a worker may read a page, be certain of it, be changed by it, and may not enter a word of it anywhere that would oblige anybody to act. Nine thousand four hundred transcripts have been deposited under seal. None has been admitted.
 
 ## Behavior
 
@@ -141,12 +141,12 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** (Observation) | Fire illuminates the book containing needed knowledge. | Stable |
-| **Ferrehan** (Endurance) | Tests the worker by forcing them through fire. | Decrease |
+| **Viderehan** (Observation) | The fire lights the book that answers the question that was actually asked, which is not always the question the observer thought they were asking. | Stable |
+| **Ferrehan** (Endurance) | The worker holds position in the stacks and reads what is permitted; the strain is exposure to the material, not the heat. | Decrease |
 ### Special Behaviors
-- Flames do not destroy books; they make hidden words visible.
-- Hostile intent produces scorching heat.
-- The Library may illuminate a truth the reader did not seek.
+- The flames light the pages. Nothing in the chamber has ever been charred, including paper held directly in them.
+- Arriving to take, catalogue or destroy raises the heat and closes the shelves within seconds.
+- It sometimes answers a question adjacent to the one written down, and the adjacent answers are the ones the counsellors see most of.
 
 
 
@@ -159,10 +159,10 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 | Field | Detail |
 |---|---|
-| **Expansion Trigger** | Hostile intent or attempted destruction of knowledge. |
-| **Expansion Rate** | Flames fill rooms and corridors rapidly. |
-| **Expansion Effect** | Personnel feel the weight of forbidden knowledge while oxygen falls. |
-| **Containment** | Approach with curiosity rather than possession or destruction. |
+| **Expansion Trigger** | Hostile intent, an attempt to remove material, or any approach that reads as inventory. |
+| **Expansion Rate** | Fast — corridors fill within minutes, and the instrumented boundary is the only reliable account of where the edge is. |
+| **Expansion Effect** | Oxygen falls inside the spread while the flame itself still burns nothing, which is the hazard personnel most consistently misjudge. |
+| **Containment** | Curiosity, in writing, one question at a time. There is no other instrument that has worked here. |
 
 
 
@@ -177,14 +177,14 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic breach
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Hostile intent or attempted destruction of knowledge. |
-| **Manifestation** | Place-Grudge|
-| **Primary effect** | Personnel feel the weight of forbidden knowledge while oxygen falls. |
-| **Duration / rate** | Flames fill rooms and corridors rapidly. |
+| **Trigger** | An approach that intends to possess, destroy or enumerate the collection. |
+| **Manifestation** | Place-Grudge |
+| **Primary effect** | Falling oxygen inside the spread, and the specific weight of knowing something nobody will be permitted to act on. |
+| **Duration / rate** | Minutes to fill a corridor; hours to recede, and only after the intent that triggered it has left the sector. |
 | **Risk** | This Critical (δ) Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Approach with curiosity rather than possession or destruction. |
+| **Management** | One written question, the observer's own, never reused, filed with what was read. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** the question as written → pages permitted → shelves opened and shelves closed → heat at the instrumented boundary → effect on personnel → the transcript's deposit number. Viderehan and Ferrehan only; there is nobody here to weep with and nothing that answers a confrontation.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -242,7 +242,7 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic breach
 
 **Cost:** Burns after reading; the reader carries the knowledge permanently.
 
-*Stigmas are granted at random by Pyre of Truths upon a successful work, not manufactured.*
+*The Burning Page is not issued and cannot be asked for. It is found by observers whose written question was their own, and in eleven years never once by an observer carrying a question somebody else set them.*
 
 ### M.A.W. Use Notes
 
@@ -260,16 +260,16 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced
+**R.D. Comprehension Level:** 3 — Advanced. The level reflects the depth of the reading record rather than any mastery of the entity; the wing understands the terms the fire imposes and has never understood the fire.
 
 **Key Observations:**
-- The Library contains pre-Consolihan records not found elsewhere.
-- Flame temperature changes according to intent rather than physics.
-- Readers of the Burning Page report knowledge they cannot un-know.
-- The Library protects books as if each were a living witness.
+- It holds pre-Consolihan material that exists nowhere else, and none of it can be dated by any method the Archive accepts.
+- Temperature follows intent: own question, 44 per cent of shelves open; set question, 12 per cent.
+- Readers keep what they read, exactly, and may use none of it outside the sealed transcription process.
+- It defends the collection the way a witness is defended, and the defensive expansion has never once injured the person who triggered it.
 
 **Personnel Note:**
-> *"I read one page about the Cheongula. I cannot repeat what it said. I cannot forget it. The knowledge burns even when the page is gone."* — Researcher Euncris Park, Zone B
+> *"I read a page about the Cheongula and I could repeat it to you now, word for word, and it would not be evidence of anything. That is the part nobody warns you about. Not the knowing. The uselessness of the knowing."* — Researcher Euncris Park, Zone B
 
 
 
@@ -278,31 +278,31 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Pyre of Truths as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B — contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Special Behaviors - Flames do not. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Pages permitted per session against the question asked, shelves opened and closed, and the heat at the instrumented boundary. The three together are the only description of this holding that has ever predicted anything. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Pyre of Truths's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** The written question, filed before entry and never reused. Pages permitted, shelves opened and closed, heat at the instrumented boundary, and the transcript's deposit number. The pages figure is the session's result and the question is the variable that produced it.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Pyre of Truths (C-IVδ-092 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Library formed from knowledge that was censored, forbidden, or erased. Held at SECTOR-B-02, Zone B — contained. The Library contains pre-Consolihan records not found elsewhere.
+Pyre of Truths (C-IVδ-092 [GP]) is logged as a Place-Grudge manifestation expressing Grudge, held in SECTOR-B-02 of Zone B. It burns continuously and destroys nothing, including the books. What it holds are records absent from the Archive, and what it will not do is let anybody read them to order.
 
-**Entry 2 — <Excerpt from Field Log, Year 4204>**
-Flame temperature changes according to intent rather than physics.
+**Entry 2 — <Excerpt from Reading Returns, SECTOR-B-02>**
+Pages permitted per session, averaged over the year: 31, then 24, now 17. Heat tracks intent rather than physics and the sessions bear it out — observers carrying their own question average 44 per cent of shelves opened, observers carrying an operational question 12 per cent. The decline follows the deposit backlog: 9,400 transcripts sealed, none admitted, and the wing's own people have stopped expecting their questions to lead anywhere.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of truths suppressed and stories denied the right to exist.
+**Entry 3 — <Excerpt from Counseling Log, Transcription Staff>**
+The clerks carry it the same way the readers do, which nobody predicted. They type what cannot be cited, seal it, and shelve it with the other nine thousand. One of them described the work as being the last person who will ever know something, over and over, on a schedule.
 
 **Entry 4 — <Containment Notice>**
-Readers of the Burning Page report knowledge they cannot un-know.
+Management: one written question per observer, their own, never reused, filed with whatever they were able to read. Do not carry a reading list, do not catalogue, do not inventory — the fire opens to curiosity and closes to administration, and that has been tested in every direction the wing can design a test for. Work response — Viderehan: the fire lights the book that answers the question asked. (Stable); Ferrehan: the worker holds position in the stacks and reads whatever is permitted. (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The provenance rule is right and I am tired of being asked to say otherwise. Admit one unprovenanced document and you have admitted the next forgery with it; the 4120 charter cost the Archive four hundred works and a generation of trust. Our deposits have no provenance, cannot acquire one, and will never be admitted. What I will not accept is the word *useless* in a review of this holding. Two thousand six hundred people are named in those deposits. The facility cannot help any of them. It can know, accurately, what was done, and keep knowing it, and refuse to let the knowledge be tidied away as unreliable. That is a smaller thing than justice and it is not nothing.
 
-**Threat rating:** Low. The Library burns perpetually with forbidden truth. Effect: viewers see censored records in the flames.
+**Threat rating:** Critical (δ). Nobody has been burned here; the fire transfers no heat to what it touches. The grade is the expansion: hostile intent fills Zone B corridors with flame and drops the oxygen, and the boundary is instrumented because skin cannot judge it.
 
 ## 최종 관찰 (Final Observation)
 
@@ -319,7 +319,7 @@ The heat arrives as an idea before it touches your skin. Every shelf is on fire,
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A vast library perpetually surrounded by fire. The flames illuminate books without consuming them. Notable Features: - Contains censored histories and records absent from the Archive. - Flames respond to the visitor's intent. - Books can. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Place-Grudge form.
+**At first contact:** Heat that is not heat — the thermal survey agrees with your face and not with your hands — and shelves of true wood standing inside a fire that is doing nothing to them. The books turn themselves. Then the fire decides about you, which takes a few seconds and has nothing to do with what you say out loud.
 
 **With continued exposure:** Time in the containment zone moves differently. The Grudge pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Grudge is teaching you its sorrow.
 
@@ -329,24 +329,24 @@ The heat arrives as an idea before it touches your skin. Every shelf is on fire,
 
 ### Interaction Pattern
 
-Pyre of Truths does not exist in isolation. Its recorded relationships with The Memory Weaver, The Cartographer's Ghost, The Final Door, Sornos, The Maw should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The relationships below are subjects rather than neighbours: nothing here is brought into the chamber, and what is recorded is what the stacks will and will not open on a given topic. One of the five is prohibited by the wing's own order, and the order is against the facility rather than against the entity.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Nothing is brought into this chamber, so there is no joint session to run. The unit of comparison is the subject: a question is written on a topic, the pages permitted are counted, and the figure is compared against that reader's own sequence rather than against anybody else's. Log the bays opened, the seconds to closure where a closure occurs, the deposit number of the resulting transcript, and any refusal the wing imposes on transferring what was read.
 
 
 ### Entity Interaction Record
 
-Pyre of Truths must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Each row records a line of questioning and what it cost. Pages permitted is the only comparable figure across them, and it is comparable only within a single reader's own sequence, since the variable is whose question it was.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Weaver** | Trades memories for books—knowledge for identity. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Cartographer's Ghost** | Holds the Ghost's lost maps. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Final Door** | Contains books about the Door, but they burn too quickly to read. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Sornos** | Preserves the God's forgotten scripture. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Maw** | Contains the true history of the Cheongula. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Memory Weaver** | Trades memories for books — knowledge for identity. | Prohibited. The Weaver offers a provenance the deposits could never otherwise acquire, and a provenance obtained from an entity is the exact forgery the rule was written against. The prohibition is the wing's, not the Office's. | The prohibition and its reasoning, restated at every annual review. |
+| **The Cartographer's Ghost** | Holds the Ghost's lost maps. | The stacks opened to a Ghost-related question in one session and 61 pages were permitted, the highest figure on record. The maps were transcribed, sealed, and may not be shown to the Ghost's own file. | Pages permitted, deposit numbers, and the refusal to transfer, logged together. |
+| **The Final Door** | Contains books about the Door, which close faster than they can be read. | Four attempts, four closures within seconds. This is the only subject on which the collection has ever defended itself against a reader rather than against an intention. | Seconds to closure, the question as written, and the reader's account. |
+| **Sornos** | Preserves the God's forgotten scripture. | Held and readable, and the transcripts are deposited like everything else. The record office's two archivists attend these readings in person and have never asked for a line to be omitted. | Attendance, deposit numbers, and any omission requested — none to date. |
+| **The Maw** | Contains the true history of the Cheongula. | Readable. Unusable. The pages on this subject are the most frequently requested in the holding and the resulting deposits are the largest single block of the 9,400, none of which any office may cite. | Deposit numbers, reader rotation, and the counsellors' note, which is kept with them. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** One reader, one written question, one session. File the question with the pages, the bays, and the deposit number, and record any onward disclosure that was requested and refused. A sequence of five sessions by the same reader is interpretable; a single session by five readers is not.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -373,24 +373,24 @@ Some sorrows are about loss. Pyre of Truths is about suppression — the truths 
 
 > *“The truths were terrible. They were suppressed for a reason. The reason was not mercy.”* — Archive Lead
 
-> *“A perpetual fire made of everything Somnarak tried to make its citizens forget.”* — Elder, Zone A
+> *“A perpetual fire made of everything Somnarak tried to make its citizens forget.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-IVδ-092 [GP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Place-Grudge manifestation
 **Common Name:** Pyre of Truths
-**Containment Status:** Contained — Zone A
+**Containment Status:** Contained — SECTOR-B-02, Zone B; heat boundary instrumented, deposits sealed with the municipal record office
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Library burns perpetually with forbidden truth. Effect: viewers see censored records in the flames.
+**Threat Assessment:** Critical (δ). No injuries and no destruction in the record — the fire consumes nothing. The grade is the defensive expansion, which fills corridors and takes the air out of them, and the fact that the holding decides what may be learned from it.
 **Containment & Handling Procedures:**
-- Pugnahan is the primary Work Type.
-- The fire does not spread; it is contained.
-- The Library offers truth; the truth is terrible.
+- Viderehan and Ferrehan only. Pugnahan is not available here and never was; the Object/Place rule applies and an earlier edition of this file said otherwise in error.
+- The fire does not spread of itself. It spreads when somebody arrives intending to take or destroy, and the boundary is read from instruments rather than from the skin.
+- One written question per observer, their own, never reused, filed afterwards with what was read.
 **Observation Notes:**
-- Formed from suppressed knowledge that ignited.
-- The fire is revelation, not destruction.
-**Cross-References:** Zone A · The Keepers · The Council · The Memory Lock
+- Pages permitted per session: 31 → 24 → 17. Own question 44 per cent of shelves, set question 12 per cent.
+- Transcripts deposited under seal: 9,400. Admitted to the public Archive: none. Named persons in the deposits: 2,600.
+**Cross-References:** The provenance rule and the Year 4120 charter withdrawal · the standing deposit instrument with the municipal record office · the question log, filed in sequence since classification · the Year 4230 qualified-admission application
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
-**Originator:** The Keepers, under Council direction; censored records.
+**Originator:** Keepers and Council officers who removed records from public history, and the records themselves, which arrived here with no provenance and will never acquire one.
 
 ### Registry Addendum
 
@@ -423,10 +423,42 @@ Its origin lies with keepers and authorities who removed records from public his
 
 Written questions are filed with whatever the Pyre permitted their asker to read, and the paired file has become the holding's most unexpected resource. Read in sequence it shows what the wing's people have wanted to know across decades: early questions narrow and administrative, later ones broader, a long middle period dominated by a single line of inquiry that three successive commanders pursued and none resolved. Observers are encouraged to read the back-file before composing their own question and are not permitted to reuse one. The restriction forces genuine curiosity, which is the only currency the flames accept, and it has the side effect of ensuring that nobody arrives at the stacks asking something they have been told to ask. The office finds this inefficient. The flames have not relaxed their terms.
 
+### What the Page Count Is Measuring
+
+Thirty-one pages a session, then twenty-four, now seventeen, averaged across the year's readings. The collection has not shrunk and no shelf has been lost. The fire is permitting less.
+
+It is not permitting less to everybody. Observers carrying a question of their own get 44 per cent of the shelves they approach; observers carrying a question somebody set them get 12 per cent. The decline in the average is a decline in the first group — fewer of the wing's people arrive curious, and the file is explicit about why.
+
+**Nine thousand four hundred transcripts have been deposited under seal since classification. None has been admitted to the public Archive.** A reader learns something true, writes it down, watches it sealed, and knows before the ink dries that it will change nothing. Curiosity does not survive many repetitions of that, and the fire can tell the difference between a question and a procedure. The page count is a measurement of the facility's own hope, taken by something that cannot be lied to.
+
+### Nothing With a Provenance
+
+The provenance rule is not bureaucratic caution and the file sets out its case at the front rather than in a footnote.
+
+A record enters the public Archive only with a documented chain: where it was made, who held it, how it came here. The reason is that an archive which accepts unprovenanced material is an archive that a sufficiently patient forger can author. The Year 4120 founding charter was admitted on the strength of its apparent age and its obvious importance; it was a fabrication; 400 derived works were withdrawn over the following decade, and two of the withdrawn works had themselves been cited in legislation.
+
+The books in these stacks have no provenance and cannot acquire one. They were not acquired, deposited, donated or seized. They appear. The wing has asked the question properly, twice, and both reports conclude the same way: there is no custody chain to document, because there was no custody.
+
+So the deposits sit sealed, 9,400 of them, naming 2,600 people. A worker may read the circumstances of a disappearance, be certain of them, and file nothing that any office is obliged to act on. The sealing is not secrecy — the instrument with the municipal record office exists precisely so the material cannot be quietly destroyed, and three requests to vary it have been declined by the office rather than by the wing. The seal is an honesty measure. It says: this is true, we cannot prove where it came from, and we will not pretend otherwise.
+
+In Year 4230 the record office's own archivists applied for a qualified-admission category: admitted, flagged unprovenanced, visible to researchers, not citable as proof. The wing supported the application. The Office refused and the refusal is correct — a flag is read as a hedge rather than a bar, provisional categories migrate into ordinary use within a decade, and the 4120 charter entered through precisely such a category on the sheet before the one everybody remembers. The application is in the Year 4231 return, marked *correct in principle, no action*. Both archivists still attend the annual reading.
+
+### The Question Nobody Can Use
+
+The management line reads *approach with curiosity rather than possession or destruction*, and for years nobody could say how a facility was supposed to schedule curiosity.
+
+What the wing does now is this. Each observer writes one question, in their own hand, before entry. It must be theirs. It may not be reused, by them or by anybody else, and the back-file of previous questions is available precisely so that nobody repeats one. Operational questions are permitted and are logged as operational, which is how the 12 per cent figure exists.
+
+And the practice that produced the 44 per cent is not operational at all: workers are encouraged to ask the thing they actually want to know. What became of a district their family came from. Who ordered a removal that touched someone they are related to. Why a street changed its name. These questions have no containment value, cannot be acted on, and open the stacks wider than anything else the wing has tried.
+
+The cost is carried in the same hand that collects the benefit. The clerks who transcribe know first and are bound hardest; the counsellors put them on the readers' rotation cap after they began showing the readers' pattern, and one of them described the post as being the last person who will ever know something, repeatedly, on a schedule.
+
+The question log is kept in sequence and read by every new observer. Early entries are narrow and administrative. A long middle period is dominated by one line of inquiry that three successive commanders pursued and none resolved — the questions get shorter each time it is taken up. The recent pages are mostly personal, and the current commander has written in the margin of the register, in a hand that is not meant for the file, that this is the healthiest the log has looked in thirty years.
+
 ## Trivia
 
-- Nothing in the Library burns except pages after their truth has been read.
-- Its oldest records predate the city's official founding.
+- Nothing in the Library burns at all. The phrasing in earlier editions implied otherwise and was wrong; the chamber has never produced ash.
+- Its oldest material predates the official founding, which is precisely the claim the provenance rule exists to stop anyone from making in print.
 
 
 
@@ -434,9 +466,9 @@ Written questions are filed with whatever the Pyre permitted their asker to read
 
 - **Classification detail:** Pyre of Truths is an Object/Place with Entity (IV) — Self-aware, protective of knowledge coherence and Critical (δ) — Facility-threatening potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-02, Zone B — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** A standing fire with nothing burnt in it, books turning themselves, and heat that your face and your hand disagree about.
+- **Record detail:** Several holdings in this archive concern records that were destroyed, lost, sealed or forbidden. Nothing here was destroyed and nothing is hidden: the material is intact, legible and freely read, and it fails on provenance alone. Confirm the designation C-IVδ-092 before applying any part of this file elsewhere.
+- **Containment detail:** The chamber holds the stacks and nothing else. Readers leave with the material in their heads, the clerks carry it too, and the rotation cap exists because both groups showed the same pattern.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-092
