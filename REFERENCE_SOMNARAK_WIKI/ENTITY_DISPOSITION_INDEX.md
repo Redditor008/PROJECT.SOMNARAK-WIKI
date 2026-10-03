@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **151** |
-| Pending — no disposition-bearing line found by scan | 152 |
+| **Classified here, with a quoted line of evidence** | **152** |
+| Pending — no disposition-bearing line found by scan | 151 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 151 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 152 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 152 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 151 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -206,6 +206,7 @@ The ones that cost F01 containment, not just personnel.
 | Black River | `SE-C-Vγ-225` | Expansion `Effect`: *"Foundations that met code when raised are found anchored below the line. Four basements were bought and sealed this year."* Interaction record: *"Its foundation sits below the grief-line and draws... The Maw strengthens measurably; the River's own readings do not move."* It is the source every entity in the catalogue draws from, it strengthens a catalogued Negative by measurement, and it lifts the ground F01's containment is anchored in at 418 millimetres a year. Negative. |
 | Sorrow Storm | `SE-C-Vγ-320` | A wall multiplies every weight already present: three lesser entities breached under the named season that had never breached before, every other holding presses harder on its own containment at once, and new entities crystallize in the months after. It damages F01 structures citywide, Fractures the wards, and improves The Grieving Colossus; it suppresses nothing. |
 | Welcome Haven | `SE-O-IVδ-897` | Breach `Secondary Effect`: *"A grudge that eats barriers specifically: anything erected to shelter personnel degrades faster than the structure around it"* — containment barriers included. It attacks *"representations of safety ... in preference to people, every time"*, and against The Guardian of the Gate produced *"severe structural damage at the gate"* with no injuries, a prohibited pairing. It targets the apparatus of containment rather than its staff, which is the mechanism by which other holdings get out. |
+| Border Tree | `SE-O-IVδ-151` | Breach `Secondary Effect`: *"Barriers fail preferentially: anything built as a barrier is the first structure the growth takes, which is why the response card prohibits building any."* Containment is survey, not perimeter — *"the perimeter on the map is a survey reference rather than a containment line"* — and ground taken is never recovered: 14, then 23, then 34 metres of frontage in successive years. The Garden of Thorns row records thorn growth turning to follow this holding's course within one cycle and not turning back. It takes containment fabric permanently and redirects a neighbouring holding's expansion. Negative. |
 | The Angry Maiden | `SE-C-IVβ-042` | *"Her load leads both her sisters within a short interval, every recorded time, with no instance of the reverse."* She has never breached and has never injured anybody, but a bad watch here is a bad week in the Three Sisters enclosure: escalation in this holding reliably raises the Sorrow Gauges of two other contained entities, and the facility works her first and hardest for that reason alone. Negative. |
 | Sorrow Tide | `SE-C-Vγ-260` | Trivia: *"It is the primary trigger for many entity activity changes."* Containment: *"Impossible; use Tide shelters and shared mourning protocols."* The archive-wide amplifier — dozens of dossiers carry a "becomes more active during the Sorrow Tide" line, and this is what they are pointing at. |
 | Apostle Maker | `SE-C-Iα-071c` | Registry note: *"Stage 3 of the Kind Healer transformation chain. The entity actively seeks the remaining blessed personnel and completes their conversion. This stage is the point of no return."* Breach type: *"the entity physically escapes and actively hunts the marked."* It converts the facility's own staff into the next stage of itself. |
@@ -223,7 +224,7 @@ The ones that cost F01 containment, not just personnel.
 
 ## Why the Negative column is mostly collapse and chains
 
-Three of the fifteen Negatives qualify by the identical mechanism — *"Collapses the facility structure
+Three of the sixteen Negatives qualify by the identical mechanism — *"Collapses the facility structure
 around it"* — and three more by being a stage in, or the terminus of, a transformation chain. F01's
 containment is architectural and sequential, so the entities that endanger it are the ones that take
 the architecture down or convert the staff, not the ones that are strongest in a room. That is also
