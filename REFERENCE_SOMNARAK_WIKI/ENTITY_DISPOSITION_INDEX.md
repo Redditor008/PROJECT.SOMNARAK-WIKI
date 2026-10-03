@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **108** |
-| Pending — no disposition-bearing line found by scan | 195 |
+| **Classified here, with a quoted line of evidence** | **109** |
+| Pending — no disposition-bearing line found by scan | 194 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 108 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 109 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 195 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 194 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -113,6 +113,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Redacted | `SE-N-IIIγ-184` | Neutral | Takes no personnel: both escapes ended at a records store where it stopped and thickened, and the breach line claiming it hunts and entangles was struck against the escape reports. It neither suppresses nor assists — four proximities with Vestige left Vestige's held material intact and the girth series within rate, two with The Forgotten Name recovered no name, and the single Memory Lock trial produced no protective effect. Harm to F01 is blanked session notes in duplicate and durable contradictory certainties in its own workers. |
 | The Empty Mask | `SE-C-IIβ-054` | Neutral | A fixed object that has never moved except by hand in eleven years and has injured nobody by force; every combat figure in its file is an armoury transcription. It neither suppresses nor assists: four proximities with The Forgotten Soldier produced no protective boundary and are recorded as a nil result, six with The Happy Mask produced no compounding, the Hollow Choir named nobody on its roll, and the two Maw observations moved the card 0.3 and returned within the watch. Harm to F01 is identity loss in its own handlers inside four minutes unsupervised. |
 | Broken Clocktower | `SE-C-IVγ-240` | Neutral | A fixed site that has killed nobody; every casualty on its file came from a worker inside the field giving an instruction a second time. It neither suppresses nor assists: three proximities with The Broken Clock produced no transfer and no movement of its reading toward 3:47, two with The Cracked Hourglass left both run rates within band and are recorded as a nil result, and the single Final Door trial raised carried drift to 48 seconds per watch-hour and returned to rate in four watches without affecting the Door. Harm to F01 is symmetrical two-turn lateness inside six metres and systematic misjudgement of elapsed time. |
+| Double Mouth | `SE-C-IIβ-716` | Neutral | No physical contact in twenty years of record, in containment or in breach; it spreads into Commons conversation and touches no one. It neither suppresses nor assists: four proximities with The Broken Whisper transferred nothing and left the burning share at 59–62, the Whispering Gallery amplified both tones without altering the count or adding content, and the single Iron Judge trial — whose demand for evidence functions as contradiction — drove the share to 94 and was discontinued, with no effect on the Judge. Harm to F01 is listeners finishing its half-heard phrases and lodging accurate unprovable complaints across the sector. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
