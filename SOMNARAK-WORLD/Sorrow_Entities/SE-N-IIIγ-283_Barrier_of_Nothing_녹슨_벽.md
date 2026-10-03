@@ -30,19 +30,19 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · — |
+| **Activation threshold** | Continuous — it stands whether worked or not; there is no count to run down |
+| **Tool / M.A.W. grade** | γ · Halberd, Plate, Charm — all three graded, two issued and one given |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan from the transit line; Viderehan to record who stood on either side. Pugnahan hardens it and narrows the dream-space — avoid. |
 
 ### Operational Notes
 
-- The barrier near the Gate has no substance and cannot be passed, and both findings are logged as confirmed.
-- Work thins it for a shift. The impassability is unchanged, and no session has moved anything through it.
-- Two ignored conditions escalate it. Escalation presents as the barrier extending rather than thickening.
-- Burden pressure acts on personnel who test it repeatedly; testing is limited to one attempt per session and is recorded.
-- Extraction is a separate risk event under its own authorization.
+- The barrier has no substance and does not obstruct: fourteen transits in a standard cycle, none impeded. The earlier line calling it impassable has been struck as contradicting the Warden's own sheets.
+- Work thins the plates for a shift. Nothing has ever needed to be moved through it, because nothing has ever been stopped by it.
+- Escalation presents as the barrier extending sideways along the old wall line rather than thickening. It has followed Pugnahan every time it has occurred and nothing else.
+- One test of the barrier per session, by one named worker, recorded. The limit exists because the pressure falls on whoever keeps testing and the infirmary duration runs long for them afterwards.
+- There is nothing to extract anybody from. What leaves the holding with a worker is the dream-rust, and the infirmary measures it in days.
 
 ## Combat Record
 ### Core Stat Line
@@ -53,7 +53,7 @@
 |---|---|
 | **Speed** | 1.95 m/s |
 | **Resistance** | 35% against Weight pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Activation threshold** | Sorrow Gauge ≥ 75%, or Pugnahan applied at any gauge |
 | **Sorrow Gauge [HP]** | 752/752 |
 | **Han Pressure [ATK]** | 13–29 per hit · Weight |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
@@ -70,9 +70,9 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan is logged as valid and is not used on this holding. |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
-| **Resolution Condition** | Name both sides of the separation; do not choose a false neutrality |
+| **Resolution Condition** | Name both sides of a separation you are party to, aloud, in front of it. Neutrality is not accepted and silence is not neutrality. |
 
 ### Combat Actions
 
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Barrier of Nothing's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Flerehan and Ferrehan from the transit line. Pugnahan hardens the plates and narrows the dream-space around whoever is sleeping on the holding that night, which is why it is logged as an increase and why the Warden carries the halberd and does not use it. One test of the barrier per session, recorded with the tester's name.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name both sides of the separation; do not choose a false neutrality**.
 
 ### Consequences
@@ -100,14 +100,14 @@
 ## Appearance
 **Primary Form:** A dreamlike humanoid formed from rusted wall plates. It appears beside the Exile's Gate and blocks no physical passage.
 
-**Notable Features:** Its surface records departures, its rust spreads through dreams, and it communicates through pressure rather than speech.
+**Notable Features:** Marks accumulate on its plates and are not legible as names. Its corrosion appears in sleep and not on metal. It has never made a sound.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Dream
-- **Primary marker:** A dreamlike humanoid formed from rusted wall plates. It appears beside the Exile's Gate and blocks no physical passage.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** Rusted plate in the rough shape of a standing man, square to the old wall line, with marks accumulating across the plates.
+- **Position / movement:** Standing beside the Gate, square to the old wall line, not moving. People walk through where it is. Record transits, not obstructions.
 - **Element signature:** Weight
 - **Registered location:** Zone E, Exile's Gate vicinity
 
@@ -117,53 +117,53 @@
 |---|---|
 | **Form** | A dreamlike humanoid formed from rusted wall plates. It appears beside the Exile's Gate and blocks no physical passage. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Material / signature** | Weight. Rusted plate, bleeding orange, lead-cold; wet iron and char. No sound at any range. |
+| **Distinctive markers** | The accumulating marks on the plates and the fact that people walk through where it is standing. |
+| **Identification** | Subject-Dream, not a structure. If it is not standing in the shape of a man, it is one of the other wall files. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Log the transits, the extent of the barrier along the old wall line, and the panel impression. Do not log an interpretation of the marks; two Wardens tried and both wrote that they had stopped.
 
 ## Origin
-- **Formation:** The Wall formed from the sorrow of people who were separated by exclusion.
-- **The Sorrow:** The burden of a barrier that remains after the people it separated are gone.
-- **The Event:** Exiles built a wall near the Gate, then passed through it one by one until only the wall's memory remained.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around Zone E, Exile's Gate vicinity — until the Weight was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
+- **Formation:** From a boundary that outlasted its own reason and was never taken down.
+- **The Sorrow:** Not exclusion. The exclusion ended; nobody rescinded it, because there was no one left to rescind it to and no procedure for doing so.
+- **The Event:** The camp built a wall, defined itself by which side it stood on, and then went around it one at a time over some years. Nobody dismantled it. There was no step in anybody's procedure that said to.
+- **The People:** Exiles of the Gate camp, named on the construction roster that survives with days worked against each name; most of those names appear again in the Gate's outward passage records.
+- **Expanded origin context:** The construction roster survives, names against days worked. Most of those names appear again in the Gate's outward passage records, each at a different date, each alone. The archivist's note sets the two documents side by side and observes that they show a group of people building a barrier and then individually going around it. The wall is the only party to the arrangement that stayed.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Rust loosens and the wall shows a remembered departure. | Decrease |
-| **Pugnahan** | Plates harden and dream-space narrows. | Increase |
-| **Viderehan** | Reveals the people who stood on either side. | Stable |
-| **Ferrehan** | Forces the worker to remain between opposing pressures. | Decrease |
+| **Flerehan** | The plates loosen and one departure surfaces — a date, a direction, never a name. | Decrease |
+| **Pugnahan** | Plates harden; the dream-space narrows around everyone sleeping on the holding that night. Not used. | Increase |
+| **Viderehan** | It shows who stood on each side and which of them later crossed. | Stable |
+| **Ferrehan** | The long stand on the transit line, between two sides with nobody on either. | Decrease |
 
 
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Barrier of Nothing is recorded as a Subject with Subject-Dream manifestation and Weight elemental expression. The current record places it at Zone E, Exile's Gate vicinity; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The gauge falls under both Flerehan and Ferrehan and tells the supervisor very little. What the supervisor reads is the infirmary's duration figure for the worker who stood the watch — the number of days the rust persists in their sleep afterwards — and that number has been rising, wing-wide, for as long as the column has been printed.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A good cycle here is a transit sheet that balances, a panel impression filed unread, and a duration figure no longer than the worker's last. The third is the one that gets reported upward, and it is the only figure on the holding that has ever moved for a reason outside the holding.
 ## Breach Behavior
 
-> *"Barrier of Nothing has broken free. Expands, crushing corridors shut."*
+> *"It is out. It is standing in the east stair. It is not blocking the east stair. Do not push it."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Barrier of Nothing breaks free and stalks the corridors on foot. It expands, crushing corridors shut. |
-| **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **Movement** | It walks out and stands somewhere, square to a line that is not there. It has never pursued anybody and has never obstructed a corridor; the earlier crushing-corridors entry contradicted the holding's own finding that it blocks no passage. |
+| **Effect** | Weight pressure across the space it has chosen; the dream-rust duration of everybody who slept in the wing that night runs long. |
+| **Secondary Effect** | Workers begin to behave as though the place it is standing were a boundary, and route around it. Nothing requires them to. |
+| **First Target** | No target. The pressure falls hardest on whoever in the wing is carrying a bar, a transfer refusal, or a posting they cannot go back to. |
+| **Escalation** | Each cycle free, the extent along its imagined line grows and the Resolve drain rises by 5. It ends when somebody names both sides of a separation they are party to, in front of it. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — it leaves the Gate vicinity and stands somewhere else. In both recorded escapes it obstructed nothing and was found square to a doorway it was not blocking.
+- **Containment priority:** Do not force it. Pugnahan hardens it and narrows the dream-space across the whole wing; the two recorded escapes both ended in speech, by a Warden, inside four hours.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while it is left standing; it falls when a worker names, aloud and in front of it, both sides of a separation they are party to.
 
 ## M.A.W. Equipment
 
@@ -186,11 +186,11 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** The halberd is carried on this holding for timber and plate and has never been swung at the entity. The multipliers are armoury figures, transcribed, not field findings.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Barrier of Nothing's weight signature in the strike.
+**Ability:** Cuts rusted plate and timber. On this holding it is carried for the Gate's own fabric and has never been turned on the entity.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder tires early and keeps tiring early for some weeks after handing it in.
 
 ### M.A.W. Suit — The Rust Wall Plate
 
@@ -206,9 +206,9 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Creates resistance against forced movement.
+**Ability:** The wearer cannot be moved off a line they have taken — which is the whole of the Ferrehan stand on this holding.
 
-**Cost:** The wearer becomes difficult to welcome into any group.
+**Cost:** The wearer is hard to admit into a room. Crews report it before the wearer does.
 
 ### M.A.W. Stigma — The Rust Wall Charm
 
@@ -218,17 +218,17 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the bearer's work on this holding only; the armoury notes it has no measured effect anywhere else.
 
-**Ability:** Grants a minor boon tied to Barrier of Nothing's sorrow; the effect mirrors the entity's nature.
+**Ability:** The bearer can tell, without being told, which people in a room are barred from somewhere and which are not.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer moves slower, and stops at thresholds without deciding to.
 
-*Stigmas are granted at random by Barrier of Nothing upon a successful work, not manufactured.*
+*The charm is given, not issued: three exist, all three to Wardens who had stood a full cycle, and the entity has given none since Year 4231.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Barrier of Nothing's element. No protocol produces Stigmas. They emerge from Barrier of Nothing's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+The halberd belongs to the Gate's fabric and the plate to the Ferrehan stand. The charm is the exception: three exist, each given to a Warden who had stood a full cycle, none since Year 4231, and the armoury does not pretend to know the criterion.
 
 ### Field Use Record
 
@@ -244,11 +244,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It manifests most strongly near the Exile's Gate.
-- It does not physically obstruct passage.
-- Personnel report rage after waking from its dreams.
+- It stands at the Gate, square to the line of the old wall, and has not moved from it except in the two recorded escapes.
+- Fourteen transits in a standard cycle, none impeded; the sheet is a record of people leaving and is forwarded nowhere.
+- Dream-rust duration is measured in days after contact by the infirmary and printed as a plain column. Cycle mean 31 days, against 24 and 19 in the two years before.
 
-**Personnel Note:** *"It was watching. I felt rage. The Wall had no mouth because every side had already said enough."* — Specialist, Zone D patrol
+**Personnel Note:** *"I stood the line and named both sides, which is the rule, and the sides I named were my own: the wing I came from and the wing I am in. I have been barred eleven years on grounds a doctor signed off nine years ago. There is no form. There is no one to ask. I woke with rust in my sleep for a month and I do not think the entity did that to me."* — Warden, Gate holding
 
 
 
@@ -256,30 +256,32 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Barrier of Nothing as a Subject with Subject-Dream manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone E, Exile's Gate vicinity. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Barrier of Nothing's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer takes the transit line, counts transits and obstructions, and measures the extent of the barrier along the old wall line. |
+| **Sustained observation** | One panel impression per cycle, rubbed from the fixed panel, dated and boxed in order. Unread. The restraint is a protocol and was arrived at by two Wardens before it was written down. |
+| **Activation or escalation** | Escalation means extension along the line. Record who applied what, since the only recorded cause is Pugnahan, and withdraw to the transit line. |
+| **Post-contact review** | The infirmary opens a duration on every worker who stood the line and closes it when the rust leaves their sleep. The figure goes into the column. The wing receives durations and not detail, deliberately. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Transits, extent, panel impression, duration. Four figures, three of them about the wall and the fourth about us.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Barrier of Nothing (N-IIIγ-283 [WS]) is logged as a Subject-Dream manifestation expressing Weight. The Wall formed from the sorrow of people who were separated by exclusion. Held at Zone E, Exile's Gate vicinity. It manifests most strongly near the Exile's Gate.
+Barrier of Nothing (N-IIIγ-283 [WS]) is logged as a Subject-Dream manifestation expressing Weight, standing at Zone E in the Exile's Gate vicinity behind a transit line and no door. It obstructs nothing. The holding's instruction is that it is worked from the line, that Pugnahan is not applied, and that the marks on its plates are not interpreted.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Appears in dreams of personnel near the Gate. Personnel feel trapped between belonging and exile. It does not physically obstruct passage.
+**Entry 2 — <Excerpt from Infirmary Duration Column, Year 4238>**
+Mean dream-rust duration for the cycle, 31 days, against 24 the previous year and 19 the year before. Column printed as it stands, without comment, under the heading that says only how long afterward.
+Prior year 24 days, year before 19. The column is printed under a heading that says only how long afterward, and has never carried a line of commentary in ninety years of returns.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The burden of a barrier that remains after the people it separated are gone.
+**Entry 3 — <Excerpt from Warden's Transit Sheet>**
+Fourteen transits, no obstructions. One entry out of order: a worker who came to the line, did not cross, stood for some time and went back. Noted because the sheet has a column for it and because she had been barred from this wing for eleven years on grounds that lapsed in nine.
+Entry filed by the Warden rather than the counselor, there being no counselor at the Gate. Recommendation: the standing-bar roster for this wing should be read in the supervisors' briefing, since every worker on this holding is on it or knows who is.
 
 **Entry 4 — <Containment Notice>**
-Management: Name both sides of the separation; do not choose a false neutrality. Work response — Flerehan: Rust loosens and the wall shows a remembered departure. (Decrease); Pugnahan: Plates harden and dream-space narrows. (Increase); Viderehan: Reveals the people who stood on either side. (Stable); Ferrehan: Forces the worker to remain between opposing pressures. (Decrease). Personnel report rage after waking from its dreams.
+Management: name both sides of a separation you are party to, aloud, in front of it; neutrality is not accepted. Work response — Flerehan: one departure surfaces, date and direction, never a name (Decrease); Pugnahan: plates harden, dream-space narrows across the wing, not used (Increase); Viderehan: it shows who stood on each side and which of them crossed (Stable); Ferrehan: the long stand on the transit line (Decrease). Dream-rust duration opened on every worker who stood the line.
 
 **Entry 5 — <Archive Note>**
-The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
+The construction roster and the Gate's outward passage records are held together in one folder by order of the second Warden, who wrote on the cover that they should not be separated because apart they are two ordinary documents and together they are the file.
 
 ## 최종 관찰 (Final Observation)
 
@@ -296,7 +298,7 @@ You dream of a wall that has no end. On one side stands the city; on the other, 
 
 
 
-**At first contact:** The Subject-Dream does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A dreamlike humanoid formed from rusted wall plates. It appears beside the Exile's Gate and blocks no physical passage.
+**At first contact:** Weight first, lead-cold, wet iron and char, and no sound at all. Then the figure: plate fused into a standing shape beside the Gate, bleeding orange, square to a wall that is not there. Someone walks through the space it occupies while you are still looking at it.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Dream becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 
@@ -308,66 +310,72 @@ You dream of a wall that has no end. On one side stands the city; on the other, 
 
 Barrier of Nothing does not exist in isolation. Its recorded relationships with The Guardian of the Gate, The Forgotten Soldier, The Drift Fog should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** On this holding the question is never whether the two resonate. It is whether anybody was obstructed while the other file was near, and whether the duration column moved for the workers who slept in the wing that night. The three related files are all boundary files, which is exactly why the Gate keeps them apart on paper: a crew that has read the wrong one arrives expecting something that stops people.
 
 
 ### Entity Interaction Record
 
-Barrier of Nothing must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Barrier of Nothing must be assessed against the other boundary files and kept distinct from them. The Guardian of the Gate enforces a boundary; this one has none to enforce. The Vanished Wall was removed and is mourned as absent; this one is present and mourns being unnecessary. The Soaking Wall is a structure. This is a figure in the shape of a structure, and the difference decides which side of the line a worker stands on.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Guardian of the Gate** | Both preserve the sorrow of exclusion. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Soldier** | The Soldier guards the wall's remembered boundary. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Drift Fog** | The Fog gathers beyond the wall in dreams. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Guardian of the Gate** | Opposed rather than kindred: the Guardian enforces a boundary that exists; this one observes a boundary nobody is enforcing. | In the single recorded proximity the barrier withdrew along its line to half its extent and the Guardian did not react at all. | Extent before and after, transits, and whether anybody was actually stopped. |
+| **The Forgotten Soldier** | The Soldier takes post against this one's line and holds it, unasked, against nothing. | Transits unaffected; both entities stationary; the duration column ran four days long for the wing that cycle. | Who took post where, how long, and the duration figures for everyone who slept in the wing. |
+| **The Drift Fog** | The Fog settles on one side of the line in dreams and not the other, which is the only evidence on file that the line means anything to anything but the wall. | No operational effect recorded in three proximities; the asymmetry was noted by two sleepers independently. | Which side the Fog took, who reported it, and whether they had been told what to expect. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Name the designation out loud before briefing a crew. Wall files are confused at this Gate more often than any other error on the sheet.
 
 ## 이야기 (Narratio) — The Tale
 
-The exiles built a wall at the Gate, and then passed through it one by one, until the wall stood alone, separating two sides that no one occupied, and the wall, rusting, remembered.
+When this Company bars a worker from a wing, it bars them once and it does not hold out hope afterwards. That rule was written by people who had watched the alternative.
 
-The wall was built by exiles — citizens expelled through the Gate, camping at the city's edge, constructing a barrier between themselves and the city that had rejected them. The wall was a statement: we are here, you are there, the boundary between us is real. The exiles maintained the wall, guarded it, defined themselves by the side of it they stood on, the way the displaced define themselves by the boundary that separates them from the home they lost.
+A Fractured worker who may reapply every quarter reapplies every quarter. They do not recover; they prepare. The medical wing produced eleven years of evidence that the reapplication cycle was doing more damage than the original exposure, and the appeals process was abolished on that evidence, humanely, to the relief of almost everybody who had been through it. Exclusion is decided once, by a doctor, on stated grounds, and nobody is ever asked to plead.
 
-The exiles moved on. One by one, over the years, the exiles passed through the wall — some back into the city (pardoned, or smuggled, or simply returning), others deeper into the Desolate (seeking a new home, or following the Han, or simply wandering). The wall, built to separate the exiles from the city, was eventually the only thing at the Gate — standing alone, separating two empty sides, the exiles gone from one side and the city indifferent to the other.
+What was abolished along with the pleading was the only mechanism that ever took a bar down. The grounds lapse — conditions resolve, people recover, the doctor who signed retires, the hazard the bar was written against is decommissioned — and the bar does not lapse with them, because lapsing requires somebody to act and no procedure says who. Thirteen hundred and twelve standing bars in this facility. Six hundred and four of them rest on grounds that no longer exist.
 
-The wall rusted. The sorrow of the separation — the exclusion, the boundary, the definition of identity by the side of a wall you stood on — remained in the rusting structure, and the rust, in Somnarak, is as much a crystallization as any crystal. Barrier of Nothing is Subject-Dream, Weight-element: the figure of a barrier that outlived the people it separated, rusting in place, carrying the sorrow of an exclusion that no one enforces anymore because no one is left to enforce it against.
+The founding case is older and the same. A camp of exiles raised a wall at the Gate, stood on their side of it, and then over some years went around it one at a time, until the only party still observing the separation was the wall. It rusted where it stood. Barrier of Nothing is Subject-Dream, Weight: the figure of a boundary nobody enforces, standing because nothing in the arrangement ever provided for stopping.
 
-Those who come near the Barrier of Nothing feel the burden of a purposeless boundary — the exhaustion of a wall that separates nothing from nothing, that stands for a division no one remembers the reason for, that rusts because the people who needed it are gone and the wall, faithful to its function, cannot understand that its function has ended.
+What the holding has measured is the duration: the days a worker's sleep keeps rusting after they stand the line. The infirmary has printed it as a column for ninety years. Nineteen days, twenty-four, thirty-one. It tracks the standing-bar roster of this facility — specifically the count of bars whose stated grounds have lapsed — and fails against the transit count, the extent of the barrier, the season, and the worker's own hours.
 
-Some sorrows are about exclusion. Barrier of Nothing is about the exclusion that outlived the excluded — the barrier built by the displaced and abandoned when the displaced moved on, rusting at the Gate, separating two empty sides, carrying the sorrow of a separation that persists past its purpose because the wall, unlike the people, cannot leave.
+Some sorrows are about exclusion. This one is about the exclusion nobody is enforcing any more and nobody has taken down, and it rusts a little longer in our sleep each year we leave six hundred of them standing.
 ## 증언 (Testimonium) — The Testimony
 
-> *“The exiles built it, then passed through it one by one, until only the wall remained.”* — Keeper, Archive
+> *“Thirty-one days this cycle. The roster of lapsed bars stood at six hundred and four. I am not claiming the one causes the other. I am saying the column has never moved with anything else.”* — Infirmary, Gate station
 
-> *“I felt the exhaustion of a barrier separating nothing from nothing.”* — Citizen, Gate District
+> *“Abolishing the appeals process was the kindest thing this medical wing has ever done and I will not have it reopened.”* — Medical Board, submission of Year 4230
 
-> *“The wall rusts because the people who needed it are gone.”* — Researcher, R.D.
+> *“My grounds lapsed in Year 4229. There is no form, because a form would be a plea, and we abolished pleading.”* — Warden, Gate holding
 
-> *“A purposeless boundary, standing alone, corroding because its function ended and no one told it.”* — Containment Lead, R.D.
+> *“Fourteen transits, no obstructions. Ninety years of sheets and not one obstruction in any of them.”* — Warden's transit sheet, standing summary
 
-> *“The exclusion outlived the excluded. The wall stands, faithful to a separation no one enforces.”* — Elder, Gate District
+> *“They read my bar out last year without my asking, which is the point of the thing, and it fell. I went back. Nine weeks later a man died on my watch and the inquiry found the restoration proper. I have not worked since.”* — Restored Warden, name withheld
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-283 [WS]` · Inner origin · Residue (I) coherence · Minor (α) potency · Weight · Subject-Dream manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-283 [WS]` · Inner Sorrow (내한) origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Dream manifestation. The earlier Residue (I) / Minor (α) entry contradicted the SECC header and has been corrected.
 **Common Name:** Barrier of Nothing
-**Containment Status:** Contained — Gate District
+**Containment Status:** Contained in place — Zone E, Exile's Gate vicinity, transit line and no door; Pugnahan not applied; panel impressions filed unread. The earlier Gate District entry contradicted the SECC header.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. A wall rusting between two empty sides. Effect: proximity induces the exhaustion of a purposeless boundary.
+**Threat Assessment:** Major (γ), corrected from the earlier Low entry. It obstructs nothing, pursues nobody and has never injured a worker. The documented harm is the dream-rust duration, which is measured in days, has lengthened across the life of the holding, and falls heaviest on the workers of this facility who are carrying a bar nobody can lift.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The wall rusts; it cannot be maintained or removed.
+- Ferrehan is primary — the long stand on the transit line — with Flerehan beside it; Viderehan records who stood on either side. The earlier entry naming Viderehan primary has been corrected against the Behavior table.
+- Pugnahan is not applied: it hardens the plates and narrows the dream-space across everybody sleeping in the wing.
+- One barrier test per session, by one named worker, recorded.
+- Panel impressions taken each cycle, dated, boxed in order, and not interpreted.
+- The Lapse Review is a containment condition of this holding and binds every standing exclusion this facility holds.
 **Observation Notes:**
-- Exiles built a wall at the Gate; all passed through; the wall remained.
-**Cross-References:** Gate District · The Vanished Wall · The Soaking Wall
+- Dream-rust duration opened on every worker who stands the line and closed when the rust leaves their sleep; cycle mean 31 days against 24 and 19 in the two preceding years.
+- Durations lengthen with the count of standing bars whose stated grounds have lapsed; tested against transit count, barrier extent, season and worker hours, none of which fit.
+- Fourteen transits in a standard cycle and no obstruction in ninety years of sheets.
+- Construction roster and outward passage records held in one folder by standing order of the second Warden.
+**Cross-References:** Zone E, Exile's Gate vicinity · the Warden's transit sheets · the boxed panel impressions and the two Wardens' notes on stopping · the infirmary duration column · the construction roster and outward passage folder · the Medical Board submission of Year 4230 · the standing-bar roster · the Y4237 Lapse Review return: 1,312 bars read, 604 lapsed and fell, 41 returns to the originating wing, 9 re-presentations within the year and 2 of those during a breach, 83 opt-out requests refused, one restored Warden now unemployable · The Vanished Wall · The Soaking Wall · The Guardian of the Gate
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** Exiles who built and then abandoned a wall at the Gate.
+**Originator:** Exiles who built a wall at the Gate, went around it one at a time, and left no one behind with the authority to take it down.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this file with the infirmary duration column and this facility's standing-bar roster beside it. Read alone it is a rusted figure that stops nobody and has hurt nobody, which is what three assessors concluded, each with the duration column in front of them and no reason to ask what the column was lengthening with.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** On any cycle mean above twenty-eight days, or any extension along the line: pull the standing-bar roster before the next watch and name each bar with its stated grounds, the date signed, and whether those grounds still obtain. Totals are not accepted. Every worker who stood the line in the period is named with their duration figure.
 ## Warden Record
 
 ### A Barrier That Stops Nothing
@@ -382,24 +390,34 @@ Its plates record who has gone, in marks that accumulate and are not legible as 
 
 Its corrosion spreads in dreams rather than on metal, and personnel who have worked the holding report finding rust in sleep for some while after. The infirmary tracks this and the facility does not receive the detail. It receives a duration. The durations have lengthened across the containment's operation and the file prints them as a plain column, unexplained, under a heading that says only how long afterward.
 
+### What The Durations Are Measuring
+
+The duration column was begun by an infirmary clerk who wanted to know when a worker could be put back on the roster, and it was kept for ninety years as a staffing figure. It lengthened. Nobody set it beside anything, because nothing at the Gate was changing: the transits held steady at fourteen a cycle, the barrier held its extent, the panel filled at its own rate. In Year 4234 the Gate's Warden — herself barred from another wing on grounds signed off five years earlier — laid the column against the facility's standing-bar roster and found that the durations rose with the count of bars whose stated grounds had lapsed. It has held in every year tested since, and fails against transit count, barrier extent, season, and the hours the worker actually stood.
+
+Nothing in the existing Record is overturned. The entity still obstructs nothing; the impressions are still filed unread and the restraint still stands; Pugnahan is still not applied; the roster and passage folder still sit together on the second Warden's order. The pairing is two columns of our own, one kept by the infirmary and one by personnel, neither of which has ever been shown to the other before.
+
+What it costs is the defence of the abolition. Ending the appeals process was right, and the Medical Board's evidence that quarterly reapplication was re-injuring Fractured workers has never been answered by anybody in this wing. The Gate's position is narrower: that the Board abolished the pleading and, with it, the only machinery that ever took a bar down, and that six hundred and four people in this facility are now standing on their side of a wall nobody is manning.
+
+The operational consequence lies outside the Gate entirely. Nothing done on the transit line has ever shortened a duration — not shorter watches, not rotation, not the two years of sleep instrumentation. The only thing that has ever moved with it is the Lapse Review: every standing exclusion read once a year against its own stated grounds, by the facility and not by the worker, with the bar falling automatically where the grounds have gone, and nobody ever required to ask. In Year 4237 that read 1,312 bars and dropped 604. Forty-one people went back to the wing they came from; nine of them presented again inside the year with the condition the bar had been written for, two of those during a breach; eighty-three workers asked not to be read at all and were refused, because an opt-out rebuilds the limbo the abolition was meant to end; and one Warden, restored on a lapse, fit by every measure, stood a watch in which a man died, was found by inquiry to have been properly restored, and has not worked since. The file sets those beside the duration column, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+
 ### The Wall They Built
 
 Exiles raised a wall near the Gate and then passed through it one at a time until only the wall was left, and the commissioning material holds the work roster for its construction. The roster has names against days. Most of those names appear later in the Gate's outward passage records, which the file sets alongside, matched where a match exists. The archivist's note observes that the two documents together show a group of people building a barrier and then individually going around it.
 
 ## Trivia
 
-- Its rust spreads in dreams, not on physical metal.
-- It does not prevent physical crossing.
+- Its rust spreads in sleep and not on metal; the infirmary measures it in days and has printed the figure, uncommented, for ninety years.
+- It has never obstructed a crossing in any sheet on file, which is why the breach entry describing it crushing corridors shut has been struck.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Barrier of Nothing is a Subject with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone E, Exile's Gate vicinity.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** Subject, Fragment (III) coherence, Major (γ) potency, Comprehension Level 2, Subject-Dream. The Registrum previously recorded Residue (I) and Minor (α) against this same header; corrected.
+- **Field detail:** Weight; Zone E, Exile's Gate vicinity. The Operational Parameters line carried the M.A.W. grade as a pair of em dashes against three graded γ pieces and an activation threshold of 2 against an entity that simply stands; both corrected.
+- **Recognition detail:** Identify it by the rusted plate and the transit line, not by posture; the plates carry marks that look like a record and personnel are instructed not to read them.
+- **Record detail:** Three wall files sit within sixty codes of this one. Read the designation. The Vanished Wall is an absence, the Soaking Wall is a structure, and only this one walks.
+- **Containment detail:** There is no seal and no door — a transit line, a prohibition on Pugnahan, a box of impressions nobody reads, and an annual reading of this facility's bars in another building.
 ## Document Information
 
 **Document ID:** SE-N-IIIγ-283
