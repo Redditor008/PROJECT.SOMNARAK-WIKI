@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
 - **Primary marker:** A burning humanoid figure carrying fragments of an object that no longer exists. Its fire is crimson-black and leaves no ash.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It walks the Desolate and has no fixed route; it is located by heat rather than by position. Record the air temperature at one metre, which is the reading and has ranged from forty-one degrees to one hundred and nine, and record what it is carrying, which is nothing.
 - **Element signature:** Weight
 - **Registered location:** The Desolate — mobile
 
@@ -116,19 +116,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A burning humanoid figure carrying fragments of an object that no longer exists. Its fire is crimson-black and leaves no ash. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile across the Desolate with no fixed route; located by air temperature rather than by sighting. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow, and the markers here are heatless ash, real heat, and hands cupped around nothing. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the air temperature at one metre and at three, the colour of the flame, and whether ash is present, which it never is. Record the position of the hands. Avoid generic descriptors: it is not 'menacing', it is at sixty-eight degrees and carrying nothing in a way that is visible from across a room.
 
 ## Origin
 - **Formation:** The entity formed from the grief of a relic erased from history.
 - **The Sorrow:** The pain of losing an object that carried a people's identity.
 - **The Event:** A treasured artifact disappeared during a Desolate expedition; records of it were later removed.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+- **The People:** A people who cannot be named, because the naming would have to come from records that no longer exist. The commissioning file holds what survives: an expedition manifest with one line inked out, a customs weight, and a receipt for crating. The archive states on the first page that it cannot establish that these people existed and does not treat that as a reason to close the file.
+- **Expanded origin context:** An expedition into the Desolate lost an object that a people kept their identity in, and the loss is not the difficulty. What followed is: the expedition records were weeded under an ordinary retention schedule nineteen years later, correctly, by a clerk following the rules, and the schedule of the time required only that destroyed items be numbered and not described. The entry survives. It reads six items, Desolate expedition, destroyed. Nobody can now say what the object was, what it was called, or whose it was, and the archive's position is that no single act in this sequence was wrong and the outcome is nevertheless that a people cannot be shown to have existed.
 
 ## Behavior
 
@@ -145,25 +145,25 @@
 
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Pandora's Jar is recorded as a Subject with Subject-Grudge manifestation and Weight elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Falling heat means something destroyed was described rather than counted. Stability under Viderehan is correct. The heat rises when a destruction is logged as a number, when the relic is called a legend in the worker's hearing, and it has risen sharply twice on correctly executed retention schedules that happened to be silent about contents.
 ## Breach Behavior
 
-> *"Vanished Relic has broken free. Hunts personnel indiscriminately."*
+> *"It is in the second records room and it is reading the destruction schedule."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Pandora's Jar shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
-| **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
-| **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **Movement** | It walks to the nearest archive and stands in it. It has shattered nothing; the two doors it has opened were unlocked, and it closed one of them. |
+| **Effect** | Weight in the room rises until writing is laborious, which personnel describe as being made to work for every word they put down. |
+| **Secondary Effect** | Numbered entries in any register present become illegible while descriptive entries remain readable; this has been reproduced eleven times and is not disputed. |
+| **First Target** | No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full. |
+| **Escalation** | The heat rises ten degrees each turn that nobody reads from the register, and falls to ambient the turn a destroyed item is described aloud. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — it leaves the Desolate and walks to the nearest archive, which it has done four times, and in all four cases to a records room rather than to a population.
+- **Containment priority:** Do not suppress and do not use Pugnahan, which the approach table lists as an increase and which produced the only two injuries on record. Open the register and read. Four events, four endings, no force used in any of them.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for every item destroyed under a retention schedule anywhere in the facility without a description entered against it. It falls 10% for each destruction logged with enough detail that a reader could say what was lost, and routine weeding done properly has never raised it at all.
 
 ## M.A.W. Equipment
 
@@ -185,7 +185,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Pandora's Jar's weight signature in the strike.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder feels progressively heavier and ages slightly, and begins to find gaps in indexes intolerable.
 
 ### M.A.W. Suit — The Relic Burden
 
@@ -219,7 +219,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Cost:** The bearer moves a little slower.
 
-*Stigmas are granted at random by Pandoras Jar upon a successful work, not manufactured.*
+*The stigma is not manufactured. It is given to a worker who described a destroyed record in the register rather than numbering it, and has never been given to one who told the entity the relic was a legend.*
 
 ### M.A.W. Use Notes
 
@@ -257,7 +257,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Pandora's Jar's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Record the temperature on arrival and on leaving, what was said about the relic and by whom, the facility's destruction entries for the week and how many carry descriptions, and the condition that ends the encounter, which is a register entry read aloud in full. The form tells you what it feels, not what it plans.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -265,17 +265,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Pandora's Jar (N-IVδ-967 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The entity formed from the grief of a relic erased from history. Held at The Desolate — mobile. The entity is mobile and has no fixed containment route.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Moves through the Desolate following traces of the vanished object. Personnel feel the weight of lost history and burning resentment. It reacts violently to claims that the relic never existed.
+**Entry 2 — <Register Return: Eleven Thousand Destroyed, Three Thousand Described>**
+Items destroyed under retention schedule across the facility in 4238: eleven thousand four hundred and six. Entered in the Register of Destructions with a description sufficient to say what was lost: three thousand one hundred and eighteen. Entered as a count alone: eight thousand two hundred and eighty-eight. Mean air temperature at one metre over the year: sixty-four degrees, against forty-one in the fortnight after the register was back-filled for the Desolate series, and one hundred and nine in the week a visiting officer described the relic as folklore within its hearing. It carries nothing and has never put anything down.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The pain of losing an object that carried a people's identity.
+**Entry 3 — <Statement of a Records Officer, Second Records Room>**
+"I read it the entry. Six items, Desolate expedition, destroyed, and then I read the clerk's name and the date and the schedule paragraph he was working to, because that was all there was, and I said out loud that we do not know what they were. It came down to about blood heat. I have thought since about what I was actually doing, which was not consoling it. I was reading it proof that the gap is a gap and not a nothing, and that is a smaller thing than it wanted and the only true thing I had."
 
 **Entry 4 — <Containment Notice>**
 Management: Bear the heat and name what was lost. Work response — Flerehan: Reaches toward the worker, seeking recognition. (Decrease); Pugnahan: Burns with retaliatory fury. (Increase); Viderehan: Reveals fragments of the missing relic's history. (Stable); Ferrehan: Tests the worker beneath increasing heat. (Decrease). Its fire does not consume material; it burns memory.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+**Entry 5 — <Director's Memo, Eyes Only: The Register Is Permanent>**
+The Register of Destructions is permanent, is not subject to any retention schedule of its own, and now requires a description of every item destroyed sufficient for a later reader to know what has been lost. Back-filling of historic series continues where the surrounding paperwork permits it and has recovered descriptions for a little over a fifth. The objection is recorded and is substantial: a complete and permanent list of what this facility has destroyed, with descriptions, is a map of every sensitive thing it has ever handled, is discoverable, and defeats part of the purpose of destroying anything. Legal and the Keepers both opposed. The memo carried it on one ground, which the Director set down in a single sentence and which is reproduced here because it is the whole of the reasoning: we can survive being known to have destroyed things, and the Desolate people cannot survive our not having written down what they were.
 
 **Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
@@ -306,7 +306,7 @@ A red flame walks across the horizon carrying pieces of something you cannot nam
 
 Pandora's Jar does not exist in isolation. Its recorded relationships with The Maw, The Forgotten Soldier, The Burning Library should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish it alone first, with the week's destruction register alongside, since that is the variable. In shared conditions log the temperature and whether the other record restored anything nameable; none has, and the holding notes that this entity is the only one in the wing that calms in the presence of paperwork.
 
 
 ### Entity Interaction Record
@@ -364,7 +364,7 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 - See M.A.W. Equipment section for extraction risk.
 **Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** Unestablished, and recorded as unestablished rather than unknown; the difference is that the archive holds the shape of the deletion that removed them. See the Origin section.
 
 ### Registry Addendum
 
@@ -414,8 +414,8 @@ Replies received are filed unopened in the correspondence section only if the as
 
 - **Classification detail:** Pandora's Jar is a Subject with Entity (IV) — Self-aware coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it by the fire and the hands. The flame is crimson-black, gives real heat, and leaves no ash on anything it passes; the hands are cupped around an object that is not there and have never been observed open or empty-looking, only full of nothing.
+- **Record detail:** Check the designation before approach. The archive holds two records that make opposite demands about destruction — the Sorrow Gate requires that transcripts be destroyed under witness, and this requires that destructions be written down in detail. They are not in conflict: one concerns what is kept, the other concerns whether the keeping of nothing is admitted.
 - **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
