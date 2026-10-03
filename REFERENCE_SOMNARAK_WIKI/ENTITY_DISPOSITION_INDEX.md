@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **100** |
-| Pending — no disposition-bearing line found by scan | 203 |
+| **Classified here, with a quoted line of evidence** | **101** |
+| Pending — no disposition-bearing line found by scan | 202 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 100 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 101 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 203 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 202 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -105,6 +105,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Memory Lake | `SE-C-IVγ-270` | Neutral | Fixed basin under the Echo Gardens; no entry has ever been permitted and nothing has ever been recovered from it. It has injured nobody and held nobody — the documented harm is a flattening that arrives through silence at the stations, managed by pairing and rotation. No transfer to the municipal groundwater detected in sixteen years of joint monitoring; the one cross-entity test (Echo Gardens root transfer, Y4232) was refused and the Memory Weaver pairing is untestable in principle. It receives; it does not act. |
 | Hollow Architect | `SE-C-IVγ-255` | Neutral | Builds continuously and pursues nobody; the three recorded escapes ended in talk-back with no suppression used, and it enclosed only workers who stopped moving inside its work. It has never suppressed or assisted another entity: the Melting Tower proximities only slowed its own construction, the Colossus transfer has never been observed, and the Broken Promise resemblance is clerical. Harm to F01 is confined to floor extractions and futility transfer among its own staff. |
 | Barrier of Nothing | `SE-N-IIIγ-283` | Neutral | Obstructs nothing — fourteen transits a cycle and no obstruction in ninety years of sheets — pursues nobody, and both recorded escapes ended in speech within four hours with no suppression. It neither suppresses nor assists other entities: the Guardian of the Gate proximity shrank its own extent and the Guardian did not react; the Forgotten Soldier takes post unasked without operational effect; the Drift Fog asymmetry is observational only. Harm to F01 is the dream-rust duration carried by its own workers. |
+| Nemo | `SE-N-IIIγ-589` | Neutral | Stationary by classification and in breach: it has never approached a worker, never aimed the weeping at anybody, and both corrupt events ended in speech with no suppression used. It neither suppresses nor assists other entities — the Lost Prince proximity only lengthened its own interval, the Forgotten Name match was informational and unpursued, and the Sorrow Gate did not respond to either return to its threshold. Harm to F01 falls on the watch that writes names it may not say. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
