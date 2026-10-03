@@ -72,7 +72,7 @@
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate, near The Scar |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | Grief is mourned at the site without a cause being supplied for it, and the Sorrow Gauge falls below 25% |
 
 ### Combat Actions
 
@@ -87,8 +87,8 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Sehnsucht's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** Nothing is dug and nothing is touched. Viderehan reads the event under the forgotten grief and holds the depth steady; Ferrehan requires the worker to sit beside buried sorrow for the length of the session without trying to bring it up. A trowel on the inventory list is grounds for standing the team down.
+3. **Resolution:** The session closes when the object is nearer the surface than it was and the reading is below 25%. It rises for honest mourning that names no cause, and nothing else has ever raised it; a session that produced an explanation has not closed, whatever the explanation was.
 
 ### Consequences
 
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A dark tear-shaped object half-buried in the Desolate soil. It seems to sink whenever someone reaches for it.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed in plan, variable in depth. Record the depth of the uppermost surface below ground level in centimetres, the glow visible through the soil, and whether anybody reached for it. The depth is the entity's state. Everything else in this section is weather.
 - **Element signature:** Weight
 - **Registered location:** The Desolate, near The Scar
 
@@ -119,15 +119,15 @@
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; two Desolate records turn on a blank field and their handling is opposite. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the depth, the glow through the soil, and the diameter of the lit area, which widens as it rises. The object itself is rarely visible and is not to be exposed in order to be photographed. Note the soil condition: it is damp over the object and dry a metre away, in a region that has no water.
 
 ## Origin
 - **Formation:** The Tear formed from sorrow deliberately buried.
 - **The Sorrow:** The weight of grief hidden so deeply that even the person who felt it forgot its source.
 - **The Event:** A traveler buried a final tear near The Scar rather than allow anyone to see it.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One traveller near The Scar who buried a last tear rather than be seen to weep, and who outlived the memory of what the tear was for. The Keepers hold no account of the loss, which is not an omission in the research: by the time anybody asked, she could not supply one either.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
 
 ## Behavior
@@ -146,7 +146,7 @@
 
 A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Sehnsucht is recorded as an Object/Place with Object-Void manifestation and Weight elemental expression. The current record places it at The Desolate, near The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** A rising object means somebody mourned at the site and let the cause stay missing. Stability under Viderehan is correct. The reading worsens — the object sinks — on reaching, probing and digging, and equally on any confident account of why a person present is feeling what they feel.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -173,7 +173,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
 | **Risk** | The worker may become unable to leave the site. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while carried and cannot replace a scheduled Work Type. It is not a recovery tool and must not be used to locate the object more precisely than the standing survey does; four of the six deepest readings on file follow sessions in which the team knew exactly where to stand.
 
 ### Log and Method
 
@@ -188,7 +188,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 The escalation pattern is specific to Sehnsucht: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Secure the site, confirm the event is a sinking rather than an activation, withdraw personnel who have been pressed for an explanation of their own state in the last week — they read deepest, and the medical office now supplies that list — and then satisfy the management condition, which is unexplained grief allowed to stand unexplained. Report the depth before and after.
 
 ### Detailed Activation Record
 
@@ -201,7 +201,7 @@ The escalation pattern is specific to Sehnsucht: it is not a generic breach even
 | **Risk** | Major (γ) Object-Void producing Weight pressure; The worker may become unable to leave the site. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** depth at arrival → any reaching, probing or excavation attempt → entries in the party's medical log carrying a cause they could not support → what was said aloud and by whom → depth at close. The third field is requested from the medical office and is the field that predicts the figure.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -221,13 +221,13 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Target Coverage:** A line of up to three. The weight travels through soil as readily as air, which is why the mortar is sighted on the ground ahead of a party rather than on the party.
+**Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is the specificity: the third carries weight without any sense of grief at all and reports it as fatigue.
+**Damage Application:** Record the strike and the residue separately. The Weight lands once; the heaviness persists for days and is the figure that matters for rotation planning in the Desolate.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Sehnsucht's weight signature in the strike.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder grows progressively heavier and ages slightly, and reports their own history as something carried rather than lived.
 
 ### M.A.W. Suit — Sehnsucht Mantle
 
@@ -255,13 +255,13 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to work against Sehnsucht itself, and nothing elsewhere near The Scar.
 
 **Ability:** Anchors the wearer against emotional pressure.
 
 **Cost:** The wearer carries the buried grief afterward.
 
-*Stigmas are granted at random by Sehnsucht upon a successful work, not manufactured.*
+*The shard is not manufactured. Sehnsucht gives one to a worker who said at the site that they were grieving and could not say what for, and has given none to anybody who offered a reason.*
 
 ### M.A.W. Use Notes
 
@@ -298,7 +298,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or excavation attempt. Effect: Releases a memory of the sorrow into the worker. Duration: Until the memory is acknowledged. Risk: The worker may become unable to leave the site. Tool Use Profile — I-Relic Operational Rule: The relic remains. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Sehnsucht's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
+**Observation method:** Record the first sign, which is wet-stone smell on dry ground; the first sensation, which is weight without sadness attached to it; the depth at entry and exit; anything said about why anyone feels as they do; and the condition that ends the encounter, which is the scheduled end. Nobody stays on to see whether it will surface.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -306,17 +306,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sehnsucht (O-IIIγ-476 [WO]) is logged as a Object-Void manifestation expressing Weight. The Tear formed from sorrow deliberately buried. Held at The Desolate, near The Scar. It sinks when approached with force.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-It rises during honest mourning.
+**Entry 2 — <Depth Record, and the Nine Times It Rose>**
+Depth record, quarterly, since the site was marked: a slow descent of about two centimetres a year, against nine recorded rises. The rises are annotated. Two follow bereavements among the survey staff. One follows a worker's statement that she had been crying in her quarters for a week and did not know why and had stopped looking for a reason. Six are entered as mourning, cause not given, which is the log's own phrasing and was adopted deliberately in 4221 to stop observers from guessing. Excavation attempts on file: three. Combined depth lost to them: forty-one centimetres.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The weight of grief hidden so deeply that even the person who felt it forgot its source.
+**Entry 3 — <Statement of a Worker Who Left the Box Empty>**
+"The medical form has a box for cause and I have always put something in it, because an empty box comes back to you. That week I wrote unknown and left it, and the supervisor signed it without a word, which I later learned he had been told to do. I went out to the site on the Thursday. I did not say anything clever. I said I am sad and I do not know what about, out loud, feeling ridiculous, and the glow came up through the soil until you could have read by it. I still do not know what I was sad about. That is apparently not the point, and nobody has asked me since."
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the event beneath the forgotten grief. (Stable); Ferrehan: Tests whether the worker can remain beside buried sorrow. (Decrease). The ground around it remains warm despite the Desolate cold.
 
-**Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+**Entry 5 — <Archive Note: On the Cause Field>**
+The management condition of this record is a change to a form. Since 4221 the medical log of the Desolate rota has accepted cause: unknown as a complete entry, not to be queried, not to be followed up at review, and not to be counted as an incomplete record in the office's own quality figures. The last clause is the one that took four years. An unexplained entry is a failure by every standard this facility measures itself against, and the standing instruction is that in this one log it is not: the site rises on grief that is allowed to have no account of itself, and sinks on every tidy explanation we have ever written into that box, including the true ones.
 
 ## 최종 관찰 (Final Observation)
 
@@ -345,12 +345,12 @@ The Tear waits below the dust. You can see its dark outline and feel its weight,
 
 Sehnsucht does not exist in isolation. Its recorded relationships with The Frozen Tear, The First Tear, The Sorrow River should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish it alone first, over a full survey cycle, because depth changes slowly and a single session cannot show a trend. In shared conditions log depth throughout, the lit diameter, and whether the other record altered the soil state. Nothing is excavated for comparison, including soil.
 
 
 ### Entity Interaction Record
 
-Sehnsucht must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Sehnsucht is filed with the Desolate records near The Scar, several of which concern what people took out there to be rid of. The relationships below are what the archive will support. They are not alliances; they are the same ground, and in proximity each makes the others' depth readings harder to attribute.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -401,7 +401,7 @@ Some sorrows are about hiding grief. Sehnsucht is about hiding it too well — t
 - See M.A.W. Equipment section for extraction risk.
 **Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** One traveller near The Scar, unnamed; she is recorded in the survey notes as the woman who buried it, which is how the Desolate names most people who are remembered for one act.
 
 ### Registry Addendum
 
@@ -437,8 +437,8 @@ A traveller put a last tear into the ground near The Scar rather than let it be 
 
 - **Classification detail:** Sehnsucht is an Object/Place with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is The Desolate, near The Scar.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it by the glow and the sinking. Several buried records are catalogued near The Scar; this is the tear-shaped one that is visible as light through the soil and that goes down whenever a hand goes toward it.
+- **Record detail:** Check the designation before approach. Two Desolate records turn on a blank field and they are managed oppositely — one requires that something be written where the meaning is missing, and this one requires that the cause be left empty and the entry accepted as complete.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
