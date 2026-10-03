@@ -86,15 +86,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Mourning a Life I Never Lived's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Only two approaches exist and neither involves contact. Viderehan shows what was imagined and never formed, and holds the reading steady. Ferrehan asks the worker to accept that the thing shown did not exist — not that it was lost, that it was never there — and lowers it. The tendrils are not to be touched, cut, lifted, or rooted in anything.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not plant; distinguish possibility from memory**.
 
 ### Consequences
 
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Mourning a Life I Never Lived’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Mourning a Life I Never Lived executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time in the vault costs nothing. What costs is intention. The net extends while personnel are talking about things they mean to do and have not done, and the longest growth on record was logged during a shift handover in which no work was performed at all.
+- The glaive, the veil and the seed are all made from a future that was mourned before anyone noticed it had never happened. Each activation borrows a measure of that confusion and the operator keeps it. The recorded cost is not forgetfulness. It is that the operator stops being able to tell which of their plans they actually carried out.
+- An unresolved session does not transform the entity; it leaves it longer. The net holds whatever extension it reached and the next team begins from there, and the file notes that no session has ever started from the recorded original footprint.
 
 ## Appearance
 **Physical Form:** A seed sprouted into a creeping net of dark root-tendrils — a low creature that flows across floors like a starfish of root. **Movement:** It spreads and flows across surfaces on its tendrils.
@@ -118,15 +118,15 @@
 | **Position / movement** | Physical Form: A small seed-shaped absence that spreads through the floor as a dark root pattern. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; the vault holds more than one record grown from something absent, and they are not managed alike. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the extent and the absence of a plant. The tendrils flow across the floor in a low spreading net and nothing has ever grown out of them — no stem, no leaf, nothing above ankle height. Measure the net at its widest, note where the edge has reached against the vault markings, and record what the floor underneath looks like, which is reportedly cleaner than the floor around it.
 
 ## Origin
 - **Formation:** The Seed formed from potential that was removed before it could exist.
 - **The Sorrow:** The grief of discovering that what you mourned was never actually there.
 - **The Event:** A planned life, relationship, or future was mistaken for a memory and crystallized as a seed of absence.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** One person who grieved a life they had planned and never begun, and went on grieving it after it was established that none of it had happened. The Keepers' record carries the plan in full — the place, the work, the names that were chosen — and the file prints none of it, for the reason given in the management condition.
 - **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a healer who absorbed too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
 ## Behavior
@@ -144,7 +144,7 @@
 
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Mourning a Life I Never Lived is recorded as an Object/Place with Place-Grudge manifestation and Void elemental expression. The current record places it at Zone A, Alpha Tree vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling reading under Ferrehan means a worker described the absence without furnishing it: no detail added, no sympathy offered to a person who was never born. Stability under Viderehan is the correct outcome. The reading rises whenever anybody in the vault says what they were going to do, and rises further if somebody else agrees that it would have been good.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -174,7 +174,7 @@ The escalation pattern is specific to Mourning a Life I Never Lived: it is not a
 | **Risk** | Minor (α) Object/Place producing Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Do not plant; distinguish possibility from memory. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** what unfinished intention was spoken aloud and by whom → the net's extent before and after → the direction of growth → whether the intention was subsequently carried out or formally closed → the reading. The fourth field is to be completed after the shift, not estimated during it.
 ## Breach Behavior
 
 > *"Mourning a Life I Never Lived has broken free. Plants itself in personnel, growing within."*
@@ -182,17 +182,17 @@ The escalation pattern is specific to Mourning a Life I Never Lived: it is not a
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Mourning a Life I Never Lived bursts free and crawls or slithers in search of prey. It plants itself in personnel, growing within. |
+| **Movement** | The net flows out across the floor at walking pace and does not rise or strike. Personnel are affected by standing in its extent, and it settles longest around whoever has the most left open. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever has most recently said what they were going to do. |
+| **Escalation** | Drain rises by 5 for each open intention voiced while the net is loose, and not at all for the time it spends spreading in silence. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape — recorded as such because the net leaves the vault, though it does not travel to anywhere in particular. It extends along the corridor in the direction of the roster office.
+- **Containment priority:** Close things out. Corridor blocks do not hold a net that is three centimetres high, and Pugnahan is unavailable against an Object/Place record; what has ended every incident is the shift's open items being completed or cancelled in writing, after which the edge stops advancing within the hour.
+- **Sorrow Gauge on breach:** Governed by percentage and by open intentions rather than by any count. It rises by 10 for each plan spoken about and left open while the net is loose, and falls by 10 for each plan either carried out or entered as cancelled, with a date, in the shift record. Two incidents have been closed by the roster office working through its own backlog.
 
 ## M.A.W. Equipment
 
@@ -214,12 +214,12 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Falloff Rule:** The glaive reaches one target. The absence does not spread through a party, which is the single most reassuring line in this file and the reason the vault is worked by small teams.
+**Damage Application:** Record the strike and the thinning separately. The Void lands once; the sense of being slightly less present continues through the shift and is what the counselling log actually describes.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Mourning a Life I Never Lived's void signature in the strike.
+**Ability:** Void damage to the soul — to identity and the sense of self rather than to the body. The glaive carries the entity's signature, which is grief with nothing underneath it, and what it opens in a target is doubt about whether something they remember ever occurred.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small nameless memories with each use, and does not notice the losses, which is why the usage log is countersigned.
 
 ### M.A.W. Suit — The Empty Veil
 
@@ -235,9 +235,9 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Mourning a Life I Never Lived's kind of pressure.
+**Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to stand inside the net's extent and still be certain of their own history.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves, and reports it most often as other people's greetings seeming to be meant for somebody else.
 
 ### M.A.W. Stigma — The Empty Seed
 
@@ -247,13 +247,13 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to work against this entity, and nothing elsewhere in the Alpha Tree vault.
 
 **Ability:** Reveals whether a remembered possibility ever existed.
 
 **Cost:** The user loses one imagined future from memory.
 
-*Stigmas are granted at random by Mourning a Life I Never Lived upon a successful work, not manufactured.*
+*The seed is not manufactured. It is given to a worker who looked at what was shown and said plainly that it had never existed, and has been given to no one who called it a loss.*
 
 ### M.A.W. Use Notes
 
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grades describe extraction stability rather than human safety, and here the distinction is unusually sharp. The glaive and the veil both perform. What the table cannot show is that the seed's bearers are the personnel most likely to withdraw long-standing applications and transfer requests, and that each of them described the decision as a relief.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -290,7 +290,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Mourning a Life I Never Lived's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Record the first sign, which is the smell of ash in a vault that has never burned; the first sensation, which is the urge to mention something you have been meaning to do; the net's extent at entry and exit; every open intention voiced in the chamber; and the condition that ends the encounter, which is the absence being named as an absence. Note who named it.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -298,17 +298,17 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Mourning a Life I Never Lived (N-Iα-519 [VP]) is logged as a Place-Grudge manifestation expressing Void. The Seed formed from potential that was removed before it could exist. Held at Zone A, Alpha Tree vault. It has never grown into a physical plant.
 
-**Entry 2 — <Excerpt from Field Log, Year 4238>**
-Its roots spread through ideas and memory.
+**Entry 2 — <Vault Measurement Log: Extent Against Intentions Spoken>**
+Thirty shifts, extent measured at handover. Shifts on which no open intention was voiced: four; mean growth, nil. Shifts on which one to three were voiced: nineteen; mean growth, eleven centimetres. Shifts on which more than three were voiced: seven; mean growth, thirty-four centimetres, and the largest single figure follows a handover during which two teams discussed a transfer neither of them had applied for. The log is kept in centimetres because that is what it does. It does not surge.
 
-**Entry 3 — <Excerpt from Counseling Log>**
-The grief of discovering that what you mourned was never actually there.
+**Entry 3 — <Statement of a Worker Who Named It as Never Having Been>**
+"It showed me a kitchen and a woman at the table and I understood I was supposed to feel robbed. What I said was: that never happened, and nobody is missing. It is the hardest sentence I have said at work, because it sounds cruel and there is nobody there for it to be cruel to. The edge came back about a hand's width while I was saying it. Afterwards I sat in the corridor for a while. Not because of the entity. Because I had to think about what I had said no to."
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Shows what was imagined but never formed. (Stable); Ferrehan: Tests whether the worker can accept nonexistence. (Decrease). Personnel report longing after exposure.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a healer who absorbed too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+The Keepers' record holds the plan this entity grew from in full detail, and the archive has decided not to reproduce any of it. The reasoning is operational rather than delicate: the management condition requires personnel to treat the shown life as something that never existed, and a file that sets out the names, the place and the intended work makes that sentence impossible to say honestly. Researchers requiring the material may apply to the Keepers. Nobody holding a vault rotation is to be granted it.
 
 ## 최종 관찰 (Final Observation)
 
@@ -337,12 +337,12 @@ A seed lies in a dark patch of floor. Roots spread from it, but nothing grows. Y
 
 Mourning a Life I Never Lived does not exist in isolation. Its recorded relationships with The Sorrow Seed, The Sunken Pillar, The Memory Well should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline it across a full shift rather than a session, since the reading responds to conversation and the quietest hour will misrepresent it. In shared conditions record whether the net grew toward the other entity, whether the growth followed anyone's speech, and whether the edge retreated at any point — retreat is rare and has never been explained.
 
 
 ### Entity Interaction Record
 
-Mourning a Life I Never Lived must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This entity is filed with the Alpha Tree vault records, which hold several things that grew from something that was not there. The relationships below are what the archive will support. They are not alliances; they are different kinds of nothing kept in one place, and in proximity they make each other harder to describe accurately.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -350,7 +350,7 @@ Mourning a Life I Never Lived must be assessed as part of an entity network, not
 | **The Sunken Pillar** | Both preserve unrealized possibilities. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Memory Well** | Reveals memories that are actually imagined. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Full-shift solo baseline first, then the shared encounter: extent before, during and after, the direction of any growth, how long it continued once the other entity withdrew, and the number of open intentions voiced by personnel during the overlap. The last field is the control and sessions without it are not comparable.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -392,14 +392,14 @@ Some sorrows mourn what was lost. Mourning a Life I Never Lived mourns what neve
 **Observation Notes:**
 - Formed from mourning a planned life that was never lived.
 **Cross-References:** Zone D · The Sorrow Seed · The Vanished Seed · The Dream Fragment
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED, whose surveys cover the vault approaches, and UCD, who hold the Fray-adjacent incident reports in which the original plan was first described as a memory.
 **Originator:** A citizen who mourned a future that never materialized.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this as a record of grief with nothing under it rather than of a growth. Every figure here follows from what personnel said they were going to do. The percentage is the whole mechanism — there is no counter to run down, and a silent shift in the vault produces no movement in either direction.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Sorrow Tide, after any expansion of the net, and after any roster change that leaves scheduled work unassigned — the last unconditionally, because unassigned work is an open intention held by the institution rather than by a person, and the net has responded to it. The review examines the roster, not the people on it.
 ## Trivia
 
 - No physical plant has ever emerged.
@@ -411,9 +411,9 @@ Some sorrows mourn what was lost. Mourning a Life I Never Lived mourns what neve
 
 - **Classification detail:** Mourning a Life I Never Lived is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone A, Alpha Tree vault.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by what is missing. Several root forms are catalogued; this is the one that has never produced a plant, and the absence of a plant is the identifying feature rather than an incidental one.
+- **Record detail:** Check the designation before approach. More than one vault record involves seeds, and they want opposite things — this one must not be planted, assisted, or described as having potential.
+- **Containment detail:** The entity does not need to breach to grow. It extends in a sealed vault with nobody present whenever work is left open elsewhere in the sector, and the containment reading is the measured extent rather than the state of the door.
 ## Document Information
 
 **Document ID:** SE-N-Iα-519
