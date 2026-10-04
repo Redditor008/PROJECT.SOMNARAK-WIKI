@@ -284,19 +284,19 @@ Each Emberling piece is an extension of a cold that gives light rather than ordi
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Emberling (`C-IIβ-101 [LS]`) presents as a child of about five, body woven of living tissue and slow embers, carrying one ember that does not die. Held at SECTOR-D-02 in the Echo Gardens. It has never attempted to harm anybody. It can leave, and has, three times, on foot.
-Emberling (C-IIβ-101 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Child formed from a forgotten fairy tale about a girl carrying embers through the cold while searching for warmth no one could give. Held at SECTOR-D-02, Echo Gardens — contained. The Child has never attempted to harm personnel.
+Registered dimensions, gait, ember temperature and the four-metre cold radius are in the appendix. The three departures are logged individually and none of them was a pursuit.
 
 **Entry 2 — <Excerpt from Field Log, Year 4226>** Walked the north path for two hours holding the ember at chest height. Personnel within four metres reported progressive cold; the thermometer reported ambient throughout. Flerehan and Ferrehan both brought the gauge down. Nobody touched it and it touched nobody.
-Wanders slowly through the facility, holding its ember. Personnel nearby feel increasing cold and the emotional absence of comfort. Flerehan and Ferrehan are consistently effective.
+The cold is reported by everybody within four metres and recorded by no instrument, which is stated here because the discrepancy was once treated as an equipment fault and three thermometers were replaced before anybody wrote the sentence down.
 
 **Entry 3 — <Excerpt from Counseling Log>** *<Warden, after a fourth consecutive watch>* — "It is not that it wants to be picked up. It has never reached past the last pace. It wants somebody to still be there in an hour, which I can do, and which turns out to be the hardest thing anybody has ever asked me for."
-The loneliness of needing comfort and finding no one able to offer it.
+The Warden asked, at the end of the session, whether the watch counted as work. The counsellor recorded that she did not know, that nobody present knew, and that the question was later answered by the activity review rather than by anybody in that room.
 
 **Entry 4 — <Containment Notice>** Management: sit within reach, remain, and do not take the ember. Pugnahan is prohibited. Refusal — declining, leaving early, or passing the watch to somebody else once the entity has approached — is the single documented escalation trigger on this holding and is logged by name, not as an incident.
-Management: Sit beside it, share warmth, and offer comfort. Do not chase or seize the ember.  Personnel who spend time near it report increased empathy and reduced detachment.
+Nothing in this notice is a request for warmth, empathy or feeling of any kind, and the earlier wording that asked for them was withdrawn in Y4243. What is required is physical presence for the stated duration. What happens inside the person providing it is not the facility’s business and has twice been held not to be.
 
 **Entry 5 — <The Dimming Series>** Across eleven years the carried ember was photometered every quarter-hour of every watch and every unwatched hour. The curve is reproducible to a degree nothing else in this wing approaches, and what it discriminates is set out in the Watch Record below. The archivist's note on the series is one line: it can tell the difference, and we cannot.
-Field analysis confirms the sorrow accumulated over cycles at this location until the Han reached critical density and the entity crystallized.
+No crystallisation event is recorded for this entity and none is claimed. It was found walking, already lit, on a path it had no reason to be on, and the file has never been able to say where it came from.
 
 ## 최종 관찰 (Final Observation)
 

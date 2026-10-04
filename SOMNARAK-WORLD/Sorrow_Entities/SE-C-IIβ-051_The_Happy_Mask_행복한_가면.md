@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Work the room, not the mask: the reading is of the people present and changes only when they do. |
 
 ### Operational Notes
 
@@ -314,7 +314,7 @@ Each Happy Mask piece is an extension of a required expression rather than ordin
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Happy Mask (C-IIβ-051 [VO]) is logged as a Object-Void manifestation expressing Void. The Mask formed from the sorrow of pretending to be happy. Held at SECTOR-C-01, contained with the Masked Troupe. The mask has never moved without a wearer.
+A lacquered market mask, fixed in a smile, light enough to hold in one hand and cold to the touch at every reading ever taken. Held at SECTOR-C-01 with the Mask Market holdings. It compels nothing and has injured nobody; what it does is read the room, and the reading is accurate.
 
 **Entry 2 — <Resonance Behind the Smile>**
 The mask reads warm in the presence of the Weeping and cold in the presence of the openly distressed, which is the first observation that pointed at what it actually measures. It is not responding to unhappiness. It is responding to unhappiness that is being held in.

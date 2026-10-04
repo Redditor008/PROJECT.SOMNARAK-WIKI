@@ -239,10 +239,10 @@ Each Soot Fry piece is an extension of an appetite with no object rather than or
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, date of last feed and its mass, current silhouette measurement, and the name of the bank observer. |
+| **Before use** | Wielder and grade; gauge at the bank; the operator’s own state recorded in their words; piece condition; the objective; the date and mass of the last feed; the silhouette measurement; and the name of the observer who will not be holding anything. |
 | **During use** | Contact time, the silhouette measurement at each interval, the bearer's reported urge toward the water, first cost, protected area, and whether the bearer has asked for food. |
 | **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether appetite suppression in the bearer has begun. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorisation, and a weight check on the bearer at four weeks. |
+| **After use** | How the piece came off, any injury, what persisted and for how long, the cooldown served, repair need, reuse authorisation, and a weight check on the bearer at four weeks — the last of which is on this form and on no other in the wing. |
 
 **Stat interpretation:** The ratings describe a Moderate (β) Subject that cannot leave its water, cannot be outfought at the bank, and has never injured anyone who kept their hands dry. Read them as a description of reach, not of force. Everything consequential about this holding happened on a requisition form.
 
@@ -274,7 +274,7 @@ Each Soot Fry piece is an extension of an appetite with no object rather than or
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Soot Fry (C-IIβ-947 [WS]) is logged as a Subject-Body manifestation expressing Weight. The entity is a 2.2 m featureless white Han-crystal fish that rests as a 20 cm black silhouette in a metre-wide Han puddle; it lunges to full size when prey enters the water and drags it under. Contained on-site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and feeding deepens the hunger.
+A featureless white Han-crystal fish, 2.2 m at full extension, resting as a 20 cm black silhouette in a metre of standing water that does not evaporate and has no inlet. It lunges to full size when something enters the puddle and takes it down into a depth that sonar does not return. Contained on site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and for sixty years the facility made it hungrier.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Worked via Viderehan and Ferrehan from the bank; no entry. The silhouette was logged at 20 cm; a probe-line triggered a full lunge — the body measured 2.2 m, the puddle's measured depth during the lunge returned null on sonar (no floor). When Sentinel Harin spoke the word "fly" near the bank, the fish went motionless for three seconds and the eye oriented upward. Note: the word appears to resonate with a sealed memory. Do not repeat it casually.
