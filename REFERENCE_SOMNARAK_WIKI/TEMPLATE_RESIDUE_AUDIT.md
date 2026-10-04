@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 41 / 303 dossiers free of template residue.**
+**Counter: 46 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,13 +225,30 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  4831   (prose only; R-23 furniture excluded)
-median generic fraction       0.086
+shared 8-grams (>= 10 files)  4790   (prose only; R-23 furniture excluded)
+median generic fraction       0.083
 worst                         0.291   SE-N-Iα-686 Torn Window
-clean at <= 0.05              100 / 303
+clean at <= 0.05              105 / 303
 ```
 
-**Counter: 100 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+**Counter: 105 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+
+**Third `R-25` batch, 2026-10-05 — five dossiers, five commits, all gated.**
+
+| Dossier | Before | After | Instrument |
+|---|---|---|---|
+| Once Upon `O-IIIγ-920` | 0.165 | **0.001** | a register of 74 stories, nine with no living recogniser |
+| Heirloom `O-IVδ-909` | 0.160 | **0.004** | four wall-survey pins: 3.1 m in Year 4,226, 4.4 m now |
+| Uprooted `O-IIIγ-959` | 0.151 | **0.004** | the nightly route plotted against nineteen abandoned plots |
+| Sleeping Tree `O-IIIγ-374` | 0.148 | **0.005** | quarterly girth at four stations and the four-minute creak interval |
+| Passing Bell `N-IIβ-919` | 0.140 | **0.001** | a ledger of 61 warnings, nine matched after the fact |
+
+All five Neutral. Once Upon and Passing Bell each lost a verbatim Tale-inside-Origin duplication,
+bringing that total to six — every one of them in a short-form dossier. Two follow-up commits
+(`754adcc7`, `1333850b`) restored closing pipes dropped from Once Upon's tables during the rewrite;
+`gate.sh` does not fail on `verify.py pipe False`, so the check must be read by eye after every
+table edit.
+
 
 **Second `R-25` batch, 2026-10-05 — five dossiers, five commits, all gated.**
 
