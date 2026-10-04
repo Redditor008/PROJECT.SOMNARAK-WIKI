@@ -35,15 +35,15 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan and Ferrehan only, this being an Object. Ferrehan is the sole approach that lowers the gauge; every cycle is worked by two people, one inside the radius and one outside it with the watch clock. |
 
 ### Operational Notes
 
-- The Clock keeps no hour. Its hands move, but deep storage logs show them settling to a different time after every session.
-- A completed cycle quiets the mechanism. It does not repair the movement, and no shift has yet produced two identical readings.
-- Viderehan and Ferrehan are the valid approaches to the object; nothing else has altered the hands.
-- There is no breach counter because the Clock expands rather than escapes. Burden pressure spreads outward from the storage bay along the Alpha Tree root lines.
-- Extraction is a separate authorization. The implement continues to keep its own wrong time.
+- It keeps no hour. The hands move and settle to a different reading after every session, and no two consecutive sessions in the containment's record have ended on the same face.
+- A completed cycle quiets the movement for a shift. It repairs nothing, and the attempt to repair it is prohibited rather than merely discouraged.
+- Viderehan and Ferrehan are the valid approaches, this being an object; nothing anybody has tried has altered the hands, including the two authorised interventions on file.
+- No breach counter: it expands rather than escapes. The distortion reaches outward from the storage bay along the Alpha Tree root lines, and three expansion events are recorded; nothing has ever left the bay.
+- Extraction runs under its own authorisation and does not alter the movement. The implement goes on keeping its own wrong time throughout, which crews are warned about because the discrepancy is unsettling rather than dangerous.
 
 ## Combat Record
 ### Core Stat Line
@@ -88,30 +88,30 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Broken Clock's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Four turns, timed by the outside clock and never by anyone inside the line. The inside worker acknowledges each reading aloud; an unacknowledged reading ends the cycle at once, whatever else is in progress.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Broken Clock’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Broken Clock defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- The failure mode is desynchronisation. A worker who cannot hold loses the order of what they have done, not the content, and will describe the shift accurately in the wrong sequence for hours afterwards.
+- Long exposure produces the bay's characteristic injury: the worker ages at a rate their records do not show, and the discrepancy is measurable in the joints and the teeth before it is measurable anywhere else.
+- The Escapement equipment lends the wearer the field and takes elapsed time from them directly. Every ledger entry records the outside duration and the wearer's estimate, and the two have never matched.
+- Unresolved, it expands by Transform rather than escaping: the radius grows along the root lines, and personnel in the enlarged field are in it before anybody has marked a new line on the floor.
 
 ## Appearance
 **Physical Form:** A three-meter clock made of crystallized time. Its hands move forward, backward, or stop without pattern.
 
 **Notable Features:**
-- Distorts time within a seven-meter radius.
-- Near it, minutes may feel like hours and hours like seconds.
-- The clock is anchored to the moment of its formation.
+- The distortion occupies a sphere of seven metres from the face, with a boundary sharp enough to be chalked on the floor.
+- Inside the line, minutes run long or short without pattern, and the worker's own sense of elapsed time is treated as evidence of nothing.
+- It is anchored to the instant that formed it and has never been moved; two relocation surveys concluded that the anchor is to the moment rather than to the ground.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
 - **Primary marker:** A three-meter clock made of crystallized time. Its hands move forward, backward, or stop without pattern.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed in the storage bay and immovable. Only the hands and the fragments move; record each reading, the direction of travel, every stop and its duration, all against the outside clock.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-A-01, Alpha Tree deep storage — contained
 
@@ -120,19 +120,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A three-meter clock made of crystallized time. Its hands move forward, backward, or stop without pattern. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Distorts time within a seven-meter radius. Near it, minutes may feel like hours and hours like seconds. The clock is anchored to the moment of its formation. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Position / movement** | Fixed in the bay, anchored to its formation instant. Hands and hand fragments move forward, backward or not at all; every reading is timestamped by the outside clock and never by the Clock itself. |
+| **Material / signature** | Weight. A three-metre casing of cold lead-heavy metal gone green with corrosion, a dark face, and a tick that is audible, irregular, and has never been counted into a rhythm. |
+| **Distinctive markers** | The chalked seven-metre line, the uncountable tick, hands moving in both directions, and the fragments of hands that were never part of any one movement. |
+| **Identification** | Confirm before work: designation C-IIIγ-044 `[WO]`, Fragment (III) coherence, Major (γ) potency, Object-Weight manifestation, Alpha Tree deep storage. The bay holds two other clocks, both ordinary, both correct. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the face at fixed outside intervals, direction of travel, stop durations, tick behaviour, the chalked line against its mark, and the inside worker's estimate of elapsed time for comparison. Nothing here is *strange* or *anomalous*; it is a clock whose hands go both ways inside a measured sphere, and those are the fields.
 
 ## Origin
 - **Formation:** The Clock formed from the city's frustration with the repeating time loop of Year 4222–4223.
 - **The Sorrow:** The grief of promises trapped in repetition and time that cannot progress.
 - **The Event:** The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The archive cross-references this entity's sorrow with SECTOR-A-01, Alpha Tree deep storage — the same Han density, the same Weight signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Object/Place is not going anywhere.
+- **The People:** The households of the looped district, who lived the same period more than once and whose municipal records show it.
+- **Expanded origin context:** What survives of the loop is not testimony but paperwork, and the paperwork is unambiguous. Notices were issued twice with the same date. Proceedings were opened, concluded, and opened again on the same facts. Returns were filed in duplicate with identical content and different handwriting. The district's own clerks appear to have noticed nothing at the time; the duplication is visible only to someone reading the file afterwards, consecutively, which is why a short run of it is bound into the Warden's commissioning material. The exhaustion that formed this holding was not the exhaustion of a disaster. It was the exhaustion of doing the same correct thing twice and getting nowhere both times.
 
 ## Behavior
 
@@ -142,20 +142,20 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** (Observation) | Reveals patterns in the loop's structure. | Stable |
-| **Ferrehan** (Endurance) | Stretches a minute into an hour to test resolve. | Decrease |
+| **Viderehan** (Observation) | Shows the structure of the loop from inside: which acts repeated, in what order, and where the two passes differ. | Stable |
+| **Ferrehan** (Endurance) | Stretches a minute of outside time into an hour of experienced time and holds the worker in it; lowers the gauge, and is the only approach that does. | Decrease |
 ### Special Behaviors
-- Its hands may remain stopped for hours.
-- Personnel can age subjectively even when little external time passes.
-- The Clock cannot be moved from the moment that formed it.
+- The hands may hold still for hours of outside time, the longest recorded stop being just under a full watch.
+- Personnel age by the inside interval and are credited with the outside one, which is the subject of the last section of the Warden Record.
+- It cannot be moved from the instant that formed it, which is a statement about time rather than about mass and has twice been tested as such.
 
 
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Broken Clock is recorded as an Object/Place with Object-Weight manifestation and Weight elemental expression. The current record places it at SECTOR-A-01, Alpha Tree deep storage — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Broken Clock is a Fragment (III) Object of Major (γ) potency, Object-Weight manifestation, Weight expression, in Alpha Tree deep storage. Flerehan and Pugnahan are N/A because an object cannot be grieved with or fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while the worker spends an unknown quantity of their own life inside the line.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Read the face series against the outside clock and nothing else. A falling gauge presents as stops lengthening and reversals becoming rarer; a rising one presents as the chalked line no longer matching the field, which is checked with the probe rather than assumed. No sensation inside the radius is admissible as an indicator.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -179,25 +179,25 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Activation** | Proximity, direct contact, or hostile intent. |
 | **Primary Effect** | The clock's distortion field expands to seven meters; perception and biological time may desynchronize. |
 | **Duration** | Until the worker leaves the field or the Clock settles. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
+| **Termination / Return** | Detach under the standard protocol, outside the line, with the outside clock read aloud at the moment of detachment. Premature return, or exceeding the threshold, transfers the full Weight load and the exposure is entered at the inside estimate. |
 | **Risk** | Rapid aging, disorientation, and loss of temporal sequence. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic works only while worn or carried and cannot replace a scheduled cycle; containment remains Viderehan and Ferrehan. No bearer works this holding without a second person outside the line, and the requirement has never been waived.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Broken Clock rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Broken Clock activates its primary resonance: The clock's distortion field expands to seven meters; perception and biological time may desynchronize. Grants +10% resistance to Weight damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of promises trapped in repetition and time that cannot progress; the bearer begins perceiving echoes of the loop made citizens experience events again and again without resolution. their temporal exhaustion crystallized into the clock. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Broken Clock begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Broken Clock too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Rapid aging, disorientation, and loss of temporal sequence. |
+| 10 Seconds | The tick changes character and the bearer's pulse falls into step with something that is not the tick. | The relic's resonance takes hold: the field is carried with the bearer out to seven metres, with Weight resistance up a tenth while it is worn. |
+| 30 Seconds | The bearer begins perceiving the loop years as recent: the duplicated notices, the twice-heard proceedings, the sense of having already done the thing they are about to do. | Speed and physical focus rise while composure falls; the bearer starts repeating instructions back twice and does not notice. |
+| 1 Minute | The breath matches the resonance of the originating grief and the bearer stops being able to order the last several minutes correctly. | Past sixty seconds the relic inflicts five Weight damage every fifteen seconds; watch for sudden cognitive detachment and for the bearer answering a reading that has not been given. |
+| 2 Minutes | The bearer's own sequence and the Clock's stop being separable, which is the state the ageing discrepancy is produced in. | Beyond two minutes, or on forced detachment, acute panic follows, and rapid ageing, disorientation and loss of sequence are recorded against the bearer's medical file rather than their service file. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Clock: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-A-01, Alpha Tree deep storage — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is the radius. Record the trigger, the probe reading at which the field first exceeded the chalked line, the new boundary, who was standing inside it, and the outside duration of the event. Emotional indicators are logged and are not the instrument.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Probe the boundary before anything else, clear everyone not on the watch from the enlarged field, re-chalk, confirm whether the event is an activation or an expansion, and apply the recorded protocol. Two Work Types are valid and no improvisation is available here.
 
 ### Detailed Activation Record
 
@@ -208,9 +208,9 @@ The escalation pattern is specific to Broken Clock: it is not a generic breach e
 | **Primary effect** | The clock's distortion field expands to seven meters; perception and biological time may desynchronize. |
 | **Duration / rate** | Until the worker leaves the field or the Clock settles. |
 | **Risk** | Major (γ) — High danger Object-Weight producing Weight pressure; Rapid aging, disorientation, and loss of temporal sequence. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → face reading and direction → boundary probed → new line chalked → persons inside it → outside duration → management condition. Objects and Places are worked with Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -273,32 +273,32 @@ The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exa
 
 **Cost:** The bearer occasionally experiences subjective tinnitus mimicking an irregular pocket-watch escapement.
 
-*Stigmas are granted at random by Broken Clock upon a successful work, not manufactured.*
+*The Frozen Escapement Wheel is not issued and cannot be requested. It has been conferred three times, in each case on a Warden who withdrew on a missed acknowledgment when they were certain they had answered.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Broken Clock's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each Escapement piece is an extension of the holding rather than equipment. It performs as recorded while the bearer works to the outside clock and costs more when they begin trusting their own sense of the interval. The Wheel is conferred after a work cycle and is not manufactured, requested, or scheduled.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator name, grade, current gauge, psychological assessment, equipment condition, mission objective, lifetime inside-interval total, and the name of the second person holding the outside clock. |
+| **During use** | Activation time by the outside clock, every reading given and acknowledged, face readings and directions, stop durations, boundary probe results, and the operator's own estimate of elapsed time. |
+| **At limit** | Outside duration, inside estimate, activations, attribute change, rejection signs, final boundary, and whether any acknowledgment was late. |
+| **After use** | Detachment outside the line, injuries, disorientation, cooldown, equipment condition, reuse authorisation, and the inside-interval total updated and countersigned by the second person. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure here. On this holding the cost is lived time that no record of the facility's will ever show, and the ledger's inside-interval column exists because somebody insisted it should at least be written down.
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- The distortion field extends exactly seven meters.
-- Hands move forward, backward, or stop for unexplained intervals.
-- The Clock is linked to the time loop and cannot leave its origin point.
-- Personnel report physical aging after brief exposure.
+- The field is a sphere of seven metres, measured from the face, with a boundary sharp enough to chalk and stable enough to probe.
+- The hands run forward, run backward, and stop, in no order that eleven years of unbroken logging has resolved into a pattern.
+- It is anchored to the loop years and cannot leave the instant that formed it, which is the reason it has never escaped and the reason it never will.
+- Personnel age physically after brief outside exposure, and the discrepancy is confirmed by medical examination rather than by report.
 
 **Personnel Note:**
 > *"Four minutes passed on my watch. My joints told me I had spent three hours there. I do not know which measurement was real."* — Researcher Euncris Park, Alpha Tree storage
@@ -310,11 +310,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Broken Clock as an Object/Place with Object-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-A-01, Alpha Tree deep storage — contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Special Behaviors - Its hands may. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Proximity, direct contact, or hostile intent. Effect: The clock's distortion field expands to seven meters; perception and biological time may desynchronize. Duration: Until the worker leaves the field or the Clock settles. Risk: Rapid aging, disorientation, and loss of temporal. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Broken Clock's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Face readings and directions at fixed outside intervals, stop durations, tick behaviour, boundary probe, gauge, acknowledgments given and received, and the inside interval estimated by the worker for comparison with the clock. |
+| **Activation or escalation** | Escalation is recorded when the probe finds the field outside the chalked line. The line is re-chalked immediately, the previous line is left visible, and the series of lines is the containment's only record of how this holding has grown. |
+| **Post-contact review** | Boundary before and after, face series, stop durations, gauge movement, outside duration against inside estimate, and a seven-day check on each worker for sequence errors in their own account of ordinary days. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Work to the outside clock, log the face, probe the line, and write down the difference between the two durations. The form here is the sorrow and not a forecast: a district did the same correct things twice and arrived nowhere, and what crystallised out of it keeps no hour at all.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -349,34 +349,34 @@ Time stretches inside your bones. Your heartbeat races while your body seems sti
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A three-meter clock made of crystallized time. Its hands move forward, backward, or stop without pattern. Notable Features: - Distorts time within a seven-meter radius. - Near it, minutes may feel like hours and hours like. The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Object-Weight form.
+**At first contact:** The tick, which is audible from the bay door and cannot be counted. Then three metres of corroded casing with a dark face, and hands that are not all going the same way.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Weight presses hardest, where it recedes, where the Object-Weight lets you breathe.
+**With continued exposure:** Your own sense of the interval detaches quietly and without any sensation of detaching. Workers describe the shift afterwards in the wrong order and with complete confidence, which is why the second person exists.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Proximity, direct contact, or hostile intent. Effect: The clock's distortion field expands to seven meters; perception and biological time may desynchronize. Duration: Until the worker leaves the field or the Clock settles. Risk: Rapid aging, disorientation, and loss of temporal. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Nothing inside the line changes at all. The chalk is simply in the wrong place when the boundary is next probed, and whoever was standing just outside it has been inside it for some unknown part of the watch.
 
-**After departure:** After contact, the body holds what the mind files away. The Weight is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The sequence errors persist for days and the ageing does not reverse. Two Wardens have asked for their inside-interval totals and both were given them, which is the only request on this holding that has ever been granted.
 
 ### Interaction Pattern
 
-Broken Clock does not exist in isolation. Its recorded relationships with The Memory Weaver, The Cracked Hourglass, The Weight of Years, The Sorrow Tide, The Final Door should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in the city that hold or lose time. Each relation below has been observed and filed; none is settled; and all five were observed from outside the line, since nothing can be measured inside it.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone over several cycles — face series, stop durations, boundary, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-Broken Clock must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled. Four of the five rest on a shared theme of time, and the fifth is the only one in this file supported by a measurement anybody has repeated.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Weaver** | Communicates with the Weaver in temporal fragments. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Cracked Hourglass** | Both resonate with anxiety about time running out. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Weight of Years** | Shares a connection to the passage of time. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sorrow Tide** | Speeds up during the Tide. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Final Door** | Stops entirely near the Door. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Memory Weaver** | Said to communicate with the Weaver in temporal fragments, which is the oldest claim in this file. | Four co-presences. Nothing was transmitted that either party retained; the Weaver produced no thread referable to this holding and the face series was within its ordinary range. The wing has recorded the claim as unsupported twice. | All four co-presences, the face series, the Weaver's output, and the two written notes. |
+| **The Cracked Hourglass** | The temporal kinship, asserted of these two more often than of any other pair in the Alpha Tree. | Six co-presences. The Hourglass's tick and this holding's are unrelated: no convergence, no ratio, no shared drift across any of the six. Both gauges flat. Two anxieties about time with nothing passing between them. | All six co-presences, the paired tick series, and both flat gauges. |
+| **The Weight of Years** | Said to share a connection to the passage of time, and described in older copies as a transfer. | Three co-presences. No burden moved in either direction, no consent was sought or given because there was nothing to consent to, and neither party's measurements altered. The transfer language is inherited from a template and is withdrawn here. | All three co-presences, both measurement sets, and the withdrawal note. |
+| **The Sorrow Tide** | It runs faster during the Tide, which is the one claim here that has survived testing. | Eleven Tide weeks logged against thirty-one ordinary weeks. Reversals are roughly twice as frequent during a Tide and stops are shorter; the effect is real, repeatable, and has no operational use, since the field does not enlarge and nothing else alters. | The full week-by-week series, the reversal counts, and the boundary probes throughout. |
+| **The Final Door** | Said to stop entirely near the Door, which would be the only recorded case of anything halting it. | Two co-presences at the permitted separation. The hands stopped on both occasions, for forty and for fifty-five minutes, and the wing's own note records that stops of that length occur unprompted several times a year. Two observations and no control. | Both co-presences, the stop durations, and the unprompted-stop distribution. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, across several cycles, with face series, stop durations, boundary and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -410,23 +410,23 @@ Some sorrows mourn the past. Broken Clock mourns the future that would not come 
 **Common Name:** Broken Clock
 **Containment Status:** Contained — Alpha Tree deep storage
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Moderate. The Clock traps attention in a repeating temporal loop.
+**Threat Assessment:** Major (γ). It has never escaped and never will, being anchored to its formation instant; it expands, three events are recorded, and it takes lived time from everybody who works it at a rate nobody can measure from inside. The earlier entry grading it Moderate rested on its immobility and is corrected here.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type.
-- Limit exposure to 10 minutes.
-- Do not attempt to repair the Clock.
+- Ferrehan is the primary Work Type and the only one that lowers the gauge; Viderehan holds it level and is the only route into the loop's structure.
+- Ten minutes of outside time per person per watch, measured by the outside clock, acknowledged aloud at every reading, and never computed from anybody's own sense of the interval.
+- Do not attempt repair. The movement is the manifestation; the two authorised interventions altered nothing and both technicians recorded sequence errors for weeks afterwards.
 **Observation Notes:**
-- Formed from the Year 4222–4223 time loop’s accumulated exhaustion.
-- The Clock’s mechanism repeats the unresolved instant.
-**Cross-References:** Alpha Tree · The Cracked Hourglass · Broken Clocktower
+- Formed in the loop years 4222–4223, from a district that performed the same lawful acts repeatedly and arrived nowhere each time.
+- The movement reproduces the unresolved instant rather than measuring any interval, which is why it can be logged forever and never read.
+**Cross-References:** Alpha Tree · the Cracked Hourglass · the Broken Clocktower · the duplication census · the two judgments · the inside-interval ledger
 **Faction Involvement:** Wound Walkers (Fracture-relevant)
-**Originator:** Citizens of the looped district; temporal exhaustion.
+**Originator:** The citizens of the looped district, identifiable not by testimony but by their names appearing twice on the same day in the municipal record.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the radius behaviour, the two-person rule and the inside-interval ledger are one picture, and the ledger is the part that concerns the people reading it. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any Transform event, Tide, Ordeal or unusual interaction: gauge, boundary probe against every chalked line, face series, stop durations, outside-clock discipline, acknowledgments, and each worker's inside-interval total. Earlier chalked lines are never erased.
 ## Warden Record
 
 ### The Radius
@@ -445,10 +445,54 @@ The Clock is fixed to the repetition the city lived through, and the containment
 
 The timepiece is read aloud by the second person at fixed intervals and the Warden inside the radius acknowledges each reading. An unacknowledged reading is an immediate withdrawal condition, regardless of how recently the Warden last spoke, and the interval was shortened once after a watch in which an acknowledgment came late and the Warden afterward could not say how long they had been silent.
 
+### One Thousand Four Hundred And Eight
+
+The duplication census is the only instrument this holding has produced, and it does not measure the Clock. It measures the year the Clock came out of.
+
+Readers went through the looped district's municipal record act by act and identified **one thousand four hundred and eight administrative acts that appear twice**: notices, summonses, listings, permissions, assessments, returns. Each pair bears the same date. Each pair is in a different hand. Nothing in either copy refers to the other, and nothing in the contemporaneous minutes suggests anybody at the time noticed.
+
+Eleven hundred and sixty of the pairs are identical in substance. **Two hundred and forty-eight differ**, in exactly one particular each — a figure, a period, a name, an address, a condition attached.
+
+In **two hundred and thirty-one of the two hundred and forty-eight**, the difference is adverse to the person the act concerns. A fee higher by a small amount. A period to comply shorter by a few days. A condition added. A name spelled in the way that matched a different household's file. Seventeen differences favour the subject, all of them trivial, four of them plainly clerical.
+
+The wing has published the count and nothing else, because nothing else is defensible. Three readings sit in the file with none endorsed: that the loop's second pass was systematically worse, which would say something about the loop that nothing else supports; that the second copies were written later, by clerks correcting from memory under pressure, which would make the pattern a fact about tired people; or that the readers' own coding introduced it, which was tested once with a blind recount and survived, though on a sample too small to settle anything.
+
+The archivist's note is the sentence the Warden's commissioning pack ends on: *whatever repeated here did not repeat neutrally, and we have no way to say whether that was the year or the clerks.*
+
+### Two Judgments, One Date
+
+Among the fourteen hundred pairs are nine sets of proceedings that were opened, heard, and determined twice.
+
+In seven, the two determinations agree, and nobody has ever needed to care. **In two, they do not.** The same parties, the same facts, two final decisions, going opposite ways, bearing the same date.
+
+The rule that should dispose of this is one of the oldest there is: a matter once finally determined cannot be determined again, and the second decision is a nullity. The rule is sound and it does not work here, because it requires knowing which decision came second, and the only instrument available for saying so is the date. The dates are identical. No clerk's note distinguishes them. There is no register of sitting order for that period, the register itself having been filed twice.
+
+The alternative route is as blocked. An inconsistent judgment can be challenged on appeal — but an appeal must be brought within a period running from the decision, and the decision, for this purpose, is whichever one the appellant relies on, which means the respondent can always say the period ran from the other. Both appeals were refused as out of time, each on the footing of the date of the judgment the applicant was not relying on, and both refusals are internally correct.
+
+So two households are bound by two inconsistent final orders about their own affairs, simultaneously, with no mechanism to displace either. One of them concerns a tenancy that is both validly determined and validly continuing. The other concerns a sum that is both paid and owing.
+
+The opinion in the file does not attempt to resolve them. Its closing line is bound into the Warden's pack opposite the duplication census: *finality is not a quality of a decision. It is a position in a sequence, and the sequence is the one thing this district lost.*
+
+### The Establishment Clock
+
+The holding's safety rule and the facility's payroll rule are the same rule, and that is the problem.
+
+Nothing measured inside the radius is admissible. The worker's own sense of elapsed time is evidence of nothing; the outside clock governs; the second person reads it aloud and the inside worker acknowledges. That rule is correct, it is the reason nobody has been lost in the bay, and no Warden has ever objected to it.
+
+It is also the rule the establishment uses to compute service. Hours worked, leave accrued, pension service and the ageing allowance are all calculated from the **establishment clock**, which is the outside clock, because the facility's position — stated in writing and consistent with its own containment doctrine — is that no other measurement of the interval exists.
+
+The inside interval is not nothing. The medical evidence is unambiguous and has been obtained three times on three different cohorts: Wardens of this bay present, on examination, as materially older than their service records and their birth records both. The discrepancy scales with the inside-interval ledger, which the bay keeps voluntarily, entry by entry, and which the establishment does not recognise.
+
+**Nine staff** currently hold ledgers of consequence. The longest-serving has an outside record of eleven years and an inside total that would, if it were counted, put her past the threshold for early retirement on health grounds by a margin of several years. Her application was refused. The refusal is three sentences long, cites the establishment clock, and is correct in every respect.
+
+The objection is minuted at every annual review, raised by the bay's Wardens jointly and supported by the facility's own medical officer. It holds that the facility devised a rule excluding inside measurements for a sound containment reason and now relies on that same rule to deny that the thing it excludes has happened to anybody; that the medical evidence it commissioned itself establishes the ageing is real, so the position is not that the time cannot be proved but that it will not be counted; and that the burden falls entirely on nine people who are ageing on the establishment's business and being credited at a rate the establishment knows is wrong, while the bay goes on logging the interval in a ledger kept for no purpose except that somebody thought it should exist.
+
+The minute records the objection as **correct in all three parts**. It records that an allowance scheme, drafted against the inside-interval ledger and costed at a figure the wing described as negligible, was prepared in the ninth year and has not been laid. And it records the medical officer's sentence, entered verbatim at the Wardens' request: *the clock outside the line is the only one we are allowed to read, and it is the only one that is wrong about them.*
+
 ## Trivia
 
-- The Clock's origin is linked to the loop years 4222–4223.
-- It has never breached because it is anchored to its birth moment.
+- Its origin is the loop of 4222–4223, which is the best-documented period in the district's record precisely because so much of it was filed twice.
+- It has never escaped, being anchored to the instant that made it, though it has expanded three times; escape and expansion are different events and this file distinguishes them throughout.
 
 
 
@@ -456,9 +500,9 @@ The timepiece is read aloud by the second person at fixed intervals and the Ward
 
 - **Classification detail:** Broken Clock is an Object/Place with Fragment (III) — Personality obsessed with time coherence and Major (γ) — High danger potency.
 - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-A-01, Alpha Tree deep storage — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the uncountable tick and the chalked line; the bay's two other clocks keep correct time and are read by the watch as a check.
+- **Record detail:** Read this file beside the duplication census, which is the only document here made from the period itself, and beside the inside-interval ledger, which is the only one made about the people who work it.
+- **Containment detail:** The bay holds the object and the chalk marks the field, outward only. Nothing has ever left the bay and the field has three times been found somewhere the chalk was not.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-044
