@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **254** |
-| Pending — no disposition-bearing line found by scan | 49 |
+| **Classified here, with a quoted line of evidence** | **261** |
+| Pending — no disposition-bearing line found by scan | 42 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,11 +30,46 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 254 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 261 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 49 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 42 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
+
+## Why the remaining entries are pending
+
+Recorded at the first `R-22` batch so that later batches do not re-walk the same ground. Of ten
+entities examined, three could be evidenced and **seven were held**. Both reasons are properties of
+the dossiers, not of the entities, and neither can be fixed by reading harder.
+
+**Reason 1 — the Entity Interaction Record is present but its effect cells are stock.** Three
+sentences recur across many files in place of an observed result:
+
+> *"May alter resonance, behavior, or containment stability; record the first measurable change
+> instead of assuming intent."* · *"Creates a transfer or connection between entities; record
+> consent, burden movement, and bond duration."* · *"Creates shared resonance; record amplification,
+> synchronization, and whether the effect spreads beyond the two entities."*
+
+These are instructions to an observer, not findings. They are identical across unrelated entities
+and therefore say nothing about any one of them. Quoting them as evidence would breach `R-19.3`.
+Held on this ground: **Chain of Memories** `N-IIIβ-200` (two of its three cells are stock).
+
+**Reason 2 — the Breach block is stock.** Six files share a verbatim breach description, differing
+only in the element word:
+
+> *"The entity's ‹element› influence expands beyond its registered area, corrupting everything it
+> touches."* · First Target: *"The nearest personnel or the one whose sorrow matches the entity's
+> origin."*
+
+A line that is word-identical across six dossiers cannot distinguish between them. Held on this
+ground: **Sorrow Mass** `C-Vω-925`, **Dreaming Plague** `N-IVδ-927`, **Dead Air** `N-IIIγ-929`,
+**Moktak** `N-IIβ-910`, **Miasma** `C-IVδ-922`, **Hatred Above** `C-IVδ-923`.
+
+**What this means for the workstream.** The pending pool is not a reading backlog. The entities that
+remain are the ones whose files do not yet say anything specific enough to classify, so the index
+can only reach them after those files are given bespoke interaction and breach text — authoring
+work, not reading work. Future `R-22` batches should expect a mixed yield and should report the held
+items with the reason, exactly as this one does.
 
 ---
 
