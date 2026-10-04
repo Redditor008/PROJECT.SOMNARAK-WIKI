@@ -16,10 +16,10 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **46 / 303** |
-| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **105 / 303** |
-| Archive median prose generic fraction | 0.083 |
-| **Dispositions classified (Workstream 5)** | **300 / 303** |
+| **Dossiers free of template residue (Workstream 6)** | **48 / 303** |
+| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **107 / 303** |
+| Archive median prose generic fraction | 0.082 |
+| **Dispositions classified (Workstream 5)** | **302 / 302 — CLOSED** |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
 
@@ -74,7 +74,7 @@ The owner is right and the `0.00%` is also right. `tools/boilerplate_report.py` 
 | Distinct residue lines | 135 |
 | Residue instances | 3382 |
 | Dossiers carrying residue | 278 / 303 |
-| **Dossiers clean (fixed counter)** | **46 / 303** |
+| **Dossiers clean (fixed counter)** | **48 / 303** |
 
 Opening baseline was 146 distinct / 3,745 instances / 11 clean. The first ten entities taken under this workstream were all drawn from the Workstream 5 pending pool, so each one closed a disposition row in the same commit as its clean.
 
@@ -139,11 +139,32 @@ That was the first, furniture-blind cut of the metric. On prose they measure **0
 ten are at the standard; the claim has been corrected here and in `R-24` rather than quietly dropped.
 What survives in a typical unrewritten file is the Combat Actions flavour text, the Battle Phases,
 the M.A.W. appearance and ability lines, the observation-stage cells and the stock interaction
-effects — 198 dossiers still sit above 0.05.
+effects — 196 dossiers still sit above 0.05.
 
 One generator artefact was found and repaired by this pass: 29 dossiers published an unevaluated
 Python expression in the Combat Record `Difficulty` row, with the entity's numeric suffix standing
 where the difficulty word belonged. All 29 were rebuilt from each file's own `Work difficulty` row.
+
+## Workstream 5 — Entity Disposition Index: CLOSED (2026-10-05)
+
+**302 / 302 entity dossiers classified, 0 pending.** The last three were Grasp `O-IVδ-762` (Neutral),
+Once Told `O-IVδ-930` (Neutral) and Dawn of Mourning `C-Vω-002` (**Negative** — Breach `Secondary
+Effect` raises every other holding's gauge 10% a turn and `First Target` inverts Hope Bearers, which
+is the `R-19` Negative mechanism on both limbs).
+
+Three corrections were made at closure and they matter more than the last three rows:
+
+1. **The denominator was wrong.** The index counted against 303 catalogued files, but one of them —
+   `Book_of_Regressor_Log_Dramaturgy.md` — is a side-story log with no SECC code and no mechanics.
+   It can never carry a disposition. It is now declared out of scope and the denominator is 302.
+2. **Ten entities had two rows each**, written in different batches, all in the Neutral section. The
+   old counter counted rows rather than distinct codes, so it read 300 when 299 entities were
+   covered. The thinner row of each pair was removed and the counter now counts codes.
+3. **The tooling now lives in the repository.** `verify.py`, `disp.py` and `gate.sh` had been kept
+   outside the repo and were lost when the sandbox reset; everything they had produced survived in
+   the working tree, but the tools themselves did not. They have been rebuilt in `tools/` and
+   `gate.sh` now fails the commit on an unclosed table row — the check that silently passed three
+   times during the `R-25` batches.
 
 ## Workstream 7 — The Reset Pass (PLANNED, not started)
 

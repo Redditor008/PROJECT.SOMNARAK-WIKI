@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 46 / 303 dossiers free of template residue.**
+**Counter: 48 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,13 +225,26 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  4790   (prose only; R-23 furniture excluded)
-median generic fraction       0.083
+shared 8-grams (>= 10 files)  4749   (prose only; R-23 furniture excluded)
+median generic fraction       0.082
 worst                         0.291   SE-N-Iα-686 Torn Window
-clean at <= 0.05              105 / 303
+clean at <= 0.05              107 / 303
 ```
 
-**Counter: 105 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+**Counter: 107 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+
+**Final `R-25` batch, 2026-10-05 — the three remaining unclassified dossiers.**
+
+| Dossier | Before | After | Instrument |
+|---|---|---|---|
+| Grasp `O-IVδ-762` | 0.136 | **0.002** | gap width against the figure's reach — short by a metre at all eleven positions |
+| Once Told `O-IVδ-930` | 0.130 | **0.001** | the utterance log: what was said, by whom, what arrived, and the lag in seconds |
+| Dawn of Mourning `C-Vω-002` | 0.013 | 0.013 | already bespoke; only a stock Stigma line was replaced |
+
+Dawn of Mourning needed no rewrite — it was written as canon from the start and scores 0.013. It had
+simply never been classified, which is worth recording: a dossier can sit unclassified for reasons
+that have nothing to do with its prose.
+
 
 **Third `R-25` batch, 2026-10-05 — five dossiers, five commits, all gated.**
 
