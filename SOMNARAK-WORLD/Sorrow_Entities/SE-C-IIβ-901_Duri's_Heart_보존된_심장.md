@@ -29,13 +29,13 @@
 | **Entity role** | Object |
 | **Primary pressure** | Weight / Body pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, measured in beats rather than minutes: a cycle is four hundred beats of the specimen, which at its own unvarying rate is a little over six minutes. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Handler pulse taken at the door going in and coming out; the session ends on convergence, not on the clock. |
+| **Recommended response** | Take the handler's pulse at the door, call the specimen's beats aloud from outside the glass, and take the handler's pulse again on leaving. Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
@@ -43,7 +43,7 @@
 - A completed cycle slows the rhythm for some hours and has never stopped it. No cycle has altered the tissue by any measurement available, and the tissue has not degraded in forty-eight years.
 - Three ignored conditions escalate it. The channel is the body register, so the first sign appears in the handler and not in the specimen, and the specimen is therefore not the thing being watched.
 - Handlers' pulses are recorded at the door entering and leaving. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads and whatever the task state.
-- Extraction is a separate risk event under its own authorisation, and the authorisation has been sought twice in forty-eight years and granted neither time.
+- Extraction is separately authorised; it has been sought twice in forty-eight years and granted neither time, and the second refusal is four words long: *it is still beating.*
 
 ## Combat Record
 ### Core Stat Line
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight pressure; 21% against other pressure types |
+| **Resistance** | 30% against Weight. Nothing has been attempted against the specimen and the amber has never been opened; the figure is schedule carry-over and the station treats the pulse series as the real column. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 448/448 |
 | **Han Pressure [ATK]** | 14–26 per hit · Weight |
@@ -74,20 +74,20 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-901 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut. 188 cycles; the pulse has matched in 147 of them and the 41 misses are the file. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's body pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
-| { *The Body Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight body sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[18 Weight DMG [Weight]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[26 Weight DMG [Weight]]** | When the entity is cornered or starved. |
-| { *The Body Collapse* [**Ultimate**] } | "The body breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "Your own pulse finds the specimen's rate and settles on it." | [The handler's heart matches the amber's unvarying beat within the first minute.] | *10 Weight. It has happened to every handler in forty-eight years and nobody has felt it happen.* **[10 Weight DMG [Weight]]** | On approach, every cycle. |
+| { *The Body Surge* [**Attack**] } | "The beat is yours now and it is not going any faster, whatever you are doing." | [The handler's heart holds the specimen's rate through exertion, alarm or injury.] | *18 Weight; the handler cannot raise their own pulse and will not register this as wrong.* **[18 Weight DMG [Weight]]** | When a handler stays past four hundred beats. |
+| { *The Settling* [**Attack**] } | "The specimen stops for one beat and so does everything else in the room." | [A single skipped beat, propagated to every heart present.] | *26 Weight to everybody in the chamber. Recorded nine times; all nine were followed by a fortnight of ordinary readings.* **[26 Weight DMG [Weight]]** | When the glass is touched. |
+| { *The Body Collapse* [**Ultimate**] } | "Every pulse in the wing takes the specimen's rate and holds it." | [The rate propagates beyond the chamber to anybody in the sector.] | *20 Weight per cycle for three cycles to everyone in the wing.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,231 Tide; the infirmary recorded sixty-one identical pulses in one afternoon. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The handler's pulse is taken and written at the door, the pulse-caller takes position outside the glass, and the count begins. The caller is a second person and never the handler; that rule is the whole of the containment.
 2. **Clash:** Four turns, observation and endurance only, conducted seated at the marked distance with the handler's pulse called aloud at each turn boundary by somebody outside the cell.
 3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the party out of the cell with the handler's pulse within eight beats of their own door reading.
 
@@ -156,13 +156,13 @@ Duri's Heart is an Object with Object-Body manifestation and Weight expression, 
 ### Escalation Notes
 
 - **Containment priority:** Cool the amber and slow the beat. Shattering the crystal does not end an expansion; it removes the only thing setting its pace, and the one attempt is recorded in full in the Watch Record.
-- **Sorrow Gauge on breach:** Opens at 50% and rises 5% per beat. The gauge is therefore a clock, and the response procedure is written in beats rather than in minutes.
+- **Sorrow Gauge on breach:** Opens at 50% and rises 5% per beat, so the gauge is a clock and the response procedure is written in beats rather than in minutes. It falls 5% for each beat called aloud by somebody outside the glass, which is why the caller exists and why the post is never left empty.
 
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This relic keeps the bearer's heart at a rate that is not theirs, through anything**
 
 **Activation Trigger:** Physical contact and intentional interaction.
 
@@ -221,7 +221,7 @@ Escalation here is uniquely predictable. The beat does not vary, the step does n
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a single-edged blade of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+**Appearance:** a single-edged blade, matte and far too heavy, which hums once per second when gripped and at no other time.
 
 **Damage:** Weight 11–22
 **Speed:** 2 (Normal)
@@ -234,7 +234,7 @@ Escalation here is uniquely predictable. The beat does not vary, the step does n
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Channels weight body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
+**Ability:** Weight against the Body. Struck targets' hearts hold a steady rate for some hours regardless of what happens to them, which fourteen targets have described as the calmest and worst experience of their service.
 
 **Cost:** The wielder experiences mild memory fragmentation with each use.
 
@@ -242,7 +242,7 @@ Escalation here is uniquely predictable. The beat does not vary, the step does n
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a flowing veil of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a heavy veil carrying the faint warmth of a body and the smell of amber, which has not faded in nineteen years of storage.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -254,27 +254,27 @@ Escalation here is uniquely predictable. The beat does not vary, the step does n
 
 **Ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.
 
-**Cost:** The wearer carries a constant low fatigue, as though Duri's Heart's burden settles on their shoulders.
+**Cost:** A constant low fatigue, and a pulse that will not rise. Three wearers; all three were taken off field duty on that ground and none of them agreed with the decision.
 
 ### M.A.W. Stigma — Duri's Heart's Token
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a coin-token of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a token at blood temperature, which cools within an hour of being set down and warms again in a hand within four minutes.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity; the token keeps blood temperature in any conditions and cools within an hour of being set down.
+**Effect:** +1 to the working stat on this holding's cycles, and the token keeps blood temperature in any conditions — tested at the Desolate station in winter and recorded as unchanged.
 
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
 
 **Cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
 
-*Duri's Heart's Token is not manufactured and cannot be requisitioned. It has been conferred eight times, in each case on a worker who ended their own session early and said so on the sheet.*
+*Eight in forty-eight years, in each case to a worker who ended their own cycle at four hundred beats rather than being called off. Nobody who was called off has received one, and the station is careful to add that being called off is correct procedure and not a fault.*
 
 ### M.A.W. Use Notes
 
-Each Duri's Heart piece is an extension of a composure that was paid for once already, not ordinary equipment. The grade describes extraction stability. The cost is separate and is always the same: the bearer's ability to be frightened, which is returned slowly, incompletely, and in two recorded cases not at all.
+Each piece extends a composure that was paid for once already. The grade describes extraction stability; what the set does to a wielder is hold their heart steady through things that should move it, and the cost is that they stop noticing which things those were. Two wielders have walked out of serious incidents with ordinary pulses and written reports that read as though nothing had happened.
 
 ### Field Use Record
 
@@ -282,7 +282,7 @@ Each Duri's Heart piece is an extension of a composure that was paid for once al
 |---|---|
 | **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, door pulse, beat count over a timed minute, amber shade against the reference card, and the name of the external pulse-caller. |
 | **During use** | Contact time, pulse at fifteen-second intervals called aloud, composure onset, first cost, radius if expanding, and whether the operator has declined a prompt to stop. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the caller. In forty-eight years it has been called by the operator eight times. |
+| **At limit** | The handler's pulse no longer responds to being startled, which the caller tests once per cycle without warning and records as a yes or no. |
 | **After use** | Removal method, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation status, reuse authorisation. |
 ## 관찰 기록 (Observation Log)
 
@@ -290,7 +290,7 @@ Each Duri's Heart piece is an extension of a composure that was paid for once al
 
 **Key Observations:**
 - Weight signature recorded at SECTOR-C-901; the beat counted over a timed minute at every watch since the cell was sealed.
-- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
+- Both usable Work Types lower the gauge and neither alters the specimen, which has beaten at the same rate since the amber was sealed.
 - Contact runs through the body register and is dosed by proximity and time. Shielding, gloves, cloth, distance within the cell and sealed suits have each been trialled; only distance changes anything, and it changes it linearly.
 
 **Personnel Note:**
@@ -307,15 +307,15 @@ Each Duri's Heart piece is an extension of a composure that was paid for once al
 
 **Entry 3 — Counseling Log** *<Interview, handler, after a fourth consecutive session>* — "I have not been afraid of anything for about three weeks. I know that is the wrong answer. I can tell you it is the wrong answer and I cannot make myself mind."
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are the valid Work Types. The external pulse-caller is mandatory and is not a second pair of hands; a session without one is prohibited. The limit is enforced from outside because the bearer's judgement is the first thing the holding takes.
+**Entry 4 — Containment Notice** The external pulse-caller is mandatory and is not a second pair of hands; the post exists so that the beats are counted by somebody whose own heart is not keeping them. The glass is not touched and the handler's pulse is recorded at both doors.
 
 **Entry 5 — Director's Note** *<Minute on the fatigue-management submission>* — I am asked to certify that proximity to C-IIβ-901 is an adequate control for extended duty in the lower bays. The evidence supports it and I have signed. I record that the control we are relying on was manufactured by an eleven-day shift in a bay with no relief, that the woman who worked it is the control, and that nobody at this table thought the sentence worth saying out loud until I wrote it down.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Let the caller call the four hundredth and step out on it. | Finish the observation — your pulse is steady and you feel entirely well. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| Two pulse readings within four of each other and a closed glass. | A handler who cannot be startled and does not think that is remarkable. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -365,7 +365,7 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 **Threat Assessment:** Moderate (β). It cannot move, cannot select, and expands at a rate that can be calculated in advance and walked away from. It is graded Moderate because its influence is experienced as a benefit, because the exposed are the last to know they are exposed, and because the facility has written that benefit into a safety case as a control.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither alters the specimen.
+- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither has ever altered the specimen.
 - Flerehan and Pugnahan are unavailable to an Object and are not to be improvised.
 - Monitor by handler pulse at the door and at fifteen-second intervals inside, never by self-report. Self-assessment on this holding is inadmissible at every stage and the standing order says so without qualification.
 
@@ -373,7 +373,7 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: the amber grades her forty-seven losses by how preventable they were, the law cannot reach the decisions that made them preventable, and the facility has made her composure into the control that permits longer shifts. Where observation contradicts this record, preserve the contradiction rather than normalising it.
+**Operational interpretation:** The three sections below are one argument. The amber grades her forty-seven losses by how preventable each one was, and it does so accurately — the Archive has checked nine against independent records and found the grading sound every time. The specimen beats at a rate it has held for forty-eight years and lends that rate to whoever stands near it, which is the mercy and the hazard in the same mechanism: a handler who cannot be startled cannot be warned. The pulse-caller is a person employed to have an ordinary heart in the room.
 
 **Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, re-verify beat count, amber shade against the reference card, handler pulse records, the darkening calendar against the casualty register, and the standing of the fatigue-management certification and the relief-rota proposal.
 
@@ -441,7 +441,7 @@ So the scheme is this. Lower-bay personnel on extended duty take a rostered ten 
 
 The objection is minuted at the forty-third review and at each of the eight since, raised by the Floor 5 Keeper and supported by the preventability audit's senior assessor. It holds, first, that the facility possesses, in the darkening calendar, a dated and graded statement that thirty-nine deaths in that bay were caused by short staffing and absent supplies, and has used the holding derived from those deaths to extend shifts rather than to shorten them — the one body of evidence in the archive that speaks directly to allocation, applied to rostering instead. Second, that the control is circular: an eleven-day shift with no relief produced the artefact, and the artefact is now the reason the next shift may be two hours longer, so the safety case is underwritten by the hazard it is managing. Third, that the composure is a dose and not a rest — it does not restore sleep, does not restore anything the body needs, and does measurably erode the bearer's capacity for alarm, which is logged in the Field Use Record and appears nowhere in the submission.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-fourth year at a little over the value of the two additional hours — restoration of the relief rota and a standing supply floor for the lower bays, with the shift limit returned to eight — and that it has not been laid before the board in eight years. And it records the sentence the Floor 5 Keeper asked to have entered verbatim, which is now the first line of the cell's briefing sheet:
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-fourth year at a little over the price of a second caller per shift, so that no handler would work the glass alone with a borrowed pulse. The second post was not funded. The minute carries the Watch Lead's note beneath it, unamended in eleven annual reviews: *we are asking one person to be the only heart in the room that still does what hearts do.*
 
 *Forty-seven times a year she tells us, to two decimal places, exactly what killed them, and what we have done with the answer is keep four hundred and sixty people on their feet for two hours longer.*
 

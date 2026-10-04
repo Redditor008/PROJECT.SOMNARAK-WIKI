@@ -286,7 +286,7 @@ Each Grimoire piece is an extension of an unanswered grievance rather than ordin
 |---|---|
 | **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, current line count, cover weight confirmed, register of openings checked for the operator's name, and the named attendant. |
 | **During use** | Opening time, page count at fifteen-second intervals, the point at which the account became checkable, first cost, and any request to continue. |
-| **At limit** | The operator reads a line aloud, or the cover is closed by somebody other than them. Both measures are recorded; the second has happened four times and is logged as a failure of the first. |
+| **At limit** | The operator reads a line aloud, or the cover is closed by somebody other than them. Both measures are recorded; the second has happened four times and each one is written up as a failure of the first. |
 | **After use** | Closure method, transcript sealed unread, register entry completed, lingering effects, cooldown, rotation status, reuse authorisation — which is never granted to the same reader twice. |
 ## 관찰 기록 (Observation Log)
 
