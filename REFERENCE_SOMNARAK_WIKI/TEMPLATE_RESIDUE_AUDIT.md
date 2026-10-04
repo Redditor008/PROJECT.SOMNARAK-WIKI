@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 51 / 303 dossiers free of template residue.**
+**Counter: 56 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,13 +225,36 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  4590   (prose only; R-23 furniture excluded)
-median generic fraction       0.077
-worst                         0.266   SE-C-Iα-884 Seething Tundra
-clean at <= 0.05              110 / 303
+shared 8-grams (>= 10 files)  4320   (prose only; R-23 furniture excluded)
+median generic fraction       0.071
+worst                         0.228   SE-O-IIIγ-915 Corrosion Dream
+clean at <= 0.05              116 / 303
 ```
 
-**Counter: 110 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+**Counter: 116 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+
+**First `R-26` batch, 2026-10-05 — five shipped; the ratchet did not fire, and why.**
+
+| Dossier | Before | After | Instrument |
+|---|---|---|---|
+| Seething Tundra `C-Iα-884` | 0.266 | **0.006** | tear count in the shard against the Gardens' deposit register |
+| Door to Nowhere `O-IIβ-922` | 0.256 | **0.002** | handle height against the district's movement orders |
+| The Maw `C-IVω-001` | 0.241 | **0.000** | 41 perimeter markers and a roll of 61 names out of a thousand |
+| Forgotten Soul `O-IIIγ-233` | 0.232 | **0.003** | track length and brightness against the facility's unnamed totals |
+| Drowned Echo `O-IIβ-378` | 0.232 | **0.005** | the interval between calls against the tunnel log's acknowledgement column |
+
+`R-26` allows seven, then ten, when the files are *simple*. These five were the opposite: 5,400–6,600
+words each, full Interaction Records, prose 0.23–0.27. By the rule's own test they are the hard
+category, and five was the honest number. The ratchet is live and will fire on the first batch that
+is genuinely short-form.
+
+**Method change, adopted mid-batch and worth keeping.** Seething Tundra was rewritten by replacing
+*sentences* and scored 0.048 — barely clean — because each rewritten line kept the tail of its
+generic original (*"Personnel should not transfer assumptions…"*, *"The R.D. record describes a
+living sorrow pattern…"*). Those tails are themselves shared text. Every file after it was rewritten
+by replacing **whole lines, keyed on a unique prefix**, and scored 0.000–0.005 on the first pass with
+no follow-up heredoc. The keyed-line form is now the default.
+
 
 **Fourth `R-25` batch, 2026-10-05 — three of five shipped, two held.**
 
