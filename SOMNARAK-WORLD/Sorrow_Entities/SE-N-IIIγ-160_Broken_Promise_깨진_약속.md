@@ -35,15 +35,15 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan and Ferrehan only, this being an Object/Place. Ferrehan is the sole approach that lowers the gauge; the management condition below must also be satisfied before a session counts as resolved. |
 
 ### Operational Notes
 
-- The promise is broken and still binding, which is the contradiction the Collector's Row file is built around.
-- Work settles it for a shift. The binding is unchanged, and no session has released anyone named in it.
-- Viderehan and Ferrehan are the valid approaches to the object.
-- No breach counter applies. Personnel do not make undertakings of any kind in the room, including procedural ones.
-- Residue is recovered from the Row floor under separate authorization, apart from the work cycle.
+- The promise is broken and still binding, which is the contradiction the Collector's Row file is built around and the reason the holding is graded Major rather than Moderate.
+- Work settles it for a shift. The binding is unchanged, no session has released anybody named in it, and the gauge returns to its opening band within two days.
+- Viderehan and Ferrehan are the valid approaches; Flerehan and Pugnahan are not merely unhelpful here but unavailable, this being an object.
+- No breach counter applies; the holding escalates on condition rather than on a count. Personnel make no undertakings of any kind inside the perimeter, including procedural ones and including the ordinary courtesies of a shift handover.
+- Shard residue is swept from the Row floor under separate authorisation, outside the work cycle, and is weighed; the weights are the basis of the fracture diagram.
 
 ## Combat Record
 ### Core Stat Line
@@ -88,27 +88,27 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Broken Promise's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Four turns, observation and endurance only. Nothing is said aloud that could be construed as an undertaking, and the team lead holds the single sheet on which the session's management condition is written.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resilience** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Broken Promise’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Broken Promise’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- The failure mode is a binding. A worker who speaks a promise in contact with a shard is held to it, emotionally and then physically, and the binding does not first check whether the thing promised is possible.
+- Long exposure produces the Row's characteristic injury: the worker stops being able to tell a commitment from a hope, declines to say anything that might be relied upon, and becomes unusable on any duty that involves reassuring a member of the public.
+- The Promise equipment is bought with the wearer's own undertakings. Every piece takes a real commitment from the operative's life and holds it as surety; the ledgers record which one, by name, and the entries are not redacted.
+- Unresolved, it expands by Transform rather than escaping: the binding reaches undertakings spoken outside the perimeter, and both recorded events were identified by staff finding themselves held to things said in the corridor.
 
 ## Appearance
 **Physical Form:** A shattered contract made of red Han-crystal. Its pieces hover and rearrange into incomplete signatures.
 
-**Notable Features:** It moves when someone makes a promise nearby and cracks further when that promise is broken.
+**Notable Features:** It shifts when any undertaking is spoken nearby, and fractures further when one is broken. It distinguishes inability from betrayal and reacts only to the second.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A shattered contract made of red Han-crystal. Its pieces hover and rearrange into incomplete signatures.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed within its mount; the fragments hover and rearrange continuously, which is not movement of the object. Record arrangement, fracture count, and residue weight.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-01, Collector's Row
 
@@ -117,19 +117,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A shattered contract made of red Han-crystal. Its pieces hover and rearrange into incomplete signatures. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Position / movement** | Fixed in the mount. The fragments hover and recompose endlessly into a signature that never completes; record the arrangement at the start of each watch from the fixed camera position. |
+| **Material / signature** | Grudge. Red Han-crystal, fever-cold to the hand, smelling of char; the light through the fragments is red and does not match the room's lamps. |
+| **Distinctive markers** | The incomplete signature, the fever-cold surface, the char smell, and the fracture diagram's count for the current cycle. |
+| **Identification** | Confirm before work: designation N-IIIγ-160 `[GO]`, Fragment (III) coherence, Major (γ) potency, Object-Grudge manifestation, SECTOR-C-01. Collector's Row holds three red-crystal objects and only this one rearranges. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Photograph the arrangement from the fixed mount at the start of each watch, count visible fractures against the diagram, weigh the swept residue, and note the char intensity. Nothing here is *strange* or *unsettling*; it is a shattered contract of red crystal attempting a signature, and those are the fields.
 
 ## Origin
 - **Formation:** The object formed from a promise that was used as a weapon.
 - **The Sorrow:** Betrayal—the grief of believing words and discovering that they were never intended to hold.
 - **The Event:** A Collector promised debt relief, then used the promise to secure another obligation.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this effect as "Sorrow Resonance" — the entity's sorrow resonates with the viewer's own hidden grief. Containment procedures require personnel to rotate every 72 hours. Extended exposure causes vivid dreams — dreams of lives never lived, of losses never mourned. The dreams.
+- **The People:** A household of Collector's Row, the Collector who offered them relief, and the debtor who signed twice.
+- **Expanded origin context:** Both instruments survive and are held on consecutive pages. The first lifts the debt and takes nothing in return. The second, executed nine days later, secures a larger obligation on the same hands and recites the first as its inducement. Nothing in the sequence was unlawful and nothing in it was concealed; the debtor read both and understood both. What formed in the Row was not the loss of the money. It was the discovery that the kind sentence and the ruinous one were the same manoeuvre, written by the same hand, in the same week.
 
 ## Behavior
 
@@ -139,15 +139,15 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the original promise and its betrayal. | Stable |
-| **Ferrehan** | Tests whether the worker will make a promise without certainty. | Decrease |
+| **Viderehan** | Reveals the original undertaking and its betrayal, in full, including the nine-day interval between the two instruments. | Stable |
+| **Ferrehan** | Tests whether the worker will commit to something they cannot be sure of; honest uncertainty lowers the gauge further than any vow. | Decrease |
 
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Broken Promise is recorded as an Object/Place with Object-Grudge manifestation and Grudge elemental expression. The current record places it at SECTOR-C-01, Collector's Row; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Broken Promise is a Fragment (III) Object/Place of Major (γ) potency, Object-Grudge manifestation, Grudge expression, held at SECTOR-C-01 in Collector's Row. Flerehan and Pugnahan are recorded N/A because an object cannot be grieved with or fought, which is the standing rule rather than a peculiarity of this holding; the working range is Viderehan and Ferrehan alone.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** Read it in the fracture count and the residue weight rather than in any sensation. A falling gauge presents as the arrangement slowing and the attempted signature holding its shape longer; a rising one presents as fresh fracture and heavier sweepings. The sensation in the room is an unreliable indicator here and has been wrong in both directions.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -171,25 +171,25 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Activation** | Speaking a promise while touching a shard. |
 | **Primary Effect** | Binds the speaker to the promise emotionally and physically. |
 | **Duration** | Until fulfilled, honestly withdrawn, or broken. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
+| **Termination / Return** | Detach only after the carried undertaking is discharged or honestly withdrawn aloud. Premature return, or withdrawal the operative does not mean, transfers the full Grudge load to the wearer. |
 | **Risk** | A broken promise causes the object's shards to appear around the speaker. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic works only while worn or carried, and only while the operative is carrying a real undertaking of their own. It supplements nothing: containment remains Viderehan and Ferrehan, and no relic session has ever counted as a work cycle.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Broken Promise rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Broken Promise activates its primary resonance: Binds the speaker to the promise emotionally and physically. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from betrayal—the grief of believing words and discovering that they were never intended to hold; the bearer begins perceiving echoes of a collector promised debt relief, then used the promise to secure another obligation. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Broken Promise begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Broken Promise too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers A broken promise causes the object's shards to appear around the speaker. |
+| 10 Seconds | The fragments settle toward the wearer and the field matches their pulse within a few beats. | The relic's resonance takes hold: the wearer's current undertaking is held as surety, and Grudge resistance rises by a tenth while it is worn. |
+| 30 Seconds | The wearer begins to perceive the nine-day interval between the two instruments as though it were their own week. | Speed and physical focus rise; composure falls at the same rate, and the wearer starts weighing every sentence before saying it. |
+| 1 Minute | The breath matches the resonance of the originating grief and the char smell is reported as coming from the wearer's own clothing. | Past sixty seconds the relic inflicts five Grudge damage every fifteen seconds; watch for sudden cognitive detachment and for refusal to answer direct questions. |
+| 2 Minutes | The wearer's surety stops feeling like theirs and the boundary between the operative and the debtor who signed twice collapses. | Beyond two minutes, or on forced detachment, acute panic follows and the shards manifest around the wearer as they do around anyone who has broken a promise here. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Promise: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-C-01, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is a Transform expansion of the binding rather than a breach of any boundary. Record the undertaking that triggered it, the fracture added, the range at which the binding took effect, and the point at which it stopped; the Row's telemetry is of limited use and the verbal record is the primary evidence.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Clear the perimeter of anyone who has spoken an undertaking in the last hour, confirm whether the event is a binding, an expansion or ordinary fracture, re-read the standing order aloud at the door, and apply the recorded protocol. Improvised Work Types are not available here; there are only two valid ones and both are listed.
 
 ### Detailed Activation Record
 
@@ -200,9 +200,9 @@ The escalation pattern is specific to Broken Promise: it is not a generic breach
 | **Primary effect** | Binds the speaker to the promise emotionally and physically. |
 | **Duration / rate** | Until fulfilled, honestly withdrawn, or broken. |
 | **Risk** | Major (γ) Object-Grudge producing Grudge pressure; A broken promise causes the object's shards to appear around the speaker. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** undertaking spoken → fragment response → range of binding → person bound → duration or discharge → fracture added to the diagram. Objects and Places are worked with Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -255,32 +255,32 @@ The escalation pattern is specific to Broken Promise: it is not a generic breach
 
 **Cost:** The wearer suffers physical pain if the promise is broken.
 
-*Stigmas are granted at random by Broken Promise upon a successful work, not manufactured.*
+*The Promise Shard is not issued and cannot be requested. It has been conferred three times, in each case on an operative who stated honest uncertainty aloud in the chamber and was not believed by their own team.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Broken Promise's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each Promise piece is an extension of the holding rather than equipment. It performs as recorded only while the wearer's surety is genuine; a surety the wearer does not actually hold costs more and tends to wake what is in the metal. The Shard is conferred by the entity after a work cycle and is not manufactured, requested, or scheduled.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator name, grade, current gauge, psychological assessment, equipment condition, mission objective, and the specific undertaking the operative is offering as surety, recorded in their own words. |
+| **During use** | Time of activation, fragment response, effect strength, area protected, first cost paid, and any sentence the operative speaks that could be construed as a further undertaking. |
+| **At limit** | Duration, activations, attribute change, rejection signs, fracture added, residue weight, and whether the surety still reads as genuine to the operative. |
+| **After use** | Detachment or discharge, injuries, lingering binding, cooldown, repair need, reuse authorisation, and the state of the surety: discharged, outstanding, or honestly withdrawn. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes the effect on entities and not the cost to the wearer, which is listed separately and is the larger figure here. On this holding the cost is a real commitment from the operative's own life, and three ledger entries record sureties that were never discharged.
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It moves when promises are spoken near it.
-- It distinguishes inability from deliberate betrayal.
-- Its shards can cut crystal but rarely cut flesh.
+- Any undertaking spoken within the perimeter disturbs the arrangement, reliably, including undertakings about trivial things.
+- It distinguishes inability from betrayal and reacts only to the second, which is the single most tested proposition in the file and has never failed.
+- Its shards cut crystal readily and flesh seldom; the injuries on record are shallow and all were sustained by people who had broken something they had said.
 
-**Personnel Note:** *"It was moving. I felt sorrow. The contract did not care whether the promise sounded beautiful; it cared whether someone had trusted it."* — Specialist, Zone C patrol
+**Personnel Note:** *"It did not care whether the promise sounded beautiful. It cared whether somebody had arranged their life around it. That is a harder test than ours."* — Specialist, Zone C patrol
 
 
 
@@ -289,11 +289,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Broken Promise as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-C-01, Collector's Row. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Speaking a promise while touching a shard. Effect: Binds the speaker to the promise emotionally and physically. Duration: Until fulfilled, honestly withdrawn, or broken. Risk: A broken promise causes the object's shards to appear around the speaker. Tool Use Profile. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Broken Promise's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Arrangement photograph, fracture count against the diagram, residue weight, gauge, char intensity, and a verbatim note of every undertaking spoken within the perimeter during the watch, including by visitors. |
+| **Activation or escalation** | A binding is recorded from the moment the undertaking is spoken in contact: who spoke, what was promised, to whom, the range, and whether discharge, honest withdrawal or breach followed. Breach adds a fracture and the diagram is updated before the watch ends. |
+| **Post-contact review** | Fracture count and residue weight before and after, gauge movement, every undertaking logged, and a seven-day check on each worker for new refusals to commit to anything in ordinary life. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Photograph, count, weigh, and write down what people said. The form here is the sorrow and not a forecast: a kind sentence and a ruinous one were written by the same hand in the same week, and what is left is a signature that cannot finish.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -328,32 +328,32 @@ The contract floats in pieces, each fragment bearing half a word. Say “I promi
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A shattered contract made of red Han-crystal. Its pieces hover and rearrange into incomplete signatures. Notable Features: It moves when someone makes a promise nearby and cracks further when that promise is broken. Identification Profile: The. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Object-Grudge form.
+**At first contact:** Red crystal in pieces, each fragment carrying half a word, cold enough to ache and smelling of burning. The arrangement turns a few degrees toward anybody who has just said they would do something.
 
-**With continued exposure:** With time the Object-Grudge becomes less a presence and more a climate — the Grudge is no longer an event but an environment, something you exist inside rather than encounter.
+**With continued exposure:** You begin editing yourself. Workers report rephrasing *I'll see you tomorrow* into something conditional by the second watch, and the file treats that rephrasing as the first measurable symptom rather than as caution.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Speaking a promise while touching a shard. Effect: Binds the speaker to the promise emotionally and physically. Duration: Until fulfilled, honestly withdrawn, or broken. Risk: A broken promise causes the object's shards to appear around the speaker. Tool Use Profile. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The fragments stop rearranging and hold still, which is the only time they do. Whatever was said is now load-bearing, and the person who said it can feel where it is attached.
 
-**After departure:** The containment boundary holds the Object-Grudge, but not the memory. Grudge residue settles into the bones like Han into the city's foundations.
+**After departure:** The binding does not lift at the door. Staff leaving the Row are asked, at the gate, whether they owe anyone anything said inside, and the question is on the gate sheet because answering it late has cost two people a great deal.
 
 ### Interaction Pattern
 
-Broken Promise does not exist in isolation. Its recorded relationships with The Broken Clock, The Inherited Debt, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other Row objects that preserve an obligation. Each relation below has been observed and filed; none is settled; and all three were tested under the standing order, which means no one involved was permitted to promise anything during the test.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone over several cycles — arrangement, fracture rate, residue weight, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-Broken Promise must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled. All three were proposed on the theme of obligation, and the Row's own figures have never turned the theme into a measurement.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Broken Clock** | Both preserve moments that failed to resolve. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Inherited Debt** | A promise can become inherited obligation. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Lost Prince** | Resonates with bonds broken without explanation. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Broken Clock** | Both are read as preserving a moment that failed to resolve. | Six co-presences. The Clock's interval was unchanged throughout and this holding added no fracture on any of the six; residue weight stayed within the ordinary weekly range. Neither gauge moved. | All six co-presences, the interval series, the fracture diagram for those weeks, and both flat gauges. |
+| **The Inherited Debt** | The most asserted pairing on the Row: an undertaking becoming an inherited obligation. | Four co-presences. No fracture, no transfer, and no binding passed between them in either direction. The Debt's own ledger did not alter by a single entry. The wing has written twice that the pairing is thematic and has twice been asked for it again. | All four co-presences, the unaltered ledger, and the two written answers. |
+| **The Lost Prince** | Resonates, residents say, with bonds broken without explanation. | Three co-presences. One fracture occurred during the second, and the watch log shows a Warden had broken an undertaking to a colleague twenty minutes earlier; the wing attributes the fracture to that and says so. No resonance measurement of any kind was obtained. | All three co-presences, the watch log for the second, and the attribution note. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, across several cycles, with arrangement, fracture rate, residue weight and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, every undertaking spoken by anybody present, and whether anything persists once the parties are separated.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -381,25 +381,25 @@ Some sorrows are about debt. Broken Promise is about the betrayal — the promis
 > *“The city’s promise of mercy, always a mechanism, always a hook.”* — Elder, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-160 [GO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Grudge · Object-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-160 [GO]` · Inner origin · Fragment (III) coherence · Major (γ) potency · Grudge · Object-Grudge manifestation. Earlier copies of this line recorded Echo (II) and Moderate (β); both are errors against the header and are corrected here.
 **Common Name:** Broken Promise
-**Containment Status:** Contained — Zone C
+**Containment Status:** Contained — SECTOR-C-01, Collector's Row, in a mount on the Row floor rather than in a cell.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. A promise used as a weapon. Effect: proximity induces the grief of exploited trust.
+**Threat Assessment:** Major (γ). It binds anybody who undertakes anything in contact with it, expands by Transform beyond the perimeter, and has produced two recorded expansion events. The earlier entry describing the threat as low is an error and is corrected here.
 **Containment & Handling Procedures:**
-- Pugnahan is the primary Work Type.
-- The promise is hollow; do not accept it.
+- Ferrehan is the primary Work Type and Viderehan holds the gauge level. Earlier copies named Pugnahan, which the Behavior table records as unavailable to an Object/Place; that line is an error and is corrected here.
+- Make no undertaking inside the perimeter, to the holding or to each other, and answer the gate question honestly on the way out.
 **Observation Notes:**
-- A Collector’s promise of relief used to secure deeper obligation.
-**Cross-References:** Zone C · The Collectors · The debt system
+- Relief was offered and taken, and nine days later the same hand secured a larger obligation on the same household, reciting the relief as its inducement.
+**Cross-References:** SECTOR-C-01 · Collector's Row · the two instruments · the fracture diagram · the withdrawal register · the shield-and-sword opinion
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** A Collector who offered false relief.
+**Originator:** A Collector of the Row who gave something away in order to take more, lawfully, in writing, within nine days.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the binding condition, the relic cost, and the quarterly management condition are one picture and no part of it is self-contained. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any binding, expansion, Tide, Ordeal or unusual interaction: gauge, fracture count against the diagram, residue weight, mount integrity, every undertaking logged in the period, and the standing of each entry in the withdrawal register. The diagram is never reset without authority at Directorate level.
 ## Warden Record
 
 ### Pieces That Rearrange
@@ -418,10 +418,48 @@ It fractures further when a promise is broken, and the accumulated damage is map
 
 A Collector offered to lift a debt and used the offer to secure another, and the commissioning file holds both instruments — the relief as drafted and the obligation that followed, on consecutive pages. Neither is annotated. They are placed in that order so that a reader encounters them as the debtor did, and the archivist's note confirms that the sequencing was deliberate and is the only editorial act performed on the pair. The diagram is redrawn from the original rather than extended, each cycle, by hand. The redrawing takes a week and is assigned to a single person so the convention does not drift. It has been done the same way since the first sheet and the completed sheets are kept together, which means the folder also records how quickly the damage has accumulated.
 
+### A Shield And Not A Sword
+
+The opinion in the commissioning file is nine pages long and the household lost on all of it.
+
+The relief was a gift. Nothing was asked for it and nothing was given in return, and an undertaking that is not bought is not an undertaking the courts will enforce; it is a kindness, and kindness creates no obligation in anybody. The second instrument was different in every respect that matters. It was paid for, it was executed, it recites its own consideration on its face, and nobody has ever suggested it is anything but perfectly good.
+
+So the two halves of a single manoeuvre arrive in law as opposites. **The promise that was meant to be relied on is a nullity. The promise that was meant to trap is absolute.** The first cannot be sued on because it was free. The second cannot be escaped because it was not.
+
+There is a doctrine for exactly this, and the opinion reaches it on page six. Where a person has acted to their detriment on an assurance, the assurance may bind the one who gave it even though nothing was paid — but only **as a shield and not as a sword**. It can be raised to defend against a claim. It cannot be used to found one.
+
+The household's position is on the wrong side of that line by a matter of sequence. Nobody sued them on the relief; there was nothing to sue on. They were sued on the second instrument, which the assurance does not touch, because the assurance concerns a different obligation entirely. To use the Collector's words against him they would have had to be attacked with those words, and he never needed to attack them with anything. He had a better document.
+
+The opinion's last paragraph is quoted in the Row briefing: *the doctrine protects the person who is struck. It has nothing to say to the person who was merely told something, and arranged everything around it, and was never struck at all.*
+
+### Thirty-Seven Withdrawals
+
+The management condition is a withdrawal, and the register is the instrument the Row is known for outside the wing.
+
+The holding settles below the twenty-five per cent threshold on one condition: a genuine undertaking, given by a real person to a real person, must be **honestly withdrawn aloud in the chamber** by the one who gave it. It does not respond to theatre. Rehearsed withdrawals, withdrawals of invented promises, and withdrawals the speaker does not mean have all been tried, in a run of eleven controlled attempts, and produced no movement at all.
+
+**Thirty-seven withdrawals** stand in the register. The gauge drop for each was measured and they are not equal. They sort cleanly, and the thing they sort by is not what the wing expected.
+
+The drop does not track the size of the promise, or its age, or the seniority of the person who gave it. It tracks **what the withdrawal costs the person it was made to**. Four withdrawals of substantial facility commitments to households that had already stopped expecting anything produced a drop of under two points each. Three withdrawals made in respect of recipients who had died in the interval produced **no measurable drop whatever**, and the attempt was abandoned after the third. The largest single reading in the file follows the withdrawal of a modest undertaking about a repair, made to a household that had, the register notes in a one-line entry, *rearranged a good deal around it*.
+
+The wing understood in the fifth year what it was holding: an instrument that reads, in points on a gauge, **how much a person had been counting on something**. A proposal to use the series as a welfare measure for the Row was tabled in the sixth year and refused, and the refusal is minuted in terms the archivist preserved deliberately — *we would be weighing people's hopes against each other, and we would have to break something to take each reading.*
+
+### The Quarter's Withdrawal
+
+The register is not a record of accidents. It is a schedule, and that is the part the ward officer objects to.
+
+Because the condition requires a genuine undertaking honestly withdrawn, and because nothing else works, the wing maintains the holding by **finding real commitments the facility has made and withdrawing them**, one a quarter, in the chamber. Nineteen of the thirty-seven were commitments to named households of Collector's Row: a repair, a transfer, a place, a payment, a visit. They were real when they were given. They were selected afterwards for withdrawal because they were real, since no other kind works.
+
+Recipients are informed **after** the withdrawal, by letter. This is not negligence and the file does not pretend it is. An undertaking withdrawn after discussion becomes a negotiated release, and a negotiated release produces no reading; the wing established this in the fourth year and has not tested it again, because the test consumes a commitment to do it.
+
+The objection is minuted at every annual review. It holds that the facility is selecting its own promises to people for breach, on a quarterly schedule, on the criterion that they are the ones most relied upon — which is to say it searches for the households that will be hurt most and goes to them; that the people concerned are not told in advance, cannot object, and are not compensated, because compensation would require admitting the commitment was owed, and the whole mechanism depends on the withdrawal being the facility's to make; and that the practice is now **structurally self-sustaining**, since the fracture diagram fills whether or not the wing withdraws anything, and the wing has therefore made breaking its word to the Row a standing quarterly requirement of containment with no end condition written anywhere.
+
+The minute records the objection as **correct in all three parts**. It records that a scheme to pay compensation out of the Row's own maintenance budget, without admission, was drafted in the eighth year and was never laid, because counsel advised that an unexplained payment following each withdrawal would itself be an admission. And it records what the ward officer said when the ninth-year withdrawal was read out, which the clerk minuted at her request and which has not been answered: *you keep it quiet by letting people down on purpose, and you have never once let down anybody who could afford it.*
+
 ## Trivia
 
-- It responds better to honest uncertainty than absolute vows.
-- Its original contract has no surviving complete signature.
+- Honest uncertainty settles it further than any vow; the strongest single reading on record followed a worker saying aloud that she did not know whether she could do what she had said.
+- No complete signature survives on the original instrument, and nine readings of the attempted name are held in the folder with none marked as preferred.
 
 
 
@@ -429,9 +467,9 @@ A Collector offered to lift a debt and used the offer to secure another, and the
 
 - **Classification detail:** Broken Promise is an Object/Place with Fragment (III) — Bitter and betrayed coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-C-01, Collector's Row.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the rearranging fragments and the fever-cold surface; the other red-crystal objects on the Row are inert and warm to the hand.
+- **Record detail:** Read this file beside the two instruments on their consecutive pages, which are the only documents here written by the people the holding came from.
+- **Containment detail:** The mount holds the object and not the binding. The binding reaches whatever is said nearby, which is why the standing order governs speech on the Row and not merely contact with the holding.
 ## Document Information
 
 **Document ID:** SE-N-IIIγ-160
