@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 48 / 303 dossiers free of template residue.**
+**Counter: 51 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,13 +225,28 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  4749   (prose only; R-23 furniture excluded)
-median generic fraction       0.082
-worst                         0.291   SE-N-Iα-686 Torn Window
-clean at <= 0.05              107 / 303
+shared 8-grams (>= 10 files)  4590   (prose only; R-23 furniture excluded)
+median generic fraction       0.077
+worst                         0.266   SE-C-Iα-884 Seething Tundra
+clean at <= 0.05              110 / 303
 ```
 
-**Counter: 107 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+**Counter: 110 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+
+**Fourth `R-25` batch, 2026-10-05 — three of five shipped, two held.**
+
+| Dossier | Before | After | Instrument |
+|---|---|---|---|
+| Torn Window `N-Iα-686` | **0.291** | **0.002** | forty-one hands in the glass, against the lower network's patrol sheet |
+| Floating Fragment `O-Iα-453` | 0.281 | **0.005** | audible radius in metres against the Row registry's open-file count |
+| Homeless Sorrow `O-IIβ-119` | 0.278 | **0.006** | occupancy hours in the assigned room against the sector's reallocation register |
+
+Torn Window had been the archive's worst file since the measure was introduced; the new worst is
+Seething Tundra `C-Iα-884` at 0.266. **Held: Seething Tundra `C-Iα-884` and Door to Nowhere
+`O-IIβ-922`** — not for any defect in the dossiers, but because the turn had already absorbed a
+sandbox reset and the rebuilding of the tooling, and `R-25`'s quality clause is worth more than its
+size clause. They are first in the next batch.
+
 
 **Final `R-25` batch, 2026-10-05 — the three remaining unclassified dossiers.**
 
