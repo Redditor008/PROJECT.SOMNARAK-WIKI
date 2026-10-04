@@ -16,7 +16,7 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **11 / 303** |
+| **Dossiers free of template residue (Workstream 6)** | **21 / 303** |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
 
@@ -68,11 +68,12 @@ The owner is right and the `0.00%` is also right. `tools/boilerplate_report.py` 
 
 | Measure | Value |
 |---|---|
-| Distinct residue lines | 146 |
-| Residue instances | 3745 |
-| Dossiers carrying residue | 292 / 303 |
-| **Dossiers clean (fixed counter)** | **11 / 303** |
-| Median residue lines per dossier | 13 |
+| Distinct residue lines | 136 |
+| Residue instances | 3481 |
+| Dossiers carrying residue | 282 / 303 |
+| **Dossiers clean (fixed counter)** | **21 / 303** |
+
+Opening baseline was 146 distinct / 3,745 instances / 11 clean. The first ten entities taken under this workstream were all drawn from the Workstream 5 pending pool, so each one closed a disposition row in the same commit as its clean.
 
 Threshold is ten, not thirty, because this defect clusters by entity *role*: six Object/Place dossiers sharing one word-identical breach block is the normal size of it, and a thirty-dossier threshold scores that as zero.
 

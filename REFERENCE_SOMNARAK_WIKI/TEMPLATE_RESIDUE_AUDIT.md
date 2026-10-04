@@ -32,6 +32,8 @@ separators, the five system blockquotes (R.D. Operational Record, R.D. Field Par
 Mechanics Reference, M.A.W. definition, Object/Place Work Rule), the rows whose value is forced
 by the SECC code or by the entity's role, and the two global combat rules.
 
+Opening baseline, 2026-10-04:
+
 ```
 dossiers                      303
 distinct residue lines        146  (shared by >= 10 dossiers)
@@ -41,7 +43,24 @@ clean dossiers                 11
 median residue per dossier     13
 ```
 
-**Counter: 11 / 303 dossiers free of template residue.**
+After the first ten entities:
+
+```
+distinct residue lines        136
+residue instances            3481
+dossiers carrying residue     282 / 303
+clean dossiers                 21
+```
+
+**Counter: 21 / 303 dossiers free of template residue.**
+
+The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
+closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
+Dead Air `N-IIIγ-929`, Dreaming Plague `N-IVδ-927`, Miasma `C-IVδ-922`, Hatred Above `C-IVδ-923`,
+Sorrow Mass `C-Vω-925`, Unwaking Block `N-IIIγ-908`, Dawn That Forgot `N-IIIγ-917`, Allhallow
+`O-IIIγ-916`. Each went from 13–22 residue lines and 34 verifier residuals to zero on both tools,
+growing by 850–1,100 words; none lost a section. The stock-breach-block holding ground named in
+the disposition index now holds nobody.
 
 Threshold ten, not thirty, because this defect clusters by *role* rather than across the whole
 archive. Six Object/Place dossiers sharing one word-identical breach block is the defect at its
