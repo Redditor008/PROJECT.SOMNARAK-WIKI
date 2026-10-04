@@ -15,7 +15,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — An empty cage of vertical bars that are not uniform metal: dark crimson, ridged, fused in places with what looks like calcified sinew and clenched-finger bone. The bars pulse together in a slow, angered rhythm. There is no door and no prisoner; the cage itself is what is furious. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Stationary — the frame has never moved from its marks. It does not travel; it enlarges, outward, against cut floor marks that are never moved back. |
 | **Location** | SECTOR-B-01, Zone B |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -32,15 +32,15 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
-- The Redcage holds something that has never been catalogued, and the bars are warm on the inner face.
-- Work cools the frame for a shift. The occupant is unaffected, and no logged cycle has opened the door.
+- The cage is empty, has always been empty, and has no door. The inner face of the bars is warmer than the outer face by a consistent margin, which is the only asymmetry on the object and the only reason anybody ever thought there was an inside.
+- Work cools the frame for a shift and changes nothing else. The bars return to temperature within a day, the dimension never comes back in, and no cycle in the record has reduced the count.
 - Viderehan and Ferrehan are the valid approaches to the object; the cage does not respond to anything else.
 - Grudge expression reaches the operative through the metal; gloves are mandatory and are replaced after each session.
 - Extraction is separate from work and never issued as a reward for a clean shift.
@@ -88,15 +88,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Redcage's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** Twelve turns, Viderehan and Ferrehan only, worked from outside the bars with gloves on. Nobody reaches between the bars, nobody attempts to open what has no door, and nobody argues with it — the gauge rises on resistance of any kind, including verbal.
+3. **Resolution:** Containment, management, retreat, or the documented condition: **the injustice is acknowledged aloud, in specific terms, by someone who had no part in it, and the gauge falls below 25%**.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
-- Redcage’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Redcage's dossier.
+- A worker who cannot hold against it becomes furious, and the fury is coherent rather than wild — it attaches to a real grievance the worker already had, argues it well, and does not feel like contamination from the inside.
+- The long-exposure effect is specific and is the reason sessions are capped: the worker becomes convinced that they are confined. It arrives in open ground, in corridors, outdoors, anywhere, and it does not present as fear but as grievance at being held.
+- The set charges in the same currency it pays out. Wielders gain protection that does not fail, and lose the ability to be anywhere without noticing the exits; the armoury's standing note is that this one is never issued to anybody currently subject to a disciplinary process, their own or somebody else's.
+- Unresolved, it does not break out. It gets bigger. The frame takes more floor, the marks are cut further out, and Zone B has less room in it than it did — which is the whole of the escalation and the only thing the holding has ever done.
 
 ## Appearance
 **Physical Form:** A large cage made from dark red crystallized rage. It is empty, but the bars pulse like a heartbeat.
@@ -117,19 +117,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A large cage made from dark red crystallized rage. It is empty, but the bars pulse like a heartbeat. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | Fixed in position, growing in dimension. Record the frame against every cut floor mark at each watch and speak the current dimension aloud at handover. |
+| **Material / signature** | Grudge. Dark crimson bars, ridged, fused in places with what resembles calcified sinew and clenched-finger bone, pulsing together in a slow angered rhythm; warm on the inner face. |
+| **Distinctive markers** | Vertical bars with no door, no hinge, no lock and no gap wide enough to pass a hand; an enclosure that cannot be entered or opened, and never held anybody. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Count the bars. That is the first field and it is counted rather than estimated, twice, by two people, because the count is the holding's primary series and a disagreement between the two counters is itself a reportable event. Then take the dimension against each cut floor mark, the inner and outer face temperatures at the three fixed points, and the pulse interval timed over a full minute. Photograph the gaps rather than the bars; a new bar appears in a gap, and the gap record is what makes an addition provable. Write concretely enough that another agent could identify the object from the words alone.
 
 ## Origin
 - **Formation:** The Cage formed from people imprisoned without cause.
 - **The Sorrow:** The fury of being trapped by a system that refuses to admit error.
 - **The Event:** Citizens were jailed for debts and crimes they did not commit; their rage became the bars of an empty cage.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
+- **The People:** Citizens of Zone B imprisoned for debts they did not owe and crimes they did not commit. Where the court records permit, they are named; the list is long, incomplete, and deliberately held open, and additions arrive from families and are entered without verification where verification is impossible.
+- **Expanded origin context:** The debts were real debts in the sense that somebody was owed something, and the proceedings were regular in the sense that every step was taken in the right order. That is what the file keeps returning to. Nobody in the chain did anything that would be identified today as misconduct: the Collectors filed, the clerks listed, the court heard what was put in front of it, and the people in the cells were the ones who could not afford to be represented. The archivist's note says the thing plainly — *this was not a failure of the system, it was the system working at the speed it was funded to work at* — and observes that the bars went on appearing long after the particular practice was abolished.
 
 ## Behavior
 
@@ -145,9 +145,9 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Redcage is recorded as an Object/Place with Object-Grudge manifestation and Grudge elemental expression. The current record places it at SECTOR-B-01, Zone B; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Redcage is an Object/Place with Object-Grudge manifestation and Grudge expression, in Zone B. Viderehan opens the particular injustice that formed each bar and moves the gauge not at all. Ferrehan — standing near sustained rage without feeding it — is the only Work Type that lowers it. Flerehan and Pugnahan are unavailable, and the Registrum entry naming Pugnahan is an error of long standing, corrected here and nowhere else in the archive.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Read it in the pulse and in the temperature gap. A falling gauge presents as a slower pulse and a narrowing gap between the inner and outer faces; the pressure drops, nothing is resolved, and the dimension stays exactly where it was. A rising gauge presents as argument. The worker begins making a case — a good one, about something real — and the pulse comes up with their voice. Log the deviation and log what the worker was arguing about, because on this holding that has twice been the useful field.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -158,7 +158,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Effect:** Releases a wave of anger and memories of unjust imprisonment.
 
-**Duration:** Until the Cage is closed and the injustice is acknowledged.
+**Duration:** Until the attempt stops and the injustice is acknowledged aloud. Nothing is closed, because there is nothing to close.
 
 **Risk:** The user may become convinced they are imprisoned even in open space.
 
@@ -170,7 +170,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Touching or attempting to open the Cage. |
 | **Primary Effect** | Releases a wave of anger and memories of unjust imprisonment. |
-| **Duration** | Until the Cage is closed and the injustice is acknowledged. |
+| **Duration** | Until the attempt stops and the injustice is acknowledged aloud; the object has no door and cannot be shut. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | The user may become convinced they are imprisoned even in open space. |
 
@@ -187,7 +187,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Redcage: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-B-01, Zone B, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is dimensional. Record the pulse rate at onset, the temperature gap, the bar count, the distance at which personnel first report grievance, the floor mark the frame has reached, and the point at which the advance stops. The emotional indicator and the physical one move at different rates on this holding and the file treats the gap between them as the finding rather than as noise.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -198,11 +198,11 @@ The escalation pattern is specific to Redcage: it is not a generic breach event.
 | **Trigger** | Touching or attempting to open the Cage. |
 | **Manifestation** | Object-Grudge |
 | **Primary effect** | Releases a wave of anger and memories of unjust imprisonment. |
-| **Duration / rate** | Until the Cage is closed and the injustice is acknowledged. |
+| **Duration / rate** | Until the attempt stops and the injustice is acknowledged aloud; there is no door to close and no mechanism by which the frame contracts. |
 | **Risk** | Major (γ) Object-Grudge producing Grudge pressure; The user may become convinced they are imprisoned even in open space. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → bar count, taken twice → pulse rate and temperature gap at onset → floor mark reached and whether a new mark was cut → personnel effect, with the grievance each affected worker reported → duration → acknowledgement made and by whom. Viderehan and Ferrehan only; nothing is reached through the bars at any stage.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -262,31 +262,31 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Cost:** The bearer's temper shortens.
 
-*Stigmas are granted at random by Redcage upon a successful work, not manufactured.*
+*The Cage Charm is not manufactured and cannot be requested; the object confers it rarely, and the armoury has never identified what distinguishes the sessions that produce one.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Redcage's element. No protocol produces Stigmas. They emerge from Redcage's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+All three pieces are made of the same thing the bars are made of, and they behave like it: they shield absolutely, they do not yield, and they will not let the wearer forget an injury. The listed benefit is real and the cost is that grievance becomes easier to hold and harder to put down. Forcing a piece against its design raises the cost rather than breaking the piece. No protocol produces a Stigma here.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and whether the wielder is party to any live grievance, complaint or disciplinary matter. The last field is a bar to issue, not a note. |
+| **During use** | Activation time, effect strength, the area protected, who was inside it, and the first cost noticed by anybody other than the wielder. |
+| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has begun describing a confinement that is not happening. |
+| **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and whether the wielder left the room without checking the door. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade states how hard a piece works and nothing about what it does to the person wearing it. This set performs well and has never failed in the field; the armoury's objection to it is that everybody who has carried it for a season has become harder to settle an argument with. Read both columns and authorise on the second.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The Cage is empty but never silent.
-- New injustice adds a bar.
-- It becomes hotter during Collector disputes.
+- It is empty and has always been empty, and the bars pulse continuously whether anybody is present or not.
+- A fresh injustice somewhere in the city adds a bar, in a gap, without warning and without any indication of what was done or to whom.
+- The inner face runs hotter during Collector disputes, measurably, and the correlation is the only external predictor the holding has produced.
 
-**Personnel Note:** *"It was mourning. I felt grief. The Cage was not mourning prisoners; it was mourning the fact that the city could keep building cages without ever filling them honestly."* — Specialist, Zone C patrol
+**Personnel Note:** *"It was not mourning prisoners. It was mourning that the city could go on building cages without ever having to fill one honestly. I counted the bars at the start of my watch and again at the end, and the second number was the one I had to say out loud."* — Specialist, Zone C patrol
 
 
 
@@ -294,12 +294,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Redcage as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-01, Zone B. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching or attempting to open the Cage. Effect: Releases a wave of anger and memories of unjust imprisonment. Duration: Until the Cage is closed and the injustice is acknowledged. Risk: The user may become convinced they are imprisoned even in. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Redcage's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | An empty crimson enclosure with no door, bars pulsing in unison, standing on a floor cut with dated marks that run outward from it in rings. |
+| **Sustained observation** | Bar count taken twice by two people, dimension against every mark, inner and outer face temperatures, pulse interval over a full minute, and photographs of the gaps rather than of the bars. |
+| **Activation or escalation** | Activation follows touching the bars or attempting to open an object that has no door. It releases a wave of anger carrying memories of unjust imprisonment, and it persists until the attempt stops and the injustice is acknowledged aloud. Record the bar count, the pulse rate, the temperature gap, the distance at which personnel first reported grievance, the floor mark reached, and whether a new mark had to be cut afterwards, before applying the response procedure. The acknowledgement must name the particular wrong rather than wrongfulness in general, and the name of whoever made it is entered in the log. |
+| **Post-contact review** | Count, dimension, whether a new mark was authorised, and what each affected worker was angry about — recorded in their own words and not summarised, because the summary has lost the useful part twice. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Work from outside the frame, gloved, on a capped watch, with the count taken at the start and the end. Record the first visible sign, the first emotional response and what preceded it, the first measurable change in pulse or temperature, and the condition that ended the watch. The appearance here is the history made visible and not a guide to behaviour: bars with nobody behind them are what a city's wrongful imprisonments look like once the cells themselves have been demolished.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -330,36 +330,36 @@ The cage has no door, and that is the whole of it: it was not built to hold anyt
 
 ## 감각 묘사 (Flavor Text)
 
-The Cage stands empty, pulsing with the anger of people who were locked away for nothing. You hear hands striking bars that no longer have bodies behind them. The door is open. No one leaves. The rage has forgotten that the prison ended.
+The Cage stands empty, pulsing with the anger of people who were locked away for nothing. You hear hands striking bars that no longer have bodies behind them. There is no door to open and no one to let out. The rage has outlived the prison, the practice, and everyone who signed the committals.
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A large cage made from dark red crystallized rage. It is empty, but the bars pulse like a heartbeat. Notable Features: It contains no prisoner, holds the rage of unjust confinement, and grows with every new. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Object-Grudge form.
+**At first contact:** An enclosure with no way in, pulsing like something alive, and a floor around it cut with dated marks in widening rings. Workers reach for the bars before they are told not to; the instruction is given at the threshold for that reason.
 
-**With continued exposure:** Sustained contact reveals the entity's rhythm — the Grudge pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
+**With continued exposure:** The anger arrives as reasoning. A worker finds themselves with a complete and well-ordered case about something genuinely unfair in their own life, and the case gets better the longer they stand there. Understanding what is happening does not weaken it at all.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touching or attempting to open the Cage. Effect: Releases a wave of anger and memories of unjust imprisonment. Duration: Until the Cage is closed and the injustice is acknowledged. Risk: The user may become convinced they are imprisoned even in. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Somebody has touched the bars, or tried to open a thing with no door, and the anger comes out as a wave carrying other people's imprisonments. It does not stop when the worker lets go. It stops when the injustice is said out loud, specifically, by somebody who had no part in it, and nothing else has ever ended an activation early — not distance, not force, not time, and not an apology offered on behalf of an office rather than in a person's own name.
 
-**After departure:** Departure is not relief. The Object-Grudge is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** The grievance travels out with the worker and attaches to whatever is nearest — a roster, a refusal, an old decision. The medical office logs the pattern specifically and the wing does not accept complaints filed within forty-eight hours of a watch here, a rule the staff association agreed to and reviews annually.
 
 ### Interaction Pattern
 
 Redcage does not exist in isolation. Its recorded relationships with The Iron Judge, The Debt Wall, The Angry Maiden should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone over a long series; the count rises on events outside the facility, so a single paired reading cannot be attributed to anything. Log the first mutual change with its distance, duration and trigger, the gauge movement on both sides, the effect on pulse and temperature, and whatever persists after separation. Re-verify each cycle; a Sorrow Tide or a transformation has inverted settled readings in Zone B before.
 
 
 ### Entity Interaction Record
 
-Redcage must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This holding is read against the other things the debt system left behind. The relations below have been observed and filed and none is settled; two of the three are hard to measure, because this object's own series rises on events nobody in the facility can see. A result obtained once carries no authority during a Sorrow Tide, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Iron Judge** | The Judge supplies the record of each injustice. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Debt Wall** | Both grow from institutional obligation. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Angry Maiden** | Her fire intensifies the Cage's rage. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Iron Judge** | The Judge holds the record of each proceeding, which makes it the only external source against which a bar could in principle be dated. | Attempted three times under authorisation and abandoned. No bar has ever been matched to a proceeding: the Judge's record is complete and the cage's additions carry nothing that could be matched against it. | The three attempts, the method used, and the reason each was abandoned. |
+| **The Debt Wall** | Both grew out of institutional obligation and both keep a total that only rises. | Six co-presences. Neither total moved in response to the other, and the wing's note is that the resemblance is thematic rather than operational and has misled two separate inquiries. | The six co-presences and the standing caution against reading the pairing as a mechanism. |
+| **The Angry Maiden** | The only pairing on file with a measurable effect: her presence raises the pulse rate and the inner-face temperature. | Measured across four approaches. The pulse rose on all four and returned to baseline within a day of separation; the bar count did not change on any of them, which is the part the file emphasises. | All four approaches, with pulse and temperature series and the unchanged count. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, approach along the marked floor rather than across it, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on pulse, temperature and dimension, and whatever persists after separation. The field this holding adds is the bar count, taken before, immediately after, and at seven days.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -393,17 +393,17 @@ Some sorrows mourn freedom lost. Redcage mourns the particular freedom of being 
 **Common Name:** Redcage
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. The Cage is an empty structure with bars of crystallized rage. Proximity induces fury in personnel. No breach; the Cage is static. Risk is emotional contamination.
+**Threat Assessment:** Major (γ). An empty frame that has never harmed anybody physically. Proximity produces articulate fury, long exposure produces a conviction of being confined, and the object's only action is to take more floor.
 **Containment & Handling Procedures:**
-- Pugnahan and Ferrehan are valid Work Types.
+- Viderehan and Ferrehan only; the older entry naming Pugnahan is an error and should not be relied on. The object is not confronted.
 - Do not enter the Cage. The bars carry the rage of the wrongly imprisoned.
 - Monitor personnel for unexplained anger after exposure.
 **Observation Notes:**
 - Formed from the accumulated rage of citizens jailed without cause.
 - The Cage is empty. The rage is not.
-**Cross-References:** Zone B · The Collectors · The debt system · The Giltong
+**Cross-References:** Zone B · The Collectors · the debt system · the Giltong · the cut-mark authorisation register
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
-**Originator:** Collective; citizens of Zone B imprisoned for debts they did not owe.
+**Originator:** Collective; citizens of Zone B imprisoned for debts they did not owe, named where the court records permit and listed incompletely on purpose.
 
 ### Registry Addendum
 
@@ -430,6 +430,42 @@ Marks are cut rather than painted and each carries its date, and setting a new o
 
 Entries in the register give the date, the authorising Warden, and the distance moved, and nothing else. The column for a reason was removed from the form early in the containment's operation after it was observed that every entry in it said the same thing. The removed column survives on the obsolete form stock, which was never destroyed and is still stored with the register, and new Wardens are usually shown a blank old sheet alongside the current one.
 
+### Four Hundred and Nine Bars, None Removed
+
+The count is the holding's instrument and it is the cleanest number in the wing: taken twice, by two people, from photographs of the gaps rather than of the bars, at every watch for nine years. **Four hundred and nine.** It was three hundred and sixty-one at commissioning.
+
+It is also, as a measurement, almost entirely useless, and the file is at pains to say so in the same paragraph. A new bar tells the wing that an injustice has occurred. It does not say what was done, or to whom, or by whom, or where, or when beyond the interval since the last count. **It cannot be disaggregated, cannot be dated, and cannot be acted on.** Three attempts were made to match additions against the Iron Judge's complete record of proceedings; all three were abandoned, because an addition carries nothing a record could be matched against.
+
+What the series does carry is one fact nobody has been able to argue away. **No bar has ever been removed.** In the same nine years, the courts have quashed **thirty-seven** convictions of the kind that formed this object — quashed them properly, on the record, with the convictions struck out and the names cleared.
+
+The count did not move. Not on the day, not in the following quarter, not at all.
+
+The file sets out the two possible readings and declines to choose between them. Either the object does not register a quashing, in which case it is a worse instrument than it appears; or a quashing does not undo the thing the object is counting, in which case it is a better one. **Both readings are printed. Neither is adopted.** The standing note adds only that the wing would prefer the first and has no evidence for it.
+
+### Quashed Is Not Innocent
+
+Thirty-seven convictions quashed; **three compensation payments made.** The gap is not an administrative failure and nobody involved in it did anything wrong.
+
+A quashed conviction means the case against a person has failed. It does not mean the person has been shown not to have done it, and compensation for wrongful imprisonment is paid on the second thing rather than the first — the applicant must establish their innocence, affirmatively, to a standard the original proceedings never required of anybody. **The burden that was never on them when they were convicted is on them when they ask to be paid.**
+
+The rule has a defensible purpose, and the file states it fairly: public money should not be paid out merely because a prosecution was imperfect, and a system that paid on every quashing would pay on technicalities as readily as on injustices. Nobody in the wing argues for its abolition.
+
+Its effect here is arithmetic. Of the thirty-seven, three could prove the negative — two because the real offender was later convicted, one because a dated record placed her elsewhere. **The other thirty-four were released, cleared on the record, and are owed nothing**, having spent between eight months and six years in cells that no longer exist, for debts the Collectors' own ledgers now show they did not owe.
+
+Those thirty-four are not compensable by the wing, not addressable by it, and not contactable through any channel it holds. Their names are on the list that is kept open.
+
+### There Are No Cells in Zone B
+
+What the wing could decide was what it would stop doing, and it has gone further than any comparable holding in the facility.
+
+**There is no detention capability within two kilometres of this object.** The wing closed its own Zone B holding cells, surrendered the authorisation, and had the rooms converted to stores — not reduced, not restricted, closed, with the instruction drafted so that it cannot be reopened by a local decision. Anybody in Zone B who must be detained, staff or public, is transported to Sector C, which takes **forty minutes each way**.
+
+The cost is not hypothetical and the file does not present it as a clean choice. Twice in nine years somebody who should have been held was released instead, because the escort was not available and the alternative was holding a person in a corridor with no lawful authority; one of those two went on to injure somebody, and the file names neither the released man nor the person he hurt, but records the injury and records that the wing's decision was a contributing cause. Once, a worker in acute crisis was physically restrained for the length of the journey by colleagues who had no training in it, because there was nowhere within forty minutes to put him safely. He returned to duty. He did not stay.
+
+**None of those three people can be compensated by the wing**, and the wing has not approached any of them, on legal advice it quotes without defending.
+
+The security office's objection is minuted at every annual review and has never been withdrawn. A wing that cannot detain cannot discharge its duty of protection; the forty minutes falls hardest on the people least able to wait; and the policy was adopted on the strength of a correlation the wing itself describes as unproven. The minute records the objection as **correct in all three parts**, records that the count rose through the two most recent reviews anyway, and gives the only answer on file: *every cell we keep inside the ring is a bar we are offering it.*
+
 ## Trivia
 
 - The Cage grows without adding physical material.
@@ -441,8 +477,8 @@ Entries in the register give the date, the authorising Warden, and the distance 
 
 - **Classification detail:** Redcage is an Object/Place with Fragment (III) — Furious and trapped coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-01, Zone B.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it by the absence of a door and by the dated marks cut into the floor around it; never by size, which is different from the last time anybody looked.
+- **Record detail:** This file should be read with the cut-mark authorisation register and the Zone B detention instruction beside it; most of what this holding costs the wing is recorded in those two documents and not in this one.
 - **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
