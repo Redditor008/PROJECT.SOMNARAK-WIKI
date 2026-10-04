@@ -32,10 +32,10 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan, one worker looking and one outside the session holding the clock. |
 
 ### Operational Notes
 
@@ -88,7 +88,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Cracked Mirror's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is no exchange to manage. The glass shows what it shows for as long as the worker keeps looking, and the only live decision in the session is who calls the end of it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
@@ -108,7 +108,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** An ancient mirror cracked across its surface. It shows truth rather than ordinary reflections.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed in its case and never relocated. What moves is the affected edge out across the Market, remeasured from the case at every session and never from memory.
 - **Element signature:** Void
 - **Registered location:** SECTOR-C-01, Mask Market
 
@@ -117,18 +117,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | An ancient mirror cracked across its surface. It shows truth rather than ordinary reflections. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Position / movement** | Fixed in the case. The influence edge is the only thing that travels, and it is measured outward from the case each session. |
+| **Material / signature** | Void. Corroded frame, bloodless-cold glass that gives back no warmth, the flat smell of ash, and a quiet that most observers describe as judgement. |
+| **Distinctive markers** | The crack is in the glass and not in the reflection. Personnel notice the discrepancy at different intervals, and how long it takes them is logged. |
+| **Identification** | Confirm the designation and the manifestation before work. The wing holds four mirror records and the protocols differ at the point that matters, which here is that nothing seen in the glass is written down. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the object and the edge. For the object: the frame, the corrosion, the count of fracture lines against the current overlay, and the absence of the crack in the reflection. For the edge: the distance from the case in each direction the Market allows, taken this session and not carried forward. What the glass shows a worker is not part of the appearance record and has no field anywhere in this file. Do not write it in the margin either; two Wardens have, and both entries were moved to their own voluntary statements and signed by them before anybody else read them.
 
 ## Origin
 - **Formation:** The Mirror formed from the sorrow of dishonesty.
 - **The Sorrow:** The grief of people unable to face their own truth.
 - **The Event:** Mask Market citizens sought mirrors that would flatter them; one mirror refused and cracked under the burden.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The citizens of the Mask Market who wanted flattering glass, and whoever made this one. The commissioning material is commercial — the trade, the prices, the workshops that supplied it — and shows an ordinary market meeting an ordinary demand, which the archivist's note says is the point of including it.
 - **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
 
 ## Behavior
@@ -139,15 +139,15 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Displays the truth behind the cracks. | Stable |
-| **Ferrehan** | Tests whether the worker can look without flinching. | Decrease |
+| **Viderehan** | The glass returns the viewer without the presentation, for as long as they keep looking, and the gauge does not move at all. | Stable |
+| **Ferrehan** | The worker keeps looking and does not turn away, which lowers the gauge and is the only cycle here that costs anybody anything. | Decrease |
 
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Cracked Mirror is recorded as an Object/Place with Object-Void manifestation and Void elemental expression. The current record places it at SECTOR-C-01, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Cracked Mirror is an Object/Place with Object-Void manifestation and Void expression, held in a case in the Mask Market. Viderehan is the whole of the ordinary work; Ferrehan is looking without turning away, measured in turns and ended from outside. Neither does anything to the fractures, which have not moved in the life of the holding.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** A falling gauge presents as the surface settling for a shift — the glass reading as glass, the edge drawing in a little, the quiet losing its weight. Nothing is resolved; the Market still wants flattering mirrors and this one still will not do it. A rising gauge presents as **agreement**: the worker begins to find the reflection fair, then useful, then worth showing somebody else. That is the point at which the session ends, because what follows is a worker trying to bring the glass into a matter it has no business in.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -202,7 +202,7 @@ The escalation pattern is specific to Cracked Mirror: it is not a generic breach
 | **Risk** | Moderate (β) Object-Void producing Void pressure; Identity crisis and emotional overload. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** gaze → first discrepancy noticed → edge distance from the case → duration of looking → who called the end → gauge. Viderehan and Ferrehan only. Nothing about content appears anywhere in the sequence.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -255,11 +255,11 @@ The escalation pattern is specific to Cracked Mirror: it is not a generic breach
 
 **Cost:** The wearer cannot lie convincingly.
 
-*Stigmas are granted at random by Cracked Mirror upon a successful work, not manufactured.*
+*The Lens is not issued. It appears on a worker who has looked for a full session without turning away, and the file records that it has never appeared on anybody who asked for it in advance.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Cracked Mirror's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+The set is drawn from the frame and the corrosion rather than from the glass, which has never been cut and will not be. Every piece shares the source's single property: it declines to improve what it is pointed at. The cost is uniform and is paid in the bearer's own estimate of themselves, which the armoury ledger states in those words.
 
 ### Field Use Record
 
@@ -276,11 +276,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- Its cracks correspond to truths someone could not bear.
-- It becomes clearer near masks and disguises.
-- It cannot be broken further by ordinary force.
+- Each fracture line answers to something that failed to hold, and there are forty-seven of them.
+- The glass sharpens near anything worn to be seen through, which in the Mask Market means it is at its clearest on an ordinary trading day.
+- Nothing has ever added a fracture: not handling, not the move into the case, not the two falls recorded in transit.
 
-**Personnel Note:** *"I felt peace. The Mirror showed me the truth without making it kind, and that was kinder than another lie."* — Researcher, R.D.
+**Personnel Note:** *"It showed me the truth without making it kind, and that was kinder than another lie. I asked whether I could have it written down. They said no, and then they explained why, and the explanation was the part I needed."* — Researcher, R.D., Mask Market
 
 
 
@@ -288,12 +288,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Cracked Mirror as an Object/Place with Object-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-C-01, Mask Market. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Direct gaze. Effect: Shows the viewer's true self without social masks. Duration: Until the viewer looks away. Risk: Identity crisis and emotional overload. Tool Use Profile — I-Relic Operational Rule: The relic remains active while attached to the operator. The. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Cracked Mirror's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | A cracked mirror in a case, and a reflection with no crack in it. How long the observer takes to notice that is the first thing recorded. |
+| **Sustained observation** | Fracture count against the overlay, edge distance from the case in each direction, and the duration of looking. The content of the reflection is not observed in any operational sense and is never entered. |
+| **Activation or escalation** | Direct gaze, which is also the ordinary work. It runs until the viewer looks away, and the risk is identity overload rather than injury; the viewer is not the one who decides when it has gone far enough. |
+| **Post-contact review** | Edge, fractures, duration, who called the end, and a counsellor available but not required. Anything the worker chooses to say afterwards is held as their statement, under their name, and is not an operational record. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Two people: one looking, one outside the session with the clock and the authority to end it. Record the first discrepancy, the fracture count, the edge, and the condition that ended the session. Nothing is asked about what was seen, by anybody, at any point — not by the timekeeper, not by the supervisor, not at review. A worker who volunteers it is writing their own statement and is told so before they start.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -304,7 +304,7 @@ Cracked Mirror (C-IIβ-310 [D]) is logged as a Object-Void manifestation express
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It becomes clearer near masks and disguises.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log, Year 4237>**
 The grief of people unable to face their own truth.
 
 **Entry 4 — <Containment Notice>**
@@ -340,20 +340,20 @@ The Mirror shows your face, then removes it. Beneath the face is fear, exhaustio
 
 Cracked Mirror does not exist in isolation. Its recorded relationships with The Broken Mirror, The Happy Mask, The Mirror of Sorrows should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone first. The relations on file concern reflection, concealment and truth-telling, so the question to settle is whether the fracture pattern changes in another presence — it never has — and whether the edge moves, which it does. Log the activating distance, the duration, the gauge on both sides, the edge series, and whether anything persists after separation.
 
 
 ### Entity Interaction Record
 
-Cracked Mirror must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Cracked Mirror belongs with the Market's other reflective holdings and is the only one that was asked for something and refused. The entries below have been observed and filed. None of them has ever altered the fracture pattern, which is the measurement that would matter, and the file states that plainly instead of implying influence it cannot show.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Broken Mirror** | Both reveal denied history and truth. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Happy Mask** | The Mask's false smile cracks before it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Mirror of Sorrows** | The Mirror of Sorrows shows emotional depth beneath its truth. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Broken Mirror** | Both give back something the viewer did not ask for. | Compared on paper only, and the comparison is in the briefing because the two have been confused. That holding shows what was denied; this one shows who is standing there. A Warden who treats them as the same record will run the right procedure on the wrong entity. | The briefing comparison, the re-briefing requirement, and the case that produced it. |
+| **The Happy Mask** | The Mask's smile fails in front of it. | Observed twice at the edge, both times with the Mask in transit rather than by arrangement. The Mask's own gauge rose and this one's did not move, and the fracture overlay was unchanged. The wing has not arranged a third and sees no question that a third would answer. | Both transit times, the Mask's gauge series, and the unchanged overlay. |
+| **The Mirror of Sorrows** | Two glasses that answer different questions about the same person. | Never brought together and formally excluded. A worker standing between them would be looked at twice over by two holdings whose output this facility has agreed in writing to make no use of, and the wing's note says the arrangement would be an experiment on a person rather than on an entity. | The exclusion with its reasoning and the review minute at which it was last restated. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, bring the second no nearer than the current edge, and log the first shared change with its distance, duration and trigger, the gauge on each side, and the edge measured before and after. The field this holding adds is the overlay check, run at the end of any pairing, because a changed fracture would be the first in nineteen years.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -400,9 +400,9 @@ Some sorrows are about lies told to others. Cracked Mirror is about lies told to
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The holding is simple and the discipline around it is not. A worker looks into the glass, the glass returns them without their mask, and the facility writes down none of it. Everything in this file is built around that refusal: no content field, no debrief question, no supervisor's enquiry, no use of the session in any proceeding, and no exception for a worker who wants there to be one. The fractures are traced, the edge is measured, the duration is logged, and the only person who ever learns what the mirror showed is the person who stood in front of it. Where the entity does something this file does not describe, write it down and leave the contradiction standing — unless what it did was show somebody something, in which case it is theirs.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any session, expansion or anomaly: fracture count against the overlay, edge from the case, exposure log, and gauge. Three further items apply here. Any content that has reached the operational record since the last review is moved to the author's own voluntary statement and signed by them, with no blame attaching. Requests to use a session as evidence in a proceeding are logged with the written refusal attached. And the annual overlay is traced by somebody who has not seen the previous one.
 ## Watch Record
 
 ### It Shows What Is Underneath
@@ -421,10 +421,40 @@ The mirror declined to flatter and broke rather than comply, and the file treats
 
 Citizens there sought glass that would improve them, and the commissioning material is commercial — the trade in flattering mirrors, the prices, the workshops that supplied them. It was a substantial business. The archivist's note states that the documents show an ordinary market meeting an ordinary demand and that nothing in them is sinister, which is the point of including them.
 
+### What the Overlay and the Edge Measure
+
+Two series, and they point in opposite directions.
+
+The fractures are traced onto an overlay once a year, by somebody who has not seen the previous one. **Forty-seven lines, across nineteen tracings, with no line added and none lengthened.** Two falls in transit and the move into the case are all recorded against that series, and none of them registers.
+
+The edge is the other series. The affected radius has gone on widening out from the case since the holding opened, slowly, and it is measured fresh at every session rather than carried forward. Stallholders inside it report customers leaving a sale mid-sentence without explanation. Those reports are collected and nothing is done with them.
+
+So the object is finished and the influence is not. The file prints both series on the same page for that reason: the overlay is the one number here that never moves, and a reader who sees only it will conclude that nothing about this holding is going anywhere.
+
+### Nothing an Entity Shows Is Evidence
+
+No statement, image or impression derived from a Sorrow Entity is evidence about any person, in any proceeding, for any purpose.
+
+The rule is right and the file would defend it against the very case that makes it hurt. A facility that admits entity-derived proof will have entity-derived proof demanded of it: first offered by the willing, then expected of the reluctant, then required of everybody, and at the end of that road a worker's standing depends on what a cracked mirror in a market thought of them. The archive does not need to imagine this; it holds the Mask Market's own trade records, which are a complete account of what happens when a city decides that glass can be asked who somebody really is.
+
+Here the rule costs something specific. **Four workers have asked to be examined in front of the glass as a defence.** Three were facing allegations; one simply wanted it on the record that they had looked and had not turned away. All four were refused, correctly. In one of the three cases the worker was cleared by ordinary means fourteen months later, and the fourteen months are in this file because the worker asked that they be.
+
+The glass is also, by every account anybody has given of it, accurate. The file writes that down rather than hiding behind the rule, and then says the rule stands anyway, because a method that is right about the innocent is the same method that will be used on everyone else.
+
+### The Explained Refusal
+
+What the wing can control is how the refusal is given, and it decided that an unexplained *no* reads as disbelief.
+
+A request of this kind now gets a written answer over the commander's own name. It sets out the rule, states that the refusal implies nothing whatsoever about the person asking, confirms that the request itself will not appear in their personnel file, and names the ordinary channels that can actually help them. **Four have been issued.** The worker keeps the original; the file keeps a copy only with their agreement, and in one of the four cases there is no copy here because the worker did not want one, which is recorded as a line stating that a fourth letter exists and is not held.
+
+Alongside it sits the voluntary statement. Anything a worker chooses to say about what the glass showed is written in their own words, signed, filed under their name, and is theirs — not an observation, not evidence, not available to any proceeding, and not readable by a supervisor.
+
+The advocates' objection is standing and the wing has never answered it. A rule that keeps entity evidence out of every proceeding protects the whole establishment and takes from the innocent the one thing that would have cleared them in a week; and the facility finds that trade comfortable because the cost falls on individuals, one at a time, while the benefit is institutional and permanent. The minute reads **correct, and no answer is attempted**. It is restated at each annual review in the objector's own words, which the wing has declined to paraphrase.
+
 ## Trivia
 
-- It shows truth, not an objective complete self.
-- The cracks become brighter after a lie is told nearby.
+- What it returns is the self underneath the presentation, which is not the same as a full account of a person, and the briefing says so twice.
+- The fractures brighten after something untrue is said in the room, briefly, and this is the one effect the wing has never managed to measure to its own satisfaction.
 
 
 
@@ -432,9 +462,9 @@ Citizens there sought glass that would improve them, and the commissioning mater
 
 - **Classification detail:** Cracked Mirror is an Object/Place with Echo (II) — Repeats reflecting coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-C-01, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the mismatch. The glass is cracked across its whole surface and the reflection is not, and no other mirror in the Market does that.
+- **Record detail:** The Broken Mirror, the Mirror of Sorrows and the Rising Mirror are separate holdings under separate management. A Warden trained on those is re-briefed before working here, a requirement that followed a case of somebody applying the wrong protocol correctly.
+- **Containment detail:** The case holds the object and does not hold the edge, which has gone on widening across the Market since the holding opened. Stallholders inside it report customers abandoning a sale mid-sentence and leaving without explanation; those reports are collected with the holding and nothing is done with them, because there is nothing to do.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-310
