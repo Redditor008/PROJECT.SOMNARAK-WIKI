@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Broken Well Fang, Plate and Lantern are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Work from the rail, tethered, with the annual search finding to hand. Flerehan and Ferrehan lower the gauge; Pugnahan hardens the rim and is prohibited. This is a Subject and all four Work Types are valid. |
 
 ### Operational Notes
 
-- The Well is phantasmal and has no shaft; objects placed into it rest on the Old Lament floor.
-- Work reduces its presence for a shift. It reforms in the same place, and the entity is not diminished by a successful cycle.
-- Three ignored conditions escalate it. Escalation is reported as depth — personnel describe the floor as giving way without any structural change.
-- Crews work with a physical tether to the doorway, since the hazard acts on judgement about the floor rather than on the floor itself.
-- Extraction is a separate risk event with its own authorization.
+- There is no shaft. A plumb line reaches the Old Lament floor at 1.1 metres and anything dropped in lands on it, in view, every time.
+- Work reduces the presence for a shift and reforms it in the same place. Nothing on record has diminished the figure itself.
+- Three ignored conditions escalate it, and escalation is reported as depth: personnel describe the floor as further away, with no structural change of any kind.
+- Crews work on a physical tether to the doorway, because the hazard acts on a person's judgement about the floor and not on the floor. The tether has been loaded twice.
+- Extraction is separately authorised and is taken at the rail, never over it.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,27 +87,27 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Broken Well's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Seven turns, tethered, at the rail, with the current search finding read at the first turn. Pugnahan hardens the rim and raises the gauge and is not authorised.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not enter the opening; listen from the edge**.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
-- Broken Well’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Broken Well's dossier.
+- The failure here is the lean. The worker stops standing at the rail and starts standing over it, and the tether is what the holding's safety record actually rests on.
+- Long exposure shifts the reported depth upward and keeps it there. Both long exposures on file produced workers who could see the floor and could not believe in it.
+- The Broken Well equipment lends the wearer her endurance at an edge and takes the ability to stop looking for something. Every wielder's debrief has recorded a search of their own resumed.
+- Unresolved, it breaches by Transform: the opening spreads through the floor of the sector and draws personnel toward a depth that is not there.
 
 ## Appearance
 **Primary Form:** A ghostly figure rising from a broken well, weeping for losses no one remembers.
 
-**Notable Features:** It appears beside collapsed wells, reflects grief in dark water, and waits for someone to look down.
+**Notable Features:** A figure half-flesh and half-mist at the rim of a dry well, weeping without sound, whose lower body goes into the dark and whose tears fall back as dust. It does nothing at all until somebody leans over the edge.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A ghostly figure rising from a broken well, weeping for losses no one remembers.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Fixed at the rim; it has never been recorded away from the opening. Record the figure's height above the rim, the reported depth, and whether anybody crossed the rail.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament
 
@@ -116,36 +116,36 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ghostly figure rising from a broken well, weeping for losses no one remembers. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Position / movement** | At the rim, rising a measured height above it, never leaving. Record the height, the reported depth from each person present, and the tether status. |
+| **Material / signature** | Grudge. Fever-cold, smelling of char and old rain, half-dissolved into the opening; tears that leave dust on the stone and no water anywhere in the holding. |
+| **Distinctive markers** | A mourning figure at a dry rim, dust where tears fall, a shaft that reads 1.1 metres on a line and far deeper to everybody who looks. |
+| **Identification** | Confirm before Work or contact: designation C-IIβ-565 `[D]`, Grudge expression, Subject-Phantasmal manifestation, Echo (II) coherence, Old Lament in Zone B. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the figure's height above the rim, the reported depth from every person present separately, and the plumb reading. Report the depths as a set and never as an average; the spread between observers is the measurement that matters. Do not write *strange* or *anomalous*; she is cold, grey, soundless and waiting, and those are the fields.
 
 ## Origin
 - **Formation:** The Well formed from a mother's grief after failing to protect her child.
 - **The Sorrow:** The pain of searching for someone in a place that cannot answer.
 - **The Event:** A child disappeared into a Han-softened well; the mother remained beside it until the well became a figure.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **The People:** One woman of Old Lament, her child, and the search party that worked the shaft for nine days before the authorisation to stop was given.
+- **Expanded origin context:** A child went into a Han-softened shaft in Old Lament and was not recovered. The search ran nine days and was then stopped, properly, on an authorisation that is in the folder and that nobody has ever criticised. The mother stayed at the rim. She stayed after the party left, after the district stopped asking, and after the shaft had firmed up enough to walk on, calling a name down a hole that no longer went anywhere. What formed there is not the child and does not claim to be: it is the asking, with nothing left on the other end of it.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Pauses and acknowledges shared sorrow. | Decrease |
-| **Pugnahan** | The well hardens and the figure retaliates. | Increase |
-| **Viderehan** | Reveals the child's disappearance. | Stable |
-| **Ferrehan** | Pushes the worker to wait beside the broken opening. | Decrease |
+| **Flerehan** | Stops weeping and turns toward the worker, acknowledging a grief that is not hers; the only approach she responds to as though somebody were present. | Decrease |
+| **Pugnahan** | The rim hardens, the reported depth jumps, and the figure strikes at whoever is nearest the edge. | Increase |
+| **Viderehan** | Shows the disappearance, in full, from her position at the rim and never from inside the shaft. | Stable |
+| **Ferrehan** | Requires the worker to wait at the opening and do nothing, for as long as she does; the longest authorised session is fifty minutes. | Decrease |
 
 
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Broken Well is recorded as a Subject with Subject-Phantasmal manifestation and Grudge elemental expression. The current record places it at Zone B, Old Lament; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Grudge expression, fixed at the rim of a dry opening in Old Lament, Zone B. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it and hardens the rim; the earlier entry naming Pugnahan as primary is an error and is corrected here.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Read it in the reported depth. A falling gauge presents as the depths coming in toward the plumb reading and the spread between observers narrowing; a rising one presents as the depths diverging, which happens before anything visible changes at the rim. The instrument confirms the depths afterwards and has never led them.
 ## Breach Behavior
 
 > *"Broken Well has broken free. Draws personnel toward its depths."*
@@ -153,16 +153,16 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Broken Well expands beyond containment like a spreading tide. It draws personnel toward its depths. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
+| **Movement** | The opening spreads. Floor across the sector begins reading as rim, and personnel walk toward edges that the structure survey says are not there. The figure itself does not move. |
+| **Effect** | Depth where there is none. Workers stop trusting the floor, and the ones who are drawn in are found standing over flat ground, looking down. |
+| **Secondary Effect** | Everybody present becomes certain something is at the bottom. Three of the four breach reports contain the phrase, written independently, that they could hear somebody answering. |
 | **First Target** | Whoever remembers least. It draws those with no recollection of the losses it weeps for. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Staff the perimeter with personnel who hold the relevant records. Remembering aloud halts the draw.
+- **Containment priority:** Staff the perimeter with personnel who hold the search record and have them read the findings aloud. Remembering halts the draw; it has halted it three times out of three, and force has never been attempted.
 - **Sorrow Gauge on breach:** Opens at 45% and rises 10% per person drawn toward the depths.
 
 ## M.A.W. Equipment
@@ -217,7 +217,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Cost:** The wearer sees every failed rescue in the light.
 
-*Stigmas are granted at random by Broken Well upon a successful work, not manufactured.*
+*The Broken Well Lantern is not issued and cannot be requested. It has been conferred three times, in each case on a Warden who waited the full session at the rim and reported the depth honestly afterwards, including when their own number was the outlier.*
 
 ### M.A.W. Use Notes
 
@@ -238,11 +238,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It appears around broken wells and collapsed foundations.
-- It communicates through reflected emotion.
-- Personnel report weight after looking into the opening.
+- She is found at dry openings and collapsed foundations, never at a working well and never at water.
+- What comes back from the dark is whatever grief was brought to the rim, returned at the same weight.
+- Personnel who look in report weight afterwards, and report the opening as deep, consistently, for days.
 
-**Personnel Note:** *"I felt weight. The Well did not show me a monster. It showed me a mother still waiting for an answer the ground could never give."* — Researcher, R.D.
+**Personnel Note:** *"There is no monster down there. There is a woman who has been asking the same question for four hundred years into a hole with a floor in it at waist height, and the awful part is that she knows there is a floor."* — Researcher, R.D.
 
 
 
@@ -251,11 +251,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Broken Well as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, Old Lament. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Broken Well's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Figure height above the rim, each observer's reported depth recorded separately, the plumb reading, tether status, and the date of the most recent search finding. |
+| **Activation or escalation** | Escalation is divergence in the reported depths. When the spread between observers exceeds four metres the session closes; the threshold is numeric and the clock-holder applies it from the doorway. |
+| **Post-contact review** | Depths before and after for every observer, whether anybody crossed the rail, and a counsellor's note at 14 days directed at whether the worker has resumed a search of their own. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Observe from the rail, tethered, in a crew of three so that the depth has three readings. Record the figure, the depths, the plumb line, and the condition that ended the session. The form here is the history and not a strategy: a dry opening with a floor in it, and somebody still leaning over the edge of it long after everyone else accepted what the floor meant.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -290,30 +290,30 @@ The ground opens into darkness. A figure rises from the rim, dripping with water
 
 
 
-**At first contact:** The Subject-Phantasmal does not announce itself with sound or movement. It arrives as a sensation — Grudge settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A ghostly figure rising from a broken well, weeping for losses no one remembers.
+**At first contact:** Cold off the stone, the smell of rain that has not fallen in centuries, and a figure already at the rim — she is never arriving, she is always there when the light reaches her.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Phantasmal becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** The opening gets deeper. You know the plumb reading, you wrote it down yourself an hour ago, and the knowing does not touch it at all.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Grudge becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Phantasmal was waiting; now it moves.
+**When the entity activates:** She leans. That is the whole of it. The figure inclines over the dark and every person present wants, immediately and reasonably, to see what she is looking at.
 
-**After departure:** Departure is not relief. The Subject-Phantasmal is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** The depth stays in the hands for a day or so — stairs feel wrong, drains feel deep. The counsellors ask at fourteen days about something else entirely, and usually get the answer they were looking for.
 
 ### Interaction Pattern
 
-Broken Well does not exist in isolation. Its recorded relationships with The Memory Well, The Hollow Echo, The Smothering Mother should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in Old Lament that hold a loss underground. Each relation below has been observed and filed; none is settled; and the Memory Well pairing is the one the wing is most often asked about and least willing to encourage.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone across several sessions before any paired approach, with the crew of three and separate depth readings throughout. Log the onset of any shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-Broken Well must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled. All three were tested at the rail, with the rail in place, which bounds what any of them can show.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Well** | Both preserve histories beneath the ground. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Echo** | Carries calls from the broken opening. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Smothering Mother** | Recognizes the grief of a child lost. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Memory Well** | Both are openings in the ground that are said to hold what went into them, which is the resemblance everybody starts from. | Four co-presences. The Memory Well returned material on all four; this holding returned nothing, on any occasion, to anybody. Whatever she is keeping, it is not retrievable and the Memory Well cannot reach it. | All four co-presences, what the Memory Well returned, and the complete null on this side. |
+| **The Hollow Echo** | The Echo carries calls out of openings, and was brought here to see whether the name she calls could be recovered intact. | Six attempts, the most of any pairing. The Echo carried the call out every time and the name was unintelligible every time, in the same way, with the same break in the middle. Six independent transcripts, no two alike. | All six attempts, all six transcripts in full, and the unresolved variance. |
+| **The Smothering Mother** | Recognises the grief of a lost child, and orients toward this holding from well outside its sector. | Two approaches, both halted at 40 metres by the medical lead. No contact, no data, and no intention of authorising a third. The wing records the orientation and nothing else. | Both halt decisions with their reasoning, and the orientation bearings. |
 
 **Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -345,20 +345,20 @@ Some sorrows mourn the lost. Broken Well mourns the searching — the endless, u
 > *“Searching where there is nothing to find. That is the grief.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-565` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Phantasmal manifestation
+**Classification:** Sorrow Entity — `C-IIβ-565 [D]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Phantasmal manifestation
 **Common Name:** Broken Well
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. A well-that-is-also-a-mother, eternally calling a child’s name. Effect: personnel hear the calling; psychological distress.
+**Threat Assessment:** Moderate (β). She is inert until somebody leans over the rim and then acts on that person's judgement about the ground, which is the one thing a tether cannot correct. In a Transform event the whole sector floor reads as edge.
 **Containment & Handling Procedures:**
-- Pugnahan is the primary Work Type.
-- The calling is constant; personnel must rotate frequently.
+- Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted; Pugnahan hardens the rim and is prohibited. The earlier entry naming Pugnahan as primary is an error and is corrected here.
+- The calling does not stop. Crews rotate every fifty minutes, timed from the doorway, and the rotation is not at the crew's discretion.
 **Observation Notes:**
-- Formed from a mother who searched for her child in a well.
-- The well and the mother merged.
-**Cross-References:** Zone B · The Smothering Mother
+- Formed from a woman who stayed at the rim of a shaft after the search was properly called off.
+- The opening and the woman are now one thing; the figure cannot be separated from the rim and does not persist away from it.
+**Cross-References:** Old Lament · The Smothering Mother · the search record · the open missing-person file · the handover sentence
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** A mother whose child vanished into a Han-softened well.
+**Originator:** A woman of Old Lament whose child went into a Han-softened shaft; the child has never been found, declared, or registered.
 
 ### Registry Addendum
 
@@ -383,10 +383,52 @@ It mourns losses that nobody now holds, and the Warden logs the duration of the 
 
 A child went into a Han-softened shaft and the mother stayed at its edge until the well itself became a figure, and the commissioning file holds the search record. It ran for some days and then stopped. The archivist's note states that the stopping was properly authorised, that the authorisation is in the folder, and that the mother was not consulted about it.
 
+### The Search That Is Run Every Year
+
+Once a year, the wing searches a hole with a floor in it.
+
+The exercise takes four hours. A team of three works the opening properly — plumb line, lamp, probe, a grid walked across the Old Lament floor beneath — and produces a finding. The finding has been the same finding nine times: **nothing recovered, nothing indicated, search complete, file remains open.**
+
+It is not a gesture, and the file is careful to say why. **The gauge falls after every one of them**, by between six and nine points, and stays down for about five weeks before drifting back. Nothing else in the holding's history produces a comparable movement; work produces a shift, this produces a month. The correlation is nine for nine.
+
+The wing's working explanation is set out in a single paragraph and has survived four reviews: what she responds to is not a result but the evidence that somebody is still looking. A negative finding, written down, signed, and entered on a file that stays open, is proof of exactly that and is the only such proof available.
+
+This produces the one piece of operational advice in this file that reads like nothing else in the wing: **the search must actually be conducted.** It was tested in the sixth year — the finding written up from the previous year's work, without the four hours — and the gauge did not move. It was tested again the following year with the full search and the movement returned. Two data points, stated as two data points, with the file's own note that it will not be tested a third time because the cost of the negative result falls on the holding and not on the wing.
+
+So three people walk a grid across a flat floor every year, find nothing, and write down that they found nothing. The annual finding is the longest-running unbroken series in Old Lament.
+
+### No One Left To Declare Him Dead
+
+The missing-person file has been open for four hundred years, and the reason it is open is procedural rather than sentimental.
+
+A person who has been missing long enough can be declared dead. The declaration closes the file, permits registration, and ends the search obligation. It is a routine application and it has never been made here, because **an application requires an applicant**, and the scheme restricts applicants to a spouse, a parent, a child, a sibling, or a person with a demonstrable interest in the estate.
+
+The child had a mother. The mother is the holding. There was no spouse, no sibling and no estate, and the district's own records of the period were thin before the shaft and thinner afterwards; no other relative has ever been identified and the archivist's view, stated in the folder, is that none will be. **Every category of person entitled to close the file is empty.**
+
+The wing asked whether it could apply itself, as the body with custody of the consequences. The answer was no and the reasoning is short. A facility is not a relative; its interest is operational rather than personal; and the scheme's *demonstrable interest* limb means an interest in the estate, of which there is none. The legal officer's note adds the point that makes it final: a declaration obtained by a stranger over the objection of a surviving parent would be unlawful, and whatever else she is, **she is the surviving parent and she has not consented to anything.**
+
+Nor can the file be closed the other way. A coroner needs a body or a declaration. Registration needs one or the other. There is neither, and there will be neither, and the folder's summary sheet puts the position in a sentence the Wardens tend to quote at each other: *he cannot be found, he cannot be declared, and the only person who could end it is the reason it has not ended.*
+
+The practical consequence is that the annual search has no termination condition. Nobody has ever proposed writing one.
+
+### Something Said At Every Handover
+
+A cover was fitted over the opening in the second year. It was the obvious intervention: if the hazard needs somebody to lean over the rim, remove the rim.
+
+It came off after nine days. The reported depth rose every one of those days, the gauge rose with it, and on the eighth day two Wardens on separate watches recorded the same observation independently — that the figure had stopped weeping and was listening. The cover was removed on the ninth and everything returned to its previous values within a week. The file's assessment is that covering the opening does not conceal the hole from her; it conceals her from anybody who might look.
+
+What the wing did instead is the decision this section records. The standing order was amended to require, at every handover, that **the outgoing Warden stand at the rail and say aloud that there is no news today.** The wording is prescribed. It is logged with a signature. It has been performed, by the file's count, more than twelve thousand times.
+
+It works, in the narrow sense that the holding has been stable since it was introduced and the rate of reported-depth outliers fell by half in the year after. Nobody disputes the numbers.
+
+What it costs falls on the people saying it. Three Wardens have objected in writing. The objection is not that the sentence is distressing, although two said it was; it is that the facility has written a bereavement ritual into a standing order and made it a disciplinary matter to omit it, requiring staff to perform, on the record, a personal address to a dead woman about her dead child, every twelve hours, for the length of their posting. **Two Wardens have transferred out of the holding citing the sentence specifically**, one after eleven years of otherwise uneventful service.
+
+The objection is minuted at every annual review and is raised by the Wardens' representative. It holds that compelled speech of this kind is a different thing from a procedure and should have been introduced with consent and an opt-out rather than by amendment to a standing order; that no alternative wording has ever been trialled, although two have been drafted and one was proposed by the holding's own crew; and that the wing has never put the question to a counsellor in writing — it has asked informally, twice, and recorded neither answer. The minute records the objection as **correct in all three parts**. It records that an opt-out was approved in principle in the eighth year, subject to a trial of the alternative wordings, and that the trial has not been scheduled. And it records the sentence the representative asked to be minuted, which the review chair allowed over an objection from the floor: *we are not refusing to say it. We are asking to be allowed to mean it.*
+
 ## Trivia
 
-- No physical water has been found in its wells.
-- It appears most often near places where children were lost.
+- No water has ever been found in the opening, and her tears leave dust on the stone rather than damp.
+- Every confirmed sighting outside this holding has been at a site where a child was lost and not recovered.
 
 
 
@@ -394,9 +436,9 @@ A child went into a Han-softened shaft and the mother stayed at its edge until t
 
 - **Classification detail:** Broken Well is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify her by the rim and the dust; the cold and the smell of old rain are shared with two other Old Lament holdings and are not diagnostic alone.
+- **Record detail:** Read this file beside the search record and the missing-person file, which is still open, and which is the only document in the wing that has never been closed.
+- **Containment detail:** Sealed is not the same as safe here, and sealing is in any case not available: a cover over the opening was fitted once, in the second year, and removed after nine days for the reasons set out below.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-565
