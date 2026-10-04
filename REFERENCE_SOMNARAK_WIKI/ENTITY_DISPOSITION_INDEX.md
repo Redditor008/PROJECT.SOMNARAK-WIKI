@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **259** |
-| Pending — no disposition-bearing line found by scan | 44 |
+| **Classified here, with a quoted line of evidence** | **260** |
+| Pending — no disposition-bearing line found by scan | 43 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 259 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 260 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 44 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 43 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -63,12 +63,12 @@ only in the element word:
 
 A line that is word-identical across six dossiers cannot distinguish between them. Held on this
 ground: **Sorrow Mass** `C-Vω-925`,
-**Miasma** `C-IVδ-922`, **Hatred Above** `C-IVδ-923`.
+**Hatred Above** `C-IVδ-923`.
 
-**Moktak** `N-IIβ-910`, **Dead Air** `N-IIIγ-929` and **Dreaming Plague** `N-IVδ-927` were held here and have since been released, by the route this section
+**Moktak** `N-IIβ-910`, **Dead Air** `N-IIIγ-929` **Dreaming Plague** `N-IVδ-927` and **Miasma** `C-IVδ-922` were held here and have since been released, by the route this section
 predicts: their stock breach blocks were replaced with bespoke text under Workstream 6
 ([`R-23`](RULES/R-23_LABELS_MAY_REPEAT_VALUES_MAY_NOT.md)), and each row was written from the new
-First Target line in the same commit. **Weighted Silence** `O-IIIγ-924`, pending on the same stock breach block though never listed above, was released the same way. Releasing the remaining three requires the same authoring work
+First Target line in the same commit. **Weighted Silence** `O-IIIγ-924`, pending on the same stock breach block though never listed above, was released the same way. Releasing the remaining two requires the same authoring work
 first — the reading is not what is missing.
 
 **What this means for the workstream.** The pending pool is not a reading backlog. The entities that
@@ -311,6 +311,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Weighted Silence | O-IIIγ-924 | Neutral. It has no recorded contact with any other entity and no mechanism for one: *"Seventeen years of sighting, eleven permitted crossings, two lost instruments and not one observation of a form, a figure, a voice or a direction of travel."* Its single expansion, Y4247, took in a marker post and a radio relay and reverted to fifty metres when the survey series resumed; its breach First Target is *"The record, before any person"*, and the only measured loss is documentary — *"slates carried inside come out blank or shortened."* It suppresses nothing and assists nothing. The cost to F01 is a survey and eleven permits in seventeen years; the yield is the holding's own boundary method, adopted elsewhere. |
 | Dead Air | N-IIIγ-929 | Neutral. No cross-entity record exists and the holding has no means of producing one: it has *"taken two rooms and injured no one"* in seventeen years, and *"no apparition has ever been reported here. No figure, no sound, no visual phenomenon of any kind."* Its breach First Target is *"Whoever is expecting it"* — contact is reported at roughly three times the rate on watches where the Warden was briefed to expect a figure (24/30 against 9/30, Y4239), which is the only demonstrated relationship in the file. It suppresses no entity and assists none; the cost to F01 is one Warden per six-hour watch and the yield is a form with two estimated columns. |
 | Dreaming Plague | N-IVδ-927 | Neutral, and held there by a prohibition rather than by temperament. It has no reach of its own: *"the holding has no reach of its own and has never taken a person who was not touching another person"*, and its breach First Target is *"Whoever picks somebody up"* — both expansions on file were carried into being by a rescuer. No cross-entity pairing exists; the only propagation route is a human hand. Every sleeper has woken unaided (mean 4h11m, longest 9h, none unresolved) and nobody has been harmed in seventeen years, so it neither suppresses nor assists. Recorded with its one unresolved trend quoted rather than smoothed: *"Later sleepers put the sound nearer than earlier ones, every time."* |
+| Miasma | C-IVδ-922 | Neutral. 527 arrivals and 94 personnel caught since Y4238 with no injuries and no fatalities; it has no recorded contact with any other entity and no mechanism for one. Its breach First Target is *"Whoever is behind a closed door"* — it passes sealed thresholds without measurable delay, so the door removes the sightline and not the exposure. The grief it carries is consistently somebody else's: *"In 94 interviewed exposures, no worker has ever reported a grief that could be matched to their own history."* It suppresses nothing and assists nothing; its cost to F01 is itemised spotter-relief overlap and one annual two-number return to the district. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
