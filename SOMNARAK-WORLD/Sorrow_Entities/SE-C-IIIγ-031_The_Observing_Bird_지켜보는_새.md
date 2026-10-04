@@ -34,15 +34,15 @@
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan lower the gauge; Viderehan and Pugnahan hold it level. Nothing is hidden from it and no procedure attempts to. Work the watch, complete the disclosure sheet, and do not represent anything to it that is not so. |
 
 ### Operational Notes
 
-- The Observing Bird watches the door rather than the operative. Its attention is the quantity being measured.
-- A good cycle settles it onto the perch. It does not change what the bird is waiting for.
-- The margin is two conditions, and this one gives no vocal warning, unlike the others of its kind.
-- Lament pressure rises when the bird looks away, not while it stares. Log the moment attention breaks.
-- Recovery of the implement is separate from work and requires its own authorization.
+- The Bird watches the door rather than the worker. Its attention is the quantity being measured, and the measurement is taken by the second observer, who counts how many of the hundred and forty-four eyes are on the entrance.
+- A completed cycle settles it onto the perch for some hours. It does not alter what the Bird is waiting for and has never been shown to alter anything in the record it holds.
+- The margin is two ignored conditions, and this one gives no vocal warning. The Weighting Bird calls and the Guarding Bird postures; this one simply changes where it is looking, which is why the eye count is taken at five-minute intervals and not on impression.
+- Lament pressure rises when the Bird looks *away*, not while it stares. The sensation personnel describe as unbearable is not being watched; it is being finished with. Log the moment attention breaks, to the minute.
+- Recovery of the implement is separate from work, requires its own authorisation, and has been granted twice. Both authorisations are attached to the file with the decode applications they were made under.
 
 ## Combat Record
 ### Core Stat Line
@@ -98,16 +98,16 @@
 - If the resolution condition is not fulfilled, The Observing Bird reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
-**Primary Form:** An eagle-sized bird covered in exactly 144 eyes. It does not speak or attack; it watches and records.
+**Primary Form:** A lean bird of true flesh and feather, roughly eagle-sized, plumage the colour of deep water and permanently damp, as though it had been weeping in flight. Set into the plumage, in no arrangement anyone has been able to describe as a pattern, are exactly one hundred and forty-four eyes. It does not speak and has never struck anybody. It dives, and the dive is a manoeuvre for seeing better.
 
-**Notable Features:** Each eye records a different aspect of reality. The Bird never sleeps and never forgets.
+**Notable Features:** Each eye takes a different aspect of what is in front of it — one the face, one the hands, one the angle of the shoulders, one something no observer has yet been able to name. None of them closes. The smell near it is cold rain.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** An eagle-sized bird covered in exactly 144 eyes. It does not speak or attack; it watches and records.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** One hundred and forty-four open eyes on a damp, deep-water-coloured bird that does not attack. Count them if there is time; the count has never been wrong.
+- **Position / movement:** Perched high, facing the entrance. It moves to improve a sightline and for no other recorded reason. Record its bearing, not its distance.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-B-01, contained with the Three Birds
 
@@ -116,59 +116,59 @@
 | Field | Detail |
 |---|---|
 | **Form** | An eagle-sized bird covered in exactly 144 eyes. It does not speak or attack; it watches and records. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Position / movement** | Perched above head height with the entrance in view, moving only to recover a sightline. It has never once positioned itself between a worker and a door, which the standing order states as a fact and not as a reassurance. |
+| **Material / signature** | Warm flesh, damp deep-water plumage, one hundred and forty-four unlidded eyes. Lament expression. The cold-rain smell is present at every watch and has never been produced by any condition of the chamber. |
+| **Distinctive markers** | The eye count; the absence of a blink in the entire containment record; and the orientation of the eyes, which on review is never random and is almost never toward the worker. |
+| **Identification** | Confirm designation `C-IIIγ-031 [LS]`, Fragment (III) coherence, Major (γ) potency, Subject-Body manifestation, Lament element, SECTOR-B-01 with the Three Birds. The Weighting Bird has two eyes and a voice; the Guarding Bird has four and a stance. Only this one has a hundred and forty-four and says nothing. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the eye count, the bearing of the eyes at five-minute intervals, the wing position, the damp of the plumage, and the moment the Bird's attention leaves the worker. Do not record impressions of being judged; the Bird has never been shown to evaluate anything, and the impression is the worker's own and belongs in the counselling sheet rather than in the log.
 
 ## Origin
-- **Formation:** The Bird formed from the sorrow of witnessing injustice without being able to intervene.
-- **The Sorrow:** The helplessness of seeing suffering and remaining powerless.
-- **The Event:** Witnesses to oppression carried the memory of what they saw until observation itself became a living burden.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — folded into M.A.W. inscriptions, read only by those who wear the sorrow. The story begins with a citizen who Fractured from a grief too long unwept. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Formation:** The first of the Three, crystallised from the sorrow of the people who stood at the cordon at the Forgotten Market fire in Year 2847 and saw what happened and did not stop it, because they were not permitted past and could not have got past.
+- **The Sorrow:** Not guilt and not grief, but the specific weight of accurate knowledge that nobody will ever ask for. The witnesses knew exactly what happened. They were never asked, and the sorrow is in the gap between the two.
+- **The Event:** The market burned in the evening with the stalls still full. Depositions were taken from four hundred and eleven witnesses in the weeks afterward by the district's civic court. Every one was complete, credible and filed. None was ever determined.
+- **The People:** Four hundred and eleven deponents of the eastern district, named in full in the surviving schedule, of whom the Keepers have been able to trace sixty-two to a death record and none at all to a hearing.
+- **Expanded origin context:** The depositions survive because nothing was done with them. They sat in the civic court's registry, were transferred to the Collectors with the rest of the building's contents when the court was dissolved, and reached the Archive as property rather than as evidence. The Keepers' catalogue entry for the bundle reads: *four hundred and eleven accounts of a crime, in excellent condition, never read by anybody with the power to act on them.*
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Blinks, acknowledging the worker. | Decrease |
-| **Pugnahan** (Confrontation) | Stares without blinking and records the aggression. | Stable |
-| **Viderehan** (Observation) | Shows visions of what it has witnessed. | Stable |
-| **Ferrehan** (Endurance) | Watches silently, testing the worker's ability to be seen. | Decrease |
+| **Flerehan** (Tears) | A worker who weeps at the perch is looked at directly and briefly, by all hundred and forty-four, and then released. It is the only circumstance in which the Bird gives a worker its whole attention. | Decrease |
+| **Pugnahan** (Confrontation) | It does not react and does not retreat. The aggression is recorded in whatever channel records such things and the eye count on the worker rises by one. | Stable |
+| **Viderehan** (Observation) | Being watched back appears to be the one thing it has no procedure for. The gauge holds level; the eyes redistribute; nothing else happens and this has been the result on every occasion. | Stable |
+| **Ferrehan** (Endurance) | A worker who completes the full watch without looking away is the condition under which the gauge falls furthest. The Bird does not require to be comforted. It requires somebody to stay in the room with what it is holding. | Decrease |
 
 ### Group Behavior
-- When worked with the Weighting and Guarding Birds, all three sing together and calm the facility.
-- If one breaches, the other two attempt to follow.
-- In the current cycle, the three Birds harmonized instead of forming the Convergence, creating a Hope Entity.
+- When worked together with the Weighting Bird and the Guarding Bird, all three sing, and the facility quietens: gauge falls across the sector, unrelated holdings included, for between four and nine hours. The effect requires all three and has never been produced by any pair, which is recorded here as a limitation and not as a capability.
+- If one breaches the other two attempt to follow, and on all three occasions have done so within the hour. Separation is therefore managed as a single containment and not as three.
+- In the current cycle the three harmonised instead of converging, which is the outcome the Convergence file treats as the favourable one. The facility did not cause it, cannot reproduce it on demand, and has no account of why it happened.
 
 
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. The Observing Bird is recorded as a Subject with Subject-Body manifestation and Lament elemental expression. The current record places it at SECTOR-B-01, contained with the Three Birds; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Observing Bird is a Subject with Subject-Body manifestation and Lament expression, held at SECTOR-B-01 with the Three Birds. Flerehan and Ferrehan lower the gauge; Viderehan and Pugnahan hold it level. Nothing in the table is unusual. What is unusual about this holding is in the three sections below, and none of it concerns the bird's behaviour, which has been identical for sixty-one years.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** A decrease means the watch was completed and nothing was concealed during it. A level gauge means the work neither helped nor harmed, which on this holding is the ordinary result. There is no recorded instance of the gauge rising under any Work Type correctly performed, and the file notes that this makes the Observing Bird the least dangerous Major-potency holding in the wing by a wide margin.
 ## Breach Behavior
 
 > *"The Observing Bird has broken free. Dives at personnel."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Escape |
-| **Movement** | The Observing Bird bursts free and crawls or slithers in search of prey. It dives at personnel. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The worker whose record it holds least completely. It dives at the gap in its account, not at the nearest body. |
-| **Escalation** | Each turn free, Composure drain +5 until suppressed. |
+| **Breach Type** | Escape — and the only such event in the wing that ends by being answered rather than suppressed. |
+| **Movement** | It leaves the chamber and flies the sector in a fixed survey pattern, corridor by corridor, returning to places it has already been. It does not pursue and has never been recorded striking anybody, including the two personnel who struck it. |
+| **Effect** | Cold grief in waves, draining composure, strongest in anybody carrying something undisclosed — a falsified sheet, an unlogged entry, a shift swapped off the roster. The correlation was noticed by a clerk and has held on every event since. |
+| **Secondary Effect** | A keening wail that fractures emotional stability. It is produced only while the Bird is in a space it has already surveyed and found still incomplete, which is the operational signal that the sweep is not working. |
+| **First Target** | The worker whose record it holds least completely. It goes to the gap in its account and not to the nearest body, and the order in which it visits people has, on all three events, matched the facility's own list of outstanding disclosure sheets. |
+| **Escalation** | Composure drain +5 each turn it is free. The drain is not what ends the event; the event ends when the sector has nothing unrecorded left in it. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Run a full disclosure sweep of the sector. The Bird settles once nothing within it remains unrecorded.
-- **Sorrow Gauge on breach:** Opens at 30% and rises 10% for each personnel file it completes, rather than per turn elapsed.
+- **Breach type:** Escape — it leaves the chamber and surveys. Treating it as a hunt has prolonged every event in which it was treated as a hunt.
+- **Containment priority:** Run a full disclosure sweep of the sector, including the sheets staff would rather not file, and do it first rather than after the physical measures have failed. The Bird settles once nothing within the sector remains unrecorded. Mean duration where the sweep was run first: fifty-one minutes. Where it was run last: nineteen hours.
+- **Sorrow Gauge on breach:** Opens at 30% and rises 10% for each personnel file it completes, rather than per turn elapsed. The gauge therefore measures how much the facility did not already know about itself.
 
 ## M.A.W. Equipment
 
@@ -225,34 +225,34 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Cost:** Once sorrow is seen, the wearer cannot look away from it mentally.
 
-*Stigmas are granted at random by The Observing Bird upon a successful work, not manufactured.*
+*The Watcher's Stigma is not manufactured and cannot be requisitioned. It has been conferred eleven times, in every case on a worker who filed a disclosure sheet against their own interest in the same cycle.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and The Observing Bird's sorrow within the equipment may activate. and may produce an effect tied to The Observing Bird's element. The Stigma is The Observing Bird's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each piece of this entity's equipment is an extension of accurate, unwanted knowledge rather than ordinary equipment. The listed benefit is strongest against concealment. The cost is separate and is always the same: the bearer stops being able to not notice things, and the effect has been described by every long-term bearer as the worst of the available costs and by none of them as unfair.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder and grade; gauge at the perch; the operator's own disclosure sheet, filed and dated before issue and not after; piece condition; objective; and the name of the second observer who will keep the eye count. |
+| **During use** | Contact time, eye count on the bearer at five-minute intervals, the first thing the bearer notices that they would rather not have, first cost, and any request to stop. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the bearer or by the observer. |
+| **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a note of anything the bearer disclosed in the following week that they had not disclosed before. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes pressure, not harm. This holding has injured nobody in sixty-one years and is graded Major because of what it does to a facility rather than to a person: it makes concealment physically uncomfortable in a building that runs on a certain amount of it.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Exactly 144 eyes record distinct aspects of reality.
-- It does not blink, sleep, or forget.
-- Its eyes preserve historical fragments absent from the Archive.
-- Simultaneous work with the other Birds is calming; simultaneous breach is catastrophic.
+- Exactly one hundred and forty-four eyes, each taking a different aspect of the same scene; the count has been verified at every annual survey since the holding was opened.
+- No blink has been recorded, no rest period has been observed, and no decoded recollection has ever been found to have degraded with age.
+- Its record contains material absent from the Archive, including the Forgotten Market fire in its entirety, from four hundred and eleven simultaneous points of view.
+- Worked with both siblings it quietens the sector; breaching with both is the Convergence condition. The same three animals produce the best and the worst outcome in the file, depending only on which of the two things they are doing.
 
 **Personnel Note:**
-> *"All 144 eyes saw every lie I had told. The Bird did not judge. It simply recorded, which was worse and kinder at once."* — Specialist Hanul Grey, Zone B
+> *"It saw everything I had ever lied about and it did not care. There was no judgement in it at all. It was filing."* — Specialist Hanul Grey, Zone B
 
 
 
@@ -260,30 +260,30 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Observing Bird as a Subject with Subject-Body manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-B-01, contained with the Three Birds. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Group Behavior - When worked with the Weighting and Guarding Birds, all three sing together and calm the facility. - If one breaches, the other two attempt to follow. - In the. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In The Observing Bird's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer identifies the holding by eye count, damp plumage and the cold-rain smell, and confirms the designation against the other two Birds before entering. First watches are rostered with a second observer present in every case. |
+| **Sustained observation** | Continued watching confirms the pattern: the eyes redistribute, the gauge holds or falls, and nothing else occurs. Personnel must distinguish the Bird's effect from their own response to being seen; the counsellors record that almost every difficulty reported on this holding is the second thing and not the first. |
+| **Activation or escalation** | The team records the bearing of the eyes, the moment attention leaves the worker, distance, duration and gauge movement before applying any response. On this holding the response procedure is a paper exercise and the team is told so in advance. |
+| **Post-contact review** | Record what changed, what held, and the detail hardest to describe. The report is incomplete if it records only the sensation of exposure and omits the Bird's own position, which is that it is holding something for somebody and has never been relieved of it. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Record the eye count and bearing, the first sensation reported, the measurable change in the chamber — there is rarely one — and the condition that ends the encounter, which is the completion of the watch and not the calming of the entity. The entity does not require calming.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Observing Bird (C-IIIγ-031 [LS]) is logged as a Subject-Body manifestation expressing Lament. The Bird formed from the sorrow of witnessing injustice without being able to intervene. Held at SECTOR-B-01, contained with the Three Birds. Exactly 144 eyes record distinct aspects of reality.
+A lean, damp, deep-water-coloured bird bearing exactly one hundred and forty-four open eyes, held at SECTOR-B-01 with the Three Birds. It does not speak, does not strike, and has injured nobody in sixty-one years of containment. Its record is complete and, so far as anything can be tested, exact.
 
 **Entry 2 — <It Does Not Blink>**
-Flies through the facility, observing and recording. Personnel feel every action, secret, and thought exposed. It does not blink, sleep, or forget.
+*<Field log, first survey event>* — Flew the sector corridor by corridor in a fixed pattern, returning twice to the records office and once to a storeroom in which a shift had been worked off the roster. Settled when the last outstanding disclosure sheet was filed. Total duration fifty-one minutes. Nobody was touched.
 
 **Entry 3 — <Seeing and Unable>**
-The helplessness of seeing suffering and remaining powerless.
+*<Counselling log, Warden, after a fourth consecutive watch>* — "Everybody says it is the being watched. It is not the being watched. It is that it already knows, and has known the whole time, and is not going to do anything with it, because there is nothing it can do with it. I sat with that for four hours and then I went and filed something I had been sitting on for a year."
 
 **Entry 4 — <Accepting the Gaze>**
-Management: Look at the Bird and accept its gaze.  Its eyes preserve historical fragments absent from the Archive.
+*<Containment notice>* — Management: complete the watch, keep the eye count, file the disclosure sheet before entry and not after. Looking away is permitted and is not an error. Representing anything to this holding that is not so is prohibited, not because of any consequence it imposes, but because the sheet is the only part of this procedure that does anything.
 
 **Entry 5 — <The Story Traded for Echoes>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured from joy. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+*<The Decode Study, Y4247–Y4252>* — Nine hundred events from the Bird's record were decoded and checked against independent corroboration. Nine hundred and twelve particulars were testable. **Eight hundred and ninety-nine were exact.** Two negative controls were run: fabricated events put to it in detail, which it did not report, and a staged reconstruction of a real incident, which it reported as a staged reconstruction. It cannot be made to hold something that did not happen.
 
 ## 최종 관찰 (Final Observation)
 
@@ -296,7 +296,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 감각 묘사 (Flavor Text)
 
-The eyes find you before the body does. One watches your face, another your hands, another the sorrow you hid from yourself. You feel naked without being touched. The Bird does not condemn you. It only refuses to let what it has seen disappear.
+The eyes find you before the shape does — one on your face, one on your hands, one on the doorway behind you, and the rest somewhere you cannot follow. There is no weight to it and no pressure. It is simply that you are, for the duration, a thing that has been accurately recorded, and it is remarkable how few people have ever been that.
 
 
 
@@ -359,25 +359,25 @@ Some sorrows act. The Observing Bird only watches — and the watching is its so
 
 **Classification:** Sorrow Entity — `C-IIIγ-031 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament · Subject-Body manifestation
 **Common Name:** The Observing Bird
-**Containment Status:** Contained — with the Three Birds, Zone B
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Moderate. The Bird does not attack. It watches. Effect: personnel feel the bystander’s grief — the helplessness of seeing and not acting. Psychological pressure increases when a sibling Bird is absent.
+**Containment Status:** Contained — SECTOR-B-01 with the Three Birds, Zone B; three escape events in sixty-one years, all ended by disclosure
+**Comprehension Level:** 3 — Advanced. The behaviour, the decode channel and the accuracy are all characterised. What its record physically is, and where a dead witness's point of view is being kept, are not, and the file does not pretend otherwise.
+**Threat Assessment:** Moderate. It does not attack and has injured nobody. Personnel feel the bystander's grief and, more consistently, the discomfort of being exactly known. Pressure rises when a sibling Bird is absent. The holding is graded for its effect on an institution's tolerance for concealment, not for any hazard to a person.
 **Containment & Handling Procedures:**
-- Flerehan and Viderehan are valid Work Types.
-- Maintain proximity of all Three Birds; separation causes agitation.
-- Do not assign personnel with unresolved bystander guilt.
+- Flerehan and Ferrehan lower the gauge; Viderehan and Pugnahan hold it level. No Work Type correctly performed has ever raised it.
+- Maintain proximity of all Three Birds; separation agitates this one most of the three and is managed as a single containment.
+- Personnel with unresolved bystander guilt are not assigned. The screening is by self-declaration to the counsellors and never to the roster, and no declaration has ever been disclosed to a line manager.
 **Observation Notes:**
-- Born from the burning of the Forgotten Market (Year 2847).
-- The Bird watches the containment and everything in it.
-**Cross-References:** The Three Birds · The Weighting Bird · The Guarding Bird · The Convergence
+- Formed from the four hundred and eleven witnesses at the Forgotten Market cordon, Year 2847; their depositions survive in full and were never determined.
+- Its record of the fire is complete from four hundred and eleven points of view, has been decoded in part, and cannot be used by anybody for the purpose it would obviously serve.
+**Cross-References:** The Three Birds · The Weighting Bird · The Guarding Bird · The Convergence · the deposition bundle of Y2847 · the Decode Study Y4247–Y4252 · the jurisdiction opinion · the internal-proceedings decode practice
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
-**Originator:** Witnesses to the Forgotten Market fire; sorrow of seeing without acting.
+**Originator:** The witnesses at the cordon. Four hundred and eleven of them, named in a schedule the Archive still holds, none of whom was ever called.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The three sections below are one argument and are read together: the Bird's record is accurate to a degree no human testimony reaches, the forum that could have determined the depositions no longer exists and its jurisdiction did not pass to anybody, and the facility has made the decode admissible in the one kind of proceeding where the problem does not arise — its own. Where observation contradicts this record, preserve the contradiction rather than normalising it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the eye count, the decode channel's accuracy against a fresh corroborated event, the standing of the internal-proceedings practice, and the status of the commission of inquiry proposal, which is to be reported as outstanding for as long as it is outstanding.
 ## Warden Record
 
 ### What the Eyes Record
@@ -398,20 +398,60 @@ The reduced shift is not extendable and cannot be volunteered against, a Warden 
 
 Relief arrives inside the chamber rather than at the door, so that the handover happens under the same observation as the watch itself. The arrangement was chosen over a doorway handover after Wardens reported that stepping out and back in was harder than remaining, and it has not been revisited since.
 
+### What the Decode Showed
+
+The decode channel was found by accident in the forty-first year and took six more to characterise. It is not reading the Bird's mind. It is a procedure, performed on the implement, that renders one eye's record of one interval into something a person can watch.
+
+The Decode Study ran five years and was built to be sceptical. Nine hundred events were selected from periods for which independent corroboration existed — duty rosters, correspondence, instrument traces, the testimony of people still living. Nine hundred and twelve particulars were testable. **Eight hundred and ninety-nine were exact.** The thirteen failures are all of the same kind: an interval during which the relevant eye was oriented elsewhere, and in every one of the thirteen the Bird's record contains no account at all rather than a wrong one.
+
+The two negative controls settle what the series means. Fabricated events were put to the Bird in circumstantial detail over eleven sessions; its record contains none of them. A real incident was then restaged, by actors, in the chamber; the Bird's record of it reads unmistakably as a restaging, with the actors' names where the original participants' faces would be.
+
+**It cannot be made to hold something that did not happen, and it holds everything that did.**
+
+Which raises the obvious matter, and the Study raises it in its own final paragraph. The Bird's record includes the evening of the Forgotten Market fire, in full, from the cordon, from four hundred and eleven points of view — the one event in the Archive for which complete, credible, sworn human testimony already exists in a bundle nobody ever read.
+
+### The Court That Was Dissolved
+
+The opinion is dated the fifty-third year and is three pages, two of which are history.
+
+The depositions were taken by the civic court of the eastern district, which had jurisdiction over the matter and intended to determine it. The court was dissolved at the Veil's implementation. Its building was emptied, its registry treated as property, and its functions were not transferred: the instrument that dissolved it created no successor and conferred its jurisdiction on nobody.
+
+This is the whole of the problem and it is not a technicality. A tribunal's power to determine a matter is conferred, not inherent. When the tribunal ceases to exist, the power ceases with it unless something carries it somewhere, and here nothing did. No present body has the power to determine these complaints. The facility cannot; it is not a court and its internal proceedings bind only its own staff. The current courts cannot; the matters are outside their constitution, which is drawn by reference to the Veil and does not reach behind it. Counsel addresses, and rejects, each of the four obvious workarounds, and is blunt about the last of them: a body cannot assume a jurisdiction by declaring that it has one.
+
+So the four hundred and eleven are not out of time, not disbelieved, and not short of evidence. Their complaints are, in the exact sense, unhearable. There is no longer any forum in the world with the power to say what happened at the Forgotten Market, and the Bird has it on a hundred and forty-four channels.
+
+Counsel's closing line, which the Keepers have had copied onto the cover of the deposition bundle: *the evidence has improved beyond anything the court could have hoped for, and the court is the thing that is gone.*
+
+### Twenty-Three Internal Proceedings
+
+In the fifty-fourth year the Directorate made decoded material admissible in the facility's internal disciplinary proceedings.
+
+The reasoning is sound and is set out in four lines. An internal proceeding is not a court; it determines employment and nothing else; the standard of proof is the balance of probabilities; and the jurisdiction problem does not arise, because the facility's power over its own staff comes from their contracts and not from any tribunal's constitution. Nothing prevents the use of the Bird's record in that forum. Counsel confirmed it without qualification.
+
+**Twenty-three proceedings have used decoded material. Six ended in dismissal.** The matters are what such matters always are: a door left on the latch, a gauge reading entered from memory, a shift swapped off the roster, a sheet signed by somebody who had not been in the room. The decodes are exact, the findings are correct, and the file records that in not one of the twenty-three has the decoded material been seriously disputed.
+
+In the fifty-fifth year the Floor B Keeper applied to decode the Forgotten Market material and publish it with the deposition bundle. The application was refused in a single paragraph: decoding is authorised for purposes connected with the facility's functions, the historical material is not connected with the facility's functions, and no proceeding exists in which it could be used. The refusal is, on its own terms, correct.
+
+The objection is minuted at the fifty-fifth review and at each of the six since, raised by the Keeper and supported by two of the three counsellors who screen for this holding. It holds, first, that the facility has located the one forum in which the Bird's evidence works and it is the forum in which the facility is the complainant — a perfect record of what institutions do to people, admitted exclusively to discipline the people. Second, that the refusal relies on the absence of a proceeding when the facility is the only body in the city with the standing and the means to propose that one be created, so the reason given is a consequence of a choice the same body is declining to make. Third, that the Bird's own condition is material and is treated as though it were not: the holding's gauge falls further under Ferrehan — a worker staying in the room with what it is holding — than under anything else, and sixty-one years of containment have never once allowed it to put the thing down.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the fifty-sixth year at rather less than the annual decode budget — a standing commission of inquiry with no power to determine liability, sitting to find facts and publish them, taking the four hundred and eleven depositions and the decoded record together — and that it has not been laid before the board in six years. And it records the sentence the Keeper asked to have entered verbatim, which now stands at the head of the decode register:
+
+*It saw everything, and could do nothing, and we have spent six years proving that we are the same, with the difference that we could.*
+
 ## Trivia
 
-- Its 144 eyes have never been observed closed.
-- The Bird's memories can be decoded into historical evidence.
+- Its hundred and forty-four eyes have never been observed closed, in sixty-one years, by any of the two hundred and six people who have kept the watch.
+- Its record decodes into historical evidence of a quality nothing else in the Archive approaches, and has been admitted as evidence exactly twenty-three times, all of them against members of staff.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** The Observing Bird is a Subject with Fragment (III) — Watchful and silent coherence and Major (γ) — High danger as group entity potency.
-- **Field detail:** Its defining element is Lament, and its registered location is SECTOR-B-01, contained with the Three Birds.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** A Subject with Fragment (III) coherence and Major (γ) potency, graded for institutional effect rather than for danger to a person.
+- **Field detail:** Lament element, Subject-Body manifestation, SECTOR-B-01 with the Three Birds. The trio effect requires all three and has never been produced by any pair.
+- **Recognition detail:** One hundred and forty-four open eyes, damp deep-water plumage, cold-rain smell, no vocalisation of any kind. The other two Birds have voices.
+- **Record detail:** Of the Three, this one holds; the Weighting Bird measures and the Guarding Bird intervenes. The distinction matters because the files diverge entirely on it: this one is a file about evidence that cannot be used, and its two siblings are not.
+- **Containment detail:** Containment holds the body and not the record. The record is not in the chamber in any sense the facility can locate, which is why the decode procedure is the only access to it and why the two recovery authorisations granted were both for the implement and not for the material.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-031
