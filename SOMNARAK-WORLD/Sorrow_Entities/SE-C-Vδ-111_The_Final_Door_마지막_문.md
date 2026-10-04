@@ -29,21 +29,21 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per cycle, drawn at the threshold of a door nobody has opened. The Keepers' return notes each year that the yield is steady, the cycle is thirteen seconds long, and the rest of the posting is waiting. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 1 — Minimal |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · Unknown |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Stand at the marked distance, listen for the thirteen seconds if they come, write down what you heard before you speak to anybody, and withdraw. Viderehan and Ferrehan only. Nobody touches the face of it. |
 
 ### Operational Notes
 
 - The Door is closed and is not locked, and nothing in the record accounts for why it has not been opened.
 - Work settles the frame for a shift. The Door is unchanged, and no session has moved it in either direction.
-- Viderehan and Ferrehan are the valid approaches to the object.
+- Flerehan and Pugnahan are unavailable and nobody has proposed either since the record opened. There is nothing here to argue with and nothing that answers.
 - There is no breach counter. The standing order is that the Door is not opened, and the order does not depend on the gauge reading.
-- Extraction is authorized apart from the work cycle and is never conducted from the threshold.
+- Extraction is authorised separately and never from the threshold: the two pieces were cut from the frame's outer stone, four metres from the face, by a team working with their backs to it.
 
 ## Combat Record
 ### Core Stat Line
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 50% against Void pressure; 40% against other pressure types |
+| **Resistance** | 50% against Void. The figure is formal. Nothing has been swung at this door and nothing will be; the Keepers' standing order calls any contact with the face an incident regardless of intent. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 25–55 per hit · Void |
@@ -73,30 +73,30 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 1 — Minimal |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | The listener writes down the whisper before speaking to anybody and leaves the vault. 94 cycles, 41 whispers; the transcripts are sealed on the spot and compared only by the Archive Lead. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Last Threshold* [**Debuff**] } | "This is the final door — there are no more after this — and what lies beyond is the end of doors." | [The Door's finality presses on the target; they feel the weight of the last choice.] | *Target suffers a Void mark; the finality is absolute.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target faces the Door. |
-| { *The No-Return* [**Debuff**] } | "Once you open this door, you cannot come back — and the door knows this, and it is patient." | [The Door's permanence bears down; the target feels trapped by the choice.] | *Target loses clarity; every option leads through the Door.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target hesitates. |
-| { *The Iron Frame* [**Attack**] } | "The door's frame hardens — and the threshold itself strikes." | [The Door's frame becomes a weapon.] | *Inflicts Void damage; the passage costs identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Door is touched. |
-| { *The Full Opening* [**Attack**] } | "The door swings wide — and what is behind it is vast, and final, and hungry." | [The Door opens completely; the void beyond pours through.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Door is forced. |
-| { *Every Door Is the Last* [**Ultimate**] } | "Now every door in the field is the final door — and behind every one, the same endless void waits." | [The Door extends its finality to every opening.] | *All in range suffer Void erosion for three turns of final doors.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Last Threshold* [**Debuff**] } | "There is nothing after this door. Not a room — nothing. You can feel the shape of that." | [The Door's finality presses on anybody at the threshold.] | *Void pressure; the listener's own plans for the following week become difficult to recall.* **[Void DMG [Void]]** | On approach, every cycle, with no exceptions in ninety-four. |
+| { *The No-Return* [**Debuff**] } | "Open it and you do not come back — and it is in no hurry, because everybody who has stood here has thought about it." | [The Door's permanence bears down.] | *Void pressure, rising with time at the threshold; 61 of 94 cycle reports include the sentence "I considered it."* **[Void DMG [Void]]** | After about four minutes at the marked distance. |
+| { *The Iron Frame* [**Attack**] } | "The frame hardens, and the threshold itself is what strikes you." | [The frame becomes a weapon without the door moving.] | *Void damage to the Soul; the one worker who reached the face in Year 4,218 was recovered intact and could not afterwards name her own mother.* **[Void DMG [Void]]** | On contact with the face. Once. |
+| { *The Full Opening* [**Attack**] } | "It swings wide, and what is behind it is vast and final and does not need us." | [The Door opens completely and the void beyond enters the vault.] | *Facility-threatening. Never observed. The entry exists because the Keepers require the consequence to be written down where the standing order can point at it.* **[Projected]** | If the Door is ever opened. |
+| { *Every Door Is the Last* [**Ultimate**] } | "Every door in the facility is this door, and behind each of them is the same nothing." | [The finality propagates to every threshold in the building.] | *Void erosion to everyone passing through any doorway.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%. Once, for eleven minutes, in Year 4,229; nobody in the facility would go through a door and the shift simply stopped. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Final Door's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **Tension:** The Keeper descends to SECTOR-A-01, stands at the marked distance, and starts the watch. Nothing else is prepared. There is no perimeter to set and nothing to deploy against a sealed door.
+2. **Clash:** None, and the row has been struck from the operational order twice and reinstated twice by a form that will not accept its absence. The Keepers' note beside it reads: *there is no clash; there is a door.*
+3. **Resolution:** The whisper, if it comes, lasts thirteen seconds. The listener writes it down, seals it, and goes up. Nobody has ever stayed for a second whisper and the record does not say whether a second one is possible.
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Composure** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- The failure here is a hand on the face of the door. It has happened once in ninety-four cycles and the Keeper who did it was the most experienced person then serving.
+- Past about four minutes the listener begins planning how it could be opened. The plans are competent. 61 of 94 reports contain one and the standing order requires them to be written down rather than suppressed.
+- Both pieces take small nameless memories — not names or faces, the Armoury is precise about this, but the things between them: a street's smell, the order of a staircase, which hand somebody wrote with.
+- There is no escalation path short of opening. The Door does not expand, breach or pursue; it has been in the same stone for longer than the city and the only thing that has ever changed about it is who is standing in front of it.
 
 ## Appearance
 **Physical Form:** A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges.
@@ -111,7 +111,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** It has not moved, shifted, settled or warped since the first survey took a measurement, and the measurements are taken annually to four decimal places because there is nothing else to measure.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, deepest Alpha Tree vault — sealed
 
@@ -120,8 +120,8 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | Fixed in the oldest stone in the Alpha Tree foundation. No handle, no lock, no hinges, and no gap at any edge that a blade has been able to enter. |
+| **Material / signature** | Weight Han-crystal, massive, with no visible fitting of any kind. Record the whisper's duration to the tenth of a second, the words as heard, and the listener's name; nothing else about this holding varies. |
 | **Distinctive markers** | Predates the facility, city, and known history. Cold on the outside and warm when touched. Whispers in a language no one has identified. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
@@ -155,14 +155,14 @@ The Door does not respond to Work Types in the conventional sense.
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. The Final Door is recorded as an Object/Place with Object-Void manifestation and Void elemental expression. The current record places it at SECTOR-A-01, deepest Alpha Tree vault — sealed; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Work Type table applies and tells you almost nothing. The two series that matter are the duration — thirteen seconds, exactly, on all forty-one recorded whispers — and the transcripts, of which no two have ever matched. Forty-one listeners, forty-one different sentences, one identical length.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** A falling gauge here means a cycle was completed and the transcript sealed, nothing more. It rises when somebody stays past the whisper, and has risen once without anybody present at all — in the week of the Year 4,229 propagation, which began and ended while the vault was empty.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **Opening the channel steadies the facility; it also makes the wielder certain they know what is behind the door**
+> **An abandoned channel vents into the vault and the whisper lengthens for the following quarter**
 
 **Activation Trigger:** Touch, sustained listening, or unknown conditions.
 
@@ -181,25 +181,25 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Activation** | Touch, sustained listening, or unknown conditions. |
 | **Primary Effect** | The Door may whisper a buried truth for exactly thirteen seconds. |
 | **Duration** | Thirteen seconds per whisper; the Door reseals itself afterward. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
+| **Termination / Return** | The operator closes the channel deliberately, states the date, and is walked out by a second person. Nobody leaves this vault alone with an open conduit; the one occasion that happened is why the rule is written. |
 | **Risk** | The truth may be too heavy to carry and may destabilize the listener. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** Continuous concentration, open conduits, and a second person whose only task is to say the date every minute. The task sounds trivial and has ended two channels.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The Final Door begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates The Final Door: The Door may whisper a buried truth for exactly thirteen seconds. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the need to know what lies beyond, and the fear that knowledge may be worse than ignorance. forged during none recorded. it was found beneath the alpha tree already sealed. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of The Final Door's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: The truth may be too heavy to carry and may destabilize the listener. all personnel in the sector take heavy damage. |
+| 10 Seconds | The crystal thrums and the vault's air goes thin. | The facility's containment readings steady across all sectors — four to eleven points, logged 31 times — which is why a door nobody may open is worked at all. |
+| 30 Seconds | The channeler becomes aware of a question they have always had and have never phrased. It is not supplied; it is theirs. | The aura holds across the sector and the channeler's focus sharpens. |
+| 1 Minute | The channeler begins answering the question, and the answer is detailed. | Composure drains steadily. The second person's date-call is the only external reference the channeler still accepts. |
+| 2 Minutes | The channeler knows what is behind the door and will explain it. | Overload vents into the vault; the whisper lengthens by a fraction of a second for the following quarter and then returns to thirteen. The two over-run channelers gave accounts of what lies beyond that were internally consistent, confident, and mutually incompatible. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Final Door: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, deepest Alpha Tree vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
+There is no escalation ladder here — there is a threshold and a prohibition. Record the duration, the words, the listener, the time spent at the marked distance, and whether a plan to open it was formed. The last field is the only one that has ever predicted an incident.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** withdraw everybody to the stair, state the date aloud, and walk the affected person out backwards — facing the door — because the one recorded contact happened while a Keeper was walking away from it and turned round.
 
 ### Detailed Activation Record
 
@@ -210,9 +210,9 @@ The escalation pattern is specific to The Final Door: it is not a generic breach
 | **Primary effect** | The Door may whisper a buried truth for exactly thirteen seconds. |
 | **Duration / rate** | Thirteen seconds per whisper; the Door reseals itself afterward. |
 | **Risk** | Critical (δ) — Facility-threatening Object-Void producing Void pressure; The truth may be too heavy to carry and may destabilize the listener. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | The marked distance, the four-minute limit, the sealed transcript, and the prohibition. The prohibition is one line and has not been reworded since the first Keeper wrote it: *Do not open it. Nobody who sealed it is available to ask.* |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** whisper duration to the tenth of a second → the words, verbatim, written before the listener speaks to anybody → time at the marked distance → whether an opening plan was formed, and its detail → who walked the listener out. The second field is sealed on the spot and read only by the Archive Lead.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -236,15 +236,15 @@ The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging t
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Final Door's void signature in the strike.
+**Ability:** Void against the Soul. The target loses the thread between their memories — the connections rather than the contents — and describes their own history afterwards as a list of facts about somebody they know well.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Small nameless memories, and always the connective ones: how a room smelled, which way a stair turned, who was standing where.
 
 ### M.A.W. Suit — The Unknown — No Extraction Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a near-colourless veil cut from the frame's outer stone, which hangs with no fold and no movement whatever, including in a draught.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -254,40 +254,40 @@ The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging t
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Final Door's kind of pressure.
+**Ability:** Resistance to Void against the Soul, and the only reason any Keeper has ever been recovered intact from the threshold. It was worn on the Year 4,218 contact and the Armoury's position is that it is the reason she is alive.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves, and answers to their own name a half-beat late.
 
 ### M.A.W. Stigma — Unknown — No Extraction Authorized
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a small charm of the same stone, cool, which grows colder the nearer it is carried to the vault and has been used twice to confirm a wrong turning in the dark.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat at this holding — which is to say, while standing still at a marked distance for thirteen seconds
 
 **Ability:** Unknown.
 
 **Cost:** Presumed catastrophic. No M.A.W. extraction is authorized.
 
-*Stigmas are granted at random by The Final Door upon a successful work, not manufactured.*
+*None. In ninety-four cycles this holding has given nothing to anybody, which the Keepers record as the only entirely consistent fact in the file after the thirteen seconds.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Both pieces came from the frame and not the door, and the Armoury has said there will be no third: the cut face has not weathered in eleven years and the stone does not behave like stone. What the set does to a wielder is take the joins out of their memory, slowly, so that a life becomes a list. Two wielders; both can still recite everything that happened to them and neither can say what any of it felt like.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the vault's last whisper duration, and a recorded account of one ordinary day from the wielder's own past, kept sealed for comparison. |
+| **During use** | Any sentence in which the wielder states what is behind the door. There is no correct answer and the number of sentences is the reading. |
+| **At limit** | The wielder offers to show somebody. Both over-runs reached this and both were ended by the second person stating the date. |
+| **After use** | Have the wielder retell the sealed day and compare. Facts survive; the connections do not, and the loss has not been seen to recover in either wielder. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** A δ-grade set whose benefit is facility-wide and whose cost is the texture of one person's memory. Read both columns and authorise on the retelling, not on the grade.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Minimal
@@ -308,18 +308,18 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Final Door as an Object/Place with Object-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-A-01, deepest Alpha Tree vault — sealed. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. The Door does not respond to. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch, sustained listening, or unknown conditions. Effect: The Door may whisper a buried truth for exactly thirteen seconds. Duration: Thirteen seconds per whisper; the Door reseals itself afterward. Risk: The truth may be too heavy to carry and may destabilize. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In The Final Door's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The Keeper descends and finds a door in the oldest stone there is, with no handle, no lock and no hinges, and the immediate thing to establish is that it has not changed by a tenth of a millimetre since the last survey. |
+| **Sustained observation** | Ninety-four cycles, forty-one whispers, every one of them thirteen seconds. No two transcripts match; thirty-one are questions, nine are instructions, one is a name that belongs to nobody in any register the Archive holds. |
+| **Activation or escalation** | A whisper, or a contact. Record the duration, the words, and the listener before anything else; the sealing of the transcript is the activation procedure, and the Archive Lead's comparison is the only analysis performed. |
+| **Post-contact review** | Duration, transcript sealed, time at the marked distance, opening plans written out in full, and the name of whoever walked the listener out. Plans are recorded without comment and go to the briefing, never to the Keeper's file. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
+**Observation method:** Duration to the tenth of a second, the words as heard, the listener's name, and the minutes spent at the marked distance. Do not read the transcript aloud, do not compare it with another in the vault, and do not carry a previous transcript down the stair.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Final Door (C-Vδ-111 [VO]) is logged as a Object-Void manifestation expressing Void. Unknown. The Door represents the sorrow of the unknown and the fear of what cannot be understood. Held at SECTOR-A-01, deepest Alpha Tree vault — sealed. The Door predates the facility, city, and all known records.
+The Final Door stands in the deepest Alpha Tree vault: a massive slab of Weight Han-crystal with no handle, lock or hinges, set in stone older than the city. Nobody built it and nobody has opened it. Forty-one times it has whispered, for thirteen seconds exactly, and no two people have heard the same thing.
 
 **Entry 2 — <Excerpt from Field Log, Year 4202>**
 May reveal a buried truth. Something warm and alive exists on the opposite side.
@@ -335,11 +335,11 @@ The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Final Door; the other feeds it.
+> The choice is the only one this holding offers and everybody who has stood there has been offered it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Write down what you heard and go back up the stair. | Work out how it could be opened — only on paper, only as an exercise. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly; The Final Door is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Final Door withdraws without revelation. |
+| The transcript is sealed, the cycle closes, and the door is exactly as it was. | Your plan joins the sixty-one already in the briefing, and it is a better one. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -348,34 +348,34 @@ The air grows older as you descend. The walls narrow, the lamps flicker, and the
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges. Notable Features: - Predates the facility, city, and known history. - Cold on the outside and warm when touched. - Whispers. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Object-Void form.
+**At first contact:** A door, far larger than a door needs to be, in stone that predates every record the city keeps. No handle. No lock. No hinges. No gap. The air in front of it is thin and the vault is entirely silent until it is not.
 
-**With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Void; it is this entity's Void — shaped by its origin, its wound, its particular grief.
+**With continued exposure:** You acquire a question. Not one you are given — one you find you have always had and never put into words — and standing there, it becomes obvious that the answer is on the other side.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch, sustained listening, or unknown conditions. Effect: The Door may whisper a buried truth for exactly thirteen seconds. Duration: Thirteen seconds per whisper; the Door reseals itself afterward. Risk: The truth may be too heavy to carry and may destabilize. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Thirteen seconds of speech at the edge of hearing, in no language the listener can afterwards identify, which they nevertheless write down in their own words and understand completely at the time.
 
-**After departure:** What remains after the door closes is not fear but weight — a Void aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** You want to know something, and the wanting outlasts the shift. Keepers describe it as an itch rather than a dread, and the vault's briefing notes that nobody has ever come back frightened.
 
 ### Interaction Pattern
 
-The Final Door does not exist in isolation. Its recorded relationships with The Memory Weaver, The Broken Clock, Sornos, The Maw, Archive Lead Marjuk should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Five relations, which for a sealed object is more than any other holding in the vault has. Three of them are things that stop near it, one is a person, and one is the Maw. Nothing in the archive has ever moved it.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Solo baselines first, then approach along the stair and never across the marked distance. The measures are the whisper duration and the annual survey to four decimal places; nothing else about this holding can change, so anything that does is the finding.
 
 
 ### Entity Interaction Record
 
-The Final Door must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Door is catalogued as part of a network because the network behaves oddly around it, not because it participates. Four of the five relations below are forms of stopping.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Weaver** | Claims to possess memories of what lies beyond but refuses to share them. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Broken Clock** | Stops completely near the Door. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Sornos** | Sleeps nearby as if guarding it. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Maw** | Connected by ancient hunger and sorrow. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Archive Lead Marjuk** | Visits yearly and leaves without speaking. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Memory Weaver** | Claims to hold memories of what is behind it and will not share them. | Three sessions. The Weaver refused on each occasion, in the same words, and on the third added that it had been asked before by somebody the Archive has no record of. | The refusal transcribed verbatim; the whisper duration unchanged. |
+| **The Broken Clock** | Stops entirely within nine metres of the door and restarts on withdrawal. | Four sessions, four stops, four restarts, the same nine metres each time. It is the only instrument of any kind that reacts to this holding and the Keepers use it to mark the distance. | The stopping distance, measured; the Clock's own reading on restart. |
+| **Sornos** | Sleeps in the outer vault, between the stair and the door, and has done so for as long as the record runs. | Continuous. Sornos has never been moved and has never been asked to move. No Keeper has reached the threshold without passing it, and the Year 4,218 contact happened on the one night it was not there. | Sornos's position logged at every descent. |
+| **The Maw** | Filed as connected by ancient hunger; both predate the city's records. | Two sessions at the perimeter, no contact possible. The thousand said nothing about the Door on either occasion, which the Architects recorded as a result, since they comment on everything else. | The thousand's transcript, searched for any mention. |
+| **Archive Lead Marjuk** | Descends once a year, stands at the marked distance, and leaves without speaking. | Eleven years, eleven visits, no whisper on any of them — the only observer with a perfect record of silence. He has never filed a cycle report and has never been required to. | The date of the visit, and nothing else. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Along the stair, never past the Clock's nine metres, with Sornos left undisturbed. Record the whisper duration before and after and the annual survey the following week; in a holding where nothing changes, a tenth of a second is the entire result.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -422,9 +422,9 @@ Some sorrows are about what is known. The Final Door is about what cannot be kno
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The containment is a sentence and a distance. Nothing holds this door shut except that nobody has opened it, and sixty-one of ninety-four Keepers have come back up the stair with a plan for doing so — written down, filed, and used in the briefing precisely because they are good plans made by sensible people. The whisper is thirteen seconds and no two listeners have heard the same thing, which means the Archive cannot even say whether it is addressing us. Marjuk descends once a year and it has never spoken to him. The file's oldest line is still its operative one: nobody who sealed it is available to ask.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any event: the whisper duration, the sealed transcript, the annual survey brought forward, Sornos's position, and the Broken Clock's stopping distance. Two further items. Every opening plan is written out in full and read at the next briefing, because a plan that stays in one person's head is the only genuine hazard this holding has. And any proposal to open the door — for study, for survey, for any reason — goes to the Director in person. There have been four.
 ## Sovereign Chronicle
 
 The Door represents the sorrow of the unknown and the fear of what cannot be understood — the need to know what lies beyond, set against the fear that knowledge may be worse than ignorance. Every other Sovereign threatens the city. The Door threatens certainty itself. This chronicle records the vigils kept before it, the expeditions that went through, and the doctrine of the threshold the Directorate maintains to this day.
@@ -473,10 +473,10 @@ The third expedition returned with seven words, delivered once, never repeated �
 ### Registry Trivia
 
 - **Classification detail:** The Final Door is an Object/Place with Sovereign (V) — Autonomous, mysterious coherence and Critical (δ) — Facility-threatening potency.
-- **Field detail:** Its defining element is Void, and its registered location is SECTOR-A-01, deepest Alpha Tree vault — sealed.
+- **Field detail:** Void, in SECTOR-A-01, the deepest Alpha Tree vault, behind a stair that Sornos sleeps across.
 - **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
 - **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** It is not contained; it is sealed, and it was sealed before anybody now living could have done it. The facility's contribution is a painted line at nine metres, a four-minute limit, and a prohibition nobody has yet broken twice.
 ## Document Information
 
 **Document ID:** SE-C-Vδ-111
