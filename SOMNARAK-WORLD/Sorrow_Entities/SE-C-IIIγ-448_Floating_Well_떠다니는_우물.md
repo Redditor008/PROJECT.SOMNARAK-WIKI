@@ -34,15 +34,15 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | A Subject: all four Work Types are available. Flerehan and Ferrehan lower the gauge, Viderehan holds it, Pugnahan raises it and is excluded by standing order. Never apply downward force of any kind. |
 
 ### Operational Notes
 
-- The Well hangs above the Forge District floor and does not drift, though nothing supports it.
-- Work settles it closer to the ground. It rises again between shifts, and the resting height has not changed across the record.
-- Two ignored conditions escalate it. The escalation is vertical — the Well climbs rather than advances.
-- Grudge expression reaches personnel as structural strain; the gantry below is load-tested on a fixed schedule.
-- Recovery of the implement is a separate exposure event under its own authorization.
+- It hangs at a fixed height above the Forge floor with nothing supporting it. It does not drift laterally; the rim has stood over the same two square metres of floor since the holding was established.
+- A completed cycle settles it measurably closer to the floor. It is back at the resting height before the next shift, and the resting height itself has not changed once across the whole record.
+- Two ignored conditions escalate it, and the escalation while contained is vertical: the rim climbs rather than advances. Lateral growth belongs to the breach state and to nothing else.
+- Grudge expression reaches personnel as structural strain rather than as anger; the gantry below is load-tested to a fixed schedule even though nothing has ever rested on the gantry.
+- Recovery of anything that enters the clearance beneath the rim is a separate exposure event under its own authorisation, and is never undertaken by the Warden who noticed it.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,27 +87,27 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Floating Well's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Four turns from outside the marked clearance, Flerehan and Ferrehan only. Rim height is read at the start and end of every turn, and nothing is thrown, lifted toward, or dropped beneath the opening.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Create a safe mourning place; do not force it downward**.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Floating Well reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- A worker who cannot hold stops being able to put anything down. They carry tools they have finished with to the end of the shift, decline to set equipment on benches, and describe the floor afterwards as *not a place for things*.
+- Long exposure produces the characteristic injury of this holding: a grief the worker can describe precisely and cannot locate anywhere, which presents in debrief as restlessness rather than distress and is caught by the language and not by the gauge.
+- The Well equipment lets the bearer carry what has no place to be set down, and charges the inability to set anything down at all. The armoury issues all three pieces with the same written warning.
+- Unresolved, it does not come after anybody. The rim widens, the clearance beneath it is no longer wide enough, and whoever is nearest is drawn in rather than pursued.
 
 ## Appearance
 **Primary Form:** A well-shaped pressure floating above the Forge floor. Its rim is made of dark crystal and its depth opens into consciousness.
 
-**Notable Features:** It has no ground beneath it, watches workers, and contains anger that has nowhere to drain.
+**Notable Features:** It has no ground beneath it, watches the Forge's workers continuously, and holds anger with nowhere to drain. Its depth opens into consciousness and not into any volume that can be measured or emptied.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Weight
 - **Primary marker:** A well-shaped pressure floating above the Forge floor. Its rim is made of dark crystal and its depth opens into consciousness.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Fixed in the air above a marked clearance; vertical movement only. Record rim height, apparent depth, and the state of the floor beneath.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Forge District
 
@@ -116,54 +116,54 @@
 | Field | Detail |
 |---|---|
 | **Form** | A well-shaped pressure floating above the Forge floor. Its rim is made of dark crystal and its depth opens into consciousness. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Position / movement** | Suspended over the same two square metres since the holding opened. It rises and settles and does not drift; the earlier handling note instructing Wardens to monitor drift describes something that has never occurred and is corrected here. |
+| **Material / signature** | Grudge. A dark crystal rim with no structure behind it, air fever-hot to approach, the smell of char, and no water of any kind — the descent inside the opening is weight rather than liquid. |
+| **Distinctive markers** | The suspension itself, the swept clearance beneath, the absence of any shadow on the floor, and the fact that the opening reads as deep from every angle including from directly beside it. |
+| **Identification** | Confirm before work: designation C-IIIγ-448 `[O]`, Fragment (III) coherence, Major (γ) potency, Subject-Weight manifestation, Grudge element, Zone D, Forge District. Nothing else in the Forge is suspended and nothing else casts no shadow. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record rim height to the marked gantry scale, apparent depth with the estimating Warden named, rim diameter, air temperature at one metre, the condition of the clearance, and the number of Forge personnel within sight of the opening. The estimate of depth is kept with its estimator; the variation between Wardens is data and is not to be standardised away.
 
 ## Origin
 - **Formation:** The Well formed from sorrow that could not be grounded.
 - **The Sorrow:** The burden of carrying grief without a place to put it.
 - **The Event:** Forge workers lost their homes and attempted to store their grief in a well; the well rose into the air.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **The People:** Sixty-one Forge District households cleared from the Low Terraces, named in the clearance notice and in the relocation schedule that followed it.
+- **Expanded origin context:** The Low Terraces were cleared for works that were carried out. The notice was lawful, the period of notice was observed, and the households left on the day they were told to leave. What they had no provision for was the grief itself: the families had buried, mourned and remembered on that ground for generations, and the practice of the district was to take a grief to the place it belonged to and leave it there. After the clearance there was no such place. The dry well on the Terrace edge was the last fixture standing and they used it, one after another, for the better part of a year, because it was the only thing left that had been there before. It filled. There was never any water in it. It rose out of the ground in the eleventh month and it has not touched ground since.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Lowers toward the worker and shares sorrow. | Decrease |
-| **Pugnahan** | Surges upward and releases pressure. | Increase |
-| **Viderehan** | Shows the grief stored inside its depth. | Stable |
-| **Ferrehan** | Tests whether the worker can remain under the floating opening. | Decrease |
+| **Flerehan** | The rim lowers toward the worker and the grief inside becomes shareable rather than sealed. | Decrease |
+| **Pugnahan** | It surges upward out of reach and vents pressure across the bay; excluded by standing order. | Increase |
+| **Viderehan** | Shows what is held in the depth: the Terrace households, their griefs, and the ground those griefs were meant for. | Stable |
+| **Ferrehan** | Tests whether the worker can stand in the clearance beneath an open rim and stay; lowers the gauge. | Decrease |
 
 
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Floating Well is recorded as a Subject with Subject-Weight manifestation and Grudge elemental expression. The current record places it at Zone D, Forge District; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight manifestation, Grudge expression, at Zone D, Forge District. All four Work Types are available because it is a Subject. Flerehan calms here, which it does not everywhere, because the originating sorrow is displacement rather than hatred; Pugnahan is the one approach that reliably makes the holding worse.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Read the rim height against the gantry scale. A falling gauge presents as descent of a few centimetres; a rising one presents as climb, and the climb is the only early warning this holding gives. The heat and the sense of recognition at the rim are not indicators and have misled teams in both directions.
 ## Breach Behavior
 
 > *"Floating Well has broken free. Draws personnel toward its depths."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
-| **Movement** | Floating Well expands beyond containment like a spreading tide. It draws personnel toward its depths. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | Whoever stands closest to the rim, drawn rather than hunted. The Well does not pursue; it widens. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Breach Type** | Transform — the rim widens; nothing leaves and nothing pursues. |
+| **Movement** | It does not travel. The opening expands outward in the air like a tide reaching a flat shore, and personnel within the widened rim are drawn toward the depth rather than struck or chased. |
+| **Effect** | Rage that has had nowhere to go for a very long time comes out at once, scorching resilience from everyone in the bay. |
+| **Secondary Effect** | A resentful heat that works through containment barriers from the air side, where no barrier in the wing was designed to be loaded. |
+| **First Target** | Whoever stands nearest the rim, drawn rather than hunted. It has never selected a person and has never reached for one twice. |
+| **Escalation** | Pressure grows each turn it is free; Resilience drain increases by 5 per turn until suppressed. Suppression is a mourning point and not a force, and nothing else has ever ended one of these events. |
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Establish a mourning point outside the expanding rim. Forcing it downward accelerates the spread.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per metre the rim expands, tying escalation to area rather than to elapsed time.
+- **Breach type:** Transform. It never escapes, because it never goes anywhere: the breach is the rim widening overhead until the clearance beneath it is no longer a clearance. The hazard here is vertical and the floor plan is no defence against it.
+- **Containment priority:** Establish a mourning point outside the widening rim — a place, physically, where a grief can be set down. Downward force accelerates the spread and has done so on both occasions it was attempted.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for every metre the rim widens, so escalation is tied to area rather than to elapsed time. A slow event and a fast one of the same final diameter end at the same number.
 
 ## M.A.W. Equipment
 
@@ -217,32 +217,32 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Cost:** The wearer loses memories connected to anger.
 
-*Stigmas are granted at random by Floating Well upon a successful work, not manufactured.*
+*The Floating Well Ring is not manufactured and cannot be requisitioned. It has been conferred four times, in each case on a worker who stood the full cycle inside the clearance with the rim directly overhead.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Floating Well's sorrow within the equipment may activate. and may produce an effect tied to Floating Well's element. The Stigma is Floating Well's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each Well piece is an extension of the entity rather than ordinary equipment. Each performs as recorded and charges the same coin: the bearer loses the ability to put a thing down and be finished with it. The suit is the worst of the three and is issued for the shortest permitted exposures.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator name, grade, current gauge, psychological assessment, equipment condition, mission objective, rim height at issue, and confirmation that the clearance beneath the rim is empty and swept. |
+| **During use** | Activation time, rim height and diameter at each turn, apparent depth with the estimator named, air temperature at one metre, first cost paid, and anything that entered the clearance. |
+| **At limit** | Duration, activations, attribute change, rejection signs, final rim height, and whether the operator has begun carrying finished tools rather than setting them down. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, clearance re-swept and checked by the relief, reuse authorisation. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately. The cost here is dispossession of the ordinary act of setting something down, and no grade of equipment reduces it.
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It floats because its sorrow has no ground.
-- It grows heavier around displaced workers.
-- It becomes calm when grief is given a physical place.
+- It floats because the ground its sorrow belongs to no longer exists; the Low Terraces were cleared and the site is a vacant plot.
+- The rim sits lower and the pressure reads heavier around personnel who have themselves been displaced, and the effect is strongest with Terrace descendants, of whom eleven work in the Forge.
+- It settles when a grief is given a physical place — a real one, on real ground, that somebody may go to. The qualification is not rhetorical and is the subject of the first section of the Warden Record below.
 
-**Personnel Note:** *"I felt grief. The Well was not a monster. It was the part of the Forge that had nowhere to set down its burden."* — Specialist, Zone D patrol
+**Personnel Note:** *"It is not a monster and it is not angry at us. It is the part of the Forge that was never given anywhere to set its burden down, hanging in the air because the floor was taken away."* — Specialist, Zone D patrol
 
 
 
@@ -251,11 +251,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Floating Well as a Subject with Subject-Weight manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone D, Forge District. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Floating Well's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Rim height against the gantry scale, rim diameter, apparent depth with each estimator named, air temperature at one metre, clearance condition at every watch change, and the count of Forge personnel in line of sight. |
+| **Activation or escalation** | Escalation is recorded on a climb of more than the shift tolerance or on any lateral widening. Log the height series, establish a mourning point outside the rim, and never apply downward force. |
+| **Post-contact review** | Height series before and after, diameter, depth estimates, gauge movement, clearance incidents, and a seven-day check on each worker for the inability to set objects down. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Read the height, sweep the clearance, name the estimator. Read the form as the wound rather than the intention: sixty-one households poured a year of grief into the last fixture left standing on ground that had been taken from them, and the fixture rose.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -290,32 +290,32 @@ A well hangs above the Forge, its opening black and patient. You look down and s
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Grudge pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A well-shaped pressure floating above the Forge floor. Its rim is made of dark crystal and its depth opens into consciousness.
+**At first contact:** The heat, then the absence of a shadow where there plainly ought to be one. Then the opening, which looks the same depth from beside it as from beneath it, and which is not a trick of the light because there is no light in it.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Grudge has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** The sense that you are standing in a room somebody was evicted from. Workers describe it in those words without having read the clearance file, which is held in the Warden's office and has never been circulated.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Grudge pressure spikes — not gradually but like a door slamming open. The Subject-Weight shifts from presence to action.
+**When the entity activates:** The rim goes up, fast, and the bay's air goes with it. Nothing comes out. The pressure arrives as load on the shoulders rather than as sound, and the gantry's strain gauges move before anybody notices.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Grudge in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** A restlessness that lasts days. Personnel report walking around their own quarters holding things, and two have asked whether the effect is known to be temporary. It is; the file says so; they were told.
 
 ### Interaction Pattern
 
-Floating Well does not exist in isolation. Its recorded relationships with The Spreading Well, The Floating Tree, The Rage Forge should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other suspended and heat-bearing features of the Forge District. Each relation below has been observed and filed; none is settled; and all three were tested on the height series rather than on impressions, impressions in this bay being unusually unreliable.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone over several cycles — height, diameter, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, breach, Ordeal or transformation can reverse a stable result overnight.
 
 
 ### Entity Interaction Record
 
-Floating Well must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled. Two were proposed on the strength of a shared word in the name, which the wing now records as the weakest basis in the index and the commonest.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Spreading Well** | Both carry sorrow through unseen channels. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Floating Tree** | The Tree's roots reach toward its suspended depth. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Rage Forge** | The Forge supplies anger and heat. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Spreading Well** | Said to share unseen channels with this holding, both being wells. | Five co-presences and a joint survey. This entity has no volume, no water and no channel of any kind; the Desolate network's traced ends do not include the Forge District, and no height change was recorded in any of the five. The pairing rests on the word *well* and on nothing else. | All five co-presences, the height series, and the Desolate end-map. |
+| **The Floating Tree** | Its roots are said to reach toward this holding's suspended depth. | Four co-presences at three ranges. The root attitude was unchanged in all four, the rim height was unchanged in all four, and both gauges were flat. The reaching was reported once, by eye, at nine metres, and has not been reproduced. | All four co-presences, both measurement sets, and the unreproduced sighting. |
+| **The Rage Forge** | Said to supply this entity with anger and heat, which would make it the source of the Grudge expression. | Seven co-presences, including three full Forge shutdowns. The rim height, air temperature at one metre and gauge range were identical with the Forge cold and the Forge running. The supply language is withdrawn here. | All seven co-presences, the three shutdowns, and the temperature series. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, across several cycles, with height, diameter and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -345,27 +345,27 @@ Some sorrows find a home. Floating Well is a sorrow that could not — and so, h
 > *“The Well floats because it is too full to settle.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-448 [GO]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIIγ-448 [O]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Weight manifestation. Earlier copies of this line carry the suffix `[GO]`, which does not match the designation in the classification table; the table is authoritative and the error is corrected here.
 **Common Name:** Floating Well
-**Containment Status:** Contained — Zone D, Forge District (aerial)
+**Containment Status:** Contained — Zone D, Forge District, aerial, over a marked and permanently cleared floor area. The containment is a volume of air and a swept square of ground, and there is nothing else to it.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. The Well floats, too full of grief to settle.
+**Threat Assessment:** Major (γ). It has never pursued anybody, never left its two square metres, and is calmed by an act that costs nothing. It widens overhead where no barrier in the wing is rated, it draws in whoever is nearest when it does, and the one measure that demonstrably settles it has been made impossible by the facility's own land holding. The earlier entry grading it Moderate rested on its stillness; it is an error and is corrected here.
 **Containment & Handling Procedures:**
-- Pugnahan and Ferrehan are valid Work Types.
-- Monitor drift.
-- Do not bring it down.
+- Flerehan is the primary Work Type, with Ferrehan secondary. Earlier copies named Pugnahan, which the Behavior table records as raising the gauge and venting pressure across the bay; that line is an error and is corrected here.
+- Monitor rim height against the gantry scale each watch. It does not drift laterally and never has; the height is the whole of the measurement.
+- Do not bring it down. No downward force, no weighted line, no gantry contact; both attempts are on file and both widened the rim.
 **Observation Notes:**
-- Formed from forge-workers’ grief poured into a dry well.
-- The Well rose because it was too full.
-**Cross-References:** Forge District · The Rage Forge
+- Formed from the grief of sixty-one cleared Low Terrace households, poured for eleven months into the last fixture left standing on the site.
+- It rose because the ground it stood on had stopped being theirs, and it has not touched ground since.
+**Cross-References:** Forge District · the Low Terraces clearance · the relocation schedule · the Rage Forge · the nine mourning points · the laydown yard acquisition
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** Forge-workers who lost homes and stored grief in a well.
+**Originator:** Sixty-one Forge District households, cleared from the Low Terraces, acting separately and over months.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is read whole or not at all: the suspension, the one effective remedy, the two places where that remedy worked, and the title the facility now holds over the ground they stood on are a single picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any breach, Tide, Ordeal or unusual interaction: gauge, rim height against the scale, diameter, depth estimates with estimators named, clearance condition, gantry load tests, and the standing of the mourning points listed in the Warden Record. Height readings are never averaged across Wardens.
 ## Warden Record
 
 ### No Ground Beneath
@@ -384,10 +384,54 @@ What it holds is rage that has nowhere to go, and the depth opens into conscious
 
 The Forge workers whose grief could not be grounded lost their housing in a clearance that is documented in the municipal record, and the containment file reproduces the clearance notice, the relocation schedule, and the list of households. The schedule was not completed. The archivist's note records which households were rehoused, which were not, and that the distinction is visible in the surviving documents to anybody who reads them in order. Requests to transfer away from the Forge floor are handled by the Forge's own supervisors rather than by the facility, which receives only a notification that a reassignment has occurred. The separation was requested by the Forge and agreed immediately, on the understanding that a worker should not have to explain themselves to the institution whose containment is watching them.
 
+### Nine Places
+
+The suppression condition is a mourning place, and the facility has built nine.
+
+They are properly made. The first, in the fourth year, was a room off the Forge's north corridor with benches, a water basin and an attendant; it cost more than the containment's annual budget and took four months. The others followed over seven years: two further rooms, three marked alcoves on the Forge floor, a walled garden on the facility's own land, and two formal memorials with the sixty-one household names cut into stone.
+
+The rim-height series records what each one achieved, to the centimetre, against a scale fixed to the gantry and read twice a watch by two Wardens independently.
+
+**Seven of the nine produced no measurable descent at all.** Not a small descent; none. The series runs through the opening of each with no step, no trend, and no recovery afterwards. The walled garden, which is the most expensive object the facility has ever built for a containment purpose, is used by staff for its intended purpose most days and has moved the rim by nothing in six years.
+
+**Two produced descent.** The first was a low cairn of Terrace brick, put up without permission on the vacant plot where the Low Terraces had stood, by four Forge workers of Terrace descent, on their own time, in a single evening. The rim fell eleven centimetres within the week and held. The second was a painted line and a shelf, added to the same plot by other households once word spread, and the rim fell a further six.
+
+Seventeen centimetres is the only descent in the record that was not worked for by a cycle and did not come back by the next shift. It was still there eleven months later.
+
+The wing's finding is one sentence and the Directorate has never disputed it: *the place has to be on the ground they lost, and nothing we are able to build is.*
+
+### No Compensable Interest
+
+The clearance was lawful. Everything downstream of it is lawful too, and the opinion that explains why runs to nine pages that the Terrace households have all been sent and none has been able to use.
+
+Compensation on a clearance is paid for an interest in land. The freeholder is paid the value of the freehold; a leaseholder is paid for the lease; a tenant with a term is paid for the term and, if the scheme provides it, a disturbance payment for the cost of moving. The measure throughout is the value of the **interest**, and the law is careful about this because it must be: a sum has to be calculable, and what is calculable is what can be bought and sold.
+
+Of the sixty-one households, forty-four held no interest of any kind. They were occupiers by arrangement with the Forge, in housing tied to the works, with no term, no lease and nothing assignable. In law they had a licence to be there and a licence is not an interest in land. Forty-four households were accordingly entitled to nothing, were paid nothing, and had no claim to bring. The remaining seventeen were paid the value of what they held, correctly assessed, and nobody disputes the figures.
+
+What none of the sixty-one could claim for — not the forty-four, not the seventeen — is the thing that actually produced this entity. The law does not compensate the loss of a home as such. It has no head of claim for the ground your family mourned on, no valuation for the place you were going to be buried beside, no sum for the practice of taking a grief somewhere and leaving it. Those are not interests. They cannot be bought, so they cannot be priced, so they cannot be paid for. The opinion says this plainly and it is not being callous; it is the only way a compensation scheme can be made to work at all.
+
+The relocation schedule was the gap-filler, and it was a policy. Thirty-one households were rehoused under it. The schedule was then overtaken by other works, as policies are, and the remaining thirty were not, and because a policy is not a right there was nothing to enforce and no forum in which to fail.
+
+The opinion's final paragraph is the one pinned up in the Warden's office: *every household was paid exactly what the law says their loss was worth, and the loss that is hanging in the air over Bay Four was worth, in law, nothing at all.*
+
+### The Laydown Yard
+
+In the ninth year the facility acquired the vacant plot. The purchase was routine and the file on it is thin.
+
+The Forge expansion required a laydown yard for plant and materials, the vacant Low Terraces site was the nearest flat ground outside the Forge boundary, it was held by the municipality, unused, and available at agricultural value. The acquisition was approved on a single page by an officer who had no containment responsibilities and was not aware that the plot appeared anywhere in a containment file. There is no suggestion of bad faith anywhere in the record and the review minute says so twice.
+
+Site clearance began in the tenth year. **The cairn and the shelf were removed.** They were unauthorised structures on land the facility now owned, their removal was within the works contract, and the contractor logged them as debris, which is what they were in every sense the contract recognised. The households were not notified, because there was no obligation to notify, because the structures had no standing to be notified about.
+
+The rim rose seventeen centimetres over the following nine weeks and has stayed there.
+
+The objection is minuted at the annual review, raised by the bay's senior Warden and supported by the Forge's own works committee. It holds that the facility has acquired the only ground on which the suppression condition has ever been shown to work, and has done so for storage; that the removal of the two structures was the direct and foreseeable undoing of the only lasting descent in eleven years of readings, foreseeable by anyone who had read the containment file, which the purchasing officer had no reason or means to do; and that the facility's nine constructed mourning places have between them achieved nothing, so the yard has displaced the whole of the holding's effective management in exchange for a materials store that the expansion could have sited two hundred metres further out at measurable but modest cost.
+
+The minute records the objection as **correct in all three parts**. It records that a licence — a corner of the yard, four metres by four, fenced, with a right of access for Terrace households and their descendants, drafted in the tenth year — was costed at the price of the fencing and has not been laid. And it records what the senior Warden wrote at the foot of the rim-height series on the week the cairn went, entered verbatim and never amended: *we have taken their ground twice now, and the second time we knew what it was for.*
+
 ## Trivia
 
-- Its water is entirely mental and emotional.
-- It descends when grief is given a place to rest.
+- There is no water. The descent inside the opening is weight, and a sounding line lowered into it in the third year came back dry and the same length as it went in.
+- It descends when a grief is given a place to rest, and only when the place is real, reachable, and on ground the mourners have some claim to be on.
 
 
 
@@ -395,9 +439,9 @@ The Forge workers whose grief could not be grounded lost their housing in a clea
 
 - **Classification detail:** Floating Well is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone D, Forge District.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the suspension and the missing shadow; the Forge's other dark-rimmed fixtures sit on the floor and all of them cast one.
+- **Record detail:** Read this file beside the rim-height series, which is the only continuous record the holding has, and beside the clearance notice, which is the only document in it written before the entity existed.
+- **Containment detail:** The containment is a square of swept floor and the air above it. It limits where the rim may widen before it reaches people, and it does nothing whatever about the watching, which crosses the bay and is reported by Forge personnel with no containment duties.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-448
