@@ -15,7 +15,7 @@
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A heavy fragment of black crystal, broken clean from some unknown monument, resting on the ground yet pressing through the surface as though still part of something larger. Lead-cold, it smells of wet stone; a piece of a thing no one can name. |
-| **Movement** | Stationary — a device (internal parts may move). |
+| **Movement** | Stationary and settling — it has never been displaced laterally by anything, and its only recorded motion is downward, into ground that is going with it. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -32,10 +32,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan and Ferrehan from the stable margin only; no entry into the bowl, no contact, and no lifting attempt by any method or equipment. |
 
 ### Operational Notes
 
@@ -86,13 +86,13 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team establishes on stable ground beyond the deformation radius, confirms the survey stations against the external reference, starts the ground instruments, and fixes the withdrawal line. Nobody's position inside the bowl is ever part of the plan, because nobody is inside the bowl.
 2. **Clash:** Viderehan and Ferrehan are worked from the stable margin across a long engagement, with the ground-monitoring instruments running throughout. Nobody enters the bowl and nobody touches the fragment; the engagement is conducted at the distance the survey stations occupy, for the survey stations' reasons.
 3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey return has been filed — which on this holding means the team measured the thing, wrote down what it weighs now, and left it exactly where it was.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resolve**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
+- The failure here is not distress. A worker under the holding's pressure keeps working, reports that they are fine, and gradually stops moving; the gauge climbs on exactly that, and the team notices before the worker does.
 - Time is the entity's instrument in a literal sense, since its mass increases with age and nothing in the record has ever reversed that. Prolonged exposure saturates the worker in the same direction: slower movement, a reluctance to stand up, and the settled conviction that something inherited is owed and must be carried.
 - M.A.W. activation is an exchange with no negotiation in it. The registry catalogues the parameters and the bearer pays in body and years, and from this source the payment has a characteristic shape: the wielder begins taking on obligations that were never theirs, and declines help in doing so.
 - An unresolved encounter transforms rather than ending, which is the breach type on the classification. Nothing escapes here and nothing needs to; the fragment stays where it is and the bowl around it becomes something other than ground.
@@ -117,9 +117,9 @@
 |---|---|
 | **Form** | A heavy fragment of black crystal broken from an unknown monument. It rests on the ground but presses through the surrounding landscape. |
 | **Position / movement** | Fixed, and sinking; log the position in three dimensions against the fixed survey stations rather than against anything in the bowl, which is itself in motion. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Material / signature** | Weight. Black crystal broken clean on every face, lead-cold, smelling of wet stone, with an audible cracking from inside it that is logged against a recording threshold. |
+| **Distinctive markers** | An object whose apparent size has never changed sitting in a landscape that is visibly deforming around it. |
+| **Identification** | Confirm the designation and the manifestation before anybody leaves the road. More than one border holding is a broken piece of something larger; this is the one that is sinking, and the instruction that distinguishes it is that nothing in the bowl is ever retrieved. |
 
 **Appearance protocol:** The fragment's apparent size does not change and has not changed in the whole of the record, so the appearance protocol here is a survey protocol. Record the ground displacement from the fixed stations, the depth of the bowl at its four marked radii, the position of the abandoned rigging, and the visible extent of the deformation from the approach road. Record the fragment itself in the ordinary way — black crystal, broken clean, lead-cold, the smell of wet stone — and note that every one of those readings will be identical to the last. The discrepancy between an object that never changes and a landscape that changes constantly around it is the entire observable content of this holding. Write the numbers. Do not write 'imposing'.
 
@@ -128,7 +128,7 @@
 - **The Sorrow:** The burden of history condensed into one piece too heavy to move.
 - **The Event:** A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.
 - **The People:** The border communities the monument was raised over, who inherited an obligation none of them contracted, and who eventually broke the thing that recorded it. They are named collectively in four incompatible accounts and individually in none. The file keeps all four and adjudicates between none of them.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+- **Expanded origin context:** Four accounts of the uprising survive and they do not reconcile: a Collector record, two settlement accounts, and a later municipal summary that attempts to harmonise the other three and fails. All four are held in full. The file adjudicates between none of them, and the archivist's note gives the reason plainly — the facility is the least qualified party in the region to rule on whose version of a revolt against institutional debt is correct, and the fragment weighs what it weighs under every version.
 
 ## Behavior
 
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Broken Fragment is recorded as an Object/Place with Object-Weight manifestation and Weight elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Broken Fragment is an Object/Place with Object-Weight manifestation and Weight expression, held at the border in Zone E by a survey network rather than by a wall. Viderehan opens the monument's debt history and moves nothing. Ferrehan is worked from the margin and tests whether a worker can stay under the pressure without deciding that something must be done. Neither Work Type has ever altered the displacement series by any amount the instruments can resolve.
 
 **Reading the response:** Read it in the instruments, because there is nothing to read in the object. A falling gauge presents as stillness: the displacement rate easing toward its long baseline, the bowl floor holding between surveys, the cracking sound from the crystal dropping below the recording threshold. The pressure eases and the mass does not; a lower gauge is a window and not a door, and the fragment is as unliftable at 20% as at 80%. A rising gauge presents as **urgency** — the readings quicken, the bowl deepens visibly between two surveys, and the team in attendance begins to feel that something ought to be done about this. That feeling is the reading. On this holding it is also the hazard, since every recorded escalation began with somebody competent deciding that the situation warranted action.
 ## Activation Behavior
@@ -171,7 +171,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Primary Effect** | Displays the burden carried by the monument's former community. |
 | **Duration** | Until contact ends. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
-| **Risk** | The worker may become unable to move under inherited weight. |
+| **Risk** | The worker may become unable to move under inherited weight, and will not report it; the condition presents as being fine and standing still. |
 
 **Operational Rule:** The relic answers to contact, and contact is what activates it — touching or attempting to lift the fragment is both the use and the trigger, with no separation between them. It cannot replace scheduled Work Types and containment remains Viderehan and Ferrehan. The standing restriction is absolute and predates the tool classification: no lifting attempt of any kind, by any method, with any equipment. The classification of this thing as equippable is a registry convention here rather than a field practice, and the file says so.
 
@@ -186,7 +186,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Fragment: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is ground, not fire. Record the displacement rate against the fixed stations, the bowl depth at the four marked radii, the crystal's cracking rate against the recording threshold, the position of the abandoned rigging, and where every member of the party was standing. The last field is the one incident reviews have turned on.
 
 **Response sequence:** Establish the perimeter on stable ground outside the deformation radius, verify from the instrument record whether the event is an activation, a channel surge, or simple ground movement, and withdraw unshielded personnel away from the bowl rather than around it. Enforce the recorded protocol. The response to an event here is almost entirely a question of where people are standing, and the one action that must not be taken under pressure is the intuitive one: nobody attempts to stabilise, shore, or recover anything inside the bowl, including the rigging.
 
@@ -198,8 +198,8 @@ The escalation pattern is specific to Broken Fragment: it is not a generic breac
 | **Manifestation** | Object-Weight |
 | **Primary effect** | Displays the burden carried by the monument's former community. |
 | **Duration / rate** | Until contact ends. |
-| **Risk** | Critical (δ) Object-Weight producing Weight pressure; The worker may become unable to move under inherited weight. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Risk** | Critical (δ). Inherited weight settles on the worker who made contact, and the recorded failure is immobility without complaint. |
+| **Management** | Viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. |
 
 **Activation reporting order:** contact or lift attempt → who made it and under whose authority → the burden displayed and whose it was → the worker's mobility at one, five and fifteen minutes → duration until contact ended → management condition. The fourth field is the one that matters: the recorded risk is a worker who cannot move under inherited weight, and the condition does not announce itself — the person reports feeling fine and remains where they are. Viderehan and Ferrehan remain the only valid Work Types.
 ## M.A.W. Equipment
@@ -260,16 +260,16 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; a piece forced past its design charges immediately and personally, and the sorrow carried in it can wake — which on this set presents as the sensation of carrying something in both hands when both hands are empty. No protocol produces a Stigma. It comes from the source, at the source's disposition, or not at all.
+The three pieces are shards of a thing that is itself a shard, and they inherit the defining property: they grow heavier the longer they are kept. The listed benefit holds inside the intended pattern and the cost outside it is charged at once, presenting on this set as the sensation of carrying something in both hands when both hands are empty. The cumulative total governs issue; there is no cycle after which a wielder is back where they started. No protocol produces a Stigma — it comes from the source, at the source's disposition, or not at all.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, gauge baseline, the cumulative weight total already carried by that operator, the condition of the piece, and the objective. The cumulative total is the authorising figure on this set. |
+| **During use** | Activation time, effect strength, the area held, the operator's gait and pace recorded by somebody else, and the first cost noticed by the team. |
+| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the operator has begun accepting tasks that are not theirs. |
+| **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and the cumulative total updated before the operator leaves the armoury. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about the wielder. A well-graded piece from this source can still demand a toll no rating accounts for, and on this set the toll accumulates rather than recurring: there is no cycle after which a wielder is back where they started. Read both columns, authorise on the second, and keep the cumulative total.
 
@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 - The inscriptions appear only to people who acknowledge inherited debt.
 - It creates grief rather than fear in witnesses.
 
-**Personnel Note:** *"It was mourning. I felt grief. The Fragment was not heavy because it was large; it was heavy because too many people had asked it to remember."* — Specialist, Zone B patrol
+**Personnel Note:** *"It is not heavy because it is big. It is heavy because too many people asked it to remember, and none of them are alive to be asked whether they still want it carried."* — Specialist, Zone B patrol
 
 
 
@@ -289,10 +289,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Broken Fragment as an Object/Place with Object-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone E, Border region. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or attempt to lift the Fragment. Effect: Displays the burden carried by the monument's former community. Duration: Until contact ends. Risk: The worker may become unable to move under inherited weight. Tool Use Profile — I-Relic Operational Rule: The. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Broken Fragment's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | A piece of black crystal small enough to look liftable, sitting at the centre of a visible bowl in the ground. Record the bowl before the fragment. |
+| **Sustained observation** | Displacement from the fixed stations in three dimensions, bowl depth at four radii, cracking rate, rigging position, and the stations themselves re-verified against the external reference. |
+| **Activation or escalation** | Activation requires contact and nothing else causes it. Escalation presents as urgency in the team — quickening readings and a growing sense that something ought to be done — and that feeling is itself the reading. |
+| **Post-contact review** | Displacement series, survey return filed, every party member's position logged, any contact and under whose authority, and the mobility of anybody who made contact at one, five and fifteen minutes. |
 
 **Observation method:** Observe from the margin, by instrument where possible, and record the first measurable change in the ground, the first audible change in the crystal, the first emotional response in the observer, and the condition that ended the watch. The entity looks the way it does because of what happened to it rather than because of any intention: a piece of a monument to inherited debt, broken clean and still carrying the whole of it, is what obligation looks like when it has outlived everyone who incurred it. One finding is recorded here so that it need not be rediscovered: proximity has never produced an effect on anybody. The restriction on entering the bowl is about the ground.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -331,13 +331,13 @@ The Fragment looks small enough to carry. Your hand touches it and the ground bo
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A heavy fragment of black crystal broken from an unknown monument. It rests on the ground but presses through the surrounding landscape. Notable Features: Its weight increases with age, it carries old debt, and it cannot. The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Object-Weight form.
+**At first contact:** It looks portable. Every account of a first visit says so, and the file keeps the observation because the misjudgement is the holding's one reliable social effect: people arrive believing this is a stone and leave having watched the ground around it bend.
 
-**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Weight has topography here — ridges of pressure, valleys of absence, a geography only the Object-Weight could have made.
+**With continued exposure:** Nothing happens to the observer and a great deal happens to the landscape. Teams describe long shifts here as uneventful and come away slower; proximity has never produced a measured effect on anybody and the file keeps saying so, because the restriction on the bowl is about the ground.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or attempt to lift the Fragment. Effect: Displays the burden carried by the monument's former community. Duration: Until contact ends. Risk: The worker may become unable to move under inherited weight. Tool Use Profile — I-Relic Operational Rule: The. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Contact shows the carrier the obligations the monument stood over — names, each attached to a promise or a debt — and the display ends when contact ends. What stays is the weight in the shoulders, which several workers have described as having agreed to something.
 
-**After departure:** You leave, but the Weight follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** The weight follows for days and is measurable only in gait. Workers decline help with ordinary tasks afterwards, which the medical office logs as a specific indicator rather than as character, and the indicator clears slowly.
 
 ### Interaction Pattern
 
@@ -389,18 +389,18 @@ Some sorrows mourn a monument. Broken Fragment mourns the debt it commemorated �
 **Common Name:** Broken Fragment
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Critical (δ). It attacks nobody and has never pursued anything. The hazard is the bowl — ground that is slowly ceasing to be ground — and a weight that settles on whoever touches the crystal.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Viderehan and Ferrehan only; it is an Object/Place and cannot be wept with or confronted.
+- Work from the stable margin outside the deformation radius. No entry into the bowl, no contact, no lifting attempt by any method.
+- Nothing is stabilised, shored or recovered inside the bowl under any circumstances, including the rigging and including people.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- A border monument to generations of inherited debt was shattered in an uprising; one fragment remained and holds the whole of it.
+- No engagement exists. The record is a series of lifting attempts, all failed, all now prohibited, and a survey series that has never stopped.
+- Extraction takes a shard from a shard, and the pieces get heavier the longer anybody keeps them.
+**Cross-References:** The border district rubbing of the inscription · the four uprising accounts · the ground-monitoring returns
 **Faction Involvement:** SED (E-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** The border communities the monument was raised over, named collectively in four incompatible accounts and individually in none; the file holds all four and ranks none.
 
 ### Registry Addendum
 
@@ -439,6 +439,38 @@ Equipment from the lifting attempts was never recovered and remains where it fai
 
 Ground monitoring continues through the winter months by instrument alone, the approach road being unreliable in poor weather and the margin unsafe to walk when the surface is wet. The seasonal gap in the walked survey is noted in each annual return as a known limitation rather than smoothed over in the figures, and the district office has twice offered the use of its own vehicles to close it. Both offers were declined with thanks, on the ground that the limitation is about the bowl and not about transport.
 
+### A Mass Nothing Has Ever Weighed
+
+The holding's headline number is a load figure, and the file will not call it a weight.
+
+Nothing can lift the fragment, so nothing can weigh it. The mass is inferred backwards: the ground settlement is measured, a soil model converts settlement into an applied load, and the load is reported. The difficulty is in the second step. **The soil model's parameters were themselves calibrated against this site's settlement**, there being no undisturbed comparator anywhere in the district, so the number explaining the subsidence was derived from the subsidence it explains.
+
+The engineers wrote the circularity into the method statement rather than around it. Every return since carries the figure as an **equivalent load** with the derivation attached, never as a mass, and the standing instruction is that the word *weighs* does not appear in any document this wing issues about this holding. Two external reviews have asked for a single plain figure. Both were given the method statement instead.
+
+What the series does support is a direction and a rate, because those depend on the settlement and not on the model. **It is getting heavier, measurably, and it has never once got lighter.** The wing considers that the whole of what is known, and has twice refused to extrapolate it in writing for a requesting office.
+
+### Equipment Cannot Be Abandoned
+
+The rigging in the bowl is a bureaucratic impossibility that has been sitting there for years.
+
+Plant may not simply be left. An item on the asset register is either recovered, or condemned and written off, and a write-off requires an inspection: a competent person attends the item, examines it, and signs that it is beyond use. That requirement is not a formality — it is what stops wings from disposing of serviceable equipment by declaring it lost, and it has no exception for an item that cannot be reached.
+
+The rigging cannot be reached, because the one absolute rule here is that nothing in the bowl is retrieved. So it cannot be condemned. And an item that has not been condemned remains on the register in its last recorded condition, which is **serviceable**.
+
+It is therefore inspected annually, from the margin, by instrument, at a range of about ninety metres, and the inspection return has recorded it as serviceable every year since the attempt that stranded it — each time with the inspecting engineer's note appended, which is always some version of *I can see it, it is further down than last year, and I am not permitted to say anything else.* The register shows a complete and compliant inspection history for a winch that is now mostly underground.
+
+The wing has not tried to fix this. Its position, minuted once and never revisited, is that **the rule that traps the rigging is the rule that keeps everybody out of the bowl**, and that the absurdity on the asset register is the cheapest thing this holding has ever cost.
+
+### Nobody Comes In After You
+
+What the wing could decide was what happens if someone goes in, and it decided in advance, in writing, that nothing happens.
+
+The standing order is unconditional. **If a person enters the bowl — by accident, by error, or to help — no recovery party follows.** Not for equipment, not for a body, not for a living worker calling from inside it. The engineering basis is in the file: the floor is in slow motion, slow ground gives no warning before it stops being ground, and every rescue in that terrain converts one casualty into several. The wing obtained a formal exemption from the ordinary duty to attempt recovery, which took two years, and it is the only such exemption held in the region.
+
+Every worker posted here is told this at the start of the rotation, in those words, and signs that they were told. The wing does not soften it and has rejected three drafts of the briefing that did. The one concession is that the order is read by the wing commander personally rather than delegated, so that the person who would have to refuse the rescue is the person who says it out loud beforehand.
+
+The emergency service's objection is on the file and is read at every annual review. A standing refusal to attempt rescue is not a safety control but the absence of one; consent given at the start of a rotation is not consent in the moment; and the arrangement places the whole of the residual risk on the individual worker, who cannot be compensated for it because what has been taken from them is not a benefit but a floor. The minute records the objection as **correct, and accepted as correct**, notes that no alternative has been proposed in nine years that an engineer would sign, and leaves the order standing.
+
 ## Trivia
 
 - The Fragment's apparent size never changes, but its weight does.
@@ -452,7 +484,7 @@ Ground monitoring continues through the winter months by instrument alone, the a
 - **Field detail:** Its defining element is Weight, and its registered location is Zone E, Border region.
 - **Recognition detail:** Identify it by the bowl. The crystal itself resembles a dozen filed fragments; nothing else in the border region has pressed a visible depression into the landscape around itself.
 - **Record detail:** Fragment-form and monument-derived entities recur in the archive and several share this one's element. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the point that matters, which is whether the object may be handled at all.
-- **Containment detail:** There is no seal and nothing to seal. Containment here is a monitored radius, an approach restriction, and an annual letter, and the influence that escapes it is not Han pressure but subsidence: the bowl widens, the approach road degrades, and the district's own land is affected before anything of the facility's is.
+- **Containment detail:** There is no seal and nothing to seal. Containment here is a survey network on stable ground, a prohibition on contact, and a standing decision about what will not be done if something goes into the bowl.
 ## Document Information
 
 **Document ID:** SE-O-IVδ-115
