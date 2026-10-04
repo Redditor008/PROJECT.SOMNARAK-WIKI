@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **196** |
-| Pending — no disposition-bearing line found by scan | 107 |
+| **Classified here, with a quoted line of evidence** | **197** |
+| Pending — no disposition-bearing line found by scan | 106 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 196 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 197 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 107 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 106 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -200,6 +200,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Atlas | `SE-O-Iα-169` | Gives other entities nothing and takes nothing from them: four approaches with the Crumbling Saint left both series unchanged and *"nothing passed in either direction"*; three co-presences with the Hollow Architect produced *"no measurable effect in either direction"*; the one authorised test of whether the Sleeping Weight could take load off it was *"answered no."* Gives F01 a 10–14 Han-Energy yield and a hazard that converts good workers into irreplaceable ones — 73 missing tray readings where the watch was never relieved, 19 forcible removals in nine years. It strikes at nobody; its expansion only loads the district's own supports. A column that may not be removed because it holds nothing. Neutral. |
 | Forgotten God | `SE-C-Vδ-265` | Gives other entities nothing it has ever been seen to give: it has never woken, never left the vault, and the file calls the posting *"custodial rather than adversarial"* — *"The God does not breach. It waits."* Every filed relation was established from outside the seal and none produced a measurable transfer. Gives F01 a 20–28 Han-Energy yield that is almost never drawn, and costs it a four-century lamp ledger with 26 years of compatible stock left, a sanctuary it must keep mis-registered as a disused cistern, and fourteen officers personally liable for certifying that entry. Conditional: it is recorded as sleeping near the Final Door *"as if guarding it"*; the relation is unresolved, and if proximity is ever shown to ease that entity's boundary the classification must be revisited. Neutral. |
 | Forgotten Market Stall | `SE-C-IIα-062` | Gives other entities nothing measurable — the file records that its own variation between nights *"is larger than any effect yet attributed to another presence"*, so the Hollow Choir and Orphaned Bell resonances have never produced a reading that survives a baseline. Gives F01 a 10–14 Han-Energy yield and a corpus of 3,118 copied labels it forbids itself to extrapolate from. Costs it a market kept legally open for nine years to preserve a right of access, and six lawful applicants refused on written grounds that were not the real grounds. *"Aggression causes immediate disappearance"*; it has never injured anybody and has never appeared outside the Forgotten Market. Neutral. |
+| The Sorrow Fountain | `SE-C-IIIγ-088` | Helps no other entity and is helped by none: the overflow physically reaches the Memory Lake and four seasons of paired readings show the connection is *"real, physical, and operationally empty"*; eleven co-presences with the Weeping Statue moved neither series; the only positive-signed relation on file is horticultural. Its calming mist works on people, not on holdings — no entity-level reading in the Gardens has ever moved with it — so the O-Relic sector-stabilisation line is not a basis for Positive. Gives F01 16–22 Han-Energy and an amenity it never agreed to provide, now unclosable, staffed by untrained attendants doing ~900 bereavement conversations a year under the name *visitor management*. It has injured nobody. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
