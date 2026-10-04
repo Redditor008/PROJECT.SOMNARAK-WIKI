@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **217** |
-| Pending — no disposition-bearing line found by scan | 86 |
+| **Classified here, with a quoted line of evidence** | **218** |
+| Pending — no disposition-bearing line found by scan | 85 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 217 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 218 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 86 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 85 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -221,6 +221,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Flotsam | C-IIβ-782 | Neutral. It takes the use of ordinary objects and gives F01 nothing: the Burning Library *"held nothing on any of the 206 objects tested,"* the Forgotten Market Stall supplied owners but *"the outline did not retract on any object"* because *"Owners are not uses,"* and four Pandora's Jar co-presences left both series flat. It suppresses no entity and assists none; the cost is a countermeasure capped at 112 of 318 objects, a heritage scheme that cannot list the unexplained, and a rememberers' register down from 23 to 9. |
 | Broken Well | C-IIβ-565 | Neutral. She returns nothing to anyone: against the Memory Well *"this holding returned nothing, on any occasion, to anybody,"* six Hollow Echo attempts produced *"six independent transcripts, no two alike,"* and the Smothering Mother approaches were halted before contact. She suppresses no entity and gives F01 no usable product — only an annual four-hour search of a floor, a missing-person file that can never be closed, and a compelled handover sentence that has cost the wing two Wardens. |
 | The Echo Compass | C-IIIβ-016 | Neutral, and the clearest instance in the archive of an instrument that measures the facility rather than the entity: it reports where grief is thickest and the standing order forbids translating a bearing into a place, so F01 holds *"the liability of the informed and the capability of the ignorant."* It suppresses nothing — five Memory Well channels left that holding's *"flat series"* and retrieved nothing, the Sorrow River bearing remains unverified, and locating the Frozen Relic also located *"eleven other things nobody had been looking for."* |
+| Sunken Pillar | C-IIIγ-649 | Neutral. It suppresses nothing and assists nothing: of the three tested pairings, the Vanished Tower produced *"neither gauge moved on any occasion and no shared effect,"* the Dream Fragment's two attempts returned material matching nothing in the dedication record, and only the Hollow Tree's gauge fell — one-way, *"whatever passes goes one way and does not come back,"* with the Pillar unchanged. What F01 gets is a travelling 400-metre exclusion whose season-ahead track is accurate to sixty metres and is withheld from the licence-holders it crosses. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
