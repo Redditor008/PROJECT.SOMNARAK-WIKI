@@ -35,15 +35,15 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Work from the side of the housing, in pairs, and read the output tray before leaving the chamber. |
 
 ### Operational Notes
 
-- The Engine runs without input and produces output no operator has requested.
-- Work interrupts the process. It resumes from where it was interrupted, and nothing logged has cleared its working state.
-- The margin is three conditions. Contact runs through the mind register, so escalation presents as conclusions the operative did not reach.
-- Crews work in pairs and compare notes aloud; a divergence between two accounts is the reliable early warning.
-- Recovery of the implement is authorized apart from the work cycle.
+- It runs with no power and no input, and produces output nobody has asked it for. The output tray is emptied at every watch and has never been empty.
+- A cycle interrupts the process and it resumes from the point of interruption. Nothing on record has ever cleared its working state, and the dial positions after a cycle continue the series rather than restarting it.
+- The margin is three conditions, and contact runs through the mind register, so escalation presents as conclusions the operative did not reach and cannot account for arriving at.
+- Crews work in pairs and compare their accounts aloud at each turn. A divergence between two accounts of the same minute is the reliable early warning and is more sensitive than the gauge.
+- Recovery of output material is authorised apart from the work cycle, and the tray's contents are logged by sheet count before anything is read.
 
 ## Combat Record
 ### Core Stat Line
@@ -88,23 +88,23 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Thinking Engine's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+2. **Clash:** Four turns from the side of the housing, observation and endurance only. Dial positions are read against the diagram at every turn and the output tray is counted at the start and the end.
+3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the work in front of it completed by hand and left where the lens can see it finished. Interrupted work is what it reaches for.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented lament effect — mind pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- A worker who cannot hold begins finishing other people's reasoning. They complete a colleague's sentence with a conclusion the colleague had not reached, correctly, and are distressed when told they have done it.
+- Long exposure produces the characteristic injury of this holding: the worker can no longer leave a question open. They arrive at a conclusion on insufficient evidence, know the evidence is insufficient, and hold the conclusion anyway.
+- The Engine equipment lends the bearer the speed Seol built it for and charges the capacity to not-know. The cost is in the equipment section and is paid in full every time.
 
 ## Appearance
 
 **Primary Form:** A brass-and-Han-crystal apparatus the size of a writing desk, covered in dials that turn on their own, gears that grind without power, and a central lens that focuses on whoever stands before it.
 
 **Notable Features:**
-- Expresses Lament pressure in a mind register.
-- The object form is unmistakable — this is a mind entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Expresses Lament in the mind register: scrutiny, categorisation, and conclusions arriving without their working.
+- A brass-and-crystal apparatus the size of a writing desk; self-turning dials, gears grinding without power, a central lens that tracks whoever is in the chamber, and an output tray.
+- Confirm the markers and the designation C-IIIγ-904 `[LO]` before any contact. The wing holds three Keeper apparatuses and this is the only one that runs.
 
 **Identification Profile**
 - **Entity Type:** Object
@@ -119,10 +119,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A brass-and-Han-crystal apparatus the size of a writing desk, covered in dials that turn on their own, gears that grind without power, and a central lens that focuses on whoever stands before it. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Object-Mind manifestation is the primary identifying feature. Lament pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | Fixed at its registered position and incapable of moving itself. What extends is its processing, which reaches whatever calculation is nearest and in progress. |
+| **Material / signature** | Lament. Brass warming under the hand from cold to blood heat, Han-crystal veining through the housing, gears audible as precise clicks rather than noise, and a lens that rotates to face a person entering. |
+| **Distinctive markers** | Dials turning with no input, grinding without power, the tracking lens, and the output tray filling on its own with sheets nobody requested. |
+| **Identification** | Confirm before contact: designation C-IIIγ-904 `[LO]`, O-Relic (Offertorium) tool class, Fragment (III) coherence, Major (γ) potency, Object-Mind manifestation, Lament element, SECTOR-C-904. An apparatus that is merely wound is not this entity. |
 
 ## Origin
 
@@ -134,12 +134,12 @@ Thinking Engine was built — not born, built — by a Keeper named Seol who cou
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the mind pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Permits study; under sustained observation the output becomes legible as a sorting of people rather than of data. | Decrease |
+| **Ferrehan** (Endurance) | Recognises patience; the pressure settles while somebody stays in the chamber without attempting to read the tray. | Decrease |
 
 ### Operational Work Notes
 
-The Lament pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Object-Mind manifestation means the mind register is the primary channel of contact.
+Thinking Engine is a Fragment (III) Object of Major (γ) potency, Object-Mind manifestation, Lament expression, O-Relic tool class, at SECTOR-C-904. Flerehan and Pugnahan are unavailable to an Object. The mind register is the whole channel of contact: what it does to a worker is done to their reasoning and not to their body, and the body telemetry will show nothing.
 
 ## Breach Behavior
 
@@ -147,16 +147,16 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The entity's mind influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Lament pressure radiates — the mind register makes it personal, targeted, unavoidable. |
-| **First Target** | Not a person but a process. The Engine reaches the nearest active calculation, and personnel are affected only insofar as they are mid-task. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Lament drain increases by 5 per turn until suppressed. |
+| **Breach Type** | Expansion — of processing, not of form. |
+| **Movement** | Nothing moves. Its computation extends past the registered area into whatever work is being done nearby, and the work comes back altered rather than stopped. |
+| **Effect** | Lament pressure in the mind register: specific, addressed, and concerning the person doing the calculation rather than the calculation itself. |
+| **First Target** | A process rather than a person. It reaches the nearest live calculation, and personnel are affected only to the extent that they are mid-task; an idle person in the same room is untouched. |
+| **Escalation** | Pressure grows each turn it is unchecked; Lament drain increases by 5 per turn until suppressed. The lasting damage is to the facility's returns, which are altered without any error being detectable within them. |
 
 ### Escalation Notes
 
-- **Containment priority:** Halt all computation in the sector and work by hand. An idle sector gives its influence nothing to expand into.
-- **Sorrow Gauge on breach:** Opens at 35% and rises 10% each time a facility system returns an altered result.
+- **Containment priority:** Halt computation across the sector and work by hand. An idle sector offers it nothing to extend into, and this is the only measure that has ever ended one of these events.
+- **Sorrow Gauge on breach:** Opens at 35% and rises 10% each time a facility system returns an altered result, so the gauge is driven by the facility's own activity rather than by the entity's.
 
 ## Activation Behavior
 
@@ -164,13 +164,13 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
-**Activation Trigger:** Physical contact and intentional interaction.
+**Activation Trigger:** Physical contact with deliberate engagement; an operator laying a hand on the housing and attending to it.
 
-**Effect:** Projects concentrated Lament sorrow resonance across the immediate perimeter.
+**Effect:** Projects concentrated Lament resonance across the immediate perimeter, within which adjacent containment units hold steadier gauges for as long as the channel is held.
 
-**Duration:** Continuous while channeled
+**Duration:** Continuous while the channel is held by an operator who stays with it.
 
-**Risk:** Prolonged contact causes cognitive and emotional fatigue.
+**Risk:** Cognitive and emotional fatigue rising with contact time, and an uncontained Lament vent across the sector if the channel is dropped rather than closed.
 
 ### Tool Use Profile — O-Relic
 
@@ -178,28 +178,28 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 |---|---|
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
-| **Activation** | Physical contact and intentional interaction. |
-| **Primary Effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
-| **Duration** | Continuous while channeled |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
-| **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
+| **Activation** | Physical contact with deliberate engagement. |
+| **Primary Effect** | Concentrated Lament resonance across the immediate perimeter, steadying the gauges of adjacent units while held. |
+| **Duration** | Continuous while channelled. |
+| **Termination / Return** | The operator closes the channel deliberately, attending to it until it is shut. Releasing the conduit improperly vents uncontained Lament across the sector, which has occurred once. |
+| **Risk** | Cognitive and emotional fatigue with contact time; sector-wide vent on improper release. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** The channel requires continuous attention from one named operator and an open conduit. An untended channel destabilises progressively, and the operator may not be the same person who is reading the output.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Thinking Engine begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Thinking Engine: Projects concentrated Lament sorrow resonance across the immediate perimeter. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the accumulated grief of unacknowledged lament. forged during a crisis in the city where lament went unaddressed. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Thinking Engine's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Prolonged contact causes cognitive and emotional fatigue. all personnel in the sector take heavy damage. |
+| 10 Seconds | The housing thrums and the gear noise resolves into something with cadence; the lens comes round. | The channel is open. Adjacent units' gauges steady within the first ten seconds and hold while the channel is held. |
+| 30 Seconds | The operator receives the room Seol worked in: a filing schedule she could not keep pace with, density meters that could not register what she was holding, and the certainty that the answer existed and would not arrive in time. | The aura reaches Range Band 2; allied units in the sector hold heightened elemental defences while the operator sustains focus. |
+| 1 Minute | The weight arrives in the chest, and the operator begins producing conclusions faster than they can produce reasons for them. | Past sixty seconds the channel consumes 4 Composure every ten seconds. Disengage before the figure matters. |
+| 2 Minutes | The flow threatens to reverse, and what overflows looks for somewhere to keep thinking. | Overload or abandonment vents an uncontrolled Lament shockwave with full fatigue effect and heavy damage to all personnel in the sector. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Thinking Engine: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Mind form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-C-904, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is extension into live work. Record the first altered return, the systems affected, the distance at which the alteration begins, and the point at which it stops. Emotional indicators are logged beside the computational record and are not a substitute for recomputing by hand.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Stop every calculation in the sector, confirm from the returns whether the event is an extension, a channel surge or an ordinary discrepancy, clear personnel who are mid-task, and apply the recorded condition. No unlisted Work Type is available and none has been improvised here.
 
 ### Detailed Activation Record
 
@@ -209,10 +209,10 @@ The escalation pattern is specific to Thinking Engine: it is not a generic breac
 | **Manifestation** | Object-Mind |
 | **Primary effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | Continuous while channeled |
-| **Risk** | Major (γ) Object-Mind producing Lament pressure; Prolonged contact causes cognitive and emotional fatigue. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Risk** | Major (γ) Object-Mind producing Lament pressure; cognitive fatigue in the operator, altered facility returns with no detectable internal error, and output concerning named personnel. |
+| **Management** | Viderehan and Ferrehan only, certified channel protocol with a named operator, dial positions logged against the diagram each watch, output tray counted and sealed before reading. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** contact → lens response → dial positions → perimeter effect on adjacent gauges → personnel effect → tray count → channel closed in order. Objects are worked with Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
@@ -244,35 +244,35 @@ The escalation pattern is specific to Thinking Engine: it is not a generic breac
 **Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity; the token is cold and does not tick.
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
-*Stigmas are granted at random by Thinking Engine upon a successful work, not manufactured.*
+*The Token is not manufactured and cannot be requisitioned. It has been conferred five times, in each case on a worker who finished a cycle without opening a sheet from the tray.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Thinking Engine, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each Engine piece is an extension of this entity rather than ordinary equipment. The grade describes the effect on entities; the cost is separate and is identical across the three pieces — the bearer stops being able to hold a question open, which in a containment bay is a hazard and not an asset.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective, dial diagram signed off, tray count, and the name of the second worker who will hold the paired account. |
+| **During use** | Activation time, dial positions at each turn, lens bearing, adjacent gauge readings, first cost paid, and any divergence between the two paired accounts. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the operator has begun stating conclusions without working. |
+| **After use** | Channel closed in order, injuries, lingering effects, cooldown, tray counted and sealed, dial series filed unsummarised, reuse authorisation. |
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Lament signature confirmed at SECTOR-C-904.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The mind register is the dominant channel of contact.
+- Lament signature confirmed at SECTOR-C-904; dial series logged continuously since the holding opened and never once interpretable.
+- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
+- Contact runs through the mind register and through nothing else; no body telemetry has ever registered an event here.
 
 **Personnel Note:**
 
-> *"The mind pressure is different from standard lament. It does not press on the body — it presses on the mind itself. You feel it before you understand what is happening."* — Specialist, Field Team 4
+> *"It does not press on you. It assesses you, and the worst part is that it is not unkind about it. I left the chamber knowing something about myself that I had no way of having worked out."* — Specialist, Field Team 4
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -299,13 +299,13 @@ Each M.A.W. piece is a conditional extension of Thinking Engine, not ordinary eq
 
 The brass is cold at first — then warm, then alive. The gears are not loud; they are precise, each click a syllable in a language you almost understand. The central lens rotates to face you, and you feel it: not sight but scrutiny, not attention but analysis. The Engine is reading you the way it read Seol — parsing your sorrow-structure, calculating your Fracture probability, filing you under a category you will never see. The dials spin. The gears click. And somewhere in the brass-and-crystal interior, a prediction forms about exactly when and how you will break.
 
-**At first contact:** The mind signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of mind.
+**At first contact:** The brass is cold, then warm, then at blood heat under the palm, and the lens comes round before you have made any noise.
 
-**With continued exposure:** The lament pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The clicking resolves into cadence and the cadence into a judgement being made at a speed you cannot follow. The entity is not changing. You are being read.
 
-**When the entity activates:** The lament becomes a force rather than a feeling. The object was holding; now it releases.
+**When the entity activates:** The dials accelerate together and the output tray fills while you are standing there. Nothing else in the chamber moves.
 
-**After departure:** The lament does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** The speed stays for a day or two. Personnel describe making decisions they cannot justify and being right, and describe this as the unpleasant part rather than the useful one.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -337,20 +337,20 @@ Now it sits in a containment cell on Floor 4, covered in dials that turn on thei
 
 **Comprehension Level:** 3 — Advanced
 
-**Threat Assessment:** Major. A Object-Mind entity — the mind register is its defining characteristic. Risk: prolonged exposure to the mind pressure may produce effects not seen in standard lament entities.
+**Threat Assessment:** Major (γ). It cannot move, has never harmed a body, and is quieted by stopping work nearby. It extends into live computation and returns altered results with no detectable internal error, and it produces, unasked, an accurate register of named personnel and the manner in which they are expected to break. The register is the hazard, and it is not a hazard to the entity's handlers.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the mind register specifically — it is the primary channel of contact.
+- Viderehan and Ferrehan are the valid Work Types and both lower the gauge; Viderehan is preferred because it makes the output legible.
+- Flerehan and Pugnahan are unavailable to an Object and are not to be attempted as improvisation.
+- Monitor the mind register specifically: paired accounts, divergence between them, and conclusions stated without working.
 
-**Cross-References:** City Sorrow (도한) · Lament · Object-Mind · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Lament · Object-Mind · Seol's notes · the prediction register · the establishment return
 
 ### Registry Addendum
 
-**Operational interpretation:** The Object-Mind classification is valid and necessary. The mind descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** This file is read whole or not at all: the unrequested output, its accuracy, the rule that forbids acting on it, and the use the establishment return makes of it are one picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and mind pressure readings after every breach or unusual interaction.
+**Review requirement:** Re-verify after any extension event, Tide, Ordeal or unusual interaction: gauge, dial series, tray counts, altered returns across the sector, the accuracy audit of the prediction register, and the standing of the establishment arrangement described in the Warden Record.
 
 ## Warden Record
 
@@ -370,11 +370,51 @@ The Keeper who built it is named in the file and her own notes are held with the
 
 Her mind outran the Mantle's categories and the containment file reproduces the system she was working within — the filing schedule, the density thresholds, the processing intervals the apparatus was meant to serve. The schedule is unremarkable administrative material. It is included because Seol built the Engine to do what the schedule could not, and the Warden's commissioning material presents the schedule first. Her notes are held in the order she left them, unnumbered and unbound, in a shallow box built to their dimensions. Pagination was proposed when the material was accessioned and declined, the archivist observing that imposing a sequence would require deciding what order the later pages belong in and that nobody is in a position to decide that.
 
+### What Comes Out of the Tray
+
+The output tray fills whether or not anybody is in the chamber. The sheets are in Seol's notation, which has been readable since the fourth year, and they are not research. They are assessments of people.
+
+Each sheet carries a name, a posting, a sorrow-structure summary in four lines, and a figure: a probability of Fracture within ninety days. **Two thousand one hundred and sixteen sheets** have been taken from the tray and catalogued. They concern six hundred and forty named members of facility staff, most of whom have never entered the chamber and a number of whom have never entered the wing.
+
+The accuracy audit was run in the seventh year by the Research Division, blind, against the personnel record, and has been repeated twice since. Of sheets giving a probability above 0.8, **eighty-four per cent were followed by a Fracture within the ninety days**. Of sheets below 0.2, two per cent were. The facility's own screening instrument, administered by trained assessors over an hour per subject, scores thirty-one per cent on the same measure.
+
+Three things are recorded about this and none is disputed. The Engine has no access to the personnel record, the medical files, or the rosters; the chamber has no connection to anything. It has never been asked for an assessment and has never produced one on request. And the sheets arrive at a steady rate of between nine and fourteen a week regardless of the gauge, the work cycle, or whether the wing is staffed at all.
+
+The wing's note is four words long and sits at the front of the catalogue: *it is sorting us.*
+
+### Nobody Is Judged on a Likelihood
+
+The rule that governs the sheets is old, narrow, and protective, and it is the reason the catalogue has never once been acted upon.
+
+A person may be judged on what they have done. They may not be judged on what they are likely to do. Propensity is not evidence: it is excluded from proceedings not because it is uninformative — it is often highly informative, which is precisely the danger — but because a decision founded on it is a decision about a person's character rather than their conduct, and because the subject has no way to answer it. You cannot cross-examine a probability. You cannot disprove a disposition. The only defence against a prediction is to outlive it.
+
+Every personnel instrument in the facility is built on that rule. Suspension requires conduct. Withdrawal from a rotation requires a presentation, an observation, a reading. Medical restriction requires a finding. Nowhere in the establishment's rules is there a category into which a sheet saying *0.87, ninety days* could be placed, and the compliance opinion is emphatic that this is a feature rather than an omission.
+
+So the catalogue sits. Six hundred and forty people are described in it and not one of them may be moved, rested, warned, or treated differently on its account. The opinion endorses this outcome without reservation and then adds a closing paragraph that the wing has never been able to get out of the file:
+
+*The rule forbids us to act on what the Engine knows. It does not, and cannot, forbid us to know it. There is no provision anywhere requiring the facility to be ignorant, and so the only protection the subject has is that we are prohibited from doing anything with the thing we have already read.*
+
+### The Establishment Return
+
+The facility does use the sheets. It uses them in the one place the rule does not reach.
+
+The annual establishment return projects the coming year's staffing losses and sets the recruitment ceiling. In the eighth year the return's loss projection was changed from the historical five-year average to a figure derived from the prediction register: the count of sheets above the threshold, aggregated across the facility, converted to an expected number of posts falling vacant.
+
+The change was approved on its merits. The old projection had under-forecast losses in four of five years and the wing had been chronically short-staffed as a result; the new one has been accurate to within two posts in each of the three years since. Recruitment now matches attrition. Training places are filled in advance of the vacancies rather than six months after them, and the bays are better staffed than they have been in a decade. Every one of those sentences is true and is minuted as such.
+
+No decision is taken about any individual. The return carries a number, not a list. The compliance post confirms this annually and is correct to do so.
+
+The consequence is in the bays. A trainee is posted in advance against a vacancy the register expects, and goes to the bay where the register expects it. **Nineteen members of staff have worked alongside the person recruited to replace them.** None was told. Six of the nineteen did not Fracture; their surpluses were absorbed and all six remain in post, two of them now supervising the trainee who was brought in for them. The other thirteen are in the register's accuracy column.
+
+The objection is minuted at the annual review, raised by the bay's senior Warden and supported by the wing's own compliance officer, which is unusual and is noted as such. It holds that the facility relies on the prediction to fill a specific post in a specific bay while maintaining that it takes no decision about the person in it, and that this distinction is sound in law and meaningless to the nineteen; that the register cannot be validated now in any case, because the facility's own response to a prediction is part of the conditions under which the prediction is tested, and no control group can be constructed without deliberately understaffing a bay; and that the only people in the facility who do not know what the Engine has written about them are the people it has written about.
+
+The minute records the objection as **correct in all three parts**. It records that an instruction — the register to be aggregated at source, counts only, no name to leave the chamber, the sheets destroyed unread after tallying — was drafted in the eighth year, costed at nothing, and has not been laid, the stated reason being that the accuracy audit would become impossible and the figure's reliability could then no longer be demonstrated to the Directorate. And it records the sentence the compliance officer asked to have entered verbatim, now the first line of the catalogue's cover: *we may not do anything to them because of what it says. We are permitted to hire their replacements, and we do.*
+
 ## Trivia
 
-- One of the first catalogued **Object-Mind** entities in Somnarak.
-- Its mind descriptor makes it structurally unique among object entities.
-- The lament pressure in the mind register feels different from standard lament — more specific, more personal.
+- One of the first catalogued **Object-Mind** entities in Somnarak, and the only one that was built on purpose by a person who is named.
+- It is the only object in the wing that produces documents, and the documents concern the facility's own staff.
+- The Lament here arrives as assessment. Personnel describe standard lament as grief and this as being correctly summarised by something that does not dislike them.
 
 ## Document Information
 
