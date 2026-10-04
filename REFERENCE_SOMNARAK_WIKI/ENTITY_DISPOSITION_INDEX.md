@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **261** |
-| Pending — no disposition-bearing line found by scan | 42 |
+| **Classified here, with a quoted line of evidence** | **262** |
+| Pending — no disposition-bearing line found by scan | 41 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 261 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 262 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 42 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 41 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -61,14 +61,19 @@ only in the element word:
 > touches."* · First Target: *"The nearest personnel or the one whose sorrow matches the entity's
 > origin."*
 
-A line that is word-identical across six dossiers cannot distinguish between them. Held on this
-ground: **Sorrow Mass** `C-Vω-925`.
+A line that is word-identical across six dossiers cannot distinguish between them. **This ground
+now holds nobody.** All six dossiers have been given bespoke breach text under Workstream 6 and all
+six have been classified from it.
 
-**Moktak** `N-IIβ-910`, **Dead Air** `N-IIIγ-929`, **Dreaming Plague** `N-IVδ-927`, **Miasma** `C-IVδ-922` and **Hatred Above** `C-IVδ-923` were held here and have since been released, by the route this section this section
-predicts: their stock breach blocks were replaced with bespoke text under Workstream 6
-([`R-23`](RULES/R-23_LABELS_MAY_REPEAT_VALUES_MAY_NOT.md)), and each row was written from the new
-First Target line in the same commit. **Weighted Silence** `O-IIIγ-924`, pending on the same stock breach block though never listed above, was released the same way. Releasing the last one requires the same authoring work
-first — the reading is not what is missing.
+**Moktak** `N-IIβ-910`, **Dead Air** `N-IIIγ-929`, **Dreaming Plague** `N-IVδ-927`, **Miasma**
+`C-IVδ-922`, **Hatred Above** `C-IVδ-923` and **Sorrow Mass** `C-Vω-925` were all held on this
+ground and have all been released, by the route this section predicted: the stock breach block was
+replaced with bespoke text under Workstream 6
+([`R-23`](RULES/R-23_LABELS_MAY_REPEAT_VALUES_MAY_NOT.md)), and each row was then written from the
+new `First Target` line in the same commit. **Weighted Silence** `O-IIIγ-924`, pending on the same
+stock block though never listed here, was released the same way. The pattern is now established —
+the authoring comes first and the row follows in the same commit — and it is how the remaining
+pending entries will be reached.
 
 **What this means for the workstream.** The pending pool is not a reading backlog. The entities that
 remain are the ones whose files do not yet say anything specific enough to classify, so the index
@@ -362,6 +367,7 @@ The ones that cost F01 containment, not just personnel.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| Sorrow Mass | `SE-C-Vω-925` | Negative, and the only Sovereign the Directorate manages without ever scheduling a work. Uncontained. Breach `First Target`: *"The foundations, and after them whatever has been carried longest without being said."* The cost to F01 is standing and structural rather than episodic — load-distribution wards under every floor plate, foundation gauges read on the watch, an uninterrupted deflection survey, and standing authority to clear a working floor on one reading. Seventeen major pressure events are on the Directorate ledger and one district was lost outright: *"a district loaded past endurance before the doctrine existed, where the weight arrived faster than the mourning and the structures failed before the rites."* It suppresses no entity and assists none; it is classed Negative for what it takes from the facility to hold, not for any hostility the file records. |
 | Stormscale Sovereign | `SE-C-Vδ-949` | Breach `Effect`: *"The Fourfold Tide spreads beneath its flight path; every sector it overflies is cycled through all four sorrows."* Battle Phase 1: *"There is no containment that holds a Sovereign."* Consequences: *"Any sector the Sovereign overflies is subjected to the Fourfold Tide; there is no single defence, and casualties are assumed."* Sealed Record: *"there is no force in the city's containment capacity that can suppress a Mixed-element Sovereign in active flight."* It is not merely dangerous to F01 — it is the one outcome the archive holds that defeats containment as a category, and the only documented resolution is the entity choosing to end itself, which *"there is no guarantee a second manifestation would"* repeat. |
 | Black River | `SE-C-Vγ-225` | Expansion `Effect`: *"Foundations that met code when raised are found anchored below the line. Four basements were bought and sealed this year."* Interaction record: *"Its foundation sits below the grief-line and draws... The Maw strengthens measurably; the River's own readings do not move."* It is the source every entity in the catalogue draws from, it strengthens a catalogued Negative by measurement, and it lifts the ground F01's containment is anchored in at 418 millimetres a year. Negative. |
 | Sorrow Storm | `SE-C-Vγ-320` | A wall multiplies every weight already present: three lesser entities breached under the named season that had never breached before, every other holding presses harder on its own containment at once, and new entities crystallize in the months after. It damages F01 structures citywide, Fractures the wards, and improves The Grieving Colossus; it suppresses nothing. |

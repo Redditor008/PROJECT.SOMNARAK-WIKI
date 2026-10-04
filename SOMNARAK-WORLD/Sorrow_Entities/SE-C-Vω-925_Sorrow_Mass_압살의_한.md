@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · ω |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (ω) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | There is no work scheduled against this holding and never has been. The response is architectural: read the foundation gauges on the watch, run the deflection survey continuously, and evacuate a floor on the first confirmed thickening rather than on the second. |
 
 ### Operational Notes
 
@@ -73,7 +73,7 @@
 | **Difficulty** | 925  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("V", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-925 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | There is no resolution condition. The holding is uncontained and the ledger records no event ended by anything the facility did — only floors cleared in time and, once, floors not cleared in time. A site is closed out when the deflection survey reads stable for four consecutive watches. |
 
 ### Combat Actions
 
@@ -88,13 +88,13 @@
 
 1. **Tension:** Personnel identify the hazard manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Sorrow Mass's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The floor is cleared, the wards beneath it are inspected, and the survey continues on the structure whether or not anyone is still working in it. Nothing is suppressed, withdrawn from, or defeated; the event ends when the millimetres stop.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented weight effect — weight pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- Composure loss here is a late symptom and a poor one. Crews under a thickening report ordinary tiredness for days before anything registers as distress, which is why the doctrine trusts the gauges and not the people standing on the floor plate.
+- Prolonged exposure produces structural failure before it produces casualties. The crushed wards bowed over eleven months and were evacuated on the strength of a survey, not a complaint; the complaints had been filed for two years by then and had been read as fatigue.
+- The set is issued to weighing crews only and is used for survey, not for suppression. Nothing in this holding has ever been fought, and the equipment record contains no entry describing an attempt.
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Weight pressure in a weight register.
 - The hazard form is unmistakable — this is a weight entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Identification is by instrument before sensation: a load gauge reading out of family with its neighbours, in a place where nothing has been moved.
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Hazard-Weight manifestation is the primary identifying feature. Weight pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | It does not occupy a position; it occupies a volume of structure and grows through it the way groundwater does — upward through foundations, outward along walls, at a rate measured in centimetres of deflection per month. |
+| **Material / signature** | Mass, and nothing else: no apparition, no voice, no visible phenomenon anywhere in the record. A dropped tool falls faster than it should. That is the entire sensory signature and it is the only one there has ever been. |
+| **Distinctive markers** | Indifference to shelter. Walls do not stop it, seals do not hold it, and distance attenuates it only gradually — the one place the record shows a sharp boundary is the floor plate of a warded structure, and the ward is ours. |
+| **Identification** | Compare the foundation gauges against each other rather than against their own history. A seep shows first as a disagreement between adjacent gauges and only later as a trend in any single one. |
 
 ## Origin
 
-Nobody knows exactly when Sorrow Mass started. The first recorded incident is dated, but the entity itself is older — weight grief does not announce its birth; it seeps, thickens, and one day the personnel realize the room has changed and cannot remember when it was different.
+The first recorded incident is dated and the archive keeps the date the way reliquaries keep bone, but the record reads as a recognition rather than a beginning. A district office complained that its people were exhausted without cause. The survey that followed found the foundations already carrying years of it.
 
-Floor 4 has studied Sorrow Mass for cycles. Their findings are classified, but the summary is available: the weight register is not a secondary characteristic. It is the primary axis. The weight element determines the pressure type; the hazard type determines the physical form; but the weight descriptor determines the *nature* of the contact.
+It gathers where sorrow has been carried longest without being said: the Deep Vault inventory aisles, the sealed wing behind the Insight Forge, the stairwells the night shift uses and nobody else does. Seventeen major events, and not one of them in a place where the grief was fresh.
 
-Personnel who work Sorrow Mass do not simply feel weight pressure. They feel weight pressure filtered through weight — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the weight register or the work will fail.
+What it does to a building is measurable in millimetres a month. What it does to the people in the building is that they stop mentioning the stairs.
 
 ## Behavior
 
@@ -142,7 +142,7 @@ Personnel who work Sorrow Mass do not simply feel weight pressure. They feel wei
 
 ### Operational Work Notes
 
-The Weight pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Hazard-Weight manifestation means the weight register is the primary channel of contact.
+The weight is the one thing in this archive that an instrument measures better than a person does. Both valid approaches are survey work: observation is the gauge round, endurance is the continuous deflection watch that nobody has ever been allowed to interrupt. The holding has never been worked in the ordinary sense and the Directorate has never scheduled one.
 
 ## Breach Behavior
 
@@ -151,15 +151,15 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's weight influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Weight pressure radiates — the weight register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | Upward, through whatever is load-bearing, at the pace of a slow leak. Seventeen major pressure events are on the Directorate ledger; in every one the sequence was the same — foundation, stairwell, then the living floor — and in none of them did it skip a level. |
+| **Effect** | The structure takes the load before the people do. Tools drop, doors bind, floor plates bow, and personnel describe nothing worse than a long shift until the deflection survey says otherwise. The crushed wards failed in that order and are kept standing, stabilised, as the record of it. |
+| **First Target** | The foundations, and after them whatever has been carried longest without being said. The Mass has never manifested where grief is fresh: the inventory aisles of the Deep Vault, the sealed wing behind the Insight Forge, the stairwells the night shift uses. It arrives under places, not at people. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per confirmed storey of seep rather than per turn. The crushed wards event is the only reading above 80% in the ledger and it was taken after the floors had already gone.
 
 ## M.A.W. Equipment
 
@@ -194,76 +194,76 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.
-*Stigmas are granted at random by Sorrow Mass upon a successful work, not manufactured.*
+*A Token is found set into a floor plate during a stabilisation lift, always in a structure that held. None has ever been recovered from the crushed wards, which have been lifted twice.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Sorrow Mass, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+The Sorrow Mass set is made of structure: the Edge from a failed load-distribution ward, the Veil from the compression matting laid under the Deep Vault aisles, the Token from a foundation gauge housing. Every piece came out of something that was built to hold the weight, and two of the three came out of something that did not.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record the gauge round the operator last walked and the date of the last deflection survey on the structure they are standing on. If either is stale the issue is refused; the refusal is logged against the survey, not against the operator. |
+| **During use** | Log deflection, in millimetres, at the start and end of the round. The set exists to take that measurement and the measurement is the only output anybody wants from it. |
+| **At limit** | The wielder stops noticing stairs. Reported by colleagues rather than by the wielder in every case, and corrected by a rotation off the gauge rounds for a cycle. |
+| **After use** | Weigh the piece and weigh the operator. Both figures go on the same line of the sheet, which is a weighing crew practice older than the doctrine and has never been formally required of anybody. |
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 5 — Sovereign
 
 **Key Observations:**
-- Weight signature confirmed at SECTOR-C-925.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The weight register is the dominant channel of contact.
+- Seventeen major pressure events on the Directorate ledger, each one logged with the storey it reached and the hour the floor was cleared. Foundation gauges are read on the watch and the deflection survey has not been interrupted since the doctrine was written.
+- No work has ever been scheduled against this holding. Both valid approaches are survey disciplines, and the gauge falls when the survey is current rather than when anything is done to the Mass.
+- It gathers where sorrow has been carried longest without acknowledgment and has never once appeared where grief is fresh. Seventeen events, seventeen old places.
 
 **Personnel Note:**
 
-> *"The weight pressure is different from standard weight. It does not press on the body — it presses on the weight itself. You feel it before you understand what is happening."* — Specialist, Field Team 1
+> *"You do not feel it arrive. You notice, about a month in, that you have started taking the long way round because the stairs have got harder, and you have not told anybody, because who reports stairs?"* — Weighing crew, Deep Vault
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Sorrow Mass (C-Vω-925 [WH]) is logged as a Hazard-Weight manifestation expressing Weight. Held at SECTOR-C-925.
+**Entry 1 — Containment Description** Uncontained. A gravity anomaly beneath the Alpha Tree, managed architecturally rather than operationally: load-distribution wards under every floor plate, foundation gauges read on the watch, continuous deflection survey, and evacuation at the first confirmed thickening.
 
-**Entry 2 — Field Log** First contact report: the weight register was immediately apparent. Personnel described it as a weight pressure unlike standard weight.
+**Entry 2 — Field Log** The first recorded incident was a district office complaint: personnel exhausted without cause. The Warden’s follow-up survey found the weight had not begun with the complaints — it had been building for years, seeping upward through the foundations, and the complaints were the last symptom rather than the first.
 
-**Entry 3 — Counseling Log** The weight pressure accumulates in the weight register — this is not standard weight; this is weight filtered through weight.
+**Entry 3 — Counseling Log** Crews describe exhaustion and nothing else, and describe it reluctantly, because exhaustion is not something a working adult reports. The counsellors’ standing note asks a different question instead: whether the stairs have changed.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The weight register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Seep doctrine: monitor everything, mourn early, and never let the thickening reach the living floors. Evacuation is ordered on the survey alone and does not wait for a second confirmation. Three evacuations have since been found unnecessary and none has been criticised.
 
-**Entry 5 — Director's Note** This entity's classification as Hazard-Weight is correct. The weight descriptor is not decorative — it is the operational axis. All containment protocols should account for the weight register as the primary channel.
+**Entry 5 — Director’s Note** I walked in and I walked out, and I have never written down what that cost, because the record would be read as an instruction. Nobody else is to attempt it. The wards hold the floors and the floors hold the people, and that is the whole of our posture toward the heaviest thing this city has made.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Read the gauges — trust the instrument over the floor you are standing on. | Wait for a second confirmation — do not clear a working floor on one survey. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| The floor is cleared in an hour, the thickening is logged, and nothing is lost but a cycle of work. | The second confirmation arrives. It arrives as a bowed plate, and the wards below it are now part of the record. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
 The weight register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your weight — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.
 
-**At first contact:** The weight signature is unmistakable — this is not a general weight entity but one whose sorrow has taken the specific shape of weight.
+**At first contact:** Nothing. That is the signature. A month later you are avoiding a staircase you have used for nine years.
 
-**With continued exposure:** The weight pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** Objects begin to arrive on the floor sooner than they should. Dropped tools, swinging doors, a cup set down too hard — small wrongnesses that nobody writes down until a gauge disagrees with its neighbour.
 
-**When the entity activates:** The weight becomes a force rather than a feeling. The hazard was holding; now it releases.
+**When a floor is condemned:** The order comes from a survey sheet and is carried out in an hour. People leave a working floor that feels, to them, entirely ordinary, and the crews who read the gauges have learned to say so out loud while it happens.
 
-**After departure:** The weight does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** The tiredness lifts over a week or two. The bowed floor does not lift at all; the crushed wards have been stabilised twice and are still measurably out of true.
 
 ## 이야기 (Narratio) — The Tale
 
-Nobody knows exactly when Sorrow Mass started. The first recorded incident is dated, but the entity itself is older — weight grief does not announce its birth; it seeps, thickens, and one day the personnel realize the room has changed and cannot remember when it was different.
+The crushed wards are the worst site in the record — a district loaded past endurance before the doctrine existed, where the weight arrived faster than the mourning and the structures failed before the rites. They are stabilised now, monitored, kept open to the weighing crews’ training details and closed to everything else.
 
-Floor 4 has studied Sorrow Mass for cycles. Their findings are classified, but the summary is available: the weight register is not a secondary characteristic. It is the primary axis. The weight element determines the pressure type; the hazard type determines the physical form; but the weight descriptor determines the *nature* of the contact.
+Trainees walk the bowed floors the way recruits walk battlefields. The Directorate has twice been asked to demolish the wards and has twice refused, on the stated ground that a doctrine written after a failure should be taught standing in the failure.
 
-Personnel who work Sorrow Mass do not simply feel weight pressure. They feel weight pressure filtered through weight — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the weight register or the work will fail.
+Everything else the Directorate does about the Mass is preventative and expensive: load-distribution wards under every floor plate in the facility, gauges on the watch, a deflection survey that has not been interrupted once since it began, and standing authority to clear a floor on one reading.
 
-The entity does not rage. It does not weep. It persists — weight and weight, patient and permanent. Sorrow Mass is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+It is the only Sovereign the Directorate manages without ever scheduling a work against it. Uncontained, unfought, and so far outpaced — one district at a time, one millimetre a month.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -286,17 +286,17 @@ The entity does not rage. It does not weep. It persists — weight and weight, p
 **Threat Assessment:** Catastrophic. A Hazard-Weight entity — the weight register is its defining characteristic. Risk: prolonged exposure to the weight pressure may produce effects not seen in standard weight entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the weight register specifically — it is the primary channel of contact.
+- Walk the gauge round on the watch and keep the deflection survey unbroken.
+- There is nothing to weep with and nothing to confront: no apparition, no voice, no figure in seventeen events. Only load.
+- Evacuate on the first confirmed thickening and accept the false positives; three unnecessary evacuations are on record and all three were upheld.
 
 **Cross-References:** City Sorrow (도한) · Weight · Hazard-Weight · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Hazard-Weight classification is valid and necessary. The weight descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** Hazard-Weight at Sovereign scale, and the only V-rank holding the Directorate manages without ever scheduling a work. The posture is architectural throughout — wards, gauges, surveys, evacuation — and the reason is in the ledger: everything this entity has destroyed, it destroyed slowly, in places where somebody had already stopped mentioning how tired they were.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and weight pressure readings after every breach or unusual interaction.
+**Review requirement:** Re-read the gauge families against each other every watch, re-survey the crushed wards annually, and re-examine the seep doctrine whenever a structure fails anywhere in the city, whether or not the Mass is suspected.
 
 ## Sovereign Manifestation Log
 
