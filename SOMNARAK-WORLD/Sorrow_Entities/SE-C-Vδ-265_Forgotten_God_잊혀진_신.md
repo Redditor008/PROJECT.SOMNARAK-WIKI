@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Do not wake, address, or attempt extraction. Maintain the seal, keep the lamps, and keep the rostered lament; Flerehan and Ferrehan lower the gauge and Pugnahan must not be used inside the sanctuary. |
 
 ### Operational Notes
 
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the All four — Lament, Grudge, Void, Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Forgotten God's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is no clash on this holding and the phase is retained only because the form requires it. What happens instead is the lament: the rite is kept, the lamps are checked, the log is signed, and nobody addresses the figure directly. A crew that finds itself speaking to it stops and withdraws.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not wake, address, or attempt extraction. Maintain the sealed vault**.
 
 ### Consequences
@@ -125,13 +125,13 @@
 | **Distinctive markers** | The face is human in outline but too still to read as living. The air around the God trembles without sound. |
 | **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the posture first — hands, head, and whether either has altered since the last entry — then the crown-light, the prayer-light under the lids, and the dust, which lifts rather than settles and circles when an old prayer reaches the city. Record the lamp state at the time of every observation and enter it on the lamp ledger as well, because the ledger is the longer series and must not develop gaps. Note the colour of the plates at the three marked points. Do not attempt to copy the marks that appear on the vault walls; they fade faster than they can be written, four attempts are on file, and all four crews reported the same headache afterwards.
 
 ## Origin
 - **Formation:** The God predates the current city and was once worshipped as a deity of sorrow.
 - **The Sorrow:** The grief of prayers answered by abandonment and faith forgotten after it was no longer needed.
 - **The Event:** The first settlers prayed to the God for relief. After the Consolihan, the city replaced worship and left the God sleeping beneath the Tree.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The first settlers of Mugenhan, who prayed to it in fear, and their descendants, who stopped coming once they were safe. Neither group is identifiable as individuals; the sanctuary's attendance book begins long after the last of them, and the names in it are custodial crews.
 - **Expanded origin context:** The archive cross-references this entity's sorrow with SECTOR-A-01, beneath the Alpha Tree — the same Han density, the same All four signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
 
 ## Behavior
@@ -157,17 +157,17 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Forgotten God shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
+| **Movement** | Contingency profile only. The entity has never left the vault and has never been observed awake; if the seal failed it would walk, and the facility plans for that on the strength of its coherence rather than on anything witnessed. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Unestablished. The planning assumption is the nearest personnel, recorded as an assumption rather than an observation. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape, by classification. Nothing in the record is an account of a breach; this holding is custodial and has never produced an incident.
+- **Containment priority:** Hold the seal and hold the schedule. Physical suppression is the last resort and the facility's own estimate is that it would not succeed; the measures that have worked for four thousand years are maintenance, rotation, and a rite performed on time.
+- **Sorrow Gauge on breach:** Projected to open at 40% and rise 10% per turn unaddressed. The figure is modelled from Sovereign comparators, is labelled as modelled everywhere it appears, and has never been tested.
 
 ## M.A.W. Equipment
 
@@ -223,11 +223,11 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 
 **Cost:** The wearer hears prayers directed at the God and cannot answer them.
 
-*Stigmas are granted at random by Forgotten God upon a successful work, not manufactured.*
+*The Answered Prayer is not manufactured and is not granted on request; the entity bestows it, rarely, on a crew member who has kept the lament with a full heart, and the armoury has never been able to predict one.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Forgotten God's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+The three pieces come from a thing that received grief for a living, and they keep the habit: each one takes something in, holds it, and does not give it back. The listed benefit holds inside the intended pattern, and forcing a piece against its design produces an echo of the source — in this case the sensation of being prayed to and unable to answer. No protocol produces a Stigma here.
 
 ### Field Use Record
 
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Forgotten God's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Observe from the gallery, never from the floor, and never alone — the roster is a minimum of three and the third person's task is to watch the other two. Record the first visible sign, the first emotional sensation and what preceded it, the first measurable change in lamp behaviour, and the condition that ended the watch. Nobody addresses the figure, aloud or otherwise. The form here is its sorrow and not its intention: what it looks like tells you what it holds, not what it would do, and this holding has never given anybody grounds to say what it would do.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -308,12 +308,12 @@ The vault is full of prayer without words. A sleeping figure rests beneath the r
 
 Forgotten God does not exist in isolation. Its recorded relationships with The Burning Library, The Final Door, The Maw, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Nothing is brought into this vault, so every pairing on file was established from outside the seal and the readings are correspondingly weak. Baseline both parties alone over a long series, then log the first mutual change with its distance, duration and trigger, the gauge movement on each side, the effect on the lamps, and whatever persists after separation. Re-verify each cycle rather than relying on a settled result; a Sorrow Tide, an Ordeal or a transformation has inverted stable readings elsewhere in Zone A, and this is the one holding where nobody wants to be surprised.
 
 
 ### Entity Interaction Record
 
-Forgotten God must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This holding is read against the other things that predate the city or hold its oldest sorrows. The relations below have been observed and filed; none of them is settled, and all four were established from outside the seal, since nothing is brought into this vault. A result obtained once carries no authority during a Sorrow Tide, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -356,8 +356,8 @@ Some sorrows mourn the dead. Forgotten God mourns its own obsolescence — the p
 **Classification:** Sorrow Entity — `C-Vδ-265 [LS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Mixed (All Four) · Subject-Body manifestation
 **Common Name:** Forgotten God
 **Containment Status:** Sleeping — beneath the Alpha Tree
-**Comprehension Level:** 5 — Sovereign
-**Threat Assessment:** Unknown (dormant). The God sleeps. It was once worshipped; the city outgrew it. Effect: proximity induces the weight of abandoned faith.
+**Comprehension Level:** 4 — Mastered
+**Threat Assessment:** Critical (δ), dormant. It sleeps, it has always slept, and the whole of its recorded effect is the weight of abandoned faith on anybody standing near it.
 **Containment & Handling Procedures:**
 - Do not wake the God.
 - The God sleeps beneath the Tree; it has slept for four thousand years.
@@ -415,6 +415,38 @@ The sanctuary's strangest record is its attendance log — a book the custodial 
 
 The maintenance lament is the Directorate's minimum payment — rostered, shortened, formally insufficient. But the custodial crews, in the long watches of the empty sanctuary, have built something more: a new liturgy, assembled from the old fragments and the necessities of the present, unauthorized and unstoppable. It borrows the priests' structure — receive, carry, release — and fills it with the city's current griefs: the unmourned dead of recent breaches, the night crews' testimony themes, the census roll's newest restorations. The crews perform it in the small hours, between rostered laments, for no log and no commendation. The sanctuary, they swear, receives it the way the God received the old rites: completely, specifically, the dark lightening around the lamps. The Directorate knows. The Directorate rosters around it — scheduling the willing together, keeping the small hours staffed, asking nothing. Officially the new liturgy does not exist. Officially the maintenance lament is sufficient. The crews keep both: the rostered rite for the record, and the real one for the God. The debt is serviced either way. The sanctuary stays dark either way. But in the small hours, the custodial crews will tell you — quietly, if you have stood the lament yourself — the God is worshipped again. Not by the city. By its keepers. For now, the keepers say, for now that is enough. The city will remember. The sanctuary can wait. It has waited this long. It is good at waiting. And the new liturgy grows, rotation by rotation, grief by grief, toward the day the congregation of one becomes two, and then many, and then — the crews do not say it aloud, but they think it every lament — the city itself, come fully home at last to the house of its sorrow, to mourn together as it was always meant to.
 
+### Eleven Hundred Lamps
+
+The longest continuous measurement the facility holds on any entity is not a measurement. It is a supply ledger.
+
+The Han-lamps in the sanctuary dim and brighten with the figure's breathing, and they are consumables: they burn, they are replaced, and the replacement is booked. **The lamp ledger runs unbroken for four hundred and six years** because somebody has always had to account for the stock, and it is the only series on this holding that nobody designed, nobody theorised, and nobody could bias, since the people keeping it were keeping stores and not records of a god.
+
+Consumption is flat. Forty-one units a year, within a narrow band, across four centuries — with a slow drift of roughly **three per cent per decade upward** that no survey has been able to attribute to the lamps, the fittings, the air, or the crews. The drift is printed and left unexplained.
+
+The one attempt to do this properly destroyed what it was measuring. Calibrated photometers were installed in the third decade of the Directorate; mounting them required moving four lamps by less than a metre, and the series from that point is not comparable with the series before it. **Eleven years of good instrumentation produced a break in the only record worth having**, and the instruments were removed by the same office that installed them, with a note that reads: *we have measured the lamps better and the God worse.*
+
+Eleven hundred and four compatible units remain in stock. At forty-one a year that is twenty-six years and some months, and the figure is reviewed annually and has not moved in a direction anybody likes.
+
+### A Cistern on the Register
+
+The lamps cannot simply be substituted, and the reason is a conservation rule that nobody involved thinks is wrong.
+
+A structure under a conservation schedule is maintained like-for-like: original fabric, original fittings, original specification, and any departure requires the schedule to be varied. That rule is why the sanctuary still stands as it was found rather than as some past administration would have preferred it, and the wing has benefited from it for generations.
+
+Varying a schedule requires the structure to be correctly described in the estate register. **The sanctuary is not correctly described in the estate register. It is entered as a disused cistern**, at an address that leads to a service stair, and it has been entered that way since the first survey — a deliberate misdescription made for the plainest of reasons: a correctly described sanctuary is a findable one, and the thing this holding most needs is for nobody to come looking.
+
+So the position is closed in both directions. **The lamps may not be substituted while the schedule stands; the schedule may not be varied while the register is wrong; and the register may not be corrected without publishing the address of a sleeping Sovereign.** The theologians, who are consulted on everything here, declined to advise, on the ground that the question was not a theological one. The engineers' note is shorter: *in twenty-six years the lamps go out, and the paperwork will still be in order.*
+
+### Fourteen Signatures and One Refusal
+
+The register is revised on a cycle, and each revision has to be certified by a named officer as a true record of the estate.
+
+Fourteen officers have signed it. Each of them knew the cistern entry was false when they signed, each of them signed anyway, and each of them did so in a personal capacity that the Company's indemnity does not reach — **an organisation cannot indemnify an officer against a certification it knows to be untrue**, and the wing has never pretended otherwise to anybody it has asked. The practice is that the officer is told plainly, in writing, before the file is put in front of them, and that the written warning is kept whether they sign or not.
+
+One refused. The post was left vacant for seven months because the wing would not put forward a candidate who had not been told, and in those seven months the register went un-revised and the schedule lapsed. **The lapse is still on the file, uncorrected**, since correcting it now would require explaining the gap. The officer who refused was not moved, not marked, and still holds a senior post; the wing's standing instruction is that the refusal was legitimate and that nothing is to attach to it, ever.
+
+The records office objection is minuted at every revision. A register that is wrong in one particular is a register that is wrong; the practice has already been copied twice elsewhere in the estate without authority, by people who learned it here; and the liability has been placed on individuals because the institution cannot carry it. The minute records the objection as **correct in all three parts**, including the copying, and records the only answer the wing has ever given, which is not an answer: *the alternative is a published address.*
+
 ## Trivia
 
 - The God has never spoken while awake.
@@ -426,8 +458,8 @@ The maintenance lament is the Directorate's minimum payment — rostered, shorte
 
 - **Classification detail:** Forgotten God is a Subject with Sovereign (V) — Autonomous, ancient, sleeping coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is All four — Lament, Grudge, Void, Weight, and its registered location is SECTOR-A-01, beneath the Alpha Tree — sealed.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it by the crystal plates, the prayer-light under the lids, and the dust that lifts rather than settles; never by the atmosphere of the vault, which varies with the lamps.
+- **Record detail:** The sanctuary appears on the facility register as a disused cistern, and has done since the first survey. Anybody checking the estate record against this file will find no sanctuary at that address, which is deliberate and is explained in the Sovereign Chronicle.
 - **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
