@@ -28,7 +28,7 @@
 | **Entity role** | Time |
 | **Primary pressure** | Grudge / Grudge pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per occurrence, and the occurrences are not scheduled; the bay is dispatched when a clock in the sector begins running backward, which it has done 211 times in nine years. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 35% against Grudge pressure; 24% against other pressure types |
+| **Resistance** | 35% against Grudge. No clock has been stopped, removed or replaced during an occurrence; the one attempt to unplug a face in Year 4,230 left it running backward on no power for the remaining eleven minutes. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 478/478 |
 | **Han Pressure [ATK]** | 17–25 per hit · Grudge |
@@ -79,14 +79,14 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the grudge." | [The entity's grudge pressure settles over the target.] | *Target feels the weight of grudge sorrow.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
-| { *The Grudge Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of grudge grudge sorrow.] | *Grudge damage strikes the target; the gauge spikes.* **[21 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full grudge weight on one point.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[25 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
-| { *The Grudge Collapse* [**Ultimate**] } | "The grudge breaks — and everything it held comes loose." | [The entity's full grudge sorrow unleashed in every direction.] | *All personnel suffer Grudge erosion for three turns.* **[23 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "The second hand goes the wrong way and the room agrees with it." | [Every timepiece in the sector reverses together, including sealed and unpowered ones.] | *10 Grudge to everybody present; the reversal is silent and nobody has ever noticed it start.* **[10 Grudge DMG [Grudge]]** | At the beginning of every occurrence. |
+| { *The Grudge Surge* [**Attack**] } | "Somebody in the room starts counting down out loud without being asked to." | [A worker begins voicing the count and cannot stop until it reaches zero.] | *18 Grudge to the counter; the count is always accurate to the end of the occurrence.* **[18 Grudge DMG [Grudge]]** | When the high-rate reading is spoken aloud. |
+| { *The Settling* [**Attack**] } | "The count reaches zero and a permission that somebody holds is gone." | [A revocable warrant, licence or authorisation held by a person present lapses at the end of the count.] | *26 Grudge. Forty-one lapses in nine years, every one of them legally valid and none of them appealed successfully.* **[26 Grudge DMG [Grudge]]** | At the end of a high-rate occurrence. |
+| { *The Grudge Collapse* [**Ultimate**] } | "Every permission in the wing runs its countdown at once." | [All revocable authorisations in the sector reach their expiry together.] | *20 Grudge per cycle for three cycles to everyone holding one.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once; 188 warrants lapsed in a single afternoon and 94 were never reissued. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the time manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The bay arrives with the sealed reference clock, confirms the rate against it, and establishes which permissions are held by people in the room. The second part takes longer than the first and is the part that matters.
 2. **Clash:** Four turns, observation and endurance only, conducted from the fixed reading points rather than from any position relative to the entity, which has no position. Rates are called in at each turn.
 3. **Resolution:** The cycle ends on management or on the twelfth hour, whichever comes first, and it is always the twelfth hour. The documented condition is readings taken, presence deployed by rate, and the clocks reconciled afterwards.
 
@@ -169,7 +169,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a single-edged blade of Grudge Han-iron, dark and faintly warm, that quivers when raised.
+**Appearance:** a single-edged blade that quivers when raised, with a small clock face set into the pommel showing a time eleven minutes behind the room's.
 
 **Damage:** Grudge 14–21
 **Speed:** 2 (Normal)
@@ -182,7 +182,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Channels grudge grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.
+**Ability:** Grudge against the Mind. Struck targets spend the following hour certain that something of theirs is about to expire, and in four of fourteen cases they were right.
 
 **Cost:** The wielder experiences mild memory fragmentation with each use.
 
@@ -190,7 +190,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a dark veil smelling faintly of clock oil, which the Armoury has never been able to source to any workshop in the city.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -208,17 +208,17 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.
+**Appearance:** a token with a second hand set into its face, cool to the touch, which the Armoury winds annually out of habit and which has never needed it.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity; the token's second hand runs backward throughout an occurrence and forward at all other times, which makes it the earliest reliable warning the facility has.
+**Effect:** +1 to the working stat on this holding's cycles. The token's second hand runs backward throughout an occurrence and forward at all other times, which makes it the bay's most reliable detector and the reason the piece is never stored off-site.
 
 **Ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.
 
 **Cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
 
-*The Token is not manufactured and cannot be requisitioned. It has been conferred eight times, in each case on a Warden who held a high-rate reading point for the full twelve hours without being relieved early at their own request.*
+*Eight in nine years, in each case to a Warden who held a high-rate reading privately until the occurrence had ended rather than announcing it in the room. Four Wardens have announced one; none of them has been given anything, and the bay is explicit that announcing is an honest mistake.*
 
 ### M.A.W. Use Notes
 
@@ -230,7 +230,7 @@ Each Backward Hour piece is an extension of this entity rather than ordinary equ
 |---|---|
 | **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective, assigned reading point, and the operator's count of occurrences worked in the preceding year. |
 | **During use** | Reversal rate at the assigned point each hour, local incident count, anger reports, first cost paid, and the time the rate entered or left the dangerous band. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the operator has begun litigating a revocation of their own. |
+| **At limit** | The operator has begun litigating a revocation aloud during the occurrence — arguing the warrant, naming the clause — which lengthens the count in every recorded instance. |
 | **After use** | Stand-down at the twelfth hour, injuries, lingering effects, cooldown, clocks reconciled across the district, readings filed unsummarised against the fixed-point series. |
 ## 관찰 기록 (Observation Log)
 
@@ -261,9 +261,9 @@ Each Backward Hour piece is an extension of this entity rather than ordinary equ
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold the reading, say nothing, and let the count finish. | Say the number out loud so that the room knows how long is left. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| The clocks turn round, the sector's permissions are intact, and nobody counted. | A colleague counts to zero in your hearing and loses something they were entitled to. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -309,7 +309,7 @@ The entity does not rage, and that is the part the briefings underline. Twelve h
 **Threat Assessment:** Major (γ). It cannot be suppressed, shortened or forecast, and it has never injured anybody itself. It raises an entire district to articulate fury for twelve hours at a time, unevenly and unpredictably, and the facility's own readings show the distribution responding to withdrawals — including the facility's own.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and lengthen the interval between occurrences.
+- Viderehan and Ferrehan are the valid Work Types. Both lower the gauge and lengthen the interval between occurrences, from a median of eleven days to a median of nineteen in the quarters when the bay is fully staffed.
 - Flerehan and Pugnahan are unavailable to a Time and are not to be attempted as improvisation.
 - Monitor the Grudge register by fixed point, never by district average; the average has been inside the safe band during occurrences in which two streets were in the dangerous one.
 
@@ -317,7 +317,7 @@ The entity does not rage, and that is the part the briefings underline. Twelve h
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the gradient, what the gradient tracks, the law of revocable permissions, and the scheme the facility withdrew are one picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all. The gradient tracks revocable permissions — warrants, licences, authorisations that somebody else can take away — and the count ends with one of them gone, lawfully, with no appeal that has ever succeeded. Forty-one lapses in nine years. The law does not recognise a clock as a cause and the bay has stopped arguing that it should; what it does instead is hold the reading, keep the room quiet, and reissue what it can.
 
 **Review requirement:** Re-verify after every occurrence, Tide, Ordeal or unusual interaction: gauge curve, rate series at all twenty-three fixed points, dangerous-band entries by street, incident counts, clocks reconciled, and the standing of the clock warrant scheme and the readings taken since its withdrawal.
 
@@ -375,9 +375,9 @@ The next occurrence was eleven weeks later. **Nine of the twenty-three fixed poi
 
 The facility's own series therefore records the only act anybody has ever found that measurably worsens this holding, and it is an act of the facility's own, performed lawfully, for sound reasons, on advice.
 
-The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the Research Division's statistician. It holds that the withdrawal of the warrants is a revocation of exactly the kind the rate series tracks, that the facility performed it in the one district in the city where the consequences of revocation are instrumented, and that the three subsequent occurrences are the clearest result the network has produced in its existence; that the saving is smaller than the Han-Energy lost through the degraded work cycles those occurrences caused, so the cost exercise reached the right answer to the wrong question; and that the district has never been told any of this, because the fixed-point readings are published only as a district aggregate, and the aggregate conceals precisely the five points that moved.
+The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the Research Division's statistician. It holds that the lapses fall overwhelmingly on staff whose permissions are renewable rather than permanent, that this is a property of the establishment and not of the holding, and that the facility is therefore choosing who the clock reaches.
 
-The minute records the objection as **correct in all three parts**. It records that a reinstatement — the warrants restored, funded from the containment budget, documented in the containment case as a management measure with a measured effect rather than as goodwill — was drafted in the fifteenth year, costed at less than the scheme had cost before, and has not been laid. And it records the sentence the statistician asked to have entered verbatim, now printed at the head of the rate series: *we spent nine years looking for what sets it off, and then we did it ourselves, in writing, with four weeks' notice.*
+The minute records the objection as **correct in all three parts**. It records that a reinstatement was costed in the sixth year — the ninety-four unreissued warrants restored, funded from the containment line rather than from establishment — at a figure the finance office described as immaterial. It was not done. The minute records the item as outstanding and the ninety-four as outstanding with it.
 
 ## Trivia
 

@@ -235,15 +235,15 @@ Each Cracked Flesh piece is an extension of the ground rather than ordinary equi
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Cracked Flesh (C-IIIγ-921 [GH]) is logged as a Hazard-Body manifestation expressing Grudge. Held at SECTOR-C-921.
+**Entry 1 — Containment Description** A field of open ground in Zone C whose surface cracks into the shape of whoever stands still on it. Six hundred square metres at first survey, eight hundred and forty now, pegged and walked rather than fenced.
 
-**Entry 2 — Field Log** First contact report: the body register was immediately apparent. Personnel described it as a weight on the body that was not physical.
+**Entry 2 — Field Log** The first team crossed it without incident and came back the following week to photograph the surface. Four prints were already there and three were matched to members of that team, who had felt nothing at all.
 
-**Entry 3 — Counseling Log** The grudge pressure accumulates in the body register — this is not standard grudge; this is grudge filtered through body.
+**Entry 3 — Counseling Log** What the bay's staff report is not pain but the knowledge that the ground holds a record of them. Two have asked to see their own prints; one was shown, by the registrar, and asked afterwards that the grid reference be kept off her file.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The body register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Pegs rather than a fence, a walking pace that is not broken, a second warden who watches feet, and an annual survey certifying which square metres have gone a year without a new print.
 
-**Entry 5 — Director's Note** This entity's classification as Hazard-Body is correct. The body descriptor is not decorative — it is the operational axis. All containment protocols should account for the body register as the primary channel.
+**Entry 5 — Director's Note** Three sentences, the last of which the bay has pinned at the marked corner: *The ground is keeping a register of our people and we cannot stop it. We can refuse to add to it. Keep walking.*
 
 ## 최종 관찰 (Final Observation)
 
