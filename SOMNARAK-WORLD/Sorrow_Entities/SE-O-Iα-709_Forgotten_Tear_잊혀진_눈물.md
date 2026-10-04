@@ -29,13 +29,13 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per cycle, against a holding that fits in a cupped hand and is worked on a laboratory balance. The vault's note is that this is the cheapest cycle in Zone A to run and the most troublesome to staff. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Weigh it, hold it, say aloud whose grief it is and that it was not yours, and set it down deliberately. Viderehan and Ferrehan only. The mass at the end of the cycle is the result; nothing else about the session is recorded as an outcome. |
 
 ### Operational Notes
 
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
+| **Resistance** | 15% against Grudge. It is a crystallised tear the size of a thumbnail and nothing has ever been swung at it; the resistance line is carried from the schedule and the vault has asked for it to be replaced by the mass series. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Grudge |
@@ -72,7 +72,7 @@
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree vault |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | The holder puts it down of their own accord and the closing weight is below the opening weight. 212 cycles are on file and 184 of them closed lighter; the 28 that did not are the vault's working record of who should not be rebooked. |
 
 ### Combat Actions
 
@@ -81,18 +81,18 @@
 | { *The Overlooked* [**Debuff**] } | "You feel unseen — and the feeling is not new. It has been waiting a long time." | [The Tear marks the target with neglect; they feel invisible.] | *Target suffers -10 Resilience; they have been overlooked.* **[10 Grudge DMG [Grudge]]** | When the target disregards the Tear. |
 | { *The Dry Stain* [**Debuff**] } | "Where a tear dried, years ago, with no one to see it — the stain still aches." | [The old dried-tear mark resonates with the target's own unacknowledged grief.] | *Target loses 10 Resilience; old, unseen wounds reopen.* **[10 Grudge DMG [Grudge]]** | When the target stays near the stain. |
 | { *The Salt Cut* [**Attack**] } | "The salt of an old, forgotten tear — crystallized, sharp, and angry at being ignored." | [A crust of old tear-salt lashes out, cutting like glass.] | *Inflicts Grudge pressure and one stinging, bitter cut.* **[14-22 Grudge DMG [Grudge]]** | When the Tear is disturbed. |
-| { *The Resentment* [**Attack**] } | "For being forgotten. For no one seeing. For drying alone. Here is all of it, at once." | [The accumulated resentment of being overlooked erupts.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Tear is confronted. |
-| { *Every Forgotten Tear* [**Ultimate**] } | "Every tear that ever fell without a witness rises now." | [The Tear calls forth every overlooked grief in the field.] | *All in range suffer Grudge pressure for three turns of accumulated neglect.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Resentment* [**Attack**] } | "It becomes too heavy to hold and the holder will not open their hand." | [The mass rises past what a hand can keep closed, and the holder keeps it closed anyway.] | *24–36 Grudge and a 15% Gauge surge, all of it to the holder; the damage is to the hand and the arm.* **[24-36 Grudge DMG [Grudge]]** | When the holder insists the grievance is their own. Nine occasions, all nine ended by a second worker opening the hand. |
+| { *Every Forgotten Tear* [**Ultimate**] } | "Everything in the vault gains weight at once and the shelves complain." | [Mass propagates to the surrounding holdings for the duration.] | *12–20 Grudge per cycle for three cycles to anyone lifting anything in the room.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, recorded once; two shelf brackets failed and no holding was damaged. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The balance is zeroed, the tear is weighed alone, and the holder states on the sheet, before touching it, whether they are currently angry about anything. The answer is not assessed. It is simply kept, because the series only means something next to it.
 2. **Clash:** Ten turns in the Alpha Tree vault, with nothing to fight. The Tear sits where it is put and grows heavier or lighter in the worker's hand, and the engagement is decided by whether the worker can carry a grievance that does not belong to them without adopting it.
 3. **Resolution:** The cycle closes when the Tear has been held for its full duration and then set down consciously, by a worker who can still say whose anger it was, with the gauge back beneath 25%.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
+- The failure here is a sentence: *this happened to me.* It is never said in those words. It arrives as a grievance of the holder's own, told with the old one's details attached, and the mass goes up while they are telling it.
 - Extended contact does not injure. It transfers — the recorded risk is that the holder mistakes the old anger for a current injustice, and the resulting conviction is lucid, specific, and attached to real people the worker genuinely knows. Nothing about the state resembles contamination from the inside.
 - Every piece drawn from the Tear charges in anger that has no address. The vessel pacifies rage with tear-vapour and leaves the wielder's old injuries aching; the plate holds the body and slows every reflex; the Shard reveals suppressed anger in others and gives its bearer a steady supply of their own with the origin stripped off.
 - Unresolved, nothing erupts. The Tear becomes heavier — measurably, cycle on cycle, whenever it is ignored — and the weight is the whole of the escalation. An entity that gets harder to pick up the longer nobody picks it up is not a containment emergency, which is precisely why it has been left for long periods.
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A single dark tear crystallized around a small ember of anger. It is warm and heavy.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** It sits in a lined tray on the third shelf and has never moved itself. Everything this holding does, it does to the scale underneath it.
 - **Element signature:** Grudge
 - **Registered location:** Zone A, Alpha Tree vault
 
@@ -117,9 +117,9 @@
 |---|---|
 | **Form** | A single dark tear crystallized around a small ember of anger. It is warm and heavy. |
 | **Position / movement** | Sits where it is placed on the vault shelf and has never moved itself; the only variable is its mass, which changes with who is holding it and must be recorded at every contact. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Material / signature** | A dark crystallised tear with a crimson ember at the core, warm, and heavier than its size allows. Record the mass at issue, at five-minute intervals while held, and at return, against the holder's name. |
+| **Distinctive markers** | The ember has never been recorded as out, in nineteen years of daily vault checks, including four power failures and one flooding. |
+| **Identification** | Confirm `O-Iα-709` against the tray label before the balance is zeroed. The vault holds three crystallised residues described as tears and only this one has an ember. |
 
 **Appearance protocol:** Weigh it. This entity's dimensions never change and its mass changes constantly, so the balance is the instrument and the eye is close to useless. Record the weight at the start of the cycle, the weight in each worker's hand, the weight at the end, and the identity of every person who touched it between readings. Record the colour of the ember at the core and whether the crystal is warm or cold to the touch — it warms when grief is acknowledged, so a cold Tear in a worker's palm is a finding about the worker. The vault record establishes that it is heavier when held by someone who denies anger, which makes this the only holding in Zone A where the reading describes the personnel and not the entity, and the figures must therefore be filed under both.
 
@@ -128,7 +128,7 @@
 - **The Sorrow:** The anger of a person whose loss was dismissed by everyone around them.
 - **The Event:** A death was treated as insignificant; the unacknowledged tear became a red crystal.
 - **The People:** A man whose death was treated as unremarkable by everyone who heard of it. The mourner has never been identified, and the vault has recorded four separate attempts to establish who it was; all four are filed as inconclusive and none has been quietly adopted as the answer.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **Expanded origin context:** Four attempts have been made to identify the mourner and all four are filed as inconclusive; none has been quietly adopted as the answer, which the vault regards as the single most important piece of discipline in this file. The dead man is equally unidentified. What the record does hold is the shape of the dismissal — not cruelty, not refusal, just a series of people who heard about a death and had nothing to say about it — and the archivist's note that this is the commonest thing in the city and the only holding in the vault made of it.
 
 ## Behavior
 
@@ -144,14 +144,14 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Forgotten Tear is recorded as an Object/Place with Object-Grudge manifestation and Grudge elemental expression. The current record places it at Zone A, Alpha Tree vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Work Type table is not the instrument here and the vault stopped relying on it in Year 4,230. The mass is. Across 212 cycles the tear has weighed between 11 and 34 grams, the variation is entirely a function of who is holding it, and the heaviest readings have all come from holders who denied, on the opening sheet, being angry about anything.
 
 **Reading the response:** Viderehan holds the gauge level and reveals the grievance beneath the grief — the Tear is not reluctant to be read, since being overlooked rather than examined is what formed it. Ferrehan brings the gauge down, and the phrasing of the test in the Behavior table is exact and should not be softened: it measures whether the worker can hold it **without claiming it**. Both failures are common and they look nothing alike. A worker who refuses the anger finds the Tear growing heavier in their hand until they cannot keep hold of it. A worker who takes the anger up finds it light, warm and comfortable, and will produce an excellent cycle log and a grievance against a colleague within the week. The gauge moves in the right direction for both of them.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **Held past two minutes, this relic hands its grievance over and the holder cannot afterward tell it from their own**
 
 **Activation Trigger:** Touch.
 
@@ -170,7 +170,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Activation** | Touch. |
 | **Primary Effect** | Transfers the forgotten grievance into the holder's awareness. |
 | **Duration** | Until the Tear is placed down consciously. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
+| **Termination / Return** | The holder sets it down themselves, deliberately, into the tray. It has never been removed from a hand by force without injury to the hand, and the nine occasions on which a second worker had to open the fingers are each written up in full. |
 | **Risk** | The holder may mistake the old anger for a current injustice. |
 
 **Operational Rule:** The relic acts on contact and ends only when it is set down consciously — a worker who puts it in a pocket, hands it to someone else, or sets it aside while distracted is still holding it by this entity's reckoning. It grants no containment authority and cannot be used to work the Tear itself; Viderehan and Ferrehan remain the only valid responses.
@@ -179,14 +179,14 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Forgotten Tear rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Forgotten Tear activates its primary resonance: Transfers the forgotten grievance into the holder's awareness. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the anger of a person whose loss was dismissed by everyone around them; the bearer begins perceiving echoes of a death was treated as insignificant; the unacknowledged tear became a red crystal. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Forgotten Tear begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Forgotten Tear too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The holder may mistake the old anger for a current injustice. |
+| 10 Seconds | The weight registers. Holders consistently describe it as heavier than the balance says, and the balance says it is already heavier than it should be. | +10% resistance to Grudge, and the grievance arrives: a death, a dismissal, and the particular silence that followed it. No names come with it and none ever have. |
+| 30 Seconds | The holder begins supplying detail the grievance did not contain — a street, a season, a face — and the mass rises as they do. | Speed and focus up, composure down. The second worker's instruction is to note each supplied detail and to say nothing about it during the hold. |
+| 1 Minute | The grievance acquires a present-day target. It is always somebody the holder knows and it is never the same person twice across holders. | 5 Grudge every 15 seconds. A named living person is the vault's hard stop and the hold is ended there regardless of the mass reading. |
+| 2 Minutes | The holder is no longer carrying somebody else's grievance and will say so. The mass at this point has never been under 30 grams. | Acute panic on forced release. All nine over-runs ended with a second worker opening the hand, and six of the nine holders maintained the grievance for a week or more afterward. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Forgotten Tear: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation is a number going up. There is no visible change in the tear at any stage — the ember does not brighten, the colour does not shift — and the balance is the only warning the vault has ever had. Record the mass at five-minute intervals, the time of any supplied detail, and the moment a living person is named.
 
 **Response sequence:** There is no perimeter to establish and nothing to clear. Find out who is holding it and weigh it in their hand before you say anything to them. If the holder is angry, do not dispute the grievance — it will usually be about something real, and arguing the point moves the conversation to the merits and away from the Tear. Ask them to set it down consciously, in the phrasing used in the Tool Use Profile, and record the weight again once it is on the shelf. The difference between the two readings is the incident report.
 
@@ -199,7 +199,7 @@ The escalation pattern is specific to Forgotten Tear: it is not a generic breach
 | **Primary effect** | Transfers the forgotten grievance into the holder's awareness. |
 | **Duration / rate** | Until the Tear is placed down consciously. |
 | **Risk** | Minor (α) Object-Grudge producing Grudge pressure; The holder may mistake the old anger for a current injustice. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Two workers, always. One holds, one watches the balance and writes. The second worker's authority to end the hold is absolute and is stated to both of them before the tray is opened. |
 
 **Activation reporting order:** contact → mass in hand → ember colour → the grievance as the holder stated it, verbatim → duration of hold → mass on release → whether the holder named a living colleague. The last item is the one that determines whether this was a cycle or an incident, and it is asked of every worker regardless of how the cycle appeared to go.
 ## M.A.W. Equipment
@@ -228,7 +228,7 @@ The ampoule glows with soft azure bioluminescence that responds to emotional gri
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a harness whose plates are warm on the outer face and cold against the skin, which the Armoury has measured repeatedly and cannot account for.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -246,11 +246,11 @@ The ampoule glows with soft azure bioluminescence that responds to emotional gri
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a shard-tile of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a tile with a crimson thread at its centre, too small to be called an ember and visible only in the dark, which weighs 4 grams and has twice weighed 9.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's rating while working the Tear, forfeited for the remainder of the cycle if the bearer describes the grievance as their own
+**Effect:** +1 to the bearer's rating while working the Tear, forfeited for the remainder of the cycle the moment the bearer describes the grievance as their own — the only equipment clause in the vault that is enforced by what somebody says
 
 **Ability:** Reveals suppressed anger.
 
@@ -266,10 +266,10 @@ Each piece remains part of the Tear, and the set has one property the grades do 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the opening mass, and the written answer to the opening question: are you angry about anything at present. The answer is kept and not judged. |
+| **During use** | The mass at five-minute intervals and every detail the wielder supplies that the grievance did not contain. Both go in the book unremarked at the time. |
+| **At limit** | A living person is named, or the mass passes 30 grams. Either ends the hold; neither is negotiable. |
+| **After use** | Closing mass against opening mass, and the same question asked again a week later. Six of the nine over-run holders still held the grievance at a week; three of those six still held it at a month, and all three were taken off the vault rota. |
 
 **Stat interpretation:** The α grades are accurate and modest — three to six damage, ten to fifteen Echoes, nothing hidden. What no column records is that the Shard's cost is a continuous supply of anger with the origin removed, which is indistinguishable from conviction. Read the Cost lines as the specification.
 
@@ -289,10 +289,10 @@ Each piece remains part of the Tear, and the set has one property the grades do 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Forgotten Tear as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch. Effect: Transfers the forgotten grievance into the holder's awareness. Duration: Until the Tear is placed down consciously. Risk: The holder may mistake the old anger for a current injustice. Tool Use Profile — I-Relic Operational Rule: The relic remains. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Forgotten Tear's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The tray is opened on the bench, the balance is zeroed, and the tear is weighed alone. That figure — 11 grams, unvarying when nobody is touching it — is the baseline the whole file is built on. |
+| **Sustained observation** | Nineteen years of mass series against holders' names and opening answers. The pattern is stable and uncomfortable: holders who said they were not angry about anything produced the heaviest readings, and the vault keeps the series without publishing it to the holders themselves. |
+| **Activation or escalation** | Touch, and nothing else. The grievance transfers on contact and stays until the tear is set down consciously; it cannot be ended by dropping it, which has been tried twice and in both cases the holder picked it back up without being asked. |
+| **Post-contact review** | The mass series, the supplied details in order, the name of any living person mentioned, and the week-later question. The living person's name is sealed and is never put to them; the vault has refused one request from a supervisor to see it. |
 
 **Observation method:** Take the mass readings first, from a balance, with the holder's name against each. Then ask one question in a fixed form: what are you angry about. The question is asked of every worker who touched the Tear, including those who report feeling nothing, and the answer is recorded verbatim rather than summarised. Answers naming a specific living person are escalated the same shift. The point of the fixed wording is that it cannot be answered with a denial without the denial itself going on the record, and this entity is heavier in the hands of people who deny anger — so the awkward answers and the heavy readings should correlate, and when they do not, the discrepancy is the finding.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -300,7 +300,7 @@ Each piece remains part of the Tear, and the set has one property the grades do 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Tear (O-Iα-709 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The Tear formed from grief that was forgotten before it could be expressed. Held at Zone A, Alpha Tree vault. It becomes heavier when ignored.
+Forgotten Tear sits in a lined tray on the third shelf of the Alpha Tree vault: a dark crystallised drop the size of a thumbnail with a crimson ember at its core, eleven grams when nobody is touching it and as much as thirty-four when somebody is. It is the grief of a death that everybody shrugged at, and the ember has never gone out.
 
 **Entry 2 — <Vault Weighing Sheet, Alpha Tree>**
 It warms when grief is acknowledged.
@@ -312,13 +312,13 @@ The anger of a person whose loss was dismissed by everyone around them.
 Work response — Viderehan: Reveals the grievance beneath the grief. (Stable); Ferrehan: Tests whether the worker can hold it without claiming it. (Decrease). No one has identified the original mourner.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The vault's practice at the end of every cycle is four words, said aloud by the holder before the tear goes back in the tray: *someone died; it mattered.* It is not a ritual and the vault is careful not to call it one; it was started by a keeper in Year 4,226 who found the mass dropped when she said it and has been done ever since because the mass still drops. Nineteen years, 212 cycles, average fall of three grams. Nobody has established why, and the keeper's own note says only that it is the cheapest thing the vault has ever found that works.
 
 ## 최종 관찰 (Final Observation)
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Tear; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Say it was somebody else's, and set it down. | Keep holding, because now it is yours and it deserves to be heard. |
 |---|---|
 | Tests whether the worker can hold it without claiming it. The sorrow is named; Forgotten Tear is fully recorded. | Reveals the grievance beneath the grief. The gauge climbs and Forgotten Tear withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -329,30 +329,30 @@ The Tear rests in your palm like a jewel. Then it becomes heavy. You feel a wron
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A single dark tear crystallized around a small ember of anger. It is warm and heavy. Notable Features: It remembers a forgotten grievance, resists being put down, and grows lighter when held honestly. Identification Profile: The. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Object-Grudge form.
+**At first contact:** A dark drop the size of a thumbnail with a crimson point at its centre, warm, and heavier in the hand than the balance admits. It does not resist being picked up. It resists being put down, and every holder has described that resistance as reasonable at the time.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Grudge presses hardest, where it recedes, where the Object-Grudge lets you breathe.
+**With continued exposure:** The grievance fills in. You begin to know the street it happened on and the season and who said nothing, and none of that was in it when you picked it up. The balance records each addition as about two grams.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch. Effect: Transfers the forgotten grievance into the holder's awareness. Duration: Until the Tear is placed down consciously. Risk: The holder may mistake the old anger for a current injustice. Tool Use Profile — I-Relic Operational Rule: The relic remains. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Nothing is visible. There is no moment anyone has ever been able to point to; the second worker learns the activation from the number on the balance, which is why the second worker exists.
 
-**After departure:** After contact, the body holds what the mind files away. The Grudge is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** For a day or two you are more alert to people not responding to things. A colleague's silence at news, a shrug, a change of subject. Holders report it consistently and several have said it improved them, which the vault records without comment.
 
 ### Interaction Pattern
 
-Forgotten Tear does not exist in isolation. Its recorded relationships with The Frozen Tear, The Rage Statue, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all small Zone A holdings on neighbouring shelves, and all three measured the only way this one can be measured: on the balance, with the same holder, in the same session. The tear has not responded to any of them by so much as a gram.
 
 **Interaction method:** Establish the Tear's mass series alone first, across several cycles, handled by workers of known and differing temperament — the baseline for this entity is a distribution of weights rather than a behaviour. Only then introduce a second entity, and observe the variable specific to this holding: whether the Tear's grievance finds an owner. It is an anger with no one to be angry at, and entities that present a cause, a culprit or a wrong are candidates in a way that merely proximate entities are not. Log the separation, the duration, the mass throughout, the ember's colour, and whether the crystal warmed. A warming during contact with another holding is the single most significant reading this entity can produce and has been recorded twice.
 
 
 ### Entity Interaction Record
 
-The Tear is held in the Alpha Tree vault among other small Zone A holdings, and its relationships are constrained by the fact that it cannot move and cannot be approached except deliberately. The interactions below are canonical but each was recorded with a particular worker carrying it; personnel must re-establish the mass series before relying on any of them.
+Every interaction on this file was recorded with a particular worker holding the tear, which means every one of them is a reading about that worker as much as about the pairing. Re-establish the mass series with the present holder before relying on any row below; the vault has had to discard two earlier write-ups for skipping that step.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Frozen Tear** | Both preserve sorrow in a single drop. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Rage Statue** | The Statue reflects the Tear's frozen anger. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The First Tear** | The First Tear contains its ancient emotional ancestor. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Frozen Tear** | The neighbouring drop; the pairing everybody proposes first. | Six sessions with three different holders. No mass change at any distance, including contact between the two. The vault's conclusion is that they have a shape in common and nothing else. | Mass at one-minute intervals with both present, and the holder named. |
+| **The Rage Statue** | Reflects anger back; the one pairing with a mechanism that ought to work. | Four sessions. The mass did not move and the holders did: three of the four supplied present-day grievances faster than in solo cycles, and one named a living person inside ninety seconds. The pairing is suspended on that ground. | Mass, supplied details with timings, and any living name — sealed. |
+| **The First Tear** | Catalogued as its ancestor, on grounds the vault has never been able to restate. | Two sessions, no mass change, and a documentary result: neither holding's file cites any evidence for the ancestry, and the cross-reference has now been marked *unsupported* in both. | Mass, and the provenance citation, which is what the sessions were really for. |
 
 **Interaction procedure:** Weigh before, during and after. Record the separation at first response, the duration, the gauge movement, the ember's colour, the crystal's temperature, and whether the mass on return to the shelf matched the mass on leaving it. A permanent change in resting weight has not yet been observed and would be reportable immediately.
 
@@ -388,17 +388,17 @@ Some sorrows are about death. Forgotten Tear is about the dismissal of death —
 **Common Name:** Forgotten Tear
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Minor, which is accurate for the object and says nothing about the hold. Nineteen years, 212 cycles, nine over-runs, nine injured hands, no fatalities; and three keepers off the rota for a grievance that was never theirs.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Two workers, one balance. The mass is the reading; the Work Type table is not used here.
 - Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Touch is the trigger. End the hold at 30 grams or at the first living name, whichever comes first.
 **Observation Notes:**
-- See Origin section for formation and event details.
+- An ordinary death, a mourner who was never identified, and four inconclusive attempts to identify them.
 - See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+- Two pieces; the bonus is forfeited the moment the bearer calls the grievance their own.
+**Cross-References:** The Frozen Tear, The Rage Statue (suspended), The First Tear (ancestry marked unsupported), the 212-cycle mass series, and the Year 4,226 closing words.
+**Faction Involvement:** None. The holding has never left the vault and no faction has asked for access; the SED and UCD lines were struck in Year 4,233 as clerical carry-over.
 **Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
@@ -416,9 +416,9 @@ Some sorrows are about death. Forgotten Tear is about the dismissal of death —
 ### Registry Trivia
 
 - **Classification detail:** Forgotten Tear is an Object/Place with Residue (I) coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone A, Alpha Tree vault.
+- **Field detail:** Grudge, third shelf of the Alpha Tree vault in Zone A, in a lined tray beside a laboratory balance that is calibrated weekly for this holding alone.
 - **Recognition detail:** Identify by the core. A single dark crystallised tear, heavier than its size accounts for, with a faint crimson ember visible at the centre that has never been recorded as extinguished.
-- **Record detail:** The Alpha Tree vault holds several small crystallised residues and more than one is described as a tear; confirm the designation O-Iα-709 and the Object-Grudge manifestation before applying this file to any of them.
+- **Record detail:** Three residues in this vault are described as tears and two of them may be handled freely by one person. Confirm `O-Iα-709` and the Object-Grudge manifestation against the tray label before applying any part of this file.
 - **Containment detail:** The Tear is contained on an open shelf in a vault, with no field, no seal and no barrier, because it has no reach whatever beyond the hand that lifts it. Containment for this holding consists of the handling log and the balance, and it has held for the entire period of record — the only incidents on file began with someone picking it up for a reason that seemed sufficient at the time.
 ## Document Information
 
