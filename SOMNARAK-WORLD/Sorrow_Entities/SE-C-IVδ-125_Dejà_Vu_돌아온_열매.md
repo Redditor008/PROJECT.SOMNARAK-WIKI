@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan lower the gauge; Viderehan holds level; Pugnahan is prohibited. Pre-session account sealed before entry, spotter outside the boundary, written roster held by somebody who is not in the room. |
 
 ### Operational Notes
 
@@ -117,7 +117,7 @@
 |---|---|
 | **Form** | A fruit-shaped presence within consciousness rather than space. It appears as a familiar object returning to an impossible place. |
 | **Position / movement** | It appears as a familiar object returning to an impossible place. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Material / signature** | No physical signature of any kind. Nothing in the chamber registers on any instrument the wing possesses. Void expression, perceived identically by workers who have not spoken to one another, which is the only measurement this holding provides and the one everything else is built on. |
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
@@ -128,7 +128,7 @@
 - **The Sorrow:** The fear that return cannot restore what absence changed.
 - **The Event:** A cherished fruit from a vanished home appeared again beneath the Alpha Tree, carrying the mind of the one who remembered it.
 - **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+- **Expanded origin context:** The formation account is one line long and has never been added to: a fruit from a home that no longer exists appeared beneath the Alpha Tree, and the mind of the person who remembered it came back with it. The Keepers have not identified that person. The botanical office's quarterly survey of the tree, which has no containment function and which the office asked to continue, is the only part of the investigation still running.
 
 ## Behavior
 
@@ -224,20 +224,20 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Cost:** The wearer temporarily loses a present memory of equal emotional weight.
 
-*Stigmas are granted at random by Dejà Vu upon a successful work, not manufactured.*
+*The Returning Stigma is not manufactured and cannot be requisitioned. It has been conferred three times, in every case on a worker who asked to be withdrawn from a watch they were not finding unpleasant.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Dejà Vu's element. No protocol produces Stigmas. They emerge from Dejà Vu's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece of this entity's equipment is an extension of a return that restores nothing, rather than ordinary equipment. The listed benefit is strongest against Void. The cost is separate and is always the same: the bearer begins to find the present slightly less convincing than their own recollection of it, and the effect is measured at ninety days against a baseline taken before issue.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder and grade; gauge; the operator's own state in their words; piece condition; objective; the sealed pre-session account lodged and witnessed; the bereavement check run against the personnel record rather than declared; and the name of the spotter, who remains outside the boundary throughout. |
+| **During use** | Contact time, the song's onset and character, the first cost, any reluctance to leave, and the spotter's independent note of the same, taken without conferring. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the spotter. On this holding it has been called by the spotter in all but three cases. |
+| **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, the opening of the sealed account, and a comparison of the account against the session log. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -259,27 +259,27 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies Déjà Vu as a Subject with Subject-Mind manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone A, Alpha Tree. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Déjà Vu's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | Record what changed, what held, and the detail hardest to name. On this holding the review has one mandatory item before all others: the sealed account is opened, read against the session log, and the agreement or disagreement is scored. The reviewer scoring it is not permitted to have been in the room. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Record the onset and character of the song, the first sensation reported, the worker's willingness to leave at each interval, and the condition that ends the encounter — the watch completed and the worker out of the boundary. There is no measurable environmental change on this holding and the log provides no field for one.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Déjà Vu (C-IVδ-125 [VS]) is logged as a Subject-Mind manifestation expressing Void. The entity formed from something lost and recovered too late. Held at Zone A, Alpha Tree. The entity sings in consciousness rather than through air.
+A fruit-shaped presence occupying consciousness rather than space, perceived as something familiar returning to a place it could not have reached. There is no body and nothing in the chamber. Held at Zone A, beneath the Alpha Tree. Personnel arrive at the enclosure already able to describe the session they have not yet worked, and the description is accurate.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-Spreads through consciousness and shared memory. Personnel feel an absent person or place returning inside them. It is most active near old memories and the Alpha Tree.
+*<Field log, Y4238>* — Four operatives, four sealed accounts lodged at the gate. All four described a dropped lamp, the same exchange between the second and third operative, and the order in which the party would leave. The lamp was dropped at eleven minutes. The accounts were opened afterwards, as the protocol requires, and scored by a reviewer who had not been present.
 
 **Entry 3 — <Excerpt from Counseling Log>**
-The fear that return cannot restore what absence changed.
+*<Counselling log, operative, after a fourth watch>* — "It is not frightening and that is the entire difficulty. I knew what was going to happen, I wrote it down, I handed it over, and then I went in and watched it happen, and the part that keeps me awake is that I was glad to see it, because I had already seen it once and it was the second time that felt like home."
 
 **Entry 4 — <Containment Notice>**
-Management: Anchor personnel to the present and name the difference between return and restoration. Work response — Flerehan: Returns a comforting memory. (Decrease); Pugnahan: Sings louder and fills the mind with intrusive absence. (Increase); Viderehan: Reveals where the object and its owner were lost. (Stable); Ferrehan: Tests whether the worker can remember without reclaiming. (Decrease). Personnel report emptiness after the return fades.
+*<Containment notice>* — Management: anchor to the present and name the difference between return and restoration aloud at each interval. Flerehan and Ferrehan lower the gauge; Viderehan holds level; Pugnahan is prohibited and the prohibition is absolute. The spotter stays outside the boundary with the written roster. Personnel report emptiness after the return fades, and the emptiness is the expected course rather than a complication.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+*<Director's memo, eyes only>* — I am asked whether the pre-session accounts may be opened before entry. Counsel's advice, annexed, is that an unopened account is not knowledge and that opening one would make it so. Research advise that opening would end the series. I have ruled that the protocol stands pending validation. I have not been given a date for validation and I did not ask for one, and I am recording both of those facts here because they will not appear anywhere else.
 
 **Threat rating:** Low. The Fruit returned carrying the mind of the one who remembered it. Effect: holders feel the grief of a recovery that restores the object and not the time it was away, followed by a spreading numbness that erases names and faces.
 
@@ -355,9 +355,9 @@ Some sorrows mourn what was lost. Déjà Vu mourns the return — the recovered 
 
 **Classification:** Sorrow Entity — `C-IVδ-125 [VS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Mind manifestation
 **Common Name:** Déjà Vu
-**Containment Status:** Contained — Alpha Tree
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Fruit returned carrying the mind of the one who remembered it. Effect: holders feel the grief of recovery without restoration.
+**Containment Status:** Contained — Zone A, Alpha Tree enclosure; chamber maintained daily although it contains nothing; quarterly joint survey of the tree continuing at the botanical office's request
+**Comprehension Level:** 2 — Basic. The header and the Registrum disagreed on this for eleven years and the header is correct. The song, the perception and the pre-session effect are characterised; nothing else is, and the file does not pretend otherwise.
+**Threat Assessment:** Critical (δ). The earlier rating of Low was struck. It has no body, no reach beyond perception and no capacity to compel, and it is rated Critical for two reasons the file states plainly: its breach dissolves identity across a volume in which nobody wants to be rescued, and its most dangerous property is that exposure to it is pleasant.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
 - The Fruit is a memory-crystal; do not consume.
@@ -370,9 +370,9 @@ Some sorrows mourn what was lost. Déjà Vu mourns the return — the recovered 
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The three sections below are one argument and are read together: the pre-session accounts are accurate, including about injuries, an unopened account is not knowledge in law and the protocol is what makes it unopened, and the validation that justifies the protocol has run nine years without a completion criterion. Where observation contradicts this record, preserve the contradiction rather than normalising it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the gauge baseline, the bereavement check against the personnel record, the seal integrity on every lodged account, the agreement score of the series, and the standing of the reading-officer proposal, which is to be reported as outstanding for as long as it is outstanding.
 ## Apex Record
 
 ### A Fruit in the Mind
@@ -399,6 +399,46 @@ Its breach is a Transform — it expands beyond containment like a spreading tid
 
 The chamber is swept daily by a crew who know there is nothing in it. The practice began as a supervisor's expedient and has become the holding's most durable provision, and the counselors defend it in terms that have not changed since it was formalized: a perception cannot be bounded, a room can, and a worker who has watched the room be maintained enters it holding a boundary that belongs to the facility rather than to their own attention. Sweep logs are filed with the shift record. Inspectors have twice flagged the line as a housekeeping cost misposted to containment. It has twice been reposted to containment, deliberately, with an explanatory note.
 
+### Two Thousand Sealed Accounts
+
+The pre-session account was introduced in the thirty-ninth year as a way of getting the impression out of the operative's head and onto paper before it could be contaminated by the session itself.
+
+The procedure has not changed since. At the gate, before entry, each operative dictates what they believe is about to happen, in as much detail as they can give. The account is sealed in the operative's presence, witnessed, and lodged. It is opened after the session, read against the session log, and scored by a reviewer who was not in the room.
+
+**Two thousand one hundred and forty accounts have been lodged and opened.**
+
+The scoring is deliberately unkind. Only specifics count: who speaks first, what is dropped, the exact wording of an exchange, the order in which the party leaves. General statements — that the watch will be uneventful, that somebody will be uneasy — are scored as nothing. On that basis, **the accounts are correct in eighty-four per cent of scored particulars**, and of the sixteen per cent scored wrong, two thirds are wrong about timing rather than about content.
+
+Three controls carry it. Operatives issued a deliberately false roster described the session that actually happened, not the one on the paper. Sessions cancelled after lodging produced accounts that are generic and score nothing — the effect appears to attach to sessions that occur and not to sessions that are planned. And accounts lodged by operatives who had worked the holding before score no better than those of first-timers, which disposes of experience as the explanation.
+
+The series contains one category the reviewers have never been able to treat as data. **Fourteen accounts described an injury, before it happened, in enough detail to be scored correct.** A fall from the gantry at the north face. A hand caught in the gate mechanism. A worker who would not leave and the exact phrasing of what she said when the spotter went in for her. Every one of the fourteen was opened afterwards, read, scored, and filed.
+
+### An Envelope Is Not Knowledge
+
+The opinion is dated the fortieth year, annexed to the paper that adopted the protocol, and was therefore obtained before the practice began rather than in answer to any complaint about it.
+
+The duty to guard against a risk arises from what the defendant knew or ought to have known. Actual knowledge requires that somebody have the information in mind; a document nobody has read is not in anybody's mind. Constructive knowledge — what one ought to have known — is measured against the reasonable operator with the ordinary means of knowledge available in that field, and is answered, in practice, by asking what the applicable procedure required to be looked at and when.
+
+So the question of whether the facility ought to have read the account before entry is answered by the facility's own protocol, which says to read it afterwards. Counsel puts it in a sentence the Keepers have underlined: *an unopened envelope is not knowledge, and what you ought to have opened is determined by your procedure.*
+
+The opinion anticipates the obvious retort and deals with it. A procedure adopted for the purpose of avoiding knowledge would not be given this effect; the court would look through it. But a procedure adopted for a genuine purpose — here, preserving the integrity of a series that cannot be validated if its subjects are told what it says — is not impugned by the fact that avoiding knowledge is among its effects. The purpose stated in the adoption paper is genuine, and counsel says so.
+
+Two paragraphs follow which the paper did not ask for. The protection lasts as long as the genuine purpose does. And a validation exercise with no completion criterion is capable, in time, of ceasing to be one.
+
+### Nine Years Pending
+
+The protocol was adopted pending validation. It has now been pending for nine years.
+
+The annual research return describes the series as ongoing and the validation as incomplete. No completion criterion appears in the adoption paper, in any annual return, in the research plan, or in the minutes of the committee that would receive it. The question has been asked at the committee four times and is minuted each time as noted.
+
+**Fourteen injuries have occurred in sessions whose sealed accounts described them.** In each case the account was opened afterwards, read, scored as correct, and filed with the incident report. The incident reports do not mention the accounts. They are in a different series.
+
+The objection is minuted at the forty-fifth review and at each of the five since, raised by the holding's spotter supervisor and supported by one of the two reviewers who score the series. It holds, first, that a protocol adopted pending a validation that has had no completion criterion for nine years is not provisional, and that counsel's protection was expressly made to depend on the purpose remaining genuine. Second, that the only use the facility has made of fourteen accurate warnings is to confirm, afterwards, that they were accurate — the scoring sheet for the fall from the north gantry is in the file, marked correct, and the worker who fell has never been shown it and under the protocol never will be. Third, that the advice telling the facility an unopened envelope is not knowledge was obtained before the protocol was adopted and is annexed to the paper that adopted it, which the objection does not characterise and simply asks to be read in that order.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-sixth year at a single post — a reading officer outside the research chain who opens each account before entry and may stop a session, with any account so used struck from the series — and that it has not been laid before the board in five years. And it records the sentence the spotter supervisor asked to have entered verbatim, which now stands at the head of the lodging register at the gate:
+
+*It told us she was going to fall, in her own handwriting, and we put it in a box six feet from the gantry and opened it when it was over and wrote down that it had been right.*
+
 ## Trivia
 
 - It can return memories but never physical objects.
@@ -411,8 +451,8 @@ The chamber is swept daily by a crew who know there is nothing in it. The practi
 - **Classification detail:** Déjà Vu is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone A, Alpha Tree.
 - **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Record detail:** Among Subject-Mind holdings it is distinguished by producing information rather than pressure. Everything difficult about this file follows from the information being correct and from the procedure that keeps it sealed until it is too late to use.
+- **Containment detail:** Sealed does not mean inert. The chamber is swept daily by a crew who know there is nothing in it, because a room can be bounded and a perception cannot, and because a worker who has watched the room be maintained carries in a boundary that belongs to the facility rather than to their own attention.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-125
