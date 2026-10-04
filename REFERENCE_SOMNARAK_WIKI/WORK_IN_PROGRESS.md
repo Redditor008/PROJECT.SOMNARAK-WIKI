@@ -38,11 +38,6 @@ These say where the remaining damage sits and which file to open next. A fall in
 
 | Shared lines | Dossier |
 |---|---|
-| 1 | `SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md` |
-| 1 | `SE-C-IIIγ-032_Weighting_Bird_재는_새.md` |
-| 1 | `SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md` |
-| 1 | `SE-C-IVγ-946_Blackened_Angel_검어진_천사.md` |
-| 1 | `SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md` |
 | 1 | `SE-C-IVδ-255_Rising_Wall_솟아오른_벽.md` |
 | 1 | `SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md` |
 | 1 | `SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md` |
@@ -53,6 +48,11 @@ These say where the remaining damage sits and which file to open next. A fall in
 | 1 | `SE-C-IVω-001_The_Maw_구라.md` |
 | 1 | `SE-C-Iα-000_Kind_Echo_친절한_메아리.md` |
 | 1 | `SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md` |
+| 1 | `SE-C-Vγ-260_Sorrow_Tide_한의_조수.md` |
+| 1 | `SE-C-Vδ-010_The_Convergence_수렴.md` |
+| 1 | `SE-C-Vδ-111_The_Final_Door_마지막_문.md` |
+| 1 | `SE-C-Vδ-949_Stormscale_Sovereign.md` |
+| 1 | `SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md` |
 
 Re-rank after every clean. Files drop down this list as global counts shift without being touched; that movement is spillover and is never counted against the fixed `N / 291` counter. The queue is never carried over from a previous turn without re-measuring.
 
