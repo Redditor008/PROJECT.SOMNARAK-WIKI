@@ -15,7 +15,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A large shard of blue crystal rising from the floor, jagged and bright, perpetually wet with liquid memory that beads and runs down its faces. Salt-cold and damp, it smells of cold rain; touch it and a memory that isn't yours surfaces. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Fixed. The shard is rooted in the chamber floor and has never been lifted; what moves is the wetted margin, which is chalked at every session. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -32,10 +32,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
+| **Tool / M.A.W. grade** | O-Relic (Offertorium) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan from the marked standpoint; Ferrehan in short rotations with a dry period afterwards. |
 
 ### Operational Notes
 
@@ -88,7 +88,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Soaking Shard's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Nothing is exchanged. The crew holds position in a wet chamber while the shard does what it does, and the live decisions are the rotation clock and the moment a worker is sent out.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
@@ -108,7 +108,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A large shard of blue crystal that rises from the floor and remains wet with liquid memory.
-- **Position / movement:** Physical Form: A large shard of blue crystal that rises from the floor and remains wet with liquid memory.
+- **Position / movement:** Rooted in the floor and never moved. Record the wetted margin against the previous chalk line and the standpoint used for the reading.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree vault
 
@@ -117,19 +117,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A large shard of blue crystal that rises from the floor and remains wet with liquid memory. |
-| **Position / movement** | Physical Form: A large shard of blue crystal that rises from the floor and remains wet with liquid memory. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Position / movement** | Rooted in the chamber floor; the margin of wet is chalked each session and compared with the last. |
+| **Material / signature** | Lament. Blue crystal under a film that never dries, salt-cold, smelling of cold rain, with the beading running down the faces at a rate the chamber's humidity does not account for. |
+| **Distinctive markers** | Wet in a dry vault. No other holding in the Alpha Tree produces standing fluid against a normal ambient reading. |
+| **Identification** | Confirm designation, manifestation and standpoint before contact. The vault holds other crystal holdings and this is the only one that is measured by volume. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the object and the fluid separately. For the object: the height against the profile gauge, the width at the two marked stations, and the condition of the original crack. For the fluid: the film's behaviour on the faces, the chalked margin against the previous one, and the sump volume at the start and end of the session. All of it is taken from the marked standpoint, perpendicular to the face, because oblique readings diverge between observers and the divergence is in the file.
 
 ## Origin
 - **Formation:** The Shard formed when crystallized sorrow broke open and began flowing again.
 - **The Sorrow:** The grief of believing a loss had been sealed when it remained alive inside.
 - **The Event:** A memorial shard in the Alpha Tree vault cracked during a Sorrow Tide surge.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **The People:** The Keepers who sealed the original memorial shard, and whoever the sealed loss belonged to. The second is unrecorded. The vault catalogue lists the shard, its dimensions and its date, and no name anywhere in it.
+- **Expanded origin context:** The vault catalogue from before the Tide survives and is the only document the wing has about the shard it used to be. It is an inventory: dimensions, a shelf position, a sealing date, and a line recording that the sealing was performed in good faith and in the belief that a contained grief would go still. The archivist's note observes that the entity is the refutation of that line, and that the catalogue has been kept unamended so that the sentence stays where it was written.
 
 ## Behavior
 
@@ -139,15 +139,15 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals memories stored in its liquid interior. | Stable |
-| **Ferrehan** | Tests whether the worker can remain while grief flows. | Decrease |
+| **Viderehan** | Opens the blue: depths rather than images, with the deeper layers reported as older. The gauge does not move. | Stable |
+| **Ferrehan** | The worker stands in the wet for the rotation and does not leave early. The gauge falls, and this is the only work here that costs anybody anything. | Decrease |
 
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Soaking Shard is recorded as an Object/Place with Object-Void manifestation and Lament elemental expression. The current record places it at Zone A, Alpha Tree vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Soaking Shard is an Object/Place with Object-Void manifestation and Lament expression, rooted in the Alpha Tree vault. Viderehan is conducted from the marked standpoint at a fixed distance. Ferrehan is standing in the chamber for a short rotation, which is where the hazard actually sits. Neither alters the seep, and no session in the holding's history has produced a dry floor.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling gauge presents as a slower seep: the chalked margin advancing less than the last session, the sump filling under its usual rate. Nothing is closed; the fluid returns to rate within a shift or two. A rising gauge presents as a faster one, and the single reliable precursor is mourning in the chamber — a worker's own grief, not the holding's. Log the volume before anything else, because it is the figure that moves first and the only one that moves for a reason.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -187,7 +187,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Escalation Notes
 
-The escalation pattern is specific to Soaking Shard: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is volumetric. Record the sump reading at the start and end of the session, the chalked margin against the last, the profile-gauge height, and anything that happened in the chamber that was not work. The order matters: a margin that has jumped without a matching sump volume means the fluid has gone somewhere the drainage does not reach, which has happened twice and is the reason the floor is inspected from below.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -202,7 +202,7 @@ The escalation pattern is specific to Soaking Shard: it is not a generic breach 
 | **Risk** | Critical (δ) Object-Void producing Lament pressure; The worker may lose a memory to replace the released one. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → fluid response at the faces → chalked margin → sump volume → personnel effect and any withdrawal → profile-gauge height. Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -255,11 +255,11 @@ The escalation pattern is specific to Soaking Shard: it is not a generic breach 
 
 **Cost:** Stored grief leaks into the wearer's dreams.
 
-*Stigmas are granted at random by Soaking Shard upon a successful work, not manufactured.*
+*The pendant is not issued. It turns up on a worker who has completed a full rotation in the wet, which the armoury records as four percent of them and has never been able to predict.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Soaking Shard's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+The set is cut from the shard's own crystal and keeps the film: every piece is faintly wet to the hand and stays that way in a dry room. Each carries the same cost in a different form — the bearer acquires a memory that is not theirs and loses one that is. The armoury's instruction is that anything newly missing should be reported the same day, by the bearer, to the counsellors and not to operations.
 
 ### Field Use Record
 
@@ -276,11 +276,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The Shard's tears are warm despite its crystal body.
-- It grows more active during the Sorrow Tide.
-- Physical damage increases its liquid output.
+- The fluid runs warm off a body that reads cold at every measurement taken of it.
+- Seep rate rises through a Sorrow Tide and falls again afterwards, the only external variable with a settled correlation.
+- Any contact that marks the surface raises the output, which is why nothing is ever cleaned off the faces.
 
-**Personnel Note:** *"It was mourning. I felt weight. The Shard had become a broken container, and every tear was trying to escape."* — Specialist, Zone B patrol
+**Personnel Note:** *"It had become a broken container, and every tear was trying to get out. I stood my rotation and I thought about my brother, and I reported that I had, because that is the rule, and nobody wrote it anywhere."* — Specialist, Alpha Tree vault
 
 
 
@@ -288,12 +288,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Soaking Shard as an Object/Place with Object-Void manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or tears falling onto the surface. Effect: Releases one preserved memory as liquid vision. Duration: Until the vision is absorbed or evaporates. Risk: The worker may lose a memory to replace the released one. Tool Use Profile — O-Relic. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Soaking Shard's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | A blue shard out of the floor, wet in a vault whose air reads dry, with a chalk line on the stone around it. Observers are briefed on the chalk line first. |
+| **Sustained observation** | Profile height, margin, sump volume, and the layers under Viderehan, taken from the marked standpoint. The shard does not respond to being watched and the record says so rather than implying patience. |
+| **Activation or escalation** | Touch, or tears reaching the surface. One preserved memory is released as liquid vision and the worker may lose one of their own in exchange — a trade nobody has ever been able to choose the terms of. |
+| **Post-contact review** | Volumes, margin, height, gauge, and any withdrawal with its stated reason. The withdrawal goes into the ledger as a reading. It does not go onto anybody's record, and the worker is told that before they are asked. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Two in the chamber, one outside with the clock. Perpendicular to the face, at the marked distance, never oblique. Record the first change in the film, the layer depths as seen, the margin and the sump volume. Workers are asked what they were thinking about only in the one circumstance that matters — if they leave early — and the answer is written in the ledger as a volume note, not as a statement.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -304,7 +304,7 @@ Soaking Shard (C-IVδ-219 [LO]) is logged as a Object-Void manifestation express
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It grows more active during the Sorrow Tide.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log, Year 4231>**
 The grief of believing a loss had been sealed when it remained alive inside.
 
 **Entry 4 — <Containment Notice>**
@@ -342,20 +342,20 @@ Blue liquid runs upward through the crystal. Faces move beneath the surface like
 
 Soaking Shard does not exist in isolation. Its recorded relationships with The Frozen Shard, The First Tear, The Memory Rain should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone. The question here is always whether the other presence changes the seep rate, and nothing has. Log the range, the duration, the gauge on both sides, and the sump volume across the pairing, read by somebody who is not running the session.
 
 
 ### Entity Interaction Record
 
-Soaking Shard must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Soaking Shard sits among the archive's memory-bearing holdings and is kept deliberately distinct from them. Its variable is volume: how much fluid, from what, going where. The entries below are observed and none of them has moved that figure, which is the measurement that would matter, and the file prefers to say so than to imply a relationship it cannot show.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Frozen Shard** | Their crystals resonate through opposing temperatures. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The First Tear** | The Shard reflects its ancient origin. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Rain** | Its liquid joins the falling memories. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Frozen Shard** | Two crystals at opposite ends of the same problem: one holds its grief solid, this one cannot hold its at all. | Paired three times at distance. Both chambers' temperatures moved toward each other and returned within the hour; the seep rate did not change at any point, and nothing transferred in either direction. | Both temperature series, the sump volumes across all three pairings, and the unchanged margin. |
+| **The First Tear** | An origin and a late consequence of the same proposition. | Never co-located; the comparison is documentary. The wing keeps the entry because workers assume a lineage between them and there is no evidence of one. | The standing note that no pairing has been attempted and no lineage established. |
+| **The Memory Rain** | Both produce memory-bearing liquid and neither produces it the same way. | Never brought together and formally separate. The Rain's variable is the interval between falls and its volume never changes; this holding's volume is the whole of its behaviour and its timing is constant. The two fluids have never been compared, because the Rain's is sealed on collection and this one's is in the Memory Archive's custody before the shift ends. | The disjointness note, both collection protocols, and the review minute that keeps them apart. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, keep the second outside the chalked margin, and log the first shared change with its range, duration and trigger, the gauge on each side, and the sump volume before and after. The profile gauge is read again at the end, because a height change inside a pairing would be the first ever attributable to another entity.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -388,11 +388,11 @@ Some sorrows are about open wounds. Soaking Shard is about a wound that was clos
 **Classification:** Sorrow Entity — `C-IVδ-219 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Object-Void manifestation
 **Common Name:** Soaking Shard
 **Containment Status:** Contained — Alpha Tree vault
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Shard cracked and proved sealed grief was flowing inside. Effect: proximity induces the horror of contained grief discovered alive.
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Critical (δ). Proximity delivers a grief believed finished and found running; contact trades one of the worker's memories for one of the shard's, and the holding grows when it is mourned at.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The crack leaks; monitor the flow.
+- Viderehan from the marked standpoint; Ferrehan in short rotations with a dry period after.
+- Volume is the control: sump reading each session, chalked margin against the last, profile height weekly.
 **Observation Notes:**
 - Cracked during a Sorrow Tide; the sealed grief was alive inside.
 **Cross-References:** Alpha Tree · The Keepers · The Sorrow Tide
@@ -401,9 +401,9 @@ Some sorrows are about open wounds. Soaking Shard is about a wound that was clos
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding is a measurement problem that turns out to be a welfare problem. Read the three series together: the sump volume says how much is leaving, the chalked margin says how far it has reached, and the profile gauge says how much the shard has gained — and they do not reconcile, which is the file's central finding rather than an error in it. Everything procedural here follows from a hazard whose main input is a thing people do involuntarily. Where the entity does something not described here, log it and leave the contradiction standing.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, transformation attempt or unusual interaction: re-verify the sump series against the carriage register, the chalked margin, the profile height, the exposure log and the gauge. Three further items apply here. The withdrawal readings are reconciled against the counsellors' own count and any discrepancy reported to the review rather than resolved locally. The vault's remaining memorial material is inspected at full frequency. And the safety office's objection to the withdrawal classification is re-read in full, unaltered.
 ## Apex Record
 
 ### Wet Crystal
@@ -432,10 +432,38 @@ Chamber runoff goes to a dedicated sump that connects to nothing else in the fac
 
 Carriage transfers are witnessed by a member of the Archive's staff and countersigned at both ends, and the countersignature is required even when the volume is negligible. The register has no gaps.
 
+### What the Ledger Does Not Balance
+
+Three series are kept, and the holding's standing finding is that they do not reconcile.
+
+The sump is read at the start and end of every session; the wetted margin is chalked and compared with the last line; the shard itself is measured against a profile gauge weekly. **Across nineteen years the shard has gained fourteen centimetres in height and a little under three at the widest station, and the sump has taken eleven thousand four hundred litres away from it.** Nothing measurable goes in. The chamber's humidity load is accounted for, the drainage is closed, the carriage register has no gaps, and the shard is nonetheless both larger and the source of a volume of fluid the vault cannot supply.
+
+The wing states this flatly and declines to resolve it. The ledger's front page records that a balance which does not balance is a finding about the holding and not a fault in the instruments, that the instruments have been replaced twice without changing the result, and that any future protocol built on an assumption of conservation here will be built on something the record does not support.
+
+What the series do establish is the input nobody can regulate. **Growth correlates with mourning conducted in the chamber and not with elapsed time**, and the correlation is the strongest figure in the file.
+
+### A Control You Cannot Order
+
+A hazard control has to be written as an instruction, and an instruction has to describe an act. That is the whole of the difficulty.
+
+The governing input here is grief — a worker's own, arriving unbidden, usually at the moment they recognise something in the layers. The facility can order a standpoint, a rotation length, a drainage route, a dry period. It cannot order a state of mind, and a rule that purported to would be both unenforceable and a thing no safety committee could sign. So the chamber is closed to any observance, memorial or private grief, which is the only form the control can take, and which is a rule that forbids an involuntary act and applies it to the people most likely to perform it.
+
+The absurdity is on the face of it and the wing has never pretended otherwise. The holding's own protocol states that the prohibition is a reporting arrangement wearing the grammar of a prohibition, because the only honest version — *tell us when it happens* — has no standing as a control measure and would not survive a safety audit. The audit requires an instruction. The instruction forbids a feeling. Everyone concerned knows the first thing is a fiction and the second is not available, and the paper has to say something.
+
+### Withdrawal Counted as a Reading
+
+What the wing could change was the filing, and it did.
+
+Leaving a post mid-shift is ordinarily a work refusal: a note on the file, a supervisor's entry, a conversation that sits in somebody's record for years. For this chamber the wing reclassified it. A worker who leaves because they have begun to grieve is logged in the volume ledger as **a reading** — timed, set against the sump figures, and treated as instrumentation, on the stated ground that withdrawals and seep rate move together. No form, no personnel entry, nothing on anybody's record, and the worker is told so before they are asked why they left.
+
+**Sixty-two withdrawals in nineteen years. Not one has produced a personnel entry.** The counsellors hold their own count and the two are reconciled at the annual review.
+
+The safety office's objection is on the file and has never been answered. The correlation between withdrawals and seep rate is thin — it has reached the wing's own stated threshold in eleven years of nineteen — and what the wing has actually done is dress a welfare protection as a measurement, which means it survives only as long as the statistic does. A protection that rests on a correlation can be taken away by anybody who recomputes it, and the people it protects would have no standing to argue, because on paper they were never being protected at all. The minute reads **correct, and the classification stands**. The office asks each year that its objection be read before the ledger rather than after it, and each year the wing agrees.
+
 ## Trivia
 
-- It leaks upward against gravity.
-- Its liquid memories evaporate if no witness remains.
+- Some of the film runs up the faces rather than down, which the engineers log and have stopped trying to explain.
+- A released vision stops when the chamber empties, and the volume it took is never recovered at the sump.
 
 
 
@@ -443,9 +471,9 @@ Carriage transfers are witnessed by a member of the Archive's staff and counters
 
 - **Classification detail:** Soaking Shard is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree vault.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the wet. A blue shard standing in its own fluid inside a vault reading dry is this holding and no other.
+- **Record detail:** The archive holds several memory-bearing holdings and they are kept disjoint on purpose. The Memory Lake is a body of it, the Memory Rain delivers it on an interval, and this one leaks it from a container that was certified closed. The procedures diverge at the only point that matters: those are observed, and this one is weighed.
+- **Containment detail:** The chamber holds the shard and does not hold the fluid, which leaves every shift by sealed carriage to the Memory Archive. Containment here means the volume is accounted for at both ends, nothing more.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-219
