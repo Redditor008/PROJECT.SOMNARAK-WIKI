@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **299** |
-| Pending — no disposition-bearing line found by scan | 4 |
+| **Classified here, with a quoted line of evidence** | **300** |
+| Pending — no disposition-bearing line found by scan | 3 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 299 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 300 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 4 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 3 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -352,6 +352,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Heirloom | `SE-O-IVδ-909` | *"Eleven years, 211 watches, 38 strikes, no fatalities, no hospitalisation — and 1.3 metres of vault consumed, none of it recoverable."* Its growth is self-expansion into the facility's own stone, which under R-19 is not Negative; the propagation stops at any door already shut and has never reached a containment seal. It frees nothing and assists nothing — the Wrath Flame only heats it, the Rusted Whisper gave material to the archive rather than taking any, and the Hollow Choir's voice-separation left the chamber smaller-growing, not larger. Every strike on file went to a worker who repeated something unattributed inside the room. Neutral. |
 | Uprooted | `SE-O-IIIγ-959` | *"Nine years, 84 plotted nights, four risings, three of them after somebody cut it; eleven injuries, no fatalities, two buildings lost."* Its route is a closed tour of nineteen abandoned plots — it has never visited a twentieth and has never gone to ground off the list — and every strike on file was taken by somebody standing on a foundation. It releases nothing and follows nothing: across nine encounters it kept its own line every time, and the Rootless followed it rather than the reverse. The damage is to empty structures on its own route, and three of the four escalations were caused by workers cutting or burning it. Neutral. |
 | Sleeping Tree | `SE-O-IIIγ-374` | *"Six years, 164 cycles, three growth events, eleven injuries, no fatalities."* Logged as a Subject that can breach, it has never moved in six years of survey; it has never reached for a person, including the worker who struck it, and the damage in all three events was done by growth rather than by intent. It frees nothing and is freed by nothing — the Broken Promise pairing has never produced a reading in three sessions, and the Forgotten God's half-minute shortening was a change to this holding's sleep, not an action by it. Its growth is into the facility's own structure, which under R-19 is self-expansion and not Negative. Neutral. |
+| Passing Bell | `SE-N-IIβ-919` | *"Six years, 71 hours, four namings, one three-hour overrun, no fatalities and no physical injury."* The voices speak to each other and have addressed a living person four times in 71 hours, each time only after being spoken to first; the single boundary failure said nothing in the corridors it had not already said inside. It has no interaction record and no entity has been brought to it. Its warnings reach the living too late to act on — nine of 61 matched after the fact, median lag fourteen months — so it neither assists nor obstructs anything; the cost is borne by the transcribers. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
