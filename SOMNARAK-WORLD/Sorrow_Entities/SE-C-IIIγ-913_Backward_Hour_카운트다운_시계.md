@@ -34,15 +34,15 @@
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. Nothing shortens an occurrence. Read the fixed points, deploy by rate, stand down at the end, reconcile the clocks. |
 
 ### Operational Notes
 
-- The count runs down and has never reached its end, resetting at an interval no one has successfully predicted.
-- Work lengthens the interval. It does not stop the count, and the reset value is unchanged across the record.
-- The margin is three conditions. The grudge register carries contact, so escalation presents as resentment toward the timekeeper on duty.
-- Timekeeping duty is rotated within the shift rather than held by one operative.
-- Extraction is authorized separately from the work cycle.
+- Every timepiece in the district runs backward for twelve hours and none of them reaches an end before the occurrence stops. The reversal rate differs point to point and the differences are the whole of the measurement.
+- A completed cycle lengthens the gap before the next occurrence. It does not shorten an occurrence in progress, and the twelve hours have never varied.
+- The margin is three conditions. Contact runs through the Grudge register, and escalation presents as resentment aimed at whoever is currently holding the timekeeping duty.
+- Timekeeping is rotated inside the shift rather than held by one person, for that reason and for no other. The rotation is enforced by the standing order and has never been waived.
+- Extraction is authorised separately from the work cycle and is not attempted during an occurrence, the district being ungovernable for the duration.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,23 +87,23 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the time manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Backward Hour's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+2. **Clash:** Four turns, observation and endurance only, conducted from the fixed reading points rather than from any position relative to the entity, which has no position. Rates are called in at each turn.
+3. **Resolution:** The cycle ends on management or on the twelfth hour, whichever comes first, and it is always the twelfth hour. The documented condition is readings taken, presence deployed by rate, and the clocks reconciled afterwards.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented grudge effect — grudge pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- A worker who cannot hold becomes furious about a specific withdrawal in their own past — a permission taken back, a post reassigned, an allowance stopped — and argues it accurately, for hours, to colleagues who cannot help.
+- Repeated exposure layers. After enough occurrences a worker stops being able to accept any reversal of any decision, however trivial, and the roster treats that presentation as a withdrawal criterion rather than a performance matter.
+- The Backward Hour equipment lends the bearer the capacity to work inside a street that is turning on itself, and charges them the ability to let a thing go once it has been taken back.
 
 ## Appearance
 
 **Primary Form:** A 12-hour period that recurs irregularly in Zone B, during which every clock in the district counts backward and the anger of every citizen intensifies proportionally to the speed of the reversal.
 
 **Notable Features:**
-- Expresses Grudge pressure in a grudge register.
-- The time form is unmistakable — this is a grudge entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Expresses Grudge as a twelve-hour period with a spatial gradient: the same occurrence is mild on one street and dangerous two streets away.
+- The marker is the clocks. Every timepiece in the district reverses, at rates that differ point to point, and the local anger rises in proportion to the local rate.
+- Confirm the designation C-IIIγ-913 `[GT]` and the fixed-point readings before deploying. A single stopped or reversed clock is a fault; the entity is the whole district disagreeing about how fast it is going backward.
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A 12-hour period that recurs irregularly in Zone B, during which every clock in the district counts backward and the anger of every citizen intensifies proportionally to the speed of the reversal. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Time-Grudge manifestation is the primary identifying feature. Grudge pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | It has no position. The record is anchored at SECTOR-C-913; the occurrence covers Zone B entire, for twelve hours, at intervals nobody has been able to predict. |
+| **Material / signature** | Grudge. No visible or audible signature at all. What marks it is mechanical: hands, counters and escapements running in reverse at locally different speeds, and a district-wide rise in anger tracking those speeds. |
+| **Distinctive markers** | Reversal at differing local rates; anger proportional to the local rate; the complete absence of effect outside Zone B; and the twelve-hour duration, which has never once varied. |
+| **Identification** | Confirm: designation C-IIIγ-913 `[GT]`, Fragment (III) coherence, Major (γ) potency, Time-Grudge manifestation, Grudge element, Zone B. Uniform reversal everywhere at one rate would be something else and has never been observed here. |
 
 ## Origin
 
-Nobody knows exactly when Backward Hour started. The first recorded incident is dated, but the entity itself is older — grudge grief does not announce its birth; it seeps, thickens, and one day the personnel realize the room has changed and cannot remember when it was different.
+No formation date can be given and the file distinguishes that from a date being lost. The first documented occurrence is dated; the phenomenon is older; and the earliest traces are not accounts of anger at all but municipal complaints about clocks, which the works department handled as a maintenance matter for some years before anybody connected them to the streets they came from.
 
-Time itself is the medium. Backward Hour does not exist in the way other entities exist — it exists as a moment that carries grudge sorrow in a grudge register. You cannot point at it the way you can point at a Subject entity. You can only point at its effects.
+Time is the medium rather than the subject. There is no object to point at and no site to cordon: the entity is a recurring twelve-hour period, and everything known about it is known from instruments in streets and from what the people in those streets do. The Time-Grudge classification is a description and not a filing convenience.
 
-The effects are cumulative. Each exposure layers grudge pressure in the grudge register until the personnel cannot distinguish their own grudge state from the entity's influence. That is when Fracture risk peaks. That is when the protocols engage.
+What is certain is that the effect is graded rather than uniform, and that the grading is stable in character while moving in place: every occurrence has its fast streets and its slow ones, no two occurrences have had the same distribution, and the anger follows the rate with a consistency the network has now demonstrated sixty-one times.
 
 ## Behavior
 
@@ -137,12 +137,12 @@ The effects are cumulative. Each exposure layers grudge pressure in the grudge r
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the grudge pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the grudge pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Permits study; under sustained observation the reversal becomes legible as a specific undoing with a date, a street and an instrument behind it. | Decrease |
+| **Ferrehan** (Endurance) | Recognises patience; the pressure settles around a worker who holds a reading point for the full twelve hours without leaving it. | Decrease |
 
 ### Operational Work Notes
 
-The Grudge pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Time-Grudge manifestation means the grudge register is the primary channel of contact.
+Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manifestation, Grudge expression, recorded at SECTOR-C-913 and occurring across Zone B. Flerehan and Pugnahan are unavailable to a Time. Both valid Work Types lower the gauge and neither affects an occurrence in progress; what they buy is interval, which is the only currency this holding has.
 
 ## Breach Behavior
 
@@ -150,16 +150,16 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The entity's grudge influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Grudge pressure radiates — the grudge register makes it personal, targeted, unavoidable. |
-| **First Target** | The whole district at once. The entity is a twelve-hour period and has no position from which to select anyone. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Grudge drain increases by 5 per turn until suppressed. |
+| **Breach Type** | Expansion — in rate and in the number of streets reaching the dangerous range, never in location. |
+| **Movement** | Nothing travels. The reversal rates climb across the fixed-point network until streets that are ordinarily slow are reading in the dangerous band, and fall again at the twelfth hour. |
+| **Effect** | Grudge in the Grudge register: not a mood but an argument, specific to the person, always concerning something that was given and then taken back. |
+| **First Target** | The whole district at once, but not equally. The entity is a twelve-hour period with no position from which to select anybody; the fast streets take it hardest, and which streets those are is not known until the readings come in. |
+| **Escalation** | Pressure grows each turn; Grudge drain increases by 5 per turn until suppressed. There is no suppression available, so in practice the drain runs to the twelfth hour and stops of its own accord. |
 
 ### Escalation Notes
 
-- **Containment priority:** No suppression is possible. Record the start, stand Wardens down for the duration, and reconcile the clocks afterward.
-- **Sorrow Gauge on breach:** Opens at 60% and falls one step per hour elapsed. It is governed by the clocks running backward, not by any response.
+- **Containment priority:** No suppression is possible. Record the start, deploy presence to the highest-rate points and nowhere else, stand Wardens down at the end, and reconcile every clock in the district before the next shift.
+- **Sorrow Gauge on breach:** Opens at 60% and falls one step per hour elapsed. It is governed by the clocks and not by any response, and the curve is identical whether the facility deploys the full watch or nobody at all.
 
 ## M.A.W. Equipment
 
@@ -212,38 +212,38 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity; the token's second hand runs backward throughout an occurrence and forward at all other times, which makes it the earliest reliable warning the facility has.
 
 **Ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.
 
 **Cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
 
-*Stigmas are granted at random by Backward Hour upon a successful work, not manufactured.*
+*The Token is not manufactured and cannot be requisitioned. It has been conferred eight times, in each case on a Warden who held a high-rate reading point for the full twelve hours without being relieved early at their own request.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Backward Hour, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each Backward Hour piece is an extension of this entity rather than ordinary equipment. The grade describes the effect on entities; the cost is separate and identical across the three — the bearer acquires an unappeasable objection to anything being revoked, which outlasts the occurrence by several days.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective, assigned reading point, and the operator's count of occurrences worked in the preceding year. |
+| **During use** | Reversal rate at the assigned point each hour, local incident count, anger reports, first cost paid, and the time the rate entered or left the dangerous band. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the operator has begun litigating a revocation of their own. |
+| **After use** | Stand-down at the twelfth hour, injuries, lingering effects, cooldown, clocks reconciled across the district, readings filed unsummarised against the fixed-point series. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Grudge signature confirmed at SECTOR-C-913.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The grudge register is the dominant channel of contact.
+- Grudge signature recorded at SECTOR-C-913; sixty-one occurrences logged across the fixed-point network since the holding opened.
+- Viderehan and Ferrehan both lower the gauge and lengthen the interval; Flerehan and Pugnahan are unavailable, the entity being a Time.
+- Contact is through the Grudge register and is graded by street: two readings a few hundred metres apart routinely differ by more than the width of the dangerous band.
 
 **Personnel Note:**
 
-> *"The grudge pressure is different from standard grudge. It does not press on the body — it presses on the grudge itself. You feel it before you understand what is happening."* — Specialist, Field Team 12
+> *"On Candle Row it was nothing, a slow drift, people irritable. Four streets east the hands were going round backwards fast enough to watch and two men were trying to kill each other over a permit from nine years ago. Same hour. Same entity."* — Specialist, Field Team 12
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -268,33 +268,33 @@ Each M.A.W. piece is a conditional extension of Backward Hour, not ordinary equi
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the grudge pressure and the grudge register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A 12-hour period that recurs irregularly in Zone B, during which every clock in the district counts backward and the anger of every citizen intensifies proportionally to the speed of the reversal. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+There is no moment of contact to describe, because there is nothing to contact. What personnel describe instead is the discovery that the argument they are having at hour four is not the argument they began at hour one, and that the one they are having now concerns something they were given and then had taken away, which they had not thought about in years and can now recite with dates.
 
-**At first contact:** The grudge signature is unmistakable — this is not a general grudge entity but one whose sorrow has taken the specific shape of grudge.
+**At first contact:** A clock somewhere running the wrong way, noticed late, and then every clock. The rate at your own point is the only number that matters and you will not know it until you read it.
 
-**With continued exposure:** The grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The anger in the street organises itself. It is not a mob mood; it is several hundred separate and specific grievances, each one about a withdrawal, all of them becoming articulate at once.
 
-**When the entity activates:** The grudge becomes a force rather than a feeling. The time was holding; now it releases.
+**When the entity activates:** Nothing announces it. A hand goes backward, then the next, and the rate climbs at some points and not at others for reasons the network has never resolved.
 
-**After departure:** The grudge does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** The clocks are reconciled and the district is exhausted rather than relieved. Personnel report the grievance staying articulate for days, and the seven-day check exists for that.
 
 ## 이야기 (Narratio) — The Tale
 
-Nobody knows exactly when Backward Hour started. The first recorded incident is dated, but the entity itself is older — grudge grief does not announce its birth; it seeps, thickens, and one day the personnel realize the room has changed and cannot remember when it was different.
+The district's own account of the thing is not about clocks. Ask on Candle Row and they will tell you about the year the market licences were called in, or the stair permits, or the lamp allowance that ran for a decade and then did not — each street has its own, and each street is certain that theirs is the one the hour is about.
 
-Time itself is the medium. Backward Hour does not exist in the way other entities exist — it exists as a moment that carries grudge sorrow in a grudge register. You cannot point at it the way you can point at a Subject entity. You can only point at its effects.
+They are not wrong, in the sense that the readings bear them out, and they are not right, in the sense that the readings bear out every street at once. The fast points have always had something taken back from them. The slow points have had less taken, not nothing. Nobody in Zone B has ever been in the slow band two occurrences running.
 
-The effects are cumulative. Each exposure layers grudge pressure in the grudge register until the personnel cannot distinguish their own grudge state from the entity's influence. That is when Fracture risk peaks. That is when the protocols engage.
+What the district asks for is not that the hour be stopped. The ward's standing position, put at every annual meeting for eleven years, is that the facility should publish the fixed-point readings street by street, so that the people living on the fast streets can see the figure for themselves. The facility publishes a district aggregate. The reason given is that a street-level figure would be read as an allegation against whoever did the taking.
 
-The entity does not rage. It does not weep. It persists — grudge and grudge, patient and permanent. Backward Hour is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+The entity does not rage, and that is the part the briefings underline. Twelve hours, no violence of its own, no injury attributable to it anywhere in sixty-one occurrences. Everything that happens in Zone B during an occurrence is done by people, about things that were genuinely done to them, with the volume turned up by a mechanism nobody can switch off.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The grudge is familiar. The grudge is not. That gap is where the danger lives."* — Handler
-*"I expected standard grudge. I got something that knew me."* — Specialist
-*"Every time we refine the protocol, the grudge register finds a new way in."* — Researcher
-*"It does not attack. It accumulates. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"It is not a strange anger. It is your own, at correct volume for once."* — Handler
+*"I read the rate, I called it in, and then I spent nine hours building a case about a transfer I lost in my twenties."* — Specialist
+*"Sixty-one occurrences and the distribution has never repeated. We can measure it perfectly and predict nothing."* — Researcher
+*"It takes nothing and does nothing. It makes the district articulate about what was taken, which turns out to be the dangerous part."* — Director
+*"Work one hour of it and you will understand why we stopped calling the clocks a maintenance fault."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
@@ -306,20 +306,20 @@ The entity does not rage. It does not weep. It persists — grudge and grudge, p
 
 **Comprehension Level:** 3 — Advanced
 
-**Threat Assessment:** Major. A Time-Grudge entity — the grudge register is its defining characteristic. Risk: prolonged exposure to the grudge pressure may produce effects not seen in standard grudge entities.
+**Threat Assessment:** Major (γ). It cannot be suppressed, shortened or forecast, and it has never injured anybody itself. It raises an entire district to articulate fury for twelve hours at a time, unevenly and unpredictably, and the facility's own readings show the distribution responding to withdrawals — including the facility's own.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the grudge register specifically — it is the primary channel of contact.
+- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and lengthen the interval between occurrences.
+- Flerehan and Pugnahan are unavailable to a Time and are not to be attempted as improvisation.
+- Monitor the Grudge register by fixed point, never by district average; the average has been inside the safe band during occurrences in which two streets were in the dangerous one.
 
-**Cross-References:** City Sorrow (도한) · Grudge · Time-Grudge · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Grudge · Time-Grudge · Zone B · the fixed-point network · the revocation study · the clock warrant scheme
 
 ### Registry Addendum
 
-**Operational interpretation:** The Time-Grudge classification is valid and necessary. The grudge descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** This file is read whole or not at all: the gradient, what the gradient tracks, the law of revocable permissions, and the scheme the facility withdrew are one picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and grudge pressure readings after every breach or unusual interaction.
+**Review requirement:** Re-verify after every occurrence, Tide, Ordeal or unusual interaction: gauge curve, rate series at all twenty-three fixed points, dangerous-band entries by street, incident counts, clocks reconciled, and the standing of the clock warrant scheme and the readings taken since its withdrawal.
 
 ## Warden Record
 
@@ -339,11 +339,51 @@ It returns on no schedule. The intervals have been analyzed repeatedly and no pe
 
 The first documented occurrence has a date and the phenomenon predates it, grudge of this kind having thickened in the district without announcing itself. The file states this at the front rather than in a historical annex. The archivist's note adds that the earliest records are municipal complaints about clocks rather than about anger, and that the complaints were treated as a maintenance matter for some years. Readings are taken at the same fixed points every time regardless of where the previous event concentrated, so that the series remains comparable across occurrences. Adding points nearer the worst streets has been proposed after several events and declined each time, on the ground that a network which follows the last event measures the last event rather than the next one. The fixed points have not moved since the holding was established.
 
+### What the Fast Streets Have in Common
+
+Twenty-three fixed reading points, sixty-one occurrences, every rate logged by hand at every point every hour. It is the longest continuous instrument series the wing holds and for nine years it produced nothing but a distribution that refused to repeat.
+
+The correlation was found by a clerk reconciling the network against an unrelated municipal file, and has been reproduced three times since by people who expected it to fail.
+
+The rate at a point tracks **the number of permissions withdrawn on that street**. Not grievances, not poverty, not density, not complaints. Specifically: things the city granted and then took back. Market licences called in. Stair permits revoked. Lamp and water allowances discontinued. Tenancies at will determined. Trading consents not renewed after years of renewal. Each is lawful, each is recorded in the municipal register with a date, and each sits on a street that the network can name.
+
+Across the sixty-one occurrences the association holds at a strength the file states plainly and does not dress up: a street in the top quartile for withdrawals has been in the dangerous reversal band in fifty-one of the sixty-one, and a street in the bottom quartile in four. The four are all explained by withdrawals the municipal register recorded under the wrong street.
+
+Three controls were run and all three came back negative. Streets with heavy *refusals* — permissions applied for and never granted — show no elevation at all. Streets with high arrears show none. Streets where something was taken by fire, flood or accident, with nobody to have taken it, show none.
+
+It is the taking back that registers, and only the taking back. The wing's note is one line: *the hour is not angry that they have nothing. It is angry that they had it.*
+
+### A Licence Is Revocable
+
+The law on this is clear, settled, and the reason none of the withdrawals in the register is actionable.
+
+A permission is not a right. A licence makes lawful what would otherwise be a trespass, and that is the whole of what it does: it confers no interest, carries no term unless one is written in, and may be revoked by the grantor. The grantee who has built their trade around it, who has renewed it for thirty years, who has never been told it might end, is in exactly the same position on the day of revocation as on the day it was granted. They had permission. They now do not.
+
+Reliance makes no difference. The courts have been asked, repeatedly, to hold that long enjoyment of a revocable permission hardens into something firmer, and have declined, for a reason the opinion in this file sets out with some sympathy: a grantor who knew that a permission might ripen into a right would grant far fewer of them, and the people who benefit from informal permissions are precisely the people who would then get nothing at all. The rule that leaves the Candle Row stallholder with no claim is the same rule that let her mother trade there for thirty years without a lease.
+
+And what may be done lawfully may be undone lawfully. A decision to grant is not a promise to go on granting. No reasons need be given. No notice period attaches unless one was written down.
+
+So the municipal register contains four decades of withdrawals, every one of them correct in law, not one of them wrong in any way a court could name, forming a map that this facility's instruments can read to within a street. The opinion closes: *nothing in the register is a wrong. The entity disagrees, and the entity is not a tribunal.*
+
+### The Clock Warrants
+
+For fourteen years the facility ran a small scheme. During an occurrence the district lost shifts, stock and glass; the facility issued warrants afterwards against assessed loss, paid in cash at the ward office, with no application form and no means test. It was never a legal liability and the warrants said so on their face: an ex gratia payment, made at the facility's discretion, creating no entitlement.
+
+In the fifteenth year the scheme was withdrawn. The review that ended it was an ordinary cost exercise, found that the facility had no liability for an event it neither caused nor could prevent, noted that the warrants had been paid from the containment budget without ever appearing in the containment case, and recommended closure. The recommendation was correct on every point it addressed. Notice was given in the ward office, in writing, four weeks in advance. Three hundred and eleven households had been receiving them.
+
+The next occurrence was eleven weeks later. **Nine of the twenty-three fixed points entered the dangerous band, against a running average of four**, and the nine included all five points nearest the ward office. The occurrence after that read eight. The one after that, nine again. The network had never produced three consecutive readings of that shape in nine years, and has produced nothing else since.
+
+The facility's own series therefore records the only act anybody has ever found that measurably worsens this holding, and it is an act of the facility's own, performed lawfully, for sound reasons, on advice.
+
+The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the Research Division's statistician. It holds that the withdrawal of the warrants is a revocation of exactly the kind the rate series tracks, that the facility performed it in the one district in the city where the consequences of revocation are instrumented, and that the three subsequent occurrences are the clearest result the network has produced in its existence; that the saving is smaller than the Han-Energy lost through the degraded work cycles those occurrences caused, so the cost exercise reached the right answer to the wrong question; and that the district has never been told any of this, because the fixed-point readings are published only as a district aggregate, and the aggregate conceals precisely the five points that moved.
+
+The minute records the objection as **correct in all three parts**. It records that a reinstatement — the warrants restored, funded from the containment budget, documented in the containment case as a management measure with a measured effect rather than as goodwill — was drafted in the fifteenth year, costed at less than the scheme had cost before, and has not been laid. And it records the sentence the statistician asked to have entered verbatim, now printed at the head of the rate series: *we spent nine years looking for what sets it off, and then we did it ourselves, in writing, with four weeks' notice.*
+
 ## Trivia
 
-- One of the first catalogued **Time-Grudge** entities in Somnarak.
-- Its grudge descriptor makes it structurally unique among time entities.
-- The grudge pressure in the grudge register feels different from standard grudge — more specific, more personal.
+- One of the first catalogued **Time-Grudge** entities in Somnarak, and the only holding in the wing whose watch is a measuring network rather than a post.
+- It is the only entity in the register whose severity varies by street while its cause varies by nothing anybody can find.
+- The Grudge here arrives with a case attached. Personnel describe standard grudge as hostility and this as being suddenly and accurately able to argue.
 
 ## Document Information
 
