@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · γ (Major) |
+| **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Resentment Talon-Blade, Plate and Gauntlet are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan, with the injustice named out loud at the start of the session. Pugnahan raises the gauge every time and is not authorised. He is a Subject; all four Work Types are valid and no Object/Place restriction applies. |
 
 ### Operational Notes
 
-- The Inheritor accepts what is handed to it and will not put anything down, including objects passed to it by mistake.
-- A successful cycle loosens the grip for a shift. Nothing on record has made the entity release what it already holds.
-- The margin is two conditions. Of the Triplets, this one breaches most quietly, and the cell is checked visually rather than by alarm.
-- Grudge expression makes structural pressure the leading hazard; the hazard is the grip, not the temper.
-- Extraction is authorized apart from routine work and is never treated as a reward for a clean cycle.
+- He takes whatever is put into his hands and does not give it back, including things handed to him by mistake, and he is visibly angry about every one of them.
+- A good cycle loosens the fists for a shift and no longer. Nothing on record has made him release anything he was already holding.
+- The margin is two conditions. He breaches the most quietly of the three — no noise, no alarm — so the cell is checked by eye every twenty minutes rather than by instrument.
+- The hazard is the grip and the heat, not the temper. He has never struck a Warden; he has twice broken a hand that was still holding something when he took it.
+- Extraction is authorised separately and is never scheduled after a clean cycle, because the roster refuses to let anything in this holding look like a reward for his cooperation.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,30 +87,30 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Inheritor's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Nine turns, standing, with the unfairness stated in the opening line and not repeated. Pugnahan is answered in kind and raises the gauge for days; Flerehan and Ferrehan are the authorised approaches.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Validate the resentment; do not call it ingratitude**.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, The Inheritor reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- The failure here is agreement of the wrong kind. The worker starts arguing his case for him, to the room, and the gauge rises while they do it.
+- Long exposure leaves the worker angry about their own obligations — specifically the ones they did not choose — and the counsellors find it most often in people who never mentioned having any.
+- The Resentment equipment lends the wearer his refusal to be worn down and takes the ability to let anything go. Every wielder's debrief has recorded an old grievance surfacing intact.
+- Unresolved, he breaches by Escape, quietly, and goes looking for nobody in particular — the obligation he carries was never assigned to a particular person either.
 
 ## Appearance
 **Primary Form:** A muscular middle-aged man with clenched fists and a face fixed between anger and exhaustion.
 
 **Notable Features:**
-- Represents the father generation forced to pay another's debt.
-- Moves constantly when distressed.
-- Resents both the Debtor who incurred the debt and the Rejector who refuses it.
+- The middle generation of the three: the one who paid what his parent borrowed.
+- Paces when distressed, continuously, and stops the moment he is addressed directly.
+- Holds the one who signed and the one who refuses in equal contempt, and says so, in detail, to anyone who asks.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A muscular middle-aged man with clenched fists and a face fixed between anger and exhaustion.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Pacing or still; the state is the reading. Record the motion state in the ruled column, the hand position, and whether he is holding anything.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-01, contained with the Debt Triplets
 
@@ -119,36 +119,36 @@
 | Field | Detail |
 |---|---|
 | **Form** | A muscular middle-aged man with clenched fists and a face fixed between anger and exhaustion. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Represents the father generation forced to pay another's debt. Moves constantly when distressed. Resents both the Debtor who incurred the debt and the Rejector who refuses it. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Position / movement** | Pacing, standing or still, logged as one of three marks. Record the state, the hand position, and anything currently in his grip with the date it entered it. |
+| **Material / signature** | Grudge. Flushed dark skin radiating measurable heat, tendons standing out in neck and forearms, and the smell of char and old smoke through the whole chamber. |
+| **Distinctive markers** | Fists closed at all times, including in sleep; constant motion under distress; and an articulate, unvarying account of why the arrangement was unjust. |
+| **Identification** | Confirm before Work or contact: designation C-IIIγ-062 `[GS]`, Grudge expression, Subject-Body manifestation, Fragment (III) coherence, SECTOR-C-01 with the other two Triplets. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Mark the motion state in the ruled column, note the hand position, and list anything he is holding. Three symbols, one column; the scale is deliberately coarse and a finer one has been tried and withdrawn. He announces himself in the body well before the gauge moves. Do not write *strange* or *anomalous*; he is hot, flushed, loud and reasonable, and those are the fields.
 
 ## Origin
 - **Formation:** The Inheritor formed from a father's resentment at being forced to pay his parent's debt.
 - **The Sorrow:** The rage of carrying someone else's obligation while being blamed for resenting it.
 - **The Event:** A family debt passed to the middle generation, who paid it while receiving neither choice nor gratitude.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased their own memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **The People:** One man of the middle generation, his parent who borrowed, and the children who watched him pay. None of the three later generations is present in any form except this one.
+- **Expanded origin context:** He was not party to the instrument, was never asked to take it on, and could not have been sued on it by anybody. He paid it anyway, in full, on time, over the better part of a working life, because the alternative was a family that would not speak to him. What he received for it is recorded nowhere, because there was nothing: no release, no thanks, and a steady low-grade reproach for resenting a thing he had volunteered to do. The sorrow is not the money. It is being told that the anger is the fault.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Anger softens when shared sorrow is recognized. | Decrease |
-| **Pugnahan** (Confrontation) | Fights aggression with aggression. | Increase |
-| **Viderehan** (Observation) | Explains the unfairness and resentment of inheritance. | Stable |
-| **Ferrehan** (Endurance) | Vents anger near the worker; endurance reduces escalation. | Decrease |
+| **Flerehan** (Tears) | Stops pacing and lets the anger drop a register when the unfairness is named by somebody else first. | Decrease |
+| **Pugnahan** (Confrontation) | Meets it exactly, at the same force, and keeps the gauge elevated for several days afterwards. | Increase |
+| **Viderehan** (Observation) | Sets out the whole arrangement — terms, dates, amounts — accurately and without exaggeration, and is not calmed by doing it. | Stable |
+| **Ferrehan** (Endurance) | Vents at length at a worker who stays and does not answer; the only approach that has ever ended a session early at his own initiative. | Decrease |
 
 
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. The Inheritor is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at SECTOR-C-01, contained with the Debt Triplets; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-C-01 against the shared boundary of the Triplets' chambers. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it without exception in nine years.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Read it in the column and in the hands. A falling gauge presents as the motion state dropping a mark and the fists opening slightly; a rising one presents as continuous pacing with the hands closed tighter than the resting state. Both precede the instrument. The three-state column is the holding's primary record and is maintained in preference to anything finer.
 ## Breach Behavior
 
 > *"Inheritor has broken free. Hunts personnel indiscriminately."*
@@ -156,9 +156,9 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Inheritor tears loose and pursues personnel with deliberate steps. It hunts personnel indiscriminately. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
-| **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
+| **Movement** | He opens the door and walks out without hurrying or hiding, and takes no particular direction. All four breaches on file ended in a corridor he had no reason to be in. |
+| **Effect** | The Grudge becomes structural. Walls crack, fittings fail, and anything held in a hand in the affected volume becomes difficult to put down. |
+| **Secondary Effect** | Old unsettled grievances in the vicinity surface intact — complaints, disputes, things people thought they had finished with — and are argued about for days afterwards. |
 | **First Target** | Indiscriminate by design. It does not distinguish, because the obligation it carries was never assigned to a particular person either. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
@@ -225,7 +225,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Cost:** The wearer cannot forgive; resentment lingers after every conflict.
 
-*Stigmas are granted at random by The Inheritor upon a successful work, not manufactured.*
+*The Resentment Gauntlet is not issued and cannot be requested. It has been conferred three times, in each case on a Warden who named the injustice out loud, accurately, with nothing added and no apology attached.*
 
 ### M.A.W. Use Notes
 
@@ -247,9 +247,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- The Inheritor cannot be separated from the Debt Triplets permanently.
-- Flerehan calms him; Pugnahan reinforces his inherited anger.
-- Exposure increases empathy while reducing emotional detachment.
+- He cannot be held apart from the other two; four separation trials were ended early, the shortest at nine hours.
+- Flerehan calms him and Pugnahan reinforces him, reliably, in both directions, across nine years of sessions.
+- Exposure makes workers more sympathetic and less able to stand back, in that order, which is the combination the roster screens for.
 
 **Personnel Note:**
 > *"He is angry because the debt is unfair, not because he refuses responsibility. The city keeps confusing those two things."* — Auditor Yuna, Collector's Row
@@ -261,11 +261,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies The Inheritor as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-C-01, contained with the Debt Triplets. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In The Inheritor's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Motion state in the ruled column, hand position, anything in his grip, the heat differential at the mark, and the other two Triplets' gauges over the same window. |
+| **Activation or escalation** | Escalation is continuous pacing with the hands tightened. At that state the session closes; the rule is written in the column's own terms so that the decision does not depend on the person watching. |
+| **Post-contact review** | Column entries before and after, whether the injustice was named and by whom, the worker's verbatim account, and a counsellor's note at 14 days aimed at whether the worker has begun relitigating anything of their own. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Observe standing, from the mark, across a whole watch rather than a sample of one. Record the motion states in sequence, the hand position, the heat, and the condition that ended the session. The form here is the history and not a strategy: a strong man of working age, hot with an anger that was never once treated as legitimate, holding everything he has ever been handed.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -300,32 +300,32 @@ His fists are closed before he sees you. The debt is invisible, but his shoulder
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Grudge pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A muscular middle-aged man with clenched fists and a face fixed between anger and exhaustion.
+**At first contact:** Heat first, then the smell of old smoke, then a man standing very still who was pacing a second ago and who has already decided you are about to defend somebody.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Grudge has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** He explains. Clearly, in order, with dates. The difficulty is not that he raves; it is that he is right, and has been right for four hundred years, to nobody.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Grudge pressure spikes — not gradually but like a door slamming open. The Subject-Body shifts from presence to action.
+**When the entity activates:** The pacing goes continuous and the hands tighten. The heat comes up through the floor. Nothing is said that has not already been said.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Grudge in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The anger travels. Workers describe an evening of going back over old arrangements of their own, and the counsellors ask about exactly that at fourteen days.
 
 ### Interaction Pattern
 
-The Inheritor does not exist in isolation. Its recorded relationships with The Kind Healer, The Orphaned Bell, The Grieving Colossus, The Debtor, The Rejector should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in Zone C built out of obligation, and against the two it shares a boundary with. Each relation below has been observed and filed; none is settled; and the two inside the Triplets' boundary have no solo baseline and never will.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone across several watches before any paired approach, and record all three Triplet gauges for every test regardless of which two are under study. Log the onset of any shared change with its range, duration and trigger, the motion column on this side of it, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-The Inheritor must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled. Two are permanent neighbours, which makes their entries the most detailed and the least controlled in this file.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Kind Healer** | Cannot heal an imposed obligation. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Orphaned Bell** | Pauses when the Bell tolls. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Colossus** | Pauses and listens. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Debtor** | Resents the Debtor's willing acceptance. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Rejector** | Resents the Rejector's refusal. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Kind Healer** | The Healer cannot reach an imposed obligation, the only category of harm it has been observed to fail on entirely. | Four sessions. His gauge moved by less than a point on all four and the motion column was unchanged. The Healer's own series was flat. The wing records a clean null and has stopped proposing it. | All four sessions, both flat series, and the column entries. |
+| **The Orphaned Bell** | He stops when the Bell sounds, every time, for the duration of the sound and about four seconds after it. | Thirty-one recorded tolls. The stop is total and the gauge does not move with it; the pacing resumes at the same state it left. The wing calls it a pause and declines to call it recognition. | Every toll with the stop duration, and the unchanged gauge either side. |
+| **The Grieving Colossus** | Pauses and listens to the Colossus, the only entity he has ever been observed to attend to rather than argue with. | Two co-presences, both at range. He listened; nothing else happened; neither gauge moved. Two observations are not a finding and the file says so rather than building on them. | Both co-presences in full, with the distances and the null gauges. |
+| **The Debtor** | Permanent neighbour, and the one who signed. He resents the willingness more than the debt. | Nine years of continuous co-presence. The gauges move in opposite directions on most shifts: work that calms the Debtor raises him, reliably enough that the wing schedules around it. No solo baseline exists for either. | Both gauge series in full, the scheduling rule, and the absence of a baseline stated plainly. |
+| **The Rejector** | Permanent neighbour, and the one who refuses. This is the only pairing in the wing in which he raises his voice. | Nine years. He addresses the Rejector through the wall, at length, and has never once received an answer of any kind. His gauge rises while he does it. The Rejector's does not move. | The addresses with their durations, both series, and the complete absence of response. |
 
 **Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -363,17 +363,17 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 **Common Name:** The Inheritor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. The Inheritor radiates resentment.
+**Threat Assessment:** Major (γ). He breaches quietly by Escape, turns Grudge into structural load when he does, and takes permanent hold of anything placed in his hands. The earlier entry describing the threat as moderate is an error and is corrected here.
 **Containment & Handling Procedures:**
-- Pugnahan is the primary Work Type.
-- The loudest Triplet.
-- Do not assign personnel with inherited debts.
+- Flerehan and Ferrehan are the authorised approaches. Pugnahan raises the gauge every time it has been tried and is prohibited on this holding; the earlier entry naming it as primary is an error and is corrected here.
+- The loudest of the three, and the only one who speaks to a neighbour through the wall.
+- Personnel carrying an inherited obligation are not rostered to this holding; see the screening condition and the objection minuted against it.
 **Observation Notes:**
-- The father aspect of the Debt Triplets.
-- Pays the inherited debt and is blamed for resenting it.
-**Cross-References:** The Debtor · The Rejector · The debt system
+- The middle generation of the three: not the one who signed and not the one who refuses.
+- Paid in full what he was never liable for, and was reproached for minding.
+**Cross-References:** The Debtor · The Rejector · SECTOR-C-01 · the instalment schedule · the volunteer opinion · the roster screening condition
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** Middle-generation citizen who paid without gratitude.
+**Originator:** A middle-generation citizen who discharged a parent's obligation without compulsion, without request, and without acknowledgement.
 
 ### Registry Addendum
 
@@ -398,10 +398,50 @@ The obligation he discharged was his parent's and the containment file holds the
 
 The motion states are recorded as a single mark in a ruled column and the column has used the same three symbols since the containment opened. A proposal to add a fourth intermediate state was tested over a full cycle and withdrawn by the Warden who proposed it, whose closing note records that the extra state was used differently by every person on the roster and that the coarse scale had been right.
 
+### Reading the Schedule Aloud
+
+The instalment schedule is the only document in the containment file that does anything.
+
+It is 288 lines long: date, amount, received. Reading it aloud in the chamber, in order, lowers the gauge — not by a little, and not slowly. The effect is reproducible, has been reproduced on 47 occasions, and is the single most reliable intervention this holding has. **A full reading takes about seventy minutes and brings the gauge down between fourteen and nineteen points.** Nothing else in the file comes close.
+
+The mechanism is not mysterious and the Wardens who discovered it say so plainly: it is the only record anywhere that shows he did what he said he did. Nobody ever thanked him. The schedule does not thank him either. It just agrees with him, line by line, for seventy minutes.
+
+**Lines 143 to 156 are missing.** Fourteen instalments, a little over a year, for which the receipts were lost at some point in the four centuries before the holding existed. The schedule prints the dates and leaves the *received* column blank, because that is what the surviving source does.
+
+Every reader reaches them. The gauge movement reverses at line 143 — reliably, measurably, every time — and the recovery costs about twenty minutes of further reading. Four readers have attempted to skip the gap and all four were interrupted: he knows the sequence, he supplies the missing dates himself, and the session ends worse than it would have.
+
+The wing has considered reconstructing the fourteen from collateral sources three times. The archivist's standing advice, reaffirmed at each review, is against it. **A reconstructed receipt is a receipt the wing wrote**, and the one thing in this holding that works is a document the facility did not author. The gap is therefore read as a gap, in the same voice as the rest, and the reader is briefed to expect what happens and to keep going.
+
+### A Mere Volunteer
+
+He never owed it. That is not a grievance; it is the legal position, and the legal position is why there is nothing to be done about it.
+
+He was not a party to the instrument. He was not a surety. Nothing bound him in any way to his parent's borrowing, and no creditor could have obtained a penny from him in any forum. He paid because of what would otherwise have happened inside a family, and family pressure is not compulsion in the sense the law uses the word.
+
+A person who discharges another's debt can sometimes recover it from the debtor: by subrogation, where he paid under legal compulsion; by request, where the debtor asked him to; by agreement, where there was one. **He had none of the three.** No compulsion, because he was never liable. No request, because nobody ever asked — the arrangement operated on silence. No agreement, because the whole point of it was that nothing was ever written down.
+
+Which makes him, in the only word the opinion uses, **a volunteer**. A volunteer who pays another's debt acquires no claim against anybody. The money is gone, the payment is good, and the person relieved by it owes the payer nothing at all.
+
+The sentence the Wardens underline is the last one in the opinion's second paragraph: *the fact that he was free not to pay is the fact that destroys his remedy; had he been obliged, he could have recovered, and he was not, so he cannot.*
+
+He understands this. He has been told, on the record, twice. The second telling was at his own insistence after he learned a legal officer had looked at it, and the Warden's note of it runs to one line: *he asked whether it meant he had been a fool, and was told it meant he had been generous, and said that those were the same word in this building.*
+
+### Certifying a Roster Clean
+
+The holding's handling rule is one line in the Registrum — *do not assign personnel with inherited debts* — and producing a roster that satisfies it is not something any Warden can do. It took an establishment instrument, and the wing issued one in the third year.
+
+**Posting to SECTOR-C-01 now requires a declaration of family financial obligation.** Applicants state whether they carry, or expect to carry, a debt incurred by a parent or grandparent. The declaration is made to the personnel officer, is not seen by the Warden roster, and is held on the personnel file permanently.
+
+The clinical reasoning is sound and has never been seriously challenged. Workers with an inherited obligation respond to this holding differently and worse: of the five such cases known before the rule, three ended in early withdrawal from the wing and one in a medical finding. Nobody proposes going back.
+
+The cost is in who gets excluded and in what happens to the declaration afterwards. **Nine applicants have declared since the rule was made. Two were otherwise first choice for the posting.** SECTOR-C-01 is the usual route to a senior containment grade in this wing, so declining it is not a neutral event in a career; both have since been passed over, and the personnel officer's note records that she cannot show the two things are connected and cannot show they are not. The declarations themselves remain on file indefinitely and are visible to any future board with personnel-file access, which is a standing disclosure of a private family matter made as the price of being considered for one posting.
+
+The objection is minuted at every annual review and is raised by the personnel officer who administers the scheme. It holds that the facility now screens its own staff on the basis of their families' finances, which is information it has no other reason to hold; that the declaration should expire after the application is decided and does not, and no retention period has ever been set; and that a rule which protects people by excluding them should be paired with a transfer path that costs them nothing, and no such path has been built. The minute records the objection as **correct in all three parts**. It records that a retention period was drafted in the seventh year and has not been adopted. And it records the Directorate's reply in the words used: *we will keep the rule, because the alternative hurts people in the room; we accept that we are also hurting people outside it, and we are not going to pretend otherwise in the minute.*
+
 ## Trivia
 
-- The Inheritor's fists remain clenched even while asleep.
-- His anger softens when the injustice is named directly.
+- The fists stay closed in sleep; the hand position has never been recorded open in nine years.
+- Naming the injustice plainly, by somebody else, lowers the gauge faster than any other intervention on this holding.
 
 
 
@@ -409,9 +449,9 @@ The motion states are recorded as a single mark in a ruled column and the column
 
 - **Classification detail:** The Inheritor is a Subject with Fragment (III) — Resentful and angry coherence and Major (γ) — High danger as group entity potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-C-01, contained with the Debt Triplets.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify him by the closed hands and the heat; the pacing is the better indicator of state but tells you nothing about which Triplet you are looking at.
+- **Record detail:** Read this file beside the Debtor's, which is the other half of the same arrangement, and beside the instalment schedule, which is the only document in the holding that he reacts to.
+- **Containment detail:** Containment holds three chambers on a shared boundary. He hears through it and uses it, and the standing order against carrying word between the three exists because of what he does with what he hears.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-062
