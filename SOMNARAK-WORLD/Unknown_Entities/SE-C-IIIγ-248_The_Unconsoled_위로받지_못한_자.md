@@ -28,20 +28,20 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Emotional / grief pressure |
 | **Starting Sorrow Gauge** | 60–75% |
-| **Han-Energy yield** | 14–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 14–18 per cycle, with no recorded failure in four years — the steadiest return of any γ on the Zone B ledger. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | γ · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan, spoken rather than felt. The worker names their own oldest loss aloud and the Unconsoled weeps alongside it; the gauge falls while the sentence is being said and stops falling when the worker stops talking. Silent sympathy has never moved it. Pugnahan has never been attempted and the Old Lament standing order forbids it on structural grounds. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Unconsoled.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No cycle has ever lowered it below 58%, in four years of work, under every combination the Old Lament office has tried. The floor is treated as the entity's actual resting state rather than as a failure to reach zero.
+- It does not retaliate. The three gauge spikes on record all followed the same event — a worker offering comfort instead of grief — and in each case the spike resolved itself within the hour without intervention.
+- Yield is unusually steady for a γ: 14–18 every cycle, with no recorded failure to produce. The Directorate's energy office treats the Old Lament as baseload rather than as a work site, which is a description of the entity's nature as much as of its output.
+- Extraction from a load-bearing sorrow was argued over for two years before the first attempt. The Archive's objection — that removing any part of the foundation grief removes part of the foundation — was never answered, only overruled, and is minuted in the Old Lament file beside each of the three extractions.
 
 ## Combat Record
 ### Core Stat Line
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.6 m/s |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
+| **Resistance** | 45% against Lament. Nothing else has been tested: Pugnahan is forbidden here on structural grounds and the other figures in this row would be guesses. |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
@@ -80,21 +80,21 @@
 | { *The Open Wound* [**Debuff**] } | "It shows you its grief, laid open — and yours answers it." | [The Unconsoled bares its sorrow; the target's own grief stirs in sympathy.] | *Target suffers -10 Composure; the wound is mirrored.* **[10 Lament DMG [Lament]]** | When the target approaches. |
 | { *The Rejected Comfort* [**Debuff**] } | "You try to help — and it will not be helped. Nothing reaches it. Nothing ever will." | [Every offered comfort slides off; the target feels the futility.] | *Target loses 10 Composure; the helplessness is its own wound.* **[10 Lament DMG [Lament]]** | When the target attempts Flerehan. |
 | { *The Keening* [**Attack**] } | "It opens its mouth and the sound that comes out is the sound of grief that has no floor." | [A wail rises — pure, bottomless sorrow given voice.] | *Inflicts Lament pressure and one wound of heard anguish.* **[14-22 Lament DMG [Lament]]** | When the Unconsoled is moved. |
-| { *The Bottomless Grief* [**Attack**] } | "It shows you how deep the sorrow goes — and there is no bottom." | [The Unconsoled pours the full depth of its grief into the target.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Unconsoled is confronted. |
-| { *The Unending Weep* [**Ultimate**] } | "It weeps — and now everyone remembers a grief that will not be comforted." | [The Unconsoled extends its sorrow across the field, making all grief bottomless.] | *All in range suffer Lament pressure for three turns of unending weeping.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Bottomless Grief* [**Attack**] } | "Four thousand years arrive at once and none of it is yours, and you keep listening anyway." | [The whole of the founding grief is made legible to one person for as long as they can hold it.] | *24–36 Lament and a 15% Gauge surge, and the target afterward can date the city's first death to the day — a fact held by no surviving record.* **[24-36 Lament DMG [Lament]]** | When a worker refuses to share a grief of their own. |
+| { *The Unending Weep* [**Ultimate**] } | "The Old Lament's stone goes wet from the floor up, and every person in the district stops at the same moment." | [The ambient state it occupied for four thousand years briefly returns and the district is inside it again.] | *12–20 Lament per cycle for three cycles to everyone in the quarter, worker or civilian; the Alpha Tree's root gauges rise for the duration and fall afterward.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | On the Consolihan, annually and predictably, and otherwise only above 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the phantasmal manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share the grief aloud (Flerehan); it never empties, only lightens**.
+1. **Tension:** The worker decides, before entering, which of their own losses they are willing to say out loud, and tells the Warden which one. This is the whole of the preparation. A worker who cannot name one is not sent in, because the cycle has no other currency.
+2. **Clash:** There is no exchange. The worker sits at the same height as the entity — the Old Lament keeps a low stool for it — and speaks. The Unconsoled's weeping synchronises inside about forty seconds, and from then on the cycle is simply two people grieving, one of whom has been at it since before the city had walls.
+3. **Resolution:** The worker stops when they are finished, not when a figure is reached, and the Warden records the gauge afterward rather than watching it during. A cycle ended early on a reading has twice produced a worker who went back in without authorisation.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is The Unconsoled’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The Unconsoled executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- A worker who loses the thread here does not break down; they go quiet and stay. Two of the four recorded cases were found still seated on the stool at shift change, dry-eyed, unable to say how long they had been there and unwilling to leave.
+- Length of exposure matters less than frequency. The Old Lament caps workers at one cycle a fortnight, not because a long cycle is dangerous but because the fifth consecutive weekly cycle has twice produced a worker who began describing the founding settler's death in the first person.
+- The three extracted pieces all take the same price and the registry states it plainly: the bearer loses the ability to be comforted about one specific loss of their own, permanently and of the entity's choosing. Two bearers describe this as a relief. The Archive regards that as the most alarming line in the file.
+- An unresolved cycle produces nothing at all. The Unconsoled does not pursue, escalate or follow; it goes on weeping in the same posture and the gauge returns to its floor within a day. It is the only γ in the registry whose worst case is that nothing happens.
 
 ## Appearance
 **Primary Form:** A translucent elder, sexless with age, seated or slow-walking, face permanently wet, in the rough Han-woven robes of the earliest settlers.
@@ -108,7 +108,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A translucent elder, sexless with age, seated or slow-walking, face permanently wet, in the rough Han-woven robes of the earliest settlers.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Seated or barely drifting, always within the Old Lament, always facing the direction of the Alpha Tree's roots. The drift is measured in metres per year and has never reversed.
 - **Element signature:** Lament
 - **Registered location:** The Old Lament, Zone B; drifts toward the Alpha Tree's roots
 
@@ -119,7 +119,7 @@
 | **Form** | A translucent elder, sexless with age, face permanently wet, in the rough Han-woven robes of the earliest settlers. |
 | **Position / movement** | Seated or slow-walking the Old Lament toward the Alpha Tree's roots. |
 | **Material / signature** | Pale blue Han-crystal through which gold hope-light refracts unchanged; tears evaporate before touching the ground. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Settler's robes of a weave that has not been made for four thousand years, a face wet at all times, and no sound of any kind. The silence is the identifier: everything else in the Old Lament echoes. |
 | **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
 
 **Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as "strange" or "anomalous."
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. The Unconsoled is recorded as a Subject with Subject-Phantasmal manifestation and Lament elemental expression. The current record places it at The Old Lament, Zone B; drifts toward the Alpha Tree's roots; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table should be read with the floor in mind. This entity's gauge has a bottom at 58% that no work has ever passed, so a 'decrease' here means a movement of six to nine points inside a band that never empties. Workers coming from other assignments read that as failure and it is not; the Old Lament's measure of a good cycle is the number of consecutive days the gauge stays at the floor afterward, and the record is nineteen.
 
-**Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** Watch the synchronisation, not the needle. When the Unconsoled's weeping falls into time with the worker's speech the cycle is working, and that happens or it does not inside the first minute; nothing a worker has tried afterward has produced it late. When it does not happen, the correct action is to leave and re-roster, and the office considers an unsynchronised cycle a mismatch of the worker rather than a fault of the work. The one response that must be written up in full is sound — any sound at all from the entity would be the first in four thousand years.
 ## Breach Behavior
 
 > *"Unconsoled has broken free. Hunts personnel indiscriminately."*
@@ -154,16 +154,16 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|
 | **Breach Type** | Corrupt |
 | **Movement** | The Unconsoled intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Effect** | The quarter goes damp from the floor upward and every person in it stops walking at the same instant, including those indoors and those who cannot see the Old Lament. |
+| **Secondary Effect** | No sound. The silence deepens instead — ambient noise in the district drops by a measured 14 dB and stays down for the duration, which is the only physical reading this entity reliably produces. |
+| **First Target** | The oldest standing structure within reach, not a person. In both recorded expansions the damp reached the founding wall of the Old Lament before it reached anyone, and the wall is wet to this day. |
+| **Escalation** | It does not escalate. The affected radius grows by roughly eleven metres an hour, at a constant rate, and the pressure inside it stays exactly where it started — an expansion without intensification, which is why the Old Lament treats this as a flood-response rather than a containment breach. |
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Breach type:** Corrupt, in the narrow sense that the district reverts rather than warps — the quarter goes back to being what it was before the Hand of Hope opened. Nothing is damaged and nothing is changed; it is simply heavy again.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Begins at the floor and climbs about two points an hour to a ceiling near 80%, where it stops without intervention. Both expansions ended on their own, one after nine hours and one after thirty-one.
 
 ## M.A.W. Equipment
 
@@ -190,11 +190,11 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Ability:** Lets the wearer bear one other person's oldest grief alongside them, halving its weight for both.
 **Cost:** The wearer feels the weight of every grief they witness for a day after removal.
 
-*Stigmas are granted at random by The Unconsoled upon a successful work, not manufactured.*
+*All three issuances followed a cycle in which the worker named a loss the Old Lament office had not previously recorded, and none followed a repeat. The entity appears to be paying for new grief rather than for completed work.*
 
 ### M.A.W. Use Notes
 
-The extracted equipment reflects the same unresolved pressure as The Unconsoled. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Lament. Stigmas are granted at random by the entity upon a successful work, not manufactured.
+Three pieces have been extracted from the Unconsoled in four years and each required a separate overruling of the Archive's standing objection. The set does not make a bearer stronger; it makes a bearer unconsolable in one specific place, and in exchange nothing in that place can reach them. The Stigma is not granted at random here — all three issuances followed a cycle in which the worker named a loss the Old Lament office had not heard before.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 
@@ -202,12 +202,12 @@ The extracted equipment reflects the same unresolved pressure as The Unconsoled.
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Which loss of their own the bearer has named, and to whom. The Old Lament keeps the register sealed and consults it only to prevent a second bearer naming the same loss, which has been attempted once and refused. |
+| **During use** | Whether the bearer's own weeping has synchronised with the piece, the ambient sound level in decibels, and anything the bearer says about the founding settler without being asked. |
+| **At limit** | Whether the bearer still refers to their named loss in the first person. A shift to the third person is the documented end-point and is irreversible; the piece is recovered and the bearer is retired from Old Lament duty. |
+| **After use** | The consolation test at one week: the bearer is offered ordinary comfort about their named loss by someone they trust, and the response is recorded verbatim. All three bearers failed this test and all three had expected to. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The γ grade here describes how stably the foundation grief holds its shape once removed, which is very stably — none of the three pieces has degraded at all. It says nothing about the bearer, and the Old Lament file would rather it were graded on the bearer, which is a change the Armoury has declined four times.
 
 ## 관찰 기록 (Observation Log)
 
@@ -224,12 +224,12 @@ The extracted equipment reflects the same unresolved pressure as The Unconsoled.
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Unconsoled as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at The Old Lament, Zone B; drifts toward the Alpha Tree's roots. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity's recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In The Unconsoled's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer notes the ambient sound level on entering the quarter and again at the entity. The drop is consistent and measurable and arrives before the entity is visible; it is the only approach warning the Old Lament has. |
+| **Sustained observation** | Over a full cycle the observer logs the drift in centimetres and the bearing. It has moved roughly nine metres toward the Alpha Tree's roots since the file opened, never deviating by more than four degrees, and arriving at the roots is the one future event this file cannot model. |
+| **Activation or escalation** | The precursor is the stone. The Old Lament's founding wall darkens from the base upward between forty minutes and two hours before an expansion, and that is the only forewarning either recorded expansion gave. Photograph the wall at the start of every shift. |
+| **Post-contact review** | The review records the loss the worker named and how they slept afterward. The second question is in the form because of a civilian pattern the district noticed first: people who share a grief with it sleep better for about a month. The Old Lament has never found the mechanism and reports the effect anyway. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Measure sound and damp, and write down what was said. Nothing else about this entity has ever changed between one observation and the next — the posture, the robes, the weeping and the silence are the same in the first record as in the most recent.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -251,7 +251,7 @@ Reclassification proposed and denied: the grief cannot be filed under any existi
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Unconsoled; the other feeds it.
+> The Unconsoled's choice is not about courage. It is offered at the moment the worker realises nothing they say will help, and it is a choice about whether to keep speaking anyway.
 
 | Share your grief aloud. | Endure in silence. |
 |---|---|
@@ -262,32 +262,32 @@ Reclassification proposed and denied: the grief cannot be filed under any existi
 A pressure behind the eyes — the specific ache of a grief you thought you'd finished grieving. The air tastes of old stone and salt.
 
 
-**At first contact:** The first identifiable detail is a translucent, weeping elder in settler's robes. You hear your own oldest loss, spoken in a voice you cannot place. It is not cruel. It is honest.
+**At first contact:** The quarter goes quiet about thirty paces out, and the quiet is the first thing you meet. Then a seated elder in a weave nobody makes any more, half-light and half-flesh, with a face that has been wet for four thousand years. It does not look up. It has never once looked up.
 
-**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Lament has topography here — ridges of pressure, valleys of absence, a geography only the Subject-Phantasmal could have made.
+**With continued exposure:** You start wanting to fix it, and the wanting is the hazard. Every worker reports the impulse and the file states the finding plainly: comfort is the one input that raises this gauge. The work is to sit at the same height and grieve beside it without offering anything.
 
 **When the entity activates:** The Gauge crosses the line and the Subject-Phantasmal remembers what it is. The Lament surges — not as an attack but as a statement, a declaration that this sorrow will not be quieted.
 
-**After departure:** You leave, but the Lament follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** The smell of cold rain on old cloth stays with the coat. Workers report sleeping unusually well for about a month, the same effect the district's civilians have described for years, and nobody at the Old Lament has been able to decide whether that is a benefit or a symptom.
 
 ### Interaction Pattern
 
-The Unconsoled does not exist in isolation. Its recorded relationships with The Hand of Hope · The Guiding Light · The Orphaned Bell · The Dawn of Mourning should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+All four of the Unconsoled's recorded relationships are refusals of one kind or another: light that will not enter it, routes that go around it, a bell that matches it, and a judgement that was never passed. In none of the four does the Unconsoled act. It is acted upon, or it is navigated, and the entity's complete lack of outward effect is the most consistent finding in the file.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Measure what the other entity does, because the Unconsoled will do nothing. Record the light's path, the Bell's interval, the gauge of the other party, and the ambient sound level; the Unconsoled's own readings have been identical across every co-location on file.
 
 ### Entity Interaction Record
 
-The Unconsoled must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+These four relationships are the city's main evidence for a category the registry does not otherwise have: sorrow that is structural and cannot be transformed. The Hand's failure here is not a defeat of the Hand; it is the measurement that established the category, and the Archive's position is that the city stands because the measurement came out this way.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hand of Hope** | The Hand's light passes through it unchanged — the canonical proof some sorrow cannot be transformed. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Guiding Light** | The Light illuminates routes around it, never through it; it marks the Unconsoled as foundational terrain. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Orphaned Bell** | The Bell tolls in sympathy; both are ancient foundational Lament. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Dawn of Mourning** | In the historical branch the Dawn would have judged it guilty of holding the city back; the current cycle leaves it to weep. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Hand of Hope** | The Hand's light passes through it unchanged. | Nothing measurable, in either direction, across the full hour of the opening and every attempt since: no gauge movement, no change in damp, no change in the weeping. The light is visibly undiminished on the far side, which is how the transparency was confirmed. | The light's intensity entering and leaving, and the gauge at both. |
+| **The Guiding Light** | The Light routes around it and marks it as terrain. | The Old Lament's evacuation paths were redrawn from the Light's routing in Year 4,235 and have held since; it is the only case on record of a facility procedure being written by one entity about another. The Unconsoled's own readings did not change. | The routing as drawn, and whether it alters between visits. |
+| **The Orphaned Bell** | The Bell tolls in sympathy; both are ancient foundational Lament. | The only recorded occasion on which the quarter was not silent. The Bell's toll carried and the Unconsoled's weeping fell into its interval exactly, for eleven tolls, and the gauge dropped nine points — the largest single fall in the file and the only one not produced by a worker. | The toll interval, the number of tolls matched, and the gauge before and after. |
+| **The Dawn of Mourning** | A judgement that was never passed in this cycle. | No contact in the current cycle and none sought. The relationship is carried in the file because the Old Lament office holds that a judgement averted is an interaction, and because the branch in which it was not averted is the one the Archive cites when it objects to extraction. | Nothing to record. The entry is maintained as a standing note, not as an observation. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Put a sound meter at the founding wall and leave it running. The Bell result was found that way and would have been missed by any procedure that watched the entity instead of the quarter.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -330,14 +330,14 @@ Changwook understood, watching the translucent figure rise from the foundation a
 - Weeping is silent; witnesses hear their own oldest grief.
 - Gauge peaks on the Consolihan.
 **Cross-References:** The Hand of Hope · The Alpha Tree · The Weeping · The Orphaned Bell · the founding Hanaris family · the Consolihan · Zone B (Old Lament)
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** The Old Lament district office holds the file day to day; the Archive holds the standing objection to extraction; the SED surveys the drift bearing annually because of where it points.
 **Originator:** The city's foundational grief — the first settler's death; kept by the Hanaris (하나리스) founding line.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity's behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file documents an entity that has never attacked anyone, never pursued anyone, never made a sound, and never once been lowered below 58%. It is graded Major (γ) anyway, and the grade is honest: the risk is not what it does but where it sits and which direction it is going. Everything operational in this record is therefore secondary to one number, the drift bearing, and personnel should read it that way.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-survey the drift after every Consolihan and after every Sorrow Tide. Nine metres in four years is not an emergency and the Alpha Tree's roots are a long way off; the requirement exists so that the date is always current and so that no future office has to reconstruct the bearing from memory.
 ## Trivia
 
 - The only entity hope's light cannot warm — and the Archive argues that is why the city still stands.
@@ -348,11 +348,11 @@ Changwook understood, watching the translucent figure rise from the foundation a
 
 ### Registry Trivia
 
-- **Classification detail:** The Unconsoled is a Subject with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is The Old Lament, Zone B; drifts toward the Alpha Tree's roots.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Classification detail:** Graded Subject although it was ambient for four thousand years — Fragment (III), Major (γ). The registry's note is that it did not become an entity, it became visible, and that the grading dates from the Hand of Hope's opening rather than from anything the sorrow did.
+- **Field detail:** Lament, in the Old Lament quarter of Zone B, drifting roughly nine metres in four years on a bearing that has not varied by more than four degrees and points at the Alpha Tree's roots.
+- **Recognition detail:** The silence and the damp. Everything else in the Old Lament echoes and dries; this quarter does neither within thirty paces of the entity.
 - **Record detail:** Unknown Sorrow Entity registry, Entry 02 — the first residual (untransformable) sorrow catalogued.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** There is no containment and there is no proposal for one. The Old Lament is an open district with people living in it, and the Directorate's position — minuted and unpopular — is that the quarter was always like this and that the entity's visibility, not its presence, is the new thing.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-248
