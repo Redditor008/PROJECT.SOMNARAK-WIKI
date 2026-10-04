@@ -70,7 +70,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 917  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
+| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-917 |
 | **Resolution Condition** | The district opens its eyes. Mean elapsed time from sunrise, seventy-one minutes; range forty to a hundred and ten; twenty-nine episodes and no exceptions. Nothing has ever shortened one and the file lists what has been tried. |

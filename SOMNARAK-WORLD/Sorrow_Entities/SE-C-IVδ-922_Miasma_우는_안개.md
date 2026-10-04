@@ -70,7 +70,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 922  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
+| **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-922 |
 | **Resolution Condition** | The bank thins out of the run of its own accord and the spotter at the far junction says so. Nothing accelerates it. Of 527 logged arrivals, none has been shortened by any action taken, and the mean dwell of two minutes fifty seconds has not moved in seventeen years. |

@@ -70,7 +70,7 @@
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 929  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
+| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-929 |
 | **Resolution Condition** | The watch is sat to its end and the form is filed, blank or not. Containment here is a clerical act: there is nothing to subdue, and the two rooms taken in seventeen years were recovered by redrawing the boundary on the plan, not by any work performed in them. |

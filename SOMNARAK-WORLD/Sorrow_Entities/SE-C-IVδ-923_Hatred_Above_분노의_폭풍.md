@@ -70,7 +70,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 923  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
+| **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-923 |
 | **Resolution Condition** | The affected worker is at distance, has stopped shouting, and has not been answered. Separation resolves it in under two minutes in every one of the 63 incidents on file; nothing else has ever been required and nothing else has ever been tried twice. |

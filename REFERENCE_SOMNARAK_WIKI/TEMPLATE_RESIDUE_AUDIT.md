@@ -166,3 +166,93 @@ redaction — `███████`, `<name>` — never a field list and never
 
 Progress is reported as `clean / 303` under `R-16` and `R-20`, re-measured by `tpl.py` each
 time, never incremented by hand.
+
+---
+
+# Second measure: generic prose, by 8-gram sharing
+
+**Raised:** 2026-10-05 by the archive owner — *"make sure that a lot of text is not just copy &
+paste text … for real info … the Tale section is already fixed."*
+**Tool:** `/home/user/wikitools/sect.py`
+
+## Why a second measure was needed
+
+`tpl.py` and `boilerplate_report.py` both compare **whole lines**. A paragraph produced from a
+pattern and then given a different noun is not a repeated line, so neither tool can see it. The
+owner can. This measure compares **8-word shingles**: a shingle is *shared* when it occurs in ten
+or more dossiers, and a dossier's **generic fraction** is the share of its own shingles that are
+shared ones.
+
+## The benchmark is the Tale, and the owner was right about it
+
+The standard is not invented; it is taken from the part of the archive that is already finished.
+
+| Section | Score | Dossiers |
+|---|---|---|
+| `## 이야기 (Narratio)` — **The Tale** | **0.00** | 298 |
+| `## 증언 (Testimonium)` | **0.00** | 298 |
+| `## Origin` | 0.16 | 298 |
+| `## Apex Record` | 0.42 | 80 |
+| `## Watch Record` | 0.45 | 71 |
+| `## Warden Record` | 0.62 | 82 |
+| `## Trivia` | 0.80 | 298 |
+| `## Behavior` · `## Breach Behavior` | 0.88 | 298 / 185 |
+| `## 감각 묘사 (Flavor Text)` | 0.89 | 298 |
+| `## Appearance` | 0.90 | 298 |
+| `## 관찰 기록 (Observation Log)` | 0.93 | 298 |
+| `## 최종 관찰 (Final Observation)` | 0.96 | 298 |
+| `## 기록 (Registrum)` | 0.97 | 298 |
+| `## M.A.W. Equipment` · `## 이야기 보고 (Story Log)` | 0.99 | 298 |
+| `## Operational Parameters` · `## Combat Record` · `## Activation Behavior` · `## Expansion Behavior` | **1.00** | 302 / 302 / 87 / 45 |
+
+**Not one of the 298 Tale sections shares an eight-word run with ten other dossiers.** It is the
+only long-prose section in the archive that is wholly bespoke, and it is therefore the standard
+every other narrative section is measured against from here on.
+
+Two things in that table are uncomfortable and are recorded rather than smoothed:
+
+1. **`Operational Parameters` and `Combat Record` score 1.00** — every dossier in the archive.
+   Much of that is legitimate furniture (stat labels, the R.D. blockquotes, values forced by the
+   SECC code), but not all of it: the Combat Actions rows carry mad-libbed flavour text
+   (*"It begins as a whisper in the ‹element›."*, *"All at once, the pressure concentrates."*) and
+   the Battle Phases are three sentences with the manifestation word swapped.
+2. **The bespoke sections I wrote are not at 0.00 either** — `Warden Record` 0.62, `Watch Record`
+   0.45, `Apex Record` 0.42. They are original per entity, but they have acquired a house tic
+   (*"the file records that…"*, *"the archivist's note adds…"*). That is the same defect at a
+   smaller amplitude and it is mine, not the previous AI's.
+
+## Archive counter
+
+```
+dossiers                      303
+shared 8-grams (>= 10 files)  8492
+median generic fraction       0.155
+worst                         0.413   SE-N-IIIβ-200 Chain of Memories
+clean at <= 0.05               11 / 303
+```
+
+**Counter: 11 / 303 dossiers at the Tale standard (generic fraction ≤ 0.05).**
+
+The threshold is set at 0.05 because that is what the eleven already-bespoke dossiers achieve
+(0.012–0.046) with all their furniture intact. Zero is not reachable at file level and is not the
+target; the furniture is supposed to match.
+
+**The ten entities rewritten in batch 2 scored 0.103–0.129 afterwards, not ≤ 0.05.** Clearing
+`tpl.py` and `verify.py` to zero does *not* make a dossier bespoke. What survives in them is
+exactly the list above: Combat Actions flavour, Battle Phases, M.A.W. appearance and ability
+lines, Threat Assessment. That is the work this measure adds.
+
+## A generator artefact found by this pass
+
+Twenty-nine dossiers published an **unevaluated Python expression** in the Combat Record table:
+
+```
+| **Difficulty** | 910  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic",
+"III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("II", "2 — Basic") |
+```
+
+The difficulty word had been replaced by the entity's numeric suffix and the level lookup had
+never run. All 29 were repaired from each dossier's own `Work difficulty` row and coherence key —
+`| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |`. This is the clearest single
+piece of evidence for the owner's point: in those files the table was not wrong about the entity,
+it was *not about the entity at all*.

@@ -70,7 +70,7 @@
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | 927  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
+| **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-927 |
 | **Resolution Condition** | The sleeper wakes on their own and the cordon is lifted by the person who set it. Resolution is a timekeeping exercise — mean duration four hours eleven minutes, longest nine hours, none unresolved — and no work performed on a sleeper has ever altered the figure. |
