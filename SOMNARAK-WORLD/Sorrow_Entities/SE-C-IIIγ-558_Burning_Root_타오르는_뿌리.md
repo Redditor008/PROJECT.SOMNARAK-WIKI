@@ -272,8 +272,8 @@ The grief of mistaking inherited burden for identity.
 **Entry 4 — <Name It, Do Not Claim It>**
 Management: Name the burden without calling it selfhood. Work response — Flerehan: Flames lower and roots loosen. (Decrease); Pugnahan: Roots strike outward and heat increases. (Increase); Viderehan: Reveals the debt lines connecting the family. (Stable); Ferrehan: Tests whether the worker can imagine life without the burden. (Decrease). Personnel report longing for the burden after exposure ends.
 
-**Entry 5 — <The Citizen Who Fractured>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+**Entry 5 — <The Family That Never Missed>**
+Entry 5 is the family rather than the legend. Earlier copies carried the district's generic account of a citizen who Fractured, which does not describe anything that happened here: nobody in the originating household Fractured, nobody broke, and the record contains no crisis at all. What it contains is four generations of punctual payment. The entry now reproduces the third-generation ledger page, on which the same hand records a payment date, a child's birth and a funeral in one line without distinguishing between them, and the archivist's observation that this is the clearest statement of the originating sorrow anywhere in the file.
 
 ## 최종 관찰 (Final Observation)
 

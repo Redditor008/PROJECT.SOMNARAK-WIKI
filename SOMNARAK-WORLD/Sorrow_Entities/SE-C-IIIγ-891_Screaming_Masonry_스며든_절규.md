@@ -314,8 +314,8 @@ The pressure of promises and duties accumulating until the body could no longer 
 **Entry 4 — <The Obligations Behind the Cry>**
 Work response — Viderehan: Reveals the obligations behind the cry. (Stable); Ferrehan: Weighs the worker's resolve. (Decrease). It becomes heavier near debt disputes.
 
-**Entry 5 — <The Keeper Who Erased Memory>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+**Entry 5 — <The Keeper Who Transcribed>**
+Entry 5 closes the origin question rather than opening it. The Keeper assigned to the Old Lament survey in the holding's third year was not erasing anything; she was transcribing, and the transcript corpus begins with her. Her closing memorandum is reproduced here in place of the district legend earlier copies of this entry carried, because that legend concerned a Keeper who erased memories and this entity is the opposite case — nothing here has been forgotten by anybody. The memorandum finds that the district's silence is not an absence of grievance but a price its residents paid in order to go on sharing a stair, and that the facility should be extremely careful what it concludes from an empty register.
 
 ## 최종 관찰 (Final Observation)
 
