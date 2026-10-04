@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **288** |
-| Pending — no disposition-bearing line found by scan | 15 |
+| **Classified here, with a quoted line of evidence** | **289** |
+| Pending — no disposition-bearing line found by scan | 14 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 288 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 289 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 15 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 14 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -341,6 +341,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Frozen Mirror | `SE-O-Iα-643` | *"Eight years, 212 viewings, no injury to anyone who looked away inside four minutes."* The crackline that costs 24–36 Grudge opens on the viewer alone and nobody standing behind them is affected; the entity does not escalate, the viewer does. It releases nothing and assists no entity — the Frozen Veil, the Broken Mirror and the Wrath Flame all act on it and in eleven supervised sessions it has stayed a surface with nobody in it. The nine serious cycles on file all consist of a worker learning something true about themselves at the wrong speed. Harm falls on the person who looks. Neutral. |
 | Amnesia | `SE-O-IIβ-914` | *"Eleven years, 61 minutes, no injuries, no fatalities, no lasting memory loss in anybody who was inside."* Fixed at one epicentre and active for sixty seconds at a time; 57 of the 61 minutes passed with nobody inside the line and cost the facility nothing. It releases nothing, assists nothing and has no interaction record at all — the only thing it has ever done to the facility is grow, from 140 metres to 200, and 47 of those 60 metres were added on the four occasions a worker inside was told their own name. The whole hazard is borne by the people on the watch. Neutral. |
 | Fallow | `SE-O-Iα-554` | *"Eleven years, three injuries, all to surveyors who tried to lever the casing out."* Wind-driven and incapable of initiating: it has no record of reaching for a person who was not holding a tool, and its damage is to ground and to iron — 1,140 square metres blighted, an equipment ledger, a crate of 61 corroded stakes. Nine supervised encounters across three entities moved the corrosion rate by less than half a millimetre; the Spreading Root closes to two metres and gets nothing, and the Pandora's Jar pairing is closed. The one route to something worse — planting it in sorrow-rich ground — has never been performed and is prohibited, and both proposals to do it are filed under their authors' names. Neutral. |
+| Broken Ruin | `SE-O-IIIγ-559` | *"Nine years, two breaches that both ended in conversation, eleven strikes and no fatalities."* Both breaches consisted of the figure walking into the market, stopping in front of a trader and weeping; it did not resist being walked back either time. Ten supervised sessions across three holdings produced no settling and no transfer — the Memory Lake's own readings moved while this one's did not, so nothing was taken from here — and the one pairing with a plausible relief mechanism therefore failed. The recurring harm is to wardens who try to reconstruct the settlement, which is why the prohibition exists and why a positive finding goes to the briefing rather than to the worker's file. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
