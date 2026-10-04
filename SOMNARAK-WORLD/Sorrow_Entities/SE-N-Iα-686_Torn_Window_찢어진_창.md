@@ -29,20 +29,20 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per cycle, drawn in a tunnel the network stopped maintaining in Year 4,228. The energy office's note is that this is the only holding whose cycles require a works party to reopen the access first, and that the reopening costs more than the cycle returns. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Count the hands in the glass, say how many there are out loud, and walk the length that was shown. Viderehan does the counting; Ferrehan is the walk. Nobody touches the pane. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Torn Window.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A cycle lowers the gauge and the hand count never falls. It stood at 41 at first survey and stands at 41 now, after 118 cycles and nine years.
+- The count rises when somebody touches the pane. It has risen four times, by one hand each time, and the new hand matches the toucher's own in size and in which fingers are splayed.
+- Four workers have their hands in this window. All four are still serving. Two have asked to be shown which hand is theirs and both requests were refused by the Warden personally.
+- Two pieces, cut from the cracked edge rather than the pane, under a standing instruction that no extraction may touch a part of the glass that carries a hand. The ledger records which shards were rejected and why.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
+| **Resistance** | 15% against Grudge. The cracks have not closed or widened in nine years of calipered measurement; the one strike on record changed the count and not the glass. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 221/221 |
 | **Han Pressure [ATK]** | 2–8 per hit · Grudge |
@@ -72,7 +72,7 @@
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, deep tunnels |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | The length the window showed is walked end to end by two people and logged on the patrol sheet. 118 cycles, 118 walks; the sheet is the holding's containment and the tunnel office maintains it as a live document rather than an archive. |
 
 ### Combat Actions
 
@@ -81,21 +81,21 @@
 | { *The Broken View* [**Debuff**] } | "Through the torn window, you see something that is not there — and it sees you back." | [The Window's tear shows the target an impossible view; their perception warps.] | *Target suffers -10 Resilience; they cannot trust their eyes.* **[10 Grudge DMG [Grudge]]** | When the target looks through the Window. |
 | { *The Draft* [**Debuff**] } | "Cold air, and old anger, blow through the tear." | [The torn gap channels resentment; the target is buffeted by carried rage.] | *Target loses 10 Resilience; the anger in the draft is palpable.* **[10 Grudge DMG [Grudge]]** | When the target lingers near the gap. |
 | { *The Glass Tooth* [**Attack**] } | "A shard of the torn window juts out — and the window bites." | [A jagged fragment of broken window slashes.] | *Inflicts Grudge pressure and one sharp, cutting wound.* **[14-22 Grudge DMG [Grudge]]** | When the Window is touched. |
-| { *The Full Smash* [**Attack**] } | "The rest of the window gives way — and every shard is aimed inward." | [The Window explodes inward, shards flying.] | *A heavy Crimson volley; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Window is struck. |
-| { *Every Window Breaks* [**Ultimate**] } | "The tear spreads to every window in the building — and through every one, something watches." | [The Window's tear propagates across every opening.] | *All in range suffer Grudge pressure for three turns through the broken windows.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Smash* [**Attack**] } | "The pane comes in, and every shard lands palm-up." | [The glass fails inward and the fragments arrange themselves.] | *24–36 Grudge and a 15% Gauge surge to whoever struck it; the pane is whole again within the hour and the count is one higher.* **[24-36 Grudge DMG [Grudge]]** | When the window is struck. Once, in Year 4,230, and the shards were found in a layer one deep across the floor. |
+| { *Every Window Breaks* [**Ultimate**] } | "Every pane in the lower network shows hands, and all of them are pressing from the far side." | [The reflection propagates to every glass surface underground.] | *12–20 Grudge per cycle for three cycles to anybody who looks at one.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,233 Tide; the tunnel office counted hands on 61 separate panes and recorded no pane with more than 41. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Two workers reach the window by the maintained route, confirm the count against the last sheet, and agree which of them will walk the length and which will stay at the glass. Neither of them has a free hand; both carry the lamp and the sheet deliberately.
 2. **Clash:** There is nothing to fight. The team counts the hands in the pane, works Viderehan and Ferrehan only, and leaves the glass untouched unless the touch is logged with a name. Flerehan and Pugnahan are not merely invalid here; the two attempts on record each added a hand and neither removed one.
 3. **Resolution:** The cycle ends when the count is taken twice and agrees, the patrol sheet for the disused lengths is attached, and the relic is unmounted. There is no suppression step and none has ever been authorised, the entity having no breach counter and no recorded hostile act.
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Resilience** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- The failure here is a palm on the glass, and it is not despair; it is tiredness. All four were at the end of a shift, in a tunnel, next to a flat cool surface at hand height.
+- Past about twenty minutes the viewer begins to recognise the crews in the shown room. They do not know them. Six accounts describe greeting somebody.
+- The set's price is in the ledger and is unusual in being paid in paperwork: wielders file shifts they did not work, accurately, in good faith, and the tunnel office has had to reconcile three rosters against the patrol sheet to catch it.
+- An unwalked length does not escalate into anything. It simply stays on the sheet, uncrossed, and the next cycle's gauge opens higher — by four to six points, reliably, which is how the office knows the walk is the work.
 
 ## Appearance
 **Physical Form:** A cracked window of red-black crystal embedded in a tunnel wall. Its broken pane reflects hands rather than faces.
@@ -117,8 +117,8 @@
 |---|---|
 | **Form** | A cracked window of red-black crystal embedded in a tunnel wall. Its broken pane reflects hands rather than faces. |
 | **Position / movement** | Fixed in the tunnel wall at chest height; two removal attempts failed and the pane has never been relocated. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | A cracked pane of red-black crystal set in a tunnel wall, fever-cold, smelling of char. Record the number of hands, their arrangement, and the room shown; the reflection returns hands and has never returned a face. |
+| **Distinctive markers** | Forty-one hands, pressed from the far side, in the same positions in every photograph taken since Year 4,227. Four of them arrived later than the rest and the office knows which four. |
 | **Identification** | Match what you see to the file before you act; misidentification in containment is how Fractures begin, and the marker here is the reflection returning hands rather than a face. |
 
 **Appearance protocol:** Photograph the pane square-on at a fixed distance and count the hands against the previous plate; the count is the record and takes two people, because single counts have differed by as much as nine. Log the crack pattern, which has not altered, and the room visible beyond, by length number where it can be identified.
@@ -144,14 +144,14 @@
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Torn Window is recorded as an Object/Place with Object-Lament manifestation and Grudge elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Work Type table holds steady here and the patrol sheet does not. The gauge tracks one variable: whether the length shown at the last cycle was walked. Walked, it opens where it closed; unwalked, four to six points higher, every time across 118 cycles. The window is not asking to be looked at. It is asking for the tunnel to still be in use.
 
 **Reading the response:** A falling count means a disused length was walked and logged that week. Stability under Viderehan is correct and is the usual result. The count rises when a length is struck off the round, when an unlogged hand touches the glass, and it has never once risen during a viewing conducted properly.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This relic shows a shift that was worked by somebody else, and the viewer will file it as their own unless a second person ends the viewing**
 
 **Activation Trigger:** Touch or direct gaze.
 
@@ -170,7 +170,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Activation** | Touch or direct gaze. |
 | **Primary Effect** | Shows the room beyond as it stood when the length was last walked, people included. |
 | **Duration** | Until the viewer looks away, which in every recorded case required a second person. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
+| **Termination / Return** | A second person ends the viewing by saying the viewer's name and the current date. Nothing else has ever worked; the viewer cannot end it themselves and has never, in nine years, tried to. |
 | **Risk** | The viewer may file a shift they never worked; four have. |
 
 **Operational Rule:** The relic functions only while mounted on the bearer and cannot be carried out of the tunnel network; beyond the last worked length it shows nothing at all. It cannot replace the patrol round, and the holding's standing warning is that it was twice treated as a substitute for one.
@@ -179,14 +179,14 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Torn Window rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Torn Window activates its primary resonance: the room beyond as it stood when the length was last walked. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of seeing the same place through too many losses; the bearer begins perceiving the changeover at the old turn, crews going up and crews going down, none of them looking out. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Torn Window begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Torn Window too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer leaves the tunnel believing they worked the shift they were shown. |
+| 10 Seconds | The glass clears and the room beyond is the room as it stood on the last day the length was walked — lit, in use, with the crews in it. | +10% resistance to Grudge, and an accurate view of a working tunnel that has been sealed for seven years. |
+| 30 Seconds | The changeover at the old turn: crews going up, crews going down, nobody looking at the window. The bearer begins to track individuals through the crowd. | Speed and focus up, composure down. The second worker's instruction from here is to speak every two minutes, about anything. |
+| 1 Minute | The bearer starts answering people in the room. Quietly, in short phrases, in the manner of somebody on a shift. | 5 Grudge every 15 seconds. Nine viewings have reached this stage and all nine bearers later described the conversation as ordinary. |
+| 2 Minutes | The shown shift becomes the bearer's own and they will file it. | Acute panic on a forced end. Three filed shifts are on record, all internally consistent, all for a tunnel length that was sealed before the filer joined the service. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Torn Window: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation is measured in hands and in unwalked lengths. Record the count before and after, the room shown, whether that length is still on the maintained schedule, and the date of the last patrol through it. The fourth field is the one that predicts the next cycle; the others only describe this one.
 
 **Response sequence:** Count the hands, note the room beyond and whether it is one the facility still uses, clear anybody who has touched the glass without logging it, and attach the week's patrol sheet for the disused lengths. There is no perimeter to establish. Do not apply Flerehan or Pugnahan as improvised countermeasures; see the Behavior section for why.
 
@@ -220,15 +220,15 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Torn Window's grudge signature in the strike.
+**Ability:** Grudge against the Body, and the mark it leaves is a bruise in the shape of a palm — not the wielder's, and not the same one twice. Fourteen strikes, fourteen different hands.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Old injuries ache — specifically ones the wielder got at work, and in the order they got them.
 
 ### M.A.W. Suit — Torn Window Plate
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness with a panel of the cracked crystal set at the back, between the shoulders, where the wearer cannot look at it.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -238,15 +238,15 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Torn Window's kind of pressure.
+**Ability:** Resistance to Grudge against the Body. The crystal panel also shows, to anybody standing behind the wearer, the corridor as it was ten years ago — which the Armoury regards as a defect and has twice been asked to leave alone.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes dull, and the wearer stops turning round when somebody comes up behind them.
 
 ### M.A.W. Stigma — Torn Window Shard
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a shard-tile of Grudge Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a shard from the cracked edge, warm, with no hand on it — the ledger notes that eleven shards were rejected for carrying one.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -256,22 +256,22 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Cost:** The wearer feels every hand that ever touched it.
 
-*The stigma is not manufactured. It is given to a worker who walked a disused length that nobody had any reason to walk, and has never been given for anything done at the glass itself.*
+*Six Stigmas in nine years and every one of them went to a worker who had walked a disused length that nobody had any reason to walk. Not one has ever been given for anything done at the glass. The tunnel office treats this as the holding's clearest statement about itself.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Both pieces were cut from the cracked edge and neither carries a hand, which was a condition of the extraction rather than a matter of luck — eleven shards were taken up and put back. What they carry instead is the window's habit of showing a place in use. The wielder's cost is administrative and therefore slow to notice: they file work that was done by somebody else, in good faith, in detail, and the only check that catches it is the patrol sheet.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, hand count that day, and the wielder's own roster for the past month, copied and sealed. It is compared with what they file afterward. |
+| **During use** | Anything the wielder says to somebody who is not present, with the words. The second worker does not answer and does not interrupt. |
+| **At limit** | The wielder refers to a tunnel length in the present tense. Three rotations reached that point and all three were ended on the tense alone. |
+| **After use** | Compare what the wielder files against the sealed roster. Three discrepancies in nine years, all three for sealed lengths, none of them dishonest. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** An α-grade set with a filing-cabinet hazard. The output is negligible and the cost is a person who believes, correctly in every detail except one, that they worked a shift. Authorise on the roster comparison and not on the grade.
 
 ## 관찰 기록 (Observation Log)
 
@@ -289,10 +289,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Torn Window as an Object/Place with Object-Lament manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, deep tunnels. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or direct gaze. Effect: the room beyond as it stood when the length was last walked. Duration: until a second person ends the viewing. Risk: the borrowed shift is filed as the viewer's own. The relic functions only while mounted and only inside the worked network. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Torn Window's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The pair reaches the glass and counts. Identification is the reflection: hands, pressed flat from the far side, at every height a tired person would rest a palm, and no face anywhere in it including the observer's own. |
+| **Sustained observation** | Nine years of hand counts against the patrol sheet. Forty-one hands, four of them added by workers, and a gauge that answers to whether the lower network's disused lengths are being walked. Nothing else in the series has ever moved. |
+| **Activation or escalation** | Touch or a held gaze. The glass shows the room beyond as it stood on the last day the length was worked, and the viewing ends only when a second person says the viewer's name and the date. Record the duration, the room, who ended it, and whether the viewer afterward described the shift as theirs. |
+| **Post-contact review** | Hand count, room shown, length walked with both walkers' names, and the sheet signed. A report without the walk is returned unfiled; the office's position is that this holding is not observed, it is attended. |
 
 **Observation method:** Record the hand count on arrival, the room shown, whether that length is still on the round, who ended the viewing, and the patrol sheet for the week. The condition that ends the encounter is the second person's intervention. Do not read the entity's surface as a face; it has not shown one.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Torn Window (N-Iα-686 [N]) is logged as a Object-Lament manifestation expressing Grudge. The Window formed from a view destroyed by repeated hands and memories. Held at Zone B, deep tunnels. It reflects hands rather than faces.
+Torn Window is a cracked pane of red-black crystal set in a tunnel wall in the deep network of Zone B. It reflects hands and never a face: forty-one of them, pressed flat from the far side, four added by workers who rested a palm on it at the end of a shift. Looking into it shows the tunnel beyond as it was on the last day anybody worked it.
 
 **Entry 2 — <Patrol Return: Forty-One Lengths, Nine Struck Off>**
 Lengths on the lower network patrol round at the start of 4238: forty-one. Struck off during the year as having no operational purpose: nine. Walked and logged although struck off, under the standing instruction: thirty-one of the thirty-two disused lengths, in at least one week each. Hand count at the first inspection of the year: one thousand one hundred and eighty-two. At the last: one thousand one hundred and forty-one. It is the only year on record in which the count has gone down, and the length that was missed is the one the window looks into.
@@ -316,9 +316,9 @@ The lower network round is not reduced when a length goes out of service. Every 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Torn Window; the other feeds it.
+> The choice comes at the end of a long shift, at hand height, next to a flat cool surface.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Keep both hands on the lamp and the sheet, and walk the length. | Rest your palm on the glass for a moment. |
 |---|---|
 | Tests whether the worker can look without entering the memory. The sorrow is named; Torn Window is fully recorded. | Reveals the history of the room beyond it. The gauge climbs and Torn Window withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -329,32 +329,32 @@ The window is broken, but the view beyond it is perfect. A hand touches the glas
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A cracked window of red-black crystal embedded in a tunnel wall. Its broken pane reflects hands rather than faces. Notable Features: It remembers every person who touched it, shows rooms that no longer exist, and lets. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Object-Lament form.
+**At first contact:** A cracked pane set in the tunnel wall at chest height, red-black, cold, with forty-one hands pressed against the inside of it. They do not move. Your own reflection is not in it and never has been.
 
-**With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Grudge; it is this entity's Grudge — shaped by its origin, its wound, its particular grief.
+**With continued exposure:** The room beyond fills up. Lamps, crews, the changeover at the old turn, people going up past people going down, and not one of them looking at the window. After twenty minutes you start to know which of them is which.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or direct gaze. Effect: the room beyond as it stood when the length was last walked. Duration: until a second person ends the viewing. Risk: the borrowed shift is filed as the viewer's own. The relic functions only while mounted and only inside the worked network. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Nothing announces it. The glass is simply clear and the tunnel on the other side is lit and in use, and the only reason anybody knows a viewing has started is that the viewer has stopped talking.
 
-**After departure:** What remains after the door closes is not fear but weight — a Grudge aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** You walk the maintained route back and notice how much of the network you have never been down. Monitoring for Fracture is routine here and has never found anything; what workers report is an interest in the old lengths that outlasts the shift.
 
 ### Interaction Pattern
 
-Torn Window does not exist in isolation. Its recorded relationships with The Broken Mirror, The Whispering Walls, The Torn Trace should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all of them things that kept what people stopped coming back for, and all measured on the hand count. The count has never fallen in any pairing and has risen in none.
 
 **Interaction method:** Document it alone first, with the patrol sheets alongside, since those are the variable. In shared conditions log the hand count before and after, the room shown, and whether the other record returned any of it — the Broken Mirror shows the same pane with faces and no hands, which is the one result the holding has never been able to account for.
 
 
 ### Entity Interaction Record
 
-It is filed with the deep tunnel records. The relationships below are what the archive will support. They are not alliances; all three keep something that the people who made it stopped coming back for, and in proximity the hand count has never fallen.
+Eight supervised sessions across three holdings, all in the tunnel, all counted before and after. The table records what each party brought and what the glass did about it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Broken Mirror** | Shares fractured reflection. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Whispering Walls** | The Walls preserve the voices behind the glass. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Torn Trace** | Both carry broken continuity. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Broken Mirror** | A cracked reflective surface brought to another one; filed as a transfer pairing. | Three sessions. Nothing transferred, the count held at 41, and the Mirror returned the observers' faces while this window went on returning hands. Both wardens present recorded the contrast unprompted. | Hand count, and both surfaces photographed in the same frame. |
+| **The Whispering Walls** | Carry the voices of the crews whose hands are in the glass. | Three sessions, and the most productive pairing in the file: the Walls supplied eleven first names and two crew numbers, all of which matched the tunnel office's old rosters. The count did not change. | Every name transcribed and checked against the rosters; hand count before and after. |
+| **The Torn Trace** | Filed alongside it on the strength of broken continuity, which the office considers a shelving decision rather than a finding. | Two sessions, no change to either party at any distance. Retained so the pairing is not proposed again. | Hand count; the entry is closed. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, then bring the second party along the maintained route with the glass unattended by anybody. Count before, count after, and photograph. The count is the only number this holding gives and it has given the same one for nine years.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -386,24 +386,24 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 **Common Name:** Torn Window
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Minor, and correctly so. Nine years, 118 cycles, one strike, fourteen M.A.W. strikes, no fatalities, no injuries beyond bruising — and four workers whose hands are in a window and who were all simply tired at the time.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Count the hands, say the number, walk the length shown, sign the sheet. Nobody touches the pane.
 - Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Touch or a held gaze; only a second person saying the viewer's name and the date ends a viewing.
 **Observation Notes:**
-- See Origin section for formation and event details.
+- Four generations of tunnel crews resting a palm on a cool surface at the end of a shift.
 - See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- Two pieces from the cracked edge, eleven shards rejected for carrying a hand; wielders file other people's shifts.
+**Cross-References:** The Broken Mirror, The Whispering Walls (eleven names recovered), The Torn Trace (closed), the lower network patrol sheet, and the eleven rejected shards in the Armoury ledger.
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** Four generations of tunnel crews, unnamed, counted rather than listed. The hands in the pane are the only roll that exists and the archive has entered the count, not a list of names, in the originator field for that reason.
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The gauge answers to the patrol sheet and to nothing else, which makes this holding's containment a maintenance budget. Walk the disused lengths and it stays where it is; stop walking them and it opens four to six points higher every cycle, indefinitely, with no upper bound anybody has found. The six Stigmas all went to people who walked a tunnel nobody had a reason to walk. The window is not dangerous and it is not asking for much, and the tunnel office has twice had to defend the walking as work rather than sentiment — which is the harder argument, and the one that will eventually be lost by somebody reasonable.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any incident: hand count photographed and compared, the room shown, the length walked and by whom, and the patrol sheet signed. Two further items. Any new hand is measured against the hands of everyone who was present, and the match is recorded and not disclosed to the person it matches. And the walking schedule is re-costed annually and the result is reported to the Warden rather than to the works office, because the works office is where it would be cut.
 ## Trivia
 
 - It reflects touch history rather than identity.
@@ -414,10 +414,10 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 ### Registry Trivia
 
 - **Classification detail:** Torn Window is an Object/Place with Residue (I) coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone B, deep tunnels.
+- **Field detail:** Grudge, in the deep tunnels of Zone B, reached by a maintained route through a network most of which is no longer maintained.
 - **Recognition detail:** Identify it by the reflection, which returns hands and never a face, and by the cracks, which have not closed or widened in any record. The crystal is red-black, fever-cold, and passes no light in either direction; a lamp held against it is not visible from a metre away.
 - **Record detail:** Check the designation before approach. The archive holds other records about ground that stopped being used, and they differ on what is owed — the Homeless Sorrow concerns a room given to somebody else, while this concerns lengths of tunnel given to nobody, which is the harder case to fund and the only one this holding is about.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Nothing holds this window in and nothing needs to. It is a pane in a wall, in a tunnel that is itself the containment; the access was sealed in Year 4,228 and is reopened by a works party for every cycle, which is the single largest cost this holding carries and the one most often queried.
 ## Document Information
 
 **Document ID:** SE-N-Iα-686
