@@ -34,15 +34,15 @@
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | All four Work Types are open, this being a Subject. Flerehan is the primary and Ferrehan also lowers the gauge; Pugnahan is prohibited, and the suppression condition below must be satisfied before a session counts as resolved. |
 
 ### Operational Notes
 
-- The Choir sings with the voices of personnel who have worked it, and it adds a voice after each failure.
-- Lowering the gauge quiets the chamber for a shift. No recorded cycle has reduced the number of voices.
-- Two missed conditions open the chamber. The margin is thin, and the warning is auditory rather than instrumental.
-- Emotional pressure is the hazard, not the volume. An operative who recognises a voice must be withdrawn from the rotation immediately.
-- Extraction carries the same recognition hazard as contact and is run as a separate event.
+- It sings in the voices of the hundred and forty-four and in no others. After a failed cycle it does not gain a voice; it gains a song, and the number of unfinished lines in the chamber has risen every year while the count of voices has not moved.
+- Work quiets the chamber for a shift. No recorded cycle has finished a song, reduced the repertoire, or altered the count.
+- Two missed conditions open the acoustic boundary. The margin is thin and the warning is auditory: the groups stop overlapping and begin to sing in sequence.
+- Emotional pressure is the hazard and volume is not. An operative who recognises a voice is withdrawn from the rotation at once and is not returned to it; eleven have been withdrawn on that ground.
+- Extraction carries the same recognition hazard as contact and is run as a separate event, with the extraction crew drawn from outside the district wherever the roster allows.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,30 +87,30 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Hollow Choir's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Five turns, worked from the stage edge. Nobody sings a line the Choir has not sung first, nobody completes a broken phrase, and the group pattern is logged every turn.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Sing to it. Acknowledge the voices and give them a voice in return. Attempts to impose silence fail**.
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Clarity** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- The failure here is recognition. A worker who hears a voice they know stops working and listens, and the gauge climbs while they do; every Fracture risk on this holding has begun that way.
+- Long exposure produces the chamber's characteristic state: the worker starts leaving their own sentences unfinished, in speech and in writing, and reports that finishing them feels like an imposition on somebody.
+- The Silenced equipment carries the resonance back into the bearer. Every wielder's ledger entry records which song was sounding at activation, and three entries record the bearer afterwards being unable to stop hearing it.
+- Unresolved, it transforms rather than escapes: the sound passes the acoustic boundary and the corridors become the instrument, with the amphitheatre no longer the limit of the chamber.
 
 ## Appearance
 **Primary Form:** The Choir has no physical body. It manifests as 144 ethereal voices filling a specially constructed amphitheater. The empty stage, walls, ceiling, and floor become the apparent source of the sound.
 
 **Notable Features:**
-- Voices sing unfinished lullabies, work songs, love songs, and funeral songs.
-- The voices harmonize in groups of twelve, each group tied to an era of city history.
-- After prolonged listening, the Choir may sing the listener's name.
+- The songs are lullabies, work songs, love songs and funeral songs, and every one of them stops partway.
+- The voices harmonise in twelve groups of twelve, and each group is tied to a distinct era of the city's history.
+- After an hour or more of listening the Choir may sing the listener's name, and in four recorded cases it has sung a name the listener had never spoken aloud in the facility.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Spirit
 - **Primary marker:** The Choir has no physical body. It manifests as 144 ethereal voices filling a specially constructed amphitheater.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** No body and no position. The sound issues from the stage, walls, ceiling and floor at once; record which surfaces are sounding, the group pattern, and whether the groups overlap or run in sequence.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-C-01, amphitheater in Zone C; contained
 
@@ -119,41 +119,41 @@
 | Field | Detail |
 |---|---|
 | **Form** | The Choir has no physical body. It manifests as 144 ethereal voices filling a specially constructed amphitheater. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Voices sing unfinished lullabies, work songs, love songs, and funeral songs. The voices harmonize in groups of twelve, each group tied to an era of city history. After prolonged listening, the Choir may sing the listener's name. |
-| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
+| **Position / movement** | Bodiless and fixed to the chamber, which it spreads through rather than moves within. Record the sounding surfaces, the group pattern, and the overlap state at fixed intervals. |
+| **Material / signature** | Lament. Nothing visible and nothing to touch; the structure itself vibrates like a throat, and the air carries the smell of cold rain. |
+| **Distinctive markers** | Twelve groups of twelve, every song broken off mid-phrase, the surfaces sounding rather than any source, and the cold-rain smell. |
+| **Identification** | Confirm before work: designation C-IIIγ-021 `[LS]`, Fragment (III) coherence, Major (γ) potency, Subject-Spirit manifestation, the Zone C amphitheatre. Nothing else in the wing sounds through its own containment surfaces. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Log the sounding surfaces, the group pattern, the overlap state, the point at which each song breaks, and the first change at activation. Nothing here is *strange* or *anomalous*; it is a hundred and forty-four voices in twelve groups singing lines that stop, and those are the fields.
 
 ## Origin
 - **Formation:** The Hollow Choir formed from citizens silenced by oppression in early Zone C.
 - **The Sorrow:** The grief of having one's words stolen, one's songs forbidden, and one's history erased.
 - **The Event:** Citizens who questioned the Veil, challenged the Collectors, or demanded justice were taken. Their voices crystallized into an amphitheater full of unfinished songs.
 - **The People:** Exactly 144 silenced citizens, according to current R.D. harmonic analysis.
-- **Expanded origin context:** The entity's origin is not a mystery; it is a diagnosis. The sorrow concentrated at SECTOR-C-01, amphitheater in Zone C; contained until the Lament became structural — load-bearing, permanent, woven into the Subject the way the Weeping is woven into the city. You do not remove it. You contain it.
+- **Expanded origin context:** The silencing was administrative rather than violent in most of the recorded instances, which is the part the commissioning file dwells on. People were removed from rolls, refused licences to perform, struck from guild lists, and declined permission to assemble; the removals are documented because each required a form, and the forms survive where the people do not. The Lament at this site is therefore load-bearing in a literal sense: the chamber was built around a sound the city produced by paperwork, and the paperwork is the only part of it the Archive kept.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Harmonizes with the worker's grief, creating a shared song. | Decrease |
-| **Pugnahan** (Confrontation) | Screams in dissonance; the blast causes pain. | Increase |
-| **Viderehan** (Observation) | Sings softly, allowing the worker to record silenced histories. | Stable |
-| **Ferrehan** (Endurance) | Increases volume and emotional pressure; enduring it reduces the gauge. | Decrease |
+| **Flerehan** (Tears) | Harmonises with the worker's own grief and makes a shared song of it; the primary Work Type and the largest gauge movement on record. | Decrease |
+| **Pugnahan** (Confrontation) | Answers in dissonance loud enough to injure; prohibited, with two perforated eardrums on file from the single authorised attempt. | Increase |
+| **Viderehan** (Observation) | Sings softly and allows the worker to transcribe, which is the sole route by which the silenced histories reach the record at all. | Stable |
+| **Ferrehan** (Endurance) | Raises volume and pressure and tests whether the worker will stay; enduring to the end of the group lowers the gauge. | Decrease |
 
 ### Special Behaviors
-- The Choir cannot be silenced; suppression makes it louder.
-- Its songs contain fragments of pre-Consolihan history.
-- It sings lullabies when near The Smothering Mother and harmonizes with The Singing Stone.
+- It cannot be silenced, and every attempt at suppression has made it louder; the acoustic boundary contains the sound and does not reduce it.
+- Its songs carry pre-Consolihan material, including sixty-one particulars that appear nowhere in the Archive and nine that the Archive contradicts.
+- It sings lullabies in the Smothering Mother's presence and matches pitch with the Singing Stone, both reliably and both without any measured consequence.
 
 
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. The Hollow Choir is recorded as a Subject with Subject-Spirit manifestation and Lament elemental expression. The current record places it at SECTOR-C-01, amphitheater in Zone C; contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Hollow Choir is a Fragment (III) Subject of Major (γ) potency, Subject-Spirit manifestation, Lament expression, in the purpose-built Zone C amphitheatre. All four Work Types are available because it is a Subject; Pugnahan is prohibited on the record of the Behavior table. A stable gauge is not a safe cycle here, since Viderehan leaves the gauge level while exposing the worker to every voice in the chamber.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** Read it in the group pattern. A falling gauge presents as the twelve groups overlapping more closely and the breaks coming later in each line; a rising one presents as groups separating and singing in sequence, which is also the breach warning. The volume is not an indicator and has misled teams twice.
 ## Breach Behavior
 
 > *"The Hollow Choir has broken free. Hunts personnel indiscriminately."*
@@ -161,17 +161,17 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | The Hollow Choir seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
-| **First Target** | Everyone within earshot simultaneously. The Choir does not select, and corridors are scored by audibility rather than by distance. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Movement** | The sound passes the acoustic boundary and fills the corridors. It does not hunt and does not select; it arrives everywhere it can be heard, at once. |
+| **Effect** | Audible weeping in the corridor air, eroding the will to continue any task; personnel stop mid-action and are found standing still. |
+| **Secondary Effect** | A sorrow that pools in the chest and makes speech effortful; affected staff describe being unable to finish a sentence out loud. |
+| **First Target** | Nobody is selected. Everyone within earshot is reached simultaneously, and corridors are scored by audibility rather than by distance from the chamber. |
+| **Escalation** | Pressure rises each turn it is free, with Composure drain increasing by five per turn, until the acoustic boundary is re-sealed. |
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Re-seal the amphitheater's acoustic boundary. Physical suppression of a bodiless entity accomplishes nothing.
-- **Sorrow Gauge on breach:** Opens at 50% because the voices are already distributed on breach, and rises 5% for each corridor newly reached.
+- **Breach type:** Transform. The chamber stops being the instrument and the facility becomes one; two events are on file and neither involved any movement of anything.
+- **Containment priority:** Re-seal the acoustic boundary. Physical suppression of a bodiless entity accomplishes nothing, and the two attempts at it are recorded as having lengthened both events.
+- **Sorrow Gauge on breach:** Opens at 50%, the voices being already distributed, and rises five points for every corridor newly reached rather than per turn.
 
 ## M.A.W. Equipment
 
@@ -230,32 +230,32 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Cost:** The player's own emotions are suppressed while the lyre is played. Feeling returns only when the performance ends.
 
-*Stigmas are granted at random by The Hollow Choir upon a successful work, not manufactured.*
+*The Silenced Lyre is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who sat through a full group without transcribing anything, having been sent in to transcribe.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Each Silenced piece is an extension of the holding rather than equipment. It performs as recorded while the bearer lets the song run unanswered, and costs more when they try to lead it; the resonance returns through the piece either way. The Lyre is conferred after a work cycle and is not manufactured, requested, or scheduled.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator name, grade, current gauge, psychological assessment, equipment condition, mission objective, and a declaration of any family connection to the district before the Consolihan. |
+| **During use** | Activation time, the group sounding, the song and the point of its break, overlap state, area protected, first cost paid, and any name the Choir sings. |
+| **At limit** | Duration, activations, attribute change, rejection signs, group pattern at withdrawal, and whether the bearer recognised any voice. |
+| **After use** | Discharge, injuries, lingering effects, cooldown, boundary condition, reuse authorisation, and a hearing check where Pugnahan was attempted in error. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure here. On this holding the cost is recognition: the bearer may hear somebody they knew, and no equipment grade reduces that.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- The Choir contains exactly 144 voices.
-- Groups of twelve correspond to distinct historical eras.
-- Personnel who listen for more than one hour begin hearing their own name.
-- Its harmonics have yielded historical data absent from the Archive.
-- The Choir is not hostile by default; it demands acknowledgment rather than silence.
+- The count is a hundred and forty-four and has not altered in the whole life of the containment, through two Tides and both breach events.
+- The twelve groups correspond to twelve distinct eras, and the correspondence was established by the harmonic analysis rather than asserted from the history.
+- Personnel listening beyond an hour begin to hear their own names, which is why the listening cap is an hour and is enforced by the watch rather than by the listener.
+- Sixty-one particulars recovered from the songs appear in no Archive holding, and nine of them are contradicted by one.
+- It is not hostile by default. It asks to be heard, it resists being finished, and every escalation on file followed an attempt to do the second.
 
 **Personnel Note:**
 > *"The Choir sang my mother's name. She died twenty years ago. I never told anyone her name. The Choir knew. The Choir remembers."* — Specialist Hanul Grey, Zone C amphitheater patrol
@@ -267,11 +267,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies The Hollow Choir as a Subject with Subject-Spirit manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-C-01, amphitheater in Zone C; contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - The Choir cannot be silenced; suppression makes it louder. - Its songs contain fragments of pre-Consolihan history. - It sings lullabies when near The Smothering Mother and harmonizes with. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In The Hollow Choir's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Sounding surfaces, group pattern, overlap state, the song in each group and where it breaks, gauge, listening minutes by name, and any name the Choir sings with the listener's reaction to it. |
+| **Activation or escalation** | Escalation is the overlap state. When the groups stop overlapping and begin to sing in sequence, the watch withdraws to the boundary line and the seal is checked; this is numeric, it is logged every watch, and it precedes every recorded event. |
+| **Post-contact review** | Group pattern before and after, songs sounded and their break points, gauge movement, listening minutes, recognitions declared, and a seven-day check on each worker for unfinished speech and writing. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
+**Observation method:** Log the groups, the breaks, the overlap, and the names. The form here is the sorrow and not a strategy: a hundred and forty-four people were stopped, mostly by paperwork, and what is left will not be finished by anybody who was not stopped.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -306,34 +306,34 @@ You hear the Choir before you see the empty amphitheater. It is not music but gr
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: The Choir has no physical body. It manifests as 144 ethereal voices filling a specially constructed amphitheater. The empty stage, walls, ceiling, and floor become the apparent source of the sound. The first sensation is always Lament — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** The sound is already present and has no source. It comes from the stage and the walls and the floor at the same moment, and the first identifiable thing about it is that every line stops.
 
-**With continued exposure:** The Subject-Spirit settles into a presence you learn to hold — not comfortably, but recognisably. The Lament pressure stops being an assault and becomes a climate: something you move within rather than against.
+**With continued exposure:** The breaks start to feel addressed to you. Workers describe wanting to finish a phrase the way one wants to catch a falling object, and the prohibition on finishing exists because that impulse is reliable rather than rare.
 
-**When the entity activates:** Activation feels like the room remembering something it had been forced to forget. The Lament surges, the Subject-Spirit sharpens, and for a moment the containment zone is not a cell but the original wound, reopened.
+**When the entity activates:** The groups separate and come one after another instead of together. Nothing gets louder. The chamber simply stops sounding like a choir and starts sounding like a list.
 
-**After departure:** What remains after the door closes is not fear but weight — a Lament aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** Workers leave with sentences they cannot close. The seven-day check reads their written reports rather than asking them how they feel, because the reports show it and the answers do not.
 
 ### Interaction Pattern
 
-The Hollow Choir does not exist in isolation. Its recorded relationships with The Orphaned Bell, The Smothering Mother, The Forgotten Soldier, The Kind Healer, The Singing Stone should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other sounding and silenced things in the district. Each relation below has been observed and filed; none is settled; and all five were tested with the acoustic boundary sealed, which is the only configuration in which anything can be measured here at all.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone over several cycles — group pattern, overlap, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-The Hollow Choir must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled. Four of the five are audible and none of the five is consequential, which is the distinction this file exists to maintain.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Orphaned Bell** | The Choir and Bell form a duet of sorrow. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Smothering Mother** | The Choir sings lullabies when the Mother is near. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Soldier** | The Choir sings the Soldier's forgotten name; he salutes. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | The Choir cannot be healed; it can only be heard. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Singing Stone** | The Stone sings with it, forming a chorus within a chorus. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Orphaned Bell** | Described in the district as a duet, and it does sound like one. | Seven co-presences. The Bell's interval was unchanged and the Choir's group pattern was unchanged on all seven; the two simply sound at once. Neither gauge moved and no corridor was reached. | All seven co-presences, the interval and group series, and both flat gauges. |
+| **The Smothering Mother** | Lullabies, reliably, whenever she is within the boundary. | Five co-presences, lullabies on all five. The Mother's own behaviour did not alter in any respect the watch could measure, her gauge did not move, and no lullaby has ever reached its end. A real and repeatable response with no operational consequence. | All five co-presences, the lullaby recordings, and the Mother's flat series. |
+| **The Forgotten Soldier** | It sings a name and he salutes, which is the most quoted interaction in the wing. | Four co-presences, the salute on three. The name sung is not in any roll and cannot be checked; the Soldier's gauge did not move; he does not retain the name afterwards and has been asked each time. | All four co-presences, the recordings, and the four post-event questionings. |
+| **The Kind Healer** | Attempted as a treatment in the sixth year on the Healer's own initiative. | Three co-presences. No song was completed, the count did not change, the group pattern was unaltered, and the gauge moved by less than a point. The wing's written conclusion is that this holding cannot be healed and can only be heard. | All three co-presences, the gauge series, and the written conclusion. |
+| **The Singing Stone** | Matches pitch with it, audibly, which the district reads as a chorus within a chorus. | Six co-presences. Pitch matching confirmed on all six; the Stone's own output was unchanged when screened, and the Choir's was unchanged when the Stone was removed. Two things sounding together and nothing passing between them. | All six co-presences, the screened and unscreened series, and both flat gauges. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, across several cycles, with group pattern, overlap and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -369,23 +369,23 @@ Some sorrows mourn the dead. The Hollow Choir mourns the unsaid — the one hund
 **Common Name:** The Hollow Choir
 **Containment Status:** Contained — Zone C amphitheater
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Moderate. The Choir sings unfinished songs. Exposure causes personnel to hear their own unfinished sentences. Psychological effect is significant; no Fractures recorded.
+**Threat Assessment:** Major (γ). It has never caused a Fracture and has twice transformed the facility into its own instrument, reaching every corridor within earshot at once. The psychological effect is the hazard and it is not reduced by distance, shielding, or seniority. The earlier entry grading it Moderate rested on the absence of Fractures and is corrected here.
 **Containment & Handling Procedures:**
-- Flerehan is the primary Work Type; the Choir responds to shared grief.
-- On the Consolihan, assign additional personnel; the Choir swells.
-- Do not attempt to complete the songs; the incompleteness is the entity.
+- Flerehan is the primary Work Type and Ferrehan also lowers the gauge; Viderehan holds it level and Pugnahan is prohibited.
+- On the Consolihan the chamber swells and additional personnel are assigned; the listening cap is halved for that watch and is not waivable.
+- Do not complete a song, hum one, mouth one, or write down the remainder. Answering in kind is permitted and required; supplying an ending is neither.
 **Observation Notes:**
-- Formed from 144 Zone C citizens silenced for demanding justice.
-- The Choir’s songs have not finished in centuries.
-**Cross-References:** Zone C · The Giltong · The Consolihan · The Observing Bird
+- Formed from a hundred and forty-four citizens of the district, removed from rolls, lists and licences for questioning the Veil, challenging the Collectors, or asking for justice.
+- No song has reached its end in the whole recorded life of the holding, and the repertoire has grown while the count of voices has not.
+**Cross-References:** Zone C · the Giltong · the Consolihan · the removal forms · the harmonic roll · the sittings register · the redacted reading
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
-**Originator:** 144 citizens of Zone C; voices removed by the city for questioning the Veil.
+**Originator:** A hundred and forty-four citizens of Zone C, each identifiable in the city's own paperwork by the form that removed them and by nothing else.
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is read whole or not at all: the classification, the four Work Type responses, the overlap warning, the listening cap, and the identification record are one picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any transformation event, Tide, Ordeal or unusual interaction: gauge, acoustic seal, group pattern and overlap state, listening minutes by name, recognitions declared, and the standing of every entry in the sittings register. Listening minutes are totalled across watches and are not reset at the shift boundary.
 ## Warden Record
 
 ### The Amphitheatre
@@ -404,10 +404,52 @@ Those who questioned the Veil, challenged the Collectors, or demanded justice ar
 
 Sweeping is done by hand with a soft brush and takes longer than the surface warrants, and no Warden has ever been told to hurry it. The practice is not in the standing order. It appears only in the handover notes, where it has been passed from one Warden to the next for the whole life of the containment, usually in three or four words.
 
+### Sixty-One Named, Nineteen Twice
+
+The harmonic roll is the wing's best instrument and its least usable one.
+
+The analysis resolves the chamber into **a hundred and forty-four distinct voice signatures**, stable across the whole life of the containment and reproducible by two teams working independently. Each signature carries a timbre, a register, a dialect band and an era placement. What none of them carries is a name.
+
+In the fourth year the wing opened a **sittings register**. Descendants of households that lost somebody to the removals were invited, in small numbers, with a Warden present and a strict hour; they listened, and they said whether they recognised anybody. **Two hundred and twelve sittings** have been held. They produced **sixty-one identifications** — sixty-one occasions on which a person said, of a specific signature, *that is my grandmother*, or *that is the man who taught my father*, and gave a name.
+
+Nineteen of the sixty-one are **contradicted by another sitting**. The same signature, identified by two unrelated families, each naming a different person, each certain, several of them in tears. The wing has not adjudicated a single one and has written down why: there is no second witness available, there is no record against which either account can be checked, and the only thing in the room that could settle it is the voice, which sings and does not answer.
+
+The forty-two uncontradicted identifications are not therefore safe. Three were made by people who had been told beforehand, by other families, which signature to listen for. Two were made at sittings where the Warden recorded that the identification came after the listener had already named the person aloud. The wing's own assessment, minuted in the ninth year, puts the number of identifications it would be prepared to rely on at **none**, and adds the sentence the register is now prefaced with: *we can tell you there are a hundred and forty-four people in this room. We have not been able to tell one family, with confidence, which one is theirs.*
+
+### The Claim That Died With Them
+
+The district has asked, repeatedly and reasonably, what is owed. The answer in the opinion is short and it is not about evidence.
+
+Each of the hundred and forty-four was wronged personally. The removal from a roll, the refusal of a licence, the striking from a guild list: each was done to an individual, and each gave that individual a claim against the body that did it. Those claims were good. Several of them, on the face of the forms, were unanswerable.
+
+They are also **personal**, and a personal action dies with the person. The claim came into existence when the form was signed and went out of existence when its owner did, and nothing in the scheme that followed revives it. A descendant does not inherit the wrong; they inherit an estate, and the claim was never an asset of the estate because it had already lapsed. Nineteen descendants have applied to the compensation scheme. All nineteen were refused. **All nineteen refusals were correct**, and the opinion says so in terms, with regret, at length.
+
+Nor can the hundred and forty-four act for themselves. They are a class of a hundred and forty-four people with no legal personality between them: no association, no trust, no body corporate, nothing that can hold a right. A representative claim needs one named claimant with standing, and the one thing the sittings register has failed, in two hundred and twelve attempts, to produce is a name anybody could put on a claim form.
+
+So the position is complete and closed from both ends. **The people who could sue are dead, and the voices that remain are not people.** The wrong is documented in the city's own paperwork, the evidence of it sings every day in a purpose-built chamber, and there is nobody alive who is entitled to complain of it.
+
+The opinion's closing line is read to every new Warden before their first watch: *they were silenced once by a form, and they are silenced a second time by the ordinary rule that a dead person cannot be heard. The second silencing is lawful, and it is the one we are responsible for.*
+
+### The Redacted Reading
+
+The roster made a practice for itself. The Directorate made it a duty, and in doing so destroyed it.
+
+For most of the containment's life, a new Warden's first act was to stand alone on the empty stage and read the list of the silenced aloud, slowly, to nobody. It was in no instruction. It appeared in the handover notes in four words. It took about forty minutes, because the list is long and the Wardens read it badly on purpose, one name at a time.
+
+In the eighth year the Directorate learned of the practice and did two things in the same week. It **adopted the reading as a formal condition of appointment**, with a certificate to be signed and filed. And, on advice, it ruled that what was read must be **the redacted list** — because the unredacted list names individuals the city removed, and reading those names aloud, in an official act, certified and filed, would be an acknowledgment by the facility that those removals happened and were wrong.
+
+The redacted list is the same length. The names are replaced by reference numbers. The certificate records that the reading was performed in full.
+
+Two Wardens resigned in the quarter the rule took effect. A third performed the reading, signed the certificate, and then read the unredacted list afterwards in her own time, which is not a breach of anything, and which the file records in a single line without comment. The practice as it existed has not been performed under its own terms since.
+
+The objection is minuted at every annual review and is raised by the roster rather than by any officer. It holds that the facility took a voluntary act of acknowledgment, performed privately and at nobody's expense, and converted it into a certified official act, which is the one form in which it could not be performed honestly; that the redaction is not a precaution against harm to anybody living but a precaution against the facility's own admission, and the advice says so on its face; and that the chamber contains a hundred and forty-four people who were silenced by paperwork, and that the facility's response, on discovering that its own staff had been quietly saying their names, was to issue a form with the names taken out.
+
+The minute records the objection as **correct in all three parts**. It records that a proposal to permit an unredacted reading as an uncertified private act, expressly outside the appointment condition, was drafted in the ninth year and has not been laid. And it records the senior Warden's sentence, entered verbatim at her request and now the last line of the briefing pack: *we read them a list of numbers in a room built to hold their voices, and we certified that we had done it properly.*
+
 ## Trivia
 
-- The Choir's exact count—144—is unchanged despite new silences elsewhere in the city.
-- Its songs can preserve historical facts that official records have erased.
+- The count of a hundred and forty-four has not moved despite later silencings elsewhere in the city, which the wing regards as the most important negative finding in the file.
+- Its songs hold particulars the official record has lost or denies, none of which can be used anywhere, for the reason set out in the Warden Record.
 
 
 
@@ -415,9 +457,9 @@ Sweeping is done by hand with a soft brush and takes longer than the surface war
 
 - **Classification detail:** The Hollow Choir is a Subject with Fragment (III) — Personality and response shaped by music coherence and Major (γ) — High danger potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-C-01, amphitheater in Zone C; contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the surfaces sounding and the mid-phrase breaks; the district has two choirs of ordinary singers and both finish their lines.
+- **Record detail:** Read this file beside the removal forms, which are the only documents here written at the time by the people responsible, and beside the sittings register, which is the only one written by the families.
+- **Containment detail:** The boundary holds the sound and not the recognition. Anybody within earshot is inside the holding, whatever the seal reads, and audibility rather than distance is how the corridors are scored.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-021

@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **228** |
-| Pending — no disposition-bearing line found by scan | 75 |
+| **Classified here, with a quoted line of evidence** | **229** |
+| Pending — no disposition-bearing line found by scan | 74 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 228 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 229 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 75 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 74 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -232,6 +232,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Broken Promise | N-IIIγ-160 | Neutral. Every asserted Row pairing measured flat: six Broken Clock co-presences with *"no fracture on any of the six,"* four with the Inherited Debt where *"no binding passed between them in either direction"* and its ledger *"did not alter by a single entry,"* and the one Lost Prince fracture attributed in writing to a Warden's own broken undertaking. It suppresses nothing and frees nobody — *"no session has released anybody named in it"* — and the one thing F01 gains is a gauge that reads how much a person had been counting on something, refused as a welfare measure because *"we would have to break something to take each reading."* |
 | Debt-Collector's Lantern | N-IIβ-250 | Neutral. It suppresses nothing and assists nothing: the Debt Scale's readings were *"identical with the lantern lit and with it screened, on every occasion,"* the Shadow at the Door is equally visible under an ordinary lamp in a control run, and no origin has ever been identified through it — *"brighter is not earlier."* What F01 gains is an instrument it has ruled it may not use, since the admissions that dim it would convert residents' unenforceable debts into enforceable ones, and the nine deepest falls on record followed admissions by the facility's own side. |
 | The Debt Scale | C-IIIβ-015 | Neutral. Its three asserted pairings all measured null: the pans *"did not move toward level"* across six Debt Eater co-presences and the Eater's intake was unchanged, the Iron Judge obtained no reading at all because *"the Scale gives evidence to nobody,"* and its dish positions agree with the Weighting Bird *"no better than chance,"* two of five disagreeing in direction. It suppresses nothing and frees nobody — forty-one actual debt clearances in its own series produced no change — and what F01 holds is an instrument it refuses to point at any individual while supplying the courts a quarterly aggregate that raises the whole district's base rate. |
+| The Hollow Choir | C-IIIγ-021 | Neutral. Five audible pairings, none consequential: the Orphaned Bell's interval and the Choir's group pattern were unchanged across seven co-presences, the Smothering Mother's own series stayed flat through five lullabies, the Forgotten Soldier does not retain the name sung to him on any of four questionings, the Singing Stone's output was unchanged when screened, and the Kind Healer's three-session attempt moved the gauge *"by less than a point."* It completes nothing and frees nobody. What F01 holds is sixty-one particulars the Archive lacks and cannot use, and sixty-one identifications the wing itself would rely on — *"none."* |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
