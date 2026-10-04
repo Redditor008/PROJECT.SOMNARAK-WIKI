@@ -38,11 +38,11 @@ These say where the remaining damage sits and which file to open next. A fall in
 
 | Shared lines | Dossier |
 |---|---|
-| 1 | `SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md` |
-| 1 | `SE-C-IIIγ-044_Broken_Clock_부서진_시계.md` |
-| 1 | `SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md` |
-| 1 | `SE-C-IIIγ-373_Spreading_Well_스며든_우물.md` |
-| 1 | `SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md` |
+| 1 | `SE-C-IIIγ-448_Floating_Well_떠다니는_우물.md` |
+| 1 | `SE-C-IIIγ-891_Screaming_Masonry_스며든_절규.md` |
+| 1 | `SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md` |
+| 1 | `SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md` |
+| 1 | `SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md` |
 | 1 | `SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md` |
 
 Re-rank after every clean. Files drop down this list as global counts shift without being touched; that movement is spillover and is never counted against the fixed `N / 291` counter. The queue is never carried over from a previous turn without re-measuring.
