@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **175** |
-| Pending — no disposition-bearing line found by scan | 128 |
+| **Classified here, with a quoted line of evidence** | **176** |
+| Pending — no disposition-bearing line found by scan | 127 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 175 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 176 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 128 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 127 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -176,6 +176,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Tear Too Small to Honor | `SE-N-Iα-785` | Activation is touch, with the effect confined to the person holding it and ending when it is set down; it cannot pursue or spread, and it sits under a stone in a public memorial. The Frozen Tear approach cost it 0.2 mm and is prohibited from repetition, the Sorrow Flower is permanent proximity with no height cost, and the Weeping Statue merely weeps in corroboration. It aids no entity and costs F01 only scheduling attention. Neutral. |
 | Broken Whisper | `SE-O-IIIγ-369` | A drifting fractured object with no breach counter that has never injured anybody; its activation returns one message to the holder and ends when the message is understood or forgotten. The Hollow Choir pairing was terminated twice by the wing as a failure, Wall-returned fragments are quarantined as second-hand, and the Orphaned Bell resonance is refused as evidence. Its cost to F01 is contaminated recall in its own operators. Neutral. |
 | Protest No One Remembers | `SE-O-IIIγ-371` | Transform breach `First Target`: *"The nearest personnel or the one whose sorrow matches the entity origin."* — costly to F01 in Clarity drain, but it supplies no entity with anything: the Hollow Choir pairing is refused as a standing matter, the Silence We Forgot We Made approach only flattens its own radius, and the Whispering Walls transits produce statements the wing files as speculation while its own gauge rises. Neutral. |
+| Memory Rain | `SE-C-IIβ-250` | Periodic weather with no containment, no counter and no recorded Fracture; sixty-one falls have produced disorientation and weeping but no demonstrated harm, and it pursues nobody. The Memory Lake rises after a heavy fall without its period changing, the Singing Stone output never matches what workers reported, and the Gardens merely close crystal around what is left lying. It aids no entity and takes only watch time from F01. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |

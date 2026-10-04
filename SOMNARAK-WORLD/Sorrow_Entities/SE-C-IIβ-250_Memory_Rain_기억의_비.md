@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | β · β (Moderate) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Stand the fall under the clock, log the interval, collect nothing. |
 
 ### Operational Notes
 
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Memory Rain's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is no clash. The fall continues at its own rate, the team works beneath it under the time limit, and the only decisions available are how long to stay and whether anybody is to be called out early.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Collect drops carefully and provide identity anchors**.
 
 ### Consequences
@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
 - **Primary marker:** Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed above the Gardens and spreading rather than travelling; the droplets drift downward rather than dropping. Record the extent of the fall against the Garden paths, never a direction.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Echo Gardens — periodic
 
@@ -116,18 +116,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
+| **Position / movement** | Fixed above the Gardens; the fall spreads outward and the beads drift rather than drop. Extent is recorded against the paths and nothing is recorded as movement. |
+| **Material / signature** | Lament. Glassy beads the size of a tear, cool, faintly sweet like rain on old flowers, each holding a face or a voice or a strip of skin. |
+| **Distinctive markers** | A fall from a clear sky, and contents visible inside each bead. Nothing else in Zone D rains, and no other rain can be looked into. |
+| **Identification** | Confirm the designation, the manifestation and the clear sky before the watch is logged as a fall. Ordinary weather in the Gardens has twice been entered as a fall and both entries were withdrawn. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the fall and not the contents. Duration, intensity against the municipal gauge, extent across the Garden paths, the clarity of the sky above it, and the interval since the last fall. What is inside the beads is not recorded at all: the fragments belong to people the facility cannot identify, no method of preserving one has ever worked, and a description written from a dissolved drop is a stranger's life summarised by somebody who held it for a second and a half. Wardens are not asked what they saw and the form has no field for it.
 
 ## Origin
 - **Formation:** The Rain formed from memories too numerous for the city to hold.
 - **The Sorrow:** The weight of too many lives pressing upward until the sky had to release them.
 - **The Event:** The city's accumulated memories condensed above Zone D and began falling as crystalline rain.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Nobody. The commissioning material is demographic rather than personal — registers, density figures, raw counts for the period — and the archivist's note observes that the folder contains no individual story at all, which is correct, the entity having been made by a quantity rather than by a person.
 - **Expanded origin context:** The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a containment subject. It has become a teacher. A mirror. A reminder that behind every Sorrow Entity is a story — a story of loss, of grief, of the weight of being human in a city built on sorrow.
 
 ## Behavior
@@ -138,15 +138,15 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Each drop can be catalogued as a memory record. | Stable |
-| **Ferrehan** | The worker remains beneath the rain without losing identity. | Decrease |
+| **Viderehan** | The fall can be catalogued — rate, extent, duration — and the beads cannot. Nothing inside one has ever been written down on purpose. | Stable |
+| **Ferrehan** | The worker stands under it holding on to which life is theirs, for as long as the timekeeper allows and not a minute longer. | Decrease |
 
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Memory Rain is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at Zone D, Echo Gardens — periodic; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Memory Rain is an Object/Place with Place-Lament manifestation and Lament expression, held as periodic weather above the Echo Gardens rather than inside anything. Viderehan catalogues the fall; Ferrehan is standing under it without losing hold of whose life is whose. Neither alters the volume and neither has ever altered the period.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** Read it in the interval and nowhere else. A good cycle shows up weeks later as a longer gap before the next fall, which is the single measurable effect this holding produces; the volume when it comes is unchanged, and the Gardens are covered to the same depth as always. A worker who reports that the rain felt lighter has reported their own condition, and that is logged separately and taken seriously, but it is not a reading.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -176,7 +176,7 @@ The escalation pattern is specific to Memory Rain: it is not a generic breach ev
 | **Risk** | Moderate (β) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Collect drops carefully and provide identity anchors. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** clear sky confirmed → first beads observed → extent across the paths → duration and intensity → personnel called out → interval since the previous fall. Viderehan and Ferrehan only; there is nothing here to confront and nothing to weep with.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -231,11 +231,11 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Cost:** The bearer weeps in their sleep.
 
-*Stigmas are granted at random by Memory Rain upon a successful work, not manufactured.*
+*The Charm is not issued. It appears on a worker who has stood a full fall, and it has appeared eleven times in sixty-one falls, which is the only pattern anybody has found in this holding and is not a pattern anybody can use.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Each piece in this set is drawn from standing water under separate authorisation and holds what the fall left rather than anything taken from the entity, which cannot be approached because it is weather. The Umbrella sheds the beads without dissolving them, which is the nearest thing to preservation anybody has achieved and lasts about four seconds. The Charm arrives on its own terms. The cost is the same across the set and is paid in sleep.
 
 ### Field Use Record
 
@@ -252,11 +252,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- Rain intensity increases during the Sorrow Tide.
-- Drops become crystals after landing.
-- Heavy rain can overwhelm unanchored personnel.
+- Intensity rises through a Sorrow Tide while the interval does not move, which is the clearest evidence that volume and period are separate properties.
+- The beads crystallise where they land and persist a few hours, and the Gardens are left scattered with them until they go.
+- A heavy fall will carry an unanchored worker through a dozen lives at once; the sign is stillness rather than distress, and the call comes from outside.
 
-**Personnel Note:** *"The Rain was mourning. I felt loss. Every drop was a life, and the sky had run out of room to keep them."* — Specialist, Zone D patrol
+**Personnel Note:** *"Every drop was a life and the sky had run out of room to keep them. One landed on my wrist and I was somebody's mother for a second and a half. I have asked twice, in writing, to be allowed to stand a fall without the hood."* — Specialist, Zone D, Echo Gardens
 
 
 
@@ -264,12 +264,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Memory Rain as an Object/Place with Place-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Echo Gardens — periodic. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Memory Rain's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | A clear sky and beads drifting at head height. The first confirmation is visual and the second is the gauge; nothing announces a fall and the Gardens give no warning of one. |
+| **Sustained observation** | Duration, intensity, extent across the paths, and the time called from outside. Exposure here is limited by the clock and not by shelter, because shelter is not the point and never has been. |
+| **Activation or escalation** | Heavier fall than the unanchored can carry. The sign is a worker going quiet and still rather than distressed, and the call to withdraw is made by the person outside the fall, never by the person in it. |
+| **Post-contact review** | Interval logged, intensity logged, the hood checked, and the worker asked nothing about what they saw. Weeping afterwards is recorded as having occurred and is not investigated. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
+**Observation method:** Log the start of the fall, the intensity against the municipal gauge, the extent, and the interval since the last. The timekeeper stands outside the fall and calls the limit; the limit is not extendable by the person under it and the two wardens who asked are both named in the file at their own request. Nothing is asked about contents, and nothing offered is written down.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -280,7 +280,7 @@ Memory Rain (C-IIβ-250 [LP]) is logged as a Place-Lament manifestation expressi
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Drops become crystals after landing.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log, Year 4236>**
 The weight of too many lives pressing upward until the sky had to release them.
 
 **Entry 4 — <Containment Notice>**
@@ -316,20 +316,20 @@ A drop lands on your hand and becomes a child's laughter. Another becomes a sold
 
 Memory Rain does not exist in isolation. Its recorded relationships with The Memory Lake, The Singing Stone, The Echo Gardens should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone, which here means a run of falls rather than a session, since the only variable this holding moves is an interval measured in weeks. The relations on file concern memory in liquid and memory in stone, so the question to settle is whether the other presence changes the period or only the puddles. Log distance, duration, trigger, gauge on both sides, and what the standing water does afterwards.
 
 
 ### Entity Interaction Record
 
-Memory Rain must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Memory Rain sits among the Echo Gardens' other memory-bearing holdings and is the only one of them that arrives rather than waits. The relations below have been observed and filed; none is settled, and none has yet produced a change in the period, which is the only outcome that would matter.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Lake** | Rainwater flows toward the Lake. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Singing Stone** | The Stone sings memories carried by the drops. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Echo Gardens** | Flowers crystallize around collected fragments. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Memory Lake** | The standing water runs toward the Lake. | Measured across nine intervals. The Lake's level rises after a heavy fall and this holding's period does not change, which is the finding: the water goes somewhere and the entity does not notice. | Lake levels against fall intensity, and the interval series spanning both. |
+| **The Singing Stone** | The Stone sings what the beads were carrying. | Audible during four falls and after none. What it sings has never matched anything a worker reported, and the wing has declined to treat the Stone as a readout of this entity on that ground alone. | The Stone's own log, the fall times, and the explicit non-match stated as a finding. |
+| **The Echo Gardens** | The Gardens close crystal around whatever is left lying. | Permanent co-location rather than an arranged pairing. The gardeners sweep nothing and plant nothing where a fall has been heavy, by their own practice and not on any instruction from this wing. | The gardeners' seasonal logs, read into this file each year, and the untouched areas marked on the path plan. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record both parties across a full inter-fall interval, not within a single fall. Log the first shared change with its distance and duration, the gauge on each side, what happens to the standing water, and whether the next fall came early or late. The field this holding adds is the interval, and it is the only field anybody checks twice.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -381,9 +381,9 @@ Some sorrows are held inside. Memory Rain is what the city looks like when it ca
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This is weather and the file is a weather log with a conscience. There is no containment, no seal, no counter and nothing to approach; the entity arrives over the Gardens, falls for as long as it falls, and leaves small memories lying about until they go. What the document is actually for is the handling of what the fall does to people, and on that it is specific: nothing is collected, nothing is examined, nothing is asked, and the single container of material that was gathered before the rule existed stays sealed in the inventory with that note against it. Where the entity does something this file does not describe, write it down and leave the contradiction standing.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every fall: interval, duration, intensity, extent, personnel present, and the time each of them was called out. Three further items apply here. The sealed container is confirmed present and unopened at each inventory, by two people, and the confirmation is the whole of the inspection. Any request to stand a fall unhooded is logged with its refusal attached, both kept unredacted at the requester's wish. And the weeping reported after a fall is counted but never followed up, because following it up would mean asking what the worker saw.
 ## Watch Record
 
 ### Rain From a Clear Sky
@@ -402,10 +402,38 @@ After a fall, the Gardens are scattered with small memories that persist for som
 
 The city accumulated more memory than it could carry and the excess condensed above Zone D, and the commissioning material is demographic rather than personal — the registers, the density figures, the sheer counts for the period. The archivist's note observes that the folder contains no individual story at all and that this is correct, the entity having been made by a quantity rather than by a person.
 
+### What the Interval Measures
+
+The fall cannot be stopped, shortened, lightened or moved. The one number that answers to anything the facility does is the gap between falls.
+
+**Sixty-one falls on record. Mean interval twenty-three days; shortest four; longest seventy-one.** A completed cycle pushes the next fall back by about six days on average, and does nothing else: the volume is unchanged, the extent across the paths is unchanged, and the depth of beads left on the Gardens afterwards is the same as it has always been.
+
+Intensity rises during a Sorrow Tide and the interval does not move, which is how the wing knows the two properties are separate. Eleven of the sixty-one falls produced a Charm on a worker who stood the whole of it, and nobody has found anything those eleven have in common.
+
+### An Entitlement Needs a Demonstrated Harm
+
+The facility's safety schedule grants recovery time, screening and hazard banding against hazards with a demonstrated mechanism of harm. No demonstration, no entitlement.
+
+That rule is correct and the file will not undermine it. Entitlements granted on impression multiply without limit, every holding believes its own exposure is the worst in the wing, and the ones who lose are the people with a measurable injury who find the budget already spent. The medical office applies the rule properly and has never been accused of anything else.
+
+Nothing has ever been demonstrated here. Workers come out of a fall disoriented, and roughly **one in four weeps afterwards without being able to say why**; the examinations are clean, every time, across sixty-one falls. The hoods are issued to stop people catching beads, not to prevent an injury, and the file says so in the equipment note rather than letting the issue imply a hazard that has never been shown.
+
+So a warden who stands a fall has, formally, not been exposed to anything. There is no recovery allocation, no banding, no entry on the file, and the disorientation is their own time. The medical office's position — no finding — is accurate. The wardens' accounts are also accurate. Both are in the folder, one after the other, and the file declines to say which is the record.
+
+### The Short Shift and the Letters
+
+What a wing may set is the length of its own shifts, and that is the whole of the remedy here.
+
+A fall watch is counted as a full shift whatever its length. Wardens go home when the fall is over and the clock has been called, without claiming anything, without a form, and without the word *recovery* appearing anywhere. It is not an entitlement, nobody can appeal for it, and a different commander could end it on a Tuesday.
+
+The safety office's objection is standing and correct. A wing rostering around a hazard that has never been demonstrated is creating an entitlement by practice, outside the schedule, on no evidence — and the next wing to do it will have worse evidence and the same precedent. The minute reads **correct, and the practice continues**.
+
+The other thing in this file that the wing cannot grant sits in the same folder. Workers who have caught a fragment ask to stand a fall unhooded and try again. **Nine such requests in writing**, all refused, each refusal kept clipped to the request it answers, unredacted, because every one of the nine asked that it be. The refusal letter is three sentences long and the third is the only one that matters: nothing caught has ever been preserved, nothing preserved could be returned to whoever it belonged to, and the facility will not let a worker take a stranger's life into their head on purpose for a result it already knows.
+
 ## Trivia
 
-- The drops are warm despite forming in the sky.
-- Collected memories must be returned to the Archive.
+- The beads are cool rather than cold and smell faintly of rain on old flowers, which is the detail every account mentions and no instrument registers.
+- Nothing collected goes to the Archive. One container was gathered before the rule existed, has never been opened, and is listed in the inventory with that note against it.
 
 
 
@@ -413,9 +441,9 @@ The city accumulated more memory than it could carry and the excess condensed ab
 
 - **Classification detail:** Memory Rain is an Object/Place with Echo (II) — Repeats falling coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone D, Echo Gardens — periodic.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the clear sky and by the contents of the beads. The Gardens hold several memory-bearing records; this is the one that comes down out of nothing and is gone in an hour.
+- **Record detail:** Check the designation before a fall is logged. The Memory Lake and the Memory Well are separate holdings under separate management, and all three have been cited in the same requisition at least once.
+- **Containment detail:** There is no containment and the file does not pretend otherwise. The holding is a gauge, a timekeeper, a hood store and a list of dates. What crosses no boundary, because there is no boundary, is the fall itself; what leaves the Gardens is whatever each worker carries out in their head, and that is not recoverable by anybody, including them.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-250
