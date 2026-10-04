@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **265** |
-| Pending — no disposition-bearing line found by scan | 38 |
+| **Classified here, with a quoted line of evidence** | **266** |
+| Pending — no disposition-bearing line found by scan | 37 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 265 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 266 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 38 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 37 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -320,6 +320,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Unwaking Block | N-IIIγ-908 | Neutral, and custodial rather than hostile. No cross-entity record exists and it has no reach beyond its own walls: its breach First Target is *"A doorway, not a person"*, and the one annexation on file was recorded by the mapping party before anybody was affected. In seventeen years *"not one of the 212 has stirred, and no action taken inside the block … has produced any change in any sleeper"* — no harm to them and no benefit either. It suppresses no entity and assists none. The cost to F01 is a timed survey party and a plan series; the sleepers are nursed by the district, not the facility. |
 | Dawn That Forgot | N-IIIγ-917 | Neutral. No cross-entity record and no mechanism for one; the holding has a schedule rather than a reach. Its breach First Target is *"Whoever sleeps nearest the boundary — geographically, not emotionally"*, and the three widenings took the next street out in order, with no regard to who lived there. Nobody has been injured and nobody has ever been woken early: *"Noise, light, physical contact by district staff, and three separate medical approaches are listed in the folder with their results, and all of the results are the same."* It suppresses nothing and assists nothing. Its cost to F01 is a perimeter watch and a cumulative exposure total held by the infirmary, which gives the facility a judgment and no figures. |
 | Allhallow | O-IIIγ-916 | Neutral. Thirty-four occurrences, no contact, no injury, no interaction attempted or achieved: *"The walkers do not speak, do not stop, and do not acknowledge obstacles, personnel, light, or sound."* Its breach First Target is *"Nobody, and the record is explicit about it"* — no walker has ever changed course toward a person, and four obstacles left in the path were passed through and left undisturbed. No cross-entity record exists. It suppresses nothing and assists nothing; the whole cost to F01 is two posts, two independent tallies per hour and a marked line nobody crosses, and the whole yield is thirty-four pairs of counts that disagree and are filed unaveraged. |
+| The Unbroken Pledge | `SE-N-IIIβ-1056` | Neutral, and deliberately so — this is the closest a Neutral entity comes to the Positive line without crossing it. Level 3 telemetry: *"When an operative bearing the entity is deployed alongside younger scouts, the cord temporarily expands its perimeter, providing defensive warding against surprise ambushes so long as the bearer leads from the front line."* Level 2 adds that honourable conduct raises the host’s Posture recovery by 15 percent. Every one of those effects lands on the **worker**, not on another entity and not on containment, and `R-19.2` is explicit that effect on the worker is ordinary hazard or ordinary benefit and does not move the class. The cord suppresses nothing, calms nothing, and lowers no work difficulty outside its own host. Conditional benefit recorded under `R-19.4`; class unchanged. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
