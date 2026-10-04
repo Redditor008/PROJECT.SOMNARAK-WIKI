@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **285** |
-| Pending — no disposition-bearing line found by scan | 18 |
+| **Classified here, with a quoted line of evidence** | **286** |
+| Pending — no disposition-bearing line found by scan | 17 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 285 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 286 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 18 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 17 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -338,6 +338,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Vellum Man | `SE-C-Iα-900` | *"Nineteen years, no injuries, two breaches that ended by themselves."* The whole hazard is the transcriber who stays past thirty minutes and comes away with a memory that is not theirs — eleven stand-downs, six withdrawn submissions, no permanent harm. Both breaches consisted of the figure standing beside the desk of the person holding an open tale and then walking back to SECTOR-C-900 unaccompanied; it assisted no entity, opened nothing, and has no interaction record. Harm and benefit both fall on the worker in the chair. Neutral. |
 | Errant | `SE-O-Iα-631` | *"In nine years and across eleven supervised pairings the root has never once reached for another entity, only for people."* The Spreading Tree and Banyan both offer it ground and neither pairing moved the fade line; the Empty Mask pairing is closed as a cataloguing resemblance. Both breaches went downward and ended with the entity motionless in an unoccupied storage room — it does not roam or pursue, and teams are told to wait at the lowest level rather than track it. Nineteen strikes, no fatalities, no lasting injuries; the only serious damage on record is a floor section the wing broke itself in Year 4,233 by walking the holding toward an old address. Harm falls on the worker in the room, who is reached for because they are the newest person there. Neutral. |
 | Tower Erased Overnight | `SE-O-IIβ-677` | *"Eleven years, three activations, eleven strikes, no fatalities, no permanent injuries, and no incident of any kind involving a person who stayed on the street."* Stationary and inert outside its own footprint; every activation followed somebody placing a surveyor's peg inside it, and the peg was each time recovered undamaged on the street. Its three relations all act on it — the Whispering Walls and the Burning Library supplied material for the memorial list, the volume never moved for any of them — which under R-19 directionality does not move the class, and the Pandora's Jar pairing is closed as thematic. The standing cost is the four refused development proposals, which falls on a civilian district's planning process and is outside the class under R-19.2. Neutral. |
+| Frozen Mirror | `SE-O-Iα-643` | *"Eight years, 212 viewings, no injury to anyone who looked away inside four minutes."* The crackline that costs 24–36 Grudge opens on the viewer alone and nobody standing behind them is affected; the entity does not escalate, the viewer does. It releases nothing and assists no entity — the Frozen Veil, the Broken Mirror and the Wrath Flame all act on it and in eleven supervised sessions it has stayed a surface with nobody in it. The nine serious cycles on file all consist of a worker learning something true about themselves at the wrong speed. Harm falls on the person who looks. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
