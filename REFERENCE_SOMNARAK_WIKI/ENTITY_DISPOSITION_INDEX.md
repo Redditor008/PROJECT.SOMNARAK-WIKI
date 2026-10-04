@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **255** |
-| Pending — no disposition-bearing line found by scan | 48 |
+| **Classified here, with a quoted line of evidence** | **256** |
+| Pending — no disposition-bearing line found by scan | 47 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 255 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 256 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 48 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 47 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -259,6 +259,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Blackened Angel | C-IVγ-946 | Neutral. Three interaction rows, all resonances and none suppressive: the Crumbling Saint gives *"a long mutual stillness"*, the Calling Bloom *"a sorrowful resonance; both gauges dip"*, the Kind Echo *"the rarest calm on record"* — and the file states that *"no pairing on this file has ever produced suppression in either direction."* It is *"Fixed — the statue does not move from its alcove"*, grants nothing unasked, and its one measurable output reads the facility's own officers rather than any entity. |
 | Déjà Vu | C-IVδ-125 | Neutral. No cross-entity pairing is recorded and the file gives it no means of producing one: it has *"no body, no reach beyond perception and no capacity to compel"*, and *"there is nothing in the chamber."* Its breach dissolves identity across a volume but reaches only people — *"nobody inside it is frightened, nobody inside it wants to leave."* It suppresses no entity and frees none. What F01 gets from it is accurate advance information its own protocol keeps sealed until after the session. |
 | Rising Wall | C-IVδ-255 | Neutral. No cross-entity pairing is recorded and the file gives it no mechanism for one: it *"does not strike, does not pursue a person as such, and has injured nobody"*, has *"no barrier, there has never been one"*, and its only reach is an enclosure formed around a grieving worker. It suppresses no entity and frees none. Its one genuine yield to F01 is an engineering dataset the facility uses to dig by and has formally certified as unsafe for a tribunal. |
+| Breathing Stone | C-IVδ-907 | Neutral. No cross-entity pairing is recorded and it has no means of producing one: it is a fixed span of wall that *"does not move"*, whose expansion *"has never crossed a doorway and has never reached the floor"*, and which has *"never done anything to anybody."* It suppresses no entity and frees none. Its only measurable effect on F01 is four minutes of sleep latency per passage across six hundred staff, which the facility has absorbed into the floor's productivity baseline. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
