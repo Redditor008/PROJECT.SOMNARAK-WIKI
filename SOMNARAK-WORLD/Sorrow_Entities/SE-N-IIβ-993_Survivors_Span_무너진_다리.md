@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan, worked by two people rather than one. The gauge falls when the burden is visibly divided and does not fall when it is merely witnessed — a single worker weeping alone has never moved it more than three points. Open with the names and keep the list in hand; the Span has corrected a misread name twice. |
 
 ### Operational Notes
 
@@ -81,21 +81,21 @@
 | { *The Sagging Span* [**Debuff**] } | "The bridge groans — lower than it should be, bowing under a weight no one can see." | [The Bridge sags; the target feels the invisible burden pressing.] | *Target suffers -10 Resolve; the weight is transmitted through the structure.* **[10 Weight DMG [Weight]]** | When the target steps onto the Bridge. |
 | { *The Crumbling Edge* [**Debuff**] } | "The railings are gone — crumbled — and the edge keeps getting closer." | [The Bridge's edges fail; the safe walking surface narrows.] | *Target loses 10 Resolve; the gap between safe and falling shrinks.* **[10 Weight DMG [Weight]]** | When the target crosses. |
 | { *The Falling Section* [**Attack**] } | "A whole span drops away — and you drop with it." | [A section of Bridge collapses under the target.] | *Inflicts Weight pressure and one wound of sudden, structural failure.* **[14-22 Weight DMG [Weight]]** | When the Bridge is overloaded. |
-| { *The Full Collapse* [**Attack**] } | "The entire bridge comes down — cables, pylons, road — all of it, at once." | [The Bridge fails completely in a catastrophic collapse.] | *A heavy Black avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Bridge is struck. |
-| { *Every Bridge Falls* [**Ultimate**] } | "The collapse spreads — every crossing, every span, every connection — all of it falling." | [The Bridge's failure propagates to every structure in the field.] | *All personnel suffer Weight pressure for three turns of universal collapse.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Collapse* [**Attack**] } | "The span on its shoulders lets go, and for four seconds the tunnel is the Low Crossing at the moment it went." | [The carried wreck is dropped — the only time the entity is ever without it.] | *24–36 Weight to everyone under the fall and a 15% Gauge surge; the Span is unburdened for one cycle and spends that cycle searching for the wreck rather than attacking.* **[24-36 Weight DMG [Weight]]** | When struck hard enough to stagger it, which Pugnahan reliably does and nothing else has. |
+| { *Every Bridge Falls* [**Ultimate**] } | "It says the thirty-one names, and it says yours in the middle of them, in the same tone." | [The roll of the lost is read aloud and the living in the room are entered into it.] | *12–20 Weight per cycle for three cycles to anyone named; those named cannot withdraw from the tunnel while the recitation continues.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Gauge reaches 65%, or at any gauge if a worker refuses to give their own name. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Survivor's Span's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not blame the worker; share the names of those lost**.
+1. **Tension:** The approach is made along the tunnel floor with lamps down, because the Span orients on raised light the way it once oriented on the crossing's lamps. The name list is read out before anyone speaks to it. A team that has not read the list is not permitted past the junction.
+2. **Clash:** The engagement is a conversation about responsibility and is lost by winning it. Every logged escalation followed a worker telling the Span that the collapse was not its fault; every logged de-escalation followed a worker taking a share of it. Wardens are instructed to say *we* and never *you*.
+3. **Resolution:** The Span sets the wreck down of its own accord, which it does roughly once in five cycles, and the team leaves while it is seated. Nothing else counts as a resolution — driving it back into the deep tunnels resets the cycle and has never lowered the gauge below 40%.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
-- Survivors Span’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Survivor's Span's dossier.
+- A worker who breaks here does not panic. They begin apologising — to the Span, to the names, to the tunnel — and cannot be stopped by instruction, only by being walked out. Four of the five recorded cases apologised for something that happened before they were born.
+- The hazard does not scale with time in the tunnel. It scales with how long the worker has been carrying something of their own: the two personnel hospitalised after contact had both lost a crew in the Fray, and both were cleared for the assignment because the file did not ask.
+- Every piece in this set makes the bearer harder to put down and heavier to be. The harness has never failed to hold a worker upright; two of its four bearers have asked to be relieved of it and both said the same thing — that they could not tell whether they were still standing because they chose to.
+- An unresolved cycle leaves the Span walking. It does not hide and it does not hunt; it paces the tunnel loop at roughly 1.2 m/s until the next team arrives, and the loop has widened by about forty metres a year since the file opened.
 
 ## Appearance
 **Primary Form:** A weeping figure shaped like a collapsed bridge, carrying broken spans across its shoulders.
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A weeping figure shaped like a collapsed bridge, carrying broken spans across its shoulders.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Upright and walking, always the same loop, always clockwise. Record whether the wreck is on both shoulders or has slipped to one — a single-shoulder carry has preceded every drop on file.
 - **Element signature:** Weight
 - **Registered location:** Zone B, deep tunnels
 
@@ -116,9 +116,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A weeping figure shaped like a collapsed bridge, carrying broken spans across its shoulders. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | Walking the tunnel loop clockwise at about 1.2 m/s, never pausing at the same place twice in a shift except the junction where the Low Crossing's approach used to begin. |
+| **Material / signature** | Cracked span-stone and twisted reinforcement, lead-cold, smelling of wet stone and of the tunnel's own water. It drips continuously and the water is never found on the floor behind it. |
+| **Distinctive markers** | The road surface across its shoulders still carries its painted lane line, unbroken, which is how the Low Crossing was identified from the wreck it carries. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
 **Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
@@ -128,7 +128,7 @@
 - **The Sorrow:** The burden of carrying everyone who did not make it across.
 - **The Event:** A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear.
 - **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+- **Expanded origin context:** The Low Crossing carried the night shift over the Fray-adjacent cut and went down in Year 4,206 with thirty-two people on it. Thirty-one are named on the tunnel plaque. The thirty-second walked off the collapsed approach without a mark on him, gave evidence that the inspection had been signed off correctly, and was believed. The Span is not the bridge and it is not the dead; the registry grades it a Subject because what walks the loop is the man, carrying the structure he was cleared of.
 
 ## Behavior
 
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Survivor's Span is recorded as a Subject with Subject-Lament manifestation and Weight elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table's one surprise is Pugnahan, which raises the gauge and is still occasionally authorised: it is the only reliable way to make the Span drop the wreck, and a dropped wreck is the only way to recover anything from under it. Three of the thirty-one were identified from items retrieved during authorised Pugnahan cycles. The Directorate's standing position is that this is grave-robbing performed for the families' benefit, and it requires the Zone B lead's signature every time.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** The reading that matters is not the gauge but the carry. Both shoulders means the cycle is holding; one shoulder means the Span is tiring and the wreck may come down inside four minutes; the wreck set down and the Span seated means the cycle has succeeded and the team should leave without speaking further. The gauge lags all three signs by two to three minutes and has twice reported a falling trend while the wreck was already sliding.
 ## Breach Behavior
 
 > *"Collapsed Bridge has broken free. Collapses under anyone who crosses."*
@@ -156,14 +156,14 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Movement** | Survivor's Span tears loose and pursues personnel with deliberate steps. It collapses under anyone who crosses. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
 | **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever is carrying the most — literally. It goes to the member of the team with the heaviest pack before it goes to the nearest, and in the two breaches on file it walked past three people to reach a Warden with a stretcher. |
+| **Escalation** | It does not accelerate. It accumulates: each cycle outside the loop the wreck grows by whatever structure it has passed under, and the Span has returned from both breaches carrying a section of corridor ceiling that was not part of the Low Crossing. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Breach type:** Escape, and the slowest escape in the registry. Both breaches were discovered by the sound of the drip in an upper corridor, hours after the Span had left the loop, and both were ended by a Warden reading the names aloud in a stairwell.
 - **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** It leaves the loop at 40% and the figure barely moves afterward — 44% at the end of the longer breach, nine hours in. The danger of a Span breach is structural load in corridors never rated for it, not gauge escalation.
 
 ## M.A.W. Equipment
 
@@ -183,15 +183,15 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Survivor's Span's weight signature in the strike.
+**Ability:** The hammer transfers load rather than delivering it. A struck target carries the blow's weight for the rest of the engagement — movement and actions slowed cumulatively — and sets it down only when the engagement ends. Against a target that is already carrying something it does nothing at all.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder cannot put the hammer down while anyone in their team is still standing. This is not a compulsion they report noticing; it is observed from outside, and four separate squad leads have filed the same note about four different bearers.
 
 ### M.A.W. Suit — The Bridge Brace
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a braced harness of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a shoulder harness of cracked span-stone bound in reinforcement wire, worn across the back like a yoke, with the Low Crossing's painted lane line still visible across the shoulder plates.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -209,32 +209,32 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a thumb-sized fragment of road surface with one letter of a name still legible on it. Thirty-one fragments are theoretically possible; four have been issued and no two carry the same letter.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 Resolve to every member of the bearer's team except the bearer. The Span has never issued a Stigma that benefits the person holding it.
 
-**Ability:** Grants a minor boon tied to Survivor's Span's sorrow; the effect mirrors the entity's nature.
+**Ability:** While the fragment is carried, the bearer cannot be the only survivor of an incident — in all four recorded cases where a bearer's team took casualties, the bearer fell with them. The Armoury classes this as a hazard and issues it anyway, at the bearer's written request, which all four gave.
 
 **Cost:** The bearer moves a little slower.
 
-*Stigmas are granted at random by Survivors Span upon a successful work, not manufactured.*
+*Four fragments have been issued in nineteen years and every one followed a cycle in which a worker took a share of the thirty-one out loud. The Armoury has never obtained one from a cycle closed any other way.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Survivors Span's element. No protocol produces Stigmas. They emerge from Survivors Span's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+The Span's set is the only one in the Zone B armoury that is explicitly issued against the bearer's own interest, and the file says so rather than dressing it up. The hammer makes other people's loads your problem; the harness keeps you standing past the point where standing is wise; the Stigma helps everyone except the person wearing it. The pattern is the entity's and not the Armoury's, and it holds across every piece recovered since Year 4,206.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Whether the bearer has lost a team, and when. The question is asked directly and the answer is written down, because this set selects for exactly that history and the two hospitalisations both involved bearers who had not been asked. |
+| **During use** | Which shoulder the Span is carrying on at each five-minute mark, and the exact wording of anything the bearer says about fault — their own or anyone's. |
+| **At limit** | Whether the bearer has stopped answering direct questions about their own history, and whether they have offered to stay behind. Either one ends the deployment. |
+| **After use** | The recitation test at one hour: the bearer is asked for the thirty-one and the order is checked against payroll. A bearer who produces names they were never issued is referred to Zone B medical the same shift. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Read this set's numbers as a floor rather than a rating. Nothing here hits hard and nothing here breaks; the harness is the most survivable β suit in the Zone B inventory by a wide margin, and that is precisely the risk, because it keeps bearers in rooms they should have left.
 
 ## 관찰 기록 (Observation Log)
 
@@ -252,18 +252,18 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Survivor's Span as a Subject with Subject-Lament manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone B, deep tunnels. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Survivor's Span's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Heard before seen, always: the drip, then the grind of stone on stone, then eleven to fourteen seconds of nothing, then the Span at the bend. The silence in the middle is the entity transferring the wreck between shoulders and is the only safe window to withdraw. |
+| **Sustained observation** | Over a full loop the observer should log the carry, the lane line's orientation, and whether the Span stops at the old approach junction. It has stopped there on sixty-one of ninety-three observed loops and has never explained itself; the stop lasts between forty seconds and two minutes and nothing happens during it. |
+| **Activation or escalation** | The single reliable precursor is the shift to a one-shoulder carry. Log the minute it occurs, the Span's position on the loop, and what was said in the preceding two minutes — in nine of eleven cases a worker had just assigned blame, to the entity or to themselves. |
+| **Post-contact review** | The review must record which names were read and in what order, because the Span has twice reacted to an order it did not accept — stopping, turning, and waiting until the list was restarted. The plaque order and the payroll order differ; the Span uses the payroll order, which is the order they boarded. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Listen first and look second. Every usable datum this entity has produced came through sound — the drip, the grind, the silence of the shoulder transfer, the recitation — and the visual record has added almost nothing in nineteen years except confirmation of the lane line.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Survivor's Span (N-IIβ-993 [WS]) is logged as a Subject-Lament manifestation expressing Weight. The entity formed from a bridge collapse remembered by one survivor. Held at Zone B, deep tunnels. It waits beneath the same tunnel network.
+Survivor's Span walks a fixed loop in the deep tunnels of Zone B, under the cut the Low Crossing used to carry its traffic over. It is not held: the loop is monitored at two junctions and the tunnel is closed to traffic, and in nineteen years it has left that loop twice. The plaque with the thirty-one names is bolted to the junction wall where the Span stops, and it was put there by the facility, not found.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through deep tunnels carrying its collapsed span. Personnel feel responsible for losses they could not prevent. Its tears gather but never flood the tracks.
@@ -272,16 +272,16 @@ Walks through deep tunnels carrying its collapsed span. Personnel feel responsib
 The burden of carrying everyone who did not make it across.
 
 **Entry 4 — <Containment Notice>**
-Management: Do not blame the worker; share the names of those lost. Work response — Flerehan: Weeps with the worker and lowers its burden. (Decrease); Pugnahan: Broken spans strike the tunnel walls. (Increase); Viderehan: Reveals the travelers lost in the collapse. (Stable); Ferrehan: Tests whether the worker can stand beneath shared weight. (Decrease). It becomes calmer when responsibility is shared.
+Management turns on one sentence and the Zone B lead has it printed at the junction: share the weight, never assign it. Flerehan lowers the gauge when two workers weep together and barely moves it when one does. Ferrehan is the endurance of standing under the wreck with it, not of withstanding pressure. Viderehan returns names and faces and is how twenty-two of the thirty-one were confirmed. Pugnahan raises the gauge, drops the wreck, and is authorised only for recovery, in writing, each time.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+The tunnel crews tell it as a shift story rather than a legend, and they tell it against the Directorate. A man walked off a collapsed approach and was cleared by an inquiry that took four days. The families of the thirty-one were given a plaque and a month's wages. Nineteen years later the plaque is still bolted to the junction wall and something stops in front of it every night, carrying the bridge, and the crews say the inquiry is still going on down there and that it has reached a different verdict.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Survivors Span; the other feeds it.
+> The Span's choice is put to the worker in the second person and the worker has to answer out loud. Refusing to answer is itself the second option.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Take a share of the thirty-one and say which. | Say the inquiry was right and that nobody is at fault. |
 |---|---|
 | Weeps with the worker and lowers its burden. The sorrow is borne; Survivor's Span is fully recorded. | Broken spans strike the tunnel walls. The gauge climbs and Survivor's Span withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -292,32 +292,32 @@ A figure carries a bridge through the tunnel. Its broken stones drag behind it, 
 
 
 
-**At first contact:** The Subject-Lament does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A weeping figure shaped like a collapsed bridge, carrying broken spans across its shoulders.
+**At first contact:** It is smaller than the wreck it carries and that is the thing nobody is prepared for — an ordinary man's frame under a slab of roadway four metres across, walking at a working pace, dripping. It is weeping, steadily and without noise, and the tears run clear and leave no salt on the stone.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Lament becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** You begin to want to help it carry, and that impulse is the whole of the hazard. Three workers have stepped under the wreck. All three were pulled out; all three said afterward that it had felt not only reasonable but overdue, and two of them asked to be rostered back on the loop.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Weight becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Lament was waiting; now it moves.
+**When the entity activates:** It stops walking and begins to speak, and the voice is the one from the inquiry transcript — flat, cooperative, answering questions nobody in the tunnel has asked. The names come in payroll order. The air does not change and the instruments do not move.
 
-**After departure:** Departure is not relief. The Subject-Lament is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** You leave carrying the list. Workers off the Zone B loop report reciting the thirty-one under their breath for several days, in payroll order, correctly, including the eleven names they were never told.
 
 ### Interaction Pattern
 
-Survivor's Span does not exist in isolation. Its recorded relationships with The Sunken Bridge, The Rising Bridge, The Grieving Colossus should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+All three of the Span's recorded relationships are with entities that also failed somebody, and in all three the measurable change is to the carry rather than to the gauge. The Zone B lead treats the carry as the interaction instrument and has filed for the other two files to do the same.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Film the shoulders. Distance, duration and gauge have stayed inside normal variance through every co-location on file, and the only thing that has reliably changed is whether the wreck is carried on one shoulder or two, and for how long after the other entity withdraws.
 
 
 ### Entity Interaction Record
 
-Survivor's Span must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The three entries below are the full interaction record for nineteen years, which is itself a finding: the Span is co-located rarely because the deep tunnels are empty, and it has never once been moved toward another entity on purpose.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Sunken Bridge** | Both preserve failed crossings. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Rising Bridge** | Remembers the road before its collapse. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Colossus** | Pauses and shares its burden. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Sunken Bridge** | Both preserve failed crossings. | They walk the loop in step for as long as they can hear each other and neither carries less for it. Nothing spreads beyond the two — the corridor gauges stayed flat through all three co-locations — and the Span resumes its own pace within a minute of separation. | The step interval, and whether either set the wreck down. |
+| **The Rising Bridge** | Remembers the road before its collapse. | The lane line on the Span's shoulders reads unbroken and continuous while the Rising Bridge is present, and the Span walks faster. Seven of the thirty-one names were recovered during these two hours, from signage the Rising Bridge restored. The effect ends at separation and the names remain. | Which signage resolved, and the names taken from it. |
+| **The Grieving Colossus** | Pauses and shares its burden. | The only occasion on which the Span has set the wreck down without being struck. It stood unburdened for eleven minutes beside the Colossus, picked the wreck up again unprompted, and resumed the loop. The gauge fell nine points and stayed down for two shifts. | The duration unburdened, and the gauge trend across the following week. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record the carry before, during and after, timed to the second, and record whether the Span resumed the loop at the same junction it left. Everything else this file has learned from co-location came from those two observations.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -358,14 +358,14 @@ Some sorrows mourn the dead. Survivor's Span mourns the living — the survivor 
 **Observation Notes:**
 - A tunnel bridge failed; one survivor carries the weight of all who fell.
 **Cross-References:** Zone D · The Broken Bridge · The Sunken Bridge
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** Zone B tunnel crews hold the file; SED surveys the loop annually and the UCD is notified of each widening because the Fray-adjacent cut sits above it.
 **Originator:** A tunnel bridge collapse survivor.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is kept by Zone B rather than by the R.D. archive, and it carries an institutional conflict that the Directorate has declined to resolve. The inquiry of Year 4,206 cleared the thirty-second man. The entity in the tunnel conducts itself as though it had not. The file records both and takes no position, and personnel are instructed to take none either — not out of neutrality, but because every escalation in nineteen years has followed somebody deciding the question out loud in the Span's hearing.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-walk the loop and re-measure it after every Sorrow Tide. The loop has widened by roughly forty metres a year, the widening happens in steps rather than continuously, and every recorded step has fallen within a week of a Tide. At the present rate the loop reaches the Zone B service stair in approximately eleven years, and the file exists partly to make that date impossible to overlook.
 ## Watch Record
 
 ### It Carries Spans
@@ -393,11 +393,11 @@ A tunnel bridge failed in a Han surge and the survivor took the collapse as thei
 
 ### Registry Trivia
 
-- **Classification detail:** Survivor's Span is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone B, deep tunnels.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Classification detail:** Graded Subject rather than Place because what walks the loop is a man, not the crossing — Echo (II) coherence, Moderate (β) potency, and a nineteen-year record with no change to either.
+- **Field detail:** Weight expression, read not on the gauges but on the roadway it carries — four metres of span-stone across an ordinary man's shoulders, walked at a working pace.
+- **Recognition detail:** The painted lane line across the shoulders, and the drip that leaves no water. Nothing else in the deep tunnels carries either.
 - **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** There is no seal. Containment is a closed tunnel, two monitored junctions and a plaque, and in nineteen years that has failed twice — both times discovered by sound in an upper corridor and both times ended by reading the names aloud in a stairwell.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-993
