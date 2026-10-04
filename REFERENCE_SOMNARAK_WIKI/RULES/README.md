@@ -31,6 +31,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-23`](R-23_LABELS_MAY_REPEAT_VALUES_MAY_NOT.md) | Labels May Repeat, Values May Not — template residue outside the Workstream 1 scope |
 | [`R-24`](R-24_THE_TALE_STANDARD.md) | The Tale Standard — the Narratio section is the benchmark; generic prose measured by 8-gram sharing, clean at ≤ 0.05 |
 | [`R-25`](R-25_FIVE_PER_BATCH.md) | Five Per Batch — five dossiers per prompt through the combined rewrite-and-classify pass, one gate commit each |
+| [`R-26`](R-26_FIVE_THEN_SEVEN_THEN_TEN.md) | Five, Then Seven, Then Ten — the batch floor ratchets when the files are simple and the gate passes first time |
 
 ## Precedence
 
