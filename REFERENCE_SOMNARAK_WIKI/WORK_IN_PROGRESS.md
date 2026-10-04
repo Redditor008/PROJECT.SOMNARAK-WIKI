@@ -17,11 +17,15 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 
-## Workstream 1 — De-boilerplate (open)
+## Workstream 1 — De-boilerplate (CLOSED)
 
-Whole-file rewriting of the worst-affected dossiers, one file per turn, bespoke per entity. Rules `R-02`, `R-04`, `R-05`, `R-14`, `R-15` all bind here.
+Whole-file rewriting of every dossier in the archive, bespoke per entity. Rules `R-02`, `R-04`, `R-05`, `R-14`, `R-15` all bind here.
 
-**Progress: 291 / 291 dossiers rewritten.** This denominator is fixed by [`R-20`](RULES/R-20_ONE_FIXED_DENOMINATOR.md) and does not move. The band fractions used before `R-20` — `73 / 73`, `10 / 10`, `8 / 8`, `1 / 76` — are superseded and are not progress figures; they described the queue, and the queue shrinks partly by spillover from other files' cleans. Headline trajectory 34.3% → 0.00%.
+**Closed at clean 291 of 291.** Headline 34.3% → **0.00%**. Growth-only throughout: no deletions, no shared annex, no threshold gaming, and the body line count rose from the opening measurement to 31,308. Every clean was its own commit and its own gate chain, per `R-21`. The workstream is reported as closed because the measure it was defined against returns zero, not because the archive is beyond improvement — residual stock phrasing below the 30-dossier threshold still exists in older files and is logged as ordinary maintenance rather than as this workstream.
+
+**Workstream 5 now takes over as the active line of work, and runs under [`R-22`](RULES/R-22_TEN_DISPOSITIONS_PER_BATCH.md) — ten entities per batch, one commit per entity, the `R-18` split stated before any classifying starts, quoted evidence or pending.**
+
+**Progress: 291 / 291 dossiers rewritten — complete.** This denominator is fixed by [`R-20`](RULES/R-20_ONE_FIXED_DENOMINATOR.md) and does not move. The band fractions used before `R-20` — `73 / 73`, `10 / 10`, `8 / 8`, `1 / 76` — are superseded and are not progress figures; they described the queue, and the queue shrinks partly by spillover from other files' cleans. Headline trajectory 34.3% → 0.00%.
 
 ### Queue depth — side figures, not progress
 
@@ -36,25 +40,14 @@ These say where the remaining damage sits and which file to open next. A fall in
 
 ### Next targets, in order
 
-| Shared lines | Dossier |
-|---|---|
-| 1 | `SE-C-IVδ-255_Rising_Wall_솟아오른_벽.md` |
-| 1 | `SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md` |
-| 1 | `SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md` |
-| 1 | `SE-C-IVδ-915_Endless_Shift_끝없는_교대.md` |
-| 1 | `SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md` |
-| 1 | `SE-C-IVδ-922_Miasma_우는_안개.md` |
-| 1 | `SE-C-IVδ-923_Hatred_Above_분노의_폭풍.md` |
-| 1 | `SE-C-IVω-001_The_Maw_구라.md` |
-| 1 | `SE-C-Iα-000_Kind_Echo_친절한_메아리.md` |
-| 1 | `SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md` |
-| 1 | `SE-C-Vγ-260_Sorrow_Tide_한의_조수.md` |
-| 1 | `SE-C-Vδ-010_The_Convergence_수렴.md` |
-| 1 | `SE-C-Vδ-111_The_Final_Door_마지막_문.md` |
-| 1 | `SE-C-Vδ-949_Stormscale_Sovereign.md` |
-| 1 | `SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md` |
+_Empty._ The measured queue is exhausted: `tools/boilerplate_report.py` returns a census of
+`[(0, 291)]` — every dossier in the archive now carries zero lines shared by 30 or more
+dossiers. The last shared line was retired by clean 290 (Ninety Seconds, `C-IVδ-918`), which
+took thirty files to zero at once by spillover. Clean 291 (Glass Elsewhere, `N-IIβ-903`) was
+selected on residual stock rather than on shared lines, that being the only honest measure
+left.
 
-Re-rank after every clean. Files drop down this list as global counts shift without being touched; that movement is spillover and is never counted against the fixed `N / 291` counter. The queue is never carried over from a previous turn without re-measuring.
+Nothing left to re-rank. Files drop down this list as global counts shift without being touched; that movement is spillover and is never counted against the fixed `N / 291` counter. The queue is never carried over from a previous turn without re-measuring.
 
 ### Residual floor
 
