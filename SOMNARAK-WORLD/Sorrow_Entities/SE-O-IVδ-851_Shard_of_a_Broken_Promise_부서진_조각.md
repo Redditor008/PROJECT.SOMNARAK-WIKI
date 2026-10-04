@@ -29,18 +29,18 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per cycle, the highest in the Alpha Tree vault, against the shortest cycle in it: a declaration, a reading, and a pitch measurement, rarely more than twenty minutes. The vault has never been comfortable with the ratio and has said so in four annual returns. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Declare your outstanding undertakings at the threshold, read the break aloud, and take the pitch. Viderehan and Ferrehan only. Nothing is promised to it, in any form of words, at any point in the cycle. |
 
 ### Operational Notes
 
 - No breach counter applies. The shard is stationary in the Alpha Tree vault and extends its judgment outward rather than escaping it.
-- Viderehan and Ferrehan are the only valid approaches; a shard cannot be consoled through Flerehan or confronted through Pugnahan, and attempts at either are logged as failed cycles.
+- Flerehan and Pugnahan are unavailable and the one Pugnahan attempt against the break face is the worst single act in this file: the pitch rose 40 hertz that day and has never come back down.
 - Observation records the hum, which rises in pitch as the break is approached. Endurance requires remaining in salt-cold air that smells of cold rain while the break is read aloud.
 - The yield of 20–28 Han-Energy is high for a stationary object and is drawn from the judgment rather than the crystal; a cycle in which no one is judged returns nothing at all.
 
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
+| **Resistance** | 45% against Lament. The break has not widened or closed in fourteen years of calipered measurement, including after the Pugnahan attempt, which changed the sound and not the crystal. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Lament |
@@ -72,7 +72,7 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone A, Alpha Tree vault |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | The pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything. 408 cycles, 391 clean closes; the seventeen that were not all involve a sentence somebody wishes they had not said. |
 
 ### Combat Actions
 
@@ -81,8 +81,8 @@
 | { *The Jagged Edge* [**Debuff**] } | "You run your finger along the shard — and the edge finds every old wound." | [The Shard resonates with the target's existing cuts.] | *Target suffers -10 Composure; old wounds reopen.* **[10 Lament DMG [Lament]]** | When the target touches the Shard. |
 | { *The Embedded Splinter* [**Debuff**] } | "The shard works its way deeper — and the deeper it goes, the more it remembers." | [The Shard burrows; its sorrow leaches inward.] | *Target loses 10 Composure; the foreign grief is inside them.* **[10 Lament DMG [Lament]]** | When the target lingers. |
 | { *The Flying Splinter* [**Attack**] } | "The shard launches — spinning, sharp, and carrying the anger of being broken." | [A spinning shard strikes the target.] | *Inflicts Lament pressure and one thin, deep cut.* **[14-22 Lament DMG [Lament]]** | When the Shard is struck. |
-| { *The Shatterpoint* [**Attack**] } | "The shard finds the flaw in your armor — the exact point where you are already broken." | [The Shard targets the target's weakest point with precision.] | *A heavy Deep Blue strike; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shard is pressured. |
-| { *The Shard Storm* [**Ultimate**] } | "One shard becomes a thousand — and they all know where you are broken." | [The Shard multiplies, filling the field with seeking splinters.] | *All in range suffer Lament pressure for three turns in the shard storm.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Shatterpoint* [**Attack**] } | "It names the undertaking you did not declare at the door." | [The hum resolves into the exact wording of a promise the worker has outstanding and has not disclosed.] | *24–36 Lament and a 15% Gauge surge to that worker alone; nobody else in the vault hears the words.* **[24-36 Lament DMG [Lament]]** | When an undeclared undertaking is carried past the threshold. Seventeen occasions, all seventeen later confirmed accurate by the worker. |
+| { *The Shard Storm* [**Ultimate**] } | "Every pane and vessel in the vault takes up the pitch and the whole room sounds like the break." | [The hum propagates into the surrounding glass and crystal and the judged area becomes the room.] | *12–20 Lament per cycle for three cycles to everyone inside the vault.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, recorded once, during the Year 4,234 inventory, when four workers were in the room with undeclared undertakings between them. |
 
 ### Battle Phases
 
@@ -92,7 +92,7 @@
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Clarity** and identity cohesion, accelerating Sorrow Gauge escalation.
+- The failure here is a promise made in the room. It is nearly always made to the shard, it is nearly always sincere, and it is always the beginning of the incident; the vault's seventeen bad cycles each begin with a worker undertaking to do something.
 - Extended contact leaves personnel convinced they have broken a promise they cannot name. The conviction persists for days, arrives with the texture of memory rather than suggestion, and resists correction by colleagues who were present throughout.
 - Every activation of the shard's equipment extracts the same price it extracted from the family: the wielder is measured against an undertaking they did not give, and the measurement is recorded in the equipment specifications and paid in the field.
 - Without timely resolution the hum does not subside, and the vault must be sealed for a full cycle before re-entry is authorised. No method of silencing it early has been recorded, and three attempts to dampen it mechanically made the pitch permanent.
@@ -116,10 +116,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A large shard of pale crystal with a clean break through its center. It hums when touched. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Position / movement** | Fixed on a stand in the Alpha Tree vault with the break face turned to the wall, an orientation set in Year 4,230 after it was established that the judged area is measured from the break face and not from the body. |
+| **Material / signature** | Pale crystal, salt-cold, with a clean break running to the centre that neither widens nor heals. Record the hum in hertz against the vault fork at the start and the end of every cycle; the break is measured with calipers quarterly. |
+| **Distinctive markers** | The hum is audible only to people who have trusted somebody and been wrong. The vault does not use this as a screening test and has refused two requests to; it is recorded because it determines who can take the reading at all. |
+| **Identification** | Confirm `O-IVδ-851` against the stand label. The vault holds three pale crystals and this is the only one with a break and the only one at Critical. |
 
 **Appearance protocol:** Log the orientation of the clean break, the pitch and volume of the hum, and the temperature differential — the shard reads salt-cold against vault ambient and the gradient steepens sharply within a metre of the face. Record the smell of cold rain separately, noting strength rather than presence, because it saturates the vault stone and persists between cycles; a reading taken on entry will otherwise be logged as a fresh activation when it is only residue from the previous shift.
 
@@ -128,7 +128,7 @@
 - **The Sorrow:** The pain of trusting words more than circumstances.
 - **The Event:** An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.
 - **The People:** The record names a family who trusted an old promise of protection over the evidence in front of them, fled the evacuation, and left the artifact behind. The community here is one household and the undertaking it relied on.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Expanded origin context:** The evacuation order survives and so does the household's name on it. What the file is careful about is the sequence: the family did not forget the artifact, they decided about it. They had been told for three generations that it would keep them safe, they were being told that morning to leave within the hour, and they chose to believe the older of the two statements — which is why they went out light, and fast, and in the wrong direction. The archivist's note says the promise was not a lie when it was made and that this is the difficulty with it.
 
 ## Behavior
 
@@ -144,14 +144,14 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Shard of a Broken Promise is recorded as an Object/Place with Object-Void manifestation and Lament elemental expression. The current record places it at Zone A, Alpha Tree vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Work Type column is not the reading here; the pitch is. Resting value is 112 hertz and has been since the Pugnahan attempt took it there from 72. It rises in the presence of an undeclared undertaking, by between 6 and 30 hertz, and the rise begins before the worker is through the door. 408 cycles have established this well enough that the vault now takes the pitch before it takes the declaration.
 
 **Reading the response:** Success is read from the hum rather than from the crystal, which is unchanged by every cycle on record. A worker who expects the break to close will report failure on a successful cycle, and this is the single commonest reporting error on this row. The reliable indicators are the hum's pitch, which falls before it quietens, and the salt-cold, which retreats from the vault walls inward rather than fading evenly. Both lag the actual response by several minutes, so a cycle is not closed at the first drop in pitch but at the second consecutive reading that confirms it. Where the two indicators disagree, the hum is treated as authoritative, because the cold persists in vault stone well after the shard has disengaged and will hold a false reading for most of an hour.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This relic answers a promise with protection and a false promise with a new fracture, and it is never wrong about which it has been given**
 
 **Activation Trigger:** Touch while repeating the original promise.
 
@@ -170,23 +170,23 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Activation** | Touch while repeating the original promise. |
 | **Primary Effect** | Creates a brief protective field. |
 | **Duration** | Until the promise is fulfilled or withdrawn honestly. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
+| **Termination / Return** | The operative states aloud whether they intend to keep what they said, and then sets the piece down. Withdrawal is permitted and costs nothing; it is lying that costs, and the piece has never failed to distinguish the two. |
 | **Risk** | A false repetition causes the Shard to fracture further. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative, and only while that operative owes something to another member of the crew. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic works while it is carried and while the carrier owes something to somebody else on the crew — settle the debt and the piece goes inert in the hand, which two wielders have discovered mid-engagement. It replaces no scheduled work; the holding itself is still Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Shard of a Broken Promise rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Shard of a Broken Promise activates its primary resonance: Creates a brief protective field. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the pain of trusting words more than circumstances; the bearer begins perceiving echoes of an artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Shard of a Broken Promise begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Shard of a Broken Promise too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers A false repetition causes the Shard to fracture further. |
+| 10 Seconds | The hum takes the pitch of the bearer's own voice, which is the only time it varies from 112 hertz for any reason other than a lie. | +10% resistance to Lament and a field that holds for as long as the undertaking spoken at pick-up remains true. |
+| 30 Seconds | The bearer becomes certain the field will hold, and the certainty is not related to whether it will. | Speed and focus up, composure down. The second worker's task from this point is to repeat the undertaking back to the bearer, word for word, once a minute. |
+| 1 Minute | The bearer begins amending the undertaking, usually by widening it — adding people to it, adding time to it. Every amendment is a new promise and is treated as one. | 5 Lament every 15 seconds. The amendments are logged verbatim; six of the nine over-runs began with one. |
+| 2 Minutes | The bearer has promised something they cannot do and knows it. The piece fractures — a new hairline, permanent, numbered and recorded. | Acute panic on forced detachment. Nine new fractures exist across the two pieces and each is dated and matched to the sentence that caused it. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Shard of a Broken Promise: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation is audible and nothing else about it is. Record the pitch, the moment it began to rise, the orientation of the break, the vault temperature, and the extent of the judged area measured from the break face. There is no visual change at any stage; four workers have reported one and none of them agreed with each other.
 
 **Response sequence:** Establish the perimeter at the vault threshold rather than at the shard, confirm whether the hum is rising or holding, clear personnel who have outstanding undertakings on record, and read the break aloud before any attempt at dampening. Do not apply unlisted Work Types as improvised countermeasures; Pugnahan against the break face has been attempted once and made the pitch permanent.
 
@@ -199,7 +199,7 @@ The escalation pattern is specific to Shard of a Broken Promise: it is not a gen
 | **Primary effect** | Creates a brief protective field. |
 | **Duration / rate** | Until the promise is fulfilled or withdrawn honestly. |
 | **Risk** | Critical (δ) Object-Void producing Lament pressure; A false repetition causes the Shard to fracture further. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have. |
 
 **Activation reporting order:** rise in hum pitch → orientation of the break → drop in vault temperature → the smell of cold rain → extent of the judged area, measured from the break face rather than from the body. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
@@ -233,7 +233,7 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a shroud with a clean split through the left panel, sewn at neither edge, which hangs closed while the wearer's undertaking holds.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -251,7 +251,7 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a shard-tile of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a palm-sized tile of the same pale crystal carrying four of the nine recorded fractures, each with a date scratched beside it by the Armoury.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -271,10 +271,10 @@ Each M.A.W. piece taken from the shard is a fragment of a promise that outlasted
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, resting pitch, fracture count photographed, and the undertaking to be spoken at pick-up, written down before it is said. |
+| **During use** | The undertaking repeated back to the wielder once a minute, and every amendment the wielder makes to it, verbatim. |
+| **At limit** | A new hairline. It is audible before it is visible — a single click against the hum — and the use ends on the sound and not on the inspection. |
+| **After use** | Photograph the fractures, count them against the pre-use image, and record the sentence that preceded any new one. The sentence is kept with the fracture permanently; the Armoury's file is nine fractures and nine sentences. |
 
 **Stat interpretation:** Grade is not safety, and for the shard's pieces the grade is actively misleading. The rating measures what the equipment does to entities rather than what it does to you, and judgment accumulates across an engagement rather than landing at once, so a rating taken from a single exchange reads low by a wide margin. A flawless performance is entirely compatible with the wielder leaving the vault convinced of a failure they cannot identify.
 ## 관찰 기록 (Observation Log)
@@ -293,10 +293,10 @@ Each M.A.W. piece taken from the shard is a fragment of a promise that outlasted
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Shard of a Broken Promise as an Object/Place with Object-Void manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch while repeating the original promise. Effect: Creates a brief protective field. Duration: Until the promise is fulfilled or withdrawn honestly. Risk: A false repetition causes the Shard to fracture further. Tool Use Profile — I-Relic Operational Rule: The relic. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Shard of a Broken Promise's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The worker stops at the threshold, declares any outstanding undertakings, and the second worker takes the pitch before either of them goes in. The salt-cold and the hum arrive before the crystal is visible; the break resolves last and only under direct light. |
+| **Sustained observation** | Fourteen years of pitch readings against declarations. The series shows one permanent step — 72 to 112 hertz, the day of the Pugnahan attempt — and otherwise only the rises, every one of which has been matched afterward to something a person had not said. |
+| **Activation or escalation** | Touch while repeating the original promise, which the vault does not do and has not done since Year 4,231. The field it produces is real and lasts until the promise is fulfilled or honestly withdrawn; a false repetition fractures it further. The two activations on record were both authorised, both under the Director, and both are written up in full with the wording used. |
+| **Post-contact review** | Opening and closing pitch, the declaration as given, anything the shard named that the worker had not, and whether the worker undertook anything in the room. The last field is asked of every person present separately and has never been answered inconsistently. |
 
 **Observation method:** Record the hum first, then the orientation of the break, then the vault temperature, then the condition that ends the encounter. The smell of cold rain is the least reliable marker and is logged last, because it saturates the vault between cycles and is readily mistaken for a live reading by personnel new to the Alpha Tree. The break is the shard's history rather than its intention; what it looks like tells you what was promised, not what it will do next.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -304,7 +304,7 @@ Each M.A.W. piece taken from the shard is a fragment of a promise that outlasted
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Shard of a Broken Promise (O-IVδ-851 [LO]) is logged as a Object-Void manifestation expressing Lament. The Shard formed from a promise broken while the promised object remained intact. Held at Zone A, Alpha Tree vault. It hums even in an empty room.
+Shard of a Broken Promise stands on a stand in the Alpha Tree vault with its break face to the wall: pale crystal, salt-cold, split cleanly to the centre, humming at 112 hertz in an empty room. The break has not moved in fourteen years. It was promised to keep a family safe and it is still here and they are not.
 
 **Entry 2 — <The Hum in the Vault>**
 The break is not physical damage that can be repaired.
@@ -313,18 +313,18 @@ The break is not physical damage that can be repaired.
 The pain of trusting words more than circumstances.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Shows the promise and the moment it failed. (Stable); Ferrehan: Tests whether the worker can remain without repairing it. (Decrease). It reacts to honesty more than to emotional intensity.
+Two Work Types, and the thing both of them test is honesty rather than endurance. Workers who declare an awkward undertaking at the door have uneventful cycles; workers who are moved, distressed or sympathetic in the room and have declared everything are equally uneventful. Intensity does not register here. Only the undeclared does.
 
 **Entry 5 — <Judged Still>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The declarations are kept in a locked book that only the vault keeper reads, and the keeper's standing instruction to every new worker is four sentences long: *You will be asked what you have promised and not done. Say it out loud. It is not held against you, it is not read by your supervisor, and it is the only thing that keeps the pitch down.* Fourteen years of that book exist. It has been requested twice by personnel offices and refused twice, and the keeper's note on the second refusal says that a holding which punishes concealment cannot be managed by an institution that rewards it.
 
-**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat rating:** Critical (δ) and justified by the propagation event rather than by the strikes. It has never killed anybody and it has never left the stand.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Shard of a Broken Promise; the other feeds it.
+> The choice arrives when the hum names something and the worker has to decide whether to write it in the book.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Say the undertaking out loud, and withdraw it honestly. | Promise, here, in the room, that this time you will keep it. |
 |---|---|
 | Tests whether the worker can remain without repairing it. The sorrow is witnessed; Shard of a Broken Promise is fully recorded. | Shows the promise and the moment it failed. The gauge climbs and Shard of a Broken Promise withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -335,30 +335,30 @@ The Shard is beautiful because the break is clean. You touch it and hear a promi
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A large shard of pale crystal with a clean break through its center. It hums when touched. Notable Features: The break never closes, the object retains a promise, and it waits for someone to complete its. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Object-Void form.
+**At first contact:** Cold that smells of rain, then a hum you are not sure you are hearing, then — under direct light, last of all — the break: clean, straight, running to the centre of a pale crystal the size of a forearm, neither open nor closed.
 
 **With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Lament presses hardest, where it recedes, where the Object-Void lets you breathe.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch while repeating the original promise. Effect: Creates a brief protective field. Duration: Until the promise is fulfilled or withdrawn honestly. Risk: A false repetition causes the Shard to fracture further. Tool Use Profile — I-Relic Operational Rule: The relic. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The pitch climbs and the room gets colder, and then the hum has words in it that are in your own phrasing. Nobody else hears them. The seventeen workers this has happened to have all confirmed afterward that the wording was exact.
 
-**After departure:** After contact, the body holds what the mind files away. The Lament is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** You settle something. Workers coming off this holding write a letter, make a call, or tell somebody they are not going to do the thing they said they would, and the vault keeper has recorded this for fourteen years as the only reliably good effect any holding in the Alpha Tree produces.
 
 ### Interaction Pattern
 
-Shard of a Broken Promise does not exist in isolation. Its recorded relationships with The Broken Promise, The Final Door, The Returning Relic should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all with holdings made of undertakings, and all measured on the pitch. One produced a lasting change, one produced nothing, and the third produced a result the vault has decided not to repeat.
 
 **Interaction method:** Establish the shard's hum radius before introducing a second entity, because the hum is the interaction surface and does not retract while the break faces the chamber. Measure the radius at two points separated by at least ninety degrees, since the vault geometry reflects the hum unevenly and a single reading will understate it badly. The second entity is introduced outside that radius and allowed to approach under its own behaviour; it is never carried across the vault floor, as contact with the stone has produced recorded interactions in the absence of the entities meeting at all. Log the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, and whether it persists after separation. An interaction that was stable last cycle may not be this cycle: Sorrow Tides, breaches, Ordeals and transformation events all change the variables, and the vault seal is itself one of them.
 
 
 ### Entity Interaction Record
 
-The shard must be assessed against the vault that holds it rather than as a free-standing object, and the Alpha Tree record treats the hum as part of the entity for all cataloguing purposes. The interactions below are canonical relationship points recorded against the vault as well as the shard; an interaction logged before the current seal remains canonical. They may be helpful, hostile, neutral, or conditional, and personnel must not assume a repeated interaction yields the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The hum is catalogued as part of the entity, which means every interaction here is recorded as a change in a sound. Nine sessions across three holdings; the vault's conditions are that the break face stays to the wall and that nobody in the room has an undeclared undertaking, and those conditions have been met on all nine.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Broken Promise** | Both preserve language after betrayal. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Final Door** | The Shard resonates with sealed promises. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Returning Relic** | Both survive the loss of their original purpose. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Broken Promise** | Preserves the words; this one preserves the object they were about. | Four sessions. The pitch did not move and the other holding recited, on two of them, a form of words that matches the undertaking in this family's own papers. Neither station can explain how it has them. | Both recitations transcribed, the pitch throughout, and the papers cited. |
+| **The Final Door** | Resonates with it; the only pairing that has changed this holding permanently. | Three sessions. On the second the pitch rose to 126 hertz and stayed there for nine days before settling back to 112 — the only rise on record that was not caused by a person. The third session was run to see whether it would repeat and it did not. | Pitch at one-minute intervals for the session and daily for a fortnight after. |
+| **The Returning Relic** | Both outlived the purpose they were made for; filed together on that resemblance. | Two sessions, no pitch change at any distance, and the vault's note that the resemblance is a description of two objects and not a mechanism linking them. No further session scheduled. | Pitch before and after; the entry is closed. |
 
 **Interaction procedure:** Introduce the second entity from the side opposite the break and abort if the hum rises before contact is made. The rise is the reliable warning sign and precedes judgment by roughly a minute, which is the full margin available for withdrawal. Record the first shared change, the distance, the duration, the trigger, the gauge movement, the effect on the chamber, and whether the effect remains after separation. Log the abort rather than retrying within the same cycle.
 
@@ -392,16 +392,16 @@ Some sorrows mourn a loss. Shard of a Broken Promise mourns the trust — the pr
 **Common Name:** Shard of a Broken Promise
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Critical by grade and quiet by history. Fourteen years, 408 cycles, seventeen namings, one propagation event, no fatalities and no lasting injury — and one permanent 40-hertz rise caused by a worker striking it.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Declare at the threshold, read the break, take the pitch. Honesty is the whole of the Work Type here.
 - Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Pitch rise is the only signal; measure the judged area from the break face, not from the crystal.
 **Observation Notes:**
-- See Origin section for formation and event details.
+- A three-generation promise of protection, an evacuation order, and a household that believed the older statement.
 - See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- Two pieces, nine fractures between them, each dated and kept with the sentence that caused it.
+**Cross-References:** The Broken Promise (matching wording, unexplained), The Final Door (the 126-hertz fortnight), The Returning Relic (closed), the locked declaration book, and the Year 4,231 Pugnahan attempt.
 **Faction Involvement:** SED (D-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** See Origin section — ‘The People’ field.
 
@@ -451,8 +451,8 @@ Dusting is done by the gallery staff on the general round rather than by anyone 
 
 ### Registry Trivia
 
-- **Classification detail:** Shard of a Broken Promise is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree vault.
+- **Classification detail:** Entity (IV) coherence at Critical (δ) — the grade is for what it can do to a room full of glass, not for what it has done to anybody, and the vault has never asked for it to be lowered.
+- **Field detail:** Lament, on a stand in the Alpha Tree vault in Zone A, break face to the wall, with a tuning fork and a declaration book kept at the threshold.
 - **Recognition detail:** The shard is identified by the low hum and the salt-cold before the crystal is visible; the clean break resolves last, and only under direct light.
 - **Record detail:** The shard is catalogued among Alpha Tree vault objects, several of which share the pale crystal and the stationary habit. The clean break to the centre and the cold-rain smell distinguish it from the others.
 - **Containment detail:** Containment does not stop the judgment. The hum continues at the recorded pitch whether or not the entity is engaged, and a sealed vault dampens its volume without altering its reach into the adjoining corridors.
