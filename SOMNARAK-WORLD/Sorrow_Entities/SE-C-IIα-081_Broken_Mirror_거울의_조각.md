@@ -35,15 +35,15 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan and Ferrehan only, and the restriction is genuine here rather than inherited: there is no body to weep to and nothing to confront. Work with your back to the glass unless an authorised viewing is in progress. |
 
 ### Operational Notes
 
-- The Mirror is broken in a fixed pattern, and the pattern has not changed since it entered the Archive.
-- Work settles the surface for a shift. No cycle has altered the break, and the reflection is unaffected by the entity's gauge.
-- Only Viderehan and Ferrehan apply to the object.
-- There is no breach counter. The affected radius grows within the Archive, and its edge is remeasured from the case at every session.
-- Extraction draws on residue at the frame and is authorized apart from routine work.
+- The break pattern is fixed in the sense that nothing already cracked ever heals. Nineteen new cracks have appeared since it entered the Archive, each dateable to within six days.
+- Work settles the surface for a shift. No cycle has altered the break, and what the glass shows does not depend on the gauge at all.
+- Only Viderehan and Ferrehan apply. Both have been tested at length — this is a Mastered holding — and the restriction is correct here rather than copied from a template.
+- There is no breach counter. The affected radius grows inside the Archive and its edge is remeasured from the case at every session; it has reached the second stack twice.
+- Extraction draws on residue at the corroded frame rather than on the glass, is separately authorised, and is not treated as routine recovery.
 
 ## Combat Record
 ### Core Stat Line
@@ -88,30 +88,30 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Broken Mirror's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Four turns, worked from the painted line with the case open and the glass angled away from the floor. Nobody faces it who has not been authorised by name for that session.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Broken Mirror’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Broken Mirror executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- The failure here is looking back. The worker glances a second time to check a detail of what they saw, and the second look is the one the incident reports all turn on.
+- Long exposure produces the holding's signature state: a worker who has acquired a memory they cannot place in their own life and cannot stop placing.
+- The Reflection equipment lends the wearer clarity about their own history and takes the ability to leave any of it alone. Every wielder's debrief has recorded an old matter reopened with somebody who had not asked.
+- Unresolved, it transforms rather than escapes: the radius widens into the stacks and the sealed vaults nearest the case begin to register at the door.
 
 ## Appearance
 **Physical Form:** A cracked ancient mirror made from dark Han-crystal. It reflects not the present but a memory the viewer has forgotten or suppressed.
 
 **Notable Features:**
-- Its cracks correspond to buried or denied memories.
-- It cannot be broken by ordinary force.
-- A viewer may see a life they no longer remember living.
+- The cracks correspond to sealed or denied memories; the correspondence is asserted in the commissioning file and has never been tested.
+- Ordinary force does not mark it. Three authorised attempts are documented, with their justifications, and none left a trace.
+- A viewer may be shown a life they no longer remember living, in full sensory detail and without commentary.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A cracked ancient mirror made from dark Han-crystal. It reflects not the present but a memory the viewer has forgotten or suppressed.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** In the case, in the Archive, angled away from the floor. Record the radius edge from the case, the overlay, and the direction the glass is facing at session close.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, Alpha Tree Archive — contained
 
@@ -120,19 +120,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A cracked ancient mirror made from dark Han-crystal. It reflects not the present but a memory the viewer has forgotten or suppressed. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Its cracks correspond to buried or denied memories. It cannot be broken by ordinary force. A viewer may see a life they no longer remember living. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Position / movement** | Fixed in its case; only the radius moves. Record the radius edge measured from the case, the crack overlay, and the glass angle at open and close. |
+| **Material / signature** | Void. Dark Han-crystal, bloodless-cold and giving back no warmth whatever the room does, in a corroded frame; the flat smell of ash within about two metres. |
+| **Distinctive markers** | A faceted break across dark crystal, a corroded frame that sheds residue, and a reflection that is never the room. |
+| **Identification** | Confirm before Work or contact: designation C-IIα-081 `[VO]`, Void expression, Object-Void manifestation, I-Relic class, SECTOR-A-01 in the Alpha Tree Archive. Confirm by frame and case, not by looking into it. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the radius edge, the overlay, the frame residue and the glass angle, all of them from the painted line. The appearance record is taken without looking into the glass and has been for nine years; a description of a reflection is a viewing, whatever the form says. Do not write *strange* or *anomalous*; it is cold, dark, faceted and corroded, and those are the fields.
 
 ## Origin
 - **Formation:** The Mirror formed from memories that citizens asked the Keepers to seal away.
 - **The Sorrow:** Denial—the grief of truths too painful to preserve and too persistent to destroy.
 - **The Event:** Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** In the early days of the Archive, when the Keepers first began collecting memories, they found that some memories were too painful to preserve. Citizens wanted to forget — their losses, their mistakes, their shame. The Keepers honored these requests. They sealed the memories away. But the memories did not want to be sealed. They pressed against the walls of their vaults, seeking release. One night, the vault cracked — and the memories crystallized into a mirror.
+- **The People:** The citizens who brought memories to the Keepers to be sealed, the Keepers who sealed them, and the people inside the memories, who were not consulted.
+- **Expanded origin context:** Sealing was a service and it was paid for. The Archive took the memory, vaulted it, and issued a receipt; the practice ran for generations and the ledgers survive in better condition than almost anything else from the period. It worked. That is the part the file insists on. For years those people did not remember what they had paid not to remember, and the Archive did exactly what it had undertaken to do. Then one vault failed. What came out of it did not go back into anybody's head — it set, in crystal, where anyone standing in front of it can be shown it.
 
 ## Behavior
 
@@ -142,20 +142,20 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** (Observation) | Reveals patterns in the viewer's history. | Stable |
-| **Ferrehan** (Endurance) | Shows the viewer's worst memory; facing it reduces distress. | Decrease |
+| **Viderehan** (Observation) | Shows pattern across a viewer's own history — recurrences, avoided years, the shape of what is missing — without naming a single event. | Stable |
+| **Ferrehan** (Endurance) | Shows the worst of it and requires the worker to stay; distress falls afterwards and the gauge with it. The only approach that lowers the gauge. | Decrease |
 ### Special Behaviors
-- It shows denial, not a conventional reflection.
-- The memory may include people the viewer has consciously erased.
-- It remains unchanged after the viewer looks away.
+- It returns what was put away rather than what is in front of it; the room has never once appeared in the glass.
+- The projected memory routinely includes people the viewer has deliberately forgotten, in recognisable detail.
+- Looking away ends the projection and changes nothing in the glass; the next viewer gets their own.
 
 
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Broken Mirror is recorded as an Object/Place with Object-Void manifestation and Void elemental expression. The current record places it at SECTOR-A-01, Alpha Tree Archive — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Broken Mirror is an Echo (II) Object/Place with Object-Void manifestation and Void expression, held at SECTOR-A-01 in the Alpha Tree Archive and classed as an I-Relic. Viderehan and Ferrehan are the only valid approaches. Ferrehan lowers the gauge and is the costlier of the two by a wide margin; Viderehan holds it level and is the one authorised by default.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** Read it in the radius and in the worker's account. A falling gauge presents as the radius edge drawing back toward the case; a rising one presents as the edge reaching into the stacks. The worker-side indicator is simpler: a viewer who wants a second session has had enough, and the rule is written that way round deliberately.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -164,11 +164,11 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Activation Trigger:** Direct gaze or physical contact.
 
-**Effect:** Projects a suppressed memory in complete emotional and sensory detail.
+**Effect:** Projects one suppressed memory in full sensory and emotional detail, from the viewer's own history, selected by nothing anybody has been able to identify.
 
 **Duration:** Until the viewer looks away or the memory completes.
 
-**Risk:** Identity crisis, emotional distress, and possible Fracture from prolonged exposure.
+**Risk:** Identity crisis and acute distress, with Fracture recorded twice at the far end of prolonged exposure. The viewing itself is not the main hazard; the weeks afterwards are.
 
 ### Tool Use Profile — I-Relic
 
@@ -179,25 +179,25 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Activation** | Direct gaze or physical contact. |
 | **Primary Effect** | Projects a suppressed memory in complete emotional and sensory detail. |
 | **Duration** | Until the viewer looks away or the memory completes. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
-| **Risk** | Identity crisis, emotional distress, and possible Fracture from prolonged exposure. |
+| **Termination / Return** | The operative detaches at the line, under the detachment protocol, with a second person present. Premature return or an overrun extracts severe Void trauma and has done once. |
+| **Risk** | Identity crisis, acute distress, and Fracture at the far end. The viewer cannot choose the memory and has never been able to stop one once it has begun. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while carried or mounted by the operative and cannot substitute for scheduled Work. Every use is authorised by name, for one viewing, and the authorisation lapses when the session closes.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Broken Mirror rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Broken Mirror activates its primary resonance: Projects a suppressed memory in complete emotional and sensory detail. Grants +10% resistance to Void damage while equipped. |
-| 30 Seconds | The artifact was born from denial—the grief of truths too painful to preserve and too persistent to destroy; the bearer begins perceiving echoes of sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the mirror. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The bearer begins perceiving the sealed material around them — not their own, but the pressure of the vaults in the stacks, which is how this holding announces that the radius has opened. | Combat benefit continues, composure begins to fall, and the bearer's reports of distance become unreliable. |
 | 1 Minute | The sorrow within Broken Mirror begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Broken Mirror too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Identity crisis, emotional distress, and possible Fracture from prolonged exposure. |
+| 2 Minutes | The boundary between the bearer's history and the sealed material gives way, and the bearer begins accounting for events that are in the vaults rather than in their life. | Exceeding two minutes, or detaching by force mid-projection, triggers acute panic with identity crisis, distress, and possible Fracture. The two-minute limit is held by the second person and not by the bearer. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Mirror: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, Alpha Tree Archive — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is radius and recurrence, not force. Record the first trigger, the radius edge from the case, whether any sealed vault in the stacks registered at its door, and how long the edge took to draw back. Telemetry is insufficient on its own: a viewer asking to go again is the earliest indicator this holding produces.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Clear the stack aisle, angle the case away, establish whether the event is an activation or an expansion, measure the edge, and apply the recorded protocol. Do not authorise a second viewing for anybody involved in the event, on the day or afterwards.
 
 ### Detailed Activation Record
 
@@ -207,10 +207,10 @@ The escalation pattern is specific to Broken Mirror: it is not a generic breach 
 | **Manifestation** | Object-Void |
 | **Primary effect** | Projects a suppressed memory in complete emotional and sensory detail. |
 | **Duration / rate** | Until the viewer looks away or the memory completes. |
-| **Risk** | Minor (α) — Low danger Object-Void producing Void pressure; Identity crisis, emotional distress, and possible Fracture from prolonged exposure. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Risk** | Minor (α) by potency and considerably worse than that by consequence: low Void pressure, no breach pattern, and an identity hazard that two personnel have not returned to duty from. |
+| **Management** | Viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → radius edge from the case → vault response in the stacks → personnel effect → duration → management condition. The Viderehan and Ferrehan restriction is correct on this holding and is not a template line.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -263,7 +263,7 @@ The escalation pattern is specific to Broken Mirror: it is not a generic breach 
 
 **Cost:** The wearer sees the hidden pain of everyone they observe.
 
-*Stigmas are granted at random by Broken Mirror upon a successful work, not manufactured.*
+*The Reflection Shard is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who completed an authorised viewing, filed it in full, and did not ask to see it again.*
 
 ### M.A.W. Use Notes
 
@@ -285,13 +285,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
-- The Mirror's Han-signature resonates with the Archive's sealed memory vaults.
-- Touch produces emotional weight but no physical injury.
-- Some citizens seek the Mirror to remember; others avoid it permanently.
-- It cannot be moved from the Alpha Tree Archive without a full memory-dampening team.
+- Its signature answers the Archive's sealed vaults: nine of them register at the door when the radius reaches their aisle.
+- Contact produces no physical injury of any kind, which is recorded because personnel keep expecting otherwise.
+- Citizens apply to view it and citizens apply never to be in the building with it; both kinds of application are held, and there are more of the second.
+- Moving it requires a full memory-dampening team, which has been assembled once, for a relocation within the building of eleven metres.
 
 **Personnel Note:**
-> *"It showed me a woman and child I had forgotten. I tried to break it. The crystal endured. Now I pass it every day and see the life I erased."* — Keeper, Zone A Archive, Year 4218
+> *"It showed me a woman and a child. I tried to break it, which I am told everyone does. The crystal did not mark. I walk past it on every shift now and I know exactly what I gave away and exactly what it cost, and the Archive has a receipt for it."* — Keeper, Zone A Archive, Year 4218
 
 
 
@@ -300,11 +300,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Broken Mirror as an Object/Place with Object-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-A-01, Alpha Tree Archive — contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Special Behaviors - It shows denial. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Direct gaze or physical contact. Effect: Projects a suppressed memory in complete emotional and sensory detail. Duration: Until the viewer looks away or the memory completes. Risk: Identity crisis, emotional distress, and possible Fracture from prolonged exposure. I-Relic (Indumentum) Tool. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Broken Mirror's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Radius edge from the case, crack overlay against the previous cycle, frame residue, vault responses in the stacks, and the glass angle. All of it taken from the line, with nobody facing the glass. |
+| **Activation or escalation** | Escalation is the radius. When the edge passes the second stack the aisle is cleared and the case is angled away; the threshold is a painted mark on the floor and the session lead applies it. |
+| **Post-contact review** | Radius before and after, the overlay, the viewer's full account taken the same day, and a counsellor's note at seven and twenty-eight days directed at whether the viewer has contacted anybody who appeared in the memory. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Observe from the painted line, with the glass angled away, in sessions of one authorised viewing or none. Record the edge, the overlay, the residue and the condition that ended the session. The form here is the sorrow and not a strategy: a service that worked, a vault that held until it did not, and the contents set in crystal where they can be shown to anyone who looks.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -339,31 +339,31 @@ The mirror shows you a face you know and do not know. A hand you once held. A ro
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A cracked ancient mirror made from dark Han-crystal. It reflects not the present but a memory the viewer has forgotten or suppressed. Notable Features: - Its cracks correspond to buried or denied memories. - It cannot. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Object-Void form.
+**At first contact:** Cold off the glass before you are near it, and ash. The break reads as deliberate rather than accidental, which it is not, and that impression is in most first reports.
 
-**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Void has topography here — ridges of pressure, valleys of absence, a geography only the Object-Void could have made.
+**With continued exposure:** The aisle gets heavier. People in the stacks start to feel the sealed material the way you feel a crowd through a wall, and the catalogue work in that aisle slows measurably.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Direct gaze or physical contact. Effect: Projects a suppressed memory in complete emotional and sensory detail. Duration: Until the viewer looks away or the memory completes. Risk: Identity crisis, emotional distress, and possible Fracture from prolonged exposure. I-Relic (Indumentum) Tool. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** There is no transition. One moment it is dark crystal and the next it is a room you were in, with the sound, and you are in it until it finishes or you turn your head.
 
-**After departure:** You leave, but the Void follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** It follows people as certainty. Workers come away knowing something about their own history that they did not know that morning, and the counsellors ask at twenty-eight days who they have telephoned.
 
 ### Interaction Pattern
 
-Broken Mirror does not exist in isolation. Its recorded relationships with The Grieving Colossus, The Hollow Choir, The Maw, The Memory Weaver should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in the Archive that hold, take, or give back what people have put away. Each relation below has been observed and filed; none is settled; and all four were run with the case angled and nobody facing the glass.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone across several sessions before any paired approach, with radius, overlay and gauge logged throughout. Record the onset of any shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-Broken Mirror must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled. The wing's caution on all four is the same: this holding gives nothing to anything, and three of these relations are entirely one-directional.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Grieving Colossus** | Pauses near the Mirror and listens to its silence. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Choir** | Sings when the Mirror reveals a forgotten life. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Maw** | Pulses near the Mirror, recognizing the First Sorrow. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Weaver** | Attempts to claim memories reflected by the Mirror. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Grieving Colossus** | Stops near the case and stays there, which has been read as recognition since the first observation. | Four co-presences. It halts on all four, at a mean two metres from the case, and remains for six to nineteen minutes. Neither gauge has ever moved. The wing records a reliable behaviour with no measurable consequence to either party. | All four co-presences, the halt durations, and both flat series. |
+| **The Hollow Choir** | Sings when the glass is showing a forgotten life, which is the one effect in this file with an audience outside the wing. | Six co-presences. The singing began during the projection on five and after it on one; the Choir's gauge rose slightly each time and this holding's did not move. Nothing passes back, and the Choir's own file records the same. | All six co-presences, the onset timings, and both series. |
+| **The Maw** | Pulses near it, which has been read as recognition of the First Sorrow and is the most-cited line in this file. | Two co-presences, both at maximum authorised separation and both terminated early. The pulse was recorded on both occasions. No gauge moved, nothing was exchanged, and no further tests will be authorised while the Maw remains classed as it is. | Both co-presences, the pulse records, the separation distances, and the standing refusal. |
+| **The Memory Weaver** | Attempts to take what the glass shows, which would make it the only holding able to remove anything from this one. | Five attempts over three years. The Weaver has never taken a projection; four attempts produced nothing and the fifth produced material the viewer did not recognise. Nothing has ever been removed from this holding by any means. | All five attempts, the unrecognised material in full, and the viewer's statement. |
 
 **Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -398,23 +398,23 @@ Some sorrows are about what happened. Broken Mirror is about what was refused �
 **Classification:** Sorrow Entity — `C-IIα-081 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void · Object-Void manifestation
 **Common Name:** Broken Mirror
 **Containment Status:** Contained — Alpha Tree
-**Comprehension Level:** 1 — Initial
-**Threat Assessment:** Low. The Mirror shows sealed truths. Effect: viewers see what they paid to forget.
+**Comprehension Level:** 4 — Mastered. The earlier entry recording Initial comprehension predates the Mastered designation on the front sheet and is an error; it is corrected here.
+**Threat Assessment:** Low (α) by potency. The hazard is not force and not escape: it is that the holding works exactly as described, on whoever looks, and two personnel have not returned to duty after an authorised viewing.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- Do not look without authorization.
+- Viderehan and Ferrehan are both valid; Ferrehan is the approach that lowers the gauge and Viderehan the one authorised by default. The earlier entry naming Viderehan as the only primary is incomplete and is corrected here.
+- No viewing without named authorisation for that session, and no second viewing for anybody, ever.
 **Observation Notes:**
-- Formed from sealed truths that cracked their vault.
-- The fragments are sharp and true.
-**Cross-References:** Alpha Tree · The Keepers · The Mirror of Sorrows
+- Formed from sealed material that broke a vault whose inspection returns show no defect and are complete up to the failure.
+- The glass is accurate on most of what it shows and not on all of it, which is the subject of the verification file and the reason no single viewing is treated as evidence.
+**Cross-References:** Alpha Tree · The Keepers · the sealing ledgers · the verification file · the clearance viewings · the vault inspection returns
 **Faction Involvement:** Wound Walkers (Fracture-relevant)
-**Originator:** Citizens who brought truths to be sealed.
+**Originator:** Citizens who brought truths to the Keepers to be sealed, under a paid service with a receipt.
 
 ### Registry Addendum
 
 **Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after every authorised viewing, expansion, or unusual interaction: gauge, radius edge from the case, the crack overlay, frame residue, vault responses in the stacks, and the viewer's counsellor notes at seven and twenty-eight days. The overlay is traced by two people independently; a new crack found by only one is logged as found by one.
 ## Watch Record
 
 ### It Shows What Was Put Away
@@ -433,10 +433,56 @@ Ordinary force does not damage it, which has been established and is not reteste
 
 Citizens asked the Keepers to put memories away and the sealed material pressed until a vault gave, and the commissioning file holds the vault's maintenance history. It shows inspections on schedule and no defect found. The file prints the inspection returns in sequence up to the failure and makes no remark, the archivist noting only that the record is complete and that nothing in it anticipates what happened.
 
+### Thirty-One Checks, And No More
+
+The verification programme ran for three years and then stopped, and the wing still quotes its figures because it has no others.
+
+The question was simple: is what the glass shows true? It is checkable in a minority of cases. Where a projected memory concerned an event with an independent record — a death certificate, a tenancy, a ward admission, a person still living who could be asked — the Archive compared the projection against the record. **Thirty-one viewings were checked in that way.**
+
+**Twenty-three were accurate**, including in detail nobody could have supplied: dates, the order of rooms, the names of people the viewer could not name on waking. **Five could not be resolved** either way and are recorded as unresolved. **Three were wrong.**
+
+The three are the whole problem. They were not vague or impressionistic; they were specific and incorrect — a person in a room they demonstrably were not in, a season wrong by half a year, a conversation attributed to someone who had died before it. And in all three the viewer was certain. Two of the three remained certain after being shown the contradicting record, and one of those is one of the two personnel who did not return to duty.
+
+So the Archive's instrument is **right roughly seven times in eight**, which is high enough that people believe it and far too low for anything to be decided on it. The file states the consequence in one line and repeats it in the handling procedures: *no single viewing is evidence of anything.*
+
+The programme closed in the third year on a recommendation nobody has challenged. Verification required telling viewers which parts of their recovered memory were false, and the counsellors' submission — reproduced in full — found that this did more harm than the viewing had, consistently, in every case where it was attempted.
+
+The sample is therefore **thirty-one, and will not grow**. The accuracy figure in the handling procedures is derived from it, is nine years old, and is published with a standing note that the wing has decided not to improve it and should not be read as though it might.
+
+### Sealed, Paid For, And Delivered
+
+The descendants' claim was brought in the fifth year and is the only litigation this holding has attracted. Forty-one families, identified from the surviving payment ledger, asked for two things: the memories back in the vault, and the fees returned.
+
+They got neither, for reasons that have nothing to do with the Archive's conduct.
+
+**Re-sealing is impossible**, and the court did not pretend otherwise. The obligation the Keepers undertook became incapable of performance when the vault failed, and an obligation that cannot be performed is discharged. Nobody is in breach. The contract simply stops, at the moment of the failure, for both sides at once.
+
+The fees were the real argument, and it turned on a point the families had not expected. Money paid under a contract that is later discharged is recoverable where the payer **got nothing at all** for it. These payers got something. They got years — in most cases decades — of not remembering, which is precisely and entirely what they had bought. The service was rendered, fully, for as long as it was capable of being rendered. **A failure of consideration that is partial is not a failure**, and the fee was never apportioned by year because nobody had ever imagined the vault opening.
+
+The judgment is careful and the file quotes it rather than summarising it. It accepts that the families have suffered something real. It accepts that the Archive now holds, visibly, material those families paid to have hidden. It finds that there is no cause of action in those facts, because the Archive did what it promised for as long as it could, and the law has no remedy that consists of putting a memory back.
+
+The closing paragraph is on the first page of the Archive's own commissioning file, in the Keeper's hand: *we performed the contract. That is the finding. We should be careful never to mistake it for a defence.*
+
+### The Clearance Viewings
+
+Between the sixth year and the ninth, looking into it was part of being promoted.
+
+The instrument is short. Archive personnel applying for Keeper clearance at the second grade — the grade that gives access to the sealed stacks — were required to complete **one authorised viewing** and to submit the viewing record with the application. The stated purpose was candour: a Keeper with sealed material in their own history was a Keeper who might one day find it in the aisle they were cataloguing, and the Directorate took the view that it was better for everybody if that happened under supervision.
+
+The reasoning is not stupid. The risk it names is real and had materialised twice.
+
+**Fourteen candidates sat the viewing.** Nine were cleared. Two were refused, on grounds the file records as *material arising at viewing*. Three withdrew their applications during the process and **four people left the service within the year**, a figure the wing's own staffing return flags as the largest single-cause departure in the Archive's recorded history.
+
+The practice ended in the ninth year, quietly, when the verification file was read across to it for the first time. Nothing in the clearance scheme had ever accounted for the three-in-thirty-one error rate. Two clearances had been refused on the strength of an instrument the Archive's own research office had, three years earlier, declared insufficient to decide anything.
+
+Neither refusal has been revisited. The scheme that imposed the viewings contained no review provision, the clearance register records only the outcome, and a candidate refused at the second grade has no route to reopen a decision that recorded no reason beyond its own standard phrase.
+
+The objection is minuted at every annual review and is raised by the Archive's research officer, who holds the verification file. It holds that the clearance scheme and the verification finding sat in the same building, under the same signature, for three years, and that nobody read one against the other because no process required it; that two named people were refused advancement on material the Archive had already concluded was unreliable one time in ten, and that both of them are still in the service at the grade below; and that the ending of the practice was not accompanied by any step to put those two decisions right, so the only person in the Archive whose position improved when the error was found was the officer who found it. The minute records the objection as **correct in all three parts**. It records that a proposal to reopen the two refusals was drafted and has been deferred at three successive reviews for want of a procedure to reopen them under. And it records the research officer's closing line, minuted at her request: *we told them the glass was unreliable in year three and we kept promoting people by it until year nine. The glass is not what failed.*
+
 ## Trivia
 
-- The Mirror shows denial rather than an ordinary reflection.
-- Its original vault request records were lost when the Mirror formed.
+- Nobody has ever seen the room in it, at any angle, under any lighting the Archive has tried.
+- The sealing requests for the failed vault were lost with it; the payment ledger survived, so the Archive knows who paid and not what for.
 
 
 
@@ -444,9 +490,9 @@ Citizens asked the Keepers to put memories away and the sealed material pressed 
 
 - **Classification detail:** Broken Mirror is an Object/Place with Echo (II) — Repeats showing reflections coherence and Minor (α) — Low danger potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-A-01, Alpha Tree Archive — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the frame and the case, never by looking into it; the Archive holds two other mirrors and both of them show the room.
+- **Record detail:** Read this file beside the payment ledger and the verification file, which between them are the whole of what the Archive can honestly say about accuracy and consent.
+- **Containment detail:** Containment here is an angle and a painted line. The glass is not restrained by anything; what is restrained is where people stand.
 ## Document Information
 
 **Document ID:** SE-C-IIα-081
