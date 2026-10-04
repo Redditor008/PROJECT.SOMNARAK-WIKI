@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 21 / 303 dossiers free of template residue.**
+**Counter: 23 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,13 +225,13 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  8492
-median generic fraction       0.155
-worst                         0.413   SE-N-IIIβ-200 Chain of Memories
-clean at <= 0.05               11 / 303
+shared 8-grams (>= 10 files)  5172   (prose only; R-23 furniture excluded)
+median generic fraction       0.106
+worst                         0.298   SE-C-IIIγ-248 The Unconsoled
+clean at <= 0.05               79 / 303
 ```
 
-**Counter: 11 / 303 dossiers at the Tale standard (generic fraction ≤ 0.05).**
+**Counter: 79 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
 
 The threshold is set at 0.05 because that is what the eleven already-bespoke dossiers achieve
 (0.012–0.046) with all their furniture intact. Zero is not reachable at file level and is not the

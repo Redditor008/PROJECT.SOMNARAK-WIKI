@@ -16,10 +16,10 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **21 / 303** |
-| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **76 / 303** |
-| Archive median prose generic fraction | 0.107 |
-| **Dispositions classified (Workstream 5)** | **275 / 303** |
+| **Dossiers free of template residue (Workstream 6)** | **23 / 303** |
+| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **79 / 303** |
+| Archive median prose generic fraction | 0.106 |
+| **Dispositions classified (Workstream 5)** | **277 / 303** |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
 
@@ -71,10 +71,10 @@ The owner is right and the `0.00%` is also right. `tools/boilerplate_report.py` 
 
 | Measure | Value |
 |---|---|
-| Distinct residue lines | 136 |
-| Residue instances | 3481 |
-| Dossiers carrying residue | 282 / 303 |
-| **Dossiers clean (fixed counter)** | **21 / 303** |
+| Distinct residue lines | 135 |
+| Residue instances | 3424 |
+| Dossiers carrying residue | 280 / 303 |
+| **Dossiers clean (fixed counter)** | **23 / 303** |
 
 Opening baseline was 146 distinct / 3,745 instances / 11 clean. The first ten entities taken under this workstream were all drawn from the Workstream 5 pending pool, so each one closed a disposition row in the same commit as its clean.
 
@@ -107,9 +107,12 @@ and the sections around it are not. Measured with [`sect.py`](RULES/R-24_THE_TAL
 | `Warden Record` | 0.62 | `M.A.W.` · `Operational Parameters` · `Combat Record` | **0.97–0.98** |
 
 **First two files taken under this rule.** Moktak `N-IIβ-910` went 0.116 → **0.001** and Chain of
-Memories `N-IIIβ-200` — the most generic dossier in the archive — went 0.386 → **0.001** across
-seventy rewritten lines, which also released the last entity held pending under Reason 1. Both kept
-`RESIDUAL 0` and residue 0 and both grew: 4,114 → 4,665 and 5,476 → 6,607 words.
+Memories `N-IIIβ-200` — then the most generic dossier in the archive — went 0.386 → **0.001** across
+seventy rewritten lines, which also released the last entity held pending under Reason 1.
+Survivor's Span `N-IIβ-993`, the second worst, went 0.360 → **0.002** across sixty-two lines. All
+three kept `RESIDUAL 0` and residue 0 and all three grew: 4,114 → 4,665, 5,476 → 6,607 and
+4,859 → 5,966 words. Each of the latter two closed a Workstream 5 row in the same commit, because a
+dossier cannot be classified while its interaction cells are instructions to an observer.
 
 An earlier version of this block claimed the ten batch-2 dossiers were still generic at 0.103–0.129.
 That was the first, furniture-blind cut of the metric. On prose they measure **0.014–0.041** and all
