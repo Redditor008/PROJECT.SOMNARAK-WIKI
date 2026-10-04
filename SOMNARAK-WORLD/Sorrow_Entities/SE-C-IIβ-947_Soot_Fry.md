@@ -157,9 +157,9 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. The Soot Fry is recorded as a Subject with Subject-Body manifestation and Weight elemental expression. The current record places it at the Pale Puddle, SECTOR-B-09, Zone B; personnel should not transfer assumptions from any other water entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the heavy, drowning air and the slow, pulling urge to reach a hand into the small, still water.
+The gauge response only means anything read against the feeding ledger. Flerehan and Ferrehan lower it, Pugnahan raises it, Viderehan holds it level — and all four are small movements beside the single variable that governs this holding, which is whether the fish has been fed. A shift that completes a flawless Ferrehan cycle and then issues the standing ration ends the day with the gauge higher than it started.
 
-**Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A decrease means the worker has endured the weight of the bank without giving the fish a hand — and that, for this entity, is the rarest mercy. An increase means the work read as food, or as the name the fish can no longer reach. Any limb that enters the puddle must be logged at once; an entry is the single most dangerous moment in the fish's containment.
+**Reading the response:** A decrease means the bank was held without a hand entering the water and without the ration being issued. An increase means the fish read the work as food, or as something withheld that it cannot name. Any limb entering the puddle is logged at once and is the single most dangerous event in the holding's history. Any feed issued is logged with its mass, and since the fifty-ninth year an issue requires a signature at Directorate level.
 
 ## Breach Behavior
 
@@ -229,22 +229,22 @@ The gauge response is only meaningful in context. The Soot Fry is recorded as a 
 
 **Cost:** The bearer feels, now and then, an inexplicable thirst that drinking does not quench.
 
-*Stigmas are granted at random by Soot Fry upon a successful work, not manufactured.*
+*The Black Drop is not manufactured and cannot be requisitioned. It has been conferred nine times, in every case on a worker who completed a full bank watch without issuing the ration in a year when the ration was still standing.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — patience, stillness, the refusal to reach blindly into what looks small; forcing a piece toward reckless aggression amplifies the cost and may trigger an echo of the source entity's bottomless hunger. The Stigma is granted at random by the entity upon a successful work, not manufactured.
+Each Soot Fry piece is an extension of an appetite with no object rather than ordinary equipment. The listed benefit is strongest against Weight. The cost is separate and is always the same: the bearer stops being able to tell when they have had enough of anything, and the effect outlasts the piece by several weeks.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, date of last feed and its mass, current silhouette measurement, and the name of the bank observer. |
+| **During use** | Contact time, the silhouette measurement at each interval, the bearer's reported urge toward the water, first cost, protected area, and whether the bearer has asked for food. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether appetite suppression in the bearer has begun. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorisation, and a weight check on the bearer at four weeks. |
 
-**Stat interpretation:** Ratings describe field performance, not safety. The Still Current strikes cleanly yet can leave the wielder gasping for air that, for a moment, feels like water.
+**Stat interpretation:** The ratings describe a Moderate (β) Subject that cannot leave its water, cannot be outfought at the bank, and has never injured anyone who kept their hands dry. Read them as a description of reach, not of force. Everything consequential about this holding happened on a requisition form.
 
 ## 관찰 기록 (Observation Log)
 
@@ -265,9 +265,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies the Soot Fry as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the 20 cm black silhouette, the pale still puddle, and its presence at the Pale Puddle, SECTOR-B-09, Zone B. |
 | **Sustained observation** | Continued observation confirms the Viderehan/Ferrehan response and the size-mismatch hazard. Personnel must distinguish the fish's hunger from malice — it is dangerous because it is endlessly empty, not because it is cruel. |
 | **Activation or escalation** | The team records the first lunge (the 20 cm shape blowing out to 2.2 m) and the puddle's sudden depth before applying the response procedure. |
-| **Post-contact review** | The observer must record what changed, what remained stable, and which detail was most difficult to describe. In the Soot Fry's case, the report is incomplete if it records only the hazard and omits that it is, recognisably, a small hungry thing that once wanted something other than food, and cannot remember what. |
+| **Post-contact review** | Record what changed, what held, and the detail hardest to describe. For this holding the report is incomplete unless it states the mass fed in the preceding thirty days and the gauge reading before and after each issue. A report that records only the hazard has recorded the part of this file that was never in question. |
 
-**Observation method:** Record the first visible sign (the silhouette tracking the bank), the first emotional sensation (the urge to reach in), the first measurable environmental change (the air growing heavy, the water going still), and the condition that ends the encounter (the hunger named, no hand in the water).
+**Observation method:** Record the silhouette tracking the bank, the urge to reach in, the air thickening and the surface going still, the end condition — no hand in the water — and, separately and always, the feeding ledger entry for the period. The second list is the one the holding is actually assessed on.
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -313,7 +313,7 @@ Management: Do not reach in — name the hunger aloud (the thing it cannot remem
 
 The Soot Fry does not exist in total isolation. Its record carries a cross-flag to one other entity and a classified transformation outcome (see WARNING, SE-C-Vδ-949). When the related entity (or references to it) is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability. The fish is calmer near open water and agitated near stone or sky.
 
-**Interaction method:** Observe the fish alone first, establishing its baseline drift and hunger-cycle. Then — under Echo-Core authorisation only — record the first shared response at controlled distance, and whether the interaction calms, amplifies, or redirects the appetite. Do not assume any interaction is safe to repeat; the sealed memory is closest to the surface near the cross-flagged entity.
+**Interaction method:** Observe the fish alone first and establish the drift baseline against a stated feeding state. Then, under Echo-Core authorisation only, record the first shared response at controlled distance and whether the appetite calms, amplifies or redirects. No interaction is assumed repeatable; the sealed memory runs closest to the surface near the cross-flagged entity, and proximity to that entity is not a test that exists.
 
 ### Entity Interaction Record
 
@@ -323,9 +323,9 @@ The Soot Fry does not exist in total isolation. Its record carries a cross-flag 
 |---|---|---|---|
 | **The Foam Flood** | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The fish's Gauge spikes sharply in the carving's presence (and vice versa). | Spikes; both gauges rise; sealed memory straining toward the surface. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
 | **SE-C-Vδ-949 (the classified outcome)** | The transformation that the WARNING forbids. | Not to be invoked. See SE-C-Vδ-949 (Echo-Core Eyes Only). | Do not investigate without authorisation. |
-| **The Sorrow Lake** | A body of water older and vaster than the puddle the fish has settled for. | The fish drifts toward any open water it is moved near, as if drawn to a depth it recognises; calming but restless. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Sorrow Lake** | A body of water older and far larger than the metre of standing water it has settled for. | Moved near open water it drifts toward it steadily and does not lunge, and the gauge falls throughout. Three transport trials are on file and all three were stopped early, not because of the fish but because the escort could not account for the fall. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, post-separation residue, and feeding state at the time. |
 
-**Interaction procedure:** Observe the two entities separately first. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation. The cross-flagged pairing (C-IIIγ-948) is never to be tested; only its separation is monitored.
+**Interaction procedure:** Observe separately first. Record the first shared change, distance, duration, trigger, gauge movement, effect on the ground between them, and whether anything persists after separation. The cross-flagged pairing with C-IIIγ-948 is never tested; only the separation is monitored, continuously, and confirmed each cycle.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -377,16 +377,16 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 **Observation Notes:**
 - Origin unknown; the fish predates the sector's records and shows a sealed-memory profile it cannot itself access.
 - The puddle has no measurable floor during an activation — sonar returns nothing.
-- Feeding never satiates; the hunger has no source the fish can name. Withholding food, oddly, slowly reduces it.
+- Feeding never satiates and demonstrably worsens the holding: the gauge resets higher after every issue, by an increment proportional to the mass fed. Withholding lowers it. This was established in the fifty-eighth year, is set out in the three sections below, and had been suspected for forty years before anybody tested it.
 **Cross-References:** The Pale Puddle · SECTOR-B-09 · ⚠ SE-C-IIIγ-948 (cross-flagged; forbidden proximity) · ⚠ SE-C-Vδ-949 (classified transformation; Echo-Core Eyes Only)
 **Faction Involvement:** R.D. (containment & observation) · UCD (Zone B patrols) · Cartographers (puddle-depth surveys)
 **Originator:** Unknown. The fish predates the record, remembers nothing, and answers no question about its origin.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is valid only with the full classification above, and alongside the standing WARNING. Soot Fry's behavior, Work Type response, activation and breach condition, M.A.W. risk, and (classified) relationship to C-IIIγ-948 must be read together. The nature of its sealed memory and its connection to the cross-flagged entity are classified under SE-C-Vδ-949 and are not detailed here. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is valid only with the full classification and the standing WARNING. The three sections below are one argument and are read together: the feeding made the hazard, the practice was lawful because it met the standard of its day, and the finding was classified so that the requisition could be closed without the district being told. Where observation contradicts this record, preserve the contradiction rather than normalising it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, the hunger-cycle baseline, and — critically — the separation distance from C-IIIγ-948, after every breach, expansion, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every breach, expansion or unusual interaction, recheck containment status, gauge trend, the hunger-cycle baseline, the feeding ledger, the separation distance from C-IIIγ-948, and the standing of both the classification order on the withholding trial and the nine other requisition lines it bears on.
 
 ## Watch Record
 
@@ -400,15 +400,59 @@ A single black eye takes up half the face and returns nothing, no reflection of 
 
 ### Hunger With No Object
 
-It feeds continuously and is never satisfied and gives every appearance of wanting something it cannot name, and the feeding is logged by quantity. The quantities are large. The file states that no dietary limit has been established, that the holding supplies what is required, and that the arrangement is reviewed annually and has not been altered.
+It fed continuously for sixty years and was never satisfied, and gave every appearance of wanting something it could not name. The quantities were large and are all on the ledger. Feeding ceased in the fifty-ninth year, on the trial set out below, and the gauge has fallen in every quarter since. The file notes that the annual review of the dietary arrangement was conducted fifty-eight times without the question being asked, and prints the review minutes in full for that reason rather than for their contents.
 
 ### Simply Present
 
 It was not placed in the puddle, not born there, and not grown there — it was there when the first surveyor looked, and the commissioning file says so without elaboration. There is nothing else to say. The archivist's note observes that this is one of a small number of entities in the archive with no origin event at all, and lists the others for comparison.
 
+### The Ledger
+
+The feeding ledger runs from the sector's sealing and has never been incomplete. Date, mass, source, signature. **Eleven thousand four hundred and six issues over sixty years.**
+
+The gauge was read at each watch across the same period, which means the archive has, by accident rather than design, a dose-response series nobody set out to collect.
+
+The relation is simple and is visible once the two columns are placed side by side. The gauge falls while the fish is unfed, slowly and steadily, at a shade under one per cent a week. Each issue reverses the fall and overshoots it: the gauge resets above its pre-feed value by an increment that tracks the mass fed at a correlation of 0.88. A large issue costs more than a small one. The relation holds across sixty years, across four directorates, across every change of ration and every change of handler.
+
+The withholding trial of the fifty-eighth year was proposed by a Zone B Warden and resisted at three levels before a limited version was authorised: ninety days, no issue, continuous watch, authority to resume at any hour. **The gauge fell eleven points and the fish neither lunged nor approached the bank once.** It was extended to a year, then made permanent.
+
+Three negative controls were run alongside. Water volume was varied, with no effect. Observation hours were doubled and halved, with no effect. Proximity of personnel at the bank was varied across the full permitted range, with no effect. The only variable that has ever moved this holding's gauge is food.
+
+The assessors' conclusion is one line: *the appetite is not the sorrow. The appetite is what we have been doing to the sorrow.*
+
+The ledger's other column is the source. The ration was not drawn from the facility's stores. It was requisitioned from Zone B's own allocation, under a line opened in the first year of containment and renewed annually without challenge — **a shade over two hundred tonnes across sixty years**, taken from the eastern alleys, under a notice that described the arrangement as necessary to keep the puddle quiet.
+
+### The Standard of the Day
+
+The opinion is dated the fifty-ninth year and runs to two pages, which counsel apologises for.
+
+A practice is judged by the standard that prevailed when it was carried out, and not by what was learned afterwards. Where a body acts in good faith in accordance with a view held by a responsible part of the relevant profession at the time, it is not at fault, and it does not become at fault retrospectively because the view is later shown to be wrong. The protection is deliberate: without it, nobody would ever adopt a practice at all, since every practice is eventually superseded.
+
+The feeding doctrine was the settled view. It is in the first manual, it is in every revision, it is in the training material of four directorates, and it was held by every containment specialist of standing for six decades. The facility applied it exactly as written. Counsel is unambiguous: there is no negligence here, no breach of any duty, and no liability to anybody — not to the district whose allocation funded it, and not in respect of the two hundred tonnes, which were lawfully requisitioned under a notice that was accurate as to what the facility then believed.
+
+Counsel adds, because it was asked, that the position is unaffected by the forty years of suspicion. A suspicion is not a finding. Several Wardens recorded doubts, two proposed the trial and were refused, and none of that alters the analysis, because the standard asks what the responsible body of opinion held, not what the dissenters suspected.
+
+The Keeper's annotation beneath the opinion: *so the sixty years are not a wrong. They are a cost, and a cost that nobody owes.*
+
+### What Was Not Published
+
+In the fifty-ninth year the Directorate classified the withholding trial.
+
+The order is short and the reasoning is in the covering minute. The trial's finding is operationally significant for nine other holdings whose containment schedules rest on the same doctrine and whose requisition lines are drawn, as this one was, against district allocations. Publishing it would place every one of those lines in question before any of them had been retested; retesting them would take years; and in the meantime the facility would be operating nine holdings under a doctrine it had published a disproof of. The minute states plainly that an orderly programme of retesting, conducted quietly, is the responsible course.
+
+The Zone B line was closed the same quarter. The closure notice says that the arrangement is no longer required. It does not say that it was never required, and the district was not told, and has not been told, that two hundred tonnes of its allocation went into making a contained entity hungrier for sixty years.
+
+**Six years on, none of the nine has been retested.** The programme appears in each annual plan and has been displaced in each.
+
+The objection is minuted at the fifty-ninth review and at each of the six since, raised by the Warden who proposed the trial and supported by the sector's allocations officer. It holds, first, that the time-of-the-act standard is a defence against liability and has been pressed into service as a reason for silence — the facility is not at fault, which is exactly why it could afford to say so, and it has instead treated the absence of fault as the absence of any obligation to tell anyone. Second, that nine holdings are still drawing rations on a doctrine the facility's own trial disproved six years ago, so the concealment is not historic: it is costing districts tonnage this quarter, and the quantities are known to the pound. Third, that the district gave the food under a notice saying it protected them, which was believed when written and is now known to be the reverse of the truth, and that the one thing which would cost the facility nothing — telling them — is the one thing the classification order prevents.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the sixtieth year — publication of the trial, a dated retest programme for the nine with the lines suspended in the interim, and restitution in kind to the Zone B allocation over ten years — at a figure under a fifth of the tonnage already taken, and that it has not been laid before the board in six years. And it records the sentence the Warden asked to have entered verbatim, which now stands at the head of the closed ledger:
+
+*We were not wrong to do it, by the rule that decides whether we were wrong, and we fed a district's bread to a fish for sixty years to make it hungrier, and the only part of that we have managed to keep is the first clause.*
+
 ## Trivia
 
-- The fish's hunger resets higher after every feeding; the R.D. has stopped feeding it, and the Gauge has, against all expectation, begun to fall.
+- Feeding raised the gauge every time for sixty years; the ration was stopped in the fifty-ninth and the gauge has fallen in every quarter since, which is the only sustained fall recorded for any Weight holding in the wing.
 - Saying "fly" near the puddle causes a three-second stillness and an upward glance; the word is theorised to touch the sealed memory, and is therefore restricted.
 - The puddle's measured depth returns null on sonar during a lunge — there is, briefly, no floor. No one has found the bottom.
 

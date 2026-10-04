@@ -10,18 +10,18 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 
 | Measure | Value |
 |---|---|
-| Dossier body lines | 31082 |
+| Dossier body lines | 31101 |
 | Lines shared by 30+ dossiers | 1 |
 | **Headline** | **0.13%** |
 | Dossiers in the measured archive | 291 |
-| **Dossiers rewritten (fixed counter)** | **279 / 291** |
+| **Dossiers rewritten (fixed counter)** | **280 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 
 ## Workstream 1 — De-boilerplate (open)
 
 Whole-file rewriting of the worst-affected dossiers, one file per turn, bespoke per entity. Rules `R-02`, `R-04`, `R-05`, `R-14`, `R-15` all bind here.
 
-**Progress: 279 / 291 dossiers rewritten.** This denominator is fixed by [`R-20`](RULES/R-20_ONE_FIXED_DENOMINATOR.md) and does not move. The band fractions used before `R-20` — `73 / 73`, `10 / 10`, `8 / 8`, `1 / 76` — are superseded and are not progress figures; they described the queue, and the queue shrinks partly by spillover from other files' cleans. Headline trajectory 34.3% → 0.13%.
+**Progress: 280 / 291 dossiers rewritten.** This denominator is fixed by [`R-20`](RULES/R-20_ONE_FIXED_DENOMINATOR.md) and does not move. The band fractions used before `R-20` — `73 / 73`, `10 / 10`, `8 / 8`, `1 / 76` — are superseded and are not progress figures; they described the queue, and the queue shrinks partly by spillover from other files' cleans. Headline trajectory 34.3% → 0.13%.
 
 ### Queue depth — side figures, not progress
 
@@ -32,7 +32,7 @@ These say where the remaining damage sits and which file to open next. A fall in
 | at 20+ shared lines | 0 |
 | at 15+ shared lines | 0 |
 | at 10+ shared lines | 0 |
-| at 1+ shared lines | 40 |
+| at 1+ shared lines | 39 |
 
 ### Next targets, in order
 
