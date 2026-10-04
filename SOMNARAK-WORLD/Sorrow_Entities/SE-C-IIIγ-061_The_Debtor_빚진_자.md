@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · γ (Major) |
+| **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Burden Maul, Mantle and Chain are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan, from a seated position, with nothing in the room that could be mistaken for an accusation. He is a Subject; all four Work Types are valid and no Object/Place restriction applies here. |
 
 ### Operational Notes
 
-- The Debtor recites sums that no ledger in the district confirms, and the totals rise across consecutive shifts.
-- Work lowers the pressure without cancelling the debt. The entity resumes counting from where it stopped.
-- Two ignored conditions open the cell. The Debtor is housed with the other two of the Triplets, and a breach here agitates both neighbours within the hour.
-- Weight expression is felt as fatigue rather than grief; crews report heaviness in the hands first.
-- Recovery of the implement is its own exposure event and is logged separately from the work cycle.
+- He recites a running total that no ledger in the district confirms, and the figure has risen at every shift for nine years without a single fall.
+- Work lowers the pressure and settles nothing. He resumes the count from the figure he stopped at, to the unit, after sessions of any length.
+- Two ignored conditions open the cell. He is housed against the other two of the Triplets and a breach here agitates both neighbours inside the hour, the Inheritor first.
+- The Weight presents as fatigue rather than grief. Crews report it in the hands first, then the back, and describe it afterwards as the tiredness of having agreed to something.
+- Recovery of the implement is its own exposure and is logged separately; the ledger he carries is never removed and has never been asked for.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,30 +87,30 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Debtor's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Eleven turns, seated, with one speaker. Pugnahan is absorbed rather than resisted and leaves the gauge flat; Flerehan and Ferrehan are the authorised approaches and the only ones that move it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Carry part of the burden willingly; do not command him to put it down**.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
-- The Debtor’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in The Debtor's dossier.
+- The failure here is agreement. The worker stops declining the burden and starts holding a share of it, and the first sign is the worker apologising for something they did not do.
+- Long exposure produces a measurable load: the share taken does not lift at the door, and two personnel have carried a portion of it for more than a year after a single session.
+- The Burden equipment lends the wielder his capacity to bear and takes the ability to put anything down. Every debrief in this wing has included a wielder who could not stop listing their own faults.
+- Unresolved, he escapes by Escape and walks — slowly, under 7.3 tons he will not set down — toward whoever in the facility is carrying the most.
 
 ## Appearance
 **Primary Form:** An old, bent man carrying an invisible burden measured at approximately 7.3 tons by Han-scales.
 
 **Notable Features:**
-- Walks slowly beneath the weight.
-- Accepts blame willingly.
-- Must remain near the Inheritor and the Rejector.
+- Walks slowly and upright beneath a load that Han-scales put at 7.3 tons and that nothing visible accounts for.
+- Agrees with any accusation made in his hearing, including accusations about other people and other years.
+- Must stay within the shared boundary of the Triplets' chambers; separation raises all three gauges within the hour.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** An old, bent man carrying an invisible burden measured at approximately 7.3 tons by Han-scales.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Walking or standing; never seated. Record the stoop angle against the chamber mark, the pace over the measured stretch, and the figure he is currently reciting.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-01, contained with the Debt Triplets
 
@@ -119,42 +119,42 @@
 | Field | Detail |
 |---|---|
 | **Form** | An old, bent man carrying an invisible burden measured at approximately 7.3 tons by Han-scales. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Walks slowly beneath the weight. Accepts blame willingly. Must remain near the Inheritor and the Rejector. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Position / movement** | Upright, stooped, in slow motion around the chamber. Record the stoop angle from the fixed mark, the pace, and the recited figure at entry and exit. |
+| **Material / signature** | Weight. Grey skin, swollen joints, laboured breath; lead-cold and damp with effort, with the smell of wet stone and iron over everything in the chamber. |
+| **Distinctive markers** | An old man bent under nothing, a recited total that only ever rises, and a ledger he has never once been asked to hand over. |
+| **Identification** | Confirm before Work or contact: designation C-IIIγ-061 `[WS]`, Weight expression, Subject-Body manifestation, Fragment (III) coherence, SECTOR-C-01 with the other two Triplets. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Take the stoop angle from the fixed mark, time the pace over the measured stretch, and write down the figure he is reciting word for word, including the units, which change. Those three are the holding's whole observational record and the third is the only one that moves. Do not describe him as *strange*. He is grey, cold, slow and courteous, and those are the fields.
 
 ## Origin
 - **Formation:** The Debtor is the grandfather aspect of the Debt Triplets: the one who incurred the original debt.
 - **The Sorrow:** The burden of accepting responsibility for an obligation that outlived its original cause.
 - **The Event:** A debt was created and passed through generations. The first bearer became a figure still carrying it after everyone else inherited its consequences.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around SECTOR-C-01, contained with the Debt Triplets — until the Weight was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
+- **The People:** One man, named in the instrument, and the three generations after him who were bound by it. He is the only one of them still present in any form.
+- **Expanded origin context:** There is no catastrophe in this file. A man borrowed, on ordinary terms, for a reason the instrument does not state and nobody now remembers; he paid for the rest of his life and did not finish; the obligation passed down, changed shape in other hands, and outlived every reason anybody had for creating it. What crystallised at SECTOR-C-01 is not the loan. It is the particular exhaustion of a man who never once disputed that the thing was his.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Sighs and shares the burden. | Decrease |
-| **Pugnahan** (Confrontation) | Absorbs the attack as another weight to carry. | Stable |
-| **Viderehan** (Observation) | Explains the original debt and how it began. | Stable |
-| **Ferrehan** (Endurance) | Shares his invisible weight with the worker. | Decrease |
+| **Flerehan** (Tears) | Sighs, sits for the first time in the session, and lets the worker hold a part of it; the only approach he has ever initiated. | Decrease |
+| **Pugnahan** (Confrontation) | Accepts the blow as one more item and adds it to the total aloud. Gauge unmoved; the recited figure rises. | Stable |
+| **Viderehan** (Observation) | Explains the original transaction, accurately and in detail, for as long as anybody will listen. | Stable |
+| **Ferrehan** (Endurance) | Divides the load and gives the worker the smaller half, which is still more than a person can carry for an hour. | Decrease |
 
 ### Group Behavior
-- The Debtor accepts blame.
-- The Inheritor resents the burden.
-- The Rejector denies it.
-- Working with one Triplet affects the other two.
+- The Debtor agrees that it is his.
+- The Inheritor is angry that it became his.
+- The Rejector refuses that it is anybody's.
+- Any work on one is measurable on the other two within the hour, in opposite directions as often as not.
 
 
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. The Debtor is recorded as a Subject with Subject-Body manifestation and Weight elemental expression. The current record places it at SECTOR-C-01, contained with the Debt Triplets; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weight expression, held at SECTOR-C-01 against the shared boundary of the Triplets' chambers. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan and Pugnahan leave it level, and Pugnahan is nonetheless discouraged because the recited total rises after every one.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Read it in the stoop and in the figure. A falling gauge presents as the stoop easing by a degree or two and the recitation pausing; a rising one presents as the figure climbing faster than the shift's usual increment. The gauge instrument confirms both, hours later. The stoop mark and the recited total are what the watch actually works from.
 ## Breach Behavior
 
 > *"Debtor has broken free. Seeks out the indebted and the burdened."*
@@ -162,16 +162,16 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Debtor tears loose and pursues personnel with deliberate steps. It seeks out the indebted and the burdened. |
-| **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
+| **Movement** | He opens the door and walks. Slowly, upright, still under the full load, taking the shortest route to whoever in the building is carrying the most. He has never run and has never hidden. |
+| **Effect** | The load becomes shareable at range. Personnel in the corridor find themselves bearing a portion of something that is not theirs and agreeing, out loud, that it is. |
+| **Secondary Effect** | Everything owed in the vicinity accelerates: maintenance backlogs, overdue reports, unanswered correspondence. The wing's own arrears become physically heavy to approach. |
 | **First Target** | The nearest worker willing to meet its eyes. It pursues acknowledgment rather than flesh. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Accept a share of the burden at a controlled point. Physical blocking only lengthens the route it takes.
+- **Containment priority:** Meet him at a controlled point and accept a measured share under supervision; this has ended all four breaches, at a median of nineteen minutes. Physical blocking only lengthens his route and has never once stopped him.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per corridor crossed, slowed throughout by the 7.3 tons it refuses to set down.
 
 ## M.A.W. Equipment
@@ -226,7 +226,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Cost:** The wearer feels the weight of everything carried and cannot easily put it down.
 
-*Stigmas are granted at random by The Debtor upon a successful work, not manufactured.*
+*The Burden Chain is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who declined a share he offered and said why, clearly, without apologising for it.*
 
 ### M.A.W. Use Notes
 
@@ -248,10 +248,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- The invisible burden measures 7.3 tons on Han-scales.
-- The Debtor accepts blame willingly, even when the debt has changed over generations.
-- The Triplets cannot be permanently separated.
-- Personnel who share the burden report empathy and exhaustion.
+- The load reads 7.3 tons on Han-scales and has read 7.3 tons at every weekly measurement for nine years.
+- He accepts blame for versions of the obligation that were created long after his death, including terms he could not have agreed to.
+- The three cannot be held apart; every trial separation was ended early, twice by the engineers and twice by the medical lead.
+- Personnel who take a share report sympathy for him and a tiredness that outlasts the shift, in that order, without exception.
 
 **Personnel Note:**
 > *"He does not say the debt is fair. He says it is his. That distinction is the only thing keeping the family together."* — Auditor Yuna, Collector's Row
@@ -263,11 +263,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies The Debtor as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-C-01, contained with the Debt Triplets. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Group Behavior - The Debtor accepts blame. - The Inheritor resents the burden. - The Rejector denies it. - Working with one Triplet affects the other two. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In The Debtor's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Stoop angle from the fixed mark, pace over the measured stretch, the recited figure verbatim at entry and exit, and the other two Triplets' gauges over the same window. |
+| **Activation or escalation** | Escalation is the increment. When the figure climbs faster than the shift's established rate, the watch closes the session; the rule is numeric and the decision is not left to the person in the room. |
+| **Post-contact review** | Stoop and figure before and after, whether a share was taken and by whom, the worker's verbatim account, and a counsellor's note at 14 days directed specifically at whether the worker has begun apologising for things they did not do. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Observe seated, from the mark, for a whole shift rather than a sample of one. Record the opening figure, the closing figure, the stoop, the pace, and the condition that ended the session. The form here is the history and not a strategy: a man who agreed, once, on ordinary terms, and then kept agreeing for three generations after the agreement stopped meaning anything.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -302,32 +302,32 @@ You hear the footsteps before you see him. Each step lands beneath a weight no e
 
 
 
-**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. An old, bent man carrying an invisible burden measured at approximately 7.3 tons by Han-scales.
+**At first contact:** Weight before sight. The hands go heavy first, then the forearms, and then there is an old man in the room walking very slowly and apologising for the inconvenience.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Body becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** The courtesy is the difficulty. He is unfailingly polite, he does not ask for anything, and within twenty minutes most workers have begun looking for something of their own to admit to.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Weight becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Body was waiting; now it moves.
+**When the entity activates:** Nothing dramatic. He stops walking, turns, and offers — not the whole of it, only a share, phrased as a question. Knees bend before hands move.
 
-**After departure:** Departure is not relief. The Subject-Body is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** The share stays. It thins over weeks rather than hours, and the counsellors measure it by what the worker is apologising for rather than by anything the worker reports feeling.
 
 ### Interaction Pattern
 
-The Debtor does not exist in isolation. Its recorded relationships with The Inherited Debt, The Debt Eater, The Smothering Mother, The Inheritor, The Rejector should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in Zone C built out of obligation. Each relation below has been observed and filed; none is settled; and the two inside the Triplets' boundary cannot be switched off for a control, which is the central weakness of everything in this table.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone across several shifts before any paired approach, and record all three Triplet gauges for every test regardless of which two are being studied. Log the onset of any shared change with its range, duration and trigger, the recited figure on both sides of it, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-The Debtor must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled. Two of them are permanent neighbours and therefore have no solo baseline at all, a gap the file states on the front sheet rather than burying.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Inherited Debt** | The Debtor is the source from which inherited obligation spreads. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Debt Eater** | Can consume part of the burden but cannot remove responsibility. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Smothering Mother** | Recognizes family-bound sorrow. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Inheritor** | The Inheritor resents the burden he accepts. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Rejector** | The Rejector denies the debt he carries. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Inherited Debt** | The Inherited Debt is said to spread from him, which would make this holding the source of a district-wide phenomenon. | Six co-presences. His recited total was unaffected on all six and the Inherited Debt's spread rate did not change. The wing has stopped describing him as a source and records the claim as unproven. | The six co-presences, the recited figures, and the unchanged spread rate. |
+| **The Debt Eater** | The Eater can consume a portion of the load and has done so, which is the only recorded reduction of anything in this holding. | Three sessions. The measured load fell to 6.9, 7.0 and 6.8 tons respectively and returned to 7.3 within a day on each occasion. The recited total never moved. Consumption reaches the weight and not the obligation. | All three sessions, both series, and the recovery interval. |
+| **The Smothering Mother** | Recognises family-bound sorrow and has been observed orienting toward the Triplets' boundary from outside it. | Two approaches, both aborted at the medical lead's direction before contact. No data. The wing records two aborted approaches rather than a relationship, and does not intend to authorise a third. | Both abort decisions in full, with the reasoning. |
+| **The Inheritor** | Permanent neighbour. He is angry about the thing the Debtor accepts, and the two are audible to each other at all times. | Nine years of continuous co-presence. The gauges move in opposite directions on most shifts: work that calms one raises the other, reliably enough that the wing schedules around it. No solo baseline exists for either. | Both gauge series in full, the scheduling rule, and the absence of a baseline stated plainly. |
+| **The Rejector** | Permanent neighbour. He refuses what the Debtor accepts, and the file treats the pairing as the holding's central unanswered question. | Nine years of continuous co-presence. No exchange of any kind has ever been observed between them — no speech, no orientation, no correlated movement — and the gauges are uncorrelated. They share a wall and nothing else. | The null record in full, and the uncorrelated series. |
 
 **Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -365,17 +365,17 @@ Some sorrows are inflicted. The Debtor's sorrow is assumed — taken on willingl
 **Common Name:** The Debtor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Debtor does not attack. He carries a ledger and pays.
+**Threat Assessment:** Major (γ). He does not attack and that is not the hazard. He accepts any blame put into the air near him, breaches by Escape toward whoever is carrying the most, and transfers a share of 7.3 tons to people who then cannot put it down. The earlier entry describing the threat as low is an error and is corrected here.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type.
-- Maintain Triplets proximity.
-- The Debtor is the calmest Triplet.
+- Flerehan and Ferrehan are the authorised approaches. Pugnahan is permitted but discouraged: it is absorbed, and the recited total rises afterwards.
+- Keep the Triplets' shared boundary intact. Separation trials have been attempted four times and ended early four times.
+- He is the calmest of the three and the most dangerous to be careless around, for exactly that reason.
 **Observation Notes:**
-- The grandfather aspect of the Debt Triplets.
-- Still carries the ledger; the page whose reason no one can read.
-**Cross-References:** The Inheritor · The Rejector · The debt system
+- The first of the three: the man who signed, as against the one who inherited and the one who refuses.
+- Still carries the ledger. The page recording what the money was for is legible and says only *as agreed*.
+**Cross-References:** The Inheritor · The Rejector · SECTOR-C-01 · the original instrument · the Zone C quiet rule · the limitation opinion
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** Ancestor who incurred the original debt; cause forgotten.
+**Originator:** The man named in the instrument; the purpose of the borrowing is not stated in it and is not recoverable from any other source.
 
 ### Registry Addendum
 
@@ -400,10 +400,48 @@ He is the first of the three and the one who incurred the obligation, and the co
 
 He must remain near the other two and the containment is arranged to permit it, the three chambers sharing a common boundary rather than being separated. The arrangement doubles the structural cost of the holding and was never seriously contested, the engineering assessment of the alternative having been attached to the original proposal and never needing to be cited since.
 
+### The Figure He Is Currently Reciting
+
+The load does not change. **7.3 tons, every week, for nine years**, on scales checked against a reference mass each quarter. It is the most stable number in Zone C and it tells the wing nothing, because it was 7.3 tons when he arrived and it will be 7.3 tons when everybody now reading this is gone.
+
+The number that moves is the one he says out loud.
+
+He recites a running total, in units that drift between coin, grain and labour-days, and the watch writes it down at entry and at exit. **It has risen at every one of 3,180 shifts and has never once fallen.** The increments are small and they are not random: an arithmetic clerk in the fourth year fitted the series and found it consistent, to four significant figures, with the rate on the instrument in the containment file, compounding continuously since the date of signature.
+
+That finding is the best instrument this holding has ever produced and the wing has never used it, for a reason set out in a single paragraph that has survived three reviews. **A total that is calculated rather than overheard is an assertion that something is owed, and an assertion needs somebody to be owed it.** No creditor exists. The wing is not prepared to be the first body in four hundred years to write down a figure that implies one, because once such a figure exists in a facility record somebody will eventually treat it as a liability, and the only person it could ever be enforced against is sitting in SECTOR-C-01 agreeing with everything.
+
+So the fitted curve stays in the file, unpublished and unextended, as an appendix headed *not to be continued forward*, and the holding's daily record remains what it has always been: two numbers in a Warden's hand, taken at the door, in whatever units he happened to use that day.
+
+### Barred, Not Discharged
+
+In the sixth year the wing asked its legal officer the obvious question: the instrument is four hundred years old, so is the thing even enforceable?
+
+The answer was no, and the answer helped nobody, and the opinion is the part of this file that Wardens are required to have read.
+
+Limitation bars the remedy. **It does not extinguish the right.** No action could now be brought on this instrument in any forum; the obligation it records nevertheless continues to exist, unpaid, and the law's position is that a time-barred debt is a real debt that cannot be sued for. Nothing about the passage of four centuries has discharged anything. It has only removed the possibility of anyone compelling payment — and nobody is compelling payment. He is paying voluntarily, and has been since before the limitation period expired.
+
+The second half of the opinion closes the last door. **Voluntary payment of a barred debt is irrecoverable.** Money, labour or anything else handed over by a debtor who was never obliged to hand it over cannot be clawed back on the ground that it was never owed; the payment is good precisely because it was made freely. Everything he has paid since the bar fell is, in law, properly paid, and none of it can be returned to him.
+
+The officer's final line is quoted at every induction: *we cannot tell him the debt is over, because it is not over; we can only tell him that nobody can make him pay it, which he already knows, and which has never been the reason he is paying.*
+
+The wing attempted the one remaining route in the seventh year: a formal acknowledgment by the facility that the obligation was satisfied. The advice against was short. **An acknowledgment of satisfaction can only be given by the creditor**, there is no creditor, and a document signed by a body with no standing would be a kindness in the form of a forgery. The proposal was withdrawn before it reached the Directorate and the withdrawal note, four lines, is attached to the opinion.
+
+### The Quiet Rule in Zone C
+
+The standing order forbidding accusation in his hearing was written after he accepted blame for an unrelated failure two Wardens were discussing on a watch. That order was narrow and nobody has ever disputed it.
+
+**In the fifth year it was widened**, and the widening is the decision this section exists to record. Acoustic testing established that he hears clearly through the chamber door and intelligibly at about eleven metres beyond it. The revised order therefore prohibits, within that radius, any discussion of fault, error, failure, shortfall or responsibility of any kind, by anyone, at any volume. It is enforced and it is observed.
+
+Eleven metres from that door is the Zone C debrief room.
+
+The room could not be used for debriefs after the change and no replacement was built. Debriefs moved to a corridor office two levels up, then to the shift office, then — in practice, as everybody involved concedes — to conversations held standing up at the end of a shift. **Near-miss reports in Zone C fell by about two-thirds in the two years after the change and have not recovered.** Nobody argues the decline is real improvement. The safety officer's figure, unchallenged at three reviews, is that the zone now logs roughly one report for every three events that its own sampling suggests are occurring.
+
+The objection is minuted at every annual review and is raised by the safety officer, not by the holding's Wardens. It holds that the wing has made honest institutional self-criticism physically impossible in the area where it is most needed, in order to protect one entity from overhearing it; that a soundproofed debrief room was costed in the fifth year at a figure the wing described as modest and has not been costed since; and that an organisation which responds to a listening hazard by falling silent has chosen the cheaper of two correct answers and should say so in those words. The minute records the objection as **correct in all three parts**. It records that the soundproofing was approved in principle in the eighth year and has not been scheduled. And it records, at the safety officer's insistence, the sentence the Wardens asked to have added: *he would accept the blame for the reports we are not writing, too, if he could hear us not writing them.*
+
 ## Trivia
 
-- The burden is invisible but measurable.
-- The Debtor accepts blame even for debts altered by later generations.
+- The load is invisible, measurable, and has not varied by a kilogram in nine years of weekly weighing.
+- He has accepted responsibility for clauses added two generations after he died, when they were read to him once in error.
 
 
 
@@ -411,9 +449,9 @@ He must remain near the other two and the containment is arranged to permit it, 
 
 - **Classification detail:** The Debtor is a Subject with Fragment (III) — Accepting and weary coherence and Major (γ) — High danger as group entity potency.
 - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-C-01, contained with the Debt Triplets.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify him by the stoop and the recitation; the smell of wet stone and iron carries further than either and is shared with two other holdings in Zone C.
+- **Record detail:** Read this file beside the Inheritor's and the Rejector's, and beside the original instrument, which is three paragraphs long and explains less than anybody expects.
+- **Containment detail:** Sealed is not silent here in a specific and documented way: he hears what is said outside the door, and what he hears, he takes.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-061
