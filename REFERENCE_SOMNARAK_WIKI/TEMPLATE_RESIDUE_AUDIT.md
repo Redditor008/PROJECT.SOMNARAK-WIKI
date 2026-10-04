@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 56 / 303 dossiers free of template residue.**
+**Counter: 61 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,13 +225,34 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  4320   (prose only; R-23 furniture excluded)
-median generic fraction       0.071
-worst                         0.228   SE-O-IIIγ-915 Corrosion Dream
-clean at <= 0.05              116 / 303
+shared 8-grams (>= 10 files)  4165   (prose only; R-23 furniture excluded)
+median generic fraction       0.068
+worst                         0.195
+clean at <= 0.05              121 / 303
 ```
 
-**Counter: 116 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+**Counter: 121 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+
+**Second `R-26` batch, 2026-10-05 — five shipped, all by the keyed-line method.**
+
+| Dossier | Before | After | Instrument |
+|---|---|---|---|
+| The Final Door `C-Vδ-111` | 0.228 | **0.001** | a thirteen-second whisper, forty-one transcripts, no two alike |
+| Laughing Mask `C-IIβ-210` | 0.215 | **0.003** | the length of each silence against the district's demeanour standards |
+| Pandora's Jar `N-IVδ-967` | 0.211 | **0.002** | air temperature at four bearings against the facility's disposal register |
+| Sorrow Tide `C-Vγ-260` | 0.198 | **0.000** | nine gauge stations, a printed almanac, and shelter attendance |
+| Banyan `N-IVδ-606` | 0.197 | **0.005** | root depth at eleven points against the district's public-display record |
+
+**The ratchet still has not fired, and the reason has changed.** Last batch the five worst were
+simply hard. This time a scan established something structural: **there are no short-form dirty
+dossiers left at all.** Every one of the 182 files still above 0.05 is long-form. `R-26`'s first
+route to seven and ten — short-form simplicity — is therefore closed for the rest of this
+workstream, and the ratchet can only fire on the second route, part-bespoke files under about 0.15.
+Those exist in quantity and will be reachable once the worst-first queue drops below that line.
+
+**No duplicated-Tale files remain anywhere in the archive**; the last of the seven was cleared in
+an earlier batch, and the scan now returns a single file with any repeated paragraph at all.
+
 
 **First `R-26` batch, 2026-10-05 — five shipped; the ratchet did not fire, and why.**
 
