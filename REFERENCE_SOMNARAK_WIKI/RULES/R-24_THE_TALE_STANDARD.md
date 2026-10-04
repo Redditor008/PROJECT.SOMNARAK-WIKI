@@ -56,10 +56,15 @@ prose — incidental overlap rather than a shared skeleton.
 ## What this rule adds that the existing tools cannot see
 
 `tools/boilerplate_report.py` and `tpl.py` both compare **whole lines**. A paragraph generated from a
-pattern and then given a different noun is not a repeated line and is invisible to both. Proof:
-the ten dossiers rewritten in the second Workstream 6 batch all reached `RESIDUAL 0` and residue 0,
-and still measured **0.103–0.129** generic. Clearing the line-level tools is necessary and not
-sufficient.
+pattern and then given a different noun is not a repeated line and is invisible to both — the fifty-odd
+mad-libbed sentences found in Chain of Memories had all survived a Workstream 1 clean.
+
+**A correction belongs here.** When this rule was first written it claimed the ten dossiers of the
+second Workstream 6 batch were *not* bespoke, on the strength of whole-file scores of 0.103–0.129.
+That was the metric's fault, not the dossiers'. Measured on prose only they score **0.014–0.041** and
+all ten are at the standard. The honest version of the claim is narrower and still worth keeping:
+clearing `tpl.py` and `verify.py` is necessary but not sufficient — Chain of Memories reached
+`RESIDUAL 0` under the old scope and still read 0.386 on prose.
 
 ## Binding constraints
 

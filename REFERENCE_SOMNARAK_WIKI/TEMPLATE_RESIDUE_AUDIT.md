@@ -237,10 +237,17 @@ The threshold is set at 0.05 because that is what the eleven already-bespoke dos
 (0.012–0.046) with all their furniture intact. Zero is not reachable at file level and is not the
 target; the furniture is supposed to match.
 
-**The ten entities rewritten in batch 2 scored 0.103–0.129 afterwards, not ≤ 0.05.** Clearing
-`tpl.py` and `verify.py` to zero does *not* make a dossier bespoke. What survives in them is
-exactly the list above: Combat Actions flavour, Battle Phases, M.A.W. appearance and ability
-lines, Threat Assessment. That is the work this measure adds.
+**Corrected 2026-10-05.** The first cut of this measure hashed whole files, so a dossier was scored
+on the `R-23` furniture it is supposed to share — the R.D. Operational Record blockquote alone
+contributes twenty-five shared shingles to every file carrying it. On that basis the batch-2 ten
+looked unfinished at 0.103–0.129. `sect.py` now excludes furniture before shingling and those ten
+measure **0.014–0.041**: they were at the standard already. The counters above and in
+`WORK_IN_PROGRESS.md` are the prose-only figures.
+
+What the corrected measure does find is a long tail of dossiers that passed Workstream 1 and both
+line-level tools and are still written from a pattern. Chain of Memories `N-IIIβ-200` read
+**0.386** at `RESIDUAL 0`; seventy of its lines were generated prose, including four whole
+paragraphs and every cell of its observation and interaction tables. Rewritten, it reads **0.001**.
 
 ## A generator artefact found by this pass
 

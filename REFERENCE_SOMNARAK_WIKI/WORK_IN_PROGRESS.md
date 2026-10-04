@@ -106,13 +106,17 @@ and the sections around it are not. Measured with [`sect.py`](RULES/R-24_THE_TAL
 | `Appearance` | 0.52 | `Registrum` · `Final Observation` | 0.96 |
 | `Warden Record` | 0.62 | `M.A.W.` · `Operational Parameters` · `Combat Record` | **0.97–0.98** |
 
-Scores are measured on prose only — `sect.py` skips `R-23` furniture before shingling, because a
-dossier should not be penalised for the blockquotes and SECC-forced rows it is *supposed* to share.
-Archive median generic fraction **0.107**, worst 0.386 (`N-IIIβ-200` Chain of Memories), **76 / 303**
-at ≤ 0.05. The ten dossiers rewritten in the last batch reached `RESIDUAL 0` and residue 0 and still
-measure 0.103–0.129 — **clearing the line-level tools does not make a dossier bespoke.** What
-survives them is the Combat Actions flavour text, the Battle Phases, the M.A.W. appearance and
-ability lines, and the Threat Assessment paragraph. That is the next tranche of work.
+**First two files taken under this rule.** Moktak `N-IIβ-910` went 0.116 → **0.001** and Chain of
+Memories `N-IIIβ-200` — the most generic dossier in the archive — went 0.386 → **0.001** across
+seventy rewritten lines, which also released the last entity held pending under Reason 1. Both kept
+`RESIDUAL 0` and residue 0 and both grew: 4,114 → 4,665 and 5,476 → 6,607 words.
+
+An earlier version of this block claimed the ten batch-2 dossiers were still generic at 0.103–0.129.
+That was the first, furniture-blind cut of the metric. On prose they measure **0.014–0.041** and all
+ten are at the standard; the claim has been corrected here and in `R-24` rather than quietly dropped.
+What survives in a typical unrewritten file is the Combat Actions flavour text, the Battle Phases,
+the M.A.W. appearance and ability lines, the observation-stage cells and the stock interaction
+effects — 227 dossiers still sit above 0.05.
 
 One generator artefact was found and repaired by this pass: 29 dossiers published an unevaluated
 Python expression in the Combat Record `Difficulty` row, with the entity's numeric suffix standing
