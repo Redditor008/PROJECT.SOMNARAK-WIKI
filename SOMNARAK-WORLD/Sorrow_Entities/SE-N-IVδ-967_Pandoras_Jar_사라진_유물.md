@@ -28,13 +28,13 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per cycle, collected in the open Desolate beside a heat source that is not burning anything. The survey office bills the cycle as a thermometry run, which is what it looks like from outside. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Take the temperature, bear the heat, and name something that was lost — aloud, with a description, from the facility's own destruction entries. Viderehan and Ferrehan only. |
 
 ### Operational Notes
 
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Weight pressure; 35% against other pressure types |
+| **Resistance** | 45% against Weight. There is nothing to strike; the heat has no source and the ash has no origin, and the single attempt to collect a sample in Year 4,230 returned an empty tube that had been sealed full. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 800/800 |
 | **Han Pressure [ATK]** | 27–58 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The Empty Pedestal* [**Debuff**] } | "The relic is gone — but the place where it sat still aches with what was here." | [The absence of the Relic presses on the target; they feel the void it left.] | *Target suffers -10 Resolve; something important is missing.* **[10 Weight DMG [Weight]]** | When the target approaches the pedestal. |
 | { *The Phantom Weight* [**Debuff**] } | "You still feel it in your hands — the weight of a thing that is no longer there." | [The ghost-weight of the vanished Relic settles on the target.] | *Target loses 10 Resolve; they carry something that does not exist.* **[10 Weight DMG [Weight]]** | When the target reaches for it. |
 | { *The Hollow Grab* [**Attack**] } | "The absence reaches back — and where there was nothing, now there is a grip." | [The void where the Relic was seizes the target.] | *Inflicts Weight pressure and one wound of crushing absence.* **[14-22 Weight DMG [Weight]]** | When the Relic's absence is probed. |
-| { *The Returned Nothing* [**Attack**] } | "The relic comes back — briefly, impossibly — and it is heavier than it ever was." | [The Relic manifests for an instant at terrible weight, then vanishes.] | *A heavy Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the absence is forced. |
-| { *Everything Vanishes* [**Ultimate**] } | "Now the floor is gone. Now the walls. Now you feel yourself beginning to go." | [The Relic's absence spreads, erasing everything around it.] | *All personnel suffer Weight pressure for three turns as things disappear.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Returned Nothing* [**Attack**] } | "The relic is there, for about a second, and it is heavier than anything that size has ever been." | [The lost object manifests at impossible weight and is gone before it can be described.] | *24–36 Weight to anybody within reach; four witnesses, four different objects, none of them identifiable afterwards.* **[Weight DMG [Weight]]** | When somebody insists they know what the relic was. |
+| { *Everything Vanishes* [**Ultimate**] } | "The ground is not there. Then the ridge. Then you can feel the edges of yourself going." | [The absence spreads outward from the heat and erases what it reaches.] | *Weight erosion to everything in range for three cycles; the ground recovers, which is the only reason the entry is not worse.* **[Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, twice, both in the week a facility retention schedule was executed without descriptions. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Pandora's Jar's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Bear the heat and name what was lost**.
+1. **Tension:** The party finds the heat, takes the air temperature at four bearings, and reads out the week's destruction entries. Nobody speculates about what the relic was; the speculation is the hazard.
+2. **Clash:** None available. There is heat, ash with no fire, and marks on the ground like missing letters. The row is retained only because the form will not accept its absence.
+3. **Resolution:** The heat falls by between four and eleven degrees after a loss is named with a description, and the party withdraws when it stops falling. 94 cycles, 94 recoveries of between four and eleven degrees, and a baseline that has never returned to ambient.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Pandoras Jar’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Pandora's Jar defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- The failure here is a guess. Somebody says what they think the relic was, confidently, and the Returned Nothing follows within the minute; all four occurrences began with an expert opinion.
+- Past about twenty minutes in the heat, workers begin listing things they have thrown away. It is involuntary, it is detailed, and the station's note is that it is also the work.
+- The set's price is a description: each use takes the wielder's ability to describe one object they own, which remains in their possession and becomes impossible to characterise to anybody else.
+- An unworked cycle leaves the baseline a degree or two higher. It has risen eleven degrees in nine years that way, and no action on record has ever brought the baseline down — only the cycle temperature.
 
 ## Appearance
 **Primary Form:** A burning humanoid figure carrying fragments of an object that no longer exists. Its fire is crimson-black and leaves no ash.
@@ -117,8 +117,8 @@
 |---|---|
 | **Form** | A burning humanoid figure carrying fragments of an object that no longer exists. Its fire is crimson-black and leaves no ash. |
 | **Position / movement** | Mobile across the Desolate with no fixed route; located by air temperature rather than by sighting. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | Heat with no fire, ash that is cold, and faint marks on the ground resembling letters that have been removed. Record the air temperature at four bearings on arrival and on leaving, and the facility's destruction entries for the week with their description status. |
+| **Distinctive markers** | The ash leaves no residue on the hand and the marks cannot be photographed — thirty-one attempts, thirty-one blank frames of ordinary ground. They can be rubbed, traced and measured. |
 | **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow, and the markers here are heatless ash, real heat, and hands cupped around nothing. |
 
 **Appearance protocol:** Record the air temperature at one metre and at three, the colour of the flame, and whether ash is present, which it never is. Record the position of the hands. Avoid generic descriptors: it is not 'menacing', it is at sixty-eight degrees and carrying nothing in a way that is visible from across a room.
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Pandora's Jar is recorded as a Subject with Subject-Grudge manifestation and Weight elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Work Type table measures an hour in the Desolate and misses the mechanism, which lives in the facility's records office. Across nine years the baseline temperature has risen ten degrees for every retention schedule executed without descriptions entered, and has never fallen for anything else; the cycle temperature responds to names spoken at the site, the baseline responds only to paperwork.
 
 **Reading the response:** Falling heat means something destroyed was described rather than counted. Stability under Viderehan is correct. The heat rises when a destruction is logged as a number, when the relic is called a legend in the worker's hearing, and it has risen sharply twice on correctly executed retention schedules that happened to be silent about contents.
 ## Breach Behavior
@@ -163,7 +163,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 - **Breach type:** Escape — it leaves the Desolate and walks to the nearest archive, which it has done four times, and in all four cases to a records room rather than to a population.
 - **Containment priority:** Do not suppress and do not use Pugnahan, which the approach table lists as an increase and which produced the only two injuries on record. Open the register and read. Four events, four endings, no force used in any of them.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for every item destroyed under a retention schedule anywhere in the facility without a description entered against it. It falls 10% for each destruction logged with enough detail that a reader could say what was lost, and routine weeding done properly has never raised it at all.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for every item destroyed under a retention schedule anywhere in the facility without a description entered against it. It falls 10% for each such entry retrospectively described from any surviving source, which the Archive has managed 41 times.
 
 ## M.A.W. Equipment
 
@@ -183,7 +183,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Pandora's Jar's weight signature in the strike.
+**Ability:** Weight against the Han. The target's own reserves come back lighter afterwards and they cannot say by how much, which the Armoury has measured and the targets cannot feel.
 
 **Cost:** The wielder feels progressively heavier and ages slightly, and begins to find gaps in indexes intolerable.
 
@@ -191,7 +191,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a weighted mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a heavy mantle, matte, with a worn patch at the shoulder in the shape of something that was carried there and is not described in any Armoury record.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -209,13 +209,13 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a small charm that every handler describes differently — nine descriptions, nine shapes, one object — which the Armoury now logs by weight alone.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat at this holding, which is to say while standing in unexplained heat reading a list aloud
 
-**Ability:** Grants a minor boon tied to Pandora's Jar's sorrow; the effect mirrors the entity's nature.
+**Ability:** The bearer can tell, without checking, whether a record has a description against it. Accurate 61 times out of 61, and the Archive has stopped treating it as a curiosity and started using it.
 
 **Cost:** The bearer moves a little slower.
 
@@ -223,18 +223,18 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Pandoras Jar's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Every piece came out of a loss that was then unrecorded, and each use takes one description from its wielder: an object they still own becomes something they cannot describe to anybody. They know it is theirs, they can find it, they can use it; they cannot say what it looks like. Two wielders, eleven objects between them, and in both cases a colleague noticed before the wielder did.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, baseline temperature, and written descriptions of five objects the wielder owns, sealed. |
+| **During use** | Any object the wielder refers to without describing. The circumlocution is the symptom and it is audible. |
+| **At limit** | The wielder cannot answer a direct question about something in their own pocket. Both over-runs reached this point. |
+| **After use** | Ask for the five descriptions again and compare with the sealed set. What has gone does not come back; the Armoury's ledger carries eleven objects now described only by their owners' names. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** A δ-grade set that performs flawlessly and removes, permanently, the wielder's ability to describe their own possessions. Read both columns and authorise on the sealed descriptions.
 
 ## 관찰 기록 (Observation Log)
 
@@ -252,18 +252,18 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Pandora's Jar as a Subject with Subject-Grudge manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at The Desolate — mobile. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Pandora's Jar's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The party walks into heat in open ground with nothing burning in it. Identification is the ash that leaves no mark on the hand and the letter-shaped absences in the dirt. |
+| **Sustained observation** | Nine years of temperatures at four bearings against the facility's destruction schedule. The baseline has risen eleven degrees, each rise inside a week of an undescribed disposal; the cycle recoveries are four to eleven degrees and have never compounded. |
+| **Activation or escalation** | A guess about the relic, or a retention schedule executed blind. Record who guessed and what they claimed, or the schedule reference and the number of entries without descriptions. |
+| **Post-contact review** | Temperatures in and out at four bearings, every loss named with its description, and the week's destruction entries with their description status. The last column is the holding and a report without it is returned. |
 
-**Observation method:** Record the temperature on arrival and on leaving, what was said about the relic and by whom, the facility's destruction entries for the week and how many carry descriptions, and the condition that ends the encounter, which is a register entry read aloud in full. The form tells you what it feels, not what it plans.
+**Observation method:** Temperature on arrival and on leaving at four bearings, what was said about the relic and by whom, and the facility's destruction entries for the week with how many carry descriptions. The cycle ends when the temperature stops falling, not when the list runs out.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Pandora's Jar (N-IVδ-967 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The entity formed from the grief of a relic erased from history. Held at The Desolate — mobile. The entity is mobile and has no fixed containment route.
+Pandora's Jar is a patch of unexplained heat in the open Desolate, with cold ash that leaves no residue and marks on the ground shaped like letters that have been taken out. Something was lost on an expedition and then removed from the records, and the archive cannot name it because the naming would have to come from the records that were destroyed.
 
 **Entry 2 — <Register Return: Eleven Thousand Destroyed, Three Thousand Described>**
 Items destroyed under retention schedule across the facility in 4238: eleven thousand four hundred and six. Entered in the Register of Destructions with a description sufficient to say what was lost: three thousand one hundred and eighteen. Entered as a count alone: eight thousand two hundred and eighty-eight. Mean air temperature at one metre over the year: sixty-four degrees, against forty-one in the fortnight after the register was back-filled for the Desolate series, and one hundred and nine in the week a visiting officer described the relic as folklore within its hearing. It carries nothing and has never put anything down.
@@ -277,13 +277,13 @@ Management: Bear the heat and name what was lost. Work response — Flerehan: Re
 **Entry 5 — <Director's Memo, Eyes Only: The Register Is Permanent>**
 The Register of Destructions is permanent, is not subject to any retention schedule of its own, and now requires a description of every item destroyed sufficient for a later reader to know what has been lost. Back-filling of historic series continues where the surrounding paperwork permits it and has recovered descriptions for a little over a fifth. The objection is recorded and is substantial: a complete and permanent list of what this facility has destroyed, with descriptions, is a map of every sensitive thing it has ever handled, is discoverable, and defeats part of the purpose of destroying anything. Legal and the Keepers both opposed. The memo carried it on one ground, which the Director set down in a single sentence and which is reproduced here because it is the whole of the reasoning: we can survive being known to have destroyed things, and the Desolate people cannot survive our not having written down what they were.
 
-**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat rating:** Critical (δ), carried for the two erasure events rather than for the four strikes. Nothing it has done has killed anybody and the ground it took came back.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Pandoras Jar; the other feeds it.
+> The choice comes when somebody in the party is certain they know what the relic was, and they may well be right.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Name something that was actually lost, with a description, from the list in your hand. | Say what you think the relic was. |
 |---|---|
 | Reaches toward the worker, seeking recognition. The sorrow is borne; Pandora's Jar is fully recorded. | Burns with retaliatory fury. The gauge climbs and Pandora's Jar withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -296,30 +296,30 @@ A red flame walks across the horizon carrying pieces of something you cannot nam
 
 **At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Grudge, pressing or releasing like a tide. Then the form resolves: A burning humanoid figure carrying fragments of an object that no longer exists. Its fire is crimson-black and leaves no ash. The space does not become generic; it shifts in the specific register of Weight.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Weight pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** You start listing things you have thrown away. Not regretted — thrown away, routinely, correctly — and the list is long and specific and arrives without being asked for.
 
-**When the entity activates:** The Gauge tips. The Subject-Grudge does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Weight is no longer atmospheric. It is operational.
+**When the entity activates:** The heat jumps, and for about a second there is an object on the ground that is far heavier than its size, and then there is not, and nobody present can afterwards agree on what it was.
 
-**After departure:** After contact, the body holds what the mind files away. The Weight is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** You describe something to somebody. A tool, a room, an old coat; party members do it on the walk back without noticing, and the station regards it as the holding's one good habit.
 
 ### Interaction Pattern
 
-Pandora's Jar does not exist in isolation. Its recorded relationships with The Maw, The Forgotten Soldier, The Burning Library should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all of them things that outlived their own records, and all measured on the temperature. One lowered it further than any cycle has, one did nothing, and one supplied a document.
 
 **Interaction method:** Establish it alone first, with the week's destruction register alongside, since that is the variable. In shared conditions log the temperature and whether the other record restored anything nameable; none has, and the holding notes that this entity is the only one in the wing that calms in the presence of paperwork.
 
 
 ### Entity Interaction Record
 
-Pandora's Jar must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Nine sessions across three holdings, measured at four bearings each time. The table records what each party brought and what the heat did.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Maw** | Resonates with foundational loss. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Soldier** | Salutes the vanished history. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Burning Library** | May contain records of the missing relic. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Maw** | Foundational loss on a scale this one cannot reach; the pairing is run at the perimeter. | Three sessions. The temperature fell nineteen degrees — more than any cycle has achieved — while the thousand were speaking, and returned within the day. The Architects and the survey office both record that neither party acknowledged the other. | Temperature at four bearings, logged against the thousand's transcript. |
+| **The Forgotten Soldier** | Salutes it, as it salutes most things that were lost. | Four sessions, no temperature change at any distance. The entry is retained because the Soldier's salute is the only acknowledgement this holding has ever received from anything. | Temperature; the salute logged with its time. |
+| **The Burning Library** | May hold records of the missing relic, which is the reason the pairing exists. | Two sessions. The Library produced one page — an inventory line with the item's description burned out and the quantity intact — and the temperature did not move. The page is in the file; it establishes that there was one of whatever it was. | The page, photographed; temperature throughout. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, taken at four bearings on the day. Bring the second party upwind and keep the thermometry running throughout; this holding answers in degrees and in nothing else, and two of the nine sessions registered their change only after the second party had withdrawn.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -353,7 +353,7 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 **Common Name:** Pandora's Jar
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic
-**Threat Assessment (Pandora's Jar):** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment (Pandora's Jar):** Critical (δ). Nine years, 94 cycles, four manifestations, two erasure events, no fatalities — and a baseline eleven degrees above ambient that no action has ever brought down.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
 - Standard R.D. containment protocols apply.
@@ -362,15 +362,15 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 - See Origin section for formation and event details.
 - See Combat Record for engagement history.
 - See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
+**Cross-References:** The Maw (nineteen degrees), The Forgotten Soldier (the only acknowledgement), The Burning Library (one inventory line), the facility's retention schedules, and the forty-one entries described retrospectively.
+**Faction Involvement:** Judexhan hold the δ-grade order. SED route expeditions around the heat and have supplied the only surviving expedition manifest from the relevant season, which lists the party, the ground covered, and — in the column where the finds should be — nothing at all.
 **Originator:** Unestablished, and recorded as unestablished rather than unknown; the difference is that the archive holds the shape of the deletion that removed them. See the Origin section.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding is answered by a column on a disposal form. Ten points and a degree of baseline for every item the facility destroys under a retention schedule without entering a description; ten points back for every one described retrospectively from any surviving source, which the Archive has done forty-one times by reading other people's letters. The site work — the heat, the thermometry, the list read aloud — recovers four to eleven degrees a cycle and recovers none of the baseline. The entity cannot be named because the naming would have to come from the records that were destroyed, and that is not a mystery in the file, it is the finding.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any event: temperatures at four bearings, the losses named with descriptions, and the week's destruction entries listed individually with their description status. Two further items. Any retention schedule due for execution anywhere in the facility is copied to this station first, and the station's objection — where it makes one — is attached to the schedule rather than filed separately. And no member of a party may state what the relic was, in a report or at the site, however well supported the view.
 ## Apex Record
 
 ### Dismissal
@@ -413,10 +413,10 @@ Replies received are filed unopened in the correspondence section only if the as
 ### Registry Trivia
 
 - **Classification detail:** Pandora's Jar is a Subject with Entity (IV) — Self-aware coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is The Desolate — mobile.
+- **Field detail:** Weight, mobile in the Desolate, located each season by thermometry rather than by sighting.
 - **Recognition detail:** Identify it by the fire and the hands. The flame is crimson-black, gives real heat, and leaves no ash on anything it passes; the hands are cupped around an object that is not there and have never been observed open or empty-looking, only full of nothing.
 - **Record detail:** Check the designation before approach. The archive holds two records that make opposite demands about destruction — the Sorrow Gate requires that transcripts be destroyed under witness, and this requires that destructions be written down in detail. They are not in conflict: one concerns what is kept, the other concerns whether the keeping of nothing is admitted.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** It is not contained and has never been approached with the intention of containing it. The only measure that has ever moved its readings is a description written against a line in a disposal register, in an office, by somebody who has never seen it.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-967
