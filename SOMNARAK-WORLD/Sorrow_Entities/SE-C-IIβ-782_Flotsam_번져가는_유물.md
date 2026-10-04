@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Fading Fang, Plate and Ember are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Name the use of the outlined object aloud, from the inventory, before any Work. Flerehan and Ferrehan lower the gauge; Pugnahan spreads the heat. This is a Subject and all four Work Types are valid. |
 
 ### Operational Notes
 
-- Flotsam accumulates in Old Lament without any current to carry it, and the pile is never composed of the same materials twice.
-- A cycle settles the accumulation. It does not disperse it, and the pile has never been recorded as smaller than at its previous logging.
-- Three ignored conditions escalate it. Escalation is an increase in rate rather than any change in the material.
-- Structural pressure is literal; the bearing floor under the accumulation is instrumented and read at every session.
-- Extraction is a separate authorization and is not treated as routine clearance of the pile.
+- It accumulates in Old Lament with nothing carrying it there, and the pile has never twice been made of the same things.
+- A cycle settles the accumulation and does not disperse it. No logging has ever recorded the pile smaller than at the previous session.
+- Three ignored conditions escalate it, and escalation is a change of rate rather than of material: more objects outlined per day, not different ones.
+- The structural pressure is literal. The bearing floor under the accumulation is instrumented and read at every session, and the reading has risen in each of the last four years.
+- Extraction is separately authorised and is never allowed to look like clearing the pile; objects removed from the pile have returned to it twice.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,27 +87,27 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Flotsam's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Eight turns, worked from the inventory rather than at the pile. Each turn opens with a named object and its use read aloud; Pugnahan spreads the heat to adjacent items and is not authorised.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the owners and purpose; do not force preservation**.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Flotsam’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Flotsam defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- The failure here is handling. Workers harmed by this holding have all been harmed while holding an outlined object, and none while standing near one.
+- Long contact transfers the fade: workers report an evening of being unable to say what a familiar tool at home is for, which resolves within a day in every case but two.
+- The Fading equipment lends the wearer the heat and takes a use the wearer knew. Every wielder's debrief has recorded one ordinary skill gone on waking.
+- Unresolved, it breaches by Transform and spreads across the sector's stored material, outlining everything whose purpose nobody present can state.
 
 ## Appearance
 **Primary Form:** A burning pressure shaped like a relic carried beneath the skin. It appears as a red outline around objects that are fading from memory.
 
-**Notable Features:** It makes old objects feel heavy, burns their histories, and fades when someone remembers their use.
+**Notable Features:** A red outline around objects whose use is being forgotten. It makes those objects feel heavy to carry, burns the knowledge of what they were for without marking the material, and retreats when somebody says the use out loud.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Weight
 - **Primary marker:** A burning pressure shaped like a relic carried beneath the skin. It appears as a red outline around objects that are fading from memory.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It has no position of its own; it is wherever the outlined objects are. Record which items carry the outline, which have lost it, and the floor loading under the pile.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament
 
@@ -116,36 +116,36 @@
 | Field | Detail |
 |---|---|
 | **Form** | A burning pressure shaped like a relic carried beneath the skin. It appears as a red outline around objects that are fading from memory. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Position / movement** | Distributed across the outlined objects rather than located. Record the current outline list, additions and departures with dates, and the bearing-floor reading. |
+| **Material / signature** | Grudge. A red edge, fever-hot to the hand, smelling of char and old smoke, with no scorch, discolouration or damage left behind on anything it has burned. |
+| **Distinctive markers** | The outline itself; weight in objects that have not changed mass; and heat without fire, on material that stays undamaged. |
+| **Identification** | Confirm before Work or contact: designation C-IIβ-782 `[GS]`, Grudge expression, Subject-Weight manifestation, Echo (II) coherence, Old Lament in Zone B. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Survey the objects, not the entity. List every item currently outlined, every item that has lost the outline since the last session, and the floor reading under the pile. The outline list is the holding's whole observational record and its movements are the only thing here that changes. Do not write *strange* or *anomalous*; it is red, hot, weightless and undamaging, and those are the fields.
 
 ## Origin
 - **Formation:** The Relic formed from a treasured object becoming meaningless over time.
 - **The Sorrow:** The grief of being used, loved, and then forgotten.
 - **The Event:** A household relic passed through generations until no one remembered its purpose; its history began to burn away.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **The People:** One household, across four generations, and the district of Old Lament into which the household's possessions eventually dispersed.
+- **Expanded origin context:** The family kept the object carefully and told each other who had owned it, which is what families keep. Nobody wrote down what it did, because at the time everybody knew. Four generations later the knowledge was gone and the object was still there, treasured, heavy and meaningless. What formed in Old Lament is not anger at being discarded — it was never discarded. It is the particular grievance of a thing that was loved by people who no longer had any idea what they were holding.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The outline brightens and reveals former owners. | Decrease |
-| **Pugnahan** | Heat spreads across nearby objects. | Increase |
-| **Viderehan** | Shows the relic's fading history. | Stable |
-| **Ferrehan** | Tests whether the worker can hold a memory without possessing it. | Decrease |
+| **Flerehan** | The outline brightens and shows the hands that used the object, in order, most recent first. | Decrease |
+| **Pugnahan** | Spreads the heat to every object within about two metres and outlines several of them. | Increase |
+| **Viderehan** | Shows the history as it goes: face, then name, then purpose, in that sequence every time. | Stable |
+| **Ferrehan** | Tests whether the worker can hold a memory without claiming it; the outline retracts for the worker who can. | Decrease |
 
 
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Flotsam is recorded as a Subject with Subject-Weight manifestation and Grudge elemental expression. The current record places it at Zone B, Old Lament; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge expression, distributed across the stored material of Old Lament in Zone B. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it and widens the affected area, which is the reason it is prohibited here.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Read it in the outline list. A falling gauge presents as items dropping off the list; a rising one presents as new items appearing on it, usually adjacent to an item already there. The gauge instrument agrees with the list and arrives after it. Count the objects.
 ## Breach Behavior
 
 > *"Flotsam has broken free. Hunts personnel indiscriminately."*
@@ -153,16 +153,16 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Flotsam expands beyond containment like a spreading tide. It hunts personnel indiscriminately. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
+| **Movement** | It spreads through the sector's stored material by association rather than by distance, taking first whatever sits beside something already outlined. It does not pursue personnel and never has. |
+| **Effect** | Everything stored in the affected volume becomes heavy and anonymous. Workers can lift the objects and cannot say what any of them are for. |
+| **Secondary Effect** | The heat reaches the people holding things. Harm in a breach is confined entirely to personnel with an outlined object in their hands. |
 | **First Target** | Not personnel at all. It outlines objects that are being forgotten, and workers are harmed only while handling them. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Bring the sector inventory and read it aloud. The breach ends on recollection and cannot be ended by force.
+- **Containment priority:** Bring the sector inventory and read the use of each outlined object aloud. The breach ends on recollection, has ended that way three times out of three, and cannot be ended by force.
 - **Sorrow Gauge on breach:** Opens at 45% and falls 10% each time an object's use is correctly remembered aloud.
 
 ## M.A.W. Equipment
@@ -222,7 +222,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Cost:** The wearer feels the object's entire chain of owners.
 
-*Stigmas are granted at random by Flotsam upon a successful work, not manufactured.*
+*The Fading Ember is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who correctly named the use of an object nobody else in the room could identify.*
 
 ### M.A.W. Use Notes
 
@@ -242,11 +242,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It spreads from object to object through emotional association.
-- It burns without damaging material.
-- It is calmer around named heirlooms.
+- It spreads by association rather than proximity: the next object outlined is usually the one kept beside the last, not the nearest.
+- It burns knowledge and not material. Nothing it has consumed shows any mark under inspection.
+- Objects whose use somebody present can state are left alone, which is the whole of the countermeasure.
 
-**Personnel Note:** *"It was singing. I felt rage. The relic was not angry at being old; it was angry that age had made it invisible."* — Researcher, R.D.
+**Personnel Note:** *"I picked up a thing I could not name and felt it resent me for that. Not for being old — for being kept by people who had stopped knowing what it was and kept it anyway."* — Researcher, R.D.
 
 
 
@@ -255,11 +255,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Flotsam as a Subject with Subject-Weight manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, Old Lament. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Flotsam's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | The outline list with additions and departures dated, the name of whoever supplied each successful recollection, the bearing-floor reading, and the pile's composition photographed against the fixed mark. |
+| **Activation or escalation** | Escalation is the rate of additions to the list. Three additions in a session closes the session; the threshold is numeric and does not depend on the person surveying. |
+| **Post-contact review** | The list before and after, which recollections worked and which did not, the off-site descriptions used, and whether any worker has lost a use of their own, which is asked of the partner and not of the worker. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Work from the inventory. Record each outlined object, the use if anybody present can give it, the source of that use, and the condition that ended the session. The form here is the sorrow and not a strategy: an object can survive being unwanted, and what is burning in Old Lament is what happens to a thing that was wanted by people who had forgotten why.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -294,30 +294,30 @@ An old object glows red beneath a layer of dust. You touch it and feel every han
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Weight, pressing or releasing like a tide. Then the form resolves: A burning pressure shaped like a relic carried beneath the skin. It appears as a red outline around objects that are fading from memory. The space does not become generic; it shifts in the specific register of Grudge.
+**At first contact:** Heat at the hands and a red edge in the corner of the eye, around something ordinary on a shelf — a tool, a vessel, a fitting — that you suddenly cannot name.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The sequence is always the same and you can watch it run: the face of whoever used it goes, then their name, then what they were doing with it. The object stays exactly where it is.
 
-**When the entity activates:** The Gauge tips. The Subject-Weight does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Grudge is no longer atmospheric. It is operational.
+**When the entity activates:** Another outline appears a shelf along. Nothing moves and nothing is said; the inventory simply gets one item longer.
 
-**After departure:** After contact, the body holds what the mind files away. The Grudge is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** Workers go home and find an ordinary thing in their own kitchen briefly unreadable. It comes back within the day, in every recorded case but two.
 
 ### Interaction Pattern
 
-Flotsam does not exist in isolation. Its recorded relationships with Pandora's Jar, The Forgotten Market Stall, The Burning Library should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in the wing that take hold of objects and what is known about them. Each relation below has been observed and filed; none is settled; and each test risked adding items to the outline list, which is why there are so few of them.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone across several sessions before any paired approach, and photograph the outline list immediately before and after. Log the onset of any shared change with its range, duration and trigger, both gauges, and whether any object changed hands. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-Flotsam must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled, and the Burning Library pairing — the one everybody asks about — is the one with the clearest negative result.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **Pandora's Jar** | Both carry objects erased from history. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Market Stall** | The Stall offers memories of former owners. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Burning Library** | Preserves histories the Relic is losing. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **Pandora's Jar** | Both hold objects that have fallen out of history, which has repeatedly been read as common cause. | Four co-presences. No object moved between them, no outline appeared on anything of the Jar's, and both gauges were flat on all four. The resemblance is thematic and the wing records it as nothing more. | All four co-presences, the outline lists either side, and both flat series. |
+| **The Forgotten Market Stall** | The Stall offers memories of former owners, which is adjacent to what this holding destroys and might in principle restore it. | Three approaches. The Stall supplied owners — names and faces, in some detail — and the outline did not retract on any object. Owners are not uses. The distinction is the most useful thing this pairing has produced. | All three approaches, what the Stall supplied verbatim, and the unchanged outline list. |
+| **The Burning Library** | The Library is said to preserve what this holding loses, which would make it the obvious countermeasure. | Two co-presences, both authorised at the highest level available to the wing. The Library held nothing on any of the 206 objects tested. Whatever it preserves, it is not the use of ordinary household things. The proposal to retest has been refused twice. | Both co-presences, the 206 objects tested, and the refusals with their reasoning. |
 
 **Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -351,20 +351,20 @@ Some sorrows are about being forgotten. Flotsam is about being remembered wrong 
 > *“The fading is slow. The fading is the sorrow.”* — Elder, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-782` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Weight manifestation
+**Classification:** Sorrow Entity — `C-IIβ-782 [GS]` · City origin · Echo (II) coherence · Moderate (β) potency · Grudge · Subject-Weight manifestation
 **Common Name:** Flotsam
-**Containment Status:** Contained — Zone C
+**Containment Status:** Contained — Old Lament, Zone B. The Zone C entry in earlier revisions is an error and is corrected here.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. The Relic fades as its purpose is forgotten. Effect: holders feel the grief of inherited incomprehension.
+**Threat Assessment:** Moderate (β). It damages nothing material and takes the use of everything it reaches, permanently and in a fixed sequence, spreading by association through stored material faster than any inventory can be read. The earlier entry describing the threat as low is an error and is corrected here.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The fading is slow but irreversible.
+- Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted and shows the loss happening without slowing it; Pugnahan is prohibited. The earlier entry naming Viderehan as primary is an error and is corrected here.
+- The fading is slow, irreversible, and reversible only in the narrow sense that a use still known to somebody can be said aloud and the outline will retract.
 **Observation Notes:**
-- An heirloom passed down until no one remembered its purpose.
-- The relic burns through its own fading memory.
-**Cross-References:** Zone C · Pandora's Jar · The Returning Relic
+- A household object kept through four generations by people who recorded its owners and never its function.
+- What burns is the knowledge of use, in the order face, name, purpose, and the object is left intact and unreadable.
+**Cross-References:** Old Lament · Pandora's Jar · The Returning Relic · the off-site description store · the heritage listing refusal · the rememberers' register
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
-**Originator:** A family that treasured an object without understanding it.
+**Originator:** A family that treasured an object through four generations without ever writing down what it was for.
 
 ### Registry Addendum
 
@@ -389,10 +389,52 @@ The outline retreats when someone recalls an object's purpose, which gives the h
 
 A household object descended through generations until its purpose was lost and its history began to go, and the commissioning file holds the family's own account of the descent. They knew who had held it and not what it did. The archivist's note observes that the account is detailed about people and blank about function, and that the blankness is the oldest evidence in the file.
 
+### A Store That Can Only Get Smaller
+
+The countermeasure is a box of paper in another building, and it will never contain more than it does now.
+
+**Three hundred and eighteen objects** sit in the affected area of Old Lament. Each has a written description held off site, at an address printed in the containment file — the only such entry in the wing, and deliberate, because a description kept beside the thing it describes is a description inside the affected volume.
+
+The descriptions are of two kinds and the difference is everything. **One hundred and twelve** were written while somebody still knew what the object was for, and say so: what it did, how it was held, what it was used with. **Two hundred and six** were written afterwards and are measurements — dimensions, material, condition, marks. Nothing else was available to the person writing them.
+
+Read aloud at an outlined object, the two perform differently and the difference is not marginal. Use-descriptions have retracted the outline on **41 of 44 attempts**. Measurement-descriptions have retracted it **0 times in 23**, and one of the 23 was read twice over to be sure.
+
+The arithmetic is the problem. A use-description can only be written by somebody who knows the use, and this holding exists to remove exactly that. **Every object that loses its use before somebody writes about it is permanently outside the countermeasure.** The 112 is therefore a ceiling. It has risen twice in nine years, both times because a rememberer recognised something and the Warden wrote it down on the spot; it has otherwise been fixed since the first survey.
+
+The file states this on its front sheet in one line, which the archivist drafted and the wing has never softened: *we hold a defence that covers 112 of 318 objects, it will never cover more than a handful beyond that, and the remaining 206 are being lost at whatever rate the holding chooses.*
+
+### Nothing Worth Listing
+
+The district's heritage scheme could protect these objects, and it cannot be made to.
+
+Listing is the only mechanism available. It would bring the collection under a conservation duty, fund proper storage, and — the wing's actual interest — compel a documentation standard that includes function. The application was made in the fifth year, correctly, with assistance from the district archivist.
+
+It was refused, and the refusal was right. **The scheme requires a statement of significance for each item**: what the object is, what it was used for, and why that matters. It is not a formality; it is the whole basis on which a listing body decides. For 112 of the objects the statement could be written. For the other 206, the only honest statement is that nobody alive knows what this is, and the scheme has no category for that and never has.
+
+So the protection is available precisely where it is least needed and closed precisely where the harm is. **The objects that can still be explained can be listed. The objects that are being eaten cannot be.**
+
+The second attempt took the obvious route and failed on a narrower point. The wing applied to list the accumulation as a single entity — the pile, as a group, significant as an assemblage rather than item by item. The scheme lists items. It has a provision for groups, and the provision requires each contributing item to be identified and described, which returns the application to the same wall by a longer road. The listing officer's letter is three paragraphs and the wing keeps it in full, chiefly for its last line: *I am refusing an application I would like to grant, on a ground I did not write and cannot waive, and I would encourage you to say so to whoever can change the scheme.*
+
+Nobody has changed the scheme. The wing's note records that a representation was made in the sixth year and acknowledged, and nothing since.
+
+### The Register of People Who Know Things
+
+The only thing that reliably works is an old person looking at an object and saying what it is.
+
+The wing maintains a register for this. It began with **twenty-three** names: retired trades, former stallholders, two shipwrights, a woman who had run a laundry for forty years and could identify more of the collection than anyone else before or since. They attend by arrangement, walk the pile with a Warden, and name what they can. **Ninety-one of the 112 use-descriptions came from them.**
+
+The register now stands at **nine**. The median age has risen every year it has been kept. Nobody has been added since the seventh year, and the reason is not neglect: the people who know what these objects are for are the people who used them, and there are no young ones.
+
+The Directorate resolved in the fourth year to continue the arrangement indefinitely without creating establishment posts. The reasoning was procurement-shaped and is recorded honestly — posts would require an occupational classification, a selection process, and a medical standard, and every one of those would have excluded most of the register. The visitors therefore attend as guests of the facility, are paid an attendance sum, and are covered by nothing else.
+
+**In the seventh year a visitor was taken ill in the wing**, two hours into a survey, and was treated by facility medical staff as a courtesy because no other provision existed. He recovered. The incident report is four pages and its finding is that the care given was prompt, correct, and entirely outside any scheme the facility had written down.
+
+The objection is minuted at every annual review and is raised by the welfare officer. It holds that the wing's most effective countermeasure is delivered by elderly private citizens working inside a Major-adjacent containment area with no occupational cover of any kind; that the attendance sum has not been reviewed in nine years and is now less than the cost of getting there; and that a resource which can only decline should have been recorded, exhaustively, in its first year rather than drawn on a visit at a time for nine. The minute records the objection as **correct in all three parts**. It records that a full recorded survey with every remaining registrant was approved in the eighth year, scheduled twice, and has not yet taken place. And it records what the laundry woman said when she was asked, at the ninth review, whether she minded coming: *I mind that you only ask me about the ones that have already gone red. Ask me about the rest while I am still here.*
+
 ## Trivia
 
-- The Relic does not physically destroy what it burns.
-- It fades fastest when an owner is deliberately forgotten.
+- Nothing it burns is damaged; the objects outlive their own meaning in perfect condition.
+- The fade runs fastest on objects whose last owner is being deliberately not spoken of.
 
 
 
@@ -400,9 +442,9 @@ A household object descended through generations until its purpose was lost and 
 
 - **Classification detail:** Flotsam is a Subject with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the outline and by weight in an object that has not changed mass; heat alone is shared with two other Grudge holdings in the sector.
+- **Record detail:** Read this file beside the off-site description store's index, which is the only part of the countermeasure that is not in this building, and beside the rememberers' register.
+- **Containment detail:** Do not equate a short outline list with a dormant holding. The list has been as low as four and as high as sixty-one, and the floor loading has risen in every one of the last four years regardless of it.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-782
