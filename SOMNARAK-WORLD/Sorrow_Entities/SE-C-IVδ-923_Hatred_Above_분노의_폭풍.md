@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Keep the footprint empty and keep people out of each other’s reach inside it. The gauge falls on days when the crossing interval was held; it has never fallen on a day when two people were under the anomaly at once, whatever else was done. |
 
 ### Operational Notes
 
@@ -73,7 +73,7 @@
 | **Difficulty** | 923  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-923 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | The affected worker is at distance, has stopped shouting, and has not been answered. Separation resolves it in under two minutes in every one of the 63 incidents on file; nothing else has ever been required and nothing else has ever been tried twice. |
 
 ### Combat Actions
 
@@ -88,13 +88,13 @@
 
 1. **Tension:** Personnel identify the hazard manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Hatred Above's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** Distance, a barrier if one is to hand, and silence from everybody else. The worker comes back on their own. The team does not debrief them at the spot and does not require them to say anything about it afterwards.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented grudge effect — grudge pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- Composure loss belongs to the person who answered, not the person who shouted. Every prolonged incident in the file — all four over ninety seconds — involved a colleague replying, and the training material says so in those words.
+- Prolonged exposure produces nothing physical. What it produces is remembered speech: people recall with great precision what they said while they were under it, which is the reason the reconciliation afterwards is left entirely to them.
+- No piece in this set may be carried across the footprint by two people. The custody rule is the movement rule: singly, at intervals, never in company.
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Grudge pressure in a grudge register.
 - The hazard form is unmistakable — this is a grudge entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Identification is by the floor: a marked rectangle of corridor lit brighter and colder than anything around it, with nothing stored on it and nothing standing on it.
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Hazard-Grudge manifestation is the primary identifying feature. Grudge pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | Stationary and overhead. The hazard is the floor area beneath it — eighteen metres by eleven, marked out, lit differently, and crossed rather than occupied. The anomaly itself has not moved since the first survey. |
+| **Material / signature** | Nothing visible overhead and nothing audible. Instruments are mounted on the surrounding structure and angled inward, since nothing may be suspended beneath the anomaly or placed on the floor within the footprint; the engineers describe the arrangement as awkward and the readings as adequate rather than good. |
+| **Distinctive markers** | A directionless fury that arrives after nine to fourteen seconds beneath the footprint and then settles on whoever is nearest. The interval is the most reliable figure in the file and the movement rule is built on it. |
+| **Identification** | Ask who they were angry at. Under Hatred Above the answer is always the closest person and never a cause, a grievance, or an absent party. No other Grudge holding on the register produces an anger with no subject until a subject walks past. |
 
 ## Origin
 
-Nobody knows exactly when Hatred Above started. The first recorded incident is dated, but the entity itself is older — grudge grief does not announce its birth; it seeps, thickens, and one day the personnel realize the room has changed and cannot remember when it was different.
+The first incident has a date. The anomaly does not. Zone C had been routing crews around a particular stretch of corridor for years before anybody wrote down why, and when the file was finally opened it found a habit older than any of the people practising it — a corridor that everyone crossed quickly, alone, without having been told to.
 
-What makes Hatred Above dangerous is not the grudge pressure — experienced personnel can handle grudge. What makes it dangerous is the grudge register. The sorrow does not simply press; it spreads. Personnel who work the entity report that the grudge feels different — more personal, more targeted, as if the sorrow has chosen a specific register through which to communicate.
+The anger it makes has no subject. That is the whole of the danger. It arrives empty, nine to fourteen seconds in, and then it fastens on whoever is standing closest, and the person it fastens on is not a cause, a rival, or anybody with a history — only the nearest body. Sixty-three times, with no exceptions.
 
-And it has. The grudge descriptor is not a label. It is the entity's native language.
+So the containment is spacing. Eighteen metres by eleven, marked on the floor, lit cold, crossed one at a time.
 
 ## Behavior
 
@@ -142,7 +142,7 @@ And it has. The grudge descriptor is not a label. It is the entity's native lang
 
 ### Operational Work Notes
 
-The Grudge pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Hazard-Grudge manifestation means the grudge register is the primary channel of contact.
+The pressure is measured from the sides, at an angle, by instruments that cannot be placed where the readings would be best. Both valid approaches are performed from outside the marked rectangle: observation is the inward-angled watch, endurance is the discipline of the interval — standing and waiting your turn to cross when nothing appears to be wrong. The gauge answers to the interval being kept.
 
 ## Breach Behavior
 
@@ -151,15 +151,15 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's grudge influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Grudge pressure radiates — the grudge register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | The footprint widens on the floor while the anomaly overhead stays where it is, as though the cone had opened. Both recorded expansions were found by the marked line no longer matching where people started to stop walking, and both were re-marked rather than contested. |
+| **Effect** | The widened edge takes in whatever was sited just outside it — in Y4244, a relief point where two crews habitually waited together. Three incidents in nine days before the line was redrawn; all three involved people who were standing in company at a spot that had been safe the week before. |
+| **First Target** | The nearest other person, with no further criterion. Not the newest, not the most fatigued, not anyone with a history: the closest body. 63 incidents, 63 times the nearest colleague, and the file notes that this is the only thing about the holding that has never once varied. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Grudge drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per metre the marked line is found to be out of date, not per turn. The Y4244 widening took it to 70% in nine days and it returned to 40% within a shift of the re-marking.
 
 ## M.A.W. Equipment
 
@@ -194,76 +194,76 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.
-*Stigmas are granted at random by Hatred Above upon a successful work, not manufactured.*
+*A Token is found at the far edge of the footprint, on the outward side of the line, by the next person to cross alone. It has never been recovered by a pair and has never been found inside the marked rectangle.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Hatred Above, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+The Hatred Above set is made from the marking itself: the Edge from a line-stanchion, the Veil from the reflective tape used to re-mark the footprint, the Token from one of the cold lamps. All three were taken during the Y4244 re-marking, when the old line was being lifted anyway, and no part of the set has ever been cut from the footprint in use.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record who else is within the footprint at the moment of issue. The field is a number and the number is expected to be zero; a non-zero entry voids the issue and is reviewed the same day. |
+| **During use** | Log the crossing interval actually observed, in seconds, against the posted twenty. The set is used almost entirely while crossing, so the interval is the only operating condition that matters. |
+| **At limit** | The wielder starts closing distance on colleagues instead of keeping it — standing too near in corridors, following people into rooms. Five cases, all caught by other people, none by the wielder. |
+| **After use** | Hand the piece back at the rack, not to a person. Direct transfer between two sets of hands is the one thing the custody rule forbids outright, for the same reason the movement rule does. |
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Deep
 
 **Key Observations:**
-- Grudge signature confirmed at SECTOR-C-923.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The grudge register is the dominant channel of contact.
+- 63 incidents since the first dated one, every one resolved by opening distance, mean duration under two minutes, longest four and a half and that one answered back.
+- Both valid approaches reduce the gauge and both are performed from outside the line. Nothing performed beneath the anomaly has ever reduced it, and the four attempts are logged with their outcomes.
+- The anger has no content. Interviewed workers consistently report that there was nothing they were angry about, which distinguishes this holding from every grievance-bearing entity in the wing.
 
 **Personnel Note:**
 
-> *"The grudge pressure is different from standard grudge. It does not press on the body — it presses on the grudge itself. You feel it before you understand what is happening."* — Specialist, Field Team 9
+> *"I have crossed it four hundred times. The one time somebody was standing in it with me I called him something I would not repeat and I remember every syllable of it. He did not answer. We are still friends because he did not answer."* — Crossing crew, Zone C
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Hatred Above (C-IVδ-923 [GH]) is logged as a Hazard-Grudge manifestation expressing Grudge. Held at SECTOR-C-923.
+**Entry 1 — Containment Description** A stationary overhead anomaly in Zone C. The hazard is the floor beneath it: eighteen metres by eleven, marked, lit cold and bright, nothing stored on it, crossed singly at twenty-second intervals and never in company.
 
-**Entry 2 — Field Log** First contact report: the grudge register was immediately apparent. Personnel described it as a grudge pressure unlike standard grudge.
+**Entry 2 — Field Log** Y4244, the relief point. Two crews had for years waited together at a spot a few metres clear of the line. The footprint widened, the spot was inside it, and there were three incidents in nine days before anyone connected them. The line was redrawn that week and the relief point moved thirty metres down the corridor.
 
-**Entry 3 — Counseling Log** The grudge pressure accumulates in the grudge register — this is not standard grudge; this is grudge filtered through grudge.
+**Entry 3 — Counseling Log** Reconciliation afterwards is deliberately unofficial: no form, no mediated session, no requirement to report that it happened. The assessment behind this was written early and has never been revised — a facility-administered apology for words the facility knows were not freely chosen is worth less than one the two of them arrange themselves.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The grudge register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Response to an affected worker is separation, never subdual. Open distance, interpose a barrier if one is available, and do not answer. Teams are trained to accept being shouted at, and the training material is explicit that not answering is a skill rather than a courtesy.
 
-**Entry 5 — Director's Note** This entity's classification as Hazard-Grudge is correct. The grudge descriptor is not decorative — it is the operational axis. All containment protocols should account for the grudge register as the primary channel.
+**Entry 5 — Director’s Note** The first incident has a date and the anomaly is older than the date. I have declined to estimate by how much. Grudge of this kind thickens without announcing itself, and the honest answer to when it began is that nobody noticed until the district had already changed the way it walked through its own corridor.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Say nothing — take the distance and let them finish. | Answer them — they are shouting at you by name. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| Under two minutes, no injury, and two people who will sort it out themselves tomorrow. | Four and a half minutes, both of you under the light, and a conversation each of you can quote back word for word. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
 Contact is disorienting. The grudge pressure is familiar — every agent in Somnarak knows grudge — but the grudge filter makes it alien. A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person. It is the same element in a different language, and the language is grudge.
 
-**At first contact:** The grudge signature is unmistakable — this is not a general grudge entity but one whose sorrow has taken the specific shape of grudge.
+**At first contact:** You notice the light on your hands, which is the point of the light, and then you notice that you have stopped walking.
 
-**With continued exposure:** The grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The fury arrives with nothing attached to it. For a few seconds it is simply anger, aimed at nobody, and then somebody is nearer than everybody else.
 
-**When the entity activates:** The grudge becomes a force rather than a feeling. The hazard was holding; now it releases.
+**When the line is wrong:** Nothing announces it. It shows up as people stopping to argue a few metres outside the marking, which is how both widenings were found.
 
-**After departure:** The grudge does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** The anger is gone before you are off the floor. What you keep is the transcript — your own voice, every word of it.
 
 ## 이야기 (Narratio) — The Tale
 
-Nobody knows exactly when Hatred Above started. The first recorded incident is dated, but the entity itself is older — grudge grief does not announce its birth; it seeps, thickens, and one day the personnel realize the room has changed and cannot remember when it was different.
+The lighting was chosen out of a trial. Floor texture was tried, and sound, and colour, and all three worked less well than making the light under the anomaly brighter and colder than the corridor around it — because a person who has stopped walking sees the light on their own hands before they see anything else, and the seeing is what gets them moving again.
 
-What makes Hatred Above dangerous is not the grudge pressure — experienced personnel can handle grudge. What makes it dangerous is the grudge register. The sorrow does not simply press; it spreads. Personnel who work the entity report that the grudge feels different — more personal, more targeted, as if the sorrow has chosen a specific register through which to communicate.
+Two pieces of fixed equipment stand at the edges of the footprint and nothing stands within it. No stores, no station, no relief point, no place where two people might reasonably find themselves waiting together. The Y4244 incidents happened because the line moved and a waiting place that had been outside it was not any more.
 
-And it has. The grudge descriptor is not a label. It is the entity's native language.
+The reconciliations are not recorded anywhere. That is deliberate and it is written down as deliberate, which is the nearest thing this folder has to a philosophy: the facility will mark a floor, post an interval and train people not to answer, and it will not stand between two colleagues sorting out something that one of them did not choose to say.
 
-The entity does not rage. It does not weep. It persists — grudge and grudge, patient and permanent. Hatred Above is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+Sixty-three incidents, no injuries, no lasting estrangements on record, and an anomaly that has not moved in seventeen years of being measured from the side. The only thing that has ever changed here is the line on the floor.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -286,17 +286,17 @@ The entity does not rage. It does not weep. It persists — grudge and grudge, p
 **Threat Assessment:** Critical. A Hazard-Grudge entity — the grudge register is its defining characteristic. Risk: prolonged exposure to the grudge pressure may produce effects not seen in standard grudge entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the grudge register specifically — it is the primary channel of contact.
+- Cross singly at the posted interval; keep the footprint clear of stores, stations and waiting places.
+- There is nothing overhead to weep with and nothing to confront. The anger is manufactured in the person beneath it and has no author to address.
+- Re-survey the marked line each cycle and treat any argument occurring just outside it as a survey finding.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Hazard-Grudge · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Hazard-Grudge classification is valid and necessary. The grudge descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** Hazard-Grudge is correct, and the operational content is a geometry problem rather than a sorrow one: an anomaly that cannot be reached, a floor that can be marked, and a nine-to-fourteen second delay long enough to walk eighteen metres in. Everything expensive about this holding — the inward-angled instruments, the cold lighting, the twenty-second interval — follows from refusing to put anything or anyone underneath it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and grudge pressure readings after every breach or unusual interaction.
+**Review requirement:** Re-measure the footprint every cycle and re-run the marking trial whenever the corridor lighting is changed. Floor texture, sound and colour were all tried and all worked less well than light; the comparison is in the folder and is to be repeated rather than cited.
 
 ## Apex Record
 
