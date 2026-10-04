@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **256** |
-| Pending — no disposition-bearing line found by scan | 47 |
+| **Classified here, with a quoted line of evidence** | **257** |
+| Pending — no disposition-bearing line found by scan | 46 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 256 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 257 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 47 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 46 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -308,6 +308,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Calling Bloom | O-IIIβ-944 | Neutral. Three bespoke pairings, mixed and net-nil for F01. The Kind Echo: *"the Bloom grows still and quiet beside the Echo… both gauges dip."* The Vanished Seed: *"a quiet, sorrowful resonance; both seem to wait for someone who will not arrive."* But the Sorrow Flower: *"a tense mutual watching; both blooms turn toward each other and the gauge of each rises slowly. Handle apart."* It calms two neighbours and agitates a third, suppresses nothing, and its own breach only *"drifts… toward any concentration of people."* |
 | Grieving Love | N-IIIβ-941 | Neutral. Three bespoke pairings and no suppression in either direction. The Preserved Heart: *"a quiet, mutual stillness; both gauges dip. The most peaceful pairing on record."* The Ember Child: *"the Ember Child's warmth draws her close; she brightens and her weeping slows"* — the other entity acting on her, not her on it. The Lonely Giant: *"resonant amplification of longing; both gauges rise if left together too long."* Two calmings and one amplification, net-nil to F01; her breach reaches only people. |
 | Moktak | N-IIβ-910 | Neutral, and inert toward F01 by reach rather than by temperament. Its breach First Target is recorded as *"Nobody. The expansion follows the seating rather than the people"*, and the conversation it holds has never admitted a living participant: *"The conversation is among the figures rather than toward anyone present, and no response has ever been obtained."* No cross-entity pairing exists and none is possible — *"Nothing has ever left the hall under its own power."* The one recorded expansion added chairs in the corridor and was detected by a seat count four days late, with no personnel effect beyond a four-hour sitting. It suppresses no entity, assists none, and yields F01 12–18 Han-Energy on one cycle per day capped by the dusk interval. |
+| Weighted Silence | O-IIIγ-924 | Neutral. It has no recorded contact with any other entity and no mechanism for one: *"Seventeen years of sighting, eleven permitted crossings, two lost instruments and not one observation of a form, a figure, a voice or a direction of travel."* Its single expansion, Y4247, took in a marker post and a radio relay and reverted to fifty metres when the survey series resumed; its breach First Target is *"The record, before any person"*, and the only measured loss is documentary — *"slates carried inside come out blank or shortened."* It suppresses nothing and assists nothing. The cost to F01 is a survey and eleven permits in seventeen years; the yield is the holding's own boundary method, adopted elsewhere. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |

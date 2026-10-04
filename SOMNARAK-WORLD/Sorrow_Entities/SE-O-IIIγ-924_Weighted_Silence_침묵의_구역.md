@@ -34,14 +34,14 @@
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Work it from the boundary. Every reading that has ever moved the gauge was taken by sighting from outside the radius; the four entries logged from inside the fifty metres are annotated as unverifiable, because the slate record of them was written by someone who could not hear themselves think. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Weighted Silence.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- The only escalation on file followed a survey missed in Y4247, and the radius was found unchanged when the series resumed. Gauge movement here has never tracked work quality; it tracks how long the boundary has gone unmeasured.
 - The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- M.A.W. extraction is performed at the boundary with the piece drawn outward across it. Pieces drawn inward have been lost twice: not destroyed, not retrieved, simply absent from the slate inventory taken ninety seconds later.
 
 ## Combat Record
 ### Core Stat Line
@@ -72,7 +72,7 @@
 | **Difficulty** | 924  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-924 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | The annual sighting closes with the radius matching its markers to within the survey tolerance of half a metre. Containment here is a measurement, not a suppression — nothing is subdued, and the file is explicit that nothing ever has been. |
 
 ### Combat Actions
 
@@ -87,13 +87,13 @@
 
 1. **Tension:** Personnel identify the hazard manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Weighted Silence's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The team withdraws across the boundary, counts itself, and compares slates. The silence does not pursue and has never been observed to contract; the sitting ends because the team decides it has, which is the single most repeated sentence in the responders’ account.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented void effect — void pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- Composure loss is recorded on exit and is proportional to time inside rather than to anything that happened there. Nine of eleven cases describe the same thing: an inability, for some hours afterwards, to judge how loudly they were speaking.
+- Prolonged exposure produces no injury and no lingering pressure. What it produces is a documentation failure — personnel inside write less, and what they write is shorter, flatter and progressively less specific. The two reports in the Origin are the archive’s own evidence of this.
+- A piece carried inside stops answering and resumes at the boundary. The cost is in the gap: the wielder is unarmed for the duration and generally does not notice until they are out.
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Void pressure in a void register.
 - The hazard form is unmistakable — this is a void entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Identification is by the edge, not the interior: a line in the Desolate across which a thrown stone stops making noise mid-flight.
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -117,18 +117,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A 50-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. Personnel who enter report that the silence has weight, texture, and intent. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Hazard-Void manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | Fixed at a radius of fifty metres and sighted annually against markers set outside it. Seventeen consecutive surveys from Y4239 to Y4255 record the same figure to within half a metre. It has never been observed to grow, shift, or drift with the Desolate. |
+| **Material / signature** | No material at all, and that is the signature. Within the radius there is no sound — not reduced, not deadened, absent — and the absence has direction: personnel consistently report that the silence feels heavier toward the centre, though no instrument has ever confirmed a gradient. |
+| **Distinctive markers** | The boundary is abrupt rather than graded. A person standing with one foot across it hears their own voice from one side of their head only, and every account of the crossing describes this before it describes anything else. |
+| **Identification** | Throw something. The stone falls silent at the line and lands silently; the line is the same line as last year’s markers. No other holding on the register produces a silent landing. |
 
 ## Origin
 
-The first agent to encounter Weighted Silence filed a report that began: 'I do not know how to describe what I saw.' The report was returned with a note from the Director: 'Try again.' The agent tried again. The second report was accepted. It was not more accurate; it was more specific.
+The first agent across the line wrote four sentences and handed them in. The report was returned with one word from the Director — *specifics* — and the agent wrote it again, at length, the following morning. Both versions are held, in order, and the file reproduces them together on purpose.
 
-The entity is a hazard — a 50-metre radius in the desolate where sound does not exist — not muted, not da — but its void nature sets it apart from every other void entity in the catalogue. Standard void pressure presses, dissolves, burns, or crushes. This one warps conditions. The protocols had to be rewritten.
+What is contained is a fifty-metre circle in the Desolate in which sound does not occur. Not muted, not dampened, not absorbed by anything a survey can find: absent. The protocols in the manual were written afterwards, from what the responders had actually done, and the manual says so rather than presenting the procedure as though it had existed in advance.
 
-The R.D. contained it in fourteen hours. Containment holds — barely. The void register is not in the original manual because no one had encountered a Hazard-Void entity before. Now the manual has a new chapter. The chapter is Weighted Silence's file.
+Containment took fourteen hours and consisted of a chain, twelve posts and a sighting line. It has held for seventeen years because nobody has needed it to do anything — the circle has not moved, and the one year it did, the year was the year the survey was missed.
 
 ## Behavior
 
@@ -141,7 +141,7 @@ The R.D. contained it in fourteen hours. Containment holds — barely. The void 
 
 ### Operational Work Notes
 
-The Void pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Hazard-Void manifestation means the void register is the primary channel of contact.
+The void here is not a pressure that does something to a worker; it is a condition that removes an instrument. Both valid approaches work from outside the line. Observation is the survey. Endurance is the willingness to stand at the boundary for the full sighting in the Desolate’s weather, which is why the gauge moves for patience rather than for insight.
 
 ## Breach Behavior
 
@@ -150,15 +150,15 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's void influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Void pressure radiates — the void register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | The line moves outward in whole metres and only during the hours a survey is overdue. The single recorded expansion — fifty to fifty-three metres, Y4247 — reverted to fifty exactly when the series resumed, and the file refuses to call this a response, noting only the coincidence. |
+| **Effect** | The enlarged area takes in whatever stood in the extra three metres. In Y4247 that was a marker post and a radio relay. The post was recovered unchanged. The relay was recovered unchanged and has never transmitted since, and bench testing finds nothing wrong with it. |
+| **First Target** | The record, before any person. The first measurable loss in an expansion is the written trace of it: slates carried inside come out blank or shortened, and the Y4247 event was reconstructed afterwards from the marker survey rather than from any note made at the time. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per overdue survey rather than per turn. It has reached 50% once, in Y4247, and has not been above 40% in the sixteen years since.
 
 ## M.A.W. Equipment
 
@@ -189,7 +189,7 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a hooded weave of Void Han-gossamer, near-translucent and almost colourless, that makes no sound against itself — the wearer’s own footsteps, breathing and cloth-rustle are audible to everyone except the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -217,75 +217,75 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
-*Stigmas are granted at random by Weighted Silence upon a successful work, not manufactured.*
+*A Token is found at the boundary, never inside it, and always on the outward side of the marker line. The Warden who recovers it signs for it in writing; the custody of this set has never once been transferred by spoken word.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Weighted Silence, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+The Weighted Silence set is made from the markers rather than from the entity: the Edge from a survey rod, the Veil from the sighting cloth, the Token from a cut of the boundary chain. None of the three was taken from inside the radius, because nothing taken from inside the radius has ever been brought out.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record the operator’s distance from the marker line at the moment of issue, in metres, and whether they have crossed it before. Both figures appear on every custody sheet in the set and neither has ever been left blank. |
+| **During use** | Log by slate, not by voice. Any entry made inside the line is timed from the outside by the boundary watch, since no one inside can establish how long they have been there — the longest self-estimate on file is twenty minutes for a measured ninety-four. |
+| **At limit** | The wielder stops speaking and does not notice. Three cases, all three ended by a hand on the shoulder. In each the wielder reported believing they had been answering questions continuously. |
+| **After use** | Debrief in writing first, aloud second, and keep both. The archive holds the pair for every use of this set, which is where its standing instruction about the two reports comes from. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Void signature confirmed at SECTOR-O-924.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The void register is the dominant channel of contact.
+- Seventeen annual sightings, Y4239 to Y4255, radius constant at fifty metres ± half a metre. The series is unbroken because the method never requires entry.
+- Both valid approaches are performed from outside the line and both reduce the gauge. Nothing performed inside the line has ever produced a reading that could be checked.
+- There is no detectable gradient, no measurable energy and no instrument reading of any kind from within the radius. Everything known about the interior is testimony, and the file says so in its first paragraph.
 
 **Personnel Note:**
 
-> *"The void pressure is different from standard void. It does not press on the body — it presses on the void itself. You feel it before you understand what is happening."* — Specialist, Field Team 4
+> *"It is not that you cannot hear. It is that there is nothing to hear and you keep listening anyway. I came out and I had been listening for an hour and a half."* — Specialist, boundary watch
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Weighted Silence (O-IIIγ-924 [VH]) is logged as a Hazard-Void manifestation expressing Void. Held at SECTOR-O-924.
+**Entry 1 — Containment Description** A fifty-metre circle in the Desolate containing no sound. Marked by chain and post, sighted annually from outside, entered by permit only. Communication within is by hand signal and slate; the signal set was adopted from the other silent holding rather than devised here.
 
-**Entry 2 — Field Log** First contact report: the void register was immediately apparent. Personnel described it as a void pressure unlike standard void.
+**Entry 2 — Field Log** Y4238, first crossing. Three personnel in, three out, ninety-four minutes. The slates came out with eleven words on them between the three. All three were able to describe the interior at length once they were outside it.
 
-**Entry 3 — Counseling Log** The void pressure accumulates in the void register — this is not standard void; this is void filtered through void.
+**Entry 3 — Counseling Log** No distress is reported during exposure and a consistent flatness is reported after it. Interviewers are instructed to ask the same question twice, an hour apart; the second answer is reliably longer and more exact than the first.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The void register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** The survey is to be conducted from outside the line in its entirety. This is not a safety measure and is not written as one — it exists so that the series stays comparable, since a measurement taken inside cannot be verified by the person who took it.
 
-**Entry 5 — Director's Note** This entity's classification as Hazard-Void is correct. The void descriptor is not decorative — it is the operational axis. All containment protocols should account for the void register as the primary channel.
+**Entry 5 — Director’s Note** I returned the first report because it told me nothing. I accepted the second because it told me a great deal, and I want it on the record that the second is not more truthful than the first — it is more specific, which is a different virtue and the only one this archive can actually enforce.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Stay at the line — take the sighting and write it down. | Walk in — find out what the silence is from inside it. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| The radius matches its markers, the series stays unbroken, and the gauge falls. | You come back out with eleven words on a slate and an hour you cannot account for. Nothing harmed you. Nothing was recorded either. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
 There is a moment — always the same, always brief — when the void pressure and the void register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A 50-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. Personnel who enter report that the silence has weight, texture, and intent. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
 
-**At first contact:** The void signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of void.
+**At first contact:** Your own footsteps stop before you do. Most personnel turn around to look at the ground.
 
-**With continued exposure:** The void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** You lose the clock. Time inside is estimated short by a factor of four or five, consistently enough that the boundary watch now keeps it for you.
 
-**When the entity activates:** The void becomes a force rather than a feeling. The hazard was holding; now it releases.
+**When the line moves:** Nothing announces it. An expansion is discovered by survey, not by sensation, and the one on record was found four days after the marker post went quiet.
 
-**After departure:** The void does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** Sound comes back all at once at the line, and it is louder than it should be for about a minute. Personnel are advised to wait there rather than walk.
 
 ## 이야기 (Narratio) — The Tale
 
-The first agent to encounter Weighted Silence filed a report that began: 'I do not know how to describe what I saw.' The report was returned with a note from the Director: 'Try again.' The agent tried again. The second report was accepted. It was not more accurate; it was more specific.
+He said afterwards that the hard part was not the silence but coming back out of it, because sound arrives at the line all at once and for about a minute it is too much. He wrote the second report after that minute had passed. The archivist who filed both has noted, drily, that this is probably the entire methodological finding.
 
-The entity is a hazard — a 50-metre radius in the desolate where sound does not exist — not muted, not da — but its void nature sets it apart from every other void entity in the catalogue. Standard void pressure presses, dissolves, burns, or crushes. This one warps conditions. The protocols had to be rewritten.
+There is nothing in the circle. That is not a figure of speech and the file resists making it one. Seventeen years of sighting, eleven permitted crossings, two lost instruments and not one observation of a form, a figure, a voice or a direction of travel. What is recorded instead is the edge, measured annually, to within half a metre.
 
-The R.D. contained it in fourteen hours. Containment holds — barely. The void register is not in the original manual because no one had encountered a Hazard-Void entity before. Now the manual has a new chapter. The chapter is Weighted Silence's file.
+The chapter in the manual that this holding produced is three pages long and most of it is about writing things down: slates in, slates out, blank slates recovered and filed as data, the clock kept by someone standing outside. It is a chapter about documentation because documentation is the thing the circle takes.
 
-The entity does not rage. It does not weep. It persists — void and void, patient and permanent. Weighted Silence is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+It does not rage, weep, or persist in any sense that needs a verb of its own. It is fifty metres across and it is quiet, and seventeen surveys say it is exactly as quiet and exactly as wide as it was the year it was found.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -308,17 +308,17 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 **Threat Assessment:** Major. A Hazard-Void entity — the void register is its defining characteristic. Risk: prolonged exposure to the void pressure may produce effects not seen in standard void entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the void register specifically — it is the primary channel of contact.
+- Survey from outside the line, annually, against the fixed markers. This is the whole of the containment.
+- There is nothing inside to weep with or confront. No form, no figure, no voice has ever been reported — only the absence and its edge.
+- Permit entry only with a boundary watch keeping the clock outside, and recover every slate whether or not anything was written on it.
 
 **Cross-References:** Outside Sorrow (외한) · Void · Hazard-Void · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Hazard-Void classification is valid and necessary. The void descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** Hazard-Void is the correct register, but the operational fact is simpler than the classification: a line you can measure around a volume you cannot measure into. Everything the archive knows about the interior was written outside it, afterwards, by people who had been there.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and void pressure readings after every breach or unusual interaction.
+**Review requirement:** Sight the radius every year without fail and file the two versions of every debrief together. The Y4247 gap is the only break in the series and it is the only year anything moved.
 
 ## Warden Record
 
