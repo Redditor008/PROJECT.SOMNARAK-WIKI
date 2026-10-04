@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **268** |
-| Pending — no disposition-bearing line found by scan | 35 |
+| **Classified here, with a quoted line of evidence** | **270** |
+| Pending — no disposition-bearing line found by scan | 33 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 268 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 270 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 35 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 33 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -373,6 +373,8 @@ The ones that cost F01 containment, not just personnel.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| The Ancestral Guilt | `SE-N-Vω-1055` | Negative. A Sovereign kept directly beneath the facility whose top-end behaviour is structural rather than personal: the potency modifier reads *"ω — Capable of crushing an entire sector beneath civic weight"*, and its Ultimate, *Ledger of the Unforgiven*, *"Deals 60-85 Weight damage across entire sector; triggers instant Fracture."* Containment cannot be bought back by force either — *"Do not attempt to burn or shred the entity’s scrolls with fire; each destroyed document doubles the entity’s kinetic mass."* An entity that fractures a sector of F01 and grows from every attempt to remove it meets the `R-19` Negative test on structural collapse, without needing a cross-entity line. Access is already rationed by genealogy rather than by grade, which is itself an institutional cost no other holding imposes. |
+| Wilderness Tide | `SE-O-Vγ-003` | Negative, and the only entity in the index that is Negative by mass release rather than by malice. Breach escalation: *"Sorrow Gauge on breach: The entire zone’s ambient Han spikes to 60%+; all entities in Zone E may activate."* That is the Negative definition verbatim — one failure arming every neighbour. The breach `First Target` is *"The wall itself, then the nearest Warden garrison"*, and the flooded zone *"expands by 50 meters"* per turn while the breach is open. The Directorate’s own posture concedes the class: it is *"the only V-rank entity the Directorate has never attempted to name, bargain with, or work — only to endure, chart, and respect."* The Tide dissolves wilderness entities caught in it, but nothing inside the wall benefits from that. |
 | Sorrow Mass | `SE-C-Vω-925` | Negative, and the only Sovereign the Directorate manages without ever scheduling a work. Uncontained. Breach `First Target`: *"The foundations, and after them whatever has been carried longest without being said."* The cost to F01 is standing and structural rather than episodic — load-distribution wards under every floor plate, foundation gauges read on the watch, an uninterrupted deflection survey, and standing authority to clear a working floor on one reading. Seventeen major pressure events are on the Directorate ledger and one district was lost outright: *"a district loaded past endurance before the doctrine existed, where the weight arrived faster than the mourning and the structures failed before the rites."* It suppresses no entity and assists none; it is classed Negative for what it takes from the facility to hold, not for any hostility the file records. |
 | Stormscale Sovereign | `SE-C-Vδ-949` | Breach `Effect`: *"The Fourfold Tide spreads beneath its flight path; every sector it overflies is cycled through all four sorrows."* Battle Phase 1: *"There is no containment that holds a Sovereign."* Consequences: *"Any sector the Sovereign overflies is subjected to the Fourfold Tide; there is no single defence, and casualties are assumed."* Sealed Record: *"there is no force in the city's containment capacity that can suppress a Mixed-element Sovereign in active flight."* It is not merely dangerous to F01 — it is the one outcome the archive holds that defeats containment as a category, and the only documented resolution is the entity choosing to end itself, which *"there is no guarantee a second manifestation would"* repeat. |
 | Black River | `SE-C-Vγ-225` | Expansion `Effect`: *"Foundations that met code when raised are found anchored below the line. Four basements were bought and sealed this year."* Interaction record: *"Its foundation sits below the grief-line and draws... The Maw strengthens measurably; the River's own readings do not move."* It is the source every entity in the catalogue draws from, it strengthens a catalogued Negative by measurement, and it lifts the ground F01's containment is anchored in at 418 millimetres a year. Negative. |
