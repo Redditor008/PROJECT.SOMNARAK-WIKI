@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Cordon and wait. Every sleeper on record has woken unaided; no intervention has ever shortened a sleep, and the two attempts to shorten one by contact produced two more sleepers and no change in the first. |
 
 ### Operational Notes
 
@@ -73,7 +73,7 @@
 | **Difficulty** | 927  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("IV", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-927 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | The sleeper wakes on their own and the cordon is lifted by the person who set it. Resolution is a timekeeping exercise — mean duration four hours eleven minutes, longest nine hours, none unresolved — and no work performed on a sleeper has ever altered the figure. |
 
 ### Combat Actions
 
@@ -88,13 +88,13 @@
 
 1. **Tension:** Personnel identify the hazard manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dreaming Plague's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The sleeper sits up. The attending crew takes their account before anyone speaks to them about it, in a separate place from any other sleeper, and the barriers go back on the rack. The district reopens the moment the account is signed.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented void effect — dream pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- Composure loss follows the waking, not the dream: the sharpest readings in the file belong to personnel who woke to find that the colleague who had carried them was now asleep as well. Four such cases, all before the no-carry rule.
+- Repeat sleepers report the approaching sound as nearer each time, consistent with the district series and with each other. No other content changes and no physical effect has ever been recorded.
+- No M.A.W. piece may be handed between personnel inside the district. The set is drawn and returned at the staging point, by one named holder per shift, because the holding’s only transmission route is a hand on a person.
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Void pressure in a dream register.
 - The hazard form is unmistakable — this is a dream entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Identification is by the sleeper, not by the district: a person asleep where they stood, breathing normally, who cannot be woken and who is not in distress.
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Hazard-Dream manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | The holding does not move; the dream does, and only along contact. One sleeper becomes two when somebody touches them, and has never become two by any other route in the whole of the series. |
+| **Material / signature** | A city that is not Somnarak, a sky that is not the sky, and a sound that is getting closer. Those three elements appear in every account the wing holds, taken separately, from witnesses who had not spoken to one another. |
+| **Distinctive markers** | The agreement. Independent sleepers describe the same streets in the same order, and the counsellors’ standing note records that this is the most troubling feature of the file precisely because dreams do not ordinarily agree. |
+| **Identification** | Ask the waking sleeper how far away the sound was, before they are told what anyone else said. The answer places them in the district series within one position; it has never placed them outside it. |
 
 ## Origin
 
-Dreaming Plague was not discovered. It was recognised. The void pressure had been present in SECTOR-N-927, contained for years — measured, logged, filed under 'ambient anomaly.' It took a junior researcher on Floor 4 to point out that the anomaly had a shape. The shape was Hazard-Dream. The anomaly was alive.
+It was logged as ambient for years. Measured, filed, carried forward in the summaries as a pressure reading with nothing attached to it — and the classification was not careless. It was correct against the criteria then in use. A junior researcher, named in the file, noticed that the sleepers were describing the same street corner, and the criteria were changed because of what she found. The superseded version is retained in the folder beside the current one.
 
-Floor 4 has studied Dreaming Plague for cycles. Their findings are classified, but the summary is available: the dream register is not a secondary characteristic. It is the primary axis. The void element determines the pressure type; the hazard type determines the physical form; but the dream descriptor determines the *nature* of the contact.
+The dream does not vary. A city that is not Somnarak, a sky that is not the sky, and a sound approaching from somewhere out past the last of the streets. Three hundred and eighteen people have described it separately and they describe it the same way, in the same order, down to which corner the light fails at.
 
-Personnel who work Dreaming Plague do not simply feel void pressure. They feel void pressure filtered through dream — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the dream register or the work will fail.
+Only one element moves. Later sleepers put the sound nearer than earlier ones, every time, without exception and without knowing where in the series they fall. The wing maintains the dates and the estimates and declines, in writing, to say what the trend indicates.
 
 ## Behavior
 
@@ -142,7 +142,7 @@ Personnel who work Dreaming Plague do not simply feel void pressure. They feel v
 
 ### Operational Work Notes
 
-The Void pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Hazard-Dream manifestation means the dream register is the primary channel of contact.
+There is no pressure on the body here at all. Both valid approaches are performed at arm’s length from a cordon line: observation is the account taken on waking, endurance is the attending itself, hours of standing next to somebody you are forbidden to touch. The gauge responds to the cordon being held, which is the only thing personnel actually do.
 
 ## Breach Behavior
 
@@ -151,15 +151,15 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's dream influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Void pressure radiates — the dream register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | The affected district widens by whole blocks and only after a sleeper has been moved across a street while asleep. It happened twice, in the first year, and both times the new boundary ran along the route the carrier had walked. |
+| **Effect** | Within the widened boundary the first sleep occurs unprompted — no contact, no sleeper nearby, somebody simply lies down. After that first one the contact rule resumes and has held for every subsequent case. |
+| **First Target** | Whoever picks somebody up. The holding has no reach of its own and has never taken a person who was not touching another person; the two expansions on file were both carried into being by a rescuer. The no-carry rule is the containment. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per additional sleeper rather than per turn. The largest chain recorded is six, in Y4232, before the rule; every chain since the rule has been one.
 
 ## M.A.W. Equipment
 
@@ -184,13 +184,13 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Ability:** Channels void dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.
 
-**Cost:** The wielder experiences a persistent low-grade headache with each use.
+**Cost:** The wielder dreams the district’s dream on the night after use — the same streets, the same sky — and wakes on their own in their own bed. It is logged as an exposure, counted in the series, and has never once progressed to a sleep that could not be ended.
 
 ### M.A.W. Suit — Dreaming Plague's Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a hooded weave of Void Han-gossamer, near-translucent and almost colourless, cut without fastenings of any kind so that it cannot be handed to another person without being taken off first.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -218,75 +218,75 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
-*Stigmas are granted at random by Dreaming Plague upon a successful work, not manufactured.*
+*A Token is found in the hand of a sleeper who was not carrying one when they lay down. It is taken from the open palm after waking, never before, and the recovery is witnessed by two people standing outside arm’s reach of each other.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Dreaming Plague, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+The Dreaming Plague set is made from the cordon: the Edge from a marker-lamp standard, the Veil from the barrier sheeting, the Token from a lamp lens. Nothing in the set came from a sleeper or from anything a sleeper had touched, and the extraction record says so on every line.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record the operator’s rest declaration and the hour of their last sleep. Both are taken at face value, as the district rule requires, and a short declaration stands the operator down with no entry on their record and no question asked. |
+| **During use** | Log every hand that touches the piece, in order. The custody chain for this set is written in a single column so that it can be read as a contact list, which is what it is for. |
+| **At limit** | The wielder begins describing the street layout of somewhere they have not been. Three cases, all ended by standing the wielder down for a shift, none requiring more than that. |
+| **After use** | Return the piece to the rack at the staging point personally. It is not passed, not left for collection, and not carried out of the district by a second party — the three rules are the same rule. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Deep
 
 **Key Observations:**
-- Void signature confirmed at SECTOR-N-927.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The dream register is the dominant channel of contact.
+- 318 accounts taken since Y4231, each dated, each including the sleeper’s estimate of how far away the sound was. The estimates are ordinal, not metric, and are recorded as such.
+- Both valid approaches are performed from outside arm’s reach and both reduce the gauge. Nothing performed by contact has ever reduced it, and contact has produced a second sleeper on every occasion it has been tried.
+- Transmission is by touch and has never been anything else: not proximity, not shared air, not sightlines. The rule rests on 318 cases with no exception.
 
 **Personnel Note:**
 
-> *"The dream pressure is different from standard void. It does not press on the body — it presses on the dream itself. You feel it before you understand what is happening."* — Specialist, Field Team 9
+> *"You stand a metre from somebody you have worked beside for nine years and you do not touch them. That is the whole job. Everything else about it is paperwork."* — Attendant, Zone D cordon
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Dreaming Plague (N-IVδ-927 [VH]) is logged as a Hazard-Dream manifestation expressing Void. Held at SECTOR-N-927.
+**Entry 1 — Containment Description** A Zone D district in which a sleeper cannot be woken and cannot be carried. Containment is light barriers, marker lamps, a rest declaration before every shift, and one rule: nobody picks anybody up.
 
-**Entry 2 — Field Log** First contact report: the dream register was immediately apparent. Personnel described it as a dream pressure unlike standard void.
+**Entry 2 — Field Log** Y4232, the chain of six. A sleeper was carried, the carrier slept, two colleagues took them both, and within forty minutes six people were lying in the same street. All six woke. The no-carry rule was written that evening and the district has not had a chain since.
 
-**Entry 3 — Counseling Log** The void pressure accumulates in the dream register — this is not standard void; this is void filtered through dream.
+**Entry 3 — Counseling Log** Accounts are taken separately and before any contact between sleepers, and the separation is enforced rather than requested. The agreement between them survives the separation, which is the finding; the counsellors state plainly that they do not have an explanation for it.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The dream register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Stand-down counts are published once a cycle as a single district figure, without names and without breakdown by crew. The format was chosen so the number cannot identify anybody or be used against a team, and two requests for a more detailed form have been refused in writing.
 
-**Entry 5 — Director's Note** This entity's classification as Hazard-Dream is correct. The dream descriptor is not decorative — it is the operational axis. All containment protocols should account for the dream register as the primary channel.
+**Entry 5 — Director’s Note** The sound has been getting closer for seventeen years and I will not write down what I think that means, because what I think is not evidence. The series is maintained, dated and unedited, and the next Director can read it as it stands.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold the line — cordon the sleeper and wait them out. | Reach for them — get your colleague off the ground. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| They wake inside the hour and the account is taken clean, before anybody has compared notes. | Now there are two of them, and the second one is you, and somebody else is standing over you deciding what to do. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
 The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream.
 
-**At first contact:** The dream signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of dream.
+**At first contact:** Somebody lies down in the street with no warning at all, and the first thing anyone does is reach for them, and the first thing anyone has to learn here is not to.
 
-**With continued exposure:** The void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** Attendants come to know the dream by heart from other people’s accounts. Several report recognising the streets before they ever slept there, which the file notes and does not interpret.
 
-**When the entity activates:** The void becomes a force rather than a feeling. The hazard was holding; now it releases.
+**When the district widens:** The new boundary follows somebody’s footsteps. Both expansions ran along a route a rescuer had walked with a sleeper in their arms, and both were mapped afterwards from the carrier’s own account of where they went.
 
-**After departure:** The void does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** You sleep normally. Almost everyone does. The exceptions are in the series, dated, with their estimate of the distance.
 
 ## 이야기 (Narratio) — The Tale
 
-Dreaming Plague was not discovered. It was recognised. The void pressure had been present in SECTOR-N-927, contained for years — measured, logged, filed under 'ambient anomaly.' It took a junior researcher on Floor 4 to point out that the anomaly had a shape. The shape was Hazard-Dream. The anomaly was alive.
+The rule that defines this district was written in one evening, by people who had spent the afternoon watching six colleagues lie down in a row. It runs against every instinct a rescue crew has, and the training for it consists mostly of standing a metre away from a volunteer and not reaching out.
 
-Floor 4 has studied Dreaming Plague for cycles. Their findings are classified, but the summary is available: the dream register is not a secondary characteristic. It is the primary axis. The void element determines the pressure type; the hazard type determines the physical form; but the dream descriptor determines the *nature* of the contact.
+Everyone wakes. That is the part the district has to keep saying to itself, because the sight of somebody asleep on the pavement does not look like something that resolves on its own. Mean duration four hours and eleven minutes; longest on record nine hours; unresolved cases, none.
 
-Personnel who work Dreaming Plague do not simply feel void pressure. They feel void pressure filtered through dream — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the dream register or the work will fail.
+The stand-down tally is published as one number for the whole district, no names, no crews. It is trivially easy to abuse and the wing has written down that it accepts this, on the grounds that any checking procedure would produce a worker who lies about being tired, and a worker who lies about being tired is how you get a second sleeper.
 
-The entity does not rage. It does not weep. It persists — dream and void, patient and permanent. Dreaming Plague is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+So the district runs on a prohibition, a declaration taken at face value, and a series of dated estimates that moves in one direction. Nobody has been harmed here in seventeen years. Nobody will say the file is reassuring.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -309,17 +309,17 @@ The entity does not rage. It does not weep. It persists — dream and void, pati
 **Threat Assessment:** Critical. A Hazard-Dream entity — the dream register is its defining characteristic. Risk: prolonged exposure to the dream pressure may produce effects not seen in standard void entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the dream register specifically — it is the primary channel of contact.
+- Cordon at arm’s reach, attend until waking, take the account before anyone talks to anyone.
+- There is no form to weep with and nothing to confront; the holding presents as a sleeping colleague and nothing else.
+- Keep the distance series unbroken and publish the stand-down tally as one district figure, with no names and no trend lines by crew.
 
 **Cross-References:** Inner Sorrow (내한) · Void · Hazard-Dream · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Hazard-Dream classification is valid and necessary. The dream descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** Hazard-Dream is the correct register, but the operational content of this holding is a single prohibition: do not pick anybody up. Everything else — barriers, lamps, declarations, the tally — exists to make that prohibition survivable for people whose instinct is the opposite.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and dream pressure readings after every breach or unusual interaction.
+**Review requirement:** Re-read the distance series end to end each cycle and record whether the ordinal positions have moved. The last reading was taken at Y4255 and the sound was nearer than at Y4254, as it has been at every reading taken.
 
 ## Apex Record
 
