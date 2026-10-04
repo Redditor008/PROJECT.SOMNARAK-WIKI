@@ -44,9 +44,47 @@ def dossiers():
     return out
 
 
-def grams(text):
-    w = re.sub(r'[^a-z\s]', ' ', text.lower()).split()
-    return set(' '.join(w[i:i + N]) for i in range(len(w) - N + 1))
+FURNITURE_PREFIX = (
+    '> **R.D. Operational Record:', '> **R.D. Field Parameters:',
+    '> **Mechanics Reference:', '> **Materialized Agony Wear',
+    '> **Object/Place Work Rule:', '> Progressive declassified records',
+    '**Document ID:', '**Author:', '**Date:', '**Classification:',
+    '**Registry:', '**Canon Status:', '**Type:', '**Slot:',
+    '**Damage:', '**Resistances:', '**Max Amount:', '**Falloff Rule:',
+    '**Damage Application:', '**Containment Status:', '**Comprehension Level:',
+)
+FURNITURE_LABEL = re.compile(
+    r'^\|\s*\*\*(Coherence modifier|Potency modifier|Entity role|Entity Type|'
+    r'Sorrow Category|Valid Work Types|Work difficulty|Difficulty|Comprehension Level|'
+    r'R\.D\. Comprehension Level|Vessel-Destructible|Speed|Movement|Flerehan|Pugnahan|'
+    r'Viderehan|Ferrehan|Activation threshold|Tool / M\.A\.W\. grade|Risk tier|'
+    r'Han Dust Drop|Element|Designation|Coherence|Potency|Manifestation)\*\*')
+
+
+def is_furniture(line):
+    t = line.strip()
+    if not t or t.startswith('#'):
+        return True
+    if t.startswith('|') and (set(t) <= set('|- :') or '| Field | Value |' in t
+                              or t.startswith('| Statistic |') or t.startswith('| Stat |')
+                              or t.startswith('| Name / Category |')):
+        return True
+    if FURNITURE_LABEL.match(t):
+        return True
+    return t.startswith(FURNITURE_PREFIX)
+
+
+def grams(text, prose_only=True):
+    """8-grams. By default only from lines that are not R-23 sanctioned furniture."""
+    out = set()
+    lines = text.split('\n') if prose_only else [text]
+    for ln in lines:
+        if prose_only and is_furniture(ln):
+            continue
+        w = re.sub(r'[^a-z\s]', ' ', ln.lower()).split()
+        for i in range(len(w) - N + 1):
+            out.add(' '.join(w[i:i + N]))
+    return out
 
 
 def split_sections(text):

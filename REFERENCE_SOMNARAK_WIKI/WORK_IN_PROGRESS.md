@@ -17,8 +17,8 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **21 / 303** |
-| **Dossiers at the Tale standard (`R-24`, generic fraction ≤ 0.05)** | **11 / 303** |
-| Archive median generic fraction | 0.155 |
+| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **77 / 303** |
+| Archive median prose generic fraction | 0.107 |
 | **Dispositions classified (Workstream 5)** | **275 / 303** |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -98,15 +98,17 @@ and the sections around it are not. Measured with [`sect.py`](RULES/R-24_THE_TAL
 
 | Section | Score | Section | Score |
 |---|---|---|---|
-| `이야기 (Narratio)` — **The Tale** | **0.00** | `Appearance` | 0.90 |
-| `증언 (Testimonium)` | **0.00** | `관찰 기록 (Observation Log)` | 0.93 |
-| `Origin` | 0.16 | `최종 관찰 (Final Observation)` | 0.96 |
-| `Apex` / `Watch` / `Warden Record` | 0.42 / 0.45 / 0.62 | `기록 (Registrum)` | 0.97 |
-| `Trivia` | 0.80 | `M.A.W.` · `이야기 보고 (Story Log)` | 0.99 |
-| `Behavior` · `Breach Behavior` | 0.88 | `Operational Parameters` · `Combat Record` | **1.00** |
-| `감각 묘사 (Flavor Text)` | 0.89 | `Activation` · `Expansion Behavior` | **1.00** |
+| `이야기 (Narratio)` — **The Tale** | **0.00** | `Behavior` | 0.64 |
+| `증언 (Testimonium)` | **0.00** | `관찰 기록 (Observation Log)` | 0.65 |
+| `SECC Classification` (all furniture) | **0.00** | `Breach Behavior` · `Story Log` | 0.77 |
+| `Origin` | 0.16 | `Trivia` · `Expansion Behavior` | 0.80 |
+| `Apex` / `Watch` Record | 0.42 / 0.45 | `감각 묘사 (Flavor Text)` | 0.89 |
+| `Appearance` | 0.52 | `Registrum` · `Final Observation` | 0.96 |
+| `Warden Record` | 0.62 | `M.A.W.` · `Operational Parameters` · `Combat Record` | **0.97–0.98** |
 
-Archive median generic fraction **0.155**, worst 0.413 (`N-IIIβ-200` Chain of Memories), **11 / 303**
+Scores are measured on prose only — `sect.py` skips `R-23` furniture before shingling, because a
+dossier should not be penalised for the blockquotes and SECC-forced rows it is *supposed* to share.
+Archive median generic fraction **0.107**, worst 0.386 (`N-IIIβ-200` Chain of Memories), **77 / 303**
 at ≤ 0.05. The ten dossiers rewritten in the last batch reached `RESIDUAL 0` and residue 0 and still
 measure 0.103–0.129 — **clearing the line-level tools does not make a dossier bespoke.** What
 survives them is the Combat Actions flavour text, the Battle Phases, the M.A.W. appearance and

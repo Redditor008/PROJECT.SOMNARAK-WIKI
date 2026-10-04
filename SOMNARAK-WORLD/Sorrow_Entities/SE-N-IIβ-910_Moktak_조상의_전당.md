@@ -79,15 +79,15 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
-| { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight spirit sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[18 Weight DMG [Weight]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[21 Weight DMG [Weight]]** | When the entity is cornered or starved. |
-| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Seat Offered* [**Debuff**] } | "A chair stands in the circle that was not in the circle when the hour began, and it is turned to face you." | [The hall adds one seat to the ring of forty-one and holds the gap open until it is filled.] | *The worker cannot cross the ring outward while the seat is empty; each refusal costs 10 Weight and one place in the closing order.* **[10 Weight DMG [Weight]]** | On the third exchange after a living person enters the hall. |
+| { *Your Turn in the Conversation* [**Attack**] } | "The hall stops. Forty-one faces hold still in the direction of your chair, waiting for the part of the sentence that belongs to you." | [The exchange passes to the living participant and does not pass on.] | *The worker loses 18 Weight and may take no action for one turn; the silence counts as a spoken turn and is recorded in the log as one.* **[18 Weight DMG [Weight]]** | When a worker speaks aloud inside the hall for any reason. |
+| { *The Household Named* [**Attack**] } | "One of the back three groups says a surname, and it is the surname on your personnel file." | [A household group claims the worker as one of its own and the hall's weight redistributes onto that single chair.] | *21 Weight to the named worker and nothing to anyone else in the room; the figure that named them does not rise at the hour's end.* **[21 Weight DMG [Weight]]** | When a worker's family register matches a household recorded in the seating plan. |
+| { *Dusk Held Open* [**Ultimate**] } | "The light through the lattice has not moved. It is the angle it had an hour ago, and it will be that angle in an hour." | [The interval refuses to close; the conversation begins again from the first exchange without anyone having risen.] | *Every worker inside the hall takes 20 Weight per cycle for three cycles and cannot be extracted until a closing order is completed in full.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | When the hour passes its recorded length by more than four minutes. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Moktak's recorded combat actions.
+1. **Tension:** The Warden on the door counts the chairs against the seating plan before anyone enters, confirms the figure count at forty-one, and fixes the worker's own seat in the outer ring where the closing order reaches it last. Weight pressure is read from the floor gauge at the threshold, not from inside the circle, because the reading inside the circle has never agreed with the one outside it.
+2. **Clash:** There is no clash in the ordinary sense. The worker sits the interval and the conversation proceeds around them; the whole of the engagement consists of not answering, not standing, and not crossing the ring while a seat is open. The only actions available to the team are the two logged by the Watch — attend, or withdraw before the third exchange.
 3. **Resolution:** The last figure rises and the hall returns to being a building. There is nothing to suppress and nothing to escort out; the team records the closing order, confirms the seats against the plan, and locks the door from the outside as the district requires.
 
 ### Consequences
@@ -154,7 +154,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 | **Movement** | The hall gains seats. Expansion is measured in chairs rather than in metres — forty-four becomes fifty-one, then sixty-three, the new positions appearing along the corridor outside the doors and filling at the next dusk. |
 | **Effect** | Anyone inside the widened seating is counted present. Personnel so counted report afterwards that they were unable to leave before the adjournment, and the duty log for the single recorded instance shows a four-hour sitting rather than thirty-one minutes. |
 | **First Target** | Nobody. The expansion follows the seating rather than the people: the first measurable change is recorded at the empty chairs along the north wall, which begin to read as occupied from the corridor while the hall itself is still shut. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
+| **Escalation** | The hall does not escalate by pressure. It escalates by seats: one chair is added per uninterrupted interval, the ring widens outward into whatever room contains it, and the Weight reading stays flat at 30% throughout. The only figure that has ever moved is the count. |
 
 ### Escalation Notes
 
@@ -169,31 +169,31 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a single-edged blade of Weight Han-steel, matte and unnaturally heavy, that flickers with inner light.
+**Appearance:** a short-handled wooden mallet, hardwood darkened by handling, with a split running the length of the head that has never widened. It is the striker from the hall's own moktak, and it weighs more than its size accounts for — roughly 3.4 kg against an expected 0.8.
 
 **Damage:** Weight 11–17 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels weight spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.
+**Ability:** A struck target is given a turn in a conversation it is not part of. The blow lands as an interruption rather than an impact: the target stops mid-action for the length of one exchange, and anything it was about to do is taken by whatever else is in the room. Against entities with no speech register the mallet does nothing at all, which is most of them.
 **Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
 
 ### M.A.W. Suit — Moktak's Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a flowing veil of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a coarse undyed mourning overrobe cut for sitting rather than walking, long in the back and short at the shin, with the household crest left deliberately unembroidered. Wardens report it is warm at the shoulders and cold across the knees, consistently, in any ambient temperature.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Weight: 0.3 (Resistant) | Lament: 0.9 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
-**Ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.
+**Ability:** The wearer is read by the hall as attending rather than intruding. Seats are not added for a robed worker and the closing order skips them, which is the only known method of sitting a full interval without accruing a place in it. The robe does not reduce Weight damage taken outside the hall.
 
 ### M.A.W. Stigma — Moktak's Token
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a coin-token of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a flat brass seat-marker the size of a thumbnail, stamped with a group number between one and eleven and worn smooth on one face only — the face that sat against the chair.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
-**Ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.
+**Effect:** +1 Resolve while the bearer is seated and nothing at all while they are standing. The marker is the only piece in the Moktak set whose benefit can be measured on a worker outside the hall.
+**Ability:** The bearer is counted. In any room with a fixed seating arrangement they are assigned a place without asking and are never the one left standing; in a room with no arrangement the Stigma does nothing. Nine of the eleven recovered markers carry a number from the front eight groups.
 *A Token appears on a seat, not on a person. It is found after the hour, on the chair the worker occupied, and the Warden who lifts it records which household’s group the seat belongs to — the back three groups have never produced one.*
 
 ### M.A.W. Use Notes
@@ -283,7 +283,7 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 
 **Comprehension Level:** 2 — Basic
 
-**Threat Assessment:** Moderate. A Place-Spirit entity — the spirit register is its defining characteristic. Risk: prolonged exposure to the spirit pressure may produce effects not seen in standard weight entities.
+**Threat Assessment:** Moderate, and the moderation is structural rather than merciful. In four thousand recorded dusk intervals the hall has injured no one who sat still and left when the last figure rose; every logged Composure casualty walked out mid-conversation, and three of the four did so in the corridor rather than the room. The hazard is therefore almost entirely a hazard of attendance policy. The one unresolved risk is the seat count, which rose by one in Year 4,231 and has not risen since — the Directorate has no account of what a second expansion would mean, and the hall offers none.
 
 **Containment & Handling Procedures:**
 - Attend the full interval or do not attend. The gauge reads only on completed sittings.

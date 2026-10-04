@@ -31,13 +31,27 @@ sect.py --files N       N best and N worst dossiers
 sect.py <path>          per-line attribution: exactly which lines to rewrite
 ```
 
+## The measure counts prose, not furniture
+
+**Revised 2026-10-05, first time the rule was used.** The first cut of `sect.py` hashed the whole
+file, which meant a dossier's score was dominated by the `R-23` furniture it is *supposed* to share.
+Moktak was rewritten until every mad-libbed line in it was gone and still read 0.062, because the
+R.D. Operational Record blockquote alone contributes twenty-five shared shingles to every file that
+carries it. A metric that cannot be satisfied by doing the work correctly is a bad metric.
+
+`sect.py` now skips sanctioned furniture before shingling: headings, table header and separator
+rows, rows whose label is forced by the SECC code or by the entity's role, the six system
+blockquotes, and the Document Information block. What remains is prose and slot-filled cells — the
+only text a rewrite can honestly touch. Moktak reads **0.001** under the corrected measure, and
+`## SECC Classification`, which is furniture end to end, correctly falls to 0.00.
+
 ## The threshold, and why it is not zero
 
-A dossier is **clean at a generic fraction ≤ 0.05.** Zero is not the target and is not reachable at
-file level: table headers, the R.D. and M.A.W. blockquotes, and the values forced by the SECC code
-are *supposed* to match across the archive (`R-23`). 0.05 is the figure the eleven already-bespoke
-dossiers achieve with all of that furniture intact — the bar is set by the archive's own best work,
-not by an invented number.
+A dossier is **clean at a prose generic fraction ≤ 0.05.** Zero is reachable now that furniture is
+excluded and five dossiers already sit there, but it is not demanded: two entities of the same role
+may legitimately describe the same work procedure in similar words, and forcing a difference would
+be `R-05` paraphrase-for-its-own-sake. 0.05 is roughly one shared eight-word run per twenty of
+prose — incidental overlap rather than a shared skeleton.
 
 ## What this rule adds that the existing tools cannot see
 
