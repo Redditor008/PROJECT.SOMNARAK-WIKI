@@ -149,9 +149,9 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. The Foam Flood is recorded as an Object with Object-Spirit manifestation and Lament elemental expression. The current record places it in the Dry Riverbed Vault, SECTOR-C-07, Zone C; personnel should not transfer assumptions from any other statue or relic. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the pull of the sky and the slow, aching urge to rise.
+The two valid Work Types do different things here and the difference matters. Viderehan leaves the gauge stable because observation does not relieve the carving of anything; it only makes the wanting legible in the glow. Ferrehan lowers it because a worker who stands inside the field and does not rise to it is, for the length of the cycle, doing what the stone does. Personnel should not carry assumptions across from other statue or relic holdings: a stable gauge here means the encounter was read, not that it was safe.
 
-**Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A decrease means the worker has endured the longing without trying to fly — and that, for this entity, is the closest thing to kindness it understands. An increase means the carving was touched, or the eyes brightened; both move it toward the field's full spread.
+**Reading the response:** A decrease means the worker endured the pull without reaching for it. An increase means the carving was touched or the eyes brightened, and both move the Vault toward full spread. The one reading the protocol insists upon is the eye-brightness taken at the start and end of every watch, because it is the only number this holding produces that is not an interpretation.
 
 ## Activation Behavior
 
@@ -176,25 +176,25 @@ The gauge response is only meaningful in context. The Foam Flood is recorded as 
 | **Activation** | A hand laid upon the carving, or bare skin within the longing-field. |
 | **Primary Effect** | The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. |
 | **Duration** | Until the hand is removed and the eyes dim. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Termination / Return** | The operator closes the channel deliberately, lifts the hand, and names the sky aloud; an abandoned conduit vents Lament across the sector and leaves the eyes at full brightness for eleven to fourteen hours. |
 | **Risk** | Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** The channel is held by continuous attention and cannot be set down. An unattended conduit does not simply lapse — it widens, because nothing on the carving's side ever ends the sharing voluntarily.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The Foam Flood begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates The Foam Flood: The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the grief of a shape carved for flight that has never flown. the dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise. forged during flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. the r.d. sealed the riverbed, moved the carving to the vault, and began the record. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Foam Flood's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. all personnel in the sector take heavy damage. |
+| 10 Seconds | The eyes brighten by roughly a third of baseline and the Vault air goes buoyant; dust in the beam stops falling. | Opening the channel admits the longing in a controlled dose: the petitioner feels the first lift. Adjacent holdings were monitored across all 212 sanctioned channels and recorded no gauge movement, no behavioural change, and no alteration in breach interval; the field does nothing whatever to any other entity. |
+| 30 Seconds | The conduit widens and the vision completes: the riverbed from above, the Zone C roofline, the bright blue sky with nothing between. The petitioner is at this point entirely certain they are flying. | The aura reaches Range Band 2. Personnel inside it report buoyancy and an urge to climb. The urge is the hazard and is to be logged by a second observer, never self-reported. |
+| 1 Minute | The sharing turns one-sided: the petitioner feels the weight the carving carries underneath the flight, a pressure on the chest that the record describes as the ground reasserting itself. | Sustaining past 60 seconds costs 4 Composure every 10 seconds. The operator prepares to disengage. No sanctioned channel has ever been extended on operator request. |
+| 2 Minutes | The flow reverses. What comes back along the conduit is not the wish but the duration of it — the length of time the stone has wanted this — and it seeks somewhere living to be held. | Overload or abandonment vents an uncontained Lament shockwave across the sector, and the petitioner will attempt flight from whatever height is within reach. The Vault is built so that no height is. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Foam Flood: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Spirit form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at The Dry Riverbed Vault, SECTOR-C-07, Zone C, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is not a breach. Nothing leaves the Vault, nothing is released, and the carving does not move; what expands is the radius inside which people want to rise. Record the trigger, the eye-brightness at trigger, the distance at which buoyancy is first reported, and the boundary at which it stops. Because the expression is Lament, behavioural indicators are logged alongside the physical telemetry and are given equal weight in the report.
 
-**Response sequence (The Foam Flood (양룡)):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Seal the Vault stair, establish the perimeter at the marked radius, confirm whether the event is a sanctioned channel, an unsanctioned contact, or a spontaneous spread, and clear every person with access to a height. Name the sky aloud at the door. Do not improvise an unlisted Work Type: Flerehan and Pugnahan are invalid for an Object and have never been attempted here.
 
 ### Detailed Activation Record
 
@@ -205,9 +205,9 @@ The escalation pattern is specific to The Foam Flood: it is not a generic breach
 | **Primary effect** | The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. |
 | **Duration / rate** | Until the hand is removed and the eyes dim. |
 | **Risk** | Major (γ) Object-Spirit producing Lament pressure; Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Viderehan and Ferrehan only, certified Tool protocol, insulated gloves, 90 seconds absolute, second observer present, eye-brightness logged at both ends. |
 
-**Activation reporting order (The Foam Flood (양룡)):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → eye-brightness → buoyancy radius → petitioner's condition at 10, 30, 60 and 90 seconds → termination method → brightness at twelve hours. Object entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -257,22 +257,22 @@ The escalation pattern is specific to The Foam Flood: it is not a generic breach
 
 **Cost:** The bearer dreams, nightly, of flying — and wakes, each morning, on the ground, and grieves a thing they cannot name.
 
-*Stigmas are granted at random by Foam Flood upon a successful work, not manufactured.*
+*The Glowing Eye is not manufactured and cannot be requisitioned. It has been conferred four times, in each case on a worker who ended a channel at the limit without being told, and declined the second channel afterwards.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — restraint in touching, endurance of longing, respect for the ground; forcing a piece toward reckless flight amplifies the cost and may trigger an echo of the source entity's grounded grief. The Stigma is granted at random by the entity upon a successful work, not manufactured.
+Each Foam Flood piece is an extension of a grounded wish rather than ordinary equipment. The listed benefit holds while the bearer accepts the ground — restraint in contact, endurance of the pull, no reaching for height. Used to seek elevation it amplifies its own cost, and the bearer is afterwards described in the record as having been given the carving's half of the exchange.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, eye-brightness baseline, glove certification date, named second observer, and confirmation that the operator has no prior channel within the cycle. |
+| **During use** | Channel open time to the second, eye-brightness at each interval, buoyancy radius, petitioner's reported altitude, first cost, and any request to extend. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the hand was lifted by the operator or by the observer. |
+| **After use** | Termination method, sky named aloud, injuries, lingering sky-grief, brightness at twelve hours, cooldown, rotation status, reuse authorisation. |
 
-**Stat interpretation:** Ratings describe field performance, not safety. The Skyward Spear strikes cleanly yet can leave the wielder aching for the sky for days, glancing upward at nothing.
+**Stat interpretation:** The ratings describe field performance and say nothing about safety. The Skyward Spear strikes cleanly and leaves its wielder glancing upward at nothing for days afterwards, which three of the four bearers have described as the worse half of the bargain.
 
 ## 관찰 기록 (Observation Log)
 
@@ -293,9 +293,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies the Foam Flood as an Object with Object-Spirit manifestation. The first reliable markers are its Lament signature, the metre-tall pale-stone/black-dragon form, the glowing eyes, and its presence in the Dry Riverbed Vault, SECTOR-C-07, Zone C. |
 | **Sustained observation** | Continued observation confirms the Viderehan/Ferrehan response and the longing-field. Personnel must distinguish the carving's grief from its hazard — it is dangerous because it shares a wish too large to hold, not because it is cruel. |
 | **Activation or escalation** | The team records the first touch (gloved or bare), the eye-brightness, and the field-spread before applying the response procedure. |
-| **Post-contact review** | The observer must record what changed, what remained stable, and which detail was most difficult to describe. In the carving's case, the report is incomplete if it records only the hazard and omits that it is, recognisably, a thing made for the sky, fixed to the earth, wanting, for as long as it has stood, to rise. |
+| **Post-contact review** | Record what changed, what held steady, and which detail was hardest to put into words. A report on this holding is incomplete if it logs the hazard and omits that the hazard is a thing made for the sky, fixed to the earth, wanting the same thing without pause for as long as it has stood. |
 
-**Observation method:** Record the first visible sign (the eyes brightening), the first emotional sensation (the pull of the sky), the first measurable environmental change (dust drifting upward, the buoyant air), and the condition that ends the encounter (the unreachable sky named, the eyes dimmed).
+**Observation method:** Log the eyes first — brightness against the vault baseline card, since it is the single calibrated measure the holding affords. Then the buoyancy radius, then the drift of dust, then the operator's condition, then the brightness again at twelve hours. The last reading is the one the photometric series is built from and is never omitted.
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -341,7 +341,7 @@ Management: Do not touch — name the sky it cannot reach aloud, and let the eye
 
 The Foam Flood does not exist in total isolation. Its record carries a cross-flag to one other entity and a classified transformation outcome (see WARNING, SE-C-Vδ-949). When the related entity (or references to it) is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability. The carving's eyes brighten near open water.
 
-**Interaction method:** Observe the carving alone first, establishing its baseline glow and field. Then — under Echo-Core authorisation only — record the first shared response at controlled distance, and whether the interaction calms, amplifies, or redirects the longing. Do not assume any interaction is safe to repeat; the carving's grief is closest to the surface near the cross-flagged entity.
+**Interaction method:** Establish the carving's baseline alone — brightness, radius, dust behaviour — across a full cycle before any co-presence is recorded. Co-presence with the cross-flagged entity is not observed, tested, approached or modelled; only the separation distance is monitored. Where another holding is simply near, record the null as a null and in the same detail as a positive finding.
 
 ### Entity Interaction Record
 
@@ -351,9 +351,9 @@ The Foam Flood does not exist in total isolation. Its record carries a cross-fla
 |---|---|---|---|
 | **The Soot Fry** | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The carving's eyes flare at any reference to the fish; the field spikes (and vice versa). | Spikes; both gauges rise; the eyes will not dim. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
 | **SE-C-Vδ-949 (the classified outcome)** | The transformation that the WARNING forbids. | Not to be invoked. See SE-C-Vδ-949 (Echo-Core Eyes Only). | Do not investigate without authorisation. |
-| **The Crystal Peaks** | The highest natural points in Mugenhan — the closest thing to sky the land offers. | The carving's field strengthens measurably when the Peaks are visible; the longing is calmer but deeper. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Crystal Peaks** | The highest ground in Mugenhan; visible from the surface bay above the Vault. | The field strengthens by a measurable margin when the Peaks are in line of sight from the bay — the longing deepens and quietens at once. No entity is involved; this is terrain. | Record sightline, distance, brightness, duration, and post-separation residue. |
 
-**Interaction procedure:** Observe the two entities separately first. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation. The cross-flagged pairing (C-IIβ-947) is never to be tested; only its separation is monitored.
+**Interaction procedure:** Observe separately, always. Record distance, duration, trigger, gauge movement, brightness, and whether any effect outlasts separation. The C-IIβ-947 pairing is never tested under any authorisation; its row records a prohibition, not an observation, and the distinction is to be preserved in every report.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -409,9 +409,9 @@ Do not touch it. Do not, whatever the longing in your chest tells you, look up t
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is valid only with the full classification above, and alongside the standing WARNING. Foam Flood's behavior, Work Type response, activation condition, M.A.W. risk, and (classified) relationship to C-IIβ-947 must be read together. The nature of its connection to the cross-flagged entity is classified under SE-C-Vδ-949 and is not detailed here. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is read whole and alongside the standing WARNING. The photometric series, the opinion on duty, and the Headroom Programme below are one argument and are not separable: the measurement that established what the carving undergoes is the measurement the facility used to increase it. Where a later observation contradicts this record, preserve the contradiction as evidence rather than normalising it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, eye-glow baseline, channel logs, and — critically — the separation distance from C-IIβ-947, after every activation, expansion, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every activation, expansion or unusual interaction, re-verify containment status, gauge trend, eye-brightness against the baseline card, the channel log, the standing of the Headroom Programme's authorisation, and — critically — the separation distance from C-IIβ-947. This record describes a sorrow still in progress and is not a finished explanation.
 
 ## Warden Record
 
@@ -431,11 +431,57 @@ The set stones at the eyes glow steadily and are faintly warm, and they are the 
 
 A traveller who slept beside the carving walked to the top of the bank at dawn and stepped off it certain he could fly, and the sealing of the bed followed within the day. The traveller is named in the file and his belongings are listed. The inventory is short. It is reproduced in full on the grounds that a list of what a man was carrying is the nearest thing the record has to an account of who he was. The Vault door is opened by two Keepers together and neither is permitted to enter alone, a rule that predates the written protocol and was in force as custom for some years before anyone set it down. The file records both the custom and the date it became an instruction.
 
+### The Brightness Card
+
+The eyes are the only instrument this holding has ever offered and the Keepers have read them every night since the Vault opened.
+
+The method has not changed. A painted card of graded whites is held at a fixed distance in the fixed position; the reader matches the glow to a step and writes the step number, the time, and nothing else. No interpretation is permitted on the page. **Fourteen thousand nine hundred readings across forty-one years**, in one hand after another, on cards cut from the same stock.
+
+For the first two decades the series was treated as a log of channel aftermath and nothing more. The pattern was found by a Keeper who plotted it against the Vault's building file rather than against the channel register, and what emerged was flat where it should have risen and stepped where nothing had been done to the carving at all.
+
+Brightness does not track the number of channels. Across the whole series the correlation with channel count is indistinguishable from zero once the twelve-hour decay is removed. What it tracks is **headroom** — the vertical distance from the carved head to the ceiling above it.
+
+Nine alterations to the Vault's structure are recorded in the building file, none of them made with the carving in mind: a dropped service ceiling, two raised floors, a mezzanine built and later removed, repairs to the roof slab. Every one of them is visible in the series within a night. Lower the ceiling and the glow falls; raise it and the glow climbs, step for step, with a consistency the Keeper's note calls indecent.
+
+Three negative controls were run over four years. Lamp brightness in the chamber: no effect. Humidity, across the full range the vault reaches: no effect. Number of people present, from one to eleven: no effect. Nothing the facility does to the room registers except the height of the thing above it.
+
+The conclusion is recorded in one line and has never been amended: *it is not grieving what it did. It is grieving how much sky is in the room.*
+
+And the corollary, which the Keepers set down in the same entry, because they saw it immediately: the low ceiling was imposed as a containment measure, to deny the petitioner any height to leap from. It is also, by this series, the only relief the carving has ever been given. For sixty-one years the safe thing and the kind thing were the same thing, and the file notes that the facility had not intended the second and should not be credited with it.
+
+### No Duty is Owed to a Thing
+
+The question went to the Directorate's counsel in the thirty-ninth year, put by the Keepers in four words: does the series oblige us.
+
+The opinion is short and its author plainly found it uncomfortable. Legal protection against suffering runs to persons, and by schedule to certain animals. It runs by way of their standing: a protected being may be wronged because the law recognises something in it capable of being wronged. A chattel has no standing of any kind. It cannot be injured in law, only damaged, and damage is a loss to its owner rather than a harm to it.
+
+What follows is not a gap that might be filled by evidence. The owner of a chattel may use it, alter it, wear it out, let it, lend it, or destroy it outright, and is answerable for none of that to anyone except another person with an interest in the same object. The facility holds this relic. No third party has an interest in it. The Keepers' series therefore has no addressee: it establishes, to a standard the opinion calls unusually good for this archive, that the carving experiences something and that the facility can set a number to it — and there is no person in law to whom that number is owed as a reason to do anything.
+
+The opinion ends by noting two things which the Keepers underlined when it came back. That the conclusion would be identical if the series showed ten times the effect, because the conclusion does not depend on the magnitude. And that the same reasoning places no obstacle in the way of acting on the series for the facility's own purposes, since an owner may freely use what it learns about its own property.
+
+The Keeper's annotation, in the margin, in pencil: *we asked whether we were obliged to be kind, and were told we were not, and were told in the same breath that we were free to do the opposite.*
+
+### The Headroom Programme
+
+The yield followed from the finding within a year. Han-Energy recovered from a sanctioned channel scales with eye-brightness at the moment the conduit opens, which the register had shown for decades without anyone knowing what set the brightness. The series supplied the lever. In the forty-first year the Directorate authorised the excavation of the Vault roof slab and the raising of the ceiling by **four point two metres**.
+
+Every element of it is correct. The engineering was sound and the slab was properly replaced. Containment was not weakened: the chamber remains sealed, nothing inside it is climbable, and the new height is above the carving rather than beside it, so there is still no surface a channelled petitioner can reach. The relic is the facility's property and no duty is owed to it. The business case was costed, reviewed and approved in the ordinary way, and the works were inspected.
+
+Brightness rose by one and a half steps within the week and has stayed there for eleven years. **Yield per sanctioned channel rose by twenty-two per cent.** The programme pays for itself every nineteen months and is cited in two other wings as a model of using an existing data series to improve recovery without any increase in containment risk.
+
+The cost was taken by the petitioners, who are not mentioned in the business case. A channel opened at the new baseline delivers a sharper dose of the same longing. Post-channel sky-grief, previously recorded as clearing within a month, now persists past six in two cases out of five. Requests for a second channel — always refused, always followed by rotation off the Vault — have risen from three in sixty-one years to nineteen in eleven. Those nineteen people are logged as having made an unsafe request, which stays in a personnel file, and the record does not note that the facility deliberately raised the intensity of the thing they asked for more of.
+
+The objection is minuted at the forty-first review and at each of the ten since, raised by the senior Keeper of the Vault and supported by the Cartographers' office. It holds, first, that the Keepers compiled the brightness series as a record of what the carving undergoes, and the facility's only use of it has been to increase that quantity deliberately for a yield improvement, which makes forty-one years of careful night-work into the design document for an aggravation. Second, that the one measure which had demonstrably relieved the holding was removed, and removed for no containment reason, so the facility has knowingly given up a benefit it obtained by accident and can no longer claim it did not know. Third, that the people who pay for the additional twenty-two per cent are the petitioners, that nothing in the compensation framework reaches a longing for the sky, and that the facility's own answer to this — rotation off the Vault — removes the person and not the condition.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was designed in the forty-second year and costed at rather less than one year of the programme's return — reinstatement of the service ceiling at its former height, with yield to fall back to baseline — and that it has not been laid before the board in eleven years of trying. And it records the sentence the senior Keeper asked to have entered verbatim, which the Vault watch has since written on the back of the brightness card:
+
+*We spent forty-one years measuring exactly how much it hurts, and the only thing we have ever done with the number is make it bigger, because it pays better that way.*
+
 ## Trivia
 
 - The carving's eyes have not fully dimmed since the first sanctioned channel; the Keepers log their brightness like a slow tide.
 - The eyes dim, briefly, at any reference to the cross-flagged entity (C-IIβ-947); the significance is classified under SE-C-Vδ-949 and is not investigated.
-- The Vault ceiling is kept deliberately low; the last unauthorised channel walked to a roof. There are no roofs in the Vault.
+- The Vault ceiling was kept deliberately low for sixty-one years, and was then raised by four point two metres under the Headroom Programme. It is still sealed and there is still no roof inside it to walk to; the brightness has not returned to its former baseline and is not expected to.
 
 ### Registry Trivia
 
