@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **233** |
-| Pending — no disposition-bearing line found by scan | 70 |
+| **Classified here, with a quoted line of evidence** | **234** |
+| Pending — no disposition-bearing line found by scan | 69 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 233 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 234 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 70 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 69 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -237,6 +237,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Grieving Colossus | C-Vδ-002 | Neutral. Four recognitions, no consequences: the Smothering Mother's reaching left its pace and tear rate unchanged across five co-presences, the Forgotten Soldier's salute moved neither gauge on six and he retains nothing of it, the Kind Healer's three sessions moved the gauge *"by less than a point"* and produced the written conclusion that it is *"not injured and cannot be relieved,"* and the Orphaned Bell's toll stops it for under ninety seconds with three attempts to hold it there failing. It suppresses no entity and is suppressed by none; its sole facility-facing output is a census whose recognition *"no observation available to this facility can distinguish"* from fabricated names. |
 | The Cracked Hourglass | C-IIIβ-036 | Neutral. Four pairings, all flat: the Hollow Choir left rate and crack within band on five co-presences, the Maw pairing is recorded as *"inherited rather than observed,"* the Grieving Colossus paused at sixty to ninety metres with *"nothing exchanged,"* and the Broken Clock's interval and this holding's tick *"do not converge, diverge, or hold any ratio."* It suppresses nothing and recovers nothing — the sand cannot be returned to the glass. What F01 gains is a yield account drawn from collected human waiting, and an examination register whose eleven-year queue outlasts the six-year long stop. |
 | Broken Clock | C-IIIγ-044 | Neutral. Five pairings and nothing operational in any: the Memory Weaver claim is recorded *"as unsupported twice,"* the Cracked Hourglass's tick shows *"no convergence, no ratio, no shared drift"* across six co-presences, the Weight of Years transfer language is withdrawn as template-inherited, the Final Door stops are indistinguishable from stops that *"occur unprompted several times a year,"* and the one real effect — more reversals during a Tide — *"has no operational use."* It cannot escape, suppresses nothing, and gives F01 only a duplication census it cannot interpret and lived time it declines to count. |
+| Weeping Willow | C-IIIγ-140 | Neutral. Three pairings, all null: the famous claim that its tears feed the Sorrow Fountain fails a dye series — *"the dye placed at the root line has never appeared in the Fountain in eleven years of sampling"* — the Weeping Statue pairing is *"two griefs in the same garden"* with both rate series independent and both gauges flat, and the Returning Tree transfer language is *"inherited from a template and is withdrawn here."* It suppresses nothing and assists nothing; it expands at the root without limit but never escapes, and what F01 takes from it — a nightly count of unattended endings that *"has never reached zero"* — is paid for by the district's own memorial endowment. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
