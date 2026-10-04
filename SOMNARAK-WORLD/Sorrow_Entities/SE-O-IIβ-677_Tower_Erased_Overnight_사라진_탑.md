@@ -28,20 +28,20 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, drawn from a plot with nothing on it, which the energy office has queried in writing twice. The wing's answer both times was the same: the yield comes from the watch, and the watch is what keeps the plot empty. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Read the memorial list at the perimeter, aloud, names and unfinished business together. Four minutes. Viderehan and Ferrehan are the valid Work Types and both of them reduce, in practice, to doing that and then standing there until the end of the watch. |
 
 ### Operational Notes
 
 - A successful cycle settles the density in the empty volume and eases the pressure on the street for a while. It restores nothing and is not meant to. The residents went with the building, their conversations went unfinished, and the only thing a cycle can add to that is a record that somebody stood in the gap and said so.
 - No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the whole activation mechanism, and the figure here is 60%; the empty row is a real property of this holding and no number is to be inferred into it.
 - The 12–18 Han-Energy yield is ordinary for the band and the exposure is almost entirely psychological. Nothing here presses on the body. What presses is the sense of having arrived too late to be told something, and it does not announce itself as pressure at all.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extracting from an absence is awkward work and the yield is small and strange; the pieces in this set are all defined by what is missing from them rather than by what they do.
+- Extraction from an absence is awkward work with a small, strange yield, and every piece in this set is defined by what is missing from it rather than by what it does. One rotation per wielder, no exceptions.
 
 ## Combat Record
 ### Core Stat Line
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
+| **Resistance** | 25% against Grudge. There is nothing present to apply force to and the figures have never been tested; they are carried from the Object/Place schedule and the wing has asked twice for them to be struck. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Grudge |
@@ -80,18 +80,18 @@
 | { *The Missing Spire* [**Debuff**] } | "The tower is gone — but its shadow, cast on the ground, is still there — enormous, dark, and pointed at you." | [The Tower's phantom shadow marks the target; they feel the absent structure pressing.] | *Target suffers -10 Resilience; the vanished tower is heavy despite not existing.* **[10 Grudge DMG [Grudge]]** | When the target enters the shadow. |
 | { *The Void Foundation* [**Debuff**] } | "Where the tower stood, a pit — deep, square, perfectly tower-shaped — and the pit pulls at everything nearby." | [The Tower's absence creates a void that draws things in.] | *Target loses 10 Resilience; the ground is unstable.* **[10 Grudge DMG [Grudge]]** | When the target approaches the pit. |
 | { *The Phantom Stone* [**Attack**] } | "A stone from the vanished tower materializes mid-air and falls — from a structure that is not there." | [ A block of ghost-tower drops from above.] | *Inflicts Grudge pressure and one crushing wound from a stone that should not exist.* **[14-22 Grudge DMG [Grudge]]** | When the shadow is disturbed. |
-| { *The Full Return* [**Attack**] } | "The tower comes back — all of it, at once, at full height — and the rematerialization is violent." | [The Tower's complete rematerialization releases its stored absence.] | *A heavy Crimson reappearance; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the absence is forced. |
-| { *The Vanished City* [**Ultimate**] } | "Every tower in the field disappears — and the combined void of absent structures collapses the space." | [The Tower extends its vanishing across the whole area.] | *All in range suffer Grudge pressure for three turns of phantom towers.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Return* [**Attack**] } | "It is there for the length of a held breath, nineteen floors of it, with the lights on." | [The building returns at full height and full occupancy, occupying the volume everything else has grown around.] | *24–36 Grudge and a 15% Gauge surge to anybody standing inside the footprint; the street is untouched.* **[24-36 Grudge DMG [Grudge]]** | When something is built, driven, or planted inside the footprint. Three occasions, all surveyor's pegs. |
+| { *The Vanished City* [**Ultimate**] } | "Every building on the street leans another degree in, and the gap between them closes to the width of a door." | [The lean the adjacent structures have always had becomes acute and the street becomes impassable.] | *12–20 Grudge per cycle for three cycles to anyone caught between the leaning faces.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, recorded once, during the Year 4,235 Sorrow Tide, with no lasting structural damage to any of the buildings involved. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team takes the three marked sighting positions on the street, measures the volume from each, and walks the footprint to confirm nothing new is standing in it. Nobody enters the footprint afterward for the rest of the watch.
 2. **Clash:** Sixteen turns, Viderehan and Ferrehan only, worked from the street line and never from within the footprint. The volume is sighted and recorded; nothing is placed inside it, including instruments on stands, which are set outside the perimeter and read across.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Memorialize what vanished; do not rebuild over the absence**.
+3. **Resolution:** The list is read and the plot is left empty. There is no other close to a cycle here and no cycle has ever ended any other way; the wing's own description of this holding's management is that it is not management but observance.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
+- The failure here is speech. A worker who begins talking about the tower in the present tense has already failed, and the wing's instruction to the second observer is to note the tense and the time and to say nothing about it until the watch is over.
 - Extended contact invites the full manifestation, which here is a sense of the building's presence rather than its return: personnel describe knowing which floor they are standing level with. The effect resolves on leaving the street and leaves behind a precise and false recollection of a staircase.
 - Every M.A.W. activation extracts a real price — recollection, sensation, years — catalogued in the equipment file and paid in the field. From this source the charge is taken in endings: wielders progressively lose the ability to finish a conversation, and report that the other person always seems to leave first.
 - Without resolution the absence transforms and spreads, which is the behaviour on the classification. It does not travel; it takes in more of the street, and the buildings at the new edge begin to lean the way the existing ones already do.
@@ -116,8 +116,8 @@
 |---|---|
 | **Form** | An empty vertical space where a tower once stood. The air is dense and the skyline bends around the absence. |
 | **Position / movement** | Fixed, and defined by its surroundings rather than by itself; survey the volume by sighting against the buildings either side and record the figures as a bounded emptiness, never as an object. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | Nothing, and dense air, and a smell of char from a fire that is not in any record of the site. Record the volume from all three sighting positions and your own estimate of the height; the second is kept with your name and is never reconciled with anybody else's. |
+| **Distinctive markers** | The lean. Four buildings around this plot stand out of true toward a foundation that is not there, and the surveyors' figures have not changed in eleven years — they leaned to their present angle within a month of the erasure and have been stable ever since. |
 | **Identification** | Verify the designation, the manifestation and the sighted volume against the file before Work begins; the wrong entity is the wrong sorrow, and an empty site is not by itself an identification. |
 
 **Appearance protocol:** There is nothing there, so the protocol measures the hole and the things around it. Sight the vertical emptiness from the street against the flanking buildings and record its dimensions as a volume, with the file's caution attached each time: what is being measured is defined entirely by what surrounds it. Photograph the skyline from the three fixed points annually, because the architecture appears to bend around the gap and the photographs are the only record of it; the adjacent buildings survey as straight, both facts are reported, and neither is reconciled to the other. Record the air density and the smell of char. Record, separately and by name, each observer's estimate of the tower's height — those who knew it recall it taller than the plans show, consistently and by a similar margin, and that uniformity has been judged a property of the entity rather than of the witnesses. Never average the estimates.
@@ -127,7 +127,7 @@
 - **The Sorrow:** The grief of disappearance without a funeral, record, or final word.
 - **The Event:** A tower was erased during Old Lament restructuring, taking residents and their unfinished conversations with it.
 - **The People:** The residents of the tower, who were in it, and whoever they had been talking to. The commissioning file holds the demolition schedule with its notice period. The notice was short and it was legally sufficient. The schedule contains a line for resident consultation, and the line is filled in.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **Expanded origin context:** The schedule is the document, and the wing keeps it because it is lawful on every line. Notice was served and was legally sufficient. The consultation line is filled in. There is a signature against it. What the schedule does not contain, and what the memorial list exists to hold instead, is any record of who was in the building at the hour the work began — the occupancy column was completed in advance, from the previous quarter's register, and nobody updated it. The wing's note says the erasure was not a crime and that this is the harder fact to sit with, not the easier one.
 
 ## Behavior
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Tower Erased Overnight is recorded as an Object/Place with Place-Void manifestation and Grudge elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table has two rows that cannot be performed and two that amount to standing in a street, and the wing has stopped pretending otherwise. The variable that moves this holding is not in it: it is whether anything is standing inside the footprint. Eleven years of watch sheets show the volume steady to within two per cent on every reading taken over an empty plot, and every one of the three activations on file began with a peg in the ground.
 
 **Reading the response:** Read it in the air and in the street. A falling gauge presents as thinning — the density in the volume dropping toward the ambient, the shadow on the ground losing its edge, the sense of weight overhead easing. The pressure drops and the tower is still gone; nothing has been given back, and the unfinished conversations stay unfinished. A rising gauge presents as **presence**. The gap acquires floors. Observers begin to feel the building rather than its absence, start describing it in the present tense, and find themselves looking up at a particular window. That is the warning, and it is the state in which somebody proposes putting something there — which is the single prohibited remedy on this holding and the one most frequently suggested by people who mean well.
 ## Expansion Behavior
@@ -159,9 +159,9 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Escalation Notes
 
-The escalation pattern is specific to Tower Erased Overnight: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Void form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone B, Old Lament — ambient, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+Escalation here has a single known trigger and a single known shape: something is placed in the footprint, the volume fills for the length of a held breath, and whatever was placed there is afterward found lying on the street outside the line. All three pegs were recovered this way, undamaged, with the surveyor's tape still wound on them.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Memorialize what vanished; do not rebuild over the absence. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** clear the footprint, remove whatever was placed in it, record who authorised the placement by name, and read the list. In all three activations the sequence took under twenty minutes and in none of them did anything further happen. The authorisation name is required because two of the three pegs were placed by the same survey office.
 
 
 ### Detailed Activation Record
@@ -172,10 +172,10 @@ The escalation pattern is specific to Tower Erased Overnight: it is not a generi
 | **Manifestation** | Place-Grudge|
 | **Primary effect** | Nearby buildings feel incomplete and conversations become difficult. |
 | **Duration / rate** | Slow, through architectural memory. |
-| **Risk** | Moderate (β) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β), and the grade describes what happens inside the footprint, which is the only place anything has ever happened. On the street, in eleven years, the holding has produced no injuries at all. |
 | **Management** | Memorialize what vanished; do not rebuild over the absence. |
 
-**Activation reporting order:** trigger → any work, survey or placement made over the footprint and by whose authority → first change in the measured volume → the boundary of the affected street and which buildings lean → personnel effect, including anyone speaking of the tower in the present tense → duration → management condition. The second field is first among the substantive ones for a reason: every recorded activation at this site has followed somebody putting something into the empty space, and on three occasions that something was a surveyor's peg. Viderehan and Ferrehan remain the only valid Work Types.
+**Activation reporting order:** what was placed in the footprint and on whose authority → the measured volume → which buildings leaned further and by how much → anybody who spoke of the tower in the present tense → duration → where the placed object was afterward found. The authorisation field leads because every activation on record began with somebody putting something in the empty space, and all three times it was a surveyor's peg.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -199,7 +199,7 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 **Falloff Rule:** 100% to the single designated target standing in the phantom shadow; it falls on one person and does not carry.
 **Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the impact and the lingering weight overhead are tracked apart.
 
-**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure. The strike carries the source's signature, and those hit report the pressure of something tall standing over them.
+**Ability:** Grudge against the Body, with a reported after-effect the Armoury has logged on all eleven strikes: the target spends the following minutes unable to finish a sentence they had started before being hit. They can begin new ones. The interrupted one does not come back.
 
 **Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising on the shoulders and the crown of the head, where the weight of the absent structure is felt.
 
@@ -207,7 +207,7 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness with a panel missing from the left side, which the Armoury did not cut and cannot fit. Every piece from this source arrives with something absent from it and the absence is always the same shape as a door.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -217,7 +217,7 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge pressure, shielding the Body against the particular weight of what is no longer there. It protects against the pressure and not against the recollection, which is not pressure and passes through every rating in the set.
+**Ability:** Resistance to Grudge against the Body. It protects against the pressure and not against the recollection; wielders report remembering, with complete clarity, a conversation they never had, and the rating column has nothing to say about that.
 
 **Cost:** The wearer's reflexes dull and their sense of place grows unreliable in built-up streets; wearers mis-step on stairs and stop at floors that are not their own.
 
@@ -225,32 +225,32 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a floor-tile of Grudge Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a single floor-tile, warm, patterned on one face with a design that matches no building in Old Lament and that two residents of the district have independently said they recognise.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat while this piece's source entity is the subject of the cycle, and nothing anywhere else
+**Effect:** +1 to the working stat on this holding's cycles and nothing elsewhere; carried off the street the tile is an ordinary warm tile, which the Armoury has confirmed three times at the wielders' own request
 
 **Ability:** Reveals hidden spaces removed from a structure.
 
 **Cost:** The user feels the final moments of those who occupied them.
 
-*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, without notice, which is in keeping with everything else about this holding.*
+*Three Stigmas in eleven years, all three to wardens who had read the memorial list more than fifty times. None appeared during a cycle; all three were noticed the following morning, which the wing has decided not to interpret.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design it charges immediately and personally, and the sorrow carried in it can wake — which on this set presents as the certainty that a conversation was interrupted and the inability to say which one. No protocol produces a Stigma; it comes from the source at the source's disposition or not at all.
+Extraction from an absence took the Armoury four attempts to describe and the description it settled on is that the pieces are defined by what is missing from them. The harness lacks a panel, the tile is from a floor that was never laid, and the clasp will not close on the last notch. The cost attaches to speech and to endings: wielders stop finishing sentences in company, and colleagues notice it a fortnight before the wielder does. The set is issued one rotation at a time for that reason.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, sighted volume at issue, and the field this set adds: the name of a colleague who will be asked at the end of the rotation whether the wielder has been finishing their sentences. |
+| **During use** | Whether the missing part of the piece changed shape. It has, twice, both times during an activation, and both times the gap afterward matched a different door. |
+| **At limit** | The wielder stops mid-sentence and does not notice. This is the only limit sign the set has and it is always observed by somebody else. |
+| **After use** | Return the piece, ask the named colleague the question, and record the answer verbatim. Two of nine rotations have ended on that answer rather than on anything the wielder reported. |
 
-**Stat interpretation:** Grade measures output and says nothing about cost. A β-grade piece from this source can perform flawlessly and still hollow its wielder's memory or bind them to the sorrow it came from, and this set's costs attach to speech and to endings rather than to the body, so they are visible to colleagues long before they are visible to the wielder. Read both columns and authorise on the second.
+**Stat interpretation:** The β output on this set is real and has never been the issue. The cost is social and delayed and arrives through a third party, which no column on the Armoury's form is built to hold — hence the named colleague. Authorise on that answer and not on the grade.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -267,18 +267,18 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Tower Erased Overnight as an Object/Place with Place-Void manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Tower Erased Overnight's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer takes a sighting position and measures. There is nothing to identify and no doubt about the site: it is the one plot in Old Lament that four buildings lean toward, and the skyline bends around it from every approach. |
+| **Sustained observation** | Over a season: the volume from three points, the footprint inspection at the start of every watch, and each observer's private height estimate. The estimates are the interesting series. They cluster by how long the observer has lived in Old Lament, they are never reconciled, and the wing keeps them precisely because they disagree. |
+| **Activation or escalation** | Record what was placed in the footprint, by whom, on whose authority, the duration of the return, which buildings leaned further, and where the placed object was afterward found. Three complete sets of these fields exist and they are nearly identical, which is itself the most useful thing the file contains. |
+| **Post-contact review** | Confirm the plot is empty, confirm the list was read, and note any worker who used the present tense. A review that records a clear footprint and omits the reading is returned; the reading is the work. |
 
-**Observation method:** Observe from the street, from the marked sighting positions, and record the first visible sign, the first emotional response and what prompted it, the first measurable change in the volume or the surrounding structures, and the condition that ended the watch. The entity's appearance is its history made visible rather than a guide to behaviour: a hole in a skyline that the skyline bends around is what a disappearance looks like when nobody was given the chance to mark it. Two things are recorded that would be redundant elsewhere. The observer's own estimate of the height, kept with their name and never reconciled with anyone else's. And whether anything new stands within the footprint, checked at the start of every watch, because the footprint is the thing being kept empty.
+**Observation method:** Three sightings, one footprint walk, one private height estimate, one reading of the list. The height estimate is kept with the observer's name and is never reconciled with anybody else's — the wing's standing note is that a building whose height depends on who is looking is not a measurement error and should not be averaged away. Eleven years of disagreeing estimates are held in the file in full.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Tower Erased Overnight (O-IIβ-677 [GP]) is logged as a Place-Void manifestation expressing Grudge. The Tower formed from a building removed before anyone could say goodbye. Held at Zone B, Old Lament — ambient. The Tower has no physical structure but casts a shadow.
+Tower Erased Overnight is a serviced, empty plot in Old Lament, Zone B, with four buildings leaning in toward a foundation that is not there and a line on the planning map that the wing defends. It has no structure and it has a shadow, measurable from all three sighting positions, falling where the building's would have fallen at that hour.
 
 **Entry 2 — <Excerpt from Old Lament Street Survey, Year 4238>**
 The air becomes thick with unsaid words nearby.
@@ -290,13 +290,13 @@ The grief of disappearance without a funeral, record, or final word.
 Work response — Viderehan: Reveals rooms and people who were removed. (Stable); Ferrehan: Makes the worker stand in the missing tower's shadow. (Decrease). It is most visible at dusk.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died without being remembered. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The memorial list has sixty-one names on it and a second column headed *unfinished*. Forty-four of the sixty-one second-column entries are blank, because the only people who could have filled them were in the building. The seventeen that are filled came from outside: a sister waiting on an answer about a loan, a shopkeeper owed four days' custom, a man who had left a letter under a door on the fourteenth floor and never learned whether it was read. The wing maintains the list as it stands and has refused on two occasions to tidy the blanks out of it.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Tower Erased Overnight; the other feeds it.
+> The choice is not offered at the site. It arrives afterward, in the reading, at the point where the second column is empty and the warden has to decide whether to say the name anyway.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Read the blank entries aloud as blanks, with the pause in them. | Skip to the next name that has something written beside it. |
 |---|---|
 | Makes the worker stand in the missing tower's shadow. The sorrow is named; Tower Erased Overnight is fully recorded. | Reveals rooms and people who were removed. The gauge climbs and Tower Erased Overnight withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -307,32 +307,32 @@ You look up and find a tower-shaped absence. The air is thick where floors shoul
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: An empty vertical space where a tower once stood. The air is dense and the skyline bends around the absence. Notable Features: It is visible only through missing architecture, carries unspoken farewells, and appears taller in. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Place-Void form.
+**At first contact:** A cleared plot, kerbed and serviced, with the road still running past the place a door used to be. The air over it is dense enough to see through differently. Four buildings lean in. There is a shadow across the street from nothing at all, and it is the shadow, not the gap, that most observers notice first.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Grudge presses hardest, where it recedes, where the Place-Void lets you breathe.
+**With continued exposure:** You acquire a height for it. It arrives without being worked out, it is specific, and it is not the height anyone standing next to you has. Observers have compared notes afterward and found differences of six floors.
 
 **When the entity activates:** The shift happens between one breath and the next. The Place-Void crosses from presence to action, and the Grudge goes from weather to weapon.
 
-**After departure:** After contact, the body holds what the mind files away. The Grudge is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** You think of something you did not finish saying to somebody, and it is a real thing and an accurate one. The wing does not treat this as an effect requiring report. It is in the file because every warden who has worked the holding has described it and because leaving it out would make the record dishonest.
 
 ### Interaction Pattern
 
-Tower Erased Overnight does not exist in isolation. Its recorded relationships with The Whispering Walls, The Burning Library, Pandora's Jar should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+All three relations are with holdings that keep what the city did not: the Walls repeat it, the Library holds it, the Jar preserves it. This one does none of those things — it is the hole itself — and the pairings were run to find out whether a record and an absence can be brought into contact usefully. The measured answer, across nine supervised sessions, is that the volume does not move for any of them.
 
-**Interaction method:** Baseline each entity alone, and allow a long series here, since the volume's measurements are steady and its effects are not. The relations on file concern absence, removal, or things the city did to itself, so the question to settle is whether the gap's dimensions respond to the other presence — a change in the measured volume being the only unambiguous finding this holding could produce. Log the first mutual reaction, the triggering distance, the duration, the gauge change on both sides, the operational impact, and whether separation ends it. Re-verify each cycle; the Old Lament has overturned settled readings during Sorrow Tides before.
+**Interaction method:** Long solo series first, since the measurements are steady and the effects are not. Then one question only: does the volume change. It is the single unambiguous reading this holding can produce and it has not moved yet. Re-verify during Sorrow Tides; the Old Lament has overturned settled readings before and did so here in Year 4,235.
 
 
 ### Entity Interaction Record
 
-Tower Erased Overnight must be assessed as one of a group of sorrows made by removal rather than as an isolated vacancy in the Old Lament. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+Nine supervised sessions across three holdings, all of them selected because they hold a record of something removed. The table states what each one brought and what the volume did about it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Whispering Walls** | The Walls repeat the Tower's missing conversations. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Burning Library** | Holds records of the removed structure. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Pandora's Jar** | Both preserve what official history erased. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Whispering Walls** | Repeat fragments of conversation that match the tower's residents by name on four occasions. | Four sessions. The volume did not move. What the sessions produced instead was material: two of the seventeen filled entries in the memorial list's second column came from the Walls and are credited to them in the file. | Every fragment transcribed verbatim, with the name if one is audible, and the volume before and after. |
+| **The Burning Library** | Holds the building's plans, which is how the wing knows it had nineteen floors. | Three sessions, no change in the volume, and one documentary result: the plans give an occupancy of sixty-one, which is where the memorial list's figure comes from. The schedule's own occupancy column said forty. | The volume, and any document recovered, logged against the schedule. |
+| **Pandora's Jar** | Filed as a pairing of things that preserve what official history erased. | Two sessions, nothing measured, and the wing now considers the resemblance to be thematic rather than operational: the Jar preserves and this holding does not preserve anything, it is the place where something stopped being preserved. No third session is scheduled. | Closed; the volume reading from the second session is the last entry. |
 
-**Interaction procedure:** Baseline both parties alone, bring the second along the street rather than into the footprint, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the behaviour of the adjacent buildings, and whatever persists after separation. The field this holding adds is the sighted volume, measured before and after from all three fixed points.
+**Interaction procedure:** Along the street, never into the footprint, with all three sighting positions manned before the second party arrives. Volume before, during and after; the lean angles of the four buildings at the start and the end; and every word the other holding produces, transcribed, because on this site the transcript has twice been worth more than the measurement.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -364,16 +364,16 @@ Some sorrows mourn demolition. Tower Erased Overnight mourns the erasure — the
 **Common Name:** Tower Erased Overnight
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Moderate inside the footprint and nil outside it. Eleven years, three activations, eleven strikes, no fatalities, no permanent injuries, and no incident of any kind involving a person who stayed on the street.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Two of the four Work Types cannot be performed on an Object/Place and the other two amount to standing in a street and reading.
 - Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- One trigger only: something placed inside the footprint. Remove it, record who authorised it, read the list.
 **Observation Notes:**
-- See Origin section for formation and event details.
+- A lawful demolition schedule with a completed consultation line and an occupancy column filled in from the previous quarter.
 - See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- Three pieces, each missing something; the cost is that wielders stop finishing sentences and a colleague notices first.
+**Cross-References:** The Whispering Walls and The Burning Library (both credited in the memorial list), Pandora's Jar (closed), the Year 4,235 Sorrow Tide reading, and the four lodged development proposals.
 **Faction Involvement:** SED (B-territory exploration)
 **Originator:** See Origin section — ‘The People’ field.
 
@@ -410,9 +410,9 @@ The tower went during an Old Lament restructuring, taking residents and unfinish
 ### Registry Trivia
 
 - **Classification detail:** Tower Erased Overnight is an Object/Place with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament — ambient.
+- **Field detail:** Grudge, on a kerbed and serviced plot in Old Lament, Zone B, held empty by a line on the planning map and three marked sighting positions on the street.
 - **Recognition detail:** Identify it by the bend. The Old Lament holds several cleared sites; this is the one the skyline curves around and the one whose buildings lean inward without any foundation beneath to lean toward.
-- **Record detail:** Absence-form and demolition-derived entities recur in the archive and more than one sits in Zone B. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the practical point, which here is whether anything may ever be built on the site.
+- **Record detail:** Zone B holds more than one demolition-derived absence and at least one of them is managed by rebuilding on it. This one is not, ever, and the difference is the whole of the practical instruction; check the designation on the booking form.
 - **Containment detail:** There is no door, no wall and nothing to seal — the containment is a line on a planning map and a watch that keeps the plot empty. What crosses it is architectural: the adjacent buildings lean, the lean is measurable, and the district's engineers have asked twice whether the holding is structurally safe for the neighbours. Both answers are on file, both are honest, and neither is reassuring.
 ## Document Information
 
