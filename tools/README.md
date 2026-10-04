@@ -38,6 +38,8 @@ tools/
 | **`generate_canonical_metrics_registry.py`** | Inspects filesystem on disk to regenerate authoritative `CANONICAL_METRICS.json` and `CANONICAL_METRICS.md`. | `python3 tools/generate_canonical_metrics_registry.py` |
 | **`sync_readme_metrics.py`** | Synchronizes badges in `README.md` from `CANONICAL_METRICS.json`. | `python3 tools/sync_readme_metrics.py` |
 | **`box_formatter.py`** | TablesGenerator reference engine (`https://www.tablesgenerator.com/text_tables`): creates perfectly aligned 74-column chatroom and wide-format ASCII grid tables and boxes with zero crooked rows and 5-row vertical growth cell wrapping. | `python3 tools/box_formatter.py` |
+| **`tpl.py`** | Workstream 6 census: template residue — lines shared by ten or more dossiers that are not sanctioned furniture (`R-23`). No args = summary, `--top N` = worst lines, `<path>…` = per-file residue with line numbers. | `python3 tools/tpl.py --top 20` |
+| **`sect.py`** | The Tale standard (`R-24`): generic-prose census by 8-gram sharing. `--sections` = per-section league table, `--files N` = best/worst dossiers, `<path>` = per-line attribution. | `python3 tools/sect.py --sections` |
 | **`tests/test_linters.py`** | Unit test suite verifying that linters catch known defects and accept valid fixtures. | `python3 -m unittest tools/tests/test_linters.py` |
 
 ---
