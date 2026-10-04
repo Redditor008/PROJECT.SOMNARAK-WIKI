@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **186** |
-| Pending — no disposition-bearing line found by scan | 117 |
+| **Classified here, with a quoted line of evidence** | **187** |
+| Pending — no disposition-bearing line found by scan | 116 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 186 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 187 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 117 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 116 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -190,6 +190,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Spire of Unanswered Prayer | `SE-O-IIβ-796` | Gives other entities nothing: the Sunken Tower is *"compared on paper and never co-located"*; two Memory Rain pairings left *"the Rain's interval unchanged"*; the Sorrow River correlation runs one way, with listeners' elevations dropping while *"the song's intervals do not change."* Gives F01 nothing usable either — no structure, no vessel, no boundary, so *"four capital applications have been refused"* and every control here is administrative. Its breach spreads as sound with *"nobody selected and nothing hunted"*, and the one thing that worsens it is F01's own referral habit, which is a property of the command structure rather than a transfer to another entity. Neutral. |
 | Driftglass | `SE-O-IIIγ-914` | Gives other entities nothing. Four logged co-incidences with the Exile left both gauges still and the drift speed unchanged; two authorised pairings with the Forgotten Shadow *"shortened nothing"*; the lean toward the Sorrow River is *"consistent and small"* with the speed unchanged and no approach. Gives F01 nothing usable: the one measurable intervention is an anchor that drops drift speed ~18%, and the file states the figure *"has never been translated into anything a containment report can use."* It cannot be returned — three gate proposals refused — and its only growth is a vault range that *"has never afterwards contracted"*, i.e. a cost to F01 with no benefit to anyone else. Neutral. |
 | Sehnsucht | `SE-O-IIIγ-476` | Gives other entities nothing: against the First Tear *"four such events were checked against the series and none coincided with a movement in either direction"*; the Sorrow River pull is *"said, not measured"* and untested; no joint session with the Frozen Tear exists. Gives F01 nothing usable — three excavation attempts recovered nothing and cost forty-one centimetres of depth, and the only correlation in the file points back at the wing: the moisture ring tracks unmanned time, so *"the single best predictor of this entity's condition is how reliably the facility turned up."* It injures nobody, takes nothing by force, and consumes escort capacity with *"no breach history, no casualty and no prospect of either."* Neutral. |
+| Ember Phoenix | `SE-O-IVδ-190` | Gives other entities nothing. Against the Grieving Colossus her interval was *"unaffected across five co-incidences"* and the file states *"whatever is happening is happening to the Colossus"*; the Vanished Flame shortens her interval rather than the reverse; the one unplanned Wrath Flame proximity left *"neither altered"* with only the ground between them scorched. Gives F01 a yield it cannot use in good conscience — 20–28 Han-Energy produced by a cycle that *"was going to happen regardless"* — and takes back staffing and uplift through the attendance cap. Her breach prose cites fury that *"burns through containment barriers"*, but she is mobile in open Desolate with no co-located holding, and no barrier loss has ever released another entity; if that ever occurs this row is to be revisited as conditional Negative. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
