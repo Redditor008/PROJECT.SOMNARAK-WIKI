@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-245 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on midnight. nothing else, in sixty-one years |
 | **Coherence** | Echo (II) — Repeats singing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |

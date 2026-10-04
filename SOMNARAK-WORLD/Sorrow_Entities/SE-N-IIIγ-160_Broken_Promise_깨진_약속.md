@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-160 [GO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on speaking a promise while touching a shard |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Bitter and betrayed |
 | **Potency** | Major (γ) |

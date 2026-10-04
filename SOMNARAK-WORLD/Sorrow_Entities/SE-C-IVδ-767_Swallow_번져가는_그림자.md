@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-767 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on an unrecognised loss carried to the memorial above with no office willing to record it |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |

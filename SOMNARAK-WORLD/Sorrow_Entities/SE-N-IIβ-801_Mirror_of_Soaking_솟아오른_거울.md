@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-801 [GO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct gaze or touching the reflective surface |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats reflecting anger |
 | **Potency** | Moderate (β) |

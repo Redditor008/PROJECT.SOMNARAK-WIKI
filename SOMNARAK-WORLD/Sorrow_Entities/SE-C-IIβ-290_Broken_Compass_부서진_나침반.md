@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-290 [D]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on contact with a destination spoken aloud. never performed under authority; the trigger is documented so that it can be av |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Echo (II) — Repeats spinning |
 | **Potency** | Moderate (β) |

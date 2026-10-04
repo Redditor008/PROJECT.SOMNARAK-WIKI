@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-852 [N]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on attempting to reconstruct the remembered structure |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |

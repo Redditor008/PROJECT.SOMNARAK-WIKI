@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-000 [LS]` |
-| **Entity Type** | **Subject** — Can breach; will not attack |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; waves of cold grief wash over personnel, draining composure |
 | **Coherence** | I — Residue (barely formed; a faint, kind emotional imprint) |
 | **Potency** | α — Minor |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -170,7 +170,7 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
 - **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 

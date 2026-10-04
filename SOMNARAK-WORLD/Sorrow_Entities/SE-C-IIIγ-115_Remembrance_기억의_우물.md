@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-115 [VP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on breaking the surface with the bronze probe on its winch line |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Deep and patient |
 | **Potency** | Major (γ) |

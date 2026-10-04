@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-503 [N]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; the air fills with audible weeping, eroding the will to continue |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the bay and endure with Viderehan and Ferrehan. Nothing is thrown, struck or cut inside the seal; the mirrored injury holds through a breach and has put two responders in medical.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from the two recorded Corrupt events in the Forge District and is labelled as modelled wherever it appears.
 

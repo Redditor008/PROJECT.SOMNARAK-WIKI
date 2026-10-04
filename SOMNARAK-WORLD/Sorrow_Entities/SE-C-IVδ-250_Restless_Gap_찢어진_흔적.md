@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-250 [WS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; pressure through the whole warped volume at once, heaviest at the tear, and sequence loss at a multiple of the chamber r |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the zone warps outward from where it stands. Nothing is pursued; the hazard reaches people by growing, not by travelling.
+- **Event type (non-breach):** Corrupt — the zone warps outward from where it stands. Nothing is pursued; the hazard reaches people by growing, not by travelling.
 - **Containment priority:** Cordon at increasing radius, sequence cards at the line at fixed intervals, and withdraw any responder whose score slips regardless of how the event is going. Four complete rotations is the record and none was waived.
 - **Sorrow Gauge on breach:** Opens at 40% and climbs 10% an interval. It falls when a responder at the cordon reads their own day book aloud from the entry before the event — not a facility record, their own.
 

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-140 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on new endings left without mourning |
 | **Coherence** | Fragment (III) — Ancient and sorrowful |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |

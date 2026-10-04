@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-447 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; weeping becomes audible throughout the affected area and does not stop; personnel describe the will to continue draining |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -161,7 +161,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt. The zone itself goes wrong and the wrongness spreads at the edges; nothing escapes and nothing hunts.
+- **Event type (non-breach):** Corrupt. The zone itself goes wrong and the wrongness spreads at the edges; nothing escapes and nothing hunts.
 - **Containment priority:** Wake every sleeper in the zone first, seal second, and endure with Viderehan and Ferrehan until the pressure comes off.
 - **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more each interval. Nothing done inside the affected zone lowers it; it falls when the sleepers in it are woken, which is the only measure the doctrine offers.
 

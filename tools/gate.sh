@@ -28,6 +28,7 @@ if bad:
 PY
   ;; esac
 done
+python3 tools/breach.py >/tmp/gate.breach 2>&1 || { echo "BREACH FLOORS UNMET (R-28)"; cat /tmp/gate.breach; fail=1; }
 [ "$fail" -eq 0 ] || { echo "GATE BLOCKED — nothing committed"; exit 1; }
 echo "OK"
 echo "metrics parity: PASS"

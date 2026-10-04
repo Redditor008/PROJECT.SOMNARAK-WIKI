@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-001 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; activation/expansion possible |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on midnight, the consolihan anniversary, or concentrated grief concerning missing children |
 | **Tool Type** | **O-Relic (Officium)** — Channeled Use (spoken invocation of the unrecorded dead) |
 | **Coherence** | Entity (IV) — Self-aware, communicates through tolling |
 | **Potency** | Critical (δ) — Facility-threatening if breached |

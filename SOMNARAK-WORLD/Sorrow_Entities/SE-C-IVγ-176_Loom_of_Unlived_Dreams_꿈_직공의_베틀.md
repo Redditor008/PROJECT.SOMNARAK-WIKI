@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-176 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on contact with the weave, or entry to any dream chamber inside the marked radius |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) — Self-aware, creative, manipulative |
 | **Potency** | Major (γ) |

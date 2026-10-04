@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-686 [N]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or direct gaze |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |

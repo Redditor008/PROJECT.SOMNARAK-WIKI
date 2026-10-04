@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-240 [GP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on a properly made decision that nobody affected could speak to |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |

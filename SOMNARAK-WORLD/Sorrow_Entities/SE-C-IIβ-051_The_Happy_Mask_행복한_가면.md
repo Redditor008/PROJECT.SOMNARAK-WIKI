@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-051 [VO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; activation possible |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct contact and placement over the face |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats smiling |
 | **Potency** | Moderate (β) — Manageable |

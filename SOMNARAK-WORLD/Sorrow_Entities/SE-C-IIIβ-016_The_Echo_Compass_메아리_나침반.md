@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-016 [VO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on hold the compass and name a lost thing |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Restless and seeking |
 | **Potency** | Moderate (β) |

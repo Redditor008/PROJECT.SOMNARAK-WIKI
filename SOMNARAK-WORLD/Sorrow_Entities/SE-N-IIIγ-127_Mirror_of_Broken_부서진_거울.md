@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-127 [WS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; burden across the whole affected zone: the floor reads as uphill in every direction and every step is work |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -161,7 +161,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Wake everybody in the affected sections and keep them awake. Sealing does nothing — the perimeter is sleep, not a wall — and the only lever anybody has is that it cannot reach a person who is not asleep.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each former self a person in the affected zone denies aloud. It falls 10% when somebody names a self they used to be without arguing that it was the real one. Silence holds it.
 

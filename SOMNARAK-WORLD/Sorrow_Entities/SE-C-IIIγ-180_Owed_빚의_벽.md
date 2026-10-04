@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-180 [WP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on new debt or unpaid obligation |
 | **Coherence** | Fragment (III) — Impenetrable and heavy |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |

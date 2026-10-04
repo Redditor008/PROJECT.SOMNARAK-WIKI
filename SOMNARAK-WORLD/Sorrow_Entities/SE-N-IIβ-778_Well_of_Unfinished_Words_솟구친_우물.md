@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-778 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on leaning over the stone coping and whispering an unsaid confession |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |

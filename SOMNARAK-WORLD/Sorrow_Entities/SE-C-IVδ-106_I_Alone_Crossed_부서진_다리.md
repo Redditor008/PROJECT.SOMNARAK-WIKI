@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-106 [O]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: expansion in place; waves of cold grief wash over personnel, draining composure |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 
 ### Escalation Notes
 
-- **Breach type:** Transform. The entity does not get out; crossing stops working over a widening area, and the facility's route map becomes the only instrument that matters.
+- **Event type (non-breach):** Transform. The entity does not get out; crossing stops working over a widening area, and the facility's route map becomes the only instrument that matters.
 - **Containment priority:** Map the boundary, close the routes behind it, and establish alternatives for anybody on the far side. No crossing is authorised for any purpose, including recovery.
 - **Sorrow Gauge on breach:** Opens at 40% and adds 10% a turn while the boundary is still being mapped; it stops climbing when the routes are closed, not when the volume stops growing.
 

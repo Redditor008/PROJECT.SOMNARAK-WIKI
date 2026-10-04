@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-156 [WO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on bare contact by a person carrying an unlodged entitlement |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Anxious and counting |
 | **Potency** | Moderate (β) |

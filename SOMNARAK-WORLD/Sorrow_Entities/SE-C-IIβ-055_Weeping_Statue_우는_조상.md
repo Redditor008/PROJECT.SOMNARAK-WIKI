@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-055 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; cold grief in waves over whoever is standing in the spread, draining composure. the effect is on the person's own grief  |
 | **Coherence** | Echo (II) — Repeats weeping |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -169,7 +169,7 @@ Weeping Statue is a Subject with Subject-Lament manifestation and Lament express
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the floor is taken rather than the room; the zone warps along the wetted line and the line never comes back.
+- **Event type (non-breach):** Corrupt — the floor is taken rather than the room; the zone warps along the wetted line and the line never comes back.
 - **Containment priority:** Channel the tears, never the statue. Draining is prohibited absolutely: the three recorded drainings each produced a doubled flow within the hour and a permanent advance of the stain line. Grief shared at the perimeter slows the spread, which is the only measure that has ever worked.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each metre the pool advances, so the gauge is a reading of floor lost and is checked against the stain line rather than against the clock.
 

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-102 [GO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; activation possible |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct contact or deliberate binding to a worker |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Personality compelled to dance |
 | **Potency** | Major (γ) — High danger |

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-021 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; audible weeping in the corridor air, eroding the will to continue any task; personnel stop mid-action and are found stan |
 | **Coherence** | Fragment (III) — Personality and response shaped by music |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -169,7 +169,7 @@ The Hollow Choir is a Fragment (III) Subject of Major (γ) potency, Subject-Spir
 
 ### Escalation Notes
 
-- **Breach type:** Transform. The chamber stops being the instrument and the facility becomes one; two events are on file and neither involved any movement of anything.
+- **Event type (non-breach):** Transform. The chamber stops being the instrument and the facility becomes one; two events are on file and neither involved any movement of anything.
 - **Containment priority:** Re-seal the acoustic boundary. Physical suppression of a bodiless entity accomplishes nothing, and the two attempts at it are recorded as having lengthened both events.
 - **Sorrow Gauge on breach:** Opens at 50%, the voices being already distributed, and rises five points for every corridor newly reached rather than per turn.
 

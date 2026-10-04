@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-946 [WO]` |
-| **Entity Type** | **Object** — Can breach via Transform/activation |
+| **Entity Type** | **Object** — Non-breaching: activation only; activates on a wish — spoken or clearly thought — directed at the statue |
 | **Tool Type** | **O-Relic (Officium)** — Channeled Use (a wish spoken before it) |
 | **Coherence** | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt |
 | **Potency** | Major (γ) |

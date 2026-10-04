@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-884 [VO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct touch |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-407 [N]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; the containment zone loses definition, colors fade, sounds vanish |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -161,7 +161,7 @@ Fading Whisper is a Subject with Subject-Grudge manifestation and Void expressio
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Flerehan and Ferrehan together from the instrumented line. Nothing is answered, nothing is completed, and no responder repeats back anything they think they heard.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from a single recorded event and is labelled as modelled wherever it is quoted.
 

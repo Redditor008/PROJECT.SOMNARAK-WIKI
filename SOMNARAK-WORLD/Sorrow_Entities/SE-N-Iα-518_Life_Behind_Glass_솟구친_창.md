@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-518 [D]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct line of sight into the pane. there is no equipping and no handling; looking is the whole mechanism |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |

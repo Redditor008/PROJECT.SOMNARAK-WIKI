@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-235 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; the affected zone loses definition — colour drains, sound goes, and personnel lose confidence about which corridor they  |
 | **Coherence** | Echo (II) — Repeats watching |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt. The fabric goes wrong and the wrongness spreads along the old rounds; nothing escapes, because nothing was ever held.
+- **Event type (non-breach):** Corrupt. The fabric goes wrong and the wrongness spreads along the old rounds; nothing escapes, because nothing was ever held.
 - **Containment priority:** Instruct personnel to accept being seen. Covering the eyes or shielding corridors raises the gauge rather than lowering it.
 - **Sorrow Gauge on breach:** Opens at 50% and falls 10% each time a worker acknowledges the gaze aloud.
 

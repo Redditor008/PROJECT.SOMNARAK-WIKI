@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-250 [WO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on carrying the lantern into a debt-bearing area |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Echo (II) — Repeats glowing |
 | **Potency** | Moderate (β) |

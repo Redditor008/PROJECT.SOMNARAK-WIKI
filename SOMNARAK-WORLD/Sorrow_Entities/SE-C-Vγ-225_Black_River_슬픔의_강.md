@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vγ-225 [WP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on a rise in the unmourned portion of the city's grief |
 | **Coherence** | Sovereign (V) — Autonomous, flowing, eternal |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |

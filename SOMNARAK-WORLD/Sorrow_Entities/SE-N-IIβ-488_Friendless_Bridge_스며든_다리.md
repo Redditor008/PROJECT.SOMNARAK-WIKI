@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-488 [O]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touching one end while naming the other person |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |

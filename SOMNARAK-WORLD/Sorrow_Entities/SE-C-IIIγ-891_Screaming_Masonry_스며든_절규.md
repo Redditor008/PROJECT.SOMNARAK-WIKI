@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-891 [D]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a new obligation left undischarged within the district, which in old lament is a daily event and is why the relic is nev |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |

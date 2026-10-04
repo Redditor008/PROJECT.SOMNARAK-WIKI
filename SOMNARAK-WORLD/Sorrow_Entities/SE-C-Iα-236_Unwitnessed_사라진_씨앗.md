@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-236 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a person entered on this facility's registers with no recorded beginning. the land has nothing to do with it; the correl |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |

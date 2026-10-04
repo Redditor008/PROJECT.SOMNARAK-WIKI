@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-111 [VO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; sealed |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch, sustained listening, or unknown conditions |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Sovereign (V) — Autonomous, mysterious |
 | **Potency** | Critical (δ) — Facility-threatening |

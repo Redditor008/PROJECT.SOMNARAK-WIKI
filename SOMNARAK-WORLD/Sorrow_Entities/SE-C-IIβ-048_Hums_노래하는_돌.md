@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-048 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; activation possible |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on still air, sufficient sorrow, or deliberate listening |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Echo (II) — Repeats singing |
 | **Potency** | Moderate (β) — Manageable |

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-011 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; ambient expansion |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on new sorrow entering the old lament |
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | City Sorrow (도한) |

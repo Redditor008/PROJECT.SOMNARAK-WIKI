@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-373 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |

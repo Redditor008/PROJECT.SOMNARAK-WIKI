@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-219 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or tears falling onto the surface |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |

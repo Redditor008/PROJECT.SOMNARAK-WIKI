@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-077 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they |
 | **Coherence** | Fragment (III) — Curious and sneaky |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -169,7 +169,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Attend it. Put two observers in the room and the movement stops being a breach; there is nothing to seal and nothing to subdue.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn while it is loose. It falls 10% for every memory an exchange recovers, which is the only downward movement recorded, and the exchanges that worked were all conducted by the person who had lost the memory.
 

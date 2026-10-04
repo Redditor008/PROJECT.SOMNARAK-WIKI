@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-949 [MS]` |
-| **Entity Type** | **Subject** — Can breach; transformation-apex |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; the fourfold tide spreads beneath its flight path; every sector it overflies is cycled through all four sorrows |
 | **Coherence** | Sovereign (V) — Held the sky and the river in one breath, and could not hold itself |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
@@ -164,7 +164,7 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the forbidden reunion fuses the Fish and the Stone into the Sovereign. This is the single most prohibited action in the containment manual.
+- **Event type (non-breach):** Transform — the forbidden reunion fuses the Fish and the Stone into the Sovereign. This is the single most prohibited action in the containment manual.
 - **Containment priority:** There is no containment for a manifested Sovereign. Evacuate everything in flight-range, and pray the form remembers the fish it was, and wishes itself small again.
 - **Sorrow Gauge on manifestation:** Starts high (60–80%) and rises 10% per turn; the form cannot hold past 100%.
 

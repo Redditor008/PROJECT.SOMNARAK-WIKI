@@ -33,6 +33,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-25`](R-25_FIVE_PER_BATCH.md) | Five Per Batch — five dossiers per prompt through the combined rewrite-and-classify pass, one gate commit each |
 | [`R-26`](R-26_FIVE_THEN_SEVEN_THEN_TEN.md) | Five, Then Seven, Then Ten — the batch floor ratchets when the files are simple and the gate passes first time |
 | [`R-27`](R-27_THE_TALE_STANDARD_IS_PER_SECTION.md) | The Tale Standard Is Per Section, Not Per File — every description-bearing section is measured on its own; Behavior is an example, not the list |
+| [`R-28`](R-28_NOT_EVERYTHING_BREACHES.md) | Not Everything Breaches — non-breaching floors of 75% RE / 25% SE / 50% OP, reclassified only on the dossier's own evidence |
 
 ## Precedence
 

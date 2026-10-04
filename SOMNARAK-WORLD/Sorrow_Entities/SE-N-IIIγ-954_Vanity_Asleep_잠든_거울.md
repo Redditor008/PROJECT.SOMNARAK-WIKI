@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-954 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; the zone loses definition; colour and sound thin out; no surface in it reflects anything at all |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -161,7 +161,7 @@ Both of the useful Work Types bring the gauge down and neither tells a superviso
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the zone warps outward around a figure that never wakes. Two events on record, both ended by speech, neither by suppression.
+- **Event type (non-breach):** Corrupt — the zone warps outward around a figure that never wakes. Two events on record, both ended by speech, neither by suppression.
 - **Containment priority:** Do not wake it and do not seal and wait: sealing alone has never ended an event here and extended the first by two days. Send one worker in to say the sentence.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while unaddressed; it falls when a worker states aloud, in the zone, one judgement they believe is being made about them that nobody has said to them.
 

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-823 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; the air fills with audible weeping, eroding the will to continue |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Hold both mouths and send nobody across. Sealing one end is the one measure that has made an incident longer, and the standing order is that a team which cannot staff both ends does not open the tunnel at all.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% each time a worker sets foot on the span — it gives way beneath them by design, and the fall is survivable. It falls 10% for each pair of personnel holding opposite mouths in voice contact, and the single recorded closure was reached without anyone crossing.
 

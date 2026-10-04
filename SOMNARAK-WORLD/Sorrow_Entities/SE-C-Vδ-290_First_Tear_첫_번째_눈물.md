@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-290 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; sealed |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on none authorized. touch is forbidden |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Sovereign (V) — Autonomous, ancient, singular |
 | **Potency** | Critical (δ) |

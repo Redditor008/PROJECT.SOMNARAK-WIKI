@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVω-001 [GP]` (Contained Place) / `C-IVω-001-B [GS]` (Breaching Subject) |
-| **Entity Type** | **Place (Special Transform Type)** — District entity undergoing catastrophic Place→Subject breach metamorphosis |
+| **Entity Type** | **Place (Special Transform Type)** — Non-breaching: manifestation in place; activates on increase in the city's collective sorrow |
 | **Breach Designation Shift** | `C-IVω-001 [GP]` (Place-Tale) → `C-IVω-001-B [GS]` (Breaching Subject-Tale) |
 | **Coherence** | Entity (IV) — Self-aware, ancient, hungry |
 | **Potency** | Catastrophic (ω) — City-threatening |

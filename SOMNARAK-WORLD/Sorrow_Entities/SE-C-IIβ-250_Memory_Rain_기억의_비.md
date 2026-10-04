@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-250 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on memory accumulation beyond the city's capacity |
 | **Coherence** | Echo (II) — Repeats falling |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |

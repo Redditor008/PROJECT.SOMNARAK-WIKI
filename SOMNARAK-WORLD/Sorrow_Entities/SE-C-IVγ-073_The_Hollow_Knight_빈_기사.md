@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-073 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; the grudge becomes structural. walls crack along the route first, then everywhere, and personnel in the volume take the  |
 | **Coherence** | Entity (IV) — Self-aware, driven by duty |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -169,7 +169,7 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Evacuate outward from the route; do not form an assault element. Return the salute at the perimeter. Nobody who stepped aside has ever been pursued, in nine years and four transformations.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per circuit completed rather than per turn.
 

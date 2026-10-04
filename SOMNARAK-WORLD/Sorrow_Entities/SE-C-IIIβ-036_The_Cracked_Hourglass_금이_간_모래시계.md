@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-036 [WO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; activation possible |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or prolonged observation |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Anxious about time |
 | **Potency** | Moderate (β) — Manageable |

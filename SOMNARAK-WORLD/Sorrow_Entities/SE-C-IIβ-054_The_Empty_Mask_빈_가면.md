@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-054 [WO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; identity-replacement hazard |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on contact. placement over the face is the completed form and is not required; a palm on the inner surface for eight second |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats emptiness |
 | **Potency** | Moderate (β) — Manageable but dangerous |

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-280 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on placing it over a face. this has not happened since the frame was built and the nine historical instances are the whole  |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats weeping |
 | **Potency** | Moderate (β) |

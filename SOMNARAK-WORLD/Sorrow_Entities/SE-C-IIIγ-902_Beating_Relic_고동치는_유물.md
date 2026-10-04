@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-902 [GO]` |
-| **Entity Type** | **Object** — Can breach via Transform |
+| **Entity Type** | **Object** — Non-breaching: activation only; activates on bare-handed grip. gloved contact does nothing and has been tested to the satisfaction of two review boards |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |

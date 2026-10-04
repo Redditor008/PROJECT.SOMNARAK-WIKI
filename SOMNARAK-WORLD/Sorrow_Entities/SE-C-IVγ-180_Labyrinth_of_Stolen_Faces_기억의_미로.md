@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-180 [VP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on new forgotten memories entering the maze |
 | **Coherence** | Entity (IV) — Self-aware, labyrinthine, trapping |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |

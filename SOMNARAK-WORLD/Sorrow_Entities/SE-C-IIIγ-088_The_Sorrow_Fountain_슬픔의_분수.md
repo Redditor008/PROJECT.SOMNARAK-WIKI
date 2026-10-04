@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-088 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on approaching the fountain while suppressing tears or uncompleted mourning |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Endlessly sad |
 | **Potency** | Major (γ) |

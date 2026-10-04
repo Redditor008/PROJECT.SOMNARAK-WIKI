@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-275 [GP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on material left within the working volume while somebody present is carrying a grievance they have not stated. both condit |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Burning and creative |
 | **Potency** | Moderate (β) |

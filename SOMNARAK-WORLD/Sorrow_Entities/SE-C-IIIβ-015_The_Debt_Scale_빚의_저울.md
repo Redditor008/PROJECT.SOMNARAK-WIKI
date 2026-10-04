@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-015 [VO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a hand placed on one dish |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Precise and impartial |
 | **Potency** | Moderate (β) |

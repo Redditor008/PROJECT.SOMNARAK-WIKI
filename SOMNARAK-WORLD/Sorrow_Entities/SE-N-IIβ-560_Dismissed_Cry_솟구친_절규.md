@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-560 [D]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or vocal aggression nearby |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |

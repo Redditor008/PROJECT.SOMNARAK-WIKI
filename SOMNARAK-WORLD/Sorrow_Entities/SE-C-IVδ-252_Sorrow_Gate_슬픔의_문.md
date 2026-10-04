@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-252 [VO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; sealed |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or sustained listening; no approved method exists |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) — Self-aware, ancient, sealed |
 | **Potency** | Critical (δ) |

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-392 [O]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; modelled. what is measured is heaviness in the room on high readings — workers report the walk to the scale as uphill —  |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -164,7 +164,7 @@ Viderehan is primary and Pugnahan is prohibited. The table formerly had Flerehan
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt, assigned from a template in Year 4219 and never observed. Five assessors have queried it and five queries are in the folder; it stands because nobody has proposed a class for an entity whose entire behaviour is a height.
+- **Event type (non-breach):** Corrupt, assigned from a template in Year 4219 and never observed. Five assessors have queried it and five queries are in the folder; it stands because nobody has proposed a class for an entity whose entire behaviour is a height.
 - **Containment priority:** Read the scale, read the strike list, and do not touch the glass. There is no zone to seal; the record hall is open to Market staff and has been throughout.
 - **Sorrow Gauge on breach:** Modelled at 40% opening, rising 10% per turn. Never tested. The glass has risen 2.6 m and stopped there, and in nineteen years nothing has come out of it or gone through a wall.
 

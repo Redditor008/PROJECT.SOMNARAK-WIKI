@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-092 [GP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; defensive expansion |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on an approach that intends to possess, destroy or enumerate the collection |
 | **Coherence** | Entity (IV) — Self-aware, protective of knowledge |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |

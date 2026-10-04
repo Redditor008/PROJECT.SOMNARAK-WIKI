@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-609 [D]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |

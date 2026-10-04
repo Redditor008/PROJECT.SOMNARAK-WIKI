@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-782 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; everything stored in the affected volume becomes heavy and anonymous. workers can lift the objects and cannot say what a |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Bring the sector inventory and read the use of each outlined object aloud. The breach ends on recollection, has ended that way three times out of three, and cannot be ended by force.
 - **Sorrow Gauge on breach:** Opens at 45% and falls 10% each time an object's use is correctly remembered aloud.
 

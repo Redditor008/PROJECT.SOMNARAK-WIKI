@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-160 [WO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud. gloves do not work and have been  |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Binding and connecting |
 | **Potency** | Moderate (β) |

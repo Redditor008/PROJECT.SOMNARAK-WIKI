@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIα-081 [VO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; activation possible |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct gaze or physical contact |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats showing reflections |
 | **Potency** | Minor (α) — Low danger |

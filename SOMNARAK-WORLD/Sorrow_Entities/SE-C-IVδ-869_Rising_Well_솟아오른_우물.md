@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-869 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; the entity's anger becomes physical, cracking walls and personnel alike |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, 
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Flerehan and Ferrehan together, from a position outside the drawing, with restraint authority already delegated to the team of three. Nobody argues with anybody.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn unaddressed. Both recorded breaches ended by restraint rather than by Work, and the figure is labelled as drawn from two events wherever it appears.
 

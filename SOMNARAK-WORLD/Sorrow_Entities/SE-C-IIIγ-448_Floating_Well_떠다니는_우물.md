@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-448 [O]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: expansion in place; rage that has had nowhere to go for a very long time comes out at once, scorching resilience from everyone in the bay |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight 
 
 ### Escalation Notes
 
-- **Breach type:** Transform. It never escapes, because it never goes anywhere: the breach is the rim widening overhead until the clearance beneath it is no longer a clearance. The hazard here is vertical and the floor plan is no defence against it.
+- **Event type (non-breach):** Transform. It never escapes, because it never goes anywhere: the breach is the rim widening overhead until the clearance beneath it is no longer a clearance. The hazard here is vertical and the floor plan is no defence against it.
 - **Containment priority:** Establish a mourning point outside the widening rim — a place, physically, where a grief can be set down. Downward force accelerates the spread and has done so on both occasions it was attempted.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for every metre the rim widens, so escalation is tied to area rather than to elapsed time. A slow event and a fast one of the same final diameter end at the same number.
 

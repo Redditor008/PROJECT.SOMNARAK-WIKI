@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-155 [WS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; every intervals shortens at once. announcements that stood at weeks stand at days, across the whole row |
 | **Coherence** | Fragment (III) — Relentless and patient |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A human-shaped shadow, cast by nothing, that follows debtors without speaking — visible only from the corner of the eye or in reflections. Lead-cold, it smells of wet stone; turn to face it and it is already behind you again. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright; moves within its own zone and does not pursue. |
 | **Location** | Zone C, Collector's Row — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -161,7 +161,7 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 ### Escalation Notes
 
-- **Breach type:** Transform — what changes is the warning, not the room. Two events on record, both ended by telling people, neither by suppression.
+- **Event type (non-breach):** Transform — what changes is the warning, not the room. Two events on record, both ended by telling people, neither by suppression.
 - **Containment priority:** Do not apply Pugnahan, which shortens the interval further. Identify every followed subject from the mirrors and have a named officer tell each of them, in person, what is pending.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while unaddressed; it falls when the subject is told, aloud and in full, what is pending against them.
 

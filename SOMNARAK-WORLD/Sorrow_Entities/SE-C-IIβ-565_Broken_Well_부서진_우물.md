@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-565 [D]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; depth where there is none. workers stop trusting the floor, and the ones who are drawn in are found standing over flat g |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Gr
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Staff the perimeter with personnel who hold the search record and have them read the findings aloud. Remembering halts the draw; it has halted it three times out of three, and force has never been attempted.
 - **Sorrow Gauge on breach:** Opens at 45% and rises 10% per person drawn toward the depths.
 

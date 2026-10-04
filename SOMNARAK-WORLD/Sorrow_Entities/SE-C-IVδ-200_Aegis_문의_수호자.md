@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-200 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; rage across the whole radius, scorching resilience out of everyone in it at a steady rate |
 | **Coherence** | Entity (IV) — Self-aware, ancient, watchful |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt. Nothing escapes. The zone deforms outward and the holding stays exactly where it has always stood.
+- **Event type (non-breach):** Corrupt. Nothing escapes. The zone deforms outward and the holding stays exactly where it has always stood.
 - **Containment priority:** Stand the cordon back at increasing radius and let it finish. No approach, no interruption, no Pugnahan. The doctrine has not changed since the first event and has not failed yet.
 - **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more each interval, against an exceptional standing baseline of 910 on the Gate ledger scale. It has never been observed to fall during an event; it falls afterwards, on its own, over about nine days.
 

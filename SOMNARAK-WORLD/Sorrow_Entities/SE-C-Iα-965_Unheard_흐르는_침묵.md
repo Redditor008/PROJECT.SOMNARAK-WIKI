@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-965 [N]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; the pressure turns physical: plaster cracks, ears bleed, and personnel are injured without a sound being made |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Escalation Notes
 
-- **Breach type:** Transform. The hush becomes a pressure with physical effect; nothing escapes and nothing hunts, but the volume it occupies increases without limit.
+- **Event type (non-breach):** Transform. The hush becomes a pressure with physical effect; nothing escapes and nothing hunts, but the volume it occupies increases without limit.
 - **Containment priority:** Flerehan and Ferrehan, worked in sequence from the radius edge, and a standing order that nobody shouts. Shouting has lengthened every recorded event.
 - **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more each interval it is left alone. It falls only when a crew stops working and listens, which is in the doctrine and is the only instruction in it that personnel resist.
 

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-240 [WP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on manual rotation of the escapement wheel, which is performed only under the tool protocol, or an abrupt change in the pre |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) — Self-aware, time-obsessed |
 | **Potency** | Major (γ) |

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-175 [GP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on a conduct grievance closed without a named respondent |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |

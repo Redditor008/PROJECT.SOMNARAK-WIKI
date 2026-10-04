@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-230 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; the zone loses definition — colour drains, sound stops carrying — and anyone the pulse reaches loses memories of parting |
 | **Coherence** | Entity (IV) — Self-aware, final, absolute |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per interval unaddressed, and is highest in the week the Burial Office publishes its annual return.
 

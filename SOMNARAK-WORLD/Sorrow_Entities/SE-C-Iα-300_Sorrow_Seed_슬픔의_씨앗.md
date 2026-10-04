@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-300 [D]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: manifestation in place; activates on none known. the seed has never been planted and the prohibition on attempting it is unconditional; what the file calls a |
 | **Coherence** | Residue (I) — Barely formed, dormant |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -214,7 +214,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 
 ### Escalation Notes
 
-- **Breach type:** There has been no breach in two hundred and sixty years of record and the room does not expect one. What is filed under this heading is the single event of Year 4229, when the Seed reached the chamber wall, stopped, and stayed against it for eleven days with its tendril against the stone and a mender's accrual of one hundred and four untaken days on the other side of it.
+- **Event type (non-breach):** There has been no breach in two hundred and sixty years of record and the room does not expect one. What is filed under this heading is the single event of Year 4229, when the Seed reached the chamber wall, stopped, and stayed against it for eleven days with its tendril against the stone and a mender's accrual of one hundred and four untaken days on the other side of it.
 - **Containment priority:** No physical suppression, no Wardens, no Pugnahan — Pugnahan is structurally impossible on an object and the earlier entry prescribing it was prescribing an N/A row. The priority is that the figure reaches the duty office.
 - **Sorrow Gauge on breach:** In the Year 4229 event the gauge moved from 31% to 38% over eleven days and returned to 30% within a week of the mender being sent home on compulsory leave. It is the only gauge movement on file that anybody has been able to attach to a cause.
 

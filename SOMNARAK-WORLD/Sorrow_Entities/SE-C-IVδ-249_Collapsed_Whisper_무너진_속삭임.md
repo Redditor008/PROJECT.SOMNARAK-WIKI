@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-249 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; rage erupts outward, scorching resilience from all nearby |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ Collapsed Whisper is a Subject with Subject-Dream manifestation and Grudge expre
 
 ### Escalation Notes
 
-- **Breach type:** Transform. The volume of ground in which half-heard speech is unavoidable grows; nothing escapes and nothing pursues.
+- **Event type (non-breach):** Transform. The volume of ground in which half-heard speech is unavoidable grows; nothing escapes and nothing pursues.
 - **Containment priority:** Map the boundary from outside, hold the Warning Fang at the edge, and recover people as the volume recedes. No entry.
 - **Sorrow Gauge on breach:** Opens at 40% and adds 10% a turn while the boundary is still growing; it levels when the edge stops, not when anybody acts.
 

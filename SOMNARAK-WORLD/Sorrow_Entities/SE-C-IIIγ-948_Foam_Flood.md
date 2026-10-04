@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-948 [LO]` |
-| **Entity Type** | **Object** — Can breach via Transform/activation |
+| **Entity Type** | **Object** — Non-breaching: activation only; activates on a hand laid upon the carving, or bare skin within the longing-field |
 | **Tool Type** | **O-Relic (Officium)** — Channeled Use (a hand laid upon the carving) |
 | **Coherence** | Fragment (III) — Feels everything, and cannot lift from the earth |
 | **Potency** | Major (γ) |

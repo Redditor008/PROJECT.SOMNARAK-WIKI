@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-589 [D]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; audible weeping through the corridor, with names legible in it to anybody who looks |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -161,7 +161,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the zone warps outward from a figure that does not move. Two recorded events, both ended by speech, neither by suppression.
+- **Event type (non-breach):** Corrupt — the zone warps outward from a figure that does not move. Two recorded events, both ended by speech, neither by suppression.
 - **Containment priority:** Clear the corridor, hold the line, and send one worker to say they can hear it. Sealing alone has never ended an event and prolonged the second by nine hours.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while the weeping is unanswered; it falls when a worker says aloud, to the entity, that they can hear it.
 

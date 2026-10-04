@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-716 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; everyone in hearing becomes certain of something they cannot support, and says it |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ The gauge moves on this holding and says little. The figure that is kept is the 
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Rotate previously exposed personnel out of the sector. No suppression and no contradiction: the one reliable way to make this holding worse is to tell it that it is wrong.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each half-heard phrase a listener finishes for it. Listeners do this without noticing and report it as their own thought.
 

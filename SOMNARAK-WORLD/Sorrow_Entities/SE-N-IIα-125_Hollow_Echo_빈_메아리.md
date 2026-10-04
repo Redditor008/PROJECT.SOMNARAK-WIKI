@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIα-125 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; names stop being available. not identity wholesale — names: colleagues, streets, the worker's own, in roughly that order |
 | **Coherence** | Echo (II) — Repeats calling out |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -161,7 +161,7 @@ Both Work Types that lower the gauge here do so by the worker staying rather tha
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Answer it. One Warden, the scripted line, read aloud into the enlarged volume. This is the only entity in the wing whose suppression condition is a sentence, and the Directorate has twice attempted to replace it with a physical measure and twice withdrawn the proposal.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn, and the figure is close to meaningless on this holding. The interval is the instrument. During the single recorded expansion it fell to nine seconds and stayed there until the enclosure was answered.
 

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-409 [O]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; identity and memory begin to dissolve, draining clarity |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -161,7 +161,7 @@ Floating Pillar is a Subject with Subject-Spirit manifestation and Void expressi
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
 - **Containment priority:** Flerehan and Ferrehan from the marks, with the floor beneath the gap already clear. Nobody is told that anything is holding; nobody offers it a substitute.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from a single Market event and is labelled as modelled wherever it is quoted.
 

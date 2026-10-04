@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-270 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on none isolated |
 | **Coherence** | Entity (IV) — Self-aware, reflective, deep |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |

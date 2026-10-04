@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIα-215 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; modelled. what is observed is narrower and worse: people in the district lose names they are reaching for, one at a time |
 | **Coherence** | Echo (II) — Repeats fading |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -164,7 +164,7 @@ Every Work Type on this holding is performed in writing. Earlier versions of thi
 
 ### Escalation Notes
 
-- **Breach type:** Transform, copied from a template in Year 4220 and never observed. It has no form to shift. The classification has been queried four times and left standing four times because nobody could propose a better one, and the queries are in the folder.
+- **Event type (non-breach):** Transform, copied from a template in Year 4220 and never observed. It has no form to shift. The classification has been queried four times and left standing four times because nobody could propose a better one, and the queries are in the folder.
 - **Containment priority:** Silence, slates, and the three copies checked. There is no reality to stabilise; the only containment this holding has ever had is paper, and the file says so in those terms.
 - **Sorrow Gauge on breach:** Modelled at 40% opening, rising 10% per turn. Never tested. There is nothing to escape from; the holding is ambient across a district and the model was copied from a Transform-class template in Year 4220.
 

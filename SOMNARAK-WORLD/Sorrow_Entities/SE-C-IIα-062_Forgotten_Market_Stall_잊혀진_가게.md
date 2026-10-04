@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIα-062 [VO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; appears and disappears |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on nightfall in the forgotten market and concentrated nostalgia or grief |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats appearing overnight |
 | **Potency** | Minor (α) — Low danger |
@@ -398,7 +398,7 @@ Some sorrows mourn the extraordinary. Forgotten Market Stall mourns the ordinary
 **Common Name:** Forgotten Market Stall
 **Containment Status:** Contained — Forgotten Market site
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Minor (α). It has never injured anybody and has never been aggressive. It can breach by Transform, which on this holding means appearing somewhere it has not appeared before; the Warden's standing concern is a purchase by a member of the public and not an escape.
+**Threat Assessment:** Minor (α). It has never injured anybody and has never been aggressive. It does not breach; the event recorded here is a transformation in place, which on this holding means appearing somewhere it has not appeared before; the Warden's standing concern is a purchase by a member of the public and not an escape.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only; copying labels is permitted and acquisition is not.
 - No barrier contains it. The site is held by night watch under the market by-laws, and the stall's position is recorded fresh at every appearance because it is never where it was.

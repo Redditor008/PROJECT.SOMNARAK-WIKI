@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-190 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; resilience burns off everyone inside the corrupted zone, fastest for those nearest the raised fist, and continues while  |
 | **Coherence** | Fragment (III) — Furious and frozen |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ The Rage Statue is a Fragment (III) Subject with Subject-Grudge manifestation an
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt. The chamber warps outward; nothing walks out of it, and the four recorded events were all ended inside the wing.
+- **Event type (non-breach):** Corrupt. The chamber warps outward; nothing walks out of it, and the four recorded events were all ended inside the wing.
 - **Containment priority:** Name the wrong aloud over the sector channel. The radius contracts on acknowledgment and on nothing else, and a wrong named inaccurately does not contract it.
 - **Sorrow Gauge on breach:** Opens at 55%, among the highest recorded in the wing, and climbs ten points for every turn the wrong goes unnamed.
 

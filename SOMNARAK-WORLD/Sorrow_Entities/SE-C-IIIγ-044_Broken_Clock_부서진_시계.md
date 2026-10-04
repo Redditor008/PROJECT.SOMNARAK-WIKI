@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-044 [WO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; temporal activation |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on proximity, direct contact, or hostile intent |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Personality obsessed with time |
 | **Potency** | Major (γ) — High danger |

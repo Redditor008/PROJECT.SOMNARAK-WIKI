@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-220 [WS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; floors buckle, walls bow inward, and every step in the sector costs what three should |
 | **Coherence** | Entity (IV) — Ancient and weary |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per interval unaddressed, and rises faster in the weeks either side of an opening date.
 

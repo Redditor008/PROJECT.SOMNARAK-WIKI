@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-100 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on none. the fall is continuous and observer-independent |
 | **Coherence** | Echo (II) — Repeats blooming |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |

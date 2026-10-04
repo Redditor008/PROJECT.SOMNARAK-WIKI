@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-185 [LP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on registration of an unnamed memorial, anywhere, with no witness recorded to it |
 | **Coherence** | Echo (II) — Repeats whispering |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |

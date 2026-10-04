@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-976 [O]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; identity and memory begin to dissolve, draining clarity |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -161,7 +161,7 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt. The zone itself is altered; the entity does not leave the position it has held throughout the record.
+- **Event type (non-breach):** Corrupt. The zone itself is altered; the entity does not leave the position it has held throughout the record.
 - **Containment priority:** Seal the affected volume, hold Viderehan and Ferrehan at the edge until the pressure recedes, and plan every route around the chains rather than through them.
 - **Sorrow Gauge on breach:** Opens at 40% and adds 10% a turn until the volume is sealed; it keeps climbing while anybody inside is still being extracted.
 

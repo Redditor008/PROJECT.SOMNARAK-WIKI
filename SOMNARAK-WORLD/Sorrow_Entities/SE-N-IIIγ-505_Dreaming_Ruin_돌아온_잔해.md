@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-505 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; clarity drains in everyone present and the partition on the bearing wall opens, neither of which leaves the chamber |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -161,7 +161,7 @@ Flerehan lowers the gauge because it rebuilds a part of the room the worker genu
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt. Reconstruction, not demolition. The distinction governs the response: a team that braces the walls is bracing the wrong thing.
+- **Event type (non-breach):** Corrupt. Reconstruction, not demolition. The distinction governs the response: a team that braces the walls is bracing the wrong thing.
 - **Containment priority:** Read the build bearing off the last session log and evacuate the holding on that line first. Then Ferrehan to endure. Sealing the Market has been attempted twice and both times the wall it was building through was one of the seals.
 - **Sorrow Gauge on breach:** Opens at 40% and climbs 10% a turn unattended. The number is the lesser concern. What matters on this holding is the partition: log every wall the figure raises, with its bearing, and check what stands on the far side of it before the wall is complete rather than after.
 
