@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A torn translucent figure, half-flesh and half-light, weeping from a clean split down its chest — its outline flickering as two selves try and fail to separate. Fever-cold, it smells of char; one grief torn into two, still trying to be whole. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement** | Stationary — it holds one position within the registered area and has never been observed to move; what changes is which of the two selves is dominant. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,16 +31,16 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | β · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Pugnahan raises it, and no insignia, seal or badge of office crosses the boundary. |
 
 ### Operational Notes
 
 - A successful cycle narrows the split in the chest and the narrowing is visible, measurable, and temporary. It reopens. Nothing in a work cycle can undo the thing that caused it, since the institution that ruined his household still exists, still issues instructions, and is the body that employs everybody who works this holding.
 - Both readings are live here and either one alone fires the escalation. The listed threshold is 3 and it is a count that runs down, one for each failed or refused cycle; the Combat Record separately sets activation at a Sorrow Gauge of 60%, and a gauge at or above that figure activates the entity regardless of how much of the count remains. Track them side by side and do not trade one off against the other.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- The 12–18 Han-Energy yield is ordinary and the exposure is not physical. What this posting costs is the position it puts a worker in: employed by the body they are required not to defend, for the length of a sixteen-turn cycle, in their own name.
 - M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. What is taken here is a piece of a loyalty that tore, and the pieces behave accordingly: they serve well, they serve faithfully, and they do not tell the wielder what they are serving.
 
 ## Combat Record
@@ -91,7 +91,7 @@
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
+- The failure here is reasonableness. The worker begins explaining how a thing like that comes to happen, the procedure, the context, why no individual is really to blame — accurately, usually — and the gauge climbs on every sentence of it.
 - Extended contact invites the full manifestation: the two incompatible selves pulling apart hard enough to take the surrounding zone with them. Personnel caught in it describe being asked to choose between two things they believed at the same time, and finding that both answers are disloyal.
 - Every M.A.W. activation extracts a real price — recollection, sensation, years — catalogued in the equipment file and paid in the field. The pieces from this source charge in commitment: the wielder becomes more certain of their obligations and less able to say to whom they are owed.
 - Without resolution the containment zone warps and spreads, which is the Corrupt breach on the classification. Nothing escapes. The zone itself becomes a place where allegiance does not resolve, and personnel inside it begin arguing a case neither of them holds.
@@ -116,8 +116,8 @@
 |---|---|
 | **Form** | A torn translucent figure that weeps from a split in its chest. Its outline flickers as though divided into two incompatible memories. |
 | **Position / movement** | Stationary within the registered area; record which of the two flickering selves is dominant at each observation, with the time, and keep the running proportion. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | Grudge. Half-flesh and half-light, fever-cold, smelling of char, with a clean split down the chest that weeps and an outline that flickers between two selves. |
+| **Distinctive markers** | The split, which weeps; and the flicker, which has stayed close to even for the whole containment. |
 | **Identification** | Verify the designation, the manifestation and the split against the file before Work begins; the wrong entity is the wrong sorrow, and the wrong approach to this one is an approach made in uniform. |
 
 **Appearance protocol:** Record the split before anything else: its length, the width at the widest point, and whether it has narrowed since the last observation, since the tear narrows after honest acknowledgment and that is the only responsive measurement this holding offers. The weeping comes from the split and not from the face. That detail is in the briefing because it is the one personnel consistently get wrong afterwards — accounts written the same day describe the chest, and accounts written a week later describe a weeping face — so the observation is written down in the room, not reconstructed in the office. Record the flicker: which self is dominant, for how long, and what was said or shown immediately before it changed. The running proportion has stayed close to even for the whole containment. The file prints it and declines to interpret it, and so should the observer.
@@ -127,7 +127,7 @@
 - **The Sorrow:** The grief of loving someone or something that became the instrument of one's harm.
 - **The Event:** A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart.
 - **The People:** One servant of the institution, and the household the institution ruined, who were the same person's family. The commissioning file holds both halves — the service record and the proceedings — bound together on purpose. They overlap by several years, and the service record contains commendations issued during the overlap.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **Expanded origin context:** The commissioning file is two documents bound together on purpose: a service record and a set of proceedings against a household. They overlap by several years, and the service record contains commendations issued during the overlap — the same institution thanking him in one file and ruining his family in the other, in the same months, over the same signatures. Nothing in either document is irregular. The archivist's note says that this is the difficulty: the two halves are each correct, both were produced by people doing their jobs properly, and the tear is what happens when a person reads them side by side.
 
 ## Behavior
 
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Myrmidon is recorded as a Subject with Subject-Lament manifestation and Grudge elemental expression. The current record places it at Zone A, Alpha Tree; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Myrmidon is a Subject with Subject-Lament manifestation and Grudge expression, held in Zone A at the Alpha Tree. All four Work Types apply. Flerehan reaches through the tear and lowers the gauge, Viderehan opens the betrayal and moves nothing, Ferrehan weighs whether a worker can stay without defending the system, and Pugnahan attacks representation and raises the gauge every time. It does not respond to personal identity at all. It responds to who a person is standing for.
 
 **Reading the response:** Read it in the split and in what the worker has just said. A falling gauge presents as narrowing — the tear closing by a measurable fraction, the flicker slowing, the weeping quieter. The pressure eases and the cause is untouched; he is not reconciled, he has been told the truth once by one person. A rising gauge presents as **reasonableness**. The room becomes a discussion, the worker finds themselves explaining how a thing like that comes to happen, what the procedure was, why no individual is really to blame, and every word of it may be accurate. That is the failure. This entity does not respond to personal identity at all; it responds to representation, and a worker who has begun speaking for the institution has become the institution in the only sense that matters here. If it responds differently from the record, write that down; and write down what was said in the thirty seconds before.
 ## Breach Behavior
@@ -227,18 +227,18 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design it charges immediately and personally, and the sorrow carried in it can wake — which on this set presents as a sudden, total certainty that one is in the right, followed by an inability to say on whose behalf. No protocol produces a Stigma; it comes from the source or not at all.
+The pieces came out of a loyalty that tore, and they carry the property faithfully: they serve well, they serve without hesitation, and they do not tell the wielder what they are serving. The cost is charged in commitment — the wielder grows more certain of their obligations and less able to say to whom they are owed — and the armoury's standing note is that nobody carries this set into a disciplinary matter, their own or anybody else's. No protocol produces a Stigma; it comes from the source or not at all.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, grade, gauge, condition of the piece, the objective, and confirmation that no insignia is being carried. The last field is checked by a second person at the boundary. |
+| **During use** | Activation time, effect strength, the area held, the pronouns used by the wielder, and the first cost noticed by anybody else present. |
+| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has begun describing their duty without being able to name who it is owed to. |
+| **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and any statement made in the room, recorded verbatim under the non-attribution waiver. |
 
-**Stat interpretation:** Grade measures performance and says nothing about cost. A β-grade piece from this source can perform flawlessly and still hollow its wielder's memory or bind them to the sorrow it came from, and the costs in this set are institutional in character: they are easiest to miss in exactly the personnel the facility considers most reliable. Read both columns and authorise on the second.
+**Stat interpretation:** Grade describes output and nothing about what a piece takes, and this set takes something that does not show up in any rating: the wielder's ability to locate their own allegiance. Read both columns, authorise on the second, and ask the team rather than the wielder, who on this set will answer honestly and wrongly.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -255,10 +255,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Myrmidon as a Subject with Subject-Lament manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone A, Alpha Tree. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Myrmidon's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | A torn translucent figure weeping from the chest, flickering between two selves. Record the split before the face, and record it in the room rather than from memory afterwards. |
+| **Sustained observation** | Split length and width at the widest point, whether it has narrowed since the last reading, which self is dominant and for how long, and what was said or shown immediately before each change. |
+| **Activation or escalation** | Escalation is representation. Log every instance of the institution being spoken for — a policy explained, an order justified, a decision defended, 'we' used in place of 'I' — with the speaker and the time. |
+| **Post-contact review** | Split series, flicker proportion, the verbatim sentence log with each line attributed to the person who said it, and whether the narrowing achieved had closed again by the next cycle. |
 
 **Observation method:** Observe out of uniform, from a fixed station, with the split in view. Record the first visible sign, the first emotional response in the observer and what prompted it, the first measurable change in the zone, and the condition that ended the encounter. The entity's form is its sorrow rather than its strategy — a figure torn cleanly in two and still trying to be one thing is what devotion looks like after it has been shown what it was devoted to — and it predicts nothing about behaviour. Record also what the observer was wearing and what office, if any, they named. That line is on the form because it has turned out to correlate with everything else on it.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -295,17 +295,17 @@ A tear runs through the figure from crown to chest, dividing the person it once 
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Lament, pressing or releasing like a tide. Then the form resolves: A torn translucent figure that weeps from a split in its chest. Its outline flickers as though divided into two incompatible memories. The space does not become generic; it shifts in the specific register of Grudge.
+**At first contact:** It looks at what you are wearing before it looks at you. Workers who arrive correctly stripped of insignia report nothing at all for the first minutes; workers who forget a collar pin report the room turning on them before anybody has spoken.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The conversation starts to feel like a conversation, and that is the hazard. Workers find themselves being fair — setting out context, explaining procedure, giving the other side — and every fair sentence is read here as the institution answering for itself.
 
-**When the entity activates:** The Gauge tips. The Subject-Lament does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Grudge is no longer atmospheric. It is operational.
+**When the entity activates:** The two selves pull apart hard enough to take the zone with them, and personnel inside describe being asked to choose between two things they believed at once, with both answers disloyal. Nothing leaves the room; the room stops resolving.
 
-**After departure:** After contact, the body holds what the mind files away. The Grudge is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** Workers come out arguing a case they do not hold, sometimes for hours, usually against a colleague who was not there. The medical office logs it as a specific aftereffect of this holding and not as temper.
 
 ### Interaction Pattern
 
-Myrmidon does not exist in isolation. Its recorded relationships with Silence We Forgot We Made, The Burning Library, The Forgotten Soldier should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other sorrows institutions made, and the question put to every pairing is whether the flicker proportion comes off even — whether one of the two selves takes over in company, and which one. Nothing else here has produced a measurable result, and a pairing that moved only the atmosphere is filed as having moved nothing.
 
 **Interaction method:** Baseline each entity alone; the flicker proportion in particular means nothing without a long solo series behind it. The relations on file concern betrayal, service, or division, so the question to settle is whether the other presence pushes the proportion off even — whether one of the two selves becomes dominant in company, and which. Log the first mutual reaction, the triggering distance, the duration, the gauge change on both sides, the operational impact, and whether separation restores the balance. Re-verify each cycle; a Sorrow Tide, an Ordeal or a transformation has overturned settled readings in Zone A before.
 
@@ -352,18 +352,18 @@ Some sorrows are about betrayal. Myrmidon is about the betrayal that divides —
 **Common Name:** Myrmidon
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Moderate (β). It has never harmed anyone who did not speak for the institution, and the file's own phrasing is that it hates the seal and not the face.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- All four Work Types valid; Flerehan and Ferrehan lower the gauge and Pugnahan raises it.
+- Work out of uniform under the dress exemption that names this containment; speak in the first person singular; defend nothing and explain nothing on the institution's behalf.
+- On a Corrupt event the zone warps rather than releases; the gauge falls only when somebody says something true in their own name and at their own risk.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- A servant of the institution learned that the same institution had ruined his household; the loyalty tore and did not finish tearing.
+- Sixteen turns, no engagement in the ordinary sense. Every incident on file began with a worker being reasonable about the proceedings.
+- The set serves faithfully and will not say what it serves; it is never issued into a disciplinary matter.
+**Cross-References:** The bound service record and proceedings · the dress-instruction exemption · the sentence log
 **Faction Involvement:** SED (D-territory exploration) · Wound Walkers (Fracture-relevant)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** One servant of the institution and the household it ruined, who were the same man's family; both halves of the paperwork survive and are filed together.
 
 ### Registry Addendum
 
@@ -387,6 +387,34 @@ Symbols of office, inherited violence, and anything standing for the city provok
 ### Loyalty That Tore
 
 Someone discovered that the institution they had served had ruined their family, and the commissioning file holds both halves — their service record and the proceedings that harmed their household. The two are filed together deliberately. The archivist's note states that they overlap in time by several years and that the service record contains commendations issued during that overlap.
+
+### Forty-One Narrowings, Nothing Cumulative
+
+The split is the only responsive measurement here, and the series it produces is the most carefully kept and least encouraging document in the wing.
+
+Width is read at the widest point, in the room, before anything else. It narrows after an honest acknowledgement and the narrowing is immediate enough to attribute: **forty-one narrowings are on record, and thirty-nine of them follow a sentence spoken in the first person singular by a named individual.** Those sentences are kept verbatim in a separate log, attributed, with the width before and after — the wing holds no comparable record for any other holding, and the log is the closest thing this containment has to an instrument.
+
+The aggregate is the part the file refuses to soften. No narrowing has ever held. Mean recovery to the previous width is **eleven days**, the longest ever recorded is thirty-four, and the cumulative change in split width across nine years of work is **zero** — the measured width today is within the error of the width at commissioning.
+
+The wing prints both facts on the same page and ranks neither. *Every one of those forty-one was real and did something for an afternoon. None of them did anything to the thing underneath, which is still being done to him by a body that still exists and still issues instructions.*
+
+### You Cannot Be Here as Yourself
+
+The suppression condition asks a worker to stand in front of this entity as a person rather than as the Company, and there is no such posture available to anybody on duty.
+
+Attribution is not a matter of how someone phrases things. A worker in post, on the premises, performing their duties, speaks as the organisation — that is what being in post means, and the rule exists for good reasons that nobody here disputes. It is why a promise made at a counter binds, why an instruction given in a corridor can be relied on, and why the public does not have to establish which individual's personal view they were given. **Remove it and nothing an employee says could be trusted; keep it and there is no moment in a working day when a person is only themselves.**
+
+So the instruction — *separate the person from the institution they represent* — asks for something the régime is built to prevent. A worker who takes off their insignia is still on shift. A worker who says *I* is still, in law and in every policy that governs them, the body that employs them. The entity reacts to representation, representation is not something a person can set down, and the file states the consequence plainly: **the condition cannot be met, only approached, and every narrowing on the series was achieved by somebody doing something they were not entitled to do.**
+
+### A Waiver That Protects the Wrong Party
+
+What the wing could obtain was a hole in the attribution, and it spent two years obtaining one.
+
+Under the standing waiver, renewed annually for nine years, **anything said inside this containment is non-attributable**: not Company policy, not an admission, not evidence, not disclosable, and not citable in any proceeding. It is the only such instrument in the facility. It is what makes the work lawful, and the wing is clear that it was granted to protect the organisation, not the staff — the body that cannot be bound by what is said in that room is the body that was at risk of being bound.
+
+The worker gets the mirror image. A statement made in there has no institutional weight behind it either: it cannot be relied on by the person who said it, cannot be produced in their defence, and cannot be confirmed by anybody. **In the one case where a worker was later accused of having said something in that room, the wing could neither confirm nor deny it, said nothing, and the worker carried it alone.** They lost a posting over it. The file records that outcome in full, with the worker's name removed at their request and the wing's inaction described as correct under the waiver it had itself sought.
+
+The legal office's objection is minuted and read at every annual review. An instrument that de-attributes speech protects the institution from its employees' honesty while leaving the employee exposed; the asymmetry is not incidental but structural; and the wing has built its only working containment method on asking people to speak without cover. The minute records the objection as **correct, including the word structural**, records that no alternative has been drafted that the legal office would sign, and renews the waiver.
 
 ## Trivia
 
