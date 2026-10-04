@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **271** |
-| Pending — no disposition-bearing line found by scan | 32 |
+| **Classified here, with a quoted line of evidence** | **272** |
+| Pending — no disposition-bearing line found by scan | 31 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 271 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 272 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 32 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 31 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -324,6 +324,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Singing Needle | `SE-O-IVγ-1053` | Neutral. A fixed acoustic hazard of the Crystal Peaks that reaches nothing but what walks into it: *"Prospectors surveying the Crystal Peaks for Han-conduit minerals frequently recover mountain fauna whose soft pulmonary tissue has been turned to liquid marrow with zero external lacerations."* Its activation threshold is *"Operatives entering within 100 meters"* and its movement is sub-bedrock boring at 1.8 m/s within the ridge — it does not travel toward the city, it is not held in a containment cell whose failure would release anything else, and no line in the dossier records it touching another entity. The counter-phase singing that destabilises its needle halo is a field technique, not a containment dependency. Lethal, self-contained, Neutral. |
 | The Glass Silt Drifter | `SE-O-IIIγ-1052` | Neutral. It costs F01 vehicles and crews, never containment. Level 3 telemetry is unusually precise about the limit of its hostility: *"Caravan vanguards observe that the entity possesses no hostility toward pedestrians on foot; it only pursues roaring steam engines and heavy tracked convoys."* The damage it does is to treads, hulls and seal-gaskets along the Sea of Glass transit corridor, and the standing countermeasure is a decoy — *"Caravans traversing Sector 4 must drag an electrified copper chain behind the caboose; the drifter targets the spark trail, sparing the main chassis."* A hazard that can be satisfied with a dragged chain is not assisting any breach. No interaction with another entity is recorded anywhere in the file. |
 | The Repeated Survivor | `SE-N-IVδ-902` | Neutral, on directionality. Every cross-entity line in the file points **inward**: the Echo-Cores *"May calm or escalate the survivor depending on which Core"*, the Convergence produces *"Observation by the Birds escalates staging and the urge to twist the plot"*, and the Memory Archive makes it *"weep, then seal the grief and withdraw."* Other entities act on the survivor; the survivor acts only on people, whom it casts as players and stages. Under `R-19.2` that is hazard to the worker and does not move the class, and nothing in the dossier shows it loosening another holding. Its refusal to stage Director Majin is deference, not containment assistance. |
+| The Mewgical Girl | `SE-N-IVδ-901` | Neutral, on the same directional test as the Repeated Survivor. All four Interaction Record rows describe other entities altering **her**: the Hand of Hope means *"Healing becomes stronger, but shared emotion can make the two voices overlap"*, the Defiant Ember means *"Bomb output and resistance increase while negotiation becomes harder"*, the Trinity of Dawn *"may overload the bond"*, and the Kind Healer *"can calm Mimi while increasing Shu Shu’s protective suspicion."* Mimi’s healing is real but is applied to personnel in contact, not to containment, and her breach line is *"hunts personnel indiscriminately"* — ordinary hazard under `R-19.2`. Nothing here suppresses or releases another entity. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
