@@ -45,7 +45,6 @@ These say where the remaining damage sits and which file to open next. A fall in
 | 1 | `SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md` |
 | 1 | `SE-C-IIIγ-044_Broken_Clock_부서진_시계.md` |
 | 1 | `SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md` |
-| 4 | `SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md` |
 
 Re-rank after every clean. Files drop down this list as global counts shift without being touched; that movement is spillover and is never counted against the fixed `N / 291` counter. The queue is never carried over from a previous turn without re-measuring.
 
