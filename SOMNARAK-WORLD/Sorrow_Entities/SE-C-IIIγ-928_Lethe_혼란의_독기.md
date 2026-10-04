@@ -34,15 +34,15 @@
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Viderehan and Ferrehan only. Fixed-passage reading at both ends of the watch, written objectives carried on the person, withdrawal on the first marked error and not on the Warden's own judgement. |
 
 ### Operational Notes
 
-- Lethe is not held in a vessel. It occupies a volume of air, and the volume is identified by what personnel stop being able to recall inside it.
-- Work reduces the density of the affected volume. It does not restore anything already lost, and no cycle has recovered a name.
-- Three ignored conditions escalate it. Contact runs through the mind register, so the first sign is a gap rather than a sensation.
-- Crews carry written objectives on paper and read them aloud at fixed intervals; silence from a crew member is treated as an alarm.
-- Extraction is a separate risk event and is authorized apart from the work cycle.
+- There is no vessel. The holding is a volume of air in the Zone C sublevels, bounded below by the floor and above by a measured ceiling that moves, and it is located by what people inside it stop being able to say.
+- A cycle thins the affected volume and lowers the stage reached at a given dwell. It restores nothing: in nineteen years no cycle, drug, rest or re-exposure has returned a single lost name to the person who lost it.
+- Three ignored conditions escalate it. The channel is the mind register, so the first sign is an absence rather than a sensation, and the affected party is structurally the last to know.
+- Crews carry their objectives written out and signed before entry. Any instruction given inside the volume that conflicts with the carried page is void, the page governs, and the person who gave the instruction is withdrawn.
+- Extraction is a separate risk event, authorised apart from the work cycle, and never conducted by a party that has itself been inside the volume during the same watch.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,23 +87,23 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the hazard manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Lethe's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+2. **Clash:** Four turns, observation and endurance only, with the passage read at each turn boundary and a nominated reader outside the volume following the text and marking errors.
+3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the party out of the volume with no uncorrected error on the page, confirmed by the external reader.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented void effect — mind pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- A worker who cannot hold does not break down. They continue working, answer competently, and are found afterwards to have been describing a different room.
+- Exposure runs in three stages and does not reverse: misplaced words, then inverted meaning, then the loss of the line between what was remembered and what was imagined. Recovery to the preceding stage occurs; recovery to nothing does not.
+- The Lethe equipment buys the bearer time inside the volume and charges in the volume's own currency, at a rate recorded in the equipment section and paid out of what the bearer can retrieve afterwards.
 
 ## Appearance
 
 **Primary Form:** An invisible gas that accumulates in the lower levels of Zone C, causing progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination.
 
 **Notable Features:**
-- Expresses Void pressure in a mind register.
-- The hazard form is unmistakable — this is a mind entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Expresses Void as a graded deletion of language: misplaced words at the first stage, inverted meaning at the second, memory indistinguishable from invention at the third.
+- Nothing is visible, audible or detectable. No instrument the facility owns registers the volume; the only detector is a person reading a known text aloud while someone outside follows it.
+- Confirm the designation C-IIIγ-928 `[VH]`, the current ceiling measurement, and the reader's station before any entry. Entry without an external reader is prohibited absolutely.
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -118,20 +118,20 @@
 | Field | Detail |
 |---|---|
 | **Form** | An invisible gas that accumulates in the lower levels of Zone C, causing progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Hazard-Mind manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | Fixed below, variable above. It pools in the lowest available volume and rises as it accumulates; the recorded ceiling has risen by just under two metres across nineteen years. |
+| **Material / signature** | Void. No colour, smell, temperature difference, sound or pressure. Air drawn from the volume and analysed is ordinary air, which is in the file as a finding and not as a failure. |
+| **Distinctive markers** | Misplaced words within roughly four minutes; inverted meaning within twelve; at the third stage, accounts delivered with complete confidence and no corresponding events. |
+| **Identification** | Confirm: designation C-IIIγ-928 `[VH]`, Fragment (III) coherence, Major (γ) potency, Hazard-Mind manifestation, Void element, Zone C sublevels. Confusion with distress, fatigue or intoxication is the common error and the reading page distinguishes all four. |
 
 ## Origin
 
-The sector-c-928, contained remembers what the city tries to forget. Lethe began there — not with a scream or a death, but with the slow accumulation of void sorrow until the Han could no longer hold it and something new crystallized in the space between one moment and the next.
+What is below Zone C was pumping station, then overflow, then nothing anybody had reason to visit. The volume was found because a maintenance party went down to recover tools and came up unable to agree on how many of them had gone down. Three had. Two were certain of four and one of two, and all three were certain.
 
-It has been contained since the first cycle of this iteration. The containment protocols have been refined thirty-one times. Each refinement adds a clause about the mind register.
+It has been held since the first cycle of this iteration, and the protocol has been rewritten thirty-one times. Each rewrite adds a clause saying that standard Void procedure is insufficient because the mind register changes the nature of the pressure, and each rewrite adds it as though for the first time.
 
-The mind clause is always the same: 'Personnel must account for the mind register in all contact protocols. Standard void procedures are insufficient. The mind filter changes the nature of the pressure.'
+The repetition is not administrative sloppiness and the file says so plainly. Every one of the thirty-one authors had worked the holding; every one of them had read the preceding version; and every one of them wrote the clause as a new discovery. The versions are bound together so that the thirty-one identical paragraphs can be read in sequence.
 
-The clause is always added after an incident. The incidents are always minor. But they are always the same kind of minor — the kind that proves the mind register is not understood.
+What does not vary is the shape of the incident that prompts the rewrite: nobody injured, nothing released, and a record afterwards that cannot be reconciled with itself. The archivist's note observes that a holding which erodes institutional memory will produce exactly this history and that recognising the pattern has not, in nineteen years, been enough to break it.
 
 ## Behavior
 
@@ -139,12 +139,12 @@ The clause is always added after an incident. The incidents are always minor. Bu
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the mind pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Permits study; observed from outside with a reader inside, the stage boundaries fall at reproducible dwell times. | Decrease |
+| **Ferrehan** (Endurance) | Recognises patience; the volume thins around a party that completes a full cycle without shortening or extending it. | Decrease |
 
 ### Operational Work Notes
 
-The Void pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Hazard-Mind manifestation means the mind register is the primary channel of contact.
+Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestation, Void expression, at SECTOR-C-928 in the Zone C sublevels. Flerehan and Pugnahan are unavailable to a Hazard. Both valid Work Types lower the gauge and neither returns anything taken, which is the asymmetry every protocol in this file is built around.
 
 ## Breach Behavior
 
@@ -152,16 +152,16 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The entity's mind influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Void pressure radiates — the mind register makes it personal, targeted, unavoidable. |
-| **First Target** | The lowest occupied level. The gas accumulates downward, so exposure order follows elevation rather than proximity. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
+| **Breach Type** | Expansion — by volume of air, upward from the sublevels. |
+| **Movement** | Nothing is released and nothing travels. The affected volume grows and the ceiling rises; the holding is governed by the building's stairwells and drainage, not by any behaviour of the entity, and it has never risen past a sealed floor. |
+| **Effect** | Void in the mind register: stage by dwell time, identical for everyone in the volume, with no instrument able to confirm presence before a person's speech does. |
+| **First Target** | The lowest occupied level. Exposure order follows elevation and nothing else; it does not select, prefer or pursue, and a person asleep at the bottom of a stair is reached before one working at the top. |
+| **Escalation** | Pressure grows each turn; Void drain increases by 5 per turn until suppressed. Ventilating from below reverses the ceiling reliably, which is the one mercy in the record. |
 
 ### Escalation Notes
 
-- **Containment priority:** Evacuate upward and ventilate from below. Personnel already affected cannot reliably report their own condition.
-- **Sorrow Gauge on breach:** Opens at 30% and rises 10% per level it reaches as it fills upward from the sublevels.
+- **Containment priority:** Evacuate upward and ventilate from below. Affected personnel cannot report their own condition and must not be asked to; the external reader's page is the only admissible account of who is at what stage.
+- **Sorrow Gauge on breach:** Opens at 30% and rises 10% per level reached as it fills upward, so the gauge tracks the ceiling and nothing else.
 
 ## M.A.W. Equipment
 
@@ -214,52 +214,52 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity; the token's face carries a word the bearer can read on it and cannot afterwards repeat from memory.
 
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 
 **Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
-*Stigmas are granted at random by Lethe upon a successful work, not manufactured.*
+*Lethe's Token is not manufactured and cannot be requisitioned. It has been conferred nine times, each time on a worker who reported their own first marked error aloud to the external reader instead of correcting it quietly and continuing.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Lethe, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each Lethe piece is an extension of the volume rather than ordinary equipment. The grade describes the effect on entities; the cost is separate, is always subtractive, and is paid in material the bearer cannot audit, because the only record of what was removed was held in the person it was removed from.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, baseline reading of the fixed passage timed and scored, carried written objective signed, external reader named. |
+| **During use** | Entry time, ceiling measurement, errors marked by the reader with timestamps, stage reached, first cost, and any conflict between a spoken instruction and the carried page. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and the point at which the operator's errors stopped being self-corrected. |
+| **After use** | Exit confirmed by the reader, repeat reading scored against baseline, discrepancies listed by word, infirmary notified, cooldown, reuse authorisation. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Void signature confirmed at SECTOR-C-928.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The mind register is the dominant channel of contact.
+- Void signature recorded at SECTOR-C-928; the ceiling measured at both ends of every watch since the holding opened.
+- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being a Hazard.
+- Contact is through the mind register and through dwell time alone. Respirators, sealed suits, written-only communication and total silence have each been trialled and none altered the stage times by a measurable amount.
 
 **Personnel Note:**
 
-> *"The mind pressure is different from standard void. It does not press on the body — it presses on the mind itself. You feel it before you understand what is happening."* — Specialist, Field Team 11
+> *"I came up and said the job had gone badly. It had gone perfectly. I meant perfectly. The words came out the other way round and I heard myself say them and agreed with myself."* — Specialist, Field Team 11
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Lethe (C-IIIγ-928 [VH]) is logged as a Hazard-Mind manifestation expressing Void. Held at SECTOR-C-928.
+**Entry 1 — Containment Description** Lethe (`C-IIIγ-928 [VH]`) is held as a bounded volume of air in the Zone C sublevels. No vessel, no occupant, no emission. The holding is specified by a floor, a measured ceiling, and a reading station.
 
-**Entry 2 — Field Log** First contact report: the mind register was immediately apparent. Personnel described it as a mind pressure unlike standard void.
+**Entry 2 — Field Log** *<Recovery of tools, sublevel 3>* — Three personnel descended. Three returned. Two reported a party of four and named the fourth; one reported a party of two. No discrepancy in the duty log. The stage boundaries were derived from this incident and have not required revision since.
 
-**Entry 3 — Counseling Log** The void pressure accumulates in the mind register — this is not standard void; this is void filtered through mind.
+**Entry 3 — Counseling Log** *<Interview, second-stage subject, conducted outside the volume at ninety minutes>* — Subject asked whether she wished to continue on the lower rotation. Answered no. Asked to write the answer, wrote yes. Shown both, said both were correct and that she could not see the difficulty. The inversion had by then cleared by every other measure.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The mind register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are the valid Work Types. The external reader is mandatory and is not a second pair of hands; a party that loses its reader withdraws immediately, whatever the state of the cycle. No instruction originating inside the volume has any force.
 
-**Entry 5 — Director's Note** This entity's classification as Hazard-Mind is correct. The mind descriptor is not decorative — it is the operational axis. All containment protocols should account for the mind register as the primary channel.
+**Entry 5 — Director's Note** *<Minute on the assurance return>* — The question put to me is whether the second-stage material may be used for the safety-culture return. It may; counsel is clear that nothing said in that state is a disclosure. The question I was not asked is whether it should be. I note that we have had eleven hundred concerns from a workforce that raises none, and that both halves of that sentence are our doing.
 
 ## 최종 관찰 (Final Observation)
 
@@ -270,35 +270,35 @@ Each M.A.W. piece is a conditional extension of Lethe, not ordinary equipment. T
 
 ## 감각 묘사 (Flavor Text)
 
-The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. An invisible gas that accumulates in the lower levels of Zone C, causing progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. The void pressure is present, but it does not behave like standard void. It moves through the mind register as if that register were its native element.
+There is no first sensation. The sublevel is cold, unlit except by what the party brings, and entirely ordinary; the air is ordinary on analysis and feels ordinary to breathe. What personnel describe afterwards is that nothing whatever happened and that the page says otherwise.
 
-**At first contact:** The mind signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of mind.
+**At first contact:** A damp concrete stair, a measured ceiling marked in chalk, and a voice above you following the passage you are reading.
 
-**With continued exposure:** The void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The words begin arriving slightly wrong and the correction feels like pedantry. Experienced personnel say the danger is not confusion but how reasonable the error seems from inside it.
 
-**When the entity activates:** The void becomes a force rather than a feeling. The hazard was holding; now it releases.
+**When the entity activates:** Nothing announces itself. The chalk line is found to be below the ceiling at the next measurement, and a floor that was clear at the start of the watch is not.
 
-**After departure:** The void does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** Speech returns within hours and the gaps do not. Most personnel describe a word they can no longer retrieve and know they once had, and describe looking for it for years.
 
 ## 이야기 (Narratio) — The Tale
 
-The sector-c-928, contained remembers what the city tries to forget. Lethe began there — not with a scream or a death, but with the slow accumulation of void sorrow until the Han could no longer hold it and something new crystallized in the space between one moment and the next.
+The district's account of the sublevels is that they were sealed after the pumping station closed and that the sealing was an ordinary municipal economy, and this agrees with the municipal record in every particular. No testimony collected in nineteen years connects the volume to any event, grievance or death. The file states this positively: there is no story here, and the absence has been looked for carefully enough to be reported as a finding.
 
-It has been contained since the first cycle of this iteration. The containment protocols have been refined thirty-one times. Each refinement adds a clause about the mind register.
+What the file does hold is the sequence of thirty-one protocols, the reading pages going back to the first watch, and the pattern survey described below. Together they make this one of the best-documented holdings in the wing, which the archivist calls the single most predictable consequence of a hazard that erases things.
 
-The mind clause is always the same: 'Personnel must account for the mind register in all contact protocols. Standard void procedures are insufficient. The mind filter changes the nature of the pressure.'
+The second stage is where the file stops being a containment record and becomes something the facility has had to take legal advice on twice. Inverted speech is not confused speech. It is the speaker's meaning, intact, with its sign reversed — and a sign that reverses is a sign that can be turned back.
 
-The clause is always added after an incident. The incidents are always minor. But they are always the same kind of minor — the kind that proves the mind register is not understood.
+That is the whole of the difficulty. For about nine minutes in the middle of an exposure, the people who work here say precisely what they think, and the facility has worked out how to read it.
 
-The entity does not rage. It does not weep. It persists — mind and void, patient and permanent. Lethe is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+The hazard itself intends nothing and does nothing. It has no occupant, no response to anybody's presence, and no behaviour beyond pooling in the lowest volume available to it. Everything consequential in this file was decided upstairs, in writing, by people who were not exposed.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The mind register is not in the manual. We learned it by failing."* — Specialist, Field Team
-*"I have worked void entities for six years. This one is different. The mind makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the mind register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Hazard-Mind means."* — Researcher, Floor 4
+*"We found the stage times by walking into them. There was no other method available and I have never been comfortable with it."* — Specialist, Field Team
+*"Six years of Void holdings. This is the only one that takes something and leaves you certain nothing was taken."* — Handler
+*"Containment is a chalk line and a woman at the top of the stairs with a book. It holds. I would not call it adequate and I have said so thirty-one times."* — Containment Lead
+*"There is a word I lost in my second year. I know the shape of it. I have never found it and I have stopped looking in company."* — Specialist, Recovery
+*"They put eleven hundred of our sentences in a report and then told us, correctly, that we never said them."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 
@@ -310,20 +310,20 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 
 **Comprehension Level:** 3 — Advanced
 
-**Threat Assessment:** Major. A Hazard-Mind entity — the mind register is its defining characteristic. Risk: prolonged exposure to the mind pressure may produce effects not seen in standard void entities.
+**Threat Assessment:** Major (γ). It cannot pursue, cannot select, injures nobody physically and is avoided entirely by staying above the measured ceiling. It is graded Major because what it removes does not come back, because the affected cannot assess themselves, and because the second stage has made the workforce's honest speech into material the facility has learned to collect.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the mind register specifically — it is the primary channel of contact.
+- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither restores anything lost.
+- Flerehan and Pugnahan are unavailable to a Hazard and are not to be improvised in the volume.
+- Monitor by timed reading of the fixed passage, scored by an external reader, at both ends of every watch. Self-assessment is inadmissible at every stage and the standing order says so without qualification.
 
-**Cross-References:** City Sorrow (도한) · Void · Hazard-Mind · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Void · Hazard-Mind · the reading-page series · the inversion study · the capacity opinion · the safety-culture assurance return
 
 ### Registry Addendum
 
-**Operational interpretation:** The Hazard-Mind classification is valid and necessary. The mind descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** The three sections below are read together or not at all: the inversion is an instrument, the capacity opinion makes everything it yields legally weightless, and the assurance return uses both facts at once. Where observation contradicts the record, the record is wrong; preserve the contradiction rather than reconciling it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and mind pressure readings after every breach or unusual interaction.
+**Review requirement:** Re-verify after every expansion, Tide, Ordeal or unusual interaction: gauge, ceiling measured and chalked, reading pages scored against baseline, discrepancy lists, the standing of the capacity opinion, and whether the assurance return drew on second-stage material in the period.
 
 ## Warden Record
 
@@ -343,11 +343,51 @@ The final stage removes the distinction between what happened and what was imagi
 
 The protocols have been rewritten many times and each rewrite adds the same clause about the mind register, which the file reproduces in every version so the repetition is visible on the page. The archivist's note draws the obvious conclusion: the clause keeps being added because it keeps being forgotten, and the forgetting is not administrative. The note is dated and initialled and has not been revised since. The reading passage has not been changed since the containment opened, on the ground that a new text would make every page before it incomparable.
 
+### Nine Minutes of Plain Speech
+
+The second stage inverts meaning and does not degrade it. The distinction took four years and four hundred and two paired transcripts to establish, and it is the most consequential finding this holding has produced.
+
+The method was simple because nothing else was available. A subject at second stage is asked a set of questions outside the volume, within the window, with the exchange recorded in full. The same subject answers the same set in writing at least a week later, cleared, signed, and held unopened until the pair is complete. The two are then compared word by word with the spoken set's polarity reversed.
+
+**Four hundred and two pairs. Agreement after inversion: eighty-nine per cent.** Agreement without inversion: eleven. The residue is not noise but the ordinary drift of anyone asked the same question twice a week apart, and it falls in the same places in both arms.
+
+Three negative controls were run against conditions that also produce unreliable speech — fever delirium, thirty-hour fatigue, and intoxication. None produces systematic inversion. All three produce scatter. Inversion is specific to this hazard's second stage and to nothing else recorded in the facility.
+
+Then the comparison that made the finding a problem. The same four hundred and two subjects had, over the same years, completed the facility's ordinary written returns: the annual culture survey, the exit interview, the standing invitation to raise a concern. Those documents were pulled and compared with the inverted transcripts of the same people.
+
+**Agreement: thirty-one per cent.** What a worker here tells the facility in writing, unhurried, in their own time, with their name attached, matches what they say at second stage in roughly one case in three.
+
+The second-stage record is not confused speech, and it is not loosened speech either. It is ordinary considered speech with the sign flipped, which is to say it is speech with no deference in it, because deference requires choosing what not to say and the choosing is what the hazard takes. The author's conclusion is one sentence: *we have discovered that we do not know what our own people think, and the only instrument that tells us is a thing that erases them.*
+
+### Nothing Said Here Was Said
+
+Counsel was taken twice, in the ninth year and again in the fourteenth, and the two opinions agree.
+
+A statement has legal effect because the person making it had capacity to make it. Capacity is not a formality: it is the requirement that the speaker understood the question, retained the answer long enough to weigh it, and communicated what they intended. At second stage the third limb fails by definition — the speaker communicates the opposite of what they intend and cannot perceive the discrepancy. The first opinion is blunt. Nothing uttered in the volume, or in the clearing window after it, is a statement in law.
+
+The consequences follow mechanically and the second opinion sets them out as a list. A second-stage utterance cannot found a grievance, because a grievance must be raised by someone capable of raising it. It cannot be a protected disclosure, so the protections that attach to a worker who reports a danger do not attach to any of this. It is not evidence and cannot be admitted. It cannot be consent and cannot be refusal. It cannot be withdrawn, because there is nothing there to withdraw.
+
+Both opinions note that the rule is protective in origin and correct in principle. A person robbed of the ability to say what they mean must not be bound by what comes out of them; the alternative is a facility holding its staff to words the facility's own hazard put in their mouths. The registrar's annotation agrees and adds the obvious: the rule protects the speaker from being bound and says nothing at all about whether the listener may listen.
+
+**Eleven hundred and six concerns** have been recorded at second stage across nineteen years. Four hundred and eleven of them name a specific defect, rota, or person. None of them has been raised. In the facility's grievance register, which counts matters raised, this holding's staff have raised four, and all four were about parking.
+
+### The Assurance Return
+
+In the fifteenth year the Directorate adopted a new source for the annual safety-culture assurance return: the inverted second-stage transcripts, aggregated and themed.
+
+Every element of the decision is defensible on its face. The facility is required to assure itself that its staff can and do raise concerns. It is entitled to use the best information it has. The transcripts are, demonstrably, the best information it has — the comparison above establishes that the written survey is wrong two times in three. The material is anonymised before aggregation. Counsel confirmed that collecting it creates no duty, because a thing that is not a disclosure does not engage the duty to act on disclosures. The return has been accepted without query for four consecutive years and is described in the last audit as exemplary.
+
+Two operational changes were made to support it. The withdrawal point on the lower rotation was moved from the onset of the first stage to the onset of the second, on the stated ground that first-stage withdrawal was over-cautious and cost the facility working time. The clearing-window interview, previously discretionary, was made routine. Measured exposure on that rotation rose by a little under a third.
+
+The objection is minuted at the fifteenth, sixteenth, seventeenth and eighteenth annual reviews, raised by the holding's Containment Lead and supported by the infirmary's registrar. It holds, first, that the facility treats the same sentences as reliable enough to found its regulatory assurance and as legally void when the speaker wants something done — the identical material, read two ways, in the same building, by the same committee. Second, that the withdrawal point was moved outward for an administrative purpose and not an operational one, so that the additional erosion of nineteen people's memory is the running cost of a reporting line. Third, that eleven hundred concerns have been heard, themed, tabulated and replied to at nil, and that the people who raised them are not protected, not credited, and not, in law, people who raised anything.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was designed in the fifteenth year and costed in the sixteenth — a confidential concerns channel held outside the facility's line management, with an independent reader and a duty to respond in writing — and that it has never been laid before the board. And it records the sentence the Containment Lead asked to have minuted verbatim, which now stands at the head of the assurance return's methodology annex: *we read everything they tell us down there, and we are not obliged to have heard any of it.*
+
 ## Trivia
 
-- One of the first catalogued **Hazard-Mind** entities in Somnarak.
-- Its mind descriptor makes it structurally unique among hazard entities.
-- The void pressure in the mind register feels different from standard void — more specific, more personal.
+- One of the first catalogued **Hazard-Mind** entities in Somnarak, and the reason the category distinguishes mind from body at all.
+- Thirty-one protocols, thirty-one identical paragraphs about the mind register, each written as a discovery; they are bound in sequence so that the repetition cannot be missed.
+- It is the only holding in the wing whose hazard has been formally relied upon as a source of management information.
 
 ## Document Information
 
