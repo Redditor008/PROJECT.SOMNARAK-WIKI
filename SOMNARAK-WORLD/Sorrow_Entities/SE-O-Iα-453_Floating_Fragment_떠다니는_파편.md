@@ -86,7 +86,7 @@
 ### Battle Phases
 
 1. **Tension:** The audible radius is paced out and marked, the traffic is diverted, and the session's end time is set and stated aloud before anybody steps inside the line. The clock is the only thing that ends a session.
-2. **Clash:** The work is listening. Flerehan brings it closer and dims the flame; Ferrehan requires the worker to stay with the sound until it stops being unbearable; Pugnahan sharpens the cry and is logged as a failure. Nobody attempts to identify the voice and nobody attempts to quiet it, which are the two instincts the post exists to suppress.
+2. **Clash:** The work is listening. Flerehan brings it closer and dims the flame; Ferrehan requires the worker to stay with the sound until it stops being unbearable; Pugnahan sharpens the cry and closes the session as a failed cycle. Nobody attempts to identify the voice and nobody attempts to quiet it, which are the two instincts the post exists to suppress.
 3. **Resolution:** The session runs its time and the team leaves without having named anybody. 211 sessions; the gauge falls in 196 of them, and the fifteen exceptions all coincide with registry activity rather than with anything that happened in the street.
 
 ### Consequences
