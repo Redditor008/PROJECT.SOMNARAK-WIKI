@@ -28,13 +28,13 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per cycle, drawn from a room with nothing in it, by a team standing at survey pins outside the door. The vault's return notes each year that the yield has risen very slightly as the chamber has grown and asks each year whether that is a reason to stop. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Survey the walls against the pins, listen under voice discipline with one designated speaker, and attribute everything that is repeated. Viderehan and Ferrehan only. Nothing said in the chamber is repeated outside it in any form. |
 
 ### Operational Notes
 
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
+| **Resistance** | 45% against Grudge. There is nothing present to strike and the walls are ordinary vault stone; the figures are schedule carry-over and the vault has twice asked for them to be replaced with the survey series. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Grudge |
@@ -80,18 +80,18 @@
 | { *The First Bounce* [**Debuff**] } | "A sound you made echoes back — wrong, louder, and carrying something you did not say." | [The Echo reflects the target's words, distorted and amplified.] | *Target suffers -10 Resilience; their own voice is weaponized.* **[10 Grudge DMG [Grudge]]** | When the target speaks near the Echo. |
 | { *The Cascade* [**Debuff**] } | "The echo bounces wall to wall — each bounce adding anger you did not put there." | [The Echo multiplies; the target's words breed resentment.] | *Target loses 10 Resilience; they cannot take back what the echo has changed.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
 | { *The Sonic Blade* [**Attack**] } | "The echo sharpens to a single cutting frequency — your voice, weaponized." | [A focused echo-strike hits the target with their own sound.] | *Inflicts Grudge pressure and one wound of amplified anger.* **[14-22 Grudge DMG [Grudge]]** | When the Echo is provoked. |
-| { *The Full Resonance* [**Attack**] } | "Every echo the space ever held — all at once, all aimed at you." | [The Echo releases its full accumulated distortion.] | *A heavy Crimson wave; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Echo is silenced. |
-| { *The Cacophony* [**Ultimate**] } | "Every surface echoes — and every echo says something different, and all of them are angry." | [The Echo fills every surface with multiplying sound.] | *All in range suffer Grudge pressure for three turns in the cacophony.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Resonance* [**Attack**] } | "Your own anger comes back at you in somebody else's voice, with the words you used." | [The chamber returns a worker's unattributed grievance to them, repeated.] | *24–36 Grudge and a 15% Gauge surge to that worker; the room is 4 to 11 centimetres wider at the next survey.* **[24-36 Grudge DMG [Grudge]]** | When anything is said in the chamber without being attributed to whoever first said it. |
+| { *The Cacophony* [**Ultimate**] } | "The sound is in the corridor, then the stair, then the vault floor, and every surface is saying something different." | [The chamber stops being the boundary and the connected spaces take up the echo.] | *12–20 Grudge per cycle for three cycles to everyone in the connected spaces.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, twice, and both times the spread stopped at the first door that had been shut. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The wall distances are taken from the four survey pins and compared with the last figures before anybody speaks. The designated speaker is named aloud at the door; everyone else is silent for the whole watch.
 2. **Clash:** Every exchange here is one the team supplies. Viderehan and Ferrehan are worked under voice discipline: what is said in the chamber is said once, by one named speaker, and is entered in the log as spoken rather than paraphrased. Nothing is repeated back for confirmation, which is the single hardest instruction in this file to follow under pressure.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Stop repetition and identify the original voice**.
+3. **Resolution:** The watch ends with the survey repeated and the chamber no larger than it was. 211 watches have closed that way. The second half of the condition — identify the original voice — has never once been satisfied and the vault's position is that it cannot be.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
+- The failure here is repeating something without saying where it came from. It is the most ordinary act in conversation, it is what the entity is made of, and the vault's whole discipline is built on making it difficult for one hour at a time.
 - The effects compound with duration in a way the turn count understates: the first repetition is merely disorienting, and by the twentieth the worker can no longer identify which of the voices in the chamber was originally theirs. Severe cases present as settled, articulate conviction rather than as distress.
 - Each M.A.W. activation debits the wielder beyond what the grade ledger can record. The Zweihander aches in old wounds, the Plate dulls the reflexes it protects, and the Flame burns hostile echoes at the price of its wearer's certainty about which angers were ever theirs to begin with.
 - Without resolution the sorrow does not dissipate and does not escape either — it transforms, which is the breach type on the classification. The chamber stops being a room that echoes and becomes an echo that has a room, and the vault plan is amended rather than the entity contained.
@@ -116,8 +116,8 @@
 |---|---|
 | **Form** | An empty chamber that echoes with burning voices. The room appears larger whenever the Echo repeats. |
 | **Position / movement** | The chamber holds its station in the vault and gains volume instead of travelling; record the wall survey against the previous one, never a bearing — what moves here is the boundary. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | An empty chamber, fever-hot with no source, echoing with voices that have no speakers. Record the four wall distances against the pins, the number of distinct voices heard, and whether any of them was attributable. |
+| **Distinctive markers** | The room is bigger than it was. 3.1 metres across at first survey in Year 4,226, 4.4 now, in increments of a few centimetres, and it has never contracted. |
 | **Identification** | Identification is not optional. The designation, the manifestation type and the wall survey must agree before a cycle opens; an expansion holding that has grown since the last visit is not the same room the last team worked in. |
 
 **Appearance protocol:** Measure the room, because the room is the entity. Take the four wall distances from the fixed survey pins, the ceiling height at centre, and the carrying time of a single clap, and set all six against the previous cycle's figures before anything subjective is written down. The chamber is empty and must be recorded as empty: no speakers, no source, no body, nothing to point at. Log the temperature, which runs hot in a space with nothing in it to be hot. Log what the voices say and whose they sound like, in the hearer's own words, and log the fact that two people in the same chamber routinely disagree about both. Do not write 'strange'. Write the dimensions, and write them again next cycle, because the only thing this entity reliably does is get bigger.
@@ -127,7 +127,7 @@
 - **The Sorrow:** The exhaustion of inherited fury that consumes both victim and bearer.
 - **The Event:** A grievance was repeated through generations until the words became an empty fire.
 - **The People:** A family, then a street, then a district, carrying one grievance forward by recitation until nobody living could say who had been wronged or by whom. The record cannot name the original voice. That is not a gap in the archive; it is the entity — the thing that formed is precisely the point at which the name went out of the telling.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **Expanded origin context:** The archive cannot name the original voice and the file is emphatic that this is not a gap in the record. The entity is the point at which a grievance stopped having an owner; a named wrong is a different thing and would be filed differently. What the district's recitation books do preserve is the drift — four versions a generation apart, the first naming a family and a street, the last naming nobody at all and running nine words shorter. The last version is the one that was still being said when the chamber was found.
 
 ## Behavior
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Heirloom is recorded as an Object/Place with Place-Void manifestation and Grudge elemental expression. The current record places it at Zone A, Alpha Tree vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Both usable Work Types reduce the gauge and neither has ever reduced the chamber. The measurement that matters is the survey, and across eleven years it shows one thing only: the room grows after watches in which something was repeated unattributed, and does not grow after watches in which nothing was. 211 watches, 38 growths, 38 unattributed repetitions logged.
 
 **Reading the response:** Read it in the sound and in the survey, and never in how the team feels about the cycle. A falling gauge presents as thinning — fewer overlapping voices, a shorter carrying time, the burnt-paper smell dropping below notice. The pressure is being absorbed and the source is untouched; the walls stay exactly where they were. A rising gauge presents as agreement, which is the dangerous reading on this holding: the voices converge, they become articulate, and they start saying a thing the worker already half believed. A cycle that ends with the team unanimous about a grievance is a cycle to be examined, not filed. Any response the record does not describe is written up the same day, and the single observation that outranks every other is a voice naming someone who is currently on shift.
 ## Expansion Behavior
@@ -159,9 +159,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Heirloom: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Void form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone A, Alpha Tree vault, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+Escalation is measured in centimetres and in doors. The sound spreads through connected spaces and stops at any door that was already closed, which is the only defence in the file and the reason the vault's doors are kept shut rather than propped. Record the pin figures, the spread's furthest point, and which door stopped it.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Stop repetition and identify the original voice. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** stop talking, close the doors in order outward from the chamber, clear everyone but the designated speaker, and survey. Silence is the countermeasure. There is no other and eleven years have not found one.
 
 
 ### Detailed Activation Record
@@ -172,7 +172,7 @@ The escalation pattern is specific to Heirloom: it is not a generic breach event
 | **Manifestation** | Place-Grudge|
 | **Primary effect** | Personnel hear their own anger repeated until it feels alien. |
 | **Duration / rate** | Rapid through connected memory spaces. |
-| **Risk** | Critical (δ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ), and the grade is for the growth rather than for the strikes. The chamber has never killed anybody; it has taken 1.3 metres of the vault and shows no sign of stopping. |
 | **Management** | Stop repetition and identify the original voice. |
 
 **Activation reporting order:** repetition logged → what was repeated and whether it was attributed → wall survey against the previous figures → which personnel heard their own anger returned to them → rate of spread through connected spaces → management condition. The second field decides the event: an attributed repetition is an observation and an unattributed one is the trigger. Viderehan and Ferrehan remain the only valid Work Types.
@@ -207,7 +207,7 @@ Requiring tremendous physical strength to wield, the sceptre serves equally as a
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a full plated harness of Grudge Han-iron, dark and faintly warm, hung at the shoulders and flanks with long drooping resonance rings tuned like orchestral chimes.
+**Appearance:** a full plated harness hung at the shoulders and flanks with long resonance rings, tuned like chimes and deliberately tuned apart, so that they cannot sound a chord and cannot repeat one another.
 
 The rings sound continuously as the wearer moves, and the harness works by answering an incoming echo with a competing one: a returned voice arrives at the plate already out of phase with itself and reaches the wearer detuned. The cost is that the wearer is never in silence.
 
@@ -221,32 +221,32 @@ The rings sound continuously as the wearer moves, and the harness works by answe
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a flame-charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a small charm that warms near anger and that gives, when struck, a note the Armoury has never been able to record — four attempts, four silent recordings, and everybody in the room heard it.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 to the working stat while the Flame's source entity is the subject of the cycle, and nothing whatever on any other holding
+**Effect:** +3 to the working stat on this holding's own cycles — the largest bonus in the vault — and nothing whatever anywhere else
 
 **Ability:** Burns hostile echoes and silences their spread.
 
 **Cost:** The lantern burns away one of the user's own repeated memories.
 
-*The Flame is given, never made. It appears after a successful cycle at the source's discretion — which here means at the discretion of a room — and no procedure or stated probability compels it.*
+*Seven Flames in eleven years, every one of them after a watch in which the chamber did not grow. The vault reports the correlation each year and each year declines to call it a reward.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design, a piece amplifies its own cost and can wake the element carried in it, which on this set presents as a ringing that does not stop at the ears and the sense of having already had this argument. Stigmas are not produced by any protocol. They emerge from the source's own disposition during a cycle, unbidden and unrepeatable, and no quantity of correct practice obliges one to appear.
+This source yields no vessel to break, so the extraction was taken from the sound itself, and the set carries the property that defines it: it repeats. A wielder's own words come back a half-second late, in their own voice, for the duration of the carry. The cost arrives afterward and is the sense of having had this argument before — with the same person, in the same words — which three wielders have acted on and two have apologised for. The Armoury issues this set to one person at a time and never to two people who work together.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the current wall figures, and the name of anybody the wielder is currently in dispute with. That person is not assigned to the same watch. |
+| **During use** | Every sentence the wielder repeats back to themselves, and whether they attributed it. The half-second return makes this audible to everyone present, which is the one convenience this set offers. |
+| **At limit** | The wielder answers the echo. Three rotations have reached that point and all three were ended within the minute. |
+| **After use** | Return the piece and ask the wielder whether they have had an argument this week and whether they can say what started it. An inability to say what started it is the stand-down criterion. |
 
-**Stat interpretation:** Field performance and human cost are separate axes and this set demonstrates it at the top of the scale. The δ rating describes what the pieces do to entities; it says nothing about a wielder left Fractured, hollowed, or quietly bound to a grievance that was never theirs. Read both columns and authorise on the second.
+**Stat interpretation:** The δ rating is the highest in the vault and is not the authorisation criterion. This set binds people to grievances that were never theirs, quietly, over weeks, and the only reliable detector is whether the wielder can still say where a quarrel came from. Read both columns and authorise on the second.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -263,10 +263,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Heirloom as an Object/Place with Place-Void manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Heirloom's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The team takes the four pin readings and the door is opened. The chamber is empty, hot, and loud, and the first useful fact about it is always a number: how much further apart the walls are than last month. |
+| **Sustained observation** | Eleven years of pin figures plotted on one sheet. The plot is shown to every relief observer before they are taken to the chamber, because the growth is invisible inside a single watch and obvious across a decade. |
+| **Activation or escalation** | An unattributed repetition. Record what was said, by whom, whether a name was absent or merely omitted, the pin figures before and after, and how far the sound travelled. The distinction in the third field is the whole of the review. |
+| **Post-contact review** | The survey, the hearing log, and every voice that named a serving colleague. Those names are treated as an output of the entity and never as an allegation; a wing that reversed those two would have reinvented the grievance this chamber is made of, and the review states so in those words. |
 
 **Observation method:** Observe from the survey pins with one designated speaker and everyone else silent, and record four things: the first change in the acoustics, the first thing an observer felt and toward whom, the first measurable change in the wall distances, and the condition under which the watch ended. The entity's appearance is its history made visible rather than a forecast of its behaviour — an empty burning room is the shape a grievance takes once nobody can name its owner, and it predicts nothing. The predictive document is the wall survey, which is why the survey is plotted and why a relief observer is shown the plot before the chamber.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -274,7 +274,7 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Heirloom (O-IVδ-909 [GP]) is logged as a Place-Void manifestation expressing Grudge. The Echo formed from anger repeated until it no longer belonged to anyone. Held at Zone A, Alpha Tree vault. The chamber expands when the Echo is repeated.
+Heirloom is an empty chamber in the Alpha Tree vault, fever-hot with no source, echoing with angry voices that have no speakers. It was 3.1 metres across when it was found and it is 4.4 now. It is a grievance that was recited until nobody could say whose it was, and it grows whenever anything is repeated in it without a name attached.
 
 **Entry 2 — <Excerpt from Vault Acoustic Survey, Year 4238>**
 It burns itself as it spreads.
@@ -283,18 +283,18 @@ It burns itself as it spreads.
 The exhaustion of inherited fury that consumes both victim and bearer.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals how the grievance spread. (Stable); Ferrehan: Tests whether the worker can remain while the sound burns away. (Decrease). Personnel report sorrow after the rage fades.
+Viderehan shows the spread — which family, which street, which district, in what order — and holds the gauge level. Ferrehan is staying while it burns itself out, which lowers the gauge and takes about forty minutes. What personnel report at the end is not anger but sorrow, consistently, and the vault has recorded that reversal 211 times without being able to say where in the hour it happens.
 
 **Entry 5 — <Director's Standing Instruction on Quoted Grievances>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The vault keeps the four recitation books in a case outside the chamber, open at the fourth version, with the nine missing words written in the margin in red by an archivist who worked out what they had been. She left a note under them: *These are the names. I am not going to say them in the room and neither should anybody else, and I am not going to take them out of the book either, because somebody was owed them.* Both halves of that instruction have been followed for nine years.
 
-**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat rating:** Critical (δ), carried for the growth and the propagation and not for any injury; the chamber has struck 38 people and hospitalised none.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Heirloom; the other feeds it.
+> The choice comes at about the fortieth minute, when the rage has burned down to sorrow and the thing in the room sounds like somebody who was wronged.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Say nothing, and take the survey. | Say it back to the room — just once, so it knows somebody heard. |
 |---|---|
 | Tests whether the worker can remain while the sound burns away. The sorrow is named; Heirloom is fully recorded. | Reveals how the grievance spread. The gauge climbs and Heirloom withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -305,32 +305,32 @@ The room repeats your footsteps before you take them. Then it repeats your voice
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: An empty chamber that echoes with burning voices. The room appears larger whenever the Echo repeats. Notable Features: Its sound spreads without distance, burns memories, and consumes its own source. Identification Profile: The record classifies The. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Place-Void form.
+**At first contact:** A hot empty room full of voices, none of which is coming from anywhere. They are angry and they are not angry at you, and within a minute most observers have stopped looking for the speakers and started listening for a name.
 
-**With continued exposure:** Sustained contact reveals the entity's rhythm — the Grudge pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
+**With continued exposure:** You begin to hear the drift: the same grievance, further and further from its particulars, until the last version has nobody in it at all. Understanding the sequence does not make the fortieth minute easier and several observers have said it makes it worse.
 
 **When the entity activates:** Activation reshapes the room. The Grudge that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.
 
-**After departure:** Departure is not relief. The Place-Void is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** You find yourself certain about an old family matter you were only ever told about. It fades over a day or two. The vault asks observers not to telephone anybody that evening and has made that a written instruction since Year 4,231.
 
 ### Interaction Pattern
 
-Heirloom does not exist in isolation. Its recorded relationships with The Rusted Whisper, The Wrath Flame, The Hollow Choir should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all of them sound, and all measured the same way: pins before, pins after, voices counted in between. Two changed nothing. The third did something nobody has been able to repeat and the vault has not scheduled a fourth session.
 
 **Interaction method:** Solo baselines first; they are the control group and without them an interaction study here is a rumour with a timestamp. The relations recorded for this holding all carry something forward on behalf of someone who is gone, so the question to be settled is whether the inheritance transfers — whether the chamber begins repeating a second entity's grievance, and whether the wall survey moves in the fortnight afterwards. Log the activating distance, duration, gauge change on both sides, operational impact, and whether separation ends it. Each pairing is a fresh experiment: identical entities in identical conditions have responded differently across consecutive cycles in this vault.
 
 
 ### Entity Interaction Record
 
-Heirloom must be assessed as one of a group of sorrows that outlive their owners and travel by being passed on, rather than as an isolated chamber in a vault. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that only shows under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+Ten sessions across three holdings, run under full voice discipline, with the wall survey taken before each and again a week after. The table records what each party brought and what the chamber did about it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Rusted Whisper** | Carries the Echo's burned fragments. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Wrath Flame** | Gives it heat but not its original fury. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Choir** | Can divide the Echo into individual voices. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Rusted Whisper** | Carries fragments that match this chamber's voices word for word. | Four sessions. No growth, no change in voice count, and one documentary result: two of the Whisper's fragments contain a family name, which the chamber's own voices never do. The names went to the recitation books and not into the room. | Both sets transcribed, the pin figures, and where any name was recorded. |
+| **The Wrath Flame** | Raises the chamber's temperature and nothing else. | Three sessions. Heat up by eleven degrees, voice count unchanged, walls unchanged. The vault's note is that this holding has heat without fury and that the Flame supplies the wrong half. | Temperature, voice count, pin figures. |
+| **The Hollow Choir** | Separates the echo into individual voices — the only thing that has ever done so. | Three sessions. On the second, eleven distinct voices were counted and one of them said a name. The chamber did not grow that week or the next. The third session produced nothing and no fourth has been scheduled, the vault's reason being that it does not know what a second name would cost. | Every voice counted and transcribed separately, the pins for a month afterward, and the name sealed. |
 
-**Interaction procedure:** Baseline both parties alone, bring them into range under voice discipline, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on the chamber, and whatever persists after separation. The field this holding adds is the wall survey, taken before the pairing and again at the end of the following week, because this entity records interactions in its own dimensions.
+**Interaction procedure:** Full voice discipline, one designated speaker, doors shut outward. Survey before the pairing and again a week after, because this chamber records what happens to it in its own dimensions and does so slowly — three of the ten sessions showed nothing on the day and something seven days later.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -362,17 +362,17 @@ Some sorrows mourn a wrong. Heirloom mourns the forgetting of the wrong — the 
 **Common Name:** Heirloom
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Critical by grade and slow by nature. Eleven years, 211 watches, 38 strikes, no fatalities, no hospitalisation — and 1.3 metres of vault consumed, none of it recoverable.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Viderehan shows the spread; Ferrehan outlasts it in about forty minutes. Attribute everything.
 - Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Unattributed repetition is the trigger; the sound stops at any door already shut.
 **Observation Notes:**
-- See Origin section for formation and event details.
+- Four recitation books a generation apart, the last of them naming nobody and nine words shorter.
 - See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
+- Taken from the sound; the set repeats the wielder's words and binds them to quarrels they did not start.
+**Cross-References:** The Rusted Whisper (two family names recovered), The Wrath Flame, The Hollow Choir (no fourth session), the four recitation books, and the sealed name from the second Choir session.
+**Faction Involvement:** Judexhan hold the δ-grade standing order and have attended four watches. The Wound Walkers requested access in Year 4,234 on Fracture grounds and were refused; the vault's refusal cites the one rule this holding has, which is that nothing said in the chamber leaves it.
 **Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
@@ -423,10 +423,10 @@ Reference marks are cut rather than painted, shallow and small, and each carries
 
 ### Registry Trivia
 
-- **Classification detail:** Heirloom is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone A, Alpha Tree vault.
+- **Classification detail:** Entity (IV) coherence at Critical (δ) — a family, then a street, then a district, with no owner left anywhere in it. The grade has been reviewed twice and raised once, in Year 4,231, on the survey figures alone.
+- **Field detail:** Grudge, in the Alpha Tree vault in Zone A, worked from four survey pins outside a door that is kept shut.
 - **Recognition detail:** Identify it by the emptiness and the measurements. Several holdings in the vault produce voices; this is the one with nothing in it, which is hot for no reason, and whose walls are further apart this month than last.
-- **Record detail:** Echo-form and inheritance-form entities are numerous in the archive and their common names overlap badly on a dispatch sheet. Confirm the designation and the manifestation before a cycle is booked, because the instructions diverge at the point that matters here — whether anything said in the room may be repeated outside it.
+- **Record detail:** Echo-forms and inheritance-forms overlap badly on a dispatch sheet and at least two of them are managed by repeating what they say to somebody who can act on it. Here nothing said in the room leaves it, ever, and the difference has already cost one refused access request.
 - **Containment detail:** Sealed does not mean silent, and on this holding the seal is close to decorative. The sound spreads without distance, so a sealed vault door filters volume and not reach; personnel two levels up have reported hearing their own anger returned to them in a corridor that shares no wall with the chamber. The containment that works is the voice discipline, which is to say a rule people have to keep choosing to obey.
 ## Document Information
 
